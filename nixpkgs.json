@@ -7292,92 +7292,92 @@
   "legacyPackages.x86_64-linux.astal.apps": {
     "description": "Astal module for application query",
     "pname": "astal-apps",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.astal3": {
     "description": "Astal module for GTK3 widgets",
     "pname": "astal-astal3",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.astal4": {
     "description": "Astal module for GTK4 widgets",
     "pname": "astal-astal4",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.auth": {
     "description": "Astal module for authentication using pam",
     "pname": "astal-auth",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.battery": {
     "description": "Astal module for upowerd devices (DBus proxy)",
     "pname": "astal-battery",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.bluetooth": {
     "description": "Astal module for bluez using DBus",
     "pname": "astal-bluetooth",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.cava": {
     "description": "Astal module for audio visualization using cava",
     "pname": "astal-cava",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.gjs": {
     "description": "Astal module for GJS",
     "pname": "astal-gjs",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.greet": {
     "description": "Astal module for greetd using IPC",
     "pname": "astal-greet",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.hyprland": {
     "description": "Astal module for Hyprland using IPC",
     "pname": "astal-hyprland",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.io": {
     "description": "Astal core library",
     "pname": "astal-io",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.mpris": {
     "description": "Astal module for mpris players",
     "pname": "astal-mpris",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.network": {
     "description": "Astal module for NetworkManager",
     "pname": "astal-network",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.notifd": {
     "description": "Astal module for notification daemon",
     "pname": "astal-notifd",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.powerprofiles": {
     "description": "Astal module for upowerd profiles using DBus",
     "pname": "astal-powerprofiles",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.river": {
     "description": "Astal module for River using IPC",
     "pname": "astal-river",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.tray": {
     "description": "Astal module for StatusNotifierItem",
     "pname": "astal-tray",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astal.wireplumber": {
     "description": "Astal module for wireplumber",
     "pname": "astal-wireplumber",
-    "version": "0-unstable-2025-02-20"
+    "version": "0-unstable-2025-03-07"
   },
   "legacyPackages.x86_64-linux.astartectl": {
     "description": "Astarte command line client utility",
@@ -7612,7 +7612,7 @@
   "legacyPackages.x86_64-linux.atlas": {
     "description": "Modern tool for managing database schemas",
     "pname": "atlas",
-    "version": "0.31.0"
+    "version": "0.32.0"
   },
   "legacyPackages.x86_64-linux.atlassian-cli": {
     "description": "Integrated family of CLI’s for various Atlassian applications",
@@ -7747,7 +7747,7 @@
   "legacyPackages.x86_64-linux.audacity": {
     "description": "Sound editor with graphical UI",
     "pname": "audacity",
-    "version": "3.7.1"
+    "version": "3.7.2"
   },
   "legacyPackages.x86_64-linux.audiality2": {
     "description": "Realtime scripted modular audio engine for video games and musical applications",
@@ -9832,7 +9832,7 @@
   "legacyPackages.x86_64-linux.balena-cli": {
     "description": "Command line interface for balenaCloud or openBalena",
     "pname": "balena-cli",
-    "version": "20.2.7"
+    "version": "20.2.10"
   },
   "legacyPackages.x86_64-linux.ballerburg": {
     "description": "Classic cannon combat game",
@@ -13022,7 +13022,7 @@
   "legacyPackages.x86_64-linux.borgmatic": {
     "description": "Simple, configuration-driven backup software for servers and workstations",
     "pname": "borgmatic",
-    "version": "1.9.12"
+    "version": "1.9.13"
   },
   "legacyPackages.x86_64-linux.boringssl": {
     "description": "Free TLS/SSL implementation",
@@ -13907,7 +13907,7 @@
   "legacyPackages.x86_64-linux.buf": {
     "description": "Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices",
     "pname": "buf",
-    "version": "1.50.0"
+    "version": "1.50.1"
   },
   "legacyPackages.x86_64-linux.buffer": {
     "description": "Minimal editing space for all those things that don't need keeping",
@@ -20607,12 +20607,12 @@
   "legacyPackages.x86_64-linux.chromedriver": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "chromedriver-unwrapped",
-    "version": "134.0.6998.35"
+    "version": "134.0.6998.88"
   },
   "legacyPackages.x86_64-linux.chromium": {
     "description": "Open source web browser from Google",
     "pname": "chromium",
-    "version": "134.0.6998.35"
+    "version": "134.0.6998.88"
   },
   "legacyPackages.x86_64-linux.chromium-bsu": {
     "description": "Fast paced, arcade-style, top-scrolling space shooter",
@@ -21752,7 +21752,7 @@
   "legacyPackages.x86_64-linux.clorinde": {
     "description": "Generate type-checked Rust from your PostgreSQL",
     "pname": "clorinde",
-    "version": "0.13.1"
+    "version": "0.13.2"
   },
   "legacyPackages.x86_64-linux.closurecompiler": {
     "description": "Tool for making JavaScript download and run faster",
@@ -23242,7 +23242,7 @@
   "legacyPackages.x86_64-linux.containerlab": {
     "description": "Container-based networking lab",
     "pname": "containerlab",
-    "version": "0.65.1"
+    "version": "0.66.0"
   },
   "legacyPackages.x86_64-linux.contour": {
     "description": "Modern C++ Terminal Emulator",
@@ -29312,12 +29312,12 @@
   "legacyPackages.x86_64-linux.deltachat-repl": {
     "description": "Delta Chat CLI client",
     "pname": "deltachat-repl",
-    "version": "1.156.2"
+    "version": "1.156.3"
   },
   "legacyPackages.x86_64-linux.deltachat-rpc-server": {
     "description": "Delta Chat RPC server exposing JSON-RPC core API over standard I/O",
     "pname": "deltachat-rpc-server",
-    "version": "1.156.2"
+    "version": "1.156.3"
   },
   "legacyPackages.x86_64-linux.deltatouch": {
     "description": "Messaging app for Ubuntu Touch, powered by Delta Chat core",
@@ -29442,12 +29442,12 @@
   "legacyPackages.x86_64-linux.descent3": {
     "description": "Game engine for a 6DOF first-person shooter",
     "pname": "descent3",
-    "version": "1.5.0-beta-unstable-2025-02-13"
+    "version": "1.5.0-beta-unstable-2025-03-06"
   },
   "legacyPackages.x86_64-linux.descent3-unwrapped": {
     "description": "Game engine for a 6DOF first-person shooter",
     "pname": "descent3-unwrapped",
-    "version": "1.5.0-beta-unstable-2025-02-13"
+    "version": "1.5.0-beta-unstable-2025-03-06"
   },
   "legacyPackages.x86_64-linux.desed": {
     "description": "Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal",
@@ -42167,7 +42167,7 @@
   "legacyPackages.x86_64-linux.gcli": {
     "description": "Portable Git(Hub|Lab|ea) CLI tool",
     "pname": "gcli",
-    "version": "2.6.1"
+    "version": "2.7.0"
   },
   "legacyPackages.x86_64-linux.gcolor3": {
     "description": "Simple color chooser written in GTK3",
@@ -64227,7 +64227,7 @@
   "legacyPackages.x86_64-linux.imagemagick": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
     "pname": "imagemagick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.imagemagick6": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
@@ -64247,12 +64247,12 @@
   "legacyPackages.x86_64-linux.imagemagickBig": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
     "pname": "imagemagick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.imagemagick_light": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
     "pname": "imagemagick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.imageworsener": {
     "description": "Raster image scaling and processing utility",
@@ -66832,7 +66832,7 @@
   "legacyPackages.x86_64-linux.jboss_mysql_jdbc": {
     "description": "MySQL Connector/J",
     "pname": "jboss-mysql-jdbc",
-    "version": "9.1.0"
+    "version": "9.2.0"
   },
   "legacyPackages.x86_64-linux.jbrowse": {
     "description": "Next-generation genome browser",
@@ -68749,11 +68749,6 @@
     "pname": "kanidm-with-secret-provisioning",
     "version": "1.5.0"
   },
-  "legacyPackages.x86_64-linux.kanidmWithSecretProvisioning_1_3": {
-    "description": "Simple, secure and fast identity management platform",
-    "pname": "kanidm-with-secret-provisioning",
-    "version": "1.3.3"
-  },
   "legacyPackages.x86_64-linux.kanidmWithSecretProvisioning_1_4": {
     "description": "Simple, secure and fast identity management platform",
     "pname": "kanidm-with-secret-provisioning",
@@ -68763,11 +68758,6 @@
     "description": "Simple, secure and fast identity management platform",
     "pname": "kanidm-with-secret-provisioning",
     "version": "1.5.0"
-  },
-  "legacyPackages.x86_64-linux.kanidm_1_3": {
-    "description": "Simple, secure and fast identity management platform",
-    "pname": "kanidm",
-    "version": "1.3.3"
   },
   "legacyPackages.x86_64-linux.kanidm_1_4": {
     "description": "Simple, secure and fast identity management platform",
@@ -71647,7 +71637,7 @@
   "legacyPackages.x86_64-linux.kdePackages.waylib": {
     "description": "Wrapper for wlroots based on Qt",
     "pname": "waylib",
-    "version": "0.6.11"
+    "version": "0.6.12"
   },
   "legacyPackages.x86_64-linux.kdePackages.wayqt": {
     "description": "Qt-based library to handle Wayland and Wlroots protocols to be used with any Qt project",
@@ -73372,7 +73362,7 @@
   "legacyPackages.x86_64-linux.kotlin": {
     "description": "General purpose programming language",
     "pname": "kotlin",
-    "version": "2.1.0"
+    "version": "2.1.10"
   },
   "legacyPackages.x86_64-linux.kotlin-interactive-shell": {
     "description": "Kotlin Language Interactive Shell",
@@ -76497,7 +76487,7 @@
   "legacyPackages.x86_64-linux.libdeltachat": {
     "description": "Delta Chat Rust Core library",
     "pname": "libdeltachat",
-    "version": "1.156.2"
+    "version": "1.156.3"
   },
   "legacyPackages.x86_64-linux.libdevil": {
     "description": "Image library which can can load, save, convert, manipulate, filter and display a wide variety of image formats",
@@ -130501,8 +130491,8 @@
   },
   "legacyPackages.x86_64-linux.mdk4": {
     "description": "Tool that injects data into wireless networks",
-    "pname": "mdk4-unstable",
-    "version": "2021-04-27"
+    "pname": "mdk4",
+    "version": "4.2-unstable-2024-08-16"
   },
   "legacyPackages.x86_64-linux.mdl": {
     "description": "Tool to check markdown files and flag style issues",
@@ -135832,7 +135822,7 @@
   "legacyPackages.x86_64-linux.mysql_jdbc": {
     "description": "MySQL Connector/J",
     "pname": "mysql-connector-java",
-    "version": "9.1.0"
+    "version": "9.2.0"
   },
   "legacyPackages.x86_64-linux.mysqltuner": {
     "description": "Make recommendations for increased performance and stability of MariaDB/MySQL",
@@ -141477,12 +141467,12 @@
   "legacyPackages.x86_64-linux.ocamlPackages.awa": {
     "description": "SSH implementation in OCaml",
     "pname": "ocaml5.2.1-awa",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.awa-mirage": {
     "description": "SSH implementation in OCaml",
     "pname": "ocaml5.2.1-awa-mirage",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.b0": {
     "description": "Software construction and deployment kit",
@@ -141687,7 +141677,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.ca-certs-nss": {
     "description": "X.509 trust anchors extracted from Mozilla's NSS",
     "pname": "ocaml5.2.1-ca-certs-nss",
-    "version": "3.108"
+    "version": "3.108-1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.cairo2": {
     "description": "Binding to Cairo, a 2D Vector Graphics Library",
@@ -141932,27 +141922,27 @@
   "legacyPackages.x86_64-linux.ocamlPackages.conduit": {
     "description": "Network connection establishment library",
     "pname": "ocaml5.2.1-conduit",
-    "version": "7.1.0"
+    "version": "8.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.conduit-async": {
     "description": "Network connection establishment library for Async",
     "pname": "ocaml5.2.1-conduit-async",
-    "version": "7.1.0"
+    "version": "8.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.conduit-lwt": {
     "description": "Network connection establishment library for Lwt",
     "pname": "ocaml5.2.1-conduit-lwt",
-    "version": "7.1.0"
+    "version": "8.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.conduit-lwt-unix": {
     "description": "Network connection establishment library for Lwt_unix",
     "pname": "ocaml5.2.1-conduit-lwt-unix",
-    "version": "7.1.0"
+    "version": "8.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.conduit-mirage": {
     "description": "Network connection establishment library for MirageOS",
     "pname": "ocaml5.2.1-conduit-mirage",
-    "version": "7.1.0"
+    "version": "8.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.config": {
     "description": "Ergonomic, lightweight conditional compilation through attributes",
@@ -142192,62 +142182,62 @@
   "legacyPackages.x86_64-linux.ocamlPackages.dns": {
     "description": "Domain Name System (DNS) library",
     "pname": "ocaml5.2.1-dns",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-certify": {
     "description": "MirageOS let's encrypt certificate retrieval",
     "pname": "ocaml5.2.1-dns-certify",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-cli": {
     "description": "Unix command line utilities using uDNS",
     "pname": "ocaml5.2.1-dns-cli",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-client": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.2.1-dns-client",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-client-lwt": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.2.1-dns-client-lwt",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-client-mirage": {
     "description": "Pure DNS resolver API",
     "pname": "ocaml5.2.1-dns-client-mirage",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-mirage": {
     "description": "Opinionated Domain Name System (DNS) library",
     "pname": "ocaml5.2.1-dns-mirage",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-resolver": {
     "description": "DNS resolver business logic",
     "pname": "ocaml5.2.1-dns-resolver",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-server": {
     "description": "DNS server, primary and secondary",
     "pname": "ocaml5.2.1-dns-server",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-stub": {
     "description": "DNS stub resolver",
     "pname": "ocaml5.2.1-dns-stub",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dns-tsig": {
     "description": "TSIG support for DNS",
     "pname": "ocaml5.2.1-dns-tsig",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dnssec": {
     "description": "DNSSec support for OCaml-DNS",
     "pname": "ocaml5.2.1-dnssec",
-    "version": "9.1.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dolmen": {
     "description": "OCaml library providing clean and flexible parsers for input languages",
@@ -142807,22 +142797,22 @@
   "legacyPackages.x86_64-linux.ocamlPackages.git": {
     "description": "Git format and protocol in pure OCaml",
     "pname": "ocaml5.2.1-git",
-    "version": "3.17.0"
+    "version": "3.18.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.git-mirage": {
     "description": "Package to use ocaml-git with MirageOS backend",
     "pname": "ocaml5.2.1-git-mirage",
-    "version": "3.17.0"
+    "version": "3.18.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.git-paf": {
     "description": "Package to use HTTP-based ocaml-git with MirageOS backend",
     "pname": "ocaml5.2.1-git-paf",
-    "version": "3.17.0"
+    "version": "3.18.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.git-unix": {
     "description": "Unix backend for the Git protocol(s)",
     "pname": "ocaml5.2.1-git-unix",
-    "version": "3.17.0"
+    "version": "3.18.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.github": {
     "description": "GitHub APIv3 OCaml library",
@@ -142949,6 +142939,11 @@
     "pname": "ocaml5.2.1-gstreamer",
     "version": "0.3.1"
   },
+  "legacyPackages.x86_64-linux.ocamlPackages.h1": {
+    "description": "A high-performance, memory-efficient, and scalable web server for OCaml",
+    "pname": "ocaml5.2.1-h1",
+    "version": "1.0.0"
+  },
   "legacyPackages.x86_64-linux.ocamlPackages.h2": {
     "description": "High-performance, memory-efficient, and scalable HTTP/2 library for OCaml",
     "pname": "ocaml5.2.1-h2",
@@ -142987,17 +142982,17 @@
   "legacyPackages.x86_64-linux.ocamlPackages.happy-eyeballs": {
     "description": "Connecting to a remote host via IP version 4 or 6",
     "pname": "ocaml5.2.1-happy-eyeballs",
-    "version": "1.2.2"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.happy-eyeballs-lwt": {
     "description": "Connecting to a remote host via IP version 4 or 6 using Lwt_unix",
     "pname": "ocaml5.2.1-happy-eyeballs-lwt",
-    "version": "1.2.2"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.happy-eyeballs-mirage": {
     "description": "Connecting to a remote host via IP version 4 or 6 using Mirage",
     "pname": "ocaml5.2.1-happy-eyeballs-mirage",
-    "version": "1.2.2"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.hashcons": {
     "description": "OCaml hash-consing library",
@@ -143052,7 +143047,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.http-mirage-client": {
     "description": "HTTP client for MirageOS",
     "pname": "ocaml5.2.1-http-mirage-client",
-    "version": "0.0.8"
+    "version": "0.0.10"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.httpaf": {
     "description": "High-performance, memory-efficient, and scalable web server for OCaml",
@@ -143522,22 +143517,22 @@
   "legacyPackages.x86_64-linux.ocamlPackages.letsencrypt": {
     "description": "ACME implementation in OCaml",
     "pname": "ocaml5.2.1-letsencrypt",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.letsencrypt-app": {
     "description": "ACME client implementation of the ACME protocol (RFC 8555) for OCaml",
     "pname": "ocaml5.2.1-letsencrypt-app",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.letsencrypt-dns": {
     "description": "DNS solver for the ACME implementation in OCaml",
     "pname": "ocaml5.2.1-letsencrypt-dns",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.letsencrypt-mirage": {
     "description": "ACME implementation in OCaml for MirageOS",
     "pname": "ocaml5.2.1-letsencrypt-mirage",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.libc": {
     "description": "Raw definitions and bindings to platforms system libraries",
@@ -144687,12 +144682,12 @@
   "legacyPackages.x86_64-linux.ocamlPackages.paf": {
     "description": "HTTP/AF and MirageOS",
     "pname": "ocaml5.2.1-paf",
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.paf-cohttp": {
     "description": "CoHTTP client with its HTTP/AF implementation",
     "pname": "ocaml5.2.1-paf-cohttp",
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.parany": {
     "description": "Generalized map/reduce for multicore computing",
@@ -148067,7 +148062,7 @@
   "legacyPackages.x86_64-linux.openapi-tui": {
     "description": "Terminal UI to list, browse and run APIs defined with openapi spec",
     "pname": "openapi-tui",
-    "version": "0.10.0"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.openarena": {
     "description": "Fast-paced 3D first-person shooter, similar to id Software Inc.'s Quake III Arena",
@@ -148622,7 +148617,7 @@
   "legacyPackages.x86_64-linux.openloco": {
     "description": "Open source re-implementation of Chris Sawyer's Locomotion",
     "pname": "openloco",
-    "version": "24.04"
+    "version": "25.02"
   },
   "legacyPackages.x86_64-linux.openmesh": {
     "description": "Generic and efficient polygon mesh data structure",
@@ -150282,7 +150277,7 @@
   "legacyPackages.x86_64-linux.otpauth": {
     "description": "Google Authenticator migration decoder",
     "pname": "otpauth",
-    "version": "0.5.3"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.otpclient": {
     "description": "Highly secure and easy to use OTP client written in C/GTK that supports both TOTP and HOTP",
@@ -150427,7 +150422,7 @@
   "legacyPackages.x86_64-linux.ovn": {
     "description": "Open Virtual Network",
     "pname": "ovn",
-    "version": "24.09.2"
+    "version": "25.03.0"
   },
   "legacyPackages.x86_64-linux.owamp": {
     "description": "Tool for performing one-way active measurements",
@@ -157307,7 +157302,7 @@
   "legacyPackages.x86_64-linux.perl538Packages.ImageMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.38.2-Image-Magick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.perl538Packages.ImageOCRTesseract": {
     "description": "Read an image with tesseract ocr and get output",
@@ -159767,7 +159762,7 @@
   "legacyPackages.x86_64-linux.perl538Packages.PerlMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.38.2-Image-Magick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.perl538Packages.PerlMinimumVersion": {
     "description": "Find a minimum required version of perl for Perl code",
@@ -167027,7 +167022,7 @@
   "legacyPackages.x86_64-linux.perl540Packages.ImageMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.perl540Packages.ImageOCRTesseract": {
     "description": "Read an image with tesseract ocr and get output",
@@ -169487,7 +169482,7 @@
   "legacyPackages.x86_64-linux.perl540Packages.PerlMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.perl540Packages.PerlMinimumVersion": {
     "description": "Find a minimum required version of perl for Perl code",
@@ -176742,7 +176737,7 @@
   "legacyPackages.x86_64-linux.perlPackages.ImageMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.perlPackages.ImageOCRTesseract": {
     "description": "Read an image with tesseract ocr and get output",
@@ -179202,7 +179197,7 @@
   "legacyPackages.x86_64-linux.perlPackages.PerlMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-44"
+    "version": "7.1.1-45"
   },
   "legacyPackages.x86_64-linux.perlPackages.PerlMinimumVersion": {
     "description": "Find a minimum required version of perl for Perl code",
@@ -189582,7 +189577,7 @@
   "legacyPackages.x86_64-linux.pltScheme": {
     "description": "Programmable programming language",
     "pname": "racket",
-    "version": "8.15"
+    "version": "8.16"
   },
   "legacyPackages.x86_64-linux.plugdata": {
     "description": "Plugin wrapper around Pure Data to allow patching in a wide selection of DAWs",
@@ -189907,7 +189902,7 @@
   "legacyPackages.x86_64-linux.podman-desktop": {
     "description": "A graphical tool for developing on containers and Kubernetes",
     "pname": "podman-desktop",
-    "version": "1.16.2"
+    "version": "1.17.1"
   },
   "legacyPackages.x86_64-linux.podman-tui": {
     "description": "Podman Terminal UI",
@@ -205127,12 +205122,12 @@
   "legacyPackages.x86_64-linux.python312Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.12-deltachat",
-    "version": "1.156.2"
+    "version": "1.156.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.12-deltachat-rpc-client",
-    "version": "1.156.2"
+    "version": "1.156.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -207787,7 +207782,7 @@
   "legacyPackages.x86_64-linux.python312Packages.enlighten": {
     "description": "Enlighten Progress Bar for Python Console Apps",
     "pname": "python3.12-enlighten",
-    "version": "1.13.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.enocean": {
     "description": "EnOcean serial protocol implementation",
@@ -227432,7 +227427,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pykeepass": {
     "description": "Python library to interact with keepass databases (supports KDBX3 and KDBX4)",
     "pname": "python3.12-pykeepass",
-    "version": "4.1.0.post1"
+    "version": "4.1.1.post1"
   },
   "legacyPackages.x86_64-linux.python312Packages.pykerberos": {
     "description": "High-level interface to Kerberos",
@@ -227517,7 +227512,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pylance": {
     "description": "Python wrapper for Lance columnar format",
     "pname": "python3.12-pylance",
-    "version": "0.24.0"
+    "version": "0.24.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.pylast": {
     "description": "Python interface to last.fm (and compatibles)",
@@ -234452,7 +234447,7 @@
   "legacyPackages.x86_64-linux.python312Packages.scalene": {
     "description": "High-resolution, low-overhead CPU, GPU, and memory profiler for Python with AI-powered optimization suggestions",
     "pname": "python3.12-scalene",
-    "version": "1.5.51"
+    "version": "1.5.52"
   },
   "legacyPackages.x86_64-linux.python312Packages.scales": {
     "description": "Stats for Python processes",
@@ -237762,7 +237757,7 @@
   "legacyPackages.x86_64-linux.python312Packages.syrupy": {
     "description": "Pytest Snapshot Test Utility",
     "pname": "python3.12-syrupy",
-    "version": "4.8.2"
+    "version": "4.9.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.syslog-rfc5424-formatter": {
     "description": "Python logging formatter for emitting RFC5424 Syslog messages",
@@ -252837,12 +252832,12 @@
   "legacyPackages.x86_64-linux.python313Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.13-deltachat",
-    "version": "1.156.2"
+    "version": "1.156.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.13-deltachat-rpc-client",
-    "version": "1.156.2"
+    "version": "1.156.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -255497,7 +255492,7 @@
   "legacyPackages.x86_64-linux.python313Packages.enlighten": {
     "description": "Enlighten Progress Bar for Python Console Apps",
     "pname": "python3.13-enlighten",
-    "version": "1.13.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.enocean": {
     "description": "EnOcean serial protocol implementation",
@@ -275142,7 +275137,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pykeepass": {
     "description": "Python library to interact with keepass databases (supports KDBX3 and KDBX4)",
     "pname": "python3.13-pykeepass",
-    "version": "4.1.0.post1"
+    "version": "4.1.1.post1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pykerberos": {
     "description": "High-level interface to Kerberos",
@@ -275227,7 +275222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pylance": {
     "description": "Python wrapper for Lance columnar format",
     "pname": "python3.13-pylance",
-    "version": "0.24.0"
+    "version": "0.24.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pylast": {
     "description": "Python interface to last.fm (and compatibles)",
@@ -282162,7 +282157,7 @@
   "legacyPackages.x86_64-linux.python313Packages.scalene": {
     "description": "High-resolution, low-overhead CPU, GPU, and memory profiler for Python with AI-powered optimization suggestions",
     "pname": "python3.13-scalene",
-    "version": "1.5.51"
+    "version": "1.5.52"
   },
   "legacyPackages.x86_64-linux.python313Packages.scales": {
     "description": "Stats for Python processes",
@@ -285497,7 +285492,7 @@
   "legacyPackages.x86_64-linux.python313Packages.syrupy": {
     "description": "Pytest Snapshot Test Utility",
     "pname": "python3.13-syrupy",
-    "version": "4.8.2"
+    "version": "4.9.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.syslog-rfc5424-formatter": {
     "description": "Python logging formatter for emitting RFC5424 Syslog messages",
@@ -292892,12 +292887,12 @@
   "legacyPackages.x86_64-linux.qgis": {
     "description": "Free and Open Source Geographic Information System",
     "pname": "qgis",
-    "version": "3.40.3"
+    "version": "3.42.0"
   },
   "legacyPackages.x86_64-linux.qgis-ltr": {
     "description": "Free and Open Source Geographic Information System",
     "pname": "qgis",
-    "version": "3.34.15"
+    "version": "3.40.4"
   },
   "legacyPackages.x86_64-linux.qgit": {
     "description": "Graphical front-end to Git",
@@ -294197,7 +294192,7 @@
   "legacyPackages.x86_64-linux.qt6Packages.waylib": {
     "description": "Wrapper for wlroots based on Qt",
     "pname": "waylib",
-    "version": "0.6.11"
+    "version": "0.6.12"
   },
   "legacyPackages.x86_64-linux.qt6Packages.wayqt": {
     "description": "Qt-based library to handle Wayland and Wlroots protocols to be used with any Qt project",
@@ -294817,12 +294812,12 @@
   "legacyPackages.x86_64-linux.racket": {
     "description": "Programmable programming language",
     "pname": "racket",
-    "version": "8.15"
+    "version": "8.16"
   },
   "legacyPackages.x86_64-linux.racket-minimal": {
     "description": "Programmable programming language (minimal distribution)",
     "pname": "racket",
-    "version": "8.15"
+    "version": "8.16"
   },
   "legacyPackages.x86_64-linux.radamsa": {
     "description": "General purpose fuzzer",
@@ -310347,7 +310342,7 @@
   "legacyPackages.x86_64-linux.rzls": {
     "description": "Razor language server",
     "pname": "rzls",
-    "version": "9.0.0-preview.25073.1"
+    "version": "9.0.0-preview.25156.2"
   },
   "legacyPackages.x86_64-linux.s-tar": {
     "description": "Very fast tar like tape archiver with improved functionality",
@@ -334717,7 +334712,7 @@
   "legacyPackages.x86_64-linux.scalene": {
     "description": "High-resolution, low-overhead CPU, GPU, and memory profiler for Python with AI-powered optimization suggestions",
     "pname": "scalene",
-    "version": "1.5.51"
+    "version": "1.5.52"
   },
   "legacyPackages.x86_64-linux.scaleway-cli": {
     "description": "Interact with Scaleway API from the command line",
@@ -342282,7 +342277,7 @@
   "legacyPackages.x86_64-linux.svd2rust": {
     "description": "Generate Rust register maps (`struct`s) from SVD files",
     "pname": "svd2rust",
-    "version": "0.35.0"
+    "version": "0.36.0"
   },
   "legacyPackages.x86_64-linux.svdtools": {
     "description": "Tools to handle vendor-supplied, often buggy SVD files",
@@ -371062,7 +371057,7 @@
   "legacyPackages.x86_64-linux.tomcat_mysql_jdbc": {
     "description": "",
     "pname": "tomcat-mysql-jdbc",
-    "version": "9.1.0"
+    "version": "9.2.0"
   },
   "legacyPackages.x86_64-linux.tome2": {
     "description": "A dungeon crawler similar to Angband, based on the works of Tolkien",
@@ -373797,7 +373792,7 @@
   "legacyPackages.x86_64-linux.tytools": {
     "description": "Collection of tools to manage Teensy boards",
     "pname": "tytools",
-    "version": "0.9.9"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.tz": {
     "description": "Time zone helper",
@@ -374987,7 +374982,7 @@
   "legacyPackages.x86_64-linux.undetected-chromedriver": {
     "description": "Custom Selenium ChromeDriver that passes all bot mitigation systems",
     "pname": "undetected-chromedriver",
-    "version": "134.0.6998.35"
+    "version": "134.0.6998.88"
   },
   "legacyPackages.x86_64-linux.undistract-me": {
     "description": "Notifies you when long-running terminal commands complete",
@@ -388967,7 +388962,7 @@
   "legacyPackages.x86_64-linux.vscode": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode",
-    "version": "1.98.0"
+    "version": "1.98.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.13xforever.language-x86-64-assembly": {
     "description": "Cutting edge x86 and x86_64 assembly syntax highlighting",
@@ -389037,12 +389032,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.alefragnani.bookmarks": {
     "description": "",
     "pname": "vscode-extension-alefragnani-bookmarks",
-    "version": "13.3.1"
+    "version": "13.5.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.alefragnani.project-manager": {
     "description": "",
     "pname": "vscode-extension-alefragnani-project-manager",
-    "version": "12.7.0"
+    "version": "12.8.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.alexdima.copy-relative-path": {
     "description": "",
@@ -389062,7 +389057,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.angular.ng-template": {
     "description": "Editor services for Angular templates",
     "pname": "vscode-extension-Angular-ng-template",
-    "version": "15.2.0"
+    "version": "19.2.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.antfu.icons-carbon": {
     "description": "",
@@ -389087,7 +389082,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.apollographql.vscode-apollo": {
     "description": "Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform",
     "pname": "vscode-extension-apollographql-vscode-apollo",
-    "version": "2.3.6"
+    "version": "2.5.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.arcticicestudio.nord-visual-studio-code": {
     "description": "Arctic, north-bluish clean and elegant Visual Studio Code theme",
@@ -389122,7 +389117,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.asvetliakov.vscode-neovim": {
     "description": "Vim-mode for VS Code using embedded Neovim",
     "pname": "vscode-extension-asvetliakov-vscode-neovim",
-    "version": "1.18.17"
+    "version": "1.18.18"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.attilabuti.brainfuck-syntax": {
     "description": "VSCode extension providing syntax highlighting support for Brainfuck",
@@ -389152,17 +389147,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ban.spellright": {
     "description": "Visual Studio Code extension for Spellchecker",
     "pname": "vscode-extension-ban-spellright",
-    "version": "3.0.112"
+    "version": "3.0.142"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.banacorn.agda-mode": {
     "description": "agda-mode on VS Code",
     "pname": "vscode-extension-banacorn-agda-mode",
-    "version": "0.4.7"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.batisteo.vscode-django": {
     "description": "Django extension for Visual Studio Code",
     "pname": "vscode-extension-batisteo-vscode-django",
-    "version": "1.10.0"
+    "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.bazelbuild.vscode-bazel": {
     "description": "Bazel support for Visual Studio Code",
@@ -389192,7 +389187,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.bierner.docs-view": {
     "description": "VSCode extension that displays documentation in the sidebar or panel",
     "pname": "vscode-extension-bierner-docs-view",
-    "version": "0.0.11"
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.bierner.emojisense": {
     "description": "",
@@ -389222,17 +389217,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.bierner.markdown-mermaid": {
     "description": "Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview",
     "pname": "vscode-extension-bierner-markdown-mermaid",
-    "version": "1.23.1"
+    "version": "1.27.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.bierner.markdown-preview-github-styles": {
     "description": "Changes VS Code's built-in markdown preview to match GitHub's styling",
     "pname": "vscode-extension-bierner-markdown-preview-github-styles",
-    "version": "2.0.4"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.biomejs.biome": {
     "description": "Biome LSP extension for Visual Studio Code",
     "pname": "vscode-extension-biomejs-biome",
-    "version": "2024.10.131712"
+    "version": "2025.2.72227"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.bmalehorn.vscode-fish": {
     "description": "Fish syntax highlighting and formatting for VS Code",
@@ -389257,7 +389252,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.bradlc.vscode-tailwindcss": {
     "description": "Tailwind CSS tooling for Visual Studio Code",
     "pname": "vscode-extension-bradlc-vscode-tailwindcss",
-    "version": "0.13.17"
+    "version": "0.14.8"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.brandonkirbyson.solarized-palenight": {
     "description": " A solarized-palenight theme for vscode",
@@ -389297,7 +389292,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.catppuccin.catppuccin-vsc": {
     "description": "Soothing pastel theme for VSCode",
     "pname": "vscode-extension-catppuccin-catppuccin-vsc",
-    "version": "3.14.0"
+    "version": "3.16.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.catppuccin.catppuccin-vsc-icons": {
     "description": "Soothing pastel icon theme for VSCode",
@@ -389337,7 +389332,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.christian-kohler.path-intellisense": {
     "description": "Visual Studio Code plugin that autocompletes filenames",
     "pname": "vscode-extension-christian-kohler-path-intellisense",
-    "version": "2.8.5"
+    "version": "2.10.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.cmschuetz12.wal": {
     "description": "",
@@ -389347,12 +389342,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.coder.coder-remote": {
     "description": "Extension for Visual Studio Code to open any Coder workspace in VS Code with a single click",
     "pname": "vscode-extension-coder-coder-remote",
-    "version": "0.1.36"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.codezombiech.gitignore": {
     "description": "",
     "pname": "vscode-extension-codezombiech-gitignore",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.colejcummins.llvm-syntax-highlighting": {
     "description": "Lightweight syntax highlighting for LLVM IR",
@@ -389377,7 +389372,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.csharpier.csharpier-vscode": {
     "description": "CSharpier code formatter for Visual Studio Code",
     "pname": "vscode-extension-csharpier-csharpier-vscode",
-    "version": "1.7.3"
+    "version": "2.0.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.cweijan.dbclient-jdbc": {
     "description": "JDBC Adapter For Database Client",
@@ -389387,12 +389382,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.cweijan.vscode-database-client2": {
     "description": "Database Client For Visual Studio Code",
     "pname": "vscode-extension-cweijan-vscode-database-client2",
-    "version": "6.3.0"
+    "version": "8.1.9"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.danielgavin.ols": {
     "description": "Visual Studio Code extension for Odin language",
     "pname": "vscode-extension-DanielGavin-ols",
-    "version": "0.1.28"
+    "version": "0.1.33"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.danielsanmedium.dscodegpt": {
     "description": "Easily connect to AI providers using their official APIs in VSCode",
@@ -389432,7 +389427,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.dbaeumer.vscode-eslint": {
     "description": "Integrates ESLint JavaScript into VS Code",
     "pname": "vscode-extension-dbaeumer-vscode-eslint",
-    "version": "3.0.10"
+    "version": "3.0.13"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.dendron.adjust-heading-level": {
     "description": "A VSCode extension to adjust the heading level of the selected text",
@@ -389462,7 +389457,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.denoland.vscode-deno": {
     "description": "Language server client for Deno",
     "pname": "vscode-extension-denoland-vscode-deno",
-    "version": "3.38.0"
+    "version": "3.43.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.devsense.composer-php-vscode": {
     "description": "Visual studio code extension for full development integration for Composer, the PHP package manager",
@@ -389497,7 +389492,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.discloud.discloud": {
     "description": "Visual Studio Code extension for hosting and managing applications on Discloud",
     "pname": "vscode-extension-discloud-discloud",
-    "version": "2.21.2"
+    "version": "2.22.30"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.disneystreaming.smithy": {
     "description": "",
@@ -389507,7 +389502,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.divyanshuagrawal.competitive-programming-helper": {
     "description": "Makes judging, compiling, and downloading problems for competitve programming easy. Also supports auto-submit for a few sites",
     "pname": "vscode-extension-DivyanshuAgrawal-competitive-programming-helper",
-    "version": "5.10.0"
+    "version": "2025.2.1739868073"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.donjayamanne.githistory": {
     "description": "View git log, file history, compare branches or commits",
@@ -389527,7 +389522,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.dracula-theme.theme-dracula": {
     "description": "Dark theme for many editors, shells, and more",
     "pname": "vscode-extension-dracula-theme-theme-dracula",
-    "version": "2.24.3"
+    "version": "2.25.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.eamodio.gitlens": {
     "description": "Visual Studio Code extension that improves its built-in Git capabilities",
@@ -389542,7 +389537,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ecmel.vscode-html-css": {
     "description": "CSS Intellisense for HTML",
     "pname": "vscode-extension-ecmel-vscode-html-css",
-    "version": "2.0.11"
+    "version": "2.0.13"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.editorconfig.editorconfig": {
     "description": "EditorConfig Support for Visual Studio Code",
@@ -389552,7 +389547,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.edonet.vscode-command-runner": {
     "description": "",
     "pname": "vscode-extension-edonet-vscode-command-runner",
-    "version": "0.0.123"
+    "version": "0.0.124"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.eg2.vscode-npm-script": {
     "description": "",
@@ -389577,7 +389572,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.emmanuelbeziat.vscode-great-icons": {
     "description": "",
     "pname": "vscode-extension-emmanuelbeziat-vscode-great-icons",
-    "version": "2.1.92"
+    "version": "2.1.115"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.emroussel.atomize-atom-one-dark-theme": {
     "description": "Detailed and accurate Atom One Dark theme for VSCode",
@@ -389612,17 +389607,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.file-icons.file-icons": {
     "description": "File-specific icons in VSCode for improved visual grepping",
     "pname": "vscode-extension-file-icons-file-icons",
-    "version": "1.0.29"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.fill-labs.dependi": {
     "description": "VSCode extension for managing dependencies and address vulnerabilities in Rust, Go, JavaScript, and Python projects",
     "pname": "vscode-extension-fill-labs-dependi",
-    "version": "0.7.10"
+    "version": "0.7.13"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.firefox-devtools.vscode-firefox-debug": {
     "description": "Visual Studio Code extension for debugging web applications and browser extensions in Firefox",
     "pname": "vscode-extension-firefox-devtools-vscode-firefox-debug",
-    "version": "2.9.10"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.firsttris.vscode-jest-runner": {
     "description": "Simple way to run or debug a single (or multiple) tests from context-menu",
@@ -389632,12 +389627,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.foam.foam-vscode": {
     "description": "Personal knowledge management and sharing system for VSCode ",
     "pname": "vscode-extension-foam-foam-vscode",
-    "version": "0.21.1"
+    "version": "0.26.7"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.formulahendry.auto-close-tag": {
     "description": "",
     "pname": "vscode-extension-formulahendry-auto-close-tag",
-    "version": "0.5.14"
+    "version": "0.5.15"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.formulahendry.auto-rename-tag": {
     "description": "",
@@ -389647,12 +389642,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.formulahendry.code-runner": {
     "description": "",
     "pname": "vscode-extension-formulahendry-code-runner",
-    "version": "0.12.0"
+    "version": "0.12.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.fortran-lang.linter-gfortran": {
     "description": "Fortran language support for Visual Studio Code",
     "pname": "vscode-extension-fortran-lang-linter-gfortran",
-    "version": "3.4.2024061701"
+    "version": "3.4.2025030111"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.foxundermoon.shell-format": {
     "description": "",
@@ -389712,12 +389707,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.github.github-vscode-theme": {
     "description": "GitHub theme for VS Code",
     "pname": "vscode-extension-github-github-vscode-theme",
-    "version": "6.3.4"
+    "version": "6.3.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.github.vscode-github-actions": {
     "description": "Visual Studio Code extension for GitHub Actions workflows and runs for github.com hosted repositories",
     "pname": "vscode-extension-github-vscode-github-actions",
-    "version": "0.26.3"
+    "version": "0.27.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.github.vscode-pull-request-github": {
     "description": "",
@@ -389727,7 +389722,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.gitlab.gitlab-workflow": {
     "description": "GitLab extension for Visual Studio Code",
     "pname": "vscode-extension-gitlab-gitlab-workflow",
-    "version": "5.13.0"
+    "version": "6.2.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.gleam.gleam": {
     "description": "Support for the Gleam programming language",
@@ -389737,17 +389732,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.golang.go": {
     "description": "Go extension for Visual Studio Code",
     "pname": "vscode-extension-golang-Go",
-    "version": "0.41.4"
+    "version": "0.47.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.grapecity.gc-excelviewer": {
     "description": "Edit Excel spreadsheets and CSV files in Visual Studio Code and VS Code for the Web",
     "pname": "vscode-extension-grapecity-gc-excelviewer",
-    "version": "4.2.56"
+    "version": "4.2.63"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.graphql.vscode-graphql": {
     "description": "GraphQL extension for VSCode built with the aim to tightly integrate the GraphQL Ecosystem with VSCode for an awesome developer experience",
     "pname": "vscode-extension-GraphQL-vscode-graphql",
-    "version": "0.8.7"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.graphql.vscode-graphql-syntax": {
     "description": "Adds full GraphQL syntax highlighting and language support such as bracket matching",
@@ -389782,7 +389777,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.haskell.haskell": {
     "description": "",
     "pname": "vscode-extension-haskell-haskell",
-    "version": "2.4.4"
+    "version": "2.5.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.hbenl.vscode-test-explorer": {
     "description": "Visual Studio Code extension that runs your tests in the sidebar",
@@ -389847,17 +389842,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.intellsmi.comment-translate": {
     "description": "Visual Studio Code extension to translate the comments for computer language",
     "pname": "vscode-extension-intellsmi-comment-translate",
-    "version": "2.2.4"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ionic.ionic": {
     "description": "Official VSCode extension for Ionic and Capacitor development",
     "pname": "vscode-extension-ionic-ionic",
-    "version": "1.96.0"
+    "version": "1.102.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ionide.ionide-fsharp": {
     "description": "Enhanced F# Language Features for Visual Studio Code",
     "pname": "vscode-extension-Ionide-Ionide-fsharp",
-    "version": "7.19.1"
+    "version": "7.25.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.irongeek.vscode-env": {
     "description": "Adds formatting and syntax highlighting support for env files (.env) to Visual Studio Code",
@@ -389877,7 +389872,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.james-yu.latex-workshop": {
     "description": "LaTeX Workshop Extension",
     "pname": "vscode-extension-James-Yu-latex-workshop",
-    "version": "9.14.1"
+    "version": "10.8.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.jamesyang999.vscode-emacs-minimum": {
     "description": "Minimal emacs key bindings for VSCode",
@@ -389897,7 +389892,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.jdinhlife.gruvbox": {
     "description": "Port of Gruvbox theme to VS Code editor",
     "pname": "vscode-extension-jdinhlife-gruvbox",
-    "version": "1.18.0"
+    "version": "1.24.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.jebbs.plantuml": {
     "description": "Visual Studio Code extension for supporting Rich PlantUML",
@@ -389937,12 +389932,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.jock.svg": {
     "description": "",
     "pname": "vscode-extension-jock-svg",
-    "version": "1.5.2"
+    "version": "1.5.4"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.johnpapa.vscode-peacock": {
     "description": "",
     "pname": "vscode-extension-johnpapa-vscode-peacock",
-    "version": "4.2.2"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.johnpapa.winteriscoming": {
     "description": "Preferred dark/light themes by John Papa",
@@ -389957,7 +389952,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.julialang.language-julia": {
     "description": "Visual Studio Code extension for Julia programming language",
     "pname": "vscode-extension-julialang-language-julia",
-    "version": "1.75.2"
+    "version": "1.138.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.justusadam.language-haskell": {
     "description": "",
@@ -389967,12 +389962,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.k--kato.intellij-idea-keybindings": {
     "description": "Visual Studio Code extension for IntelliJ IDEA keybindings",
     "pname": "vscode-extension-k",
-    "version": "-kato-intellij-idea-keybindings-1.7.0"
+    "version": "-kato-intellij-idea-keybindings-1.7.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.kahole.magit": {
     "description": "Magit for VSCode",
     "pname": "vscode-extension-kahole-magit",
-    "version": "0.6.43"
+    "version": "0.6.66"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.kalebpace.balena-vscode": {
     "description": "VS Code extension for integration with Balena",
@@ -389987,7 +389982,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.kamikillerto.vscode-colorize": {
     "description": "",
     "pname": "vscode-extension-kamikillerto-vscode-colorize",
-    "version": "0.11.1"
+    "version": "0.17.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.karunamurti.haml": {
     "description": "",
@@ -390032,12 +390027,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.lokalise.i18n-ally": {
     "description": "",
     "pname": "vscode-extension-Lokalise-i18n-ally",
-    "version": "2.8.1"
+    "version": "2.13.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ltex-plus.vscode-ltex-plus": {
     "description": "VS Code extension for grammar/spell checking using LanguageTool with support for LaTeX, Markdown, and others",
     "pname": "vscode-extension-ltex-plus-vscode-ltex-plus",
-    "version": "15.3.0"
+    "version": "15.4.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.lucperkins.vrl-vscode": {
     "description": "VS Code extension for Vector Remap Language (VRL)",
@@ -390047,12 +390042,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.mads-hartmann.bash-ide-vscode": {
     "description": "",
     "pname": "vscode-extension-mads-hartmann-bash-ide-vscode",
-    "version": "1.36.0"
+    "version": "1.43.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.marp-team.marp-vscode": {
     "description": "",
     "pname": "vscode-extension-marp-team-marp-vscode",
-    "version": "2.5.0"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.marus25.cortex-debug": {
     "description": "Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers",
@@ -390062,7 +390057,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.matangover.mypy": {
     "description": "",
     "pname": "vscode-extension-matangover-mypy",
-    "version": "0.2.3"
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.mathiasfrohlich.kotlin": {
     "description": "Kotlin language support for VS Code",
@@ -390082,12 +390077,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.maximedenes.vscoq": {
     "description": "VsCoq is an extension for Visual Studio Code (VS Code) and VSCodium with support for the Coq Proof Assistant",
     "pname": "vscode-extension-maximedenes-vscoq",
-    "version": "0.3.8"
+    "version": "2.2.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.mechatroner.rainbow-csv": {
     "description": "Rainbow syntax higlighting for CSV and TSV files in Visual Studio Code",
     "pname": "vscode-extension-mechatroner-rainbow-csv",
-    "version": "3.12.0"
+    "version": "3.18.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.meganrogge.template-string-converter": {
     "description": "VS Code extension to autocorrect from quotes to backticks",
@@ -390097,7 +390092,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.mesonbuild.mesonbuild": {
     "description": "Meson language support for Visual Studio Code",
     "pname": "vscode-extension-mesonbuild-mesonbuild",
-    "version": "1.24.0"
+    "version": "1.27.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.mhutchie.git-graph": {
     "description": "",
@@ -390212,7 +390207,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.vscode-dotnet-runtime": {
     "description": "Provides a way for other Visual Studio Code extensions to install local versions of .NET SDK/Runtime",
     "pname": "vscode-extension-ms-dotnettools-vscode-dotnet-runtime",
-    "version": "2.1.1"
+    "version": "2.2.8"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.vscodeintellicode-csharp": {
     "description": "AI-assisted development features for C# in Visual Studio Code",
@@ -390222,12 +390217,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-kubernetes-tools.vscode-kubernetes-tools": {
     "description": "",
     "pname": "vscode-extension-ms-kubernetes-tools-vscode-kubernetes-tools",
-    "version": "1.3.11"
+    "version": "1.3.20"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-pyright.pyright": {
     "description": "VS Code static type checking for Python",
     "pname": "vscode-extension-ms-pyright-pyright",
-    "version": "1.1.394"
+    "version": "1.1.396"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-python.black-formatter": {
     "description": "Formatter extension for Visual Studio Code using black",
@@ -390272,7 +390267,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-toolsai.datawrangler": {
     "description": "Data viewing, cleaning and preparation for tabular datasets",
     "pname": "vscode-extension-ms-toolsai-datawrangler",
-    "version": "1.7.2"
+    "version": "1.21.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-toolsai.jupyter": {
     "description": "Jupyter extension for vscode",
@@ -390287,12 +390282,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-toolsai.jupyter-renderers": {
     "description": "",
     "pname": "vscode-extension-ms-toolsai-jupyter-renderers",
-    "version": "1.0.15"
+    "version": "1.1.2025012901"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-toolsai.vscode-jupyter-cell-tags": {
     "description": "",
     "pname": "vscode-extension-ms-toolsai-vscode-jupyter-cell-tags",
-    "version": "0.1.8"
+    "version": "0.1.9"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-toolsai.vscode-jupyter-slideshow": {
     "description": "",
@@ -390302,7 +390297,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode-remote.remote-containers": {
     "description": "Open any folder or repository inside a Docker container",
     "pname": "vscode-extension-ms-vscode-remote-remote-containers",
-    "version": "0.376.0"
+    "version": "0.404.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode-remote.remote-ssh": {
     "description": "Use any remote machine with a SSH server as your development environment",
@@ -390312,12 +390307,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode-remote.remote-ssh-edit": {
     "description": "A Visual Studio Code extension that complements the Remote SSH extension with syntax colorization, keyword intellisense, and simple snippets when editing SSH configuration files",
     "pname": "vscode-extension-ms-vscode-remote-remote-ssh-edit",
-    "version": "0.86.0"
+    "version": "0.87.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode-remote.remote-wsl": {
     "description": "Windows Subsystem for Linux support for Visual Studio Code",
     "pname": "vscode-extension-ms-vscode-remote-remote-wsl",
-    "version": "0.88.2"
+    "version": "0.88.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode-remote.vscode-remote-extensionpack": {
     "description": "A Visual Studio Code extension pack that lets you open any folder in a container, on a remote machine, or in WSL and take advantage of VS Code's full feature set",
@@ -390327,12 +390322,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.anycode": {
     "description": "",
     "pname": "vscode-extension-ms-vscode-anycode",
-    "version": "0.0.70"
+    "version": "0.0.73"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.cmake-tools": {
     "description": "",
     "pname": "vscode-extension-ms-vscode-cmake-tools",
-    "version": "1.14.20"
+    "version": "1.21.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.cpptools": {
     "description": "C/C++ extension adds language support for C/C++ to Visual Studio Code, including features such as IntelliSense and debugging",
@@ -390347,12 +390342,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.hexeditor": {
     "description": "",
     "pname": "vscode-extension-ms-vscode-hexeditor",
-    "version": "1.9.11"
+    "version": "1.11.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.live-server": {
     "description": "Launch a development local Server with live reload feature for static & dynamic pages",
     "pname": "vscode-extension-ms-vscode-live-server",
-    "version": "0.4.8"
+    "version": "0.5.2024091601"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.makefile-tools": {
     "description": "",
@@ -390362,7 +390357,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.powershell": {
     "description": "Visual Studio Code extension for PowerShell language support",
     "pname": "vscode-extension-ms-vscode-PowerShell",
-    "version": "2023.3.1"
+    "version": "2025.1.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.test-adapter-converter": {
     "description": "Visual Studio Code extension that converts from the Test Explorer UI API into native VS Code testing",
@@ -390387,7 +390382,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.mshr-h.veriloghdl": {
     "description": "Visual Studio Code extension for supporting Verilog-HDL, SystemVerilog, Bluespec and SystemVerilog",
     "pname": "vscode-extension-mshr-h-veriloghdl",
-    "version": "1.13.2"
+    "version": "1.16.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.mskelton.npm-outdated": {
     "description": "Shows which packages are outdated in an npm project",
@@ -390457,7 +390452,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.phind.phind": {
     "description": "Using Phind AI service to provide answers based on the code context",
     "pname": "vscode-extension-phind-phind",
-    "version": "0.25.3"
+    "version": "0.25.4"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.phoenixframework.phoenix": {
     "description": "Syntax highlighting support for HEEx / Phoenix templates",
@@ -390472,7 +390467,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.pkief.material-icon-theme": {
     "description": "",
     "pname": "vscode-extension-PKief-material-icon-theme",
-    "version": "4.31.0"
+    "version": "5.20.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.pkief.material-product-icons": {
     "description": "",
@@ -390487,12 +390482,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.pollywoggames.pico8-ls": {
     "description": "VSCode extension for full language support for the PICO-8 dialect of Lua",
     "pname": "vscode-extension-PollywogGames-pico8-ls",
-    "version": "0.5.5"
+    "version": "0.5.7"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.prisma.prisma": {
     "description": "VSCode extension for syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files",
     "pname": "vscode-extension-Prisma-prisma",
-    "version": "4.11.0"
+    "version": "6.4.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.pylyzer.pylyzer": {
     "description": "A VS Code extension for Pylyzer, a fast static code analyzer & language server for Python",
@@ -390502,12 +390497,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.pythagoratechnologies.gpt-pilot-vs-code": {
     "description": "VSCode extension for assisting the developer to code, debug, build applications using LLMs/AI",
     "pname": "vscode-extension-PythagoraTechnologies-gpt-pilot-vs-code",
-    "version": "0.1.7"
+    "version": "0.2.32"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.quicktype.quicktype": {
     "description": "Infer types from sample JSON data",
     "pname": "vscode-extension-quicktype-quicktype",
-    "version": "12.0.46"
+    "version": "23.0.170"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.rebornix.ruby": {
     "description": "",
@@ -390517,7 +390512,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.redhat.ansible": {
     "description": "Ansible language support",
     "pname": "vscode-extension-redhat-ansible",
-    "version": "24.10.0"
+    "version": "25.2.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.redhat.java": {
     "description": "Java language support for VS Code via the Eclipse JDT Language Server",
@@ -390532,7 +390527,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.redhat.vscode-yaml": {
     "description": "YAML Language Support by Red Hat, with built-in Kubernetes syntax support",
     "pname": "vscode-extension-redhat-vscode-yaml",
-    "version": "1.16.0"
+    "version": "1.17.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.reditorsupport.r": {
     "description": "Visual Studio Code extension for the R programming language",
@@ -390612,17 +390607,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.scala-lang.scala": {
     "description": "",
     "pname": "vscode-extension-scala-lang-scala",
-    "version": "0.5.6"
+    "version": "0.5.9"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.scalameta.metals": {
     "description": "",
     "pname": "vscode-extension-scalameta-metals",
-    "version": "1.22.3"
+    "version": "1.47.7"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.sdras.night-owl": {
     "description": "A Visual Studio Code theme named Light Owl for daytime usage",
     "pname": "vscode-extension-sdras-night-owl",
-    "version": "2.0.1"
+    "version": "2.1.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.seatonjiang.gitmoji-vscode": {
     "description": "Gitmoji tool for git commit messages in VSCode",
@@ -390632,7 +390627,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.serayuzgur.crates": {
     "description": "",
     "pname": "vscode-extension-serayuzgur-crates",
-    "version": "0.6.6"
+    "version": "0.6.7"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.shardulm94.trailing-spaces": {
     "description": "",
@@ -390647,7 +390642,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.shopify.ruby-lsp": {
     "description": "VS Code plugin for connecting with the Ruby LSP",
     "pname": "vscode-extension-shopify-ruby-lsp",
-    "version": "0.5.8"
+    "version": "0.9.7"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.shyykoserhiy.vscode-spotify": {
     "description": "",
@@ -390657,7 +390652,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.signageos.signageos-vscode-sops": {
     "description": "Visual Studio Code extension for SOPS support",
     "pname": "vscode-extension-signageos-signageos-vscode-sops",
-    "version": "0.9.1"
+    "version": "0.9.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.silofy.hackthebox": {
     "description": "Visual Studio Code theme built for hackers by hackers",
@@ -390702,7 +390697,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.sswg.swift-lang": {
     "description": "Swift Language Support for Visual Studio Code",
     "pname": "vscode-extension-sswg-swift-lang",
-    "version": "1.10.4"
+    "version": "1.12.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.stefanjarina.vscode-eex-snippets": {
     "description": "VSCode extension for Elixir EEx and HTML (EEx) code snippets",
@@ -390732,7 +390727,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.styled-components.vscode-styled-components": {
     "description": "Syntax highlighting and IntelliSense for styled-components",
     "pname": "vscode-extension-styled-components-vscode-styled-components",
-    "version": "1.7.6"
+    "version": "1.7.8"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.stylelint.vscode-stylelint": {
     "description": "Official Stylelint extension for Visual Studio Code",
@@ -390752,7 +390747,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.svelte.svelte-vscode": {
     "description": "Svelte language support for VS Code",
     "pname": "vscode-extension-svelte-svelte-vscode",
-    "version": "109.1.0"
+    "version": "109.5.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.svsool.markdown-memo": {
     "description": "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode",
@@ -390762,12 +390757,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.tabnine.tabnine-vscode": {
     "description": "",
     "pname": "vscode-extension-tabnine-tabnine-vscode",
-    "version": "3.6.43"
+    "version": "3.241.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.tailscale.vscode-tailscale": {
     "description": "VSCode extension to share a port over the internet with Tailscale Funnel",
     "pname": "vscode-extension-tailscale-vscode-tailscale",
-    "version": "0.6.4"
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.takayama.vscode-qq": {
     "description": "",
@@ -390782,7 +390777,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.tamasfe.even-better-toml": {
     "description": "",
     "pname": "vscode-extension-tamasfe-even-better-toml",
-    "version": "0.19.2"
+    "version": "0.21.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.tauri-apps.tauri-vscode": {
     "description": "Enhances the experience of Tauri apps development",
@@ -390797,7 +390792,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.techtheawesome.rust-yew": {
     "description": "VSCode extension that provides some language features for Yew's html macro syntax",
     "pname": "vscode-extension-techtheawesome-rust-yew",
-    "version": "0.2.2"
+    "version": "0.2.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.tekumara.typos-vscode": {
     "description": "VSCode extension for providing a low false-positive source code spell checker",
@@ -390852,7 +390847,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.tuttieee.emacs-mcx": {
     "description": "Awesome Emacs Keymap - VSCode emacs keybinding with multi cursor support",
     "pname": "vscode-extension-tuttieee-emacs-mcx",
-    "version": "0.47.0"
+    "version": "0.65.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.twpayne.vscode-testscript": {
     "description": "Syntax highlighting support for testscript",
@@ -390867,7 +390862,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.tyriar.sort-lines": {
     "description": "",
     "pname": "vscode-extension-Tyriar-sort-lines",
-    "version": "1.10.2"
+    "version": "1.12.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.uiua-lang.uiua-vscode": {
     "description": "VSCode language extension for Uiua",
@@ -390877,7 +390872,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.uloco.theme-bluloco-light": {
     "description": "Fancy but yet sophisticated light designer color scheme / theme for Visual Studio Code",
     "pname": "vscode-extension-uloco-theme-bluloco-light",
-    "version": "3.7.3"
+    "version": "3.7.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.unifiedjs.vscode-mdx": {
     "description": "VSCode language support for MDX",
@@ -390947,12 +390942,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-java-debug": {
     "description": "",
     "pname": "vscode-extension-vscjava-vscode-java-debug",
-    "version": "0.55.2023121302"
+    "version": "0.58.2025022807"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-java-dependency": {
     "description": "",
     "pname": "vscode-extension-vscjava-vscode-java-dependency",
-    "version": "0.23.2024010506"
+    "version": "0.24.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-java-pack": {
     "description": "Popular extensions for Java development that provides Java IntelliSense, debugging, testing, Maven/Gradle support, project management and more",
@@ -390962,17 +390957,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-java-test": {
     "description": "",
     "pname": "vscode-extension-vscjava-vscode-java-test",
-    "version": "0.40.2024011806"
+    "version": "0.43.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-maven": {
     "description": "",
     "pname": "vscode-extension-vscjava-vscode-maven",
-    "version": "0.43.2024011905"
+    "version": "0.44.2024072906"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-spring-initializr": {
     "description": "",
     "pname": "vscode-extension-vscjava-vscode-spring-initializr",
-    "version": "0.11.2023070103"
+    "version": "0.11.2024112703"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vscode-icons-team.vscode-icons": {
     "description": "Bring real icons to your Visual Studio Code",
@@ -390987,17 +390982,17 @@
   "legacyPackages.x86_64-linux.vscode-extensions.vspacecode.vspacecode": {
     "description": "",
     "pname": "vscode-extension-VSpaceCode-vspacecode",
-    "version": "0.10.14"
+    "version": "0.10.19"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vspacecode.whichkey": {
     "description": "",
     "pname": "vscode-extension-VSpaceCode-whichkey",
-    "version": "0.11.3"
+    "version": "0.11.4"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vue.volar": {
     "description": "Official Vue VSCode extension",
     "pname": "vscode-extension-Vue-volar",
-    "version": "2.0.16"
+    "version": "2.2.8"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.vue.vscode-typescript-vue-plugin": {
     "description": "Vue VSCode extension for TypeScript",
@@ -391012,7 +391007,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.waderyan.gitblame": {
     "description": "Visual Studio Code Extension - See Git Blame info in status bar",
     "pname": "vscode-extension-waderyan-gitblame",
-    "version": "10.5.1"
+    "version": "11.1.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.wakatime.vscode-wakatime": {
     "description": "Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity ",
@@ -391042,7 +391037,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.xadillax.viml": {
     "description": "",
     "pname": "vscode-extension-xadillax-viml",
-    "version": "2.1.2"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.xaver.clang-format": {
     "description": "",
@@ -391052,7 +391047,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.xdebug.php-debug": {
     "description": "PHP Debug Adapter",
     "pname": "vscode-extension-xdebug-php-debug",
-    "version": "1.34.0"
+    "version": "1.35.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.xyz.local-history": {
     "description": "",
@@ -391077,7 +391072,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.yzhang.markdown-all-in-one": {
     "description": "All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)",
     "pname": "vscode-extension-yzhang-markdown-all-in-one",
-    "version": "3.6.2"
+    "version": "3.6.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.zaaack.markdown-editor": {
     "description": "Visual Studio Code extension for WYSIWYG markdown editing",
@@ -391092,12 +391087,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.zguolee.tabler-icons": {
     "description": "Tabler product icon theme for Visual Studio Code",
     "pname": "vscode-extension-zguolee-tabler-icons",
-    "version": "0.3.4"
+    "version": "0.3.7"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.zhuangtongfa.material-theme": {
     "description": "",
     "pname": "vscode-extension-zhuangtongfa-material-theme",
-    "version": "3.16.2"
+    "version": "3.19.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.zhwu95.riscv": {
     "description": "Basic RISC-V colorization and snippets support",
@@ -391112,12 +391107,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.zxh404.vscode-proto3": {
     "description": "",
     "pname": "vscode-extension-zxh404-vscode-proto3",
-    "version": "0.5.4"
+    "version": "0.5.5"
   },
   "legacyPackages.x86_64-linux.vscode-fhs": {
     "description": "Wrapped variant of vscode which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
     "pname": "code",
-    "version": "1.98.0"
+    "version": "1.98.1"
   },
   "legacyPackages.x86_64-linux.vscode-js-debug": {
     "description": "A DAP-compatible JavaScript debugger",
@@ -391137,7 +391132,7 @@
   "legacyPackages.x86_64-linux.vscode-with-extensions": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode-with-extensions",
-    "version": "1.98.0"
+    "version": "1.98.1"
   },
   "legacyPackages.x86_64-linux.vscodium": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) ",
@@ -391767,7 +391762,7 @@
   "legacyPackages.x86_64-linux.wasm-tools": {
     "description": "Low level tooling for WebAssembly in Rust",
     "pname": "wasm-tools",
-    "version": "1.226.0"
+    "version": "1.227.1"
   },
   "legacyPackages.x86_64-linux.wasm3": {
     "description": "Fastest WebAssembly interpreter, and the most universal runtime",
@@ -392102,7 +392097,7 @@
   "legacyPackages.x86_64-linux.waylock": {
     "description": "Small screenlocker for Wayland compositors",
     "pname": "waylock",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.waylogout": {
     "description": "Graphical logout/suspend/reboot/shutdown dialog for wayland",
@@ -393958,6 +393953,11 @@
     "description": "Highly configurable power menu using the wofi launcher power-menu",
     "pname": "wofi-power-menu",
     "version": "0.2.6"
+  },
+  "legacyPackages.x86_64-linux.woke": {
+    "description": "Detect non-inclusive language in your source code",
+    "pname": "woke",
+    "version": "0.19.0"
   },
   "legacyPackages.x86_64-linux.wol": {
     "description": "Implements Wake On LAN functionality in a small program",
@@ -398207,7 +398207,7 @@
   "legacyPackages.x86_64-linux.yandex-music": {
     "description": "Personal recommendations, selections for any occasion and new music",
     "pname": "yandex-music",
-    "version": "5.28.4"
+    "version": "5.39.0"
   },
   "legacyPackages.x86_64-linux.yanic": {
     "description": "Tool to collect and aggregate respondd data",
