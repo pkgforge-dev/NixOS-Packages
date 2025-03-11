@@ -3393,7 +3393,7 @@ legacyPackages.x86_64-linux.amazon-qldb-shell:
 legacyPackages.x86_64-linux.amazon-ssm-agent:
   description: Agent to enable remote management of your Amazon EC2 instance configuration
   pname: amazon-ssm-agent
-  version: 3.3.1802.0
+  version: 3.3.1957.0
 legacyPackages.x86_64-linux.amber:
   description: Code search-and-replace tool
   pname: amber
@@ -5033,7 +5033,7 @@ legacyPackages.x86_64-linux.arma3-unix-launcher:
 legacyPackages.x86_64-linux.armadillo:
   description: C++ linear algebra library
   pname: armadillo
-  version: 14.2.2
+  version: 14.4.0
 legacyPackages.x86_64-linux.armagetronad:
   description: Multiplayer networked arcade racing game in 3D similar to Tron
   pname: armagetronad
@@ -6445,7 +6445,7 @@ legacyPackages.x86_64-linux.automake117x:
 legacyPackages.x86_64-linux.automatic-timezoned:
   description: Automatically update system timezone based on location
   pname: automatic-timezoned
-  version: 2.0.60
+  version: 2.0.64
 legacyPackages.x86_64-linux.automaticcomponenttoolkit:
   description: 'Toolkit to automatically generate software components: abstract API, implementation stubs and language bindings'
   pname: AutomaticComponentToolkit
@@ -6813,7 +6813,7 @@ legacyPackages.x86_64-linux.aws-mfa:
 legacyPackages.x86_64-linux.aws-nuke:
   description: Remove all the resources from an AWS account
   pname: aws-nuke
-  version: 3.48.1
+  version: 3.48.2
 legacyPackages.x86_64-linux.aws-rotate-key:
   description: Easily rotate your AWS key
   pname: aws-rotate-key
@@ -10629,7 +10629,7 @@ legacyPackages.x86_64-linux.brasero-unwrapped:
 legacyPackages.x86_64-linux.brave:
   description: Privacy-oriented browser for Desktop and Laptop computers
   pname: brave
-  version: 1.75.181
+  version: 1.76.73
 legacyPackages.x86_64-linux.breads-ad:
   description: Tool to evaluate Active Directory Security
   pname: breads-ad
@@ -11581,7 +11581,7 @@ legacyPackages.x86_64-linux.c2ffi:
 legacyPackages.x86_64-linux.c2fmzq:
   description: Securely encrypt, store, and share files, including but not limited to pictures and videos
   pname: c2FmZQ
-  version: 0.4.28
+  version: 0.4.29
 legacyPackages.x86_64-linux.c2nim:
   description: Tool to translate Ansi C code to Nim
   pname: c2nim
@@ -12445,7 +12445,7 @@ legacyPackages.x86_64-linux.cargo-profiler:
 legacyPackages.x86_64-linux.cargo-public-api:
   description: List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations
   pname: cargo-public-api
-  version: 0.44.1
+  version: 0.44.2
 legacyPackages.x86_64-linux.cargo-raze:
   description: Generate Bazel BUILD files from Cargo dependencies
   pname: cargo-raze
@@ -12737,7 +12737,7 @@ legacyPackages.x86_64-linux.castty:
 legacyPackages.x86_64-linux.castxml:
   description: C-family Abstract Syntax Tree XML Output
   pname: castxml
-  version: 0.6.10
+  version: 0.6.11
 legacyPackages.x86_64-linux.casync:
   description: Content-Addressable Data Synchronizer
   pname: casync
@@ -13385,7 +13385,7 @@ legacyPackages.x86_64-linux.certi:
 legacyPackages.x86_64-linux.certificate-ripper:
   description: CLI tool to extract server certificates
   pname: certificate-ripper
-  version: 2.4.0
+  version: 2.4.1
 legacyPackages.x86_64-linux.certigo:
   description: Utility to examine and validate certificates in a variety of formats
   pname: certigo
@@ -16777,7 +16777,7 @@ legacyPackages.x86_64-linux.ckb-next:
 legacyPackages.x86_64-linux.ckbcomp:
   description: Compiles a XKB keyboard description to a keymap suitable for loadkeys
   pname: ckbcomp
-  version: "1.232"
+  version: "1.234"
 legacyPackages.x86_64-linux.ckdl:
   description: ckdl is a C (C11) library that implements reading and writing the KDL Document Language.
   pname: ckdl
@@ -17037,7 +17037,7 @@ legacyPackages.x86_64-linux.clatd:
 legacyPackages.x86_64-linux.claude-code:
   description: An agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
   pname: claude-code
-  version: 0.2.30
+  version: 0.2.32
 legacyPackages.x86_64-linux.claws:
   description: Interactive command line client for testing websocket servers
   pname: claws
@@ -19313,7 +19313,7 @@ legacyPackages.x86_64-linux.cornelis:
 legacyPackages.x86_64-linux.coroot:
   description: Open-source APM & Observability tool
   pname: coroot
-  version: 1.8.6
+  version: 1.8.11
 legacyPackages.x86_64-linux.coroot-node-agent:
   description: Prometheus exporter based on eBPF
   pname: coroot-node-agent
@@ -19881,7 +19881,7 @@ legacyPackages.x86_64-linux.credential-detector:
 legacyPackages.x86_64-linux.credhub-cli:
   description: Provides a command line interface to interact with CredHub servers
   pname: credhub-cli
-  version: 2.9.42
+  version: 2.9.43
 legacyPackages.x86_64-linux.creds:
   description: Tool to search a collection of default credentials
   pname: creds
@@ -21537,7 +21537,7 @@ legacyPackages.x86_64-linux.cyclonedx-gomod:
 legacyPackages.x86_64-linux.cyclonedx-python:
   description: Creates CycloneDX Software Bill of Materials (SBOM) from Python projects
   pname: cyclonedx-python
-  version: 5.2.0
+  version: 5.3.0
 legacyPackages.x86_64-linux.cyme:
   description: Modern cross-platform lsusb
   pname: cyme
@@ -30773,7 +30773,7 @@ legacyPackages.x86_64-linux.firebird_2_5:
 legacyPackages.x86_64-linux.firebird_3:
   description: SQL relational database management system
   pname: firebird
-  version: 3.0.10
+  version: 3.0.12
 legacyPackages.x86_64-linux.firebird_4:
   description: SQL relational database management system
   pname: firebird
@@ -32445,7 +32445,7 @@ legacyPackages.x86_64-linux.freetalk:
 legacyPackages.x86_64-linux.freetds:
   description: Libraries to natively talk to Microsoft SQL Server and Sybase databases
   pname: freetds
-  version: 1.4.24
+  version: 1.4.26
 legacyPackages.x86_64-linux.freetts:
   description: Text to speech system based on Festival written in Java
   pname: freetts
@@ -41781,7 +41781,7 @@ legacyPackages.x86_64-linux.gpython:
 legacyPackages.x86_64-linux.gql:
   description: SQL like query language to perform queries on .git files
   pname: gql
-  version: 0.36.0
+  version: 0.37.0
 legacyPackages.x86_64-linux.gqlgen:
   description: go generate based graphql server library
   pname: gqlgen
@@ -48949,7 +48949,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.zigbee2mqtt-n
 legacyPackages.x86_64-linux.home-manager:
   description: Nix-based user environment configurator
   pname: home-manager
-  version: 0-unstable-2025-02-22
+  version: 0-unstable-2025-03-08
 legacyPackages.x86_64-linux.homebank:
   description: Free, easy, personal accounting for everyone
   pname: homebank
@@ -50177,7 +50177,7 @@ legacyPackages.x86_64-linux.hyfetch:
 legacyPackages.x86_64-linux.hylafaxplus:
   description: enterprise-class system for sending and receiving facsimiles
   pname: hylafaxplus
-  version: 7.0.9
+  version: 7.0.10
 legacyPackages.x86_64-linux.hyp:
   description: Hyperminimal https server
   pname: python3.12-hyp-server
@@ -52413,7 +52413,7 @@ legacyPackages.x86_64-linux.iosevka:
 legacyPackages.x86_64-linux.iosevka-bin:
   description: Versatile typeface for code, from code
   pname: Iosevka-bin
-  version: 32.5.0
+  version: 33.0.1
 legacyPackages.x86_64-linux.iosevka-comfy.comfy:
   description: 'Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both roman (upright) and italic (slanted) variants. '
   pname: iosevka-comfy
@@ -54121,7 +54121,7 @@ legacyPackages.x86_64-linux.jq-zsh-plugin:
 legacyPackages.x86_64-linux.jql:
   description: JSON Query Language CLI tool built with Rust
   pname: jql
-  version: 8.0.3
+  version: 8.0.4
 legacyPackages.x86_64-linux.jqp:
   description: TUI playground to experiment with jq
   pname: jqp
@@ -57841,7 +57841,7 @@ legacyPackages.x86_64-linux.kitty-themes:
 legacyPackages.x86_64-linux.kittycad-kcl-lsp:
   description: KittyCAD KCL language server
   pname: kittycad-kcl-lsp
-  version: 0.1.69
+  version: 0.1.71
 legacyPackages.x86_64-linux.kittysay:
   description: Cowsay, but with a cute kitty :3
   pname: kittysay
@@ -59213,7 +59213,7 @@ legacyPackages.x86_64-linux.kubeval-schema:
 legacyPackages.x86_64-linux.kubevela:
   description: Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments
   pname: kubevela
-  version: 1.10.1
+  version: 1.10.2
 legacyPackages.x86_64-linux.kubevirt:
   description: Client tool to use advanced features such as console access
   pname: kubevirt
@@ -59433,7 +59433,7 @@ legacyPackages.x86_64-linux.labwc-tweaks:
 legacyPackages.x86_64-linux.labwc-tweaks-gtk:
   description: Configuration gui app for labwc; gtk fork
   pname: labwc-tweaks-gtk
-  version: 0-unstable-2025-01-26
+  version: 0-unstable-2025-03-07
 legacyPackages.x86_64-linux.lact:
   description: Linux GPU Configuration Tool for AMD and NVIDIA
   pname: lact
@@ -61284,8 +61284,8 @@ legacyPackages.x86_64-linux.libelf:
   version: 0.8.13
 legacyPackages.x86_64-linux.libelfin:
   description: C++11 ELF/DWARF parser
-  pname: libelfin-unstable
-  version: "2018-08-25"
+  pname: libelfin
+  version: 0.3-unstable-2024-03-11
 legacyPackages.x86_64-linux.libemf2svg:
   description: Microsoft EMF to SVG conversion library
   pname: libemf2svg
@@ -62593,7 +62593,7 @@ legacyPackages.x86_64-linux.libmysqlclient_3_3:
 legacyPackages.x86_64-linux.libmysqlconnectorcpp:
   description: C++ library for connecting to mysql servers
   pname: libmysqlconnectorcpp
-  version: 9.1.0
+  version: 9.2.0
 legacyPackages.x86_64-linux.libnabo:
   description: Fast K Nearest Neighbor library for low-dimensional spaces
   pname: libnabo
@@ -63065,7 +63065,7 @@ legacyPackages.x86_64-linux.libpq:
 legacyPackages.x86_64-linux.libpqxx:
   description: C++ library to access PostgreSQL databases
   pname: libpqxx
-  version: 7.9.2
+  version: 7.10.0
 legacyPackages.x86_64-linux.libpressureaudio:
   description: libpulse without any sound daemons over pure ALSA
   pname: libpressureaudio
@@ -63893,7 +63893,7 @@ legacyPackages.x86_64-linux.librevenge:
 legacyPackages.x86_64-linux.librewolf:
   description: Fork of Firefox, focused on privacy, security and freedom
   pname: librewolf
-  version: 136.0-1
+  version: 136.0-2
 legacyPackages.x86_64-linux.librewolf-bin:
   description: Fork of Firefox, focused on privacy, security and freedom (upstream binary release)
   pname: librewolf-bin
@@ -63905,11 +63905,11 @@ legacyPackages.x86_64-linux.librewolf-bin-unwrapped:
 legacyPackages.x86_64-linux.librewolf-unwrapped:
   description: Fork of Firefox, focused on privacy, security and freedom
   pname: librewolf-unwrapped
-  version: 136.0-1
+  version: 136.0-2
 legacyPackages.x86_64-linux.librewolf-wayland:
   description: Fork of Firefox, focused on privacy, security and freedom
   pname: librewolf
-  version: 136.0-1
+  version: 136.0-2
 legacyPackages.x86_64-linux.librime:
   description: Rime Input Method Engine, the core library
   pname: librime
@@ -66357,7 +66357,7 @@ legacyPackages.x86_64-linux.libskk:
 legacyPackages.x86_64-linux.libslirp:
   description: General purpose TCP-IP emulator
   pname: libslirp
-  version: 4.8.0
+  version: 4.9.0
 legacyPackages.x86_64-linux.libsmartcols:
   description: smart column output alignment library
   pname: libsmartcols
@@ -67057,7 +67057,7 @@ legacyPackages.x86_64-linux.libwpd_08:
 legacyPackages.x86_64-linux.libwpe:
   description: General-purpose library for WPE WebKit
   pname: libwpe
-  version: 1.16.0
+  version: 1.16.2
 legacyPackages.x86_64-linux.libwpe-fdo:
   description: Freedesktop.org backend for WPE WebKit
   pname: wpebackend-fdo
@@ -67961,7 +67961,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -68593,7 +68593,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -69225,7 +69225,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -69857,7 +69857,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -70489,7 +70489,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -71125,7 +71125,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -71761,7 +71761,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -72389,7 +72389,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -73021,7 +73021,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -73653,7 +73653,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -74285,7 +74285,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -74917,7 +74917,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -75549,7 +75549,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -76181,7 +76181,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -76809,7 +76809,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -77437,7 +77437,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -78065,7 +78065,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -78697,7 +78697,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -79329,7 +79329,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -79961,7 +79961,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -80593,7 +80593,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -81225,7 +81225,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -81857,7 +81857,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -82489,7 +82489,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.chipsec:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -83121,7 +83121,7 @@ legacyPackages.x86_64-linux.linuxPackages-libre.chipsec:
 legacyPackages.x86_64-linux.linuxPackages-libre.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages-libre.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -83753,7 +83753,7 @@ legacyPackages.x86_64-linux.linuxPackages.chipsec:
 legacyPackages.x86_64-linux.linuxPackages.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -84385,7 +84385,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -85017,7 +85017,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -85649,7 +85649,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -86285,7 +86285,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -86917,7 +86917,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -87549,7 +87549,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -88181,7 +88181,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -88809,7 +88809,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -89441,7 +89441,7 @@ legacyPackages.x86_64-linux.linuxPackages_hardened.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_hardened.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_hardened.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -90073,7 +90073,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -90705,7 +90705,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_latest.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_latest.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -91337,7 +91337,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_lqx.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_lqx.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -91969,7 +91969,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_xanmod.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -92601,7 +92601,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -93233,7 +93233,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -93865,7 +93865,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.chipsec:
 legacyPackages.x86_64-linux.linuxPackages_zen.corefreq:
   description: CPU monitoring and tuning software designed for 64-bit processors
   pname: corefreq
-  version: 2.0.0
+  version: 2.0.1
 legacyPackages.x86_64-linux.linuxPackages_zen.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
@@ -101961,7 +101961,7 @@ legacyPackages.x86_64-linux.lxgw-fusionkai:
 legacyPackages.x86_64-linux.lxgw-neoxihei:
   description: Simplified Chinese sans-serif font derived from IPAex Gothic
   pname: lxgw-neoxihei
-  version: "1.213"
+  version: "1.214"
 legacyPackages.x86_64-linux.lxgw-wenkai:
   description: Open-source Chinese font derived from Fontworks' Klee One
   pname: lxgw-wenkai
@@ -105381,7 +105381,7 @@ legacyPackages.x86_64-linux.minijail-tools:
 legacyPackages.x86_64-linux.minijinja:
   description: Command Line Utility to render MiniJinja/Jinja2 templates
   pname: minijinja
-  version: 2.7.0
+  version: 2.8.0
 legacyPackages.x86_64-linux.minikube:
   description: Tool that makes it easy to run Kubernetes locally
   pname: minikube
@@ -107557,7 +107557,7 @@ legacyPackages.x86_64-linux.mqtt-explorer:
 legacyPackages.x86_64-linux.mqtt-exporter:
   description: Generic MQTT Prometheus exporter for IoT
   pname: mqtt-exporter
-  version: 1.6.1
+  version: 1.7.0
 legacyPackages.x86_64-linux.mqtt-randompub:
   description: Tool that sends random MQTT messages to random topics
   pname: mqtt-randompub
@@ -109045,7 +109045,7 @@ legacyPackages.x86_64-linux.neardal:
 legacyPackages.x86_64-linux.neatvnc:
   description: VNC server library
   pname: neatvnc
-  version: 0.9.3
+  version: 0.9.4
 legacyPackages.x86_64-linux.nebula:
   description: Overlay networking tool with a focus on performance, simplicity and security
   pname: nebula
@@ -110125,7 +110125,7 @@ legacyPackages.x86_64-linux.nghttp2:
 legacyPackages.x86_64-linux.nghttp3:
   description: nghttp3 is an implementation of HTTP/3 mapping over QUIC and QPACK in C
   pname: nghttp3
-  version: 1.7.0
+  version: 1.8.0
 legacyPackages.x86_64-linux.nginx:
   description: Reverse proxy and lightweight webserver
   pname: nginx
@@ -110949,7 +110949,7 @@ legacyPackages.x86_64-linux.nixos-shell:
 legacyPackages.x86_64-linux.nixpacks:
   description: App source + Nix packages + Docker = Image Resources
   pname: nixpacks
-  version: 1.33.0
+  version: 1.34.0
 legacyPackages.x86_64-linux.nixpkgs-fmt:
   description: Nix code formatter for nixpkgs
   pname: nixpkgs-fmt
@@ -112549,7 +112549,7 @@ legacyPackages.x86_64-linux.obs-do:
 legacyPackages.x86_64-linux.obs-studio:
   description: Free and open source software for video recording and live streaming
   pname: obs-studio
-  version: 31.0.1
+  version: 31.0.2
 legacyPackages.x86_64-linux.obs-studio-plugins.advanced-scene-switcher:
   description: Automated scene switcher for OBS Studio
   pname: advanced-scene-switcher
@@ -119753,7 +119753,7 @@ legacyPackages.x86_64-linux.osi:
 legacyPackages.x86_64-linux.osinfo-db:
   description: Osinfo database of information about operating systems for virtualization provisioning tools
   pname: osinfo-db
-  version: "20240701"
+  version: "20250124"
 legacyPackages.x86_64-linux.osinfo-db-tools:
   description: Tools for managing the osinfo database
   pname: osinfo-db-tools
@@ -121501,7 +121501,7 @@ legacyPackages.x86_64-linux.patchelfStable:
 legacyPackages.x86_64-linux.patchelfUnstable:
   description: Small utility to modify the dynamic linker and RPATH of ELF executables
   pname: patchelf
-  version: 0.18.0-unstable-2025-01-07
+  version: 0.18.0-unstable-2025-02-15
 legacyPackages.x86_64-linux.patcher9x:
   description: Patch for Windows 95/98/98 SE/Me to fix CPU issues
   pname: patcher9x
@@ -121825,7 +121825,7 @@ legacyPackages.x86_64-linux.pdf2odt:
 legacyPackages.x86_64-linux.pdf2svg:
   description: PDF converter to SVG format
   pname: pdf2svg
-  version: 0.2.3
+  version: 0.2.4
 legacyPackages.x86_64-linux.pdf4qt:
   description: Open source PDF editor
   pname: pdf4qt
@@ -159121,7 +159121,7 @@ legacyPackages.x86_64-linux.python312Packages.arpy:
 legacyPackages.x86_64-linux.python312Packages.array-api-compat:
   description: Compatibility layer for NumPy to support the Python array API
   pname: python3.12-array-api-compat
-  version: "1.10"
+  version: "1.11"
 legacyPackages.x86_64-linux.python312Packages.array-api-strict:
   description: A strict, minimal implementation of the Python array API
   pname: python3.12-array-api-strict
@@ -163205,7 +163205,7 @@ legacyPackages.x86_64-linux.python312Packages.cyclonedx-python-lib:
 legacyPackages.x86_64-linux.python312Packages.cyclopts:
   description: Module to create CLIs based on Python type hints
   pname: python3.12-cyclopts
-  version: 3.9.1
+  version: 3.9.2
 legacyPackages.x86_64-linux.python312Packages.cyipopt:
   description: Cython interface for the interior point optimzer IPOPT
   pname: python3.12-cyipopt
@@ -164687,7 +164687,7 @@ legacyPackages.x86_64-linux.python312Packages.django-prometheus:
   pname: python3.12-django-prometheus
   version: 2.3.1
 legacyPackages.x86_64-linux.python312Packages.django-pwa:
-  description: Django app to include a manifest.json and Service Worker instance to enable progressive web app behavoir
+  description: Django app to include a manifest.json and Service Worker instance to enable progressive web app behavior
   pname: python3.12-django-pwa
   version: 2.0.1
 legacyPackages.x86_64-linux.python312Packages.django-q2:
@@ -168941,7 +168941,7 @@ legacyPackages.x86_64-linux.python312Packages.gsm0338:
 legacyPackages.x86_64-linux.python312Packages.gspread:
   description: Google Spreadsheets client library
   pname: python3.12-gspread
-  version: 6.1.4
+  version: 6.2.0
 legacyPackages.x86_64-linux.python312Packages.gssapi:
   description: Python GSSAPI Wrapper
   pname: python3.12-gssapi
@@ -174329,7 +174329,7 @@ legacyPackages.x86_64-linux.python312Packages.monotonic-alignment-search:
 legacyPackages.x86_64-linux.python312Packages.monty:
   description: Serves as a complement to the Python standard library by providing a suite of tools to solve many common problems
   pname: python3.12-monty
-  version: 2025.1.9
+  version: 2025.3.3
 legacyPackages.x86_64-linux.python312Packages.monzopy:
   description: Module to work with the Monzo API
   pname: python3.12-monzopy
@@ -197229,7 +197229,7 @@ legacyPackages.x86_64-linux.python313Packages.arpy:
 legacyPackages.x86_64-linux.python313Packages.array-api-compat:
   description: Compatibility layer for NumPy to support the Python array API
   pname: python3.13-array-api-compat
-  version: "1.10"
+  version: "1.11"
 legacyPackages.x86_64-linux.python313Packages.array-api-strict:
   description: A strict, minimal implementation of the Python array API
   pname: python3.13-array-api-strict
@@ -201317,7 +201317,7 @@ legacyPackages.x86_64-linux.python313Packages.cyclonedx-python-lib:
 legacyPackages.x86_64-linux.python313Packages.cyclopts:
   description: Module to create CLIs based on Python type hints
   pname: python3.13-cyclopts
-  version: 3.9.1
+  version: 3.9.2
 legacyPackages.x86_64-linux.python313Packages.cyipopt:
   description: Cython interface for the interior point optimzer IPOPT
   pname: python3.13-cyipopt
@@ -202799,7 +202799,7 @@ legacyPackages.x86_64-linux.python313Packages.django-prometheus:
   pname: python3.13-django-prometheus
   version: 2.3.1
 legacyPackages.x86_64-linux.python313Packages.django-pwa:
-  description: Django app to include a manifest.json and Service Worker instance to enable progressive web app behavoir
+  description: Django app to include a manifest.json and Service Worker instance to enable progressive web app behavior
   pname: python3.13-django-pwa
   version: 2.0.1
 legacyPackages.x86_64-linux.python313Packages.django-q2:
@@ -207053,7 +207053,7 @@ legacyPackages.x86_64-linux.python313Packages.gsm0338:
 legacyPackages.x86_64-linux.python313Packages.gspread:
   description: Google Spreadsheets client library
   pname: python3.13-gspread
-  version: 6.1.4
+  version: 6.2.0
 legacyPackages.x86_64-linux.python313Packages.gssapi:
   description: Python GSSAPI Wrapper
   pname: python3.13-gssapi
@@ -212441,7 +212441,7 @@ legacyPackages.x86_64-linux.python313Packages.monotonic-alignment-search:
 legacyPackages.x86_64-linux.python313Packages.monty:
   description: Serves as a complement to the Python standard library by providing a suite of tools to solve many common problems
   pname: python3.13-monty
-  version: 2025.1.9
+  version: 2025.3.3
 legacyPackages.x86_64-linux.python313Packages.monzopy:
   description: Module to work with the Monzo API
   pname: python3.13-monzopy
@@ -235054,6 +235054,10 @@ legacyPackages.x86_64-linux.qualisys-cpp-sdk:
   description: C++ sdk for talking to Qualisys Track Manager software
   pname: qualisys-cpp-sdk
   version: "2024.2"
+legacyPackages.x86_64-linux.quantframe:
+  description: Warframe Market listings and transactions manager
+  pname: quantframe
+  version: 1.3.4
 legacyPackages.x86_64-linux.quantlib:
   description: Free/open-source library for quantitative finance
   pname: quantlib
@@ -238741,7 +238745,7 @@ legacyPackages.x86_64-linux.rootbar:
 legacyPackages.x86_64-linux.rootlesskit:
   description: Kind of Linux-native "fake root" utility, made for mainly running Docker and Kubernetes as an unprivileged user
   pname: rootlesskit
-  version: 2.3.1
+  version: 2.3.2
 legacyPackages.x86_64-linux.ropebwt2:
   description: Incremental construction of FM-index for DNA sequences
   pname: ropebwt2
@@ -267421,7 +267425,7 @@ legacyPackages.x86_64-linux.scd2html:
 legacyPackages.x86_64-linux.scdl:
   description: Download Music from Soundcloud
   pname: scdl
-  version: 2.12.3
+  version: 2.12.4
 legacyPackages.x86_64-linux.scdoc:
   description: Simple man page generator written in C99 for POSIX systems
   pname: scdoc
@@ -271465,7 +271469,7 @@ legacyPackages.x86_64-linux.spotlight-downloader:
 legacyPackages.x86_64-linux.spotube:
   description: Open source, cross-platform Spotify client compatible across multiple platforms
   pname: spotube
-  version: 3.9.0
+  version: 4.0.0
 legacyPackages.x86_64-linux.spr:
   description: Submit pull requests for individual, amendable, rebaseable commits to GitHub
   pname: spr
@@ -271577,7 +271581,7 @@ legacyPackages.x86_64-linux.sqld:
 legacyPackages.x86_64-linux.sqldef:
   description: Idempotent SQL schema management tool
   pname: sqldef
-  version: 0.17.32
+  version: 1.0.0
 legacyPackages.x86_64-linux.sqldiff:
   description: Tool that displays the differences between SQLite databases
   pname: sqldiff
@@ -272025,7 +272029,7 @@ legacyPackages.x86_64-linux.sslstrip:
 legacyPackages.x86_64-linux.ssm-agent:
   description: Agent to enable remote management of your Amazon EC2 instance configuration
   pname: amazon-ssm-agent
-  version: 3.3.1802.0
+  version: 3.3.1957.0
 legacyPackages.x86_64-linux.ssm-session-manager-plugin:
   description: Amazon SSM Session Manager Plugin
   pname: ssm-session-manager-plugin
@@ -275097,7 +275101,7 @@ legacyPackages.x86_64-linux.td:
 legacyPackages.x86_64-linux.tdb:
   description: Trivial database
   pname: tdb
-  version: 1.4.12
+  version: 1.4.13
 legacyPackages.x86_64-linux.tdesktop:
   description: Telegram Desktop messaging app
   pname: telegram-desktop
@@ -275797,7 +275801,7 @@ legacyPackages.x86_64-linux.terraform-providers.baiducloud:
 legacyPackages.x86_64-linux.terraform-providers.bigip:
   description: ""
   pname: terraform-provider-bigip
-  version: 1.22.7
+  version: 1.22.8
 legacyPackages.x86_64-linux.terraform-providers.bitbucket:
   description: ""
   pname: terraform-provider-bitbucket
@@ -275901,7 +275905,7 @@ legacyPackages.x86_64-linux.terraform-providers.docker:
 legacyPackages.x86_64-linux.terraform-providers.doppler:
   description: ""
   pname: terraform-provider-doppler
-  version: 1.14.1
+  version: 1.15.0
 legacyPackages.x86_64-linux.terraform-providers.elasticsearch:
   description: ""
   pname: terraform-provider-elasticsearch
@@ -275909,7 +275913,7 @@ legacyPackages.x86_64-linux.terraform-providers.elasticsearch:
 legacyPackages.x86_64-linux.terraform-providers.equinix:
   description: ""
   pname: terraform-provider-equinix
-  version: 3.2.0
+  version: 3.4.0
 legacyPackages.x86_64-linux.terraform-providers.exoscale:
   description: ""
   pname: terraform-provider-exoscale
@@ -276029,7 +276033,7 @@ legacyPackages.x86_64-linux.terraform-providers.jetstream:
 legacyPackages.x86_64-linux.terraform-providers.kafka:
   description: ""
   pname: terraform-provider-kafka
-  version: 0.8.3
+  version: 0.9.0
 legacyPackages.x86_64-linux.terraform-providers.kafka-connect:
   description: ""
   pname: terraform-provider-kafka-connect
@@ -276261,7 +276265,7 @@ legacyPackages.x86_64-linux.terraform-providers.spacelift:
 legacyPackages.x86_64-linux.terraform-providers.spotinst:
   description: ""
   pname: terraform-provider-spotinst
-  version: 1.209.2
+  version: 1.211.0
 legacyPackages.x86_64-linux.terraform-providers.ssh:
   description: ""
   pname: terraform-provider-ssh
@@ -276277,7 +276281,7 @@ legacyPackages.x86_64-linux.terraform-providers.statuscake:
 legacyPackages.x86_64-linux.terraform-providers.sumologic:
   description: ""
   pname: terraform-provider-sumologic
-  version: 3.0.4
+  version: 3.0.5
 legacyPackages.x86_64-linux.terraform-providers.sysdig:
   description: ""
   pname: terraform-provider-sysdig
@@ -297638,10 +297642,6 @@ legacyPackages.x86_64-linux.treefmt:
   description: one CLI to format the code tree
   pname: treefmt
   version: 2.1.1
-legacyPackages.x86_64-linux.treefmt1:
-  description: one CLI to format the code tree
-  pname: treefmt
-  version: 0.6.1
 legacyPackages.x86_64-linux.treefmt2:
   description: one CLI to format the code tree
   pname: treefmt
@@ -299757,7 +299757,7 @@ legacyPackages.x86_64-linux.unison-ucm:
 legacyPackages.x86_64-linux.unit:
   description: Dynamic web and application server, designed to run applications in multiple languages
   pname: unit
-  version: 1.34.1
+  version: 1.34.2
 legacyPackages.x86_64-linux.units:
   description: Unit conversion tool
   pname: units
@@ -312681,7 +312681,7 @@ legacyPackages.x86_64-linux.waagent:
 legacyPackages.x86_64-linux.wabt:
   description: WebAssembly Binary Toolkit
   pname: wabt
-  version: 1.0.36
+  version: 1.0.37
 legacyPackages.x86_64-linux.wacomtablet:
   description: KDE Configuration Module for Wacom Graphics Tablets
   pname: wacomtablet
