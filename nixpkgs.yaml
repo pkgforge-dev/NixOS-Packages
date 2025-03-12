@@ -9169,7 +9169,7 @@ legacyPackages.x86_64-linux.betterdiscordctl:
 legacyPackages.x86_64-linux.betterdisplay:
   description: Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more
   pname: betterdisplay
-  version: 3.3.2
+  version: 3.4.1
 legacyPackages.x86_64-linux.betterlockscreen:
   description: Fast and sweet looking lockscreen for linux systems with effects!
   pname: betterlockscreen
@@ -22545,7 +22545,7 @@ legacyPackages.x86_64-linux.dawncut:
 legacyPackages.x86_64-linux.dayon:
   description: Easy to use, cross-platform remote desktop assistance solution
   pname: dayon
-  version: 16.0.1
+  version: 16.0.2
 legacyPackages.x86_64-linux.daytona-bin:
   description: Open Source Dev Environment Manager
   pname: daytona-bin
@@ -23533,7 +23533,7 @@ legacyPackages.x86_64-linux.deploy-rs:
 legacyPackages.x86_64-linux.depotdownloader:
   description: Steam depot downloader utilizing the SteamKit2 library
   pname: depotdownloader
-  version: 2.7.4
+  version: 3.0.0
 legacyPackages.x86_64-linux.deqp-runner:
   description: VK-GL-CTS/dEQP wrapper program to parallelize it across CPUs and report results against a baseline
   pname: deqp-runner
@@ -25782,6 +25782,10 @@ legacyPackages.x86_64-linux.dovecot_pigeonhole:
   description: Sieve plugin for the Dovecot IMAP server
   pname: dovecot-pigeonhole
   version: 0.5.21.1
+legacyPackages.x86_64-linux.dovi-tool:
+  description: CLI tool combining multiple utilities for working with Dolby Vision
+  pname: dovi-tool
+  version: 2.2.0
 legacyPackages.x86_64-linux.doxygen:
   description: Source code documentation generator tool
   pname: doxygen
@@ -28081,7 +28085,7 @@ legacyPackages.x86_64-linux.emma:
 legacyPackages.x86_64-linux.emmet-language-server:
   description: Language server for emmet.io
   pname: emmet-language-server
-  version: 2.6.0
+  version: 2.6.1
 legacyPackages.x86_64-linux.emmet-ls:
   description: Emmet support based on LSP
   pname: emmet-ls
@@ -29237,7 +29241,7 @@ legacyPackages.x86_64-linux.expenses:
 legacyPackages.x86_64-linux.experienced-pixel-dungeon:
   description: A fork of the Shattered Pixel Dungeon roguelike without limits on experience and items
   pname: experienced-pixel-dungeon
-  version: 2.18.2
+  version: "2.19"
 legacyPackages.x86_64-linux.expidus.calculator:
   description: ExpidusOS Calculator
   pname: expidus-calculator
@@ -30821,7 +30825,7 @@ legacyPackages.x86_64-linux.firefly-iii-data-importer:
 legacyPackages.x86_64-linux.firefox:
   description: Web browser built from Firefox source tree
   pname: firefox
-  version: "136.0"
+  version: 136.0.1
 legacyPackages.x86_64-linux.firefox-beta:
   description: Web browser built from Firefox Beta Release source tree
   pname: firefox-beta
@@ -30841,11 +30845,11 @@ legacyPackages.x86_64-linux.firefox-beta-unwrapped:
 legacyPackages.x86_64-linux.firefox-bin:
   description: Mozilla Firefox, free web browser (binary package)
   pname: firefox-bin
-  version: "136.0"
+  version: 136.0.1
 legacyPackages.x86_64-linux.firefox-bin-unwrapped:
   description: Mozilla Firefox, free web browser (binary package)
   pname: firefox-release-bin-unwrapped
-  version: "136.0"
+  version: 136.0.1
 legacyPackages.x86_64-linux.firefox-devedition:
   description: Web browser built from Firefox Developer Edition source tree
   pname: firefox-devedition
@@ -30881,7 +30885,7 @@ legacyPackages.x86_64-linux.firefox-esr-unwrapped:
 legacyPackages.x86_64-linux.firefox-mobile:
   description: Web browser built from Firefox source tree
   pname: firefox
-  version: "136.0"
+  version: 136.0.1
 legacyPackages.x86_64-linux.firefox-sync-client:
   description: Commandline-utility to list/view/edit/delete entries in a firefox-sync account.
   pname: firefox-sync-client
@@ -30889,11 +30893,11 @@ legacyPackages.x86_64-linux.firefox-sync-client:
 legacyPackages.x86_64-linux.firefox-unwrapped:
   description: Web browser built from Firefox source tree
   pname: firefox-unwrapped
-  version: "136.0"
+  version: 136.0.1
 legacyPackages.x86_64-linux.firefox-wayland:
   description: Web browser built from Firefox source tree
   pname: firefox
-  version: "136.0"
+  version: 136.0.1
 legacyPackages.x86_64-linux.firefox_decrypt:
   description: Tool to extract passwords from profiles of Mozilla Firefox and derivates
   pname: firefox_decrypt
@@ -31621,11 +31625,11 @@ legacyPackages.x86_64-linux.fluentd:
 legacyPackages.x86_64-linux.fluffychat:
   description: Chat with your friends (matrix client)
   pname: fluffychat-linux
-  version: 1.23.0
+  version: 1.25.1
 legacyPackages.x86_64-linux.fluffychat-web:
   description: Chat with your friends (matrix client)
   pname: fluffychat-web
-  version: 1.23.0
+  version: 1.25.1
 legacyPackages.x86_64-linux.fluidd:
   description: Klipper web interface
   pname: fluidd
@@ -42385,7 +42389,7 @@ legacyPackages.x86_64-linux.grim:
 legacyPackages.x86_64-linux.grimblast:
   description: Helper for screenshots within Hyprland, based on grimshot
   pname: grimblast
-  version: 0.1-unstable-2025-03-06
+  version: 0.1-unstable-2025-03-11
 legacyPackages.x86_64-linux.grimoire:
   description: Tool to generate datasets of cloud audit logs for common attacks
   pname: grimoire
@@ -51553,7 +51557,7 @@ legacyPackages.x86_64-linux.immich-machine-learning:
 legacyPackages.x86_64-linux.immich-public-proxy:
   description: Share your Immich photos and albums in a safe way without exposing your Immich instance to the public
   pname: immich-public-proxy
-  version: 1.7.3
+  version: 1.8.0
 legacyPackages.x86_64-linux.immudb:
   description: Immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history
   pname: immudb
@@ -52878,6 +52882,10 @@ legacyPackages.x86_64-linux.irust:
   description: Cross Platform Rust Repl
   pname: irust
   version: 1.71.30
+legacyPackages.x86_64-linux.is-fast:
+  description: Check the internet as fast as possible
+  pname: is-fast
+  version: 0.1.3
 legacyPackages.x86_64-linux.isa-l:
   description: Collection of optimised low-level functions targeting storage applications
   pname: isa-l
@@ -58574,6 +58582,10 @@ legacyPackages.x86_64-linux.komikku:
   description: Manga reader for GNOME
   pname: komikku
   version: 1.71.0
+legacyPackages.x86_64-linux.komodo:
+  description: Tool to build and deploy software on many servers
+  pname: komodo
+  version: 1.16.12
 legacyPackages.x86_64-linux.komorebi:
   description: Beautiful and customizable wallpaper manager for Linux
   pname: komorebi
@@ -68601,11 +68613,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.10.234
+  version: 2.3.1-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.10.234
+  version: 2.3.1-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -69237,11 +69249,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.10.234
+  version: 2.3.1-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.10.234
+  version: 2.3.1-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -69873,11 +69885,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.15.178
+  version: 2.3.1-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.15.178
+  version: 2.3.1-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -70509,11 +70521,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.15.178
+  version: 2.3.1-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.15.178
+  version: 2.3.1-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -71149,11 +71161,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.4.290
+  version: 2.3.1-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.4.290
+  version: 2.3.1-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -71789,11 +71801,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.4.290
+  version: 2.3.1-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.4.290
+  version: 2.3.1-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -72421,11 +72433,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.1.130
+  version: 2.3.1-6.1.130
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.1.130
+  version: 2.3.1-6.1.130
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -73057,11 +73069,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.11.11
+  version: 2.3.1-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.11.11
+  version: 2.3.1-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -73693,11 +73705,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.11.11
+  version: 2.3.1-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.11.11
+  version: 2.3.1-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -74329,11 +74341,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -74965,11 +74977,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -75601,11 +75613,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -76237,11 +76249,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -76869,11 +76881,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.1.129
+  version: 2.3.1-6.1.129
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.1.129
+  version: 2.3.1-6.1.129
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -77501,11 +77513,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.6.82
+  version: 2.3.1-6.6.82
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.6.82
+  version: 2.3.1-6.6.82
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -78133,11 +78145,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.6.80
+  version: 2.3.1-6.6.80
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.6.80
+  version: 2.3.1-6.6.80
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -78769,11 +78781,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -79405,11 +79417,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -80041,11 +80053,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -80677,11 +80689,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -81313,11 +81325,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -81949,11 +81961,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -82585,11 +82597,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -83221,11 +83233,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages-libre.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -83857,11 +83869,11 @@ legacyPackages.x86_64-linux.linuxPackages-libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages-libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxPackages-libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxPackages.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -84493,11 +84505,11 @@ legacyPackages.x86_64-linux.linuxPackages.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxPackages.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.18
+  version: 2.3.1-6.12.18
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -85129,11 +85141,11 @@ legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.10.234
+  version: 2.3.1-5.10.234
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.10.234
+  version: 2.3.1-5.10.234
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -85765,11 +85777,11 @@ legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.15.178
+  version: 2.3.1-5.15.178
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.15.178
+  version: 2.3.1-5.15.178
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -86405,11 +86417,11 @@ legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.4.290
+  version: 2.3.1-5.4.290
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-5.4.290
+  version: 2.3.1-5.4.290
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -87041,11 +87053,11 @@ legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.11.11
+  version: 2.3.1-6.11.11
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.11.11
+  version: 2.3.1-6.11.11
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -87677,11 +87689,11 @@ legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -88313,11 +88325,11 @@ legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -88945,11 +88957,11 @@ legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.1.129
+  version: 2.3.1-6.1.129
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.1.129
+  version: 2.3.1-6.1.129
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -89577,11 +89589,11 @@ legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.6.80
+  version: 2.3.1-6.6.80
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.6.80
+  version: 2.3.1-6.6.80
 legacyPackages.x86_64-linux.linuxPackages_custom_tinyconfig_kernel:
   description: The Linux kernel
   pname: linux
@@ -90217,11 +90229,11 @@ legacyPackages.x86_64-linux.linuxPackages_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -90853,11 +90865,11 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxPackages_latest.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -91489,11 +91501,11 @@ legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxPackages_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.6
+  version: 2.3.1-6.13.6
 legacyPackages.x86_64-linux.linuxPackages_lqx.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -92125,11 +92137,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -92761,11 +92773,11 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.12.17
+  version: 2.3.1-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -93397,11 +93409,11 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -94033,11 +94045,11 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
@@ -94669,11 +94681,11 @@ legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.0-6.13.5
+  version: 2.3.1-6.13.5
 legacyPackages.x86_64-linux.linux_5_10:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
@@ -97290,6 +97302,10 @@ legacyPackages.x86_64-linux.long-shebang:
   description: 'Tool for #! scripts with more than one argument'
   pname: long-shebang
   version: 1.2.0
+legacyPackages.x86_64-linux.longcat:
+  description: Renders a picture of a long cat on the terminal.
+  pname: longcat
+  version: 0.0.12
 legacyPackages.x86_64-linux.longview:
   description: Collects all of your system-level metrics and sends them to Linode
   pname: longview
@@ -104385,7 +104401,7 @@ legacyPackages.x86_64-linux.mdk:
 legacyPackages.x86_64-linux.mdk-sdk:
   description: multimedia development kit
   pname: mdk-sdk
-  version: 0.30.1
+  version: 0.31.0
 legacyPackages.x86_64-linux.mdk3-master:
   description: MDK3 fork able to force reboot Access Points
   pname: mdk3-master
@@ -105973,7 +105989,7 @@ legacyPackages.x86_64-linux.minutor:
 legacyPackages.x86_64-linux.mir:
   description: Display server and Wayland compositor developed by Canonical
   pname: mir
-  version: 2.19.3
+  version: 2.20.0
 legacyPackages.x86_64-linux.mir-qualia:
   description: Dynamically enable sections of config files
   pname: mir.qualia
@@ -106522,6 +106538,10 @@ legacyPackages.x86_64-linux.moc:
   description: Terminal audio player designed to be powerful and easy to use
   pname: moc
   version: 2.6-alpha3-unstable-2019-09-14
+legacyPackages.x86_64-linux.mochi:
+  description: Simple markdown-powered SRS app
+  pname: mochi
+  version: 1.18.7
 legacyPackages.x86_64-linux.mockgen:
   description: GoMock is a mocking framework for the Go programming language
   pname: mockgen
@@ -110973,7 +110993,7 @@ legacyPackages.x86_64-linux.nix-unit:
 legacyPackages.x86_64-linux.nix-update:
   description: Swiss-knife for updating nix packages
   pname: nix-update
-  version: 1.9.0
+  version: 1.10.0
 legacyPackages.x86_64-linux.nix-update-source:
   description: Utility to automate updating of nix derivation sources
   pname: nix-update-source
@@ -111029,7 +111049,7 @@ legacyPackages.x86_64-linux.nixVersions.nix_2_25:
 legacyPackages.x86_64-linux.nixVersions.nix_2_26:
   description: The Nix package manager
   pname: nix
-  version: 2.26.1
+  version: 2.26.3
 legacyPackages.x86_64-linux.nixVersions.nix_2_3:
   description: Powerful package manager that makes package management reliable and reproducible
   pname: nix
@@ -112029,7 +112049,7 @@ legacyPackages.x86_64-linux.nss_ldap:
 legacyPackages.x86_64-linux.nss_pam_ldapd:
   description: LDAP identity and authentication for NSS/PAM
   pname: nss-pam-ldapd
-  version: 0.9.12
+  version: 0.9.13
 legacyPackages.x86_64-linux.nss_wrapper:
   description: Wrapper for the user, group and hosts NSS API
   pname: nss_wrapper
@@ -118473,7 +118493,7 @@ legacyPackages.x86_64-linux.openbabel3:
 legacyPackages.x86_64-linux.openbao:
   description: Open source, community-driven fork of Vault managed by the Linux Foundation
   pname: openbao
-  version: 2.1.1
+  version: 2.2.0
 legacyPackages.x86_64-linux.openbgpd:
   description: A free implementation of the Border Gateway Protocol, Version 4. It allows ordinary machines to be used as routers exchanging routes with other systems speaking the BGP protocol
   pname: opengpd
@@ -155946,6 +155966,10 @@ legacyPackages.x86_64-linux.profont:
   description: Monospaced font created to be a most readable font for programming
   pname: profont
   version: 2019-11
+legacyPackages.x86_64-linux.proftpd:
+  description: Highly configurable GPL-licensed FTP server software
+  pname: proftpd
+  version: 1.3.8c
 legacyPackages.x86_64-linux.proggyfonts:
   description: Set of fixed-width screen fonts that are designed for code listings
   pname: proggyfonts
@@ -162549,7 +162573,7 @@ legacyPackages.x86_64-linux.python312Packages.clickhouse-driver:
 legacyPackages.x86_64-linux.python312Packages.cliff:
   description: Command Line Interface Formulation Framework
   pname: python3.12-cliff
-  version: 4.8.0
+  version: 4.9.1
 legacyPackages.x86_64-linux.python312Packages.clifford:
   description: Numerical Geometric Algebra Module
   pname: python3.12-clifford
@@ -165349,7 +165373,7 @@ legacyPackages.x86_64-linux.python312Packages.dlx:
 legacyPackages.x86_64-linux.python312Packages.dm-control:
   description: Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo
   pname: python3.12-dm-control
-  version: 1.0.26
+  version: 1.0.28
 legacyPackages.x86_64-linux.python312Packages.dm-env:
   description: Pure Python client for Apache Kafka
   pname: python3.12-dm-env
@@ -171462,6 +171486,10 @@ legacyPackages.x86_64-linux.python312Packages.jsonschema-path:
   description: JSONSchema Spec with object-oriented paths
   pname: python3.12-jsonschema-path
   version: 0.3.3
+legacyPackages.x86_64-linux.python312Packages.jsonschema-rs:
+  description: High-performance JSON Schema validator for Python
+  pname: python3.12-jsonschema-rs
+  version: 0.29.1
 legacyPackages.x86_64-linux.python312Packages.jsonschema-spec:
   description: JSONSchema Spec with object-oriented paths
   pname: python3.12-jsonschema-spec
@@ -174214,6 +174242,10 @@ legacyPackages.x86_64-linux.python312Packages.miniful:
   description: Minimal Fuzzy Library
   pname: python3.12-miniful
   version: 0.0.6
+legacyPackages.x86_64-linux.python312Packages.minify-html:
+  description: Extremely fast and smart HTML + JS + CSS minifier
+  pname: python3.12-minify-html
+  version: 0.15.0
 legacyPackages.x86_64-linux.python312Packages.minikanren:
   description: Relational programming in Python
   pname: python3.12-minikanren
@@ -175049,7 +175081,7 @@ legacyPackages.x86_64-linux.python312Packages.mwtypes:
 legacyPackages.x86_64-linux.python312Packages.mwxml:
   description: Set of utilities for processing MediaWiki XML dump data
   pname: python3.12-mwxml
-  version: 0.3.5
+  version: 0.3.6
 legacyPackages.x86_64-linux.python312Packages.mxnet:
   description: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler
   pname: python3.12-mxnet
@@ -188145,7 +188177,7 @@ legacyPackages.x86_64-linux.python312Packages.shap:
 legacyPackages.x86_64-linux.python312Packages.shapely:
   description: Manipulation and analysis of geometric objects
   pname: python3.12-shapely
-  version: 2.0.6
+  version: 2.0.7
 legacyPackages.x86_64-linux.python312Packages.shaperglot:
   description: Tool to test OpenType fonts for language support
   pname: python3.12-shaperglot
@@ -189897,7 +189929,7 @@ legacyPackages.x86_64-linux.python312Packages.streamlabswater:
 legacyPackages.x86_64-linux.python312Packages.streamlit:
   description: Fastest way to build custom ML tools
   pname: python3.12-streamlit
-  version: 1.41.1
+  version: 1.42.2
 legacyPackages.x86_64-linux.python312Packages.streamz:
   description: Pipelines to manage continuous streams of data
   pname: python3.12-streamz
@@ -191002,6 +191034,10 @@ legacyPackages.x86_64-linux.python312Packages.tinytuya:
   description: Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API)
   pname: python3.12-tinytuya
   version: 1.16.1
+legacyPackages.x86_64-linux.python312Packages.tiptapy:
+  description: Library that generates HTML output from JSON export of tiptap editor
+  pname: python3.12-tiptapy
+  version: 0.20.0-unstable-2024-06-14
 legacyPackages.x86_64-linux.python312Packages.titlecase:
   description: Python library to capitalize strings as specified by the New York Times
   pname: python3.12-titlecase
@@ -193941,7 +193977,7 @@ legacyPackages.x86_64-linux.python312Packages.validobj:
 legacyPackages.x86_64-linux.python312Packages.vallox-websocket-api:
   description: Async API for Vallox ventilation units
   pname: python3.12-vallox-websocket-api
-  version: 5.3.0
+  version: 5.4.0
 legacyPackages.x86_64-linux.python312Packages.vapoursynth:
   description: Video processing framework with the future in mind
   pname: python3.12-vapoursynth
@@ -195073,7 +195109,7 @@ legacyPackages.x86_64-linux.python312Packages.xml-marshaller:
 legacyPackages.x86_64-linux.python312Packages.xml2rfc:
   description: Tool generating IETF RFCs and drafts from XML sources
   pname: python3.12-xml2rfc
-  version: 3.25.0
+  version: 3.28.0
 legacyPackages.x86_64-linux.python312Packages.xmldiff:
   description: Creates diffs of XML files
   pname: python3.12-xmldiff
@@ -200717,7 +200753,7 @@ legacyPackages.x86_64-linux.python313Packages.clickhouse-driver:
 legacyPackages.x86_64-linux.python313Packages.cliff:
   description: Command Line Interface Formulation Framework
   pname: python3.13-cliff
-  version: 4.8.0
+  version: 4.9.1
 legacyPackages.x86_64-linux.python313Packages.clifford:
   description: Numerical Geometric Algebra Module
   pname: python3.13-clifford
@@ -203517,7 +203553,7 @@ legacyPackages.x86_64-linux.python313Packages.dlx:
 legacyPackages.x86_64-linux.python313Packages.dm-control:
   description: Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo
   pname: python3.13-dm-control
-  version: 1.0.26
+  version: 1.0.28
 legacyPackages.x86_64-linux.python313Packages.dm-env:
   description: Pure Python client for Apache Kafka
   pname: python3.13-dm-env
@@ -209630,6 +209666,10 @@ legacyPackages.x86_64-linux.python313Packages.jsonschema-path:
   description: JSONSchema Spec with object-oriented paths
   pname: python3.13-jsonschema-path
   version: 0.3.3
+legacyPackages.x86_64-linux.python313Packages.jsonschema-rs:
+  description: High-performance JSON Schema validator for Python
+  pname: python3.13-jsonschema-rs
+  version: 0.29.1
 legacyPackages.x86_64-linux.python313Packages.jsonschema-spec:
   description: JSONSchema Spec with object-oriented paths
   pname: python3.13-jsonschema-spec
@@ -212382,6 +212422,10 @@ legacyPackages.x86_64-linux.python313Packages.miniful:
   description: Minimal Fuzzy Library
   pname: python3.13-miniful
   version: 0.0.6
+legacyPackages.x86_64-linux.python313Packages.minify-html:
+  description: Extremely fast and smart HTML + JS + CSS minifier
+  pname: python3.13-minify-html
+  version: 0.15.0
 legacyPackages.x86_64-linux.python313Packages.minikanren:
   description: Relational programming in Python
   pname: python3.13-minikanren
@@ -213217,7 +213261,7 @@ legacyPackages.x86_64-linux.python313Packages.mwtypes:
 legacyPackages.x86_64-linux.python313Packages.mwxml:
   description: Set of utilities for processing MediaWiki XML dump data
   pname: python3.13-mwxml
-  version: 0.3.5
+  version: 0.3.6
 legacyPackages.x86_64-linux.python313Packages.mxnet:
   description: Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler
   pname: python3.13-mxnet
@@ -226313,7 +226357,7 @@ legacyPackages.x86_64-linux.python313Packages.shap:
 legacyPackages.x86_64-linux.python313Packages.shapely:
   description: Manipulation and analysis of geometric objects
   pname: python3.13-shapely
-  version: 2.0.6
+  version: 2.0.7
 legacyPackages.x86_64-linux.python313Packages.shaperglot:
   description: Tool to test OpenType fonts for language support
   pname: python3.13-shaperglot
@@ -228085,7 +228129,7 @@ legacyPackages.x86_64-linux.python313Packages.streamlabswater:
 legacyPackages.x86_64-linux.python313Packages.streamlit:
   description: Fastest way to build custom ML tools
   pname: python3.13-streamlit
-  version: 1.41.1
+  version: 1.42.2
 legacyPackages.x86_64-linux.python313Packages.streamz:
   description: Pipelines to manage continuous streams of data
   pname: python3.13-streamz
@@ -229190,6 +229234,10 @@ legacyPackages.x86_64-linux.python313Packages.tinytuya:
   description: Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API)
   pname: python3.13-tinytuya
   version: 1.16.1
+legacyPackages.x86_64-linux.python313Packages.tiptapy:
+  description: Library that generates HTML output from JSON export of tiptap editor
+  pname: python3.13-tiptapy
+  version: 0.20.0-unstable-2024-06-14
 legacyPackages.x86_64-linux.python313Packages.titlecase:
   description: Python library to capitalize strings as specified by the New York Times
   pname: python3.13-titlecase
@@ -232129,7 +232177,7 @@ legacyPackages.x86_64-linux.python313Packages.validobj:
 legacyPackages.x86_64-linux.python313Packages.vallox-websocket-api:
   description: Async API for Vallox ventilation units
   pname: python3.13-vallox-websocket-api
-  version: 5.3.0
+  version: 5.4.0
 legacyPackages.x86_64-linux.python313Packages.vapoursynth:
   description: Video processing framework with the future in mind
   pname: python3.13-vapoursynth
@@ -233261,7 +233309,7 @@ legacyPackages.x86_64-linux.python313Packages.xml-marshaller:
 legacyPackages.x86_64-linux.python313Packages.xml2rfc:
   description: Tool generating IETF RFCs and drafts from XML sources
   pname: python3.13-xml2rfc
-  version: 3.25.0
+  version: 3.28.0
 legacyPackages.x86_64-linux.python313Packages.xmldiff:
   description: Creates diffs of XML files
   pname: python3.13-xmldiff
@@ -236989,7 +237037,7 @@ legacyPackages.x86_64-linux.remctl:
 legacyPackages.x86_64-linux.remind:
   description: Sophisticated calendar and alarm program for the console
   pname: remind
-  version: 05.03.02
+  version: 05.03.04
 legacyPackages.x86_64-linux.remkrom:
   description: Reimplementation of mkrom in Rust
   pname: remkrom-unstable
@@ -268985,7 +269033,7 @@ legacyPackages.x86_64-linux.shadowsocks-v2ray-plugin:
 legacyPackages.x86_64-linux.shadps4:
   description: Early in development PS4 emulator
   pname: shadps4
-  version: 0.6.0-unstable-2025-03-07
+  version: 0.6.0-unstable-2025-03-10
 legacyPackages.x86_64-linux.shairplay:
   description: Apple AirPlay and RAOP protocol server
   pname: shairplay-unstable
@@ -270038,6 +270086,10 @@ legacyPackages.x86_64-linux.skypilot:
   description: Run LLMs and AI on any Cloud
   pname: skypilot
   version: 0.8.0
+legacyPackages.x86_64-linux.skyscraper:
+  description: Powerful and versatile game data scraper written in Qt and C++
+  pname: skyscraper
+  version: 3.14.0
 legacyPackages.x86_64-linux.skytemple:
   description: ROM hacking tool for Pokémon Mystery Dungeon Explorers of Sky
   pname: skytemple
@@ -273145,7 +273197,7 @@ legacyPackages.x86_64-linux.streamlink-twitch-gui-bin:
 legacyPackages.x86_64-linux.streamlit:
   description: Fastest way to build custom ML tools
   pname: streamlit
-  version: 1.41.1
+  version: 1.42.2
 legacyPackages.x86_64-linux.streamrip:
   description: Scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
   pname: streamrip
@@ -275145,11 +275197,11 @@ legacyPackages.x86_64-linux.tartan:
 legacyPackages.x86_64-linux.tartube:
   description: GUI front-end for youtube-dl
   pname: tartube
-  version: 2.5.062
+  version: 2.5.100
 legacyPackages.x86_64-linux.tartube-yt-dlp:
   description: GUI front-end for youtube-dl
   pname: tartube
-  version: 2.5.062
+  version: 2.5.100
 legacyPackages.x86_64-linux.tartufo:
   description: Tool to search through git repositories for high entropy strings and secrets
   pname: tartufo
@@ -296969,7 +297021,7 @@ legacyPackages.x86_64-linux.topiary:
 legacyPackages.x86_64-linux.topicctl:
   description: Tool for easy, declarative management of Kafka topics
   pname: topicctl
-  version: 1.19.1
+  version: 1.19.2
 legacyPackages.x86_64-linux.toppler:
   description: Jump and run game, reimplementation of Tower Toppler/Nebulus
   pname: toppler
@@ -297037,7 +297089,7 @@ legacyPackages.x86_64-linux.torus-trooper:
 legacyPackages.x86_64-linux.torzu:
   description: Fork of yuzu, an open-source Nintendo Switch emulator
   pname: torzu-unstable
-  version: "2024-12-15"
+  version: "2025-02-22"
 legacyPackages.x86_64-linux.toss:
   description: Dead simple LAN file transfers from the command line
   pname: toss
@@ -297098,6 +297150,10 @@ legacyPackages.x86_64-linux.tparse:
   description: CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly
   pname: tparse
   version: 0.17.0
+legacyPackages.x86_64-linux.tparted:
+  description: Text-based user interface (TUI) frontend for parted
+  pname: tparted
+  version: "2025-01-24"
 legacyPackages.x86_64-linux.tpi:
   description: CLI tool to control your Turing Pi 2 board
   pname: tpi
@@ -301713,7 +301769,7 @@ legacyPackages.x86_64-linux.versionCheckHook:
 legacyPackages.x86_64-linux.versitygw:
   description: Versity S3 gateway, a high-performance S3 translation service
   pname: versitygw
-  version: 1.0.10
+  version: 1.0.11
 legacyPackages.x86_64-linux.versus:
   description: Benchmark multiple API endpoints against each other
   pname: versus
@@ -302381,7 +302437,7 @@ legacyPackages.x86_64-linux.vimPlugins.autosave-nvim:
 legacyPackages.x86_64-linux.vimPlugins.avante-nvim:
   description: Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
   pname: vimplugin-avante.nvim
-  version: 0.0.22
+  version: 0.0.23
 legacyPackages.x86_64-linux.vimPlugins.aw-watcher-vim:
   description: ""
   pname: vimplugin-aw-watcher-vim
@@ -311253,11 +311309,11 @@ legacyPackages.x86_64-linux.vscode-extensions.antfu.icons-carbon:
 legacyPackages.x86_64-linux.vscode-extensions.antfu.slidev:
   description: ""
   pname: vscode-extension-antfu-slidev
-  version: 51.3.0
+  version: 51.4.0
 legacyPackages.x86_64-linux.vscode-extensions.antyos.openscad:
   description: OpenSCAD highlighting, snippets, and more for VSCode
   pname: vscode-extension-Antyos-openscad
-  version: 1.3.1
+  version: 1.3.2
 legacyPackages.x86_64-linux.vscode-extensions.anweber.vscode-httpyac:
   description: Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code
   pname: vscode-extension-anweber-vscode-httpyac
@@ -311453,7 +311509,7 @@ legacyPackages.x86_64-linux.vscode-extensions.chenglou92.rescript-vscode:
 legacyPackages.x86_64-linux.vscode-extensions.chris-hayes.chatgpt-reborn:
   description: Visual Studio Code extension to support ChatGPT, GPT-3 and Codex conversations
   pname: vscode-extension-chris-hayes-chatgpt-reborn
-  version: 3.19.1
+  version: 3.26.0
 legacyPackages.x86_64-linux.vscode-extensions.chrischinchilla.vscode-pandoc:
   description: Converts Markdown files to pdf, docx, or html files using pandoc
   pname: vscode-extension-chrischinchilla-vscode-pandoc
@@ -311513,7 +311569,7 @@ legacyPackages.x86_64-linux.vscode-extensions.danielgavin.ols:
 legacyPackages.x86_64-linux.vscode-extensions.danielsanmedium.dscodegpt:
   description: Easily connect to AI providers using their official APIs in VSCode
   pname: vscode-extension-DanielSanMedium-dscodegpt
-  version: 3.4.10
+  version: 3.9.34
 legacyPackages.x86_64-linux.vscode-extensions.daohong-emilio.yash:
   description: ""
   pname: vscode-extension-daohong-emilio-yash
@@ -311521,11 +311577,11 @@ legacyPackages.x86_64-linux.vscode-extensions.daohong-emilio.yash:
 legacyPackages.x86_64-linux.vscode-extensions.dart-code.dart-code:
   description: ""
   pname: vscode-extension-dart-code-dart-code
-  version: 3.61.20230324
+  version: 3.107.20250311
 legacyPackages.x86_64-linux.vscode-extensions.dart-code.flutter:
   description: ""
   pname: vscode-extension-dart-code-flutter
-  version: 3.61.20230301
+  version: 3.107.20250303
 legacyPackages.x86_64-linux.vscode-extensions.databricks.databricks:
   description: Databricks extension for Visual Studio Code
   pname: vscode-extension-databricks-databricks
@@ -311649,7 +311705,7 @@ legacyPackages.x86_64-linux.vscode-extensions.egirlcatnip.adwaita-github-theme:
 legacyPackages.x86_64-linux.vscode-extensions.elixir-lsp.vscode-elixir-ls:
   description: Elixir support with debugger, autocomplete, and more. Powered by ElixirLS
   pname: vscode-extension-JakeBecker-elixir-ls
-  version: 0.24.2
+  version: 0.27.1
 legacyPackages.x86_64-linux.vscode-extensions.elmtooling.elm-ls-vscode:
   description: Elm language server
   pname: vscode-extension-Elmtooling-elm-ls-vscode
@@ -311825,7 +311881,7 @@ legacyPackages.x86_64-linux.vscode-extensions.haskell.haskell:
 legacyPackages.x86_64-linux.vscode-extensions.hbenl.vscode-test-explorer:
   description: Visual Studio Code extension that runs your tests in the sidebar
   pname: vscode-extension-hbenl-vscode-test-explorer
-  version: 2.21.1
+  version: 2.22.1
 legacyPackages.x86_64-linux.vscode-extensions.hediet.vscode-drawio:
   description: This unofficial extension integrates Draw.io into VS Code
   pname: vscode-extension-hediet-vscode-drawio
@@ -311861,7 +311917,7 @@ legacyPackages.x86_64-linux.vscode-extensions.iciclesoft.workspacesort:
 legacyPackages.x86_64-linux.vscode-extensions.iliazeus.vscode-ansi:
   description: ANSI color styling for text documents
   pname: vscode-extension-iliazeus-vscode-ansi
-  version: 1.1.6
+  version: 1.1.7
 legacyPackages.x86_64-linux.vscode-extensions.illixion.vscode-vibrancy-continued:
   description: Vibrancy Effect for Visual Studio Code
   pname: vscode-extension-illixion-vscode-vibrancy-continued
@@ -311913,7 +311969,7 @@ legacyPackages.x86_64-linux.vscode-extensions.jbockle.jbockle-format-files:
 legacyPackages.x86_64-linux.vscode-extensions.jdinhlife.gruvbox:
   description: Port of Gruvbox theme to VS Code editor
   pname: vscode-extension-jdinhlife-gruvbox
-  version: 1.24.5
+  version: 1.24.6
 legacyPackages.x86_64-linux.vscode-extensions.jebbs.plantuml:
   description: Visual Studio Code extension for supporting Rich PlantUML
   pname: vscode-extension-jebbs-plantuml
@@ -312261,7 +312317,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.anycode:
 legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.cmake-tools:
   description: ""
   pname: vscode-extension-ms-vscode-cmake-tools
-  version: 1.21.3
+  version: 1.21.4
 legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.cpptools:
   description: C/C++ extension adds language support for C/C++ to Visual Studio Code, including features such as IntelliSense and debugging
   pname: vscode-extension-ms-vscode-cpptools
@@ -312317,7 +312373,7 @@ legacyPackages.x86_64-linux.vscode-extensions.mskelton.one-dark-theme:
 legacyPackages.x86_64-linux.vscode-extensions.mvllow.rose-pine:
   description: ""
   pname: vscode-extension-mvllow-rose-pine
-  version: 2.7.1
+  version: 2.13.0
 legacyPackages.x86_64-linux.vscode-extensions.myriad-dreamin.tinymist:
   description: VSCode extension for providing an integration solution for Typst
   pname: vscode-extension-myriad-dreamin-tinymist
@@ -312349,7 +312405,7 @@ legacyPackages.x86_64-linux.vscode-extensions.nur.just-black:
 legacyPackages.x86_64-linux.vscode-extensions.ocamllabs.ocaml-platform:
   description: Official OCaml Support from OCamlLabs
   pname: vscode-extension-ocamllabs-ocaml-platform
-  version: 1.20.0
+  version: 1.28.1
 legacyPackages.x86_64-linux.vscode-extensions.octref.vetur:
   description: ""
   pname: vscode-extension-octref-vetur
@@ -312413,11 +312469,11 @@ legacyPackages.x86_64-linux.vscode-extensions.redhat.ansible:
 legacyPackages.x86_64-linux.vscode-extensions.redhat.java:
   description: Java language support for VS Code via the Eclipse JDT Language Server
   pname: vscode-extension-redhat-java
-  version: 1.30.2024041908
+  version: 1.41.2025031108
 legacyPackages.x86_64-linux.vscode-extensions.redhat.vscode-xml:
   description: ""
   pname: vscode-extension-redhat-vscode-xml
-  version: 0.26.2023092519
+  version: 0.28.2025031108
 legacyPackages.x86_64-linux.vscode-extensions.redhat.vscode-yaml:
   description: YAML Language Support by Red Hat, with built-in Kubernetes syntax support
   pname: vscode-extension-redhat-vscode-yaml
@@ -312705,7 +312761,7 @@ legacyPackages.x86_64-linux.vscode-extensions.unifiedjs.vscode-mdx:
 legacyPackages.x86_64-linux.vscode-extensions.usernamehw.errorlens:
   description: Visual Studio Code extension that improves highlighting of errors, warnings and other language diagnostics
   pname: vscode-extension-usernamehw-errorlens
-  version: 3.20.0
+  version: 3.24.0
 legacyPackages.x86_64-linux.vscode-extensions.vadimcn.vscode-lldb:
   description: Native debugger extension for VSCode based on LLDB
   pname: vscode-extension-vadimcn-vscode-lldb
@@ -312749,7 +312805,7 @@ legacyPackages.x86_64-linux.vscode-extensions.vlanguage.vscode-vlang:
 legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-gradle:
   description: Visual Studio Code extension for Gradle build tool
   pname: vscode-extension-vscjava-vscode-gradle
-  version: 3.13.2024011802
+  version: 3.16.2024111106
 legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-java-debug:
   description: ""
   pname: vscode-extension-vscjava-vscode-java-debug
@@ -312909,11 +312965,11 @@ legacyPackages.x86_64-linux.vscode-with-extensions:
 legacyPackages.x86_64-linux.vscodium:
   description: 'Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) '
   pname: vscodium
-  version: 1.97.2.25045
+  version: 1.98.0.25067
 legacyPackages.x86_64-linux.vscodium-fhs:
   description: 'Wrapped variant of vscodium which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: codium
-  version: 1.97.2.25045
+  version: 1.98.0.25067
 legacyPackages.x86_64-linux.vsftpd:
   description: Very secure FTP daemon
   pname: vsftpd
@@ -314221,7 +314277,7 @@ legacyPackages.x86_64-linux.wgo:
 legacyPackages.x86_64-linux.wgpu-native:
   description: Native WebGPU implementation based on wgpu-core
   pname: wgpu-native
-  version: 22.1.0.5
+  version: 24.0.0.1
 legacyPackages.x86_64-linux.wgpu-utils:
   description: Safe and portable GPU abstraction in Rust, implementing WebGPU API
   pname: wgpu-utils
@@ -316801,7 +316857,7 @@ legacyPackages.x86_64-linux.xml2:
 legacyPackages.x86_64-linux.xml2rfc:
   description: Tool generating IETF RFCs and drafts from XML sources
   pname: xml2rfc
-  version: 3.25.0
+  version: 3.28.0
 legacyPackages.x86_64-linux.xmlada:
   description: 'XML/Ada: An XML parser for Ada'
   pname: xmlada
@@ -318253,7 +318309,7 @@ legacyPackages.x86_64-linux.xtuner:
 legacyPackages.x86_64-linux.xulrunner:
   description: Web browser built from Firefox source tree
   pname: firefox-unwrapped
-  version: "136.0"
+  version: 136.0.1
 legacyPackages.x86_64-linux.xunit-viewer:
   description: View your xunit results using JavaScript
   pname: xunit-viewer
@@ -319661,7 +319717,7 @@ legacyPackages.x86_64-linux.zfp:
 legacyPackages.x86_64-linux.zfs:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.zfs-autobackup:
   description: ZFS backup, replicationand snapshot tool
   pname: zfs-autobackup
@@ -319677,11 +319733,11 @@ legacyPackages.x86_64-linux.zfs-replicate:
 legacyPackages.x86_64-linux.zfsStable:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.zfsUnstable:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.zfs_2_2:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
@@ -319689,11 +319745,11 @@ legacyPackages.x86_64-linux.zfs_2_2:
 legacyPackages.x86_64-linux.zfs_2_3:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.zfs_unstable:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.zfsbackup:
   description: Backup ZFS snapshots to cloud storage such as Google, Amazon, Azure, etc
   pname: zfsbackup-unstable
@@ -319801,7 +319857,7 @@ legacyPackages.x86_64-linux.zim:
 legacyPackages.x86_64-linux.zim-tools:
   description: Various ZIM command line tools
   pname: zim-tools
-  version: 3.4.0
+  version: 3.5.0
 legacyPackages.x86_64-linux.zimfw:
   description: The Zsh configuration framework with blazing speed and modular extensions
   pname: zimfw
@@ -319810,10 +319866,6 @@ legacyPackages.x86_64-linux.zimg:
   description: Scaling, colorspace conversion and dithering library
   pname: zimg
   version: 3.0.5
-legacyPackages.x86_64-linux.zimlib:
-  description: Library for reading and writing ZIM files
-  pname: zimlib
-  version: 9.1.0
 legacyPackages.x86_64-linux.zinc:
   description: Lightweight alternative to elasticsearch that requires minimal resources, written in Go
   pname: zincsearch
