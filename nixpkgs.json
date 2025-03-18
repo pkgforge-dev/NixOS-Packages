@@ -4657,7 +4657,7 @@
   "legacyPackages.x86_64-linux.angular-language-server": {
     "description": "LSP for angular completions, AOT diagnostic, quick info and go to definitions",
     "pname": "angular-language-server",
-    "version": "19.2.0"
+    "version": "19.2.1"
   },
   "legacyPackages.x86_64-linux.ani-cli": {
     "description": "Cli tool to browse and play anime",
@@ -6327,27 +6327,27 @@
   "legacyPackages.x86_64-linux.arocc": {
     "description": "C compiler written in Zig. (wrapper script)",
     "pname": "arocc-wrapper",
-    "version": "0-unstable-06-01"
+    "version": "0-unstable-2025-03-05"
   },
-  "legacyPackages.x86_64-linux.aroccPackages.0-unstable-06-01": {
+  "legacyPackages.x86_64-linux.aroccPackages.0-unstable-2025-03-05": {
     "description": "C compiler written in Zig. (wrapper script)",
     "pname": "arocc-wrapper",
-    "version": "0-unstable-06-01"
+    "version": "0-unstable-2025-03-05"
   },
-  "legacyPackages.x86_64-linux.aroccPackages.0-unstable-06-01-unwrapped": {
+  "legacyPackages.x86_64-linux.aroccPackages.0-unstable-2025-03-05-unwrapped": {
     "description": "C compiler written in Zig.",
     "pname": "arocc",
-    "version": "0-unstable-06-01"
+    "version": "0-unstable-2025-03-05"
   },
   "legacyPackages.x86_64-linux.aroccPackages.latest": {
     "description": "C compiler written in Zig. (wrapper script)",
     "pname": "arocc-wrapper",
-    "version": "0-unstable-06-01"
+    "version": "0-unstable-2025-03-05"
   },
   "legacyPackages.x86_64-linux.aroccPackages.latest-unwrapped": {
     "description": "C compiler written in Zig.",
     "pname": "arocc",
-    "version": "0-unstable-06-01"
+    "version": "0-unstable-2025-03-05"
   },
   "legacyPackages.x86_64-linux.aroccStdenv": {
     "description": "The default build environment for Unix packages in Nixpkgs",
@@ -15477,7 +15477,7 @@
   "legacyPackages.x86_64-linux.cargo-lambda": {
     "description": "Cargo subcommand to help you work with AWS Lambda",
     "pname": "cargo-lambda",
-    "version": "1.6.3"
+    "version": "1.8.0"
   },
   "legacyPackages.x86_64-linux.cargo-leptos": {
     "description": "Build tool for the Leptos web framework",
@@ -17167,7 +17167,7 @@
   "legacyPackages.x86_64-linux.chatgpt": {
     "description": "Desktop application for ChatGPT",
     "pname": "chatgpt",
-    "version": "1.2025.057"
+    "version": "1.2025.063"
   },
   "legacyPackages.x86_64-linux.chatgpt-cli": {
     "description": "Interactive CLI for ChatGPT",
@@ -20892,7 +20892,7 @@
   "legacyPackages.x86_64-linux.circt": {
     "description": "Circuit IR compilers and tools",
     "pname": "circt",
-    "version": "1.108.0"
+    "version": "1.109.0"
   },
   "legacyPackages.x86_64-linux.circumflex": {
     "description": "Command line tool for browsing Hacker News in your terminal",
@@ -22353,6 +22353,11 @@
     "description": "High performance code minimap render",
     "pname": "code-minimap",
     "version": "0.6.8"
+  },
+  "legacyPackages.x86_64-linux.code-nautilus": {
+    "description": "VSCode extension for Nautilus: 'Open in Code'",
+    "pname": "code-nautilus",
+    "version": "0-unstable-2024-09-11"
   },
   "legacyPackages.x86_64-linux.code-server": {
     "description": "Run VS Code on a remote server",
@@ -33037,7 +33042,7 @@
   "legacyPackages.x86_64-linux.dune3d": {
     "description": "3D CAD application",
     "pname": "dune3d",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.dune_1": {
     "description": "Composable build system",
@@ -36232,7 +36237,7 @@
   "legacyPackages.x86_64-linux.evcc": {
     "description": "EV Charge Controller",
     "pname": "evcc",
-    "version": "0.200.9"
+    "version": "0.201.0"
   },
   "legacyPackages.x86_64-linux.evcxr": {
     "description": "Evaluation context for Rust",
@@ -50329,6 +50334,11 @@
     "pname": "gnu-smalltalk",
     "version": "3.2.5"
   },
+  "legacyPackages.x86_64-linux.gnuStdenv": {
+    "description": "The default build environment for Unix packages in Nixpkgs",
+    "pname": "stdenv-linux",
+    "version": ""
+  },
   "legacyPackages.x86_64-linux.gnuapl": {
     "description": "Free interpreter for the APL programming language",
     "pname": "gnu-apl",
@@ -53152,27 +53162,27 @@
   "legacyPackages.x86_64-linux.gromacs": {
     "description": "Molecular dynamics software package",
     "pname": "gromacs",
-    "version": "2025.0"
+    "version": "2025.1"
   },
   "legacyPackages.x86_64-linux.gromacsCudaMpi": {
     "description": "Molecular dynamics software package",
     "pname": "gromacs",
-    "version": "2025.0"
+    "version": "2025.1"
   },
   "legacyPackages.x86_64-linux.gromacsDouble": {
     "description": "Molecular dynamics software package",
     "pname": "gromacs",
-    "version": "2025.0"
+    "version": "2025.1"
   },
   "legacyPackages.x86_64-linux.gromacsDoubleMpi": {
     "description": "Molecular dynamics software package",
     "pname": "gromacs",
-    "version": "2025.0"
+    "version": "2025.1"
   },
   "legacyPackages.x86_64-linux.gromacsMpi": {
     "description": "Molecular dynamics software package",
     "pname": "gromacs",
-    "version": "2025.0"
+    "version": "2025.1"
   },
   "legacyPackages.x86_64-linux.gromacsPlumed": {
     "description": "Molecular dynamics software package",
@@ -55877,7 +55887,7 @@
   "legacyPackages.x86_64-linux.hexxy": {
     "description": "A modern and beautiful alternative to xxd and hexdump",
     "pname": "hexxy",
-    "version": "0-unstable-2024-09-29"
+    "version": "0-unstable-2025-03-16"
   },
   "legacyPackages.x86_64-linux.hexyl": {
     "description": "Command-line hex viewer",
@@ -63797,7 +63807,7 @@
   "legacyPackages.x86_64-linux.icloudpd": {
     "description": "iCloud Photos Downloader",
     "pname": "icloudpd",
-    "version": "1.27.0"
+    "version": "1.27.1"
   },
   "legacyPackages.x86_64-linux.icmake": {
     "description": "Program maintenance (make) utility using a C-like grammar",
@@ -67437,7 +67447,7 @@
   "legacyPackages.x86_64-linux.jinja-lsp": {
     "description": "Language server implementation for jinja2",
     "pname": "jinja-lsp",
-    "version": "0.1.84"
+    "version": "0.1.85"
   },
   "legacyPackages.x86_64-linux.jinja2-cli": {
     "description": "CLI for Jinja2",
@@ -74512,7 +74522,7 @@
   "legacyPackages.x86_64-linux.ladybird": {
     "description": "Browser using the SerenityOS LibWeb engine with a Qt or Cocoa GUI",
     "pname": "ladybird",
-    "version": "0-unstable-2025-03-04"
+    "version": "0-unstable-2025-03-16"
   },
   "legacyPackages.x86_64-linux.lager": {
     "description": "C++ library for value-oriented design using the unidirectional data-flow architecture — Redux for C++",
@@ -85047,7 +85057,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_testing": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
     "pname": "linux",
-    "version": "6.14-rc6"
+    "version": "6.14-rc7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_xanmod": {
     "description": "Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience",
@@ -120182,7 +120192,7 @@
   "legacyPackages.x86_64-linux.linux_testing": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
     "pname": "linux",
-    "version": "6.14-rc6"
+    "version": "6.14-rc7"
   },
   "legacyPackages.x86_64-linux.linux_xanmod": {
     "description": "Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience",
@@ -138102,7 +138112,7 @@
   "legacyPackages.x86_64-linux.navidrome": {
     "description": "Navidrome Music Server and Streamer compatible with Subsonic/Airsonic",
     "pname": "navidrome",
-    "version": "0.54.5"
+    "version": "0.55.1"
   },
   "legacyPackages.x86_64-linux.navilu-font": {
     "description": "Kannada handwriting font",
@@ -139562,7 +139572,7 @@
   "legacyPackages.x86_64-linux.nextcloud-talk-desktop": {
     "description": "Nextcloud Talk Desktop Client",
     "pname": "nextcloud-talk-desktop",
-    "version": "1.0.1"
+    "version": "1.1.5"
   },
   "legacyPackages.x86_64-linux.nextcloud-whiteboard-server": {
     "description": "Backend server for the Nextcloud Whiteboard app",
@@ -149112,7 +149122,7 @@
   "legacyPackages.x86_64-linux.oil": {
     "description": "Unix shell with JSON-compatible structured data. It's our upgrade path from bash to a better language and runtime",
     "pname": "oils-for-unix",
-    "version": "0.27.0"
+    "version": "0.28.0"
   },
   "legacyPackages.x86_64-linux.oil-buku": {
     "description": "Search-as-you-type cli frontend for the buku bookmarks manager using peco",
@@ -149127,7 +149137,7 @@
   "legacyPackages.x86_64-linux.oils-for-unix": {
     "description": "Unix shell with JSON-compatible structured data. It's our upgrade path from bash to a better language and runtime",
     "pname": "oils-for-unix",
-    "version": "0.27.0"
+    "version": "0.28.0"
   },
   "legacyPackages.x86_64-linux.oink": {
     "description": "Dynamic DNS client for Porkbun",
@@ -187637,7 +187647,7 @@
   "legacyPackages.x86_64-linux.pinact": {
     "description": "Pin GitHub Actions versions",
     "pname": "pinact",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.pinball": {
     "description": "Emilia Pinball simulator",
@@ -214607,7 +214617,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ical": {
     "description": "Library for handling iCalendar",
     "pname": "python3.12-ical",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.icalendar": {
     "description": "Parser/generator of iCalendar files",
@@ -234842,7 +234852,7 @@
   "legacyPackages.x86_64-linux.python312Packages.recipe-scrapers": {
     "description": "Python package for scraping recipes data",
     "pname": "python3.12-recipe-scrapers",
-    "version": "15.4.0"
+    "version": "15.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.recline": {
     "description": "This library helps you quickly implement an interactive command-based application",
@@ -237422,7 +237432,7 @@
   "legacyPackages.x86_64-linux.python312Packages.sirius": {
     "description": "Domain specific library for electronic structure calculations",
     "pname": "SIRIUS",
-    "version": "7.6.1"
+    "version": "7.6.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.sismic": {
     "description": "Sismic Interactive Statechart Model Interpreter and Checker",
@@ -238827,7 +238837,7 @@
   "legacyPackages.x86_64-linux.python312Packages.sqliteschema": {
     "description": "Python library to dump table schema of a SQLite database file",
     "pname": "python3.12-sqliteschema",
-    "version": "1.4.0"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
@@ -262402,7 +262412,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ical": {
     "description": "Library for handling iCalendar",
     "pname": "python3.13-ical",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.icalendar": {
     "description": "Parser/generator of iCalendar files",
@@ -282637,7 +282647,7 @@
   "legacyPackages.x86_64-linux.python313Packages.recipe-scrapers": {
     "description": "Python package for scraping recipes data",
     "pname": "python3.13-recipe-scrapers",
-    "version": "15.4.0"
+    "version": "15.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.recline": {
     "description": "This library helps you quickly implement an interactive command-based application",
@@ -285217,7 +285227,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sirius": {
     "description": "Domain specific library for electronic structure calculations",
     "pname": "SIRIUS",
-    "version": "7.6.1"
+    "version": "7.6.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.sismic": {
     "description": "Sismic Interactive Statechart Model Interpreter and Checker",
@@ -286622,7 +286632,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sqliteschema": {
     "description": "Python library to dump table schema of a SQLite database file",
     "pname": "python3.13-sqliteschema",
-    "version": "1.4.0"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
@@ -296852,12 +296862,12 @@
   "legacyPackages.x86_64-linux.radicale": {
     "description": "CalDAV and CardDAV server",
     "pname": "radicale",
-    "version": "3.4.1"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.radicale3": {
     "description": "CalDAV and CardDAV server",
     "pname": "radicale",
-    "version": "3.4.1"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.radicle-explorer": {
     "description": "Web frontend for Radicle",
@@ -339277,7 +339287,7 @@
   "legacyPackages.x86_64-linux.sirius": {
     "description": "Domain specific library for electronic structure calculations",
     "pname": "SIRIUS",
-    "version": "7.6.1"
+    "version": "7.6.2"
   },
   "legacyPackages.x86_64-linux.sirula": {
     "description": "Simple app launcher for wayland written in rust",
@@ -339542,7 +339552,7 @@
   "legacyPackages.x86_64-linux.skypeforlinux": {
     "description": "Linux client for Skype",
     "pname": "skypeforlinux",
-    "version": "8.137.0.425"
+    "version": "8.138.0.203"
   },
   "legacyPackages.x86_64-linux.skypilot": {
     "description": "Run LLMs and AI on any Cloud",
@@ -340467,7 +340477,7 @@
   "legacyPackages.x86_64-linux.soapybladerf": {
     "description": "SoapySDR plugin for BladeRF devices",
     "pname": "soapybladerf",
-    "version": "0.4.1"
+    "version": "0.4.2"
   },
   "legacyPackages.x86_64-linux.soapyhackrf": {
     "description": "SoapySDR plugin for HackRF devices",
@@ -341278,6 +341288,11 @@
     "description": "Zsh prompt for Astronauts",
     "pname": "spaceship-prompt",
     "version": "4.17.0"
+  },
+  "legacyPackages.x86_64-linux.spacetimedb": {
+    "description": "Full-featured relational database system that lets you run your application logic inside the database",
+    "pname": "spacetimedb",
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.spacevim": {
     "description": "Modular Vim/Neovim configuration",
@@ -344027,7 +344042,7 @@
   "legacyPackages.x86_64-linux.supabase-cli": {
     "description": "CLI for interacting with supabase",
     "pname": "supabase-cli",
-    "version": "2.17.0"
+    "version": "2.20.1"
   },
   "legacyPackages.x86_64-linux.super-productivity": {
     "description": "To Do List / Time Tracker with Jira Integration",
@@ -344257,7 +344272,7 @@
   "legacyPackages.x86_64-linux.sus-compiler": {
     "description": "A new Hardware Design Language that keeps you in the driver's seat",
     "pname": "sus-compiler",
-    "version": "0.1.1"
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.suscan": {
     "description": "Channel scanner based on sigutils library",
@@ -346057,7 +346072,7 @@
   "legacyPackages.x86_64-linux.taskwarrior3": {
     "description": "Highly flexible command-line tool to manage TODO lists",
     "pname": "taskwarrior",
-    "version": "3.3.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.taterclient-ddnet": {
     "description": "Modification of DDNet teeworlds client",
@@ -377317,7 +377332,7 @@
   "legacyPackages.x86_64-linux.universal-android-debloater": {
     "description": "Tool to debloat non-rooted Android devices",
     "pname": "universal-android-debloater",
-    "version": "1.1.0"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.universal-ctags": {
     "description": "Maintained ctags implementation",
@@ -378952,7 +378967,7 @@
   "legacyPackages.x86_64-linux.vdrPlugins.markad": {
     "description": "Plugin for VDR that marks advertisements",
     "pname": "vdr-markad",
-    "version": "4.2.8"
+    "version": "4.2.10"
   },
   "legacyPackages.x86_64-linux.vdrPlugins.nopacity": {
     "description": "Highly customizable native true color skin for the Video Disc Recorder",
@@ -378972,7 +378987,7 @@
   "legacyPackages.x86_64-linux.vdrPlugins.streamdev": {
     "description": "This PlugIn is a VDR implementation of the VTP (Video Transfer Protocol) Version 0.0.3 (see file PROTOCOL) and a basic HTTP Streaming Protocol",
     "pname": "vdr-streamdev",
-    "version": "0.6.3"
+    "version": "0.6.4"
   },
   "legacyPackages.x86_64-linux.vdrPlugins.text2skin": {
     "description": "VDR Text2Skin Plugin",
@@ -387222,7 +387237,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.taskwarrior3": {
     "description": "",
     "pname": "vimplugin-taskwarrior",
-    "version": "3.3.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.vimPlugins.taskwiki": {
     "description": "",
@@ -393477,7 +393492,7 @@
   "legacyPackages.x86_64-linux.vvvvvv": {
     "description": "A retro-styled platform game",
     "pname": "vvvvvv",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   "legacyPackages.x86_64-linux.vwifi": {
     "description": "Simulate Wi-Fi (802.11) between Linux Virtual Machines",
@@ -401522,7 +401537,7 @@
   "legacyPackages.x86_64-linux.zellij": {
     "description": "Terminal workspace with batteries included",
     "pname": "zellij",
-    "version": "0.41.2"
+    "version": "0.42.0"
   },
   "legacyPackages.x86_64-linux.zenith": {
     "description": "Sort of like top or htop but with zoom-able charts, network, and disk usage",
