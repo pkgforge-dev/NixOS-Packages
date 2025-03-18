@@ -4169,6 +4169,11 @@
     "pname": "opentracker",
     "version": "1.8.6"
   },
+  "legacyPackages.x86_64-linux.altus": {
+    "description": "Client for WhatsApp Web with themes, notifications and multiple accounts support",
+    "pname": "altus",
+    "version": "5.6.0"
+  },
   "legacyPackages.x86_64-linux.alure": {
     "description": "Utility library to help manage common tasks with OpenAL applications",
     "pname": "alure",
@@ -4372,7 +4377,7 @@
   "legacyPackages.x86_64-linux.amnezia-vpn": {
     "description": "Amnezia VPN Client",
     "pname": "amnezia-vpn",
-    "version": "4.8.4.1"
+    "version": "4.8.4.4"
   },
   "legacyPackages.x86_64-linux.amneziawg-go": {
     "description": "Userspace Go implementation of AmneziaWG",
@@ -9981,8 +9986,8 @@
   },
   "legacyPackages.x86_64-linux.bark": {
     "description": "Live sync audio streaming for local networks",
-    "pname": "bark-unstable",
-    "version": "2023-08-22"
+    "pname": "bark",
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.bark-server": {
     "description": "Backend of Bark, an iOS App which allows you to push customed notifications to your iPhone",
@@ -11447,7 +11452,7 @@
   "legacyPackages.x86_64-linux.beszel": {
     "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts",
     "pname": "beszel",
-    "version": "0.10.1"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.betaflight-configurator": {
     "description": "Betaflight flight control system configuration tool",
@@ -11878,11 +11883,6 @@
     "description": "IRC proxy (bouncer)",
     "pname": "bip",
     "version": "0.9.3"
-  },
-  "legacyPackages.x86_64-linux.bird": {
-    "description": "BIRD Internet Routing Daemon",
-    "pname": "bird",
-    "version": "2.16.1"
   },
   "legacyPackages.x86_64-linux.bird-lg": {
     "description": "Bird Looking Glass",
@@ -14957,7 +14957,7 @@
   "legacyPackages.x86_64-linux.cannelloni": {
     "description": "SocketCAN over Ethernet tunnel",
     "pname": "cannelloni",
-    "version": "1.1.0"
+    "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.cano": {
     "description": "Text Editor Written In C Using ncurses",
@@ -15267,7 +15267,7 @@
   "legacyPackages.x86_64-linux.cargo-bundle-licenses": {
     "description": "Generate a THIRDPARTY file with all licenses in a cargo project",
     "pname": "cargo-bundle-licenses",
-    "version": "3.1.0"
+    "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.cargo-c": {
     "description": "Cargo subcommand to build and install C-ABI compatible dynamic and static libraries",
@@ -15562,7 +15562,7 @@
   "legacyPackages.x86_64-linux.cargo-outdated": {
     "description": "Cargo subcommand for displaying when Rust dependencies are out of date",
     "pname": "cargo-outdated",
-    "version": "0.16.0"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.cargo-pgo": {
     "description": "Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT",
@@ -23262,7 +23262,7 @@
   "legacyPackages.x86_64-linux.consul": {
     "description": "Tool for service discovery, monitoring and configuration",
     "pname": "consul",
-    "version": "1.20.4"
+    "version": "1.20.5"
   },
   "legacyPackages.x86_64-linux.consul-alerts": {
     "description": "Extendable open source continuous integration server",
@@ -23497,7 +23497,7 @@
   "legacyPackages.x86_64-linux.coq": {
     "description": "Coq proof assistant",
     "pname": "coq",
-    "version": "8.20.1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.coq2html": {
     "description": "HTML documentation generator for Coq source files",
@@ -23506,488 +23506,303 @@
   },
   "legacyPackages.x86_64-linux.coqPackages.Cheerios": {
     "description": "",
-    "pname": "coq8.20-cheerios",
+    "pname": "coq9.0-cheerios",
     "version": "20230107"
   },
   "legacyPackages.x86_64-linux.coqPackages.CoLoR": {
     "description": "CoLoR is a library of formal mathematical definitions and proofs of theorems on rewriting theory and termination whose correctness has been mechanically checked by the Coq proof assistant",
-    "pname": "coq8.20-color",
+    "pname": "coq9.0-color",
     "version": "1.8.5"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.ElmExtraction": {
-    "description": "A framework for extracting Coq programs to Elm",
-    "pname": "coq8.20-ElmExtraction",
-    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.ExtLib": {
     "description": "Collection of theories and plugins that may be useful in other Coq developments",
-    "pname": "coq8.20-coq-ext-lib",
+    "pname": "coq9.0-coq-ext-lib",
     "version": "0.13.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.HoTT": {
-    "description": "Homotopy Type Theory library",
-    "pname": "coq8.20-HoTT",
-    "version": "8.20"
   },
   "legacyPackages.x86_64-linux.coqPackages.ITree": {
     "description": "Library for Representing Recursive and Impure Programs in Coq",
-    "pname": "coq8.20-InteractionTrees",
+    "pname": "coq9.0-InteractionTrees",
     "version": "5.2.1"
   },
   "legacyPackages.x86_64-linux.coqPackages.InfSeqExt": {
     "description": "",
-    "pname": "coq8.20-InfSeqExt",
+    "pname": "coq9.0-InfSeqExt",
     "version": "20230107"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.LibHyps": {
-    "description": "Hypotheses manipulation library",
-    "pname": "coq8.20-LibHyps",
-    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.coqPackages.MenhirLib": {
     "description": "A support library for verified Coq parsers produced by Menhir",
-    "pname": "coq8.20-MenhirLib",
+    "pname": "coq9.0-MenhirLib",
     "version": "20240715"
   },
   "legacyPackages.x86_64-linux.coqPackages.QuickChick": {
     "description": "Randomized property-based testing plugin for Coq; a clone of Haskell QuickCheck",
-    "pname": "coq8.20-QuickChick",
+    "pname": "coq9.0-QuickChick",
     "version": "2.0.4"
   },
   "legacyPackages.x86_64-linux.coqPackages.StructTact": {
     "description": "",
-    "pname": "coq8.20-StructTact",
+    "pname": "coq9.0-StructTact",
     "version": "20230107"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.VST": {
-    "description": "Verified Software Toolchain",
-    "pname": "coq8.20-VST",
-    "version": "2.15"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.aac-tactics": {
-    "description": "Coq plugin providing tactics for rewriting universally quantified equations",
-    "pname": "coq8.20-aac-tactics",
-    "version": "8.20.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.atbr": {
-    "description": "Coq library and tactic for deciding Kleene algebras",
-    "pname": "coq8.20-atbr",
-    "version": "8.20.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.autosubst": {
     "description": "Automation for de Bruijn syntax and substitution in Coq",
-    "pname": "coq8.20-autosubst",
+    "pname": "coq9.0-autosubst",
     "version": "1.9"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.autosubst-ocaml": {
-    "description": "An OCaml reimplementation of the Autosubst 2 code generator",
-    "pname": "coq8.20-autosubst-ocaml",
-    "version": "1.1+8.20"
   },
   "legacyPackages.x86_64-linux.coqPackages.bignums": {
     "description": "",
-    "pname": "coq8.20-bignums",
-    "version": "9.0.0+coq8.20"
+    "pname": "coq9.0-bignums",
+    "version": "9.0.0+rocq9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.ceres": {
     "description": "Library for serialization to S-expressions",
-    "pname": "coq8.20-ceres",
+    "pname": "coq9.0-ceres",
     "version": "0.4.1"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.compcert": {
-    "description": "Formally verified C compiler",
-    "pname": "coq8.20-compcert",
-    "version": "3.15"
   },
   "legacyPackages.x86_64-linux.coqPackages.coq": {
     "description": "Coq proof assistant",
     "pname": "coq",
-    "version": "8.20.1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.coq-elpi": {
     "description": "Coq plugin embedding ELPI",
-    "pname": "coq8.20-elpi",
-    "version": "2.2.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.coq-lsp": {
-    "description": "Language Server Protocol and VS Code Extension for Coq",
-    "pname": "coq-lsp",
-    "version": "0.2.2+8.20"
+    "pname": "coq9.0-elpi",
+    "version": "2.5.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.coq-record-update": {
     "description": "Library to create Coq record update functions",
-    "pname": "coq8.20-coq-record-update",
+    "pname": "coq9.0-coq-record-update",
     "version": "0.3.4"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.coq-tactical": {
-    "description": "Library of Coq proof automation",
-    "pname": "coq8.20-coq-tactical-unstable",
-    "version": "2022-02-15"
   },
   "legacyPackages.x86_64-linux.coqPackages.coqeal": {
     "description": "CoqEAL - The Coq Effective Algebra Library",
-    "pname": "coq8.20-CoqEAL",
-    "version": "2.0.3"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.coqide": {
-    "description": "CoqIDE user interface for the Coq proof assistant",
-    "pname": "coq8.20-coqide",
-    "version": "8.20.1"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.coqprime": {
-    "description": "Library to certify primality using Pocklington certificate and Elliptic Curve Certificate",
-    "pname": "coq8.20-coqprime",
-    "version": "8.18"
+    "pname": "coq9.0-CoqEAL",
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.coquelicot": {
     "description": "Coq library for Reals",
-    "pname": "coq8.20-coquelicot",
+    "pname": "coq9.0-coquelicot",
     "version": "3.4.3"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.coqutil": {
-    "description": "Coq library for tactics, basic definitions, sets, maps",
-    "pname": "coq8.20-coqutil",
-    "version": "0.0.6"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.corn": {
-    "description": "Coq library for constructive analysis",
-    "pname": "coq8.20-corn",
-    "version": "8.20.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.deriving": {
     "description": "Generic instances of MathComp classes",
-    "pname": "coq8.20-deriving",
+    "pname": "coq9.0-deriving",
     "version": "0.2.1"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.dpdgraph": {
-    "description": "Build dependency graphs between Coq objects",
-    "pname": "coq8.20-dpdgraph",
-    "version": "1.0+8.20"
   },
   "legacyPackages.x86_64-linux.coqPackages.equations": {
     "description": "Plugin for Coq to add dependent pattern-matching",
-    "pname": "coq8.20-equations",
-    "version": "1.3.1+8.20"
+    "pname": "coq9.0-equations",
+    "version": "1.3.1+9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.extructures": {
     "description": "Finite data structures with extensional reasoning",
-    "pname": "coq8.20-extructures",
+    "pname": "coq9.0-extructures",
     "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.flocq": {
     "description": "Floating-point formalization for the Coq system",
-    "pname": "coq8.20-flocq",
+    "pname": "coq9.0-flocq",
     "version": "4.2.1"
   },
   "legacyPackages.x86_64-linux.coqPackages.fourcolor": {
     "description": "Formal proof of the Four Color Theorem",
-    "pname": "coq8.20-fourcolor",
+    "pname": "coq9.0-fourcolor",
     "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.gaia": {
     "description": "Implementation of books from Bourbaki's Elements of Mathematics in Coq",
-    "pname": "coq8.20-gaia",
+    "pname": "coq9.0-gaia",
     "version": "2.2"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.gappalib": {
-    "description": "Coq support library for Gappa",
-    "pname": "coq8.20-gappalib",
-    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.hierarchy-builder": {
     "description": "High level commands to declare a hierarchy based on packed classes",
-    "pname": "coq8.20-hierarchy-builder",
-    "version": "1.8.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.high-school-geometry": {
-    "description": "Geometry in Coq for French high school",
-    "pname": "coq8.20-high-school-geometry",
-    "version": "8.16"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.interval": {
-    "description": "Tactics for simplifying the proofs of inequalities on expressions of real numbers for the Coq proof assistant",
-    "pname": "coq8.20-interval",
-    "version": "4.11.0"
+    "pname": "coq9.0-hierarchy-builder",
+    "version": "1.8.1"
   },
   "legacyPackages.x86_64-linux.coqPackages.iris": {
     "description": "Coq development of the Iris Project",
-    "pname": "coq8.20-iris",
+    "pname": "coq9.0-iris",
     "version": "4.3.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.itauto": {
-    "description": "Reflexive SAT solver parameterised by a leaf tactic and Nelson-Oppen support",
-    "pname": "coq8.20-itauto",
-    "version": "8.20.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.jasmin": {
-    "description": "Jasmin language & verified compiler",
-    "pname": "coq8.20-jasmin",
-    "version": "2025.02.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.json": {
     "description": "From JSON to Coq, and vice versa.",
-    "pname": "coq8.20-json",
+    "pname": "coq9.0-json",
     "version": "0.2.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.math-classes": {
-    "description": "Library of abstract interfaces for mathematical structures in Coq",
-    "pname": "coq8.20-math-classes",
-    "version": "8.19.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp": {
     "description": "",
-    "pname": "coq8.20-mathcomp-all",
+    "pname": "coq9.0-mathcomp-all",
     "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-algebra": {
     "description": "",
-    "pname": "coq8.20-mathcomp-algebra",
+    "pname": "coq9.0-mathcomp-algebra",
     "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-algebra-tactics": {
     "description": "Ring and field tactics for Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-algebra-tactics",
+    "pname": "coq9.0-mathcomp2.3-algebra-tactics",
     "version": "1.2.4"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.mathcomp-analysis": {
-    "description": "Analysis library compatible with Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-mathcomp-analysis",
-    "version": "1.9.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.mathcomp-analysis-stdlib": {
-    "description": "Analysis library compatible with Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-mathcomp-analysis-stdlib",
-    "version": "1.9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-bigenough": {
     "description": "Small library to do epsilon - N reasonning",
-    "pname": "coq8.20-mathcomp2.3-bigenough",
+    "pname": "coq9.0-mathcomp2.3-bigenough",
     "version": "1.0.2"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-character": {
     "description": "",
-    "pname": "coq8.20-mathcomp-character",
+    "pname": "coq9.0-mathcomp-character",
     "version": "2.3.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.mathcomp-classical": {
-    "description": "Analysis library compatible with Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-mathcomp-classical",
-    "version": "1.9.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.mathcomp-experimental-reals": {
-    "description": "Analysis library compatible with Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-mathcomp-experimental-reals",
-    "version": "1.9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-field": {
     "description": "",
-    "pname": "coq8.20-mathcomp-field",
+    "pname": "coq9.0-mathcomp-field",
     "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-fingroup": {
     "description": "",
-    "pname": "coq8.20-mathcomp-fingroup",
+    "pname": "coq9.0-mathcomp-fingroup",
     "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-finmap": {
     "description": "Finset and finmap library",
-    "pname": "coq8.20-mathcomp2.3-finmap",
+    "pname": "coq9.0-mathcomp2.3-finmap",
     "version": "2.1.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.mathcomp-infotheo": {
-    "description": "Coq formalization of information theory and linear error-correcting codes",
-    "pname": "coq8.20-mathcomp2.3-infotheo",
-    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-real-closed": {
     "description": "Mathematical Components Library on real closed fields",
-    "pname": "coq8.20-mathcomp2.3-real-closed",
+    "pname": "coq9.0-mathcomp2.3-real-closed",
     "version": "2.0.2"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.mathcomp-reals": {
-    "description": "Analysis library compatible with Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-mathcomp-reals",
-    "version": "1.9.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.mathcomp-reals-stdlib": {
-    "description": "Analysis library compatible with Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-mathcomp-reals-stdlib",
-    "version": "1.9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-solvable": {
     "description": "",
-    "pname": "coq8.20-mathcomp-solvable",
+    "pname": "coq9.0-mathcomp-solvable",
     "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-ssreflect": {
     "description": "",
-    "pname": "coq8.20-mathcomp-ssreflect",
+    "pname": "coq9.0-mathcomp-ssreflect",
     "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-tarjan": {
     "description": "Proofs of Tarjan and Kosaraju connected components algorithms",
-    "pname": "coq8.20-mathcomp2.3-tarjan",
+    "pname": "coq9.0-mathcomp2.3-tarjan",
     "version": "1.0.2"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-word": {
     "description": "Yet Another Coq Library on Machine Words",
-    "pname": "coq8.20-mathcomp2.3-word",
+    "pname": "coq9.0-mathcomp2.3-word",
     "version": "3.2"
   },
   "legacyPackages.x86_64-linux.coqPackages.mathcomp-zify": {
     "description": "Micromega tactics for Mathematical Components",
-    "pname": "coq8.20-mathcomp2.3-zify",
+    "pname": "coq9.0-mathcomp2.3-zify",
     "version": "1.5.0+2.0+8.16"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq": {
     "description": "",
-    "pname": "coq8.20-metacoq",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-common": {
     "description": "",
-    "pname": "coq8.20-metacoq-common",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-common",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-erasure": {
     "description": "",
-    "pname": "coq8.20-metacoq-erasure",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-erasure",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-erasure-plugin": {
     "description": "",
-    "pname": "coq8.20-metacoq-erasure-plugin",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-erasure-plugin",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-pcuic": {
     "description": "",
-    "pname": "coq8.20-metacoq-pcuic",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-pcuic",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-quotation": {
     "description": "",
-    "pname": "coq8.20-metacoq-quotation",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-quotation",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-safechecker": {
     "description": "",
-    "pname": "coq8.20-metacoq-safechecker",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-safechecker",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-safechecker-plugin": {
     "description": "",
-    "pname": "coq8.20-metacoq-safechecker-plugin",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-safechecker-plugin",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-template-coq": {
     "description": "",
-    "pname": "coq8.20-metacoq-template-coq",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-template-coq",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-template-pcuic": {
     "description": "",
-    "pname": "coq8.20-metacoq-template-pcuic",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-template-pcuic",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-translations": {
     "description": "",
-    "pname": "coq8.20-metacoq-translations",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-translations",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.metacoq-utils": {
     "description": "",
-    "pname": "coq8.20-metacoq-utils",
-    "version": "1.3.4-8.20"
+    "pname": "coq9.0-metacoq-utils",
+    "version": "1.3.4-9.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.multinomials": {
     "description": "Coq/SSReflect Library for Monoidal Rings and Multinomials",
-    "pname": "coq8.20-mathcomp2.3-multinomials",
+    "pname": "coq9.0-mathcomp2.3-multinomials",
     "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.odd-order": {
     "description": "Formal proof of the Odd Order Theorem",
-    "pname": "coq8.20-odd-order",
+    "pname": "coq9.0-odd-order",
     "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.paco": {
     "description": "Coq library implementing parameterized coinduction",
-    "pname": "coq8.20-paco",
+    "pname": "coq9.0-paco",
     "version": "4.2.3"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.paramcoq": {
-    "description": "Coq plugin for parametricity",
-    "pname": "coq8.20-paramcoq",
-    "version": "1.1.3"
   },
   "legacyPackages.x86_64-linux.coqPackages.parsec": {
     "description": "Library for serialization to S-expressions",
-    "pname": "coq8.20-parsec",
+    "pname": "coq9.0-parsec",
     "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.reglang": {
     "description": "Regular Language Representations in Coq",
-    "pname": "coq8.20-reglang",
+    "pname": "coq9.0-reglang",
     "version": "1.2.1"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.relation-algebra": {
-    "description": "Relation algebra library for Coq",
-    "pname": "coq8.20-relation-algebra",
-    "version": "1.7.11"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.serapi": {
-    "description": "SerAPI is a library for machine-to-machine interaction with the Coq proof assistant",
-    "pname": "coq8.20-serapi",
-    "version": "8.20.0+0.20.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.simple-io": {
     "description": "Purely functional IO for Coq",
-    "pname": "coq8.20-simple-io",
+    "pname": "coq9.0-simple-io",
     "version": "1.10.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.ssprove": {
-    "description": "SSProve: A Foundational Framework for Modular Cryptographic Proofs in Coq",
-    "pname": "coq8.20-ssprove",
-    "version": "0.2.3"
   },
   "legacyPackages.x86_64-linux.coqPackages.ssreflect": {
     "description": "",
-    "pname": "coq8.20-mathcomp-ssreflect",
+    "pname": "coq9.0-mathcomp-ssreflect",
     "version": "2.3.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.stalmarck": {
-    "description": "A two-level approach to prove tautologies using Stålmarck's algorithm in Coq.",
-    "pname": "coq8.20-stalmarck",
-    "version": "8.20.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.stalmarck-tactic": {
-    "description": "Coq tactic and verified tool for proving tautologies using Stålmarck's algorithm",
-    "pname": "coq8.20-stalmarck-tactic",
-    "version": "8.20.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.stdlib": {
     "description": "Compatibility metapackage for Coq Stdlib library after the Rocq renaming",
-    "pname": "coq8.20-stdlib",
-    "version": "8.20"
+    "pname": "coq9.0-stdlib",
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.coqPackages.stdpp": {
     "description": "Extended “Standard Library” for Coq",
-    "pname": "coq8.20-stdpp",
+    "pname": "coq9.0-stdpp",
     "version": "1.11.0"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.vcfloat": {
-    "description": "Tool for Coq proofs about floating-point round-off error",
-    "pname": "coq8.20-vcfloat",
-    "version": "2.3"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.vscoq-language-server": {
-    "description": "Language server for the vscoq vscode/codium extension",
-    "pname": "ocaml4.14.2-vscoq-language-server",
-    "version": "2.2.1"
-  },
-  "legacyPackages.x86_64-linux.coqPackages.zorns-lemma": {
-    "description": "Development of basic set theory",
-    "pname": "coq8.20-zorns-lemma",
-    "version": "10.2.0"
   },
   "legacyPackages.x86_64-linux.coq_8_10": {
     "description": "Coq proof assistant",
@@ -24072,7 +23887,7 @@
   "legacyPackages.x86_64-linux.coq_9_0": {
     "description": "Coq proof assistant",
     "pname": "coq",
-    "version": "9.0+rc1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.cordless": {
     "description": "Discord terminal client",
@@ -24468,6 +24283,11 @@
     "description": "Color box to help developers and designers",
     "pname": "coulr",
     "version": "2.1.0"
+  },
+  "legacyPackages.x86_64-linux.countryguess": {
+    "description": "Guess the 193 U.N. recognised countries",
+    "pname": "countryguess",
+    "version": "0-unstable-2025-03-04"
   },
   "legacyPackages.x86_64-linux.courier-prime": {
     "description": "Monospaced font designed specifically for screenplays",
@@ -30902,7 +30722,7 @@
   "legacyPackages.x86_64-linux.dnscontrol": {
     "description": "Synchronize your DNS to multiple providers from a simple DSL",
     "pname": "dnscontrol",
-    "version": "4.16.0"
+    "version": "4.17.0"
   },
   "legacyPackages.x86_64-linux.dnscrypt-proxy": {
     "description": "Tool that provides secure DNS resolution",
@@ -35852,7 +35672,7 @@
   "legacyPackages.x86_64-linux.erigon": {
     "description": "Ethereum node implementation focused on scalability and modularity",
     "pname": "erigon",
-    "version": "2.61.2"
+    "version": "2.61.3"
   },
   "legacyPackages.x86_64-linux.eris-go": {
     "description": "Implementation of ERIS for Go",
@@ -38328,6 +38148,11 @@
     "description": "File extension metadata lookup tool",
     "pname": "fileinfo-unstable",
     "version": "2022-09-16"
+  },
+  "legacyPackages.x86_64-linux.filen-cli": {
+    "description": "CLI tool for interacting with the Filen cloud",
+    "pname": "filen-cli",
+    "version": "0.0.29"
   },
   "legacyPackages.x86_64-linux.filen-desktop": {
     "description": "Filen Desktop Client for Linux",
@@ -51339,6 +51164,11 @@
     "pname": "gojsontoyaml",
     "version": "0.1.0"
   },
+  "legacyPackages.x86_64-linux.gokapi": {
+    "description": "Lightweight selfhosted Firefox Send alternative without public upload",
+    "pname": "gokapi",
+    "version": "1.9.6"
+  },
   "legacyPackages.x86_64-linux.gokart": {
     "description": "Static analysis tool for securing Go code",
     "pname": "gokart",
@@ -61002,7 +60832,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-components.better_thermostat": {
     "description": "Smart TRV control integrates room-temp sensors, window/door sensors, weather forecasts, and ambient probes for efficient heating and calibration, enhancing energy savings and comfort",
     "pname": "python3.13-KartoffelToby-better_thermostat",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.bodymiscale": {
     "description": "Home Assistant custom component providing body metrics for Xiaomi Mi Scale 1 and 2",
@@ -63287,7 +63117,7 @@
   "legacyPackages.x86_64-linux.hyprutils": {
     "description": "Small C++ library for utilities used across the Hypr* ecosystem",
     "pname": "hyprutils",
-    "version": "0.5.1"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.hyprwayland-scanner": {
     "description": "Hyprland version of wayland-scanner in and for C++",
@@ -68297,7 +68127,7 @@
   "legacyPackages.x86_64-linux.just": {
     "description": "Handy way to save and run project-specific commands",
     "pname": "just",
-    "version": "1.39.0"
+    "version": "1.40.0"
   },
   "legacyPackages.x86_64-linux.justbuild": {
     "description": "Generic build tool",
@@ -77002,7 +76832,7 @@
   "legacyPackages.x86_64-linux.libfabric": {
     "description": "Open Fabric Interfaces",
     "pname": "libfabric",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.libfakeXinerama": {
     "description": "fakeXinerama for Xpra",
@@ -77247,7 +77077,7 @@
   "legacyPackages.x86_64-linux.libgedit-amtk": {
     "description": "Actions, Menus and Toolbars Kit for GTK applications",
     "pname": "libgedit-amtk",
-    "version": "5.9.0"
+    "version": "5.9.1"
   },
   "legacyPackages.x86_64-linux.libgedit-gfls": {
     "description": "Module dedicated to file loading and saving",
@@ -133497,7 +133327,7 @@
   "legacyPackages.x86_64-linux.mimir": {
     "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. ",
     "pname": "mimir",
-    "version": "2.15.0"
+    "version": "2.15.1"
   },
   "legacyPackages.x86_64-linux.min": {
     "description": "A functional, concatenative programming language with a minimalist syntax",
@@ -137832,7 +137662,7 @@
   "legacyPackages.x86_64-linux.namespace-cli": {
     "description": "Command line interface for the Namespaces platform",
     "pname": "namespace-cli",
-    "version": "0.0.405"
+    "version": "0.0.406"
   },
   "legacyPackages.x86_64-linux.namespaced-openvpn": {
     "description": "Network namespace isolation for OpenVPN tunnels",
@@ -139532,7 +139362,7 @@
   "legacyPackages.x86_64-linux.newsraft": {
     "description": "Feed reader for terminal",
     "pname": "newsraft",
-    "version": "0.28"
+    "version": "0.29"
   },
   "legacyPackages.x86_64-linux.newt": {
     "description": "Library for color text mode, widget based user interfaces",
@@ -149102,7 +148932,7 @@
   "legacyPackages.x86_64-linux.oh-my-zsh": {
     "description": "Framework for managing your zsh configuration",
     "pname": "oh-my-zsh",
-    "version": "2025-02-19"
+    "version": "2025-03-11"
   },
   "legacyPackages.x86_64-linux.oha": {
     "description": "HTTP load generator inspired by rakyll/hey with tui animation",
@@ -187177,7 +187007,7 @@
   "legacyPackages.x86_64-linux.phraze": {
     "description": "Generate random passphrases",
     "pname": "phraze",
-    "version": "0.3.18"
+    "version": "0.3.19"
   },
   "legacyPackages.x86_64-linux.phylactery": {
     "description": "Old school comic web server",
@@ -211699,6 +211529,11 @@
     "pname": "python3.12-funcsigs",
     "version": "1.0.2"
   },
+  "legacyPackages.x86_64-linux.python312Packages.functions-framework": {
+    "description": "FaaS (Function as a service) framework for writing portable Python functions",
+    "pname": "python3.12-functions-framework",
+    "version": "3.8.2"
+  },
   "legacyPackages.x86_64-linux.python312Packages.functiontrace": {
     "description": "Python module for Functiontrace",
     "pname": "python3.12-functiontrace",
@@ -216847,7 +216682,7 @@
   "legacyPackages.x86_64-linux.python312Packages.knx-frontend": {
     "description": "Home Assistant Panel for managing the KNX integration",
     "pname": "python3.12-knx-frontend",
-    "version": "2025.1.30.194235"
+    "version": "2025.3.8.214559"
   },
   "legacyPackages.x86_64-linux.python312Packages.kombu": {
     "description": "Messaging library for Python",
@@ -217727,7 +217562,7 @@
   "legacyPackages.x86_64-linux.python312Packages.lightning-utilities": {
     "description": "Common Python utilities and GitHub Actions in Lightning Ecosystem",
     "pname": "python3.12-lightning-utilities",
-    "version": "0.14.0"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.lightparam": {
     "description": "Another attempt at parameters in Python",
@@ -218482,7 +218317,7 @@
   "legacyPackages.x86_64-linux.python312Packages.lxmf": {
     "description": "Lightweight Extensible Message Format for Reticulum",
     "pname": "python3.12-lxmf",
-    "version": "0.6.2"
+    "version": "0.6.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.lxml": {
     "description": "Pythonic binding for the libxml2 and libxslt libraries",
@@ -227007,7 +226842,7 @@
   "legacyPackages.x86_64-linux.python312Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.12-publicsuffixlist",
-    "version": "1.0.2.20250314"
+    "version": "1.0.2.20250316"
   },
   "legacyPackages.x86_64-linux.python312Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -230264,6 +230099,11 @@
     "pname": "python3.12-pyownet",
     "version": "0.10.0.post1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.pyoxigraph": {
+    "description": "SPARQL graph database",
+    "pname": "python3.12-pyoxigraph",
+    "version": "0.4.8"
+  },
   "legacyPackages.x86_64-linux.python312Packages.pypaBuildHook": {
     "description": "",
     "pname": "pypa-build-hook.sh",
@@ -230582,7 +230422,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyqt5-sip": {
     "description": "Python bindings for Qt5",
     "pname": "python3.12-pyqt5-sip",
-    "version": "12.15.0"
+    "version": "12.17.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyqt5-stubs": {
     "description": "Stubs for PyQt5",
@@ -230597,7 +230437,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyqt5_sip": {
     "description": "Python bindings for Qt5",
     "pname": "python3.12-pyqt5-sip",
-    "version": "12.15.0"
+    "version": "12.17.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyqt5_with_qtmultimedia": {
     "description": "Python bindings for Qt5",
@@ -237718,6 +237558,11 @@
     "description": "Python utility collection",
     "pname": "python3.12-smoke-zephyr",
     "version": "2.0.1"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.smolagents": {
+    "description": "Barebones library for agents",
+    "pname": "python3.12-smolagents",
+    "version": "1.11.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.smpp-pdu": {
     "description": "Library for parsing Protocol Data Units (PDUs) in SMPP protocol",
@@ -259494,6 +259339,11 @@
     "pname": "python3.13-funcsigs",
     "version": "1.0.2"
   },
+  "legacyPackages.x86_64-linux.python313Packages.functions-framework": {
+    "description": "FaaS (Function as a service) framework for writing portable Python functions",
+    "pname": "python3.13-functions-framework",
+    "version": "3.8.2"
+  },
   "legacyPackages.x86_64-linux.python313Packages.functiontrace": {
     "description": "Python module for Functiontrace",
     "pname": "python3.13-functiontrace",
@@ -264642,7 +264492,7 @@
   "legacyPackages.x86_64-linux.python313Packages.knx-frontend": {
     "description": "Home Assistant Panel for managing the KNX integration",
     "pname": "python3.13-knx-frontend",
-    "version": "2025.1.30.194235"
+    "version": "2025.3.8.214559"
   },
   "legacyPackages.x86_64-linux.python313Packages.kombu": {
     "description": "Messaging library for Python",
@@ -265522,7 +265372,7 @@
   "legacyPackages.x86_64-linux.python313Packages.lightning-utilities": {
     "description": "Common Python utilities and GitHub Actions in Lightning Ecosystem",
     "pname": "python3.13-lightning-utilities",
-    "version": "0.14.0"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.lightparam": {
     "description": "Another attempt at parameters in Python",
@@ -266277,7 +266127,7 @@
   "legacyPackages.x86_64-linux.python313Packages.lxmf": {
     "description": "Lightweight Extensible Message Format for Reticulum",
     "pname": "python3.13-lxmf",
-    "version": "0.6.2"
+    "version": "0.6.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.lxml": {
     "description": "Pythonic binding for the libxml2 and libxslt libraries",
@@ -274802,7 +274652,7 @@
   "legacyPackages.x86_64-linux.python313Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.13-publicsuffixlist",
-    "version": "1.0.2.20250314"
+    "version": "1.0.2.20250316"
   },
   "legacyPackages.x86_64-linux.python313Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -278059,6 +277909,11 @@
     "pname": "python3.13-pyownet",
     "version": "0.10.0.post1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.pyoxigraph": {
+    "description": "SPARQL graph database",
+    "pname": "python3.13-pyoxigraph",
+    "version": "0.4.8"
+  },
   "legacyPackages.x86_64-linux.python313Packages.pypaBuildHook": {
     "description": "",
     "pname": "pypa-build-hook.sh",
@@ -278377,7 +278232,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyqt5-sip": {
     "description": "Python bindings for Qt5",
     "pname": "python3.13-pyqt5-sip",
-    "version": "12.15.0"
+    "version": "12.17.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyqt5-stubs": {
     "description": "Stubs for PyQt5",
@@ -278392,7 +278247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyqt5_sip": {
     "description": "Python bindings for Qt5",
     "pname": "python3.13-pyqt5-sip",
-    "version": "12.15.0"
+    "version": "12.17.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyqt5_with_qtmultimedia": {
     "description": "Python bindings for Qt5",
@@ -285513,6 +285368,11 @@
     "description": "Python utility collection",
     "pname": "python3.13-smoke-zephyr",
     "version": "2.0.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.smolagents": {
+    "description": "Barebones library for agents",
+    "pname": "python3.13-smolagents",
+    "version": "1.11.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.smpp-pdu": {
     "description": "Library for parsing Protocol Data Units (PDUs) in SMPP protocol",
@@ -300742,12 +300602,12 @@
   "legacyPackages.x86_64-linux.rocq-core": {
     "description": "The Rocq Prover",
     "pname": "rocq",
-    "version": "9.0+rc1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.rocq-core_9_0": {
     "description": "The Rocq Prover",
     "pname": "rocq",
-    "version": "9.0+rc1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.rocqPackages.bignums": {
     "description": "",
@@ -300757,7 +300617,7 @@
   "legacyPackages.x86_64-linux.rocqPackages.rocq-core": {
     "description": "The Rocq Prover",
     "pname": "rocq",
-    "version": "9.0+rc1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.rocqPackages.rocq-elpi": {
     "description": "Rocq plugin embedding ELPI",
@@ -300767,7 +300627,7 @@
   "legacyPackages.x86_64-linux.rocqPackages.stdlib": {
     "description": "The Rocq Proof Assistant -- Standard Library",
     "pname": "rocq-core9.0-stdlib",
-    "version": "9.0+rc1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.roddhjav-apparmor-rules": {
     "description": "Over 1500 AppArmor profiles aiming to confine most linux processes",
@@ -337852,7 +337712,7 @@
   "legacyPackages.x86_64-linux.sequoia-sqv": {
     "description": "Command-line OpenPGP signature verification tool",
     "pname": "sequoia-sqv",
-    "version": "1.2.1"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.sequoia-wot": {
     "description": "Rust CLI tool for authenticating bindings and exploring a web of trust",
@@ -343372,7 +343232,7 @@
   "legacyPackages.x86_64-linux.storj-uplink": {
     "description": "Command-line tool for Storj",
     "pname": "storj-uplink",
-    "version": "1.123.4"
+    "version": "1.124.4"
   },
   "legacyPackages.x86_64-linux.stork": {
     "description": "Impossibly fast web search, made for static sites",
@@ -346802,7 +346662,7 @@
   "legacyPackages.x86_64-linux.television": {
     "description": "Blazingly fast general purpose fuzzy finder TUI",
     "pname": "television",
-    "version": "0.10.7"
+    "version": "0.10.8"
   },
   "legacyPackages.x86_64-linux.tell-me-your-secrets": {
     "description": "Tools to find secrets from various signatures",
@@ -375072,7 +374932,7 @@
   "legacyPackages.x86_64-linux.tsukimi": {
     "description": "Simple third-party Emby client, featured with GTK4-RS, MPV and GStreamer",
     "pname": "tsukimi",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.tsung": {
     "description": "High-performance benchmark framework for various protocols including HTTP, XMPP, LDAP, etc",
