@@ -9,7 +9,7 @@ legacyPackages.x86_64-linux.ArchiSteamFarm:
 legacyPackages.x86_64-linux.AusweisApp2:
   description: Official authentication app for German ID card and residence permit
   pname: ausweisapp
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.BeatSaberModManager:
   description: Yet another mod installer for Beat Saber, heavily inspired by ModAssistant
   pname: beatsabermodmanager
@@ -385,7 +385,7 @@ legacyPackages.x86_64-linux._1password-cli:
 legacyPackages.x86_64-linux._1password-gui:
   description: Multi-platform password manager
   pname: 1password
-  version: 8.10.60
+  version: 8.10.68
 legacyPackages.x86_64-linux._1password-gui-beta:
   description: Multi-platform password manager
   pname: 1password
@@ -581,7 +581,7 @@ legacyPackages.x86_64-linux.aaxtomp3:
 legacyPackages.x86_64-linux.ab-av1:
   description: AV1 re-encoding using ffmpeg, svt-av1 & vmaf
   pname: ab-av1
-  version: 0.9.1
+  version: 0.9.3
 legacyPackages.x86_64-linux.aba:
   description: Address book for aerc
   pname: aba
@@ -781,7 +781,7 @@ legacyPackages.x86_64-linux.acme-sh:
 legacyPackages.x86_64-linux.acpi:
   description: Show battery status and other ACPI information
   pname: acpi
-  version: "1.7"
+  version: "1.8"
 legacyPackages.x86_64-linux.acpic:
   description: Daemon extending acpid event handling capabilities
   pname: acpic
@@ -3133,7 +3133,7 @@ legacyPackages.x86_64-linux.alire:
 legacyPackages.x86_64-linux.alist:
   description: File list/WebDAV program that supports multiple storages
   pname: alist
-  version: 3.42.0
+  version: 3.43.0
 legacyPackages.x86_64-linux.alistral:
   description: Power tools for Listenbrainz
   pname: alistral
@@ -3317,7 +3317,7 @@ legacyPackages.x86_64-linux.altermime:
 legacyPackages.x86_64-linux.alterx:
   description: Fast and customizable subdomain wordlist generator using DSL
   pname: alterx
-  version: 0.0.3
+  version: 0.0.6
 legacyPackages.x86_64-linux.althttpd:
   description: Althttpd webserver
   pname: althttpd-unstable
@@ -3791,9 +3791,9 @@ legacyPackages.x86_64-linux.annapurna-sil:
   pname: annapurna-sil
   version: "2.100"
 legacyPackages.x86_64-linux.annextimelog:
-  description: ️Git Annex-backed Time Tracking
+  description: git-annex based cli time tracker
   pname: annextimelog
-  version: 0.13.1
+  version: 0.14.0
 legacyPackages.x86_64-linux.annotator:
   description: Image annotation for Elementary OS
   pname: annotator
@@ -4593,11 +4593,11 @@ legacyPackages.x86_64-linux.appstream-glib:
 legacyPackages.x86_64-linux.apptainer:
   description: Application containers for linux (previously known as Singularity)
   pname: apptainer
-  version: 1.3.6
+  version: 1.4.0
 legacyPackages.x86_64-linux.apptainer-overriden-nixos:
   description: ""
   pname: apptainer
-  version: 1.3.6
+  version: 1.4.0
 legacyPackages.x86_64-linux.appthreat-depscan:
   description: Security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies
   pname: dep-scan
@@ -5845,75 +5845,75 @@ legacyPackages.x86_64-linux.ast-grep:
 legacyPackages.x86_64-linux.astal.apps:
   description: Astal module for application query
   pname: astal-apps
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.astal3:
   description: Astal module for GTK3 widgets
   pname: astal-astal3
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.astal4:
   description: Astal module for GTK4 widgets
   pname: astal-astal4
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.auth:
   description: Astal module for authentication using pam
   pname: astal-auth
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.battery:
   description: Astal module for upowerd devices (DBus proxy)
   pname: astal-battery
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.bluetooth:
   description: Astal module for bluez using DBus
   pname: astal-bluetooth
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.cava:
   description: Astal module for audio visualization using cava
   pname: astal-cava
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.gjs:
   description: Astal module for GJS
   pname: astal-gjs
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.greet:
   description: Astal module for greetd using IPC
   pname: astal-greet
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.hyprland:
   description: Astal module for Hyprland using IPC
   pname: astal-hyprland
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.io:
   description: Astal core library
   pname: astal-io
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.mpris:
   description: Astal module for mpris players
   pname: astal-mpris
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.network:
   description: Astal module for NetworkManager
   pname: astal-network
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.notifd:
   description: Astal module for notification daemon
   pname: astal-notifd
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.powerprofiles:
   description: Astal module for upowerd profiles using DBus
   pname: astal-powerprofiles
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.river:
   description: Astal module for River using IPC
   pname: astal-river
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.tray:
   description: Astal module for StatusNotifierItem
   pname: astal-tray
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astal.wireplumber:
   description: Astal module for wireplumber
   pname: astal-wireplumber
-  version: 0-unstable-2025-03-07
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.astartectl:
   description: Astarte command line client utility
   pname: astartectl
@@ -6285,7 +6285,7 @@ legacyPackages.x86_64-linux.aurulent-sans:
 legacyPackages.x86_64-linux.ausweisapp:
   description: Official authentication app for German ID card and residence permit
   pname: ausweisapp
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.auth0-cli:
   description: Supercharge your developer workflow
   pname: auth0-cli
@@ -9562,6 +9562,10 @@ legacyPackages.x86_64-linux.bitbox:
   description: Companion app for the BitBox02 hardware wallet
   pname: bitbox
   version: 4.46.3
+legacyPackages.x86_64-linux.bitbox-bridge:
+  description: A bridge service that connects web wallets like Rabby to BitBox02
+  pname: bitbox-bridge
+  version: 1.6.1
 legacyPackages.x86_64-linux.bitbucket-cli:
   description: Bitbucket Enterprise CLI
   pname: bitbucket-cli
@@ -10025,7 +10029,7 @@ legacyPackages.x86_64-linux.bloomrpc:
 legacyPackages.x86_64-linux.bloop:
   description: Scala build server and command-line tool to make the compile and test developer workflows fast and productive in a build-tool-agnostic way
   pname: bloop
-  version: 2.0.8
+  version: 2.0.9
 legacyPackages.x86_64-linux.blst:
   description: Multilingual BLS12-381 signature library
   pname: blst
@@ -10229,7 +10233,7 @@ legacyPackages.x86_64-linux.bolt:
 legacyPackages.x86_64-linux.bolt-launcher:
   description: An alternative launcher for RuneScape.
   pname: bolt-launcher
-  version: 0.9.0
+  version: 0.14.0
 legacyPackages.x86_64-linux.bolt_19:
   description: LLVM post-link optimizer.
   pname: bolt
@@ -10817,7 +10821,7 @@ legacyPackages.x86_64-linux.broom:
 legacyPackages.x86_64-linux.broot:
   description: Interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands
   pname: broot
-  version: 1.44.7
+  version: 1.45.0
 legacyPackages.x86_64-linux.brotab:
   description: Control your browser's tabs from the command line
   pname: brotab
@@ -11413,7 +11417,7 @@ legacyPackages.x86_64-linux.bundler:
 legacyPackages.x86_64-linux.bundler-audit:
   description: Patch-level verification for Bundler
   pname: bundler-audit
-  version: 0.9.1
+  version: 0.9.2
 legacyPackages.x86_64-linux.bundletool:
   description: Command-line tool to manipulate Android App Bundles
   pname: bundletool
@@ -12097,7 +12101,7 @@ legacyPackages.x86_64-linux.carapace:
 legacyPackages.x86_64-linux.carapace-bridge:
   description: Multi-shell completion bridge for carapace
   pname: carapace-bridge
-  version: 1.2.3
+  version: 1.2.4
 legacyPackages.x86_64-linux.carbon-now-cli:
   description: Beautiful images of your code — from right inside your terminal
   pname: carbon-now-cli
@@ -16789,7 +16793,7 @@ legacyPackages.x86_64-linux.civetweb:
 legacyPackages.x86_64-linux.civo:
   description: CLI for interacting with Civo resources
   pname: civo
-  version: 1.1.97
+  version: 1.1.98
 legacyPackages.x86_64-linux.cjdns:
   description: Encrypted networking for regular people
   pname: cjdns
@@ -17461,7 +17465,7 @@ legacyPackages.x86_64-linux.cloud-init:
 legacyPackages.x86_64-linux.cloud-nuke:
   description: Tool for cleaning up your cloud accounts by nuking (deleting) all resources within it
   pname: cloud-nuke
-  version: 0.38.2
+  version: 0.39.0
 legacyPackages.x86_64-linux.cloud-utils:
   description: Useful set of utilities for interacting with a cloud
   pname: cloud-utils
@@ -17478,6 +17482,10 @@ legacyPackages.x86_64-linux.clouddrive2:
   description: Multi-cloud drives management tool supporting mounting cloud drives locally
   pname: clouddrive2
   version: 0.8.12
+legacyPackages.x86_64-linux.cloudflare-cli:
+  description: CLI for interacting with Cloudflare
+  pname: cloudflare-cli
+  version: 4.2.0
 legacyPackages.x86_64-linux.cloudflare-dynamic-dns:
   description: Dynamic DNS client for Cloudflare
   pname: cloudflare-dynamic-dns
@@ -17577,7 +17585,7 @@ legacyPackages.x86_64-linux.clustal-omega:
 legacyPackages.x86_64-linux.clusterctl:
   description: Kubernetes cluster API tool
   pname: clusterctl
-  version: 1.9.5
+  version: 1.9.6
 legacyPackages.x86_64-linux.clusternet:
   description: CNCF Sandbox Project for managing your Kubernetes clusters
   pname: clusternet
@@ -17749,7 +17757,7 @@ legacyPackages.x86_64-linux.cnquery:
 legacyPackages.x86_64-linux.cnspec:
   description: Open source, cloud-native security and policy project
   pname: cnspec
-  version: 11.45.1
+  version: 11.46.0
 legacyPackages.x86_64-linux.cnsprcy:
   description: End to end encrypted connections between trusted devices
   pname: cnsprcy
@@ -17945,7 +17953,7 @@ legacyPackages.x86_64-linux.codecserver:
 legacyPackages.x86_64-linux.codefresh:
   description: Codefresh CLI tool to interact with Codefresh services
   pname: codefresh
-  version: 0.87.3
+  version: 0.88.5
 legacyPackages.x86_64-linux.codeium:
   description: Codeium language server
   pname: codeium
@@ -18801,7 +18809,7 @@ legacyPackages.x86_64-linux.copyright-update:
 legacyPackages.x86_64-linux.copywrite:
   description: Automate copyright headers and license files at scale
   pname: copywrite
-  version: 0.21.0
+  version: 0.22.0
 legacyPackages.x86_64-linux.coq:
   description: Coq proof assistant
   pname: coq
@@ -19438,6 +19446,10 @@ legacyPackages.x86_64-linux.coulr:
   description: Color box to help developers and designers
   pname: coulr
   version: 2.1.0
+legacyPackages.x86_64-linux.countryfetch:
+  description: Command-line tool similar to Neofetch for obtaining information about your country
+  pname: countryfetch
+  version: 0.1.9
 legacyPackages.x86_64-linux.countryguess:
   description: Guess the 193 U.N. recognised countries
   pname: countryguess
@@ -19909,7 +19921,7 @@ legacyPackages.x86_64-linux.croc:
 legacyPackages.x86_64-linux.crocoddyl:
   description: Crocoddyl optimal control library
   pname: crocoddyl
-  version: 2.2.0
+  version: 3.0.0
 legacyPackages.x86_64-linux.cromfs:
   description: FUSE Compressed ROM filesystem with lzma
   pname: cromfs
@@ -19969,7 +19981,7 @@ legacyPackages.x86_64-linux.crosswords:
 legacyPackages.x86_64-linux.crosvm:
   description: Secure virtual machine monitor for KVM
   pname: crosvm
-  version: 0-unstable-2025-02-18
+  version: 0-unstable-2025-03-14
 legacyPackages.x86_64-linux.crow:
   description: A Fast and Easy to use microframework for the web
   pname: crow
@@ -22329,7 +22341,7 @@ legacyPackages.x86_64-linux.dash:
 legacyPackages.x86_64-linux.dash-mpd-cli:
   description: Download media content from a DASH-MPEG or DASH-WebM MPD manifest
   pname: dash-mpd-cli
-  version: 0.2.24
+  version: 0.2.25
 legacyPackages.x86_64-linux.dasher:
   description: Information-efficient text-entry interface, driven by natural continuous pointing gestures
   pname: dasher-unstable
@@ -22789,7 +22801,7 @@ legacyPackages.x86_64-linux.ddnet-server:
 legacyPackages.x86_64-linux.ddns-go:
   description: Simple and easy to use DDNS
   pname: ddns-go
-  version: 6.9.0
+  version: 6.9.1
 legacyPackages.x86_64-linux.ddns-updater:
   description: Container to update DNS records periodically with WebUI for many DNS providers
   pname: ddns-updater
@@ -23949,7 +23961,7 @@ legacyPackages.x86_64-linux.diffnav:
 legacyPackages.x86_64-linux.diffoci:
   description: Diff for Docker and OCI container images
   pname: diffoci
-  version: 0.1.5
+  version: 0.1.6
 legacyPackages.x86_64-linux.diffoscope:
   description: Perform in-depth comparison of files, archives, and directories
   pname: diffoscope
@@ -24489,7 +24501,7 @@ legacyPackages.x86_64-linux.dmarc-report-converter:
 legacyPackages.x86_64-linux.dmd:
   description: Official reference compiler for the D language
   pname: dmd
-  version: 2.109.1
+  version: 2.110.0
 legacyPackages.x86_64-linux.dmensamenu:
   description: Print German canteen menus using dmenu and OpenMensa
   pname: dmensamenu
@@ -25141,7 +25153,7 @@ legacyPackages.x86_64-linux.dosage:
 legacyPackages.x86_64-linux.dosage-tracker:
   description: Medication tracker for Linux
   pname: dosage
-  version: 1.9.3
+  version: 1.9.4
 legacyPackages.x86_64-linux.dosbox:
   description: DOS emulator
   pname: dosbox
@@ -26273,7 +26285,7 @@ legacyPackages.x86_64-linux.dumb-init:
 legacyPackages.x86_64-linux.dumbpipe:
   description: Connect A to B - Send Data
   pname: dumbpipe
-  version: 0.25.0
+  version: 0.26.0
 legacyPackages.x86_64-linux.dummyhttp:
   description: Super simple HTTP server that replies a fixed body with a fixed response code
   pname: dummyhttp
@@ -29025,7 +29037,7 @@ legacyPackages.x86_64-linux.ex_doc:
 legacyPackages.x86_64-linux.exabgp:
   description: BGP swiss army knife of networking
   pname: exabgp
-  version: 4.2.22
+  version: 4.2.25
 legacyPackages.x86_64-linux.exactaudiocopy:
   description: Precise CD audio grabber for creating perfect quality rips using CD and DVD drives
   pname: exact-audio-copy
@@ -29697,7 +29709,7 @@ legacyPackages.x86_64-linux.fastjet-contrib:
 legacyPackages.x86_64-linux.fastlane:
   description: Tool to automate building and releasing iOS and Android apps
   pname: fastlane
-  version: 2.220.0
+  version: 2.227.0
 legacyPackages.x86_64-linux.fastly:
   description: Command line tool for interacting with the Fastly API
   pname: fastly
@@ -29901,7 +29913,7 @@ legacyPackages.x86_64-linux.fceux-qt6:
 legacyPackages.x86_64-linux.fcft:
   description: Simple library for font loading and glyph rasterization
   pname: fcft
-  version: 3.2.0
+  version: 3.3.1
 legacyPackages.x86_64-linux.fcgi:
   description: Language independent, scalable, open extension to CGI
   pname: fcgi
@@ -30866,6 +30878,38 @@ legacyPackages.x86_64-linux.firewalld-gui:
   description: Firewall daemon with D-Bus interface
   pname: firewalld
   version: 2.3.0
+legacyPackages.x86_64-linux.firezone-gateway:
+  description: WireGuard tunnel server for the Firezone zero-trust access platform
+  pname: firezone-gateway
+  version: 1.4.5
+legacyPackages.x86_64-linux.firezone-gui-client:
+  description: GUI client for the Firezone zero-trust access platform
+  pname: firezone-gui-client
+  version: 1.4.8
+legacyPackages.x86_64-linux.firezone-headless-client:
+  description: CLI client for the Firezone zero-trust access platform
+  pname: firezone-headless-client
+  version: 1.4.4
+legacyPackages.x86_64-linux.firezone-relay:
+  description: STUN/TURN server for the Firezone zero-trust access platform
+  pname: firezone-relay
+  version: 0-unstable-2025-03-15
+legacyPackages.x86_64-linux.firezone-server:
+  description: Backend server for the Firezone zero-trust access platform
+  pname: firezone-server-domain
+  version: 0-unstable-2025-03-15
+legacyPackages.x86_64-linux.firezone-server-api:
+  description: Backend server for the Firezone zero-trust access platform
+  pname: firezone-server-api
+  version: 0-unstable-2025-03-15
+legacyPackages.x86_64-linux.firezone-server-domain:
+  description: Backend server for the Firezone zero-trust access platform
+  pname: firezone-server-domain
+  version: 0-unstable-2025-03-15
+legacyPackages.x86_64-linux.firezone-server-web:
+  description: Backend server for the Firezone zero-trust access platform
+  pname: firezone-server-web
+  version: 0-unstable-2025-03-15
 legacyPackages.x86_64-linux.firmware-manager:
   description: Graphical frontend for firmware management
   pname: firmware-manager
@@ -31677,7 +31721,7 @@ legacyPackages.x86_64-linux.fluxboxlauncher:
 legacyPackages.x86_64-linux.fluxcd:
   description: Open and extensible continuous delivery solution for Kubernetes
   pname: fluxcd
-  version: 2.5.0
+  version: 2.5.1
 legacyPackages.x86_64-linux.fluxctl:
   description: CLI client for Flux, the GitOps Kubernetes operator
   pname: fluxctl
@@ -31701,7 +31745,7 @@ legacyPackages.x86_64-linux.flycast:
 legacyPackages.x86_64-linux.flyctl:
   description: Command line tools for fly.io services
   pname: flyctl
-  version: 0.3.87
+  version: 0.3.89
 legacyPackages.x86_64-linux.flye:
   description: De novo assembler for single molecule sequencing reads using repeat graphs
   pname: flye
@@ -31821,7 +31865,7 @@ legacyPackages.x86_64-linux.folks:
 legacyPackages.x86_64-linux.follow:
   description: Next generation information browser
   pname: follow
-  version: 0.2.0-beta.2
+  version: 0.3.7
 legacyPackages.x86_64-linux.folly:
   description: Open-source C++ library developed and used at Facebook
   pname: folly
@@ -31941,7 +31985,7 @@ legacyPackages.x86_64-linux.foonathan-memory:
 legacyPackages.x86_64-linux.foot:
   description: Fast, lightweight and minimalistic Wayland terminal emulator
   pname: foot
-  version: 1.20.2
+  version: 1.21.0
 legacyPackages.x86_64-linux.footage:
   description: Video editing tool that allows you to trim, flip, rotate, and crop clips
   pname: footage
@@ -32005,7 +32049,7 @@ legacyPackages.x86_64-linux.forgejo-cli:
 legacyPackages.x86_64-linux.forgejo-lts:
   description: Self-hosted lightweight software forge
   pname: forgejo-lts
-  version: 7.0.13
+  version: 7.0.14
 legacyPackages.x86_64-linux.forgejo-runner:
   description: Runner for Forgejo based on act
   pname: forgejo-runner
@@ -33990,6 +34034,14 @@ legacyPackages.x86_64-linux.gendef:
   description: Tool which generate def files from DLLs
   pname: gendef
   version: 11.0.1
+legacyPackages.x86_64-linux.genealogos-api:
+  description: A Nix sbom generator
+  pname: genealogos-api
+  version: 1.0.0
+legacyPackages.x86_64-linux.genealogos-cli:
+  description: A Nix sbom generator
+  pname: genealogos-cli
+  version: 1.0.0
 legacyPackages.x86_64-linux.genemichaels:
   description: Even formats macros
   pname: genemichaels
@@ -34385,7 +34437,7 @@ legacyPackages.x86_64-linux.ggz_base_libs:
 legacyPackages.x86_64-linux.gh:
   description: GitHub CLI tool
   pname: gh
-  version: 2.68.1
+  version: 2.69.0
 legacyPackages.x86_64-linux.gh-actions-cache:
   description: gh extension to manage GitHub Actions caches
   pname: gh-actions-cache
@@ -35377,7 +35429,7 @@ legacyPackages.x86_64-linux.github-changelog-generator:
 legacyPackages.x86_64-linux.github-cli:
   description: GitHub CLI tool
   pname: gh
-  version: 2.68.1
+  version: 2.69.0
 legacyPackages.x86_64-linux.github-commenter:
   description: Command line utility for creating GitHub comments on Commits, Pull Request Reviews or Issues
   pname: github-commenter
@@ -41349,7 +41401,7 @@ legacyPackages.x86_64-linux.gopatch:
 legacyPackages.x86_64-linux.gopeed:
   description: Modern download manager that supports all platforms
   pname: gopeed
-  version: 1.6.10
+  version: 1.6.11
 legacyPackages.x86_64-linux.goperf:
   description: Tools and packages for analyzing Go benchmark results
   pname: goperf
@@ -42545,7 +42597,7 @@ legacyPackages.x86_64-linux.grpc:
 legacyPackages.x86_64-linux.grpc-client-cli:
   description: generic gRPC command line client
   pname: grpc-client-cli
-  version: 1.21.3
+  version: 1.22.1
 legacyPackages.x86_64-linux.grpc-gateway:
   description: A gRPC to JSON proxy generator plugin for Google Protocol Buffers
   pname: grpc-gateway
@@ -44205,7 +44257,7 @@ legacyPackages.x86_64-linux.hck:
 legacyPackages.x86_64-linux.hcl2json:
   description: Convert hcl2 to json
   pname: hcl2json
-  version: 0.6.5
+  version: 0.6.6
 legacyPackages.x86_64-linux.hcledit:
   description: Command line editor for HCL
   pname: hcledit
@@ -44557,7 +44609,7 @@ legacyPackages.x86_64-linux.hepmc3:
 legacyPackages.x86_64-linux.heptabase:
   description: A visual note-taking tool for learning complex topics
   pname: heptabase
-  version: 1.53.4
+  version: 1.53.7
 legacyPackages.x86_64-linux.heptagon:
   description: Compiler for the Heptagon/BZR synchronous programming language
   pname: heptagon
@@ -49589,7 +49641,7 @@ legacyPackages.x86_64-linux.hubot-sans:
 legacyPackages.x86_64-linux.hubstaff:
   description: Time tracking software
   pname: hubstaff
-  version: 1.6.29-7f771670
+  version: 1.6.31-a6da06ad
 legacyPackages.x86_64-linux.hue-cli:
   description: Command line interface for controlling Philips Hue system's lights and bridge
   pname: hue-cli
@@ -50185,7 +50237,7 @@ legacyPackages.x86_64-linux.hunt:
 legacyPackages.x86_64-linux.hurl:
   description: Command line tool that performs HTTP requests defined in a simple plain text format
   pname: hurl
-  version: 6.0.0
+  version: 6.1.0
 legacyPackages.x86_64-linux.hushboard:
   description: Mute your microphone while typing
   pname: hushboard-unstable
@@ -50265,7 +50317,7 @@ legacyPackages.x86_64-linux.hydra_unstable:
 legacyPackages.x86_64-linux.hydralauncher:
   description: Game launcher with its own embedded bittorrent client
   pname: hydralauncher
-  version: 3.2.3
+  version: 3.3.0
 legacyPackages.x86_64-linux.hydrapaper:
   description: GNOME utility for setting different wallpapers on individual monitors
   pname: hydrapaper
@@ -51529,7 +51581,7 @@ legacyPackages.x86_64-linux.imgpatchtools:
 legacyPackages.x86_64-linux.imgpkg:
   description: Store application configuration files in Docker/OCI registries
   pname: imgpkg
-  version: 0.44.2
+  version: 0.45.0
 legacyPackages.x86_64-linux.imgproxy:
   description: Fast and secure on-the-fly image processing server written in Go
   pname: imgproxy
@@ -52361,7 +52413,7 @@ legacyPackages.x86_64-linux.intensity-normalization:
 legacyPackages.x86_64-linux.intentrace:
   description: Prettified Linux syscall tracing tool (like strace)
   pname: intentrace
-  version: 0.4.2
+  version: 0.6.2
 legacyPackages.x86_64-linux.inter:
   description: Typeface specially designed for user interfaces
   pname: inter
@@ -52609,7 +52661,7 @@ legacyPackages.x86_64-linux.iotop-c:
 legacyPackages.x86_64-linux.iozone:
   description: IOzone Filesystem Benchmark
   pname: iozone
-  version: "3.506"
+  version: "3.507"
 legacyPackages.x86_64-linux.ioztat:
   description: Storage load analysis tool for OpenZFS
   pname: ioztat
@@ -52901,7 +52953,7 @@ legacyPackages.x86_64-linux.irony-server:
 legacyPackages.x86_64-linux.irpf:
   description: Brazillian government application for reporting income tax
   pname: irpf
-  version: 2024-1.6
+  version: 2025-1.0
 legacyPackages.x86_64-linux.irqbalance:
   description: Daemon to help balance the cpu load generated by interrupts across all of a systems cpus
   pname: irqbalance
@@ -54569,7 +54621,7 @@ legacyPackages.x86_64-linux.jumpnbump:
 legacyPackages.x86_64-linux.jumppad:
   description: Tool for building modern cloud native development environments
   pname: jumppad
-  version: 0.17.1
+  version: 0.18.0
 legacyPackages.x86_64-linux.jumpy:
   description: Tactical 2D shooter played by up to 4 players online or on a shared screen
   pname: jumpy
@@ -54661,7 +54713,7 @@ legacyPackages.x86_64-linux.jwx:
 legacyPackages.x86_64-linux.jx:
   description: Command line tool for installing and using Jenkins X
   pname: jx
-  version: 3.11.56
+  version: 3.11.66
 legacyPackages.x86_64-linux.jxplorer:
   description: Java Ldap Browser
   pname: jxplorer
@@ -55157,7 +55209,7 @@ legacyPackages.x86_64-linux.karma-runner:
 legacyPackages.x86_64-linux.karmor:
   description: Client tool to help manage KubeArmor
   pname: karmor
-  version: 1.3.3
+  version: 1.3.4
 legacyPackages.x86_64-linux.karp:
   description: KDE alternative to PDF arranger
   pname: karp
@@ -57965,7 +58017,7 @@ legacyPackages.x86_64-linux.kitti3:
 legacyPackages.x86_64-linux.kitty:
   description: The fast, feature-rich, GPU based terminal emulator
   pname: kitty
-  version: 0.40.0
+  version: 0.40.1
 legacyPackages.x86_64-linux.kitty-img:
   description: Print images inline in kitty
   pname: kitty-img
@@ -58185,7 +58237,7 @@ legacyPackages.x86_64-linux.knossosnet:
 legacyPackages.x86_64-linux.knot-dns:
   description: Authoritative-only DNS server from .cz domain registry
   pname: knot-dns
-  version: 3.4.4
+  version: 3.4.5
 legacyPackages.x86_64-linux.knot-resolver:
   description: Caching validating DNS resolver, from .cz domain registry
   pname: knot-resolver
@@ -59265,7 +59317,7 @@ legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-diff:
 legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-dt:
   description: Helm Distribution plugin is is a set of utilities and Helm Plugin for making offline work with Helm Charts easier
   pname: helm-dt
-  version: 0.4.4
+  version: 0.4.5
 legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-git:
   description: Helm downloader plugin that provides GIT protocol support
   pname: helm-git
@@ -59298,6 +59350,10 @@ legacyPackages.x86_64-linux.kubernetes-polaris:
   description: Validate and remediate Kubernetes resources to ensure configuration best practices are followed
   pname: kubernetes-polaris
   version: 9.6.1
+legacyPackages.x86_64-linux.kubernetes-validate:
+  description: Module to validate Kubernetes resource definitions against the declared Kubernetes schemas
+  pname: kubernetes-validate
+  version: 1.31.0
 legacyPackages.x86_64-linux.kubernix:
   description: Single dependency Kubernetes clusters for local testing, experimenting and development
   pname: kubernix
@@ -59361,7 +59417,7 @@ legacyPackages.x86_64-linux.kubevirt:
 legacyPackages.x86_64-linux.kubevpn:
   description: Create a VPN and connect to Kubernetes cluster network, access resources, and more
   pname: kubevpn
-  version: 2.3.13
+  version: 2.4.1
 legacyPackages.x86_64-linux.kubexit:
   description: Command supervisor for coordinated Kubernetes pod container termination
   pname: kubexit
@@ -59565,7 +59621,7 @@ legacyPackages.x86_64-linux.labwc-gtktheme:
 legacyPackages.x86_64-linux.labwc-menu-generator:
   description: Menu generator for labwc
   pname: labwc-menu-generator
-  version: 0.1.0-unstable-2025-02-12
+  version: 0.1.0-unstable-2025-03-08
 legacyPackages.x86_64-linux.labwc-tweaks:
   description: Configuration gui app for labwc
   pname: labwc-tweaks
@@ -60821,7 +60877,7 @@ legacyPackages.x86_64-linux.libbladeRF:
 legacyPackages.x86_64-linux.libblake3:
   description: Official C implementation of BLAKE3
   pname: libblake3
-  version: 1.6.1
+  version: 1.7.0
 legacyPackages.x86_64-linux.libblockdev:
   description: Library for manipulating block devices
   pname: libblockdev
@@ -67813,7 +67869,7 @@ legacyPackages.x86_64-linux.linthesia:
 legacyPackages.x86_64-linux.lintspec:
   description: Blazingly fast linter for NatSpec comments in Solidity code
   pname: lintspec
-  version: 0.4.0
+  version: 0.4.1
 legacyPackages.x86_64-linux.linux:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
@@ -68337,23 +68393,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.235
+  version: 570.133.07-5.10.235
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.235
+  version: 570.133.07-5.10.235
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.235-570.124.04
+  version: 5.10.235-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.235
+  version: 570.133.07-5.10.235
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.235-570.124.04
+  version: 5.10.235-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -68373,15 +68429,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy535
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.235
+  version: 570.133.07-5.10.235
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.235-570.124.04
+  version: 5.10.235-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.235-570.124.04
+  version: 5.10.235-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -68973,23 +69029,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_dc_5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -69009,15 +69065,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -69609,23 +69665,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.179
+  version: 570.133.07-5.15.179
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.179
+  version: 570.133.07-5.15.179
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.179-570.124.04
+  version: 5.15.179-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.179
+  version: 570.133.07-5.15.179
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.179-570.124.04
+  version: 5.15.179-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -69645,15 +69701,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy535
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.179
+  version: 570.133.07-5.15.179
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.179-570.124.04
+  version: 5.15.179-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.179-570.124.04
+  version: 5.15.179-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -70245,23 +70301,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_dc_5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -70281,15 +70337,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -70885,23 +70941,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.291
+  version: 570.133.07-5.4.291
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.291
+  version: 570.133.07-5.4.291
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.291-570.124.04
+  version: 5.4.291-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.291
+  version: 570.133.07-5.4.291
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.291-570.124.04
+  version: 5.4.291-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -70921,15 +70977,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.291
+  version: 570.133.07-5.4.291
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.291-570.124.04
+  version: 5.4.291-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.291-570.124.04
+  version: 5.4.291-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -71525,23 +71581,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_dc_56
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -71561,15 +71617,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_l
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -72161,23 +72217,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.131
+  version: 570.133.07-6.1.131
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.131
+  version: 570.133.07-6.1.131
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.131-570.124.04
+  version: 6.1.131-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.131
+  version: 570.133.07-6.1.131
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.131-570.124.04
+  version: 6.1.131-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -72197,15 +72253,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.131
+  version: 570.133.07-6.1.131
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.131-570.124.04
+  version: 6.1.131-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.131-570.124.04
+  version: 6.1.131-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -72793,23 +72849,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -72829,15 +72885,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_legacy535
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -73429,23 +73485,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_dc_5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -73465,15 +73521,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_11_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -74065,23 +74121,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -74101,15 +74157,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_legacy535
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -74701,23 +74757,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_dc_5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -74737,15 +74793,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -75337,23 +75393,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -75373,15 +75429,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_legacy535
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -75973,23 +76029,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_dc_5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -76009,15 +76065,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -76609,23 +76665,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_dc_56
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -76645,15 +76701,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_l
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -77241,23 +77297,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.83
+  version: 570.133.07-6.6.83
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.83
+  version: 570.133.07-6.6.83
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.83-570.124.04
+  version: 6.6.83-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.83
+  version: 570.133.07-6.6.83
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.83-570.124.04
+  version: 6.6.83-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -77277,15 +77333,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.83
+  version: 570.133.07-6.6.83
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.83-570.124.04
+  version: 6.6.83-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.83-570.124.04
+  version: 6.6.83-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -77873,23 +77929,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_dc_56
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -77909,15 +77965,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_l
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -78505,23 +78561,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -78541,15 +78597,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -79141,23 +79197,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -79177,15 +79233,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_legac
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -79777,23 +79833,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_dc_56
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -79813,15 +79869,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_l
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -80413,23 +80469,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -80449,15 +80505,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_legacy53
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -81049,23 +81105,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -81085,15 +81141,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -81685,23 +81741,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -81721,15 +81777,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_legacy5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -82321,23 +82377,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_dc_5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -82357,15 +82413,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -82957,23 +83013,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_dc_5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -82993,15 +83049,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -83593,23 +83649,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -83629,15 +83685,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -84229,23 +84285,23 @@ legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -84265,15 +84321,15 @@ legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -84865,23 +84921,23 @@ legacyPackages.x86_64-linux.linuxPackages.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -84901,15 +84957,15 @@ legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -85501,23 +85557,23 @@ legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -85537,15 +85593,15 @@ legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.10.234
+  version: 570.133.07-5.10.234
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.10.234-570.124.04
+  version: 5.10.234-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -86137,23 +86193,23 @@ legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -86173,15 +86229,15 @@ legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.15.178
+  version: 570.133.07-5.15.178
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.15.178-570.124.04
+  version: 5.15.178-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -86777,23 +86833,23 @@ legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -86813,15 +86869,15 @@ legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-5.4.290
+  version: 570.133.07-5.4.290
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 5.4.290-570.124.04
+  version: 5.4.290-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -87413,23 +87469,23 @@ legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -87449,15 +87505,15 @@ legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.11.11
+  version: 570.133.07-6.11.11
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.11.11-570.124.04
+  version: 6.11.11-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_11_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -88049,23 +88105,23 @@ legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -88085,15 +88141,15 @@ legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -88685,23 +88741,23 @@ legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -88721,15 +88777,15 @@ legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.5
+  version: 570.133.07-6.13.5
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.5-570.124.04
+  version: 6.13.5-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -89321,23 +89377,23 @@ legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -89357,15 +89413,15 @@ legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.1.129
+  version: 570.133.07-6.1.129
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.1.129-570.124.04
+  version: 6.1.129-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -89953,23 +90009,23 @@ legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -89989,15 +90045,15 @@ legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.6.80
+  version: 570.133.07-6.6.80
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.6.80-570.124.04
+  version: 6.6.80-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -90589,23 +90645,23 @@ legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -90625,15 +90681,15 @@ legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -91225,23 +91281,23 @@ legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -91261,15 +91317,15 @@ legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.17
+  version: 570.133.07-6.12.17
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.17-570.124.04
+  version: 6.12.17-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -91861,23 +91917,23 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -91897,15 +91953,15 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -92497,23 +92553,23 @@ legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -92533,15 +92589,15 @@ legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -93133,23 +93189,23 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -93169,15 +93225,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -93769,23 +93825,23 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -93805,15 +93861,15 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.12.19
+  version: 570.133.07-6.12.19
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.12.19-570.124.04
+  version: 6.12.19-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -94405,23 +94461,23 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -94441,15 +94497,15 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -95041,23 +95097,23 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -95077,15 +95133,15 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -95677,23 +95733,23 @@ legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565:
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -95713,15 +95769,15 @@ legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535:
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.124.04-6.13.7
+  version: 570.133.07-6.13.7
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.13.7-570.124.04
+  version: 6.13.7-570.133.07
 legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
@@ -98953,7 +99009,7 @@ legacyPackages.x86_64-linux.lua:
 legacyPackages.x86_64-linux.lua-language-server:
   description: Language server that offers Lua language support
   pname: lua-language-server
-  version: 3.13.6
+  version: 3.13.9
 legacyPackages.x86_64-linux.lua5:
   description: Powerful, fast, lightweight, embeddable scripting language
   pname: lua
@@ -104169,7 +104225,7 @@ legacyPackages.x86_64-linux.magnumclient:
 legacyPackages.x86_64-linux.mago:
   description: Toolchain for PHP that aims to provide a set of tools to help developers write better code
   pname: mago
-  version: 0.10.0
+  version: 0.20.2
 legacyPackages.x86_64-linux.magpie:
   description: Softish fork of Mutter 43.x
   pname: magpie
@@ -105353,7 +105409,7 @@ legacyPackages.x86_64-linux.mautrix-discord:
 legacyPackages.x86_64-linux.mautrix-gmessages:
   description: Matrix-Google Messages puppeting bridge
   pname: mautrix-gmessages
-  version: 0.6.0
+  version: 0.6.1
 legacyPackages.x86_64-linux.mautrix-googlechat:
   description: Matrix-Google Chat puppeting bridge
   pname: mautrix-googlechat
@@ -105369,7 +105425,7 @@ legacyPackages.x86_64-linux.mautrix-signal:
 legacyPackages.x86_64-linux.mautrix-slack:
   description: Matrix-Slack puppeting bridge
   pname: mautrix-slack
-  version: 0.1.4
+  version: 0.2.0
 legacyPackages.x86_64-linux.mautrix-telegram:
   description: Matrix-Telegram hybrid puppeting/relaybot bridge
   pname: python3.12-mautrix-telegram
@@ -105633,7 +105689,7 @@ legacyPackages.x86_64-linux.mdadm4:
 legacyPackages.x86_64-linux.mdbook:
   description: Create books from MarkDown
   pname: mdbook
-  version: 0.4.45
+  version: 0.4.47
 legacyPackages.x86_64-linux.mdbook-admonish:
   description: Preprocessor for mdbook to add Material Design admonishments
   pname: mdbook-admonish
@@ -105705,7 +105761,7 @@ legacyPackages.x86_64-linux.mdbook-pdf:
 legacyPackages.x86_64-linux.mdbook-pdf-outline:
   description: ""
   pname: mdbook-pdf-outline
-  version: 0.1.4
+  version: 0.1.6
 legacyPackages.x86_64-linux.mdbook-plantuml:
   description: mdBook preprocessor to render PlantUML diagrams to png images in the book output directory
   pname: mdbook-plantuml
@@ -106125,7 +106181,7 @@ legacyPackages.x86_64-linux.meow:
 legacyPackages.x86_64-linux.meowlnir:
   description: Opinionated Matrix moderation bot
   pname: meowlnir
-  version: 0.2.0
+  version: 0.3.0
 legacyPackages.x86_64-linux.mepo:
   description: Fast, simple, and hackable OSM map viewer
   pname: mepo
@@ -106337,7 +106393,7 @@ legacyPackages.x86_64-linux.metar:
 legacyPackages.x86_64-linux.metasploit:
   description: Metasploit Framework - a collection of exploits
   pname: metasploit-framework
-  version: 6.4.43
+  version: 6.4.53
 legacyPackages.x86_64-linux.metastore:
   description: Store and restore metadata from a filesystem
   pname: metastore
@@ -106729,7 +106785,7 @@ legacyPackages.x86_64-linux.milkytracker:
 legacyPackages.x86_64-linux.mill:
   description: Build tool for Scala, Java and more
   pname: mill
-  version: 0.12.8
+  version: 0.12.9
 legacyPackages.x86_64-linux.miller:
   description: Like awk, sed, cut, join, and sort for data formats such as CSV, TSV, JSON, JSON Lines, and positionally-indexed
   pname: miller
@@ -107425,7 +107481,7 @@ legacyPackages.x86_64-linux.misconfig-mapper:
 legacyPackages.x86_64-linux.mise:
   description: Front-end to your dev env
   pname: mise
-  version: 2025.2.7
+  version: 2025.3.6
 legacyPackages.x86_64-linux.missidentify:
   description: Find Win32 applications
   pname: missidentify
@@ -107925,7 +107981,7 @@ legacyPackages.x86_64-linux.mockoon:
 legacyPackages.x86_64-linux.mod:
   description: Automated Semantic Import Versioning Upgrades for Go
   pname: mod
-  version: 0.7.1
+  version: 0.8.0
 legacyPackages.x86_64-linux.mod-arpeggiator-lv2:
   description: LV2 arpeggiator
   pname: mod-arpeggiator-lv2-unstable
@@ -109221,7 +109277,7 @@ legacyPackages.x86_64-linux.mqttui:
 legacyPackages.x86_64-linux.mqttx:
   description: Powerful cross-platform MQTT 5.0 Desktop, CLI, and WebSocket client tools
   pname: mqttx
-  version: 1.10.1
+  version: 1.11.1
 legacyPackages.x86_64-linux.mqttx-cli:
   description: MQTTX Command Line Tools
   pname: mqttx-cli
@@ -109765,7 +109821,7 @@ legacyPackages.x86_64-linux.museeks:
 legacyPackages.x86_64-linux.musescore:
   description: Music notation and composition software
   pname: musescore
-  version: 4.4.4
+  version: "4.5"
 legacyPackages.x86_64-linux.museum:
   description: API server for ente.io
   pname: museum
@@ -111149,7 +111205,7 @@ legacyPackages.x86_64-linux.nesting:
 legacyPackages.x86_64-linux.nestopia-ue:
   description: Cross-platform Nestopia emulator core with a GUI
   pname: nestopia
-  version: 1.52.1
+  version: 1.53.0
 legacyPackages.x86_64-linux.net-cpp:
   description: Simple yet beautiful networking API for C++11
   pname: net-cpp
@@ -111181,7 +111237,7 @@ legacyPackages.x86_64-linux.netbeans:
 legacyPackages.x86_64-linux.netbird:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird
-  version: 0.37.1
+  version: 0.38.2
 legacyPackages.x86_64-linux.netbird-dashboard:
   description: NetBird Management Service Web UI Panel
   pname: netbird-dashboard
@@ -111189,7 +111245,7 @@ legacyPackages.x86_64-linux.netbird-dashboard:
 legacyPackages.x86_64-linux.netbird-ui:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird
-  version: 0.37.1
+  version: 0.38.2
 legacyPackages.x86_64-linux.netboot:
   description: Mini PXE server
   pname: netboot
@@ -111645,15 +111701,15 @@ legacyPackages.x86_64-linux.nextcloud-whiteboard-server:
 legacyPackages.x86_64-linux.nextcloud29:
   description: Sharing solution for files, calendars, contacts and more
   pname: nextcloud
-  version: 29.0.13
+  version: 29.0.14
 legacyPackages.x86_64-linux.nextcloud30:
   description: Sharing solution for files, calendars, contacts and more
   pname: nextcloud
-  version: 30.0.7
+  version: 30.0.8
 legacyPackages.x86_64-linux.nextcloud31:
   description: Sharing solution for files, calendars, contacts and more
   pname: nextcloud
-  version: 31.0.1
+  version: 31.0.2
 legacyPackages.x86_64-linux.nextdns:
   description: NextDNS DNS/53 to DoH Proxy
   pname: nextdns
@@ -112046,6 +112102,10 @@ legacyPackages.x86_64-linux.ninjas2:
   description: sample slicer plugin for LV2, VST, and jack standalone
   pname: ninjas2
   version: 0.2.0
+legacyPackages.x86_64-linux.ninjavis:
+  description: Generate visualization from Ninja build logs
+  pname: ninjavis
+  version: 0.2.1
 legacyPackages.x86_64-linux.ninka:
   description: Sentence based license detector
   pname: perl5.40.0-ninka
@@ -120125,7 +120185,7 @@ legacyPackages.x86_64-linux.openfx:
 legacyPackages.x86_64-linux.opengamepadui:
   description: Open source gamepad-native game launcher and overlay
   pname: opengamepadui
-  version: 0.35.8
+  version: 0.37.0
 legacyPackages.x86_64-linux.opengfw:
   description: Flexible, easy-to-use, open source implementation of GFW on Linux
   pname: opengfw
@@ -120913,7 +120973,7 @@ legacyPackages.x86_64-linux.openvino:
 legacyPackages.x86_64-linux.openvmm:
   description: modular, cross-platform Virtual Machine Monitor (VMM), written in Rust
   pname: openvmm
-  version: 0-unstable-2024-10-19
+  version: 0-unstable-2025-03-13
 legacyPackages.x86_64-linux.openvpn:
   description: Robust and highly flexible tunneling application
   pname: openvpn
@@ -121789,7 +121849,7 @@ legacyPackages.x86_64-linux.owncloud-client:
 legacyPackages.x86_64-linux.owntracks-recorder:
   description: Store and access data published by OwnTracks apps
   pname: owntracks-recorder
-  version: 0.9.9
+  version: 1.0.0
 legacyPackages.x86_64-linux.owocr:
   description: Optical character recognition for Japanese text
   pname: owocr
@@ -123141,7 +123201,7 @@ legacyPackages.x86_64-linux.patch-package:
 legacyPackages.x86_64-linux.patch2pr:
   description: Create pull requests from patches without cloning the repository
   pname: patch2pr
-  version: 0.32.0
+  version: 0.33.0
 legacyPackages.x86_64-linux.patchPpdFilesHook:
   description: setup hook to patch executable paths in ppd files
   pname: patch-ppd-files
@@ -123781,7 +123841,7 @@ legacyPackages.x86_64-linux.penna:
 legacyPackages.x86_64-linux.penpot-desktop:
   description: Unofficial desktop application for the open-source design tool, Penpot
   pname: penpot-desktop
-  version: 0.10.0
+  version: 0.11.0
 legacyPackages.x86_64-linux.pentablet-driver:
   description: Driver for XP-PEN Pentablet drawing tablets
   pname: xp-pen-g430-driver
@@ -150097,7 +150157,7 @@ legacyPackages.x86_64-linux.pikopixel:
 legacyPackages.x86_64-linux.pilipalax:
   description: Third-party BiliBili client developed with Flutter
   pname: pilipalax
-  version: 1.1.0-beta.5
+  version: 1.1.2-beta
 legacyPackages.x86_64-linux.pilot-link:
   description: Suite of tools for connecting to PalmOS handheld devices
   pname: pilot-link
@@ -154041,11 +154101,11 @@ legacyPackages.x86_64-linux.postgresql13JitPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -154285,11 +154345,11 @@ legacyPackages.x86_64-linux.postgresql13Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql13Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql13Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql13Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -154529,11 +154589,11 @@ legacyPackages.x86_64-linux.postgresql14JitPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -154773,11 +154833,11 @@ legacyPackages.x86_64-linux.postgresql14Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql14Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql14Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -155017,11 +155077,11 @@ legacyPackages.x86_64-linux.postgresql15JitPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -155261,11 +155321,11 @@ legacyPackages.x86_64-linux.postgresql15Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql15Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql15Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -155505,11 +155565,11 @@ legacyPackages.x86_64-linux.postgresql16JitPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -155749,11 +155809,11 @@ legacyPackages.x86_64-linux.postgresql16Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql16Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql16Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -155993,11 +156053,11 @@ legacyPackages.x86_64-linux.postgresql17JitPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -156237,11 +156297,11 @@ legacyPackages.x86_64-linux.postgresql17Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql17Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresql17Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -156481,11 +156541,11 @@ legacyPackages.x86_64-linux.postgresqlJitPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -156725,11 +156785,11 @@ legacyPackages.x86_64-linux.postgresqlPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresqlPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.postgresqlPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -158081,11 +158141,11 @@ legacyPackages.x86_64-linux.protonmail-bridge-gui:
 legacyPackages.x86_64-linux.protonmail-desktop:
   description: Desktop application for Mail and Calendar, made with Electron
   pname: protonmail-desktop
-  version: 1.7.1
+  version: 1.8.0
 legacyPackages.x86_64-linux.protonplus:
   description: Simple Wine and Proton-based compatibility tools manager
   pname: protonplus
-  version: 0.4.25
+  version: 0.4.27
 legacyPackages.x86_64-linux.protontricks:
   description: Simple wrapper for running Winetricks commands for Proton-enabled games
   pname: protontricks
@@ -158801,7 +158861,7 @@ legacyPackages.x86_64-linux.pwsafe:
 legacyPackages.x86_64-linux.pwvucontrol:
   description: Pipewire Volume Control
   pname: pwvucontrol
-  version: 0.4.8
+  version: 0.4.9
 legacyPackages.x86_64-linux.pxattr:
   description: Provides a single interface to extended file attributes
   pname: pxattr
@@ -160097,7 +160157,7 @@ legacyPackages.x86_64-linux.python312Packages.aioserial:
 legacyPackages.x86_64-linux.python312Packages.aioshelly:
   description: Python library to control Shelly
   pname: python3.12-aioshelly
-  version: 13.3.0
+  version: 13.4.0
 legacyPackages.x86_64-linux.python312Packages.aioshutil:
   description: Asynchronous version of function of shutil module
   pname: python3.12-aioshutil
@@ -161493,11 +161553,11 @@ legacyPackages.x86_64-linux.python312Packages.awesomeversion:
 legacyPackages.x86_64-linux.python312Packages.awkward:
   description: Manipulate JSON-like data with NumPy-like idioms
   pname: python3.12-awkward
-  version: 2.7.4
+  version: 2.8.0
 legacyPackages.x86_64-linux.python312Packages.awkward-cpp:
   description: CPU kernels and compiled extensions for Awkward Array
   pname: python3.12-awkward-cpp
-  version: "44"
+  version: "45"
 legacyPackages.x86_64-linux.python312Packages.awkward-pandas:
   description: Awkward Array Pandas Extension
   pname: python3.12-awkward-pandas
@@ -164201,7 +164261,7 @@ legacyPackages.x86_64-linux.python312Packages.cohere:
 legacyPackages.x86_64-linux.python312Packages.coiled:
   description: Python client for coiled.io dask clusters
   pname: python3.12-coiled
-  version: 1.82.0
+  version: 1.86.0
 legacyPackages.x86_64-linux.python312Packages.coincurve:
   description: Cross-platform bindings for libsecp256k1
   pname: python3.12-coincurve
@@ -164406,6 +164466,14 @@ legacyPackages.x86_64-linux.python312Packages.condaUnpackHook:
   description: ""
   pname: conda-unpack-hook
   version: ""
+legacyPackages.x86_64-linux.python312Packages.conduit:
+  description: Python bindings for the conduit library
+  pname: python3.12-conduit
+  version: 0.9.3
+legacyPackages.x86_64-linux.python312Packages.conduit-mpi:
+  description: Python bindings for the conduit library
+  pname: python3.12-conduit
+  version: 0.9.3
 legacyPackages.x86_64-linux.python312Packages.confection:
   description: Library that offers a configuration system
   pname: python3.12-confection
@@ -164429,7 +164497,7 @@ legacyPackages.x86_64-linux.python312Packages.configobj:
 legacyPackages.x86_64-linux.python312Packages.configparser:
   description: Updated configparser from Python 3.7 for Python 2.6+
   pname: python3.12-configparser
-  version: 7.1.0
+  version: 7.2.0
 legacyPackages.x86_64-linux.python312Packages.configshell:
   description: Python library for building configuration shells
   pname: python3.12-configshell
@@ -164721,7 +164789,7 @@ legacyPackages.x86_64-linux.python312Packages.crochet:
 legacyPackages.x86_64-linux.python312Packages.crocoddyl:
   description: Crocoddyl optimal control library
   pname: crocoddyl
-  version: 2.2.0
+  version: 3.0.0
 legacyPackages.x86_64-linux.python312Packages.cron-descriptor:
   description: Library that converts cron expressions into human readable strings
   pname: python3.12-cron-descriptor
@@ -173550,6 +173618,10 @@ legacyPackages.x86_64-linux.python312Packages.kubernetes-asyncio:
   description: Python asynchronous client library for Kubernetes http://kubernetes.io
   pname: python3.12-kubernetes-asyncio
   version: 31.1.0
+legacyPackages.x86_64-linux.python312Packages.kubernetes-validate:
+  description: Module to validate Kubernetes resource definitions against the declared Kubernetes schemas
+  pname: python3.12-kubernetes-validate
+  version: 1.31.0
 legacyPackages.x86_64-linux.python312Packages.kurbopy:
   description: Python wrapper around the Rust kurbo library for 2D curve manipulation
   pname: python3.12-kurbopy
@@ -180369,7 +180441,7 @@ legacyPackages.x86_64-linux.python312Packages.peaqevcore:
 legacyPackages.x86_64-linux.python312Packages.pebble:
   description: API to manage threads and processes within an application
   pname: python3.12-pebble
-  version: 5.1.0
+  version: 5.1.1
 legacyPackages.x86_64-linux.python312Packages.peblar:
   description: Python client for Peblar EV chargers
   pname: python3.12-peblar
@@ -186217,7 +186289,7 @@ legacyPackages.x86_64-linux.python312Packages.python-google-nest:
 legacyPackages.x86_64-linux.python312Packages.python-gvm:
   description: Collection of APIs that help with remote controlling a Greenbone Security Manager
   pname: python3.12-python-gvm
-  version: 26.1.0
+  version: 26.1.1
 legacyPackages.x86_64-linux.python312Packages.python-hcl2:
   description: A parser for HCL2 written in Python using Lark
   pname: python3.12-python-hcl2
@@ -186993,7 +187065,7 @@ legacyPackages.x86_64-linux.python312Packages.pytorch-bin:
 legacyPackages.x86_64-linux.python312Packages.pytorch-lightning:
   description: Lightweight PyTorch wrapper for machine learning researchers
   pname: python3.12-pytorch-lightning
-  version: 2.5.0.post0
+  version: 2.5.1
 legacyPackages.x86_64-linux.python312Packages.pytorch-metric-learning:
   description: Metric learning library for PyTorch
   pname: python3.12-pytorch-metric-learning
@@ -189129,7 +189201,7 @@ legacyPackages.x86_64-linux.python312Packages.schemainspect:
 legacyPackages.x86_64-linux.python312Packages.schemdraw:
   description: Package for producing high-quality electrical circuit schematic diagrams
   pname: python3.12-schemdraw
-  version: "0.19"
+  version: "0.20"
 legacyPackages.x86_64-linux.python312Packages.schiene:
   description: Python library for interacting with Bahn.de
   pname: python3.12-schiene
@@ -189193,7 +189265,7 @@ legacyPackages.x86_64-linux.python312Packages.scikit-misc:
 legacyPackages.x86_64-linux.python312Packages.scikit-posthocs:
   description: Multiple Pairwise Comparisons (Post Hoc) Tests in Python
   pname: python3.12-scikit-posthocs
-  version: 0.11.2
+  version: 0.11.3
 legacyPackages.x86_64-linux.python312Packages.scikit-rf:
   description: Python library for RF/Microwave engineering
   pname: python3.12-scikit-rf
@@ -194829,7 +194901,7 @@ legacyPackages.x86_64-linux.python312Packages.types-jinja2:
 legacyPackages.x86_64-linux.python312Packages.types-lxml:
   description: Complete lxml external type annotation
   pname: python3.12-types-lxml
-  version: 2024.12.13
+  version: 2025.02.24
 legacyPackages.x86_64-linux.python312Packages.types-markdown:
   description: Typing stubs for Markdown
   pname: python3.12-types-markdown
@@ -195457,11 +195529,11 @@ legacyPackages.x86_64-linux.python312Packages.uuid6:
 legacyPackages.x86_64-linux.python312Packages.uv:
   description: Extremely fast Python package installer and resolver, written in Rust
   pname: python3.12-uv
-  version: 0.6.6
+  version: 0.6.8
 legacyPackages.x86_64-linux.python312Packages.uv-build:
   description: A minimal build backend for uv
   pname: python3.12-uv-build
-  version: 0.6.6
+  version: 0.6.8
 legacyPackages.x86_64-linux.python312Packages.uv-dynamic-versioning:
   description: Dynamic versioning based on VCS tags for uv/hatch project
   pname: python3.12-uv-dynamic-versioning
@@ -197105,11 +197177,11 @@ legacyPackages.x86_64-linux.python312Packages.zhon:
 legacyPackages.x86_64-linux.python312Packages.ziafont:
   description: Convert TTF/OTF font glyphs to SVG paths
   pname: python3.12-ziafont
-  version: "0.9"
+  version: "0.10"
 legacyPackages.x86_64-linux.python312Packages.ziamath:
   description: Render MathML and LaTeX Math to SVG without Latex installation
   pname: python3.12-ziamath
-  version: "0.11"
+  version: "0.12"
 legacyPackages.x86_64-linux.python312Packages.zict:
   description: Mutable mapping tools
   pname: python3.12-zict
@@ -198389,7 +198461,7 @@ legacyPackages.x86_64-linux.python313Packages.aioserial:
 legacyPackages.x86_64-linux.python313Packages.aioshelly:
   description: Python library to control Shelly
   pname: python3.13-aioshelly
-  version: 13.3.0
+  version: 13.4.0
 legacyPackages.x86_64-linux.python313Packages.aioshutil:
   description: Asynchronous version of function of shutil module
   pname: python3.13-aioshutil
@@ -199789,11 +199861,11 @@ legacyPackages.x86_64-linux.python313Packages.awesomeversion:
 legacyPackages.x86_64-linux.python313Packages.awkward:
   description: Manipulate JSON-like data with NumPy-like idioms
   pname: python3.13-awkward
-  version: 2.7.4
+  version: 2.8.0
 legacyPackages.x86_64-linux.python313Packages.awkward-cpp:
   description: CPU kernels and compiled extensions for Awkward Array
   pname: python3.13-awkward-cpp
-  version: "44"
+  version: "45"
 legacyPackages.x86_64-linux.python313Packages.awkward-pandas:
   description: Awkward Array Pandas Extension
   pname: python3.13-awkward-pandas
@@ -202497,7 +202569,7 @@ legacyPackages.x86_64-linux.python313Packages.cohere:
 legacyPackages.x86_64-linux.python313Packages.coiled:
   description: Python client for coiled.io dask clusters
   pname: python3.13-coiled
-  version: 1.82.0
+  version: 1.86.0
 legacyPackages.x86_64-linux.python313Packages.coincurve:
   description: Cross-platform bindings for libsecp256k1
   pname: python3.13-coincurve
@@ -202702,6 +202774,14 @@ legacyPackages.x86_64-linux.python313Packages.condaUnpackHook:
   description: ""
   pname: conda-unpack-hook
   version: ""
+legacyPackages.x86_64-linux.python313Packages.conduit:
+  description: Python bindings for the conduit library
+  pname: python3.13-conduit
+  version: 0.9.3
+legacyPackages.x86_64-linux.python313Packages.conduit-mpi:
+  description: Python bindings for the conduit library
+  pname: python3.13-conduit
+  version: 0.9.3
 legacyPackages.x86_64-linux.python313Packages.confection:
   description: Library that offers a configuration system
   pname: python3.13-confection
@@ -202725,7 +202805,7 @@ legacyPackages.x86_64-linux.python313Packages.configobj:
 legacyPackages.x86_64-linux.python313Packages.configparser:
   description: Updated configparser from Python 3.7 for Python 2.6+
   pname: python3.13-configparser
-  version: 7.1.0
+  version: 7.2.0
 legacyPackages.x86_64-linux.python313Packages.configshell:
   description: Python library for building configuration shells
   pname: python3.13-configshell
@@ -203017,7 +203097,7 @@ legacyPackages.x86_64-linux.python313Packages.crochet:
 legacyPackages.x86_64-linux.python313Packages.crocoddyl:
   description: Crocoddyl optimal control library
   pname: crocoddyl
-  version: 2.2.0
+  version: 3.0.0
 legacyPackages.x86_64-linux.python313Packages.cron-descriptor:
   description: Library that converts cron expressions into human readable strings
   pname: python3.13-cron-descriptor
@@ -211846,6 +211926,10 @@ legacyPackages.x86_64-linux.python313Packages.kubernetes-asyncio:
   description: Python asynchronous client library for Kubernetes http://kubernetes.io
   pname: python3.13-kubernetes-asyncio
   version: 31.1.0
+legacyPackages.x86_64-linux.python313Packages.kubernetes-validate:
+  description: Module to validate Kubernetes resource definitions against the declared Kubernetes schemas
+  pname: python3.13-kubernetes-validate
+  version: 1.31.0
 legacyPackages.x86_64-linux.python313Packages.kurbopy:
   description: Python wrapper around the Rust kurbo library for 2D curve manipulation
   pname: python3.13-kurbopy
@@ -218665,7 +218749,7 @@ legacyPackages.x86_64-linux.python313Packages.peaqevcore:
 legacyPackages.x86_64-linux.python313Packages.pebble:
   description: API to manage threads and processes within an application
   pname: python3.13-pebble
-  version: 5.1.0
+  version: 5.1.1
 legacyPackages.x86_64-linux.python313Packages.peblar:
   description: Python client for Peblar EV chargers
   pname: python3.13-peblar
@@ -224513,7 +224597,7 @@ legacyPackages.x86_64-linux.python313Packages.python-google-nest:
 legacyPackages.x86_64-linux.python313Packages.python-gvm:
   description: Collection of APIs that help with remote controlling a Greenbone Security Manager
   pname: python3.13-python-gvm
-  version: 26.1.0
+  version: 26.1.1
 legacyPackages.x86_64-linux.python313Packages.python-hcl2:
   description: A parser for HCL2 written in Python using Lark
   pname: python3.13-python-hcl2
@@ -225289,7 +225373,7 @@ legacyPackages.x86_64-linux.python313Packages.pytorch-bin:
 legacyPackages.x86_64-linux.python313Packages.pytorch-lightning:
   description: Lightweight PyTorch wrapper for machine learning researchers
   pname: python3.13-pytorch-lightning
-  version: 2.5.0.post0
+  version: 2.5.1
 legacyPackages.x86_64-linux.python313Packages.pytorch-metric-learning:
   description: Metric learning library for PyTorch
   pname: python3.13-pytorch-metric-learning
@@ -227425,7 +227509,7 @@ legacyPackages.x86_64-linux.python313Packages.schemainspect:
 legacyPackages.x86_64-linux.python313Packages.schemdraw:
   description: Package for producing high-quality electrical circuit schematic diagrams
   pname: python3.13-schemdraw
-  version: "0.19"
+  version: "0.20"
 legacyPackages.x86_64-linux.python313Packages.schiene:
   description: Python library for interacting with Bahn.de
   pname: python3.13-schiene
@@ -227489,7 +227573,7 @@ legacyPackages.x86_64-linux.python313Packages.scikit-misc:
 legacyPackages.x86_64-linux.python313Packages.scikit-posthocs:
   description: Multiple Pairwise Comparisons (Post Hoc) Tests in Python
   pname: python3.13-scikit-posthocs
-  version: 0.11.2
+  version: 0.11.3
 legacyPackages.x86_64-linux.python313Packages.scikit-rf:
   description: Python library for RF/Microwave engineering
   pname: python3.13-scikit-rf
@@ -233149,7 +233233,7 @@ legacyPackages.x86_64-linux.python313Packages.types-jinja2:
 legacyPackages.x86_64-linux.python313Packages.types-lxml:
   description: Complete lxml external type annotation
   pname: python3.13-types-lxml
-  version: 2024.12.13
+  version: 2025.02.24
 legacyPackages.x86_64-linux.python313Packages.types-markdown:
   description: Typing stubs for Markdown
   pname: python3.13-types-markdown
@@ -233777,11 +233861,11 @@ legacyPackages.x86_64-linux.python313Packages.uuid6:
 legacyPackages.x86_64-linux.python313Packages.uv:
   description: Extremely fast Python package installer and resolver, written in Rust
   pname: python3.13-uv
-  version: 0.6.6
+  version: 0.6.8
 legacyPackages.x86_64-linux.python313Packages.uv-build:
   description: A minimal build backend for uv
   pname: python3.13-uv-build
-  version: 0.6.6
+  version: 0.6.8
 legacyPackages.x86_64-linux.python313Packages.uv-dynamic-versioning:
   description: Dynamic versioning based on VCS tags for uv/hatch project
   pname: python3.13-uv-dynamic-versioning
@@ -235425,11 +235509,11 @@ legacyPackages.x86_64-linux.python313Packages.zhon:
 legacyPackages.x86_64-linux.python313Packages.ziafont:
   description: Convert TTF/OTF font glyphs to SVG paths
   pname: python3.13-ziafont
-  version: "0.9"
+  version: "0.10"
 legacyPackages.x86_64-linux.python313Packages.ziamath:
   description: Render MathML and LaTeX Math to SVG without Latex installation
   pname: python3.13-ziamath
-  version: "0.11"
+  version: "0.12"
 legacyPackages.x86_64-linux.python313Packages.zict:
   description: Mutable mapping tools
   pname: python3.13-zict
@@ -236049,7 +236133,7 @@ legacyPackages.x86_64-linux.qgrep:
 legacyPackages.x86_64-linux.qgroundcontrol:
   description: Provides full ground station support and configuration for the PX4 and APM Flight Stacks
   pname: qgroundcontrol
-  version: 4.4.3
+  version: 4.4.4
 legacyPackages.x86_64-linux.qgv:
   description: Interactive Qt graphViz display
   pname: qgv
@@ -237054,10 +237138,6 @@ legacyPackages.x86_64-linux.qt6Packages.signond:
   description: Signon Daemon for Qt
   pname: signond
   version: 8.61-unstable-2023-11-24
-legacyPackages.x86_64-linux.qt6Packages.stdenv:
-  description: The default build environment for Unix packages in Nixpkgs
-  pname: stdenv-linux
-  version: ""
 legacyPackages.x86_64-linux.qt6Packages.timed:
   description: Time daemon managing system time, time zone and settings
   pname: timed
@@ -237365,7 +237445,7 @@ legacyPackages.x86_64-linux.quicksynergy:
 legacyPackages.x86_64-linux.quicktemplate:
   description: Fast, powerful, yet easy to use template engine for Go
   pname: quicktemplate
-  version: 1.7.0
+  version: 1.8.0
 legacyPackages.x86_64-linux.quicktun:
   description: Very simple, yet secure VPN software
   pname: quicktun
@@ -237509,7 +237589,7 @@ legacyPackages.x86_64-linux.r2mod_cli:
 legacyPackages.x86_64-linux.r2modman:
   description: Unofficial Thunderstore mod manager
   pname: r2modman
-  version: 3.1.56
+  version: 3.1.57
 legacyPackages.x86_64-linux.r3ctl:
   description: Cmdline tool to control the r3 hackerspace lights
   pname: r3ctl-a82cb5b3123224e706835407f21acea9dc7ab0f0
@@ -237689,7 +237769,7 @@ legacyPackages.x86_64-linux.rails-new:
 legacyPackages.x86_64-linux.railway:
   description: Railway.app CLI
   pname: railway
-  version: 3.22.0
+  version: 3.23.0
 legacyPackages.x86_64-linux.railway-travel:
   description: Travel with all your train information in one place. Also known as Railway
   pname: diebahn
@@ -237717,7 +237797,7 @@ legacyPackages.x86_64-linux.rainbowstream:
 legacyPackages.x86_64-linux.rainfrog:
   description: A database management TUI for postgres
   pname: rainfrog
-  version: 0.2.14
+  version: 0.2.15
 legacyPackages.x86_64-linux.rainloop-community:
   description: Simple, modern & fast web-based email client
   pname: rainloop-community
@@ -237973,7 +238053,7 @@ legacyPackages.x86_64-linux.ratt:
 legacyPackages.x86_64-linux.rattler-build:
   description: Universal package builder for Windows, macOS and Linux
   pname: rattler-build
-  version: 0.38.0
+  version: 0.39.0
 legacyPackages.x86_64-linux.rauc:
   description: Safe and secure software updates for embedded Linux
   pname: rauc
@@ -238225,7 +238305,7 @@ legacyPackages.x86_64-linux.reader:
 legacyPackages.x86_64-linux.readest:
   description: Modern, feature-rich ebook reader
   pname: readest
-  version: 0.9.19
+  version: 0.9.23
 legacyPackages.x86_64-linux.readexe:
   description: Reads out structural information on Microsoft .exe formats
   pname: readexe
@@ -238569,7 +238649,7 @@ legacyPackages.x86_64-linux.refind:
 legacyPackages.x86_64-linux.refine:
   description: Tweak various aspects of GNOME
   pname: refine
-  version: 0.5.2
+  version: 0.5.5
 legacyPackages.x86_64-linux.refinery-cli:
   description: Run migrations for the Refinery ORM for Rust via the CLI
   pname: refinery-cli
@@ -238793,7 +238873,7 @@ legacyPackages.x86_64-linux.renode:
 legacyPackages.x86_64-linux.renode-dts2repl:
   description: Tool for converting device tree sources into Renode's .repl files
   pname: renode-dts2repl
-  version: 0-unstable-2025-03-05
+  version: 0-unstable-2025-03-17
 legacyPackages.x86_64-linux.renode-unstable:
   description: Virtual development framework for complex embedded systems
   pname: renode-unstable
@@ -239537,7 +239617,7 @@ legacyPackages.x86_64-linux.rke:
 legacyPackages.x86_64-linux.rke2:
   description: RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution
   pname: rke2
-  version: 1.31.5+rke2r1
+  version: 1.31.6+rke2r1
 legacyPackages.x86_64-linux.rke2_1_29:
   description: RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution
   pname: rke2
@@ -239549,7 +239629,7 @@ legacyPackages.x86_64-linux.rke2_1_30:
 legacyPackages.x86_64-linux.rke2_1_31:
   description: RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution
   pname: rke2
-  version: 1.31.5+rke2r1
+  version: 1.31.6+rke2r1
 legacyPackages.x86_64-linux.rke2_1_32:
   description: RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution
   pname: rke2
@@ -239561,7 +239641,7 @@ legacyPackages.x86_64-linux.rke2_latest:
 legacyPackages.x86_64-linux.rke2_stable:
   description: RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution
   pname: rke2
-  version: 1.31.5+rke2r1
+  version: 1.31.6+rke2r1
 legacyPackages.x86_64-linux.rkflashtool:
   description: Tools for flashing Rockchip devices
   pname: rkflashtool
@@ -241074,6 +241154,10 @@ legacyPackages.x86_64-linux.roxterm:
   description: ' A highly configurable terminal emulator'
   pname: roxterm
   version: 3.15.3
+legacyPackages.x86_64-linux.rp:
+  description: Fast C++ ROP gadget finder for PE/ELF/Mach-O x86/x64/ARM/ARM64 binaries
+  pname: rp
+  version: 2.1.4
 legacyPackages.x86_64-linux.rpPPPoE:
   description: Roaring Penguin Point-to-Point over Ethernet tool
   pname: rp-pppoe
@@ -241461,7 +241545,7 @@ legacyPackages.x86_64-linux.rttr:
 legacyPackages.x86_64-linux.rtx:
   description: Front-end to your dev env
   pname: mise
-  version: 2025.2.7
+  version: 2025.3.6
 legacyPackages.x86_64-linux.rtz:
   description: Tool to easily work with timezone lookups via a binary, a library, or a server
   pname: rtz
@@ -249613,7 +249697,7 @@ legacyPackages.x86_64-linux.ruffle:
 legacyPackages.x86_64-linux.rufo:
   description: Ruby formatter
   pname: rufo
-  version: 0.17.0
+  version: 0.18.1
 legacyPackages.x86_64-linux.ruler:
   description: Tool to abuse Exchange services
   pname: ruler
@@ -270337,7 +270421,7 @@ legacyPackages.x86_64-linux.sentencepiece:
 legacyPackages.x86_64-linux.sentry-cli:
   description: Command line utility to work with Sentry
   pname: sentry-cli
-  version: 2.42.2
+  version: 2.42.3
 legacyPackages.x86_64-linux.sentry-native:
   description: Sentry SDK for C, C++ and native applications
   pname: sentry-native
@@ -270941,7 +271025,7 @@ legacyPackages.x86_64-linux.shipwright:
 legacyPackages.x86_64-linux.shipyard:
   description: Tool for building modern cloud native development environments
   pname: jumppad
-  version: 0.17.1
+  version: 0.18.0
 legacyPackages.x86_64-linux.shishi:
   description: Implementation of the Kerberos 5 network security system
   pname: shishi
@@ -271057,7 +271141,7 @@ legacyPackages.x86_64-linux.showoff:
 legacyPackages.x86_64-linux.showtime:
   description: Watch without distraction
   pname: showtime
-  version: "47.0"
+  version: "48.0"
 legacyPackages.x86_64-linux.shpool:
   description: Persistent session management like tmux, but more lightweight
   pname: shpool
@@ -271581,7 +271665,7 @@ legacyPackages.x86_64-linux.sixpair:
 legacyPackages.x86_64-linux.siyuan:
   description: Privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync
   pname: siyuan
-  version: 3.1.24
+  version: 3.1.25
 legacyPackages.x86_64-linux.sjasmplus:
   description: Z80 assembly language cross compiler. It is based on the SjASM source code by Sjoerd Mastijn
   pname: sjasmplus
@@ -273897,11 +273981,11 @@ legacyPackages.x86_64-linux.squeekboard:
 legacyPackages.x86_64-linux.squeezelite:
   description: Lightweight headless squeezebox client emulator
   pname: squeezelite
-  version: 2.0.0.1518
+  version: 2.0.0.1524
 legacyPackages.x86_64-linux.squeezelite-pulse:
   description: Lightweight headless squeezebox client emulator
   pname: squeezelite-pulse
-  version: 2.0.0.1518
+  version: 2.0.0.1524
 legacyPackages.x86_64-linux.squid:
   description: Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more
   pname: squid
@@ -274297,7 +274381,7 @@ legacyPackages.x86_64-linux.stackblur-go:
 legacyPackages.x86_64-linux.stackit-cli:
   description: CLI to manage STACKIT cloud services
   pname: stackit-cli
-  version: 0.24.0
+  version: 0.26.0
 legacyPackages.x86_64-linux.stackql:
   description: Deploy, manage and query cloud resources and interact with APIs using SQL
   pname: stackql
@@ -274689,15 +274773,15 @@ legacyPackages.x86_64-linux.stenc:
 legacyPackages.x86_64-linux.step-ca:
   description: Private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH
   pname: step-ca
-  version: 0.28.2
+  version: 0.28.3
 legacyPackages.x86_64-linux.step-cli:
   description: Zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc
   pname: step-cli
-  version: 0.28.5
+  version: 0.28.6
 legacyPackages.x86_64-linux.step-kms-plugin:
   description: step plugin to manage keys and certificates on cloud KMSs and HSMs
   pname: step-kms-plugin
-  version: 0.12.1
+  version: 0.12.2
 legacyPackages.x86_64-linux.stepmania:
   description: Free dance and rhythm game for Windows, Mac, and Linux
   pname: stepmania
@@ -275325,7 +275409,7 @@ legacyPackages.x86_64-linux.summoning-pixel-dungeon:
 legacyPackages.x86_64-linux.sumneko-lua-language-server:
   description: Language server that offers Lua language support
   pname: lua-language-server
-  version: 3.13.6
+  version: 3.13.9
 legacyPackages.x86_64-linux.sumo:
   description: SUMO traffic simulator
   pname: sumo
@@ -275801,7 +275885,7 @@ legacyPackages.x86_64-linux.swayidle:
 legacyPackages.x86_64-linux.swayimg:
   description: Image viewer for Sway/Wayland
   pname: swayimg
-  version: "3.8"
+  version: "3.9"
 legacyPackages.x86_64-linux.swaykbdd:
   description: Per-window keyboard layout for Sway
   pname: swaykbdd
@@ -276529,7 +276613,7 @@ legacyPackages.x86_64-linux.t1utils:
 legacyPackages.x86_64-linux.t3:
   description: Next generation tee with colorized output streams and precise time stamping
   pname: t3
-  version: 1.0.8
+  version: 1.0.9
 legacyPackages.x86_64-linux.t4kcommon:
   description: Library of code shared between tuxmath and tuxtype
   pname: t4kcommon
@@ -276949,7 +277033,7 @@ legacyPackages.x86_64-linux.taskflow:
 legacyPackages.x86_64-linux.taskjuggler:
   description: Modern and powerful project management tool
   pname: taskjuggler
-  version: 3.7.2
+  version: 3.8.1
 legacyPackages.x86_64-linux.tasknc:
   description: Ncurses wrapper around taskwarrior
   pname: tasknc
@@ -277913,7 +277997,7 @@ legacyPackages.x86_64-linux.terraform-inventory:
 legacyPackages.x86_64-linux.terraform-landscape:
   description: Improve Terraform's plan output to be easier to read and understand
   pname: terraform_landscape
-  version: 0.2.1
+  version: 0.3.4
 legacyPackages.x86_64-linux.terraform-local:
   description: Terraform CLI wrapper to deploy your Terraform applications directly to LocalStack
   pname: terraform_local
@@ -278314,6 +278398,10 @@ legacyPackages.x86_64-linux.terraform-providers.newrelic:
   description: ""
   pname: terraform-provider-newrelic
   version: 3.58.1
+legacyPackages.x86_64-linux.terraform-providers.nexus:
+  description: ""
+  pname: terraform-provider-nexus
+  version: 2.5.0
 legacyPackages.x86_64-linux.terraform-providers.nomad:
   description: ""
   pname: terraform-provider-nomad
@@ -278405,7 +278493,7 @@ legacyPackages.x86_64-linux.terraform-providers.rabbitmq:
 legacyPackages.x86_64-linux.terraform-providers.rancher2:
   description: ""
   pname: terraform-provider-rancher2
-  version: 6.0.0
+  version: 6.1.4
 legacyPackages.x86_64-linux.terraform-providers.random:
   description: ""
   pname: terraform-provider-random
@@ -278509,7 +278597,7 @@ legacyPackages.x86_64-linux.terraform-providers.temporalcloud:
 legacyPackages.x86_64-linux.terraform-providers.tencentcloud:
   description: ""
   pname: terraform-provider-tencentcloud
-  version: 1.81.171
+  version: 1.81.174
 legacyPackages.x86_64-linux.terraform-providers.tfe:
   description: ""
   pname: terraform-provider-tfe
@@ -297437,11 +297525,11 @@ legacyPackages.x86_64-linux.thunderbird-128-unwrapped:
 legacyPackages.x86_64-linux.thunderbird-bin:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-bin
-  version: 128.8.0esr
+  version: 128.8.1esr
 legacyPackages.x86_64-linux.thunderbird-bin-unwrapped:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-bin
-  version: 128.8.0esr
+  version: 128.8.1esr
 legacyPackages.x86_64-linux.thunderbird-esr:
   description: Full-featured e-mail client
   pname: thunderbird
@@ -297497,7 +297585,7 @@ legacyPackages.x86_64-linux.tic-80:
 legacyPackages.x86_64-linux.ticker:
   description: Terminal stock ticker with live updates and position tracking
   pname: ticker
-  version: 4.8.0
+  version: 4.8.1
 legacyPackages.x86_64-linux.tickrs:
   description: Realtime ticker data in your terminal
   pname: tickrs
@@ -297653,7 +297741,7 @@ legacyPackages.x86_64-linux.times-newer-roman:
 legacyPackages.x86_64-linux.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.18.2
+  version: 2.19.0
 legacyPackages.x86_64-linux.timescaledb-parallel-copy:
   description: Bulk, parallel insert of CSV records into PostgreSQL
   pname: timescaledb-parallel-copy
@@ -298158,6 +298246,10 @@ legacyPackages.x86_64-linux.tmuxPlugins.jump:
   description: Vimium/Easymotion like navigation for tmux
   pname: tmuxplugin-jump
   version: "2020-06-26"
+legacyPackages.x86_64-linux.tmuxPlugins.kanagawa:
+  description: Feature packed kanagawa theme for tmux!
+  pname: tmuxplugin-kanagawa
+  version: 0-unstable-2025-02-10
 legacyPackages.x86_64-linux.tmuxPlugins.logging:
   description: ""
   pname: tmuxplugin-logging-unstable
@@ -298705,7 +298797,7 @@ legacyPackages.x86_64-linux.toxic:
 legacyPackages.x86_64-linux.toxiproxy:
   description: Proxy for for simulating network conditions
   pname: toxiproxy
-  version: 2.11.0
+  version: 2.12.0
 legacyPackages.x86_64-linux.toxvpn:
   description: Powerful tool that allows one to make tunneled point to point connections over Tox
   pname: toxvpn-unstable
@@ -301125,7 +301217,7 @@ legacyPackages.x86_64-linux.udevil:
 legacyPackages.x86_64-linux.udftools:
   description: UDF tools
   pname: udftools
-  version: "2.0"
+  version: "2.3"
 legacyPackages.x86_64-linux.udict:
   description: Urban Dictionary CLI - written in Rust
   pname: udict
@@ -302641,7 +302733,7 @@ legacyPackages.x86_64-linux.uuu:
 legacyPackages.x86_64-linux.uv:
   description: Extremely fast Python package installer and resolver, written in Rust
   pname: uv
-  version: 0.6.6
+  version: 0.6.8
 legacyPackages.x86_64-linux.uv-sort:
   description: Sort uv's dependencies alphabetically
   pname: uv-sort
@@ -302713,7 +302805,7 @@ legacyPackages.x86_64-linux.v2raya:
 legacyPackages.x86_64-linux.v2rayn:
   description: GUI client for Windows and Linux, support Xray core and sing-box-core and others
   pname: v2rayn
-  version: 7.10.0
+  version: 7.10.5
 legacyPackages.x86_64-linux.v4l-utils:
   description: V4L utils and libv4l, provide common image formats regardless of the v4l device
   pname: v4l-utils
@@ -302769,7 +302861,7 @@ legacyPackages.x86_64-linux.vala_0_56:
 legacyPackages.x86_64-linux.vale:
   description: Syntax-aware linter for prose built with speed and extensibility in mind
   pname: vale
-  version: 3.9.6
+  version: 3.10.0
 legacyPackages.x86_64-linux.vale-ls:
   description: LSP implementation for the Vale command-line tool
   pname: vale-ls
@@ -303373,7 +303465,7 @@ legacyPackages.x86_64-linux.veryfasttree:
 legacyPackages.x86_64-linux.veryl:
   description: Modern Hardware Description Language
   pname: veryl
-  version: 0.13.5
+  version: 0.14.1
 legacyPackages.x86_64-linux.vesktop:
   description: Alternate client for Discord with Vencord built-in
   pname: vesktop
@@ -305873,7 +305965,7 @@ legacyPackages.x86_64-linux.vimPlugins.hunk-nvim:
 legacyPackages.x86_64-linux.vimPlugins.hurl:
   description: ""
   pname: vimplugin-hurl
-  version: 6.0.0
+  version: 6.1.0
 legacyPackages.x86_64-linux.vimPlugins.hydra-nvim:
   description: ""
   pname: vimplugin-hydra.nvim
@@ -314141,7 +314233,7 @@ legacyPackages.x86_64-linux.vscode-extensions.roman.ayu-next:
 legacyPackages.x86_64-linux.vscode-extensions.rooveterinaryinc.roo-cline:
   description: AI-powered autonomous coding agent that lives in your editor
   pname: vscode-extension-RooVeterinaryInc-roo-cline
-  version: 3.8.6
+  version: 3.9.2
 legacyPackages.x86_64-linux.vscode-extensions.rubbersheep.gi:
   description: ""
   pname: vscode-extension-rubbersheep-gi
@@ -315025,7 +315117,7 @@ legacyPackages.x86_64-linux.warp-plus:
 legacyPackages.x86_64-linux.warp-terminal:
   description: Rust-based terminal
   pname: warp-terminal
-  version: 0.2025.03.05.08.02.stable_02
+  version: 0.2025.03.12.08.02.stable_03
 legacyPackages.x86_64-linux.warpd:
   description: Modal keyboard driven interface for mouse manipulation
   pname: warpd
@@ -316225,7 +316317,7 @@ legacyPackages.x86_64-linux.windsend-rs:
 legacyPackages.x86_64-linux.windsurf:
   description: Agentic IDE powered by AI Flow paradigm
   pname: windsurf
-  version: 1.4.6
+  version: 1.5.6
 legacyPackages.x86_64-linux.windterm:
   description: Professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal
   pname: windterm
@@ -316825,7 +316917,7 @@ legacyPackages.x86_64-linux.wmutils-core:
 legacyPackages.x86_64-linux.wmutils-libwm:
   description: Small library for X window manipulation
   pname: wmutils-libwm
-  version: "1.0"
+  version: "1.3"
 legacyPackages.x86_64-linux.wmutils-opt:
   description: Optional addons to wmutils
   pname: wmutils-opt
@@ -317669,7 +317761,7 @@ legacyPackages.x86_64-linux.xclip:
 legacyPackages.x86_64-linux.xcode-install:
   description: Install and update your Xcodes automatically
   pname: xcode-install
-  version: 2.6.8
+  version: 2.8.1
 legacyPackages.x86_64-linux.xcodebuild:
   description: Xcode-compatible build tool
   pname: xcbuild
@@ -317709,7 +317801,7 @@ legacyPackages.x86_64-linux.xcpc:
 legacyPackages.x86_64-linux.xcpretty:
   description: Flexible and fast xcodebuild formatter
   pname: xcpretty
-  version: 0.3.0
+  version: 0.4.0
 legacyPackages.x86_64-linux.xcrawl3r:
   description: CLI utility to recursively crawl webpages
   pname: xcrawl3r
@@ -319713,11 +319805,11 @@ legacyPackages.x86_64-linux.xpointerbarrier:
 legacyPackages.x86_64-linux.xpra:
   description: Persistent remote applications for X
   pname: xpra
-  version: 6.2.3
+  version: 6.2.5
 legacyPackages.x86_64-linux.xpraWithNvenc:
   description: Persistent remote applications for X
   pname: xpra
-  version: 6.2.3
+  version: 6.2.5
 legacyPackages.x86_64-linux.xprintidle:
   description: Utility that queries the X server for the user's idle time and prints it to stdout
   pname: xprintidle
@@ -320149,7 +320241,7 @@ legacyPackages.x86_64-linux.yafaray-core:
 legacyPackages.x86_64-linux.yafc-ce:
   description: Powerful Factorio calculator/analyser that works with mods, Community Edition
   pname: yafc-ce
-  version: 2.8.0
+  version: 2.10.0
 legacyPackages.x86_64-linux.yafetch:
   description: Yet another fetch clone written in C++
   pname: yafetch-unstable
@@ -320629,7 +320721,7 @@ legacyPackages.x86_64-linux.yourkit-java:
 legacyPackages.x86_64-linux.youtrack:
   description: Issue tracking and project management tool for developers
   pname: youtrack
-  version: 2025.1.62967
+  version: 2025.1.66652
 legacyPackages.x86_64-linux.youtube-dl:
   description: Command-line tool to download videos from YouTube.com and other sites
   pname: youtube-dl
@@ -321361,7 +321453,7 @@ legacyPackages.x86_64-linux.zet:
 legacyPackages.x86_64-linux.zettlr:
   description: Markdown editor for writing academic texts and taking notes
   pname: zettlr
-  version: 3.2.0
+  version: 3.4.3
 legacyPackages.x86_64-linux.zexy:
   description: Swiss army knife for puredata
   pname: zexy
@@ -321777,7 +321869,7 @@ legacyPackages.x86_64-linux.zopfli:
 legacyPackages.x86_64-linux.zoraxy:
   description: General purpose HTTP reverse proxy and forwarding tool written in Go
   pname: zoraxy
-  version: 3.1.1
+  version: 3.1.8
 legacyPackages.x86_64-linux.zotero:
   description: Collect, organize, cite, and share your research sources
   pname: zotero
@@ -321893,7 +321985,7 @@ legacyPackages.x86_64-linux.zsh-abbr:
 legacyPackages.x86_64-linux.zsh-autocomplete:
   description: Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion
   pname: zsh-autocomplete
-  version: 24.09.04
+  version: 25.03.19
 legacyPackages.x86_64-linux.zsh-autoenv:
   description: Automatically sources whitelisted .autoenv.zsh files
   pname: zsh-autoenv-unstable
