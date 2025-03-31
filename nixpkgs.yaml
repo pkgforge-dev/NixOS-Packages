@@ -1441,7 +1441,7 @@ legacyPackages.x86_64-linux.airwin2rack:
 legacyPackages.x86_64-linux.airwindows:
   description: All Airwindows VST Plugins
   pname: airwindows
-  version: 0-unstable-2025-03-02
+  version: 0-unstable-2025-03-23
 legacyPackages.x86_64-linux.airwindows-lv2:
   description: Airwindows plugins (ported to LV2)
   pname: airwindows-lv2
@@ -3641,7 +3641,7 @@ legacyPackages.x86_64-linux.android-tools:
 legacyPackages.x86_64-linux.android-udev-rules:
   description: Android udev rules list aimed to be the most comprehensive on the net
   pname: android-udev-rules
-  version: "20241109"
+  version: "20250314"
 legacyPackages.x86_64-linux.androidStudioForPlatformPackages.canary:
   description: The Official IDE for Android platform development
   pname: android-studio-for-platform-canary
@@ -3666,6 +3666,2338 @@ legacyPackages.x86_64-linux.androidStudioPackages.stable:
   description: Official IDE for Android (stable channel)
   pname: android-studio-stable
   version: 2024.3.1.14
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v10.google_apis:
+  description: ""
+  pname: google_apis
+  version: 10_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v11.google_apis:
+  description: ""
+  pname: google_apis
+  version: 11_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v12.google_apis:
+  description: ""
+  pname: google_apis
+  version: 12_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v12.google_tv_addon:
+  description: ""
+  pname: google_tv
+  version: 12_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v13.google_apis:
+  description: ""
+  pname: google_apis
+  version: 13_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v13.google_tv_addon:
+  description: ""
+  pname: google_tv
+  version: 13_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v14.google_apis:
+  description: ""
+  pname: google_apis
+  version: 14_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v15.google_apis:
+  description: ""
+  pname: google_apis
+  version: 15_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v16.google_apis:
+  description: ""
+  pname: google_apis
+  version: 16_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v17.google_apis:
+  description: ""
+  pname: google_apis
+  version: 17_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v18.google_apis:
+  description: ""
+  pname: google_apis
+  version: 18_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v19.google_apis:
+  description: ""
+  pname: google_apis
+  version: 19_r20.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v21.google_apis:
+  description: ""
+  pname: google_apis
+  version: 21_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v22.google_apis:
+  description: ""
+  pname: google_apis
+  version: 22_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v23.google_apis:
+  description: ""
+  pname: google_apis
+  version: 23_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v24.google_apis:
+  description: ""
+  pname: google_apis
+  version: 24_r1.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v25.google_apis:
+  description: ""
+  pname: google_apis
+  version: 25_r1.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v3.google_apis:
+  description: ""
+  pname: google_apis
+  version: 3-r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v4.google_apis:
+  description: ""
+  pname: google_apis
+  version: 4_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v5.google_apis:
+  description: ""
+  pname: google_apis
+  version: 5_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v6.google_apis:
+  description: ""
+  pname: google_apis
+  version: 6_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v7.google_apis:
+  description: ""
+  pname: google_apis
+  version: 7_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v8.google_apis:
+  description: ""
+  pname: google_apis
+  version: 8_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v9.google_apis:
+  description: ""
+  pname: google_apis
+  version: 9_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_android_m_2_repository:
+  description: ""
+  pname: android_m2repository_r47.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_admob_ads_sdk:
+  description: ""
+  pname: GoogleAdMobAdsSdkAndroid
+  version: 6.4.1.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_analytics_sdk_v_2:
+  description: ""
+  pname: GoogleAnalyticsAndroid_2.0beta5.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_auto:
+  description: ""
+  pname: desktop-head-unit-linux-x64_r02.1.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_gcm:
+  description: ""
+  pname: gcm_r03.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_google_play_services:
+  description: ""
+  pname: google_play_services_v16_1_rc09.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_google_play_services_froyo:
+  description: ""
+  pname: google_play_services_3265130_r12.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_instantapps:
+  description: ""
+  pname: iasdk
+  version: 1.9.0-1566514721.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_m_2_repository:
+  description: ""
+  pname: google_m2repository_gms_v11_3_rc05_wear_2_0_5.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_market_apk_expansion:
+  description: ""
+  pname: market_apk_expansion-r03.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_market_licensing:
+  description: ""
+  pname: market_licensing-r02.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_simulators:
+  description: ""
+  pname: simulator_r01.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_google_webdriver:
+  description: ""
+  pname: webdriver_r02.zip
+  version: ""
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0_alpha_4
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0-alpha4.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0_alpha_8
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0-alpha8.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0_beta_1
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0-beta1.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0_beta_2
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0-beta2.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0_beta_3
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0-beta3.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0_beta_4
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0-beta4.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_0_beta_5
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.0-beta5.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_1
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.1.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_1_0_2
+: description: ""
+  pname: com.android.support.constraint-constraint-layout
+  version: 1.0.2.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0_alpha_4
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0-alpha4.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0_alpha_8
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0-alpha8.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0_beta_1
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0-beta1.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0_beta_2
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0-beta2.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0_beta_3
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0-beta3.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0_beta_4
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0-beta4.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_0_beta_5
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.0-beta5.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_1
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.1.zip
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras_m_2_repository_com_android_support_constraint_constraint_layout_solver_1_0_2
+: description: ""
+  pname: com.android.support.constraint-constraint-layout-solver
+  version: 1.0.2.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v17_0_0:
+  description: ""
+  pname: build-tools_r17-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v18_0_1:
+  description: ""
+  pname: build-tools_r18.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v18_1_0:
+  description: ""
+  pname: build-tools_r18.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v18_1_1:
+  description: ""
+  pname: build-tools_r18.1.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v19_0_0:
+  description: ""
+  pname: build-tools_r19-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v19_0_1:
+  description: ""
+  pname: build-tools_r19.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v19_0_2:
+  description: ""
+  pname: build-tools_r19.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v19_0_3:
+  description: ""
+  pname: build-tools_r19.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v19_1_0:
+  description: ""
+  pname: build-tools_r19.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v20_0_0:
+  description: ""
+  pname: build-tools_r20-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v21_0_0:
+  description: ""
+  pname: build-tools_r21-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v21_0_1:
+  description: ""
+  pname: build-tools_r21.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v21_0_2:
+  description: ""
+  pname: build-tools_r21.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v21_1_0:
+  description: ""
+  pname: build-tools_r21.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v21_1_1:
+  description: ""
+  pname: build-tools_r21.1.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v21_1_2:
+  description: ""
+  pname: build-tools_r21.1.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v22_0_0:
+  description: ""
+  pname: build-tools_r22-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v22_0_1:
+  description: ""
+  pname: build-tools_r22.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v23_0_0:
+  description: ""
+  pname: build-tools_r23-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v23_0_1:
+  description: ""
+  pname: build-tools_r23.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v23_0_2:
+  description: ""
+  pname: build-tools_r23.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v23_0_3:
+  description: ""
+  pname: build-tools_r23.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v24_0_0:
+  description: ""
+  pname: build-tools_r24-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v24_0_1:
+  description: ""
+  pname: build-tools_r24.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v24_0_2:
+  description: ""
+  pname: build-tools_r24.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v24_0_3:
+  description: ""
+  pname: build-tools_r24.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v25_0_0:
+  description: ""
+  pname: build-tools_r25-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v25_0_1:
+  description: ""
+  pname: build-tools_r25.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v25_0_2:
+  description: ""
+  pname: build-tools_r25.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v25_0_3:
+  description: ""
+  pname: build-tools_r25.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v26_0_0:
+  description: ""
+  pname: build-tools_r26-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v26_0_1:
+  description: ""
+  pname: build-tools_r26.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v26_0_2:
+  description: ""
+  pname: build-tools_r26.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v26_0_3:
+  description: ""
+  pname: build-tools_r26.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v27_0_0:
+  description: ""
+  pname: build-tools_r27-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v27_0_1:
+  description: ""
+  pname: build-tools_r27.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v27_0_2:
+  description: ""
+  pname: build-tools_r27.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v27_0_3:
+  description: ""
+  pname: build-tools_r27.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v28_0_0:
+  description: ""
+  pname: build-tools_r28-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v28_0_0_rc_1:
+  description: ""
+  pname: build-tools_r28-rc1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v28_0_0_rc_2:
+  description: ""
+  pname: build-tools_r28-rc2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v28_0_1:
+  description: ""
+  pname: build-tools_r28.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v28_0_2:
+  description: ""
+  pname: build-tools_r28.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v28_0_3:
+  description: ""
+  pname: build-tools_r28.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v29_0_0:
+  description: ""
+  pname: build-tools_r29-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v29_0_0_rc_1:
+  description: ""
+  pname: build-tools_r29-rc1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v29_0_0_rc_2:
+  description: ""
+  pname: build-tools_r29-rc2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v29_0_0_rc_3:
+  description: ""
+  pname: build-tools_r29-rc3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v29_0_1:
+  description: ""
+  pname: build-tools_r29.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v29_0_2:
+  description: ""
+  pname: build-tools_r29.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v29_0_3:
+  description: ""
+  pname: build-tools_r29.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v30_0_0:
+  description: ""
+  pname: build-tools_r30-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v30_0_1:
+  description: ""
+  pname: build-tools_r30.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v30_0_2:
+  description: ""
+  pname: build-tools_r30.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v30_0_3:
+  description: ""
+  pname: build-tools_r30.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v31_0_0:
+  description: ""
+  pname: build-tools_r31-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v32_0_0:
+  description: ""
+  pname: build-tools_r32-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v32_1_0_rc_1:
+  description: ""
+  pname: build-tools_r32.1-rc1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v33_0_0:
+  description: ""
+  pname: build-tools_r33-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v33_0_1:
+  description: ""
+  pname: build-tools_r33.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v33_0_2:
+  description: ""
+  pname: build-tools_r33.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v33_0_3:
+  description: ""
+  pname: build-tools_r33.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v34_0_0:
+  description: ""
+  pname: build-tools_r34-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v34_0_0_rc_1:
+  description: ""
+  pname: build-tools_r34-rc1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v34_0_0_rc_2:
+  description: ""
+  pname: build-tools_r34-rc2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v34_0_0_rc_3:
+  description: ""
+  pname: build-tools_r34-rc3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v34_0_0_rc_4:
+  description: ""
+  pname: build-tools_r34-rc4-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v35_0_0:
+  description: ""
+  pname: build-tools_r35_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v35_0_0_rc_1:
+  description: ""
+  pname: build-tools_r35-rc1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v35_0_0_rc_2:
+  description: ""
+  pname: build-tools_r35-rc2_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v35_0_0_rc_3:
+  description: ""
+  pname: build-tools_r35-rc3_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v35_0_0_rc_4:
+  description: ""
+  pname: build-tools_r35-rc4_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v35_0_1:
+  description: ""
+  pname: build-tools_r35.0.1_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v36_0_0:
+  description: ""
+  pname: build-tools_r36_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v36_0_0_rc_1:
+  description: ""
+  pname: build-tools_r36-rc1_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v36_0_0_rc_3:
+  description: ""
+  pname: build-tools_r36-rc3_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v36_0_0_rc_4:
+  description: ""
+  pname: build-tools_r36-rc4_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.build_tools.v36_0_0_rc_5:
+  description: ""
+  pname: build-tools_r36-rc5_linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_10_2:
+  description: ""
+  pname: cmake
+  version: 3.10.2-linux-x86_64.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_18_1:
+  description: ""
+  pname: cmake
+  version: 3.18.1-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_22_1:
+  description: ""
+  pname: cmake
+  version: 3.22.1-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_30_3:
+  description: ""
+  pname: cmake
+  version: 3.30.3-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_30_4:
+  description: ""
+  pname: cmake
+  version: 3.30.4-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_30_5:
+  description: ""
+  pname: cmake
+  version: 3.30.5-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_31_0:
+  description: ""
+  pname: cmake
+  version: 3.31.0-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_31_1:
+  description: ""
+  pname: cmake
+  version: 3.31.1-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_31_4:
+  description: ""
+  pname: cmake
+  version: 3.31.4-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_31_5:
+  description: ""
+  pname: cmake
+  version: 3.31.5-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_31_6:
+  description: ""
+  pname: cmake
+  version: 3.31.6-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmake.v3_6_4111459:
+  description: ""
+  pname: cmake
+  version: 3.6.4111459-linux-x86_64.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v10_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 9862592_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v10_0_rc_04:
+  description: ""
+  pname: commandlinetools-linux
+  version: 9645777_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v11_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 10406996_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v11_0_rc_01:
+  description: ""
+  pname: commandlinetools-linux
+  version: 10320515_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v11_0_rc_07:
+  description: ""
+  pname: commandlinetools-linux
+  version: 9644228_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v12_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 11076708_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v12_0_rc_15:
+  description: ""
+  pname: commandlinetools-linux
+  version: 10572941_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v13_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 11479570_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v13_0_rc_01:
+  description: ""
+  pname: commandlinetools-linux
+  version: 11379558_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v14_0_rc_01:
+  description: ""
+  pname: commandlinetools-linux
+  version: 11391160_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v16_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 12266719_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v16_0_rc_01:
+  description: ""
+  pname: commandlinetools-linux
+  version: 12172612_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v17_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 12700392_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v19_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 13114758_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v19_0_rc_01:
+  description: ""
+  pname: commandlinetools-linux
+  version: 12996373_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v1_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 6200805_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v2_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 6514223_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v2_1:
+  description: ""
+  pname: commandlinetools-linux
+  version: 6609375_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v3_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 6858069_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v4_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 7302050_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v5_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 7583922_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v6_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 8092744_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v7_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 8512546_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v8_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 9123335_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.cmdline_tools.v9_0:
+  description: ""
+  pname: commandlinetools-linux
+  version: 9477386_latest.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v31_3_10:
+  description: ""
+  pname: emulator-linux_x64
+  version: 8807927.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v31_3_14:
+  description: ""
+  pname: emulator-linux_x64
+  version: 9322596.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v32_1_10:
+  description: ""
+  pname: emulator-linux_x64
+  version: 9475343.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v32_1_12:
+  description: ""
+  pname: emulator-linux_x64
+  version: 9751036.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v32_1_14:
+  description: ""
+  pname: emulator-linux_x64
+  version: 10330179.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v32_1_15:
+  description: ""
+  pname: emulator-linux_x64
+  version: 10696886.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v32_1_8:
+  description: ""
+  pname: emulator-linux_x64
+  version: 9310560.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v33_1_10:
+  description: ""
+  pname: emulator-linux_x64
+  version: 10078095.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v33_1_17:
+  description: ""
+  pname: emulator-linux_x64
+  version: 10594030.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v33_1_20:
+  description: ""
+  pname: emulator-linux_x64
+  version: 10871397.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v33_1_4:
+  description: ""
+  pname: emulator-linux_x64
+  version: 9936625.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v33_1_6:
+  description: ""
+  pname: emulator-linux_x64
+  version: 10047184.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v34_1_19:
+  description: ""
+  pname: emulator-linux_x64
+  version: 11525734.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v34_1_9:
+  description: ""
+  pname: emulator-linux_x64
+  version: 11009885.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v34_2_11:
+  description: ""
+  pname: emulator-linux_x64
+  version: 11592276.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v34_2_16:
+  description: ""
+  pname: emulator-linux_x64
+  version: 12038310.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_1_19:
+  description: ""
+  pname: emulator-linux_x64
+  version: 12171648.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_1_2:
+  description: ""
+  pname: emulator-linux_x64
+  version: 11616444.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_1_3:
+  description: ""
+  pname: emulator-linux_x64
+  version: 11643238.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_1_4:
+  description: ""
+  pname: emulator-linux_x64
+  version: 11672324.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_2_5:
+  description: ""
+  pname: emulator-linux_x64
+  version: 12205771.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_3_11:
+  description: ""
+  pname: emulator-linux_x64
+  version: 12836668.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_3_12:
+  description: ""
+  pname: emulator-linux_x64
+  version: 12990079.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_4_8:
+  description: ""
+  pname: emulator-linux_x64
+  version: 12990073.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_4_9:
+  description: ""
+  pname: emulator-linux_x64
+  version: 13025442.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_5_2:
+  description: ""
+  pname: emulator-linux_x64
+  version: 13003482.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_5_3:
+  description: ""
+  pname: emulator-linux_x64
+  version: 13023280.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_5_8:
+  description: ""
+  pname: emulator-linux_x64
+  version: 13181580.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.emulator.v35_6_2:
+  description: ""
+  pname: emulator-linux_x64
+  version: 13248170.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.extras.v2_0:
+  description: ""
+  pname: desktop-head-unit-linux-x64_r02.0.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.extras.v2_1:
+  description: ""
+  pname: desktop-head-unit-linux-x64_r02.1.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v16_1_4479499:
+  description: ""
+  pname: android-ndk-r16b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v17_2_4988734:
+  description: ""
+  pname: android-ndk-r17c-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v18_1_5063045:
+  description: ""
+  pname: android-ndk-r18b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v19_0_5232133:
+  description: ""
+  pname: android-ndk-r19-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v19_2_5345600:
+  description: ""
+  pname: android-ndk-r19c-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v20_0_5392854_rc_2:
+  description: ""
+  pname: android-ndk-r20-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v20_0_5471264_rc_3:
+  description: ""
+  pname: android-ndk-r20-beta3-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v20_0_5594570:
+  description: ""
+  pname: android-ndk-r20-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v20_1_5948944:
+  description: ""
+  pname: android-ndk-r20b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_0_6011959_rc_2:
+  description: ""
+  pname: android-ndk-r21-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_0_6113669:
+  description: ""
+  pname: android-ndk-r21-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_1_6210238_rc_1:
+  description: ""
+  pname: android-ndk-r21b-beta1-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_1_6273396_rc_2:
+  description: ""
+  pname: android-ndk-r21b-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_1_6352462:
+  description: ""
+  pname: android-ndk-r21b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_1_6363665_rc_3:
+  description: ""
+  pname: android-ndk-r21b-beta3-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_2_6472646:
+  description: ""
+  pname: android-ndk-r21c-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_3_6528147:
+  description: ""
+  pname: android-ndk-r21d-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v21_4_7075529:
+  description: ""
+  pname: android-ndk-r21e-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v22_0_6917172_rc_1:
+  description: ""
+  pname: android-ndk-r22-beta1-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v22_0_7026061:
+  description: ""
+  pname: android-ndk-r22-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v22_1_7171670:
+  description: ""
+  pname: android-ndk-r22b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_0_7123448_rc_1:
+  description: ""
+  pname: android-ndk-r23-beta1-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_0_7196353_rc_2:
+  description: ""
+  pname: android-ndk-r23-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_0_7272597_rc_3:
+  description: ""
+  pname: android-ndk-r23-beta3-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_0_7344513_rc_4:
+  description: ""
+  pname: android-ndk-r23-beta4-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_0_7421159_rc_5:
+  description: ""
+  pname: android-ndk-r23-beta5-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_0_7530507_rc_6:
+  description: ""
+  pname: android-ndk-r23-beta6-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_0_7599858:
+  description: ""
+  pname: android-ndk-r23-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_1_7779620:
+  description: ""
+  pname: android-ndk-r23b-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v23_2_8568313:
+  description: ""
+  pname: android-ndk-r23c-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v24_0_7856742_rc_1:
+  description: ""
+  pname: android-ndk-r24-beta1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v24_0_7956693_rc_2:
+  description: ""
+  pname: android-ndk-r24-beta2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v24_0_8079956_rc_3:
+  description: ""
+  pname: android-ndk-r24-rc1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v24_0_8215888:
+  description: ""
+  pname: android-ndk-r24-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v25_0_8151533_rc_1:
+  description: ""
+  pname: android-ndk-r25-beta1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v25_0_8221429_rc_2:
+  description: ""
+  pname: android-ndk-r25-beta2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v25_0_8355429_rc_3:
+  description: ""
+  pname: android-ndk-r25-beta3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v25_0_8528842_rc_4:
+  description: ""
+  pname: android-ndk-r25-beta4-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v25_0_8775105:
+  description: ""
+  pname: android-ndk-r25-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v25_1_8937393:
+  description: ""
+  pname: android-ndk-r25b-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v25_2_9519653:
+  description: ""
+  pname: android-ndk-r25c-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v26_0_10404224_rc_1:
+  description: ""
+  pname: android-ndk-r26-beta1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v26_0_10636728_rc_2:
+  description: ""
+  pname: android-ndk-r26-rc1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v26_0_10792818:
+  description: ""
+  pname: android-ndk-r26-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v26_1_10909125:
+  description: ""
+  pname: android-ndk-r26b-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v26_2_11394342:
+  description: ""
+  pname: android-ndk-r26c-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v26_3_11579264:
+  description: ""
+  pname: android-ndk-r26d-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v27_0_11718014_rc_1:
+  description: ""
+  pname: android-ndk-r27-beta1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v27_0_11902837_rc_2:
+  description: ""
+  pname: android-ndk-r27-beta2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v27_0_12077973:
+  description: ""
+  pname: android-ndk-r27-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v27_1_12297006:
+  description: ""
+  pname: android-ndk-r27b-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v27_2_12479018:
+  description: ""
+  pname: android-ndk-r27c-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v28_0_12433566_rc_1:
+  description: ""
+  pname: android-ndk-r28-beta1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v28_0_12674087_rc_2:
+  description: ""
+  pname: android-ndk-r28-beta2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v28_0_12916984_rc_3:
+  description: ""
+  pname: android-ndk-r28-beta3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v28_0_13004108:
+  description: ""
+  pname: android-ndk-r28-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk.v29_0_13113456_rc_1:
+  description: ""
+  pname: android-ndk-r29-beta1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v16_1_4479499:
+  description: ""
+  pname: android-ndk-r16b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v17_2_4988734:
+  description: ""
+  pname: android-ndk-r17c-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v18_1_5063045:
+  description: ""
+  pname: android-ndk-r18b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v19_0_5232133:
+  description: ""
+  pname: android-ndk-r19-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v19_2_5345600:
+  description: ""
+  pname: android-ndk-r19c-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v20_0_5392854_rc_2:
+  description: ""
+  pname: android-ndk-r20-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v20_0_5471264_rc_3:
+  description: ""
+  pname: android-ndk-r20-beta3-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v20_0_5594570:
+  description: ""
+  pname: android-ndk-r20-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v20_1_5948944:
+  description: ""
+  pname: android-ndk-r20b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_0_6011959_rc_2:
+  description: ""
+  pname: android-ndk-r21-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_0_6113669:
+  description: ""
+  pname: android-ndk-r21-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_1_6210238_rc_1:
+  description: ""
+  pname: android-ndk-r21b-beta1-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_1_6273396_rc_2:
+  description: ""
+  pname: android-ndk-r21b-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_1_6352462:
+  description: ""
+  pname: android-ndk-r21b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_1_6363665_rc_3:
+  description: ""
+  pname: android-ndk-r21b-beta3-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_2_6472646:
+  description: ""
+  pname: android-ndk-r21c-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_3_6528147:
+  description: ""
+  pname: android-ndk-r21d-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v21_4_7075529:
+  description: ""
+  pname: android-ndk-r21e-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v22_0_6917172_rc_1:
+  description: ""
+  pname: android-ndk-r22-beta1-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v22_0_7026061:
+  description: ""
+  pname: android-ndk-r22-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v22_1_7171670:
+  description: ""
+  pname: android-ndk-r22b-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v23_0_7123448_rc_1:
+  description: ""
+  pname: android-ndk-r23-beta1-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v23_0_7196353_rc_2:
+  description: ""
+  pname: android-ndk-r23-beta2-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v23_0_7272597_rc_3:
+  description: ""
+  pname: android-ndk-r23-beta3-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.ndk_bundle.v23_0_7344513_rc_4:
+  description: ""
+  pname: android-ndk-r23-beta4-linux-x86_64.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.patcher.v1:
+  description: ""
+  pname: 3534162-studio.sdk-patcher.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platform_tools.v33_0_3:
+  description: ""
+  pname: platform-tools_r33.0.3-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platform_tools.v34_0_1:
+  description: ""
+  pname: platform-tools_r34.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platform_tools.v34_0_4:
+  description: ""
+  pname: platform-tools_r34.0.4-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platform_tools.v34_0_5:
+  description: ""
+  pname: platform-tools_r34.0.5-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platform_tools.v35_0_1:
+  description: ""
+  pname: platform-tools_r35.0.1-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platform_tools.v35_0_2:
+  description: ""
+  pname: platform-tools_r35.0.2-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.Baklava:
+  description: ""
+  pname: platform-Baklava_r05.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.TiramisuPrivacySandbox:
+  description: ""
+  pname: platform-TiramisuPrivacySandbox_r09.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.UpsideDownCake:
+  description: ""
+  pname: platform-UpsideDownCake_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.UpsideDownCakePrivacySandbox:
+  description: ""
+  pname: platform-UpsideDownCakePrivacySandbox_r03.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.VanillaIceCream:
+  description: ""
+  pname: platform-VanillaIceCream_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v10:
+  description: ""
+  pname: android
+  version: 2.3.3_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v11:
+  description: ""
+  pname: android
+  version: 3.0_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v12:
+  description: ""
+  pname: android
+  version: 3.1_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v13:
+  description: ""
+  pname: android
+  version: 3.2_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v14:
+  description: ""
+  pname: android
+  version: 14_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v15:
+  description: ""
+  pname: android
+  version: 15_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v16:
+  description: ""
+  pname: android
+  version: 16_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v17:
+  description: ""
+  pname: android
+  version: 17_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v18:
+  description: ""
+  pname: android
+  version: 18_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v19:
+  description: ""
+  pname: android
+  version: 19_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v2:
+  description: ""
+  pname: android
+  version: 1.1_r1-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v20:
+  description: ""
+  pname: android
+  version: 20_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v21:
+  description: ""
+  pname: android
+  version: 21_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v22:
+  description: ""
+  pname: android
+  version: 22_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v23:
+  description: ""
+  pname: platform
+  version: 23_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v24:
+  description: ""
+  pname: platform
+  version: 24_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v25:
+  description: ""
+  pname: platform
+  version: 25_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v26:
+  description: ""
+  pname: platform
+  version: 26_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v27:
+  description: ""
+  pname: platform
+  version: 27_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v28:
+  description: ""
+  pname: platform
+  version: 28_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v29:
+  description: ""
+  pname: platform
+  version: 29_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v3:
+  description: ""
+  pname: android
+  version: 1.5_r04-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v30:
+  description: ""
+  pname: platform
+  version: 30_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v31:
+  description: ""
+  pname: platform
+  version: 31_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v32:
+  description: ""
+  pname: platform
+  version: 32_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v33:
+  description: ""
+  pname: platform
+  version: 33-ext3_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v33_x:
+  description: ""
+  pname: platform
+  version: 33-ext4_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v34:
+  description: ""
+  pname: platform
+  version: 34-ext7_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v34_x:
+  description: ""
+  pname: platform
+  version: 34-ext8_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v35:
+  description: ""
+  pname: platform
+  version: 35_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v35_x:
+  description: ""
+  pname: platform
+  version: 35-ext14_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v36:
+  description: ""
+  pname: platform
+  version: 36_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v4:
+  description: ""
+  pname: android
+  version: 1.6_r03-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v5:
+  description: ""
+  pname: android
+  version: 2.0_r01-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v6:
+  description: ""
+  pname: android
+  version: 2.0.1_r01-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v7:
+  description: ""
+  pname: android
+  version: 2.1_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v8:
+  description: ""
+  pname: android
+  version: 2.2_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.platforms.v9:
+  description: ""
+  pname: android
+  version: 2.3.1_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.skiaparser.v1:
+  description: ""
+  pname: skiaparser
+  version: 8339467-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.skiaparser.v3:
+  description: ""
+  pname: skiaparser
+  version: 7478287-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.skiaparser.v4:
+  description: ""
+  pname: skiaparser
+  version: 11591181-linux-x64.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.skiaparser.v5:
+  description: ""
+  pname: skiaparser
+  version: 12616120-linux-x64.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.skiaparser.v6:
+  description: ""
+  pname: skiaparser
+  version: 7083912-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.skiaparser.v7:
+  description: ""
+  pname: skiaparser
+  version: 13188227-linux-x64.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v14:
+  description: ""
+  pname: sources
+  version: 14_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v15:
+  description: ""
+  pname: sources
+  version: 15_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v16:
+  description: ""
+  pname: sources
+  version: 16_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v17:
+  description: ""
+  pname: sources
+  version: 17_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v18:
+  description: ""
+  pname: sources
+  version: 18_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v19:
+  description: ""
+  pname: sources
+  version: 19_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v20:
+  description: ""
+  pname: sources
+  version: 20_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v21:
+  description: ""
+  pname: sources
+  version: 21_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v22:
+  description: ""
+  pname: sources
+  version: 22_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v23:
+  description: ""
+  pname: sources
+  version: 23_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v24:
+  description: ""
+  pname: sources
+  version: 24_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v25:
+  description: ""
+  pname: sources
+  version: 25_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v26:
+  description: ""
+  pname: sources
+  version: 26_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v27:
+  description: ""
+  pname: sources
+  version: 27_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v28:
+  description: ""
+  pname: sources
+  version: 28_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v29:
+  description: ""
+  pname: sources
+  version: 29_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v30:
+  description: ""
+  pname: sources
+  version: 30_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v31:
+  description: ""
+  pname: sources
+  version: 31_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v32:
+  description: ""
+  pname: sources
+  version: 32_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v33:
+  description: ""
+  pname: sources
+  version: 33_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v34:
+  description: ""
+  pname: sources
+  version: 34_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v35:
+  description: ""
+  pname: source
+  version: 35_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.sources.v36:
+  description: ""
+  pname: source
+  version: 36_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.tools.v26_1_1:
+  description: ""
+  pname: sdk-tools-linux
+  version: 4333796.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.Baklava.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-Baklava_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.Baklava.google_apis.x_86___64:
+  description: ""
+  pname: x86_64-Baklava_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.Baklava.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-Baklava_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.Baklava.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64-Baklava_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.Baklava.page_size__16_kb.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-playstore-ps16k-Baklava_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.Baklava.page_size__16_kb.x_86___64:
+  description: ""
+  pname: x86_64-playstore-ps16k-Baklava_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.TiramisuPrivacySandbox.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-TiramisuPrivacySandbox_r01.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.TiramisuPrivacySandbox.google_apis.x_86___64:
+  description: ""
+  pname: x86_64-TiramisuPrivacySandbox_r01.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.TiramisuPrivacySandbox.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-TiramisuPrivacySandbox_r09-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.TiramisuPrivacySandbox.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64-TiramisuPrivacySandbox_r09.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.UpsideDownCake.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-UpsideDownCake_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.UpsideDownCake.google_apis.x_86___64:
+  description: ""
+  pname: x86_64-UpsideDownCake_r04.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.UpsideDownCake.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-UpsideDownCake_r04-linux.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.UpsideDownCake.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64-UpsideDownCake_r04.zip
+  version: ""
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.UpsideDownCakePrivacySandbox.google_apis_playstore.arm_64_v_8_a
+: description: ""
+  pname: arm64-v8a-UpsideDownCakePrivacySandbox_r03-linux.zip
+  version: ""
+? legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.UpsideDownCakePrivacySandbox.google_apis_playstore.x_86___64
+: description: ""
+  pname: x86_64-UpsideDownCakePrivacySandbox_r03.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.VanillaIceCream.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-VanillaIceCream_r05.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.VanillaIceCream.google_apis.x_86___64:
+  description: ""
+  pname: x86_64-VanillaIceCream_r05.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.VanillaIceCream.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-VanillaIceCream_r05.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.VanillaIceCream.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64-VanillaIceCream_r05.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.VanillaIceCream.page_size__16_kb.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-ps16k-VanillaIceCream_r01.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.VanillaIceCream.page_size__16_kb.x_86___64:
+  description: ""
+  pname: x86_64-ps16k-VanillaIceCream_r01.zip
+  version: ""
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v10.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 10_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v10.default.x_86:
+  description: ""
+  pname: x86
+  version: 10_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v10.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 10_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v10.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 10_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v14.default.armeabi_v_7_a:
+  description: ""
+  pname: sysimg_armv7a
+  version: 14_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v15.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 15_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v15.default.x_86:
+  description: ""
+  pname: x86
+  version: 15_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v15.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 15_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v15.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 15_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v16.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 16_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v16.default.mips:
+  description: ""
+  pname: sysimg_mips
+  version: 16_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v16.default.x_86:
+  description: ""
+  pname: x86
+  version: 16_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v16.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 16_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v16.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 16_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v17.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 17_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v17.default.mips:
+  description: ""
+  pname: sysimg_mips
+  version: 17_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v17.default.x_86:
+  description: ""
+  pname: x86
+  version: 17_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v17.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 17_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v17.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 17_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v18.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 18_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v18.default.x_86:
+  description: ""
+  pname: x86
+  version: 18_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v18.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 18_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v18.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 18_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v19.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 19_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v19.default.x_86:
+  description: ""
+  pname: x86
+  version: 19_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v19.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 19_r40.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v19.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 19_r40.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.android_tv.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 21_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 21_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 21_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 21_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.default.x_86:
+  description: ""
+  pname: x86
+  version: 21_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 21_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 21_r32.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 21_r32.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 21_r32.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v21.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 21_r32.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 22_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 22_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 22_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.default.x_86:
+  description: ""
+  pname: x86
+  version: 22_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 22_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 22_r26.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 22_r26.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 22_r26.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v22.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 22_r26.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.android_tv.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 23_r12.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 23_r21.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 23_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 23_r06.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.default.x_86:
+  description: ""
+  pname: x86
+  version: 23_r10.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 23_r10.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 23_r33.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 23_r33.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 23_r33.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v23.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 23_r33.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 24_r22.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 24_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.default.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 24_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.default.x_86:
+  description: ""
+  pname: x86
+  version: 24_r08.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 24_r08.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 24_r29.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 24_r27.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 24_r27.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v24.google_apis_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 24_r19.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 25_r16.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.android_wear.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 25_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.android_wear.x_86:
+  description: ""
+  pname: x86
+  version: 25_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 25_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.default.x_86:
+  description: ""
+  pname: x86
+  version: 25_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 25_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 25_r20.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.google_apis.armeabi_v_7_a:
+  description: ""
+  pname: armeabi-v7a
+  version: 25_r18.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 25_r18.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 25_r18.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v25.google_apis_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 25_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 26_r14.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.android_wear.x_86:
+  description: ""
+  pname: x86
+  version: 26_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 26_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.default.x_86:
+  description: ""
+  pname: x86
+  version: 26_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 26_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 26_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 26_r16.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 26_r16.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v26.google_apis_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 26_r07.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v27.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 27_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v27.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 27_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v27.default.x_86:
+  description: ""
+  pname: x86
+  version: 27_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v27.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 27_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v27.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 27_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v27.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 27_r11.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v27.google_apis_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 27_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.android_automotive_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 28_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 28_r10.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.android_wear.x_86:
+  description: ""
+  pname: x86
+  version: 28_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 28_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.default.x_86:
+  description: ""
+  pname: x86
+  version: 28_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 28_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 28_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 28_r12.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 28_r11.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 28_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.google_apis_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 28_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v28.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 28_r08.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.android_automotive_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 29_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 29_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 29_r08.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.default.x_86:
+  description: ""
+  pname: x86
+  version: 29_r08-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 29_r08-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 29_r13.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 29_r13.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 29_r13.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 29_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.google_apis_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 29_r08-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v29.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 29_r08-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.android_automotive_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 30_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 30_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.android_wear.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 30_r12.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.android_wear.x_86:
+  description: ""
+  pname: x86
+  version: 30_r12.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 30_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 30_r11.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 30_r16.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.google_apis.x_86:
+  description: ""
+  pname: x86
+  version: 30_r16.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 30_r16.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 30_r10-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.google_apis_playstore.x_86:
+  description: ""
+  pname: x86
+  version: 30_r09-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v30.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 30_r10-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.android_tv.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 31_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 31_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 31_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 31_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 31_r11.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 31_r14.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 31_r09-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v31.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 31_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.android_automotive_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 32_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.android_automotive_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 32_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 32_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 32_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 32_r08.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 32_r08.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 32_r04-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v32.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 32_r04-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.android_automotive.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 33_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.android_automotive.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 33_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.android_tv.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 33_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 33_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.android_wear.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 33_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.android_wear.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 33_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 33_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 33_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 33_r17.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 33_r17.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 33_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 33_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33_x.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 33-ext5_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v33_x.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 33-ext5_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.android_tv.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 34_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.android_tv.x_86:
+  description: ""
+  pname: x86
+  version: 34_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.android_wear.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 34_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.android_wear.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 34_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 34_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 34_r04.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 34_r14.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 34_r14.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 34_r14.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 34_r14.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34_x.android_automotive.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 34-ext9_playstore_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34_x.android_automotive.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 34-ext9_playstore_r03.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34_x.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 34-ext10_r01-linux.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v34_x.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 34-ext10_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.android_wear.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 35_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.android_wear.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 35_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.default.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 35_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.default.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 35_r02.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 35_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 35_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 35_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 35_r09.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.page_size__16_kb.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-playstore-ps16k
+  version: 35_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35.page_size__16_kb.x_86___64:
+  description: ""
+  pname: x86_64-playstore-ps16k
+  version: 35_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35_x.android_wear.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 35-ext15_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35_x.android_wear.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 35-ext15_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35_x.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 35-ext14_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v35_x.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 35-ext14_r01.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v36.google_apis.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 36_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v36.google_apis.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 36_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v36.google_apis_playstore.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a
+  version: 36_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v36.google_apis_playstore.x_86___64:
+  description: ""
+  pname: x86_64
+  version: 36_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v36.page_size__16_kb.arm_64_v_8_a:
+  description: ""
+  pname: arm64-v8a-playstore-ps16k
+  version: 36_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.all.system_images.v36.page_size__16_kb.x_86___64:
+  description: ""
+  pname: x86_64-playstore-ps16k
+  version: 36_r05.zip
+legacyPackages.x86_64-linux.androidenv.androidPkgs.emulator:
+  description: Android SDK tools, packaged in Nixpkgs
+  pname: android-sdk-emulator
+  version: 35.5.8
+legacyPackages.x86_64-linux.androidenv.androidPkgs.ndk-bundle:
+  description: Android SDK tools, packaged in Nixpkgs
+  pname: android-sdk-ndk
+  version: 28.0.13004108
+legacyPackages.x86_64-linux.androidenv.androidPkgs.platform-tools:
+  description: Android SDK tools, packaged in Nixpkgs
+  pname: android-sdk-platform-tools
+  version: 35.0.2
+legacyPackages.x86_64-linux.androidenv.androidPkgs.tools:
+  description: Android SDK tools, packaged in Nixpkgs
+  pname: androidsdk-tools
+  version: ""
+legacyPackages.x86_64-linux.androidenv.test-suite:
+  description: Android SDK tools, packaged in Nixpkgs
+  pname: androidenv-test-suite
+  version: ""
 legacyPackages.x86_64-linux.andromeda-gtk-theme:
   description: Elegant dark theme for gnome, mate, budgie, cinnamon, xfce
   pname: andromeda-gtk-theme
@@ -6269,7 +8601,7 @@ legacyPackages.x86_64-linux.auditbeat7:
 legacyPackages.x86_64-linux.auditwheel:
   description: Auditing and relabeling cross-distribution Linux wheels
   pname: auditwheel
-  version: 6.2.0
+  version: 6.3.0
 legacyPackages.x86_64-linux.augeas:
   description: Configuration editing tool
   pname: augeas
@@ -6305,7 +8637,7 @@ legacyPackages.x86_64-linux.authelia:
 legacyPackages.x86_64-linux.authenticator:
   description: Two-factor authentication code generator for GNOME
   pname: authenticator
-  version: 4.6.0
+  version: 4.6.2
 legacyPackages.x86_64-linux.authentik:
   description: Authentication glue you need
   pname: authentik
@@ -6841,7 +9173,7 @@ legacyPackages.x86_64-linux.aws-rotate-key:
 legacyPackages.x86_64-linux.aws-sam-cli:
   description: CLI tool for local development and testing of Serverless applications
   pname: aws-sam-cli
-  version: 1.134.0
+  version: 1.135.0
 legacyPackages.x86_64-linux.aws-sdk-cpp:
   description: C++ interface for Amazon Web Services
   pname: aws-sdk-cpp
@@ -7089,7 +9421,7 @@ legacyPackages.x86_64-linux.azure-cli-extensions.apic-extension:
 legacyPackages.x86_64-linux.azure-cli-extensions.application-insights:
   description: Support for managing Application Insights components and querying metrics, events, and logs from such components
   pname: python3.12-application-insights
-  version: 1.2.2
+  version: 1.2.3
 legacyPackages.x86_64-linux.azure-cli-extensions.appservice-kube:
   description: Microsoft Azure Command-Line Tools App Service on Kubernetes Extension
   pname: python3.12-appservice-kube
@@ -7677,7 +10009,7 @@ legacyPackages.x86_64-linux.azure-cli-extensions.virtual-wan:
 legacyPackages.x86_64-linux.azure-cli-extensions.vm-repair:
   description: Support for repairing Azure Virtual Machines
   pname: python3.12-vm-repair
-  version: 2.0.3
+  version: 2.1.1
 legacyPackages.x86_64-linux.azure-cli-extensions.vmware:
   description: Azure VMware Solution commands
   pname: python3.12-vmware
@@ -8297,7 +10629,7 @@ legacyPackages.x86_64-linux.bazel_6:
 legacyPackages.x86_64-linux.bazel_7:
   description: Build tool that builds code quickly and reliably
   pname: bazel
-  version: 7.4.1
+  version: 7.6.0
 legacyPackages.x86_64-linux.bazelisk:
   description: User-friendly launcher for Bazel
   pname: bazelisk
@@ -8409,7 +10741,7 @@ legacyPackages.x86_64-linux.beam25Packages.elixir:
 legacyPackages.x86_64-linux.beam25Packages.elixir-ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.beam25Packages.elixir_1_14:
   description: Functional, meta-programming aware language built on top of the Erlang VM
   pname: elixir
@@ -8493,7 +10825,7 @@ legacyPackages.x86_64-linux.beam26Packages.elixir:
 legacyPackages.x86_64-linux.beam26Packages.elixir-ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.beam26Packages.elixir_1_14:
   description: Functional, meta-programming aware language built on top of the Erlang VM
   pname: elixir
@@ -8577,7 +10909,7 @@ legacyPackages.x86_64-linux.beam27Packages.elixir:
 legacyPackages.x86_64-linux.beam27Packages.elixir-ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.beam27Packages.elixir_1_17:
   description: Functional, meta-programming aware language built on top of the Erlang VM
   pname: elixir
@@ -8649,7 +10981,7 @@ legacyPackages.x86_64-linux.beamMinimal25Packages.elixir:
 legacyPackages.x86_64-linux.beamMinimal25Packages.elixir-ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.beamMinimal25Packages.elixir_1_14:
   description: Functional, meta-programming aware language built on top of the Erlang VM
   pname: elixir
@@ -8733,7 +11065,7 @@ legacyPackages.x86_64-linux.beamMinimal26Packages.elixir:
 legacyPackages.x86_64-linux.beamMinimal26Packages.elixir-ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.beamMinimal26Packages.elixir_1_14:
   description: Functional, meta-programming aware language built on top of the Erlang VM
   pname: elixir
@@ -8817,7 +11149,7 @@ legacyPackages.x86_64-linux.beamMinimal27Packages.elixir:
 legacyPackages.x86_64-linux.beamMinimal27Packages.elixir-ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.beamMinimal27Packages.elixir_1_17:
   description: Functional, meta-programming aware language built on top of the Erlang VM
   pname: elixir
@@ -9433,7 +11765,7 @@ legacyPackages.x86_64-linux.bingrep:
 legacyPackages.x86_64-linux.bino3d:
   description: Video player with a focus on 3D and Virtual Reality
   pname: bino
-  version: "2.4"
+  version: "2.5"
 legacyPackages.x86_64-linux.binocle:
   description: Graphical tool to visualize binary data
   pname: binocle
@@ -9889,11 +12221,11 @@ legacyPackages.x86_64-linux.blend2d:
 legacyPackages.x86_64-linux.blender:
   description: 3D Creation/Animation/Publishing System
   pname: blender
-  version: 4.3.2
+  version: 4.4.0
 legacyPackages.x86_64-linux.blender-hip:
   description: 3D Creation/Animation/Publishing System
   pname: blender
-  version: 4.3.2
+  version: 4.4.0
 legacyPackages.x86_64-linux.blendfarm:
   description: A open-source, cross-platform, stand-alone, Network Renderer for Blender
   pname: blendfarm
@@ -10769,7 +13101,7 @@ legacyPackages.x86_64-linux.brill:
 legacyPackages.x86_64-linux.brillo:
   description: Backlight and Keyboard LED control tool
   pname: brillo
-  version: 1.4.12
+  version: 1.4.13
 legacyPackages.x86_64-linux.brise:
   description: Rime Schema Repository
   pname: brise-unstable
@@ -11169,7 +13501,7 @@ legacyPackages.x86_64-linux.budgie-user-indicator-redux:
 legacyPackages.x86_64-linux.buf:
   description: Create consistent Protobuf APIs that preserve compatibility and comply with design best-practices
   pname: buf
-  version: 1.50.1
+  version: 1.51.0
 legacyPackages.x86_64-linux.buffer:
   description: Minimal editing space for all those things that don't need keeping
   pname: buffer
@@ -13141,7 +15473,7 @@ legacyPackages.x86_64-linux.ccextractor:
 legacyPackages.x86_64-linux.ccid:
   description: PC/SC driver for USB CCID smart card readers
   pname: ccid
-  version: 1.6.1
+  version: 1.6.2
 legacyPackages.x86_64-linux.ccl:
   description: Clozure Common Lisp
   pname: ccl
@@ -13657,7 +15989,7 @@ legacyPackages.x86_64-linux.chalk:
 legacyPackages.x86_64-linux.challenger:
   description: OAuth 2.0-based authentication service that validates user can receive messages at a certain address
   pname: taler-challenger
-  version: 0.14.1
+  version: 0.14.3-unstable-2025-02-17
 legacyPackages.x86_64-linux.chamber:
   description: A tool for managing secrets by storing them in AWS SSM Parameter Store
   pname: chamber
@@ -16429,7 +18761,7 @@ legacyPackages.x86_64-linux.chiptrack:
 legacyPackages.x86_64-linux.chirp:
   description: Free, open-source tool for programming your amateur radio
   pname: chirp
-  version: 0.4.0-unstable-2025-03-17
+  version: 0.4.0-unstable-2025-03-27
 legacyPackages.x86_64-linux.chirpstack-concentratord:
   description: Concentrator HAL daemon for LoRa gateways
   pname: chirpstack-concentratord
@@ -17089,7 +19421,7 @@ legacyPackages.x86_64-linux.clash-rs:
 legacyPackages.x86_64-linux.clash-verge-rev:
   description: Clash GUI based on tauri
   pname: clash-verge-rev
-  version: 2.1.2
+  version: 2.2.2
 legacyPackages.x86_64-linux.clashtui:
   description: Mihomo (Clash.Meta) TUI Client
   pname: clashtui
@@ -17885,7 +20217,7 @@ legacyPackages.x86_64-linux.cocoapods-beta:
 legacyPackages.x86_64-linux.cocogitto:
   description: Set of cli tools for the conventional commit and semver specifications
   pname: cocogitto
-  version: 6.2.0
+  version: 6.3.0
 legacyPackages.x86_64-linux.cocom:
   description: NTP client
   pname: cocom
@@ -19225,7 +21557,7 @@ legacyPackages.x86_64-linux.corepack:
 legacyPackages.x86_64-linux.corepack_18:
   description: Wrappers for npm, pnpm and Yarn via Node.js Corepack
   pname: corepack-nodejs
-  version: 18.20.7
+  version: 18.20.8
 legacyPackages.x86_64-linux.corepack_20:
   description: Wrappers for npm, pnpm and Yarn via Node.js Corepack
   pname: corepack-nodejs
@@ -19477,7 +21809,7 @@ legacyPackages.x86_64-linux.couchbase-shell:
 legacyPackages.x86_64-linux.couchdb3:
   description: Database that uses JSON for documents, JavaScript for MapReduce queries, and regular HTTP for an API
   pname: couchdb
-  version: 3.4.2
+  version: 3.4.3
 legacyPackages.x86_64-linux.coulr:
   description: Color box to help developers and designers
   pname: coulr
@@ -19966,6 +22298,10 @@ legacyPackages.x86_64-linux.cromfs:
   description: FUSE Compressed ROM filesystem with lzma
   pname: cromfs
   version: 1.5.10.2
+legacyPackages.x86_64-linux.cromite:
+  description: Bromite fork with ad blocking and privacy enhancements
+  pname: cromite
+  version: 134.0.6998.108
 legacyPackages.x86_64-linux.cron:
   description: Daemon for running commands at specific times
   pname: cron
@@ -20041,7 +22377,7 @@ legacyPackages.x86_64-linux.crowdin-cli:
 legacyPackages.x86_64-linux.crowdsec:
   description: CrowdSec is a free, open-source and collaborative IPS
   pname: crowdsec
-  version: 1.6.5
+  version: 1.6.6
 legacyPackages.x86_64-linux.crrcsim:
   description: Model-airplane flight simulator
   pname: crrcsim
@@ -22885,7 +25221,7 @@ legacyPackages.x86_64-linux.ddosify:
 legacyPackages.x86_64-linux.ddrescue:
   description: GNU ddrescue, a data recovery tool
   pname: ddrescue
-  version: "1.29"
+  version: 1.29.1
 legacyPackages.x86_64-linux.ddrescueview:
   description: Tool to graphically examine ddrescue mapfiles
   pname: ddrescueview
@@ -23457,11 +25793,11 @@ legacyPackages.x86_64-linux.deltachat-desktop:
 legacyPackages.x86_64-linux.deltachat-repl:
   description: Delta Chat CLI client
   pname: deltachat-repl
-  version: 1.157.3
+  version: 1.158.0
 legacyPackages.x86_64-linux.deltachat-rpc-server:
   description: Delta Chat RPC server exposing JSON-RPC core API over standard I/O
   pname: deltachat-rpc-server
-  version: 1.157.3
+  version: 1.158.0
 legacyPackages.x86_64-linux.deltatouch:
   description: Messaging app for Ubuntu Touch, powered by Delta Chat core
   pname: deltatouch
@@ -27173,7 +29509,7 @@ legacyPackages.x86_64-linux.ecryptfs-helper:
 legacyPackages.x86_64-linux.ecs-agent:
   description: Agent that runs on AWS EC2 container instances and starts containers on behalf of Amazon ECS
   pname: amazon-ecs-agent
-  version: 1.91.0
+  version: 1.91.1
 legacyPackages.x86_64-linux.ecsk:
   description: Interactively call Amazon ECS APIs, copy files between ECS and local, and view logs
   pname: ecsk
@@ -27437,7 +29773,7 @@ legacyPackages.x86_64-linux.eigenlayer:
 legacyPackages.x86_64-linux.eigenmath:
   description: Computer algebra system written in C
   pname: eigenmath
-  version: 337-unstable-2025-03-16
+  version: 338-unstable-2025-03-27
 legacyPackages.x86_64-linux.eigenrand:
   description: Fastest Random Distribution Generator for Eigen
   pname: eigenrand
@@ -27521,7 +29857,7 @@ legacyPackages.x86_64-linux.elasticsearch:
 legacyPackages.x86_64-linux.elasticsearch-curator:
   description: Curate, or manage, your Elasticsearch indices and snapshots
   pname: elasticsearch-curator
-  version: 8.0.18
+  version: 8.0.20
 legacyPackages.x86_64-linux.elasticsearch7:
   description: Open Source, Distributed, RESTful Search Engine
   pname: elasticsearch
@@ -27769,7 +30105,7 @@ legacyPackages.x86_64-linux.elixir:
 legacyPackages.x86_64-linux.elixir-ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.elixir_1_17:
   description: Functional, meta-programming aware language built on top of the Erlang VM
   pname: elixir
@@ -27781,7 +30117,7 @@ legacyPackages.x86_64-linux.elixir_1_18:
 legacyPackages.x86_64-linux.elixir_ls:
   description: 'A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol" '
   pname: elixir-ls
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.elkhound:
   description: Parser generator which emits GLR parsers, either in OCaml or C++
   pname: elkhound-unstable
@@ -29293,7 +31629,7 @@ legacyPackages.x86_64-linux.exploitdb:
 legacyPackages.x86_64-linux.exportarr:
   description: AIO Prometheus Exporter for Sonarr, Radarr or Lidarr
   pname: exportarr
-  version: 2.0.1
+  version: 2.1.0
 legacyPackages.x86_64-linux.exposor:
   description: Tool using internet search engines to detect exposed technologies with a unified syntax
   pname: exposor
@@ -30182,10 +32518,6 @@ legacyPackages.x86_64-linux.fdm:
   description: Mail fetching and delivery tool - should do the job of getmail and procmail
   pname: fdm
   version: "2.2"
-legacyPackages.x86_64-linux.fdr:
-  description: CSP refinement checker
-  pname: fdr
-  version: 4.2.7
 legacyPackages.x86_64-linux.fdroidcl:
   description: F-Droid command line interface written in Go
   pname: fdroidcl
@@ -30809,7 +33141,7 @@ legacyPackages.x86_64-linux.fira-sans:
 legacyPackages.x86_64-linux.fire:
   description: Multi-band distortion plugin by Wings
   pname: fire
-  version: 1.0.1-unstable-2024-10-22
+  version: 1.0.1-unstable-2025-03-12
 legacyPackages.x86_64-linux.firebase-tools:
   description: Manage, and deploy your Firebase project from the command line
   pname: firebase-tools
@@ -30945,7 +33277,7 @@ legacyPackages.x86_64-linux.firefoxpwa:
 legacyPackages.x86_64-linux.firehol:
   description: Firewall for humans
   pname: firehol
-  version: 3.1.7
+  version: 3.1.8
 legacyPackages.x86_64-linux.firejail:
   description: Namespace-based sandboxing tool for Linux
   pname: firejail
@@ -31369,7 +33701,7 @@ legacyPackages.x86_64-linux.flashgbx:
 legacyPackages.x86_64-linux.flashmq:
   description: Fast light-weight MQTT broker/server
   pname: flashmq
-  version: 1.21.0
+  version: 1.21.1
 legacyPackages.x86_64-linux.flashprint:
   description: Slicer for the FlashForge 3D printers
   pname: flashprint
@@ -31717,7 +34049,7 @@ legacyPackages.x86_64-linux.fluffychat-web:
 legacyPackages.x86_64-linux.fluidd:
   description: Klipper web interface
   pname: fluidd
-  version: 1.32.4
+  version: 1.33.0
 legacyPackages.x86_64-linux.fluidsynth:
   description: Real-time software synthesizer based on the SoundFont 2 specifications
   pname: fluidsynth
@@ -31821,7 +34153,7 @@ legacyPackages.x86_64-linux.flutterPackages.v3_29:
 legacyPackages.x86_64-linux.flutter_rust_bridge_codegen:
   description: Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple
   pname: flutter_rust_bridge_codegen
-  version: 2.8.0
+  version: 2.9.0
 legacyPackages.x86_64-linux.flux:
   description: Interface description language used by DirectFB
   pname: flux
@@ -31861,7 +34193,7 @@ legacyPackages.x86_64-linux.flycast:
 legacyPackages.x86_64-linux.flyctl:
   description: Command line tools for fly.io services
   pname: flyctl
-  version: 0.3.89
+  version: 0.3.94
 legacyPackages.x86_64-linux.flye:
   description: De novo assembler for single molecule sequencing reads using repeat graphs
   pname: flye
@@ -32545,15 +34877,15 @@ legacyPackages.x86_64-linux.freeradius:
 legacyPackages.x86_64-linux.freerdp:
   description: Remote Desktop Protocol Client
   pname: freerdp
-  version: 3.14.0
+  version: 3.14.1
 legacyPackages.x86_64-linux.freerdp3:
   description: Remote Desktop Protocol Client
   pname: freerdp
-  version: 3.14.0
+  version: 3.14.1
 legacyPackages.x86_64-linux.freerdpUnstable:
   description: Remote Desktop Protocol Client
   pname: freerdp
-  version: 3.14.0
+  version: 3.14.1
 legacyPackages.x86_64-linux.freesasa:
   description: C-library for calculating Solvent Accessible Surface Areas
   pname: freesasa
@@ -32581,7 +34913,7 @@ legacyPackages.x86_64-linux.freetts:
 legacyPackages.x86_64-linux.freetube:
   description: Open Source YouTube app for privacy
   pname: freetube
-  version: 0.23.2
+  version: 0.23.3
 legacyPackages.x86_64-linux.freetype:
   description: Font rendering engine
   pname: freetype
@@ -32737,7 +35069,7 @@ legacyPackages.x86_64-linux.frp:
 legacyPackages.x86_64-linux.frr:
   description: FRR BGP/OSPF/ISIS/RIP/RIPNG routing daemon suite
   pname: frr
-  version: 10.2.1
+  version: "10.3"
 legacyPackages.x86_64-linux.frugal:
   description: Thrift improved
   pname: frugal
@@ -33249,7 +35581,7 @@ legacyPackages.x86_64-linux.galerio:
 legacyPackages.x86_64-linux.gallery-dl:
   description: Command-line program to download image-galleries and -collections from several image hosting sites
   pname: gallery-dl
-  version: 1.29.2
+  version: 1.29.3
 legacyPackages.x86_64-linux.galleta:
   description: Examine the contents of the IE's cookie files for forensic purposes
   pname: galleta
@@ -34757,7 +37089,7 @@ legacyPackages.x86_64-linux.ghost-cli:
 legacyPackages.x86_64-linux.ghostfolio:
   description: Open Source Wealth Management Software
   pname: ghostfolio
-  version: 2.146.0
+  version: 2.148.0
 legacyPackages.x86_64-linux.ghostie:
   description: Github notifications in your terminal
   pname: ghostie
@@ -35197,7 +37529,7 @@ legacyPackages.x86_64-linux.git-ftp:
 legacyPackages.x86_64-linux.git-gamble:
   description: Tool that blends TDD (Test Driven Development) + TCR (`test && commit || revert`)
   pname: git-gamble
-  version: 2.9.0
+  version: 2.10.0
 legacyPackages.x86_64-linux.git-get:
   description: Better way to clone, organize and manage multiple git repositories
   pname: git-get
@@ -35865,7 +38197,7 @@ legacyPackages.x86_64-linux.glamoroustoolkit:
 legacyPackages.x86_64-linux.glance:
   description: Self-hosted dashboard that puts all your feeds in one place
   pname: glance
-  version: 0.7.8
+  version: 0.7.9
 legacyPackages.x86_64-linux.glanceclient:
   description: Python bindings for the OpenStack Images API
   pname: python-glanceclient
@@ -40505,11 +42837,11 @@ legacyPackages.x86_64-linux.gnumeric:
 legacyPackages.x86_64-linux.gnunet:
   description: GNU's decentralized anonymous and censorship-resistant P2P framework
   pname: gnunet
-  version: 0.23.1
+  version: 0.24.0
 legacyPackages.x86_64-linux.gnunet-gtk:
   description: GNUnet GTK User Interface
   pname: gnunet-gtk
-  version: 0.23.1
+  version: 0.24.0
 legacyPackages.x86_64-linux.gnupatch:
   description: GNU Patch, a program to apply differences to files
   pname: patch
@@ -41221,7 +43553,7 @@ legacyPackages.x86_64-linux.goimapnotify:
 legacyPackages.x86_64-linux.goimports-reviser:
   description: Right imports sorting & code formatting tool (goimports alternative)
   pname: goimports-reviser
-  version: 3.8.2
+  version: 3.9.1
 legacyPackages.x86_64-linux.gojo:
   description: Yet another Go implementation of jo
   pname: gojo
@@ -49037,7 +51369,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.gpio:
 legacyPackages.x86_64-linux.home-assistant-custom-components.homematicip_local:
   description: Custom Home Assistant Component for HomeMatic
   pname: python3.13-SukramJ-homematicip_local
-  version: 1.81.2
+  version: 1.82.0
 legacyPackages.x86_64-linux.home-assistant-custom-components.indego:
   description: Bosch Indego lawn mower component
   pname: python3.13-sander1988-indego
@@ -51789,11 +54121,11 @@ legacyPackages.x86_64-linux.immersed-vr:
 legacyPackages.x86_64-linux.immich:
   description: Self-hosted photo and video backup solution
   pname: immich
-  version: 1.129.0
+  version: 1.130.3
 legacyPackages.x86_64-linux.immich-cli:
   description: Self-hosted photo and video backup solution (command line interface)
   pname: immich-cli
-  version: 2.2.53
+  version: 2.2.57
 legacyPackages.x86_64-linux.immich-go:
   description: Immich client tool for bulk-uploads
   pname: immich-go
@@ -51801,7 +54133,7 @@ legacyPackages.x86_64-linux.immich-go:
 legacyPackages.x86_64-linux.immich-machine-learning:
   description: Self-hosted photo and video backup solution (machine learning component)
   pname: immich-machine-learning
-  version: 1.129.0
+  version: 1.130.3
 legacyPackages.x86_64-linux.immich-public-proxy:
   description: Share your Immich photos and albums in a safe way without exposing your Immich instance to the public
   pname: immich-public-proxy
@@ -52265,7 +54597,7 @@ legacyPackages.x86_64-linux.inframap:
 legacyPackages.x86_64-linux.infrastructure-agent:
   description: New Relic Infrastructure Agent
   pname: infrastructure-agent
-  version: 1.62.0
+  version: 1.63.0
 legacyPackages.x86_64-linux.ingen:
   description: Modular audio processing system using JACK and LV2 or LADSPA plugins
   pname: ingen
@@ -52317,7 +54649,7 @@ legacyPackages.x86_64-linux.inklingreader:
 legacyPackages.x86_64-linux.inko:
   description: Language for building concurrent software with confidence
   pname: inko
-  version: 0.15.0
+  version: 0.18.1
 legacyPackages.x86_64-linux.inkscape:
   description: Vector graphics editor
   pname: inkscape
@@ -52749,7 +55081,7 @@ legacyPackages.x86_64-linux.iosevka:
 legacyPackages.x86_64-linux.iosevka-bin:
   description: Versatile typeface for code, from code
   pname: Iosevka-bin
-  version: 33.0.1
+  version: 33.1.0
 legacyPackages.x86_64-linux.iosevka-comfy.comfy:
   description: 'Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both roman (upright) and italic (slanted) variants. '
   pname: iosevka-comfy
@@ -52893,7 +55225,7 @@ legacyPackages.x86_64-linux.ipfetch:
 legacyPackages.x86_64-linux.ipfs:
   description: IPFS implementation in Go
   pname: kubo
-  version: 0.33.2
+  version: 0.34.0
 legacyPackages.x86_64-linux.ipfs-cluster:
   description: Allocate, replicate, and track Pins across a cluster of IPFS daemons
   pname: ipfs-cluster
@@ -53037,7 +55369,7 @@ legacyPackages.x86_64-linux.ipvsadm:
 legacyPackages.x86_64-linux.ipxe:
   description: Network boot firmware
   pname: ipxe
-  version: 1.21.1-unstable-2025-02-28
+  version: 1.21.1-unstable-2025-03-27
 legacyPackages.x86_64-linux.iqtree:
   description: Efficient and versatile phylogenomic software by maximum likelihood
   pname: iqtree
@@ -56401,7 +58733,7 @@ legacyPackages.x86_64-linux.kdePackages.klettres:
 legacyPackages.x86_64-linux.kdePackages.klevernotes:
   description: A note-taking and management application using markdown.
   pname: klevernotes
-  version: 1.2.0
+  version: 1.2.2
 legacyPackages.x86_64-linux.kdePackages.klickety:
   description: Klickety is an adaptation of the Clickomania game
   pname: klickety
@@ -57905,7 +60237,7 @@ legacyPackages.x86_64-linux.keymapp:
 legacyPackages.x86_64-linux.keymapper:
   description: Cross-platform context-aware key remapper
   pname: keymapper
-  version: 4.11.0
+  version: 4.11.1
 legacyPackages.x86_64-linux.keymapviz:
   description: Qmk keymap.c visualizer
   pname: keymapviz
@@ -57997,11 +60329,11 @@ legacyPackages.x86_64-linux.kibi:
 legacyPackages.x86_64-linux.kicad:
   description: Open Source Electronics Design Automation suite
   pname: kicad
-  version: 9.0.0
+  version: 9.0.1
 legacyPackages.x86_64-linux.kicad-small:
   description: Open Source Electronics Design Automation suite, without 3D models
   pname: kicad-small
-  version: 9.0.0
+  version: 9.0.1
 legacyPackages.x86_64-linux.kicad-testing:
   description: Open Source Electronics Design Automation suite
   pname: kicad-testing
@@ -58165,7 +60497,7 @@ legacyPackages.x86_64-linux.kitex:
 legacyPackages.x86_64-linux.kitsas:
   description: Accounting tool suitable for Finnish associations and small business
   pname: kitsas
-  version: "5.8"
+  version: "5.9"
 legacyPackages.x86_64-linux.kitti3:
   description: Kitty drop-down service for sway & i3wm
   pname: kitti3-unstable
@@ -59409,7 +61741,7 @@ legacyPackages.x86_64-linux.kubei:
 legacyPackages.x86_64-linux.kubelogin:
   description: Kubernetes credential plugin implementing Azure authentication
   pname: kubelogin
-  version: 0.1.9
+  version: 0.2.7
 legacyPackages.x86_64-linux.kubelogin-oidc:
   description: Kubernetes credential plugin implementing OpenID Connect (OIDC) authentication
   pname: kubelogin
@@ -59589,7 +61921,7 @@ legacyPackages.x86_64-linux.kubie:
 legacyPackages.x86_64-linux.kubo:
   description: IPFS implementation in Go
   pname: kubo
-  version: 0.33.2
+  version: 0.34.0
 legacyPackages.x86_64-linux.kubo-fs-repo-migrations:
   description: Several individual migrations for migrating the filesystem repository of Kubo one version at a time
   pname: kubo-fs-repo-migrations
@@ -61477,7 +63809,7 @@ legacyPackages.x86_64-linux.libdeflate:
 legacyPackages.x86_64-linux.libdeltachat:
   description: Delta Chat Rust Core library
   pname: libdeltachat
-  version: 1.157.3
+  version: 1.158.0
 legacyPackages.x86_64-linux.libdevil:
   description: Image library which can can load, save, convert, manipulate, filter and display a wide variety of image formats
   pname: libdevil
@@ -62765,7 +65097,7 @@ legacyPackages.x86_64-linux.libmediaart:
 legacyPackages.x86_64-linux.libmediainfo:
   description: Shared library for mediainfo
   pname: libmediainfo
-  version: "24.12"
+  version: "25.03"
 legacyPackages.x86_64-linux.libmemcached:
   description: Open source C/C++ client library and tools for the memcached server
   pname: libmemcached
@@ -63421,7 +65753,7 @@ legacyPackages.x86_64-linux.libpostalWithData:
 legacyPackages.x86_64-linux.libppd:
   description: ""
   pname: libppd
-  version: 2.1.0
+  version: 2.1.1
 legacyPackages.x86_64-linux.libpq:
   description: C application programmer's interface to PostgreSQL
   pname: libpq
@@ -67417,7 +69749,7 @@ legacyPackages.x86_64-linux.libwpe:
 legacyPackages.x86_64-linux.libwpe-fdo:
   description: Freedesktop.org backend for WPE WebKit
   pname: wpebackend-fdo
-  version: 1.14.3
+  version: 1.16.0
 legacyPackages.x86_64-linux.libwpg:
   description: C++ library to parse WPG
   pname: libwpg
@@ -95469,7 +97801,7 @@ legacyPackages.x86_64-linux.livekit-libwebrtc:
 legacyPackages.x86_64-linux.livepeer:
   description: Official Go implementation of the Livepeer protocol
   pname: livepeer
-  version: 0.8.3
+  version: 0.8.4
 legacyPackages.x86_64-linux.livi:
   description: Small video player targeting mobile devices (also named μPlayer)
   pname: livi
@@ -97701,7 +100033,7 @@ legacyPackages.x86_64-linux.lomiri.lomiri-notifications:
 legacyPackages.x86_64-linux.lomiri.lomiri-polkit-agent:
   description: Policy kit agent for the Lomiri desktop
   pname: lomiri-polkit-agent
-  version: "0.2"
+  version: "0.3"
 legacyPackages.x86_64-linux.lomiri.lomiri-push-qml:
   description: Lomiri Push Notifications QML plugin
   pname: lomiri-push-qml
@@ -98605,11 +100937,11 @@ legacyPackages.x86_64-linux.lua51Packages.lz-n:
 legacyPackages.x86_64-linux.lua51Packages.lze:
   description: A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
   pname: lua5.1-lze
-  version: 0.10.0-1
+  version: 0.11.0-1
 legacyPackages.x86_64-linux.lua51Packages.lzextras:
   description: A collection of utilities and handlers for BirdeeHub/lze
   pname: lua5.1-lzextras
-  version: 0.2.5-1
+  version: 0.3.0-1
 legacyPackages.x86_64-linux.lua51Packages.lzn-auto-require:
   description: Auto load optional plugins via lua modules with lz.n
   pname: lua5.1-lzn-auto-require
@@ -99309,11 +101641,11 @@ legacyPackages.x86_64-linux.lua52Packages.lz-n:
 legacyPackages.x86_64-linux.lua52Packages.lze:
   description: A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
   pname: lua5.2-lze
-  version: 0.10.0-1
+  version: 0.11.0-1
 legacyPackages.x86_64-linux.lua52Packages.lzextras:
   description: A collection of utilities and handlers for BirdeeHub/lze
   pname: lua5.2-lzextras
-  version: 0.2.5-1
+  version: 0.3.0-1
 legacyPackages.x86_64-linux.lua52Packages.lzn-auto-require:
   description: Auto load optional plugins via lua modules with lz.n
   pname: lua5.2-lzn-auto-require
@@ -100013,11 +102345,11 @@ legacyPackages.x86_64-linux.lua53Packages.lz-n:
 legacyPackages.x86_64-linux.lua53Packages.lze:
   description: A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
   pname: lua5.3-lze
-  version: 0.10.0-1
+  version: 0.11.0-1
 legacyPackages.x86_64-linux.lua53Packages.lzextras:
   description: A collection of utilities and handlers for BirdeeHub/lze
   pname: lua5.3-lzextras
-  version: 0.2.5-1
+  version: 0.3.0-1
 legacyPackages.x86_64-linux.lua53Packages.lzn-auto-require:
   description: Auto load optional plugins via lua modules with lz.n
   pname: lua5.3-lzn-auto-require
@@ -100713,11 +103045,11 @@ legacyPackages.x86_64-linux.lua54Packages.lz-n:
 legacyPackages.x86_64-linux.lua54Packages.lze:
   description: A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
   pname: lua5.4-lze
-  version: 0.10.0-1
+  version: 0.11.0-1
 legacyPackages.x86_64-linux.lua54Packages.lzextras:
   description: A collection of utilities and handlers for BirdeeHub/lze
   pname: lua5.4-lzextras
-  version: 0.2.5-1
+  version: 0.3.0-1
 legacyPackages.x86_64-linux.lua54Packages.lzn-auto-require:
   description: Auto load optional plugins via lua modules with lz.n
   pname: lua5.4-lzn-auto-require
@@ -101445,11 +103777,11 @@ legacyPackages.x86_64-linux.luaPackages.lz-n:
 legacyPackages.x86_64-linux.luaPackages.lze:
   description: A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
   pname: lua5.2-lze
-  version: 0.10.0-1
+  version: 0.11.0-1
 legacyPackages.x86_64-linux.luaPackages.lzextras:
   description: A collection of utilities and handlers for BirdeeHub/lze
   pname: lua5.2-lzextras
-  version: 0.2.5-1
+  version: 0.3.0-1
 legacyPackages.x86_64-linux.luaPackages.lzn-auto-require:
   description: Auto load optional plugins via lua modules with lz.n
   pname: lua5.2-lzn-auto-require
@@ -102165,11 +104497,11 @@ legacyPackages.x86_64-linux.luajitPackages.lz-n:
 legacyPackages.x86_64-linux.luajitPackages.lze:
   description: A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
   pname: luajit2.1-lze
-  version: 0.10.0-1
+  version: 0.11.0-1
 legacyPackages.x86_64-linux.luajitPackages.lzextras:
   description: A collection of utilities and handlers for BirdeeHub/lze
   pname: luajit2.1-lzextras
-  version: 0.2.5-1
+  version: 0.3.0-1
 legacyPackages.x86_64-linux.luajitPackages.lzn-auto-require:
   description: Auto load optional plugins via lua modules with lz.n
   pname: luajit2.1-lzn-auto-require
@@ -102429,7 +104761,7 @@ legacyPackages.x86_64-linux.luastatus:
 legacyPackages.x86_64-linux.luau:
   description: Fast, small, safe, gradually typed embeddable scripting language derived from Lua
   pname: luau
-  version: "0.664"
+  version: "0.666"
 legacyPackages.x86_64-linux.lubelogger:
   description: Vehicle service records and maintainence tracker
   pname: lubelogger
@@ -105181,11 +107513,11 @@ legacyPackages.x86_64-linux.mediagoblin:
 legacyPackages.x86_64-linux.mediainfo:
   description: Supplies technical and tag information about a video or audio file
   pname: mediainfo
-  version: "24.12"
+  version: "25.03"
 legacyPackages.x86_64-linux.mediainfo-gui:
   description: Supplies technical and tag information about a video or audio file (GUI version)
   pname: mediainfo-gui
-  version: "24.06"
+  version: "25.03"
 legacyPackages.x86_64-linux.mediamtx:
   description: SRT, WebRTC, RTSP, RTMP, LL-HLS media server and media proxy
   pname: mediamtx
@@ -105357,7 +107689,7 @@ legacyPackages.x86_64-linux.meme-image-generator:
 legacyPackages.x86_64-linux.meme-suite:
   description: Motif-based sequence analysis tools
   pname: meme-suite
-  version: 5.1.1
+  version: 5.5.4
 legacyPackages.x86_64-linux.memento:
   description: Mpv-based video player for studying Japanese
   pname: memento
@@ -105613,7 +107945,7 @@ legacyPackages.x86_64-linux.metacity:
 legacyPackages.x86_64-linux.metacubexd:
   description: Clash.Meta Dashboard, The Official One, XD
   pname: metacubexd
-  version: 1.176.2
+  version: 1.186.1
 legacyPackages.x86_64-linux.metadata:
   description: Media metadata parser and formatter designed for human consumption, powered by FFmpeg
   pname: metadata
@@ -106313,7 +108645,7 @@ legacyPackages.x86_64-linux.miniflux:
 legacyPackages.x86_64-linux.minify:
   description: Go minifiers for web formats
   pname: minify
-  version: 2.22.2
+  version: 2.22.4
 legacyPackages.x86_64-linux.minigalaxy:
   description: Simple GOG client for Linux
   pname: minigalaxy
@@ -106717,7 +109049,7 @@ legacyPackages.x86_64-linux.mirrorbits:
 legacyPackages.x86_64-linux.mirrord:
   description: Run local processes in the context of Kubernetes environment
   pname: mirrord
-  version: 3.134.2
+  version: 3.136.0
 legacyPackages.x86_64-linux.mirtk:
   description: Medical image registration library and tools
   pname: mirtk-unstable
@@ -107841,7 +110173,7 @@ legacyPackages.x86_64-linux.mount:
 legacyPackages.x86_64-linux.mount-zip:
   description: FUSE file system for ZIP archives
   pname: mount-zip
-  version: "1.6"
+  version: "1.8"
 legacyPackages.x86_64-linux.mountain-duck:
   description: Mount server and cloud storage as a disk on macOS and Windows
   pname: mountain-duck
@@ -108049,7 +110381,7 @@ legacyPackages.x86_64-linux.mpc_cli:
 legacyPackages.x86_64-linux.mpd:
   description: Flexible, powerful daemon for playing music
   pname: mpd
-  version: 0.23.17
+  version: 0.24.2
 legacyPackages.x86_64-linux.mpd-discord-rpc:
   description: Rust application which displays your currently playing song / album / artist from MPD in Discord using Rich Presence
   pname: mpd-discord-rpc
@@ -108069,7 +110401,7 @@ legacyPackages.x86_64-linux.mpd-sima:
 legacyPackages.x86_64-linux.mpd-small:
   description: Flexible, powerful daemon for playing music
   pname: mpd
-  version: 0.23.17
+  version: 0.24.2
 legacyPackages.x86_64-linux.mpd-touch-screen-gui:
   description: Small MPD client that let's you view covers and has controls suitable for small touchscreens
   pname: mpd-touch-screen-gui-unstable
@@ -108745,7 +111077,7 @@ legacyPackages.x86_64-linux.msrtool:
 legacyPackages.x86_64-linux.mssql_jdbc:
   description: ""
   pname: mssql-jdbc
-  version: 12.8.1
+  version: 12.10.0
 legacyPackages.x86_64-linux.mstflint:
   description: Open source version of Mellanox Firmware Tools (MFT)
   pname: mstflint
@@ -109277,7 +111609,7 @@ legacyPackages.x86_64-linux.mygui:
 legacyPackages.x86_64-linux.myks:
   description: Configuration framework for Kubernetes applications
   pname: myks
-  version: 4.6.0
+  version: 4.6.1
 legacyPackages.x86_64-linux.mylvmbackup:
   description: Tool for quickly creating full physical backups of a MySQL server's data files
   pname: mylvmbackup
@@ -110505,7 +112837,7 @@ legacyPackages.x86_64-linux.netbeans:
 legacyPackages.x86_64-linux.netbird:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird
-  version: 0.39.1
+  version: 0.39.2
 legacyPackages.x86_64-linux.netbird-dashboard:
   description: NetBird Management Service Web UI Panel
   pname: netbird-dashboard
@@ -110513,7 +112845,7 @@ legacyPackages.x86_64-linux.netbird-dashboard:
 legacyPackages.x86_64-linux.netbird-ui:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird
-  version: 0.39.1
+  version: 0.39.2
 legacyPackages.x86_64-linux.netboot:
   description: Mini PXE server
   pname: netboot
@@ -110845,7 +113177,7 @@ legacyPackages.x86_64-linux.networkmanager-vpnc:
 legacyPackages.x86_64-linux.networkmanager_dmenu:
   description: Small script to manage NetworkManager connections with dmenu instead of nm-applet
   pname: networkmanager_dmenu
-  version: 2.5.0
+  version: 2.6.0
 legacyPackages.x86_64-linux.networkmanager_strongswan:
   description: NetworkManager's strongswan plugin
   pname: NetworkManager-strongswan
@@ -112045,7 +114377,7 @@ legacyPackages.x86_64-linux.nmon:
 legacyPackages.x86_64-linux.nmrpflash:
   description: Netgear Unbrick Utility
   pname: nmrpflash
-  version: 0.9.24
+  version: 0.9.25
 legacyPackages.x86_64-linux.nms:
   description: 'A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers. '
   pname: nms
@@ -112129,7 +114461,7 @@ legacyPackages.x86_64-linux.nodejs:
 legacyPackages.x86_64-linux.nodejs-18_x:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs
-  version: 18.20.7
+  version: 18.20.8
 legacyPackages.x86_64-linux.nodejs-slim:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs-slim
@@ -112137,11 +114469,11 @@ legacyPackages.x86_64-linux.nodejs-slim:
 legacyPackages.x86_64-linux.nodejs-slim-18_x:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs-slim
-  version: 18.20.7
+  version: 18.20.8
 legacyPackages.x86_64-linux.nodejs-slim_18:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs-slim
-  version: 18.20.7
+  version: 18.20.8
 legacyPackages.x86_64-linux.nodejs-slim_20:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs-slim
@@ -112169,7 +114501,7 @@ legacyPackages.x86_64-linux.nodejsInstallManuals:
 legacyPackages.x86_64-linux.nodejs_18:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs
-  version: 18.20.7
+  version: 18.20.8
 legacyPackages.x86_64-linux.nodejs_20:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs
@@ -113281,7 +115613,7 @@ legacyPackages.x86_64-linux.nwg-clipman:
 legacyPackages.x86_64-linux.nwg-displays:
   description: Output management utility for Sway and Hyprland
   pname: nwg-displays
-  version: 0.3.22
+  version: 0.3.25
 legacyPackages.x86_64-linux.nwg-dock:
   description: GTK3-based dock for sway
   pname: nwg-dock
@@ -113293,7 +115625,7 @@ legacyPackages.x86_64-linux.nwg-dock-hyprland:
 legacyPackages.x86_64-linux.nwg-drawer:
   description: Application drawer for sway Wayland compositor
   pname: nwg-drawer
-  version: 0.6.3
+  version: 0.6.4
 legacyPackages.x86_64-linux.nwg-hello:
   description: GTK3-based greeter for the greetd daemon, written in python
   pname: nwg-hello
@@ -113354,6 +115686,10 @@ legacyPackages.x86_64-linux.nxpmicro-mfgtools:
   description: Freescale/NXP I.MX chip image deploy tools
   pname: nxpmicro-mfgtools
   version: 1.5.139
+legacyPackages.x86_64-linux.nyaa:
+  description: Tui tool for browsing and downloading torrents
+  pname: nyaa
+  version: 0.9.1
 legacyPackages.x86_64-linux.nyan:
   description: Typesafe hierarchical key-value database
   pname: nyan
@@ -113653,7 +115989,7 @@ legacyPackages.x86_64-linux.obs-studio-plugins.obs-transition-table:
 legacyPackages.x86_64-linux.obs-studio-plugins.obs-tuna:
   description: Song information plugin for obs-studio
   pname: obs-tuna
-  version: 1.9.9
+  version: 1.9.10
 legacyPackages.x86_64-linux.obs-studio-plugins.obs-vaapi:
   description: OBS Studio VAAPI support via GStreamer
   pname: obs-vaapi
@@ -118813,7 +121149,7 @@ legacyPackages.x86_64-linux.oneanime:
 legacyPackages.x86_64-linux.onedrive:
   description: Complete tool to interact with OneDrive on Linux
   pname: onedrive
-  version: 2.5.4
+  version: 2.5.5
 legacyPackages.x86_64-linux.onedrivegui:
   description: Simple GUI for Linux OneDrive Client, with multi-account support
   pname: onedrivegui
@@ -119302,6 +121638,10 @@ legacyPackages.x86_64-linux.opencollada:
   description: Library for handling the COLLADA file format
   pname: opencollada
   version: 1.6.68
+legacyPackages.x86_64-linux.opencollada-blender:
+  description: Library for handling the COLLADA file format
+  pname: opencollada-unstable
+  version: "2025-01-30"
 legacyPackages.x86_64-linux.opencolorio:
   description: Color management framework for visual effects and animation
   pname: opencolorio
@@ -120113,31 +122453,31 @@ legacyPackages.x86_64-linux.opentabletdriver:
 legacyPackages.x86_64-linux.opentelemetry-collector:
   description: OpenTelemetry Collector Official Releases
   pname: otelcol
-  version: 0.121.0
+  version: 0.122.1
 legacyPackages.x86_64-linux.opentelemetry-collector-builder:
   description: OpenTelemetry Collector
   pname: ocb
-  version: 0.121.0
+  version: 0.122.1
 legacyPackages.x86_64-linux.opentelemetry-collector-contrib:
   description: OpenTelemetry Collector Official Releases
   pname: otelcol-contrib
-  version: 0.121.0
+  version: 0.122.1
 legacyPackages.x86_64-linux.opentelemetry-collector-releases.otelcol:
   description: OpenTelemetry Collector Official Releases
   pname: otelcol
-  version: 0.121.0
+  version: 0.122.1
 legacyPackages.x86_64-linux.opentelemetry-collector-releases.otelcol-contrib:
   description: OpenTelemetry Collector Official Releases
   pname: otelcol-contrib
-  version: 0.121.0
+  version: 0.122.1
 legacyPackages.x86_64-linux.opentelemetry-collector-releases.otelcol-k8s:
   description: OpenTelemetry Collector Official Releases
   pname: otelcol-k8s
-  version: 0.121.0
+  version: 0.122.1
 legacyPackages.x86_64-linux.opentelemetry-collector-releases.otelcol-otlp:
   description: OpenTelemetry Collector Official Releases
   pname: otelcol-otlp
-  version: 0.121.0
+  version: 0.122.1
 legacyPackages.x86_64-linux.opentelemetry-cpp:
   description: OpenTelemetry C++ Client Library
   pname: opentelemetry-cpp
@@ -120353,7 +122693,7 @@ legacyPackages.x86_64-linux.opn2bankeditor:
 legacyPackages.x86_64-linux.opnborg:
   description: Sefhosted OPNSense Appliance Backup & Configuration Management Portal
   pname: opnborg
-  version: 0.1.66
+  version: 0.1.68
 legacyPackages.x86_64-linux.opnplug:
   description: OPN2 FM Chip Synthesizer
   pname: opnplug-unstable
@@ -120941,7 +123281,7 @@ legacyPackages.x86_64-linux.osv-detector:
 legacyPackages.x86_64-linux.osv-scanner:
   description: Vulnerability scanner written in Go which uses the data provided by https://osv.dev
   pname: osv-scanner
-  version: 1.9.2
+  version: 2.0.0
 legacyPackages.x86_64-linux.oswald:
   description: Reworking of the classic gothic typeface style
   pname: oswald
@@ -122457,7 +124797,7 @@ legacyPackages.x86_64-linux.passphrase2pgp:
 legacyPackages.x86_64-linux.passt:
   description: Plug A Simple Socket Transport
   pname: passt
-  version: 2024_12_11.09478d5
+  version: 2025_03_20.32f6212
 legacyPackages.x86_64-linux.passwdqc:
   description: Passphrase strength checking and enforcement
   pname: passwdqc
@@ -122917,7 +125257,7 @@ legacyPackages.x86_64-linux.pdfid:
 legacyPackages.x86_64-linux.pdfium-binaries:
   description: Binary distribution of PDFium
   pname: pdfium-binaries
-  version: "7047"
+  version: "7087"
 legacyPackages.x86_64-linux.pdfminer:
   description: PDF parser and analyzer
   pname: pdfminer-six
@@ -147013,7 +149353,7 @@ legacyPackages.x86_64-linux.photonvision:
 legacyPackages.x86_64-linux.photoprism:
   description: Personal Photo Management powered by Go and Google TensorFlow
   pname: photoprism
-  version: 240711-2197af848
+  version: 250321-57590c48b
 legacyPackages.x86_64-linux.photoqt:
   description: Simple, yet powerful and good looking image viewer
   pname: photoqt
@@ -149073,7 +151413,7 @@ legacyPackages.x86_64-linux.php84Packages.psysh:
 legacyPackages.x86_64-linux.phpactor:
   description: Mainly a PHP Language Server
   pname: phpactor
-  version: 2025.02.21.0
+  version: 2025.03.28.0
 legacyPackages.x86_64-linux.phpdocumentor:
   description: PHP documentation generator
   pname: phpdocumentor
@@ -157069,7 +159409,7 @@ legacyPackages.x86_64-linux.prometheus-php-fpm-exporter:
 legacyPackages.x86_64-linux.prometheus-pihole-exporter:
   description: Prometheus exporter for PI-Hole's Raspberry PI ad blocker
   pname: pihole-exporter
-  version: 1.0.0
+  version: 1.0.1
 legacyPackages.x86_64-linux.prometheus-ping-exporter:
   description: Prometheus exporter for ICMP echo requests
   pname: ping-exporter
@@ -160729,7 +163069,7 @@ legacyPackages.x86_64-linux.python312Packages.auditok:
 legacyPackages.x86_64-linux.python312Packages.auditwheel:
   description: Auditing and relabeling cross-distribution Linux wheels
   pname: python3.12-auditwheel
-  version: 6.2.0
+  version: 6.3.0
 legacyPackages.x86_64-linux.python312Packages.augeas:
   description: Pure python bindings for augeas
   pname: python3.12-augeas
@@ -163617,7 +165957,7 @@ legacyPackages.x86_64-linux.python312Packages.cohere:
 legacyPackages.x86_64-linux.python312Packages.coiled:
   description: Python client for coiled.io dask clusters
   pname: python3.12-coiled
-  version: 1.86.0
+  version: 1.90.2
 legacyPackages.x86_64-linux.python312Packages.coincurve:
   description: Cross-platform bindings for libsecp256k1
   pname: python3.12-coincurve
@@ -164993,11 +167333,11 @@ legacyPackages.x86_64-linux.python312Packages.delorean:
 legacyPackages.x86_64-linux.python312Packages.deltachat:
   description: Python bindings for the Delta Chat Core library
   pname: python3.12-deltachat
-  version: 1.157.3
+  version: 1.158.0
 legacyPackages.x86_64-linux.python312Packages.deltachat-rpc-client:
   description: Python client for Delta Chat core JSON-RPC interface
   pname: python3.12-deltachat-rpc-client
-  version: 1.157.3
+  version: 1.158.0
 legacyPackages.x86_64-linux.python312Packages.deltachat2:
   description: Client library for Delta Chat core JSON-RPC interface
   pname: python3.12-deltachat2
@@ -167033,7 +169373,7 @@ legacyPackages.x86_64-linux.python312Packages.elevate:
 legacyPackages.x86_64-linux.python312Packages.elevenlabs:
   description: Official Python API for ElevenLabs Text to Speech
   pname: python3.12-elevenlabs
-  version: 1.54.0
+  version: 1.55.0
 legacyPackages.x86_64-linux.python312Packages.elgato:
   description: Python client for Elgato Key Lights
   pname: python3.12-elgato
@@ -167422,10 +169762,6 @@ legacyPackages.x86_64-linux.python312Packages.events:
   description: Bringing the elegance of C# EventHanlder to Python
   pname: python3.12-events
   version: "0.5"
-legacyPackages.x86_64-linux.python312Packages.evernote:
-  description: Evernote SDK for Python
-  pname: python3.12-evernote
-  version: 1.25.3
 legacyPackages.x86_64-linux.python312Packages.evohome-async:
   description: Python client for connecting to Honeywell's TCC RESTful API
   pname: python3.12-evohome-async
@@ -169002,10 +171338,6 @@ legacyPackages.x86_64-linux.python312Packages.geant4:
   description: Toolkit for the simulation of the passage of particles through matter
   pname: geant4
   version: 11.3.0
-legacyPackages.x86_64-linux.python312Packages.geeknote:
-  description: Work with Evernote from command line
-  pname: python3.12-geeknote
-  version: "2015-05-11"
 legacyPackages.x86_64-linux.python312Packages.gehomesdk:
   description: Python SDK for GE smart appliances
   pname: python3.12-gehomesdk
@@ -169681,7 +172013,7 @@ legacyPackages.x86_64-linux.python312Packages.google-cloud-spanner:
 legacyPackages.x86_64-linux.python312Packages.google-cloud-speech:
   description: Google Cloud Speech API client library
   pname: python3.12-google-cloud-speech
-  version: 2.31.0
+  version: 2.31.1
 legacyPackages.x86_64-linux.python312Packages.google-cloud-storage:
   description: Google Cloud Storage API client library
   pname: python3.12-google-cloud-storage
@@ -169745,7 +172077,7 @@ legacyPackages.x86_64-linux.python312Packages.google-crc32c:
 legacyPackages.x86_64-linux.python312Packages.google-genai:
   description: Google Generative AI Python SDK
   pname: python3.12-google-genai
-  version: 1.6.0
+  version: 1.8.0
 legacyPackages.x86_64-linux.python312Packages.google-generativeai:
   description: Python client library for Google's large language model PaLM API
   pname: python3.12-google-generativeai
@@ -169957,7 +172289,7 @@ legacyPackages.x86_64-linux.python312Packages.grandalf:
 legacyPackages.x86_64-linux.python312Packages.graph-tool:
   description: Python module for manipulation and statistical analysis of graphs
   pname: python3.12-graph-tool
-  version: "2.91"
+  version: "2.92"
 legacyPackages.x86_64-linux.python312Packages.grapheme:
   description: Python package for grapheme aware string handling
   pname: python3.12-grapheme
@@ -170293,7 +172625,7 @@ legacyPackages.x86_64-linux.python312Packages.h2:
 legacyPackages.x86_64-linux.python312Packages.h3:
   description: Hierarchical hexagonal geospatial indexing system
   pname: python3.12-h3
-  version: 4.2.1
+  version: 4.2.2
 legacyPackages.x86_64-linux.python312Packages.h5io:
   description: Read and write simple Python objects using HDF5
   pname: python3.12-h5io
@@ -170349,7 +172681,7 @@ legacyPackages.x86_64-linux.python312Packages.hacking:
 legacyPackages.x86_64-linux.python312Packages.hahomematic:
   description: Python module to interact with HomeMatic devices
   pname: python3.12-hahomematic
-  version: 2025.2.5
+  version: 2025.3.0
 legacyPackages.x86_64-linux.python312Packages.hakuin:
   description: Blind SQL Injection optimization and automation framework
   pname: python3.12-hakuin
@@ -171149,7 +173481,7 @@ legacyPackages.x86_64-linux.python312Packages.ibm-watson:
 legacyPackages.x86_64-linux.python312Packages.ical:
   description: Library for handling iCalendar
   pname: python3.12-ical
-  version: 9.0.1
+  version: 9.0.2
 legacyPackages.x86_64-linux.python312Packages.icalendar:
   description: Parser/generator of iCalendar files
   pname: python3.12-icalendar
@@ -172873,7 +175205,7 @@ legacyPackages.x86_64-linux.python312Packages.khanaa:
 legacyPackages.x86_64-linux.python312Packages.kicad:
   description: Just the built source without the libraries
   pname: kicad-base
-  version: 9.0.0
+  version: 9.0.1
 legacyPackages.x86_64-linux.python312Packages.kinparse:
   description: Parser for KiCad EESCHEMA netlists
   pname: python3.12-kinparse-unstable
@@ -173805,7 +176137,7 @@ legacyPackages.x86_64-linux.python312Packages.litellm:
 legacyPackages.x86_64-linux.python312Packages.litemapy:
   description: Python library to read and edit Litematica's schematic file format
   pname: python3.12-litemapy
-  version: 0.7.2b0
+  version: 0.10.0b0
 legacyPackages.x86_64-linux.python312Packages.litestar:
   description: Production-ready, Light, Flexible and Extensible ASGI API framework
   pname: python3.12-litestar
@@ -175558,10 +177890,6 @@ legacyPackages.x86_64-linux.python312Packages.moderngl-window:
   description: Cross platform helper library for ModernGL making window creation and resource loading simple
   pname: python3.12-moderngl-window
   version: 3.1.1
-legacyPackages.x86_64-linux.python312Packages.modestmaps:
-  description: Library for building interactive maps
-  pname: python3.12-modestmaps
-  version: 1.4.7
 legacyPackages.x86_64-linux.python312Packages.mohawk:
   description: Python library for Hawk HTTP authorization
   pname: python3.12-mohawk
@@ -177965,7 +180293,7 @@ legacyPackages.x86_64-linux.python312Packages.nh3:
 legacyPackages.x86_64-linux.python312Packages.nhc:
   description: SDK for Niko Home Control
   pname: python3.12-nhc
-  version: 0.4.10
+  version: 0.4.11
 legacyPackages.x86_64-linux.python312Packages.niaaml:
   description: Python automated machine learning framework
   pname: python3.12-niaaml
@@ -178057,7 +180385,7 @@ legacyPackages.x86_64-linux.python312Packages.nipy:
 legacyPackages.x86_64-linux.python312Packages.nipype:
   description: 'Neuroimaging in Python: Pipelines and Interfaces'
   pname: python3.12-nipype
-  version: 1.9.2
+  version: 1.10.0
 legacyPackages.x86_64-linux.python312Packages.nitime:
   description: Algorithms and containers for time-series analysis in time and spectral domains
   pname: python3.12-nitime
@@ -180831,7 +183159,7 @@ legacyPackages.x86_64-linux.python312Packages.primer3:
   pname: python3.12-primer3
   version: 2.1.0
 legacyPackages.x86_64-linux.python312Packages.primp:
-  description: PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers.
+  description: Python Requests IMPersonate, the fastest Python HTTP client that can impersonate web browsers
   pname: python3.12-primp
   version: 0.14.0
 legacyPackages.x86_64-linux.python312Packages.print-color:
@@ -181878,10 +184206,6 @@ legacyPackages.x86_64-linux.python312Packages.pychannels:
   description: Python library for interacting with the Channels app
   pname: python3.12-pychannels
   version: 1.2.3
-legacyPackages.x86_64-linux.python312Packages.pychart:
-  description: Library for creating high quality encapsulated Postscript, PDF, PNG, or SVG charts
-  pname: python3.12-pychart
-  version: "1.39"
 legacyPackages.x86_64-linux.python312Packages.pychm:
   description: Library to manipulate Microsoft HTML Help (CHM) files
   pname: python3.12-pychm
@@ -182685,7 +185009,7 @@ legacyPackages.x86_64-linux.python312Packages.pygmt:
 legacyPackages.x86_64-linux.python312Packages.pygnmi:
   description: Pure Python gNMI client to manage network functions and collect telemetry
   pname: python3.12-pygnmi
-  version: 0.8.14
+  version: 0.8.15
 legacyPackages.x86_64-linux.python312Packages.pygobject-stubs:
   description: PEP 561 Typing Stubs for PyGObject
   pname: python3.12-pygobject-stubs
@@ -186282,10 +188606,6 @@ legacyPackages.x86_64-linux.python312Packages.python-whois:
   description: Python module to produce parsed WHOIS data
   pname: python3.12-python-whois
   version: 0.9.5
-legacyPackages.x86_64-linux.python312Packages.python-wifi:
-  description: Read & write wireless card capabilities using the Linux Wireless Extensions
-  pname: python3.12-python-wifi
-  version: 0.6.1
 legacyPackages.x86_64-linux.python312Packages.python-wink:
   description: Python implementation of the Wink API
   pname: python3.12-python-wink
@@ -190993,7 +193313,7 @@ legacyPackages.x86_64-linux.python312Packages.streamlabswater:
 legacyPackages.x86_64-linux.python312Packages.streamlit:
   description: Fastest way to build custom ML tools
   pname: python3.12-streamlit
-  version: 1.42.2
+  version: 1.43.2
 legacyPackages.x86_64-linux.python312Packages.streamz:
   description: Pipelines to manage continuous streams of data
   pname: python3.12-streamz
@@ -191833,7 +194153,7 @@ legacyPackages.x86_64-linux.python312Packages.textile:
 legacyPackages.x86_64-linux.python312Packages.textnets:
   description: Text analysis with networks
   pname: python3.12-textnets
-  version: 0.9.5
+  version: 0.10.3
 legacyPackages.x86_64-linux.python312Packages.textparser:
   description: Text parser
   pname: python3.12-textparser
@@ -192026,10 +194346,6 @@ legacyPackages.x86_64-linux.python312Packages.tiler:
   description: N-dimensional NumPy array tiling and merging with overlapping, padding and tapering
   pname: python3.12-tiler
   version: 0.5.7
-legacyPackages.x86_64-linux.python312Packages.tilestache:
-  description: Tile server for rendered geographic data
-  pname: python3.12-tilestache
-  version: 1.51.14
 legacyPackages.x86_64-linux.python312Packages.tilt-ble:
   description: Library for Tilt BLE devices
   pname: python3.12-tilt-ble
@@ -192689,7 +195005,7 @@ legacyPackages.x86_64-linux.python312Packages.tsfresh:
 legacyPackages.x86_64-linux.python312Packages.tsid:
   description: Efficient Task Space Inverse Dynamics (TSID) based on Pinocchio
   pname: tsid
-  version: 1.7.1
+  version: 1.8.0
 legacyPackages.x86_64-linux.python312Packages.tskit:
   description: Tree sequence toolkit
   pname: python3.12-tskit
@@ -199205,7 +201521,7 @@ legacyPackages.x86_64-linux.python313Packages.auditok:
 legacyPackages.x86_64-linux.python313Packages.auditwheel:
   description: Auditing and relabeling cross-distribution Linux wheels
   pname: python3.13-auditwheel
-  version: 6.2.0
+  version: 6.3.0
 legacyPackages.x86_64-linux.python313Packages.augeas:
   description: Pure python bindings for augeas
   pname: python3.13-augeas
@@ -202093,7 +204409,7 @@ legacyPackages.x86_64-linux.python313Packages.cohere:
 legacyPackages.x86_64-linux.python313Packages.coiled:
   description: Python client for coiled.io dask clusters
   pname: python3.13-coiled
-  version: 1.86.0
+  version: 1.90.2
 legacyPackages.x86_64-linux.python313Packages.coincurve:
   description: Cross-platform bindings for libsecp256k1
   pname: python3.13-coincurve
@@ -203469,11 +205785,11 @@ legacyPackages.x86_64-linux.python313Packages.delorean:
 legacyPackages.x86_64-linux.python313Packages.deltachat:
   description: Python bindings for the Delta Chat Core library
   pname: python3.13-deltachat
-  version: 1.157.3
+  version: 1.158.0
 legacyPackages.x86_64-linux.python313Packages.deltachat-rpc-client:
   description: Python client for Delta Chat core JSON-RPC interface
   pname: python3.13-deltachat-rpc-client
-  version: 1.157.3
+  version: 1.158.0
 legacyPackages.x86_64-linux.python313Packages.deltachat2:
   description: Client library for Delta Chat core JSON-RPC interface
   pname: python3.13-deltachat2
@@ -205509,7 +207825,7 @@ legacyPackages.x86_64-linux.python313Packages.elevate:
 legacyPackages.x86_64-linux.python313Packages.elevenlabs:
   description: Official Python API for ElevenLabs Text to Speech
   pname: python3.13-elevenlabs
-  version: 1.54.0
+  version: 1.55.0
 legacyPackages.x86_64-linux.python313Packages.elgato:
   description: Python client for Elgato Key Lights
   pname: python3.13-elgato
@@ -205898,10 +208214,6 @@ legacyPackages.x86_64-linux.python313Packages.events:
   description: Bringing the elegance of C# EventHanlder to Python
   pname: python3.13-events
   version: "0.5"
-legacyPackages.x86_64-linux.python313Packages.evernote:
-  description: Evernote SDK for Python
-  pname: python3.13-evernote
-  version: 1.25.3
 legacyPackages.x86_64-linux.python313Packages.evohome-async:
   description: Python client for connecting to Honeywell's TCC RESTful API
   pname: python3.13-evohome-async
@@ -207478,10 +209790,6 @@ legacyPackages.x86_64-linux.python313Packages.geant4:
   description: Toolkit for the simulation of the passage of particles through matter
   pname: geant4
   version: 11.3.0
-legacyPackages.x86_64-linux.python313Packages.geeknote:
-  description: Work with Evernote from command line
-  pname: python3.13-geeknote
-  version: "2015-05-11"
 legacyPackages.x86_64-linux.python313Packages.gehomesdk:
   description: Python SDK for GE smart appliances
   pname: python3.13-gehomesdk
@@ -208157,7 +210465,7 @@ legacyPackages.x86_64-linux.python313Packages.google-cloud-spanner:
 legacyPackages.x86_64-linux.python313Packages.google-cloud-speech:
   description: Google Cloud Speech API client library
   pname: python3.13-google-cloud-speech
-  version: 2.31.0
+  version: 2.31.1
 legacyPackages.x86_64-linux.python313Packages.google-cloud-storage:
   description: Google Cloud Storage API client library
   pname: python3.13-google-cloud-storage
@@ -208221,7 +210529,7 @@ legacyPackages.x86_64-linux.python313Packages.google-crc32c:
 legacyPackages.x86_64-linux.python313Packages.google-genai:
   description: Google Generative AI Python SDK
   pname: python3.13-google-genai
-  version: 1.6.0
+  version: 1.8.0
 legacyPackages.x86_64-linux.python313Packages.google-generativeai:
   description: Python client library for Google's large language model PaLM API
   pname: python3.13-google-generativeai
@@ -208433,7 +210741,7 @@ legacyPackages.x86_64-linux.python313Packages.grandalf:
 legacyPackages.x86_64-linux.python313Packages.graph-tool:
   description: Python module for manipulation and statistical analysis of graphs
   pname: python3.13-graph-tool
-  version: "2.91"
+  version: "2.92"
 legacyPackages.x86_64-linux.python313Packages.grapheme:
   description: Python package for grapheme aware string handling
   pname: python3.13-grapheme
@@ -208769,7 +211077,7 @@ legacyPackages.x86_64-linux.python313Packages.h2:
 legacyPackages.x86_64-linux.python313Packages.h3:
   description: Hierarchical hexagonal geospatial indexing system
   pname: python3.13-h3
-  version: 4.2.1
+  version: 4.2.2
 legacyPackages.x86_64-linux.python313Packages.h5io:
   description: Read and write simple Python objects using HDF5
   pname: python3.13-h5io
@@ -208825,7 +211133,7 @@ legacyPackages.x86_64-linux.python313Packages.hacking:
 legacyPackages.x86_64-linux.python313Packages.hahomematic:
   description: Python module to interact with HomeMatic devices
   pname: python3.13-hahomematic
-  version: 2025.2.5
+  version: 2025.3.0
 legacyPackages.x86_64-linux.python313Packages.hakuin:
   description: Blind SQL Injection optimization and automation framework
   pname: python3.13-hakuin
@@ -209625,7 +211933,7 @@ legacyPackages.x86_64-linux.python313Packages.ibm-watson:
 legacyPackages.x86_64-linux.python313Packages.ical:
   description: Library for handling iCalendar
   pname: python3.13-ical
-  version: 9.0.1
+  version: 9.0.2
 legacyPackages.x86_64-linux.python313Packages.icalendar:
   description: Parser/generator of iCalendar files
   pname: python3.13-icalendar
@@ -211349,7 +213657,7 @@ legacyPackages.x86_64-linux.python313Packages.khanaa:
 legacyPackages.x86_64-linux.python313Packages.kicad:
   description: Just the built source without the libraries
   pname: kicad-base
-  version: 9.0.0
+  version: 9.0.1
 legacyPackages.x86_64-linux.python313Packages.kinparse:
   description: Parser for KiCad EESCHEMA netlists
   pname: python3.13-kinparse-unstable
@@ -212281,7 +214589,7 @@ legacyPackages.x86_64-linux.python313Packages.litellm:
 legacyPackages.x86_64-linux.python313Packages.litemapy:
   description: Python library to read and edit Litematica's schematic file format
   pname: python3.13-litemapy
-  version: 0.7.2b0
+  version: 0.10.0b0
 legacyPackages.x86_64-linux.python313Packages.litestar:
   description: Production-ready, Light, Flexible and Extensible ASGI API framework
   pname: python3.13-litestar
@@ -214034,10 +216342,6 @@ legacyPackages.x86_64-linux.python313Packages.moderngl-window:
   description: Cross platform helper library for ModernGL making window creation and resource loading simple
   pname: python3.13-moderngl-window
   version: 3.1.1
-legacyPackages.x86_64-linux.python313Packages.modestmaps:
-  description: Library for building interactive maps
-  pname: python3.13-modestmaps
-  version: 1.4.7
 legacyPackages.x86_64-linux.python313Packages.mohawk:
   description: Python library for Hawk HTTP authorization
   pname: python3.13-mohawk
@@ -216441,7 +218745,7 @@ legacyPackages.x86_64-linux.python313Packages.nh3:
 legacyPackages.x86_64-linux.python313Packages.nhc:
   description: SDK for Niko Home Control
   pname: python3.13-nhc
-  version: 0.4.10
+  version: 0.4.11
 legacyPackages.x86_64-linux.python313Packages.niaaml:
   description: Python automated machine learning framework
   pname: python3.13-niaaml
@@ -216533,7 +218837,7 @@ legacyPackages.x86_64-linux.python313Packages.nipy:
 legacyPackages.x86_64-linux.python313Packages.nipype:
   description: 'Neuroimaging in Python: Pipelines and Interfaces'
   pname: python3.13-nipype
-  version: 1.9.2
+  version: 1.10.0
 legacyPackages.x86_64-linux.python313Packages.nitime:
   description: Algorithms and containers for time-series analysis in time and spectral domains
   pname: python3.13-nitime
@@ -219307,7 +221611,7 @@ legacyPackages.x86_64-linux.python313Packages.primer3:
   pname: python3.13-primer3
   version: 2.1.0
 legacyPackages.x86_64-linux.python313Packages.primp:
-  description: PRIMP (Python Requests IMPersonate). The fastest python HTTP client that can impersonate web browsers.
+  description: Python Requests IMPersonate, the fastest Python HTTP client that can impersonate web browsers
   pname: python3.13-primp
   version: 0.14.0
 legacyPackages.x86_64-linux.python313Packages.print-color:
@@ -220354,10 +222658,6 @@ legacyPackages.x86_64-linux.python313Packages.pychannels:
   description: Python library for interacting with the Channels app
   pname: python3.13-pychannels
   version: 1.2.3
-legacyPackages.x86_64-linux.python313Packages.pychart:
-  description: Library for creating high quality encapsulated Postscript, PDF, PNG, or SVG charts
-  pname: python3.13-pychart
-  version: "1.39"
 legacyPackages.x86_64-linux.python313Packages.pychm:
   description: Library to manipulate Microsoft HTML Help (CHM) files
   pname: python3.13-pychm
@@ -221161,7 +223461,7 @@ legacyPackages.x86_64-linux.python313Packages.pygmt:
 legacyPackages.x86_64-linux.python313Packages.pygnmi:
   description: Pure Python gNMI client to manage network functions and collect telemetry
   pname: python3.13-pygnmi
-  version: 0.8.14
+  version: 0.8.15
 legacyPackages.x86_64-linux.python313Packages.pygobject-stubs:
   description: PEP 561 Typing Stubs for PyGObject
   pname: python3.13-pygobject-stubs
@@ -224758,10 +227058,6 @@ legacyPackages.x86_64-linux.python313Packages.python-whois:
   description: Python module to produce parsed WHOIS data
   pname: python3.13-python-whois
   version: 0.9.5
-legacyPackages.x86_64-linux.python313Packages.python-wifi:
-  description: Read & write wireless card capabilities using the Linux Wireless Extensions
-  pname: python3.13-python-wifi
-  version: 0.6.1
 legacyPackages.x86_64-linux.python313Packages.python-wink:
   description: Python implementation of the Wink API
   pname: python3.13-python-wink
@@ -229493,7 +231789,7 @@ legacyPackages.x86_64-linux.python313Packages.streamlabswater:
 legacyPackages.x86_64-linux.python313Packages.streamlit:
   description: Fastest way to build custom ML tools
   pname: python3.13-streamlit
-  version: 1.42.2
+  version: 1.43.2
 legacyPackages.x86_64-linux.python313Packages.streamz:
   description: Pipelines to manage continuous streams of data
   pname: python3.13-streamz
@@ -230333,7 +232629,7 @@ legacyPackages.x86_64-linux.python313Packages.textile:
 legacyPackages.x86_64-linux.python313Packages.textnets:
   description: Text analysis with networks
   pname: python3.13-textnets
-  version: 0.9.5
+  version: 0.10.3
 legacyPackages.x86_64-linux.python313Packages.textparser:
   description: Text parser
   pname: python3.13-textparser
@@ -230526,10 +232822,6 @@ legacyPackages.x86_64-linux.python313Packages.tiler:
   description: N-dimensional NumPy array tiling and merging with overlapping, padding and tapering
   pname: python3.13-tiler
   version: 0.5.7
-legacyPackages.x86_64-linux.python313Packages.tilestache:
-  description: Tile server for rendered geographic data
-  pname: python3.13-tilestache
-  version: 1.51.14
 legacyPackages.x86_64-linux.python313Packages.tilt-ble:
   description: Library for Tilt BLE devices
   pname: python3.13-tilt-ble
@@ -231189,7 +233481,7 @@ legacyPackages.x86_64-linux.python313Packages.tsfresh:
 legacyPackages.x86_64-linux.python313Packages.tsid:
   description: Efficient Task Space Inverse Dynamics (TSID) based on Pinocchio
   pname: tsid
-  version: 1.7.1
+  version: 1.8.0
 legacyPackages.x86_64-linux.python313Packages.tskit:
   description: Tree sequence toolkit
   pname: python3.13-tskit
@@ -235541,7 +237833,7 @@ legacyPackages.x86_64-linux.pywal:
 legacyPackages.x86_64-linux.pywal16:
   description: 16 colors fork of pywal
   pname: pywal16
-  version: 3.8.3
+  version: 3.8.4
 legacyPackages.x86_64-linux.pywalfox-native:
   description: Native app used alongside the Pywalfox addon
   pname: pywalfox-native
@@ -238545,7 +240837,7 @@ legacyPackages.x86_64-linux.renode-dts2repl:
 legacyPackages.x86_64-linux.renode-unstable:
   description: Virtual development framework for complex embedded systems
   pname: renode-unstable
-  version: 1.15.3+20250227git5f21d12f9
+  version: 1.15.3+20250314git5b219d820
 legacyPackages.x86_64-linux.renoise:
   description: Modern tracker-based DAW
   pname: renoise
@@ -239281,7 +241573,7 @@ legacyPackages.x86_64-linux.rkdeveloptool-pine64:
 legacyPackages.x86_64-linux.rke:
   description: Extremely simple, lightning fast Kubernetes distribution that runs entirely within containers
   pname: rke
-  version: 1.7.3
+  version: 1.8.0
 legacyPackages.x86_64-linux.rke2:
   description: RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution
   pname: rke2
@@ -240489,7 +242781,7 @@ legacyPackages.x86_64-linux.rocqPackages.stdlib:
 legacyPackages.x86_64-linux.roddhjav-apparmor-rules:
   description: Over 1500 AppArmor profiles aiming to confine most linux processes
   pname: roddhjav-apparmor-rules
-  version: 0-unstable-2025-03-14
+  version: 0-unstable-2025-03-28
 legacyPackages.x86_64-linux.rofi:
   description: Window switcher, run dialog and dmenu replacement
   pname: rofi
@@ -240653,7 +242945,7 @@ legacyPackages.x86_64-linux.roon-tui:
 legacyPackages.x86_64-linux.root:
   description: Data analysis framework
   pname: root
-  version: 6.34.04
+  version: 6.34.06
 legacyPackages.x86_64-linux.root5:
   description: Data analysis framework
   pname: root
@@ -269173,7 +271465,7 @@ legacyPackages.x86_64-linux.sbt-with-scala-native:
 legacyPackages.x86_64-linux.sby:
   description: SymbiYosys, a front-end for Yosys-based formal verification flows
   pname: sby
-  version: "0.50"
+  version: "0.51"
 legacyPackages.x86_64-linux.sc:
   description: Curses-based spreadsheet calculator.
   pname: sc
@@ -269393,7 +271685,7 @@ legacyPackages.x86_64-linux.schemes:
 legacyPackages.x86_64-linux.schismtracker:
   description: Music tracker application, free reimplementation of Impulse Tracker
   pname: schismtracker
-  version: "20250208"
+  version: "20250313"
 legacyPackages.x86_64-linux.schleuder:
   description: Schleuder is an encrypting mailing list manager with remailing-capabilities
   pname: schleuder
@@ -270237,7 +272529,7 @@ legacyPackages.x86_64-linux.serviio:
 legacyPackages.x86_64-linux.servo:
   description: The embeddable, independent, memory-safe, modular, parallel web rendering engine
   pname: servo
-  version: 0-unstable-2025-03-18
+  version: 0-unstable-2025-03-29
 legacyPackages.x86_64-linux.sesh:
   description: Smart session manager for the terminal
   pname: sesh
@@ -270901,11 +273193,11 @@ legacyPackages.x86_64-linux.sierra-gtk-theme:
 legacyPackages.x86_64-linux.siesta:
   description: First-principles materials simulation code using DFT
   pname: siesta
-  version: 4.1.5
+  version: 5.2.2
 legacyPackages.x86_64-linux.siesta-mpi:
   description: First-principles materials simulation code using DFT
   pname: siesta
-  version: 4.1.5
+  version: 5.2.2
 legacyPackages.x86_64-linux.sieve-connect:
   description: Client for the MANAGESIEVE Protocol
   pname: sieve-connect
@@ -271993,7 +274285,7 @@ legacyPackages.x86_64-linux.snake4:
 legacyPackages.x86_64-linux.snakefmt:
   description: Uncompromising Snakemake code formatter
   pname: snakefmt
-  version: 0.10.2
+  version: 0.11.0
 legacyPackages.x86_64-linux.snakemake:
   description: Python-based execution environment for make-like workflows
   pname: snakemake
@@ -273993,7 +276285,7 @@ legacyPackages.x86_64-linux.ssmsh:
 legacyPackages.x86_64-linux.ssocr:
   description: Seven Segment Optical Character Recognition
   pname: ssocr
-  version: 2.24.1
+  version: 2.25.0
 legacyPackages.x86_64-linux.ssrc:
   description: High quality audio sampling rate converter
   pname: ssrc
@@ -274193,7 +276485,7 @@ legacyPackages.x86_64-linux.stargazer:
 legacyPackages.x86_64-linux.starlark:
   description: Interpreter for Starlark, implemented in Go
   pname: starlark
-  version: 0-unstable-2025-02-25
+  version: 0-unstable-2025-03-18
 legacyPackages.x86_64-linux.starlark-rust:
   description: Rust implementation of the Starlark language
   pname: starlark-rust
@@ -274421,7 +276713,7 @@ legacyPackages.x86_64-linux.steck:
 legacyPackages.x86_64-linux.steel:
   description: Embedded scheme interpreter in Rust
   pname: steel
-  version: 0.6.0-unstable-2025-03-17
+  version: 0.6.0-unstable-2025-03-28
 legacyPackages.x86_64-linux.steghide:
   description: Open source steganography program
   pname: steghide
@@ -274681,7 +276973,7 @@ legacyPackages.x86_64-linux.streamlink-twitch-gui-bin:
 legacyPackages.x86_64-linux.streamlit:
   description: Fastest way to build custom ML tools
   pname: streamlit
-  version: 1.42.2
+  version: 1.43.2
 legacyPackages.x86_64-linux.streamrip:
   description: Scriptable music downloader for Qobuz, Tidal, SoundCloud, and Deezer
   pname: streamrip
@@ -274726,6 +277018,10 @@ legacyPackages.x86_64-linux.string-view-lite:
   description: A C++17-like string_view for C++98, C++11 and later in a single-file header-only library
   pname: string-view-lite
   version: 1.8.0
+legacyPackages.x86_64-linux.strip-ansi:
+  description: Strip ANSI escape sequences from text
+  pname: strip-ansi
+  version: 0.1.0-unstable-2024-09-01
 legacyPackages.x86_64-linux.strip-nondeterminism:
   description: Perl module for stripping bits of non-deterministic information
   pname: perl5.40.0-strip-nondeterminism
@@ -275917,7 +278213,7 @@ legacyPackages.x86_64-linux.sylpheed:
 legacyPackages.x86_64-linux.symbiyosys:
   description: SymbiYosys, a front-end for Yosys-based formal verification flows
   pname: sby
-  version: "0.50"
+  version: "0.51"
 legacyPackages.x86_64-linux.symbola:
   description: Basic Latin, Greek, Cyrillic and many Symbol blocks of Unicode
   pname: symbola
@@ -275993,7 +278289,7 @@ legacyPackages.x86_64-linux.synapse-bt:
 legacyPackages.x86_64-linux.sync:
   description: Backup and synchronization service
   pname: taler-sync
-  version: 0.14.1
+  version: 0.14.2-unstable-2025-03-02
 legacyPackages.x86_64-linux.syncall:
   description: Bi-directional synchronization between services such as Taskwarrior, Google Calendar, Notion, Asana, and more
   pname: syncall
@@ -276513,7 +278809,7 @@ legacyPackages.x86_64-linux.talentedhack:
 legacyPackages.x86_64-linux.taler-challenger:
   description: OAuth 2.0-based authentication service that validates user can receive messages at a certain address
   pname: taler-challenger
-  version: 0.14.1
+  version: 0.14.3-unstable-2025-02-17
 legacyPackages.x86_64-linux.taler-depolymerization:
   description: Wire gateway for Bitcoin/Ethereum
   pname: taler-depolymerization
@@ -276521,15 +278817,15 @@ legacyPackages.x86_64-linux.taler-depolymerization:
 legacyPackages.x86_64-linux.taler-exchange:
   description: Exchange component for the GNU Taler electronic payment system
   pname: taler-exchange
-  version: 0.14.1
+  version: 0.14.6-unstable-2025-03-02
 legacyPackages.x86_64-linux.taler-merchant:
   description: Merchant component for the GNU Taler electronic payment system
   pname: taler-merchant
-  version: 0.14.1
+  version: 0.14.6-unstable-2025-03-02
 legacyPackages.x86_64-linux.taler-sync:
   description: Backup and synchronization service
   pname: taler-sync
-  version: 0.14.1
+  version: 0.14.2-unstable-2025-03-02
 legacyPackages.x86_64-linux.taler-wallet-core:
   description: CLI wallet for GNU Taler written in TypeScript and Anastasis Web UI
   pname: taler-wallet-core
@@ -277329,7 +279625,7 @@ legacyPackages.x86_64-linux.telepathy-mission-control:
 legacyPackages.x86_64-linux.teleport:
   description: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
   pname: teleport
-  version: 17.4.0
+  version: 17.4.1
 legacyPackages.x86_64-linux.teleport_15:
   description: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
   pname: teleport
@@ -277337,11 +279633,11 @@ legacyPackages.x86_64-linux.teleport_15:
 legacyPackages.x86_64-linux.teleport_16:
   description: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
   pname: teleport
-  version: 16.4.18
+  version: 16.5.0
 legacyPackages.x86_64-linux.teleport_17:
   description: Certificate authority and access plane for SSH, Kubernetes, web applications, and databases
   pname: teleport
-  version: 17.4.0
+  version: 17.4.1
 legacyPackages.x86_64-linux.telepresence:
   description: Local development against a remote Kubernetes or OpenShift cluster
   pname: python3.12-telepresence
@@ -278509,7 +280805,7 @@ legacyPackages.x86_64-linux.tetgen_1_4:
 legacyPackages.x86_64-linux.tetragon:
   description: Real-time, eBPF-based Security Observability and Runtime Enforcement tool
   pname: tetragon
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.tetraproc:
   description: Converts the A-format signals from a tetrahedral Ambisonic microphone into B-format signals ready for recording
   pname: tetraproc
@@ -297301,7 +299597,7 @@ legacyPackages.x86_64-linux.thedesk:
 legacyPackages.x86_64-linux.theforceengine:
   description: Modern "Jedi Engine" replacement supporting Dark Forces, mods, and in the future, Outlaws
   pname: theforceengine
-  version: 1.15.000
+  version: 1.22.200
 legacyPackages.x86_64-linux.theft:
   description: C library for property-based testing
   pname: theft
@@ -298613,7 +300909,7 @@ legacyPackages.x86_64-linux.topydo:
 legacyPackages.x86_64-linux.tor:
   description: Anonymizing overlay network
   pname: tor
-  version: 0.4.8.14
+  version: 0.4.8.16
 legacyPackages.x86_64-linux.tor-browser:
   description: Privacy-focused browser routing traffic through the Tor network
   pname: tor-browser
@@ -300009,7 +302305,7 @@ legacyPackages.x86_64-linux.ts-warp:
 legacyPackages.x86_64-linux.ts_query_ls:
   description: LSP implementation for Tree-sitter's query files
   pname: ts_query_ls
-  version: 1.9.0
+  version: 1.10.0
 legacyPackages.x86_64-linux.tsduck:
   description: MPEG Transport Stream Toolkit
   pname: tsduck
@@ -300021,7 +302317,7 @@ legacyPackages.x86_64-linux.tshark:
 legacyPackages.x86_64-linux.tsid:
   description: Efficient Task Space Inverse Dynamics (TSID) based on Pinocchio
   pname: tsid
-  version: 1.7.1
+  version: 1.8.0
 legacyPackages.x86_64-linux.tslib:
   description: Touchscreen access library
   pname: tslib
@@ -300565,7 +302861,7 @@ legacyPackages.x86_64-linux.txt2tags:
 legacyPackages.x86_64-linux.txtpbfmt:
   description: Formatter for text proto files
   pname: txtpbfmt
-  version: 0-unstable-2025-03-17
+  version: 0-unstable-2025-03-26
 legacyPackages.x86_64-linux.txtw:
   description: Compute text widths
   pname: txtw
@@ -302945,7 +305241,7 @@ legacyPackages.x86_64-linux.varnish75:
 legacyPackages.x86_64-linux.varnish76:
   description: Web application accelerator also known as a caching HTTP reverse proxy
   pname: varnish
-  version: 7.6.1
+  version: 7.6.2
 legacyPackages.x86_64-linux.varscan:
   description: Variant calling and somatic mutation/CNV detection for next-generation sequencing data
   pname: varscan
@@ -303173,7 +305469,7 @@ legacyPackages.x86_64-linux.vdrPlugins.skincurses:
 legacyPackages.x86_64-linux.vdrPlugins.softhddevice:
   description: VDR SoftHDDevice Plug-in
   pname: vdr-softhddevice
-  version: 2.4.4
+  version: 2.4.5
 legacyPackages.x86_64-linux.vdrPlugins.streamdev:
   description: This PlugIn is a VDR implementation of the VTP (Video Transfer Protocol) Version 0.0.3 (see file PROTOCOL) and a basic HTTP Streaming Protocol
   pname: vdr-streamdev
@@ -303237,7 +305533,7 @@ legacyPackages.x86_64-linux.velero:
 legacyPackages.x86_64-linux.velocity:
   description: Modern, next-generation Minecraft server proxy
   pname: velocity
-  version: 3.4.0-unstable-2025-02-28
+  version: 3.4.0-unstable-2025-03-27
 legacyPackages.x86_64-linux.veloren:
   description: An open world, open source voxel RPG
   pname: veloren
@@ -306349,11 +308645,11 @@ legacyPackages.x86_64-linux.vimPlugins.lz-n:
 legacyPackages.x86_64-linux.vimPlugins.lze:
   description: A lazy-loading library for neovim, inspired by, but different from, nvim-neorocks/lz.n
   pname: vimplugin-luajit2.1-lze
-  version: 0.10.0-1-unstable-0.10.0-1
+  version: 0.11.0-1-unstable-0.11.0-1
 legacyPackages.x86_64-linux.vimPlugins.lzextras:
   description: A collection of utilities and handlers for BirdeeHub/lze
   pname: vimplugin-luajit2.1-lzextras
-  version: 0.2.5-1-unstable-0.2.5-1
+  version: 0.3.0-1-unstable-0.3.0-1
 legacyPackages.x86_64-linux.vimPlugins.lzn-auto-require:
   description: Auto load optional plugins via lua modules with lz.n
   pname: vimplugin-luajit2.1-lzn-auto-require
@@ -309109,7 +311405,7 @@ legacyPackages.x86_64-linux.vimPlugins.phha-zenburn:
 legacyPackages.x86_64-linux.vimPlugins.phpactor:
   description: Mainly a PHP Language Server
   pname: vimplugin-phpactor
-  version: 2025.02.21.0
+  version: 2025.03.28.0
 legacyPackages.x86_64-linux.vimPlugins.pig-vim:
   description: ""
   pname: vimplugin-pig.vim
@@ -312989,7 +315285,7 @@ legacyPackages.x86_64-linux.vscode-extensions.alygin.vscode-tlaplus:
 legacyPackages.x86_64-linux.vscode-extensions.angular.ng-template:
   description: Editor services for Angular templates
   pname: vscode-extension-Angular-ng-template
-  version: 19.2.1
+  version: 19.2.2
 legacyPackages.x86_64-linux.vscode-extensions.antfu.icons-carbon:
   description: ""
   pname: vscode-extension-antfu-icons-carbon
@@ -313073,7 +315369,7 @@ legacyPackages.x86_64-linux.vscode-extensions.batisteo.vscode-django:
 legacyPackages.x86_64-linux.vscode-extensions.bazelbuild.vscode-bazel:
   description: Bazel support for Visual Studio Code
   pname: vscode-extension-bazelbuild-vscode-bazel
-  version: 0.10.0
+  version: 0.11.0
 legacyPackages.x86_64-linux.vscode-extensions.bbenoist.nix:
   description: ""
   pname: vscode-extension-bbenoist-Nix
@@ -313129,7 +315425,7 @@ legacyPackages.x86_64-linux.vscode-extensions.biomejs.biome:
 legacyPackages.x86_64-linux.vscode-extensions.bmalehorn.vscode-fish:
   description: Fish syntax highlighting and formatting for VS Code
   pname: vscode-extension-bmalehorn-vscode-fish
-  version: 1.0.38
+  version: 1.0.39
 legacyPackages.x86_64-linux.vscode-extensions.bmewburn.vscode-intelephense-client:
   description: PHP code intelligence for Visual Studio Code
   pname: vscode-extension-bmewburn-vscode-intelephense-client
@@ -313145,7 +315441,7 @@ legacyPackages.x86_64-linux.vscode-extensions.bradgashler.htmltagwrap:
 legacyPackages.x86_64-linux.vscode-extensions.bradlc.vscode-tailwindcss:
   description: Tailwind CSS tooling for Visual Studio Code
   pname: vscode-extension-bradlc-vscode-tailwindcss
-  version: 0.14.11
+  version: 0.14.12
 legacyPackages.x86_64-linux.vscode-extensions.brandonkirbyson.solarized-palenight:
   description: ' A solarized-palenight theme for vscode'
   pname: vscode-extension-BrandonKirbyson-solarized-palenight
@@ -313177,7 +315473,7 @@ legacyPackages.x86_64-linux.vscode-extensions.castwide.solargraph:
 legacyPackages.x86_64-linux.vscode-extensions.catppuccin.catppuccin-vsc:
   description: Soothing pastel theme for VSCode
   pname: vscode-extension-catppuccin-catppuccin-vsc
-  version: 3.16.1
+  version: 3.17.0
 legacyPackages.x86_64-linux.vscode-extensions.catppuccin.catppuccin-vsc-icons:
   description: Soothing pastel icon theme for VSCode
   pname: vscode-extension-catppuccin-catppuccin-vsc-icons
@@ -313321,7 +315617,7 @@ legacyPackages.x86_64-linux.vscode-extensions.devsense.phptools-vscode:
 legacyPackages.x86_64-linux.vscode-extensions.devsense.profiler-php-vscode:
   description: Visual studio code extension for PHP and XDebug profiling and inspecting
   pname: vscode-extension-devsense-profiler-php-vscode
-  version: 1.41.14332
+  version: 1.57.17031
 legacyPackages.x86_64-linux.vscode-extensions.dhall.dhall-lang:
   description: ""
   pname: vscode-extension-dhall-dhall-lang
@@ -313397,7 +315693,7 @@ legacyPackages.x86_64-linux.vscode-extensions.elixir-lsp.vscode-elixir-ls:
 legacyPackages.x86_64-linux.vscode-extensions.elmtooling.elm-ls-vscode:
   description: Elm language server
   pname: vscode-extension-Elmtooling-elm-ls-vscode
-  version: 2.6.0
+  version: 2.8.0
 legacyPackages.x86_64-linux.vscode-extensions.emmanuelbeziat.vscode-great-icons:
   description: ""
   pname: vscode-extension-emmanuelbeziat-vscode-great-icons
@@ -313425,7 +315721,7 @@ legacyPackages.x86_64-linux.vscode-extensions.eugleo.magic-racket:
 legacyPackages.x86_64-linux.vscode-extensions.fabiospampinato.vscode-open-in-github:
   description: VS Code extension to open the current project or file in github.com
   pname: vscode-extension-fabiospampinato-vscode-open-in-github
-  version: 2.3.0
+  version: 2.3.1
 legacyPackages.x86_64-linux.vscode-extensions.file-icons.file-icons:
   description: File-specific icons in VSCode for improved visual grepping
   pname: vscode-extension-file-icons-file-icons
@@ -313445,7 +315741,7 @@ legacyPackages.x86_64-linux.vscode-extensions.firsttris.vscode-jest-runner:
 legacyPackages.x86_64-linux.vscode-extensions.foam.foam-vscode:
   description: 'Personal knowledge management and sharing system for VSCode '
   pname: vscode-extension-foam-foam-vscode
-  version: 0.26.8
+  version: 0.26.10
 legacyPackages.x86_64-linux.vscode-extensions.formulahendry.auto-close-tag:
   description: ""
   pname: vscode-extension-formulahendry-auto-close-tag
@@ -313485,7 +315781,7 @@ legacyPackages.x86_64-linux.vscode-extensions.garlicbreadcleric.pandoc-markdown-
 legacyPackages.x86_64-linux.vscode-extensions.geequlim.godot-tools:
   description: VS Code extension for game development with Godot Engine and GDScript
   pname: vscode-extension-geequlim-godot-tools
-  version: 2.3.0
+  version: 2.5.1
 legacyPackages.x86_64-linux.vscode-extensions.gencer.html-slim-scss-css-class-completion:
   description: VSCode extension for SCSS
   pname: vscode-extension-gencer-html-slim-scss-css-class-completion
@@ -313493,7 +315789,7 @@ legacyPackages.x86_64-linux.vscode-extensions.gencer.html-slim-scss-css-class-co
 legacyPackages.x86_64-linux.vscode-extensions.genieai.chatgpt-vscode:
   description: Visual Studio Code extension to support ChatGPT, GPT-3 and Codex conversations
   pname: vscode-extension-genieai-chatgpt-vscode
-  version: 0.0.8
+  version: 0.0.13
 legacyPackages.x86_64-linux.vscode-extensions.github.codespaces:
   description: VSCode extensions that provides cloud-hosted development environments for any activity
   pname: vscode-extension-github-codespaces
@@ -313501,7 +315797,7 @@ legacyPackages.x86_64-linux.vscode-extensions.github.codespaces:
 legacyPackages.x86_64-linux.vscode-extensions.github.copilot:
   description: GitHub Copilot uses OpenAI Codex to suggest code and entire functions in real-time right from your editor
   pname: vscode-extension-github-copilot
-  version: 1.292.0
+  version: 1.293.0
 legacyPackages.x86_64-linux.vscode-extensions.github.copilot-chat:
   description: GitHub Copilot Chat is a companion extension to GitHub Copilot that houses experimental chat features
   pname: vscode-extension-github-copilot-chat
@@ -313525,7 +315821,7 @@ legacyPackages.x86_64-linux.vscode-extensions.gitlab.gitlab-workflow:
 legacyPackages.x86_64-linux.vscode-extensions.gleam.gleam:
   description: Support for the Gleam programming language
   pname: vscode-extension-gleam-gleam
-  version: 2.3.0
+  version: 2.11.1
 legacyPackages.x86_64-linux.vscode-extensions.golang.go:
   description: Go extension for Visual Studio Code
   pname: vscode-extension-golang-Go
@@ -313541,7 +315837,7 @@ legacyPackages.x86_64-linux.vscode-extensions.graphql.vscode-graphql:
 legacyPackages.x86_64-linux.vscode-extensions.graphql.vscode-graphql-syntax:
   description: Adds full GraphQL syntax highlighting and language support such as bracket matching
   pname: vscode-extension-GraphQL-vscode-graphql-syntax
-  version: 1.3.6
+  version: 1.3.8
 legacyPackages.x86_64-linux.vscode-extensions.griimick.vhs:
   description: Visual Studio Code extension providing syntax support for VHS .tape files
   pname: vscode-extension-griimick-vhs
@@ -313641,7 +315937,7 @@ legacyPackages.x86_64-linux.vscode-extensions.jackmacwindows.vscode-computercraf
 legacyPackages.x86_64-linux.vscode-extensions.james-yu.latex-workshop:
   description: LaTeX Workshop Extension
   pname: vscode-extension-James-Yu-latex-workshop
-  version: 10.8.0
+  version: 10.9.0
 legacyPackages.x86_64-linux.vscode-extensions.jamesyang999.vscode-emacs-minimum:
   description: Minimal emacs key bindings for VSCode
   pname: vscode-extension-jamesyang999-vscode-emacs-minimum
@@ -313829,7 +316125,7 @@ legacyPackages.x86_64-linux.vscode-extensions.mikestead.dotenv:
 legacyPackages.x86_64-linux.vscode-extensions.mishkinf.goto-next-previous-member:
   description: ""
   pname: vscode-extension-mishkinf-goto-next-previous-member
-  version: 0.0.6
+  version: 0.0.10
 legacyPackages.x86_64-linux.vscode-extensions.mkhl.direnv:
   description: direnv support for Visual Studio Code
   pname: vscode-extension-mkhl-direnv
@@ -313921,7 +316217,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ms-kubernetes-tools.vscode-kuberne
 legacyPackages.x86_64-linux.vscode-extensions.ms-pyright.pyright:
   description: VS Code static type checking for Python
   pname: vscode-extension-ms-pyright-pyright
-  version: 1.1.397
+  version: 1.1.398
 legacyPackages.x86_64-linux.vscode-extensions.ms-python.black-formatter:
   description: Formatter extension for Visual Studio Code using black
   pname: vscode-extension-ms-python-black-formatter
@@ -314001,7 +316297,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ms-vscode-remote.vscode-remote-ext
 legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.anycode:
   description: ""
   pname: vscode-extension-ms-vscode-anycode
-  version: 0.0.73
+  version: 0.0.74
 legacyPackages.x86_64-linux.vscode-extensions.ms-vscode.cmake-tools:
   description: ""
   pname: vscode-extension-ms-vscode-cmake-tools
@@ -314069,7 +316365,7 @@ legacyPackages.x86_64-linux.vscode-extensions.myriad-dreamin.tinymist:
 legacyPackages.x86_64-linux.vscode-extensions.naumovs.color-highlight:
   description: Highlight web colors in your editor
   pname: vscode-extension-naumovs-color-highlight
-  version: 2.6.0
+  version: 2.8.0
 legacyPackages.x86_64-linux.vscode-extensions.naumovs.theme-oceanicnext:
   description: Oceanic Next theme for VSCode + dimmed bg version for better looking UI
   pname: vscode-extension-naumovs-theme-oceanicnext
@@ -314233,7 +316529,7 @@ legacyPackages.x86_64-linux.vscode-extensions.sanaajani.taskrunnercode:
 legacyPackages.x86_64-linux.vscode-extensions.saoudrizwan.claude-dev:
   description: A VSCode extension providing an autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
   pname: vscode-extension-saoudrizwan-claude-dev
-  version: 3.8.3
+  version: 3.8.4
 legacyPackages.x86_64-linux.vscode-extensions.sas.sas-lsp:
   description: Official SAS Language Extension
   pname: vscode-extension-SAS-sas-lsp
@@ -314269,7 +316565,7 @@ legacyPackages.x86_64-linux.vscode-extensions.shd101wyy.markdown-preview-enhance
 legacyPackages.x86_64-linux.vscode-extensions.shopify.ruby-lsp:
   description: VS Code plugin for connecting with the Ruby LSP
   pname: vscode-extension-shopify-ruby-lsp
-  version: 0.9.12
+  version: 0.9.13
 legacyPackages.x86_64-linux.vscode-extensions.shyykoserhiy.vscode-spotify:
   description: ""
   pname: vscode-extension-shyykoserhiy-vscode-spotify
@@ -314341,7 +316637,7 @@ legacyPackages.x86_64-linux.vscode-extensions.styled-components.vscode-styled-co
 legacyPackages.x86_64-linux.vscode-extensions.stylelint.vscode-stylelint:
   description: Official Stylelint extension for Visual Studio Code
   pname: vscode-extension-stylelint-vscode-stylelint
-  version: 1.4.0
+  version: 1.5.0
 legacyPackages.x86_64-linux.vscode-extensions.sumneko.lua:
   description: Lua language server provides various language features for Lua to make development easier and faster
   pname: vscode-extension-sumneko-lua
@@ -314361,7 +316657,7 @@ legacyPackages.x86_64-linux.vscode-extensions.svsool.markdown-memo:
 legacyPackages.x86_64-linux.vscode-extensions.tabnine.tabnine-vscode:
   description: ""
   pname: vscode-extension-tabnine-tabnine-vscode
-  version: 3.247.0
+  version: 3.249.0
 legacyPackages.x86_64-linux.vscode-extensions.tailscale.vscode-tailscale:
   description: VSCode extension to share a port over the internet with Tailscale Funnel
   pname: vscode-extension-tailscale-vscode-tailscale
@@ -314497,7 +316793,7 @@ legacyPackages.x86_64-linux.vscode-extensions.visualstudioexptteam.vscodeintelli
 legacyPackages.x86_64-linux.vscode-extensions.visualstudiotoolsforunity.vstuc:
   description: Integrates Visual Studio Code for Unity
   pname: vscode-extension-VisualStudioToolsForUnity-vstuc
-  version: 1.1.0
+  version: 1.1.1
 legacyPackages.x86_64-linux.vscode-extensions.vitaliymaz.vscode-svg-previewer:
   description: Preview SVGs in VS Code
   pname: vscode-extension-vitaliymaz-vscode-svg-previewer
@@ -314537,7 +316833,7 @@ legacyPackages.x86_64-linux.vscode-extensions.vscjava.vscode-spring-initializr:
 legacyPackages.x86_64-linux.vscode-extensions.vscode-icons-team.vscode-icons:
   description: Bring real icons to your Visual Studio Code
   pname: vscode-extension-vscode-icons-team-vscode-icons
-  version: 12.11.0
+  version: 12.12.0
 legacyPackages.x86_64-linux.vscode-extensions.vscodevim.vim:
   description: ""
   pname: vscode-extension-vscodevim-vim
@@ -314641,7 +316937,7 @@ legacyPackages.x86_64-linux.vscode-extensions.zhwu95.riscv:
 legacyPackages.x86_64-linux.vscode-extensions.ziglang.vscode-zig:
   description: Zig support for Visual Studio Code
   pname: vscode-extension-ziglang-vscode-zig
-  version: 0.6.6
+  version: 0.6.7
 legacyPackages.x86_64-linux.vscode-extensions.zxh404.vscode-proto3:
   description: ""
   pname: vscode-extension-zxh404-vscode-proto3
@@ -315589,7 +317885,7 @@ legacyPackages.x86_64-linux.weaver:
 legacyPackages.x86_64-linux.weaviate:
   description: ML-first vector search engine
   pname: weaviate
-  version: 1.29.0
+  version: 1.29.1
 legacyPackages.x86_64-linux.web-archives:
   description: Web archives reader offering the ability to browse offline millions of articles
   pname: web-archives
@@ -315601,7 +317897,7 @@ legacyPackages.x86_64-linux.web-eid-app:
 legacyPackages.x86_64-linux.web-ext:
   description: Command line tool to help build, run, and test web extensions
   pname: web-ext
-  version: 8.4.0
+  version: 8.5.0
 legacyPackages.x86_64-linux.webalizer:
   description: Web server log file analysis program
   pname: webalizer
@@ -317517,7 +319813,7 @@ legacyPackages.x86_64-linux.xalanc:
 legacyPackages.x86_64-linux.xan:
   description: Command line tool to process CSV files directly from the shell
   pname: xan
-  version: 0.46.2
+  version: 0.48.0
 legacyPackages.x86_64-linux.xandikos:
   description: Lightweight CalDAV/CardDAV server
   pname: xandikos
@@ -321097,39 +323393,39 @@ legacyPackages.x86_64-linux.zabbix64.web:
 legacyPackages.x86_64-linux.zabbix70.agent:
   description: Enterprise-class open source distributed monitoring solution (client-side agent)
   pname: zabbix-agent
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.agent2:
   description: Enterprise-class open source distributed monitoring solution (client-side agent)
   pname: zabbix-agent2
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.proxy-mysql:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.proxy-pgsql:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.proxy-sqlite:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.server:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.server-mysql:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.server-pgsql:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbix70.web:
   description: Enterprise-class open source distributed monitoring solution (web frontend)
   pname: zabbix-web
-  version: 7.0.10
+  version: 7.0.11
 legacyPackages.x86_64-linux.zabbixctl:
   description: Most effective way for operating in Zabbix Server
   pname: zabbixctl-unstable
@@ -321281,7 +323577,7 @@ legacyPackages.x86_64-linux.zed:
 legacyPackages.x86_64-linux.zed-editor:
   description: High-performance, multiplayer code editor from the creators of Atom and Tree-sitter
   pname: zed-editor
-  version: 0.179.3
+  version: 0.179.4
 legacyPackages.x86_64-linux.zed-editor-fhs:
   description: 'Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: zeditor
@@ -321809,7 +324105,7 @@ legacyPackages.x86_64-linux.zod:
 legacyPackages.x86_64-linux.zoekt:
   description: Fast trigram based code search
   pname: zoekt
-  version: 3.7.2-2-unstable-2025-02-21
+  version: 3.7.2-2-unstable-2025-03-25
 legacyPackages.x86_64-linux.zola:
   description: Fast static site generator with everything built-in
   pname: zola
@@ -322221,7 +324517,7 @@ legacyPackages.x86_64-linux.zvm:
 legacyPackages.x86_64-linux.zwave-js-server:
   description: Small server wrapper around Z-Wave JS to access it via a WebSocket
   pname: zwave-js-server
-  version: 1.40.3
+  version: 3.0.0
 legacyPackages.x86_64-linux.zwave-js-ui:
   description: Full featured Z-Wave Control Panel and MQTT Gateway
   pname: zwave-js-ui
