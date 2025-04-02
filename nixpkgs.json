@@ -8967,7 +8967,7 @@
   "legacyPackages.x86_64-linux.arduino-create-agent": {
     "description": "Agent to upload code to any USB connected Arduino board directly from the browser",
     "pname": "arduino-create-agent",
-    "version": "1.6.1"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.arduino-ide": {
     "description": "Open-source electronics prototyping platform",
@@ -16350,9 +16350,9 @@
     "version": "1.2.12"
   },
   "legacyPackages.x86_64-linux.briar-desktop": {
-    "description": "Decentalized and secure messnger",
+    "description": "Decentralized and secure messenger",
     "pname": "briar-desktop",
-    "version": "0.6.0-beta"
+    "version": "0.6.3-beta"
   },
   "legacyPackages.x86_64-linux.brickd": {
     "description": "Daemon (or service on Windows) that acts as a bridge between the Bricks/Bricklets and the API bindings for the different programming languages",
@@ -19492,7 +19492,7 @@
   "legacyPackages.x86_64-linux.cdncheck": {
     "description": "Tool to detect various technology for a given IP address",
     "pname": "cdncheck",
-    "version": "1.1.11"
+    "version": "1.1.12"
   },
   "legacyPackages.x86_64-linux.cdo": {
     "description": "Collection of command line Operators to manipulate and analyse Climate and NWP model Data",
@@ -20287,7 +20287,7 @@
   "legacyPackages.x86_64-linux.checkov": {
     "description": "Static code analysis tool for infrastructure-as-code",
     "pname": "checkov",
-    "version": "3.2.393"
+    "version": "3.2.395"
   },
   "legacyPackages.x86_64-linux.checkpolicy": {
     "description": "SELinux policy compiler",
@@ -24322,7 +24322,7 @@
   "legacyPackages.x86_64-linux.claude-code": {
     "description": "An agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "0.2.54"
+    "version": "0.2.57"
   },
   "legacyPackages.x86_64-linux.claws": {
     "description": "Interactive command line client for testing websocket servers",
@@ -31327,7 +31327,7 @@
   "legacyPackages.x86_64-linux.dbvisualizer": {
     "description": "The universal database tool",
     "pname": "dbvisualizer",
-    "version": "25.1"
+    "version": "25.1.2"
   },
   "legacyPackages.x86_64-linux.dbx": {
     "description": "CLI tool for advanced Databricks jobs management",
@@ -39552,7 +39552,7 @@
   "legacyPackages.x86_64-linux.exploitdb": {
     "description": "Archive of public exploits and corresponding vulnerable software",
     "pname": "exploitdb",
-    "version": "2025-03-29"
+    "version": "2025-03-30"
   },
   "legacyPackages.x86_64-linux.exportarr": {
     "description": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
@@ -43537,7 +43537,7 @@
   "legacyPackages.x86_64-linux.freefilesync": {
     "description": "Open Source File Synchronization & Backup Software",
     "pname": "freefilesync",
-    "version": "14.2"
+    "version": "14.3"
   },
   "legacyPackages.x86_64-linux.freefont_ttf": {
     "description": "GNU Free UCS Outline Fonts",
@@ -47337,7 +47337,7 @@
   "legacyPackages.x86_64-linux.gitaly": {
     "description": "Git RPC service for handling all the git calls made by GitLab",
     "pname": "gitaly",
-    "version": "17.9.3"
+    "version": "17.10.1"
   },
   "legacyPackages.x86_64-linux.gitbatch": {
     "description": "Running git UI commands",
@@ -47462,12 +47462,12 @@
   "legacyPackages.x86_64-linux.gitkraken": {
     "description": "Simplifying Git for any OS",
     "pname": "gitkraken",
-    "version": "10.8.0"
+    "version": "11.0.0"
   },
   "legacyPackages.x86_64-linux.gitlab": {
     "description": "GitLab Community Edition",
     "pname": "gitlab",
-    "version": "17.9.3"
+    "version": "17.10.1"
   },
   "legacyPackages.x86_64-linux.gitlab-ci-local": {
     "description": "Run gitlab pipelines locally as shell executor or docker executor",
@@ -47492,7 +47492,7 @@
   "legacyPackages.x86_64-linux.gitlab-ee": {
     "description": "GitLab Enterprise Edition",
     "pname": "gitlab-ee",
-    "version": "17.9.3"
+    "version": "17.10.1"
   },
   "legacyPackages.x86_64-linux.gitlab-elasticsearch-indexer": {
     "description": "Indexes Git repositories into Elasticsearch for GitLab",
@@ -47502,7 +47502,7 @@
   "legacyPackages.x86_64-linux.gitlab-pages": {
     "description": "Daemon used to serve static websites for GitLab users",
     "pname": "gitlab-pages",
-    "version": "17.9.3"
+    "version": "17.10.1"
   },
   "legacyPackages.x86_64-linux.gitlab-release-cli": {
     "description": "Toolset to create, retrieve and update releases on GitLab",
@@ -47517,7 +47517,7 @@
   "legacyPackages.x86_64-linux.gitlab-shell": {
     "description": "SSH access and repository management app for GitLab",
     "pname": "gitlab-shell",
-    "version": "14.40.0"
+    "version": "14.41.0"
   },
   "legacyPackages.x86_64-linux.gitlab-timelogs": {
     "description": " CLI utility to support you with your time logs in GitLab",
@@ -47532,7 +47532,7 @@
   "legacyPackages.x86_64-linux.gitlab-workhorse": {
     "description": "",
     "pname": "gitlab-workhorse",
-    "version": "17.9.3"
+    "version": "17.10.1"
   },
   "legacyPackages.x86_64-linux.gitleaks": {
     "description": "Scan git repos (or files) for secrets",
@@ -54957,7 +54957,7 @@
   "legacyPackages.x86_64-linux.goreleaser": {
     "description": "Deliver Go binaries as fast and easily as possible",
     "pname": "goreleaser",
-    "version": "2.8.1"
+    "version": "2.8.2"
   },
   "legacyPackages.x86_64-linux.goreman": {
     "description": "foreman clone written in go language",
@@ -57422,7 +57422,7 @@
   "legacyPackages.x86_64-linux.gungnir": {
     "description": "Command-line tool that continuously monitors certificate transparency (CT) logs for newly issued SSL/TLS certificates",
     "pname": "gungnir",
-    "version": "1.2.0"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.gup": {
     "description": "Better make, inspired by djb's redo",
@@ -64467,7 +64467,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.mushroom": {
     "description": "Mushroom Cards - Build a beautiful dashboard easily",
     "pname": "mushroom",
-    "version": "4.3.1"
+    "version": "4.4.0"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.plotly-chart-card": {
     "description": "Highly customisable Lovelace card to plot interactive graphs. Brings scrolling, zooming, and much more",
@@ -66301,8 +66301,8 @@
   },
   "legacyPackages.x86_64-linux.hyprlandPlugins.hy3": {
     "description": "Hyprland plugin for an i3 / sway like manual tiling layout",
-    "pname": "hy3",
-    "version": "0.47.0-1"
+    "pname": "hy3-hl0.48.0",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.hyprlandPlugins.hycov": {
     "description": "Clients overview for Hyprland plugin",
@@ -67672,12 +67672,12 @@
   "legacyPackages.x86_64-linux.immich": {
     "description": "Self-hosted photo and video backup solution",
     "pname": "immich",
-    "version": "1.130.3"
+    "version": "1.131.2"
   },
   "legacyPackages.x86_64-linux.immich-cli": {
     "description": "Self-hosted photo and video backup solution (command line interface)",
     "pname": "immich-cli",
-    "version": "2.2.57"
+    "version": "2.2.60"
   },
   "legacyPackages.x86_64-linux.immich-go": {
     "description": "Immich client tool for bulk-uploads",
@@ -67687,7 +67687,7 @@
   "legacyPackages.x86_64-linux.immich-machine-learning": {
     "description": "Self-hosted photo and video backup solution (machine learning component)",
     "pname": "immich-machine-learning",
-    "version": "1.130.3"
+    "version": "1.131.2"
   },
   "legacyPackages.x86_64-linux.immich-public-proxy": {
     "description": "Share your Immich photos and albums in a safe way without exposing your Immich instance to the public",
@@ -68182,7 +68182,7 @@
   "legacyPackages.x86_64-linux.infisical": {
     "description": "Official Infisical CLI",
     "pname": "infisical",
-    "version": "0.36.21"
+    "version": "0.36.22"
   },
   "legacyPackages.x86_64-linux.inflow": {
     "description": "Variance-optimal paragraph formatter",
@@ -131817,7 +131817,7 @@
   "legacyPackages.x86_64-linux.mac": {
     "description": "APE codec and decompressor",
     "pname": "monkeys-audio",
-    "version": "10.96"
+    "version": "11.01"
   },
   "legacyPackages.x86_64-linux.mac-fdisk": {
     "description": "68K and PowerPC Mac disk partitioning utility, Adélie Linux version",
@@ -136552,12 +136552,12 @@
   "legacyPackages.x86_64-linux.mkosi": {
     "description": "Build legacy-free OS images",
     "pname": "mkosi",
-    "version": "25.3"
+    "version": "25.3-unstable-2025-04-01"
   },
   "legacyPackages.x86_64-linux.mkosi-full": {
     "description": "Build legacy-free OS images",
     "pname": "mkosi",
-    "version": "25.3"
+    "version": "25.3-unstable-2025-04-01"
   },
   "legacyPackages.x86_64-linux.mkp224o": {
     "description": "Vanity address generator for tor onion v3 (ed25519) hidden services",
@@ -136697,12 +136697,12 @@
   "legacyPackages.x86_64-linux.mlterm": {
     "description": "Multi Lingual TERMinal emulator",
     "pname": "mlterm",
-    "version": "3.9.3"
+    "version": "3.9.4"
   },
   "legacyPackages.x86_64-linux.mlterm-wayland": {
     "description": "Multi Lingual TERMinal emulator",
     "pname": "mlterm",
-    "version": "3.9.3"
+    "version": "3.9.4"
   },
   "legacyPackages.x86_64-linux.mlton": {
     "description": "Open-source, whole-program, optimizing Standard ML compiler",
@@ -137292,7 +137292,7 @@
   "legacyPackages.x86_64-linux.monkeysAudio": {
     "description": "APE codec and decompressor",
     "pname": "monkeys-audio",
-    "version": "10.96"
+    "version": "11.01"
   },
   "legacyPackages.x86_64-linux.monkeysphere": {
     "description": "Leverage the OpenPGP web of trust for SSH and TLS authentication",
@@ -141097,7 +141097,7 @@
   "legacyPackages.x86_64-linux.netbox": {
     "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool",
     "pname": "netbox",
-    "version": "4.2.3"
+    "version": "4.2.6"
   },
   "legacyPackages.x86_64-linux.netbox2netshot": {
     "description": "Inventory synchronization tool between Netbox and Netshot",
@@ -141117,7 +141117,7 @@
   "legacyPackages.x86_64-linux.netbox_4_2": {
     "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool",
     "pname": "netbox",
-    "version": "4.2.3"
+    "version": "4.2.6"
   },
   "legacyPackages.x86_64-linux.netcat": {
     "description": "Free TLS/SSL implementation",
@@ -151394,6 +151394,11 @@
     "pname": "omnisharp-roslyn",
     "version": "1.39.13"
   },
+  "legacyPackages.x86_64-linux.omnix": {
+    "description": "Nix companion to improve developer experience",
+    "pname": "omnix",
+    "version": "1.0.3"
+  },
   "legacyPackages.x86_64-linux.omnom": {
     "description": "A webpage bookmarking and snapshotting service",
     "pname": "omnom",
@@ -154997,7 +155002,7 @@
   "legacyPackages.x86_64-linux.panoply": {
     "description": "netCDF, HDF and GRIB Data Viewer",
     "pname": "panoply",
-    "version": "5.5.5"
+    "version": "5.6.0"
   },
   "legacyPackages.x86_64-linux.panotools": {
     "description": "Free software suite for authoring and displaying virtual reality panoramas",
@@ -193742,7 +193747,7 @@
   "legacyPackages.x86_64-linux.pnpm": {
     "description": "Fast, disk space efficient package manager for JavaScript",
     "pname": "pnpm",
-    "version": "10.7.0"
+    "version": "10.7.1"
   },
   "legacyPackages.x86_64-linux.pnpm-lock-export": {
     "description": "Utility for converting pnpm-lock.yaml to other lockfile formats",
@@ -193757,7 +193762,7 @@
   "legacyPackages.x86_64-linux.pnpm_10": {
     "description": "Fast, disk space efficient package manager for JavaScript",
     "pname": "pnpm",
-    "version": "10.7.0"
+    "version": "10.7.1"
   },
   "legacyPackages.x86_64-linux.pnpm_8": {
     "description": "Fast, disk space efficient package manager for JavaScript",
@@ -194592,7 +194597,7 @@
   "legacyPackages.x86_64-linux.postgresql13JitPackages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql13JitPackages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -194697,12 +194702,12 @@
   "legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -194902,7 +194907,7 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -195007,12 +195012,12 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -195212,7 +195217,7 @@
   "legacyPackages.x86_64-linux.postgresql14JitPackages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql14JitPackages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -195317,12 +195322,12 @@
   "legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -195522,7 +195527,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -195627,12 +195632,12 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -195832,7 +195837,7 @@
   "legacyPackages.x86_64-linux.postgresql15JitPackages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql15JitPackages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -195937,12 +195942,12 @@
   "legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -196142,7 +196147,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -196247,12 +196252,12 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -196452,7 +196457,7 @@
   "legacyPackages.x86_64-linux.postgresql16JitPackages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql16JitPackages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -196557,12 +196562,12 @@
   "legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -196762,7 +196767,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -196867,12 +196872,12 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197072,7 +197077,7 @@
   "legacyPackages.x86_64-linux.postgresql17JitPackages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql17JitPackages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -197177,12 +197182,12 @@
   "legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197382,7 +197387,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -197487,12 +197492,12 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197692,7 +197697,7 @@
   "legacyPackages.x86_64-linux.postgresqlJitPackages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresqlJitPackages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -197797,12 +197802,12 @@
   "legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -198002,7 +198007,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pgmq": {
     "description": "Lightweight message queue like AWS SQS and RSMQ but on Postgres",
     "pname": "pgmq",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pgroonga": {
     "description": "PostgreSQL extension to use Groonga as the index",
@@ -198107,12 +198112,12 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -198212,7 +198217,7 @@
   "legacyPackages.x86_64-linux.posting": {
     "description": "Modern API client that lives in your terminal",
     "pname": "posting",
-    "version": "2.3.0"
+    "version": "2.5.4"
   },
   "legacyPackages.x86_64-linux.postlight-parser": {
     "description": "Extracts the bits that humans care about from any URL you give it",
@@ -199792,7 +199797,7 @@
   "legacyPackages.x86_64-linux.proton-ge-bin": {
     "description": "Compatibility tool for Steam Play based on Wine and additional components.  (This is intended for use in the `programs.steam.extraCompatPackages` option only.) ",
     "pname": "proton-ge-bin-GE-Proton9",
-    "version": "26"
+    "version": "27"
   },
   "legacyPackages.x86_64-linux.proton-pass": {
     "description": "Desktop application for Proton Pass",
@@ -202512,7 +202517,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aiowebdav2": {
     "description": "Async Python 3 client for WebDAV",
     "pname": "python3.12-aiowebdav2",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.aiowebostv": {
     "description": "Module to interact with LG webOS based TV devices",
@@ -205152,7 +205157,7 @@
   "legacyPackages.x86_64-linux.python312Packages.bc-detect-secrets": {
     "description": "Tool to detect secrets in the code",
     "pname": "python3.12-bc-detect-secrets",
-    "version": "1.5.38"
+    "version": "1.5.39"
   },
   "legacyPackages.x86_64-linux.python312Packages.bc-jsonpath-ng": {
     "description": "JSONPath implementation for Python",
@@ -205932,7 +205937,7 @@
   "legacyPackages.x86_64-linux.python312Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.12-boto3-stubs",
-    "version": "1.37.23"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -205942,7 +205947,7 @@
   "legacyPackages.x86_64-linux.python312Packages.botocore-stubs": {
     "description": "Type annotations and code completion for botocore",
     "pname": "python3.12-botocore-stubs",
-    "version": "1.37.23"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.botorch": {
     "description": "Bayesian Optimization in PyTorch",
@@ -206992,7 +206997,7 @@
   "legacyPackages.x86_64-linux.python312Packages.circuitbreaker": {
     "description": "Python Circuit Breaker implementation",
     "pname": "python3.12-circuitbreaker",
-    "version": "2.1.0"
+    "version": "2.1.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.circus": {
     "description": "Process and socket manager",
@@ -208527,7 +208532,7 @@
   "legacyPackages.x86_64-linux.python312Packages.cyclopts": {
     "description": "Module to create CLIs based on Python type hints",
     "pname": "python3.12-cyclopts",
-    "version": "3.11.1"
+    "version": "3.11.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.cyipopt": {
     "description": "Cython interface for the interior point optimzer IPOPT",
@@ -219377,7 +219382,7 @@
   "legacyPackages.x86_64-linux.python312Packages.langchainplus-sdk": {
     "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform",
     "pname": "python3.12-langsmith",
-    "version": "0.3.10"
+    "version": "0.3.22"
   },
   "legacyPackages.x86_64-linux.python312Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -219437,7 +219442,7 @@
   "legacyPackages.x86_64-linux.python312Packages.langsmith": {
     "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform",
     "pname": "python3.12-langsmith",
-    "version": "0.3.10"
+    "version": "0.3.22"
   },
   "legacyPackages.x86_64-linux.python312Packages.language-data": {
     "description": "Supplement module for langcodes",
@@ -222722,7 +222727,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mpv": {
     "description": "Python interface to the mpv media player",
     "pname": "python3.12-mpv",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.mpyq": {
     "description": "Python library for extracting MPQ (MoPaQ) files",
@@ -222837,7 +222842,7 @@
   "legacyPackages.x86_64-linux.python312Packages.msticpy": {
     "description": "Microsoft Threat Intelligence Security Tools",
     "pname": "python3.12-msticpy",
-    "version": "2.16.0"
+    "version": "2.16.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.mt-940": {
     "description": "Module to parse MT940 files and returns smart Python collections for statistics and manipulation",
@@ -223587,7 +223592,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ec2": {
     "description": "Type annotations for boto3 ec2",
     "pname": "python3.12-mypy-boto3-ec2",
-    "version": "1.37.16"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ec2-instance-connect": {
     "description": "Type annotations for boto3 ec2-instance-connect",
@@ -223617,7 +223622,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-eks": {
     "description": "Type annotations for boto3 eks",
     "pname": "python3.12-mypy-boto3-eks",
-    "version": "1.37.22"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-elastic-inference": {
     "description": "Type annotations for boto3 elastic-inference",
@@ -224092,7 +224097,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-marketplace-entitlement": {
     "description": "Type annotations for boto3 marketplace-entitlement",
     "pname": "python3.12-mypy-boto3-marketplace-entitlement",
-    "version": "1.37.20"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-marketplacecommerceanalytics": {
     "description": "Type annotations for boto3 marketplacecommerceanalytics",
@@ -224272,7 +224277,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-outposts": {
     "description": "Type annotations for boto3 outposts",
     "pname": "python3.12-mypy-boto3-outposts",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-panorama": {
     "description": "Type annotations for boto3 panorama",
@@ -224482,12 +224487,12 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-s3": {
     "description": "Type annotations for boto3 s3",
     "pname": "python3.12-mypy-boto3-s3",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-s3control": {
     "description": "Type annotations for boto3 s3control",
     "pname": "python3.12-mypy-boto3-s3control",
-    "version": "1.37.12"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-s3outposts": {
     "description": "Type annotations for boto3 s3outposts",
@@ -224597,7 +224602,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-sesv2": {
     "description": "Type annotations for boto3 sesv2",
     "pname": "python3.12-mypy-boto3-sesv2",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-shield": {
     "description": "Type annotations for boto3 shield",
@@ -224742,7 +224747,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-transfer": {
     "description": "Type annotations for boto3 transfer",
     "pname": "python3.12-mypy-boto3-transfer",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-translate": {
     "description": "Type annotations for boto3 translate",
@@ -226409,6 +226414,11 @@
     "pname": "python3.12-openapi-core",
     "version": "0.19.4"
   },
+  "legacyPackages.x86_64-linux.python312Packages.openapi-pydantic": {
+    "description": "Pydantic OpenAPI schema implementation",
+    "pname": "python3.12-openapi-pydantic",
+    "version": "0.5.1"
+  },
   "legacyPackages.x86_64-linux.python312Packages.openapi-schema-validator": {
     "description": "Validates OpenAPI schema against the OpenAPI Schema Specification v3.0",
     "pname": "python3.12-openapi-schema-validator",
@@ -226852,7 +226862,7 @@
   "legacyPackages.x86_64-linux.python312Packages.oras": {
     "description": "ORAS Python SDK",
     "pname": "python3.12-oras",
-    "version": "0.2.27"
+    "version": "0.2.28"
   },
   "legacyPackages.x86_64-linux.python312Packages.orbax-checkpoint": {
     "description": "Orbax provides common utility libraries for JAX users",
@@ -237234,6 +237244,11 @@
     "pname": "python3.12-rcssmin",
     "version": "1.2.1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.rdbtools": {
+    "description": "Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON",
+    "pname": "python3.12-rdbtools",
+    "version": "0.1.15"
+  },
   "legacyPackages.x86_64-linux.python312Packages.rdflib": {
     "description": "Python library for working with RDF",
     "pname": "python3.12-rdflib",
@@ -243228,6 +243243,11 @@
     "description": "Python library that interacts with TMB API",
     "pname": "python3.12-tmb",
     "version": "0.1.5"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.tnefparse": {
+    "description": "TNEF decoding library written in python, without external dependencies",
+    "pname": "python3.12-tnefparse",
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.todoist": {
     "description": "Official Todoist Python API library",
@@ -250642,7 +250662,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiowebdav2": {
     "description": "Async Python 3 client for WebDAV",
     "pname": "python3.13-aiowebdav2",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiowebostv": {
     "description": "Module to interact with LG webOS based TV devices",
@@ -253282,7 +253302,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bc-detect-secrets": {
     "description": "Tool to detect secrets in the code",
     "pname": "python3.13-bc-detect-secrets",
-    "version": "1.5.38"
+    "version": "1.5.39"
   },
   "legacyPackages.x86_64-linux.python313Packages.bc-jsonpath-ng": {
     "description": "JSONPath implementation for Python",
@@ -254062,7 +254082,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.37.23"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -254072,7 +254092,7 @@
   "legacyPackages.x86_64-linux.python313Packages.botocore-stubs": {
     "description": "Type annotations and code completion for botocore",
     "pname": "python3.13-botocore-stubs",
-    "version": "1.37.23"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.botorch": {
     "description": "Bayesian Optimization in PyTorch",
@@ -255122,7 +255142,7 @@
   "legacyPackages.x86_64-linux.python313Packages.circuitbreaker": {
     "description": "Python Circuit Breaker implementation",
     "pname": "python3.13-circuitbreaker",
-    "version": "2.1.0"
+    "version": "2.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.circus": {
     "description": "Process and socket manager",
@@ -256657,7 +256677,7 @@
   "legacyPackages.x86_64-linux.python313Packages.cyclopts": {
     "description": "Module to create CLIs based on Python type hints",
     "pname": "python3.13-cyclopts",
-    "version": "3.11.1"
+    "version": "3.11.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.cyipopt": {
     "description": "Cython interface for the interior point optimzer IPOPT",
@@ -267507,7 +267527,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchainplus-sdk": {
     "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform",
     "pname": "python3.13-langsmith",
-    "version": "0.3.10"
+    "version": "0.3.22"
   },
   "legacyPackages.x86_64-linux.python313Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -267567,7 +267587,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langsmith": {
     "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform",
     "pname": "python3.13-langsmith",
-    "version": "0.3.10"
+    "version": "0.3.22"
   },
   "legacyPackages.x86_64-linux.python313Packages.language-data": {
     "description": "Supplement module for langcodes",
@@ -270852,7 +270872,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mpv": {
     "description": "Python interface to the mpv media player",
     "pname": "python3.13-mpv",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.mpyq": {
     "description": "Python library for extracting MPQ (MoPaQ) files",
@@ -270967,7 +270987,7 @@
   "legacyPackages.x86_64-linux.python313Packages.msticpy": {
     "description": "Microsoft Threat Intelligence Security Tools",
     "pname": "python3.13-msticpy",
-    "version": "2.16.0"
+    "version": "2.16.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.mt-940": {
     "description": "Module to parse MT940 files and returns smart Python collections for statistics and manipulation",
@@ -271717,7 +271737,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ec2": {
     "description": "Type annotations for boto3 ec2",
     "pname": "python3.13-mypy-boto3-ec2",
-    "version": "1.37.16"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ec2-instance-connect": {
     "description": "Type annotations for boto3 ec2-instance-connect",
@@ -271747,7 +271767,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-eks": {
     "description": "Type annotations for boto3 eks",
     "pname": "python3.13-mypy-boto3-eks",
-    "version": "1.37.22"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-elastic-inference": {
     "description": "Type annotations for boto3 elastic-inference",
@@ -272222,7 +272242,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-marketplace-entitlement": {
     "description": "Type annotations for boto3 marketplace-entitlement",
     "pname": "python3.13-mypy-boto3-marketplace-entitlement",
-    "version": "1.37.20"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-marketplacecommerceanalytics": {
     "description": "Type annotations for boto3 marketplacecommerceanalytics",
@@ -272402,7 +272422,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-outposts": {
     "description": "Type annotations for boto3 outposts",
     "pname": "python3.13-mypy-boto3-outposts",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-panorama": {
     "description": "Type annotations for boto3 panorama",
@@ -272612,12 +272632,12 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3": {
     "description": "Type annotations for boto3 s3",
     "pname": "python3.13-mypy-boto3-s3",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3control": {
     "description": "Type annotations for boto3 s3control",
     "pname": "python3.13-mypy-boto3-s3control",
-    "version": "1.37.12"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3outposts": {
     "description": "Type annotations for boto3 s3outposts",
@@ -272727,7 +272747,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-sesv2": {
     "description": "Type annotations for boto3 sesv2",
     "pname": "python3.13-mypy-boto3-sesv2",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-shield": {
     "description": "Type annotations for boto3 shield",
@@ -272872,7 +272892,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-transfer": {
     "description": "Type annotations for boto3 transfer",
     "pname": "python3.13-mypy-boto3-transfer",
-    "version": "1.37.0"
+    "version": "1.37.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-translate": {
     "description": "Type annotations for boto3 translate",
@@ -274539,6 +274559,11 @@
     "pname": "python3.13-openapi-core",
     "version": "0.19.4"
   },
+  "legacyPackages.x86_64-linux.python313Packages.openapi-pydantic": {
+    "description": "Pydantic OpenAPI schema implementation",
+    "pname": "python3.13-openapi-pydantic",
+    "version": "0.5.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.openapi-schema-validator": {
     "description": "Validates OpenAPI schema against the OpenAPI Schema Specification v3.0",
     "pname": "python3.13-openapi-schema-validator",
@@ -274982,7 +275007,7 @@
   "legacyPackages.x86_64-linux.python313Packages.oras": {
     "description": "ORAS Python SDK",
     "pname": "python3.13-oras",
-    "version": "0.2.27"
+    "version": "0.2.28"
   },
   "legacyPackages.x86_64-linux.python313Packages.orbax-checkpoint": {
     "description": "Orbax provides common utility libraries for JAX users",
@@ -285364,6 +285389,11 @@
     "pname": "python3.13-rcssmin",
     "version": "1.2.1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.rdbtools": {
+    "description": "Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON",
+    "pname": "python3.13-rdbtools",
+    "version": "0.1.15"
+  },
   "legacyPackages.x86_64-linux.python313Packages.rdflib": {
     "description": "Python library for working with RDF",
     "pname": "python3.13-rdflib",
@@ -291388,6 +291418,11 @@
     "description": "Python library that interacts with TMB API",
     "pname": "python3.13-tmb",
     "version": "0.1.5"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.tnefparse": {
+    "description": "TNEF decoding library written in python, without external dependencies",
+    "pname": "python3.13-tnefparse",
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.todoist": {
     "description": "Official Todoist Python API library",
@@ -297542,7 +297577,7 @@
   "legacyPackages.x86_64-linux.q2pro": {
     "description": "Enhanced Quake 2 client and server focused on multiplayer",
     "pname": "q2pro",
-    "version": "0-unstable-2025-03-20"
+    "version": "0-unstable-2025-03-26"
   },
   "legacyPackages.x86_64-linux.q4wine": {
     "description": "Qt GUI for Wine to manage prefixes and applications",
@@ -303882,7 +303917,7 @@
   "legacyPackages.x86_64-linux.roon-server": {
     "description": "Music player for music lovers",
     "pname": "roon-server",
-    "version": "2.47.1510"
+    "version": "2.48.1517"
   },
   "legacyPackages.x86_64-linux.roon-tui": {
     "description": "Roon Remote for the terminal",
@@ -315852,7 +315887,7 @@
   "legacyPackages.x86_64-linux.saunafs": {
     "description": "Distributed POSIX file system",
     "pname": "saunafs",
-    "version": "4.8.0"
+    "version": "4.8.1"
   },
   "legacyPackages.x86_64-linux.savepagenow": {
     "description": "Simple Python wrapper for archive.org's \"Save Page Now\" capturing service",
@@ -341779,6 +341814,11 @@
     "pname": "signal-desktop",
     "version": "7.47.0"
   },
+  "legacyPackages.x86_64-linux.signal-desktop-source": {
+    "description": "Private, simple, and secure messenger (nixpkgs build)",
+    "pname": "signal-desktop-source",
+    "version": "7.46.0"
+  },
   "legacyPackages.x86_64-linux.signal-export": {
     "description": "Export your Signal chats to markdown files with attachments",
     "pname": "signal-export",
@@ -348687,7 +348727,7 @@
   "legacyPackages.x86_64-linux.tailwindcss_4": {
     "description": "Command-line tool for the CSS framework with composable CSS classes, standalone v4 CLI",
     "pname": "tailwindcss_4",
-    "version": "4.0.17"
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.taisei": {
     "description": "Free and open-source Touhou Project clone and fangame",
@@ -349743,11 +349783,6 @@
     "description": "Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",
     "pname": "teleport",
     "version": "17.4.1"
-  },
-  "legacyPackages.x86_64-linux.teleport_15": {
-    "description": "Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",
-    "pname": "teleport",
-    "version": "15.4.30"
   },
   "legacyPackages.x86_64-linux.teleport_16": {
     "description": "Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",
@@ -375147,7 +375182,7 @@
   "legacyPackages.x86_64-linux.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.0"
+    "version": "2.19.1"
   },
   "legacyPackages.x86_64-linux.timescaledb-parallel-copy": {
     "description": "Bulk, parallel insert of CSV records into PostgreSQL",
@@ -389681,8 +389716,8 @@
   },
   "legacyPackages.x86_64-linux.vimPlugins.rainbow-delimiters-nvim": {
     "description": "Rainbow delimiters for Neovim with Tree-sitter",
-    "pname": "vimplugin-rainbow-delimiters.nvim-unstable",
-    "version": "2025-01-12"
+    "pname": "vimplugin-rainbow-delimiters.nvim",
+    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.vimPlugins.rainbow_csv": {
     "description": "",
@@ -400662,7 +400697,7 @@
   "legacyPackages.x86_64-linux.xfce.mousepad": {
     "description": "Simple text editor for Xfce",
     "pname": "mousepad",
-    "version": "0.6.4"
+    "version": "0.6.5"
   },
   "legacyPackages.x86_64-linux.xfce.orage": {
     "description": "Simple calendar application for Xfce",
