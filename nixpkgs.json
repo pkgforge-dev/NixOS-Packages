@@ -1337,7 +1337,7 @@
   "legacyPackages.x86_64-linux.adw-gtk3": {
     "description": "Theme from libadwaita ported to GTK-3",
     "pname": "adw-gtk3",
-    "version": "5.7"
+    "version": "5.8"
   },
   "legacyPackages.x86_64-linux.adwaita-fonts": {
     "description": "Adwaita Sans, a variation of Inter, and Adwaita Mono, Iosevka customized to match Inter",
@@ -1702,32 +1702,32 @@
   "legacyPackages.x86_64-linux.aider-chat": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.aider-chat-full": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-bedrock": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-browser": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-help": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-playwright": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.aiger": {
     "description": "And-Inverter Graph (AIG) utilities",
@@ -3727,7 +3727,7 @@
   "legacyPackages.x86_64-linux.alejandra": {
     "description": "Uncompromising Nix Code Formatter",
     "pname": "alejandra",
-    "version": "3.1.0"
+    "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.alembic": {
     "description": "Open framework for storing and sharing scene data",
@@ -4267,7 +4267,7 @@
   "legacyPackages.x86_64-linux.amazon-q-cli": {
     "description": "Amazon Q Developer AI coding agent CLI",
     "pname": "amazon-q-cli",
-    "version": "1.7.2"
+    "version": "1.7.3"
   },
   "legacyPackages.x86_64-linux.amazon-qldb-shell": {
     "description": "Interface to send PartiQL statements to Amazon Quantum Ledger Database (QLDB)",
@@ -8520,8 +8520,13 @@
     "version": "1.4"
   },
   "legacyPackages.x86_64-linux.aporetic": {
-    "description": "",
+    "description": "Custom build of Iosevka with different style and metrics than the default, successor to my \"Iosevka Comfy\" fonts ",
     "pname": "aporetic",
+    "version": "1.1.0"
+  },
+  "legacyPackages.x86_64-linux.aporetic-bin": {
+    "description": "Custom build of Iosevka with different style and metrics than the default. This is the successor to my \"Iosevka Comfy\" fonts. ",
+    "pname": "aporetic-bin",
     "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.apostrophe": {
@@ -11052,7 +11057,7 @@
   "legacyPackages.x86_64-linux.automatic-timezoned": {
     "description": "Automatically update system timezone based on location",
     "pname": "automatic-timezoned",
-    "version": "2.0.67"
+    "version": "2.0.72"
   },
   "legacyPackages.x86_64-linux.automaticcomponenttoolkit": {
     "description": "Toolkit to automatically generate software components: abstract API, implementation stubs and language bindings",
@@ -16032,7 +16037,7 @@
   "legacyPackages.x86_64-linux.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.bpftune": {
     "description": "BPF-based auto-tuning of Linux system parameters",
@@ -16552,12 +16557,12 @@
   "legacyPackages.x86_64-linux.btcpayserver": {
     "description": "Self-hosted, open-source cryptocurrency payment processor",
     "pname": "btcpayserver",
-    "version": "2.0.8"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.btcpayserver-altcoins": {
     "description": "Self-hosted, open-source cryptocurrency payment processor",
     "pname": "btcpayserver",
-    "version": "2.0.8"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.btdu": {
     "description": "Sampling disk usage profiler for btrfs",
@@ -17734,6 +17739,11 @@
     "pname": "camingo-code",
     "version": "1.0"
   },
+  "legacyPackages.x86_64-linux.camset": {
+    "description": "GUI for Video4Linux adjustments of webcams",
+    "pname": "camset",
+    "version": "0-unstable-2023-05-20"
+  },
   "legacyPackages.x86_64-linux.camunda-modeler": {
     "description": "An integrated modeling solution for BPMN, DMN and Forms based on bpmn.io",
     "pname": "camunda-modeler",
@@ -18117,7 +18127,7 @@
   "legacyPackages.x86_64-linux.cargo-codspeed": {
     "description": "Cargo extension to build & run your codspeed benchmarks",
     "pname": "cargo-codspeed",
-    "version": "2.10.0"
+    "version": "2.10.1"
   },
   "legacyPackages.x86_64-linux.cargo-component": {
     "description": "Cargo subcommand for creating WebAssembly components based on the component model proposal",
@@ -18347,7 +18357,7 @@
   "legacyPackages.x86_64-linux.cargo-mobile2": {
     "description": "Rust on mobile made easy!",
     "pname": "cargo-mobile2",
-    "version": "0.17.5"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.cargo-modules": {
     "description": "Cargo plugin for showing a tree-like overview of a crate's modules",
@@ -23747,7 +23757,7 @@
   "legacyPackages.x86_64-linux.cirrus-cli": {
     "description": "CLI for executing Cirrus tasks locally and in any CI",
     "pname": "cirrus-cli",
-    "version": "0.140.8"
+    "version": "0.141.0"
   },
   "legacyPackages.x86_64-linux.cirrusgo": {
     "description": "Tool to scan SAAS and PAAS applications",
@@ -24152,7 +24162,7 @@
   "legacyPackages.x86_64-linux.clash-verge-rev": {
     "description": "Clash GUI based on tauri",
     "pname": "clash-verge-rev",
-    "version": "2.2.2"
+    "version": "2.2.3"
   },
   "legacyPackages.x86_64-linux.clashtui": {
     "description": "Mihomo (Clash.Meta) TUI Client",
@@ -24668,6 +24678,11 @@
     "description": "Tool for cleaning up your cloud accounts by nuking (deleting) all resources within it",
     "pname": "cloud-nuke",
     "version": "0.40.0"
+  },
+  "legacyPackages.x86_64-linux.cloud-provider-kind": {
+    "description": "Load Balancer implementation for Kubernetes-in-Docker",
+    "pname": "cloud-provider-kind",
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.cloud-utils": {
     "description": "Useful set of utilities for interacting with a cloud",
@@ -25917,7 +25932,7 @@
   "legacyPackages.x86_64-linux.conduit": {
     "description": "Simplified Data Exchange for HPC Simulations",
     "pname": "conduit",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.conduktor": {
     "description": "Apache Kafka Desktop Client",
@@ -26902,7 +26917,7 @@
   "legacyPackages.x86_64-linux.coroot-node-agent": {
     "description": "Prometheus exporter based on eBPF",
     "pname": "coroot-node-agent",
-    "version": "1.23.15"
+    "version": "1.23.16"
   },
   "legacyPackages.x86_64-linux.corosync": {
     "description": "Group Communication System with features for implementing high availability within applications",
@@ -26911,18 +26926,18 @@
   },
   "legacyPackages.x86_64-linux.corretto11": {
     "description": "Amazon's distribution of OpenJDK",
-    "pname": "corretto",
-    "version": "11.0.25.9.1"
+    "pname": "corretto11",
+    "version": "11.0.26.4.1"
   },
   "legacyPackages.x86_64-linux.corretto17": {
     "description": "Amazon's distribution of OpenJDK",
-    "pname": "corretto",
-    "version": "17.0.13.11.1"
+    "pname": "corretto17",
+    "version": "17.0.14.7.1"
   },
   "legacyPackages.x86_64-linux.corretto21": {
     "description": "Amazon's distribution of OpenJDK",
-    "pname": "corretto",
-    "version": "21.0.5.11.1"
+    "pname": "corretto21",
+    "version": "21.0.6.7.1"
   },
   "legacyPackages.x86_64-linux.corrosion": {
     "description": "Tool for integrating Rust into an existing CMake project",
@@ -32172,7 +32187,7 @@
   "legacyPackages.x86_64-linux.delve": {
     "description": "debugger for the Go programming language",
     "pname": "delve",
-    "version": "1.24.1"
+    "version": "1.24.2"
   },
   "legacyPackages.x86_64-linux.demoit": {
     "description": "Live coding demos without Context Switching",
@@ -33072,7 +33087,7 @@
   "legacyPackages.x86_64-linux.direnv": {
     "description": "Shell extension that manages your environment",
     "pname": "direnv",
-    "version": "2.35.0"
+    "version": "2.36.0"
   },
   "legacyPackages.x86_64-linux.direvent": {
     "description": "Directory event monitoring daemon",
@@ -38052,7 +38067,7 @@
   "legacyPackages.x86_64-linux.emulationstation-de": {
     "description": "ES-DE (EmulationStation Desktop Edition) is a frontend for browsing and launching games from your multi-platform collection",
     "pname": "emulationstation-de",
-    "version": "3.1.1"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.emulsion": {
     "description": "Fast and minimalistic image viewer",
@@ -38842,7 +38857,7 @@
   "legacyPackages.x86_64-linux.espup": {
     "description": "Tool for installing and maintaining Espressif Rust ecosystem",
     "pname": "espup",
-    "version": "0.14.1"
+    "version": "0.15.0"
   },
   "legacyPackages.x86_64-linux.essentia-extractor": {
     "description": "AcousticBrainz audio feature extractor",
@@ -39637,7 +39652,7 @@
   "legacyPackages.x86_64-linux.fabric-ai": {
     "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere",
     "pname": "fabric-ai",
-    "version": "1.4.122"
+    "version": "1.4.167"
   },
   "legacyPackages.x86_64-linux.fabric-installer": {
     "description": "Lightweight, experimental modding toolchain for Minecraft",
@@ -42792,7 +42807,7 @@
   "legacyPackages.x86_64-linux.fn-cli": {
     "description": "Command-line tool for the fn project",
     "pname": "fn",
-    "version": "0.6.40"
+    "version": "0.6.41"
   },
   "legacyPackages.x86_64-linux.fna3d": {
     "description": "Accuracy-focused XNA4 reimplementation for open platforms",
@@ -47727,7 +47742,7 @@
   "legacyPackages.x86_64-linux.glamoroustoolkit": {
     "description": "GlamorousToolkit Development Environment",
     "pname": "glamoroustoolkit",
-    "version": "1.1.16"
+    "version": "1.1.19"
   },
   "legacyPackages.x86_64-linux.glance": {
     "description": "Self-hosted dashboard that puts all your feeds in one place",
@@ -55732,7 +55747,7 @@
   "legacyPackages.x86_64-linux.grails": {
     "description": "Full stack, web application framework for the JVM",
     "pname": "grails",
-    "version": "7.0.0-M1"
+    "version": "7.0.0-M3"
   },
   "legacyPackages.x86_64-linux.gramma": {
     "description": "command-line grammar checker",
@@ -58543,6 +58558,11 @@
     "description": "Tool to get/set ATA/SATA drive parameters under Linux",
     "pname": "hdparm",
     "version": "9.65"
+  },
+  "legacyPackages.x86_64-linux.hdr10plus": {
+    "description": "Library to work with HDR10+ in HEVC files",
+    "pname": "hdr10plus",
+    "version": "2.1.3"
   },
   "legacyPackages.x86_64-linux.hdr10plus_tool": {
     "description": "CLI utility to work with HDR10+ in HEVC files.",
@@ -65187,7 +65207,7 @@
   "legacyPackages.x86_64-linux.hugo": {
     "description": "Fast and modern static website engine",
     "pname": "hugo",
-    "version": "0.145.0"
+    "version": "0.146.1"
   },
   "legacyPackages.x86_64-linux.hugs": {
     "description": "Haskell interpreter",
@@ -66002,7 +66022,7 @@
   "legacyPackages.x86_64-linux.hydralauncher": {
     "description": "Game launcher with its own embedded bittorrent client",
     "pname": "hydralauncher",
-    "version": "3.3.1"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.hydrapaper": {
     "description": "GNOME utility for setting different wallpapers on individual monitors",
@@ -66252,7 +66272,7 @@
   "legacyPackages.x86_64-linux.hyprland-protocols": {
     "description": "Wayland protocol extensions for Hyprland",
     "pname": "hyprland-protocols",
-    "version": "0.6.3"
+    "version": "0.6.4"
   },
   "legacyPackages.x86_64-linux.hyprland-qt-support": {
     "description": "A Qt6 QML provider for hypr* apps",
@@ -67672,7 +67692,7 @@
   "legacyPackages.x86_64-linux.immich-go": {
     "description": "Immich client tool for bulk-uploads",
     "pname": "immich-go",
-    "version": "0.25.0"
+    "version": "0.25.2"
   },
   "legacyPackages.x86_64-linux.immich-machine-learning": {
     "description": "Self-hosted photo and video backup solution (machine learning component)",
@@ -68442,7 +68462,7 @@
   "legacyPackages.x86_64-linux.inputplumber": {
     "description": "Open source input router and remapper daemon for Linux",
     "pname": "inputplumber",
-    "version": "0.50.0"
+    "version": "0.52.1"
   },
   "legacyPackages.x86_64-linux.inql": {
     "description": "Security testing tool for GraphQL",
@@ -70682,7 +70702,7 @@
   "legacyPackages.x86_64-linux.jjui": {
     "description": "A TUI for Jujutsu VCS",
     "pname": "jjui",
-    "version": "0.8.2"
+    "version": "0.8.4"
   },
   "legacyPackages.x86_64-linux.jl": {
     "description": "Functional sed for JSON",
@@ -71462,7 +71482,7 @@
   "legacyPackages.x86_64-linux.justbuild": {
     "description": "Generic build tool",
     "pname": "justbuild",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.justify": {
     "description": "Simple text alignment tool that supports left/right/center/fill justify alignment",
@@ -75122,7 +75142,7 @@
   "legacyPackages.x86_64-linux.kemai": {
     "description": "Kimai desktop client written in QT6",
     "pname": "kemai",
-    "version": "0.10.0"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.kent": {
     "description": "UCSC Genome Bioinformatics Group's suite of biological analysis tools, i.e. the kent utilities",
@@ -75917,7 +75937,7 @@
   "legacyPackages.x86_64-linux.knot-dns": {
     "description": "Authoritative-only DNS server from .cz domain registry",
     "pname": "knot-dns",
-    "version": "3.4.5"
+    "version": "3.4.6"
   },
   "legacyPackages.x86_64-linux.knot-resolver": {
     "description": "Caching validating DNS resolver, from .cz domain registry",
@@ -76779,6 +76799,11 @@
     "pname": "krill",
     "version": "0.14.6"
   },
+  "legacyPackages.x86_64-linux.krillinai": {
+    "description": "Video translation and dubbing tool",
+    "pname": "krillinai",
+    "version": "1.1.0"
+  },
   "legacyPackages.x86_64-linux.kristall": {
     "description": "Graphical small-internet client, supports gemini, http, https, gopher, finger",
     "pname": "kristall",
@@ -77422,7 +77447,7 @@
   "legacyPackages.x86_64-linux.kubie": {
     "description": "Shell independent context and namespace switcher for kubectl",
     "pname": "kubie",
-    "version": "0.25.1"
+    "version": "0.25.2"
   },
   "legacyPackages.x86_64-linux.kubo": {
     "description": "IPFS implementation in Go",
@@ -77788,6 +77813,11 @@
     "description": "Software KVM switch for sharing a mouse and keyboard with multiple hosts through the network",
     "pname": "lan-mouse",
     "version": "0.10.0"
+  },
+  "legacyPackages.x86_64-linux.landrun": {
+    "description": "Lightweight, secure sandbox for running Linux processes using Landlock LSM",
+    "pname": "landrun",
+    "version": "0.1.15"
   },
   "legacyPackages.x86_64-linux.langgraph-cli": {
     "description": "Official CLI for LangGraph API",
@@ -88322,7 +88352,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -88722,7 +88752,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.10.236"
+    "version": "3.10.1-5.10.236"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -89122,7 +89152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -89522,7 +89552,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.10.235"
+    "version": "3.10.1-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -89922,7 +89952,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -90322,7 +90352,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.15.180"
+    "version": "3.10.1-5.15.180"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -90722,7 +90752,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -91122,7 +91152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.15.179"
+    "version": "3.10.1-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -91522,7 +91552,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -91927,7 +91957,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.4.292"
+    "version": "3.10.1-5.4.292"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.perf": {
     "description": "Linux tools to profile with performance counters",
@@ -92327,7 +92357,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -92732,7 +92762,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.4.291"
+    "version": "3.10.1-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.perf": {
     "description": "Linux tools to profile with performance counters",
@@ -93132,7 +93162,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -93532,7 +93562,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.1.134"
+    "version": "3.10.1-6.1.134"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -93927,7 +93957,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -94327,7 +94357,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.23"
+    "version": "3.10.1-6.12.23"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -94727,7 +94757,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -95127,7 +95157,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.19"
+    "version": "3.10.1-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -95527,7 +95557,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -95927,7 +95957,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.11"
+    "version": "3.10.1-6.13.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -96327,7 +96357,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -96727,7 +96757,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.7"
+    "version": "3.10.1-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -97127,7 +97157,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -97527,7 +97557,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.2"
+    "version": "3.10.1-6.14.2"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -97927,7 +97957,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -98327,7 +98357,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.1.131"
+    "version": "3.10.1-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -98722,7 +98752,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -99122,7 +99152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.6.87"
+    "version": "3.10.1-6.6.87"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -99517,7 +99547,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -99917,7 +99947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.6.83"
+    "version": "3.10.1-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -100312,7 +100342,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -100712,7 +100742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.11"
+    "version": "3.10.1-6.13.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -101112,7 +101142,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -101512,7 +101542,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.19"
+    "version": "3.10.1-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -101912,7 +101942,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -102312,7 +102342,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.2"
+    "version": "3.10.1-6.14.2"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -102712,7 +102742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -103112,7 +103142,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.23"
+    "version": "3.10.1-6.12.23"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -103512,7 +103542,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -103912,7 +103942,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.1"
+    "version": "3.10.1-6.14.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -104312,7 +104342,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -104712,7 +104742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.21"
+    "version": "3.10.1-6.12.21"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -105112,7 +105142,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -105512,7 +105542,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.9"
+    "version": "3.10.1-6.13.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -105912,7 +105942,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -106312,7 +106342,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.9"
+    "version": "3.10.1-6.13.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -106712,7 +106742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -107112,7 +107142,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.1"
+    "version": "3.10.1-6.14.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -107512,7 +107542,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -107912,7 +107942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.23"
+    "version": "3.10.1-6.12.23"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -108312,7 +108342,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -108712,7 +108742,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.23"
+    "version": "3.10.1-6.12.23"
   },
   "legacyPackages.x86_64-linux.linuxPackages.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -109112,7 +109142,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -109512,7 +109542,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.10.235"
+    "version": "3.10.1-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -109912,7 +109942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -110312,7 +110342,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.15.179"
+    "version": "3.10.1-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -110712,7 +110742,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -111117,7 +111147,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-5.4.291"
+    "version": "3.10.1-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.perf": {
     "description": "Linux tools to profile with performance counters",
@@ -111517,7 +111547,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -111917,7 +111947,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.19"
+    "version": "3.10.1-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -112317,7 +112347,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -112717,7 +112747,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.7"
+    "version": "3.10.1-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -113117,7 +113147,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -113517,7 +113547,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.1.131"
+    "version": "3.10.1-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -113912,7 +113942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -114312,7 +114342,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.6.83"
+    "version": "3.10.1-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -114712,7 +114742,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -115112,7 +115142,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.11"
+    "version": "3.10.1-6.13.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -115512,7 +115542,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -115912,7 +115942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.19"
+    "version": "3.10.1-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -116312,7 +116342,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -116712,7 +116742,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.2"
+    "version": "3.10.1-6.14.2"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -117112,7 +117142,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -117512,7 +117542,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.2"
+    "version": "3.10.1-6.14.2"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -117912,7 +117942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -118312,7 +118342,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.1"
+    "version": "3.10.1-6.14.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -118712,7 +118742,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -119112,7 +119142,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.12.21"
+    "version": "3.10.1-6.12.21"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -119512,7 +119542,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -119912,7 +119942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.9"
+    "version": "3.10.1-6.13.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -120312,7 +120342,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -120712,7 +120742,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.13.9"
+    "version": "3.10.1-6.13.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -121112,7 +121142,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.bpftrace": {
     "description": "High-level tracing language for Linux eBPF",
     "pname": "bpftrace",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
@@ -121512,7 +121542,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.9.0-6.14.1"
+    "version": "3.10.1-6.14.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
@@ -125787,7 +125817,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.fzf-lua": {
     "description": "Improved fzf.vim written in lua",
     "pname": "lua5.1-fzf-lua",
-    "version": "0.0.1815-1"
+    "version": "0.0.1823-1"
   },
   "legacyPackages.x86_64-linux.lua51Packages.fzy": {
     "description": "A lua implementation of the fzy fuzzy matching algorithm",
@@ -125807,7 +125837,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.haskell-tools-nvim": {
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "pname": "lua5.1-haskell-tools.nvim",
-    "version": "4.4.3-1"
+    "version": "5.0.0-1"
   },
   "legacyPackages.x86_64-linux.lua51Packages.http": {
     "description": "HTTP library for Lua",
@@ -125827,7 +125857,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.jsregexp": {
     "description": "javascript (ECMA19) regular expressions for lua",
     "pname": "lua5.1-jsregexp",
-    "version": "0.0.7-1"
+    "version": "0.0.7-2"
   },
   "legacyPackages.x86_64-linux.lua51Packages.ldbus": {
     "description": "A Lua library to access dbus.",
@@ -126032,7 +126062,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.lua-zlib": {
     "description": "Simple streaming interface to zlib for Lua.",
     "pname": "lua5.1-lua-zlib",
-    "version": "1.2-2"
+    "version": "1.3-0"
   },
   "legacyPackages.x86_64-linux.lua51Packages.lua_cliargs": {
     "description": "A command-line argument parsing module for Lua",
@@ -126202,7 +126232,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.luasystem": {
     "description": "Platform independent system calls for Lua.",
     "pname": "lua5.1-luasystem",
-    "version": "0.5.1-1"
+    "version": "0.6.0-1"
   },
   "legacyPackages.x86_64-linux.lua51Packages.luatext": {
     "description": "A small library to print colored text",
@@ -126302,7 +126332,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.mimetypes": {
     "description": "A simple library for looking up the MIME types of files.",
     "pname": "lua5.1-mimetypes",
-    "version": "1.0.0-3"
+    "version": "1.1.0-2"
   },
   "legacyPackages.x86_64-linux.lua51Packages.mini-test": {
     "description": "Test neovim plugins. Part of the mini.nvim suite.",
@@ -126672,7 +126702,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.fzf-lua": {
     "description": "Improved fzf.vim written in lua",
     "pname": "lua5.2-fzf-lua",
-    "version": "0.0.1815-1"
+    "version": "0.0.1823-1"
   },
   "legacyPackages.x86_64-linux.lua52Packages.fzy": {
     "description": "A lua implementation of the fzy fuzzy matching algorithm",
@@ -126692,7 +126722,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.haskell-tools-nvim": {
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "pname": "lua5.2-haskell-tools.nvim",
-    "version": "4.4.3-1"
+    "version": "5.0.0-1"
   },
   "legacyPackages.x86_64-linux.lua52Packages.http": {
     "description": "HTTP library for Lua",
@@ -126712,7 +126742,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.jsregexp": {
     "description": "javascript (ECMA19) regular expressions for lua",
     "pname": "lua5.2-jsregexp",
-    "version": "0.0.7-1"
+    "version": "0.0.7-2"
   },
   "legacyPackages.x86_64-linux.lua52Packages.ldbus": {
     "description": "A Lua library to access dbus.",
@@ -126917,7 +126947,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.lua-zlib": {
     "description": "Simple streaming interface to zlib for Lua.",
     "pname": "lua5.2-lua-zlib",
-    "version": "1.2-2"
+    "version": "1.3-0"
   },
   "legacyPackages.x86_64-linux.lua52Packages.lua_cliargs": {
     "description": "A command-line argument parsing module for Lua",
@@ -127087,7 +127117,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.luasystem": {
     "description": "Platform independent system calls for Lua.",
     "pname": "lua5.2-luasystem",
-    "version": "0.5.1-1"
+    "version": "0.6.0-1"
   },
   "legacyPackages.x86_64-linux.lua52Packages.luatext": {
     "description": "A small library to print colored text",
@@ -127187,7 +127217,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.mimetypes": {
     "description": "A simple library for looking up the MIME types of files.",
     "pname": "lua5.2-mimetypes",
-    "version": "1.0.0-3"
+    "version": "1.1.0-2"
   },
   "legacyPackages.x86_64-linux.lua52Packages.mini-test": {
     "description": "Test neovim plugins. Part of the mini.nvim suite.",
@@ -127557,7 +127587,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.fzf-lua": {
     "description": "Improved fzf.vim written in lua",
     "pname": "lua5.3-fzf-lua",
-    "version": "0.0.1815-1"
+    "version": "0.0.1823-1"
   },
   "legacyPackages.x86_64-linux.lua53Packages.fzy": {
     "description": "A lua implementation of the fzy fuzzy matching algorithm",
@@ -127577,7 +127607,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.haskell-tools-nvim": {
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "pname": "lua5.3-haskell-tools.nvim",
-    "version": "4.4.3-1"
+    "version": "5.0.0-1"
   },
   "legacyPackages.x86_64-linux.lua53Packages.http": {
     "description": "HTTP library for Lua",
@@ -127597,7 +127627,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.jsregexp": {
     "description": "javascript (ECMA19) regular expressions for lua",
     "pname": "lua5.3-jsregexp",
-    "version": "0.0.7-1"
+    "version": "0.0.7-2"
   },
   "legacyPackages.x86_64-linux.lua53Packages.ldbus": {
     "description": "A Lua library to access dbus.",
@@ -127802,7 +127832,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.lua-zlib": {
     "description": "Simple streaming interface to zlib for Lua.",
     "pname": "lua5.3-lua-zlib",
-    "version": "1.2-2"
+    "version": "1.3-0"
   },
   "legacyPackages.x86_64-linux.lua53Packages.lua_cliargs": {
     "description": "A command-line argument parsing module for Lua",
@@ -127972,7 +128002,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.luasystem": {
     "description": "Platform independent system calls for Lua.",
     "pname": "lua5.3-luasystem",
-    "version": "0.5.1-1"
+    "version": "0.6.0-1"
   },
   "legacyPackages.x86_64-linux.lua53Packages.luatext": {
     "description": "A small library to print colored text",
@@ -128072,7 +128102,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.mimetypes": {
     "description": "A simple library for looking up the MIME types of files.",
     "pname": "lua5.3-mimetypes",
-    "version": "1.0.0-3"
+    "version": "1.1.0-2"
   },
   "legacyPackages.x86_64-linux.lua53Packages.mini-test": {
     "description": "Test neovim plugins. Part of the mini.nvim suite.",
@@ -128442,7 +128472,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.fzf-lua": {
     "description": "Improved fzf.vim written in lua",
     "pname": "lua5.4-fzf-lua",
-    "version": "0.0.1815-1"
+    "version": "0.0.1823-1"
   },
   "legacyPackages.x86_64-linux.lua54Packages.fzy": {
     "description": "A lua implementation of the fzy fuzzy matching algorithm",
@@ -128462,7 +128492,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.haskell-tools-nvim": {
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "pname": "lua5.4-haskell-tools.nvim",
-    "version": "4.4.3-1"
+    "version": "5.0.0-1"
   },
   "legacyPackages.x86_64-linux.lua54Packages.http": {
     "description": "HTTP library for Lua",
@@ -128482,7 +128512,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.jsregexp": {
     "description": "javascript (ECMA19) regular expressions for lua",
     "pname": "lua5.4-jsregexp",
-    "version": "0.0.7-1"
+    "version": "0.0.7-2"
   },
   "legacyPackages.x86_64-linux.lua54Packages.ldbus": {
     "description": "A Lua library to access dbus.",
@@ -128682,7 +128712,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.lua-zlib": {
     "description": "Simple streaming interface to zlib for Lua.",
     "pname": "lua5.4-lua-zlib",
-    "version": "1.2-2"
+    "version": "1.3-0"
   },
   "legacyPackages.x86_64-linux.lua54Packages.lua_cliargs": {
     "description": "A command-line argument parsing module for Lua",
@@ -128852,7 +128882,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.luasystem": {
     "description": "Platform independent system calls for Lua.",
     "pname": "lua5.4-luasystem",
-    "version": "0.5.1-1"
+    "version": "0.6.0-1"
   },
   "legacyPackages.x86_64-linux.lua54Packages.luatext": {
     "description": "A small library to print colored text",
@@ -128952,7 +128982,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.mimetypes": {
     "description": "A simple library for looking up the MIME types of files.",
     "pname": "lua5.4-mimetypes",
-    "version": "1.0.0-3"
+    "version": "1.1.0-2"
   },
   "legacyPackages.x86_64-linux.lua54Packages.mini-test": {
     "description": "Test neovim plugins. Part of the mini.nvim suite.",
@@ -129357,7 +129387,7 @@
   "legacyPackages.x86_64-linux.luaPackages.fzf-lua": {
     "description": "Improved fzf.vim written in lua",
     "pname": "lua5.2-fzf-lua",
-    "version": "0.0.1815-1"
+    "version": "0.0.1823-1"
   },
   "legacyPackages.x86_64-linux.luaPackages.fzy": {
     "description": "A lua implementation of the fzy fuzzy matching algorithm",
@@ -129377,7 +129407,7 @@
   "legacyPackages.x86_64-linux.luaPackages.haskell-tools-nvim": {
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "pname": "lua5.2-haskell-tools.nvim",
-    "version": "4.4.3-1"
+    "version": "5.0.0-1"
   },
   "legacyPackages.x86_64-linux.luaPackages.http": {
     "description": "HTTP library for Lua",
@@ -129397,7 +129427,7 @@
   "legacyPackages.x86_64-linux.luaPackages.jsregexp": {
     "description": "javascript (ECMA19) regular expressions for lua",
     "pname": "lua5.2-jsregexp",
-    "version": "0.0.7-1"
+    "version": "0.0.7-2"
   },
   "legacyPackages.x86_64-linux.luaPackages.ldbus": {
     "description": "A Lua library to access dbus.",
@@ -129602,7 +129632,7 @@
   "legacyPackages.x86_64-linux.luaPackages.lua-zlib": {
     "description": "Simple streaming interface to zlib for Lua.",
     "pname": "lua5.2-lua-zlib",
-    "version": "1.2-2"
+    "version": "1.3-0"
   },
   "legacyPackages.x86_64-linux.luaPackages.lua_cliargs": {
     "description": "A command-line argument parsing module for Lua",
@@ -129772,7 +129802,7 @@
   "legacyPackages.x86_64-linux.luaPackages.luasystem": {
     "description": "Platform independent system calls for Lua.",
     "pname": "lua5.2-luasystem",
-    "version": "0.5.1-1"
+    "version": "0.6.0-1"
   },
   "legacyPackages.x86_64-linux.luaPackages.luatext": {
     "description": "A small library to print colored text",
@@ -129872,7 +129902,7 @@
   "legacyPackages.x86_64-linux.luaPackages.mimetypes": {
     "description": "A simple library for looking up the MIME types of files.",
     "pname": "lua5.2-mimetypes",
-    "version": "1.0.0-3"
+    "version": "1.1.0-2"
   },
   "legacyPackages.x86_64-linux.luaPackages.mini-test": {
     "description": "Test neovim plugins. Part of the mini.nvim suite.",
@@ -130267,7 +130297,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.fzf-lua": {
     "description": "Improved fzf.vim written in lua",
     "pname": "luajit2.1-fzf-lua",
-    "version": "0.0.1815-1"
+    "version": "0.0.1823-1"
   },
   "legacyPackages.x86_64-linux.luajitPackages.fzy": {
     "description": "A lua implementation of the fzy fuzzy matching algorithm",
@@ -130287,7 +130317,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.haskell-tools-nvim": {
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "pname": "luajit2.1-haskell-tools.nvim",
-    "version": "4.4.3-1"
+    "version": "5.0.0-1"
   },
   "legacyPackages.x86_64-linux.luajitPackages.http": {
     "description": "HTTP library for Lua",
@@ -130307,7 +130337,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.jsregexp": {
     "description": "javascript (ECMA19) regular expressions for lua",
     "pname": "luajit2.1-jsregexp",
-    "version": "0.0.7-1"
+    "version": "0.0.7-2"
   },
   "legacyPackages.x86_64-linux.luajitPackages.ldbus": {
     "description": "A Lua library to access dbus.",
@@ -130507,7 +130537,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.lua-zlib": {
     "description": "Simple streaming interface to zlib for Lua.",
     "pname": "luajit2.1-lua-zlib",
-    "version": "1.2-2"
+    "version": "1.3-0"
   },
   "legacyPackages.x86_64-linux.luajitPackages.lua_cliargs": {
     "description": "A command-line argument parsing module for Lua",
@@ -130677,7 +130707,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.luasystem": {
     "description": "Platform independent system calls for Lua.",
     "pname": "luajit2.1-luasystem",
-    "version": "0.5.1-1"
+    "version": "0.6.0-1"
   },
   "legacyPackages.x86_64-linux.luajitPackages.luatext": {
     "description": "A small library to print colored text",
@@ -130777,7 +130807,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.mimetypes": {
     "description": "A simple library for looking up the MIME types of files.",
     "pname": "luajit2.1-mimetypes",
-    "version": "1.0.0-3"
+    "version": "1.1.0-2"
   },
   "legacyPackages.x86_64-linux.luajitPackages.mini-test": {
     "description": "Test neovim plugins. Part of the mini.nvim suite.",
@@ -131222,7 +131252,7 @@
   "legacyPackages.x86_64-linux.lunatask": {
     "description": "All-in-one encrypted todo list, notebook, habit and mood tracker, pomodoro timer, and journaling app",
     "pname": "lunatask",
-    "version": "2.0.19"
+    "version": "2.0.20"
   },
   "legacyPackages.x86_64-linux.lunatic": {
     "description": "Erlang inspired runtime for WebAssembly",
@@ -131917,7 +131947,7 @@
   "legacyPackages.x86_64-linux.mac": {
     "description": "APE codec and decompressor",
     "pname": "monkeys-audio",
-    "version": "11.01"
+    "version": "11.05"
   },
   "legacyPackages.x86_64-linux.mac-fdisk": {
     "description": "68K and PowerPC Mac disk partitioning utility, Adélie Linux version",
@@ -132067,7 +132097,7 @@
   "legacyPackages.x86_64-linux.magic-enum": {
     "description": "Static reflection for enums (to string, from string, iteration) for modern C++",
     "pname": "magic-enum",
-    "version": "0.9.6"
+    "version": "0.9.7"
   },
   "legacyPackages.x86_64-linux.magic-vlsi": {
     "description": "VLSI layout tool written in Tcl",
@@ -132882,7 +132912,7 @@
   "legacyPackages.x86_64-linux.mapnik": {
     "description": "Open source toolkit for developing mapping applications",
     "pname": "mapnik",
-    "version": "4.0.5"
+    "version": "4.0.7"
   },
   "legacyPackages.x86_64-linux.mapproxy": {
     "description": "Open source proxy for geospatial data",
@@ -134552,7 +134582,7 @@
   "legacyPackages.x86_64-linux.mediawiki": {
     "description": "Collaborative editing software that runs Wikipedia",
     "pname": "mediawiki",
-    "version": "1.43.0"
+    "version": "1.43.1"
   },
   "legacyPackages.x86_64-linux.mediawriter": {
     "description": "Tool to write images files to portable media",
@@ -137402,7 +137432,7 @@
   "legacyPackages.x86_64-linux.monkeysAudio": {
     "description": "APE codec and decompressor",
     "pname": "monkeys-audio",
-    "version": "11.01"
+    "version": "11.05"
   },
   "legacyPackages.x86_64-linux.monkeysphere": {
     "description": "Leverage the OpenPGP web of trust for SSH and TLS authentication",
@@ -138754,6 +138784,11 @@
     "pname": "mro-unicode-unstable",
     "version": "2013-05-25"
   },
+  "legacyPackages.x86_64-linux.mrpack-install": {
+    "description": "CLI application for installing Minecraft servers and Modrinth modpacks",
+    "pname": "mrpack-install",
+    "version": "0.16.10"
+  },
   "legacyPackages.x86_64-linux.mrpeach": {
     "description": "Collection of Pd objectclasses for OSC-messages",
     "pname": "mrpeach",
@@ -140012,7 +140047,7 @@
   "legacyPackages.x86_64-linux.namespace-cli": {
     "description": "Command line interface for the Namespaces platform",
     "pname": "namespace-cli",
-    "version": "0.0.407"
+    "version": "0.0.408"
   },
   "legacyPackages.x86_64-linux.namespaced-openvpn": {
     "description": "Network namespace isolation for OpenVPN tunnels",
@@ -140242,7 +140277,7 @@
   "legacyPackages.x86_64-linux.natscli": {
     "description": "NATS Command Line Interface",
     "pname": "natscli",
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.natural-docs": {
     "description": "Documentation generator for multiple programming languages",
@@ -140372,7 +140407,7 @@
   "legacyPackages.x86_64-linux.nbxplorer": {
     "description": "Minimalist UTXO tracker for HD Cryptocurrency Wallets",
     "pname": "nbxplorer",
-    "version": "2.5.23"
+    "version": "2.5.25"
   },
   "legacyPackages.x86_64-linux.nc4nix": {
     "description": "Packaging helper for Nextcloud apps",
@@ -141772,17 +141807,17 @@
   "legacyPackages.x86_64-linux.nextcloud29": {
     "description": "Sharing solution for files, calendars, contacts and more",
     "pname": "nextcloud",
-    "version": "29.0.14"
+    "version": "29.0.15"
   },
   "legacyPackages.x86_64-linux.nextcloud30": {
     "description": "Sharing solution for files, calendars, contacts and more",
     "pname": "nextcloud",
-    "version": "30.0.8"
+    "version": "30.0.9"
   },
   "legacyPackages.x86_64-linux.nextcloud31": {
     "description": "Sharing solution for files, calendars, contacts and more",
     "pname": "nextcloud",
-    "version": "31.0.2"
+    "version": "31.0.3"
   },
   "legacyPackages.x86_64-linux.nextdns": {
     "description": "NextDNS DNS/53 to DoH Proxy",
@@ -141857,7 +141892,7 @@
   "legacyPackages.x86_64-linux.nezha-theme-nazhua": {
     "description": "Nezha monitoring theme called Nazhua",
     "pname": "nezha-theme-nazhua",
-    "version": "0.6.3"
+    "version": "0.6.4"
   },
   "legacyPackages.x86_64-linux.nezha-theme-user": {
     "description": "Nezha monitoring user frontend based on next.js",
@@ -144172,7 +144207,7 @@
   "legacyPackages.x86_64-linux.nuclear": {
     "description": "Streaming music player that finds free music for you",
     "pname": "nuclear",
-    "version": "0.6.43"
+    "version": "0.6.46"
   },
   "legacyPackages.x86_64-linux.nuclei": {
     "description": "Tool for configurable targeted scanning",
@@ -152882,7 +152917,7 @@
   "legacyPackages.x86_64-linux.openrazer-daemon": {
     "description": "Entirely open source user-space daemon that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer-daemon",
-    "version": "3.9.0"
+    "version": "3.10.1"
   },
   "legacyPackages.x86_64-linux.openrct2": {
     "description": "Open source re-implementation of RollerCoaster Tycoon 2 (original game required)",
@@ -154172,7 +154207,7 @@
   "legacyPackages.x86_64-linux.ospd-openvas": {
     "description": "OSP server implementation to allow GVM to remotely control an OpenVAS Scanner",
     "pname": "ospd-openvas",
-    "version": "22.8.1"
+    "version": "22.8.2"
   },
   "legacyPackages.x86_64-linux.osqp": {
     "description": "Quadratic programming solver using operator splitting",
@@ -189547,7 +189582,7 @@
   "legacyPackages.x86_64-linux.picolibc": {
     "description": "C library designed for embedded 32- and 64- bit systems",
     "pname": "picolibc",
-    "version": "1.8.9"
+    "version": "1.8.9-2"
   },
   "legacyPackages.x86_64-linux.picolisp": {
     "description": "Pragmatic programming language",
@@ -193992,7 +194027,7 @@
   "legacyPackages.x86_64-linux.podman-desktop": {
     "description": "A graphical tool for developing on containers and Kubernetes",
     "pname": "podman-desktop",
-    "version": "1.17.1"
+    "version": "1.17.2"
   },
   "legacyPackages.x86_64-linux.podman-tui": {
     "description": "Podman Terminal UI",
@@ -194167,7 +194202,7 @@
   "legacyPackages.x86_64-linux.polkadot": {
     "description": "Implementation of a https://polkadot.network node in Rust based on the Substrate framework",
     "pname": "polkadot",
-    "version": "2412-4"
+    "version": "2503"
   },
   "legacyPackages.x86_64-linux.polkit": {
     "description": "Toolkit for defining and handling the policy that allows unprivileged processes to speak to privileged processes",
@@ -194544,6 +194579,11 @@
     "pname": "postgres-lsp",
     "version": "0-unstable-2024-03-24"
   },
+  "legacyPackages.x86_64-linux.postgres-websockets": {
+    "description": "Middleware to map LISTEN/NOTIFY messages to Websockets",
+    "pname": "postgres-websockets",
+    "version": "0.11.2.2"
+  },
   "legacyPackages.x86_64-linux.postgresql": {
     "description": "Powerful, open source object-relational database system",
     "pname": "postgresql",
@@ -194837,12 +194877,12 @@
   "legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql13JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -195147,12 +195187,12 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -195457,12 +195497,12 @@
   "legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql14JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -195767,12 +195807,12 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -196077,12 +196117,12 @@
   "legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql15JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -196387,12 +196427,12 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -196697,12 +196737,12 @@
   "legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql16JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197007,12 +197047,12 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197317,12 +197357,12 @@
   "legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql17JitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197627,12 +197667,12 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197937,12 +197977,12 @@
   "legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresqlJitPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -198247,12 +198287,12 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -200537,7 +200577,7 @@
   "legacyPackages.x86_64-linux.pulumi": {
     "description": "Pulumi is a cloud development platform that makes creating cloud programs easy and productive",
     "pname": "pulumi",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.pulumi-bin": {
     "description": "Pulumi is a cloud development platform that makes creating cloud programs easy and productive",
@@ -200567,7 +200607,7 @@
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-go": {
     "description": "Language host for Pulumi programs written in Go",
     "pname": "pulumi-go",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-hcloud": {
     "description": "Hetzner Cloud Pulumi resource package, providing multi-language access to Hetzner Cloud",
@@ -200577,32 +200617,37 @@
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-language-go": {
     "description": "Language host for Pulumi programs written in Go",
     "pname": "pulumi-go",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-language-nodejs": {
     "description": "Language host for Pulumi programs written in TypeScript & JavaScript (Node.js)",
     "pname": "pulumi-nodejs",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-language-python": {
     "description": "Language host for Pulumi programs written in Python",
     "pname": "pulumi-python",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-nodejs": {
     "description": "Language host for Pulumi programs written in TypeScript & JavaScript (Node.js)",
     "pname": "pulumi-nodejs",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-python": {
     "description": "Language host for Pulumi programs written in Python",
     "pname": "pulumi-python",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-random": {
     "description": "Pulumi provider that safely enables randomness for resources",
     "pname": "pulumi-random",
     "version": "4.14.0"
+  },
+  "legacyPackages.x86_64-linux.pulumiPackages.pulumi-scala": {
+    "description": "Besom - a Pulumi SDK for Scala. Also, incidentally, a broom made of twigs tied round a stick. Brooms and besoms are used for protection, to ward off evil spirits, and cleansing of ritual spaces",
+    "pname": "pulumi-scala",
+    "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.pulumiPackages.pulumi-yandex-unofficial": {
     "description": "Unofficial Yandex Cloud Resource Provider",
@@ -201772,7 +201817,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aider-chat": {
     "description": "AI pair programming in your terminal",
     "pname": "python3.12-aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.aigpy": {
     "description": "Python library with miscellaneous tools",
@@ -203557,7 +203602,7 @@
   "legacyPackages.x86_64-linux.python312Packages.arxiv": {
     "description": "Python wrapper for the arXiv API",
     "pname": "python3.12-arxiv",
-    "version": "2.1.3"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.arxiv2bib": {
     "description": "Get a BibTeX entry from an arXiv id number, using the arxiv.org API",
@@ -205617,7 +205662,7 @@
   "legacyPackages.x86_64-linux.python312Packages.bindep": {
     "description": "Bindep is a tool for checking the presence of binary packages needed to use an application / library",
     "pname": "python3.12-bindep",
-    "version": "2.12.0"
+    "version": "2.13.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.binho-host-adapter": {
     "description": "Python library for Binho Multi-Protocol USB Host Adapters",
@@ -206087,7 +206132,7 @@
   "legacyPackages.x86_64-linux.python312Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.12-boto3-stubs",
-    "version": "1.37.30"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python312Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -207962,12 +208007,12 @@
   "legacyPackages.x86_64-linux.python312Packages.conduit": {
     "description": "Python bindings for the conduit library",
     "pname": "python3.12-conduit",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.conduit-mpi": {
     "description": "Python bindings for the conduit library",
     "pname": "python3.12-conduit",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.confection": {
     "description": "Library that offers a configuration system",
@@ -216414,6 +216459,11 @@
     "pname": "python3.12-hf-transfer",
     "version": "0.1.8"
   },
+  "legacyPackages.x86_64-linux.python312Packages.hf-xet": {
+    "description": "Xet client tech, used in huggingface_hub",
+    "pname": "python3.12-hf-xet",
+    "version": "1.0.3"
+  },
   "legacyPackages.x86_64-linux.python312Packages.hfst": {
     "description": "Python bindings for HFST",
     "pname": "python3.12-hfst",
@@ -221397,7 +221447,7 @@
   "legacyPackages.x86_64-linux.python312Packages.marko": {
     "description": "Markdown parser with high extensibility",
     "pname": "python3.12-marko",
-    "version": "2.1.2"
+    "version": "2.1.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.markuppy": {
     "description": "HTML/XML generator",
@@ -222327,7 +222377,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mizani": {
     "description": "Scales for Python",
     "pname": "python3.12-mizani",
-    "version": "0.13.2"
+    "version": "0.13.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.mkdocs": {
     "description": "Project documentation with Markdown / static website generator",
@@ -223007,7 +223057,7 @@
   "legacyPackages.x86_64-linux.python312Packages.msgraph-sdk": {
     "description": "Microsoft Graph SDK for Python",
     "pname": "python3.12-msgraph-sdk",
-    "version": "1.26.0"
+    "version": "1.27.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.msgspec": {
     "description": "Module to handle JSON/MessagePack",
@@ -223792,7 +223842,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-dynamodb": {
     "description": "Type annotations for boto3 dynamodb",
     "pname": "python3.12-mypy-boto3-dynamodb",
-    "version": "1.37.12"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-dynamodbstreams": {
     "description": "Type annotations for boto3 dynamodbstreams",
@@ -223967,7 +224017,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-glue": {
     "description": "Type annotations for boto3 glue",
     "pname": "python3.12-mypy-boto3-glue",
-    "version": "1.37.29"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-grafana": {
     "description": "Type annotations for boto3 grafana",
@@ -223987,7 +224037,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-groundstation": {
     "description": "Type annotations for boto3 groundstation",
     "pname": "python3.12-mypy-boto3-groundstation",
-    "version": "1.37.0"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-guardduty": {
     "description": "Type annotations for boto3 guardduty",
@@ -224962,7 +225012,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-transfer": {
     "description": "Type annotations for boto3 transfer",
     "pname": "python3.12-mypy-boto3-transfer",
-    "version": "1.37.29"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-translate": {
     "description": "Type annotations for boto3 translate",
@@ -226742,12 +226792,12 @@
   "legacyPackages.x86_64-linux.python312Packages.openrazer": {
     "description": "Entirely open source Python library that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "python3.12-openrazer",
-    "version": "3.9.0"
+    "version": "3.10.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.openrazer-daemon": {
     "description": "Entirely open source user-space daemon that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "python3.12-openrazer-daemon",
-    "version": "3.9.0"
+    "version": "3.10.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.openrgb-python": {
     "description": "Module for the OpenRGB SDK",
@@ -228747,7 +228797,7 @@
   "legacyPackages.x86_64-linux.python312Packages.playwrightcapture": {
     "description": "Capture a URL with Playwright",
     "pname": "python3.12-playwrightcapture",
-    "version": "1.28.5"
+    "version": "1.28.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.plexapi": {
     "description": "Python bindings for the Plex API",
@@ -228832,7 +228882,7 @@
   "legacyPackages.x86_64-linux.python312Packages.plugp100": {
     "description": "Python library to control Tapo Plug P100 devices",
     "pname": "python3.12-plugp100",
-    "version": "5.1.3"
+    "version": "5.1.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.plugwise": {
     "description": "Python module for Plugwise Smiles, Stretch and USB stick",
@@ -229707,7 +229757,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pulumi": {
     "description": "Modern Infrastructure as Code. Any cloud, any language",
     "pname": "python3.12-pulumi",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pulumi-aws": {
     "description": "Pulumi python amazon web services provider",
@@ -231602,7 +231652,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pygmt": {
     "description": "Python interface for the Generic Mapping Tools",
     "pname": "python3.12-pygmt",
-    "version": "0.14.2"
+    "version": "0.15.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pygnmi": {
     "description": "Pure Python gNMI client to manage network functions and collect telemetry",
@@ -238822,7 +238872,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ruff": {
     "description": "Extremely fast Python linter and code formatter",
     "pname": "python3.12-ruff",
-    "version": "0.11.4"
+    "version": "0.11.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.ruff-api": {
     "description": "Experimental Python API for Ruff",
@@ -248752,7 +248802,7 @@
   "legacyPackages.x86_64-linux.python312Packages.xrootd": {
     "description": "XRootD central repository",
     "pname": "python3.12-xrootd",
-    "version": "5.7.1"
+    "version": "5.8.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.xsdata": {
     "description": "Naive XML & JSON bindings for Python",
@@ -250122,7 +250172,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aider-chat": {
     "description": "AI pair programming in your terminal",
     "pname": "python3.13-aider-chat",
-    "version": "0.81.1"
+    "version": "0.81.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.aigpy": {
     "description": "Python library with miscellaneous tools",
@@ -251902,7 +251952,7 @@
   "legacyPackages.x86_64-linux.python313Packages.arxiv": {
     "description": "Python wrapper for the arXiv API",
     "pname": "python3.13-arxiv",
-    "version": "2.1.3"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.arxiv2bib": {
     "description": "Get a BibTeX entry from an arXiv id number, using the arxiv.org API",
@@ -253967,7 +254017,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bindep": {
     "description": "Bindep is a tool for checking the presence of binary packages needed to use an application / library",
     "pname": "python3.13-bindep",
-    "version": "2.12.0"
+    "version": "2.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.binho-host-adapter": {
     "description": "Python library for Binho Multi-Protocol USB Host Adapters",
@@ -254437,7 +254487,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.37.30"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -256312,12 +256362,12 @@
   "legacyPackages.x86_64-linux.python313Packages.conduit": {
     "description": "Python bindings for the conduit library",
     "pname": "python3.13-conduit",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.conduit-mpi": {
     "description": "Python bindings for the conduit library",
     "pname": "python3.13-conduit",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.confection": {
     "description": "Library that offers a configuration system",
@@ -264764,6 +264814,11 @@
     "pname": "python3.13-hf-transfer",
     "version": "0.1.8"
   },
+  "legacyPackages.x86_64-linux.python313Packages.hf-xet": {
+    "description": "Xet client tech, used in huggingface_hub",
+    "pname": "python3.13-hf-xet",
+    "version": "1.0.3"
+  },
   "legacyPackages.x86_64-linux.python313Packages.hfst": {
     "description": "Python bindings for HFST",
     "pname": "python3.13-hfst",
@@ -269747,7 +269802,7 @@
   "legacyPackages.x86_64-linux.python313Packages.marko": {
     "description": "Markdown parser with high extensibility",
     "pname": "python3.13-marko",
-    "version": "2.1.2"
+    "version": "2.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.markuppy": {
     "description": "HTML/XML generator",
@@ -270677,7 +270732,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mizani": {
     "description": "Scales for Python",
     "pname": "python3.13-mizani",
-    "version": "0.13.2"
+    "version": "0.13.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.mkdocs": {
     "description": "Project documentation with Markdown / static website generator",
@@ -271357,7 +271412,7 @@
   "legacyPackages.x86_64-linux.python313Packages.msgraph-sdk": {
     "description": "Microsoft Graph SDK for Python",
     "pname": "python3.13-msgraph-sdk",
-    "version": "1.26.0"
+    "version": "1.27.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.msgspec": {
     "description": "Module to handle JSON/MessagePack",
@@ -272142,7 +272197,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-dynamodb": {
     "description": "Type annotations for boto3 dynamodb",
     "pname": "python3.13-mypy-boto3-dynamodb",
-    "version": "1.37.12"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-dynamodbstreams": {
     "description": "Type annotations for boto3 dynamodbstreams",
@@ -272317,7 +272372,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-glue": {
     "description": "Type annotations for boto3 glue",
     "pname": "python3.13-mypy-boto3-glue",
-    "version": "1.37.29"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-grafana": {
     "description": "Type annotations for boto3 grafana",
@@ -272337,7 +272392,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-groundstation": {
     "description": "Type annotations for boto3 groundstation",
     "pname": "python3.13-mypy-boto3-groundstation",
-    "version": "1.37.0"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-guardduty": {
     "description": "Type annotations for boto3 guardduty",
@@ -273312,7 +273367,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-transfer": {
     "description": "Type annotations for boto3 transfer",
     "pname": "python3.13-mypy-boto3-transfer",
-    "version": "1.37.29"
+    "version": "1.37.31"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-translate": {
     "description": "Type annotations for boto3 translate",
@@ -275092,12 +275147,12 @@
   "legacyPackages.x86_64-linux.python313Packages.openrazer": {
     "description": "Entirely open source Python library that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "python3.13-openrazer",
-    "version": "3.9.0"
+    "version": "3.10.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.openrazer-daemon": {
     "description": "Entirely open source user-space daemon that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "python3.13-openrazer-daemon",
-    "version": "3.9.0"
+    "version": "3.10.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.openrgb-python": {
     "description": "Module for the OpenRGB SDK",
@@ -277097,7 +277152,7 @@
   "legacyPackages.x86_64-linux.python313Packages.playwrightcapture": {
     "description": "Capture a URL with Playwright",
     "pname": "python3.13-playwrightcapture",
-    "version": "1.28.5"
+    "version": "1.28.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.plexapi": {
     "description": "Python bindings for the Plex API",
@@ -277182,7 +277237,7 @@
   "legacyPackages.x86_64-linux.python313Packages.plugp100": {
     "description": "Python library to control Tapo Plug P100 devices",
     "pname": "python3.13-plugp100",
-    "version": "5.1.3"
+    "version": "5.1.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.plugwise": {
     "description": "Python module for Plugwise Smiles, Stretch and USB stick",
@@ -278057,7 +278112,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pulumi": {
     "description": "Modern Infrastructure as Code. Any cloud, any language",
     "pname": "python3.13-pulumi",
-    "version": "3.156.0"
+    "version": "3.162.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pulumi-aws": {
     "description": "Pulumi python amazon web services provider",
@@ -279952,7 +280007,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pygmt": {
     "description": "Python interface for the Generic Mapping Tools",
     "pname": "python3.13-pygmt",
-    "version": "0.14.2"
+    "version": "0.15.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pygnmi": {
     "description": "Pure Python gNMI client to manage network functions and collect telemetry",
@@ -287172,7 +287227,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ruff": {
     "description": "Extremely fast Python linter and code formatter",
     "pname": "python3.13-ruff",
-    "version": "0.11.4"
+    "version": "0.11.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.ruff-api": {
     "description": "Experimental Python API for Ruff",
@@ -297132,7 +297187,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xrootd": {
     "description": "XRootD central repository",
     "pname": "python3.13-xrootd",
-    "version": "5.7.1"
+    "version": "5.8.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.xsdata": {
     "description": "Naive XML & JSON bindings for Python",
@@ -298132,7 +298187,7 @@
   "legacyPackages.x86_64-linux.q2pro": {
     "description": "Enhanced Quake 2 client and server focused on multiplayer",
     "pname": "q2pro",
-    "version": "0-unstable-2025-03-26"
+    "version": "0-unstable-2025-04-03"
   },
   "legacyPackages.x86_64-linux.q4wine": {
     "description": "Qt GUI for Wine to manage prefixes and applications",
@@ -299727,7 +299782,7 @@
   "legacyPackages.x86_64-linux.qtcreator": {
     "description": "Cross-platform IDE tailored to the needs of Qt developers",
     "pname": "qtcreator",
-    "version": "16.0.0"
+    "version": "16.0.1"
   },
   "legacyPackages.x86_64-linux.qtemu": {
     "description": "Qt-based front-end for QEMU emulator",
@@ -301117,7 +301172,7 @@
   "legacyPackages.x86_64-linux.readarr": {
     "description": "Usenet/BitTorrent ebook downloader",
     "pname": "readarr",
-    "version": "0.4.12.2753"
+    "version": "0.4.13.2760"
   },
   "legacyPackages.x86_64-linux.readeck": {
     "description": "Web application that lets you save the readable content of web pages you want to keep forever.",
@@ -315292,7 +315347,7 @@
   "legacyPackages.x86_64-linux.ruff": {
     "description": "Extremely fast Python linter and code formatter",
     "pname": "ruff",
-    "version": "0.11.4"
+    "version": "0.11.5"
   },
   "legacyPackages.x86_64-linux.ruff-lsp": {
     "description": "Language Server Protocol implementation for Ruff",
@@ -316392,7 +316447,7 @@
   "legacyPackages.x86_64-linux.saucectl": {
     "description": "Command line interface for the Sauce Labs platform",
     "pname": "saucectl",
-    "version": "0.194.1"
+    "version": "0.194.2"
   },
   "legacyPackages.x86_64-linux.sauerbraten": {
     "description": "Free multiplayer & singleplayer first person shooter, the successor of the Cube FPS",
@@ -342342,7 +342397,7 @@
   "legacyPackages.x86_64-linux.signal-desktop-source": {
     "description": "Private, simple, and secure messenger (nixpkgs build)",
     "pname": "signal-desktop-source",
-    "version": "7.49.0"
+    "version": "7.50.0"
   },
   "legacyPackages.x86_64-linux.signal-export": {
     "description": "Export your Signal chats to markdown files with attachments",
@@ -342452,7 +342507,7 @@
   "legacyPackages.x86_64-linux.sile": {
     "description": "Typesetting system",
     "pname": "sile",
-    "version": "0.15.11"
+    "version": "0.15.12"
   },
   "legacyPackages.x86_64-linux.silenthound": {
     "description": "Tool to enumerate an Active Directory Domain",
@@ -342802,7 +342857,7 @@
   "legacyPackages.x86_64-linux.sish": {
     "description": "HTTP(S)/WS(S)/TCP Tunnels to localhost",
     "pname": "sish",
-    "version": "2.17.0"
+    "version": "2.18.0"
   },
   "legacyPackages.x86_64-linux.sispmctl": {
     "description": "USB controlled powerstrips management software",
@@ -347492,7 +347547,7 @@
   "legacyPackages.x86_64-linux.suitesparse-graphblas": {
     "description": "Graph algorithms in the language of linear algebra",
     "pname": "suitesparse-graphblas",
-    "version": "10.0.2"
+    "version": "10.0.3"
   },
   "legacyPackages.x86_64-linux.suitesparse_4_2": {
     "description": "Suite of sparse matrix algorithms",
@@ -350797,7 +350852,7 @@
   "legacyPackages.x86_64-linux.terraform-local": {
     "description": "Terraform CLI wrapper to deploy your Terraform applications directly to LocalStack",
     "pname": "terraform_local",
-    "version": "0.20.1"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.terraform-ls": {
     "description": "Terraform Language Server (official)",
@@ -375462,12 +375517,12 @@
   "legacyPackages.x86_64-linux.thunderbird-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "128.8.1esr"
+    "version": "128.9.1esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-bin-unwrapped": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "128.8.1esr"
+    "version": "128.9.1esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-esr": {
     "description": "Full-featured e-mail client",
@@ -375652,7 +375707,7 @@
   "legacyPackages.x86_64-linux.tiledb": {
     "description": "TileDB allows you to manage the massive dense and sparse multi-dimensional array data",
     "pname": "tiledb",
-    "version": "2.18.2"
+    "version": "2.27.2"
   },
   "legacyPackages.x86_64-linux.tilem": {
     "description": "Emulator and debugger for Texas Instruments Z80-based graphing calculators",
@@ -375732,7 +375787,7 @@
   "legacyPackages.x86_64-linux.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.19.1"
+    "version": "2.19.2"
   },
   "legacyPackages.x86_64-linux.timescaledb-parallel-copy": {
     "description": "Bulk, parallel insert of CSV records into PostgreSQL",
@@ -379292,7 +379347,7 @@
   "legacyPackages.x86_64-linux.twitch-cli": {
     "description": "Official Twitch CLI to make developing on Twitch easier",
     "pname": "twitch-cli",
-    "version": "1.1.24"
+    "version": "1.1.25"
   },
   "legacyPackages.x86_64-linux.twitch-dl": {
     "description": "CLI tool for downloading videos from Twitch",
@@ -379302,7 +379357,7 @@
   "legacyPackages.x86_64-linux.twitch-hls-client": {
     "description": "Minimal CLI client for watching/recording Twitch streams",
     "pname": "twitch-hls-client",
-    "version": "1.3.13"
+    "version": "1.3.14"
   },
   "legacyPackages.x86_64-linux.twitch-tui": {
     "description": "Twitch chat in the terminal",
@@ -383002,7 +383057,7 @@
   "legacyPackages.x86_64-linux.viceroy": {
     "description": "Viceroy provides local testing for developers working with Compute@Edge",
     "pname": "viceroy",
-    "version": "0.12.3"
+    "version": "0.12.4"
   },
   "legacyPackages.x86_64-linux.victor-mono": {
     "description": "Free programming font with cursive italics and ligatures",
@@ -385582,7 +385637,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.fzf-lua": {
     "description": "Improved fzf.vim written in lua",
     "pname": "vimplugin-luajit2.1-fzf-lua",
-    "version": "0.0.1815-1-unstable-0.0.1815-1"
+    "version": "0.0.1823-1-unstable-0.0.1823-1"
   },
   "legacyPackages.x86_64-linux.vimPlugins.fzf-vim": {
     "description": "",
@@ -385887,7 +385942,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.haskell-tools-nvim": {
     "description": " 🦥 Supercharge your Haskell experience in neovim!",
     "pname": "vimplugin-luajit2.1-haskell-tools.nvim",
-    "version": "4.4.3-1-unstable-4.4.3-1"
+    "version": "5.0.0-1-unstable-5.0.0-1"
   },
   "legacyPackages.x86_64-linux.vimPlugins.haskell-vim": {
     "description": "",
@@ -397487,7 +397542,7 @@
   "legacyPackages.x86_64-linux.wakapi": {
     "description": "Minimalist self-hosted WakaTime-compatible backend for coding statistics",
     "pname": "wakapi",
-    "version": "2.13.2"
+    "version": "2.13.3"
   },
   "legacyPackages.x86_64-linux.wakatime": {
     "description": "WakaTime command line interface",
@@ -397657,7 +397712,7 @@
   "legacyPackages.x86_64-linux.wasabiwallet": {
     "description": "Privacy focused Bitcoin wallet",
     "pname": "wasabiwallet",
-    "version": "2.0.8.1"
+    "version": "2.5.1"
   },
   "legacyPackages.x86_64-linux.wash-cli": {
     "description": "wasmCloud Shell (wash) CLI tool",
@@ -398727,7 +398782,7 @@
   "legacyPackages.x86_64-linux.wget2": {
     "description": "Successor of GNU Wget, a file and recursive website downloader",
     "pname": "wget2",
-    "version": "2.1.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.wgetpaste": {
     "description": "Command-line interface to various pastebins",
@@ -401002,7 +401057,7 @@
   "legacyPackages.x86_64-linux.xcp": {
     "description": "Extended cp(1)",
     "pname": "xcp",
-    "version": "0.24.0"
+    "version": "0.24.1"
   },
   "legacyPackages.x86_64-linux.xcpc": {
     "description": "Portable Amstrad CPC 464/664/6128 emulator written in C",
@@ -401097,7 +401152,7 @@
   "legacyPackages.x86_64-linux.xdg-desktop-portal-termfilechooser": {
     "description": "xdg-desktop-portal backend for choosing files with your favorite file chooser",
     "pname": "xdg-desktop-portal-termfilechooser",
-    "version": "0.4.0"
+    "version": "1.0.5"
   },
   "legacyPackages.x86_64-linux.xdg-desktop-portal-wlr": {
     "description": "xdg-desktop-portal backend for wlroots",
@@ -401887,7 +401942,7 @@
   "legacyPackages.x86_64-linux.xl2tpd": {
     "description": "Layer 2 Tunnelling Protocol Daemon (RFC 2661)",
     "pname": "xl2tpd",
-    "version": "1.3.18"
+    "version": "1.3.19"
   },
   "legacyPackages.x86_64-linux.xlayoutdisplay": {
     "description": "Detects and arranges linux display outputs, using XRandR for detection and xrandr for arrangement",
@@ -403627,7 +403682,7 @@
   "legacyPackages.x86_64-linux.xrootd": {
     "description": "High performance, scalable fault tolerant data access",
     "pname": "xrootd",
-    "version": "5.7.1"
+    "version": "5.8.0"
   },
   "legacyPackages.x86_64-linux.xrq": {
     "description": "X utility for querying xrdb",
@@ -404427,7 +404482,7 @@
   "legacyPackages.x86_64-linux.yaziPlugins.bypass": {
     "description": "Yazi plugin for skipping directories with only a single sub-directory.",
     "pname": "bypass.yazi",
-    "version": "0-unstable-2025-02-16"
+    "version": "0-unstable-2025-04-09"
   },
   "legacyPackages.x86_64-linux.yaziPlugins.chmod": {
     "description": "Execute chmod on the selected files to change their mode",
@@ -404438,6 +404493,11 @@
     "description": "Diff the selected file with the hovered file, create a living patch, and copy it to the clipboard",
     "pname": "diff.yazi",
     "version": "25.2.7-unstable-2025-03-02"
+  },
+  "legacyPackages.x86_64-linux.yaziPlugins.duckdb": {
+    "description": "Yazi plugin that uses duckdb to preview data files.",
+    "pname": "duckdb.yazi",
+    "version": "25.4.8-unstable-2025-04-08"
   },
   "legacyPackages.x86_64-linux.yaziPlugins.full-border": {
     "description": "Add a full border to Yazi to make it look fancier",
@@ -404458,6 +404518,11 @@
     "description": "Switch the preview pane between hidden and shown",
     "pname": "jump-to-char.yazi",
     "version": "25.2.26-unstable-2025-03-02"
+  },
+  "legacyPackages.x86_64-linux.yaziPlugins.lazygit": {
+    "description": "Lazygit plugin for yazi.",
+    "pname": "lazygit.yazi",
+    "version": "0-unstable-2025-03-31"
   },
   "legacyPackages.x86_64-linux.yaziPlugins.lsar": {
     "description": "Previewing archive contents with lsar",
@@ -404499,6 +404564,11 @@
     "pname": "ouch.yazi",
     "version": "0-unstable-2025-04-09"
   },
+  "legacyPackages.x86_64-linux.yaziPlugins.projects": {
+    "description": "A yazi plugin that adds the functionality to save and load projects.",
+    "pname": "projects.yazi",
+    "version": "0-unstable-2025-03-02"
+  },
   "legacyPackages.x86_64-linux.yaziPlugins.relative-motions": {
     "description": "Yazi plugin based about vim motions.",
     "pname": "relative-motions.yazi",
@@ -404508,6 +404578,11 @@
     "description": "Undo/Recover trashed files/folders.",
     "pname": "restore.yazi",
     "version": "25.2.7-unstable-2025-04-04"
+  },
+  "legacyPackages.x86_64-linux.yaziPlugins.rich-preview": {
+    "description": "Preview file types using rich in Yazi.",
+    "pname": "rich-preview.yazi",
+    "version": "0-unstable-2025-01-18"
   },
   "legacyPackages.x86_64-linux.yaziPlugins.smart-enter": {
     "description": "Previewing archive contents with smart-enter",
@@ -404529,6 +404604,11 @@
     "pname": "sudo.yazi",
     "version": "0-unstable-2025-02-08"
   },
+  "legacyPackages.x86_64-linux.yaziPlugins.time-travel": {
+    "description": "A yazi plugin for browsing backwards and forwards in time via BTRFS / ZFS snapshots.",
+    "pname": "time-travel.yazi",
+    "version": "0-unstable-2025-03-02"
+  },
   "legacyPackages.x86_64-linux.yaziPlugins.toggle-pane": {
     "description": "Previewing archive contents with toggle-pane",
     "pname": "toggle-pane.yazi",
@@ -404538,6 +404618,11 @@
     "description": "Previewing archive contents with vcs-files",
     "pname": "vcs-files.yazi",
     "version": "25.3.7-unstable-2025-03-07"
+  },
+  "legacyPackages.x86_64-linux.yaziPlugins.yatline": {
+    "description": "Yazi plugin for customizing both header-line and status-line.",
+    "pname": "yatline.yazi",
+    "version": "0-unstable-2025-03-05"
   },
   "legacyPackages.x86_64-linux.ycmd": {
     "description": "Code-completion and comprehension server",
@@ -405952,7 +406037,7 @@
   "legacyPackages.x86_64-linux.zint": {
     "description": "Barcode generating tool and library",
     "pname": "zint",
-    "version": "2.13.0"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.zip": {
     "description": "Compressor/archiver for creating and modifying zipfiles",
