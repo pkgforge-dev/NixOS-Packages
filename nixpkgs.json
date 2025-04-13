@@ -1482,7 +1482,7 @@
   "legacyPackages.x86_64-linux.affine": {
     "description": "Workspace with fully merged docs, whiteboards and databases",
     "pname": "affine",
-    "version": "0.20.5"
+    "version": "0.21.2"
   },
   "legacyPackages.x86_64-linux.affine-bin": {
     "description": "Workspace with fully merged docs, whiteboards and databases",
@@ -3707,7 +3707,7 @@
   "legacyPackages.x86_64-linux.aldente": {
     "description": "macOS tool to limit maximum charging percentage",
     "pname": "aldente",
-    "version": "1.31.3"
+    "version": "1.32"
   },
   "legacyPackages.x86_64-linux.aldo": {
     "description": "Morse code training program",
@@ -7612,7 +7612,7 @@
   "legacyPackages.x86_64-linux.angular-language-server": {
     "description": "LSP for angular completions, AOT diagnostic, quick info and go to definitions",
     "pname": "angular-language-server",
-    "version": "19.2.2"
+    "version": "19.2.3"
   },
   "legacyPackages.x86_64-linux.ani-cli": {
     "description": "Cli tool to browse and play anime",
@@ -8197,7 +8197,7 @@
   "legacyPackages.x86_64-linux.apacheHttpdPackages.php": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.apacheHttpdPackages.subversion": {
     "description": "Version control system intended to be a compelling replacement for CVS in the open source community",
@@ -8307,7 +8307,7 @@
   "legacyPackages.x86_64-linux.apacheHttpdPackages_2_4.php": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.apacheHttpdPackages_2_4.subversion": {
     "description": "Version control system intended to be a compelling replacement for CVS in the open source community",
@@ -11697,7 +11697,7 @@
   "legacyPackages.x86_64-linux.ayatana-indicator-session": {
     "description": "Ayatana Indicator showing session management, status and user switching",
     "pname": "ayatana-indicator-session",
-    "version": "24.5.0"
+    "version": "24.5.1"
   },
   "legacyPackages.x86_64-linux.ayatana-indicator-sound": {
     "description": "Ayatana Indicator for managing system sound",
@@ -14897,12 +14897,12 @@
   "legacyPackages.x86_64-linux.bitwarden-directory-connector": {
     "description": "LDAP connector for Bitwarden",
     "pname": "bitwarden-directory-connector",
-    "version": "2025.3.0"
+    "version": "2025.4.0"
   },
   "legacyPackages.x86_64-linux.bitwarden-directory-connector-cli": {
     "description": "LDAP connector for Bitwarden",
     "pname": "bitwarden-directory-connector-cli",
-    "version": "2025.3.0"
+    "version": "2025.4.0"
   },
   "legacyPackages.x86_64-linux.bitwarden-menu": {
     "description": "Dmenu/Rofi frontend for managing Bitwarden vaults. Uses the Bitwarden CLI tool to interact with the Bitwarden database",
@@ -18142,7 +18142,7 @@
   "legacyPackages.x86_64-linux.cargo-crev": {
     "description": "Cryptographically verifiable code review system for the cargo (Rust) package manager",
     "pname": "cargo-crev",
-    "version": "0.26.3"
+    "version": "0.26.4"
   },
   "legacyPackages.x86_64-linux.cargo-criterion": {
     "description": "Cargo extension for running Criterion.rs benchmarks",
@@ -20162,7 +20162,7 @@
   "legacyPackages.x86_64-linux.checkov": {
     "description": "Static code analysis tool for infrastructure-as-code",
     "pname": "checkov",
-    "version": "3.2.400"
+    "version": "3.2.403"
   },
   "legacyPackages.x86_64-linux.checkpolicy": {
     "description": "SELinux policy compiler",
@@ -24197,7 +24197,7 @@
   "legacyPackages.x86_64-linux.claude-code": {
     "description": "An agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "0.2.67"
+    "version": "0.2.69"
   },
   "legacyPackages.x86_64-linux.claws": {
     "description": "Interactive command line client for testing websocket servers",
@@ -32412,7 +32412,7 @@
   "legacyPackages.x86_64-linux.devenv": {
     "description": "Fast, Declarative, Reproducible, and Composable Developer Environments",
     "pname": "devenv",
-    "version": "1.4.1"
+    "version": "1.5"
   },
   "legacyPackages.x86_64-linux.devhelp": {
     "description": "API documentation browser for GNOME",
@@ -34477,12 +34477,12 @@
   "legacyPackages.x86_64-linux.dotnet-aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.2.25164.1"
+    "version": "10.0.0-preview.3.25172.1"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_6": {
     "description": "ASP.NET Core Runtime 6.0.36 (wrapper)",
@@ -34497,12 +34497,12 @@
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnet-ef": {
     "description": "The Entity Framework Core tools help with design-time development tasks.",
@@ -34522,12 +34522,12 @@
   "legacyPackages.x86_64-linux.dotnet-runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.2.25163.2"
+    "version": "10.0.0-preview.3.25171.5"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_6": {
     "description": ".NET Runtime 6.0.36 (wrapper)",
@@ -34542,22 +34542,22 @@
   "legacyPackages.x86_64-linux.dotnet-runtime_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.407"
+    "version": "8.0.408"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.2.25164.1"
+    "version": "10.0.100-preview.3.25201.1"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_6": {
     "description": ".NET SDK 6.0.428 (wrapper)",
@@ -34572,22 +34572,22 @@
   "legacyPackages.x86_64-linux.dotnet-sdk_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.407"
+    "version": "8.0.408"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.202"
+    "version": "9.0.203"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.2.25164.1"
+    "version": "10.0.0-preview.3.25172.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_10_0-bin": {
-    "description": "ASP.NET Core Runtime 10.0.0-preview.2.25164.1 (wrapper)",
+    "description": "ASP.NET Core Runtime 10.0.0-preview.3.25172.1 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.2.25164.1"
+    "version": "10.0.0-preview.3.25172.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_6_0": {
     "description": "ASP.NET Core Runtime 6.0.36 (wrapper)",
@@ -34612,82 +34612,82 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0-bin": {
-    "description": "ASP.NET Core Runtime 8.0.14 (wrapper)",
+    "description": "ASP.NET Core Runtime 8.0.15 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0-bin": {
-    "description": "ASP.NET Core Runtime 9.0.3 (wrapper)",
+    "description": "ASP.NET Core Runtime 9.0.4 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.2.25164.1"
+    "version": "10.0.0-preview.3.25172.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.2.25163.2"
+    "version": "10.0.0-preview.3.25171.5"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.2.25164.1"
+    "version": "10.0.100-preview.3.25201.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "10.0.0-preview.2"
+    "version": "10.0.0-preview.3"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.114"
+    "version": "8.0.115"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.104"
+    "version": "9.0.105"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.nugetPackageHook": {
     "description": "",
@@ -34702,12 +34702,12 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.2.25163.2"
+    "version": "10.0.0-preview.3.25171.5"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_10_0-bin": {
-    "description": ".NET Runtime 10.0.0-preview.2.25163.2 (wrapper)",
+    "description": ".NET Runtime 10.0.0-preview.3.25171.5 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.2.25163.2"
+    "version": "10.0.0-preview.3.25171.5"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_6_0": {
     "description": ".NET Runtime 6.0.36 (wrapper)",
@@ -34732,47 +34732,47 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0-bin": {
-    "description": ".NET Runtime 8.0.14 (wrapper)",
+    "description": ".NET Runtime 8.0.15 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.14"
+    "version": "8.0.15"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0-bin": {
-    "description": ".NET Runtime 9.0.3 (wrapper)",
+    "description": ".NET Runtime 9.0.4 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.3"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.2.25164.1"
+    "version": "10.0.100-preview.3.25201.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0-bin": {
-    "description": ".NET SDK 10.0.100-preview.2.25164.34 (wrapper)",
+    "description": ".NET SDK 10.0.100-preview.3.25201.16 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.2.25164.34"
+    "version": "10.0.100-preview.3.25201.16"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.2.25164.1"
+    "version": "10.0.100-preview.3.25201.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.2.25164.1"
+    "version": "10.0.100-preview.3.25201.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0_1xx-bin": {
-    "description": ".NET SDK 10.0.100-preview.2.25164.34 (wrapper)",
+    "description": ".NET SDK 10.0.100-preview.3.25201.16 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.2.25164.34"
+    "version": "10.0.100-preview.3.25201.16"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_6_0": {
     "description": ".NET SDK 6.0.428 (wrapper)",
@@ -34847,82 +34847,82 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.407"
+    "version": "8.0.408"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-bin": {
-    "description": ".NET SDK 8.0.407 (wrapper)",
+    "description": ".NET SDK 8.0.408 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.407"
+    "version": "8.0.408"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.114"
+    "version": "8.0.115"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.114"
+    "version": "8.0.115"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx-bin": {
-    "description": ".NET SDK 8.0.114 (wrapper)",
+    "description": ".NET SDK 8.0.115 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.114"
+    "version": "8.0.115"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.310"
+    "version": "8.0.311"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx-bin": {
-    "description": ".NET SDK 8.0.310 (wrapper)",
+    "description": ".NET SDK 8.0.311 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.310"
+    "version": "8.0.311"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.407"
+    "version": "8.0.408"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx-bin": {
-    "description": ".NET SDK 8.0.407 (wrapper)",
+    "description": ".NET SDK 8.0.408 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.407"
+    "version": "8.0.408"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.202"
+    "version": "9.0.203"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-bin": {
-    "description": ".NET SDK 9.0.202 (wrapper)",
+    "description": ".NET SDK 9.0.203 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.202"
+    "version": "9.0.203"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.104"
+    "version": "9.0.105"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.104"
+    "version": "9.0.105"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx-bin": {
-    "description": ".NET SDK 9.0.104 (wrapper)",
+    "description": ".NET SDK 9.0.105 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.104"
+    "version": "9.0.105"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_2xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.202"
+    "version": "9.0.203"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_2xx-bin": {
-    "description": ".NET SDK 9.0.202 (wrapper)",
+    "description": ".NET SDK 9.0.203 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.202"
+    "version": "9.0.203"
   },
   "legacyPackages.x86_64-linux.dotnetPackages.Boogie": {
     "description": "Intermediate verification language",
@@ -36282,7 +36282,7 @@
   "legacyPackages.x86_64-linux.dxvk": {
     "description": "Setup script for DXVK",
     "pname": "dxvk",
-    "version": "2.6"
+    "version": "2.6.1"
   },
   "legacyPackages.x86_64-linux.dxvk_1": {
     "description": "Vulkan-based translation layer for Direct3D 9/10/11",
@@ -36292,7 +36292,7 @@
   "legacyPackages.x86_64-linux.dxvk_2": {
     "description": "Vulkan-based translation layer for Direct3D 8/9/10/11",
     "pname": "dxvk",
-    "version": "2.6"
+    "version": "2.6.1"
   },
   "legacyPackages.x86_64-linux.dxx-rebirth": {
     "description": "Source Port of the Descent 1 and 2 engines",
@@ -36482,7 +36482,7 @@
   "legacyPackages.x86_64-linux.easyabc": {
     "description": "ABC music notation editor",
     "pname": "easyabc",
-    "version": "1.3.8.6"
+    "version": "1.3.8.7-unstable-2025-01-12"
   },
   "legacyPackages.x86_64-linux.easyaudiosync": {
     "description": "Audio library syncing and conversion utility",
@@ -38464,11 +38464,6 @@
     "pname": "epgstation",
     "version": "2.6.20"
   },
-  "legacyPackages.x86_64-linux.ephemeral": {
-    "description": "Always-incognito web browser",
-    "pname": "ephemeral",
-    "version": "7.1.0"
-  },
   "legacyPackages.x86_64-linux.ephemeralpg": {
     "description": "Run tests on an isolated, temporary PostgreSQL database",
     "pname": "ephemeralpg",
@@ -39422,7 +39417,7 @@
   "legacyPackages.x86_64-linux.exploitdb": {
     "description": "Archive of public exploits and corresponding vulnerable software",
     "pname": "exploitdb",
-    "version": "2025-04-10"
+    "version": "2025-04-11"
   },
   "legacyPackages.x86_64-linux.exportarr": {
     "description": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
@@ -44097,7 +44092,7 @@
   "legacyPackages.x86_64-linux.furnace": {
     "description": "Multi-system chiptune tracker compatible with DefleMask modules",
     "pname": "furnace",
-    "version": "0.6.8"
+    "version": "0.6.8.1"
   },
   "legacyPackages.x86_64-linux.furtherance": {
     "description": "Track your time without being tracked",
@@ -45022,47 +45017,17 @@
   "legacyPackages.x86_64-linux.gcc-arm-embedded": {
     "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
     "pname": "gcc-arm-embedded",
-    "version": "12.3.rel1"
-  },
-  "legacyPackages.x86_64-linux.gcc-arm-embedded-10": {
-    "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
-    "pname": "gcc-arm-embedded",
-    "version": "10.3.1"
-  },
-  "legacyPackages.x86_64-linux.gcc-arm-embedded-11": {
-    "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
-    "pname": "gcc-arm-embedded",
-    "version": "11.3.rel1"
-  },
-  "legacyPackages.x86_64-linux.gcc-arm-embedded-12": {
-    "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
-    "pname": "gcc-arm-embedded",
-    "version": "12.3.rel1"
+    "version": "14.2.rel1"
   },
   "legacyPackages.x86_64-linux.gcc-arm-embedded-13": {
     "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
     "pname": "gcc-arm-embedded",
     "version": "13.3.rel1"
   },
-  "legacyPackages.x86_64-linux.gcc-arm-embedded-6": {
+  "legacyPackages.x86_64-linux.gcc-arm-embedded-14": {
     "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
     "pname": "gcc-arm-embedded",
-    "version": "6.3.1"
-  },
-  "legacyPackages.x86_64-linux.gcc-arm-embedded-7": {
-    "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
-    "pname": "gcc-arm-embedded",
-    "version": "7.3.1"
-  },
-  "legacyPackages.x86_64-linux.gcc-arm-embedded-8": {
-    "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
-    "pname": "gcc-arm-embedded",
-    "version": "8.3.1"
-  },
-  "legacyPackages.x86_64-linux.gcc-arm-embedded-9": {
-    "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
-    "pname": "gcc-arm-embedded",
-    "version": "9.3.1"
+    "version": "14.2.rel1"
   },
   "legacyPackages.x86_64-linux.gcc-unwrapped": {
     "description": "GNU Compiler Collection, version 14-20241116",
@@ -47517,7 +47482,7 @@
   "legacyPackages.x86_64-linux.gitleaks": {
     "description": "Scan git repos (or files) for secrets",
     "pname": "gitleaks",
-    "version": "8.24.2"
+    "version": "8.24.3"
   },
   "legacyPackages.x86_64-linux.gitless": {
     "description": "Version control system built on top of Git",
@@ -64522,7 +64487,7 @@
   "legacyPackages.x86_64-linux.home-manager": {
     "description": "Nix-based user environment configurator",
     "pname": "home-manager",
-    "version": "0-unstable-2025-03-30"
+    "version": "0-unstable-2025-04-09"
   },
   "legacyPackages.x86_64-linux.homebank": {
     "description": "Free, easy, personal accounting for everyone",
@@ -64977,7 +64942,7 @@
   "legacyPackages.x86_64-linux.htop": {
     "description": "Interactive process viewer",
     "pname": "htop",
-    "version": "3.4.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.htop-vim": {
     "description": "Interactive process viewer, with vim-style keybindings",
@@ -68277,7 +68242,7 @@
   "legacyPackages.x86_64-linux.infrastructure-agent": {
     "description": "New Relic Infrastructure Agent",
     "pname": "infrastructure-agent",
-    "version": "1.63.0"
+    "version": "1.63.1"
   },
   "legacyPackages.x86_64-linux.ingen": {
     "description": "Modular audio processing system using JACK and LV2 or LADSPA plugins",
@@ -69688,11 +69653,6 @@
     "description": "Tool for generating qr codes for iwd networks",
     "pname": "iwqr",
     "version": "0.1.1"
-  },
-  "legacyPackages.x86_64-linux.ix": {
-    "description": "Command line pastebin",
-    "pname": "ix",
-    "version": "20190815"
   },
   "legacyPackages.x86_64-linux.izrss": {
     "description": "RSS feed reader for the terminal written in Go",
@@ -78442,7 +78402,7 @@
   "legacyPackages.x86_64-linux.ledger-live-desktop": {
     "description": "App for Ledger hardware wallets",
     "pname": "ledger-live-desktop",
-    "version": "2.106.0"
+    "version": "2.107.0"
   },
   "legacyPackages.x86_64-linux.ledger-udev-rules": {
     "description": "udev rules for Ledger devices",
@@ -80793,6 +80753,11 @@
     "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
     "pname": "libhwy",
     "version": "1.0.7"
+  },
+  "legacyPackages.x86_64-linux.libhydrogen": {
+    "description": "Lightweight, secure, easy-to-use crypto library suitable for constrained environments",
+    "pname": "libhydrogen",
+    "version": "0-unstable-2025-04-06"
   },
   "legacyPackages.x86_64-linux.libiberty": {
     "description": "Collection of subroutines used by various GNU programs",
@@ -125077,7 +125042,7 @@
   "legacyPackages.x86_64-linux.lomiri.lomiri-action-api": {
     "description": "Allow applications to export actions in various forms to the Lomiri Shell",
     "pname": "lomiri-action-api",
-    "version": "1.1.3"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.lomiri.lomiri-api": {
     "description": "Lomiri API Library for integrating with the Lomiri shell",
@@ -132102,7 +132067,7 @@
   "legacyPackages.x86_64-linux.magic-vlsi": {
     "description": "VLSI layout tool written in Tcl",
     "pname": "magic-vlsi",
-    "version": "8.3.524"
+    "version": "8.3.526"
   },
   "legacyPackages.x86_64-linux.magic-wormhole": {
     "description": "Securely transfer data between computers",
@@ -154432,7 +154397,7 @@
   "legacyPackages.x86_64-linux.outline": {
     "description": "Fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible",
     "pname": "outline",
-    "version": "0.82.0"
+    "version": "0.83.0"
   },
   "legacyPackages.x86_64-linux.outputcheck": {
     "description": "Tool for checking tool output inspired by LLVM's FileCheck",
@@ -154917,7 +154882,7 @@
   "legacyPackages.x86_64-linux.palemoon-bin": {
     "description": "Open Source, Goanna-based web browser focusing on efficiency and customization",
     "pname": "palemoon-bin",
-    "version": "33.6.1"
+    "version": "33.7.0"
   },
   "legacyPackages.x86_64-linux.palenight-theme": {
     "description": "",
@@ -186892,7 +186857,7 @@
   "legacyPackages.x86_64-linux.php": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php81": {
     "description": "HTML-embedded scripting language",
@@ -187162,7 +187127,7 @@
   "legacyPackages.x86_64-linux.php81Extensions.parallel": {
     "description": "Parallel concurrency API",
     "pname": "php-parallel",
-    "version": "1.2.4"
+    "version": "1.2.6"
   },
   "legacyPackages.x86_64-linux.php81Extensions.pcntl": {
     "description": "PHP upstream extension: pcntl",
@@ -187802,7 +187767,7 @@
   "legacyPackages.x86_64-linux.php82Extensions.parallel": {
     "description": "Parallel concurrency API",
     "pname": "php-parallel",
-    "version": "1.2.4"
+    "version": "1.2.6"
   },
   "legacyPackages.x86_64-linux.php82Extensions.pcntl": {
     "description": "PHP upstream extension: pcntl",
@@ -188177,7 +188142,7 @@
   "legacyPackages.x86_64-linux.php83": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.amqp": {
     "description": "PHP extension to communicate with any AMQP compliant server",
@@ -188197,7 +188162,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.bcmath": {
     "description": "PHP upstream extension: bcmath",
     "pname": "php-bcmath",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.blackfire": {
     "description": "Blackfire Profiler PHP module",
@@ -188207,12 +188172,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.bz2": {
     "description": "PHP upstream extension: bz2",
     "pname": "php-bz2",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.calendar": {
     "description": "PHP upstream extension: calendar",
     "pname": "php-calendar",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.couchbase": {
     "description": "Couchbase Server PHP extension",
@@ -188222,12 +188187,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.ctype": {
     "description": "PHP upstream extension: ctype",
     "pname": "php-ctype",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.curl": {
     "description": "PHP upstream extension: curl",
     "pname": "php-curl",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.datadog_trace": {
     "description": "Datadog Tracing PHP Client",
@@ -188237,7 +188202,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.dba": {
     "description": "PHP upstream extension: dba",
     "pname": "php-dba",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.decimal": {
     "description": "Arbitrary-precision decimal arithmetic for PHP",
@@ -188247,7 +188212,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.dom": {
     "description": "PHP upstream extension: dom",
     "pname": "php-dom",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ds": {
     "description": "Extension providing efficient data structures for PHP",
@@ -188257,7 +188222,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.enchant": {
     "description": "PHP upstream extension: enchant",
     "pname": "php-enchant",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.event": {
     "description": "Efficiently schedule I/O, time and signal based events using the best I/O notification mechanism available",
@@ -188267,42 +188232,42 @@
   "legacyPackages.x86_64-linux.php83Extensions.exif": {
     "description": "PHP upstream extension: exif",
     "pname": "php-exif",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ffi": {
     "description": "PHP upstream extension: ffi",
     "pname": "php-ffi",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.fileinfo": {
     "description": "PHP upstream extension: fileinfo",
     "pname": "php-fileinfo",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.filter": {
     "description": "PHP upstream extension: filter",
     "pname": "php-filter",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ftp": {
     "description": "PHP upstream extension: ftp",
     "pname": "php-ftp",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gd": {
     "description": "PHP upstream extension: gd",
     "pname": "php-gd",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gettext": {
     "description": "PHP upstream extension: gettext",
     "pname": "php-gettext",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gmp": {
     "description": "PHP upstream extension: gmp",
     "pname": "php-gmp",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gnupg": {
     "description": "PHP wrapper for GpgME library that provides access to GnuPG",
@@ -188317,7 +188282,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.iconv": {
     "description": "PHP upstream extension: iconv",
     "pname": "php-iconv",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.igbinary": {
     "description": "Binary serialization for PHP",
@@ -188342,7 +188307,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.intl": {
     "description": "PHP upstream extension: intl",
     "pname": "php-intl",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ioncube-loader": {
     "description": "Use ionCube-encoded files on a web server",
@@ -188352,7 +188317,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.ldap": {
     "description": "PHP upstream extension: ldap",
     "pname": "php-ldap",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.mailparse": {
     "description": "Mailparse is an extension for parsing and working with email messages",
@@ -188367,7 +188332,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.mbstring": {
     "description": "PHP upstream extension: mbstring",
     "pname": "php-mbstring",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.memcache": {
     "description": "PHP extension for interfacing with memcached",
@@ -188402,12 +188367,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.mysqli": {
     "description": "PHP upstream extension: mysqli",
     "pname": "php-mysqli",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.mysqlnd": {
     "description": "PHP upstream extension: mysqlnd",
     "pname": "php-mysqlnd",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.oci8": {
     "description": "Extension for Oracle Database",
@@ -188417,17 +188382,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.opcache": {
     "description": "PHP upstream extension: opcache",
     "pname": "php-opcache",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.openssl": {
     "description": "PHP upstream extension: openssl",
     "pname": "php-openssl",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.openssl-legacy": {
     "description": "PHP upstream extension: openssl-legacy",
     "pname": "php-openssl-legacy",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.openswoole": {
     "description": "Coroutine-based concurrency library and high performance programmatic server for PHP",
@@ -188442,12 +188407,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.parallel": {
     "description": "Parallel concurrency API",
     "pname": "php-parallel",
-    "version": "1.2.4"
+    "version": "1.2.6"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pcntl": {
     "description": "PHP upstream extension: pcntl",
     "pname": "php-pcntl",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pcov": {
     "description": "Self contained php-code-coverage compatible driver for PHP",
@@ -188462,37 +188427,37 @@
   "legacyPackages.x86_64-linux.php83Extensions.pdo": {
     "description": "PHP upstream extension: pdo",
     "pname": "php-pdo",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_dblib": {
     "description": "PHP upstream extension: pdo_dblib",
     "pname": "php-pdo_dblib",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_mysql": {
     "description": "PHP upstream extension: pdo_mysql",
     "pname": "php-pdo_mysql",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_oci": {
     "description": "",
     "pname": "php-pdo_oci",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_odbc": {
     "description": "PHP upstream extension: pdo_odbc",
     "pname": "php-pdo_odbc",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_pgsql": {
     "description": "PHP upstream extension: pdo_pgsql",
     "pname": "php-pdo_pgsql",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_sqlite": {
     "description": "PHP upstream extension: pdo_sqlite",
     "pname": "php-pdo_sqlite",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -188502,7 +188467,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.pgsql": {
     "description": "PHP upstream extension: pgsql",
     "pname": "php-pgsql",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.phalcon": {
     "description": "Phalcon is a full stack PHP framework offering low resource consumption and high performance",
@@ -188517,7 +188482,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.posix": {
     "description": "PHP upstream extension: posix",
     "pname": "php-posix",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.protobuf": {
     "description": "Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data",
@@ -188537,7 +188502,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.readline": {
     "description": "PHP upstream extension: readline",
     "pname": "php-readline",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.redis": {
     "description": "PHP extension for interfacing with Redis",
@@ -188557,17 +188522,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.session": {
     "description": "PHP upstream extension: session",
     "pname": "php-session",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.shmop": {
     "description": "PHP upstream extension: shmop",
     "pname": "php-shmop",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.simplexml": {
     "description": "PHP upstream extension: simplexml",
     "pname": "php-simplexml",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.smbclient": {
     "description": "PHP wrapper for libsmbclient",
@@ -188577,7 +188542,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.snmp": {
     "description": "PHP upstream extension: snmp",
     "pname": "php-snmp",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.snuffleupagus": {
     "description": "Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!",
@@ -188587,17 +188552,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.soap": {
     "description": "PHP upstream extension: soap",
     "pname": "php-soap",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sockets": {
     "description": "PHP upstream extension: sockets",
     "pname": "php-sockets",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sodium": {
     "description": "PHP upstream extension: sodium",
     "pname": "php-sodium",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.spx": {
     "description": "Simple & straight-to-the-point PHP profiling extension with its built-in web UI",
@@ -188607,7 +188572,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.sqlite3": {
     "description": "PHP upstream extension: sqlite3",
     "pname": "php-sqlite3",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -188627,17 +188592,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.sysvmsg": {
     "description": "PHP upstream extension: sysvmsg",
     "pname": "php-sysvmsg",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sysvsem": {
     "description": "PHP upstream extension: sysvsem",
     "pname": "php-sysvsem",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sysvshm": {
     "description": "PHP upstream extension: sysvshm",
     "pname": "php-sysvshm",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.tideways": {
     "description": "Tideways PHP Probe",
@@ -188647,12 +188612,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.tidy": {
     "description": "PHP upstream extension: tidy",
     "pname": "php-tidy",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.tokenizer": {
     "description": "PHP upstream extension: tokenizer",
     "pname": "php-tokenizer",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.uuid": {
     "description": "A wrapper around Universally Unique IDentifier library (libuuid).",
@@ -188677,22 +188642,22 @@
   "legacyPackages.x86_64-linux.php83Extensions.xml": {
     "description": "PHP upstream extension: xml",
     "pname": "php-xml",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.xmlreader": {
     "description": "PHP upstream extension: xmlreader",
     "pname": "php-xmlreader",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.xmlwriter": {
     "description": "PHP upstream extension: xmlwriter",
     "pname": "php-xmlwriter",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.xsl": {
     "description": "PHP upstream extension: xsl",
     "pname": "php-xsl",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.yaml": {
     "description": "YAML-1.1 parser and emitter",
@@ -188702,17 +188667,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.zend_test": {
     "description": "PHP upstream extension: zend_test",
     "pname": "php-zend_test",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.zip": {
     "description": "PHP upstream extension: zip",
     "pname": "php-zip",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.zlib": {
     "description": "PHP upstream extension: zlib",
     "pname": "php-zlib",
-    "version": "8.3.19"
+    "version": "8.3.20"
   },
   "legacyPackages.x86_64-linux.php83Extensions.zstd": {
     "description": "Zstd Extension for PHP",
@@ -188817,7 +188782,7 @@
   "legacyPackages.x86_64-linux.php84": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.amqp": {
     "description": "PHP extension to communicate with any AMQP compliant server",
@@ -188837,17 +188802,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.bcmath": {
     "description": "PHP upstream extension: bcmath",
     "pname": "php-bcmath",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.bz2": {
     "description": "PHP upstream extension: bz2",
     "pname": "php-bz2",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.calendar": {
     "description": "PHP upstream extension: calendar",
     "pname": "php-calendar",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.couchbase": {
     "description": "Couchbase Server PHP extension",
@@ -188857,12 +188822,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.ctype": {
     "description": "PHP upstream extension: ctype",
     "pname": "php-ctype",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.curl": {
     "description": "PHP upstream extension: curl",
     "pname": "php-curl",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.datadog_trace": {
     "description": "Datadog Tracing PHP Client",
@@ -188872,7 +188837,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.dba": {
     "description": "PHP upstream extension: dba",
     "pname": "php-dba",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.decimal": {
     "description": "Arbitrary-precision decimal arithmetic for PHP",
@@ -188882,7 +188847,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.dom": {
     "description": "PHP upstream extension: dom",
     "pname": "php-dom",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ds": {
     "description": "Extension providing efficient data structures for PHP",
@@ -188892,7 +188857,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.enchant": {
     "description": "PHP upstream extension: enchant",
     "pname": "php-enchant",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.event": {
     "description": "Efficiently schedule I/O, time and signal based events using the best I/O notification mechanism available",
@@ -188902,42 +188867,42 @@
   "legacyPackages.x86_64-linux.php84Extensions.exif": {
     "description": "PHP upstream extension: exif",
     "pname": "php-exif",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ffi": {
     "description": "PHP upstream extension: ffi",
     "pname": "php-ffi",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.fileinfo": {
     "description": "PHP upstream extension: fileinfo",
     "pname": "php-fileinfo",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.filter": {
     "description": "PHP upstream extension: filter",
     "pname": "php-filter",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ftp": {
     "description": "PHP upstream extension: ftp",
     "pname": "php-ftp",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gd": {
     "description": "PHP upstream extension: gd",
     "pname": "php-gd",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gettext": {
     "description": "PHP upstream extension: gettext",
     "pname": "php-gettext",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gmp": {
     "description": "PHP upstream extension: gmp",
     "pname": "php-gmp",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gnupg": {
     "description": "PHP wrapper for GpgME library that provides access to GnuPG",
@@ -188952,7 +188917,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.iconv": {
     "description": "PHP upstream extension: iconv",
     "pname": "php-iconv",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.igbinary": {
     "description": "Binary serialization for PHP",
@@ -188977,7 +188942,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.intl": {
     "description": "PHP upstream extension: intl",
     "pname": "php-intl",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ioncube-loader": {
     "description": "Use ionCube-encoded files on a web server",
@@ -188987,7 +188952,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.ldap": {
     "description": "PHP upstream extension: ldap",
     "pname": "php-ldap",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.mailparse": {
     "description": "Mailparse is an extension for parsing and working with email messages",
@@ -189002,7 +188967,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.mbstring": {
     "description": "PHP upstream extension: mbstring",
     "pname": "php-mbstring",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.memcache": {
     "description": "PHP extension for interfacing with memcached",
@@ -189037,12 +189002,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.mysqli": {
     "description": "PHP upstream extension: mysqli",
     "pname": "php-mysqli",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.mysqlnd": {
     "description": "PHP upstream extension: mysqlnd",
     "pname": "php-mysqlnd",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.oci8": {
     "description": "Extension for Oracle Database",
@@ -189052,17 +189017,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.opcache": {
     "description": "PHP upstream extension: opcache",
     "pname": "php-opcache",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.openssl": {
     "description": "PHP upstream extension: openssl",
     "pname": "php-openssl",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.openssl-legacy": {
     "description": "PHP upstream extension: openssl-legacy",
     "pname": "php-openssl-legacy",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.openswoole": {
     "description": "Coroutine-based concurrency library and high performance programmatic server for PHP",
@@ -189077,12 +189042,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.parallel": {
     "description": "Parallel concurrency API",
     "pname": "php-parallel",
-    "version": "1.2.4"
+    "version": "1.2.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pcntl": {
     "description": "PHP upstream extension: pcntl",
     "pname": "php-pcntl",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pcov": {
     "description": "Self contained php-code-coverage compatible driver for PHP",
@@ -189097,17 +189062,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.pdo": {
     "description": "PHP upstream extension: pdo",
     "pname": "php-pdo",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_dblib": {
     "description": "PHP upstream extension: pdo_dblib",
     "pname": "php-pdo_dblib",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_mysql": {
     "description": "PHP upstream extension: pdo_mysql",
     "pname": "php-pdo_mysql",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_oci": {
     "description": "The PHP PDO_OCI extension lets you access Oracle Database",
@@ -189117,17 +189082,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.pdo_odbc": {
     "description": "PHP upstream extension: pdo_odbc",
     "pname": "php-pdo_odbc",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_pgsql": {
     "description": "PHP upstream extension: pdo_pgsql",
     "pname": "php-pdo_pgsql",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_sqlite": {
     "description": "PHP upstream extension: pdo_sqlite",
     "pname": "php-pdo_sqlite",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -189137,7 +189102,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.pgsql": {
     "description": "PHP upstream extension: pgsql",
     "pname": "php-pgsql",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.phalcon": {
     "description": "Phalcon is a full stack PHP framework offering low resource consumption and high performance",
@@ -189152,7 +189117,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.posix": {
     "description": "PHP upstream extension: posix",
     "pname": "php-posix",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.protobuf": {
     "description": "Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data",
@@ -189172,7 +189137,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.readline": {
     "description": "PHP upstream extension: readline",
     "pname": "php-readline",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.redis": {
     "description": "PHP extension for interfacing with Redis",
@@ -189192,17 +189157,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.session": {
     "description": "PHP upstream extension: session",
     "pname": "php-session",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.shmop": {
     "description": "PHP upstream extension: shmop",
     "pname": "php-shmop",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.simplexml": {
     "description": "PHP upstream extension: simplexml",
     "pname": "php-simplexml",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.smbclient": {
     "description": "PHP wrapper for libsmbclient",
@@ -189212,7 +189177,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.snmp": {
     "description": "PHP upstream extension: snmp",
     "pname": "php-snmp",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.snuffleupagus": {
     "description": "Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!",
@@ -189222,17 +189187,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.soap": {
     "description": "PHP upstream extension: soap",
     "pname": "php-soap",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sockets": {
     "description": "PHP upstream extension: sockets",
     "pname": "php-sockets",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sodium": {
     "description": "PHP upstream extension: sodium",
     "pname": "php-sodium",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.spx": {
     "description": "Simple & straight-to-the-point PHP profiling extension with its built-in web UI",
@@ -189242,7 +189207,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.sqlite3": {
     "description": "PHP upstream extension: sqlite3",
     "pname": "php-sqlite3",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -189262,17 +189227,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.sysvmsg": {
     "description": "PHP upstream extension: sysvmsg",
     "pname": "php-sysvmsg",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sysvsem": {
     "description": "PHP upstream extension: sysvsem",
     "pname": "php-sysvsem",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sysvshm": {
     "description": "PHP upstream extension: sysvshm",
     "pname": "php-sysvshm",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.tideways": {
     "description": "Tideways PHP Probe",
@@ -189282,12 +189247,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.tidy": {
     "description": "PHP upstream extension: tidy",
     "pname": "php-tidy",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.tokenizer": {
     "description": "PHP upstream extension: tokenizer",
     "pname": "php-tokenizer",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.uuid": {
     "description": "A wrapper around Universally Unique IDentifier library (libuuid).",
@@ -189312,22 +189277,22 @@
   "legacyPackages.x86_64-linux.php84Extensions.xml": {
     "description": "PHP upstream extension: xml",
     "pname": "php-xml",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.xmlreader": {
     "description": "PHP upstream extension: xmlreader",
     "pname": "php-xmlreader",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.xmlwriter": {
     "description": "PHP upstream extension: xmlwriter",
     "pname": "php-xmlwriter",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.xsl": {
     "description": "PHP upstream extension: xsl",
     "pname": "php-xsl",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.yaml": {
     "description": "YAML-1.1 parser and emitter",
@@ -189337,17 +189302,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.zend_test": {
     "description": "PHP upstream extension: zend_test",
     "pname": "php-zend_test",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.zip": {
     "description": "PHP upstream extension: zip",
     "pname": "php-zip",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.zlib": {
     "description": "PHP upstream extension: zlib",
     "pname": "php-zlib",
-    "version": "8.4.5"
+    "version": "8.4.6"
   },
   "legacyPackages.x86_64-linux.php84Extensions.zstd": {
     "description": "Zstd Extension for PHP",
@@ -194642,7 +194607,7 @@
   "legacyPackages.x86_64-linux.postgresql13JitPackages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql13JitPackages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -194952,7 +194917,7 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -195262,7 +195227,7 @@
   "legacyPackages.x86_64-linux.postgresql14JitPackages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql14JitPackages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -195572,7 +195537,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -195882,7 +195847,7 @@
   "legacyPackages.x86_64-linux.postgresql15JitPackages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql15JitPackages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -196192,7 +196157,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -196502,7 +196467,7 @@
   "legacyPackages.x86_64-linux.postgresql16JitPackages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql16JitPackages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -196812,7 +196777,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -197122,7 +197087,7 @@
   "legacyPackages.x86_64-linux.postgresql17JitPackages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql17JitPackages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -197432,7 +197397,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -197742,7 +197707,7 @@
   "legacyPackages.x86_64-linux.postgresqlJitPackages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresqlJitPackages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -198052,7 +198017,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pg-gvm": {
     "description": "Greenbone Library for helper functions in PostgreSQL",
     "pname": "pg-gvm",
-    "version": "22.6.8"
+    "version": "22.6.9"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pg-semver": {
     "description": "Semantic version data type for PostgreSQL",
@@ -200097,7 +200062,7 @@
   "legacyPackages.x86_64-linux.prowler": {
     "description": "Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments",
     "pname": "prowler",
-    "version": "5.4.3"
+    "version": "5.4.4"
   },
   "legacyPackages.x86_64-linux.prox": {
     "description": "Process runner for Procfile-based applications",
@@ -206132,7 +206097,7 @@
   "legacyPackages.x86_64-linux.python312Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.12-boto3-stubs",
-    "version": "1.37.31"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -217987,7 +217952,7 @@
   "legacyPackages.x86_64-linux.python312Packages.islpy": {
     "description": "Python wrapper around isl, an integer set library",
     "pname": "python3.12-islpy",
-    "version": "2025.1.2"
+    "version": "2025.1.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.ismartgate": {
     "description": "Python module to work with the ismartgate and gogogate2 API",
@@ -220552,7 +220517,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llama-cloud": {
     "description": "LlamaIndex Python Client",
     "pname": "python3.12-llama-cloud",
-    "version": "0.1.17"
+    "version": "0.1.18"
   },
   "legacyPackages.x86_64-linux.python312Packages.llama-cpp-python": {
     "description": "Python bindings for llama.cpp",
@@ -220592,7 +220557,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llama-index-embeddings-huggingface": {
     "description": "LlamaIndex Embeddings Integration for Huggingface",
     "pname": "python3.12-llama-index-embeddings-huggingface",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.llama-index-embeddings-ollama": {
     "description": "LlamaIndex Llms Integration for Ollama",
@@ -220607,7 +220572,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llama-index-graph-stores-nebula": {
     "description": "LlamaIndex Graph Store Integration for Nebula",
     "pname": "python3.12-llama-index-graph-stores-nebula",
-    "version": "0.4.0"
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.llama-index-graph-stores-neo4j": {
     "description": "LlamaIndex Graph Store Integration for Neo4j",
@@ -220622,7 +220587,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llama-index-indices-managed-llama-cloud": {
     "description": "LlamaCloud Index and Retriever",
     "pname": "python3.12-llama-index-indices-managed-llama-cloud",
-    "version": "0.6.10"
+    "version": "0.6.11"
   },
   "legacyPackages.x86_64-linux.python312Packages.llama-index-legacy": {
     "description": "LlamaIndex Readers Integration for files",
@@ -221107,7 +221072,7 @@
   "legacyPackages.x86_64-linux.python312Packages.lxml-html-clean": {
     "description": "Separate project for HTML cleaning functionalities copied from lxml.html.clean",
     "pname": "python3.12-lxml-html-clean",
-    "version": "0.4.1"
+    "version": "0.4.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.lxml-stubs": {
     "description": "Type stubs for the lxml package",
@@ -223102,7 +223067,7 @@
   "legacyPackages.x86_64-linux.python312Packages.msticpy": {
     "description": "Microsoft Threat Intelligence Security Tools",
     "pname": "python3.12-msticpy",
-    "version": "2.16.1"
+    "version": "2.16.2.post"
   },
   "legacyPackages.x86_64-linux.python312Packages.mt-940": {
     "description": "Module to parse MT940 files and returns smart Python collections for statistics and manipulation",
@@ -223432,7 +223397,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-application-autoscaling": {
     "description": "Type annotations for boto3 application-autoscaling",
     "pname": "python3.12-mypy-boto3-application-autoscaling",
-    "version": "1.37.0"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-application-insights": {
     "description": "Type annotations for boto3 application-insights",
@@ -223727,7 +223692,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-connect-contact-lens": {
     "description": "Type annotations for boto3 connect-contact-lens",
     "pname": "python3.12-mypy-boto3-connect-contact-lens",
-    "version": "1.37.0"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-connectcampaigns": {
     "description": "Type annotations for boto3 connectcampaigns",
@@ -223787,7 +223752,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-detective": {
     "description": "Type annotations for boto3 detective",
     "pname": "python3.12-mypy-boto3-detective",
-    "version": "1.37.0"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-devicefarm": {
     "description": "Type annotations for boto3 devicefarm",
@@ -223842,7 +223807,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-dynamodb": {
     "description": "Type annotations for boto3 dynamodb",
     "pname": "python3.12-mypy-boto3-dynamodb",
-    "version": "1.37.31"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-dynamodbstreams": {
     "description": "Type annotations for boto3 dynamodbstreams",
@@ -223897,7 +223862,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-elasticache": {
     "description": "Type annotations for boto3 elasticache",
     "pname": "python3.12-mypy-boto3-elasticache",
-    "version": "1.37.6"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-elasticbeanstalk": {
     "description": "Type annotations for boto3 elasticbeanstalk",
@@ -224332,7 +224297,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-m2": {
     "description": "Type annotations for boto3 m2",
     "pname": "python3.12-mypy-boto3-m2",
-    "version": "1.37.0"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-machinelearning": {
     "description": "Type annotations for boto3 machinelearning",
@@ -224362,7 +224327,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-marketplace-entitlement": {
     "description": "Type annotations for boto3 marketplace-entitlement",
     "pname": "python3.12-mypy-boto3-marketplace-entitlement",
-    "version": "1.37.24"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-marketplacecommerceanalytics": {
     "description": "Type annotations for boto3 marketplacecommerceanalytics",
@@ -224382,7 +224347,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
     "pname": "python3.12-mypy-boto3-medialive",
-    "version": "1.37.29"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediapackage": {
     "description": "Type annotations for boto3 mediapackage",
@@ -224427,7 +224392,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-meteringmarketplace": {
     "description": "Type annotations for boto3 meteringmarketplace",
     "pname": "python3.12-mypy-boto3-meteringmarketplace",
-    "version": "1.37.23"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mgh": {
     "description": "Type annotations for boto3 mgh",
@@ -224642,7 +224607,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-quicksight": {
     "description": "Type annotations for boto3 quicksight",
     "pname": "python3.12-mypy-boto3-quicksight",
-    "version": "1.37.23"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ram": {
     "description": "Type annotations for boto3 ram",
@@ -225022,7 +224987,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-verifiedpermissions": {
     "description": "Type annotations for boto3 verifiedpermissions",
     "pname": "python3.12-mypy-boto3-verifiedpermissions",
-    "version": "1.37.0"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-voice-id": {
     "description": "Type annotations for boto3 voice-id",
@@ -230547,7 +230512,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pybrowsers": {
     "description": "Python library for detecting and launching browsers",
     "pname": "python3.12-pybrowsers",
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pybtex": {
     "description": "BibTeX-compatible bibliography processor written in Python",
@@ -234057,7 +234022,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pysmartthings": {
     "description": "Python library for interacting with the SmartThings cloud API",
     "pname": "python3.12-pysmartthings",
-    "version": "3.0.2"
+    "version": "3.0.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.pysmb": {
     "description": "Experimental SMB/CIFS library to support file sharing between Windows and Linux machines",
@@ -239492,7 +239457,7 @@
   "legacyPackages.x86_64-linux.python312Packages.sectools": {
     "description": "library containing functions to write security tools",
     "pname": "python3.12-sectools",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.sectxt": {
     "description": "security.txt parser and validator",
@@ -240972,7 +240937,7 @@
   "legacyPackages.x86_64-linux.python312Packages.sparse": {
     "description": "Sparse n-dimensional arrays computations",
     "pname": "python3.12-sparse",
-    "version": "0.15.5"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.sparsezoo": {
     "description": "Neural network model repository for highly sparse and sparse-quantized models with matching sparsification recipes",
@@ -242892,7 +242857,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.12-tencentcloud-sdk-python",
-    "version": "3.0.1357"
+    "version": "3.0.1358"
   },
   "legacyPackages.x86_64-linux.python312Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -243232,7 +243197,7 @@
   "legacyPackages.x86_64-linux.python312Packages.textual": {
     "description": "TUI framework for Python inspired by modern web development",
     "pname": "python3.12-textual",
-    "version": "2.1.2"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.textual-autocomplete": {
     "description": "Python library that provides autocomplete capabilities to textual",
@@ -243265,7 +243230,7 @@
     "version": "0.1.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.textual-textarea": {
-    "description": "A text area (multi-line input) with syntax highlighting for Textual",
+    "description": "Text area (multi-line input) with syntax highlighting for Textual",
     "pname": "python3.12-textual-textarea",
     "version": "0.15.0"
   },
@@ -244027,7 +243992,7 @@
   "legacyPackages.x86_64-linux.python312Packages.transformers": {
     "description": "Natural Language Processing for TensorFlow 2.0 and PyTorch",
     "pname": "python3.12-transformers",
-    "version": "4.51.1"
+    "version": "4.51.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.transforms3d": {
     "description": "Convert between various geometric transformations",
@@ -244123,6 +244088,11 @@
     "description": "Makefile grammar for tree-sitter",
     "pname": "python3.12-tree-sitter-make",
     "version": "1.1.1"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.tree-sitter-markdown": {
+    "description": "Markdown grammar for tree-sitter",
+    "pname": "python3.12-tree-sitter-markdown",
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.tree-sitter-python": {
     "description": "Python grammar for tree-sitter",
@@ -246357,7 +246327,7 @@
   "legacyPackages.x86_64-linux.python312Packages.types-awscrt": {
     "description": "Type annotations and code completion for awscrt",
     "pname": "python3.12-types-awscrt",
-    "version": "0.25.7"
+    "version": "0.26.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.types-beautifulsoup4": {
     "description": "Typing stubs for beautifulsoup4",
@@ -246722,7 +246692,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ufomerge": {
     "description": "Command line utility and Python library that merges two UFO source format fonts into a single file",
     "pname": "python3.12-ufomerge",
-    "version": "1.8.2"
+    "version": "1.8.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.ufonormalizer": {
     "description": "Script to normalize the XML and other data inside of a UFO",
@@ -246997,7 +246967,7 @@
   "legacyPackages.x86_64-linux.python312Packages.unstructured-client": {
     "description": "Python Client SDK for Unstructured API",
     "pname": "python3.12-unstructured-client",
-    "version": "0.32.0"
+    "version": "0.32.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.unstructured-inference": {
     "description": "hosted model inference code for layout parsing models",
@@ -254487,7 +254457,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.37.31"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -266342,7 +266312,7 @@
   "legacyPackages.x86_64-linux.python313Packages.islpy": {
     "description": "Python wrapper around isl, an integer set library",
     "pname": "python3.13-islpy",
-    "version": "2025.1.2"
+    "version": "2025.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.ismartgate": {
     "description": "Python module to work with the ismartgate and gogogate2 API",
@@ -268907,7 +268877,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llama-cloud": {
     "description": "LlamaIndex Python Client",
     "pname": "python3.13-llama-cloud",
-    "version": "0.1.17"
+    "version": "0.1.18"
   },
   "legacyPackages.x86_64-linux.python313Packages.llama-cpp-python": {
     "description": "Python bindings for llama.cpp",
@@ -268947,7 +268917,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llama-index-embeddings-huggingface": {
     "description": "LlamaIndex Embeddings Integration for Huggingface",
     "pname": "python3.13-llama-index-embeddings-huggingface",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.llama-index-embeddings-ollama": {
     "description": "LlamaIndex Llms Integration for Ollama",
@@ -268962,7 +268932,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llama-index-graph-stores-nebula": {
     "description": "LlamaIndex Graph Store Integration for Nebula",
     "pname": "python3.13-llama-index-graph-stores-nebula",
-    "version": "0.4.0"
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.llama-index-graph-stores-neo4j": {
     "description": "LlamaIndex Graph Store Integration for Neo4j",
@@ -268977,7 +268947,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llama-index-indices-managed-llama-cloud": {
     "description": "LlamaCloud Index and Retriever",
     "pname": "python3.13-llama-index-indices-managed-llama-cloud",
-    "version": "0.6.10"
+    "version": "0.6.11"
   },
   "legacyPackages.x86_64-linux.python313Packages.llama-index-legacy": {
     "description": "LlamaIndex Readers Integration for files",
@@ -269462,7 +269432,7 @@
   "legacyPackages.x86_64-linux.python313Packages.lxml-html-clean": {
     "description": "Separate project for HTML cleaning functionalities copied from lxml.html.clean",
     "pname": "python3.13-lxml-html-clean",
-    "version": "0.4.1"
+    "version": "0.4.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.lxml-stubs": {
     "description": "Type stubs for the lxml package",
@@ -271457,7 +271427,7 @@
   "legacyPackages.x86_64-linux.python313Packages.msticpy": {
     "description": "Microsoft Threat Intelligence Security Tools",
     "pname": "python3.13-msticpy",
-    "version": "2.16.1"
+    "version": "2.16.2.post"
   },
   "legacyPackages.x86_64-linux.python313Packages.mt-940": {
     "description": "Module to parse MT940 files and returns smart Python collections for statistics and manipulation",
@@ -271787,7 +271757,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-application-autoscaling": {
     "description": "Type annotations for boto3 application-autoscaling",
     "pname": "python3.13-mypy-boto3-application-autoscaling",
-    "version": "1.37.0"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-application-insights": {
     "description": "Type annotations for boto3 application-insights",
@@ -272082,7 +272052,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connect-contact-lens": {
     "description": "Type annotations for boto3 connect-contact-lens",
     "pname": "python3.13-mypy-boto3-connect-contact-lens",
-    "version": "1.37.0"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connectcampaigns": {
     "description": "Type annotations for boto3 connectcampaigns",
@@ -272142,7 +272112,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-detective": {
     "description": "Type annotations for boto3 detective",
     "pname": "python3.13-mypy-boto3-detective",
-    "version": "1.37.0"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-devicefarm": {
     "description": "Type annotations for boto3 devicefarm",
@@ -272197,7 +272167,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-dynamodb": {
     "description": "Type annotations for boto3 dynamodb",
     "pname": "python3.13-mypy-boto3-dynamodb",
-    "version": "1.37.31"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-dynamodbstreams": {
     "description": "Type annotations for boto3 dynamodbstreams",
@@ -272252,7 +272222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-elasticache": {
     "description": "Type annotations for boto3 elasticache",
     "pname": "python3.13-mypy-boto3-elasticache",
-    "version": "1.37.6"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-elasticbeanstalk": {
     "description": "Type annotations for boto3 elasticbeanstalk",
@@ -272687,7 +272657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-m2": {
     "description": "Type annotations for boto3 m2",
     "pname": "python3.13-mypy-boto3-m2",
-    "version": "1.37.0"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-machinelearning": {
     "description": "Type annotations for boto3 machinelearning",
@@ -272717,7 +272687,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-marketplace-entitlement": {
     "description": "Type annotations for boto3 marketplace-entitlement",
     "pname": "python3.13-mypy-boto3-marketplace-entitlement",
-    "version": "1.37.24"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-marketplacecommerceanalytics": {
     "description": "Type annotations for boto3 marketplacecommerceanalytics",
@@ -272737,7 +272707,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
     "pname": "python3.13-mypy-boto3-medialive",
-    "version": "1.37.29"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediapackage": {
     "description": "Type annotations for boto3 mediapackage",
@@ -272782,7 +272752,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-meteringmarketplace": {
     "description": "Type annotations for boto3 meteringmarketplace",
     "pname": "python3.13-mypy-boto3-meteringmarketplace",
-    "version": "1.37.23"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mgh": {
     "description": "Type annotations for boto3 mgh",
@@ -272997,7 +272967,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-quicksight": {
     "description": "Type annotations for boto3 quicksight",
     "pname": "python3.13-mypy-boto3-quicksight",
-    "version": "1.37.23"
+    "version": "1.37.32"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ram": {
     "description": "Type annotations for boto3 ram",
@@ -273377,7 +273347,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-verifiedpermissions": {
     "description": "Type annotations for boto3 verifiedpermissions",
     "pname": "python3.13-mypy-boto3-verifiedpermissions",
-    "version": "1.37.0"
+    "version": "1.37.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-voice-id": {
     "description": "Type annotations for boto3 voice-id",
@@ -278902,7 +278872,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pybrowsers": {
     "description": "Python library for detecting and launching browsers",
     "pname": "python3.13-pybrowsers",
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pybtex": {
     "description": "BibTeX-compatible bibliography processor written in Python",
@@ -282412,7 +282382,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysmartthings": {
     "description": "Python library for interacting with the SmartThings cloud API",
     "pname": "python3.13-pysmartthings",
-    "version": "3.0.2"
+    "version": "3.0.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysmb": {
     "description": "Experimental SMB/CIFS library to support file sharing between Windows and Linux machines",
@@ -287847,7 +287817,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sectools": {
     "description": "library containing functions to write security tools",
     "pname": "python3.13-sectools",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.sectxt": {
     "description": "security.txt parser and validator",
@@ -289327,7 +289297,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sparse": {
     "description": "Sparse n-dimensional arrays computations",
     "pname": "python3.13-sparse",
-    "version": "0.15.5"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.sparsezoo": {
     "description": "Neural network model repository for highly sparse and sparse-quantized models with matching sparsification recipes",
@@ -291277,7 +291247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.0.1357"
+    "version": "3.0.1358"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -291617,7 +291587,7 @@
   "legacyPackages.x86_64-linux.python313Packages.textual": {
     "description": "TUI framework for Python inspired by modern web development",
     "pname": "python3.13-textual",
-    "version": "2.1.2"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.textual-autocomplete": {
     "description": "Python library that provides autocomplete capabilities to textual",
@@ -291650,7 +291620,7 @@
     "version": "0.1.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.textual-textarea": {
-    "description": "A text area (multi-line input) with syntax highlighting for Textual",
+    "description": "Text area (multi-line input) with syntax highlighting for Textual",
     "pname": "python3.13-textual-textarea",
     "version": "0.15.0"
   },
@@ -292412,7 +292382,7 @@
   "legacyPackages.x86_64-linux.python313Packages.transformers": {
     "description": "Natural Language Processing for TensorFlow 2.0 and PyTorch",
     "pname": "python3.13-transformers",
-    "version": "4.51.1"
+    "version": "4.51.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.transforms3d": {
     "description": "Convert between various geometric transformations",
@@ -292508,6 +292478,11 @@
     "description": "Makefile grammar for tree-sitter",
     "pname": "python3.13-tree-sitter-make",
     "version": "1.1.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.tree-sitter-markdown": {
+    "description": "Markdown grammar for tree-sitter",
+    "pname": "python3.13-tree-sitter-markdown",
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.tree-sitter-python": {
     "description": "Python grammar for tree-sitter",
@@ -294742,7 +294717,7 @@
   "legacyPackages.x86_64-linux.python313Packages.types-awscrt": {
     "description": "Type annotations and code completion for awscrt",
     "pname": "python3.13-types-awscrt",
-    "version": "0.25.7"
+    "version": "0.26.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.types-beautifulsoup4": {
     "description": "Typing stubs for beautifulsoup4",
@@ -295107,7 +295082,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ufomerge": {
     "description": "Command line utility and Python library that merges two UFO source format fonts into a single file",
     "pname": "python3.13-ufomerge",
-    "version": "1.8.2"
+    "version": "1.8.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.ufonormalizer": {
     "description": "Script to normalize the XML and other data inside of a UFO",
@@ -295382,7 +295357,7 @@
   "legacyPackages.x86_64-linux.python313Packages.unstructured-client": {
     "description": "Python Client SDK for Unstructured API",
     "pname": "python3.13-unstructured-client",
-    "version": "0.32.0"
+    "version": "0.32.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.unstructured-inference": {
     "description": "hosted model inference code for layout parsing models",
@@ -298054,16 +298029,6 @@
     "pname": "python3",
     "version": "3.14.0a6"
   },
-  "legacyPackages.x86_64-linux.python39": {
-    "description": "High-level dynamically-typed programming language",
-    "pname": "python3",
-    "version": "3.9.21"
-  },
-  "legacyPackages.x86_64-linux.python39Full": {
-    "description": "High-level dynamically-typed programming language",
-    "pname": "python3",
-    "version": "3.9.21"
-  },
   "legacyPackages.x86_64-linux.python3Full": {
     "description": "High-level dynamically-typed programming language",
     "pname": "python3",
@@ -298351,8 +298316,8 @@
   },
   "legacyPackages.x86_64-linux.qdl": {
     "description": "Tool for flashing images to Qualcomm devices",
-    "pname": "qdl-unstable",
-    "version": "2024-06-10"
+    "pname": "qdl",
+    "version": "0-unstable-2025-03-19"
   },
   "legacyPackages.x86_64-linux.qdmr": {
     "description": "GUI application and command line tool for programming DMR radios",
@@ -342394,6 +342359,11 @@
     "pname": "signal-desktop",
     "version": "7.47.0"
   },
+  "legacyPackages.x86_64-linux.signal-desktop-bin": {
+    "description": "Private, simple, and secure messenger",
+    "pname": "signal-desktop",
+    "version": "7.47.0"
+  },
   "legacyPackages.x86_64-linux.signal-desktop-source": {
     "description": "Private, simple, and secure messenger (nixpkgs build)",
     "pname": "signal-desktop-source",
@@ -343332,7 +343302,7 @@
   "legacyPackages.x86_64-linux.slskd": {
     "description": "Modern client-server application for the Soulseek file sharing network",
     "pname": "slskd",
-    "version": "0.22.2"
+    "version": "0.22.3"
   },
   "legacyPackages.x86_64-linux.slsnif": {
     "description": "Serial line sniffer",
@@ -349332,7 +349302,7 @@
   "legacyPackages.x86_64-linux.tailwindcss_4": {
     "description": "Command-line tool for the CSS framework with composable CSS classes, standalone v4 CLI",
     "pname": "tailwindcss_4",
-    "version": "4.1.2"
+    "version": "4.1.3"
   },
   "legacyPackages.x86_64-linux.taisei": {
     "description": "Free and open-source Touhou Project clone and fangame",
@@ -375262,7 +375232,7 @@
   "legacyPackages.x86_64-linux.tgpt": {
     "description": "ChatGPT in terminal without needing API keys",
     "pname": "tgpt",
-    "version": "2.9.3"
+    "version": "2.9.4"
   },
   "legacyPackages.x86_64-linux.tgswitch": {
     "description": "Command line tool to switch between different versions of terragrunt",
@@ -378517,12 +378487,12 @@
   "legacyPackages.x86_64-linux.trilium-next-desktop": {
     "description": "Hierarchical note taking application with focus on building large personal knowledge bases",
     "pname": "trilium-next-desktop",
-    "version": "0.92.6"
+    "version": "0.92.7"
   },
   "legacyPackages.x86_64-linux.trilium-next-server": {
     "description": "Hierarchical note taking application with focus on building large personal knowledge bases",
     "pname": "trilium-next-server",
-    "version": "0.92.6"
+    "version": "0.92.7"
   },
   "legacyPackages.x86_64-linux.trilium-server": {
     "description": "Hierarchical note taking application with focus on building large personal knowledge bases",
@@ -382737,7 +382707,7 @@
   "legacyPackages.x86_64-linux.vectorcode": {
     "description": "Code repository indexing tool to supercharge your LLM experience",
     "pname": "vectorcode",
-    "version": "0.5.3"
+    "version": "0.5.5"
   },
   "legacyPackages.x86_64-linux.vectoroids": {
     "description": "Clone of the classic arcade game Asteroids by Atari",
@@ -394937,7 +394907,7 @@
   "legacyPackages.x86_64-linux.vscode": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode",
-    "version": "1.99.1"
+    "version": "1.99.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions-update": {
     "description": "",
@@ -397132,7 +397102,7 @@
   "legacyPackages.x86_64-linux.vscode-fhs": {
     "description": "Wrapped variant of vscode which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
     "pname": "code",
-    "version": "1.99.1"
+    "version": "1.99.2"
   },
   "legacyPackages.x86_64-linux.vscode-js-debug": {
     "description": "A DAP-compatible JavaScript debugger",
@@ -397152,7 +397122,7 @@
   "legacyPackages.x86_64-linux.vscode-with-extensions": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode-with-extensions",
-    "version": "1.99.1"
+    "version": "1.99.2"
   },
   "legacyPackages.x86_64-linux.vscodium": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) ",
@@ -399887,7 +399857,7 @@
   "legacyPackages.x86_64-linux.wlx-overlay-s": {
     "description": "Wayland/X11 desktop overlay for SteamVR and OpenXR, Vulkan edition",
     "pname": "wlx-overlay-s",
-    "version": "25.3.0"
+    "version": "25.4.2"
   },
   "legacyPackages.x86_64-linux.wmctrl": {
     "description": "CLI tool to interact with EWMH/NetWM compatible X Window Managers",
@@ -404622,7 +404592,7 @@
   "legacyPackages.x86_64-linux.yaziPlugins.yatline": {
     "description": "Yazi plugin for customizing both header-line and status-line.",
     "pname": "yatline.yazi",
-    "version": "0-unstable-2025-03-05"
+    "version": "0-unstable-2025-04-11"
   },
   "legacyPackages.x86_64-linux.ycmd": {
     "description": "Code-completion and comprehension server",
@@ -406097,7 +406067,7 @@
   "legacyPackages.x86_64-linux.zitadel": {
     "description": "Identity and access management platform",
     "pname": "zitadel",
-    "version": "2.71.1"
+    "version": "2.71.7"
   },
   "legacyPackages.x86_64-linux.zitadel-tools": {
     "description": "Helper tools for zitadel",
