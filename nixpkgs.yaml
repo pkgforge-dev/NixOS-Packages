@@ -21613,7 +21613,7 @@ legacyPackages.x86_64-linux.cosmic-ext-calculator:
 legacyPackages.x86_64-linux.cosmic-ext-ctl:
   description: CLI for COSMIC Desktop configuration management
   pname: cosmic-ext-ctl
-  version: 1.1.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-ext-tweaks:
   description: Tweaking tool for the COSMIC Desktop Environment
   pname: cosmic-ext-tweaks
@@ -37889,7 +37889,7 @@ legacyPackages.x86_64-linux.github-desktop:
 legacyPackages.x86_64-linux.github-markdown-toc-go:
   description: Easy TOC creation for GitHub README.md (in go)
   pname: github-markdown-toc-go
-  version: 1.4.0
+  version: 2.0.0
 legacyPackages.x86_64-linux.github-mcp-server:
   description: GitHub's official MCP Server
   pname: github-mcp-server
@@ -53065,7 +53065,7 @@ legacyPackages.x86_64-linux.hyprlandPlugins.hyprwinwrap:
 legacyPackages.x86_64-linux.hyprlang:
   description: Official implementation library for the hypr config language
   pname: hyprlang
-  version: 0.6.0
+  version: 0.6.1
 legacyPackages.x86_64-linux.hyprlock:
   description: Hyprland's GPU-accelerated screen locking utility
   pname: hyprlock
@@ -60441,7 +60441,7 @@ legacyPackages.x86_64-linux.kind2:
 legacyPackages.x86_64-linux.kine:
   description: Kine is an etcdshim that translates etcd API to RDMS
   pname: kine
-  version: 0.13.11
+  version: 0.13.13
 legacyPackages.x86_64-linux.kinect-audio-setup:
   description: Tools to enable audio input from the Microsoft Kinect sensor device
   pname: kinect-audio-setup
@@ -62974,6 +62974,10 @@ legacyPackages.x86_64-linux.lethe:
   description: Tool to wipe drives in a secure way
   pname: lethe
   version: 0.8.2
+legacyPackages.x86_64-linux.letsdns:
+  description: Manage DANE TLSA records in DNS servers
+  pname: letsdns
+  version: 1.2.1
 legacyPackages.x86_64-linux.letterpress:
   description: Create beautiful ASCII art
   pname: letterpress
@@ -149965,7 +149969,7 @@ legacyPackages.x86_64-linux.php81Packages.phive:
 legacyPackages.x86_64-linux.php81Packages.php-codesniffer:
   description: PHP coding standard tool
   pname: php-codesniffer
-  version: 3.12.0
+  version: 3.12.2
 legacyPackages.x86_64-linux.php81Packages.php-cs-fixer:
   description: Tool to automatically fix PHP coding standards issues
   pname: php-cs-fixer
@@ -150477,7 +150481,7 @@ legacyPackages.x86_64-linux.php82Packages.phive:
 legacyPackages.x86_64-linux.php82Packages.php-codesniffer:
   description: PHP coding standard tool
   pname: php-codesniffer
-  version: 3.12.0
+  version: 3.12.2
 legacyPackages.x86_64-linux.php82Packages.php-cs-fixer:
   description: Tool to automatically fix PHP coding standards issues
   pname: php-cs-fixer
@@ -150989,7 +150993,7 @@ legacyPackages.x86_64-linux.php83Packages.phive:
 legacyPackages.x86_64-linux.php83Packages.php-codesniffer:
   description: PHP coding standard tool
   pname: php-codesniffer
-  version: 3.12.0
+  version: 3.12.2
 legacyPackages.x86_64-linux.php83Packages.php-cs-fixer:
   description: Tool to automatically fix PHP coding standards issues
   pname: php-cs-fixer
@@ -151497,7 +151501,7 @@ legacyPackages.x86_64-linux.php84Packages.phive:
 legacyPackages.x86_64-linux.php84Packages.php-codesniffer:
   description: PHP coding standard tool
   pname: php-codesniffer
-  version: 3.12.0
+  version: 3.12.2
 legacyPackages.x86_64-linux.php84Packages.php-cs-fixer:
   description: Tool to automatically fix PHP coding standards issues
   pname: php-cs-fixer
@@ -173293,15 +173297,15 @@ legacyPackages.x86_64-linux.python312Packages.home-assistant-bluetooth:
 legacyPackages.x86_64-linux.python312Packages.home-assistant-chip-clusters:
   description: Python-base APIs and tools for CHIP
   pname: python3.12-home-assistant-chip-clusters
-  version: 2024.11.4
+  version: 2025.4.0
 legacyPackages.x86_64-linux.python312Packages.home-assistant-chip-core:
   description: Python-base APIs and tools for CHIP
   pname: python3.12-home-assistant-chip-core
-  version: 2024.11.4
+  version: 2025.4.0
 legacyPackages.x86_64-linux.python312Packages.home-assistant-chip-wheels:
   description: Python wheels for APIs and tools related to CHIP
   pname: home-assistant-chip-wheels
-  version: 2024.11.4
+  version: 2025.4.0
 legacyPackages.x86_64-linux.python312Packages.homeassistant-bring-api:
   description: Module to access the Bring! shopping lists API
   pname: python3.12-bring-api
@@ -211981,15 +211985,15 @@ legacyPackages.x86_64-linux.python313Packages.home-assistant-bluetooth:
 legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-clusters:
   description: Python-base APIs and tools for CHIP
   pname: python3.13-home-assistant-chip-clusters
-  version: 2024.11.4
+  version: 2025.4.0
 legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-core:
   description: Python-base APIs and tools for CHIP
   pname: python3.13-home-assistant-chip-core
-  version: 2024.11.4
+  version: 2025.4.0
 legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-wheels:
   description: Python wheels for APIs and tools related to CHIP
   pname: home-assistant-chip-wheels
-  version: 2024.11.4
+  version: 2025.4.0
 legacyPackages.x86_64-linux.python313Packages.homeassistant-bring-api:
   description: Module to access the Bring! shopping lists API
   pname: python3.13-bring-api
@@ -240613,7 +240617,7 @@ legacyPackages.x86_64-linux.rastertoezpl:
 legacyPackages.x86_64-linux.rat-king-adventure:
   description: An expansive fork of RKPD2, itself a fork of the Shattered Pixel Dungeon roguelike
   pname: rat-king-adventure
-  version: 2.0.2
+  version: 2.1.0
 legacyPackages.x86_64-linux.ratarmount:
   description: Mounts archives as read-only file systems by way of indexing
   pname: ratarmount
@@ -275794,6 +275798,10 @@ legacyPackages.x86_64-linux.sourcemapper:
   description: Extract JavaScript source trees from Sourcemap files
   pname: sourcemapper
   version: 0-unstable-2024-03-22
+legacyPackages.x86_64-linux.sourcepawn-studio:
+  description: LSP implementation for the SourcePawn programming language written in Rust
+  pname: sourcepawn-studio
+  version: 8.1.2
 legacyPackages.x86_64-linux.sourcery:
   description: AI-powered code review and pair programming tool for Python
   pname: sourcery
@@ -279529,7 +279537,7 @@ legacyPackages.x86_64-linux.tamzen:
 legacyPackages.x86_64-linux.tana:
   description: Tana is an intelligent all-in-one workspace
   pname: tana
-  version: 1.0.25
+  version: 1.0.26
 legacyPackages.x86_64-linux.tandem-aligner:
   description: Parameter-free algorithm for sequence alignment
   pname: TandemAligner
@@ -315734,10 +315742,6 @@ legacyPackages.x86_64-linux.vobsub2srt:
   description: Converts VobSub subtitles into SRT subtitles
   pname: vobsub2srt-unstable
   version: "2014-08-17"
-legacyPackages.x86_64-linux.vocal:
-  description: Podcast client for the modern free desktop
-  pname: vocal
-  version: 2.4.2
 legacyPackages.x86_64-linux.vocproc:
   description: LV2 plugin for pitch shifting (with or without formant correction), vocoding, automatic pitch correction and harmonizing of singing voice (harmonizer)
   pname: vocproc
@@ -323571,7 +323575,7 @@ legacyPackages.x86_64-linux.yaziPlugins.diff:
   pname: diff.yazi
   version: 25.2.7-unstable-2025-03-02
 legacyPackages.x86_64-linux.yaziPlugins.duckdb:
-  description: Yazi plugin that uses duckdb to preview data files.
+  description: Yazi plugin that uses duckdb to preview data files
   pname: duckdb.yazi
   version: 25.4.8-unstable-2025-04-08
 legacyPackages.x86_64-linux.yaziPlugins.full-border:
@@ -323583,7 +323587,7 @@ legacyPackages.x86_64-linux.yaziPlugins.git:
   pname: git.yazi
   version: 25.4.4-unstable-2025-04-04
 legacyPackages.x86_64-linux.yaziPlugins.glow:
-  description: Glow preview plugin for yazi.
+  description: Glow preview plugin for yazi
   pname: glow.yazi
   version: 0-unstable-2025-02-22
 legacyPackages.x86_64-linux.yaziPlugins.jump-to-char:
@@ -323591,7 +323595,7 @@ legacyPackages.x86_64-linux.yaziPlugins.jump-to-char:
   pname: jump-to-char.yazi
   version: 25.2.26-unstable-2025-03-02
 legacyPackages.x86_64-linux.yaziPlugins.lazygit:
-  description: Lazygit plugin for yazi.
+  description: Lazygit plugin for yazi
   pname: lazygit.yazi
   version: 0-unstable-2025-03-31
 legacyPackages.x86_64-linux.yaziPlugins.lsar:
@@ -323603,11 +323607,11 @@ legacyPackages.x86_64-linux.yaziPlugins.mactag:
   pname: mactag.yazi
   version: 25.4.4-unstable-2025-04-04
 legacyPackages.x86_64-linux.yaziPlugins.mediainfo:
-  description: Yazi plugin for previewing media files.
+  description: Yazi plugin for previewing media files
   pname: mediainfo.yazi
   version: 25.2.7-unstable-2025-04-05
 legacyPackages.x86_64-linux.yaziPlugins.miller:
-  description: Miller, now in yazi.
+  description: Miller, now in yazi
   pname: miller.yazi
   version: 0-unstable-2024-08-28
 legacyPackages.x86_64-linux.yaziPlugins.mime-ext:
@@ -323623,23 +323627,23 @@ legacyPackages.x86_64-linux.yaziPlugins.no-status:
   pname: no-status.yazi
   version: 25.2.7-unstable-2025-03-02
 legacyPackages.x86_64-linux.yaziPlugins.ouch:
-  description: A Yazi plugin to preview archives.
+  description: Yazi plugin to preview archives
   pname: ouch.yazi
-  version: 0-unstable-2025-04-09
+  version: 0-unstable-2025-04-12
 legacyPackages.x86_64-linux.yaziPlugins.projects:
-  description: A yazi plugin that adds the functionality to save and load projects.
+  description: Yazi plugin that adds the functionality to save and load projects
   pname: projects.yazi
   version: 0-unstable-2025-03-02
 legacyPackages.x86_64-linux.yaziPlugins.relative-motions:
-  description: Yazi plugin based about vim motions.
+  description: Yazi plugin based about vim motions
   pname: relative-motions.yazi
   version: 25.2.7-unstable-2025-04-07
 legacyPackages.x86_64-linux.yaziPlugins.restore:
-  description: Undo/Recover trashed files/folders.
+  description: Undo/Recover trashed files/folders
   pname: restore.yazi
   version: 25.2.7-unstable-2025-04-04
 legacyPackages.x86_64-linux.yaziPlugins.rich-preview:
-  description: Preview file types using rich in Yazi.
+  description: Preview file types using rich in Yazi
   pname: rich-preview.yazi
   version: 0-unstable-2025-01-18
 legacyPackages.x86_64-linux.yaziPlugins.smart-enter:
@@ -323651,15 +323655,15 @@ legacyPackages.x86_64-linux.yaziPlugins.smart-filter:
   pname: smart-filter.yazi
   version: 25.2.26-unstable-2025-03-02
 legacyPackages.x86_64-linux.yaziPlugins.starship:
-  description: Starship prompt plugin for yazi.
+  description: Starship prompt plugin for yazi
   pname: starship.yazi
   version: 25.2.7-unstable-2025-02-23
 legacyPackages.x86_64-linux.yaziPlugins.sudo:
-  description: Call `sudo` in yazi.
+  description: Call `sudo` in yazi
   pname: sudo.yazi
   version: 0-unstable-2025-02-08
 legacyPackages.x86_64-linux.yaziPlugins.time-travel:
-  description: A yazi plugin for browsing backwards and forwards in time via BTRFS / ZFS snapshots.
+  description: Yazi plugin for browsing backwards and forwards in time via BTRFS / ZFS snapshots
   pname: time-travel.yazi
   version: 0-unstable-2025-03-02
 legacyPackages.x86_64-linux.yaziPlugins.toggle-pane:
@@ -323671,9 +323675,13 @@ legacyPackages.x86_64-linux.yaziPlugins.vcs-files:
   pname: vcs-files.yazi
   version: 25.3.7-unstable-2025-03-07
 legacyPackages.x86_64-linux.yaziPlugins.yatline:
-  description: Yazi plugin for customizing both header-line and status-line.
+  description: Yazi plugin for customizing both header-line and status-line
   pname: yatline.yazi
   version: 0-unstable-2025-04-11
+legacyPackages.x86_64-linux.yaziPlugins.yatline-catppuccin:
+  description: Soothing pastel theme for Yatline
+  pname: yatline-catppuccin.yazi
+  version: 0-unstable-2025-03-05
 legacyPackages.x86_64-linux.ycmd:
   description: Code-completion and comprehension server
   pname: ycmd-unstable
