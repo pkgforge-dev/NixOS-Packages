@@ -842,7 +842,7 @@
   "legacyPackages.x86_64-linux.abracadabra": {
     "description": "DAB/DAB+ radio application",
     "pname": "abracadabra",
-    "version": "3.1.0"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.abseil-cpp": {
     "description": "Open-source collection of C++ code designed to augment the C++ standard library",
@@ -15569,6 +15569,11 @@
     "pname": "bluesnarfer",
     "version": "0.1"
   },
+  "legacyPackages.x86_64-linux.bluesnooze": {
+    "description": "Bluesnooze prevents your sleeping Mac from connecting to Bluetooth accessories",
+    "pname": "bluesnooze",
+    "version": "1.2"
+  },
   "legacyPackages.x86_64-linux.bluespec": {
     "description": "Toolchain for the Bluespec Hardware Definition Language",
     "pname": "bluespec",
@@ -24417,7 +24422,7 @@
   "legacyPackages.x86_64-linux.claude-code": {
     "description": "An agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "0.2.74"
+    "version": "0.2.92"
   },
   "legacyPackages.x86_64-linux.claws": {
     "description": "Interactive command line client for testing websocket servers",
@@ -26557,7 +26562,7 @@
   "legacyPackages.x86_64-linux.copilot-language-server": {
     "description": "Use GitHub Copilot with any editor or IDE via the Language Server Protocol",
     "pname": "copilot-language-server",
-    "version": "1.304.0"
+    "version": "1.311.0"
   },
   "legacyPackages.x86_64-linux.copilot-language-server-fhs": {
     "description": "Use GitHub Copilot with any editor or IDE via the Language Server Protocol (FHS-wrapped, expand package details for further information when to use it)",
@@ -27167,7 +27172,7 @@
   "legacyPackages.x86_64-linux.corrosion": {
     "description": "Tool for integrating Rust into an existing CMake project",
     "pname": "corrosion",
-    "version": "0.5.1"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.corrscope": {
     "description": "Render wave files into oscilloscope views, featuring advanced correlation-based triggering algorithm",
@@ -28277,7 +28282,7 @@
   "legacyPackages.x86_64-linux.csharp-ls": {
     "description": "Roslyn-based LSP language server for C#",
     "pname": "csharp-ls",
-    "version": "0.16.0"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.csharpier": {
     "description": "Opinionated code formatter for C#",
@@ -35402,7 +35407,7 @@
   "legacyPackages.x86_64-linux.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.dpic": {
     "description": "Implementation of the pic little language for creating drawings",
@@ -37552,12 +37557,12 @@
   "legacyPackages.x86_64-linux.electron": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "35.2.0"
+    "version": "35.2.1"
   },
   "legacyPackages.x86_64-linux.electron-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "35.2.0"
+    "version": "35.2.1"
   },
   "legacyPackages.x86_64-linux.electron-cash": {
     "description": "Bitcoin Cash SPV Wallet",
@@ -37567,7 +37572,7 @@
   "legacyPackages.x86_64-linux.electron-chromedriver": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "35.2.0"
+    "version": "35.2.1"
   },
   "legacyPackages.x86_64-linux.electron-chromedriver_32": {
     "description": "WebDriver server for running Selenium tests on Chrome",
@@ -37577,17 +37582,17 @@
   "legacyPackages.x86_64-linux.electron-chromedriver_33": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "33.4.10"
+    "version": "33.4.11"
   },
   "legacyPackages.x86_64-linux.electron-chromedriver_34": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "34.5.2"
+    "version": "34.5.3"
   },
   "legacyPackages.x86_64-linux.electron-chromedriver_35": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "35.2.0"
+    "version": "35.2.1"
   },
   "legacyPackages.x86_64-linux.electron-fiddle": {
     "description": "Easiest way to get started with Electron",
@@ -37612,32 +37617,32 @@
   "legacyPackages.x86_64-linux.electron_33": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "33.4.10"
+    "version": "33.4.11"
   },
   "legacyPackages.x86_64-linux.electron_33-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "33.4.10"
+    "version": "33.4.11"
   },
   "legacyPackages.x86_64-linux.electron_34": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "34.5.2"
+    "version": "34.5.3"
   },
   "legacyPackages.x86_64-linux.electron_34-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "34.5.2"
+    "version": "34.5.3"
   },
   "legacyPackages.x86_64-linux.electron_35": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "35.2.0"
+    "version": "35.2.1"
   },
   "legacyPackages.x86_64-linux.electron_35-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "35.2.0"
+    "version": "35.2.1"
   },
   "legacyPackages.x86_64-linux.electrs": {
     "description": "Efficient re-implementation of Electrum Server in Rust",
@@ -45622,7 +45627,7 @@
   "legacyPackages.x86_64-linux.gdevelop": {
     "description": "Graphical Game Development Studio",
     "pname": "gdevelop",
-    "version": "5.5.228"
+    "version": "5.5.229"
   },
   "legacyPackages.x86_64-linux.gdk-pixbuf": {
     "description": "Library for image loading and manipulation",
@@ -55097,7 +55102,7 @@
   "legacyPackages.x86_64-linux.google-chrome": {
     "description": "Freeware web browser developed by Google",
     "pname": "google-chrome",
-    "version": "135.0.7049.114"
+    "version": "136.0.7103.59"
   },
   "legacyPackages.x86_64-linux.google-clasp": {
     "description": "Develop Apps Script Projects locally",
@@ -55307,7 +55312,7 @@
   "legacyPackages.x86_64-linux.goreleaser": {
     "description": "Deliver Go binaries as fast and easily as possible",
     "pname": "goreleaser",
-    "version": "2.8.2"
+    "version": "2.9.0"
   },
   "legacyPackages.x86_64-linux.goreman": {
     "description": "foreman clone written in go language",
@@ -68912,7 +68917,7 @@
   "legacyPackages.x86_64-linux.inputplumber": {
     "description": "Open source input router and remapper daemon for Linux",
     "pname": "inputplumber",
-    "version": "0.53.0"
+    "version": "0.56.0"
   },
   "legacyPackages.x86_64-linux.inql": {
     "description": "Security testing tool for GraphQL",
@@ -71527,7 +71532,7 @@
   "legacyPackages.x86_64-linux.jreleaser-cli": {
     "description": "Release projects quickly and easily",
     "pname": "jreleaser-cli",
-    "version": "1.17.0"
+    "version": "1.18.0"
   },
   "legacyPackages.x86_64-linux.jrl-cmakemodules": {
     "description": "CMake utility toolbox",
@@ -75677,7 +75682,7 @@
   "legacyPackages.x86_64-linux.kew": {
     "description": "Command-line music player for Linux",
     "pname": "kew",
-    "version": "3.1.2"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.kexec-tools": {
     "description": "Tools related to the kexec Linux feature",
@@ -77287,7 +77292,7 @@
   "legacyPackages.x86_64-linux.krillinai": {
     "description": "Video translation and dubbing tool",
     "pname": "krillinai",
-    "version": "1.1.3"
+    "version": "1.1.4"
   },
   "legacyPackages.x86_64-linux.kristall": {
     "description": "Graphical small-internet client, supports gemini, http, https, gopher, finger",
@@ -79837,7 +79842,7 @@
   "legacyPackages.x86_64-linux.libbson": {
     "description": "Official C client library for MongoDB",
     "pname": "mongoc",
-    "version": "1.30.2"
+    "version": "1.30.3"
   },
   "legacyPackages.x86_64-linux.libbtbb": {
     "description": "Bluetooth baseband decoding library",
@@ -88777,7 +88782,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_testing": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
     "pname": "linux",
-    "version": "6.15-rc3"
+    "version": "6.15-rc4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_xanmod": {
     "description": "Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience",
@@ -88927,7 +88932,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -89282,7 +89287,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ply": {
     "description": "Dynamic tracing in Linux",
@@ -89727,7 +89732,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -90082,7 +90087,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -90527,7 +90532,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -90882,7 +90887,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ply": {
     "description": "Dynamic tracing in Linux",
@@ -91327,7 +91332,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -91682,7 +91687,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -92127,7 +92132,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -92482,7 +92487,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.ply": {
     "description": "Dynamic tracing in Linux",
@@ -92932,7 +92937,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -93287,7 +93292,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -93737,7 +93742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -94092,7 +94097,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ply": {
     "description": "Dynamic tracing in Linux",
@@ -94532,7 +94537,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -94887,7 +94892,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ply": {
     "description": "Dynamic tracing in Linux",
@@ -95332,7 +95337,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -95687,7 +95692,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -96132,7 +96137,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -96487,7 +96492,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.ply": {
     "description": "Dynamic tracing in Linux",
@@ -96932,7 +96937,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -97287,7 +97292,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -97732,7 +97737,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -98087,7 +98092,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.ply": {
     "description": "Dynamic tracing in Linux",
@@ -98532,7 +98537,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -98887,7 +98892,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -99327,7 +99332,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -99682,7 +99687,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ply": {
     "description": "Dynamic tracing in Linux",
@@ -100122,7 +100127,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -100477,7 +100482,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -100917,7 +100922,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -101272,7 +101277,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.ply": {
     "description": "Dynamic tracing in Linux",
@@ -101717,7 +101722,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -102072,7 +102077,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -102517,7 +102522,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -102872,7 +102877,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ply": {
     "description": "Dynamic tracing in Linux",
@@ -103317,7 +103322,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -103672,7 +103677,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.ply": {
     "description": "Dynamic tracing in Linux",
@@ -104117,7 +104122,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -104472,7 +104477,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ply": {
     "description": "Dynamic tracing in Linux",
@@ -104917,7 +104922,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -105272,7 +105277,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ply": {
     "description": "Dynamic tracing in Linux",
@@ -105717,7 +105722,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -106072,7 +106077,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ply": {
     "description": "Dynamic tracing in Linux",
@@ -106517,7 +106522,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -106872,7 +106877,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ply": {
     "description": "Dynamic tracing in Linux",
@@ -107317,7 +107322,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -107672,7 +107677,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ply": {
     "description": "Dynamic tracing in Linux",
@@ -108117,7 +108122,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -108472,7 +108477,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.ply": {
     "description": "Dynamic tracing in Linux",
@@ -108917,7 +108922,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -109272,7 +109277,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages.ply": {
     "description": "Dynamic tracing in Linux",
@@ -109717,7 +109722,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -110072,7 +110077,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -110517,7 +110522,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -110872,7 +110877,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -111317,7 +111322,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -111672,7 +111677,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -112122,7 +112127,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -112477,7 +112482,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -112922,7 +112927,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -113277,7 +113282,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -113722,7 +113727,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -114077,7 +114082,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -114517,7 +114522,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -114872,7 +114877,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -115317,7 +115322,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -115672,7 +115677,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.ply": {
     "description": "Dynamic tracing in Linux",
@@ -116117,7 +116122,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -116472,7 +116477,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.ply": {
     "description": "Dynamic tracing in Linux",
@@ -116917,7 +116922,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -117272,7 +117277,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.ply": {
     "description": "Dynamic tracing in Linux",
@@ -117717,7 +117722,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -118072,7 +118077,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.ply": {
     "description": "Dynamic tracing in Linux",
@@ -118517,7 +118522,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -118872,7 +118877,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ply": {
     "description": "Dynamic tracing in Linux",
@@ -119317,7 +119322,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -119672,7 +119677,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.ply": {
     "description": "Dynamic tracing in Linux",
@@ -120117,7 +120122,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -120472,7 +120477,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ply": {
     "description": "Dynamic tracing in Linux",
@@ -120917,7 +120922,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -121272,7 +121277,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ply": {
     "description": "Dynamic tracing in Linux",
@@ -121717,7 +121722,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
     "pname": "dpdk",
-    "version": "24.07"
+    "version": "25.03"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.dpdk-kmods": {
     "description": "Kernel modules for DPDK",
@@ -122072,7 +122077,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ply": {
     "description": "Dynamic tracing in Linux",
@@ -122527,7 +122532,7 @@
   "legacyPackages.x86_64-linux.linux_testing": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
     "pname": "linux",
-    "version": "6.15-rc3"
+    "version": "6.15-rc4"
   },
   "legacyPackages.x86_64-linux.linux_xanmod": {
     "description": "Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience",
@@ -137927,7 +137932,7 @@
   "legacyPackages.x86_64-linux.mongoc": {
     "description": "Official C client library for MongoDB",
     "pname": "mongoc",
-    "version": "1.30.2"
+    "version": "1.30.3"
   },
   "legacyPackages.x86_64-linux.mongocxx": {
     "description": "Official C++ client library for MongoDB",
@@ -141227,7 +141232,7 @@
   "legacyPackages.x86_64-linux.necesse-server": {
     "description": "Dedicated server for Necesse",
     "pname": "necesse-server",
-    "version": "0.32.1-18110069"
+    "version": "0.32.1-18204230"
   },
   "legacyPackages.x86_64-linux.nedit": {
     "description": "Fast, compact Motif/X11 plain text editor",
@@ -141852,7 +141857,7 @@
   "legacyPackages.x86_64-linux.netbird": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird",
-    "version": "0.43.0"
+    "version": "0.43.1"
   },
   "legacyPackages.x86_64-linux.netbird-dashboard": {
     "description": "NetBird Management Service Web UI Panel",
@@ -141862,7 +141867,7 @@
   "legacyPackages.x86_64-linux.netbird-ui": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird",
-    "version": "0.43.0"
+    "version": "0.43.1"
   },
   "legacyPackages.x86_64-linux.netboot": {
     "description": "Mini PXE server",
@@ -143017,7 +143022,7 @@
   "legacyPackages.x86_64-linux.nix": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
     "pname": "nix",
-    "version": "2.28.2"
+    "version": "2.28.3"
   },
   "legacyPackages.x86_64-linux.nix-bash-completions": {
     "description": "Bash completions for Nix, NixOS, and NixOps",
@@ -143392,17 +143397,17 @@
   "legacyPackages.x86_64-linux.nixForLinking": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
     "pname": "nix",
-    "version": "2.28.2"
+    "version": "2.28.3"
   },
   "legacyPackages.x86_64-linux.nixStable": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
     "pname": "nix",
-    "version": "2.28.2"
+    "version": "2.28.3"
   },
   "legacyPackages.x86_64-linux.nixStatic": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
     "pname": "nix-static-x86_64-unknown-linux-musl",
-    "version": "2.28.2"
+    "version": "2.28.3"
   },
   "legacyPackages.x86_64-linux.nixVersions.git": {
     "description": "The Nix package manager",
@@ -143412,7 +143417,7 @@
   "legacyPackages.x86_64-linux.nixVersions.latest": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
     "pname": "nix",
-    "version": "2.28.2"
+    "version": "2.28.3"
   },
   "legacyPackages.x86_64-linux.nixVersions.minimum": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
@@ -143432,7 +143437,7 @@
   "legacyPackages.x86_64-linux.nixVersions.nix_2_28": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
     "pname": "nix",
-    "version": "2.28.2"
+    "version": "2.28.3"
   },
   "legacyPackages.x86_64-linux.nixVersions.nix_2_3": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
@@ -143442,7 +143447,7 @@
   "legacyPackages.x86_64-linux.nixVersions.stable": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
     "pname": "nix",
-    "version": "2.28.2"
+    "version": "2.28.3"
   },
   "legacyPackages.x86_64-linux.nix_2_3": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
@@ -143887,7 +143892,7 @@
   "legacyPackages.x86_64-linux.nodeinfo": {
     "description": "Command line tool to query nodeinfo based on a given domain",
     "pname": "nodeinfo",
-    "version": "0.3.2"
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.nodejs": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
@@ -144997,12 +145002,12 @@
   "legacyPackages.x86_64-linux.nushell": {
     "description": "Modern shell written in Rust",
     "pname": "nushell",
-    "version": "0.103.0"
+    "version": "0.104.0"
   },
   "legacyPackages.x86_64-linux.nushellFull": {
     "description": "Modern shell written in Rust",
     "pname": "nushell",
-    "version": "0.103.0"
+    "version": "0.104.0"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.dbus": {
     "description": "Nushell plugin for communicating with D-Bus",
@@ -145012,12 +145017,12 @@
   "legacyPackages.x86_64-linux.nushellPlugins.formats": {
     "description": "Formats plugin for Nushell",
     "pname": "nushell_plugin_formats",
-    "version": "0.103.0"
+    "version": "0.104.0"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.gstat": {
     "description": "Git status plugin for Nushell",
     "pname": "nushell_plugin_gstat",
-    "version": "0.103.0"
+    "version": "0.104.0"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.highlight": {
     "description": "A nushell plugin for syntax highlighting.",
@@ -145032,12 +145037,12 @@
   "legacyPackages.x86_64-linux.nushellPlugins.polars": {
     "description": "Nushell dataframe plugin commands based on polars",
     "pname": "nushell_plugin_polars",
-    "version": "0.103.0"
+    "version": "0.104.0"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.query": {
     "description": "Nushell plugin to query JSON, XML, and various web data",
     "pname": "nushell_plugin_query",
-    "version": "0.103.0"
+    "version": "0.104.0"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.skim": {
     "description": "A nushell plugin that adds integrates the skim fuzzy finder",
@@ -191207,7 +191212,7 @@
   "legacyPackages.x86_64-linux.pktgen": {
     "description": "Traffic generator powered by DPDK",
     "pname": "pktgen",
-    "version": "23.10.0"
+    "version": "24.10.3"
   },
   "legacyPackages.x86_64-linux.place-cursor-at": {
     "description": "A utility for X11 that moves the mouse cursor using the keyboard",
@@ -194532,7 +194537,7 @@
   "legacyPackages.x86_64-linux.pmtiles": {
     "description": "Single-file utility for creating and working with PMTiles archives",
     "pname": "pmtiles",
-    "version": "1.27.2"
+    "version": "1.28.0"
   },
   "legacyPackages.x86_64-linux.pmutils": {
     "description": "Small collection of scripts that handle suspend and resume on behalf of HAL",
@@ -194697,7 +194702,7 @@
   "legacyPackages.x86_64-linux.pod2mdoc": {
     "description": "converter from POD into mdoc",
     "pname": "pod2mdoc",
-    "version": "0.0.10"
+    "version": "0.2"
   },
   "legacyPackages.x86_64-linux.podgrab": {
     "description": "Self-hosted podcast manager to download episodes as soon as they become live",
@@ -213932,7 +213937,7 @@
   "legacyPackages.x86_64-linux.python312Packages.fastexcel": {
     "description": "Fast excel file reader for Python, written in Rust",
     "pname": "python3.12-fastexcel",
-    "version": "0.13.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.fastimport": {
     "description": "VCS fastimport/fastexport parser",
@@ -217457,7 +217462,7 @@
   "legacyPackages.x86_64-linux.python312Packages.hf-xet": {
     "description": "Xet client tech, used in huggingface_hub",
     "pname": "python3.12-hf-xet",
-    "version": "1.0.5"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.hfst": {
     "description": "Python bindings for HFST",
@@ -227927,7 +227932,7 @@
   "legacyPackages.x86_64-linux.python312Packages.openstackdocstheme": {
     "description": "Sphinx theme for RST-sourced documentation published to docs.openstack.org",
     "pname": "python3.12-openstackdocstheme",
-    "version": "3.4.1"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.openstacksdk": {
     "description": "SDK for building applications to work with OpenStack",
@@ -244047,7 +244052,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tenant-schemas-celery": {
     "description": "Celery application implementation that allows celery tasks to cooperate with multi-tenancy provided by django-tenant-schemas and django-tenants packages",
     "pname": "python3.12-tenant-schemas-celery",
-    "version": "4.0.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
@@ -249017,12 +249022,12 @@
   "legacyPackages.x86_64-linux.python312Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.12-uv",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.uv-build": {
     "description": "A minimal build backend for uv",
     "pname": "python3.12-uv-build",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.uv-dynamic-versioning": {
     "description": "Dynamic versioning based on VCS tags for uv/hatch project",
@@ -263207,7 +263212,7 @@
   "legacyPackages.x86_64-linux.python313Packages.fastexcel": {
     "description": "Fast excel file reader for Python, written in Rust",
     "pname": "python3.13-fastexcel",
-    "version": "0.13.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.fastimport": {
     "description": "VCS fastimport/fastexport parser",
@@ -266732,7 +266737,7 @@
   "legacyPackages.x86_64-linux.python313Packages.hf-xet": {
     "description": "Xet client tech, used in huggingface_hub",
     "pname": "python3.13-hf-xet",
-    "version": "1.0.5"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.hfst": {
     "description": "Python bindings for HFST",
@@ -277202,7 +277207,7 @@
   "legacyPackages.x86_64-linux.python313Packages.openstackdocstheme": {
     "description": "Sphinx theme for RST-sourced documentation published to docs.openstack.org",
     "pname": "python3.13-openstackdocstheme",
-    "version": "3.4.1"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.openstacksdk": {
     "description": "SDK for building applications to work with OpenStack",
@@ -293352,7 +293357,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tenant-schemas-celery": {
     "description": "Celery application implementation that allows celery tasks to cooperate with multi-tenancy provided by django-tenant-schemas and django-tenants packages",
     "pname": "python3.13-tenant-schemas-celery",
-    "version": "4.0.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
@@ -298322,12 +298327,12 @@
   "legacyPackages.x86_64-linux.python313Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.13-uv",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.uv-build": {
     "description": "A minimal build backend for uv",
     "pname": "python3.13-uv-build",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.uv-dynamic-versioning": {
     "description": "Dynamic versioning based on VCS tags for uv/hatch project",
@@ -300892,7 +300897,7 @@
   "legacyPackages.x86_64-linux.q2pro": {
     "description": "Enhanced Quake 2 client and server focused on multiplayer",
     "pname": "q2pro",
-    "version": "0-unstable-2025-04-18"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.q4wine": {
     "description": "Qt GUI for Wine to manage prefixes and applications",
@@ -301067,7 +301072,7 @@
   "legacyPackages.x86_64-linux.qdocumentview": {
     "description": "Widget to render multi-page documents",
     "pname": "qdocumentview",
-    "version": "0.3.0"
+    "version": "0.3.0.1"
   },
   "legacyPackages.x86_64-linux.qdrant": {
     "description": "Vector Search Engine for the next generation of AI applications",
@@ -304357,7 +304362,7 @@
   "legacyPackages.x86_64-linux.reflection-cpp": {
     "description": "C++ static reflection support library",
     "pname": "reflection-cpp",
-    "version": "0.2.0"
+    "version": "0.3.0"
   },
   "legacyPackages.x86_64-linux.reflex": {
     "description": "Small tool to watch a directory and rerun a command when certain files change",
@@ -348287,7 +348292,7 @@
   "legacyPackages.x86_64-linux.spacetimedb": {
     "description": "Full-featured relational database system that lets you run your application logic inside the database",
     "pname": "spacetimedb",
-    "version": "1.1.0"
+    "version": "1.1.1"
   },
   "legacyPackages.x86_64-linux.spacevim": {
     "description": "Modular Vim/Neovim configuration",
@@ -379412,7 +379417,7 @@
   "legacyPackages.x86_64-linux.tinymist": {
     "description": "Tinymist is an integrated language service for Typst",
     "pname": "tinymist",
-    "version": "0.13.10"
+    "version": "0.13.12"
   },
   "legacyPackages.x86_64-linux.tinyobjloader": {
     "description": "Tiny but powerful single file wavefront obj loader",
@@ -380313,11 +380318,6 @@
     "description": "Tool for getting data from TOML files on the command line",
     "pname": "tomlq",
     "version": "0.1.6"
-  },
-  "legacyPackages.x86_64-linux.ton": {
-    "description": "Fully decentralized layer-1 blockchain designed by Telegram",
-    "pname": "ton",
-    "version": "2024.10"
   },
   "legacyPackages.x86_64-linux.tone": {
     "description": "Cross platform utility to dump and modify audio metadata for a wide variety of formats",
@@ -382297,7 +382297,7 @@
   "legacyPackages.x86_64-linux.ttdl": {
     "description": "CLI tool to manage todo lists in todo.txt format",
     "pname": "ttdl",
-    "version": "4.10.0"
+    "version": "4.11.0"
   },
   "legacyPackages.x86_64-linux.ttf-envy-code-r": {
     "description": "Free scalable coding font by DamienG",
@@ -397262,7 +397262,7 @@
   "legacyPackages.x86_64-linux.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "uv",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.uv-sort": {
     "description": "Sort uv's dependencies alphabetically",
@@ -406594,6 +406594,11 @@
     "pname": "vimplugin-tint.nvim",
     "version": "2024-11-07"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.tinted-vim": {
+    "description": "",
+    "pname": "vimplugin-tinted-vim",
+    "version": "2025-04-27"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.tiny-devicons-auto-colors-nvim": {
     "description": "",
     "pname": "vimplugin-tiny-devicons-auto-colors.nvim",
@@ -410167,7 +410172,7 @@
   "legacyPackages.x86_64-linux.vpp": {
     "description": "Fast, scalable layer 2-4 multi-platform network stack running in user space",
     "pname": "vpp",
-    "version": "24.10"
+    "version": "25.02"
   },
   "legacyPackages.x86_64-linux.vprof": {
     "description": "Visual profiler for Python",
@@ -411697,7 +411702,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.myriad-dreamin.tinymist": {
     "description": "VSCode extension for providing an integration solution for Typst",
     "pname": "vscode-extension-myriad-dreamin-tinymist",
-    "version": "0.13.10"
+    "version": "0.13.12"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.naumovs.color-highlight": {
     "description": "Highlight web colors in your editor",
