@@ -4612,7 +4612,7 @@
   "legacyPackages.x86_64-linux.android-file-transfer": {
     "description": "Reliable MTP client with minimalistic UI",
     "pname": "android-file-transfer",
-    "version": "4.3"
+    "version": "4.4"
   },
   "legacyPackages.x86_64-linux.android-studio": {
     "description": "Official IDE for Android (stable channel)",
@@ -7762,7 +7762,7 @@
   "legacyPackages.x86_64-linux.anilibria-winmaclinux": {
     "description": "AniLibria cross platform desktop client",
     "pname": "anilibria-winmaclinux",
-    "version": "2.2.26"
+    "version": "2.2.27"
   },
   "legacyPackages.x86_64-linux.animatch": {
     "description": "Cute match three game for the Librem 5 smartphone",
@@ -8612,7 +8612,7 @@
   "legacyPackages.x86_64-linux.apko": {
     "description": "Build OCI images using APK directly without Dockerfile",
     "pname": "apko",
-    "version": "0.25.7"
+    "version": "0.27.1"
   },
   "legacyPackages.x86_64-linux.apksigcopier": {
     "description": "Copy/extract/patch android apk signatures & compare APKs",
@@ -9412,7 +9412,7 @@
   "legacyPackages.x86_64-linux.arma3-unix-launcher": {
     "description": "Clean, intuitive Arma 3 + DayZ SA Launcher",
     "pname": "arma3-unix-launcher",
-    "version": "413-unstable-2025-02-10"
+    "version": "420"
   },
   "legacyPackages.x86_64-linux.armadillo": {
     "description": "C++ linear algebra library",
@@ -10777,7 +10777,7 @@
   "legacyPackages.x86_64-linux.atmos": {
     "description": "Universal Tool for DevOps and Cloud Automation (works with terraform, helm, helmfile, etc)",
     "pname": "atmos",
-    "version": "1.95.0"
+    "version": "1.171.0"
   },
   "legacyPackages.x86_64-linux.atomic-operator": {
     "description": "Tool to execute Atomic Red Team tests (Atomics)",
@@ -13057,7 +13057,7 @@
   "legacyPackages.x86_64-linux.banana-accounting": {
     "description": "Accounting Software for small companies, associations and individuals",
     "pname": "banana-accounting",
-    "version": "10.0.12"
+    "version": "10.1.24"
   },
   "legacyPackages.x86_64-linux.banana-cursor": {
     "description": "Banana Cursor",
@@ -13157,7 +13157,7 @@
   "legacyPackages.x86_64-linux.barman": {
     "description": "Backup and Recovery Manager for PostgreSQL",
     "pname": "barman",
-    "version": "3.11.1"
+    "version": "3.13.2"
   },
   "legacyPackages.x86_64-linux.barrage": {
     "description": "Destructive action game",
@@ -15062,7 +15062,7 @@
   "legacyPackages.x86_64-linux.bitwarden": {
     "description": "Secure and free password manager for all of your devices",
     "pname": "bitwarden-desktop",
-    "version": "2025.2.0"
+    "version": "2025.3.1"
   },
   "legacyPackages.x86_64-linux.bitwarden-cli": {
     "description": "Secure and free password manager for all of your devices",
@@ -15072,7 +15072,7 @@
   "legacyPackages.x86_64-linux.bitwarden-desktop": {
     "description": "Secure and free password manager for all of your devices",
     "pname": "bitwarden-desktop",
-    "version": "2025.2.0"
+    "version": "2025.3.1"
   },
   "legacyPackages.x86_64-linux.bitwarden-directory-connector": {
     "description": "LDAP connector for Bitwarden",
@@ -15617,7 +15617,7 @@
   "legacyPackages.x86_64-linux.bluez-alsa": {
     "description": "Bluez 5 Bluetooth Audio ALSA Backend",
     "pname": "bluez-alsa",
-    "version": "4.1.1"
+    "version": "4.3.1"
   },
   "legacyPackages.x86_64-linux.bluez-experimental": {
     "description": "Official Linux Bluetooth protocol stack",
@@ -15692,7 +15692,7 @@
   "legacyPackages.x86_64-linux.boa": {
     "description": "Embeddable and experimental Javascript engine written in Rust",
     "pname": "boa",
-    "version": "0.17.3"
+    "version": "0.20"
   },
   "legacyPackages.x86_64-linux.boatswain": {
     "description": "Control Elgato Stream Deck devices",
@@ -15737,7 +15737,7 @@
   "legacyPackages.x86_64-linux.boilr": {
     "description": "Automatically adds (almost) all your games to your Steam library (including image art)",
     "pname": "BoilR",
-    "version": "1.9.4"
+    "version": "1.9.6"
   },
   "legacyPackages.x86_64-linux.boinc": {
     "description": "Free software for distributed and grid computing",
@@ -16947,12 +16947,12 @@
   "legacyPackages.x86_64-linux.buffer": {
     "description": "Minimal editing space for all those things that don't need keeping",
     "pname": "buffer",
-    "version": "0.9.7"
+    "version": "0.9.10"
   },
   "legacyPackages.x86_64-linux.buffrs": {
     "description": "Modern protobuf package management",
     "pname": "buffrs",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.buffybox": {
     "description": "A suite of graphical applications for the terminal",
@@ -17577,7 +17577,7 @@
   "legacyPackages.x86_64-linux.c3c": {
     "description": "Compiler for the C3 language",
     "pname": "c3c",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.c3d": {
     "description": "Medical imaging processing tool",
@@ -18412,7 +18412,7 @@
   "legacyPackages.x86_64-linux.cargo-edit": {
     "description": "Utility for managing cargo dependencies from the command line",
     "pname": "cargo-edit",
-    "version": "0.13.2"
+    "version": "0.13.3"
   },
   "legacyPackages.x86_64-linux.cargo-embassy": {
     "description": "Command line tool for creating Embassy projects",
@@ -19987,7 +19987,7 @@
   "legacyPackages.x86_64-linux.cgif": {
     "description": "CGIF, a GIF encoder written in C",
     "pname": "cgif",
-    "version": "0.3.2"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.cgiserver": {
     "description": "Lightweight web server for sandboxing CGI applications",
@@ -20347,7 +20347,7 @@
   "legacyPackages.x86_64-linux.checkbashisms": {
     "description": "Check shell scripts for non-portable syntax",
     "pname": "checkbashisms",
-    "version": "2.23.7"
+    "version": "2.25.10"
   },
   "legacyPackages.x86_64-linux.checkinstall": {
     "description": "Tool for automatically generating Slackware, RPM or Debian packages when doing `make install'",
@@ -20447,7 +20447,7 @@
   "legacyPackages.x86_64-linux.cherrytree": {
     "description": "Hierarchical note taking application",
     "pname": "cherrytree",
-    "version": "1.1.4"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.chess-clock": {
     "description": "Time games of over-the-board chess",
@@ -20457,7 +20457,7 @@
   "legacyPackages.x86_64-linux.chess-tui": {
     "description": "Chess TUI implementation in rust",
     "pname": "chess-tui",
-    "version": "1.2.1"
+    "version": "1.6.1"
   },
   "legacyPackages.x86_64-linux.chessdb": {
     "description": "Free chess database",
@@ -23752,7 +23752,7 @@
   "legacyPackages.x86_64-linux.chsrc": {
     "description": "Change Source everywhere for every software",
     "pname": "chsrc",
-    "version": "0.1.9"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.cht-sh": {
     "description": "CLI client for cheat.sh, a community driven cheat sheet",
@@ -39692,7 +39692,7 @@
   "legacyPackages.x86_64-linux.exploitdb": {
     "description": "Archive of public exploits and corresponding vulnerable software",
     "pname": "exploitdb",
-    "version": "2025-04-23"
+    "version": "2025-05-01"
   },
   "legacyPackages.x86_64-linux.exportarr": {
     "description": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
@@ -41297,7 +41297,7 @@
   "legacyPackages.x86_64-linux.ffsubsync": {
     "description": "Automagically synchronize subtitles with video",
     "pname": "ffsubsync",
-    "version": "0.4.25"
+    "version": "0.4.29"
   },
   "legacyPackages.x86_64-linux.ffts": {
     "description": "The Fastest Fourier Transform in the South",
@@ -42527,12 +42527,12 @@
   "legacyPackages.x86_64-linux.fleet": {
     "description": "CLI tool to launch Fleet server",
     "pname": "fleet",
-    "version": "4.67.1"
+    "version": "4.67.2"
   },
   "legacyPackages.x86_64-linux.fleetctl": {
     "description": "CLI tool for managing Fleet",
-    "pname": "fleectl",
-    "version": "4.67.1"
+    "pname": "fleetctl",
+    "version": "4.67.2"
   },
   "legacyPackages.x86_64-linux.fleeting-plugin-aws": {
     "description": "GitLab fleeting plugin for AWS",
@@ -45077,7 +45077,7 @@
   "legacyPackages.x86_64-linux.gatk": {
     "description": "Wide variety of tools with a primary focus on variant discovery and genotyping.",
     "pname": "gatk",
-    "version": "4.6.1.0"
+    "version": "4.6.2.0"
   },
   "legacyPackages.x86_64-linux.gatling": {
     "description": "High performance web server",
@@ -46407,7 +46407,7 @@
   "legacyPackages.x86_64-linux.gh": {
     "description": "GitHub CLI tool",
     "pname": "gh",
-    "version": "2.71.2"
+    "version": "2.72.0"
   },
   "legacyPackages.x86_64-linux.gh-actions-cache": {
     "description": "gh extension to manage GitHub Actions caches",
@@ -47742,7 +47742,7 @@
   "legacyPackages.x86_64-linux.github-cli": {
     "description": "GitHub CLI tool",
     "pname": "gh",
-    "version": "2.71.2"
+    "version": "2.72.0"
   },
   "legacyPackages.x86_64-linux.github-commenter": {
     "description": "Command line utility for creating GitHub comments on Commits, Pull Request Reviews or Issues",
@@ -54157,7 +54157,7 @@
   "legacyPackages.x86_64-linux.go-dnscollector": {
     "description": "Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.",
     "pname": "go-dnscollector",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.go-dork": {
     "description": "Dork scanner",
@@ -55947,7 +55947,7 @@
   "legacyPackages.x86_64-linux.gqlgenc": {
     "description": "Go tool for building GraphQL client with gqlgen",
     "pname": "gqlgenc",
-    "version": "0.32.0"
+    "version": "0.32.1"
   },
   "legacyPackages.x86_64-linux.gqlint": {
     "description": "GraphQL linter",
@@ -59092,7 +59092,7 @@
   "legacyPackages.x86_64-linux.hedgedoc-cli": {
     "description": "Hedgedoc CLI",
     "pname": "hedgedoc-cli",
-    "version": "1.0"
+    "version": "1.0-unstable-2025-05-01"
   },
   "legacyPackages.x86_64-linux.hedgewars": {
     "description": "Funny turn-based artillery game, featuring fighting hedgehogs!",
@@ -59307,7 +59307,7 @@
   "legacyPackages.x86_64-linux.hermitcli": {
     "description": "Manages isolated, self-bootstrapping sets of tools in software projects",
     "pname": "hermit",
-    "version": "0.44.6"
+    "version": "0.44.8"
   },
   "legacyPackages.x86_64-linux.heroic": {
     "description": "Native GOG, Epic, and Amazon Games Launcher for Linux, Windows and Mac",
@@ -71817,7 +71817,7 @@
   "legacyPackages.x86_64-linux.julia-mono": {
     "description": "Monospaced font for scientific and technical computing",
     "pname": "JuliaMono-ttf",
-    "version": "0.059"
+    "version": "0.060"
   },
   "legacyPackages.x86_64-linux.julia-stable": {
     "description": "High-level performance-oriented dynamical language for technical computing",
@@ -77427,7 +77427,7 @@
   "legacyPackages.x86_64-linux.kstars": {
     "description": "Virtual planetarium astronomy software",
     "pname": "kstars",
-    "version": "3.7.5"
+    "version": "3.7.6"
   },
   "legacyPackages.x86_64-linux.kstart": {
     "description": "Modified version of kerberos tools that support automatic ticket refresh",
@@ -88942,7 +88942,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -89142,7 +89142,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -89547,12 +89547,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.10.236"
+    "version": "7.1.8-5.10.236"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.10.236"
+    "version": "7.1.8-5.10.236"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -89742,7 +89742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -89942,7 +89942,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -90347,12 +90347,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.10.235"
+    "version": "7.1.8-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.10.235"
+    "version": "7.1.8-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -90542,7 +90542,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -90742,7 +90742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -91147,12 +91147,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.15.180"
+    "version": "7.1.8-5.15.180"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.15.180"
+    "version": "7.1.8-5.15.180"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -91342,7 +91342,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -91542,7 +91542,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -91947,12 +91947,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.15.179"
+    "version": "7.1.8-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.15.179"
+    "version": "7.1.8-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -92142,7 +92142,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -92347,7 +92347,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -92747,12 +92747,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.4.292"
+    "version": "7.1.8-5.4.292"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.4.292"
+    "version": "7.1.8-5.4.292"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -92947,7 +92947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -93152,7 +93152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -93552,12 +93552,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.4.291"
+    "version": "7.1.8-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.4.291"
+    "version": "7.1.8-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -93752,7 +93752,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -93952,7 +93952,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -94352,12 +94352,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.1.135"
+    "version": "7.1.8-6.1.135"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.1.135"
+    "version": "7.1.8-6.1.135"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -94547,7 +94547,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -94747,7 +94747,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -95152,12 +95152,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -95347,7 +95347,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -95547,7 +95547,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -95952,12 +95952,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -96147,7 +96147,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -96347,7 +96347,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -96752,12 +96752,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -96947,7 +96947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -97147,7 +97147,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -97552,12 +97552,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.7"
+    "version": "7.1.8-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.7"
+    "version": "7.1.8-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -97747,7 +97747,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -97947,7 +97947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -98352,12 +98352,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -98547,7 +98547,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -98747,7 +98747,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -99147,12 +99147,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.1.131"
+    "version": "7.1.8-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.1.131"
+    "version": "7.1.8-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -99342,7 +99342,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -99542,7 +99542,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -99942,12 +99942,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.6.88"
+    "version": "7.1.8-6.6.88"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.6.88"
+    "version": "7.1.8-6.6.88"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -100137,7 +100137,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -100337,7 +100337,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -100737,12 +100737,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.6.83"
+    "version": "7.1.8-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.6.83"
+    "version": "7.1.8-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -100932,7 +100932,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -101132,7 +101132,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -101537,12 +101537,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -101732,7 +101732,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -101932,7 +101932,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -102337,12 +102337,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -102532,7 +102532,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -102732,7 +102732,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -103137,12 +103137,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -103332,7 +103332,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -103532,7 +103532,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -103937,12 +103937,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -104132,7 +104132,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -104332,7 +104332,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -104737,12 +104737,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -104932,7 +104932,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -105132,7 +105132,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -105537,12 +105537,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.24"
+    "version": "7.1.8-6.12.24"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.24"
+    "version": "7.1.8-6.12.24"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -105732,7 +105732,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -105932,7 +105932,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -106337,12 +106337,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -106532,7 +106532,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -106732,7 +106732,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -107137,12 +107137,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -107332,7 +107332,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -107532,7 +107532,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -107937,12 +107937,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -108132,7 +108132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -108332,7 +108332,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -108737,12 +108737,12 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -108932,7 +108932,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -109132,7 +109132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -109537,12 +109537,12 @@
   "legacyPackages.x86_64-linux.linuxPackages.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxPackages.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.25"
+    "version": "7.1.8-6.12.25"
   },
   "legacyPackages.x86_64-linux.linuxPackages.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -109732,7 +109732,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -109932,7 +109932,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -110337,12 +110337,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.10.235"
+    "version": "7.1.8-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.10.235"
+    "version": "7.1.8-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -110532,7 +110532,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -110732,7 +110732,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -111137,12 +111137,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.15.179"
+    "version": "7.1.8-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.15.179"
+    "version": "7.1.8-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -111332,7 +111332,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -111537,7 +111537,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -111937,12 +111937,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-5.4.291"
+    "version": "7.1.8-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-5.4.291"
+    "version": "7.1.8-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -112137,7 +112137,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -112337,7 +112337,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -112742,12 +112742,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -112937,7 +112937,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -113137,7 +113137,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -113542,12 +113542,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.7"
+    "version": "7.1.8-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.7"
+    "version": "7.1.8-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -113737,7 +113737,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -113937,7 +113937,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -114337,12 +114337,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.1.131"
+    "version": "7.1.8-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.1.131"
+    "version": "7.1.8-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -114532,7 +114532,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -114732,7 +114732,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -115132,12 +115132,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.6.83"
+    "version": "7.1.8-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.6.83"
+    "version": "7.1.8-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -115332,7 +115332,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -115532,7 +115532,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -115937,12 +115937,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -116132,7 +116132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -116332,7 +116332,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -116737,12 +116737,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.19"
+    "version": "7.1.8-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -116932,7 +116932,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -117132,7 +117132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -117537,12 +117537,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -117732,7 +117732,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -117932,7 +117932,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -118337,12 +118337,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -118532,7 +118532,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -118732,7 +118732,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -119137,12 +119137,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -119332,7 +119332,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -119532,7 +119532,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -119937,12 +119937,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.12.24"
+    "version": "7.1.8-6.12.24"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.12.24"
+    "version": "7.1.8-6.12.24"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -120132,7 +120132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -120332,7 +120332,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -120737,12 +120737,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -120932,7 +120932,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -121132,7 +121132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -121537,12 +121537,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.13.12"
+    "version": "7.1.8-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -121732,7 +121732,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
     "pname": "digimend",
-    "version": "13"
+    "version": "13-unstable-2025-01-02"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.dpdk": {
     "description": "Set of libraries and drivers for fast packet processing",
@@ -121932,7 +121932,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
     "pname": "nct6687d",
-    "version": "0-unstable-2024-11-05"
+    "version": "0-unstable-2025-04-27"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
@@ -122337,12 +122337,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.6a-6.14.4"
+    "version": "7.1.8-6.14.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -133657,7 +133657,7 @@
   "legacyPackages.x86_64-linux.mark": {
     "description": "Tool for syncing your markdown documentation with Atlassian Confluence pages",
     "pname": "mark",
-    "version": "12.1.2"
+    "version": "12.2.0"
   },
   "legacyPackages.x86_64-linux.markdown-anki-decks": {
     "description": "Tool to convert Markdown files into Anki Decks",
@@ -134912,7 +134912,7 @@
   "legacyPackages.x86_64-linux.mdbook-katex": {
     "description": "Preprocessor for mdbook, rendering LaTeX equations to HTML at build time",
     "pname": "mdbook-katex",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.mdbook-kroki-preprocessor": {
     "description": "Render Kroki diagrams from files or code blocks in mdbook",
@@ -137092,7 +137092,7 @@
   "legacyPackages.x86_64-linux.mirrord": {
     "description": "Run local processes in the context of Kubernetes environment",
     "pname": "mirrord",
-    "version": "3.139.1"
+    "version": "3.141.0"
   },
   "legacyPackages.x86_64-linux.mirtk": {
     "description": "Medical image registration library and tools",
@@ -139137,7 +139137,7 @@
   "legacyPackages.x86_64-linux.mpvScripts.modernz": {
     "description": "Sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC",
     "pname": "modernz",
-    "version": "0.2.7"
+    "version": "0.2.8"
   },
   "legacyPackages.x86_64-linux.mpvScripts.mpris": {
     "description": "MPRIS plugin for mpv",
@@ -140113,11 +140113,6 @@
     "description": "Music Assistant is a music library manager for various music sources which can easily stream to a wide range of supported players",
     "pname": "music-assistant",
     "version": "2.5.0"
-  },
-  "legacyPackages.x86_64-linux.music-player": {
-    "description": "Extensible music player daemon written in Rust",
-    "pname": "music-player",
-    "version": "0.2.0-alpha.14-unstable-2024-10-02"
   },
   "legacyPackages.x86_64-linux.musicpod": {
     "description": "Music, radio, television and podcast player",
@@ -152712,7 +152707,7 @@
   "legacyPackages.x86_64-linux.openai-whisper-cpp": {
     "description": "Port of OpenAI's Whisper model in C/C++",
     "pname": "whisper-cpp",
-    "version": "1.7.2"
+    "version": "1.7.5"
   },
   "legacyPackages.x86_64-linux.openal": {
     "description": "OpenAL alternative",
@@ -154622,7 +154617,7 @@
   "legacyPackages.x86_64-linux.orchard": {
     "description": "Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices",
     "pname": "orchard",
-    "version": "0.32.2"
+    "version": "0.33.0"
   },
   "legacyPackages.x86_64-linux.orchis-theme": {
     "description": "Material Design theme for GNOME/GTK based desktop environments",
@@ -154982,7 +154977,7 @@
   "legacyPackages.x86_64-linux.osv-scanner": {
     "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
     "pname": "osv-scanner",
-    "version": "2.0.1"
+    "version": "2.0.2"
   },
   "legacyPackages.x86_64-linux.oswald": {
     "description": "Reworking of the classic gothic typeface style",
@@ -187562,7 +187557,7 @@
   "legacyPackages.x86_64-linux.photoqt": {
     "description": "Simple, yet powerful and good looking image viewer",
     "pname": "photoqt",
-    "version": "4.8.1"
+    "version": "4.9"
   },
   "legacyPackages.x86_64-linux.phototonic": {
     "description": "Image viewer and organizer",
@@ -201662,7 +201657,7 @@
   "legacyPackages.x86_64-linux.puredata": {
     "description": "A real-time graphical programming environment for audio, video, and graphical processing",
     "pname": "puredata",
-    "version": "0.54-1"
+    "version": "0.55-2"
   },
   "legacyPackages.x86_64-linux.puremapping": {
     "description": "Set of externals to facilitate the use of sensors within Pure Data and to create complex relations between input and output of a dynamic system",
@@ -204237,7 +204232,7 @@
   "legacyPackages.x86_64-linux.python312Packages.apkinspector": {
     "description": "Module designed to provide detailed insights into the zip structure of APK files",
     "pname": "python3.12-apkinspector",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.apkit": {
     "description": "Audio processing toolkit",
@@ -204505,9 +204500,9 @@
     "version": "2.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.array-record": {
-    "description": "ArrayRecord is a new file format derived from Riegeli, achieving a new frontier of IO efficiency",
+    "description": "New file format derived from Riegeli, achieving a new frontier of IO efficiency",
     "pname": "python3.12-array-record",
-    "version": "0.7.1"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.arrayqueues": {
     "description": "Multiprocessing queues for numpy arrays using shared memory",
@@ -204607,7 +204602,7 @@
   "legacyPackages.x86_64-linux.python312Packages.asf-search": {
     "description": "Python wrapper for the ASF SearchAPI",
     "pname": "python3.12-asf-search",
-    "version": "8.1.2"
+    "version": "8.1.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.asgi-csrf": {
     "description": "ASGI middleware for protecting against CSRF attacks",
@@ -210087,7 +210082,7 @@
   "legacyPackages.x86_64-linux.python312Packages.datashader": {
     "description": "Data visualization toolchain based on aggregating into a grid",
     "pname": "python3.12-datashader",
-    "version": "0.17.0"
+    "version": "0.18.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.datashape": {
     "description": "Data description language",
@@ -210577,7 +210572,7 @@
   "legacyPackages.x86_64-linux.python312Packages.desktop-notifier": {
     "description": "Python library for cross-platform desktop notifications",
     "pname": "python3.12-desktop-notifier",
-    "version": "6.1.0"
+    "version": "6.1.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.detect-secrets": {
     "description": "Enterprise friendly way of detecting and preventing secrets in code",
@@ -210602,7 +210597,7 @@
   "legacyPackages.x86_64-linux.python312Packages.devito": {
     "description": "Code generation framework for automated finite difference computation",
     "pname": "python3.12-devito",
-    "version": "4.8.15"
+    "version": "4.8.16"
   },
   "legacyPackages.x86_64-linux.python312Packages.devolo-home-control-api": {
     "description": "Python library to work with devolo Home Control",
@@ -213242,7 +213237,7 @@
   "legacyPackages.x86_64-linux.python312Packages.env-canada": {
     "description": "Python library to get Environment Canada weather data",
     "pname": "python3.12-env-canada",
-    "version": "0.10.1"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.environmental-override": {
     "description": "Easily configure apps using simple environmental overrides",
@@ -213387,7 +213382,7 @@
   "legacyPackages.x86_64-linux.python312Packages.essentials-openapi": {
     "description": "Functions to handle OpenAPI Documentation",
     "pname": "python3.12-essentials-openapi",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.et-xmlfile": {
     "description": "Implementation of lxml.xmlfile for the standard library",
@@ -215397,7 +215392,7 @@
   "legacyPackages.x86_64-linux.python312Packages.galois": {
     "description": "Python package that extends NumPy arrays to operate over finite fields",
     "pname": "python3.12-galois",
-    "version": "0.4.5"
+    "version": "0.4.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.gamble": {
     "description": "Collection of gambling classes/tools",
@@ -216567,7 +216562,7 @@
   "legacyPackages.x86_64-linux.python312Packages.govee-ble": {
     "description": "Library for Govee BLE devices",
     "pname": "python3.12-govee-ble",
-    "version": "0.43.1"
+    "version": "0.44.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.govee-led-wez": {
     "description": "Control Govee Lights from Python",
@@ -217382,7 +217377,7 @@
   "legacyPackages.x86_64-linux.python312Packages.hcloud": {
     "description": "Library for the Hetzner Cloud API",
     "pname": "python3.12-hcloud",
-    "version": "2.4.0"
+    "version": "2.5.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.hcs-utils": {
     "description": "Library collecting some useful snippets",
@@ -218562,7 +218557,7 @@
   "legacyPackages.x86_64-linux.python312Packages.incomfort-client": {
     "description": "Python module to poll Intergas boilers via a Lan2RF gateway",
     "pname": "python3.12-incomfort-client",
-    "version": "0.6.7"
+    "version": "0.6.8"
   },
   "legacyPackages.x86_64-linux.python312Packages.incremental": {
     "description": "Small library that versions your Python projects",
@@ -223412,7 +223407,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mirakuru": {
     "description": "Process orchestration tool designed for functional and integration tests",
     "pname": "python3.12-mirakuru",
-    "version": "2.5.3"
+    "version": "2.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.misaka": {
     "description": "CFFI binding for Hoedown, a markdown parsing library",
@@ -224207,7 +224202,7 @@
   "legacyPackages.x86_64-linux.python312Packages.msprime": {
     "description": "Simulate genealogical trees and genomic sequence data using population genetic models",
     "pname": "python3.12-msprime",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.msrest": {
     "description": "Runtime library for AutoRest generated Python clients",
@@ -226727,7 +226722,7 @@
   "legacyPackages.x86_64-linux.python312Packages.nethsm": {
     "description": "Client-side Python SDK for NetHSM",
     "pname": "python3.12-nethsm",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.netifaces": {
     "description": "Portable access to network interfaces from Python",
@@ -227472,7 +227467,7 @@
   "legacyPackages.x86_64-linux.python312Packages.obspy": {
     "description": "Python framework for seismological observatories",
     "pname": "python3.12-obspy",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.oca-port": {
     "description": "Tool helping to port an addon or missing commits of an addon from one branch to another",
@@ -227592,7 +227587,7 @@
   "legacyPackages.x86_64-linux.python312Packages.okta": {
     "description": "Python SDK for the Okta Management API",
     "pname": "python3.12-okta",
-    "version": "2.9.12"
+    "version": "2.9.13"
   },
   "legacyPackages.x86_64-linux.python312Packages.oldest-supported-numpy": {
     "description": "Meta-package providing the oldest supported Numpy for a given Python version and platform",
@@ -228292,7 +228287,7 @@
   "legacyPackages.x86_64-linux.python312Packages.orbax-checkpoint": {
     "description": "Orbax provides common utility libraries for JAX users",
     "pname": "python3.12-orbax-checkpoint",
-    "version": "0.11.12"
+    "version": "0.11.13"
   },
   "legacyPackages.x86_64-linux.python312Packages.ordered-set": {
     "description": "MutableSet that remembers its order, so that every entry has an index",
@@ -228937,7 +228932,7 @@
   "legacyPackages.x86_64-linux.python312Packages.parts": {
     "description": "Library for common list functions related to partitioning lists",
     "pname": "python3.12-parts",
-    "version": "2.1.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.parver": {
     "description": "Allows parsing and manipulation of PEP 440 version numbers",
@@ -229012,7 +229007,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pathlib-abc": {
     "description": "Python base classes for rich path objects",
     "pname": "python3.12-pathlib-abc",
-    "version": "0.4.1"
+    "version": "0.4.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.pathlib2": {
     "description": "This module offers classes representing filesystem paths with semantics appropriate for different operating systems",
@@ -230797,17 +230792,17 @@
   "legacyPackages.x86_64-linux.python312Packages.psycopg": {
     "description": "PostgreSQL database adapter for Python",
     "pname": "python3.12-psycopg",
-    "version": "3.2.6"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.psycopg-c": {
     "description": "C optimisation distribution for Psycopg",
     "pname": "python3.12-psycopg-c",
-    "version": "3.2.6"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.psycopg-pool": {
     "description": "Connection Pool for Psycopg",
     "pname": "python3.12-psycopg-pool",
-    "version": "3.2.6"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.psycopg2": {
     "description": "PostgreSQL database adapter for the Python programming language",
@@ -231947,7 +231942,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pycrdt": {
     "description": "CRDTs based on Yrs",
     "pname": "python3.12-pycrdt",
-    "version": "0.12.14"
+    "version": "0.12.15"
   },
   "legacyPackages.x86_64-linux.python312Packages.pycrdt-websocket": {
     "description": "WebSocket Connector for pycrdt",
@@ -232857,7 +232852,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pygsl": {
     "description": "Python interface for GNU Scientific Library",
     "pname": "python3.12-pygsl",
-    "version": "2.5.1"
+    "version": "2.6.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pygtail": {
     "description": "Library for reading log file lines that have not been read",
@@ -235332,7 +235327,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pysolcast": {
     "description": "Python library for interacting with the Solcast API",
     "pname": "python3.12-pysolcast",
-    "version": "2.0.6"
+    "version": "2.0.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.pysolr": {
     "description": "Lightweight Python wrapper for Apache Solr",
@@ -238257,7 +238252,7 @@
   "legacyPackages.x86_64-linux.python312Packages.qcs-api-client": {
     "description": "Python library for accessing the Rigetti QCS API",
     "pname": "python3.12-qcs-api-client",
-    "version": "0.25.5"
+    "version": "0.26.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.qcs-api-client-common": {
     "description": "Contains core QCS client functionality and middleware implementations",
@@ -239327,7 +239322,7 @@
   "legacyPackages.x86_64-linux.python312Packages.resend": {
     "description": "SDK for Resend",
     "pname": "python3.12-resend",
-    "version": "2.7.0"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.resize-right": {
     "description": "Correct way to resize images or tensors. For Numpy or Pytorch (differentiable",
@@ -240067,7 +240062,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ruff": {
     "description": "Extremely fast Python linter and code formatter",
     "pname": "python3.12-ruff",
-    "version": "0.11.7"
+    "version": "0.11.8"
   },
   "legacyPackages.x86_64-linux.python312Packages.ruff-api": {
     "description": "Experimental Python API for Ruff",
@@ -244117,7 +244112,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.12-tencentcloud-sdk-python",
-    "version": "3.0.1369"
+    "version": "3.0.1370"
   },
   "legacyPackages.x86_64-linux.python312Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -249659,6 +249654,16 @@
     "pname": "python3.12-wandb",
     "version": "0.19.8"
   },
+  "legacyPackages.x86_64-linux.python312Packages.wapiti-arsenic": {
+    "description": "Asynchronous WebDriver client",
+    "pname": "python3.12-wapiti-arsenic",
+    "version": "28.2"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.wapiti-swagger": {
+    "description": "Library for parsing and generating request bodies from Swagger/OpenAPI specifications",
+    "pname": "python3.12-wapiti-swagger",
+    "version": "0.1.9"
+  },
   "legacyPackages.x86_64-linux.python312Packages.waqiasync": {
     "description": "Python library for http://aqicn.org",
     "pname": "python3.12-waqiasync",
@@ -250667,7 +250672,7 @@
   "legacyPackages.x86_64-linux.python312Packages.xrootd": {
     "description": "XRootD central repository",
     "pname": "python3.12-xrootd",
-    "version": "5.8.0"
+    "version": "5.8.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.xsdata": {
     "description": "Naive XML & JSON bindings for Python",
@@ -253527,7 +253532,7 @@
   "legacyPackages.x86_64-linux.python313Packages.apkinspector": {
     "description": "Module designed to provide detailed insights into the zip structure of APK files",
     "pname": "python3.13-apkinspector",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.apkit": {
     "description": "Audio processing toolkit",
@@ -253795,9 +253800,9 @@
     "version": "2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.array-record": {
-    "description": "ArrayRecord is a new file format derived from Riegeli, achieving a new frontier of IO efficiency",
+    "description": "New file format derived from Riegeli, achieving a new frontier of IO efficiency",
     "pname": "python3.13-array-record",
-    "version": "0.7.1"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.arrayqueues": {
     "description": "Multiprocessing queues for numpy arrays using shared memory",
@@ -253897,7 +253902,7 @@
   "legacyPackages.x86_64-linux.python313Packages.asf-search": {
     "description": "Python wrapper for the ASF SearchAPI",
     "pname": "python3.13-asf-search",
-    "version": "8.1.2"
+    "version": "8.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.asgi-csrf": {
     "description": "ASGI middleware for protecting against CSRF attacks",
@@ -259382,7 +259387,7 @@
   "legacyPackages.x86_64-linux.python313Packages.datashader": {
     "description": "Data visualization toolchain based on aggregating into a grid",
     "pname": "python3.13-datashader",
-    "version": "0.17.0"
+    "version": "0.18.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.datashape": {
     "description": "Data description language",
@@ -259872,7 +259877,7 @@
   "legacyPackages.x86_64-linux.python313Packages.desktop-notifier": {
     "description": "Python library for cross-platform desktop notifications",
     "pname": "python3.13-desktop-notifier",
-    "version": "6.1.0"
+    "version": "6.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.detect-secrets": {
     "description": "Enterprise friendly way of detecting and preventing secrets in code",
@@ -259897,7 +259902,7 @@
   "legacyPackages.x86_64-linux.python313Packages.devito": {
     "description": "Code generation framework for automated finite difference computation",
     "pname": "python3.13-devito",
-    "version": "4.8.15"
+    "version": "4.8.16"
   },
   "legacyPackages.x86_64-linux.python313Packages.devolo-home-control-api": {
     "description": "Python library to work with devolo Home Control",
@@ -262537,7 +262542,7 @@
   "legacyPackages.x86_64-linux.python313Packages.env-canada": {
     "description": "Python library to get Environment Canada weather data",
     "pname": "python3.13-env-canada",
-    "version": "0.10.1"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.environmental-override": {
     "description": "Easily configure apps using simple environmental overrides",
@@ -262682,7 +262687,7 @@
   "legacyPackages.x86_64-linux.python313Packages.essentials-openapi": {
     "description": "Functions to handle OpenAPI Documentation",
     "pname": "python3.13-essentials-openapi",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.et-xmlfile": {
     "description": "Implementation of lxml.xmlfile for the standard library",
@@ -264692,7 +264697,7 @@
   "legacyPackages.x86_64-linux.python313Packages.galois": {
     "description": "Python package that extends NumPy arrays to operate over finite fields",
     "pname": "python3.13-galois",
-    "version": "0.4.5"
+    "version": "0.4.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.gamble": {
     "description": "Collection of gambling classes/tools",
@@ -265862,7 +265867,7 @@
   "legacyPackages.x86_64-linux.python313Packages.govee-ble": {
     "description": "Library for Govee BLE devices",
     "pname": "python3.13-govee-ble",
-    "version": "0.43.1"
+    "version": "0.44.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.govee-led-wez": {
     "description": "Control Govee Lights from Python",
@@ -266677,7 +266682,7 @@
   "legacyPackages.x86_64-linux.python313Packages.hcloud": {
     "description": "Library for the Hetzner Cloud API",
     "pname": "python3.13-hcloud",
-    "version": "2.4.0"
+    "version": "2.5.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.hcs-utils": {
     "description": "Library collecting some useful snippets",
@@ -267857,7 +267862,7 @@
   "legacyPackages.x86_64-linux.python313Packages.incomfort-client": {
     "description": "Python module to poll Intergas boilers via a Lan2RF gateway",
     "pname": "python3.13-incomfort-client",
-    "version": "0.6.7"
+    "version": "0.6.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.incremental": {
     "description": "Small library that versions your Python projects",
@@ -272707,7 +272712,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mirakuru": {
     "description": "Process orchestration tool designed for functional and integration tests",
     "pname": "python3.13-mirakuru",
-    "version": "2.5.3"
+    "version": "2.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.misaka": {
     "description": "CFFI binding for Hoedown, a markdown parsing library",
@@ -273502,7 +273507,7 @@
   "legacyPackages.x86_64-linux.python313Packages.msprime": {
     "description": "Simulate genealogical trees and genomic sequence data using population genetic models",
     "pname": "python3.13-msprime",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.msrest": {
     "description": "Runtime library for AutoRest generated Python clients",
@@ -276022,7 +276027,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nethsm": {
     "description": "Client-side Python SDK for NetHSM",
     "pname": "python3.13-nethsm",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.netifaces": {
     "description": "Portable access to network interfaces from Python",
@@ -276767,7 +276772,7 @@
   "legacyPackages.x86_64-linux.python313Packages.obspy": {
     "description": "Python framework for seismological observatories",
     "pname": "python3.13-obspy",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.oca-port": {
     "description": "Tool helping to port an addon or missing commits of an addon from one branch to another",
@@ -276887,7 +276892,7 @@
   "legacyPackages.x86_64-linux.python313Packages.okta": {
     "description": "Python SDK for the Okta Management API",
     "pname": "python3.13-okta",
-    "version": "2.9.12"
+    "version": "2.9.13"
   },
   "legacyPackages.x86_64-linux.python313Packages.oldest-supported-numpy": {
     "description": "Meta-package providing the oldest supported Numpy for a given Python version and platform",
@@ -277587,7 +277592,7 @@
   "legacyPackages.x86_64-linux.python313Packages.orbax-checkpoint": {
     "description": "Orbax provides common utility libraries for JAX users",
     "pname": "python3.13-orbax-checkpoint",
-    "version": "0.11.12"
+    "version": "0.11.13"
   },
   "legacyPackages.x86_64-linux.python313Packages.ordered-set": {
     "description": "MutableSet that remembers its order, so that every entry has an index",
@@ -278232,7 +278237,7 @@
   "legacyPackages.x86_64-linux.python313Packages.parts": {
     "description": "Library for common list functions related to partitioning lists",
     "pname": "python3.13-parts",
-    "version": "2.1.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.parver": {
     "description": "Allows parsing and manipulation of PEP 440 version numbers",
@@ -278307,7 +278312,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pathlib-abc": {
     "description": "Python base classes for rich path objects",
     "pname": "python3.13-pathlib-abc",
-    "version": "0.4.1"
+    "version": "0.4.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.pathlib2": {
     "description": "This module offers classes representing filesystem paths with semantics appropriate for different operating systems",
@@ -280092,17 +280097,17 @@
   "legacyPackages.x86_64-linux.python313Packages.psycopg": {
     "description": "PostgreSQL database adapter for Python",
     "pname": "python3.13-psycopg",
-    "version": "3.2.6"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.psycopg-c": {
     "description": "C optimisation distribution for Psycopg",
     "pname": "python3.13-psycopg-c",
-    "version": "3.2.6"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.psycopg-pool": {
     "description": "Connection Pool for Psycopg",
     "pname": "python3.13-psycopg-pool",
-    "version": "3.2.6"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.psycopg2": {
     "description": "PostgreSQL database adapter for the Python programming language",
@@ -281242,7 +281247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pycrdt": {
     "description": "CRDTs based on Yrs",
     "pname": "python3.13-pycrdt",
-    "version": "0.12.14"
+    "version": "0.12.15"
   },
   "legacyPackages.x86_64-linux.python313Packages.pycrdt-websocket": {
     "description": "WebSocket Connector for pycrdt",
@@ -282152,7 +282157,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pygsl": {
     "description": "Python interface for GNU Scientific Library",
     "pname": "python3.13-pygsl",
-    "version": "2.5.1"
+    "version": "2.6.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pygtail": {
     "description": "Library for reading log file lines that have not been read",
@@ -284627,7 +284632,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysolcast": {
     "description": "Python library for interacting with the Solcast API",
     "pname": "python3.13-pysolcast",
-    "version": "2.0.6"
+    "version": "2.0.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysolr": {
     "description": "Lightweight Python wrapper for Apache Solr",
@@ -287552,7 +287557,7 @@
   "legacyPackages.x86_64-linux.python313Packages.qcs-api-client": {
     "description": "Python library for accessing the Rigetti QCS API",
     "pname": "python3.13-qcs-api-client",
-    "version": "0.25.5"
+    "version": "0.26.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.qcs-api-client-common": {
     "description": "Contains core QCS client functionality and middleware implementations",
@@ -288622,7 +288627,7 @@
   "legacyPackages.x86_64-linux.python313Packages.resend": {
     "description": "SDK for Resend",
     "pname": "python3.13-resend",
-    "version": "2.7.0"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.resize-right": {
     "description": "Correct way to resize images or tensors. For Numpy or Pytorch (differentiable",
@@ -289362,7 +289367,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ruff": {
     "description": "Extremely fast Python linter and code formatter",
     "pname": "python3.13-ruff",
-    "version": "0.11.7"
+    "version": "0.11.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.ruff-api": {
     "description": "Experimental Python API for Ruff",
@@ -293442,7 +293447,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.0.1369"
+    "version": "3.0.1370"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -298984,6 +298989,16 @@
     "pname": "python3.13-wandb",
     "version": "0.19.8"
   },
+  "legacyPackages.x86_64-linux.python313Packages.wapiti-arsenic": {
+    "description": "Asynchronous WebDriver client",
+    "pname": "python3.13-wapiti-arsenic",
+    "version": "28.2"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.wapiti-swagger": {
+    "description": "Library for parsing and generating request bodies from Swagger/OpenAPI specifications",
+    "pname": "python3.13-wapiti-swagger",
+    "version": "0.1.9"
+  },
   "legacyPackages.x86_64-linux.python313Packages.waqiasync": {
     "description": "Python library for http://aqicn.org",
     "pname": "python3.13-waqiasync",
@@ -299992,7 +300007,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xrootd": {
     "description": "XRootD central repository",
     "pname": "python3.13-xrootd",
-    "version": "5.8.0"
+    "version": "5.8.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.xsdata": {
     "description": "Naive XML & JSON bindings for Python",
@@ -304827,7 +304842,7 @@
   "legacyPackages.x86_64-linux.repomix": {
     "description": "Tool to pack repository contents to single file for AI consumption",
     "pname": "repomix",
-    "version": "0.3.2"
+    "version": "0.3.3"
   },
   "legacyPackages.x86_64-linux.reposilite": {
     "description": "Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem",
@@ -308097,7 +308112,7 @@
   "legacyPackages.x86_64-linux.rtabmap": {
     "description": "Real-Time Appearance-Based 3D Mapping",
     "pname": "rtabmap",
-    "version": "0.21.4.1"
+    "version": "0.21.13"
   },
   "legacyPackages.x86_64-linux.rtags": {
     "description": "C/C++ client-server indexer based on clang",
@@ -318787,7 +318802,7 @@
   "legacyPackages.x86_64-linux.ruff": {
     "description": "Extremely fast Python linter and code formatter",
     "pname": "ruff",
-    "version": "0.11.7"
+    "version": "0.11.8"
   },
   "legacyPackages.x86_64-linux.ruffle": {
     "description": "Cross platform Adobe Flash Player emulator",
@@ -319877,7 +319892,7 @@
   "legacyPackages.x86_64-linux.satellite": {
     "description": "Program for showing navigation satellite data",
     "pname": "satellite",
-    "version": "0.9.0"
+    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.satisfactorymodmanager": {
     "description": "Mod manager and modloader for Satisfactory",
@@ -343722,7 +343737,7 @@
   "legacyPackages.x86_64-linux.scalr-cli": {
     "description": "Command-line tool that communicates directly with the Scalr API",
     "pname": "scalr-cli",
-    "version": "0.17.0"
+    "version": "0.17.1"
   },
   "legacyPackages.x86_64-linux.scanbd": {
     "description": "Scanner button daemon",
@@ -345272,7 +345287,7 @@
   "legacyPackages.x86_64-linux.shadowsocks-rust": {
     "description": "Rust port of Shadowsocks",
     "pname": "shadowsocks-rust",
-    "version": "1.23.1"
+    "version": "1.23.2"
   },
   "legacyPackages.x86_64-linux.shadowsocks-v2ray-plugin": {
     "description": "Yet another SIP003 plugin for shadowsocks, based on v2ray",
@@ -346327,7 +346342,7 @@
   "legacyPackages.x86_64-linux.sirikali": {
     "description": "Qt/C++ GUI front end to sshfs, ecryptfs-simple, cryfs, gocryptfs, securefs, fscrypt and encfs",
     "pname": "sirikali",
-    "version": "1.8.1"
+    "version": "1.8.2"
   },
   "legacyPackages.x86_64-linux.siril": {
     "description": "Astrophotographic image processing tool",
@@ -346727,12 +346742,12 @@
   "legacyPackages.x86_64-linux.slimevr": {
     "description": "App for facilitating full-body tracking in virtual reality",
     "pname": "slimevr",
-    "version": "0.13.2"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.slimevr-server": {
     "description": "App for facilitating full-body tracking in virtual reality",
     "pname": "slimevr-server",
-    "version": "0.13.2"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.slimserver": {
     "description": "Lyrion Music Server (formerly Logitech Media Server) is open-source server software which controls a wide range of Squeezebox audio players",
@@ -347132,7 +347147,7 @@
   "legacyPackages.x86_64-linux.smtp4dev": {
     "description": "Fake smtp email server for development and testing",
     "pname": "smtp4dev",
-    "version": "3.6.1"
+    "version": "3.8.6"
   },
   "legacyPackages.x86_64-linux.smtprelay": {
     "description": "Simple Golang SMTP relay/proxy server",
@@ -351377,7 +351392,7 @@
   "legacyPackages.x86_64-linux.surrealdb": {
     "description": "Scalable, distributed, collaborative, document-graph database, for the realtime web",
     "pname": "surrealdb",
-    "version": "2.2.2"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.surrealdb-migrations": {
     "description": "Awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project",
@@ -353742,11 +353757,11 @@
   "legacyPackages.x86_64-linux.technitium-dns-server": {
     "description": "Authorative and Recursive DNS server for Privacy and Security",
     "pname": "technitium-dns-server",
-    "version": "13.2"
+    "version": "13.6.0"
   },
   "legacyPackages.x86_64-linux.technitium-dns-server-library": {
     "description": "Library for Authorative and Recursive DNS server for Privacy and Security",
-    "pname": "technitium-dns-server-library-dns-server-v13.2",
+    "pname": "technitium-dns-server-library-dns-server-v13.6.0",
     "version": ""
   },
   "legacyPackages.x86_64-linux.tecla": {
@@ -379247,7 +379262,7 @@
   "legacyPackages.x86_64-linux.tiled": {
     "description": "Free, easy to use and flexible tile map editor",
     "pname": "tiled",
-    "version": "1.11.2"
+    "version": "1.11.90"
   },
   "legacyPackages.x86_64-linux.tiledb": {
     "description": "TileDB allows you to manage the massive dense and sparse multi-dimensional array data",
@@ -379392,7 +379407,7 @@
   "legacyPackages.x86_64-linux.timewall": {
     "description": "Apple dynamic HEIF wallpapers on GNU/Linux",
     "pname": "timewall",
-    "version": "1.5.0"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.timewarrior": {
     "description": "Command-line time tracker",
@@ -379947,7 +379962,7 @@
   "legacyPackages.x86_64-linux.tmuxPlugins.fingers": {
     "description": "",
     "pname": "tmuxplugin-tmux-fingers",
-    "version": "2.2.2"
+    "version": "2.4.0"
   },
   "legacyPackages.x86_64-linux.tmuxPlugins.fpp": {
     "description": "",
@@ -382217,7 +382232,7 @@
   "legacyPackages.x86_64-linux.trufflehog": {
     "description": "Find credentials all over the place",
     "pname": "trufflehog",
-    "version": "3.88.25"
+    "version": "3.88.26"
   },
   "legacyPackages.x86_64-linux.trunk": {
     "description": "Build, bundle & ship your Rust WASM application to the web",
@@ -394977,7 +394992,7 @@
   "legacyPackages.x86_64-linux.ubi_reader": {
     "description": "Python scripts capable of extracting and analyzing the contents of UBI and UBIFS images",
     "pname": "ubi_reader",
-    "version": "0.8.9"
+    "version": "0.8.10"
   },
   "legacyPackages.x86_64-linux.ubidump": {
     "description": "View or extract the contents of UBIFS images",
@@ -396022,7 +396037,7 @@
   "legacyPackages.x86_64-linux.unciv": {
     "description": "Open-source Android/Desktop remake of Civ V",
     "pname": "unciv",
-    "version": "4.15.16"
+    "version": "4.16.5"
   },
   "legacyPackages.x86_64-linux.unclutter": {
     "description": "Hides mouse pointer while not in use",
@@ -398152,7 +398167,7 @@
   "legacyPackages.x86_64-linux.venera": {
     "description": "Comic reader that support reading local and network comics",
     "pname": "venera",
-    "version": "1.4.0"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.vengi-tools": {
     "description": "Tools from the vengi voxel engine, including a thumbnailer, a converter, and the VoxEdit voxel editor",
@@ -409727,32 +409742,32 @@
   "legacyPackages.x86_64-linux.virtualbox": {
     "description": "PC emulator",
     "pname": "virtualbox",
-    "version": "7.1.6a"
+    "version": "7.1.8"
   },
   "legacyPackages.x86_64-linux.virtualboxExtpack": {
     "description": "Oracle Extension pack for VirtualBox",
     "pname": "Oracle_VirtualBox_Extension_Pack",
-    "version": "7.1.6.vbox-extpack"
+    "version": "7.1.8.vbox-extpack"
   },
   "legacyPackages.x86_64-linux.virtualboxHardened": {
     "description": "PC emulator",
     "pname": "virtualbox",
-    "version": "7.1.6a"
+    "version": "7.1.8"
   },
   "legacyPackages.x86_64-linux.virtualboxHeadless": {
     "description": "PC emulator",
     "pname": "virtualbox",
-    "version": "7.1.6a"
+    "version": "7.1.8"
   },
   "legacyPackages.x86_64-linux.virtualboxKvm": {
     "description": "PC emulator",
     "pname": "virtualbox",
-    "version": "7.1.6a"
+    "version": "7.1.8"
   },
   "legacyPackages.x86_64-linux.virtualboxWithExtpack": {
     "description": "PC emulator",
     "pname": "virtualbox",
-    "version": "7.1.6a"
+    "version": "7.1.8"
   },
   "legacyPackages.x86_64-linux.virtualenv": {
     "description": "Tool to create isolated Python environments",
@@ -413077,7 +413092,7 @@
   "legacyPackages.x86_64-linux.wapiti": {
     "description": "Web application vulnerability scanner",
     "pname": "wapiti",
-    "version": "3.2.2"
+    "version": "3.2.4"
   },
   "legacyPackages.x86_64-linux.wapm": {
     "description": "Package manager for WebAssembly modules",
@@ -414347,12 +414362,12 @@
   "legacyPackages.x86_64-linux.whisper-cpp": {
     "description": "Port of OpenAI's Whisper model in C/C++",
     "pname": "whisper-cpp",
-    "version": "1.7.2"
+    "version": "1.7.5"
   },
   "legacyPackages.x86_64-linux.whisper-cpp-vulkan": {
     "description": "Port of OpenAI's Whisper model in C/C++",
     "pname": "whisper-cpp",
-    "version": "1.7.2"
+    "version": "1.7.5"
   },
   "legacyPackages.x86_64-linux.whisper-ctranslate2": {
     "description": "Whisper command line client compatible with original OpenAI client based on CTranslate2",
@@ -415947,7 +415962,7 @@
   "legacyPackages.x86_64-linux.wox": {
     "description": "Cross-platform launcher that simply works",
     "pname": "wox",
-    "version": "2.0.0-beta.1"
+    "version": "2.0.0-beta.2"
   },
   "legacyPackages.x86_64-linux.wp-cli": {
     "description": "Command line interface for WordPress",
@@ -419432,7 +419447,7 @@
   "legacyPackages.x86_64-linux.xrootd": {
     "description": "High performance, scalable fault tolerant data access",
     "pname": "xrootd",
-    "version": "5.8.0"
+    "version": "5.8.1"
   },
   "legacyPackages.x86_64-linux.xrq": {
     "description": "X utility for querying xrdb",
@@ -421022,47 +421037,47 @@
   "legacyPackages.x86_64-linux.zabbix70.agent": {
     "description": "Enterprise-class open source distributed monitoring solution (client-side agent)",
     "pname": "zabbix-agent",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.agent2": {
     "description": "Enterprise-class open source distributed monitoring solution (client-side agent)",
     "pname": "zabbix-agent2",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.proxy-mysql": {
     "description": "Enterprise-class open source distributed monitoring solution (client-server proxy)",
     "pname": "zabbix-proxy",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.proxy-pgsql": {
     "description": "Enterprise-class open source distributed monitoring solution (client-server proxy)",
     "pname": "zabbix-proxy",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.proxy-sqlite": {
     "description": "Enterprise-class open source distributed monitoring solution (client-server proxy)",
     "pname": "zabbix-proxy",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.server": {
     "description": "Enterprise-class open source distributed monitoring solution",
     "pname": "zabbix-server",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.server-mysql": {
     "description": "Enterprise-class open source distributed monitoring solution",
     "pname": "zabbix-server",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.server-pgsql": {
     "description": "Enterprise-class open source distributed monitoring solution",
     "pname": "zabbix-server",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix70.web": {
     "description": "Enterprise-class open source distributed monitoring solution (web frontend)",
     "pname": "zabbix-web",
-    "version": "7.0.11"
+    "version": "7.0.12"
   },
   "legacyPackages.x86_64-linux.zabbix72.agent": {
     "description": "Enterprise-class open source distributed monitoring solution (client-side agent)",
@@ -421302,7 +421317,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "0.183.11"
+    "version": "0.184.8"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
@@ -421667,7 +421682,7 @@
   "legacyPackages.x86_64-linux.zigbee2mqtt_2": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.2.1"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.zigimports": {
     "description": "Automatically remove unused imports and globals from Zig files",
