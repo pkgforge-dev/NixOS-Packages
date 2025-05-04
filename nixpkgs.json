@@ -1057,7 +1057,7 @@
   "legacyPackages.x86_64-linux.action-validator": {
     "description": "Tool to validate GitHub Action and Workflow YAML files",
     "pname": "action-validator",
-    "version": "0.6.0"
+    "version": "0.6.0-unstable-2025-02-16"
   },
   "legacyPackages.x86_64-linux.actiona": {
     "description": "Cross-platform automation tool",
@@ -1593,6 +1593,11 @@
     "description": "Modern encryption tool with small explicit keys",
     "pname": "age",
     "version": "1.2.1"
+  },
+  "legacyPackages.x86_64-linux.age-plugin-1p": {
+    "description": "Use SSH keys from 1Password with age",
+    "pname": "age-plugin",
+    "version": "1p-0.1.0"
   },
   "legacyPackages.x86_64-linux.age-plugin-fido2-hmac": {
     "description": "Age plugin to encrypt files with fido2 tokens using the hmac-secret extension and non-discoverable credentials",
@@ -9587,7 +9592,7 @@
   "legacyPackages.x86_64-linux.artisan": {
     "description": "visual scope for coffee roasters",
     "pname": "artisan",
-    "version": "3.1.2"
+    "version": "3.1.4"
   },
   "legacyPackages.x86_64-linux.artyFX": {
     "description": "LV2 plugin bundle of artistic realtime effects",
@@ -11757,7 +11762,7 @@
   "legacyPackages.x86_64-linux.awsebcli": {
     "description": "Command line interface for Elastic Beanstalk",
     "pname": "awsebcli",
-    "version": "3.23.2"
+    "version": "3.23.3"
   },
   "legacyPackages.x86_64-linux.awslimitchecker": {
     "description": "Script and python package to check your AWS service limits and usage via boto3",
@@ -18678,6 +18683,11 @@
     "description": "Build, cache, and run binaries scoped in Cargo.toml rather than installing globally. This acts similarly to npm run and gomodrun, and allows your teams to always be running the same tooling versions",
     "pname": "cargo-run-bin",
     "version": "1.7.4"
+  },
+  "legacyPackages.x86_64-linux.cargo-seek": {
+    "description": "Terminal user interface for searching, adding and installing cargo crates",
+    "pname": "cargo-seek",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.cargo-semver-checks": {
     "description": "Tool to scan your Rust crate for semver violations",
@@ -27697,7 +27707,7 @@
   "legacyPackages.x86_64-linux.cpu_features": {
     "description": "A cross platform C99 library to get cpu features at runtime",
     "pname": "cpu_features",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.cpufetch": {
     "description": "Simplistic yet fancy CPU architecture fetching tool",
@@ -37707,7 +37717,7 @@
   "legacyPackages.x86_64-linux.element-call": {
     "description": "Group calls powered by Matrix",
     "pname": "element-call",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.element-desktop": {
     "description": "A feature-rich client for Matrix.org",
@@ -41132,7 +41142,7 @@
   "legacyPackages.x86_64-linux.ferron": {
     "description": "Fast, memory-safe web server written in Rust",
     "pname": "ferron",
-    "version": "1.0.0"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.ferrum": {
     "description": "Decorative font",
@@ -43432,7 +43442,7 @@
   "legacyPackages.x86_64-linux.forgejo": {
     "description": "Self-hosted lightweight software forge",
     "pname": "forgejo-lts",
-    "version": "11.0.0"
+    "version": "11.0.1"
   },
   "legacyPackages.x86_64-linux.forgejo-actions-runner": {
     "description": "Runner for Forgejo based on act",
@@ -43447,7 +43457,7 @@
   "legacyPackages.x86_64-linux.forgejo-lts": {
     "description": "Self-hosted lightweight software forge",
     "pname": "forgejo-lts",
-    "version": "11.0.0"
+    "version": "11.0.1"
   },
   "legacyPackages.x86_64-linux.forgejo-runner": {
     "description": "Runner for Forgejo based on act",
@@ -47922,7 +47932,7 @@
   "legacyPackages.x86_64-linux.gitleaks": {
     "description": "Scan git repos (or files) for secrets",
     "pname": "gitleaks",
-    "version": "8.24.3"
+    "version": "8.25.1"
   },
   "legacyPackages.x86_64-linux.gitless": {
     "description": "Version control system built on top of Git",
@@ -56087,7 +56097,7 @@
   "legacyPackages.x86_64-linux.gradle": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.13"
+    "version": "8.14"
   },
   "legacyPackages.x86_64-linux.gradle-completion": {
     "description": "Gradle tab completion for bash and zsh",
@@ -56097,7 +56107,7 @@
   "legacyPackages.x86_64-linux.gradle-unwrapped": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.13"
+    "version": "8.14"
   },
   "legacyPackages.x86_64-linux.gradle_7": {
     "description": "Enterprise-grade build system",
@@ -56112,12 +56122,12 @@
   "legacyPackages.x86_64-linux.gradle_8": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.13"
+    "version": "8.14"
   },
   "legacyPackages.x86_64-linux.gradle_8-unwrapped": {
     "description": "Enterprise-grade build system",
     "pname": "gradle",
-    "version": "8.13"
+    "version": "8.14"
   },
   "legacyPackages.x86_64-linux.gradm": {
     "description": "grsecurity RBAC administration and policy analysis utility",
@@ -67824,6 +67834,11 @@
     "pname": "ignite-cli",
     "version": "28.10.0"
   },
+  "legacyPackages.x86_64-linux.ignition": {
+    "description": "Manage startup apps and scripts",
+    "pname": "ignition",
+    "version": "1.1.3"
+  },
   "legacyPackages.x86_64-linux.igprof": {
     "description": "Ignominous Profiler",
     "pname": "igprof",
@@ -72047,7 +72062,7 @@
   "legacyPackages.x86_64-linux.jwx": {
     "description": " Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies",
     "pname": "jwx",
-    "version": "2.1.5"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.jx": {
     "description": "Command line tool for installing and using Jenkins X",
@@ -83917,7 +83932,7 @@
   "legacyPackages.x86_64-linux.librsb": {
     "description": "Shared memory parallel sparse matrix and sparse BLAS library",
     "pname": "librsb",
-    "version": "1.2.0.10"
+    "version": "1.3.0.2"
   },
   "legacyPackages.x86_64-linux.librseq": {
     "description": "Userspace library for the Linux Restartable Sequence API",
@@ -138289,6 +138304,11 @@
     "pname": "mopidy",
     "version": "3.4.2"
   },
+  "legacyPackages.x86_64-linux.mopidy-argos": {
+    "description": "Gtk front-end to control a Mopidy server",
+    "pname": "mopidy-argos",
+    "version": "1.15.0"
+  },
   "legacyPackages.x86_64-linux.mopidy-bandcamp": {
     "description": "Mopidy extension for playing music from bandcamp",
     "pname": "Mopidy-Bandcamp",
@@ -143133,6 +143153,11 @@
     "description": "Create bundles from Nixpkgs attributes",
     "pname": "nix-bundle",
     "version": "0.4.1"
+  },
+  "legacyPackages.x86_64-linux.nix-converter": {
+    "description": "All-in-one converter configuration language to Nix and vice versa",
+    "pname": "nix-converter",
+    "version": "0-unstable-2025-04-14"
   },
   "legacyPackages.x86_64-linux.nix-delegate": {
     "description": "Convenient utility for distributed Nix builds",
@@ -151392,342 +151417,342 @@
   "legacyPackages.x86_64-linux.octave": {
     "description": "Scientific Programming Language",
     "pname": "octave",
-    "version": "9.4.0"
+    "version": "10.1.0"
   },
   "legacyPackages.x86_64-linux.octaveFull": {
     "description": "Scientific Programming Language",
     "pname": "octave",
-    "version": "9.4.0"
+    "version": "10.1.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.arduino": {
     "description": "Basic Octave implementation of the matlab arduino extension, allowing communication to a programmed arduino board to control its hardware",
     "pname": "octave",
-    "version": "9.4.0-arduino-0.10.0"
+    "version": "10.1.0-arduino-0.10.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.audio": {
     "description": "Audio and MIDI Toolbox for GNU Octave",
     "pname": "octave",
-    "version": "9.4.0-audio-2.0.5"
+    "version": "10.1.0-audio-2.0.5"
   },
   "legacyPackages.x86_64-linux.octavePackages.bim": {
     "description": "Package for solving Diffusion Advection Reaction (DAR) Partial Differential Equations",
     "pname": "octave",
-    "version": "9.4.0-bim-1.1.6"
+    "version": "10.1.0-bim-1.1.6"
   },
   "legacyPackages.x86_64-linux.octavePackages.bsltl": {
     "description": "Free collection of OCTAVE/MATLAB routines for working with the biospeckle laser technique",
     "pname": "octave",
-    "version": "9.4.0-bsltl-1.3.1"
+    "version": "10.1.0-bsltl-1.3.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.cgi": {
     "description": "Common Gateway Interface for Octave",
     "pname": "octave",
-    "version": "9.4.0-cgi-0.1.2"
+    "version": "10.1.0-cgi-0.1.2"
   },
   "legacyPackages.x86_64-linux.octavePackages.communications": {
     "description": " Digital Communications, Error Correcting Codes (Channel Code), Source Code functions, Modulation and Galois Fields",
     "pname": "octave",
-    "version": "9.4.0-communications-1.2.7"
+    "version": "10.1.0-communications-1.2.7"
   },
   "legacyPackages.x86_64-linux.octavePackages.control": {
     "description": "Computer-Aided Control System Design (CACSD) Tools for GNU Octave, based on the proven SLICOT Library",
     "pname": "octave",
-    "version": "9.4.0-control-3.6.1"
+    "version": "10.1.0-control-3.6.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.data-smoothing": {
     "description": "Algorithms for smoothing noisy data",
     "pname": "octave",
-    "version": "9.4.0-data-smoothing-1.3.0"
+    "version": "10.1.0-data-smoothing-1.3.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.database": {
     "description": "Interface to SQL databases, currently only postgresql using libpq",
     "pname": "octave",
-    "version": "9.4.0-database-2.4.4"
+    "version": "10.1.0-database-2.4.4"
   },
   "legacyPackages.x86_64-linux.octavePackages.dataframe": {
     "description": "Data manipulation toolbox similar to R data.frame",
     "pname": "octave",
-    "version": "9.4.0-dataframe-1.2.0"
+    "version": "10.1.0-dataframe-1.2.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.dicom": {
     "description": "Digital communications in medicine (DICOM) file io",
     "pname": "octave",
-    "version": "9.4.0-dicom-0.6.1"
+    "version": "10.1.0-dicom-0.6.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.divand": {
     "description": "Performs an n-dimensional variational analysis (interpolation) of arbitrarily located observations",
     "pname": "octave",
-    "version": "9.4.0-divand-1.1.2"
+    "version": "10.1.0-divand-1.1.2"
   },
   "legacyPackages.x86_64-linux.octavePackages.doctest": {
     "description": "Find and run example code within documentation",
     "pname": "octave",
-    "version": "9.4.0-doctest-0.8.0"
+    "version": "10.1.0-doctest-0.8.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.econometrics": {
     "description": "Econometrics functions including MLE and GMM based techniques",
     "pname": "octave",
-    "version": "9.4.0-econometrics-1.1.2"
+    "version": "10.1.0-econometrics-1.1.2"
   },
   "legacyPackages.x86_64-linux.octavePackages.fem-fenics": {
     "description": "Package for the resolution of partial differential equations based on fenics",
     "pname": "octave",
-    "version": "9.4.0-fem-fenics-0.0.5"
+    "version": "10.1.0-fem-fenics-0.0.5"
   },
   "legacyPackages.x86_64-linux.octavePackages.financial": {
     "description": "Monte Carlo simulation, options pricing routines, financial manipulation, plotting functions and additional date manipulation tools",
     "pname": "octave",
-    "version": "9.4.0-financial-0.5.3"
+    "version": "10.1.0-financial-0.5.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.fits": {
     "description": "Functions for reading, and writing FITS (Flexible Image Transport System) files using cfitsio",
     "pname": "octave",
-    "version": "9.4.0-fits-1.0.7"
+    "version": "10.1.0-fits-1.0.7"
   },
   "legacyPackages.x86_64-linux.octavePackages.fpl": {
     "description": "Collection of routines to export data produced by Finite Elements or Finite Volume Simulations in formats used by some visualization programs",
     "pname": "octave",
-    "version": "9.4.0-fpl-1.3.5"
+    "version": "10.1.0-fpl-1.3.5"
   },
   "legacyPackages.x86_64-linux.octavePackages.fuzzy-logic-toolkit": {
     "description": "Mostly MATLAB-compatible fuzzy logic toolkit for Octave",
     "pname": "octave",
-    "version": "9.4.0-fuzzy-logic-toolkit-0.6.1"
+    "version": "10.1.0-fuzzy-logic-toolkit-0.6.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.ga": {
     "description": "Genetic optimization code",
     "pname": "octave",
-    "version": "9.4.0-ga-0.10.4"
+    "version": "10.1.0-ga-0.10.4"
   },
   "legacyPackages.x86_64-linux.octavePackages.general": {
     "description": "General tools for Octave",
     "pname": "octave",
-    "version": "9.4.0-general-2.1.3"
+    "version": "10.1.0-general-2.1.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.generate_html": {
     "description": "Provides functions for generating HTML pages that contain the help texts for a set of functions",
     "pname": "octave",
-    "version": "9.4.0-generate_html-0.3.3"
+    "version": "10.1.0-generate_html-0.3.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.geometry": {
     "description": "Library for extending MatGeom functionality",
     "pname": "octave",
-    "version": "9.4.0-geometry-unstable-2021-07-07"
+    "version": "10.1.0-geometry-unstable-2021-07-07"
   },
   "legacyPackages.x86_64-linux.octavePackages.gsl": {
     "description": "Octave bindings to the GNU Scientific Library",
     "pname": "octave",
-    "version": "9.4.0-gsl-2.1.1"
+    "version": "10.1.0-gsl-2.1.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.image": {
     "description": "Functions for processing images",
     "pname": "octave",
-    "version": "9.4.0-image-2.16.0"
+    "version": "10.1.0-image-2.16.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.image-acquisition": {
     "description": "Functions to capture images from connected devices",
     "pname": "octave",
-    "version": "9.4.0-image-acquisition-0.2.6"
+    "version": "10.1.0-image-acquisition-0.3.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.instrument-control": {
     "description": "Low level I/O functions for serial, i2c, spi, parallel, tcp, gpib, vxi11, udp and usbtmc interfaces",
     "pname": "octave",
-    "version": "9.4.0-instrument-control-0.9.5"
+    "version": "10.1.0-instrument-control-0.9.5"
   },
   "legacyPackages.x86_64-linux.octavePackages.interval": {
     "description": "Interval arithmetic to evaluate functions over subsets of their domain",
     "pname": "octave",
-    "version": "9.4.0-interval-3.2.1"
+    "version": "10.1.0-interval-3.2.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.io": {
     "description": "Input/Output in external formats",
     "pname": "octave",
-    "version": "9.4.0-io-2.6.4"
+    "version": "10.1.0-io-2.6.4"
   },
   "legacyPackages.x86_64-linux.octavePackages.level-set": {
     "description": "Routines for calculating the time-evolution of the level-set equation and extracting geometric information from the level-set function",
     "pname": "octave",
-    "version": "9.4.0-level-set-2019-04-13"
+    "version": "10.1.0-level-set-2019-04-13"
   },
   "legacyPackages.x86_64-linux.octavePackages.linear-algebra": {
     "description": "Additional linear algebra code, including matrix functions",
     "pname": "octave",
-    "version": "9.4.0-linear-algebra-2.2.3"
+    "version": "10.1.0-linear-algebra-2.2.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.lssa": {
     "description": "Tools to compute spectral decompositions of irregularly-spaced time series",
     "pname": "octave",
-    "version": "9.4.0-lssa-0.1.4"
+    "version": "10.1.0-lssa-0.1.4"
   },
   "legacyPackages.x86_64-linux.octavePackages.ltfat": {
     "description": "Toolbox for working with time-frequency analysis, wavelets and signal processing",
     "pname": "octave",
-    "version": "9.4.0-ltfat-2.6.0"
+    "version": "10.1.0-ltfat-2.6.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.mapping": {
     "description": "Simple mapping and GIS .shp .dxf and raster file functions",
     "pname": "octave",
-    "version": "9.4.0-mapping-1.4.2"
+    "version": "10.1.0-mapping-1.4.2"
   },
   "legacyPackages.x86_64-linux.octavePackages.matgeom": {
     "description": "Geometry toolbox for 2D/3D geometric computing",
     "pname": "octave",
-    "version": "9.4.0-matgeom-1.2.4"
+    "version": "10.1.0-matgeom-1.2.4"
   },
   "legacyPackages.x86_64-linux.octavePackages.miscellaneous": {
     "description": "Miscellaneous tools that don't fit somewhere else",
     "pname": "octave",
-    "version": "9.4.0-miscellaneous-1.3.1"
+    "version": "10.1.0-miscellaneous-1.3.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.msh": {
     "description": "Create and manage triangular and tetrahedral meshes for Finite Element or Finite Volume PDE solvers",
     "pname": "octave",
-    "version": "9.4.0-msh-1.0.12"
+    "version": "10.1.0-msh-1.0.12"
   },
   "legacyPackages.x86_64-linux.octavePackages.mvn": {
     "description": "Multivariate normal distribution clustering and utility functions",
     "pname": "octave",
-    "version": "9.4.0-mvn-1.1.0"
+    "version": "10.1.0-mvn-1.1.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.nan": {
     "description": "Statistics and machine learning toolbox for data with and w/o missing values",
     "pname": "octave",
-    "version": "9.4.0-nan-3.7.0"
+    "version": "10.1.0-nan-3.7.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.ncarray": {
     "description": "Access a single or a collection of NetCDF files as a multi-dimensional array",
     "pname": "octave",
-    "version": "9.4.0-ncarray-1.0.6"
+    "version": "10.1.0-ncarray-1.0.6"
   },
   "legacyPackages.x86_64-linux.octavePackages.netcdf": {
     "description": "NetCDF interface for Octave",
     "pname": "octave",
-    "version": "9.4.0-netcdf-1.0.18"
+    "version": "10.1.0-netcdf-1.0.18"
   },
   "legacyPackages.x86_64-linux.octavePackages.nurbs": {
     "description": "Collection of routines for the creation, and manipulation of Non-Uniform Rational B-Splines (NURBS), based on the NURBS toolbox by Mark Spink",
     "pname": "octave",
-    "version": "9.4.0-nurbs-1.4.4"
+    "version": "10.1.0-nurbs-1.4.4"
   },
   "legacyPackages.x86_64-linux.octavePackages.ocl": {
     "description": "Use OpenCL for parallelization",
     "pname": "octave",
-    "version": "9.4.0-ocl-1.2.2"
+    "version": "10.1.0-ocl-1.2.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.octclip": {
     "description": "Perform boolean operations with polygons using the Greiner-Hormann algorithm",
     "pname": "octave",
-    "version": "9.4.0-octclip-2.0.3"
+    "version": "10.1.0-octclip-2.0.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.octproj": {
     "description": "GNU Octave bindings to PROJ library for cartographic projections and CRS transformations",
     "pname": "octave",
-    "version": "9.4.0-octproj-3.0.2"
+    "version": "10.1.0-octproj-3.0.2"
   },
   "legacyPackages.x86_64-linux.octavePackages.optics": {
     "description": "Functions covering various aspects of optics",
     "pname": "octave",
-    "version": "9.4.0-optics-0.1.4"
+    "version": "10.1.0-optics-0.1.4"
   },
   "legacyPackages.x86_64-linux.octavePackages.optim": {
     "description": "Non-linear optimization toolkit",
     "pname": "octave",
-    "version": "9.4.0-optim-1.6.2"
+    "version": "10.1.0-optim-1.6.2"
   },
   "legacyPackages.x86_64-linux.octavePackages.optiminterp": {
     "description": "Optimal interpolation toolbox for octave",
     "pname": "octave",
-    "version": "9.4.0-optiminterp-0.3.7"
+    "version": "10.1.0-optiminterp-0.3.7"
   },
   "legacyPackages.x86_64-linux.octavePackages.parallel": {
     "description": "Parallel execution package",
     "pname": "octave",
-    "version": "9.4.0-parallel-4.0.1"
+    "version": "10.1.0-parallel-4.0.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.quaternion": {
     "description": "Quaternion package for GNU Octave, includes a quaternion class with overloaded operators",
     "pname": "octave",
-    "version": "9.4.0-quaternion-2.4.0"
+    "version": "10.1.0-quaternion-2.4.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.queueing": {
     "description": "Provides functions for queueing networks and Markov chains analysis",
     "pname": "octave",
-    "version": "9.4.0-queueing-1.2.7"
+    "version": "10.1.0-queueing-1.2.7"
   },
   "legacyPackages.x86_64-linux.octavePackages.signal": {
     "description": "Signal processing tools, including filtering, windowing and display functions",
     "pname": "octave",
-    "version": "9.4.0-signal-1.4.6"
+    "version": "10.1.0-signal-1.4.6"
   },
   "legacyPackages.x86_64-linux.octavePackages.sockets": {
     "description": "Socket functions for networking from within octave",
     "pname": "octave",
-    "version": "9.4.0-sockets-1.4.1"
+    "version": "10.1.0-sockets-1.4.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.sparsersb": {
     "description": "Interface to the librsb package implementing the RSB sparse matrix format for fast shared-memory sparse matrix computations",
     "pname": "octave",
-    "version": "9.4.0-sparsersb-1.0.9"
+    "version": "10.1.0-sparsersb-1.0.9"
   },
   "legacyPackages.x86_64-linux.octavePackages.splines": {
     "description": "Additional spline functions",
     "pname": "octave",
-    "version": "9.4.0-splines-1.3.5"
+    "version": "10.1.0-splines-1.3.5"
   },
   "legacyPackages.x86_64-linux.octavePackages.statistics": {
     "description": "Statistics package for GNU Octave",
     "pname": "octave",
-    "version": "9.4.0-statistics-1.7.0"
+    "version": "10.1.0-statistics-1.7.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.stk": {
     "description": "STK is a (not so) Small Toolbox for Kriging",
     "pname": "octave",
-    "version": "9.4.0-stk-2.8.1"
+    "version": "10.1.0-stk-2.8.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.strings": {
     "description": "Additional functions for manipulation and analysis of strings",
     "pname": "octave",
-    "version": "9.4.0-strings-1.3.1"
+    "version": "10.1.0-strings-1.3.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.struct": {
     "description": "Additional structure manipulation functions",
     "pname": "octave",
-    "version": "9.4.0-struct-1.0.18"
+    "version": "10.1.0-struct-1.0.18"
   },
   "legacyPackages.x86_64-linux.octavePackages.symbolic": {
     "description": "Adds symbolic calculation features to GNU Octave",
     "pname": "octave",
-    "version": "9.4.0-symbolic-3.2.1"
+    "version": "10.1.0-symbolic-3.2.1"
   },
   "legacyPackages.x86_64-linux.octavePackages.tisean": {
     "description": "Port of TISEAN 3.0.1",
     "pname": "octave",
-    "version": "9.4.0-tisean-0.2.3"
+    "version": "10.1.0-tisean-0.2.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.tsa": {
     "description": "Stochastic concepts and maximum entropy methods for time series analysis",
     "pname": "octave",
-    "version": "9.4.0-tsa-4.6.3"
+    "version": "10.1.0-tsa-4.6.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.vibes": {
     "description": "Easily display results (boxes, pavings) from interval methods",
     "pname": "octave",
-    "version": "9.4.0-vibes-0.2.0"
+    "version": "10.1.0-vibes-0.2.0"
   },
   "legacyPackages.x86_64-linux.octavePackages.video": {
     "description": "Wrapper for OpenCV's CvCapture_FFMPEG and CvVideoWriter_FFMPEG",
     "pname": "octave",
-    "version": "9.4.0-video-2.1.3"
+    "version": "10.1.0-video-2.1.3"
   },
   "legacyPackages.x86_64-linux.octavePackages.vrml": {
     "description": "3D graphics using VRML",
     "pname": "octave",
-    "version": "9.4.0-vrml-1.0.14"
+    "version": "10.1.0-vrml-1.0.14"
   },
   "legacyPackages.x86_64-linux.octavePackages.windows": {
     "description": "Provides COM interface and additional functionality on Windows",
     "pname": "octave",
-    "version": "9.4.0-windows-1.6.5"
+    "version": "10.1.0-windows-1.6.5"
   },
   "legacyPackages.x86_64-linux.octavePackages.writeRequiredOctavePackagesHook": {
     "description": "",
@@ -151737,7 +151762,7 @@
   "legacyPackages.x86_64-linux.octavePackages.zeromq": {
     "description": "ZeroMQ bindings for GNU Octave",
     "pname": "octave",
-    "version": "9.4.0-zeromq-1.5.5"
+    "version": "10.1.0-zeromq-1.5.5"
   },
   "legacyPackages.x86_64-linux.octodns": {
     "description": "Tools for managing DNS across multiple providers",
@@ -156147,7 +156172,7 @@
   "legacyPackages.x86_64-linux.pantheon.switchboard-plug-about": {
     "description": "Switchboard About Plug",
     "pname": "switchboard-plug-about",
-    "version": "8.2.0"
+    "version": "8.2.1"
   },
   "legacyPackages.x86_64-linux.pantheon.switchboard-plug-applications": {
     "description": "Switchboard Applications Plug",
@@ -156307,7 +156332,7 @@
   "legacyPackages.x86_64-linux.pantheon.xdg-desktop-portal-pantheon": {
     "description": "Backend implementation for xdg-desktop-portal for the Pantheon desktop environment",
     "pname": "xdg-desktop-portal-pantheon",
-    "version": "8.0.0"
+    "version": "8.0.1"
   },
   "legacyPackages.x86_64-linux.pantum-driver": {
     "description": "Pantum universal driver",
@@ -194302,17 +194327,17 @@
   "legacyPackages.x86_64-linux.playwright": {
     "description": "Framework for Web Testing and Automation",
     "pname": "playwright-core",
-    "version": "1.50.1"
+    "version": "1.52.0"
   },
   "legacyPackages.x86_64-linux.playwright-driver": {
     "description": "Framework for Web Testing and Automation",
     "pname": "playwright-core",
-    "version": "1.50.1"
+    "version": "1.52.0"
   },
   "legacyPackages.x86_64-linux.playwright-test": {
     "description": "Framework for Web Testing and Automation",
     "pname": "playwright-test",
-    "version": "1.50.1"
+    "version": "1.52.0"
   },
   "legacyPackages.x86_64-linux.please": {
     "description": "Polite regex-first sudo alternative",
@@ -194747,7 +194772,7 @@
   "legacyPackages.x86_64-linux.pocket-id": {
     "description": "OIDC provider with passkeys support",
     "pname": "pocket-id",
-    "version": "0.49.0"
+    "version": "0.51.0"
   },
   "legacyPackages.x86_64-linux.pocket-updater-utility": {
     "description": "Pupdate - A thing for updating your Analogue Pocket",
@@ -195347,7 +195372,7 @@
   "legacyPackages.x86_64-linux.postfix": {
     "description": "Fast, easy to administer, and secure mail server",
     "pname": "postfix",
-    "version": "3.10.1"
+    "version": "3.10.2"
   },
   "legacyPackages.x86_64-linux.postfix-tlspol": {
     "description": "Lightweight MTA-STS + DANE/TLSA resolver and TLS policy server for Postfix, prioritizing DANE.",
@@ -216187,7 +216212,7 @@
   "legacyPackages.x86_64-linux.python312Packages.google-ai-generativelanguage": {
     "description": "Google Ai Generativelanguage API client library",
     "pname": "python3.12-google-ai-generativelanguage",
-    "version": "0.6.17"
+    "version": "0.6.18"
   },
   "legacyPackages.x86_64-linux.python312Packages.google-api-core": {
     "description": "Core Library for Google Client Libraries",
@@ -220042,7 +220067,7 @@
   "legacyPackages.x86_64-linux.python312Packages.jupyter-server-ydoc": {
     "description": "Jupyter-server extension integrating collaborative shared models",
     "pname": "python3.12-jupyter-server-ydoc",
-    "version": "2.0.1"
+    "version": "2.0.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.jupyter-sphinx": {
     "description": "Jupyter Sphinx Extensions",
@@ -229982,7 +230007,7 @@
   "legacyPackages.x86_64-linux.python312Packages.playwright": {
     "description": "Python version of the Playwright testing and automation library",
     "pname": "python3.12-playwright",
-    "version": "1.50.0"
+    "version": "1.52.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.playwright-stealth": {
     "description": "Playwright stealth",
@@ -233747,7 +233772,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pymilvus": {
     "description": "Python SDK for Milvus",
     "pname": "python3.12-pymilvus",
-    "version": "2.5.7"
+    "version": "2.5.8"
   },
   "legacyPackages.x86_64-linux.python312Packages.pymitv": {
     "description": "Python client the Mi Tv 3",
@@ -244149,6 +244174,11 @@
     "pname": "python3.12-tempora",
     "version": "5.8.0"
   },
+  "legacyPackages.x86_64-linux.python312Packages.temporalio": {
+    "description": "Temporal Python SDK",
+    "pname": "python3.12-temporalio",
+    "version": "1.11.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.tenacity": {
     "description": "Retrying library for Python",
     "pname": "python3.12-tenacity",
@@ -245692,6 +245722,11 @@
   "legacyPackages.x86_64-linux.python312Packages.tree-sitter-grammars.tree-sitter-markdown-inline": {
     "description": "Python bindings for tree-sitter-markdown-inline",
     "pname": "python3.12-python-tree-sitter-markdown-inline",
+    "version": "0.25.3"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.tree-sitter-grammars.tree-sitter-netlinx": {
+    "description": "Python bindings for tree-sitter-netlinx",
+    "pname": "python3.12-python-tree-sitter-netlinx",
     "version": "0.25.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.tree-sitter-grammars.tree-sitter-nickel": {
@@ -249132,7 +249167,7 @@
   "legacyPackages.x86_64-linux.python312Packages.uv-dynamic-versioning": {
     "description": "Dynamic versioning based on VCS tags for uv/hatch project",
     "pname": "python3.12-uv-dynamic-versioning",
-    "version": "0.8.0"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.uvcclient": {
     "description": "Client for Ubiquiti's Unifi Camera NVR",
@@ -250822,7 +250857,7 @@
   "legacyPackages.x86_64-linux.python312Packages.yalexs-ble": {
     "description": "Library for Yale BLE devices",
     "pname": "python3.12-yalexs-ble",
-    "version": "2.6.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.yamale": {
     "description": "Schema and validator for YAML",
@@ -265507,7 +265542,7 @@
   "legacyPackages.x86_64-linux.python313Packages.google-ai-generativelanguage": {
     "description": "Google Ai Generativelanguage API client library",
     "pname": "python3.13-google-ai-generativelanguage",
-    "version": "0.6.17"
+    "version": "0.6.18"
   },
   "legacyPackages.x86_64-linux.python313Packages.google-api-core": {
     "description": "Core Library for Google Client Libraries",
@@ -269362,7 +269397,7 @@
   "legacyPackages.x86_64-linux.python313Packages.jupyter-server-ydoc": {
     "description": "Jupyter-server extension integrating collaborative shared models",
     "pname": "python3.13-jupyter-server-ydoc",
-    "version": "2.0.1"
+    "version": "2.0.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.jupyter-sphinx": {
     "description": "Jupyter Sphinx Extensions",
@@ -279302,7 +279337,7 @@
   "legacyPackages.x86_64-linux.python313Packages.playwright": {
     "description": "Python version of the Playwright testing and automation library",
     "pname": "python3.13-playwright",
-    "version": "1.50.0"
+    "version": "1.52.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.playwright-stealth": {
     "description": "Playwright stealth",
@@ -283067,7 +283102,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pymilvus": {
     "description": "Python SDK for Milvus",
     "pname": "python3.13-pymilvus",
-    "version": "2.5.7"
+    "version": "2.5.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.pymitv": {
     "description": "Python client the Mi Tv 3",
@@ -293499,6 +293534,11 @@
     "pname": "python3.13-tempora",
     "version": "5.8.0"
   },
+  "legacyPackages.x86_64-linux.python313Packages.temporalio": {
+    "description": "Temporal Python SDK",
+    "pname": "python3.13-temporalio",
+    "version": "1.11.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.tenacity": {
     "description": "Retrying library for Python",
     "pname": "python3.13-tenacity",
@@ -295042,6 +295082,11 @@
   "legacyPackages.x86_64-linux.python313Packages.tree-sitter-grammars.tree-sitter-markdown-inline": {
     "description": "Python bindings for tree-sitter-markdown-inline",
     "pname": "python3.13-python-tree-sitter-markdown-inline",
+    "version": "0.25.3"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.tree-sitter-grammars.tree-sitter-netlinx": {
+    "description": "Python bindings for tree-sitter-netlinx",
+    "pname": "python3.13-python-tree-sitter-netlinx",
     "version": "0.25.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.tree-sitter-grammars.tree-sitter-nickel": {
@@ -298482,7 +298527,7 @@
   "legacyPackages.x86_64-linux.python313Packages.uv-dynamic-versioning": {
     "description": "Dynamic versioning based on VCS tags for uv/hatch project",
     "pname": "python3.13-uv-dynamic-versioning",
-    "version": "0.8.0"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.uvcclient": {
     "description": "Client for Ubiquiti's Unifi Camera NVR",
@@ -300172,7 +300217,7 @@
   "legacyPackages.x86_64-linux.python313Packages.yalexs-ble": {
     "description": "Library for Yale BLE devices",
     "pname": "python3.13-yalexs-ble",
-    "version": "2.6.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.yamale": {
     "description": "Schema and validator for YAML",
@@ -348442,7 +348487,7 @@
   "legacyPackages.x86_64-linux.spacecookie": {
     "description": "Gopher server library and daemon",
     "pname": "spacecookie",
-    "version": "1.0.0.2"
+    "version": "1.0.0.3"
   },
   "legacyPackages.x86_64-linux.spacectl": {
     "description": "Spacelift client and CLI",
@@ -350882,7 +350927,7 @@
   "legacyPackages.x86_64-linux.stylelint": {
     "description": "Mighty CSS linter that helps you avoid errors and enforce conventions",
     "pname": "stylelint",
-    "version": "16.19.0"
+    "version": "16.19.1"
   },
   "legacyPackages.x86_64-linux.stylelint-lsp": {
     "description": "A stylelint Language Server",
@@ -381709,6 +381754,11 @@
     "pname": "tree-sitter-markdown_inline-grammar",
     "version": "0.25.3"
   },
+  "legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-netlinx": {
+    "description": "",
+    "pname": "tree-sitter-netlinx-grammar",
+    "version": "0.25.3"
+  },
   "legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-nickel": {
     "description": "",
     "pname": "tree-sitter-nickel-grammar",
@@ -398537,7 +398587,7 @@
   "legacyPackages.x86_64-linux.video-downloader": {
     "description": "GUI application based on yt-dlp",
     "pname": "video-downloader",
-    "version": "0.12.24"
+    "version": "0.12.25"
   },
   "legacyPackages.x86_64-linux.video-trimmer": {
     "description": "Trim videos quickly",
@@ -418129,6 +418179,11 @@
     "pname": "xnotify",
     "version": "0.9.3"
   },
+  "legacyPackages.x86_64-linux.xnviewmp": {
+    "description": "Efficient multimedia viewer, browser and converter",
+    "pname": "xnviewmp",
+    "version": "1.8.8"
+  },
   "legacyPackages.x86_64-linux.xo": {
     "description": "Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server",
     "pname": "xo",
@@ -422602,7 +422657,7 @@
   "legacyPackages.x86_64-linux.zwave-js-ui": {
     "description": "Full featured Z-Wave Control Panel and MQTT Gateway",
     "pname": "zwave-js-ui",
-    "version": "10.3.0"
+    "version": "10.3.3"
   },
   "legacyPackages.x86_64-linux.zx": {
     "description": "Tool for writing scripts using JavaScript",
