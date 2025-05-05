@@ -124,7 +124,7 @@
  KDDockWidgets  2.2.4  KDAB's Dock Widget Framework for Qt  legacyPackages.x86_64-linux.kddockwidgets 
  KDSingleApplication  1.1.0  KDAB's helper class for single-instance policy applications  legacyPackages.x86_64-linux.kdsingleapplication 
  KSmoothDock  6.3  Cool desktop panel for KDE Plasma 5  legacyPackages.x86_64-linux.ksmoothdock 
- KlipperScreen  0.4.4  Touchscreen GUI for the Klipper 3D printer firmware  legacyPackages.x86_64-linux.klipperscreen 
+ KlipperScreen  0.4.5  Touchscreen GUI for the Klipper 3D printer firmware  legacyPackages.x86_64-linux.klipperscreen 
  LAStools  2.0.3  Software for rapid LiDAR processing  legacyPackages.x86_64-linux.LAStools 
  LPCNet  0.5  Experimental Neural Net speech coding for FreeDV  legacyPackages.x86_64-linux.LPCNet 
  LanguageTool  6.6  Proofreading program for English, French German, Polish, and more  legacyPackages.x86_64-linux.languagetool 
@@ -3023,7 +3023,7 @@
  azure-storage-azcopy  10.29.0  New Azure Storage data transfer utility - AzCopy v10  legacyPackages.x86_64-linux.azure-storage-azcopy 
  azuredatastudio  1.49.1  Data management tool that enables working with SQL Server, Azure SQL DB and SQL DW  legacyPackages.x86_64-linux.azuredatastudio 
  azurehound  2.4.0  Azure Data Exporter for BloodHound  legacyPackages.x86_64-linux.azurehound 
- azurite  3.33.0  An open source Azure Storage API compatible server  legacyPackages.x86_64-linux.azurite 
+ azurite  3.34.0  An open source Azure Storage API compatible server  legacyPackages.x86_64-linux.azurite 
  b1encoding  1.0  LaTeX encoding tools for Bookhands fonts  legacyPackages.x86_64-linux.texlivePackages.b1encoding 
  b2sum  20190724  B2sum utility is similar to the md5sum or shasum utilities but for BLAKE2  legacyPackages.x86_64-linux.b2sum 
  b3sum  1.8.2  BLAKE3 cryptographic hash function  legacyPackages.x86_64-linux.b3sum 
@@ -7649,6 +7649,7 @@
  creek  0.4.3  Malleable and minimalist status bar for the River compositor  legacyPackages.x86_64-linux.creek 
  creep  0.31  Pretty sweet 4px wide pixel font  legacyPackages.x86_64-linux.creep 
  crefthe  70156  Cross referencing with proper definite articles and declensions  legacyPackages.x86_64-linux.texlivePackages.crefthe 
+ crengine-ng  0.9.12  Cross-platform library designed to implement text viewers and e-book readers  legacyPackages.x86_64-linux.crengine-ng 
  crex  0.2.5  Explore, test, and check regular expressions in the terminal  legacyPackages.x86_64-linux.crex 
  cri-o  1.32.3  Open Container Initiative-based implementation of the Kubernetes Container Runtime Interface   legacyPackages.x86_64-linux.cri-o-unwrapped 
  cri-o-wrapper  1.32.3  Open Container Initiative-based implementation of the Kubernetes Container Runtime Interface   legacyPackages.x86_64-linux.cri-o 
@@ -15410,7 +15411,7 @@
  harper  0.32.1  Grammar Checker for Developers  legacyPackages.x86_64-linux.harper 
  harpoon  1.0  Extra harpoons, using the graphics package  legacyPackages.x86_64-linux.texlivePackages.harpoon 
  harsh  0.10.7  CLI habit tracking for geeks  legacyPackages.x86_64-linux.harsh 
- haruna  1.3.3  Open source video player built with Qt/QML and libmpv  legacyPackages.x86_64-linux.haruna 
+ haruna  1.4.0  Open source video player built with Qt/QML and libmpv  legacyPackages.x86_64-linux.haruna 
  harvard  2.0.5  Harvard citation package for use with LaTeX 2e  legacyPackages.x86_64-linux.texlivePackages.harvard 
  harveyballs  1.1  Create Harvey Balls using TikZ  legacyPackages.x86_64-linux.texlivePackages.harveyballs 
  harvid  0.9.1  Decodes still images from movie files and serves them via HTTP  legacyPackages.x86_64-linux.harvid 
@@ -26230,7 +26231,7 @@
  mop  1.0.0  Simple stock tracker implemented in go  legacyPackages.x86_64-linux.mop 
  mopac  23.1.2  Semiempirical quantum chemistry  legacyPackages.x86_64-linux.mopac 
  mopidy  3.4.2  Extensible music server that plays music from local disk, Spotify, SoundCloud, and more  legacyPackages.x86_64-linux.mopidy 
- mopidy-argos  1.15.0  Gtk front-end to control a Mopidy server  legacyPackages.x86_64-linux.mopidy-argos 
+ mopidy-argos  1.16.0  Gtk front-end to control a Mopidy server  legacyPackages.x86_64-linux.mopidy-argos 
  mopidy-jellyfin  1.0.6  Mopidy extension for playing audio files from Jellyfin  legacyPackages.x86_64-linux.mopidy-jellyfin 
  mopidy-mpris  3.0.3  Mopidy extension for controlling Mopidy through D-Bus using the MPRIS specification  legacyPackages.x86_64-linux.mopidy-mpris 
  mopidy-muse  0.0.33  Mopidy web client with Snapcast support  legacyPackages.x86_64-linux.mopidy-muse 
@@ -30727,7 +30728,7 @@
  opencl-clhpp  2024.10.24  OpenCL Host API C++ bindings  legacyPackages.x86_64-linux.opencl-clhpp 
  opencl-headers  2024.10.24  Khronos OpenCL headers version 2024.10.24  legacyPackages.x86_64-linux.opencl-headers 
  opencl-icd-loader  2024.10.24  Official Khronos OpenCL ICD Loader  legacyPackages.x86_64-linux.khronos-ocl-icd-loader 
- openclonk-unstable  2023-10-30  Free multiplayer action game in which you control clonks, small but witty and nimble humanoid beings  legacyPackages.x86_64-linux.openclonk 
+ openclonk  9.0-unstable-2025-01-11  Free multiplayer action game in which you control clonks, small but witty and nimble humanoid beings  legacyPackages.x86_64-linux.openclonk 
  opencollada  1.6.68  Library for handling the COLLADA file format  legacyPackages.x86_64-linux.collada-dom 
  opencollada  1.6.68  Library for handling the COLLADA file format  legacyPackages.x86_64-linux.opencollada 
  opencollada-unstable  2025-01-30  Library for handling the COLLADA file format  legacyPackages.x86_64-linux.opencollada-blender 
@@ -39628,6 +39629,7 @@
  polenum  1.6.1-unstable-2024-07-30  Tool to get the password policy from a windows machine  legacyPackages.x86_64-linux.polenum 
  polexpr  0.8.7a  A parser for polynomial expressions  legacyPackages.x86_64-linux.texlivePackages.polexpr 
  policycoreutils  3.8.1  SELinux policy core utilities  legacyPackages.x86_64-linux.policycoreutils 
+ poliedros  1.0.1  Multi-type dice roller  legacyPackages.x86_64-linux.poliedros 
  polipo  1.1.1  Small and fast caching web proxy  legacyPackages.x86_64-linux.polipo 
  polkadot  2503  Implementation of a https://polkadot.network node in Rust based on the Substrate framework  legacyPackages.x86_64-linux.polkadot 
  polkit  126  Toolkit for defining and handling the policy that allows unprivileged processes to speak to privileged processes  legacyPackages.x86_64-linux.polkit 
@@ -46903,7 +46905,7 @@
  python3.12-pygame-sdl2  8.3.7.25031702  Reimplementation of the Pygame API using SDL2 and related libraries  legacyPackages.x86_64-linux.python312Packages.pygame-sdl2 
  python3.12-pygame-sdl2  8.3.7.25031702  Reimplementation of the Pygame API using SDL2 and related libraries  legacyPackages.x86_64-linux.python312Packages.pygame_sdl2 
  python3.12-pygatt  5.0.0  Python wrapper the BGAPI for accessing Bluetooth LE Devices  legacyPackages.x86_64-linux.python312Packages.pygatt 
- python3.12-pygccxml  2.6.1  Python package for easy C++ declarations navigation  legacyPackages.x86_64-linux.python312Packages.pygccxml 
+ python3.12-pygccxml  3.0.2  Python package for easy C++ declarations navigation  legacyPackages.x86_64-linux.python312Packages.pygccxml 
  python3.12-pygdbmi  0.11.0.0  Parse gdb machine interface output with Python  legacyPackages.x86_64-linux.python312Packages.pygdbmi 
  python3.12-pygelf  0.4.2  Python logging handlers with GELF (Graylog Extended Log Format) support  legacyPackages.x86_64-linux.python312Packages.pygelf 
  python3.12-pygeocodio  1.4.0  Python wrapper for the Geocodio geolocation service API  legacyPackages.x86_64-linux.python312Packages.pygeocodio 
@@ -48623,6 +48625,8 @@
  python3.12-scspell  2.3  A spell checker for source code  legacyPackages.x86_64-linux.python312Packages.scspell 
  python3.12-scudcloud  1.65  Non-official desktop client for Slack  legacyPackages.x86_64-linux.scudcloud 
  python3.12-scvmm  1.1.2  Microsoft Azure Command-Line Tools SCVMM Extension  legacyPackages.x86_64-linux.azure-cli-extensions.scvmm 
+ python3.12-sdbus  0.14.0    legacyPackages.x86_64-linux.python312Packages.sdbus 
+ python3.12-sdbus-networkmanager  2.0.0    legacyPackages.x86_64-linux.python312Packages.sdbus-networkmanager 
  python3.12-sdds  0.4.2  Module to handle SDDS files  legacyPackages.x86_64-linux.python312Packages.sdds 
  python3.12-sdjson  0.5.0  Custom JSON Encoder for Python utilising functools.singledispatch  legacyPackages.x86_64-linux.python312Packages.sdjson 
  python3.12-sdkmanager  0.6.11  Drop-in replacement for sdkmanager from the Android SDK written in Python  legacyPackages.x86_64-linux.python312Packages.sdkmanager 
@@ -56723,7 +56727,7 @@
  python3.13-pygame-sdl2  8.3.7.25031702  Reimplementation of the Pygame API using SDL2 and related libraries  legacyPackages.x86_64-linux.python313Packages.pygame-sdl2 
  python3.13-pygame-sdl2  8.3.7.25031702  Reimplementation of the Pygame API using SDL2 and related libraries  legacyPackages.x86_64-linux.python313Packages.pygame_sdl2 
  python3.13-pygatt  5.0.0  Python wrapper the BGAPI for accessing Bluetooth LE Devices  legacyPackages.x86_64-linux.python313Packages.pygatt 
- python3.13-pygccxml  2.6.1  Python package for easy C++ declarations navigation  legacyPackages.x86_64-linux.python313Packages.pygccxml 
+ python3.13-pygccxml  3.0.2  Python package for easy C++ declarations navigation  legacyPackages.x86_64-linux.python313Packages.pygccxml 
  python3.13-pygdbmi  0.11.0.0  Parse gdb machine interface output with Python  legacyPackages.x86_64-linux.python313Packages.pygdbmi 
  python3.13-pygelf  0.4.2  Python logging handlers with GELF (Graylog Extended Log Format) support  legacyPackages.x86_64-linux.python313Packages.pygelf 
  python3.13-pygeocodio  1.4.0  Python wrapper for the Geocodio geolocation service API  legacyPackages.x86_64-linux.python313Packages.pygeocodio 
@@ -58424,6 +58428,8 @@
  python3.13-scrypt  0.8.27  Python bindings for the scrypt key derivation function  legacyPackages.x86_64-linux.python313Packages.scrypt 
  python3.13-scs  3.2.7.post2  Python interface for SCS: Splitting Conic Solver  legacyPackages.x86_64-linux.python313Packages.scs 
  python3.13-scspell  2.3  A spell checker for source code  legacyPackages.x86_64-linux.python313Packages.scspell 
+ python3.13-sdbus  0.14.0    legacyPackages.x86_64-linux.python313Packages.sdbus 
+ python3.13-sdbus-networkmanager  2.0.0    legacyPackages.x86_64-linux.python313Packages.sdbus-networkmanager 
  python3.13-sdds  0.4.2  Module to handle SDDS files  legacyPackages.x86_64-linux.python313Packages.sdds 
  python3.13-sdjson  0.5.0  Custom JSON Encoder for Python utilising functools.singledispatch  legacyPackages.x86_64-linux.python313Packages.sdjson 
  python3.13-sdkmanager  0.6.11  Drop-in replacement for sdkmanager from the Android SDK written in Python  legacyPackages.x86_64-linux.python313Packages.sdkmanager 
@@ -62200,7 +62206,7 @@
  rocwmma  5.7.1  Mixed precision matrix multiplication and accumulation  legacyPackages.x86_64-linux.rocmPackages_5.rocwmma 
  rocwmma  6.3.3  Mixed precision matrix multiplication and accumulation  legacyPackages.x86_64-linux.rocmPackages.rocwmma 
  rocwmma  6.3.3  Mixed precision matrix multiplication and accumulation  legacyPackages.x86_64-linux.rocmPackages_6.rocwmma 
- roddhjav-apparmor-rules  0-unstable-2025-04-25  Over 1500 AppArmor profiles aiming to confine most linux processes  legacyPackages.x86_64-linux.roddhjav-apparmor-rules 
+ roddhjav-apparmor-rules  0-unstable-2025-05-03  Over 1500 AppArmor profiles aiming to confine most linux processes  legacyPackages.x86_64-linux.roddhjav-apparmor-rules 
  roex  45818  Metafont-PostScript conversions  legacyPackages.x86_64-linux.texlivePackages.roex 
  rofi  1.7.8  Window switcher, run dialog and dmenu replacement  legacyPackages.x86_64-linux.rofi 
  rofi  1.7.8+wayland1  Window switcher, run dialog and dmenu replacement for Wayland  legacyPackages.x86_64-linux.rofi-wayland 
@@ -65214,7 +65220,7 @@
  rucola  0.5.0  Terminal-based markdown note manager  legacyPackages.x86_64-linux.rucola 
  rucredstash  0.9.2  Utility for managing credentials securely in AWS cloud  legacyPackages.x86_64-linux.rucredstash 
  ruff  0.11.8  Extremely fast Python linter and code formatter  legacyPackages.x86_64-linux.ruff 
- ruffle  0-nightly-2025-04-22  Cross platform Adobe Flash Player emulator  legacyPackages.x86_64-linux.ruffle 
+ ruffle  0-nightly-2025-05-01  Cross platform Adobe Flash Player emulator  legacyPackages.x86_64-linux.ruffle 
  rufo  0.18.1  Ruby formatter  legacyPackages.x86_64-linux.rufo 
  ruhyphen  1.6  Russian hyphenation  legacyPackages.x86_64-linux.texlivePackages.ruhyphen 
  ruler  0-unstable-2024-11-23  Adds a ruler command that lets you measure positions, distances and angles in the image. Can be configured through ruler.conf  legacyPackages.x86_64-linux.mpvScripts.mpv-image-viewer.ruler 
@@ -72560,7 +72566,7 @@
  switchboard-plug-security-privacy  8.0.1  Switchboard Security & Privacy Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-security-privacy 
  switchboard-plug-sharing  8.0.1  Switchboard Sharing Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-sharing 
  switchboard-plug-sound  8.0.1  Switchboard Sound Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-sound 
- switchboard-plug-wacom  8.0.0  Switchboard Wacom Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-wacom 
+ switchboard-plug-wacom  8.0.1  Switchboard Wacom Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-wacom 
  switchboard-with-plugs  8.0.2  Extensible System Settings app for Pantheon  legacyPackages.x86_64-linux.pantheon.switchboard-with-plugs 
  switcheroo  2.2.0  App for converting images between different formats  legacyPackages.x86_64-linux.switcheroo 
  switcheroo-control  2.6  D-Bus service to check the availability of dual-GPU  legacyPackages.x86_64-linux.switcheroo-control 
@@ -73374,6 +73380,7 @@
  teleport  17.4.5  Certificate authority and access plane for SSH, Kubernetes, web applications, and databases  legacyPackages.x86_64-linux.teleport_17 
  teleports  1.20  Ubuntu Touch Telegram client  legacyPackages.x86_64-linux.lomiri.teleports 
  telepresence2  2.22.4  Local development against a remote Kubernetes or OpenShift cluster  legacyPackages.x86_64-linux.telepresence2 
+ teleprompter  1.0.1  Stay on track during speeches  legacyPackages.x86_64-linux.teleprompter 
  teler  2.0.0  Real-time HTTP Intrusion Detection  legacyPackages.x86_64-linux.teler 
  telescope  0.10.1  Telescope is a w3m-like browser for Gemini  legacyPackages.x86_64-linux.telescope 
  televido  0.5.0  Viewer for German-language public broadcasting live streams and archives  legacyPackages.x86_64-linux.televido 

@@ -12782,7 +12782,7 @@
   "legacyPackages.x86_64-linux.azurite": {
     "description": "An open source Azure Storage API compatible server",
     "pname": "azurite",
-    "version": "3.33.0"
+    "version": "3.34.0"
   },
   "legacyPackages.x86_64-linux.b2sum": {
     "description": "B2sum utility is similar to the md5sum or shasum utilities but for BLAKE2",
@@ -27938,6 +27938,11 @@
     "description": "Pretty sweet 4px wide pixel font",
     "pname": "creep",
     "version": "0.31"
+  },
+  "legacyPackages.x86_64-linux.crengine-ng": {
+    "description": "Cross-platform library designed to implement text viewers and e-book readers",
+    "pname": "crengine-ng",
+    "version": "0.9.12"
   },
   "legacyPackages.x86_64-linux.crex": {
     "description": "Explore, test, and check regular expressions in the terminal",
@@ -58527,7 +58532,7 @@
   "legacyPackages.x86_64-linux.haruna": {
     "description": "Open source video player built with Qt/QML and libmpv",
     "pname": "haruna",
-    "version": "1.3.3"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.harvid": {
     "description": "Decodes still images from movie files and serves them via HTTP",
@@ -76307,7 +76312,7 @@
   "legacyPackages.x86_64-linux.klipperscreen": {
     "description": "Touchscreen GUI for the Klipper 3D printer firmware",
     "pname": "KlipperScreen",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.klog": {
     "description": "Multiplatform free hamradio logger",
@@ -138307,7 +138312,7 @@
   "legacyPackages.x86_64-linux.mopidy-argos": {
     "description": "Gtk front-end to control a Mopidy server",
     "pname": "mopidy-argos",
-    "version": "1.15.0"
+    "version": "1.16.0"
   },
   "legacyPackages.x86_64-linux.mopidy-bandcamp": {
     "description": "Mopidy extension for playing music from bandcamp",
@@ -152936,8 +152941,8 @@
   },
   "legacyPackages.x86_64-linux.openclonk": {
     "description": "Free multiplayer action game in which you control clonks, small but witty and nimble humanoid beings",
-    "pname": "openclonk-unstable",
-    "version": "2023-10-30"
+    "pname": "openclonk",
+    "version": "9.0-unstable-2025-01-11"
   },
   "legacyPackages.x86_64-linux.opencollada": {
     "description": "Library for handling the COLLADA file format",
@@ -156252,7 +156257,7 @@
   "legacyPackages.x86_64-linux.pantheon.switchboard-plug-wacom": {
     "description": "Switchboard Wacom Plug",
     "pname": "switchboard-plug-wacom",
-    "version": "8.0.0"
+    "version": "8.0.1"
   },
   "legacyPackages.x86_64-linux.pantheon.switchboard-with-plugs": {
     "description": "Extensible System Settings app for Pantheon",
@@ -195004,6 +195009,11 @@
     "pname": "policycoreutils",
     "version": "3.8.1"
   },
+  "legacyPackages.x86_64-linux.poliedros": {
+    "description": "Multi-type dice roller",
+    "pname": "poliedros",
+    "version": "1.0.1"
+  },
   "legacyPackages.x86_64-linux.polipo": {
     "description": "Small and fast caching web proxy",
     "pname": "polipo",
@@ -232782,7 +232792,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pygccxml": {
     "description": "Python package for easy C++ declarations navigation",
     "pname": "python3.12-pygccxml",
-    "version": "2.6.1"
+    "version": "3.0.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pygdbmi": {
     "description": "Parse gdb machine interface output with Python",
@@ -240698,6 +240708,16 @@
     "description": "A spell checker for source code",
     "pname": "python3.12-scspell",
     "version": "2.3"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.sdbus": {
+    "description": "",
+    "pname": "python3.12-sdbus",
+    "version": "0.14.0"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.sdbus-networkmanager": {
+    "description": "",
+    "pname": "python3.12-sdbus-networkmanager",
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.sdds": {
     "description": "Module to handle SDDS files",
@@ -282112,7 +282132,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pygccxml": {
     "description": "Python package for easy C++ declarations navigation",
     "pname": "python3.13-pygccxml",
-    "version": "2.6.1"
+    "version": "3.0.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pygdbmi": {
     "description": "Parse gdb machine interface output with Python",
@@ -290028,6 +290048,16 @@
     "description": "A spell checker for source code",
     "pname": "python3.13-scspell",
     "version": "2.3"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.sdbus": {
+    "description": "",
+    "pname": "python3.13-sdbus",
+    "version": "0.14.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.sdbus-networkmanager": {
+    "description": "",
+    "pname": "python3.13-sdbus-networkmanager",
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.sdds": {
     "description": "Module to handle SDDS files",
@@ -307447,7 +307477,7 @@
   "legacyPackages.x86_64-linux.roddhjav-apparmor-rules": {
     "description": "Over 1500 AppArmor profiles aiming to confine most linux processes",
     "pname": "roddhjav-apparmor-rules",
-    "version": "0-unstable-2025-04-25"
+    "version": "0-unstable-2025-05-03"
   },
   "legacyPackages.x86_64-linux.rofi": {
     "description": "Window switcher, run dialog and dmenu replacement",
@@ -318917,7 +318947,7 @@
   "legacyPackages.x86_64-linux.ruffle": {
     "description": "Cross platform Adobe Flash Player emulator",
     "pname": "ruffle",
-    "version": "0-nightly-2025-04-22"
+    "version": "0-nightly-2025-05-01"
   },
   "legacyPackages.x86_64-linux.rufo": {
     "description": "Ruby formatter",
@@ -354048,6 +354078,11 @@
     "description": "Local development against a remote Kubernetes or OpenShift cluster",
     "pname": "telepresence2",
     "version": "2.22.4"
+  },
+  "legacyPackages.x86_64-linux.teleprompter": {
+    "description": "Stay on track during speeches",
+    "pname": "teleprompter",
+    "version": "1.0.1"
   },
   "legacyPackages.x86_64-linux.teler": {
     "description": "Real-time HTTP Intrusion Detection",
