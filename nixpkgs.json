@@ -197,7 +197,7 @@
   "legacyPackages.x86_64-linux.LPCNet": {
     "description": "Experimental Neural Net speech coding for FreeDV",
     "pname": "LPCNet",
-    "version": "0.5"
+    "version": "0.5-unstable-2025-01-19"
   },
   "legacyPackages.x86_64-linux.LibreArp": {
     "description": "A pattern-based arpeggio generator plugin",
@@ -4312,7 +4312,7 @@
   "legacyPackages.x86_64-linux.amazon-q-cli": {
     "description": "Amazon Q Developer AI coding agent CLI",
     "pname": "amazon-q-cli",
-    "version": "1.8.0"
+    "version": "1.9.1"
   },
   "legacyPackages.x86_64-linux.amazon-qldb-shell": {
     "description": "Interface to send PartiQL statements to Amazon Quantum Ledger Database (QLDB)",
@@ -7902,7 +7902,7 @@
   "legacyPackages.x86_64-linux.ansible-navigator": {
     "description": "Text-based user interface (TUI) for Ansible",
     "pname": "ansible-navigator",
-    "version": "25.4.0"
+    "version": "25.4.1"
   },
   "legacyPackages.x86_64-linux.ansible_2_16": {
     "description": "Radically simple IT automation",
@@ -8137,7 +8137,7 @@
   "legacyPackages.x86_64-linux.anyrun": {
     "description": "Wayland-native, highly customizable runner",
     "pname": "anyrun",
-    "version": "0-unstable-2025-04-04"
+    "version": "0-unstable-2025-04-29"
   },
   "legacyPackages.x86_64-linux.anystyle-cli": {
     "description": "Command line interface to the AnyStyle Parser and Finder",
@@ -8622,7 +8622,7 @@
   "legacyPackages.x86_64-linux.apko": {
     "description": "Build OCI images using APK directly without Dockerfile",
     "pname": "apko",
-    "version": "0.27.1"
+    "version": "0.27.2"
   },
   "legacyPackages.x86_64-linux.apksigcopier": {
     "description": "Copy/extract/patch android apk signatures & compare APKs",
@@ -8897,7 +8897,7 @@
   "legacyPackages.x86_64-linux.apt": {
     "description": "Command-line package management tools used on Debian-based systems",
     "pname": "apt",
-    "version": "3.0.0"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.apt-cacher-ng": {
     "description": "Caching proxy specialized for Linux distribution files",
@@ -14882,7 +14882,7 @@
   "legacyPackages.x86_64-linux.bird2": {
     "description": "BIRD Internet Routing Daemon",
     "pname": "bird",
-    "version": "2.17"
+    "version": "2.17.1"
   },
   "legacyPackages.x86_64-linux.bird3": {
     "description": "BIRD Internet Routing Daemon",
@@ -18157,7 +18157,7 @@
   "legacyPackages.x86_64-linux.capypdf": {
     "description": "Fully color managed PDF generation library",
     "pname": "capypdf",
-    "version": "0.15.0"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.carapace": {
     "description": "Multi-shell multi-command argument completer",
@@ -18942,7 +18942,7 @@
   "legacyPackages.x86_64-linux.cartero": {
     "description": "Make HTTP requests and test APIs",
     "pname": "cartero",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "legacyPackages.x86_64-linux.carto": {
     "description": "Mapnik stylesheet compiler",
@@ -20187,7 +20187,7 @@
   "legacyPackages.x86_64-linux.charliecloud": {
     "description": "User-defined software stacks (UDSS) for high-performance computing (HPC) centers",
     "pname": "charliecloud",
-    "version": "0.24"
+    "version": "0.38"
   },
   "legacyPackages.x86_64-linux.charls": {
     "description": "JPEG-LS library implementation in C++",
@@ -23767,12 +23767,12 @@
   "legacyPackages.x86_64-linux.chromedriver": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "chromedriver-unwrapped",
-    "version": "136.0.7103.59"
+    "version": "136.0.7103.92"
   },
   "legacyPackages.x86_64-linux.chromium": {
     "description": "Open source web browser from Google",
     "pname": "chromium",
-    "version": "136.0.7103.59"
+    "version": "136.0.7103.92"
   },
   "legacyPackages.x86_64-linux.chromium-bsu": {
     "description": "Fast paced, arcade-style, top-scrolling space shooter",
@@ -24032,7 +24032,7 @@
   "legacyPackages.x86_64-linux.cirrus-cli": {
     "description": "CLI for executing Cirrus tasks locally and in any CI",
     "pname": "cirrus-cli",
-    "version": "0.143.3"
+    "version": "0.144.0"
   },
   "legacyPackages.x86_64-linux.cirrusgo": {
     "description": "Tool to scan SAAS and PAAS applications",
@@ -24697,7 +24697,7 @@
   "legacyPackages.x86_64-linux.clightning": {
     "description": "Bitcoin Lightning Network implementation in C",
     "pname": "clightning",
-    "version": "25.02.1"
+    "version": "25.02.2"
   },
   "legacyPackages.x86_64-linux.clima": {
     "description": "Minimal viewer for Termimad",
@@ -26432,7 +26432,7 @@
   "legacyPackages.x86_64-linux.consul": {
     "description": "Tool for service discovery, monitoring and configuration",
     "pname": "consul",
-    "version": "1.20.6"
+    "version": "1.21.0"
   },
   "legacyPackages.x86_64-linux.consul-alerts": {
     "description": "Extendable open source continuous integration server",
@@ -27162,12 +27162,12 @@
   "legacyPackages.x86_64-linux.corepack_24": {
     "description": "Wrappers for npm, pnpm and Yarn via Node.js Corepack",
     "pname": "corepack-nodejs",
-    "version": "24.0.0-rc.3"
+    "version": "24.0.0"
   },
   "legacyPackages.x86_64-linux.corepack_latest": {
     "description": "Wrappers for npm, pnpm and Yarn via Node.js Corepack",
     "pname": "corepack-nodejs",
-    "version": "24.0.0-rc.3"
+    "version": "24.0.0"
   },
   "legacyPackages.x86_64-linux.corerad": {
     "description": "Extensible and observable IPv6 NDP RA daemon",
@@ -30052,7 +30052,7 @@
   "legacyPackages.x86_64-linux.cyberpunk-neon": {
     "description": "Neon themes for many programs",
     "pname": "cyberpunk-neon",
-    "version": "0-unstable-2025-04-17"
+    "version": "0-unstable-2025-05-05"
   },
   "legacyPackages.x86_64-linux.cyclone": {
     "description": "Library of PureData classes, bringing some level of compatibility between Max/MSP and Pd environments",
@@ -31197,7 +31197,7 @@
   "legacyPackages.x86_64-linux.databricks-cli": {
     "description": "Databricks CLI",
     "pname": "databricks-cli",
-    "version": "0.249.0"
+    "version": "0.250.0"
   },
   "legacyPackages.x86_64-linux.databricks-sql-cli": {
     "description": "CLI for querying Databricks SQL",
@@ -34467,7 +34467,7 @@
   "legacyPackages.x86_64-linux.doctl": {
     "description": "Command line tool for DigitalOcean services",
     "pname": "doctl",
-    "version": "1.125.0"
+    "version": "1.125.1"
   },
   "legacyPackages.x86_64-linux.doctoc": {
     "description": "Generate table of contents for Markdown files",
@@ -37460,9 +37460,9 @@
     "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.eintopf": {
-    "description": "A calendar for Stuttgart, showing events, groups and places",
-    "pname": "eintopf",
-    "version": "0.14.3"
+    "description": "An open source calendar for events, groups and places",
+    "pname": "lauti",
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.eiquadprog": {
     "description": "C++ reimplementation of eiquadprog",
@@ -39997,12 +39997,12 @@
   "legacyPackages.x86_64-linux.fable": {
     "description": "Fable is an F# to JavaScript compiler",
     "pname": "fable",
-    "version": "4.24.0"
+    "version": "4.25.0"
   },
   "legacyPackages.x86_64-linux.fabric-ai": {
     "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere",
     "pname": "fabric-ai",
-    "version": "1.4.183"
+    "version": "1.4.185"
   },
   "legacyPackages.x86_64-linux.fabric-installer": {
     "description": "Lightweight, experimental modding toolchain for Minecraft",
@@ -41867,12 +41867,12 @@
   "legacyPackages.x86_64-linux.firefox-beta-bin": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-beta-bin",
-    "version": "138.0b9"
+    "version": "139.0b4"
   },
   "legacyPackages.x86_64-linux.firefox-beta-bin-unwrapped": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-beta-bin-unwrapped",
-    "version": "138.0b9"
+    "version": "139.0b4"
   },
   "legacyPackages.x86_64-linux.firefox-beta-unwrapped": {
     "description": "Web browser built from Firefox Beta Release source tree",
@@ -41897,12 +41897,12 @@
   "legacyPackages.x86_64-linux.firefox-devedition-bin": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-devedition-bin",
-    "version": "138.0b9"
+    "version": "139.0b3"
   },
   "legacyPackages.x86_64-linux.firefox-devedition-bin-unwrapped": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-developer-edition-bin-unwrapped",
-    "version": "138.0b9"
+    "version": "139.0b3"
   },
   "legacyPackages.x86_64-linux.firefox-devedition-unwrapped": {
     "description": "Web browser built from Firefox Developer Edition source tree",
@@ -41997,17 +41997,17 @@
   "legacyPackages.x86_64-linux.firezone-gateway": {
     "description": "WireGuard tunnel server for the Firezone zero-trust access platform",
     "pname": "firezone-gateway",
-    "version": "1.4.6"
+    "version": "1.4.8"
   },
   "legacyPackages.x86_64-linux.firezone-gui-client": {
     "description": "GUI client for the Firezone zero-trust access platform",
     "pname": "firezone-gui-client",
-    "version": "1.4.9"
+    "version": "1.4.12"
   },
   "legacyPackages.x86_64-linux.firezone-headless-client": {
     "description": "CLI client for the Firezone zero-trust access platform",
     "pname": "firezone-headless-client",
-    "version": "1.4.6"
+    "version": "1.4.7"
   },
   "legacyPackages.x86_64-linux.firezone-relay": {
     "description": "STUN/TURN server for the Firezone zero-trust access platform",
@@ -42974,10 +42974,15 @@
     "pname": "flutter-wrapped",
     "version": "3.29.3-sdk-links"
   },
+  "legacyPackages.x86_64-linux.flutter332": {
+    "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
+    "pname": "flutter-wrapped",
+    "version": "3.32.0-0.3.pre-sdk-links"
+  },
   "legacyPackages.x86_64-linux.flutterPackages-bin.beta": {
     "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
     "pname": "flutter-wrapped",
-    "version": "3.26.0-0.1.pre-sdk-links"
+    "version": "3.32.0-0.3.pre-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages-bin.stable": {
     "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
@@ -43004,10 +43009,15 @@
     "pname": "flutter-wrapped",
     "version": "3.29.3-sdk-links"
   },
+  "legacyPackages.x86_64-linux.flutterPackages-bin.v3_32": {
+    "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
+    "pname": "flutter-wrapped",
+    "version": "3.32.0-0.3.pre-sdk-links"
+  },
   "legacyPackages.x86_64-linux.flutterPackages-source.beta": {
     "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
     "pname": "flutter-wrapped",
-    "version": "3.26.0-0.1.pre-sdk-links"
+    "version": "3.32.0-0.3.pre-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages-source.stable": {
     "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
@@ -43034,10 +43044,15 @@
     "pname": "flutter-wrapped",
     "version": "3.29.3-sdk-links"
   },
+  "legacyPackages.x86_64-linux.flutterPackages-source.v3_32": {
+    "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
+    "pname": "flutter-wrapped",
+    "version": "3.32.0-0.3.pre-sdk-links"
+  },
   "legacyPackages.x86_64-linux.flutterPackages.beta": {
     "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
     "pname": "flutter-wrapped",
-    "version": "3.26.0-0.1.pre-sdk-links"
+    "version": "3.32.0-0.3.pre-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages.stable": {
     "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
@@ -43063,6 +43078,11 @@
     "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
     "pname": "flutter-wrapped",
     "version": "3.29.3-sdk-links"
+  },
+  "legacyPackages.x86_64-linux.flutterPackages.v3_32": {
+    "description": "Flutter is Google's SDK for building mobile, web and desktop with Dart",
+    "pname": "flutter-wrapped",
+    "version": "3.32.0-0.3.pre-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutter_rust_bridge_codegen": {
     "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple",
@@ -43153,6 +43173,11 @@
     "description": "Find initial calibration offset for SDR devices",
     "pname": "fm-tune",
     "version": "1.1"
+  },
+  "legacyPackages.x86_64-linux.fmi-reference-fmus": {
+    "description": "Functional Mock-up Units for development, testing and debugging",
+    "pname": "reference-fmus",
+    "version": "0.0.38"
   },
   "legacyPackages.x86_64-linux.fmit": {
     "description": "Free Musical Instrument Tuner",
@@ -45162,7 +45187,7 @@
   "legacyPackages.x86_64-linux.gat": {
     "description": "Cat alternative written in Go",
     "pname": "gat",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.gate": {
     "description": "High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy",
@@ -48072,7 +48097,7 @@
   "legacyPackages.x86_64-linux.gittuf": {
     "description": "Security layer for Git repositories",
     "pname": "gittuf",
-    "version": "0.9.0"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.gitty": {
     "description": "Contextual information about your git projects, right on the command-line",
@@ -55572,7 +55597,7 @@
   "legacyPackages.x86_64-linux.gotestsum": {
     "description": "Human friendly `go test` runner",
     "pname": "gotestsum",
-    "version": "1.12.1"
+    "version": "1.12.2"
   },
   "legacyPackages.x86_64-linux.gotestwaf": {
     "description": "Tool for API and OWASP attack simulation",
@@ -59342,7 +59367,7 @@
   "legacyPackages.x86_64-linux.helmsman": {
     "description": "Helm Charts (k8s applications) as Code tool",
     "pname": "helmsman",
-    "version": "3.18.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.help2man": {
     "description": "Generate man pages from `--help' output",
@@ -65567,7 +65592,7 @@
   "legacyPackages.x86_64-linux.httm": {
     "description": "Interactive, file-level Time Machine-like tool for ZFS/btrfs",
     "pname": "httm",
-    "version": "0.46.10"
+    "version": "0.47.0"
   },
   "legacyPackages.x86_64-linux.http-getter": {
     "description": "Simple getter for HTTP URLs using cURL",
@@ -70764,6 +70789,16 @@
     "pname": "openjdk-headless",
     "version": "23.0.2+7"
   },
+  "legacyPackages.x86_64-linux.jdk24": {
+    "description": "Open-source Java Development Kit",
+    "pname": "openjdk",
+    "version": "24+36"
+  },
+  "legacyPackages.x86_64-linux.jdk24_headless": {
+    "description": "Open-source Java Development Kit",
+    "pname": "openjdk-headless",
+    "version": "24+36"
+  },
   "legacyPackages.x86_64-linux.jdk8": {
     "description": "Open-source Java Development Kit",
     "pname": "openjdk",
@@ -72162,27 +72197,22 @@
   "legacyPackages.x86_64-linux.k3s": {
     "description": "Lightweight Kubernetes distribution",
     "pname": "k3s",
-    "version": "1.32.3+k3s1"
-  },
-  "legacyPackages.x86_64-linux.k3s_1_29": {
-    "description": "Lightweight Kubernetes distribution",
-    "pname": "k3s",
-    "version": "1.29.15+k3s1"
+    "version": "1.32.4+k3s1"
   },
   "legacyPackages.x86_64-linux.k3s_1_30": {
     "description": "Lightweight Kubernetes distribution",
     "pname": "k3s",
-    "version": "1.30.11+k3s1"
+    "version": "1.30.12+k3s1"
   },
   "legacyPackages.x86_64-linux.k3s_1_31": {
     "description": "Lightweight Kubernetes distribution",
     "pname": "k3s",
-    "version": "1.31.7+k3s1"
+    "version": "1.31.8+k3s1"
   },
   "legacyPackages.x86_64-linux.k3s_1_32": {
     "description": "Lightweight Kubernetes distribution",
     "pname": "k3s",
-    "version": "1.32.3+k3s1"
+    "version": "1.32.4+k3s1"
   },
   "legacyPackages.x86_64-linux.k3sup": {
     "description": "Bootstrap Kubernetes with k3s over SSH",
@@ -72842,7 +72872,7 @@
   "legacyPackages.x86_64-linux.kazumi": {
     "description": "Watch Animes online with danmaku support",
     "pname": "kazumi",
-    "version": "1.6.8"
+    "version": "1.6.9"
   },
   "legacyPackages.x86_64-linux.kazv": {
     "description": "Convergent matrix client and instant messaging app",
@@ -77742,7 +77772,7 @@
   "legacyPackages.x86_64-linux.kubectl-gadget": {
     "description": "Collection of gadgets for troubleshooting Kubernetes applications using eBPF",
     "pname": "kubectl-gadget",
-    "version": "0.39.0"
+    "version": "0.40.0"
   },
   "legacyPackages.x86_64-linux.kubectl-graph": {
     "description": "Kubectl plugin to visualize Kubernetes resources and relationships",
@@ -77782,7 +77812,7 @@
   "legacyPackages.x86_64-linux.kubectl-rook-ceph": {
     "description": "Krew plugin to run kubectl commands with rook-ceph",
     "pname": "kubectl-rook-ceph",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.kubectl-tree": {
     "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree",
@@ -78662,7 +78692,12 @@
   "legacyPackages.x86_64-linux.laurel": {
     "description": "Transform Linux Audit logs for SIEM usage",
     "pname": "laurel",
-    "version": "0.7.0"
+    "version": "0.7.2"
+  },
+  "legacyPackages.x86_64-linux.lauti": {
+    "description": "An open source calendar for events, groups and places",
+    "pname": "lauti",
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.lavacli": {
     "description": "Command line tool to interact with one or many LAVA instances using XML-RPC",
@@ -83812,7 +83847,7 @@
   "legacyPackages.x86_64-linux.libretro.snes9x": {
     "description": "Port of SNES9x git to libretro",
     "pname": "libretro-snes9x",
-    "version": "0-unstable-2025-04-06"
+    "version": "0-unstable-2025-05-03"
   },
   "legacyPackages.x86_64-linux.libretro.snes9x2002": {
     "description": "Optimized port/rewrite of SNES9x 1.39 to Libretro",
@@ -83957,12 +83992,12 @@
   "legacyPackages.x86_64-linux.librewolf-bin": {
     "description": "Fork of Firefox, focused on privacy, security and freedom (upstream binary release)",
     "pname": "librewolf-bin",
-    "version": "137.0.2-1"
+    "version": "138.0.1-2"
   },
   "legacyPackages.x86_64-linux.librewolf-bin-unwrapped": {
     "description": "Fork of Firefox, focused on privacy, security and freedom (upstream binary release)",
     "pname": "librewolf-bin-unwrapped",
-    "version": "137.0.2-1"
+    "version": "138.0.1-2"
   },
   "legacyPackages.x86_64-linux.librewolf-unwrapped": {
     "description": "Fork of Firefox, focused on privacy, security and freedom",
@@ -85652,12 +85687,12 @@
   "legacyPackages.x86_64-linux.libsForQt5.libopenshot": {
     "description": "Free, open-source video editor library",
     "pname": "libopenshot",
-    "version": "0.3.3"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.libsForQt5.libopenshot-audio": {
     "description": "High-quality sound editing library",
     "pname": "libopenshot-audio",
-    "version": "0.3.3"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.libsForQt5.libqaccessibilityclient": {
     "description": "Accessibilty tools helper library, used e.g. by screen readers",
@@ -88612,7 +88647,7 @@
   "legacyPackages.x86_64-linux.linkerd_edge": {
     "description": "Simple Kubernetes service mesh that improves security, observability and reliability",
     "pname": "linkerd-edge",
-    "version": "25.4.4"
+    "version": "25.5.1"
   },
   "legacyPackages.x86_64-linux.linkerd_stable": {
     "description": "Simple Kubernetes service mesh that improves security, observability and reliability",
@@ -88917,7 +88952,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_testing": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
     "pname": "linux",
-    "version": "6.15-rc4"
+    "version": "6.15-rc5"
   },
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_xanmod": {
     "description": "Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience",
@@ -89362,12 +89397,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.10.237"
+    "version": "570.123.11-5.10.237"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.237-570.123.07"
+    "version": "5.10.237-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -90162,12 +90197,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.10.235"
+    "version": "570.123.11-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.235-570.123.07"
+    "version": "5.10.235-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -90962,12 +90997,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.15.181"
+    "version": "570.123.11-5.15.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.181-570.123.07"
+    "version": "5.15.181-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -91762,12 +91797,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.15.179"
+    "version": "570.123.11-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.179-570.123.07"
+    "version": "5.15.179-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -92567,12 +92602,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.4.293"
+    "version": "570.123.11-5.4.293"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.293-570.123.07"
+    "version": "5.4.293-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -93372,12 +93407,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.4.291"
+    "version": "570.123.11-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.291-570.123.07"
+    "version": "5.4.291-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -94172,12 +94207,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.1.136"
+    "version": "570.123.11-6.1.136"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.136-570.123.07"
+    "version": "6.1.136-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -94967,12 +95002,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.26"
+    "version": "570.123.11-6.12.26"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.26-570.123.07"
+    "version": "6.12.26-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -95767,12 +95802,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.19"
+    "version": "570.123.11-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.19-570.123.07"
+    "version": "6.12.19-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -96567,12 +96602,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.13.12"
+    "version": "570.123.11-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.13.12-570.123.07"
+    "version": "6.13.12-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -97367,12 +97402,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.13.7"
+    "version": "570.123.11-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.13.7-570.123.07"
+    "version": "6.13.7-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -98167,12 +98202,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -98967,12 +99002,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.1.131"
+    "version": "570.123.11-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.131-570.123.07"
+    "version": "6.1.131-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -99762,12 +99797,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.6.89"
+    "version": "570.123.11-6.6.89"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.89-570.123.07"
+    "version": "6.6.89-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -100557,12 +100592,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.6.83"
+    "version": "570.123.11-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.83-570.123.07"
+    "version": "6.6.83-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -101352,12 +101387,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.13.12"
+    "version": "570.123.11-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.13.12-570.123.07"
+    "version": "6.13.12-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -102152,12 +102187,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.19"
+    "version": "570.123.11-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.19-570.123.07"
+    "version": "6.12.19-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -102952,12 +102987,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -103752,12 +103787,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.26"
+    "version": "570.123.11-6.12.26"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.26-570.123.07"
+    "version": "6.12.26-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -104552,12 +104587,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -105352,12 +105387,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.26"
+    "version": "570.123.11-6.12.26"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.26-570.123.07"
+    "version": "6.12.26-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -106152,12 +106187,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -106952,12 +106987,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -107752,12 +107787,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -108552,12 +108587,12 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.26"
+    "version": "570.123.11-6.12.26"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.26-570.123.07"
+    "version": "6.12.26-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -109352,12 +109387,12 @@
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.26"
+    "version": "570.123.11-6.12.26"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.26-570.123.07"
+    "version": "6.12.26-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -110152,12 +110187,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.10.235"
+    "version": "570.123.11-5.10.235"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.235-570.123.07"
+    "version": "5.10.235-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -110952,12 +110987,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.15.179"
+    "version": "570.123.11-5.15.179"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.179-570.123.07"
+    "version": "5.15.179-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -111757,12 +111792,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-5.4.291"
+    "version": "570.123.11-5.4.291"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.291-570.123.07"
+    "version": "5.4.291-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -112557,12 +112592,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.19"
+    "version": "570.123.11-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.19-570.123.07"
+    "version": "6.12.19-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -113357,12 +113392,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.13.7"
+    "version": "570.123.11-6.13.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.13.7-570.123.07"
+    "version": "6.13.7-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -114157,12 +114192,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.1.131"
+    "version": "570.123.11-6.1.131"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.131-570.123.07"
+    "version": "6.1.131-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -114952,12 +114987,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.6.83"
+    "version": "570.123.11-6.6.83"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.83-570.123.07"
+    "version": "6.6.83-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -115752,12 +115787,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.13.12"
+    "version": "570.123.11-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.13.12-570.123.07"
+    "version": "6.13.12-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -116552,12 +116587,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.19"
+    "version": "570.123.11-6.12.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.19-570.123.07"
+    "version": "6.12.19-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -117352,12 +117387,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -118152,12 +118187,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -118952,12 +118987,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -119752,12 +119787,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.12.26"
+    "version": "570.123.11-6.12.26"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.26-570.123.07"
+    "version": "6.12.26-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -120552,12 +120587,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -121352,12 +121387,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -122152,12 +122187,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.07-6.14.5"
+    "version": "570.123.11-6.14.5"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.14.5-570.123.07"
+    "version": "6.14.5-570.123.11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
@@ -122667,7 +122702,7 @@
   "legacyPackages.x86_64-linux.linux_testing": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
     "pname": "linux",
-    "version": "6.15-rc4"
+    "version": "6.15-rc5"
   },
   "legacyPackages.x86_64-linux.linux_xanmod": {
     "description": "Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience",
@@ -126129,9 +126164,9 @@
     "pname": "lparchive2epub",
     "version": "1.2.4"
   },
-  "legacyPackages.x86_64-linux.lpcnetfreedv": {
+  "legacyPackages.x86_64-linux.lpcnet": {
     "description": "Experimental Neural Net speech coding for FreeDV",
-    "pname": "lpcnetfreedv",
+    "pname": "LPCNet",
     "version": "0.5-unstable-2025-01-19"
   },
   "legacyPackages.x86_64-linux.lpd8editor": {
@@ -126958,6 +126993,11 @@
     "description": "Bare libuv bindings for lua",
     "pname": "lua5.1-luv",
     "version": "1.48.0-2"
+  },
+  "legacyPackages.x86_64-linux.lua51Packages.lux-lua": {
+    "description": "Lua API for the Lux package manager",
+    "pname": "lux-lua",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.lua51Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -127844,6 +127884,11 @@
     "pname": "lua5.2-luv",
     "version": "1.48.0-2"
   },
+  "legacyPackages.x86_64-linux.lua52Packages.lux-lua": {
+    "description": "Lua API for the Lux package manager",
+    "pname": "lux-lua",
+    "version": "0.1.0"
+  },
   "legacyPackages.x86_64-linux.lua52Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
     "pname": "lua5.2-luxio",
@@ -128729,6 +128774,11 @@
     "pname": "lua5.3-luv",
     "version": "1.48.0-2"
   },
+  "legacyPackages.x86_64-linux.lua53Packages.lux-lua": {
+    "description": "Lua API for the Lux package manager",
+    "pname": "lux-lua",
+    "version": "0.1.0"
+  },
   "legacyPackages.x86_64-linux.lua53Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
     "pname": "lua5.3-luxio",
@@ -129608,6 +129658,11 @@
     "description": "Bare libuv bindings for lua",
     "pname": "lua5.4-luv",
     "version": "1.48.0-2"
+  },
+  "legacyPackages.x86_64-linux.lua54Packages.lux-lua": {
+    "description": "Lua API for the Lux package manager",
+    "pname": "lux-lua",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.lua54Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -130529,6 +130584,11 @@
     "pname": "lua5.2-luv",
     "version": "1.48.0-2"
   },
+  "legacyPackages.x86_64-linux.luaPackages.lux-lua": {
+    "description": "Lua API for the Lux package manager",
+    "pname": "lux-lua",
+    "version": "0.1.0"
+  },
   "legacyPackages.x86_64-linux.luaPackages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
     "pname": "lua5.2-luxio",
@@ -131434,6 +131494,11 @@
     "pname": "luajit2.1-luv",
     "version": "1.48.0-2"
   },
+  "legacyPackages.x86_64-linux.luajitPackages.lux-lua": {
+    "description": "Lua API for the Lux package manager",
+    "pname": "lux-lua",
+    "version": "0.1.0"
+  },
   "legacyPackages.x86_64-linux.luajitPackages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
     "pname": "lua5.1-luxio",
@@ -131998,6 +132063,11 @@
     "description": "Fast and simple video download library and CLI tool written in Go",
     "pname": "lux",
     "version": "0.24.1"
+  },
+  "legacyPackages.x86_64-linux.lux-cli": {
+    "description": "Luxurious package manager for Lua",
+    "pname": "lux-cli",
+    "version": "0.3.14"
   },
   "legacyPackages.x86_64-linux.lv": {
     "description": "Powerful multi-lingual file viewer / grep",
@@ -133307,7 +133377,7 @@
   "legacyPackages.x86_64-linux.mangojuice": {
     "description": "Convenient alternative to GOverlay for setting up MangoHud",
     "pname": "mangojuice",
-    "version": "0.8.3"
+    "version": "0.8.4"
   },
   "legacyPackages.x86_64-linux.mani": {
     "description": "CLI tool to help you manage multiple repositories",
@@ -134864,6 +134934,11 @@
     "pname": "mcpelauncher-ui-qt",
     "version": "1.2.0-qt6"
   },
+  "legacyPackages.x86_64-linux.mcphost": {
+    "description": "A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP",
+    "pname": "mcphost",
+    "version": "0.7.1"
+  },
   "legacyPackages.x86_64-linux.mcpp": {
     "description": "Matsui's C preprocessor",
     "pname": "mcpp",
@@ -135152,7 +135227,7 @@
   "legacyPackages.x86_64-linux.mdq": {
     "description": "Like jq but for Markdown: find specific elements in a md doc",
     "pname": "mdq",
-    "version": "0.6.1"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.mdr": {
     "description": "MarkDown Renderer for the terminal",
@@ -137832,7 +137907,7 @@
   "legacyPackages.x86_64-linux.mochi": {
     "description": "Simple markdown-powered SRS app",
     "pname": "mochi",
-    "version": "1.18.7"
+    "version": "1.18.11"
   },
   "legacyPackages.x86_64-linux.mockgen": {
     "description": "GoMock is a mocking framework for the Go programming language",
@@ -138052,12 +138127,12 @@
   "legacyPackages.x86_64-linux.monero-cli": {
     "description": "Private, secure, untraceable currency",
     "pname": "monero-cli",
-    "version": "0.18.3.4"
+    "version": "0.18.4.0"
   },
   "legacyPackages.x86_64-linux.monero-gui": {
     "description": "Private, secure, untraceable currency",
     "pname": "monero-gui",
-    "version": "0.18.3.4"
+    "version": "0.18.4.0"
   },
   "legacyPackages.x86_64-linux.monetdb": {
     "description": "Open source database system",
@@ -139922,7 +139997,7 @@
   "legacyPackages.x86_64-linux.mud": {
     "description": "multi-directory git runner which allows you to run git commands in a multiple repositories",
     "pname": "mud",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   "legacyPackages.x86_64-linux.mudlet": {
     "description": "Crossplatform mud client",
@@ -141027,7 +141102,7 @@
   "legacyPackages.x86_64-linux.nats-server": {
     "description": "High-Performance server for NATS",
     "pname": "nats-server",
-    "version": "2.11.1"
+    "version": "2.11.3"
   },
   "legacyPackages.x86_64-linux.nats-streaming-server": {
     "description": "NATS Streaming System Server",
@@ -142007,7 +142082,7 @@
   "legacyPackages.x86_64-linux.netbird": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird",
-    "version": "0.43.1"
+    "version": "0.43.2"
   },
   "legacyPackages.x86_64-linux.netbird-dashboard": {
     "description": "NetBird Management Service Web UI Panel",
@@ -142017,7 +142092,7 @@
   "legacyPackages.x86_64-linux.netbird-ui": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird",
-    "version": "0.43.1"
+    "version": "0.43.2"
   },
   "legacyPackages.x86_64-linux.netboot": {
     "description": "Mini PXE server",
@@ -142852,7 +142927,7 @@
   "legacyPackages.x86_64-linux.nhost-cli": {
     "description": "Tool for setting up a local development environment for Nhost",
     "pname": "nhost-cli",
-    "version": "1.29.5"
+    "version": "1.29.6"
   },
   "legacyPackages.x86_64-linux.ni": {
     "description": "Use the right package manager",
@@ -144067,12 +144142,12 @@
   "legacyPackages.x86_64-linux.nodejs-slim_24": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs-slim",
-    "version": "24.0.0-rc.3"
+    "version": "24.0.0"
   },
   "legacyPackages.x86_64-linux.nodejs-slim_latest": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs-slim",
-    "version": "24.0.0-rc.3"
+    "version": "24.0.0"
   },
   "legacyPackages.x86_64-linux.nodejsInstallExecutables": {
     "description": "",
@@ -144097,12 +144172,12 @@
   "legacyPackages.x86_64-linux.nodejs_24": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs",
-    "version": "24.0.0-rc.3"
+    "version": "24.0.0"
   },
   "legacyPackages.x86_64-linux.nodejs_latest": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs",
-    "version": "24.0.0-rc.3"
+    "version": "24.0.0"
   },
   "legacyPackages.x86_64-linux.nodemon": {
     "description": "Simple monitor script for use during development of a Node.js app",
@@ -145182,7 +145257,7 @@
   "legacyPackages.x86_64-linux.nushellPlugins.net": {
     "description": "Nushell plugin to list system network interfaces",
     "pname": "nushell_plugin_net",
-    "version": "1.9.0"
+    "version": "1.10.0"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.polars": {
     "description": "Nushell dataframe plugin commands based on polars",
@@ -152142,7 +152217,7 @@
   "legacyPackages.x86_64-linux.oil": {
     "description": "Unix shell with JSON-compatible structured data. It's our upgrade path from bash to a better language and runtime",
     "pname": "oils-for-unix",
-    "version": "0.28.0"
+    "version": "0.29.0"
   },
   "legacyPackages.x86_64-linux.oil-buku": {
     "description": "Search-as-you-type cli frontend for the buku bookmarks manager using peco",
@@ -152157,7 +152232,7 @@
   "legacyPackages.x86_64-linux.oils-for-unix": {
     "description": "Unix shell with JSON-compatible structured data. It's our upgrade path from bash to a better language and runtime",
     "pname": "oils-for-unix",
-    "version": "0.28.0"
+    "version": "0.29.0"
   },
   "legacyPackages.x86_64-linux.oink": {
     "description": "Dynamic DNS client for Porkbun",
@@ -153004,6 +153079,11 @@
     "pname": "openclonk",
     "version": "9.0-unstable-2025-01-11"
   },
+  "legacyPackages.x86_64-linux.opencloud-desktop": {
+    "description": "Desktop Application for OpenCloud",
+    "pname": "opencloud-desktop",
+    "version": "1.0.0"
+  },
   "legacyPackages.x86_64-linux.opencollada": {
     "description": "Library for handling the COLLADA file format",
     "pname": "opencollada",
@@ -153349,6 +153429,16 @@
     "pname": "openjdk-headless",
     "version": "23.0.2+7"
   },
+  "legacyPackages.x86_64-linux.openjdk24": {
+    "description": "Open-source Java Development Kit",
+    "pname": "openjdk",
+    "version": "24+36"
+  },
+  "legacyPackages.x86_64-linux.openjdk24_headless": {
+    "description": "Open-source Java Development Kit",
+    "pname": "openjdk-headless",
+    "version": "24+36"
+  },
   "legacyPackages.x86_64-linux.openjdk8": {
     "description": "Open-source Java Development Kit",
     "pname": "openjdk",
@@ -153388,6 +153478,11 @@
     "description": "Next-generation Java client toolkit",
     "pname": "openjfx-modular-sdk",
     "version": "23.0.2+3"
+  },
+  "legacyPackages.x86_64-linux.openjfx24": {
+    "description": "Next-generation Java client toolkit",
+    "pname": "openjfx-modular-sdk",
+    "version": "24+29"
   },
   "legacyPackages.x86_64-linux.openjk": {
     "description": "Open-source engine for Star Wars Jedi Academy game",
@@ -155052,7 +155147,7 @@
   "legacyPackages.x86_64-linux.ossia-score": {
     "description": "Sequencer for audio-visual artists",
     "pname": "ossia-score",
-    "version": "3.5.1"
+    "version": "3.5.2"
   },
   "legacyPackages.x86_64-linux.osslsigncode": {
     "description": "OpenSSL based Authenticode signing for PE/MSI/Java CAB files",
@@ -155997,7 +156092,7 @@
   "legacyPackages.x86_64-linux.pantheon.appcenter": {
     "description": "Open, pay-what-you-want app store for indie developers, designed for elementary OS",
     "pname": "appcenter",
-    "version": "8.1.0"
+    "version": "8.2.0"
   },
   "legacyPackages.x86_64-linux.pantheon.contractor": {
     "description": "Desktop-wide extension service used by elementary OS",
@@ -187347,7 +187442,7 @@
   "legacyPackages.x86_64-linux.pgbackrest": {
     "description": "Reliable PostgreSQL backup & restore",
     "pname": "pgbackrest",
-    "version": "2.55.0"
+    "version": "2.55.1"
   },
   "legacyPackages.x86_64-linux.pgbadger": {
     "description": "Fast PostgreSQL Log Analyzer",
@@ -187467,7 +187562,7 @@
   "legacyPackages.x86_64-linux.pgmoneta": {
     "description": "Backup / restore solution for PostgreSQL",
     "pname": "pgmoneta",
-    "version": "0.16.0"
+    "version": "0.16.1"
   },
   "legacyPackages.x86_64-linux.pgo-client": {
     "description": "CLI client for Crunchy PostgreSQL Kubernetes Operator",
@@ -193107,12 +193202,12 @@
   "legacyPackages.x86_64-linux.plasma5Packages.libopenshot": {
     "description": "Free, open-source video editor library",
     "pname": "libopenshot",
-    "version": "0.3.3"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.plasma5Packages.libopenshot-audio": {
     "description": "High-quality sound editing library",
     "pname": "libopenshot-audio",
-    "version": "0.3.3"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.plasma5Packages.libqaccessibilityclient": {
     "description": "Accessibilty tools helper library, used e.g. by screen readers",
@@ -194793,11 +194888,6 @@
     "description": "Fast, disk space efficient package manager for JavaScript",
     "pname": "pnpm",
     "version": "10.10.0"
-  },
-  "legacyPackages.x86_64-linux.pnpm-lock-export": {
-    "description": "Utility for converting pnpm-lock.yaml to other lockfile formats",
-    "pname": "pnpm-lock-export-unstable",
-    "version": "2023-07-31"
   },
   "legacyPackages.x86_64-linux.pnpm-shell-completion": {
     "description": "Complete your pnpm command fastly",
@@ -197842,7 +197932,7 @@
   "legacyPackages.x86_64-linux.prefect": {
     "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python",
     "pname": "prefect",
-    "version": "3.3.5"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.prefetch-npm-deps": {
     "description": "Prefetch dependencies from npm (for use with `fetchNpmDeps`)",
@@ -198157,7 +198247,7 @@
   "legacyPackages.x86_64-linux.process-compose": {
     "description": "Simple and flexible scheduler and orchestrator to manage non-containerized applications",
     "pname": "process-compose",
-    "version": "1.46.0"
+    "version": "1.63.0"
   },
   "legacyPackages.x86_64-linux.process-cpp": {
     "description": "Simple convenience library for handling processes in C++11",
@@ -198317,7 +198407,7 @@
   "legacyPackages.x86_64-linux.proksi": {
     "description": "Batteries-included CDN, reverse proxy and Load Balancer using Cloudflare Pingora",
     "pname": "proksi",
-    "version": "0.5.3"
+    "version": "0.5.3-unstable-2025-05-05"
   },
   "legacyPackages.x86_64-linux.prom2json": {
     "description": "Tool to scrape a Prometheus client and dump the result as JSON",
@@ -199442,7 +199532,7 @@
   "legacyPackages.x86_64-linux.pspg": {
     "description": "Postgres Pager",
     "pname": "pspg",
-    "version": "5.8.9"
+    "version": "5.8.10"
   },
   "legacyPackages.x86_64-linux.pspp": {
     "description": "Free replacement for SPSS, a program for statistical analysis of sampled data",
@@ -200937,7 +201027,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ailment": {
     "description": "Angr Intermediate Language",
     "pname": "python3.12-ailment",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python312Packages.aio-geojson-client": {
     "description": "Python module for accessing GeoJSON feeds",
@@ -201242,7 +201332,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aiohomeconnect": {
     "description": "An asyncio client for the Home Connect API",
     "pname": "python3.12-aiohomeconnect",
-    "version": "0.16.3"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.aiohomekit": {
     "description": "Python module that implements the HomeKit protocol",
@@ -201272,7 +201362,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aiohttp-client-cache": {
     "description": "Async persistent cache for aiohttp requests",
     "pname": "python3.12-aiohttp-client-cache",
-    "version": "0.12.4"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.aiohttp-cors": {
     "description": "CORS support for aiohttp",
@@ -202172,7 +202262,7 @@
   "legacyPackages.x86_64-linux.python312Packages.angr": {
     "description": "Powerful and user-friendly binary analysis platform",
     "pname": "python3.12-angr",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python312Packages.angrcli": {
     "description": "Python modules to allow easier interactive use of angr",
@@ -202567,7 +202657,7 @@
   "legacyPackages.x86_64-linux.python312Packages.archinfo": {
     "description": "Classes with architecture-specific information",
     "pname": "python3.12-archinfo",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python312Packages.archspec": {
     "description": "Library for detecting, labeling, and reasoning about microarchitectures",
@@ -202977,7 +203067,7 @@
   "legacyPackages.x86_64-linux.python312Packages.async-lru": {
     "description": "Simple lru cache for asyncio",
     "pname": "python3.12-async-lru",
-    "version": "2.0.4"
+    "version": "2.0.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.async-modbus": {
     "description": "Library for Modbus communication",
@@ -205072,7 +205162,7 @@
   "legacyPackages.x86_64-linux.python312Packages.blosc2": {
     "description": "Python wrapper for the extremely fast Blosc2 compression library",
     "pname": "python3.12-blosc2",
-    "version": "3.0.0"
+    "version": "3.3.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.bluecurrent-api": {
     "description": "Wrapper for the Blue Current websocket api",
@@ -205267,7 +205357,7 @@
   "legacyPackages.x86_64-linux.python312Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.12-boto3-stubs",
-    "version": "1.38.8"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -205277,7 +205367,7 @@
   "legacyPackages.x86_64-linux.python312Packages.botocore-stubs": {
     "description": "Type annotations and code completion for botocore",
     "pname": "python3.12-botocore-stubs",
-    "version": "1.38.8"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.botorch": {
     "description": "Bayesian Optimization in PyTorch",
@@ -206452,7 +206542,7 @@
   "legacyPackages.x86_64-linux.python312Packages.claripy": {
     "description": "Python abstraction layer for constraint solvers",
     "pname": "python3.12-claripy",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python312Packages.class-doc": {
     "description": "Extract attributes docstrings defined in various ways",
@@ -206472,7 +206562,7 @@
   "legacyPackages.x86_64-linux.python312Packages.cle": {
     "description": "Python loader for many binary formats",
     "pname": "python3.12-cle",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python312Packages.clean-fid": {
     "description": "PyTorch - FID calculation with proper image resizing and quantization steps [CVPR 2022]",
@@ -213178,6 +213268,11 @@
     "description": "Tool to automatically convert old string literal formatting to f-strings",
     "pname": "python3.12-flynt",
     "version": "1.0.1"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.fmpy": {
+    "description": "Simulate Functional Mockup Units (FMUs) in Python",
+    "pname": "python3.12-fmpy",
+    "version": "0.3.23"
   },
   "legacyPackages.x86_64-linux.python312Packages.fnllm": {
     "description": "A function-based LLM protocol and wrapper",
@@ -219982,7 +220077,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llama-index-llms-openai": {
     "description": "LlamaIndex LLMS Integration for OpenAI",
     "pname": "python3.12-llama-index-llms-openai",
-    "version": "0.3.29"
+    "version": "0.3.33"
   },
   "legacyPackages.x86_64-linux.python312Packages.llama-index-llms-openai-like": {
     "description": "LlamaIndex LLMS Integration for OpenAI like",
@@ -223157,7 +223252,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-devicefarm": {
     "description": "Type annotations for boto3 devicefarm",
     "pname": "python3.12-mypy-boto3-devicefarm",
-    "version": "1.38.0"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-devops-guru": {
     "description": "Type annotations for boto3 devops-guru",
@@ -223222,7 +223317,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ec2": {
     "description": "Type annotations for boto3 ec2",
     "pname": "python3.12-mypy-boto3-ec2",
-    "version": "1.38.6"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ec2-instance-connect": {
     "description": "Type annotations for boto3 ec2-instance-connect",
@@ -223242,7 +223337,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ecs": {
     "description": "Type annotations for boto3 ecs",
     "pname": "python3.12-mypy-boto3-ecs",
-    "version": "1.38.3"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-efs": {
     "description": "Type annotations for boto3 efs",
@@ -223742,7 +223837,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediaconvert": {
     "description": "Type annotations for boto3 mediaconvert",
     "pname": "python3.12-mypy-boto3-mediaconvert",
-    "version": "1.38.0"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
@@ -225777,7 +225872,7 @@
   "legacyPackages.x86_64-linux.python312Packages.oelint-data": {
     "description": "Data for oelint-adv",
     "pname": "python3.12-oelint-data",
-    "version": "1.0.10"
+    "version": "1.0.11"
   },
   "legacyPackages.x86_64-linux.python312Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
@@ -231297,7 +231392,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyinstaller-hooks-contrib": {
     "description": "Community maintained hooks for PyInstaller",
     "pname": "python3.12-pyinstaller-hooks-contrib",
-    "version": "2025.2"
+    "version": "2025.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyinstaller-versionfile": {
     "description": "Create a windows version-file from a simple YAML file that can be used by PyInstaller",
@@ -231357,7 +231452,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyisy": {
     "description": "Python module to talk to ISY994 from UDI",
     "pname": "python3.12-pyisy",
-    "version": "3.4.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyituran": {
     "description": "Module to interact with the Ituran web service",
@@ -236167,7 +236262,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyvex": {
     "description": "Python interface to libVEX and VEX IR",
     "pname": "python3.12-pyvex",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyvicare": {
     "description": "Python Library to access Viessmann ViCare API",
@@ -237587,7 +237682,7 @@
   "legacyPackages.x86_64-linux.python312Packages.rerun-sdk": {
     "description": "Python bindings for `rerun` (an interactive visualization tool for stream data)",
     "pname": "python3.12-rerun-sdk",
-    "version": "0.23.1"
+    "version": "0.23.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.resampy": {
     "description": "Efficient signal resampling",
@@ -238242,7 +238337,7 @@
   "legacyPackages.x86_64-linux.python312Packages.rtfde": {
     "description": "Library for extracting encapsulated HTML and plain text content from the RTF bodies",
     "pname": "python3.12-rtfde",
-    "version": "0.1.2"
+    "version": "0.1.2.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.rtfunicode": {
     "description": "Encoder for unicode to RTF 1.5 command sequences",
@@ -244552,7 +244647,7 @@
   "legacyPackages.x86_64-linux.python312Packages.twilio": {
     "description": "Twilio API client and TwiML generator",
     "pname": "python3.12-twilio",
-    "version": "9.5.2"
+    "version": "9.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.twill": {
     "description": "Simple scripting language for Web browsing",
@@ -247242,7 +247337,7 @@
   "legacyPackages.x86_64-linux.python312Packages.url-normalize": {
     "description": "URL normalization for Python",
     "pname": "python3.12-url-normalize",
-    "version": "1.4.3"
+    "version": "2.2.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.urlextract": {
     "description": "Collects and extracts URLs from given text",
@@ -247937,7 +248032,7 @@
   "legacyPackages.x86_64-linux.python312Packages.wandb": {
     "description": "CLI and library for interacting with the Weights and Biases API",
     "pname": "python3.12-wandb",
-    "version": "0.19.8"
+    "version": "0.19.10"
   },
   "legacyPackages.x86_64-linux.python312Packages.wapiti-arsenic": {
     "description": "Asynchronous WebDriver client",
@@ -250347,7 +250442,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ailment": {
     "description": "Angr Intermediate Language",
     "pname": "python3.13-ailment",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python313Packages.aio-geojson-client": {
     "description": "Python module for accessing GeoJSON feeds",
@@ -250652,7 +250747,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiohomeconnect": {
     "description": "An asyncio client for the Home Connect API",
     "pname": "python3.13-aiohomeconnect",
-    "version": "0.16.3"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiohomekit": {
     "description": "Python module that implements the HomeKit protocol",
@@ -250682,7 +250777,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiohttp-client-cache": {
     "description": "Async persistent cache for aiohttp requests",
     "pname": "python3.13-aiohttp-client-cache",
-    "version": "0.12.4"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiohttp-cors": {
     "description": "CORS support for aiohttp",
@@ -251582,7 +251677,7 @@
   "legacyPackages.x86_64-linux.python313Packages.angr": {
     "description": "Powerful and user-friendly binary analysis platform",
     "pname": "python3.13-angr",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python313Packages.angrcli": {
     "description": "Python modules to allow easier interactive use of angr",
@@ -251972,7 +252067,7 @@
   "legacyPackages.x86_64-linux.python313Packages.archinfo": {
     "description": "Classes with architecture-specific information",
     "pname": "python3.13-archinfo",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python313Packages.archspec": {
     "description": "Library for detecting, labeling, and reasoning about microarchitectures",
@@ -252382,7 +252477,7 @@
   "legacyPackages.x86_64-linux.python313Packages.async-lru": {
     "description": "Simple lru cache for asyncio",
     "pname": "python3.13-async-lru",
-    "version": "2.0.4"
+    "version": "2.0.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.async-modbus": {
     "description": "Library for Modbus communication",
@@ -254482,7 +254577,7 @@
   "legacyPackages.x86_64-linux.python313Packages.blosc2": {
     "description": "Python wrapper for the extremely fast Blosc2 compression library",
     "pname": "python3.13-blosc2",
-    "version": "3.0.0"
+    "version": "3.3.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.bluecurrent-api": {
     "description": "Wrapper for the Blue Current websocket api",
@@ -254677,7 +254772,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.38.8"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -254687,7 +254782,7 @@
   "legacyPackages.x86_64-linux.python313Packages.botocore-stubs": {
     "description": "Type annotations and code completion for botocore",
     "pname": "python3.13-botocore-stubs",
-    "version": "1.38.8"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.botorch": {
     "description": "Bayesian Optimization in PyTorch",
@@ -255862,7 +255957,7 @@
   "legacyPackages.x86_64-linux.python313Packages.claripy": {
     "description": "Python abstraction layer for constraint solvers",
     "pname": "python3.13-claripy",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python313Packages.class-doc": {
     "description": "Extract attributes docstrings defined in various ways",
@@ -255882,7 +255977,7 @@
   "legacyPackages.x86_64-linux.python313Packages.cle": {
     "description": "Python loader for many binary formats",
     "pname": "python3.13-cle",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python313Packages.clean-fid": {
     "description": "PyTorch - FID calculation with proper image resizing and quantization steps [CVPR 2022]",
@@ -262588,6 +262683,11 @@
     "description": "Tool to automatically convert old string literal formatting to f-strings",
     "pname": "python3.13-flynt",
     "version": "1.0.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.fmpy": {
+    "description": "Simulate Functional Mockup Units (FMUs) in Python",
+    "pname": "python3.13-fmpy",
+    "version": "0.3.23"
   },
   "legacyPackages.x86_64-linux.python313Packages.fnllm": {
     "description": "A function-based LLM protocol and wrapper",
@@ -269392,7 +269492,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llama-index-llms-openai": {
     "description": "LlamaIndex LLMS Integration for OpenAI",
     "pname": "python3.13-llama-index-llms-openai",
-    "version": "0.3.29"
+    "version": "0.3.33"
   },
   "legacyPackages.x86_64-linux.python313Packages.llama-index-llms-openai-like": {
     "description": "LlamaIndex LLMS Integration for OpenAI like",
@@ -272567,7 +272667,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-devicefarm": {
     "description": "Type annotations for boto3 devicefarm",
     "pname": "python3.13-mypy-boto3-devicefarm",
-    "version": "1.38.0"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-devops-guru": {
     "description": "Type annotations for boto3 devops-guru",
@@ -272632,7 +272732,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ec2": {
     "description": "Type annotations for boto3 ec2",
     "pname": "python3.13-mypy-boto3-ec2",
-    "version": "1.38.6"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ec2-instance-connect": {
     "description": "Type annotations for boto3 ec2-instance-connect",
@@ -272652,7 +272752,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ecs": {
     "description": "Type annotations for boto3 ecs",
     "pname": "python3.13-mypy-boto3-ecs",
-    "version": "1.38.3"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-efs": {
     "description": "Type annotations for boto3 efs",
@@ -273152,7 +273252,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediaconvert": {
     "description": "Type annotations for boto3 mediaconvert",
     "pname": "python3.13-mypy-boto3-mediaconvert",
-    "version": "1.38.0"
+    "version": "1.38.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
@@ -275187,7 +275287,7 @@
   "legacyPackages.x86_64-linux.python313Packages.oelint-data": {
     "description": "Data for oelint-adv",
     "pname": "python3.13-oelint-data",
-    "version": "1.0.10"
+    "version": "1.0.11"
   },
   "legacyPackages.x86_64-linux.python313Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
@@ -280707,7 +280807,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyinstaller-hooks-contrib": {
     "description": "Community maintained hooks for PyInstaller",
     "pname": "python3.13-pyinstaller-hooks-contrib",
-    "version": "2025.2"
+    "version": "2025.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyinstaller-versionfile": {
     "description": "Create a windows version-file from a simple YAML file that can be used by PyInstaller",
@@ -280767,7 +280867,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyisy": {
     "description": "Python module to talk to ISY994 from UDI",
     "pname": "python3.13-pyisy",
-    "version": "3.4.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyituran": {
     "description": "Module to interact with the Ituran web service",
@@ -285577,7 +285677,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyvex": {
     "description": "Python interface to libVEX and VEX IR",
     "pname": "python3.13-pyvex",
-    "version": "9.2.152"
+    "version": "9.2.153"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyvicare": {
     "description": "Python Library to access Viessmann ViCare API",
@@ -286997,7 +287097,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rerun-sdk": {
     "description": "Python bindings for `rerun` (an interactive visualization tool for stream data)",
     "pname": "python3.13-rerun-sdk",
-    "version": "0.23.1"
+    "version": "0.23.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.resampy": {
     "description": "Efficient signal resampling",
@@ -287652,7 +287752,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rtfde": {
     "description": "Library for extracting encapsulated HTML and plain text content from the RTF bodies",
     "pname": "python3.13-rtfde",
-    "version": "0.1.2"
+    "version": "0.1.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.rtfunicode": {
     "description": "Encoder for unicode to RTF 1.5 command sequences",
@@ -293992,7 +294092,7 @@
   "legacyPackages.x86_64-linux.python313Packages.twilio": {
     "description": "Twilio API client and TwiML generator",
     "pname": "python3.13-twilio",
-    "version": "9.5.2"
+    "version": "9.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.twill": {
     "description": "Simple scripting language for Web browsing",
@@ -296682,7 +296782,7 @@
   "legacyPackages.x86_64-linux.python313Packages.url-normalize": {
     "description": "URL normalization for Python",
     "pname": "python3.13-url-normalize",
-    "version": "1.4.3"
+    "version": "2.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.urlextract": {
     "description": "Collects and extracts URLs from given text",
@@ -297377,7 +297477,7 @@
   "legacyPackages.x86_64-linux.python313Packages.wandb": {
     "description": "CLI and library for interacting with the Weights and Biases API",
     "pname": "python3.13-wandb",
-    "version": "0.19.8"
+    "version": "0.19.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.wapiti-arsenic": {
     "description": "Asynchronous WebDriver client",
@@ -301152,12 +301252,12 @@
   "legacyPackages.x86_64-linux.quarto": {
     "description": "Open-source scientific and technical publishing system built on Pandoc",
     "pname": "quarto",
-    "version": "1.7.29"
+    "version": "1.7.30"
   },
   "legacyPackages.x86_64-linux.quartoMinimal": {
     "description": "Open-source scientific and technical publishing system built on Pandoc",
     "pname": "quarto",
-    "version": "1.7.29"
+    "version": "1.7.30"
   },
   "legacyPackages.x86_64-linux.quartus-prime-lite": {
     "description": "FPGA design and simulation software",
@@ -303332,7 +303432,7 @@
   "legacyPackages.x86_64-linux.rerun": {
     "description": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate.  Built in Rust using egui",
     "pname": "rerun",
-    "version": "0.23.1"
+    "version": "0.23.2"
   },
   "legacyPackages.x86_64-linux.rescript-language-server": {
     "description": "ReScript Language Server",
@@ -303687,7 +303787,7 @@
   "legacyPackages.x86_64-linux.rgbds": {
     "description": "Free assembler/linker package for the Game Boy and Game Boy Color",
     "pname": "rgbds",
-    "version": "0.9.1"
+    "version": "0.9.2"
   },
   "legacyPackages.x86_64-linux.rgp": {
     "description": "Tool from AMD that allows for deep inspection of GPU workloads",
@@ -306179,6 +306279,11 @@
     "pname": "rpcemu",
     "version": "0.9.5"
   },
+  "legacyPackages.x86_64-linux.rpclib": {
+    "description": "RPC library for C++, providing both a client and server implementation",
+    "pname": "rpclib",
+    "version": "2.3.0"
+  },
   "legacyPackages.x86_64-linux.rpcs3": {
     "description": "PS3 emulator/debugger",
     "pname": "rpcs3",
@@ -306632,7 +306737,7 @@
   "legacyPackages.x86_64-linux.rtrtr": {
     "description": "RPKI data proxy",
     "pname": "rtrtr",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.rtss": {
     "description": "Annotate output with relative durations between lines",
@@ -317342,12 +317447,12 @@
   "legacyPackages.x86_64-linux.rust-analyzer": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer",
-    "version": "2025-04-28"
+    "version": "2025-05-05"
   },
   "legacyPackages.x86_64-linux.rust-analyzer-unwrapped": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer-unwrapped",
-    "version": "2025-04-28"
+    "version": "2025-05-05"
   },
   "legacyPackages.x86_64-linux.rust-audit-info": {
     "description": "Command-line tool to extract the dependency trees embedded in binaries by cargo-auditable",
@@ -342092,7 +342197,7 @@
   "legacyPackages.x86_64-linux.scalafmt": {
     "description": "Opinionated code formatter for Scala",
     "pname": "scalafmt",
-    "version": "3.9.4"
+    "version": "3.9.6"
   },
   "legacyPackages.x86_64-linux.scalapack": {
     "description": "Library of high-performance linear algebra routines for parallel distributed memory machines",
@@ -344957,7 +345062,7 @@
   "legacyPackages.x86_64-linux.skim": {
     "description": "Command-line fuzzy finder written in Rust",
     "pname": "skim",
-    "version": "0.16.2"
+    "version": "0.17.2"
   },
   "legacyPackages.x86_64-linux.skimpdf": {
     "description": "Skim is a PDF reader and note-taker for OS X",
@@ -345767,7 +345872,7 @@
   "legacyPackages.x86_64-linux.snipe-it": {
     "description": "Free open source IT asset/license management system",
     "pname": "snipe-it",
-    "version": "8.1.0"
+    "version": "8.1.2"
   },
   "legacyPackages.x86_64-linux.snipes": {
     "description": "Modern port of the classic 1982 text-mode game Snipes",
@@ -349082,7 +349187,7 @@
   "legacyPackages.x86_64-linux.stripe-cli": {
     "description": "Command-line tool for Stripe",
     "pname": "stripe-cli",
-    "version": "1.26.1"
+    "version": "1.27.0"
   },
   "legacyPackages.x86_64-linux.strongswan": {
     "description": "OpenSource IPsec-based VPN Solution",
@@ -353187,7 +353292,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.infoblox": {
     "description": "",
     "pname": "terraform-provider-infoblox",
-    "version": "2.9.0"
+    "version": "2.10.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.jetstream": {
     "description": "",
@@ -353422,7 +353527,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.remote": {
     "description": "",
     "pname": "terraform-provider-remote",
-    "version": "0.1.3"
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.rootly": {
     "description": "",
@@ -353467,7 +353572,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.signalfx": {
     "description": "",
     "pname": "terraform-provider-signalfx",
-    "version": "9.9.0"
+    "version": "9.13.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.skytap": {
     "description": "",
@@ -377202,7 +377307,7 @@
   "legacyPackages.x86_64-linux.tfupdate": {
     "description": "Update version constraints in your Terraform configurations",
     "pname": "tfupdate",
-    "version": "0.8.5"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.tg": {
     "description": "Terminal client for telegram",
@@ -378232,7 +378337,7 @@
   "legacyPackages.x86_64-linux.tlrc": {
     "description": "Official tldr client written in Rust",
     "pname": "tlrc",
-    "version": "1.11.0"
+    "version": "1.11.1"
   },
   "legacyPackages.x86_64-linux.tlsclient": {
     "description": "tlsclient command line utility",
@@ -381162,7 +381267,7 @@
   "legacyPackages.x86_64-linux.turso-cli": {
     "description": "This is the command line interface (CLI) to Turso",
     "pname": "turso-cli",
-    "version": "1.0.7"
+    "version": "1.0.9"
   },
   "legacyPackages.x86_64-linux.turtle": {
     "description": "Graphical interface for version control intended to run on gnome and nautilus",
@@ -394627,7 +394732,7 @@
   "legacyPackages.x86_64-linux.ucx": {
     "description": "Unified Communication X library",
     "pname": "ucx",
-    "version": "1.18.0"
+    "version": "1.18.1"
   },
   "legacyPackages.x86_64-linux.uddup": {
     "description": "Tool for de-duplication URLs",
@@ -395287,7 +395392,7 @@
   "legacyPackages.x86_64-linux.undetected-chromedriver": {
     "description": "Custom Selenium ChromeDriver that passes all bot mitigation systems",
     "pname": "undetected-chromedriver",
-    "version": "136.0.7103.59"
+    "version": "136.0.7103.92"
   },
   "legacyPackages.x86_64-linux.undistract-me": {
     "description": "Notifies you when long-running terminal commands complete",
@@ -400702,7 +400807,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.idris2-nvim": {
     "description": "",
     "pname": "vimplugin-idris2-nvim",
-    "version": "2024-11-28"
+    "version": "2025-05-04"
   },
   "legacyPackages.x86_64-linux.vimPlugins.idris2-vim": {
     "description": "",
@@ -401248,6 +401353,11 @@
     "description": "",
     "pname": "vimplugin-luatab.nvim",
     "version": "2025-03-21"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.luau-lsp-nvim": {
+    "description": "",
+    "pname": "vimplugin-luau-lsp.nvim",
+    "version": "2025-02-01"
   },
   "legacyPackages.x86_64-linux.vimPlugins.lush-nvim": {
     "description": "Define Neovim themes as a DSL in lua, with real-time feedback.",
@@ -405267,7 +405377,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.skim": {
     "description": "",
     "pname": "vimplugin-skim",
-    "version": "0.16.2"
+    "version": "0.17.2"
   },
   "legacyPackages.x86_64-linux.vimPlugins.skim-vim": {
     "description": "",
@@ -409807,7 +409917,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.betterthantomorrow.calva": {
     "description": "",
     "pname": "vscode-extension-betterthantomorrow-calva",
-    "version": "2.0.502"
+    "version": "2.0.508"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.bierner.comment-tagged-templates": {
     "description": "VS Code extension that adds basic syntax highlighting for JavaScript and TypeScript tagged template strings using language identifier comments",
@@ -410757,7 +410867,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.mongodb.mongodb-vscode": {
     "description": "An extension for VS Code that makes it easy to work with your data in MongoDB",
     "pname": "vscode-extension-mongodb-mongodb-vscode",
-    "version": "1.13.0"
+    "version": "1.13.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.moshfeu.compare-folders": {
     "description": "Extension allows you to compare folders, show the diffs in a list and present diff in a splitted view side by side",
@@ -411222,7 +411332,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.rooveterinaryinc.roo-cline": {
     "description": "AI-powered autonomous coding agent that lives in your editor",
     "pname": "vscode-extension-RooVeterinaryInc-roo-cline",
-    "version": "3.14.3"
+    "version": "3.15.4"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.rubbersheep.gi": {
     "description": "",
@@ -413357,7 +413467,7 @@
   "legacyPackages.x86_64-linux.werf": {
     "description": "GitOps delivery tool",
     "pname": "werf",
-    "version": "2.35.4"
+    "version": "2.35.8"
   },
   "legacyPackages.x86_64-linux.wesher": {
     "description": "Wireguard overlay mesh network manager",
@@ -413607,7 +413717,7 @@
   "legacyPackages.x86_64-linux.whistle": {
     "description": "HTTP, HTTP2, HTTPS, Websocket debugging proxy",
     "pname": "whistle",
-    "version": "2.9.97"
+    "version": "2.9.98"
   },
   "legacyPackages.x86_64-linux.whitebophir": {
     "description": "Online collaborative whiteboard that is simple, free, easy to use and to deploy",
@@ -413862,7 +413972,7 @@
   "legacyPackages.x86_64-linux.windsend-rs": {
     "description": "Quickly and securely sync clipboard, transfer files and directories between devices",
     "pname": "windsend-rs",
-    "version": "1.5.3"
+    "version": "1.5.4"
   },
   "legacyPackages.x86_64-linux.windsurf": {
     "description": "Agentic IDE powered by AI Flow paradigm",
@@ -414427,7 +414537,7 @@
   "legacyPackages.x86_64-linux.wl-mirror": {
     "description": "Simple Wayland output mirror client",
     "pname": "wl-mirror",
-    "version": "0.18.1"
+    "version": "0.18.2"
   },
   "legacyPackages.x86_64-linux.wl-restart": {
     "description": "Simple tool that restarts your compositor when it crashes",
@@ -420002,7 +420112,7 @@
   "legacyPackages.x86_64-linux.ytdl-sub": {
     "description": "Lightweight tool to automate downloading and metadata generation with yt-dlp",
     "pname": "ytdl-sub",
-    "version": "2025.04.18"
+    "version": "2025.05.05"
   },
   "legacyPackages.x86_64-linux.ytdownloader": {
     "description": "Modern GUI video and audio downloader",
@@ -420547,7 +420657,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "0.184.8"
+    "version": "0.184.10"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
@@ -421207,7 +421317,7 @@
   "legacyPackages.x86_64-linux.zoekt": {
     "description": "Fast trigram based code search",
     "pname": "zoekt",
-    "version": "3.7.2-2-unstable-2025-04-22"
+    "version": "3.7.2-2-unstable-2025-05-06"
   },
   "legacyPackages.x86_64-linux.zola": {
     "description": "Fast static site generator with everything built-in",
@@ -421688,6 +421798,11 @@
     "description": "Certified builds of OpenJDK",
     "pname": "zulu-ca-jdk",
     "version": "23.0.0"
+  },
+  "legacyPackages.x86_64-linux.zulu24": {
+    "description": "Certified builds of OpenJDK",
+    "pname": "zulu-ca-jdk",
+    "version": "24.0.0"
   },
   "legacyPackages.x86_64-linux.zulu8": {
     "description": "Certified builds of OpenJDK",
