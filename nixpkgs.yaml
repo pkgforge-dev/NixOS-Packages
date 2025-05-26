@@ -3161,7 +3161,7 @@ legacyPackages.x86_64-linux.alire:
 legacyPackages.x86_64-linux.alist:
   description: File list/WebDAV program that supports multiple storages
   pname: alist
-  version: 3.44.0
+  version: 3.45.0
 legacyPackages.x86_64-linux.alisthelper:
   description: Designed to simplify the use of the desktop version of alist
   pname: alisthelper
@@ -21277,7 +21277,7 @@ legacyPackages.x86_64-linux.convos:
 legacyPackages.x86_64-linux.cook-cli:
   description: Suite of tools to create shopping lists and maintain recipes
   pname: cook-cli
-  version: 0.10.0
+  version: 0.12.1
 legacyPackages.x86_64-linux.cook-framework:
   description: Wordlist generator, splitter, merger, finder, saver for security researchers, bug bounty and hackers
   pname: cook-framework
@@ -23016,8 +23016,8 @@ legacyPackages.x86_64-linux.ctypes_sh:
   version: "1.2"
 legacyPackages.x86_64-linux.cubeb:
   description: Cross platform audio library
-  pname: cubeb-unstable
-  version: "2022-10-18"
+  pname: cubeb
+  version: 0-unstable-2025-04-02
 legacyPackages.x86_64-linux.cubicle:
   description: Open source model checker for verifying safety properties of array-based systems
   pname: cubicle
@@ -34241,7 +34241,7 @@ legacyPackages.x86_64-linux.flexcpp:
 legacyPackages.x86_64-linux.flexget:
   description: Multipurpose automation tool for all of your media
   pname: flexget
-  version: 3.15.42
+  version: 3.16.1
 legacyPackages.x86_64-linux.flexibee:
   description: Client for an accouting economic system
   pname: flexibee
@@ -37001,7 +37001,7 @@ legacyPackages.x86_64-linux.gensgs:
 legacyPackages.x86_64-linux.gensio:
   description: General Stream I/O
   pname: gensio
-  version: 2.8.14
+  version: 2.8.15
 legacyPackages.x86_64-linux.gensort:
   description: Generate and validate records for the sorting benchmark
   pname: gensort
@@ -38666,10 +38666,6 @@ legacyPackages.x86_64-linux.giza:
   description: Scientific plotting library for C/Fortran
   pname: giza
   version: 1.5.0
-legacyPackages.x86_64-linux.gjay:
-  description: Generates playlists such that each song sounds good following the previous song
-  pname: gjay
-  version: 0.3.2
 legacyPackages.x86_64-linux.gjo:
   description: Small utility to create JSON objects
   pname: gjo
@@ -45205,15 +45201,15 @@ legacyPackages.x86_64-linux.gpxlab:
 legacyPackages.x86_64-linux.gpxsee:
   description: GPS log file viewer and analyzer
   pname: gpxsee
-  version: "13.42"
+  version: "13.43"
 legacyPackages.x86_64-linux.gpxsee-qt5:
   description: GPS log file viewer and analyzer
   pname: gpxsee
-  version: "13.42"
+  version: "13.43"
 legacyPackages.x86_64-linux.gpxsee-qt6:
   description: GPS log file viewer and analyzer
   pname: gpxsee
-  version: "13.42"
+  version: "13.43"
 legacyPackages.x86_64-linux.gpython:
   description: Python interpreter written in Go
   pname: gpython
@@ -54641,7 +54637,7 @@ legacyPackages.x86_64-linux.id3v2:
 legacyPackages.x86_64-linux.ida-free:
   description: Freeware version of the world's smartest and most feature-full disassembler
   pname: ida-free
-  version: 9.0sp1
+  version: "9.1"
 legacyPackages.x86_64-linux.idasen:
   description: Python API and CLI for the ikea IDÅSEN desk
   pname: idasen
@@ -55085,11 +55081,11 @@ legacyPackages.x86_64-linux.immersed-vr:
 legacyPackages.x86_64-linux.immich:
   description: Self-hosted photo and video backup solution
   pname: immich
-  version: 1.132.3
+  version: 1.133.1
 legacyPackages.x86_64-linux.immich-cli:
   description: Self-hosted photo and video backup solution (command line interface)
   pname: immich-cli
-  version: 2.2.65
+  version: 2.2.67
 legacyPackages.x86_64-linux.immich-go:
   description: Immich client tool for bulk-uploads
   pname: immich-go
@@ -55097,7 +55093,7 @@ legacyPackages.x86_64-linux.immich-go:
 legacyPackages.x86_64-linux.immich-machine-learning:
   description: Self-hosted photo and video backup solution (machine learning component)
   pname: immich-machine-learning
-  version: 1.132.3
+  version: 1.133.1
 legacyPackages.x86_64-linux.immich-public-proxy:
   description: Share your Immich photos and albums in a safe way without exposing your Immich instance to the public
   pname: immich-public-proxy
@@ -56937,7 +56933,7 @@ legacyPackages.x86_64-linux.jasmin-compiler:
 legacyPackages.x86_64-linux.jasp-desktop:
   description: Complete statistical package for both Bayesian and Frequentist statistical methods
   pname: jasp-desktop
-  version: 0.19.1
+  version: 0.19.3
 legacyPackages.x86_64-linux.jasper:
   description: Image processing/coding toolkit
   pname: jasper
@@ -65813,7 +65809,7 @@ legacyPackages.x86_64-linux.libinotify-kqueue:
 legacyPackages.x86_64-linux.libinput:
   description: Handles input devices in Wayland compositors and provides a generic X.Org input driver
   pname: libinput
-  version: 1.27.1
+  version: 1.28.1
 legacyPackages.x86_64-linux.libinput-gestures:
   description: Gesture mapper for libinput
   pname: libinput-gestures
@@ -102633,15 +102629,15 @@ legacyPackages.x86_64-linux.lomiri.lomiri-sounds:
 legacyPackages.x86_64-linux.lomiri.lomiri-system-settings:
   description: System Settings application for Lomiri (wrapped)
   pname: lomiri-system-settings
-  version: 1.3.0
+  version: 1.3.2
 legacyPackages.x86_64-linux.lomiri.lomiri-system-settings-security-privacy:
   description: System Settings application for Lomiri
   pname: lomiri-system-settings-unwrapped
-  version: 1.3.0
+  version: 1.3.2
 legacyPackages.x86_64-linux.lomiri.lomiri-system-settings-unwrapped:
   description: System Settings application for Lomiri
   pname: lomiri-system-settings-unwrapped
-  version: 1.3.0
+  version: 1.3.2
 legacyPackages.x86_64-linux.lomiri.lomiri-telephony-service:
   description: Backend dispatcher service for various mobile phone related operations
   pname: lomiri-telephony-service
@@ -112557,7 +112553,7 @@ legacyPackages.x86_64-linux.mononoki:
 legacyPackages.x86_64-linux.monophony:
   description: Linux app for streaming music from YouTube
   pname: monophony
-  version: 2.15.0
+  version: 3.3.3
 legacyPackages.x86_64-linux.monosat:
   description: SMT solver for Monotonic Theories
   pname: monosat
@@ -116850,6 +116846,10 @@ legacyPackages.x86_64-linux.nixVersions.nix_2_28:
   description: Powerful package manager that makes package management reliable and reproducible
   pname: nix
   version: 2.28.3
+legacyPackages.x86_64-linux.nixVersions.nix_2_29:
+  description: The Nix package manager
+  pname: nix
+  version: 2.29.0
 legacyPackages.x86_64-linux.nixVersions.nix_2_3:
   description: Powerful package manager that makes package management reliable and reproducible
   pname: nix
@@ -124261,15 +124261,15 @@ legacyPackages.x86_64-linux.olivetin:
 legacyPackages.x86_64-linux.ollama:
   description: Get up and running with large language models locally
   pname: ollama
-  version: 0.7.0
+  version: 0.7.1
 legacyPackages.x86_64-linux.ollama-cuda:
   description: Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration
   pname: ollama
-  version: 0.7.0
+  version: 0.7.1
 legacyPackages.x86_64-linux.ollama-rocm:
   description: Get up and running with large language models locally, using ROCm for AMD GPU acceleration
   pname: ollama
-  version: 0.7.0
+  version: 0.7.1
 legacyPackages.x86_64-linux.olm:
   description: Implements double cryptographic ratchet and Megolm ratchet
   pname: olm
@@ -127905,7 +127905,7 @@ legacyPackages.x86_64-linux.parcellite:
 legacyPackages.x86_64-linux.paretosecurity:
   description: Pareto Security agent makes sure your laptop is correctly configured for security.
   pname: paretosecurity
-  version: 0.2.17
+  version: 0.2.23
 legacyPackages.x86_64-linux.pari:
   description: Computer algebra system for high-performance number theory computations
   pname: pari
@@ -155509,7 +155509,7 @@ legacyPackages.x86_64-linux.pixelnuke:
 legacyPackages.x86_64-linux.pixelorama:
   description: Free & open-source 2D sprite editor, made with the Godot Engine!
   pname: pixelorama
-  version: "1.1"
+  version: 1.1.1
 legacyPackages.x86_64-linux.pixeluvo:
   description: Beautifully Designed Image and Photo Editor for Windows and Linux
   pname: pixeluvo
@@ -160565,7 +160565,7 @@ legacyPackages.x86_64-linux.postlight-parser:
 legacyPackages.x86_64-linux.postman:
   description: API Development Environment
   pname: postman
-  version: 11.44.0
+  version: 11.46.6
 legacyPackages.x86_64-linux.postmoogle:
   description: Postmoogle is Matrix <-> Email bridge in a form of an SMTP server
   pname: postmoogle
@@ -163460,8 +163460,8 @@ legacyPackages.x86_64-linux.python312Packages.aiodns:
   version: 3.2.0
 legacyPackages.x86_64-linux.python312Packages.aiodocker:
   description: Docker API client for asyncio
-  pname: python3.12-aiodocker-unstable
-  version: "2022-01-20"
+  pname: python3.12-aiodocker
+  version: 0.24.0
 legacyPackages.x86_64-linux.python312Packages.aiodukeenergy:
   description: Asyncio Duke Energy
   pname: python3.12-aiodukeenergy
@@ -167289,7 +167289,7 @@ legacyPackages.x86_64-linux.python312Packages.case-converter:
 legacyPackages.x86_64-linux.python312Packages.cashaddress:
   description: Python tool for convert bitcoin cash legacy addresses
   pname: python3.12-cashaddress
-  version: 1.0.6-unstable-2015-05-19
+  version: 1.0.6-unstable-2019-05-15
 legacyPackages.x86_64-linux.python312Packages.cashews:
   description: Cache tools with async power
   pname: python3.12-cashews
@@ -168445,7 +168445,7 @@ legacyPackages.x86_64-linux.python312Packages.contextlib2:
 legacyPackages.x86_64-linux.python312Packages.contexttimer:
   description: Timer as a context manager
   pname: python3.12-contexttimer-unstable
-  version: "2019-03-30"
+  version: "2024-09-05"
 legacyPackages.x86_64-linux.python312Packages.contourpy:
   description: Python library for calculating contours in 2D quadrilateral grids
   pname: python3.12-contourpy
@@ -170897,7 +170897,7 @@ legacyPackages.x86_64-linux.python312Packages.docling:
 legacyPackages.x86_64-linux.python312Packages.docling-core:
   description: Python library to define and validate data types in Docling
   pname: python3.12-docling-core
-  version: 2.30.1
+  version: 2.31.2
 legacyPackages.x86_64-linux.python312Packages.docling-ibm-models:
   description: Docling IBM models
   pname: python3.12-docling-ibm-models
@@ -171545,7 +171545,7 @@ legacyPackages.x86_64-linux.python312Packages.eggdeps:
 legacyPackages.x86_64-linux.python312Packages.eheimdigital:
   description: Offers a Python API for the EHEIM Digital smart aquarium devices
   pname: python3.12-eheimdigital
-  version: 1.1.0
+  version: 1.2.0
 legacyPackages.x86_64-linux.python312Packages.eigenpy:
   description: Bindings between Numpy and Eigen using Boost.Python
   pname: python3.12-eigenpy
@@ -177588,8 +177588,8 @@ legacyPackages.x86_64-linux.python312Packages.kicad:
   version: 9.0.2
 legacyPackages.x86_64-linux.python312Packages.kinparse:
   description: Parser for KiCad EESCHEMA netlists
-  pname: python3.12-kinparse-unstable
-  version: "2019-12-18"
+  pname: python3.12-kinparse
+  version: 1.2.3
 legacyPackages.x86_64-linux.python312Packages.kiss-headers:
   description: Python package for HTTP/1.1 style headers
   pname: python3.12-kiss-headers
@@ -177606,10 +177606,6 @@ legacyPackages.x86_64-linux.python312Packages.kivy-garden:
   description: Kivy garden installation script, split into its own package for convenient use in buildozer
   pname: python3.12-kivy-garden
   version: 0.1.5
-legacyPackages.x86_64-linux.python312Packages.kivy-garden-modernmenu:
-  description: Stylized menu system for Kivy
-  pname: python3.12-kivy-garden-modernmenu
-  version: 0-unstable-2019-12-10
 legacyPackages.x86_64-linux.python312Packages.kiwiki-client:
   description: Module to interact with the KIWI.KI API
   pname: python3.12-kiwiki-client
@@ -179501,7 +179497,7 @@ legacyPackages.x86_64-linux.python312Packages.mcp:
 legacyPackages.x86_64-linux.python312Packages.mcpadapt:
   description: MCP servers tool
   pname: python3.12-mcpadapt
-  version: 0.1.5
+  version: 0.1.9
 legacyPackages.x86_64-linux.python312Packages.mcstatus:
   description: Python library for checking the status of Minecraft servers
   pname: python3.12-mcstatus
@@ -180573,7 +180569,7 @@ legacyPackages.x86_64-linux.python312Packages.mpmath:
 legacyPackages.x86_64-linux.python312Packages.mpris-server:
   description: Publish a MediaPlayer2 MPRIS device to D-Bus
   pname: python3.12-mpris-server
-  version: 0.4.2
+  version: 0.9.6
 legacyPackages.x86_64-linux.python312Packages.mpv:
   description: Python interface to the mpv media player
   pname: python3.12-mpv
@@ -180786,10 +180782,6 @@ legacyPackages.x86_64-linux.python312Packages.musicbrainzngs:
   description: Python bindings for musicbrainz NGS webservice
   pname: python3.12-musicbrainzngs
   version: 0.7.1
-legacyPackages.x86_64-linux.python312Packages.mutag:
-  description: Script to change email tags in a mu indexed maildir
-  pname: python3.12-mutag
-  version: 0.0.2-unstable-2018-08-20
 legacyPackages.x86_64-linux.python312Packages.mutagen:
   description: Python module for handling audio metadata
   pname: python3.12-mutagen
@@ -185966,10 +185958,6 @@ legacyPackages.x86_64-linux.python312Packages.psygnal:
   description: Implementation of Qt Signals
   pname: python3.12-psygnal
   version: 0.13.0
-legacyPackages.x86_64-linux.python312Packages.ptable:
-  description: Simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables
-  pname: python3.12-ptable-unstable
-  version: "2019-06-14"
 legacyPackages.x86_64-linux.python312Packages.ptest:
   description: Test classes and test cases using decorators, execute test cases by command line, and get clear reports
   pname: python3.12-ptest
@@ -187314,10 +187302,6 @@ legacyPackages.x86_64-linux.python312Packages.pyfakewebcam:
   description: Library for writing RGB frames to a fake webcam device on Linux
   pname: python3.12-pyfakewebcam
   version: 0.1.0
-legacyPackages.x86_64-linux.python312Packages.pyfantom:
-  description: Wrapper for the LEGO Mindstorms Fantom Driver
-  pname: python3.12-pyfantom-unstable
-  version: "2013-12-18"
 legacyPackages.x86_64-linux.python312Packages.pyfatfs:
   description: Python based FAT12/FAT16/FAT32 implementation with VFAT support
   pname: python3.12-pyfatfs
@@ -190589,7 +190573,7 @@ legacyPackages.x86_64-linux.python312Packages.python-dotenv:
 legacyPackages.x86_64-linux.python312Packages.python-ecobee-api:
   description: Python API for talking to Ecobee thermostats
   pname: python3.12-python-ecobee-api
-  version: 0.2.20
+  version: 0.3.0
 legacyPackages.x86_64-linux.python312Packages.python-editor:
   description: Library that provides the `editor` module for programmatically
   pname: python3.12-python-editor
@@ -194769,7 +194753,7 @@ legacyPackages.x86_64-linux.python312Packages.smoke-zephyr:
 legacyPackages.x86_64-linux.python312Packages.smolagents:
   description: Barebones library for agents
   pname: python3.12-smolagents
-  version: 1.13.0
+  version: 1.16.1
 legacyPackages.x86_64-linux.python312Packages.smp:
   description: Simple Management Protocol (SMP) for remotely managing MCU firmware
   pname: python3.12-smp
@@ -198201,7 +198185,7 @@ legacyPackages.x86_64-linux.python312Packages.trie:
 legacyPackages.x86_64-linux.python312Packages.trimesh:
   description: Python library for loading and using triangular meshes
   pname: python3.12-trimesh
-  version: 4.6.9
+  version: 4.6.10
 legacyPackages.x86_64-linux.python312Packages.trino-python-client:
   description: Client for the Trino distributed SQL Engine
   pname: python3.12-trino-python-client
@@ -203200,8 +203184,8 @@ legacyPackages.x86_64-linux.python313Packages.aiodns:
   version: 3.2.0
 legacyPackages.x86_64-linux.python313Packages.aiodocker:
   description: Docker API client for asyncio
-  pname: python3.13-aiodocker-unstable
-  version: "2022-01-20"
+  pname: python3.13-aiodocker
+  version: 0.24.0
 legacyPackages.x86_64-linux.python313Packages.aiodukeenergy:
   description: Asyncio Duke Energy
   pname: python3.13-aiodukeenergy
@@ -207029,7 +207013,7 @@ legacyPackages.x86_64-linux.python313Packages.case-converter:
 legacyPackages.x86_64-linux.python313Packages.cashaddress:
   description: Python tool for convert bitcoin cash legacy addresses
   pname: python3.13-cashaddress
-  version: 1.0.6-unstable-2015-05-19
+  version: 1.0.6-unstable-2019-05-15
 legacyPackages.x86_64-linux.python313Packages.cashews:
   description: Cache tools with async power
   pname: python3.13-cashews
@@ -208185,7 +208169,7 @@ legacyPackages.x86_64-linux.python313Packages.contextlib2:
 legacyPackages.x86_64-linux.python313Packages.contexttimer:
   description: Timer as a context manager
   pname: python3.13-contexttimer-unstable
-  version: "2019-03-30"
+  version: "2024-09-05"
 legacyPackages.x86_64-linux.python313Packages.contourpy:
   description: Python library for calculating contours in 2D quadrilateral grids
   pname: python3.13-contourpy
@@ -210637,7 +210621,7 @@ legacyPackages.x86_64-linux.python313Packages.docling:
 legacyPackages.x86_64-linux.python313Packages.docling-core:
   description: Python library to define and validate data types in Docling
   pname: python3.13-docling-core
-  version: 2.30.1
+  version: 2.31.2
 legacyPackages.x86_64-linux.python313Packages.docling-ibm-models:
   description: Docling IBM models
   pname: python3.13-docling-ibm-models
@@ -211285,7 +211269,7 @@ legacyPackages.x86_64-linux.python313Packages.eggdeps:
 legacyPackages.x86_64-linux.python313Packages.eheimdigital:
   description: Offers a Python API for the EHEIM Digital smart aquarium devices
   pname: python3.13-eheimdigital
-  version: 1.1.0
+  version: 1.2.0
 legacyPackages.x86_64-linux.python313Packages.eigenpy:
   description: Bindings between Numpy and Eigen using Boost.Python
   pname: python3.13-eigenpy
@@ -217328,8 +217312,8 @@ legacyPackages.x86_64-linux.python313Packages.kicad:
   version: 9.0.2
 legacyPackages.x86_64-linux.python313Packages.kinparse:
   description: Parser for KiCad EESCHEMA netlists
-  pname: python3.13-kinparse-unstable
-  version: "2019-12-18"
+  pname: python3.13-kinparse
+  version: 1.2.3
 legacyPackages.x86_64-linux.python313Packages.kiss-headers:
   description: Python package for HTTP/1.1 style headers
   pname: python3.13-kiss-headers
@@ -217346,10 +217330,6 @@ legacyPackages.x86_64-linux.python313Packages.kivy-garden:
   description: Kivy garden installation script, split into its own package for convenient use in buildozer
   pname: python3.13-kivy-garden
   version: 0.1.5
-legacyPackages.x86_64-linux.python313Packages.kivy-garden-modernmenu:
-  description: Stylized menu system for Kivy
-  pname: python3.13-kivy-garden-modernmenu
-  version: 0-unstable-2019-12-10
 legacyPackages.x86_64-linux.python313Packages.kiwiki-client:
   description: Module to interact with the KIWI.KI API
   pname: python3.13-kiwiki-client
@@ -219241,7 +219221,7 @@ legacyPackages.x86_64-linux.python313Packages.mcp:
 legacyPackages.x86_64-linux.python313Packages.mcpadapt:
   description: MCP servers tool
   pname: python3.13-mcpadapt
-  version: 0.1.5
+  version: 0.1.9
 legacyPackages.x86_64-linux.python313Packages.mcstatus:
   description: Python library for checking the status of Minecraft servers
   pname: python3.13-mcstatus
@@ -220313,7 +220293,7 @@ legacyPackages.x86_64-linux.python313Packages.mpmath:
 legacyPackages.x86_64-linux.python313Packages.mpris-server:
   description: Publish a MediaPlayer2 MPRIS device to D-Bus
   pname: python3.13-mpris-server
-  version: 0.4.2
+  version: 0.9.6
 legacyPackages.x86_64-linux.python313Packages.mpv:
   description: Python interface to the mpv media player
   pname: python3.13-mpv
@@ -220526,10 +220506,6 @@ legacyPackages.x86_64-linux.python313Packages.musicbrainzngs:
   description: Python bindings for musicbrainz NGS webservice
   pname: python3.13-musicbrainzngs
   version: 0.7.1
-legacyPackages.x86_64-linux.python313Packages.mutag:
-  description: Script to change email tags in a mu indexed maildir
-  pname: python3.13-mutag
-  version: 0.0.2-unstable-2018-08-20
 legacyPackages.x86_64-linux.python313Packages.mutagen:
   description: Python module for handling audio metadata
   pname: python3.13-mutagen
@@ -225706,10 +225682,6 @@ legacyPackages.x86_64-linux.python313Packages.psygnal:
   description: Implementation of Qt Signals
   pname: python3.13-psygnal
   version: 0.13.0
-legacyPackages.x86_64-linux.python313Packages.ptable:
-  description: Simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables
-  pname: python3.13-ptable-unstable
-  version: "2019-06-14"
 legacyPackages.x86_64-linux.python313Packages.ptest:
   description: Test classes and test cases using decorators, execute test cases by command line, and get clear reports
   pname: python3.13-ptest
@@ -227054,10 +227026,6 @@ legacyPackages.x86_64-linux.python313Packages.pyfakewebcam:
   description: Library for writing RGB frames to a fake webcam device on Linux
   pname: python3.13-pyfakewebcam
   version: 0.1.0
-legacyPackages.x86_64-linux.python313Packages.pyfantom:
-  description: Wrapper for the LEGO Mindstorms Fantom Driver
-  pname: python3.13-pyfantom-unstable
-  version: "2013-12-18"
 legacyPackages.x86_64-linux.python313Packages.pyfatfs:
   description: Python based FAT12/FAT16/FAT32 implementation with VFAT support
   pname: python3.13-pyfatfs
@@ -230329,7 +230297,7 @@ legacyPackages.x86_64-linux.python313Packages.python-dotenv:
 legacyPackages.x86_64-linux.python313Packages.python-ecobee-api:
   description: Python API for talking to Ecobee thermostats
   pname: python3.13-python-ecobee-api
-  version: 0.2.20
+  version: 0.3.0
 legacyPackages.x86_64-linux.python313Packages.python-editor:
   description: Library that provides the `editor` module for programmatically
   pname: python3.13-python-editor
@@ -234509,7 +234477,7 @@ legacyPackages.x86_64-linux.python313Packages.smoke-zephyr:
 legacyPackages.x86_64-linux.python313Packages.smolagents:
   description: Barebones library for agents
   pname: python3.13-smolagents
-  version: 1.13.0
+  version: 1.16.1
 legacyPackages.x86_64-linux.python313Packages.smp:
   description: Simple Management Protocol (SMP) for remotely managing MCU firmware
   pname: python3.13-smp
@@ -237965,7 +237933,7 @@ legacyPackages.x86_64-linux.python313Packages.trie:
 legacyPackages.x86_64-linux.python313Packages.trimesh:
   description: Python library for loading and using triangular meshes
   pname: python3.13-trimesh
-  version: 4.6.9
+  version: 4.6.10
 legacyPackages.x86_64-linux.python313Packages.trino-python-client:
   description: Client for the Trino distributed SQL Engine
   pname: python3.13-trino-python-client
@@ -243889,7 +243857,7 @@ legacyPackages.x86_64-linux.quark-goldleaf:
 legacyPackages.x86_64-linux.quarkus:
   description: Quarkus is a Kubernetes-native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards
   pname: quarkus-cli
-  version: 3.22.2
+  version: 3.22.3
 legacyPackages.x86_64-linux.quarto:
   description: Open-source scientific and technical publishing system built on Pandoc
   pname: quarto
@@ -245789,7 +245757,7 @@ legacyPackages.x86_64-linux.retroarch:
 legacyPackages.x86_64-linux.retroarch-assets:
   description: Assets needed for RetroArch
   pname: retroarch-assets
-  version: 1.20.0-unstable-2025-03-21
+  version: 1.20.0-unstable-2025-05-23
 legacyPackages.x86_64-linux.retroarch-bare:
   description: Multi-platform emulator frontend for libretro cores
   pname: retroarch-bare
@@ -256526,6 +256494,10 @@ legacyPackages.x86_64-linux.ruplacer:
   description: Find and replace text in source files
   pname: ruplacer
   version: 0.10.0
+legacyPackages.x86_64-linux.ruqola:
+  description: KDE client for Rocket Chat
+  pname: ruqola
+  version: ""
 legacyPackages.x86_64-linux.rure:
   description: C API for Rust's regular expression library
   pname: rure
@@ -282397,7 +282369,7 @@ legacyPackages.x86_64-linux.superd:
 legacyPackages.x86_64-linux.superfile:
   description: Pretty fancy and modern terminal file manager
   pname: superfile
-  version: 1.2.1
+  version: 1.3.1
 legacyPackages.x86_64-linux.supergee:
   description: Vala based UI for beets
   pname: supergee
@@ -283777,7 +283749,7 @@ legacyPackages.x86_64-linux.tamzen:
 legacyPackages.x86_64-linux.tana:
   description: Tana is an intelligent all-in-one workspace
   pname: tana
-  version: 1.0.30
+  version: 1.0.31
 legacyPackages.x86_64-linux.tandem-aligner:
   description: Parameter-free algorithm for sequence alignment
   pname: TandemAligner
@@ -283934,6 +283906,10 @@ legacyPackages.x86_64-linux.task-keeper:
   description: CLI to manage tasks from different task runners or package managers
   pname: task-keeper
   version: 0.28.1
+legacyPackages.x86_64-linux.task-master-ai:
+  description: Node.js agentic AI workflow orchestrator
+  pname: task-master-ai
+  version: 0.15.0
 legacyPackages.x86_64-linux.taskchampion-sync-server:
   description: Sync server for Taskwarrior 3
   pname: taskchampion-sync-server
@@ -284254,10 +284230,6 @@ legacyPackages.x86_64-linux.tcount:
   description: Count your code by tokens and patterns in the syntax tree. A tokei/scc/cloc alternative
   pname: tcount
   version: 0-unstable-2023-04-20
-legacyPackages.x86_64-linux.tcp-cutter:
-  description: TCP/IP Connection cutting on Linux Firewalls and Routers
-  pname: tcp-cutter
-  version: "1.04"
 legacyPackages.x86_64-linux.tcp_wrappers:
   description: TCP Wrappers, a network logger, also known as TCPD or LOG_TCP
   pname: tcp-wrappers
@@ -306997,7 +306969,7 @@ legacyPackages.x86_64-linux.tremor:
 legacyPackages.x86_64-linux.tremor-language-server:
   description: Tremor Language Server (Trill)
   pname: tremor-language-server
-  version: 0.12.4
+  version: 0.13.0-rc.11
 legacyPackages.x86_64-linux.tremor-rs:
   description: 'Early stage event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation '
   pname: tremor
@@ -330493,7 +330465,7 @@ legacyPackages.x86_64-linux.vscode-extensions.alygin.vscode-tlaplus:
 legacyPackages.x86_64-linux.vscode-extensions.amazonwebservices.amazon-q-vscode:
   description: Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources
   pname: vscode-extension-AmazonWebServices-amazon-q-vscode
-  version: 1.67.0
+  version: 1.69.0
 legacyPackages.x86_64-linux.vscode-extensions.angular.ng-template:
   description: Editor services for Angular templates
   pname: vscode-extension-Angular-ng-template
@@ -330657,7 +330629,7 @@ legacyPackages.x86_64-linux.vscode-extensions.bradgashler.htmltagwrap:
 legacyPackages.x86_64-linux.vscode-extensions.bradlc.vscode-tailwindcss:
   description: Tailwind CSS tooling for Visual Studio Code
   pname: vscode-extension-bradlc-vscode-tailwindcss
-  version: 0.14.16
+  version: 0.14.19
 legacyPackages.x86_64-linux.vscode-extensions.brandonkirbyson.solarized-palenight:
   description: ' A solarized-palenight theme for vscode'
   pname: vscode-extension-BrandonKirbyson-solarized-palenight
@@ -330733,7 +330705,7 @@ legacyPackages.x86_64-linux.vscode-extensions.cmschuetz12.wal:
 legacyPackages.x86_64-linux.vscode-extensions.coder.coder-remote:
   description: Extension for Visual Studio Code to open any Coder workspace in VS Code with a single click
   pname: vscode-extension-coder-coder-remote
-  version: 1.8.0
+  version: 1.9.0
 legacyPackages.x86_64-linux.vscode-extensions.codezombiech.gitignore:
   description: ""
   pname: vscode-extension-codezombiech-gitignore
@@ -330769,11 +330741,11 @@ legacyPackages.x86_64-linux.vscode-extensions.cweijan.vscode-database-client2:
 legacyPackages.x86_64-linux.vscode-extensions.danielgavin.ols:
   description: Visual Studio Code extension for Odin language
   pname: vscode-extension-DanielGavin-ols
-  version: 0.1.35
+  version: 0.1.37
 legacyPackages.x86_64-linux.vscode-extensions.danielsanmedium.dscodegpt:
   description: Easily connect to AI providers using their official APIs in VSCode
   pname: vscode-extension-DanielSanMedium-dscodegpt
-  version: 3.12.3
+  version: 3.12.38
 legacyPackages.x86_64-linux.vscode-extensions.daohong-emilio.yash:
   description: ""
   pname: vscode-extension-daohong-emilio-yash
@@ -330909,7 +330881,7 @@ legacyPackages.x86_64-linux.vscode-extensions.egirlcatnip.adwaita-github-theme:
 legacyPackages.x86_64-linux.vscode-extensions.elixir-lsp.vscode-elixir-ls:
   description: Elixir support with debugger, autocomplete, and more. Powered by ElixirLS
   pname: vscode-extension-JakeBecker-elixir-ls
-  version: 0.27.2
+  version: 0.28.0
 legacyPackages.x86_64-linux.vscode-extensions.elmtooling.elm-ls-vscode:
   description: Elm language server
   pname: vscode-extension-Elmtooling-elm-ls-vscode
@@ -330937,7 +330909,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ethansk.restore-terminals:
 legacyPackages.x86_64-linux.vscode-extensions.eugleo.magic-racket:
   description: Best coding experience for Racket in VS Code
   pname: vscode-extension-evzen-wybitul-magic-racket
-  version: 0.6.7
+  version: 0.7.0
 legacyPackages.x86_64-linux.vscode-extensions.fabiospampinato.vscode-open-in-github:
   description: VS Code extension to open the current project or file in github.com
   pname: vscode-extension-fabiospampinato-vscode-open-in-github
@@ -331017,11 +330989,11 @@ legacyPackages.x86_64-linux.vscode-extensions.github.codespaces:
 legacyPackages.x86_64-linux.vscode-extensions.github.copilot:
   description: GitHub Copilot uses OpenAI Codex to suggest code and entire functions in real-time right from your editor
   pname: vscode-extension-github-copilot
-  version: 1.322.0
+  version: 1.323.0
 legacyPackages.x86_64-linux.vscode-extensions.github.copilot-chat:
   description: GitHub Copilot Chat is a companion extension to GitHub Copilot that houses experimental chat features
   pname: vscode-extension-github-copilot-chat
-  version: 0.27.1
+  version: 0.27.2
 legacyPackages.x86_64-linux.vscode-extensions.github.github-vscode-theme:
   description: GitHub theme for VS Code
   pname: vscode-extension-github-github-vscode-theme
@@ -331205,7 +331177,7 @@ legacyPackages.x86_64-linux.vscode-extensions.jkillian.custom-local-formatters:
 legacyPackages.x86_64-linux.vscode-extensions.jnoortheen.nix-ide:
   description: Nix language support with formatting and error report
   pname: vscode-extension-jnoortheen-nix-ide
-  version: 0.4.16
+  version: 0.4.18
 legacyPackages.x86_64-linux.vscode-extensions.jock.svg:
   description: ""
   pname: vscode-extension-jock-svg
@@ -331325,7 +331297,7 @@ legacyPackages.x86_64-linux.vscode-extensions.mattn.lisp:
 legacyPackages.x86_64-linux.vscode-extensions.maximedenes.vscoq:
   description: VsCoq is an extension for Visual Studio Code (VS Code) and VSCodium with support for the Coq Proof Assistant
   pname: vscode-extension-maximedenes-vscoq
-  version: 2.2.5
+  version: 2.2.6
 legacyPackages.x86_64-linux.vscode-extensions.mechatroner.rainbow-csv:
   description: Rainbow syntax higlighting for CSV and TSV files in Visual Studio Code
   pname: vscode-extension-mechatroner-rainbow-csv
@@ -331485,7 +331457,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ms-python.vscode-pylance:
 legacyPackages.x86_64-linux.vscode-extensions.ms-toolsai.datawrangler:
   description: Data viewing, cleaning and preparation for tabular datasets
   pname: vscode-extension-ms-toolsai-datawrangler
-  version: 1.21.1
+  version: 1.22.0
 legacyPackages.x86_64-linux.vscode-extensions.ms-toolsai.jupyter:
   description: Jupyter extension for vscode
   pname: vscode-extension-ms-toolsai-jupyter
@@ -331573,7 +331545,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ms-vsliveshare.vsliveshare:
 legacyPackages.x86_64-linux.vscode-extensions.ms-windows-ai-studio.windows-ai-studio:
   description: A Visual Studio Code an extension to help developers and AI engineers to easily build AI apps through developing and testing with generative AI models locally or in the cloud
   pname: vscode-extension-ms-windows-ai-studio-windows-ai-studio
-  version: 0.12.1
+  version: 0.14.0
 legacyPackages.x86_64-linux.vscode-extensions.mshr-h.veriloghdl:
   description: Visual Studio Code extension for supporting Verilog-HDL, SystemVerilog, Bluespec and SystemVerilog
   pname: vscode-extension-mshr-h-veriloghdl
@@ -333197,7 +333169,7 @@ legacyPackages.x86_64-linux.webcord-vencord:
 legacyPackages.x86_64-linux.webdav:
   description: Simple WebDAV server
   pname: webdav
-  version: 5.7.5
+  version: 5.8.0
 legacyPackages.x86_64-linux.webdav-server-rs:
   description: Implementation of WebDAV server in Rust
   pname: webdav-server-rs-unstable
@@ -337841,7 +337813,7 @@ legacyPackages.x86_64-linux.xteve:
 legacyPackages.x86_64-linux.xtf:
   description: Xen Test Framework and Suite for creating microkernel-based tests
   pname: xtf
-  version: 0-unstable-2024-11-01
+  version: 0-unstable-2025-05-19
 legacyPackages.x86_64-linux.xtitle:
   description: Outputs X window titles
   pname: xtitle
@@ -337889,7 +337861,7 @@ legacyPackages.x86_64-linux.xurls:
 legacyPackages.x86_64-linux.xv:
   description: Classic image viewer and editor for X
   pname: xv
-  version: 6.0.2
+  version: 6.0.3
 legacyPackages.x86_64-linux.xva-img:
   description: Tool for converting Xen images to raw and back
   pname: xva-img
