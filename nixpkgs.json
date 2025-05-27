@@ -4627,7 +4627,7 @@
   "legacyPackages.x86_64-linux.android-udev-rules": {
     "description": "Android udev rules list aimed to be the most comprehensive on the net",
     "pname": "android-udev-rules",
-    "version": "20250314"
+    "version": "20250525"
   },
   "legacyPackages.x86_64-linux.androidStudioForPlatformPackages.canary": {
     "description": "The Official IDE for Android platform development",
@@ -13372,7 +13372,7 @@
   "legacyPackages.x86_64-linux.bashunit": {
     "description": "Simple testing framework for bash scripts",
     "pname": "bashunit",
-    "version": "0.19.0"
+    "version": "0.19.1"
   },
   "legacyPackages.x86_64-linux.bashup-events32": {
     "description": "Event listener/callback API for creating extensible bash programs",
@@ -13682,7 +13682,7 @@
   "legacyPackages.x86_64-linux.beam26Packages.elixir-ls": {
     "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\" ",
     "pname": "elixir-ls",
-    "version": "0.27.2"
+    "version": "0.28.1"
   },
   "legacyPackages.x86_64-linux.beam26Packages.elixir_1_14": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
@@ -13787,7 +13787,7 @@
   "legacyPackages.x86_64-linux.beam27Packages.elixir-ls": {
     "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\" ",
     "pname": "elixir-ls",
-    "version": "0.27.2"
+    "version": "0.28.1"
   },
   "legacyPackages.x86_64-linux.beam27Packages.elixir_1_17": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
@@ -13877,7 +13877,7 @@
   "legacyPackages.x86_64-linux.beamMinimal26Packages.elixir-ls": {
     "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\" ",
     "pname": "elixir-ls",
-    "version": "0.27.2"
+    "version": "0.28.1"
   },
   "legacyPackages.x86_64-linux.beamMinimal26Packages.elixir_1_14": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
@@ -13982,7 +13982,7 @@
   "legacyPackages.x86_64-linux.beamMinimal27Packages.elixir-ls": {
     "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\" ",
     "pname": "elixir-ls",
-    "version": "0.27.2"
+    "version": "0.28.1"
   },
   "legacyPackages.x86_64-linux.beamMinimal27Packages.elixir_1_17": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
@@ -25537,7 +25537,7 @@
   "legacyPackages.x86_64-linux.code-cursor": {
     "description": "AI-powered code editor built on vscode",
     "pname": "cursor",
-    "version": "0.49.6"
+    "version": "0.50.5"
   },
   "legacyPackages.x86_64-linux.code-maat": {
     "description": "Command line tool to mine and analyze data from version-control systems",
@@ -31472,7 +31472,7 @@
   "legacyPackages.x86_64-linux.dbeaver-bin": {
     "description": "Universal SQL Client for developers, DBA and analysts. Supports MySQL, PostgreSQL, MariaDB, SQLite, and more",
     "pname": "dbeaver-bin",
-    "version": "25.0.4"
+    "version": "25.0.5"
   },
   "legacyPackages.x86_64-linux.dbgate": {
     "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others",
@@ -31762,7 +31762,7 @@
   "legacyPackages.x86_64-linux.ddev": {
     "description": "Docker-based local PHP+Node.js web development environments",
     "pname": "ddev",
-    "version": "1.24.5"
+    "version": "1.24.6"
   },
   "legacyPackages.x86_64-linux.ddgr": {
     "description": "Search DuckDuckGo from the terminal",
@@ -37952,7 +37952,7 @@
   "legacyPackages.x86_64-linux.elixir-ls": {
     "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\" ",
     "pname": "elixir-ls",
-    "version": "0.27.2"
+    "version": "0.28.1"
   },
   "legacyPackages.x86_64-linux.elixir_1_17": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
@@ -37967,7 +37967,7 @@
   "legacyPackages.x86_64-linux.elixir_ls": {
     "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\" ",
     "pname": "elixir-ls",
-    "version": "0.27.2"
+    "version": "0.28.1"
   },
   "legacyPackages.x86_64-linux.eliza": {
     "description": "C++ simulation of Joseph Weizenbaum’s 1966 ELIZA",
@@ -40423,6 +40423,11 @@
     "description": "Pixiv FANBOX Downloader",
     "pname": "fanbox-dl",
     "version": "0.27.3"
+  },
+  "legacyPackages.x86_64-linux.fancontrol-gui": {
+    "description": "GUI for fancontrol with QT and KDE framework 5",
+    "pname": "fancontrol-gui",
+    "version": "0.8"
   },
   "legacyPackages.x86_64-linux.fanctl": {
     "description": "Replacement for fancontrol with more fine-grained control interface in its config file",
@@ -43477,7 +43482,7 @@
   "legacyPackages.x86_64-linux.font-manager": {
     "description": "Simple font management for GTK desktop environments",
     "pname": "font-manager",
-    "version": "0.9.2"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.font-util": {
     "description": "X.Org font package creation/installation utilities",
@@ -55937,7 +55942,7 @@
   "legacyPackages.x86_64-linux.gose": {
     "description": "Modern and scalable file-uploader focusing on scalability and simplicity",
     "pname": "gose",
-    "version": "0.10.5"
+    "version": "0.10.6"
   },
   "legacyPackages.x86_64-linux.gosec": {
     "description": "Golang security checker",
@@ -58267,7 +58272,7 @@
   "legacyPackages.x86_64-linux.guile-mqtt": {
     "description": "Guile bindings for the libmosquitto MQTT client library",
     "pname": "guile-mqtt",
-    "version": "0.2.1"
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.guile-ncurses": {
     "description": "Scheme interface to the NCurses libraries",
@@ -67132,7 +67137,7 @@
   "legacyPackages.x86_64-linux.hydra": {
     "description": "Nix-based continuous build system",
     "pname": "hydra",
-    "version": "0-unstable-2025-04-16"
+    "version": "0-unstable-2025-04-23"
   },
   "legacyPackages.x86_64-linux.hydra-check": {
     "description": "Check hydra for the build status of a package",
@@ -67152,7 +67157,7 @@
   "legacyPackages.x86_64-linux.hydra_unstable": {
     "description": "Nix-based continuous build system",
     "pname": "hydra",
-    "version": "0-unstable-2025-04-16"
+    "version": "0-unstable-2025-04-23"
   },
   "legacyPackages.x86_64-linux.hydralauncher": {
     "description": "Game launcher with its own embedded bittorrent client",
@@ -68862,7 +68867,7 @@
   "legacyPackages.x86_64-linux.immich-go": {
     "description": "Immich client tool for bulk-uploads",
     "pname": "immich-go",
-    "version": "0.26.2"
+    "version": "0.26.3"
   },
   "legacyPackages.x86_64-linux.immich-machine-learning": {
     "description": "Self-hosted photo and video backup solution (machine learning component)",
@@ -73217,7 +73222,7 @@
   "legacyPackages.x86_64-linux.kanboard": {
     "description": "Kanban project management software",
     "pname": "kanboard",
-    "version": "1.2.44"
+    "version": "1.2.45"
   },
   "legacyPackages.x86_64-linux.kando": {
     "description": "Cross-Platform Pie Menu",
@@ -84217,7 +84222,7 @@
   "legacyPackages.x86_64-linux.libretro.citra": {
     "description": "Port of Citra to libretro",
     "pname": "libretro-citra",
-    "version": "0-unstable-2025-05-07"
+    "version": "0-unstable-2025-05-17"
   },
   "legacyPackages.x86_64-linux.libretro.desmume": {
     "description": "Port of DeSmuME to libretro",
@@ -154522,7 +154527,7 @@
   "legacyPackages.x86_64-linux.ocrad": {
     "description": "Optical character recognition (OCR) program & library",
     "pname": "ocrad",
-    "version": "0.27"
+    "version": "0.29"
   },
   "legacyPackages.x86_64-linux.ocrfeeder": {
     "description": "Complete Optical Character Recognition and Document Analysis and Recognition program",
@@ -163195,7 +163200,7 @@
     "version": "0.006"
   },
   "legacyPackages.x86_64-linux.perl538Packages.DataMessagePack": {
-    "description": "Grep-like program for searching source code",
+    "description": "MessagePack serialization format",
     "pname": "perl5.38.2-Data-MessagePack",
     "version": "1.02"
   },
@@ -172910,7 +172915,7 @@
     "version": "0.006"
   },
   "legacyPackages.x86_64-linux.perl540Packages.DataMessagePack": {
-    "description": "Grep-like program for searching source code",
+    "description": "MessagePack serialization format",
     "pname": "perl5.40.0-Data-MessagePack",
     "version": "1.02"
   },
@@ -182620,7 +182625,7 @@
     "version": "0.006"
   },
   "legacyPackages.x86_64-linux.perlPackages.DataMessagePack": {
-    "description": "Grep-like program for searching source code",
+    "description": "MessagePack serialization format",
     "pname": "perl5.40.0-Data-MessagePack",
     "version": "1.02"
   },
@@ -190937,7 +190942,7 @@
   "legacyPackages.x86_64-linux.php81Extensions.excimer": {
     "description": "PHP extension that provides an interrupting timer and a low-overhead sampling profiler",
     "pname": "php-excimer",
-    "version": "1.2.3"
+    "version": "1.2.5"
   },
   "legacyPackages.x86_64-linux.php81Extensions.exif": {
     "description": "PHP upstream extension: exif",
@@ -191072,7 +191077,7 @@
   "legacyPackages.x86_64-linux.php81Extensions.mongodb": {
     "description": "Official MongoDB PHP driver",
     "pname": "php-mongodb",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.php81Extensions.msgpack": {
     "description": "PHP extension for interfacing with MessagePack",
@@ -191487,7 +191492,7 @@
   "legacyPackages.x86_64-linux.php81Packages.phpstan": {
     "description": "PHP Static Analysis Tool",
     "pname": "phpstan",
-    "version": "2.1.15"
+    "version": "2.1.17"
   },
   "legacyPackages.x86_64-linux.php81Packages.psalm": {
     "description": "Static analysis tool for finding errors in PHP applications",
@@ -191592,7 +191597,7 @@
   "legacyPackages.x86_64-linux.php82Extensions.excimer": {
     "description": "PHP extension that provides an interrupting timer and a low-overhead sampling profiler",
     "pname": "php-excimer",
-    "version": "1.2.3"
+    "version": "1.2.5"
   },
   "legacyPackages.x86_64-linux.php82Extensions.exif": {
     "description": "PHP upstream extension: exif",
@@ -191727,7 +191732,7 @@
   "legacyPackages.x86_64-linux.php82Extensions.mongodb": {
     "description": "Official MongoDB PHP driver",
     "pname": "php-mongodb",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.php82Extensions.msgpack": {
     "description": "PHP extension for interfacing with MessagePack",
@@ -192142,7 +192147,7 @@
   "legacyPackages.x86_64-linux.php82Packages.phpstan": {
     "description": "PHP Static Analysis Tool",
     "pname": "phpstan",
-    "version": "2.1.15"
+    "version": "2.1.17"
   },
   "legacyPackages.x86_64-linux.php82Packages.psalm": {
     "description": "Static analysis tool for finding errors in PHP applications",
@@ -192247,7 +192252,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.excimer": {
     "description": "PHP extension that provides an interrupting timer and a low-overhead sampling profiler",
     "pname": "php-excimer",
-    "version": "1.2.3"
+    "version": "1.2.5"
   },
   "legacyPackages.x86_64-linux.php83Extensions.exif": {
     "description": "PHP upstream extension: exif",
@@ -192382,7 +192387,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.mongodb": {
     "description": "Official MongoDB PHP driver",
     "pname": "php-mongodb",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.php83Extensions.msgpack": {
     "description": "PHP extension for interfacing with MessagePack",
@@ -192797,7 +192802,7 @@
   "legacyPackages.x86_64-linux.php83Packages.phpstan": {
     "description": "PHP Static Analysis Tool",
     "pname": "phpstan",
-    "version": "2.1.15"
+    "version": "2.1.17"
   },
   "legacyPackages.x86_64-linux.php83Packages.psalm": {
     "description": "Static analysis tool for finding errors in PHP applications",
@@ -192902,7 +192907,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.excimer": {
     "description": "PHP extension that provides an interrupting timer and a low-overhead sampling profiler",
     "pname": "php-excimer",
-    "version": "1.2.3"
+    "version": "1.2.5"
   },
   "legacyPackages.x86_64-linux.php84Extensions.exif": {
     "description": "PHP upstream extension: exif",
@@ -193037,7 +193042,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.mongodb": {
     "description": "Official MongoDB PHP driver",
     "pname": "php-mongodb",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.php84Extensions.msgpack": {
     "description": "PHP extension for interfacing with MessagePack",
@@ -193452,7 +193457,7 @@
   "legacyPackages.x86_64-linux.php84Packages.phpstan": {
     "description": "PHP Static Analysis Tool",
     "pname": "phpstan",
-    "version": "2.1.15"
+    "version": "2.1.17"
   },
   "legacyPackages.x86_64-linux.php84Packages.psalm": {
     "description": "Static analysis tool for finding errors in PHP applications",
@@ -198022,7 +198027,7 @@
   "legacyPackages.x86_64-linux.pocl": {
     "description": "portable open source (MIT-licensed) implementation of the OpenCL standard",
     "pname": "pocl",
-    "version": "6.0-unstable-2025-01-02"
+    "version": "7.0"
   },
   "legacyPackages.x86_64-linux.poco": {
     "description": "Cross-platform C++ libraries with a network/internet focus",
@@ -202533,6 +202538,11 @@
     "description": "Calculate correct bounding boxes for PostScript and PDF files",
     "pname": "perl5.40.0-ps2eps",
     "version": "1.70"
+  },
+  "legacyPackages.x86_64-linux.ps2patchelf": {
+    "description": "Very basic tool for converting PCSX2 .pnach cheats to game executable patches",
+    "pname": "PS2PatchElf",
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.ps3-disc-dumper": {
     "description": "Handy utility to make decrypted PS3 disc dumps",
@@ -212587,7 +212597,7 @@
   "legacyPackages.x86_64-linux.python312Packages.django-celery-beat": {
     "description": "Celery Periodic Tasks backed by the Django ORM",
     "pname": "python3.12-django-celery-beat",
-    "version": "2.8.0"
+    "version": "2.8.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.django-celery-email": {
     "description": "Django email backend that uses a celery task for sending the email",
@@ -213377,7 +213387,7 @@
   "legacyPackages.x86_64-linux.python312Packages.djangocms-alias": {
     "description": "Lean enterprise content management powered by Django",
     "pname": "python3.12-djangocms-alias",
-    "version": "2.0.2"
+    "version": "2.0.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.djangocms-text-ckeditor": {
     "description": "Text Plugin for django CMS using CKEditor 4",
@@ -216153,11 +216163,6 @@
     "description": "Captcha implemention for flask",
     "pname": "python3.12-flask-session-captcha",
     "version": "1.5.0"
-  },
-  "legacyPackages.x86_64-linux.python312Packages.flask-silk": {
-    "description": "Adds silk icons to your Flask application or module, or extension",
-    "pname": "python3.12-flask-silk",
-    "version": "0.2-unstable-2018-06-14"
   },
   "legacyPackages.x86_64-linux.python312Packages.flask-simpleldap": {
     "description": "LDAP authentication extension for Flask",
@@ -219897,7 +219902,7 @@
   "legacyPackages.x86_64-linux.python312Packages.igloohome-api": {
     "description": "Python package for using igloohome's API",
     "pname": "python3.12-igloohome-api",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.ignite": {
     "description": "High-level training library for PyTorch",
@@ -237237,7 +237242,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pytensor": {
     "description": "Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays",
     "pname": "python3.12-pytensor",
-    "version": "2.31.1"
+    "version": "2.31.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pytesseract": {
     "description": "Python wrapper for Google Tesseract",
@@ -246058,11 +246063,6 @@
     "description": "utilities for testing.* packages",
     "pname": "python3.12-testing.common.database",
     "version": "2.0.3"
-  },
-  "legacyPackages.x86_64-linux.python312Packages.testing-postgresql": {
-    "description": "Use temporary postgresql instance in testing",
-    "pname": "python3.12-testing-postgresql-unstable",
-    "version": "2017-10-31"
   },
   "legacyPackages.x86_64-linux.python312Packages.testpath": {
     "description": "Test utilities for code working with files and commands",
@@ -262242,7 +262242,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-celery-beat": {
     "description": "Celery Periodic Tasks backed by the Django ORM",
     "pname": "python3.13-django-celery-beat",
-    "version": "2.8.0"
+    "version": "2.8.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-celery-email": {
     "description": "Django email backend that uses a celery task for sending the email",
@@ -263032,7 +263032,7 @@
   "legacyPackages.x86_64-linux.python313Packages.djangocms-alias": {
     "description": "Lean enterprise content management powered by Django",
     "pname": "python3.13-djangocms-alias",
-    "version": "2.0.2"
+    "version": "2.0.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.djangocms-text-ckeditor": {
     "description": "Text Plugin for django CMS using CKEditor 4",
@@ -265808,11 +265808,6 @@
     "description": "Captcha implemention for flask",
     "pname": "python3.13-flask-session-captcha",
     "version": "1.5.0"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.flask-silk": {
-    "description": "Adds silk icons to your Flask application or module, or extension",
-    "pname": "python3.13-flask-silk",
-    "version": "0.2-unstable-2018-06-14"
   },
   "legacyPackages.x86_64-linux.python313Packages.flask-simpleldap": {
     "description": "LDAP authentication extension for Flask",
@@ -269552,7 +269547,7 @@
   "legacyPackages.x86_64-linux.python313Packages.igloohome-api": {
     "description": "Python package for using igloohome's API",
     "pname": "python3.13-igloohome-api",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.ignite": {
     "description": "High-level training library for PyTorch",
@@ -286892,7 +286887,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pytensor": {
     "description": "Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays",
     "pname": "python3.13-pytensor",
-    "version": "2.31.1"
+    "version": "2.31.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pytesseract": {
     "description": "Python wrapper for Google Tesseract",
@@ -295743,11 +295738,6 @@
     "description": "utilities for testing.* packages",
     "pname": "python3.13-testing.common.database",
     "version": "2.0.3"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.testing-postgresql": {
-    "description": "Use temporary postgresql instance in testing",
-    "pname": "python3.13-testing-postgresql-unstable",
-    "version": "2017-10-31"
   },
   "legacyPackages.x86_64-linux.python313Packages.testpath": {
     "description": "Test utilities for code working with files and commands",
@@ -307532,7 +307522,7 @@
   "legacyPackages.x86_64-linux.rime-wanxiang": {
     "description": "Feature-rich pinyin schema for Rime, basic edition",
     "pname": "rime-wanxiang",
-    "version": "6.7.9"
+    "version": "6.8.7"
   },
   "legacyPackages.x86_64-linux.rime-zhwiki": {
     "description": "RIME dictionary file for entries from zh.wikipedia.org",
@@ -353169,6 +353159,11 @@
     "pname": "svelte-language-server",
     "version": "0.17.12"
   },
+  "legacyPackages.x86_64-linux.svg-text-to-path": {
+    "description": "Convert svg nodes to vector font-free elements",
+    "pname": "svg-text-to-path",
+    "version": "2.0.4"
+  },
   "legacyPackages.x86_64-linux.svg2pdf": {
     "description": "Convert SVG files to PDFs",
     "pname": "svg2pdf",
@@ -353837,7 +353832,7 @@
   "legacyPackages.x86_64-linux.syft": {
     "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
     "pname": "syft",
-    "version": "1.24.0"
+    "version": "1.26.1"
   },
   "legacyPackages.x86_64-linux.sylk": {
     "description": "Desktop client for SylkServer, a multiparty conferencing tool",
@@ -382035,7 +382030,7 @@
     "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.tokei": {
-    "description": "Program that allows you to count your code, quickly",
+    "description": "Count your code, quickly",
     "pname": "tokei",
     "version": "13.0.0-alpha.8"
   },
@@ -404919,6 +404914,11 @@
     "pname": "vimplugin-mini.jump2d",
     "version": "2025-04-01"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.mini-keymap": {
+    "description": "",
+    "pname": "vimplugin-mini.keymap",
+    "version": "2025-05-20"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.mini-map": {
     "description": "",
     "pname": "vimplugin-mini.map",
@@ -412837,7 +412837,7 @@
   "legacyPackages.x86_64-linux.vopono": {
     "description": "Run applications through VPN connections in network namespaces",
     "pname": "vopono",
-    "version": "0.10.11"
+    "version": "0.10.12"
   },
   "legacyPackages.x86_64-linux.vorbis-tools": {
     "description": "Extra tools for Ogg-Vorbis audio codec",
@@ -418272,7 +418272,7 @@
   "legacyPackages.x86_64-linux.wordpressPackages.plugins.civicrm": {
     "description": "",
     "pname": "civicrm",
-    "version": "5.56.0"
+    "version": "6.2.0"
   },
   "legacyPackages.x86_64-linux.wordpressPackages.plugins.co-authors-plus": {
     "description": "",
