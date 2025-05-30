@@ -11,8 +11,8 @@
  1oom  1.11.2  Master of Orion (1993) game engine recreation; a more updated fork  legacyPackages.x86_64-linux._1oom 
  1password  8.10.76  Multi-platform password manager  legacyPackages.x86_64-linux._1password-gui 
  1password  8.10.76-32.BETA  Multi-platform password manager  legacyPackages.x86_64-linux._1password-gui-beta 
- 1password-cli  2.31.0  1Password command-line tool  legacyPackages.x86_64-linux._1password 
- 1password-cli  2.31.0  1Password command-line tool  legacyPackages.x86_64-linux._1password-cli 
+ 1password-cli  2.31.1  1Password command-line tool  legacyPackages.x86_64-linux._1password 
+ 1password-cli  2.31.1  1Password command-line tool  legacyPackages.x86_64-linux._1password-cli 
  2048-cli-unstable  2019-12-10  Game 2048 for your Linux terminal  legacyPackages.x86_64-linux._2048-cli 
  2048-cli-unstable  2019-12-10  Game 2048 for your Linux terminal  legacyPackages.x86_64-linux._2048-cli-curses 
  2048-cli-unstable  2019-12-10  Game 2048 for your Linux terminal  legacyPackages.x86_64-linux._2048-cli-terminal 
@@ -1368,7 +1368,7 @@
  alisthelper  0.2.0-unstable-2025-01-04  Designed to simplify the use of the desktop version of alist  legacyPackages.x86_64-linux.alisthelper 
  alistral  0.5.8  Power tools for Listenbrainz  legacyPackages.x86_64-linux.alistral 
  alive2  20.0  Automatic verification of LLVM optimizations  legacyPackages.x86_64-linux.alive2 
- aliyun-cli  3.0.277  Tool to manage and use Alibaba Cloud resources through a command line interface  legacyPackages.x86_64-linux.aliyun-cli 
+ aliyun-cli  3.0.278  Tool to manage and use Alibaba Cloud resources through a command line interface  legacyPackages.x86_64-linux.aliyun-cli 
  alkalami  1.000  A font for Arabic-based writing systems in Nigeria and Niger  legacyPackages.x86_64-linux.texlivePackages.alkalami 
  alkalami  3.000  Font for Arabic-based writing systems in the Kano region of Nigeria and in Niger  legacyPackages.x86_64-linux.alkalami 
  alkimia  8.1.95  Library used by KDE finance applications  legacyPackages.x86_64-linux.libsForQt5.alkimia 
@@ -2013,7 +2013,7 @@
  appeditor  1.1.5  Edit the Pantheon desktop application menu  legacyPackages.x86_64-linux.appeditor 
  appendix  1.2c  Extra control of appendices  legacyPackages.x86_64-linux.texlivePackages.appendix 
  appendixnumberbeamer  1.2  Manage frame numbering in appendixes in beamer  legacyPackages.x86_64-linux.texlivePackages.appendixnumberbeamer 
- appflowy  0.9.2  An open-source alternative to Notion  legacyPackages.x86_64-linux.appflowy 
+ appflowy  0.9.3  An open-source alternative to Notion  legacyPackages.x86_64-linux.appflowy 
  appgate-sdp  6.4.2  Appgate SDP (Software Defined Perimeter) desktop client  legacyPackages.x86_64-linux.appgate-sdp 
  appimage-run      legacyPackages.x86_64-linux.appimage-run 
  appimage-run-tests      legacyPackages.x86_64-linux.appimage-run-tests 
@@ -2607,51 +2607,6 @@
  asus-ec-sensors  0.1.0-unstable-2025-01-10-6.6.91  Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.asus-ec-sensors 
  asus-ec-sensors  0.1.0-unstable-2025-01-10-6.6.91  Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller  legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.asus-ec-sensors 
  asus-ec-sensors  0.1.0-unstable-2025-01-10-6.6.92  Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.asus-ec-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.10.237  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.10.237  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.10.237  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.15.183  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.15.183  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.15.184  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.4.293  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.4.293  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-5.4.293  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.1.139  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.1.139  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.1.140  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.29  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.29  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.29  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.29  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.30  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.30  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.30  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.30  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages-libre.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.30  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.12.30  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_xanmod.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.13.12  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.13.12  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.13.12  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.13.12  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.13.12  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_ham.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.7  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.7  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.7  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.7  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.7  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_lqx.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.7  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_zen.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.8  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.8  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.8  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.8  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.14.8  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.15  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.15  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.15  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_latest-libre.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.15  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_latest.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.6.91  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.6.91  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.asus-wmi-sensors 
- asus-wmi-sensors-unstable  2019-11-07-6.6.92  Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.asus-wmi-sensors 
  asusctl  6.1.12  Control daemon, CLI tools, and a collection of crates for interacting with ASUS ROG laptops  legacyPackages.x86_64-linux.asusctl 
  asy-overview  72484  A brief overview of the Asymptote language for drawing mathematical graphics  legacyPackages.x86_64-linux.texlivePackages.asy-overview 
  asyfig  0.1c  Commands for using Asymptote figures  legacyPackages.x86_64-linux.texlivePackages.asyfig 
@@ -2763,7 +2718,7 @@
  ausweisapp  2.3.1  Official authentication app for German ID card and residence permit  legacyPackages.x86_64-linux.ausweisapp 
  ausweiskopie  0.1.4  Create privacy friendly and legal copies of your Ausweisdokument  legacyPackages.x86_64-linux.ausweiskopie 
  auth  2.173.0  JWT based API for managing users and issuing JWT tokens  legacyPackages.x86_64-linux.gotrue-supabase 
- auth0-cli  1.13.0  Supercharge your developer workflow  legacyPackages.x86_64-linux.auth0-cli 
+ auth0-cli  1.14.1  Supercharge your developer workflow  legacyPackages.x86_64-linux.auth0-cli 
  authelia  4.39.4  Single Sign-On Multi-Factor portal for web apps  legacyPackages.x86_64-linux.authelia 
  authenticator  4.6.2  Two-factor authentication code generator for GNOME  legacyPackages.x86_64-linux.authenticator 
  authentik  2025.2.3  Authentication glue you need  legacyPackages.x86_64-linux.authentik 
@@ -3950,7 +3905,7 @@
  blockattack  2.9.0  Open source clone of Panel de Pon (aka Tetris Attack)  legacyPackages.x86_64-linux.blockattack 
  blockbench  4.12.4  Low-poly 3D modeling and animation software  legacyPackages.x86_64-linux.blockbench 
  blockbench  4.12.4  Low-poly 3D modeling and animation software  legacyPackages.x86_64-linux.blockbench-electron 
- blockbook  0.4.0  Trezor address/account balance backend  legacyPackages.x86_64-linux.blockbook 
+ blockbook  0.5.0  Trezor address/account balance backend  legacyPackages.x86_64-linux.blockbook 
  blockdiag  3.0.0  Generate block-diagram image from spec-text file (similar to Graphviz)  legacyPackages.x86_64-linux.blockdiag 
  blockdraw_mp  15878  Block diagrams and bond graphs, with MetaPost  legacyPackages.x86_64-linux.texlivePackages.blockdraw_mp 
  blockhash  0.3.3  This is a perceptual image hash calculation tool based on algorithm descibed in Block Mean Value Based Image Perceptual Hashing by Bian Yang, Fan Gu and Xiamu Niu.   legacyPackages.x86_64-linux.blockhash 
@@ -7082,7 +7037,7 @@
  commit  4.3  Commit message editor  legacyPackages.x86_64-linux.commit 
  commit-formatter  0.3.0  CLI tool to help you write git commit  legacyPackages.x86_64-linux.commit-formatter 
  commit-mono  1.143  Anonymous and neutral programming typeface focused on creating a better reading experience  legacyPackages.x86_64-linux.commit-mono 
- commitizen  4.7.1  Tool to create committing rules for projects, auto bump versions, and generate changelogs  legacyPackages.x86_64-linux.commitizen 
+ commitizen  4.8.2  Tool to create committing rules for projects, auto bump versions, and generate changelogs  legacyPackages.x86_64-linux.commitizen 
  commitizen-go  1.0.3  Command line utility to standardize git commit messages, golang version  legacyPackages.x86_64-linux.commitizen-go 
  commitlint-rs  0.2.2  Lint commit messages with conventional commit messages  legacyPackages.x86_64-linux.commitlint-rs 
  commitmsgfmt  1.6.0  Formats commit messages better than fmt(1) and Vim  legacyPackages.x86_64-linux.commitmsgfmt 
@@ -8772,7 +8727,7 @@
  denaro  2024.2.0  Personal finance manager for GNOME  legacyPackages.x86_64-linux.denaro 
  denemo  2.6.43  Music notation and composition software used with lilypond  legacyPackages.x86_64-linux.denemo 
  denisbdoc  0.9.5  A personal dirty package for documenting packages  legacyPackages.x86_64-linux.texlivePackages.denisbdoc 
- deno  2.2.12  Secure runtime for JavaScript and TypeScript  legacyPackages.x86_64-linux.deno 
+ deno  2.3.3  Secure runtime for JavaScript and TypeScript  legacyPackages.x86_64-linux.deno 
  densify  0.3.2  Compress PDF files with Ghostscript  legacyPackages.x86_64-linux.densify 
  dep-scan  5.5.0  Security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies  legacyPackages.x86_64-linux.appthreat-depscan 
  dep-scan  5.5.0  Security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies  legacyPackages.x86_64-linux.dep-scan 
@@ -12993,7 +12948,7 @@
  gg  0.27.0  GUI for the version control system Jujutsu  legacyPackages.x86_64-linux.gg-jj 
  gg-scm  1.3.1  Git with less typing  legacyPackages.x86_64-linux.gg-scm 
  ggh  0.1.4  Recall your SSH sessions (also search your SSH config file)  legacyPackages.x86_64-linux.ggh 
- ggshield  1.39.0  Tool to find and fix various types of hardcoded secrets and infrastructure-as-code misconfigurations  legacyPackages.x86_64-linux.ggshield 
+ ggshield  1.40.0  Tool to find and fix various types of hardcoded secrets and infrastructure-as-code misconfigurations  legacyPackages.x86_64-linux.ggshield 
  ggz-base-libs  0.99.5  GGZ Gaming zone libraries  legacyPackages.x86_64-linux.ggz_base_libs 
  gh  2.73.0  GitHub CLI tool  legacyPackages.x86_64-linux.gh 
  gh  2.73.0  GitHub CLI tool  legacyPackages.x86_64-linux.github-cli 
@@ -15668,7 +15623,7 @@
  hashcat  6.2.6  Fast password cracker  legacyPackages.x86_64-linux.hashcat 
  hashcat-utils  1.9  Small utilities that are useful in advanced password cracking  legacyPackages.x86_64-linux.hashcat-utils 
  hashdeep  4.4  Set of cross-platform tools to compute hashes  legacyPackages.x86_64-linux.hashdeep 
- hashes  1.1.1  Simple hash algorithm identification GUI  legacyPackages.x86_64-linux.hashes 
+ hashes  1.1.2  Simple hash algorithm identification GUI  legacyPackages.x86_64-linux.hashes 
  hashi-ui  1.3.8  Modern user interface for hashicorp Consul & Nomad  legacyPackages.x86_64-linux.hashi-ui 
  hashi-up  0.16.0  Lightweight utility to install HashiCorp Consul, Nomad, or Vault on any remote Linux host  legacyPackages.x86_64-linux.hashi-up 
  hashid  3.1.4-unstable-2015-03-17  Software to identify the different types of hashes  legacyPackages.x86_64-linux.hashid 
@@ -15856,8 +15811,8 @@
  heria  3.4.1.3  A LaTeX class for Horizon Europe RIA and IA grant proposals  legacyPackages.x86_64-linux.texlivePackages.heria 
  hermit  0.44.8  Manages isolated, self-bootstrapping sets of tools in software projects  legacyPackages.x86_64-linux.hermitcli 
  hermit  2.0  monospace font designed to be clear, pragmatic and very readable  legacyPackages.x86_64-linux.hermit 
- heroic  2.16.1  Native GOG, Epic, and Amazon Games Launcher for Linux, Windows and Mac  legacyPackages.x86_64-linux.heroic 
- heroic-unwrapped  2.16.1  Native GOG, Epic, and Amazon Games Launcher for Linux, Windows and Mac  legacyPackages.x86_64-linux.heroic-unwrapped 
+ heroic  2.17.0  Native GOG, Epic, and Amazon Games Launcher for Linux, Windows and Mac  legacyPackages.x86_64-linux.heroic 
+ heroic-unwrapped  2.17.0  Native GOG, Epic, and Amazon Games Launcher for Linux, Windows and Mac  legacyPackages.x86_64-linux.heroic-unwrapped 
  heroku  10.6.1  Everything you need to get started using Heroku  legacyPackages.x86_64-linux.heroku 
  heros-otf  0.01  Using the OpenType fonts TeX Gyre Heros>  legacyPackages.x86_64-linux.texlivePackages.heros-otf 
  herqq-unstable  20-06-26  Software library for building UPnP devices and control points  legacyPackages.x86_64-linux.herqq 
@@ -17521,7 +17476,7 @@
  hyperbar  0.1  Add interactive Barcode fields to PDF forms  legacyPackages.x86_64-linux.texlivePackages.hyperbar 
  hyperbeam  3.1.0  1-1 End-to-End Encrypted Internet Pipe Powered by Hyperswarm   legacyPackages.x86_64-linux.hyperbeam 
  hyperblobs  2.8.0  Blob Store for Hypercore  legacyPackages.x86_64-linux.hyperblobs 
- hypercore  11.7.0  Secure, distributed append-only log  legacyPackages.x86_64-linux.hypercore 
+ hypercore  11.8.3  Secure, distributed append-only log  legacyPackages.x86_64-linux.hypercore 
  hyperfine  1.19.0  Command-line benchmarking tool  legacyPackages.x86_64-linux.hyperfine 
  hyperhdr  21.0.0.0  Highly optimized open source ambient lighting implementation based on modern digital video and audio stream analysis for Windows, macOS and Linux (x86 and Raspberry Pi / ARM  legacyPackages.x86_64-linux.hyperhdr 
  hyperion.ng  2.0.16  Opensource Bias or Ambient Lighting implementation  legacyPackages.x86_64-linux.hyperion-ng 
@@ -18943,7 +18898,7 @@
  jbofihe  0.43  Parser & analyser for Lojban  legacyPackages.x86_64-linux.jbofihe 
  jboss-as  7.1.1.Final  Open Source J2EE application server  legacyPackages.x86_64-linux.jboss 
  jboss-mysql-jdbc  9.3.0  MySQL Connector/J  legacyPackages.x86_64-linux.jboss_mysql_jdbc 
- jbrowse  3.4.0  Next-generation genome browser  legacyPackages.x86_64-linux.jbrowse 
+ jbrowse  3.5.0  Next-generation genome browser  legacyPackages.x86_64-linux.jbrowse 
  jc  1.25.5  This tool serializes the output of popular command line tools and filetypes to structured JSON output  legacyPackages.x86_64-linux.jc 
  jcal  0.5.1  Jalali calendar is a small and portable free software library to manipulate date and time in Jalali calendar system  legacyPackages.x86_64-linux.jcal 
  jcef-jetbrains  1014  Jetbrains' fork of JCEF  legacyPackages.x86_64-linux.jetbrains.jcef 
@@ -20654,7 +20609,7 @@
  kubeval-schema      legacyPackages.x86_64-linux.kubeval-schema 
  kubevela  1.10.2  Application delivery platform to deploy and operate applications in hybrid, multi-cloud environments  legacyPackages.x86_64-linux.kubevela 
  kubevirt  1.5.1  Client tool to use advanced features such as console access  legacyPackages.x86_64-linux.kubevirt 
- kubevpn  2.7.11  Create a VPN and connect to Kubernetes cluster network, access resources, and more  legacyPackages.x86_64-linux.kubevpn 
+ kubevpn  2.7.12  Create a VPN and connect to Kubernetes cluster network, access resources, and more  legacyPackages.x86_64-linux.kubevpn 
  kubexit  0.3.2  Command supervisor for coordinated Kubernetes pod container termination  legacyPackages.x86_64-linux.kubexit 
  kubexporter  0.6.3  Tool for exporting Kubernetes resources as YAML or JSON files  legacyPackages.x86_64-linux.kubexporter 
  kubie  0.25.2  Shell independent context and namespace switcher for kubectl  legacyPackages.x86_64-linux.kubie 
@@ -21634,10 +21589,10 @@
  libfido2  1.15.0  Provides library functionality for FIDO 2.0, including communication with a device over USB.   legacyPackages.x86_64-linux.libfido2 
  libfilezilla  0.49.0  Modern C++ library, offering some basic functionality to build high-performing, platform-independent programs  legacyPackages.x86_64-linux.libfilezilla 
  libfishsound  1.0.0  Simple programming interface for decoding and encoding audio data using Xiph.org codecs (FLAC, Speex and Vorbis)  legacyPackages.x86_64-linux.libfishsound 
- libfive  0-unstable-2025-05-04  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.ao 
- libfive  0-unstable-2025-05-04  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.libfive 
- libfive  0-unstable-2025-05-04  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.python312Packages.libfive 
- libfive  0-unstable-2025-05-04  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.python313Packages.libfive 
+ libfive  0-unstable-2025-05-22  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.ao 
+ libfive  0-unstable-2025-05-22  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.libfive 
+ libfive  0-unstable-2025-05-22  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.python312Packages.libfive 
+ libfive  0-unstable-2025-05-22  Infrastructure for solid modeling with F-Reps in C, C++, and Guile  legacyPackages.x86_64-linux.python313Packages.libfive 
  libfixposix  0.5.1  Thin wrapper over POSIX syscalls and some replacement functionality  legacyPackages.x86_64-linux.libfixposix 
  libfm  1.3.2  Glib-based library for file management  legacyPackages.x86_64-linux.libfm 
  libfm-extra  1.3.2  Glib-based library for file management  legacyPackages.x86_64-linux.libfm-extra 
@@ -22369,11 +22324,11 @@
  libretro-virtualjaguar  0-unstable-2024-10-21  Port of VirtualJaguar to libretro  legacyPackages.x86_64-linux.libretro.virtualjaguar 
  libretro-yabause  0-unstable-2024-10-21  Port of Yabause to libretro  legacyPackages.x86_64-linux.libretro.yabause 
  librevenge  0.0.5  Base library for writing document import filters  legacyPackages.x86_64-linux.librevenge 
- librewolf  138.0.4-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf 
- librewolf  138.0.4-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf-wayland 
+ librewolf  139.0-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf 
+ librewolf  139.0-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf-wayland 
  librewolf-bin  138.0.4-1  Fork of Firefox, focused on privacy, security and freedom (upstream binary release)  legacyPackages.x86_64-linux.librewolf-bin 
  librewolf-bin-unwrapped  138.0.4-1  Fork of Firefox, focused on privacy, security and freedom (upstream binary release)  legacyPackages.x86_64-linux.librewolf-bin-unwrapped 
- librewolf-unwrapped  138.0.4-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf-unwrapped 
+ librewolf-unwrapped  139.0-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf-unwrapped 
  librime  1.13.1  Rime Input Method Engine, the core library  legacyPackages.x86_64-linux.librime 
  librime-lua  0-unstable-2024-12-21  Extending RIME with Lua scripts  legacyPackages.x86_64-linux.librime-lua 
  librime-octagram  0-unstable-2024-11-18  RIME essay grammar plugin  legacyPackages.x86_64-linux.librime-octagram 
@@ -25593,7 +25548,7 @@
  mcaption  3.0  Put captions in the margin  legacyPackages.x86_64-linux.texlivePackages.mcaption 
  mcaselector  2.5.2  Tool to select chunks from Minecraft worlds for deletion or export  legacyPackages.x86_64-linux.mcaselector 
  mcat    cat command for documents / images / videos and more!  legacyPackages.x86_64-linux.mcat 
- mcat-unwrapped  0.2.8  cat command for documents / images / videos and more!  legacyPackages.x86_64-linux.mcat-unwrapped 
+ mcat-unwrapped  0.3.0  cat command for documents / images / videos and more!  legacyPackages.x86_64-linux.mcat-unwrapped 
  mcdreforged  2.14.7  Rewritten version of MCDaemon, a python tool to control your Minecraft server  legacyPackages.x86_64-linux.mcdreforged 
  mceinject-unstable  2013-01-19  Tool to inject machine checks into x86 kernel for testing  legacyPackages.x86_64-linux.mceinject 
  mceinleger  15878  Creating covers for music cassettes  legacyPackages.x86_64-linux.texlivePackages.mceinleger 
@@ -26734,7 +26689,7 @@
  mpir  3.0.0  Highly optimised library for bignum arithmetic forked from GMP  legacyPackages.x86_64-linux.mpir 
  mpkiviat  0.1  MetaPost package to draw Kiviat diagrams  legacyPackages.x86_64-linux.texlivePackages.mpkiviat 
  mplayer  1.5-unstable-2024-12-21  Movie player that supports many video formats  legacyPackages.x86_64-linux.mplayer 
- mpls  0.15.0  Live preview of markdown using Language Server Protocol  legacyPackages.x86_64-linux.mpls 
+ mpls  0.15.2  Live preview of markdown using Language Server Protocol  legacyPackages.x86_64-linux.mpls 
  mplus-outline-fonts-github-unstable  2022-05-19  M+ Outline Fonts (GitHub release)  legacyPackages.x86_64-linux.mplus-outline-fonts.githubRelease 
  mplus-outline-fonts-osdn  063a  M+ Outline Fonts (legacy OSDN release)  legacyPackages.x86_64-linux.mplus-outline-fonts.osdnRelease 
  mpman-ru  1.004  A Russian translation of the MetaPost manual  legacyPackages.x86_64-linux.texlivePackages.mpman-ru 
@@ -28461,7 +28416,7 @@
  nu_plugin_dbus  0.14.0  Nushell plugin for communicating with D-Bus  legacyPackages.x86_64-linux.nushellPlugins.dbus 
  nu_plugin_semver  0.11.4  A nushell plugin to work with semver versions  legacyPackages.x86_64-linux.nushellPlugins.semver 
  nu_plugin_skim  0.14.0  A nushell plugin that adds integrates the skim fuzzy finder  legacyPackages.x86_64-linux.nushellPlugins.skim 
- nu_scripts  0-unstable-2025-05-15  Place to share Nushell scripts with each other  legacyPackages.x86_64-linux.nu_scripts 
+ nu_scripts  0-unstable-2025-05-22  Place to share Nushell scripts with each other  legacyPackages.x86_64-linux.nu_scripts 
  nuc  0.1  Notation for nuclear isotopes  legacyPackages.x86_64-linux.texlivePackages.nuc 
  nuclear  0.6.47  Streaming music player that finds free music for you  legacyPackages.x86_64-linux.nuclear 
  nucleardata  1.1  Provides data about atomic nuclides for documents  legacyPackages.x86_64-linux.texlivePackages.nucleardata 
@@ -30136,6 +30091,7 @@
  ocaml5.3.0-mdx  2.5.0  Executable OCaml code blocks inside markdown files  legacyPackages.x86_64-linux.ocamlPackages.mdx 
  ocaml5.3.0-mec  0.1.0  Mec - Mini Elliptic Curve library  legacyPackages.x86_64-linux.ocamlPackages.mec 
  ocaml5.3.0-melange  5.0.0-53  Toolchain to produce JS from Reason/OCaml  legacyPackages.x86_64-linux.ocamlPackages.melange 
+ ocaml5.3.0-melange-json  2.0.0  Compositional JSON encode/decode library and PPX for Melange and OCaml  legacyPackages.x86_64-linux.ocamlPackages.melange-json 
  ocaml5.3.0-mem_usage  0.1.2  Cross-platform memory usage information  legacyPackages.x86_64-linux.ocamlPackages.mem_usage 
  ocaml5.3.0-memtrace  0.2.3  Streaming client for OCaml's Memprof  legacyPackages.x86_64-linux.ocamlPackages.memtrace 
  ocaml5.3.0-menhir  20240715  LR(1) parser generator for OCaml  legacyPackages.x86_64-linux.ocamlPackages.menhir 
@@ -39500,7 +39456,7 @@
  pkgdiff  1.8  Tool for visualizing changes in Linux software packages  legacyPackages.x86_64-linux.pkgdiff 
  pkger  0.17.1  Embed static files in Go binaries (replacement for gobuffalo/packr)  legacyPackages.x86_64-linux.pkger 
  pkgloader  0.7.0  Manage the options and loading order of other packages  legacyPackages.x86_64-linux.texlivePackages.pkgloader 
- pkgsite  0-unstable-2025-05-06  Official tool to extract and generate documentation for Go projects like pkg.go.dev  legacyPackages.x86_64-linux.pkgsite 
+ pkgsite  0-unstable-2025-05-23  Official tool to extract and generate documentation for Go projects like pkg.go.dev  legacyPackages.x86_64-linux.pkgsite 
  pkgtop  2.5.1  Interactive package manager and resource monitor designed for the GNU/Linux  legacyPackages.x86_64-linux.pkgtop 
  pkl  0.28.2  Configuration-as-code language with rich validation and tooling  legacyPackages.x86_64-linux.pkl 
  pktgen  24.10.3  Traffic generator powered by DPDK  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.pktgen 
@@ -39898,7 +39854,7 @@
  podman-bootc  0.1.2  Streamlining podman+bootc interactions  legacyPackages.x86_64-linux.podman-bootc 
  podman-compose  1.4.0  Implementation of docker-compose with podman backend  legacyPackages.x86_64-linux.podman-compose 
  podman-desktop  1.19.1  A graphical tool for developing on containers and Kubernetes  legacyPackages.x86_64-linux.podman-desktop 
- podman-tui  1.5.0  Podman Terminal UI  legacyPackages.x86_64-linux.podman-tui 
+ podman-tui  1.6.0  Podman Terminal UI  legacyPackages.x86_64-linux.podman-tui 
  podofo  0.10.4  Library to work with the PDF file format  legacyPackages.x86_64-linux.podofo010 
  podofo  0.9.8  Library to work with the PDF file format  legacyPackages.x86_64-linux.podofo 
  pods  2.1.2  Podman desktop application  legacyPackages.x86_64-linux.pods 
@@ -40197,7 +40153,7 @@
  prettier-d-slim  1.2.0  Makes prettier fast  legacyPackages.x86_64-linux.prettier-d-slim 
  prettier-plugin-go-template  0.0.15-unstable-2023-07-26  Fixes prettier formatting for go templates  legacyPackages.x86_64-linux.prettier-plugin-go-template 
  prettierd  0.26.1  Prettier, as a daemon, for improved formatting speed  legacyPackages.x86_64-linux.prettierd 
- pretty-php  0.4.93  The opinionated PHP code formatter  legacyPackages.x86_64-linux.pretty-php 
+ pretty-php  0.4.94  The opinionated PHP code formatter  legacyPackages.x86_64-linux.pretty-php 
  pretty-simple  4.1.3.0  pretty printer for data types with a 'Show' instance  legacyPackages.x86_64-linux.pretty-simple 
  prettybat    Pretty-print source code and highlight it with bat  legacyPackages.x86_64-linux.bat-extras.prettybat 
  prettyping  1.1.0  Wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read  legacyPackages.x86_64-linux.prettyping 
@@ -41363,7 +41319,7 @@
  python3.12-approval-utilities  14.5.0  Utilities for your production code that work well with approvaltests  legacyPackages.x86_64-linux.python312Packages.approval-utilities 
  python3.12-approvaltests  14.5.0  Assertion/verification library to aid testing  legacyPackages.x86_64-linux.python312Packages.approvaltests 
  python3.12-appservice-kube  0.1.10  Microsoft Azure Command-Line Tools App Service on Kubernetes Extension  legacyPackages.x86_64-linux.azure-cli-extensions.appservice-kube 
- python3.12-appthreat-vulnerability-db  6.4.0  Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm  legacyPackages.x86_64-linux.python312Packages.appthreat-vulnerability-db 
+ python3.12-appthreat-vulnerability-db  6.4.1  Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm  legacyPackages.x86_64-linux.python312Packages.appthreat-vulnerability-db 
  python3.12-apptools  5.3.1  Set of packages that Enthought has found useful in creating a number of applications  legacyPackages.x86_64-linux.python312Packages.apptools 
  python3.12-apricot-select  0.6.1  Module for submodular optimization for the purpose of selecting subsets of massive data sets  legacyPackages.x86_64-linux.python312Packages.apricot-select 
  python3.12-aprslib  0.7.2  Module for accessing APRS-IS and parsing APRS packets  legacyPackages.x86_64-linux.python312Packages.aprslib 
@@ -42327,7 +42283,7 @@
  python3.12-commandlines  0.4.1  Python library for command line argument parsing  legacyPackages.x86_64-linux.python312Packages.commandlines 
  python3.12-commandparse  1.1.2  Python module to parse command based CLI application  legacyPackages.x86_64-linux.python312Packages.commandparse 
  python3.12-commentjson  0.9.0  Add JavaScript or Python style comments in JSON  legacyPackages.x86_64-linux.python312Packages.commentjson 
- python3.12-commitizen  4.7.1  Tool to create committing rules for projects, auto bump versions, and generate changelogs  legacyPackages.x86_64-linux.python312Packages.commitizen 
+ python3.12-commitizen  4.8.2  Tool to create committing rules for projects, auto bump versions, and generate changelogs  legacyPackages.x86_64-linux.python312Packages.commitizen 
  python3.12-commoncode  32.2.1  Set of common utilities, originally split from ScanCode  legacyPackages.x86_64-linux.python312Packages.commoncode 
  python3.12-commonmark  0.9.1  Python CommonMark parser   legacyPackages.x86_64-linux.python312Packages.CommonMark 
  python3.12-commonmark  0.9.1  Python CommonMark parser   legacyPackages.x86_64-linux.python312Packages.commonmark 
@@ -42509,7 +42465,7 @@
  python3.12-cycler  0.12.1  Composable style cycles  legacyPackages.x86_64-linux.python312Packages.cycler 
  python3.12-cyclonedds-python  0.10.5  Python binding for Eclipse Cyclone DDS  legacyPackages.x86_64-linux.python312Packages.cyclonedds-python 
  python3.12-cyclonedx-python-lib  8.8.0  Python library for generating CycloneDX SBOMs  legacyPackages.x86_64-linux.python312Packages.cyclonedx-python-lib 
- python3.12-cyclopts  3.16.1  Module to create CLIs based on Python type hints  legacyPackages.x86_64-linux.python312Packages.cyclopts 
+ python3.12-cyclopts  3.16.2  Module to create CLIs based on Python type hints  legacyPackages.x86_64-linux.python312Packages.cyclopts 
  python3.12-cyipopt  1.5.0  Cython interface for the interior point optimzer IPOPT  legacyPackages.x86_64-linux.python312Packages.cyipopt 
  python3.12-cymem  2.0.11  Cython memory pool for RAII-style memory management  legacyPackages.x86_64-linux.python312Packages.cymem 
  python3.12-cymruwhois  1.6  Python client for the whois.cymru.com service  legacyPackages.x86_64-linux.python312Packages.cymruwhois 
@@ -45487,7 +45443,7 @@
  python3.12-ms-cv  0.1.1  Correlation vector implementation in python  legacyPackages.x86_64-linux.python312Packages.ms-cv 
  python3.12-msal  1.32.0  Library to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry standard OAuth2 and OpenID Connect  legacyPackages.x86_64-linux.python312Packages.msal 
  python3.12-msal-extensions  1.3.1  Microsoft Authentication Library Extensions (MSAL-Extensions) for Python  legacyPackages.x86_64-linux.python312Packages.msal-extensions 
- python3.12-mscerts  2025.2.26  Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python  legacyPackages.x86_64-linux.python312Packages.mscerts 
+ python3.12-mscerts  2025.5.28  Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python  legacyPackages.x86_64-linux.python312Packages.mscerts 
  python3.12-msg-parser  1.2.0  Python module to read, parse and converting Microsoft Outlook MSG E-Mail files  legacyPackages.x86_64-linux.python312Packages.msg-parser 
  python3.12-msgpack  1.1.0  MessagePack serializer implementation  legacyPackages.x86_64-linux.python312Packages.msgpack 
  python3.12-msgpack-numpy  0.4.8  Numpy data type serialization using msgpack  legacyPackages.x86_64-linux.python312Packages.msgpack-numpy 
@@ -47307,7 +47263,7 @@
  python3.12-pyinstaller-hooks-contrib  2025.4  Community maintained hooks for PyInstaller  legacyPackages.x86_64-linux.python312Packages.pyinstaller-hooks-contrib 
  python3.12-pyinstaller-versionfile  2.1.1  Create a windows version-file from a simple YAML file that can be used by PyInstaller  legacyPackages.x86_64-linux.python312Packages.pyinstaller-versionfile 
  python3.12-pyinsteon  1.6.3  Python library to support Insteon home automation projects  legacyPackages.x86_64-linux.python312Packages.pyinsteon 
- python3.12-pyinstrument  5.0.0  Call stack profiler for Python  legacyPackages.x86_64-linux.python312Packages.pyinstrument 
+ python3.12-pyinstrument  5.0.2  Call stack profiler for Python  legacyPackages.x86_64-linux.python312Packages.pyinstrument 
  python3.12-pyintesishome  1.8.5  Python interface for IntesisHome devices  legacyPackages.x86_64-linux.python312Packages.pyintesishome 
  python3.12-pyipma  3.0.9  Library to retrieve information from Instituto Português do Mar e Atmosfera  legacyPackages.x86_64-linux.python312Packages.pyipma 
  python3.12-pyipp  0.17.1  Asynchronous Python client for Internet Printing Protocol (IPP)  legacyPackages.x86_64-linux.python312Packages.pyipp 
@@ -48750,7 +48706,7 @@
  python3.12-riscv-config  3.18.3  RISC-V configuration validator  legacyPackages.x86_64-linux.python312Packages.riscv-config 
  python3.12-riscv-isac  0.18.0  ISA coverage extraction tool  legacyPackages.x86_64-linux.python312Packages.riscv-isac 
  python3.12-ritassist  0.9.3  Python client to access RitAssist and FleetGO API  legacyPackages.x86_64-linux.python312Packages.ritassist 
- python3.12-rivalcfg  4.14.0  Utility program that allows you to configure SteelSeries Rival gaming mice  legacyPackages.x86_64-linux.rivalcfg 
+ python3.12-rivalcfg  4.15.0  Utility program that allows you to configure SteelSeries Rival gaming mice  legacyPackages.x86_64-linux.rivalcfg 
  python3.12-rjpl  0.3.6  Library for interacting with the Rejseplanen API  legacyPackages.x86_64-linux.python312Packages.rjpl 
  python3.12-rjsmin  1.2.4  Module to minify Javascript  legacyPackages.x86_64-linux.python312Packages.rjsmin 
  python3.12-rki-covid-parser  1.3.3  Python module for working with data from the Robert-Koch Institut  legacyPackages.x86_64-linux.python312Packages.rki-covid-parser 
@@ -49395,7 +49351,7 @@
  python3.12-spring-cloud  3.1.9  Microsoft Azure Command-Line Tools spring-cloud Extension  legacyPackages.x86_64-linux.azure-cli-extensions.spring-cloud 
  python3.12-spsdk  2.6.1  NXP Secure Provisioning SDK  legacyPackages.x86_64-linux.python312Packages.spsdk 
  python3.12-spsdk-mcu-link  0.6.0  Debugger probe plugin for SPSDK supporting LPC-Link/MCU-Link from NXP  legacyPackages.x86_64-linux.python312Packages.spsdk-mcu-link 
- python3.12-spsdk-pyocd  0.3.1  Debugger probe plugin for SPSDK  legacyPackages.x86_64-linux.python312Packages.spsdk-pyocd 
+ python3.12-spsdk-pyocd  0.3.2  Debugger probe plugin for SPSDK  legacyPackages.x86_64-linux.python312Packages.spsdk-pyocd 
  python3.12-spur  0.3.23  Python module to run commands and manipulate files locally or over SSH  legacyPackages.x86_64-linux.python312Packages.spur 
  python3.12-spyder  6.1.0a2  Scientific python development environment  legacyPackages.x86_64-linux.python312Packages.spyder 
  python3.12-spyder-kernels  3.1.0a1  Jupyter kernels for Spyder's console  legacyPackages.x86_64-linux.python312Packages.spyder-kernels 
@@ -50662,7 +50618,7 @@
  python3.12-vsts  0.1.25  Python APIs for interacting with and managing Azure DevOps  legacyPackages.x86_64-linux.python312Packages.vsts 
  python3.12-vsts-cd-manager  1.0.2  Microsoft Azure API Management Client Library for Python  legacyPackages.x86_64-linux.python312Packages.vsts-cd-manager 
  python3.12-vsure  2.6.8  Python library for working with verisure devices  legacyPackages.x86_64-linux.python312Packages.vsure 
- python3.12-vt-py  0.20.0  Python client library for VirusTotal  legacyPackages.x86_64-linux.python312Packages.vt-py 
+ python3.12-vt-py  0.21.0  Python client library for VirusTotal  legacyPackages.x86_64-linux.python312Packages.vt-py 
  python3.12-vtjp  0.2.1  Python wrapper and cli for Västtrafik public API  legacyPackages.x86_64-linux.python312Packages.vtjp 
  python3.12-vttlib  0.12.0  Dump, merge and compile Visual TrueType data in UFO3 with FontTools  legacyPackages.x86_64-linux.python312Packages.vttlib 
  python3.12-vulcan-api  2.4.2  Python library for UONET+ e-register API  legacyPackages.x86_64-linux.python312Packages.vulcan-api 
@@ -51448,7 +51404,7 @@
  python3.13-apprise  1.9.3  Push Notifications that work with just about every platform  legacyPackages.x86_64-linux.python313Packages.apprise 
  python3.13-approval-utilities  14.5.0  Utilities for your production code that work well with approvaltests  legacyPackages.x86_64-linux.python313Packages.approval-utilities 
  python3.13-approvaltests  14.5.0  Assertion/verification library to aid testing  legacyPackages.x86_64-linux.python313Packages.approvaltests 
- python3.13-appthreat-vulnerability-db  6.4.0  Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm  legacyPackages.x86_64-linux.python313Packages.appthreat-vulnerability-db 
+ python3.13-appthreat-vulnerability-db  6.4.1  Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm  legacyPackages.x86_64-linux.python313Packages.appthreat-vulnerability-db 
  python3.13-apptools  5.3.1  Set of packages that Enthought has found useful in creating a number of applications  legacyPackages.x86_64-linux.python313Packages.apptools 
  python3.13-apricot-select  0.6.1  Module for submodular optimization for the purpose of selecting subsets of massive data sets  legacyPackages.x86_64-linux.python313Packages.apricot-select 
  python3.13-aprslib  0.7.2  Module for accessing APRS-IS and parsing APRS packets  legacyPackages.x86_64-linux.python313Packages.aprslib 
@@ -52376,7 +52332,7 @@
  python3.13-commandlines  0.4.1  Python library for command line argument parsing  legacyPackages.x86_64-linux.python313Packages.commandlines 
  python3.13-commandparse  1.1.2  Python module to parse command based CLI application  legacyPackages.x86_64-linux.python313Packages.commandparse 
  python3.13-commentjson  0.9.0  Add JavaScript or Python style comments in JSON  legacyPackages.x86_64-linux.python313Packages.commentjson 
- python3.13-commitizen  4.7.1  Tool to create committing rules for projects, auto bump versions, and generate changelogs  legacyPackages.x86_64-linux.python313Packages.commitizen 
+ python3.13-commitizen  4.8.2  Tool to create committing rules for projects, auto bump versions, and generate changelogs  legacyPackages.x86_64-linux.python313Packages.commitizen 
  python3.13-commoncode  32.2.1  Set of common utilities, originally split from ScanCode  legacyPackages.x86_64-linux.python313Packages.commoncode 
  python3.13-commonmark  0.9.1  Python CommonMark parser   legacyPackages.x86_64-linux.python313Packages.CommonMark 
  python3.13-commonmark  0.9.1  Python CommonMark parser   legacyPackages.x86_64-linux.python313Packages.commonmark 
@@ -52547,7 +52503,7 @@
  python3.13-cycler  0.12.1  Composable style cycles  legacyPackages.x86_64-linux.python313Packages.cycler 
  python3.13-cyclonedds-python  0.10.5  Python binding for Eclipse Cyclone DDS  legacyPackages.x86_64-linux.python313Packages.cyclonedds-python 
  python3.13-cyclonedx-python-lib  8.8.0  Python library for generating CycloneDX SBOMs  legacyPackages.x86_64-linux.python313Packages.cyclonedx-python-lib 
- python3.13-cyclopts  3.16.1  Module to create CLIs based on Python type hints  legacyPackages.x86_64-linux.python313Packages.cyclopts 
+ python3.13-cyclopts  3.16.2  Module to create CLIs based on Python type hints  legacyPackages.x86_64-linux.python313Packages.cyclopts 
  python3.13-cyipopt  1.5.0  Cython interface for the interior point optimzer IPOPT  legacyPackages.x86_64-linux.python313Packages.cyipopt 
  python3.13-cymem  2.0.11  Cython memory pool for RAII-style memory management  legacyPackages.x86_64-linux.python313Packages.cymem 
  python3.13-cymruwhois  1.6  Python client for the whois.cymru.com service  legacyPackages.x86_64-linux.python313Packages.cymruwhois 
@@ -55439,7 +55395,7 @@
  python3.13-ms-cv  0.1.1  Correlation vector implementation in python  legacyPackages.x86_64-linux.python313Packages.ms-cv 
  python3.13-msal  1.32.0  Library to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry standard OAuth2 and OpenID Connect  legacyPackages.x86_64-linux.python313Packages.msal 
  python3.13-msal-extensions  1.3.1  Microsoft Authentication Library Extensions (MSAL-Extensions) for Python  legacyPackages.x86_64-linux.python313Packages.msal-extensions 
- python3.13-mscerts  2025.2.26  Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python  legacyPackages.x86_64-linux.python313Packages.mscerts 
+ python3.13-mscerts  2025.5.28  Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python  legacyPackages.x86_64-linux.python313Packages.mscerts 
  python3.13-msg-parser  1.2.0  Python module to read, parse and converting Microsoft Outlook MSG E-Mail files  legacyPackages.x86_64-linux.python313Packages.msg-parser 
  python3.13-msgpack  1.1.0  MessagePack serializer implementation  legacyPackages.x86_64-linux.python313Packages.msgpack 
  python3.13-msgpack-numpy  0.4.8  Numpy data type serialization using msgpack  legacyPackages.x86_64-linux.python313Packages.msgpack-numpy 
@@ -57197,7 +57153,7 @@
  python3.13-pyinstaller-hooks-contrib  2025.4  Community maintained hooks for PyInstaller  legacyPackages.x86_64-linux.python313Packages.pyinstaller-hooks-contrib 
  python3.13-pyinstaller-versionfile  2.1.1  Create a windows version-file from a simple YAML file that can be used by PyInstaller  legacyPackages.x86_64-linux.python313Packages.pyinstaller-versionfile 
  python3.13-pyinsteon  1.6.3  Python library to support Insteon home automation projects  legacyPackages.x86_64-linux.python313Packages.pyinsteon 
- python3.13-pyinstrument  5.0.0  Call stack profiler for Python  legacyPackages.x86_64-linux.python313Packages.pyinstrument 
+ python3.13-pyinstrument  5.0.2  Call stack profiler for Python  legacyPackages.x86_64-linux.python313Packages.pyinstrument 
  python3.13-pyintesishome  1.8.5  Python interface for IntesisHome devices  legacyPackages.x86_64-linux.python313Packages.pyintesishome 
  python3.13-pyipma  3.0.9  Library to retrieve information from Instituto Português do Mar e Atmosfera  legacyPackages.x86_64-linux.python313Packages.pyipma 
  python3.13-pyipp  0.17.1  Asynchronous Python client for Internet Printing Protocol (IPP)  legacyPackages.x86_64-linux.python313Packages.pyipp 
@@ -59258,7 +59214,7 @@
  python3.13-spotipy  2.25.1  Library for the Spotify Web API  legacyPackages.x86_64-linux.python313Packages.spotipy 
  python3.13-spsdk  2.6.1  NXP Secure Provisioning SDK  legacyPackages.x86_64-linux.python313Packages.spsdk 
  python3.13-spsdk-mcu-link  0.6.0  Debugger probe plugin for SPSDK supporting LPC-Link/MCU-Link from NXP  legacyPackages.x86_64-linux.python313Packages.spsdk-mcu-link 
- python3.13-spsdk-pyocd  0.3.1  Debugger probe plugin for SPSDK  legacyPackages.x86_64-linux.python313Packages.spsdk-pyocd 
+ python3.13-spsdk-pyocd  0.3.2  Debugger probe plugin for SPSDK  legacyPackages.x86_64-linux.python313Packages.spsdk-pyocd 
  python3.13-spur  0.3.23  Python module to run commands and manipulate files locally or over SSH  legacyPackages.x86_64-linux.python313Packages.spur 
  python3.13-spyder  6.1.0a2  Scientific python development environment  legacyPackages.x86_64-linux.python313Packages.spyder 
  python3.13-spyder-kernels  3.1.0a1  Jupyter kernels for Spyder's console  legacyPackages.x86_64-linux.python313Packages.spyder-kernels 
@@ -60499,7 +60455,7 @@
  python3.13-vsts  0.1.25  Python APIs for interacting with and managing Azure DevOps  legacyPackages.x86_64-linux.python313Packages.vsts 
  python3.13-vsts-cd-manager  1.0.2  Microsoft Azure API Management Client Library for Python  legacyPackages.x86_64-linux.python313Packages.vsts-cd-manager 
  python3.13-vsure  2.6.8  Python library for working with verisure devices  legacyPackages.x86_64-linux.python313Packages.vsure 
- python3.13-vt-py  0.20.0  Python client library for VirusTotal  legacyPackages.x86_64-linux.python313Packages.vt-py 
+ python3.13-vt-py  0.21.0  Python client library for VirusTotal  legacyPackages.x86_64-linux.python313Packages.vt-py 
  python3.13-vtjp  0.2.1  Python wrapper and cli for Västtrafik public API  legacyPackages.x86_64-linux.python313Packages.vtjp 
  python3.13-vttlib  0.12.0  Dump, merge and compile Visual TrueType data in UFO3 with FontTools  legacyPackages.x86_64-linux.python313Packages.vttlib 
  python3.13-vulcan-api  2.4.2  Python library for UONET+ e-register API  legacyPackages.x86_64-linux.python313Packages.vulcan-api 
@@ -61039,7 +60995,7 @@
  qgnomeplatform  0.8.4  QPlatformTheme for a better Qt application inclusion in GNOME  legacyPackages.x86_64-linux.qgnomeplatform-qt6 
  qgo-unstable  2017-12-18  Go client based on Qt5  legacyPackages.x86_64-linux.qgo 
  qgrep  1.3  Fast regular expression grep for source code with incremental index updates  legacyPackages.x86_64-linux.qgrep 
- qgroundcontrol  4.4.4  Provides full ground station support and configuration for the PX4 and APM Flight Stacks  legacyPackages.x86_64-linux.qgroundcontrol 
+ qgroundcontrol  4.4.5  Provides full ground station support and configuration for the PX4 and APM Flight Stacks  legacyPackages.x86_64-linux.qgroundcontrol 
  qgv  1.3.5  Interactive Qt graphViz display  legacyPackages.x86_64-linux.qgv 
  qhexedit2  0.9.0  Hex Editor for Qt  legacyPackages.x86_64-linux.qhexedit2 
  qhull  2020.2  Compute the convex hull, Delaunay triangulation, Voronoi diagram and more  legacyPackages.x86_64-linux.qhull 
@@ -62438,7 +62394,7 @@
  rkvm  0.6.1  Virtual KVM switch for Linux machines  legacyPackages.x86_64-linux.rkvm 
  rl_json  0.15.2  Tcl extension for fast json manipulation  legacyPackages.x86_64-linux.rl_json 
  rl_json  0.15.2  Tcl extension for fast json manipulation  legacyPackages.x86_64-linux.tclPackages.rl_json 
- rlama  0.1.36  Retrieval-Augmented Language Model Adapter  legacyPackages.x86_64-linux.rlama 
+ rlama  0.1.39  Retrieval-Augmented Language Model Adapter  legacyPackages.x86_64-linux.rlama 
  rlaunch  1.3.14  Lightweight application launcher for X11  legacyPackages.x86_64-linux.rlaunch 
  rlci  1.1.2  Lambda calculus interpreter  legacyPackages.x86_64-linux.rlci 
  rlepsf  19082  Rewrite labels in EPS graphics  legacyPackages.x86_64-linux.texlivePackages.rlepsf 
@@ -62520,6 +62476,7 @@
  rocksdb  7.10.2  Library that provides an embeddable, persistent key-value store for fast storage  legacyPackages.x86_64-linux.rocksdb_7_10 
  rocksdb  8.11.4  Library that provides an embeddable, persistent key-value store for fast storage  legacyPackages.x86_64-linux.rocksdb_8_11 
  rocksdb  8.3.2  Library that provides an embeddable, persistent key-value store for fast storage  legacyPackages.x86_64-linux.rocksdb_8_3 
+ rocksdb  9.10.0  Library that provides an embeddable, persistent key-value store for fast storage  legacyPackages.x86_64-linux.rocksdb_9_10 
  rocksndiamonds  4.4.0.4  Scrolling tile-based arcade style puzzle game  legacyPackages.x86_64-linux.rocksndiamonds 
  rockstarlang  2.0.30  Esoteric programming language whose syntax is inspired by the lyrics to 80s hard rock and heavy metal songs  legacyPackages.x86_64-linux.rockstarlang 
  rockyou  2025.2  Famous wordlist often used for brute force attacks  legacyPackages.x86_64-linux.rockyou 
@@ -62717,7 +62674,7 @@
  rpp-hip  6.3.3  Comprehensive high-performance computer vision library for AMD processors  legacyPackages.x86_64-linux.rocmPackages_6.rpp-hip 
  rq  1.0.4  Tool for doing record analysis and transformation  legacyPackages.x86_64-linux.rq 
  rqbit  8.0.0  Bittorrent client in Rust  legacyPackages.x86_64-linux.rqbit 
- rqlite  8.37.0  Lightweight, distributed relational database built on SQLite  legacyPackages.x86_64-linux.rqlite 
+ rqlite  8.37.1  Lightweight, distributed relational database built on SQLite  legacyPackages.x86_64-linux.rqlite 
  rquickshare  0.11.5  Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS  legacyPackages.x86_64-linux.rquickshare 
  rquickshare-legacy  0.11.5  Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS  legacyPackages.x86_64-linux.rquickshare-legacy 
  rr  5.9.0  Records nondeterministic executions and debugs them deterministically  legacyPackages.x86_64-linux.rr 
@@ -70891,7 +70848,7 @@
  screen-pipe  0.1.48  Personalized AI powered by what you've seen, said, or heard  legacyPackages.x86_64-linux.screen-pipe 
  screenconfig  0.1.0  Automatic configuration of connected screens/monitors  legacyPackages.x86_64-linux.screenconfig 
  screenfetch  3.9.9  Fetches system/theme information in terminal for Linux desktop screenshots  legacyPackages.x86_64-linux.screenfetch 
- screengrab  2.10.0  Crossplatform tool for fast making screenshots  legacyPackages.x86_64-linux.lxqt.screengrab 
+ screengrab  3.0.0  Crossplatform tool for fast making screenshots  legacyPackages.x86_64-linux.lxqt.screengrab 
  screenkey  1.5  Screencast tool to display your keys inspired by Screenflick  legacyPackages.x86_64-linux.screenkey 
  screenly-cli  1.0.3  Tools for managing digital signs and screens at scale  legacyPackages.x86_64-linux.screenly-cli 
  screenplay  1.6  A class file to typeset screenplays  legacyPackages.x86_64-linux.texlivePackages.screenplay 
@@ -72634,8 +72591,8 @@
  strace-analyzer  0.5.4  Analyzes strace output  legacyPackages.x86_64-linux.strace-analyzer 
  stract  0-unstable-2025-03-24  Open source web search engine  legacyPackages.x86_64-linux.stract 
  strands  1.1  Draw objects constructed from strands  legacyPackages.x86_64-linux.texlivePackages.strands 
- stratis-cli  3.7.0  CLI for the Stratis project  legacyPackages.x86_64-linux.stratis-cli 
- stratisd  3.7.3  Easy to use local storage management for Linux  legacyPackages.x86_64-linux.stratisd 
+ stratis-cli  3.8.1  CLI for the Stratis project  legacyPackages.x86_64-linux.stratis-cli 
+ stratisd  3.8.1  Easy to use local storage management for Linux  legacyPackages.x86_64-linux.stratisd 
  stratovirt  2.4.0  Virtual Machine Manager from Huawei  legacyPackages.x86_64-linux.stratovirt 
  strawberry  1.2.11  Music player and music collection organizer  legacyPackages.x86_64-linux.strawberry 
  strawberry  1.2.11  Music player and music collection organizer  legacyPackages.x86_64-linux.strawberry-qt6 
@@ -73544,7 +73501,7 @@
  tailscale-systray  2022-10-19  Tailscale systray  legacyPackages.x86_64-linux.tailscale-systray 
  tailscalesd  0.3.0  Prometheus Service Discovery for Tailscale  legacyPackages.x86_64-linux.tailscalesd 
  tailspin  4.0.0  Log file highlighter  legacyPackages.x86_64-linux.tailspin 
- tailwindcss-language-server  0.14.18  Tailwind CSS Language Server  legacyPackages.x86_64-linux.tailwindcss-language-server 
+ tailwindcss-language-server  0.14.19  Tailwind CSS Language Server  legacyPackages.x86_64-linux.tailwindcss-language-server 
  tailwindcss_3  3.4.17  Command-line tool for the CSS framework with composable CSS classes, standalone CLI  legacyPackages.x86_64-linux.tailwindcss 
  tailwindcss_3  3.4.17  Command-line tool for the CSS framework with composable CSS classes, standalone CLI  legacyPackages.x86_64-linux.tailwindcss_3 
  tailwindcss_4  4.1.7  Command-line tool for the CSS framework with composable CSS classes, standalone v4 CLI  legacyPackages.x86_64-linux.tailwindcss_4 
@@ -74022,7 +73979,7 @@
  terraform-provider-github  6.6.0    legacyPackages.x86_64-linux.terraform-providers.github 
  terraform-provider-gitlab  17.11.0    legacyPackages.x86_64-linux.terraform-providers.gitlab 
  terraform-provider-google  6.36.1    legacyPackages.x86_64-linux.terraform-providers.google 
- terraform-provider-google-beta  6.35.0    legacyPackages.x86_64-linux.terraform-providers.google-beta 
+ terraform-provider-google-beta  6.37.0    legacyPackages.x86_64-linux.terraform-providers.google-beta 
  terraform-provider-googleworkspace  0.7.0    legacyPackages.x86_64-linux.terraform-providers.googleworkspace 
  terraform-provider-grafana  3.25.0    legacyPackages.x86_64-linux.terraform-providers.grafana 
  terraform-provider-gridscale  2.1.1    legacyPackages.x86_64-linux.terraform-providers.gridscale 
@@ -74048,7 +74005,7 @@
  terraform-provider-kubernetes  2.36.0    legacyPackages.x86_64-linux.terraform-providers.kubernetes 
  terraform-provider-launchdarkly  2.25.0    legacyPackages.x86_64-linux.terraform-providers.launchdarkly 
  terraform-provider-libvirt  0.8.3    legacyPackages.x86_64-linux.terraform-providers.libvirt 
- terraform-provider-linode  2.39.0    legacyPackages.x86_64-linux.terraform-providers.linode 
+ terraform-provider-linode  2.41.0    legacyPackages.x86_64-linux.terraform-providers.linode 
  terraform-provider-linuxbox  0.5.8    legacyPackages.x86_64-linux.terraform-providers.linuxbox 
  terraform-provider-local  2.5.3    legacyPackages.x86_64-linux.terraform-providers.local 
  terraform-provider-lxd  2.5.0    legacyPackages.x86_64-linux.terraform-providers.lxd 
@@ -74060,7 +74017,7 @@
  terraform-provider-mongodbatlas  1.34.0    legacyPackages.x86_64-linux.terraform-providers.mongodbatlas 
  terraform-provider-namecheap  2.2.0    legacyPackages.x86_64-linux.terraform-providers.namecheap 
  terraform-provider-netlify  0.6.12    legacyPackages.x86_64-linux.terraform-providers.netlify 
- terraform-provider-newrelic  3.61.0    legacyPackages.x86_64-linux.terraform-providers.newrelic 
+ terraform-provider-newrelic  3.62.0    legacyPackages.x86_64-linux.terraform-providers.newrelic 
  terraform-provider-nexus  2.6.0    legacyPackages.x86_64-linux.terraform-providers.nexus 
  terraform-provider-nomad  2.5.0    legacyPackages.x86_64-linux.terraform-providers.nomad 
  terraform-provider-ns1  2.6.4    legacyPackages.x86_64-linux.terraform-providers.ns1 
@@ -78634,7 +78591,7 @@
  unfs3  0.10.0  User-space NFSv3 file system server  legacyPackages.x86_64-linux.unfs3 
  unfurl  0.4.3  Pull out bits of URLs provided on stdin  legacyPackages.x86_64-linux.unfurl 
  ungit  1.5.28  Git made easy  legacyPackages.x86_64-linux.ungit 
- ungoogled-chromium  136.0.7103.113  Open source web browser from Google, with dependencies on Google web services removed  legacyPackages.x86_64-linux.ungoogled-chromium 
+ ungoogled-chromium  137.0.7151.55  Open source web browser from Google, with dependencies on Google web services removed  legacyPackages.x86_64-linux.ungoogled-chromium 
  unhide  20220611  Forensic tool to find hidden processes and TCP/UDP ports by rootkits/LKMs  legacyPackages.x86_64-linux.unhide 
  unhide-gui  20240510  Forensic tool to find hidden processes and TCP/UDP ports by rootkits, LKMs or other hiding technique  legacyPackages.x86_64-linux.unhide-gui 
  uni  2.8.0  Query the Unicode database from the commandline, with good support for emojis  legacyPackages.x86_64-linux.uni 
@@ -79374,7 +79331,7 @@
  venv-shell-hook      legacyPackages.x86_64-linux.python312Packages.venvShellHook 
  venv-shell-hook      legacyPackages.x86_64-linux.python313Packages.venvShellHook 
  veracrypt  1.26.20  Free Open-Source filesystem on-the-fly encryption  legacyPackages.x86_64-linux.veracrypt 
- verapdf  1.26.4  Command line and GUI industry supported PDF/A and PDF/UA Validation  legacyPackages.x86_64-linux.verapdf 
+ verapdf  1.26.5  Command line and GUI industry supported PDF/A and PDF/UA Validation  legacyPackages.x86_64-linux.verapdf 
  verbasef  1.1  VERBatim Automatic Splitting of External Files  legacyPackages.x86_64-linux.texlivePackages.verbasef 
  verbatimbox  3.2  Deposit verbatim text in a box  legacyPackages.x86_64-linux.texlivePackages.verbatimbox 
  verbatimcopy  0.06  Make copies of text documents from within LaTeX  legacyPackages.x86_64-linux.texlivePackages.verbatimcopy 
@@ -79401,7 +79358,7 @@
  version  2.0  Conditionally include text  legacyPackages.x86_64-linux.texlivePackages.version 
  version-check-hook    Lookup for $version in the output of --help and --version  legacyPackages.x86_64-linux.versionCheckHook 
  versions  0.55  Optionally omit pieces of text  legacyPackages.x86_64-linux.texlivePackages.versions 
- versitygw  1.0.13  Versity S3 gateway, a high-performance S3 translation service  legacyPackages.x86_64-linux.versitygw 
+ versitygw  1.0.14  Versity S3 gateway, a high-performance S3 translation service  legacyPackages.x86_64-linux.versitygw 
  versonotes  0.5  Display brief notes on verso pages  legacyPackages.x86_64-linux.texlivePackages.versonotes 
  versus  1.0  Benchmark multiple API endpoints against each other  legacyPackages.x86_64-linux.versus 
  vertbars  1.0c  Mark vertical rules in margin of text  legacyPackages.x86_64-linux.texlivePackages.vertbars 
@@ -82573,7 +82530,7 @@
  vulkan-caps-viewer  4.01  Vulkan hardware capability viewer  legacyPackages.x86_64-linux.vulkan-caps-viewer 
  vulkan-cts  1.4.2.0  Khronos Vulkan Conformance Tests  legacyPackages.x86_64-linux.vulkan-cts 
  vulkan-extension-layer  1.4.313.0  Layers providing Vulkan features when native support is unavailable  legacyPackages.x86_64-linux.vulkan-extension-layer 
- vulkan-hdr-layer-kwin6  0-unstable-2025-04-16  Vulkan Wayland HDR WSI Layer (Xaver Hugl's fork for KWin 6)  legacyPackages.x86_64-linux.vulkan-hdr-layer-kwin6 
+ vulkan-hdr-layer-kwin6  0-unstable-2025-05-22  Vulkan Wayland HDR WSI Layer (Xaver Hugl's fork for KWin 6)  legacyPackages.x86_64-linux.vulkan-hdr-layer-kwin6 
  vulkan-headers  1.4.313.0  Vulkan Header files and API registry  legacyPackages.x86_64-linux.vulkan-headers 
  vulkan-helper-unstable  2023-12-22  Simple CLI app used to interface with basic Vulkan APIs  legacyPackages.x86_64-linux.vulkan-helper 
  vulkan-loader  1.4.313.0  LunarG Vulkan loader  legacyPackages.x86_64-linux.vulkan-loader 
@@ -83728,7 +83685,7 @@
  xdoc-prot2.5    Extending the LaTeX doc system  legacyPackages.x86_64-linux.texlivePackages.xdoc 
  xdot  1.4  Interactive viewer for graphs written in Graphviz's dot  legacyPackages.x86_64-linux.xdot 
  xdotool  3.20211022.1  Fake keyboard/mouse input, window management, and more  legacyPackages.x86_64-linux.xdotool 
- xdp-tools  1.5.2  Library and utilities for use with XDP  legacyPackages.x86_64-linux.xdp-tools 
+ xdp-tools  1.5.5  Library and utilities for use with XDP  legacyPackages.x86_64-linux.xdp-tools 
  xdpyinfo  1.3.4    legacyPackages.x86_64-linux.xorg.xdpyinfo 
  xdriinfo  1.0.7    legacyPackages.x86_64-linux.xorg.xdriinfo 
  xdummy      legacyPackages.x86_64-linux.xdummy 
@@ -84055,51 +84012,51 @@
  xnviewmp  1.8.8  Efficient multimedia viewer, browser and converter  legacyPackages.x86_64-linux.xnviewmp 
  xo  1.0.2  Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server  legacyPackages.x86_64-linux.xo 
  xob  0.3  Lightweight overlay bar for the X Window System  legacyPackages.x86_64-linux.xob 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages-libre.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_ham.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_hardened.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_latest-libre.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_latest.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_lqx.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_xanmod.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xone 
- xone  0.3-unstable-2024-12-23  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_zen.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages-libre.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_ham.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_hardened.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_latest-libre.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_latest.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_lqx.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_xanmod.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xone 
+ xone  0.3.1  Linux kernel driver for Xbox One and Xbox Series XS accessories  legacyPackages.x86_64-linux.linuxPackages_zen.xone 
  xonotic  0.8.6    legacyPackages.x86_64-linux.xonotic-data 
  xonotic-dedicated  0.8.6  A free fast-paced first-person shooter  legacyPackages.x86_64-linux.xonotic-dedicated 
  xonotic-dedicated-unwrapped  0.8.6    legacyPackages.x86_64-linux.xonotic-dedicated-unwrapped 
@@ -84125,7 +84082,7 @@
  xosview  1.24  Classic system monitoring tool  legacyPackages.x86_64-linux.xosview 
  xosview2  2.3.3  Lightweight graphical operating system monitor  legacyPackages.x86_64-linux.xosview2 
  xournalpp  1.2.7  Xournal++ is a handwriting Notetaking software with PDF annotation support  legacyPackages.x86_64-linux.xournalpp 
- xow_dongle-firmware  2017-07  Xbox One wireless dongle firmware  legacyPackages.x86_64-linux.xow_dongle-firmware 
+ xow_dongle-firmware  0-unstable-2025-04-22  Xbox One wireless dongle firmware  legacyPackages.x86_64-linux.xow_dongle-firmware 
  xp-pen-deco  01-v2-driver-3.4.9-231023  Drivers for the XP-PEN Deco 01 v2 drawing tablet  legacyPackages.x86_64-linux.libsForQt5.xp-pen-deco-01-v2-driver 
  xp-pen-deco  01-v2-driver-3.4.9-231023  Drivers for the XP-PEN Deco 01 v2 drawing tablet  legacyPackages.x86_64-linux.plasma5Packages.xp-pen-deco-01-v2-driver 
  xp-pen-deco  01-v2-driver-3.4.9-231023  Drivers for the XP-PEN Deco 01 v2 drawing tablet  legacyPackages.x86_64-linux.xp-pen-deco-01-v2-driver 

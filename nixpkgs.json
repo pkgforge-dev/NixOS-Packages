@@ -452,12 +452,12 @@
   "legacyPackages.x86_64-linux._1password": {
     "description": "1Password command-line tool",
     "pname": "1password-cli",
-    "version": "2.31.0"
+    "version": "2.31.1"
   },
   "legacyPackages.x86_64-linux._1password-cli": {
     "description": "1Password command-line tool",
     "pname": "1password-cli",
-    "version": "2.31.0"
+    "version": "2.31.1"
   },
   "legacyPackages.x86_64-linux._1password-gui": {
     "description": "Multi-platform password manager",
@@ -3972,7 +3972,7 @@
   "legacyPackages.x86_64-linux.aliyun-cli": {
     "description": "Tool to manage and use Alibaba Cloud resources through a command line interface",
     "pname": "aliyun-cli",
-    "version": "3.0.277"
+    "version": "3.0.278"
   },
   "legacyPackages.x86_64-linux.alkalami": {
     "description": "Font for Arabic-based writing systems in the Kano region of Nigeria and in Niger",
@@ -8152,7 +8152,7 @@
   "legacyPackages.x86_64-linux.ao": {
     "description": "Infrastructure for solid modeling with F-Reps in C, C++, and Guile",
     "pname": "libfive",
-    "version": "0-unstable-2025-05-04"
+    "version": "0-unstable-2025-05-22"
   },
   "legacyPackages.x86_64-linux.aoc-cli": {
     "description": "Advent of code command line tool",
@@ -8737,7 +8737,7 @@
   "legacyPackages.x86_64-linux.appflowy": {
     "description": "An open-source alternative to Notion",
     "pname": "appflowy",
-    "version": "0.9.2"
+    "version": "0.9.3"
   },
   "legacyPackages.x86_64-linux.appgate-sdp": {
     "description": "Appgate SDP (Software Defined Perimeter) desktop client",
@@ -10992,7 +10992,7 @@
   "legacyPackages.x86_64-linux.auth0-cli": {
     "description": "Supercharge your developer workflow",
     "pname": "auth0-cli",
-    "version": "1.13.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.authelia": {
     "description": "Single Sign-On Multi-Factor portal for web apps",
@@ -15487,7 +15487,7 @@
   "legacyPackages.x86_64-linux.blockbook": {
     "description": "Trezor address/account balance backend",
     "pname": "blockbook",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.blockdiag": {
     "description": "Generate block-diagram image from spec-text file (similar to Graphviz)",
@@ -26052,7 +26052,7 @@
   "legacyPackages.x86_64-linux.commitizen": {
     "description": "Tool to create committing rules for projects, auto bump versions, and generate changelogs",
     "pname": "commitizen",
-    "version": "4.7.1"
+    "version": "4.8.2"
   },
   "legacyPackages.x86_64-linux.commitizen-go": {
     "description": "Command line utility to standardize git commit messages, golang version",
@@ -32587,7 +32587,7 @@
   "legacyPackages.x86_64-linux.deno": {
     "description": "Secure runtime for JavaScript and TypeScript",
     "pname": "deno",
-    "version": "2.2.12"
+    "version": "2.3.3"
   },
   "legacyPackages.x86_64-linux.densify": {
     "description": "Compress PDF files with Ghostscript",
@@ -46722,7 +46722,7 @@
   "legacyPackages.x86_64-linux.ggshield": {
     "description": "Tool to find and fix various types of hardcoded secrets and infrastructure-as-code misconfigurations",
     "pname": "ggshield",
-    "version": "1.39.0"
+    "version": "1.40.0"
   },
   "legacyPackages.x86_64-linux.ggz_base_libs": {
     "description": "GGZ Gaming zone libraries",
@@ -59192,7 +59192,7 @@
   "legacyPackages.x86_64-linux.hashes": {
     "description": "Simple hash algorithm identification GUI",
     "pname": "hashes",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.hashi-ui": {
     "description": "Modern user interface for hashicorp Consul & Nomad",
@@ -59962,12 +59962,12 @@
   "legacyPackages.x86_64-linux.heroic": {
     "description": "Native GOG, Epic, and Amazon Games Launcher for Linux, Windows and Mac",
     "pname": "heroic",
-    "version": "2.16.1"
+    "version": "2.17.0"
   },
   "legacyPackages.x86_64-linux.heroic-unwrapped": {
     "description": "Native GOG, Epic, and Amazon Games Launcher for Linux, Windows and Mac",
     "pname": "heroic-unwrapped",
-    "version": "2.16.1"
+    "version": "2.17.0"
   },
   "legacyPackages.x86_64-linux.heroku": {
     "description": "Everything you need to get started using Heroku",
@@ -67277,7 +67277,7 @@
   "legacyPackages.x86_64-linux.hypercore": {
     "description": "Secure, distributed append-only log",
     "pname": "hypercore",
-    "version": "11.7.0"
+    "version": "11.8.3"
   },
   "legacyPackages.x86_64-linux.hyperfine": {
     "description": "Command-line benchmarking tool",
@@ -71332,7 +71332,7 @@
   "legacyPackages.x86_64-linux.jbrowse": {
     "description": "Next-generation genome browser",
     "pname": "jbrowse",
-    "version": "3.4.0"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.jc": {
     "description": "This tool serializes the output of popular command line tools and filetypes to structured JSON output",
@@ -78757,7 +78757,7 @@
   "legacyPackages.x86_64-linux.kubevpn": {
     "description": "Create a VPN and connect to Kubernetes cluster network, access resources, and more",
     "pname": "kubevpn",
-    "version": "2.7.11"
+    "version": "2.7.12"
   },
   "legacyPackages.x86_64-linux.kubexit": {
     "description": "Command supervisor for coordinated Kubernetes pod container termination",
@@ -81677,7 +81677,7 @@
   "legacyPackages.x86_64-linux.libfive": {
     "description": "Infrastructure for solid modeling with F-Reps in C, C++, and Guile",
     "pname": "libfive",
-    "version": "0-unstable-2025-05-04"
+    "version": "0-unstable-2025-05-22"
   },
   "legacyPackages.x86_64-linux.libfixposix": {
     "description": "Thin wrapper over POSIX syscalls and some replacement functionality",
@@ -84682,7 +84682,7 @@
   "legacyPackages.x86_64-linux.librewolf": {
     "description": "Fork of Firefox, focused on privacy, security and freedom",
     "pname": "librewolf",
-    "version": "138.0.4-1"
+    "version": "139.0-1"
   },
   "legacyPackages.x86_64-linux.librewolf-bin": {
     "description": "Fork of Firefox, focused on privacy, security and freedom (upstream binary release)",
@@ -84697,12 +84697,12 @@
   "legacyPackages.x86_64-linux.librewolf-unwrapped": {
     "description": "Fork of Firefox, focused on privacy, security and freedom",
     "pname": "librewolf-unwrapped",
-    "version": "138.0.4-1"
+    "version": "139.0-1"
   },
   "legacyPackages.x86_64-linux.librewolf-wayland": {
     "description": "Fork of Firefox, focused on privacy, security and freedom",
     "pname": "librewolf",
-    "version": "138.0.4-1"
+    "version": "139.0-1"
   },
   "legacyPackages.x86_64-linux.librime": {
     "description": "Rime Input Method Engine, the core library",
@@ -89724,11 +89724,6 @@
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.10.237"
   },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.10.237"
-  },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
     "pname": "ax99100",
@@ -90447,7 +90442,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -90523,11 +90518,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.10.237"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.10.237"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -91247,7 +91237,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -91323,11 +91313,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.15.184"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.15.184"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -92047,7 +92032,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -92123,11 +92108,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.15.183"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.15.183"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -92847,7 +92827,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -92923,11 +92903,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.4.293"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.4.293"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -93652,7 +93627,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -93728,11 +93703,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.4.293"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.4.293"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -94457,7 +94427,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -94533,11 +94503,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.1.140"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.1.140"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -95252,7 +95217,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -95328,11 +95293,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.30"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -96052,7 +96012,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -96128,11 +96088,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.29"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.29"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -96852,7 +96807,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -96928,11 +96883,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.13.12"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -97652,7 +97602,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -97728,11 +97678,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.13.12"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -98452,7 +98397,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -98528,11 +98473,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.8"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -99252,7 +99192,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -99328,11 +99268,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.7"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -100052,7 +99987,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -100128,11 +100063,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.15"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -100852,7 +100782,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -100928,11 +100858,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.1.139"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.1.139"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -101647,7 +101572,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -101723,11 +101648,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.6.92"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.6.92"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -102442,7 +102362,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -102518,11 +102438,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.6.91"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.6.91"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -103237,7 +103152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -103313,11 +103228,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.13.12"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -104037,7 +103947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -104113,11 +104023,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.29"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.29"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -104837,7 +104742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -104913,11 +104818,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.15"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -105637,7 +105537,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -105713,11 +105613,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.30"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -106437,7 +106332,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -106513,11 +106408,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.7"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -107237,7 +107127,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -107313,11 +107203,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.30"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -108037,7 +107922,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -108113,11 +107998,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.8"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -108837,7 +108717,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -108913,11 +108793,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.8"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -109637,7 +109512,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -109713,11 +109588,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.7"
-  },
-  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -110437,7 +110307,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -110513,11 +110383,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.30"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages-libre.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -111237,7 +111102,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -111313,11 +111178,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.30"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxPackages.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -112037,7 +111897,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -112113,11 +111973,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.10.237"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.10.237"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -112837,7 +112692,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -112913,11 +112768,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.15.183"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.15.183"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -113637,7 +113487,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -113713,11 +113563,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-5.4.293"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-5.4.293"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -114442,7 +114287,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -114518,11 +114363,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.29"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.29"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -115242,7 +115082,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -115318,11 +115158,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.13.12"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -116042,7 +115877,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -116118,11 +115953,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.7"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -116842,7 +116672,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -116918,11 +116748,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.1.139"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.1.139"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -117637,7 +117462,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -117713,11 +117538,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.6.91"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.6.91"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -118432,7 +118252,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -118513,11 +118333,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.13.12"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_ham.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -119237,7 +119052,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -119313,11 +119128,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.29"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_hardened.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.29"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -120037,7 +119847,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -120113,11 +119923,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.15"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_latest-libre.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -120837,7 +120642,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -120913,11 +120718,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.15"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_latest.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -121637,7 +121437,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -121713,11 +121513,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.7"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_lqx.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -122437,7 +122232,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -122513,11 +122308,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.12.30"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_xanmod.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -123237,7 +123027,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -123313,11 +123103,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.8"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -124037,7 +123822,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -124113,11 +123898,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.8"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -124837,7 +124617,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -124913,11 +124693,6 @@
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
     "version": "0.1.0-unstable-2025-01-10-6.14.7"
-  },
-  "legacyPackages.x86_64-linux.linuxPackages_zen.asus-wmi-sensors": {
-    "description": "Linux HWMON (lmsensors) sensors driver for various ASUS Ryzen and Threadripper motherboards",
-    "pname": "asus-wmi-sensors-unstable",
-    "version": "2019-11-07-6.14.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -125637,7 +125412,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.3-unstable-2024-12-23"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -135727,7 +135502,7 @@
   "legacyPackages.x86_64-linux.lxqt.screengrab": {
     "description": "Crossplatform tool for fast making screenshots",
     "pname": "screengrab",
-    "version": "2.10.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.lxqt.xdg-desktop-portal-lxqt": {
     "description": "Backend implementation for xdg-desktop-portal that is using Qt/KF5/libfm-qt",
@@ -138112,7 +137887,7 @@
   "legacyPackages.x86_64-linux.mcat-unwrapped": {
     "description": "cat command for documents / images / videos and more!",
     "pname": "mcat-unwrapped",
-    "version": "0.2.8"
+    "version": "0.3.0"
   },
   "legacyPackages.x86_64-linux.mcdreforged": {
     "description": "Rewritten version of MCDaemon, a python tool to control your Minecraft server",
@@ -142337,7 +142112,7 @@
   "legacyPackages.x86_64-linux.mpls": {
     "description": "Live preview of markdown using Language Server Protocol",
     "pname": "mpls",
-    "version": "0.15.0"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.mplus-outline-fonts.githubRelease": {
     "description": "M+ Outline Fonts (GitHub release)",
@@ -148902,7 +148677,7 @@
   "legacyPackages.x86_64-linux.nu_scripts": {
     "description": "Place to share Nushell scripts with each other",
     "pname": "nu_scripts",
-    "version": "0-unstable-2025-05-15"
+    "version": "0-unstable-2025-05-22"
   },
   "legacyPackages.x86_64-linux.nuclear": {
     "description": "Streaming music player that finds free music for you",
@@ -152523,6 +152298,11 @@
     "description": "Toolchain to produce JS from Reason/OCaml",
     "pname": "ocaml5.3.0-melange",
     "version": "5.0.0-53"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.melange-json": {
+    "description": "Compositional JSON encode/decode library and PPX for Melange and OCaml",
+    "pname": "ocaml5.3.0-melange-json",
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.mem_usage": {
     "description": "Cross-platform memory usage information",
@@ -195432,7 +195212,7 @@
   "legacyPackages.x86_64-linux.pkgsite": {
     "description": "Official tool to extract and generate documentation for Go projects like pkg.go.dev",
     "pname": "pkgsite",
-    "version": "0-unstable-2025-05-06"
+    "version": "0-unstable-2025-05-23"
   },
   "legacyPackages.x86_64-linux.pkgtop": {
     "description": "Interactive package manager and resource monitor designed for the GNU/Linux",
@@ -198992,7 +198772,7 @@
   "legacyPackages.x86_64-linux.podman-tui": {
     "description": "Podman Terminal UI",
     "pname": "podman-tui",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.podofo": {
     "description": "Library to work with the PDF file format",
@@ -202082,7 +201862,7 @@
   "legacyPackages.x86_64-linux.pretty-php": {
     "description": "The opinionated PHP code formatter",
     "pname": "pretty-php",
-    "version": "0.4.93"
+    "version": "0.4.94"
   },
   "legacyPackages.x86_64-linux.pretty-simple": {
     "description": "pretty printer for data types with a 'Show' instance",
@@ -206597,7 +206377,7 @@
   "legacyPackages.x86_64-linux.python312Packages.appthreat-vulnerability-db": {
     "description": "Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm",
     "pname": "python3.12-appthreat-vulnerability-db",
-    "version": "6.4.0"
+    "version": "6.4.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.apptools": {
     "description": "Set of packages that Enthought has found useful in creating a number of applications",
@@ -211237,7 +211017,7 @@
   "legacyPackages.x86_64-linux.python312Packages.commitizen": {
     "description": "Tool to create committing rules for projects, auto bump versions, and generate changelogs",
     "pname": "python3.12-commitizen",
-    "version": "4.7.1"
+    "version": "4.8.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.commoncode": {
     "description": "Set of common utilities, originally split from ScanCode",
@@ -212092,7 +211872,7 @@
   "legacyPackages.x86_64-linux.python312Packages.cyclopts": {
     "description": "Module to create CLIs based on Python type hints",
     "pname": "python3.12-cyclopts",
-    "version": "3.16.1"
+    "version": "3.16.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.cyipopt": {
     "description": "Cython interface for the interior point optimzer IPOPT",
@@ -223712,7 +223492,7 @@
   "legacyPackages.x86_64-linux.python312Packages.libfive": {
     "description": "Infrastructure for solid modeling with F-Reps in C, C++, and Guile",
     "pname": "libfive",
-    "version": "0-unstable-2025-05-04"
+    "version": "0-unstable-2025-05-22"
   },
   "legacyPackages.x86_64-linux.python312Packages.libgpiod": {
     "description": "Python bindings for libgpiod",
@@ -226712,7 +226492,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mscerts": {
     "description": "Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python",
     "pname": "python3.12-mscerts",
-    "version": "2025.2.26"
+    "version": "2025.5.28"
   },
   "legacyPackages.x86_64-linux.python312Packages.msg-parser": {
     "description": "Python module to read, parse and converting Microsoft Outlook MSG E-Mail files",
@@ -235622,7 +235402,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyinstrument": {
     "description": "Call stack profiler for Python",
     "pname": "python3.12-pyinstrument",
-    "version": "5.0.0"
+    "version": "5.0.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyintesishome": {
     "description": "Python interface for IntesisHome devices",
@@ -245397,7 +245177,7 @@
   "legacyPackages.x86_64-linux.python312Packages.spsdk-pyocd": {
     "description": "Debugger probe plugin for SPSDK",
     "pname": "python3.12-spsdk-pyocd",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.spur": {
     "description": "Python module to run commands and manipulate files locally or over SSH",
@@ -252177,7 +251957,7 @@
   "legacyPackages.x86_64-linux.python312Packages.vt-py": {
     "description": "Python client library for VirusTotal",
     "pname": "python3.12-vt-py",
-    "version": "0.20.0"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.vtjp": {
     "description": "Python wrapper and cli for Västtrafik public API",
@@ -256267,7 +256047,7 @@
   "legacyPackages.x86_64-linux.python313Packages.appthreat-vulnerability-db": {
     "description": "Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm",
     "pname": "python3.13-appthreat-vulnerability-db",
-    "version": "6.4.0"
+    "version": "6.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.apptools": {
     "description": "Set of packages that Enthought has found useful in creating a number of applications",
@@ -260912,7 +260692,7 @@
   "legacyPackages.x86_64-linux.python313Packages.commitizen": {
     "description": "Tool to create committing rules for projects, auto bump versions, and generate changelogs",
     "pname": "python3.13-commitizen",
-    "version": "4.7.1"
+    "version": "4.8.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.commoncode": {
     "description": "Set of common utilities, originally split from ScanCode",
@@ -261767,7 +261547,7 @@
   "legacyPackages.x86_64-linux.python313Packages.cyclopts": {
     "description": "Module to create CLIs based on Python type hints",
     "pname": "python3.13-cyclopts",
-    "version": "3.16.1"
+    "version": "3.16.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.cyipopt": {
     "description": "Cython interface for the interior point optimzer IPOPT",
@@ -273387,7 +273167,7 @@
   "legacyPackages.x86_64-linux.python313Packages.libfive": {
     "description": "Infrastructure for solid modeling with F-Reps in C, C++, and Guile",
     "pname": "libfive",
-    "version": "0-unstable-2025-05-04"
+    "version": "0-unstable-2025-05-22"
   },
   "legacyPackages.x86_64-linux.python313Packages.libgpiod": {
     "description": "Python bindings for libgpiod",
@@ -276387,7 +276167,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mscerts": {
     "description": "Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python",
     "pname": "python3.13-mscerts",
-    "version": "2025.2.26"
+    "version": "2025.5.28"
   },
   "legacyPackages.x86_64-linux.python313Packages.msg-parser": {
     "description": "Python module to read, parse and converting Microsoft Outlook MSG E-Mail files",
@@ -285297,7 +285077,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyinstrument": {
     "description": "Call stack profiler for Python",
     "pname": "python3.13-pyinstrument",
-    "version": "5.0.0"
+    "version": "5.0.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyintesishome": {
     "description": "Python interface for IntesisHome devices",
@@ -295072,7 +294852,7 @@
   "legacyPackages.x86_64-linux.python313Packages.spsdk-pyocd": {
     "description": "Debugger probe plugin for SPSDK",
     "pname": "python3.13-spsdk-pyocd",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.spur": {
     "description": "Python module to run commands and manipulate files locally or over SSH",
@@ -301882,7 +301662,7 @@
   "legacyPackages.x86_64-linux.python313Packages.vt-py": {
     "description": "Python client library for VirusTotal",
     "pname": "python3.13-vt-py",
-    "version": "0.20.0"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.vtjp": {
     "description": "Python wrapper and cli for Västtrafik public API",
@@ -304312,7 +304092,7 @@
   "legacyPackages.x86_64-linux.qgroundcontrol": {
     "description": "Provides full ground station support and configuration for the PX4 and APM Flight Stacks",
     "pname": "qgroundcontrol",
-    "version": "4.4.4"
+    "version": "4.4.5"
   },
   "legacyPackages.x86_64-linux.qgv": {
     "description": "Interactive Qt graphViz display",
@@ -308642,7 +308422,7 @@
   "legacyPackages.x86_64-linux.rivalcfg": {
     "description": "Utility program that allows you to configure SteelSeries Rival gaming mice",
     "pname": "python3.12-rivalcfg",
-    "version": "4.14.0"
+    "version": "4.15.0"
   },
   "legacyPackages.x86_64-linux.river": {
     "description": "Dynamic tiling wayland compositor",
@@ -308792,7 +308572,7 @@
   "legacyPackages.x86_64-linux.rlama": {
     "description": "Retrieval-Augmented Language Model Adapter",
     "pname": "rlama",
-    "version": "0.1.36"
+    "version": "0.1.39"
   },
   "legacyPackages.x86_64-linux.rlaunch": {
     "description": "Lightweight application launcher for X11",
@@ -309093,6 +308873,11 @@
     "description": "Library that provides an embeddable, persistent key-value store for fast storage",
     "pname": "rocksdb",
     "version": "8.3.2"
+  },
+  "legacyPackages.x86_64-linux.rocksdb_9_10": {
+    "description": "Library that provides an embeddable, persistent key-value store for fast storage",
+    "pname": "rocksdb",
+    "version": "9.10.0"
   },
   "legacyPackages.x86_64-linux.rocksndiamonds": {
     "description": "Scrolling tile-based arcade style puzzle game",
@@ -310517,7 +310302,7 @@
   "legacyPackages.x86_64-linux.rqlite": {
     "description": "Lightweight, distributed relational database built on SQLite",
     "pname": "rqlite",
-    "version": "8.37.0"
+    "version": "8.37.1"
   },
   "legacyPackages.x86_64-linux.rquickshare": {
     "description": "Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS",
@@ -353232,12 +353017,12 @@
   "legacyPackages.x86_64-linux.stratis-cli": {
     "description": "CLI for the Stratis project",
     "pname": "stratis-cli",
-    "version": "3.7.0"
+    "version": "3.8.1"
   },
   "legacyPackages.x86_64-linux.stratisd": {
     "description": "Easy to use local storage management for Linux",
     "pname": "stratisd",
-    "version": "3.7.3"
+    "version": "3.8.1"
   },
   "legacyPackages.x86_64-linux.stratovirt": {
     "description": "Virtual Machine Manager from Huawei",
@@ -355527,7 +355312,7 @@
   "legacyPackages.x86_64-linux.tailwindcss-language-server": {
     "description": "Tailwind CSS Language Server",
     "pname": "tailwindcss-language-server",
-    "version": "0.14.18"
+    "version": "0.14.19"
   },
   "legacyPackages.x86_64-linux.tailwindcss_3": {
     "description": "Command-line tool for the CSS framework with composable CSS classes, standalone CLI",
@@ -357392,7 +357177,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
     "pname": "terraform-provider-google-beta",
-    "version": "6.35.0"
+    "version": "6.37.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.googleworkspace": {
     "description": "",
@@ -357522,7 +357307,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.linode": {
     "description": "",
     "pname": "terraform-provider-linode",
-    "version": "2.39.0"
+    "version": "2.41.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.linuxbox": {
     "description": "",
@@ -357582,7 +357367,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.newrelic": {
     "description": "",
     "pname": "terraform-provider-newrelic",
-    "version": "3.61.0"
+    "version": "3.62.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.nexus": {
     "description": "",
@@ -399667,7 +399452,7 @@
   "legacyPackages.x86_64-linux.ungoogled-chromium": {
     "description": "Open source web browser from Google, with dependencies on Google web services removed",
     "pname": "ungoogled-chromium",
-    "version": "136.0.7103.113"
+    "version": "137.0.7151.55"
   },
   "legacyPackages.x86_64-linux.unhide": {
     "description": "Forensic tool to find hidden processes and TCP/UDP ports by rootkits/LKMs",
@@ -401732,7 +401517,7 @@
   "legacyPackages.x86_64-linux.verapdf": {
     "description": "Command line and GUI industry supported PDF/A and PDF/UA Validation",
     "pname": "verapdf",
-    "version": "1.26.4"
+    "version": "1.26.5"
   },
   "legacyPackages.x86_64-linux.verbiste": {
     "description": "French and Italian verb conjugator",
@@ -401807,7 +401592,7 @@
   "legacyPackages.x86_64-linux.versitygw": {
     "description": "Versity S3 gateway, a high-performance S3 translation service",
     "pname": "versitygw",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   "legacyPackages.x86_64-linux.versus": {
     "description": "Benchmark multiple API endpoints against each other",
@@ -416382,7 +416167,7 @@
   "legacyPackages.x86_64-linux.vulkan-hdr-layer-kwin6": {
     "description": "Vulkan Wayland HDR WSI Layer (Xaver Hugl's fork for KWin 6)",
     "pname": "vulkan-hdr-layer-kwin6",
-    "version": "0-unstable-2025-04-16"
+    "version": "0-unstable-2025-05-22"
   },
   "legacyPackages.x86_64-linux.vulkan-headers": {
     "description": "Vulkan Header files and API registry",
@@ -420632,7 +420417,7 @@
   "legacyPackages.x86_64-linux.xdp-tools": {
     "description": "Library and utilities for use with XDP",
     "pname": "xdp-tools",
-    "version": "1.5.2"
+    "version": "1.5.5"
   },
   "legacyPackages.x86_64-linux.xdragon": {
     "description": "Simple drag-and-drop source/sink for X or Wayland (called dragon in upstream)",
@@ -422907,7 +422692,7 @@
   "legacyPackages.x86_64-linux.xow_dongle-firmware": {
     "description": "Xbox One wireless dongle firmware",
     "pname": "xow_dongle-firmware",
-    "version": "2017-07"
+    "version": "0-unstable-2025-04-22"
   },
   "legacyPackages.x86_64-linux.xp-pen-deco-01-v2-driver": {
     "description": "Drivers for the XP-PEN Deco 01 v2 drawing tablet",
