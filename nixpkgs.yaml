@@ -6193,7 +6193,7 @@ legacyPackages.x86_64-linux.anime4k:
 legacyPackages.x86_64-linux.animeko:
   description: One-stop platform for finding, following and watching anime
   pname: animeko
-  version: 4.10.1
+  version: 4.11.1
 legacyPackages.x86_64-linux.ankacoder:
   description: Anka/Coder fonts
   pname: ankacoder
@@ -8641,11 +8641,11 @@ legacyPackages.x86_64-linux.attemptoClex:
 legacyPackages.x86_64-linux.attic-client:
   description: Multi-tenant Nix Binary Cache
   pname: attic
-  version: 0-unstable-2025-02-02
+  version: 0-unstable-2025-05-29
 legacyPackages.x86_64-linux.attic-server:
   description: Multi-tenant Nix Binary Cache
   pname: attic
-  version: 0-unstable-2025-02-02
+  version: 0-unstable-2025-05-29
 legacyPackages.x86_64-linux.attr:
   description: Library and tools for manipulating extended attributes
   pname: attr
@@ -16373,7 +16373,7 @@ legacyPackages.x86_64-linux.checksec:
 legacyPackages.x86_64-linux.checkstyle:
   description: Checks Java source against a coding standard
   pname: checkstyle
-  version: 10.24.0
+  version: 10.25.0
 legacyPackages.x86_64-linux.cheese:
   description: Take photos and videos with your webcam, with fun graphical effects
   pname: cheese
@@ -21329,7 +21329,7 @@ legacyPackages.x86_64-linux.copilot-cli:
 legacyPackages.x86_64-linux.copilot-language-server:
   description: Use GitHub Copilot with any editor or IDE via the Language Server Protocol
   pname: copilot-language-server
-  version: 1.322.0
+  version: 1.330.0
 legacyPackages.x86_64-linux.copilot-language-server-fhs:
   description: Use GitHub Copilot with any editor or IDE via the Language Server Protocol (FHS-wrapped, expand package details for further information when to use it)
   pname: copilot-language-server
@@ -25181,7 +25181,7 @@ legacyPackages.x86_64-linux.dbd:
 legacyPackages.x86_64-linux.dbeaver-bin:
   description: Universal SQL Client for developers, DBA and analysts. Supports MySQL, PostgreSQL, MariaDB, SQLite, and more
   pname: dbeaver-bin
-  version: 25.0.5
+  version: 25.1.0
 legacyPackages.x86_64-linux.dbgate:
   description: Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others
   pname: dbgate
@@ -27009,7 +27009,7 @@ legacyPackages.x86_64-linux.dit:
 legacyPackages.x86_64-linux.dita-ot:
   description: Open-source publishing engine for content authored in the Darwin Information Typing Architecture
   pname: dita-ot
-  version: 4.3.1
+  version: 4.3.2
 legacyPackages.x86_64-linux.ditaa:
   description: Convert ascii art diagrams into proper bitmap graphics
   pname: ditaa
@@ -27817,7 +27817,7 @@ legacyPackages.x86_64-linux.doq:
 legacyPackages.x86_64-linux.dorion:
   description: Tiny alternative Discord client
   pname: dorion
-  version: 5.0.1
+  version: 6.7.1
 legacyPackages.x86_64-linux.dorkscout:
   description: Tool to automate the work with Google dorks
   pname: dorkscout
@@ -29653,7 +29653,7 @@ legacyPackages.x86_64-linux.ec2stepshell:
 legacyPackages.x86_64-linux.ecapture:
   description: Capture SSL/TLS text content without CA certificate Using eBPF
   pname: ecapture
-  version: 1.0.2
+  version: 1.1.0
 legacyPackages.x86_64-linux.ecasound:
   description: Software package designed for multitrack audio processing
   pname: ecasound
@@ -30522,6 +30522,10 @@ legacyPackages.x86_64-linux.elmPackages.nodejs:
   description: Event-driven I/O framework for the V8 JavaScript engine
   pname: nodejs
   version: 22.14.0
+legacyPackages.x86_64-linux.elmPackages.tls:
+  description: TLS/SSL protocol native implementation (Server and Client)
+  pname: tls
+  version: 1.9.0
 legacyPackages.x86_64-linux.elmerfem:
   description: Finite element software for multiphysical problems
   pname: elmerfem
@@ -31813,7 +31817,7 @@ legacyPackages.x86_64-linux.exempi:
 legacyPackages.x86_64-linux.exercise-timer:
   description: Timer app for high intensity interval training
   pname: exercise-timer
-  version: 1.8.1
+  version: 1.8.4
 legacyPackages.x86_64-linux.exercism:
   description: Go based command line tool for exercism.io
   pname: exercism
@@ -33645,11 +33649,11 @@ legacyPackages.x86_64-linux.firefox-devedition:
 legacyPackages.x86_64-linux.firefox-devedition-bin:
   description: Mozilla Firefox, free web browser (binary package)
   pname: firefox-devedition-bin
-  version: 140.0b4
+  version: 140.0b5
 legacyPackages.x86_64-linux.firefox-devedition-bin-unwrapped:
   description: Mozilla Firefox, free web browser (binary package)
   pname: firefox-developer-edition-bin-unwrapped
-  version: 140.0b4
+  version: 140.0b5
 legacyPackages.x86_64-linux.firefox-devedition-unwrapped:
   description: Web browser built from Firefox Developer Edition source tree
   pname: firefox-devedition-unwrapped
@@ -33785,7 +33789,7 @@ legacyPackages.x86_64-linux.fish-irssi:
 legacyPackages.x86_64-linux.fish-lsp:
   description: LSP implementation for the fish shell language
   pname: fish-lsp
-  version: 1.0.8-4
+  version: 1.0.9-1
 legacyPackages.x86_64-linux.fishMinimal:
   description: Smart and user-friendly command line shell
   pname: fish
@@ -37233,7 +37237,7 @@ legacyPackages.x86_64-linux.getdp:
 legacyPackages.x86_64-linux.geteduroam:
   description: GUI client to configure eduroam
   pname: geteduroam
-  version: "0.11"
+  version: "0.12"
 legacyPackages.x86_64-linux.geteduroam-cli:
   description: CLI client to configure eduroam
   pname: geteduroam-cli
@@ -38146,6 +38150,10 @@ legacyPackages.x86_64-linux.git-interactive-rebase-tool:
   description: Native cross platform full feature terminal based sequence editor for git interactive rebase
   pname: git-interactive-rebase-tool
   version: 2.4.1
+legacyPackages.x86_64-linux.git-jump:
+  description: Improved navigation between Git branches
+  pname: git-jump
+  version: 0.3.1
 legacyPackages.x86_64-linux.git-latexdiff:
   description: View diff on LaTeX source files on the generated PDF files
   pname: git-latexdiff
@@ -43905,7 +43913,7 @@ legacyPackages.x86_64-linux.go9p:
 legacyPackages.x86_64-linux.go_1_23:
   description: Go Programming language
   pname: go
-  version: 1.23.9
+  version: 1.23.10
 legacyPackages.x86_64-linux.go_1_24:
   description: Go Programming language
   pname: go
@@ -44789,7 +44797,7 @@ legacyPackages.x86_64-linux.gortr:
 legacyPackages.x86_64-linux.gose:
   description: Modern and scalable file-uploader focusing on scalability and simplicity
   pname: gose
-  version: 0.10.6
+  version: 0.11.1
 legacyPackages.x86_64-linux.gosec:
   description: Golang security checker
   pname: gosec
@@ -52565,7 +52573,7 @@ legacyPackages.x86_64-linux.home-manager:
 legacyPackages.x86_64-linux.homebank:
   description: Free, easy, personal accounting for everyone
   pname: homebank
-  version: 5.9.1
+  version: 5.9.2
 legacyPackages.x86_64-linux.homebox:
   description: Inventory and organization system built for the Home User
   pname: homebox
@@ -71333,7 +71341,7 @@ legacyPackages.x86_64-linux.lightning:
 legacyPackages.x86_64-linux.lightning-loop:
   description: Lightning Loop Client
   pname: lightning-loop
-  version: 0.28.8-beta
+  version: 0.31.1-beta
 legacyPackages.x86_64-linux.lightning-pool:
   description: Lightning Pool Client
   pname: lightning-pool
@@ -109529,7 +109537,7 @@ legacyPackages.x86_64-linux.markdown-link-check:
 legacyPackages.x86_64-linux.markdown-oxide:
   description: Markdown LSP server inspired by Obsidian
   pname: markdown-oxide
-  version: 0.25.1
+  version: 0.25.2
 legacyPackages.x86_64-linux.markdown2html-converter:
   description: Tool for converting a Markdown file to a single HTML file with built-in CSS and JS
   pname: markdown2html-converter
@@ -110109,7 +110117,7 @@ legacyPackages.x86_64-linux.matrix-sdk-crypto-nodejs:
 legacyPackages.x86_64-linux.matrix-synapse:
   description: Matrix reference homeserver
   pname: matrix-synapse-wrapped
-  version: 1.130.0
+  version: 1.131.0
 legacyPackages.x86_64-linux.matrix-synapse-plugins.matrix-http-rendezvous-synapse:
   description: 'Implementation of MSC3886: Simple rendezvous capability'
   pname: python3.12-matrix-http-rendezvous-synapse
@@ -110141,7 +110149,7 @@ legacyPackages.x86_64-linux.matrix-synapse-plugins.synapse-http-antispam:
 legacyPackages.x86_64-linux.matrix-synapse-unwrapped:
   description: Matrix reference homeserver
   pname: matrix-synapse
-  version: 1.130.0
+  version: 1.131.0
 legacyPackages.x86_64-linux.matrix-zulip-bridge:
   description: Matrix puppeting appservice bridge for Zulip
   pname: MatrixZulipBridge
@@ -112413,7 +112421,7 @@ legacyPackages.x86_64-linux.mkbootimage:
 legacyPackages.x86_64-linux.mkbrr:
   description: Tool to create, modify and inspect torrent files
   pname: mkbrr
-  version: 1.12.0
+  version: 1.12.1
 legacyPackages.x86_64-linux.mkcal:
   description: Mobile version of the original KCAL from KDE
   pname: mkcal
@@ -114389,7 +114397,7 @@ legacyPackages.x86_64-linux.mt32emu-smf2wav:
 legacyPackages.x86_64-linux.mtail:
   description: Tool for extracting metrics from application logs
   pname: mtail
-  version: 3.0.23
+  version: 3.2.4
 legacyPackages.x86_64-linux.mtdev:
   description: Multitouch Protocol Translation Library
   pname: mtdev
@@ -117114,6 +117122,10 @@ legacyPackages.x86_64-linux.nix-bundle:
   description: Create bundles from Nixpkgs attributes
   pname: nix-bundle
   version: 0.4.1
+legacyPackages.x86_64-linux.nix-check-deps:
+  description: Scan nix packages for unused buildInputs
+  pname: nix-check-deps
+  version: 0-unstable-2025-04-09
 legacyPackages.x86_64-linux.nix-converter:
   description: All-in-one converter configuration language to Nix and vice versa
   pname: nix-converter
@@ -119441,7 +119453,7 @@ legacyPackages.x86_64-linux.nwg-menu:
 legacyPackages.x86_64-linux.nwg-panel:
   description: GTK3-based panel for Sway window manager
   pname: nwg-panel
-  version: 0.10.4
+  version: 0.10.6
 legacyPackages.x86_64-linux.nwg-wrapper:
   description: Wrapper to display a script output or a text file content on the desktop in sway or other wlroots-based compositors
   pname: python3.12-nwg-wrapper
@@ -158837,7 +158849,7 @@ legacyPackages.x86_64-linux.pls:
 legacyPackages.x86_64-linux.pltScheme:
   description: Programmable programming language
   pname: racket
-  version: "8.16"
+  version: "8.17"
 legacyPackages.x86_64-linux.plugdata:
   description: Plugin wrapper around Pure Data to allow patching in a wide selection of DAWs
   pname: plugdata
@@ -165069,7 +165081,7 @@ legacyPackages.x86_64-linux.python312Packages.anthemav:
 legacyPackages.x86_64-linux.python312Packages.anthropic:
   description: Anthropic's safety-first language model APIs
   pname: python3.12-anthropic
-  version: 0.51.0
+  version: 0.52.2
 legacyPackages.x86_64-linux.python312Packages.antlr4-python3-runtime:
   description: Runtime for ANTLR
   pname: python3.12-antlr4-python3-runtime
@@ -174734,6 +174746,10 @@ legacyPackages.x86_64-linux.python312Packages.gitpython:
   description: Python Git Library
   pname: python3.12-gitpython
   version: 3.1.44
+legacyPackages.x86_64-linux.python312Packages.giturlparse:
+  description: Parse & rewrite git urls (supports GitHub, Bitbucket, Assembla ...)
+  pname: python3.12-giturlparse
+  version: 0.12.0
 legacyPackages.x86_64-linux.python312Packages.glad:
   description: Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs
   pname: python3.12-glad
@@ -178493,7 +178509,7 @@ legacyPackages.x86_64-linux.python312Packages.langchain:
 legacyPackages.x86_64-linux.python312Packages.langchain-anthropic:
   description: Build LangChain applications with Anthropic
   pname: python3.12-langchain-anthropic
-  version: 0.3.13
+  version: 0.3.15
 legacyPackages.x86_64-linux.python312Packages.langchain-aws:
   description: Build LangChain application on AWS
   pname: python3.12-langchain-aws
@@ -178553,11 +178569,11 @@ legacyPackages.x86_64-linux.python312Packages.langchain-perplexity:
 legacyPackages.x86_64-linux.python312Packages.langchain-standard-tests:
   description: Build context-aware reasoning applications
   pname: python3.12-langchain-tests
-  version: 0.3.19
+  version: 0.3.20
 legacyPackages.x86_64-linux.python312Packages.langchain-tests:
   description: Build context-aware reasoning applications
   pname: python3.12-langchain-tests
-  version: 0.3.19
+  version: 0.3.20
 legacyPackages.x86_64-linux.python312Packages.langchain-text-splitters:
   description: LangChain utilities for splitting into chunks a wide variety of text documents
   pname: python3.12-langchain-text-splitters
@@ -187069,7 +187085,7 @@ legacyPackages.x86_64-linux.python312Packages.py-lru-cache:
 legacyPackages.x86_64-linux.python312Packages.py-machineid:
   description: Get the unique machine ID of any host (without admin privileges)
   pname: python3.12-py-machineid
-  version: 0.7.0
+  version: 0.8.0
 legacyPackages.x86_64-linux.python312Packages.py-madvr2:
   description: Control MadVR Envy over IP
   pname: python3.12-py-madvr2
@@ -205001,7 +205017,7 @@ legacyPackages.x86_64-linux.python313Packages.anthemav:
 legacyPackages.x86_64-linux.python313Packages.anthropic:
   description: Anthropic's safety-first language model APIs
   pname: python3.13-anthropic
-  version: 0.51.0
+  version: 0.52.2
 legacyPackages.x86_64-linux.python313Packages.antlr4-python3-runtime:
   description: Runtime for ANTLR
   pname: python3.13-antlr4-python3-runtime
@@ -214670,6 +214686,10 @@ legacyPackages.x86_64-linux.python313Packages.gitpython:
   description: Python Git Library
   pname: python3.13-gitpython
   version: 3.1.44
+legacyPackages.x86_64-linux.python313Packages.giturlparse:
+  description: Parse & rewrite git urls (supports GitHub, Bitbucket, Assembla ...)
+  pname: python3.13-giturlparse
+  version: 0.12.0
 legacyPackages.x86_64-linux.python313Packages.glad:
   description: Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs
   pname: python3.13-glad
@@ -218429,7 +218449,7 @@ legacyPackages.x86_64-linux.python313Packages.langchain:
 legacyPackages.x86_64-linux.python313Packages.langchain-anthropic:
   description: Build LangChain applications with Anthropic
   pname: python3.13-langchain-anthropic
-  version: 0.3.13
+  version: 0.3.15
 legacyPackages.x86_64-linux.python313Packages.langchain-aws:
   description: Build LangChain application on AWS
   pname: python3.13-langchain-aws
@@ -218489,11 +218509,11 @@ legacyPackages.x86_64-linux.python313Packages.langchain-perplexity:
 legacyPackages.x86_64-linux.python313Packages.langchain-standard-tests:
   description: Build context-aware reasoning applications
   pname: python3.13-langchain-tests
-  version: 0.3.19
+  version: 0.3.20
 legacyPackages.x86_64-linux.python313Packages.langchain-tests:
   description: Build context-aware reasoning applications
   pname: python3.13-langchain-tests
-  version: 0.3.19
+  version: 0.3.20
 legacyPackages.x86_64-linux.python313Packages.langchain-text-splitters:
   description: LangChain utilities for splitting into chunks a wide variety of text documents
   pname: python3.13-langchain-text-splitters
@@ -227005,7 +227025,7 @@ legacyPackages.x86_64-linux.python313Packages.py-lru-cache:
 legacyPackages.x86_64-linux.python313Packages.py-machineid:
   description: Get the unique machine ID of any host (without admin privileges)
   pname: python3.13-py-machineid
-  version: 0.7.0
+  version: 0.8.0
 legacyPackages.x86_64-linux.python313Packages.py-madvr2:
   description: Control MadVR Envy over IP
   pname: python3.13-py-madvr2
@@ -243505,7 +243525,7 @@ legacyPackages.x86_64-linux.pywal:
 legacyPackages.x86_64-linux.pywal16:
   description: 16 colors fork of pywal
   pname: pywal16
-  version: 3.8.6
+  version: 3.8.9
 legacyPackages.x86_64-linux.pywalfox-native:
   description: Native app used alongside the Pywalfox addon
   pname: pywalfox-native
@@ -245277,11 +245297,11 @@ legacyPackages.x86_64-linux.racer:
 legacyPackages.x86_64-linux.racket:
   description: Programmable programming language
   pname: racket
-  version: "8.16"
+  version: "8.17"
 legacyPackages.x86_64-linux.racket-minimal:
   description: Programmable programming language (minimal distribution)
   pname: racket
-  version: "8.16"
+  version: "8.17"
 legacyPackages.x86_64-linux.radamsa:
   description: General purpose fuzzer
   pname: radamsa
@@ -278897,7 +278917,7 @@ legacyPackages.x86_64-linux.shfmt:
 legacyPackages.x86_64-linux.shh:
   description: Automatic systemd service hardening guided by strace profiling
   pname: shh
-  version: 2025.6.4
+  version: 2025.6.5
 legacyPackages.x86_64-linux.shhmsg:
   description: Library for displaying messages
   pname: shhmsg
@@ -279569,7 +279589,7 @@ legacyPackages.x86_64-linux.sixpair:
 legacyPackages.x86_64-linux.siyuan:
   description: Privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync
   pname: siyuan
-  version: 3.1.28
+  version: 3.1.31
 legacyPackages.x86_64-linux.sjasmplus:
   description: Z80 assembly language cross compiler. It is based on the SjASM source code by Sjoerd Mastijn
   pname: sjasmplus
@@ -321949,11 +321969,11 @@ legacyPackages.x86_64-linux.viewnior:
 legacyPackages.x86_64-linux.vifm:
   description: Vi-like file manager
   pname: vifm
-  version: 0.14.2
+  version: 0.14.3
 legacyPackages.x86_64-linux.vifm-full:
   description: Vi-like file manager; Includes support for optional features
   pname: vifm-full
-  version: 0.14.2
+  version: 0.14.3
 legacyPackages.x86_64-linux.vigra:
   description: Novel computer vision C++ library with customizable algorithms and data structures
   pname: vigra
@@ -322149,7 +322169,7 @@ legacyPackages.x86_64-linux.vimPlugins.ReplaceWithRegister:
 legacyPackages.x86_64-linux.vimPlugins.SchemaStore-nvim:
   description: ""
   pname: vimplugin-SchemaStore.nvim
-  version: "2025-05-27"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.Shade-nvim:
   description: ""
   pname: vimplugin-Shade.nvim
@@ -322197,7 +322217,7 @@ legacyPackages.x86_64-linux.vimPlugins.Tabular:
 legacyPackages.x86_64-linux.vimPlugins.Tagbar:
   description: ""
   pname: vimplugin-tagbar
-  version: "2024-12-27"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.The_NERD_Commenter:
   description: ""
   pname: vimplugin-nerdcommenter
@@ -322209,7 +322229,7 @@ legacyPackages.x86_64-linux.vimPlugins.The_NERD_tree:
 legacyPackages.x86_64-linux.vimPlugins.UltiSnips:
   description: ""
   pname: vimplugin-ultisnips
-  version: "2025-03-09"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.VimCompletesMe:
   description: ""
   pname: vimplugin-VimCompletesMe
@@ -322273,7 +322293,7 @@ legacyPackages.x86_64-linux.vimPlugins.adwaita-nvim:
 legacyPackages.x86_64-linux.vimPlugins.aerial-nvim:
   description: ""
   pname: vimplugin-aerial.nvim
-  version: "2025-04-20"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.ag-nvim:
   description: ""
   pname: vimplugin-ag.nvim
@@ -322357,11 +322377,11 @@ legacyPackages.x86_64-linux.vimPlugins.arshlib-nvim:
 legacyPackages.x86_64-linux.vimPlugins.astrocore:
   description: ""
   pname: vimplugin-astrocore
-  version: "2025-04-30"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.astrolsp:
   description: ""
   pname: vimplugin-astrolsp
-  version: "2025-05-13"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.astrotheme:
   description: ""
   pname: vimplugin-astrotheme
@@ -322461,7 +322481,7 @@ legacyPackages.x86_64-linux.vimPlugins.autosave-nvim:
 legacyPackages.x86_64-linux.vimPlugins.avante-nvim:
   description: Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
   pname: vimplugin-avante.nvim
-  version: 0.0.23-unstable-2025-06-02
+  version: 0.0.24-unstable-2025-06-05
 legacyPackages.x86_64-linux.vimPlugins.aw-watcher-nvim:
   description: ""
   pname: vimplugin-aw-watcher.nvim
@@ -322493,7 +322513,7 @@ legacyPackages.x86_64-linux.vimPlugins.baleia-nvim:
 legacyPackages.x86_64-linux.vimPlugins.bamboo-nvim:
   description: ""
   pname: vimplugin-bamboo.nvim
-  version: "2025-03-08"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.barbar-nvim:
   description: ""
   pname: vimplugin-barbar.nvim
@@ -322505,7 +322525,7 @@ legacyPackages.x86_64-linux.vimPlugins.barbecue-nvim:
 legacyPackages.x86_64-linux.vimPlugins.base16-nvim:
   description: ""
   pname: vimplugin-base16-nvim
-  version: "2025-05-26"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.base16-vim:
   description: ""
   pname: vimplugin-base16-vim
@@ -322513,7 +322533,7 @@ legacyPackages.x86_64-linux.vimPlugins.base16-vim:
 legacyPackages.x86_64-linux.vimPlugins.base46:
   description: ""
   pname: vimplugin-base46
-  version: "2025-05-24"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.bat-vim:
   description: ""
   pname: vimplugin-bat.vim
@@ -322569,7 +322589,7 @@ legacyPackages.x86_64-linux.vimPlugins.blink-cmp-dictionary:
 legacyPackages.x86_64-linux.vimPlugins.blink-cmp-git:
   description: ""
   pname: vimplugin-blink-cmp-git
-  version: "2025-05-25"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.blink-cmp-npm-nvim:
   description: ""
   pname: vimplugin-blink-cmp-npm.nvim
@@ -322601,7 +322621,7 @@ legacyPackages.x86_64-linux.vimPlugins.blink-pairs:
 legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim:
   description: ""
   pname: vimplugin-blink-ripgrep.nvim
-  version: "2025-05-13"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.bloat-nvim:
   description: ""
   pname: vimplugin-bloat.nvim
@@ -322677,11 +322697,11 @@ legacyPackages.x86_64-linux.vimPlugins.camelcasemotion:
 legacyPackages.x86_64-linux.vimPlugins.catppuccin-nvim:
   description: ""
   pname: vimplugin-catppuccin-nvim
-  version: "2025-05-26"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.catppuccin-vim:
   description: ""
   pname: vimplugin-catppuccin-vim
-  version: "2024-08-14"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.caw:
   description: ""
   pname: vimplugin-caw.vim
@@ -322701,11 +322721,11 @@ legacyPackages.x86_64-linux.vimPlugins.cellular-automaton-nvim:
 legacyPackages.x86_64-linux.vimPlugins.chad:
   description: ""
   pname: vimplugin-chadtree
-  version: "2025-05-21"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.chadtree:
   description: ""
   pname: vimplugin-chadtree
-  version: "2025-05-21"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.changeColorScheme-vim:
   description: ""
   pname: vimplugin-changeColorScheme.vim
@@ -323093,7 +323113,7 @@ legacyPackages.x86_64-linux.vimPlugins.coc-nginx:
 legacyPackages.x86_64-linux.vimPlugins.coc-nvim:
   description: ""
   pname: vimplugin-coc.nvim
-  version: "2025-05-25"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.coc-pairs:
   description: Auto pair extension for coc.nvim
   pname: vimplugin-coc-pairs
@@ -323209,11 +323229,11 @@ legacyPackages.x86_64-linux.vimPlugins.coconut-vim:
 legacyPackages.x86_64-linux.vimPlugins.codecompanion-history-nvim:
   description: ""
   pname: vimplugin-codecompanion-history.nvim
-  version: "2025-05-23"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.codecompanion-nvim:
   description: ""
   pname: vimplugin-codecompanion.nvim
-  version: "2025-05-28"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.codesnap-nvim:
   description: ""
   pname: vimplugin-codesnap.nvim
@@ -323333,7 +323353,7 @@ legacyPackages.x86_64-linux.vimPlugins.conflict-marker-vim:
 legacyPackages.x86_64-linux.vimPlugins.conform-nvim:
   description: ""
   pname: vimplugin-conform.nvim
-  version: "2025-05-22"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.conjure:
   description: ""
   pname: vimplugin-conjure
@@ -323365,7 +323385,7 @@ legacyPackages.x86_64-linux.vimPlugins.copilot-lsp:
 legacyPackages.x86_64-linux.vimPlugins.copilot-lua:
   description: ""
   pname: vimplugin-copilot.lua
-  version: "2025-05-28"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.copilot-lualine:
   description: ""
   pname: vimplugin-copilot-lualine
@@ -323393,7 +323413,7 @@ legacyPackages.x86_64-linux.vimPlugins.coq-vim:
 legacyPackages.x86_64-linux.vimPlugins.coq_nvim:
   description: ""
   pname: vimplugin-coq_nvim
-  version: "2025-05-29"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.cord-nvim:
   description: ""
   pname: vimplugin-cord.nvim
@@ -323417,7 +323437,7 @@ legacyPackages.x86_64-linux.vimPlugins.cpsm:
 legacyPackages.x86_64-linux.vimPlugins.crates-nvim:
   description: ""
   pname: vimplugin-crates.nvim
-  version: "2025-05-28"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.csapprox:
   description: ""
   pname: vimplugin-csapprox
@@ -323425,7 +323445,7 @@ legacyPackages.x86_64-linux.vimPlugins.csapprox:
 legacyPackages.x86_64-linux.vimPlugins.csharpls-extended-lsp-nvim:
   description: ""
   pname: vimplugin-csharpls-extended-lsp.nvim
-  version: "2025-05-07"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.cspell-nvim:
   description: ""
   pname: vimplugin-cspell.nvim
@@ -323497,7 +323517,7 @@ legacyPackages.x86_64-linux.vimPlugins.dash-vim:
 legacyPackages.x86_64-linux.vimPlugins.dashboard-nvim:
   description: ""
   pname: vimplugin-dashboard-nvim
-  version: "2025-05-21"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.ddc-filter-matcher_head:
   description: ""
   pname: vimplugin-ddc-filter-matcher_head
@@ -323533,7 +323553,7 @@ legacyPackages.x86_64-linux.vimPlugins.ddc-ui-pum:
 legacyPackages.x86_64-linux.vimPlugins.ddc-vim:
   description: ""
   pname: vimplugin-ddc.vim
-  version: "2025-05-29"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.debugprint-nvim:
   description: ""
   pname: vimplugin-debugprint.nvim
@@ -323729,7 +323749,7 @@ legacyPackages.x86_64-linux.vimPlugins.dressing-nvim:
 legacyPackages.x86_64-linux.vimPlugins.dropbar-nvim:
   description: ""
   pname: vimplugin-dropbar.nvim
-  version: "2025-05-24"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.earthly-vim:
   description: ""
   pname: vimplugin-earthly.vim
@@ -323741,7 +323761,7 @@ legacyPackages.x86_64-linux.vimPlugins.easy-align:
 legacyPackages.x86_64-linux.vimPlugins.easy-dotnet-nvim:
   description: ""
   pname: vimplugin-easy-dotnet.nvim
-  version: "2025-05-28"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.easygit:
   description: ""
   pname: vimplugin-vim-easygit
@@ -323825,7 +323845,7 @@ legacyPackages.x86_64-linux.vimPlugins.eva01-vim:
 legacyPackages.x86_64-linux.vimPlugins.everforest:
   description: ""
   pname: vimplugin-everforest
-  version: "2025-04-16"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.executor-nvim:
   description: ""
   pname: vimplugin-executor.nvim
@@ -323861,7 +323881,7 @@ legacyPackages.x86_64-linux.vimPlugins.faster-nvim:
 legacyPackages.x86_64-linux.vimPlugins.fastfold:
   description: ""
   pname: vimplugin-fastfold
-  version: "2024-12-15"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.faust-nvim:
   description: ""
   pname: vimplugin-faust-nvim
@@ -324061,7 +324081,7 @@ legacyPackages.x86_64-linux.vimPlugins.git-conflict-nvim:
 legacyPackages.x86_64-linux.vimPlugins.git-messenger-vim:
   description: ""
   pname: vimplugin-git-messenger.vim
-  version: "2024-09-05"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.git-prompt-string-lualine-nvim:
   description: ""
   pname: vimplugin-git-prompt-string-lualine.nvim
@@ -324081,7 +324101,7 @@ legacyPackages.x86_64-linux.vimPlugins.github-nvim-theme:
 legacyPackages.x86_64-linux.vimPlugins.gitignore-nvim:
   description: ""
   pname: vimplugin-gitignore.nvim
-  version: "2025-03-23"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.gitignore-vim:
   description: ""
   pname: vimplugin-gitignore.vim
@@ -324117,7 +324137,7 @@ legacyPackages.x86_64-linux.vimPlugins.glow-nvim:
 legacyPackages.x86_64-linux.vimPlugins.go-nvim:
   description: ""
   pname: vimplugin-go.nvim
-  version: "2025-05-23"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.godbolt-nvim:
   description: ""
   pname: vimplugin-godbolt.nvim
@@ -324409,11 +324429,11 @@ legacyPackages.x86_64-linux.vimPlugins.improved-search-nvim:
 legacyPackages.x86_64-linux.vimPlugins.inc-rename-nvim:
   description: ""
   pname: vimplugin-inc-rename.nvim
-  version: "2025-05-06"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.incline-nvim:
   description: ""
   pname: vimplugin-incline.nvim
-  version: "2025-03-24"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.increment-activator:
   description: ""
   pname: vimplugin-increment-activator
@@ -324537,7 +324557,7 @@ legacyPackages.x86_64-linux.vimPlugins.kanagawa-nvim:
 legacyPackages.x86_64-linux.vimPlugins.kanagawa-paper-nvim:
   description: ""
   pname: vimplugin-kanagawa-paper.nvim
-  version: "2025-05-29"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.kanso-nvim:
   description: ""
   pname: vimplugin-kanso.nvim
@@ -324573,7 +324593,7 @@ legacyPackages.x86_64-linux.vimPlugins.kotlin-vim:
 legacyPackages.x86_64-linux.vimPlugins.kulala-nvim:
   description: ""
   pname: vimplugin-kulala.nvim
-  version: "2025-05-25"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.lackluster-nvim:
   description: ""
   pname: vimplugin-lackluster.nvim
@@ -324617,7 +324637,7 @@ legacyPackages.x86_64-linux.vimPlugins.lazygit-nvim:
 legacyPackages.x86_64-linux.vimPlugins.lean-nvim:
   description: ""
   pname: vimplugin-lean.nvim
-  version: "2025-05-27"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.lean-vim:
   description: ""
   pname: vimplugin-lean.vim
@@ -324629,7 +324649,7 @@ legacyPackages.x86_64-linux.vimPlugins.leap-ast-nvim:
 legacyPackages.x86_64-linux.vimPlugins.leap-nvim:
   description: ""
   pname: vimplugin-leap.nvim
-  version: "2025-05-28"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.leetcode-nvim:
   description: ""
   pname: vimplugin-leetcode.nvim
@@ -324889,11 +324909,11 @@ legacyPackages.x86_64-linux.vimPlugins.marks-nvim:
 legacyPackages.x86_64-linux.vimPlugins.markview-nvim:
   description: ""
   pname: vimplugin-markview.nvim
-  version: "2025-05-27"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.mason-lspconfig-nvim:
   description: ""
   pname: vimplugin-mason-lspconfig.nvim
-  version: "2025-05-28"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.mason-null-ls-nvim:
   description: ""
   pname: vimplugin-mason-null-ls.nvim
@@ -324909,7 +324929,7 @@ legacyPackages.x86_64-linux.vimPlugins.mason-nvim-dap-nvim:
 legacyPackages.x86_64-linux.vimPlugins.mason-tool-installer-nvim:
   description: ""
   pname: vimplugin-mason-tool-installer.nvim
-  version: "2025-05-13"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.matchit-zip:
   description: ""
   pname: vimplugin-matchit.zip
@@ -324937,7 +324957,7 @@ legacyPackages.x86_64-linux.vimPlugins.mediawiki-vim:
 legacyPackages.x86_64-linux.vimPlugins.melange-nvim:
   description: ""
   pname: vimplugin-melange-nvim
-  version: "2025-01-16"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.meson:
   description: ""
   pname: vimplugin-meson
@@ -324965,7 +324985,7 @@ legacyPackages.x86_64-linux.vimPlugins.mind-nvim:
 legacyPackages.x86_64-linux.vimPlugins.mini-ai:
   description: ""
   pname: vimplugin-mini.ai
-  version: "2025-05-29"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.mini-align:
   description: ""
   pname: vimplugin-mini.align
@@ -325045,7 +325065,7 @@ legacyPackages.x86_64-linux.vimPlugins.mini-hipatterns:
 legacyPackages.x86_64-linux.vimPlugins.mini-hues:
   description: ""
   pname: vimplugin-mini.hues
-  version: "2025-04-12"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.mini-icons:
   description: ""
   pname: vimplugin-mini.icons
@@ -325065,7 +325085,7 @@ legacyPackages.x86_64-linux.vimPlugins.mini-jump2d:
 legacyPackages.x86_64-linux.vimPlugins.mini-keymap:
   description: ""
   pname: vimplugin-mini.keymap
-  version: "2025-05-20"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.mini-map:
   description: ""
   pname: vimplugin-mini.map
@@ -325085,7 +325105,7 @@ legacyPackages.x86_64-linux.vimPlugins.mini-notify:
 legacyPackages.x86_64-linux.vimPlugins.mini-nvim:
   description: ""
   pname: vimplugin-mini.nvim
-  version: "2025-05-29"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.mini-operators:
   description: ""
   pname: vimplugin-mini.operators
@@ -325105,7 +325125,7 @@ legacyPackages.x86_64-linux.vimPlugins.mini-sessions:
 legacyPackages.x86_64-linux.vimPlugins.mini-snippets:
   description: ""
   pname: vimplugin-mini.snippets
-  version: "2025-04-18"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.mini-splitjoin:
   description: ""
   pname: vimplugin-mini.splitjoin
@@ -325121,7 +325141,7 @@ legacyPackages.x86_64-linux.vimPlugins.mini-statusline:
 legacyPackages.x86_64-linux.vimPlugins.mini-surround:
   description: ""
   pname: vimplugin-mini.surround
-  version: "2025-05-27"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.mini-tabline:
   description: ""
   pname: vimplugin-mini.tabline
@@ -325301,7 +325321,7 @@ legacyPackages.x86_64-linux.vimPlugins.necoGhc:
 legacyPackages.x86_64-linux.vimPlugins.neo-tree-nvim:
   description: ""
   pname: vimplugin-neo-tree.nvim
-  version: "2025-05-23"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.neocomplete:
   description: ""
   pname: vimplugin-neocomplete.vim
@@ -325313,7 +325333,7 @@ legacyPackages.x86_64-linux.vimPlugins.neocomplete-vim:
 legacyPackages.x86_64-linux.vimPlugins.neoconf-nvim:
   description: ""
   pname: vimplugin-neoconf.nvim
-  version: "2025-05-30"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.neocord:
   description: ""
   pname: vimplugin-neocord
@@ -325337,7 +325357,7 @@ legacyPackages.x86_64-linux.vimPlugins.neogen:
 legacyPackages.x86_64-linux.vimPlugins.neogit:
   description: ""
   pname: vimplugin-neogit
-  version: "2025-05-29"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.neoinclude:
   description: ""
   pname: vimplugin-neoinclude.vim
@@ -325413,7 +325433,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-bash:
 legacyPackages.x86_64-linux.vimPlugins.neotest-dart:
   description: ""
   pname: vimplugin-neotest-dart
-  version: "2025-02-26"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.neotest-deno:
   description: ""
   pname: vimplugin-neotest-deno
@@ -325421,7 +325441,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-deno:
 legacyPackages.x86_64-linux.vimPlugins.neotest-dotnet:
   description: ""
   pname: vimplugin-neotest-dotnet
-  version: "2025-05-13"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.neotest-elixir:
   description: ""
   pname: vimplugin-neotest-elixir
@@ -325437,7 +325457,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-go:
 legacyPackages.x86_64-linux.vimPlugins.neotest-golang:
   description: ""
   pname: vimplugin-neotest-golang
-  version: "2025-05-27"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.neotest-gradle:
   description: ""
   pname: vimplugin-neotest-gradle
@@ -325449,7 +325469,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-gtest:
 legacyPackages.x86_64-linux.vimPlugins.neotest-haskell:
   description: ""
   pname: vimplugin-neotest-haskell
-  version: "2025-05-26"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.neotest-java:
   description: ""
   pname: vimplugin-neotest-java
@@ -325545,7 +325565,7 @@ legacyPackages.x86_64-linux.vimPlugins.nerdtree-git-plugin:
 legacyPackages.x86_64-linux.vimPlugins.nerdy-nvim:
   description: ""
   pname: vimplugin-nerdy.nvim
-  version: "2025-03-09"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.netman-nvim:
   description: ""
   pname: vimplugin-netman.nvim
@@ -325597,7 +325617,7 @@ legacyPackages.x86_64-linux.vimPlugins.nix-develop-nvim:
 legacyPackages.x86_64-linux.vimPlugins.nlsp-settings-nvim:
   description: ""
   pname: vimplugin-nlsp-settings.nvim
-  version: "2025-05-29"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.nnn-vim:
   description: ""
   pname: vimplugin-nnn.vim
@@ -325609,7 +325629,7 @@ legacyPackages.x86_64-linux.vimPlugins.no-clown-fiesta-nvim:
 legacyPackages.x86_64-linux.vimPlugins.no-neck-pain-nvim:
   description: ""
   pname: vimplugin-no-neck-pain.nvim
-  version: "2025-05-29"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.noctis-nvim:
   description: ""
   pname: vimplugin-noctis.nvim
@@ -325661,11 +325681,11 @@ legacyPackages.x86_64-linux.vimPlugins.numb-nvim:
 legacyPackages.x86_64-linux.vimPlugins.nvchad:
   description: ""
   pname: vimplugin-nvchad
-  version: "2025-05-07"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.nvchad-ui:
   description: ""
   pname: vimplugin-nvchad-ui
-  version: "2025-05-24"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.nvcode-color-schemes-vim:
   description: ""
   pname: vimplugin-nvcode-color-schemes.vim
@@ -325741,7 +325761,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-cursorline:
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap:
   description: ""
   pname: vimplugin-nvim-dap
-  version: "2025-05-22"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-cortex-debug:
   description: ""
   pname: vimplugin-nvim-dap-cortex-debug
@@ -325773,7 +325793,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-dap-ui:
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-view:
   description: ""
   pname: vimplugin-nvim-dap-view
-  version: "2025-05-27"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-virtual-text:
   description: ""
   pname: vimplugin-nvim-dap-virtual-text
@@ -325829,7 +325849,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-highlight-colors:
 legacyPackages.x86_64-linux.vimPlugins.nvim-highlite:
   description: ""
   pname: vimplugin-nvim-highlite
-  version: "2025-05-23"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.nvim-hlslens:
   description: ""
   pname: vimplugin-nvim-hlslens
@@ -325893,11 +325913,11 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-lightline-lsp:
 legacyPackages.x86_64-linux.vimPlugins.nvim-lilypond-suite:
   description: ""
   pname: vimplugin-nvim-lilypond-suite
-  version: "2025-05-04"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.nvim-lint:
   description: ""
   pname: vimplugin-nvim-lint
-  version: "2025-05-22"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-file-operations:
   description: ""
   pname: vimplugin-nvim-lsp-file-operations
@@ -325913,7 +325933,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-ts-utils:
 legacyPackages.x86_64-linux.vimPlugins.nvim-lspconfig:
   description: ""
   pname: vimplugin-nvim-lspconfig
-  version: "2025-05-27"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.nvim-lsputils:
   description: ""
   pname: vimplugin-nvim-lsputils
@@ -325933,7 +325953,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-luapad:
 legacyPackages.x86_64-linux.vimPlugins.nvim-metals:
   description: ""
   pname: vimplugin-nvim-metals
-  version: "2025-05-19"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.nvim-moonwalk:
   description: ""
   pname: vimplugin-nvim-moonwalk
@@ -326009,7 +326029,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-rg:
 legacyPackages.x86_64-linux.vimPlugins.nvim-rip-substitute:
   description: ""
   pname: vimplugin-nvim-rip-substitute
-  version: "2025-05-22"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.nvim-scissors:
   description: ""
   pname: vimplugin-nvim-scissors
@@ -326073,7 +326093,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-tinygit:
 legacyPackages.x86_64-linux.vimPlugins.nvim-tree-lua:
   description: ""
   pname: vimplugin-nvim-tree.lua
-  version: "2025-05-26"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter:
   description: ""
   pname: vimplugin-nvim-treesitter
@@ -326081,7 +326101,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter:
 legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-context:
   description: ""
   pname: vimplugin-nvim-treesitter-context
-  version: "2025-05-29"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-endwise:
   description: ""
   pname: vimplugin-nvim-treesitter-endwise
@@ -327445,7 +327465,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvterm:
 legacyPackages.x86_64-linux.vimPlugins.nvzone-menu:
   description: ""
   pname: vimplugin-nvzone-menu
-  version: "2025-04-13"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.nvzone-minty:
   description: ""
   pname: vimplugin-nvzone-minty
@@ -327473,7 +327493,7 @@ legacyPackages.x86_64-linux.vimPlugins.oceanic-next:
 legacyPackages.x86_64-linux.vimPlugins.octo-nvim:
   description: ""
   pname: vimplugin-octo.nvim
-  version: "2025-05-27"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.oil-git-status-nvim:
   description: ""
   pname: vimplugin-oil-git-status.nvim
@@ -327501,7 +327521,7 @@ legacyPackages.x86_64-linux.vimPlugins.one-nvim:
 legacyPackages.x86_64-linux.vimPlugins.one-small-step-for-vimkind:
   description: ""
   pname: vimplugin-one-small-step-for-vimkind
-  version: "2025-05-29"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.onedark-nvim:
   description: ""
   pname: vimplugin-onedark.nvim
@@ -327517,7 +327537,7 @@ legacyPackages.x86_64-linux.vimPlugins.onedarker-nvim:
 legacyPackages.x86_64-linux.vimPlugins.onedarkpro-nvim:
   description: ""
   pname: vimplugin-onedarkpro.nvim
-  version: "2025-05-25"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.onehalf:
   description: ""
   pname: vimplugin-onehalf
@@ -327561,7 +327581,7 @@ legacyPackages.x86_64-linux.vimPlugins.other-nvim:
 legacyPackages.x86_64-linux.vimPlugins.otter-nvim:
   description: ""
   pname: vimplugin-otter.nvim
-  version: "2025-05-14"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.outline-nvim:
   description: ""
   pname: vimplugin-outline.nvim
@@ -327573,7 +327593,7 @@ legacyPackages.x86_64-linux.vimPlugins.overseer-nvim:
 legacyPackages.x86_64-linux.vimPlugins.oxocarbon-nvim:
   description: ""
   pname: vimplugin-oxocarbon.nvim
-  version: "2024-08-28"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.package-info-nvim:
   description: ""
   pname: vimplugin-package-info.nvim
@@ -327601,7 +327621,7 @@ legacyPackages.x86_64-linux.vimPlugins.papercolor-theme:
 legacyPackages.x86_64-linux.vimPlugins.papercolor-theme-slim:
   description: ""
   pname: vimplugin-papercolor-theme-slim
-  version: "2025-05-29"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.papis-nvim:
   description: Manage your bibliography from within your favourite editor
   pname: vimplugin-luajit2.1-papis.nvim
@@ -327617,7 +327637,7 @@ legacyPackages.x86_64-linux.vimPlugins.parpar-nvim:
 legacyPackages.x86_64-linux.vimPlugins.parrot-nvim:
   description: ""
   pname: vimplugin-parrot.nvim
-  version: "2025-05-29"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.pathogen:
   description: ""
   pname: vimplugin-vim-pathogen
@@ -327757,7 +327777,7 @@ legacyPackages.x86_64-linux.vimPlugins.psc-ide-vim:
 legacyPackages.x86_64-linux.vimPlugins.pum-vim:
   description: ""
   pname: vimplugin-pum.vim
-  version: "2025-05-03"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.pure-lua:
   description: ""
   pname: vimplugin-pure-lua
@@ -327781,7 +327801,7 @@ legacyPackages.x86_64-linux.vimPlugins.pywal-nvim:
 legacyPackages.x86_64-linux.vimPlugins.qmk-nvim:
   description: ""
   pname: vimplugin-qmk.nvim
-  version: "2024-09-14"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.quarto-nvim:
   description: ""
   pname: vimplugin-quarto-nvim
@@ -327857,7 +327877,7 @@ legacyPackages.x86_64-linux.vimPlugins.readline-vim:
 legacyPackages.x86_64-linux.vimPlugins.refactoring-nvim:
   description: ""
   pname: vimplugin-refactoring.nvim
-  version: "2025-05-21"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.registers-nvim:
   description: ""
   pname: vimplugin-registers.nvim
@@ -327873,7 +327893,7 @@ legacyPackages.x86_64-linux.vimPlugins.remote-nvim-nvim:
 legacyPackages.x86_64-linux.vimPlugins.remote-sshfs-nvim:
   description: ""
   pname: vimplugin-remote-sshfs.nvim
-  version: "2025-05-29"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.renamer-nvim:
   description: ""
   pname: vimplugin-renamer.nvim
@@ -327881,7 +327901,7 @@ legacyPackages.x86_64-linux.vimPlugins.renamer-nvim:
 legacyPackages.x86_64-linux.vimPlugins.render-markdown-nvim:
   description: ""
   pname: vimplugin-render-markdown.nvim
-  version: "2025-05-29"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.repeat:
   description: ""
   pname: vimplugin-vim-repeat
@@ -327897,7 +327917,7 @@ legacyPackages.x86_64-linux.vimPlugins.repolink-nvim:
 legacyPackages.x86_64-linux.vimPlugins.resession-nvim:
   description: ""
   pname: vimplugin-resession.nvim
-  version: "2025-03-24"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.rest-nvim:
   description: A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.
   pname: vimplugin-luajit2.1-rest.nvim
@@ -327945,7 +327965,7 @@ legacyPackages.x86_64-linux.vimPlugins.rose-pine:
 legacyPackages.x86_64-linux.vimPlugins.roslyn-nvim:
   description: ""
   pname: vimplugin-roslyn.nvim
-  version: "2025-05-26"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.rspec-vim:
   description: ""
   pname: vimplugin-rspec.vim
@@ -328081,7 +328101,7 @@ legacyPackages.x86_64-linux.vimPlugins.smart-open-nvim:
 legacyPackages.x86_64-linux.vimPlugins.smart-splits-nvim:
   description: ""
   pname: vimplugin-smart-splits.nvim
-  version: "2025-05-23"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.smartcolumn-nvim:
   description: ""
   pname: vimplugin-smartcolumn.nvim
@@ -328193,7 +328213,7 @@ legacyPackages.x86_64-linux.vimPlugins.split-term-vim:
 legacyPackages.x86_64-linux.vimPlugins.splitjoin-vim:
   description: ""
   pname: vimplugin-splitjoin.vim
-  version: "2025-04-12"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.sqlite-lua:
   description: ""
   pname: vimplugin-sqlite.lua
@@ -328245,7 +328265,7 @@ legacyPackages.x86_64-linux.vimPlugins.statix:
 legacyPackages.x86_64-linux.vimPlugins.statuscol-nvim:
   description: ""
   pname: vimplugin-statuscol.nvim
-  version: "2025-04-20"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.stay-centered-nvim:
   description: ""
   pname: vimplugin-stay-centered.nvim
@@ -328369,7 +328389,7 @@ legacyPackages.x86_64-linux.vimPlugins.tagalong-vim:
 legacyPackages.x86_64-linux.vimPlugins.tagbar:
   description: ""
   pname: vimplugin-tagbar
-  version: "2024-12-27"
+  version: "2025-06-03"
 legacyPackages.x86_64-linux.vimPlugins.taglist:
   description: ""
   pname: vimplugin-taglist.vim
@@ -328605,7 +328625,7 @@ legacyPackages.x86_64-linux.vimPlugins.tint-nvim:
 legacyPackages.x86_64-linux.vimPlugins.tinted-vim:
   description: ""
   pname: vimplugin-tinted-vim
-  version: "2025-05-26"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.tiny-devicons-auto-colors-nvim:
   description: ""
   pname: vimplugin-tiny-devicons-auto-colors.nvim
@@ -328613,7 +328633,7 @@ legacyPackages.x86_64-linux.vimPlugins.tiny-devicons-auto-colors-nvim:
 legacyPackages.x86_64-linux.vimPlugins.tiny-inline-diagnostic-nvim:
   description: ""
   pname: vimplugin-tiny-inline-diagnostic.nvim
-  version: "2025-05-12"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.tinykeymap:
   description: ""
   pname: vimplugin-tinykeymap
@@ -328633,7 +328653,7 @@ legacyPackages.x86_64-linux.vimPlugins.tmux-complete-vim:
 legacyPackages.x86_64-linux.vimPlugins.tmux-navigator:
   description: ""
   pname: vimplugin-vim-tmux-navigator
-  version: "2025-05-28"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.tmux-nvim:
   description: ""
   pname: vimplugin-tmux.nvim
@@ -328641,7 +328661,7 @@ legacyPackages.x86_64-linux.vimPlugins.tmux-nvim:
 legacyPackages.x86_64-linux.vimPlugins.tmuxNavigator:
   description: ""
   pname: vimplugin-vim-tmux-navigator
-  version: "2025-05-28"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.tmuxline-vim:
   description: ""
   pname: vimplugin-tmuxline.vim
@@ -328673,7 +328693,7 @@ legacyPackages.x86_64-linux.vimPlugins.train-nvim:
 legacyPackages.x86_64-linux.vimPlugins.transparent-nvim:
   description: ""
   pname: vimplugin-transparent.nvim
-  version: "2024-08-25"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.treesj:
   description: ""
   pname: vimplugin-treesj
@@ -328681,7 +328701,7 @@ legacyPackages.x86_64-linux.vimPlugins.treesj:
 legacyPackages.x86_64-linux.vimPlugins.treewalker-nvim:
   description: ""
   pname: vimplugin-treewalker.nvim
-  version: "2025-05-27"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.tremor-vim:
   description: ""
   pname: vimplugin-tremor-vim
@@ -328769,7 +328789,7 @@ legacyPackages.x86_64-linux.vimPlugins.ultimate-autopair-nvim:
 legacyPackages.x86_64-linux.vimPlugins.ultisnips:
   description: ""
   pname: vimplugin-ultisnips
-  version: "2025-03-09"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.undotree:
   description: ""
   pname: vimplugin-undotree
@@ -328789,7 +328809,7 @@ legacyPackages.x86_64-linux.vimPlugins.unimpaired-which-key-nvim:
 legacyPackages.x86_64-linux.vimPlugins.unison:
   description: ""
   pname: vimplugin-unison
-  version: "2025-05-28"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.unite:
   description: ""
   pname: vimplugin-unite.vim
@@ -328837,7 +328857,7 @@ legacyPackages.x86_64-linux.vimPlugins.verilog_systemverilog-vim:
 legacyPackages.x86_64-linux.vimPlugins.vifm-vim:
   description: ""
   pname: vimplugin-vifm.vim
-  version: "2025-04-26"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.vim-CtrlXA:
   description: ""
   pname: vimplugin-vim-CtrlXA
@@ -328973,7 +328993,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-airline-clock:
 legacyPackages.x86_64-linux.vimPlugins.vim-airline-themes:
   description: ""
   pname: vimplugin-vim-airline-themes
-  version: "2025-01-02"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.vim-alias:
   description: ""
   pname: vimplugin-vim-alias
@@ -328981,7 +329001,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-alias:
 legacyPackages.x86_64-linux.vimPlugins.vim-android:
   description: ""
   pname: vimplugin-vim-android
-  version: "2024-09-05"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.vim-anzu:
   description: ""
   pname: vimplugin-vim-anzu
@@ -329225,7 +329245,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-completion:
 legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-ui:
   description: ""
   pname: vimplugin-vim-dadbod-ui
-  version: "2025-04-14"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.vim-dasht:
   description: ""
   pname: vimplugin-vim-dasht
@@ -329477,7 +329497,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-gnupg:
 legacyPackages.x86_64-linux.vimPlugins.vim-go:
   description: ""
   pname: vimplugin-vim-go
-  version: "2025-05-26"
+  version: "2025-05-31"
 legacyPackages.x86_64-linux.vimPlugins.vim-godot:
   description: ""
   pname: vimplugin-vim-godot
@@ -329497,7 +329517,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-grepper:
 legacyPackages.x86_64-linux.vimPlugins.vim-gruvbox8:
   description: ""
   pname: vimplugin-vim-gruvbox8
-  version: "2025-05-29"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.vim-gui-position:
   description: ""
   pname: vimplugin-vim-gui-position
@@ -329825,7 +329845,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-matchtag:
 legacyPackages.x86_64-linux.vimPlugins.vim-matchup:
   description: ""
   pname: vimplugin-vim-matchup
-  version: "2025-05-16"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.vim-mediawiki-editor:
   description: ""
   pname: vimplugin-vim-mediawiki-editor
@@ -330273,7 +330293,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-snippets:
 legacyPackages.x86_64-linux.vimPlugins.vim-solarized8:
   description: ""
   pname: vimplugin-vim-solarized8
-  version: "2025-05-29"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.vim-solidity:
   description: ""
   pname: vimplugin-vim-solidity
@@ -330289,7 +330309,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-speeddating:
 legacyPackages.x86_64-linux.vimPlugins.vim-spirv:
   description: ""
   pname: vimplugin-vim-spirv
-  version: "2025-05-15"
+  version: "2025-06-05"
 legacyPackages.x86_64-linux.vimPlugins.vim-splunk:
   description: ""
   pname: vimplugin-vim-splunk
@@ -330337,7 +330357,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-surround:
 legacyPackages.x86_64-linux.vimPlugins.vim-svelte:
   description: ""
   pname: vimplugin-vim-svelte
-  version: "2022-10-27"
+  version: "2025-05-30"
 legacyPackages.x86_64-linux.vimPlugins.vim-swap:
   description: ""
   pname: vimplugin-vim-swap
@@ -330377,7 +330397,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-terraform-completion:
 legacyPackages.x86_64-linux.vimPlugins.vim-test:
   description: ""
   pname: vimplugin-vim-test
-  version: "2025-04-02"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.vim-textobj-comment:
   description: ""
   pname: vimplugin-vim-textobj-comment
@@ -330425,7 +330445,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-tmux-focus-events:
 legacyPackages.x86_64-linux.vimPlugins.vim-tmux-navigator:
   description: ""
   pname: vimplugin-vim-tmux-navigator
-  version: "2025-05-28"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.vim-togglelist:
   description: ""
   pname: vimplugin-vim-togglelist
@@ -330565,7 +330585,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-yapf:
 legacyPackages.x86_64-linux.vimPlugins.vim-zettel:
   description: ""
   pname: vimplugin-vim-zettel
-  version: "2025-05-29"
+  version: "2025-06-04"
 legacyPackages.x86_64-linux.vimPlugins.vim-zscript:
   description: ""
   pname: vimplugin-vim-zscript
@@ -330641,7 +330661,7 @@ legacyPackages.x86_64-linux.vimPlugins.vimspector:
 legacyPackages.x86_64-linux.vimPlugins.vimtex:
   description: ""
   pname: vimplugin-vimtex
-  version: "2025-05-17"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.vimux:
   description: ""
   pname: vimplugin-vimux
@@ -330677,7 +330697,7 @@ legacyPackages.x86_64-linux.vimPlugins.vista-vim:
 legacyPackages.x86_64-linux.vimPlugins.visual-whitespace-nvim:
   description: ""
   pname: vimplugin-visual-whitespace.nvim
-  version: "2025-05-21"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.vs-tasks-nvim:
   description: ""
   pname: vimplugin-vs-tasks.nvim
@@ -330725,7 +330745,7 @@ legacyPackages.x86_64-linux.vimPlugins.wiki-ft-vim:
 legacyPackages.x86_64-linux.vimPlugins.wiki-vim:
   description: ""
   pname: vimplugin-wiki.vim
-  version: "2025-03-07"
+  version: "2025-06-02"
 legacyPackages.x86_64-linux.vimPlugins.wilder-nvim:
   description: ""
   pname: vimplugin-wilder.nvim
@@ -330821,7 +330841,7 @@ legacyPackages.x86_64-linux.vimPlugins.yats-vim:
 legacyPackages.x86_64-linux.vimPlugins.yazi-nvim:
   description: ""
   pname: vimplugin-yazi.nvim
-  version: "2025-05-28"
+  version: "2025-06-01"
 legacyPackages.x86_64-linux.vimPlugins.yescapsquit-vim:
   description: ""
   pname: vimplugin-yescapsquit.vim
@@ -330965,7 +330985,7 @@ legacyPackages.x86_64-linux.vinegar:
 legacyPackages.x86_64-linux.vintagestory:
   description: In-development indie sandbox game about innovation and exploration
   pname: vintagestory
-  version: 1.20.9
+  version: 1.20.11
 legacyPackages.x86_64-linux.violet:
   description: Lightweight STUN/TURN server
   pname: violet
@@ -339077,11 +339097,11 @@ legacyPackages.x86_64-linux.xxd:
 legacyPackages.x86_64-linux.xxdiff:
   description: Graphical file and directories comparator and merge tool
   pname: xxdiff
-  version: 5.0b1
+  version: 5.1-unstable-2025-03-21
 legacyPackages.x86_64-linux.xxdiff-tip:
   description: Graphical file and directories comparator and merge tool
   pname: xxdiff
-  version: 5.0b1
+  version: 5.1-unstable-2025-03-21
 legacyPackages.x86_64-linux.xxe-pe:
   description: Strictly validating, near WYSIWYG, XML editor with DocBook support
   pname: xxe-pe
