@@ -3977,7 +3977,7 @@
   "legacyPackages.x86_64-linux.aliyun-cli": {
     "description": "Tool to manage and use Alibaba Cloud resources through a command line interface",
     "pname": "aliyun-cli",
-    "version": "3.0.278"
+    "version": "3.0.282"
   },
   "legacyPackages.x86_64-linux.alkalami": {
     "description": "Font for Arabic-based writing systems in the Kano region of Nigeria and in Niger",
@@ -8097,7 +8097,7 @@
   "legacyPackages.x86_64-linux.anyrun": {
     "description": "Wayland-native, highly customizable runner",
     "pname": "anyrun",
-    "version": "0-unstable-2025-05-19"
+    "version": "0-unstable-2025-05-27"
   },
   "legacyPackages.x86_64-linux.anystyle-cli": {
     "description": "Command line interface to the AnyStyle Parser and Finder",
@@ -11352,7 +11352,7 @@
   "legacyPackages.x86_64-linux.avalanchego": {
     "description": "Go implementation of an Avalanche node",
     "pname": "avalanchego",
-    "version": "1.12.1"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.avalonia": {
     "description": "Cross-platform UI framework for dotnet",
@@ -18742,7 +18742,7 @@
   "legacyPackages.x86_64-linux.cargo-shear": {
     "description": "Detect and remove unused dependencies from Cargo.toml",
     "pname": "cargo-shear",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.cargo-show-asm": {
     "description": "Cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code",
@@ -19622,7 +19622,7 @@
   "legacyPackages.x86_64-linux.cdncheck": {
     "description": "Tool to detect various technology for a given IP address",
     "pname": "cdncheck",
-    "version": "1.1.21"
+    "version": "1.1.22"
   },
   "legacyPackages.x86_64-linux.cdo": {
     "description": "Collection of command line Operators to manipulate and analyse Climate and NWP model Data",
@@ -24457,7 +24457,7 @@
   "legacyPackages.x86_64-linux.clapper-enhancers": {
     "description": "Plugins enhancing Clapper library capabilities",
     "pname": "clapper-enhancers",
-    "version": "0.8.2"
+    "version": "0.8.3"
   },
   "legacyPackages.x86_64-linux.clapper-unwrapped": {
     "description": "GNOME media player built using GTK4 toolkit and powered by GStreamer with OpenGL rendering",
@@ -33262,7 +33262,7 @@
   "legacyPackages.x86_64-linux.diffedit3": {
     "description": "3-pane diff editor",
     "pname": "diffedit3",
-    "version": "0.5.0"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.diffnav": {
     "description": "Git diff pager based on delta but with a file tree, à la GitHub",
@@ -39932,7 +39932,7 @@
   "legacyPackages.x86_64-linux.expr": {
     "description": "Expression language and expression evaluation for Go",
     "pname": "expr",
-    "version": "1.17.4"
+    "version": "1.17.5"
   },
   "legacyPackages.x86_64-linux.expressvpn": {
     "description": "CLI client for ExpressVPN",
@@ -40147,7 +40147,7 @@
   "legacyPackages.x86_64-linux.fabric-ai": {
     "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere",
     "pname": "fabric-ai",
-    "version": "1.4.195"
+    "version": "1.4.196"
   },
   "legacyPackages.x86_64-linux.fabric-installer": {
     "description": "Lightweight, experimental modding toolchain for Minecraft",
@@ -40717,7 +40717,7 @@
   "legacyPackages.x86_64-linux.fastp": {
     "description": "Ultra-fast all-in-one FASTQ preprocessor",
     "pname": "fastp",
-    "version": "0.24.2"
+    "version": "0.26.0"
   },
   "legacyPackages.x86_64-linux.fastpbkdf2": {
     "description": "Fast PBKDF2-HMAC-{SHA1,SHA256,SHA512} implementation in C",
@@ -42037,12 +42037,12 @@
   "legacyPackages.x86_64-linux.firefox-beta-bin": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-beta-bin",
-    "version": "140.0b4"
+    "version": "140.0b6"
   },
   "legacyPackages.x86_64-linux.firefox-beta-bin-unwrapped": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-beta-bin-unwrapped",
-    "version": "140.0b4"
+    "version": "140.0b6"
   },
   "legacyPackages.x86_64-linux.firefox-beta-unwrapped": {
     "description": "Web browser built from Firefox Beta Release source tree",
@@ -45387,7 +45387,7 @@
   "legacyPackages.x86_64-linux.gat": {
     "description": "Cat alternative written in Go",
     "pname": "gat",
-    "version": "0.24.0"
+    "version": "0.24.1"
   },
   "legacyPackages.x86_64-linux.gate": {
     "description": "High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy",
@@ -45977,7 +45977,7 @@
   "legacyPackages.x86_64-linux.gdcm": {
     "description": "Grassroots cross-platform DICOM implementation",
     "pname": "gdcm",
-    "version": "3.0.24"
+    "version": "3.0.25"
   },
   "legacyPackages.x86_64-linux.gdevelop": {
     "description": "Graphical Game Development Studio",
@@ -48262,7 +48262,7 @@
   "legacyPackages.x86_64-linux.gitleaks": {
     "description": "Scan git repos (or files) for secrets",
     "pname": "gitleaks",
-    "version": "8.27.0"
+    "version": "8.27.1"
   },
   "legacyPackages.x86_64-linux.gitless": {
     "description": "Version control system built on top of Git",
@@ -48532,7 +48532,7 @@
   "legacyPackages.x86_64-linux.glaze": {
     "description": "Extremely fast, in memory, JSON and interface library for modern C++",
     "pname": "glaze",
-    "version": "5.3.0"
+    "version": "5.4.0"
   },
   "legacyPackages.x86_64-linux.glbinding": {
     "description": "C++ binding for the OpenGL API, generated using the gl.xml specification",
@@ -54687,7 +54687,7 @@
   "legacyPackages.x86_64-linux.go-ios": {
     "description": "Operating system independent implementation of iOS device features",
     "pname": "go-ios",
-    "version": "1.0.176"
+    "version": "1.0.177"
   },
   "legacyPackages.x86_64-linux.go-jet": {
     "description": "Type safe SQL builder with code generation and automatic query result data mapping",
@@ -57259,6 +57259,11 @@
     "pname": "gridtracker",
     "version": "1.24.0922"
   },
+  "legacyPackages.x86_64-linux.gridtracker2": {
+    "description": "Warehouse of amateur radio information",
+    "pname": "gridtracker2",
+    "version": "2.250507.0"
+  },
   "legacyPackages.x86_64-linux.griffe": {
     "description": "Signatures for entire Python programs",
     "pname": "griffe",
@@ -59537,7 +59542,7 @@
   "legacyPackages.x86_64-linux.hcp": {
     "description": "HashiCorp Cloud Platform CLI",
     "pname": "hcp",
-    "version": "0.9.1"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.hcxdumptool": {
     "description": "Small tool to capture packets from wlan devices",
@@ -65447,7 +65452,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-components.ntfy": {
     "description": "Send notifications with ntfy.sh and selfhosted ntfy-servers",
     "pname": "python3.13-hbrennhaeuser-ntfy",
-    "version": "1.2.0-pre.2"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.omnik_inverter": {
     "description": "Omnik Inverter integration will scrape data from an Omnik inverter connected to your local network",
@@ -65602,7 +65607,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.bubble-card": {
     "description": "Bubble Card is a minimalist card collection for Home Assistant with a nice pop-up touch.",
     "pname": "bubble-card",
-    "version": "2.4.0"
+    "version": "3.0.0-beta.9"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.button-card": {
     "description": "Lovelace button-card for home assistant",
@@ -66167,7 +66172,7 @@
   "legacyPackages.x86_64-linux.htmlhint": {
     "description": "Static code analysis tool for HTML",
     "pname": "htmlhint",
-    "version": "1.2.0"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.htmlq": {
     "description": "Like jq, but for HTML",
@@ -66217,7 +66222,7 @@
   "legacyPackages.x86_64-linux.httm": {
     "description": "Interactive, file-level Time Machine-like tool for ZFS/btrfs",
     "pname": "httm",
-    "version": "0.47.1"
+    "version": "0.48.3"
   },
   "legacyPackages.x86_64-linux.http-getter": {
     "description": "Simple getter for HTTP URLs using cURL",
@@ -69737,7 +69742,7 @@
   "legacyPackages.x86_64-linux.inputplumber": {
     "description": "Open source input router and remapper daemon for Linux",
     "pname": "inputplumber",
-    "version": "0.58.2"
+    "version": "0.58.5"
   },
   "legacyPackages.x86_64-linux.inql": {
     "description": "Security testing tool for GraphQL",
@@ -70832,7 +70837,7 @@
   "legacyPackages.x86_64-linux.iterm2": {
     "description": "Replacement for Terminal and the successor to iTerm",
     "pname": "iterm2",
-    "version": "3.5.11"
+    "version": "3.5.14"
   },
   "legacyPackages.x86_64-linux.itgmania": {
     "description": "Fork of StepMania 5.1, improved for the post-ITG community",
@@ -71357,7 +71362,7 @@
   "legacyPackages.x86_64-linux.jbang": {
     "description": "Run java as scripts anywhere",
     "pname": "jbang",
-    "version": "0.126.1"
+    "version": "0.126.2"
   },
   "legacyPackages.x86_64-linux.jbig2dec": {
     "description": "Decoder implementation of the JBIG2 image compression format",
@@ -71777,7 +71782,7 @@
   "legacyPackages.x86_64-linux.jetty": {
     "description": "Web server and javax.servlet container",
     "pname": "jetty",
-    "version": "12.0.21"
+    "version": "12.0.22"
   },
   "legacyPackages.x86_64-linux.jetty_11": {
     "description": "Web server and javax.servlet container",
@@ -71787,7 +71792,7 @@
   "legacyPackages.x86_64-linux.jetty_12": {
     "description": "Web server and javax.servlet container",
     "pname": "jetty",
-    "version": "12.0.21"
+    "version": "12.0.22"
   },
   "legacyPackages.x86_64-linux.jextract": {
     "description": "Tool which mechanically generates Java bindings from a native library headers",
@@ -73347,7 +73352,7 @@
   "legacyPackages.x86_64-linux.kanidm-provision": {
     "description": "Small utility to help with kanidm provisioning",
     "pname": "kanidm-provision",
-    "version": "1.2.1"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.kanidmWithSecretProvisioning": {
     "description": "Simple, secure and fast identity management platform",
@@ -76927,7 +76932,7 @@
   "legacyPackages.x86_64-linux.kimai": {
     "description": "Web-based multi-user time-tracking application",
     "pname": "kimai",
-    "version": "2.34.0"
+    "version": "2.35.1"
   },
   "legacyPackages.x86_64-linux.kime": {
     "description": "Korean IME",
@@ -78037,7 +78042,7 @@
   "legacyPackages.x86_64-linux.korrect": {
     "description": "Kubectl version managing shim that invokes the correct kubectl version",
     "pname": "korrect",
-    "version": "0.1.3"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.koruri": {
     "description": "Japanese TrueType font obtained by mixing M+ FONTS and Open Sans",
@@ -81327,7 +81332,7 @@
   "legacyPackages.x86_64-linux.libdiscid": {
     "description": "C library for creating MusicBrainz DiscIDs from audio CDs",
     "pname": "libdiscid",
-    "version": "0.6.4"
+    "version": "0.6.5"
   },
   "legacyPackages.x86_64-linux.libdislocator": {
     "description": "Drop-in replacement for the libc allocator which improves the odds of bumping into heap-related security bugs in several ways ",
@@ -90437,7 +90442,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.10.238"
+    "version": "0.44-unstable-2025-05-26-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -90557,7 +90562,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -91232,7 +91237,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.10.237"
+    "version": "0.44-unstable-2025-05-26-5.10.237"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -91352,7 +91357,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -92027,7 +92032,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.15.185"
+    "version": "0.44-unstable-2025-05-26-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -92147,7 +92152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -92822,7 +92827,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.15.184"
+    "version": "0.44-unstable-2025-05-26-5.15.184"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -92942,7 +92947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -93617,7 +93622,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.4.294"
+    "version": "0.44-unstable-2025-05-26-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -93742,7 +93747,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -94417,7 +94422,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.4.293"
+    "version": "0.44-unstable-2025-05-26-5.4.293"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -94542,7 +94547,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -95212,7 +95217,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.1.141"
+    "version": "0.44-unstable-2025-05-26-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -95332,7 +95337,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -96007,7 +96012,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.32"
+    "version": "0.44-unstable-2025-05-26-6.12.32"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -96127,7 +96132,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -96802,7 +96807,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.30"
+    "version": "0.44-unstable-2025-05-26-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -96922,7 +96927,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -97597,7 +97602,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.13.12"
+    "version": "0.44-unstable-2025-05-26-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -97717,7 +97722,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -98392,7 +98397,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.13.12"
+    "version": "0.44-unstable-2025-05-26-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -98512,7 +98517,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -99187,7 +99192,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.10"
+    "version": "0.44-unstable-2025-05-26-6.14.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -99307,7 +99312,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -99982,7 +99987,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.8"
+    "version": "0.44-unstable-2025-05-26-6.14.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -100102,7 +100107,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -100777,7 +100782,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.15.1"
+    "version": "0.44-unstable-2025-05-26-6.15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -100897,7 +100902,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -101567,7 +101572,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.1.140"
+    "version": "0.44-unstable-2025-05-26-6.1.140"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -101687,7 +101692,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -102357,7 +102362,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.6.93"
+    "version": "0.44-unstable-2025-05-26-6.6.93"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -102477,7 +102482,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -103147,7 +103152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.6.92"
+    "version": "0.44-unstable-2025-05-26-6.6.92"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -103267,7 +103272,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -103942,7 +103947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.13.12"
+    "version": "0.44-unstable-2025-05-26-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -104062,7 +104067,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -104737,7 +104742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.30"
+    "version": "0.44-unstable-2025-05-26-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -104857,7 +104862,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -105532,7 +105537,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.15.1"
+    "version": "0.44-unstable-2025-05-26-6.15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -105652,7 +105657,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -106327,7 +106332,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.32"
+    "version": "0.44-unstable-2025-05-26-6.12.32"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -106447,7 +106452,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -107122,7 +107127,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -107242,7 +107247,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -107917,7 +107922,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.31"
+    "version": "0.44-unstable-2025-05-26-6.12.31"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -108037,7 +108042,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -108712,7 +108717,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -108832,7 +108837,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -109507,7 +109512,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -109627,7 +109632,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -110302,7 +110307,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -110422,7 +110427,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -111097,7 +111102,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.32"
+    "version": "0.44-unstable-2025-05-26-6.12.32"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -111217,7 +111222,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -111892,7 +111897,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.32"
+    "version": "0.44-unstable-2025-05-26-6.12.32"
   },
   "legacyPackages.x86_64-linux.linuxPackages.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -112012,7 +112017,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -112687,7 +112692,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.10.237"
+    "version": "0.44-unstable-2025-05-26-5.10.237"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -112807,7 +112812,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -113482,7 +113487,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.15.184"
+    "version": "0.44-unstable-2025-05-26-5.15.184"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -113602,7 +113607,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -114277,7 +114282,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-5.4.293"
+    "version": "0.44-unstable-2025-05-26-5.4.293"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -114402,7 +114407,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -115077,7 +115082,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.30"
+    "version": "0.44-unstable-2025-05-26-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -115197,7 +115202,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -115872,7 +115877,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.13.12"
+    "version": "0.44-unstable-2025-05-26-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -115992,7 +115997,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -116667,7 +116672,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.8"
+    "version": "0.44-unstable-2025-05-26-6.14.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -116787,7 +116792,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -117457,7 +117462,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.1.140"
+    "version": "0.44-unstable-2025-05-26-6.1.140"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -117577,7 +117582,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -118247,7 +118252,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.6.92"
+    "version": "0.44-unstable-2025-05-26-6.6.92"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -118367,7 +118372,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -119047,7 +119052,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.13.12"
+    "version": "0.44-unstable-2025-05-26-6.13.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -119167,7 +119172,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_ham.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_ham.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -119842,7 +119847,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.30"
+    "version": "0.44-unstable-2025-05-26-6.12.30"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -119962,7 +119967,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -120637,7 +120642,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.15.1"
+    "version": "0.44-unstable-2025-05-26-6.15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -120757,7 +120762,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -121432,7 +121437,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.15.1"
+    "version": "0.44-unstable-2025-05-26-6.15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -121552,7 +121557,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -122227,7 +122232,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -122347,7 +122352,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -123022,7 +123027,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.12.31"
+    "version": "0.44-unstable-2025-05-26-6.12.31"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -123142,7 +123147,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -123817,7 +123822,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -123937,7 +123942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -124612,7 +124617,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -124732,7 +124737,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -125407,7 +125412,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.43-6.14.9"
+    "version": "0.44-unstable-2025-05-26-6.14.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
@@ -125527,7 +125532,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.zenergy": {
     "description": "Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely.",
     "pname": "zenergy",
-    "version": "0-unstable-2024-10-10"
+    "version": "0-unstable-2025-04-15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.zenpower": {
     "description": "Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs",
@@ -134982,7 +134987,7 @@
   "legacyPackages.x86_64-linux.luau": {
     "description": "Fast, small, safe, gradually typed embeddable scripting language derived from Lua",
     "pname": "luau",
-    "version": "0.676"
+    "version": "0.677"
   },
   "legacyPackages.x86_64-linux.luau-lsp": {
     "description": "Language Server Implementation for Luau",
@@ -135977,7 +135982,7 @@
   "legacyPackages.x86_64-linux.maeparser": {
     "description": "Maestro file parser",
     "pname": "maeparser",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   "legacyPackages.x86_64-linux.maestral": {
     "description": "Open-source Dropbox client for macOS and Linux",
@@ -136812,7 +136817,7 @@
   "legacyPackages.x86_64-linux.mapnik": {
     "description": "Open source toolkit for developing mapping applications",
     "pname": "mapnik",
-    "version": "4.0.7"
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.mapproxy": {
     "description": "Open source proxy for geospatial data",
@@ -138075,9 +138080,9 @@
     "version": "1.3.0-qt6"
   },
   "legacyPackages.x86_64-linux.mcphost": {
-    "description": "CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP",
+    "description": "CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP)",
     "pname": "mcphost",
-    "version": "0.7.1"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.mcpp": {
     "description": "Matsui's C preprocessor",
@@ -140507,7 +140512,7 @@
   "legacyPackages.x86_64-linux.mitra": {
     "description": "Federated micro-blogging platform",
     "pname": "mitra",
-    "version": "4.3.1"
+    "version": "4.4.0"
   },
   "legacyPackages.x86_64-linux.mitscheme": {
     "description": "MIT/GNU Scheme, a native code Scheme compiler",
@@ -141002,7 +141007,7 @@
   "legacyPackages.x86_64-linux.moar": {
     "description": "Nice-to-use pager for humans",
     "pname": "moar",
-    "version": "1.31.7"
+    "version": "1.31.8"
   },
   "legacyPackages.x86_64-linux.moarvm": {
     "description": "VM with adaptive optimization and JIT compilation, built for Rakudo",
@@ -143237,7 +143242,7 @@
   "legacyPackages.x86_64-linux.multipath-tools": {
     "description": "Tools for the Linux multipathing storage driver",
     "pname": "multipath-tools",
-    "version": "0.9.8"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.multiplex": {
     "description": "Watch torrents with your friends",
@@ -145227,7 +145232,7 @@
   "legacyPackages.x86_64-linux.netavark": {
     "description": "Rust based network stack for containers",
     "pname": "netavark",
-    "version": "1.15.1"
+    "version": "1.15.2"
   },
   "legacyPackages.x86_64-linux.netbeans": {
     "description": "Integrated development environment for Java, C, C++ and PHP",
@@ -145932,7 +145937,7 @@
   "legacyPackages.x86_64-linux.nfpm": {
     "description": "Simple deb and rpm packager written in Go",
     "pname": "nfpm",
-    "version": "2.42.1"
+    "version": "2.43.0"
   },
   "legacyPackages.x86_64-linux.nfs-ganesha": {
     "description": "NFS server that runs in user space",
@@ -146347,7 +146352,7 @@
   "legacyPackages.x86_64-linux.niriswitcher": {
     "description": "Application switcher for niri",
     "pname": "python3.12-niriswitcher",
-    "version": "0.5.2"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.nitch": {
     "description": "Incredibly fast system fetch written in nim",
@@ -148324,7 +148329,17 @@
     "pname": "noto-fonts-cjk-sans",
     "version": "2.004"
   },
+  "legacyPackages.x86_64-linux.noto-fonts-cjk-sans-static": {
+    "description": "Beautiful and free fonts for CJK languages",
+    "pname": "noto-fonts-cjk-sans",
+    "version": "2.004"
+  },
   "legacyPackages.x86_64-linux.noto-fonts-cjk-serif": {
+    "description": "Beautiful and free fonts for CJK languages",
+    "pname": "noto-fonts-cjk-serif",
+    "version": "2.003"
+  },
+  "legacyPackages.x86_64-linux.noto-fonts-cjk-serif-static": {
     "description": "Beautiful and free fonts for CJK languages",
     "pname": "noto-fonts-cjk-serif",
     "version": "2.003"
@@ -148817,7 +148832,7 @@
   "legacyPackages.x86_64-linux.nu_scripts": {
     "description": "Place to share Nushell scripts with each other",
     "pname": "nu_scripts",
-    "version": "0-unstable-2025-05-22"
+    "version": "0-unstable-2025-06-05"
   },
   "legacyPackages.x86_64-linux.nuclear": {
     "description": "Streaming music player that finds free music for you",
@@ -149167,7 +149182,7 @@
   "legacyPackages.x86_64-linux.nvidia-container-toolkit": {
     "description": "NVIDIA Container Toolkit",
     "pname": "nvidia-container-toolkit",
-    "version": "1.17.7"
+    "version": "1.17.8"
   },
   "legacyPackages.x86_64-linux.nvidia-docker": {
     "description": "NVIDIA container runtime for Docker",
@@ -150244,6 +150259,11 @@
     "pname": "ocaml5.3.0-benchmark",
     "version": "1.6"
   },
+  "legacyPackages.x86_64-linux.ocamlPackages.bencode": {
+    "description": "Bencode (.torrent file format) reader/writer in OCaml ",
+    "pname": "ocaml5.3.0-bencode",
+    "version": "2.0"
+  },
   "legacyPackages.x86_64-linux.ocamlPackages.bheap": {
     "description": "OCaml binary heap implementation by Jean-Christophe Filliatre",
     "pname": "ocaml5.3.0-bheap",
@@ -150518,6 +150538,11 @@
     "description": "Implementation of PACKv2 file in OCaml",
     "pname": "ocaml5.3.0-carton-lwt",
     "version": "0.7.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.cbor": {
+    "description": "CBOR encoder/decoder (RFC 7049) - native OCaml implementation",
+    "pname": "ocaml5.3.0-cbor",
+    "version": "0.5"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.cfstream": {
     "description": "Simple Core-inspired wrapper for standard library Stream module",
@@ -150853,6 +150878,56 @@
     "description": "DBF format parsing",
     "pname": "ocaml5.3.0-dbf",
     "version": "0.2.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders": {
+    "description": "Elm-inspired decoders for Ocaml",
+    "pname": "ocaml5.3.0-decoders",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-bencode": {
+    "description": "Bencode backend for decoders",
+    "pname": "ocaml5.3.0-decoders-bencode",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-cbor": {
+    "description": "CBOR backend for decoders",
+    "pname": "ocaml5.3.0-decoders-cbor",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-ezjsonm": {
+    "description": "Ezjsonm backend for decoders",
+    "pname": "ocaml5.3.0-decoders-ezjsonm",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-ezxmlm": {
+    "description": "Ezxmlm backend for decoders",
+    "pname": "ocaml5.3.0-decoders-ezxmlm",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-jsonaf": {
+    "description": "Jsonaf backend for decoders",
+    "pname": "ocaml5.3.0-decoders-jsonaf",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-jsonm": {
+    "description": "Jsonm backend for decoders",
+    "pname": "ocaml5.3.0-decoders-jsonm",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-msgpck": {
+    "description": "Msgpck backend for decoders",
+    "pname": "ocaml5.3.0-decoders-msgpck",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-sexplib": {
+    "description": "sexplib backend for decoders",
+    "pname": "ocaml5.3.0-decoders-sexplib",
+    "version": "1.0.0"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.decoders-yojson": {
+    "description": "Yojson backend for decoders",
+    "pname": "ocaml5.3.0-decoders-yojson",
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.decompress": {
     "description": "Pure OCaml implementation of Zlib",
@@ -156817,7 +156892,7 @@
   "legacyPackages.x86_64-linux.openapi-python-client": {
     "description": "Generate modern Python clients from OpenAPI",
     "pname": "openapi-python-client",
-    "version": "0.24.3"
+    "version": "0.25.0"
   },
   "legacyPackages.x86_64-linux.openapi-tui": {
     "description": "Terminal UI to list, browse and run APIs defined with openapi spec",
@@ -157602,7 +157677,7 @@
   "legacyPackages.x86_64-linux.openra": {
     "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert. release version",
     "pname": "openra-release",
-    "version": "20231010"
+    "version": "20250330"
   },
   "legacyPackages.x86_64-linux.openraPackages_2019.engines.bleed": {
     "description": "Open-source re-implementation of Westwood Studios' 2D Command and Conquer games",
@@ -159552,7 +159627,12 @@
   "legacyPackages.x86_64-linux.packer": {
     "description": "Tool for creating identical machine images for multiple platforms from a single source configuration",
     "pname": "packer",
-    "version": "1.13.0"
+    "version": "1.13.1"
+  },
+  "legacyPackages.x86_64-linux.packet": {
+    "description": "Quick Share client for Linux",
+    "pname": "packet",
+    "version": "0.3.4"
   },
   "legacyPackages.x86_64-linux.packet-sd": {
     "description": "Prometheus service discovery for Equinix Metal",
@@ -161147,7 +161227,7 @@
   "legacyPackages.x86_64-linux.patool": {
     "description": "portable archive file manager",
     "pname": "patool",
-    "version": "3.1.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.patray": {
     "description": "Yet another tray pulseaudio frontend",
@@ -161697,7 +161777,7 @@
   "legacyPackages.x86_64-linux.pdm": {
     "description": "Modern Python package and dependency manager supporting the latest PEP standards",
     "pname": "pdm",
-    "version": "2.24.1"
+    "version": "2.24.2"
   },
   "legacyPackages.x86_64-linux.pdns": {
     "description": "Authoritative DNS server",
@@ -198952,7 +199032,7 @@
   "legacyPackages.x86_64-linux.podman-tui": {
     "description": "Podman Terminal UI",
     "pname": "podman-tui",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   "legacyPackages.x86_64-linux.podofo": {
     "description": "Library to work with the PDF file format",
@@ -199822,12 +199902,12 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -200152,12 +200232,12 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -200482,12 +200562,12 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -200812,12 +200892,12 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -201142,12 +201222,12 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -201472,12 +201552,12 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -205897,7 +205977,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aiovodafone": {
     "description": "Library to control Vodafon Station",
     "pname": "python3.12-aiovodafone",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.aiowaqi": {
     "description": "Module to interact with the WAQI API",
@@ -210452,7 +210532,12 @@
   "legacyPackages.x86_64-linux.python312Packages.chromadb": {
     "description": "AI-native open-source embedding database",
     "pname": "python3.12-chromadb",
-    "version": "0.5.20"
+    "version": "1.0.12"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.chromadb_0": {
+    "description": "AI-native open-source embedding database",
+    "pname": "python3.12-chromadb_0",
+    "version": "0.6.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.chromaprint": {
     "description": "Facilitate effortless color terminal output",
@@ -212352,7 +212437,7 @@
   "legacyPackages.x86_64-linux.python312Packages.databricks-sdk": {
     "description": "Databricks SDK for Python",
     "pname": "python3.12-databricks-sdk",
-    "version": "0.55.0"
+    "version": "0.56.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.databricks-sql-connector": {
     "description": "Databricks SQL Connector for Python",
@@ -213637,7 +213722,7 @@
   "legacyPackages.x86_64-linux.python312Packages.django-crispy-bootstrap5": {
     "description": "Bootstrap 5 template pack for django-crispy-forms",
     "pname": "python3.12-django-crispy-bootstrap5",
-    "version": "2025.4"
+    "version": "2025.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.django-crispy-forms": {
     "description": "Best way to have DRY Django forms",
@@ -213907,7 +213992,7 @@
   "legacyPackages.x86_64-linux.python312Packages.django-ninja": {
     "description": "Web framework for building APIs with Django and Python type hints",
     "pname": "python3.12-django-ninja",
-    "version": "1.4.1"
+    "version": "1.4.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.django-ninja-cursor-pagination": {
     "description": "Django Ninja extension for cursor-based pagination",
@@ -216612,7 +216697,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ffmpy": {
     "description": "Simple python interface for FFmpeg/FFprobe",
     "pname": "python3.12-ffmpy",
-    "version": "0.5.0"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.fhir-py": {
     "description": "Async/sync API for FHIR resources",
@@ -218027,7 +218112,7 @@
   "legacyPackages.x86_64-linux.python312Packages.gdcm": {
     "description": "Grassroots cross-platform DICOM implementation",
     "pname": "python-gdcm",
-    "version": "3.0.24"
+    "version": "3.0.25"
   },
   "legacyPackages.x86_64-linux.python312Packages.gdown": {
     "description": "CLI tool for downloading large files from Google Drive",
@@ -220577,7 +220662,7 @@
   "legacyPackages.x86_64-linux.python312Packages.huggingface-hub": {
     "description": "Download and publish models and other files on the huggingface.co hub",
     "pname": "python3.12-huggingface-hub",
-    "version": "0.31.4"
+    "version": "0.32.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.human-readable": {
     "description": "Library to make data intended for machines, readable to humans",
@@ -222217,7 +222302,7 @@
   "legacyPackages.x86_64-linux.python312Packages.json-repair": {
     "description": "Module to repair invalid JSON, commonly used to parse the output of LLMs",
     "pname": "python3.12-json-repair",
-    "version": "0.46.0"
+    "version": "0.46.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.json-rpc": {
     "description": "JSON-RPC 1/2 transport implementation",
@@ -223252,7 +223337,7 @@
   "legacyPackages.x86_64-linux.python312Packages.langchain-chroma": {
     "description": "Integration package connecting Chroma and LangChain",
     "pname": "python3.12-langchain-chroma",
-    "version": "0.2.3"
+    "version": "0.2.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.langchain-community": {
     "description": "Community contributed LangChain integrations",
@@ -229057,7 +229142,7 @@
   "legacyPackages.x86_64-linux.python312Packages.nagiosplugin": {
     "description": "Python class library which helps with writing Nagios (Icinga) compatible plugins",
     "pname": "python3.12-nagiosplugin",
-    "version": "1.3.3"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.naked": {
     "description": "Python command line application framework",
@@ -231887,7 +231972,7 @@
   "legacyPackages.x86_64-linux.python312Packages.patool": {
     "description": "portable archive file manager",
     "pname": "python3.12-patool",
-    "version": "3.1.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.patrowl4py": {
     "description": "Python API Client for PatrOwl",
@@ -234797,7 +234882,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pycron": {
     "description": "Simple cron-like parser for Python, which determines if current datetime matches conditions",
     "pname": "python3.12-pycron",
-    "version": "3.1.2"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pycrypto": {
     "description": "Drop-in replacement for pycrypto using pycryptodome",
@@ -235042,7 +235127,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pydmd": {
     "description": "Python Dynamic Mode Decomposition",
     "pname": "python3.12-pydmd",
-    "version": "2025.05.01"
+    "version": "2025.06.01"
   },
   "legacyPackages.x86_64-linux.python312Packages.pydns": {
     "description": "Python 3 DNS library",
@@ -235237,7 +235322,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyemvue": {
     "description": "Python library for reading data from the Emporia Vue energy monitoring system",
     "pname": "python3.12-pyemvue",
-    "version": "0.18.8"
+    "version": "0.18.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyenchant": {
     "description": "pyenchant: Python bindings for the Enchant spellchecker",
@@ -235872,7 +235957,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyinstaller": {
     "description": "A tool to bundle a python application with dependencies into a single package",
     "pname": "python3.12-pyinstaller",
-    "version": "6.13.0"
+    "version": "6.14.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyinstaller-hooks-contrib": {
     "description": "Community maintained hooks for PyInstaller",
@@ -236927,7 +237012,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyopencl": {
     "description": "Python wrapper for OpenCL",
     "pname": "python3.12-pyopencl",
-    "version": "2025.1"
+    "version": "2025.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyopengl": {
     "description": "PyOpenGL, the Python OpenGL bindings",
@@ -237253,6 +237338,11 @@
     "description": "Probabilistic data structures",
     "pname": "python3.12-pyprobables",
     "version": "0.6.1"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.pyprobeplus": {
+    "description": "Generic library to interact with a Probe Plus BLE device",
+    "pname": "python3.12-pyprobeplus",
+    "version": "1.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyprof2calltree": {
     "description": "Help visualize profiling data from cProfile with kcachegrind and qcachegrind",
@@ -241247,7 +241337,7 @@
   "legacyPackages.x86_64-linux.python312Packages.qpsolvers": {
     "description": "Quadratic programming solvers in Python with a unified API",
     "pname": "python3.12-qpsolvers",
-    "version": "4.7.0"
+    "version": "4.7.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.qrcode": {
     "description": "Python QR Code image generator",
@@ -241742,7 +241832,7 @@
   "legacyPackages.x86_64-linux.python312Packages.recipe-scrapers": {
     "description": "Python package for scraping recipes data",
     "pname": "python3.12-recipe-scrapers",
-    "version": "15.7.1"
+    "version": "15.8.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.recline": {
     "description": "This library helps you quickly implement an interactive command-based application",
@@ -246382,7 +246472,7 @@
   "legacyPackages.x86_64-linux.python312Packages.structlog": {
     "description": "Painless structural logging",
     "pname": "python3.12-structlog",
-    "version": "25.3.0"
+    "version": "25.4.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.stubserver": {
     "description": "Web and FTP server for use in unit and7or acceptance tests",
@@ -248359,6 +248449,11 @@
     "pname": "python3.12-python-tree-sitter-cpp",
     "version": "0.25.3"
   },
+  "legacyPackages.x86_64-linux.python312Packages.tree-sitter-grammars.tree-sitter-crystal": {
+    "description": "Python bindings for tree-sitter-crystal",
+    "pname": "python3.12-python-tree-sitter-crystal",
+    "version": "0.25.3"
+  },
   "legacyPackages.x86_64-linux.python312Packages.tree-sitter-grammars.tree-sitter-css": {
     "description": "Python bindings for tree-sitter-css",
     "pname": "python3.12-python-tree-sitter-css",
@@ -248953,6 +249048,11 @@
     "description": "Rust grammar for tree-sitter",
     "pname": "python3.12-tree-sitter-rust",
     "version": "0.23.2"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.tree-sitter-sql": {
+    "description": "sql grammar for tree-sitter",
+    "pname": "python3.12-tree-sitter-sql",
+    "version": "0.3.8"
   },
   "legacyPackages.x86_64-linux.python312Packages.tree-sitter-yaml": {
     "description": "YAML grammar for tree-sitter",
@@ -254074,6 +254174,11 @@
     "pname": "python3.12-zcbor",
     "version": "0.9.1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.zcc-helper": {
+    "description": "ZIMI ZCC helper module",
+    "pname": "python3.12-zcc-helper",
+    "version": "3.5.2"
+  },
   "legacyPackages.x86_64-linux.python312Packages.zconfig": {
     "description": "Structured Configuration Library",
     "pname": "python3.12-zconfig",
@@ -255947,7 +256052,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiovodafone": {
     "description": "Library to control Vodafon Station",
     "pname": "python3.13-aiovodafone",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiowaqi": {
     "description": "Module to interact with the WAQI API",
@@ -260502,7 +260607,12 @@
   "legacyPackages.x86_64-linux.python313Packages.chromadb": {
     "description": "AI-native open-source embedding database",
     "pname": "python3.13-chromadb",
-    "version": "0.5.20"
+    "version": "1.0.12"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.chromadb_0": {
+    "description": "AI-native open-source embedding database",
+    "pname": "python3.13-chromadb_0",
+    "version": "0.6.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.chromaprint": {
     "description": "Facilitate effortless color terminal output",
@@ -262402,7 +262512,7 @@
   "legacyPackages.x86_64-linux.python313Packages.databricks-sdk": {
     "description": "Databricks SDK for Python",
     "pname": "python3.13-databricks-sdk",
-    "version": "0.55.0"
+    "version": "0.56.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.databricks-sql-connector": {
     "description": "Databricks SQL Connector for Python",
@@ -263687,7 +263797,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-crispy-bootstrap5": {
     "description": "Bootstrap 5 template pack for django-crispy-forms",
     "pname": "python3.13-django-crispy-bootstrap5",
-    "version": "2025.4"
+    "version": "2025.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-crispy-forms": {
     "description": "Best way to have DRY Django forms",
@@ -263957,7 +264067,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-ninja": {
     "description": "Web framework for building APIs with Django and Python type hints",
     "pname": "python3.13-django-ninja",
-    "version": "1.4.1"
+    "version": "1.4.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-ninja-cursor-pagination": {
     "description": "Django Ninja extension for cursor-based pagination",
@@ -266662,7 +266772,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ffmpy": {
     "description": "Simple python interface for FFmpeg/FFprobe",
     "pname": "python3.13-ffmpy",
-    "version": "0.5.0"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.fhir-py": {
     "description": "Async/sync API for FHIR resources",
@@ -268077,7 +268187,7 @@
   "legacyPackages.x86_64-linux.python313Packages.gdcm": {
     "description": "Grassroots cross-platform DICOM implementation",
     "pname": "python-gdcm",
-    "version": "3.0.24"
+    "version": "3.0.25"
   },
   "legacyPackages.x86_64-linux.python313Packages.gdown": {
     "description": "CLI tool for downloading large files from Google Drive",
@@ -270627,7 +270737,7 @@
   "legacyPackages.x86_64-linux.python313Packages.huggingface-hub": {
     "description": "Download and publish models and other files on the huggingface.co hub",
     "pname": "python3.13-huggingface-hub",
-    "version": "0.31.4"
+    "version": "0.32.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.human-readable": {
     "description": "Library to make data intended for machines, readable to humans",
@@ -272267,7 +272377,7 @@
   "legacyPackages.x86_64-linux.python313Packages.json-repair": {
     "description": "Module to repair invalid JSON, commonly used to parse the output of LLMs",
     "pname": "python3.13-json-repair",
-    "version": "0.46.0"
+    "version": "0.46.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.json-rpc": {
     "description": "JSON-RPC 1/2 transport implementation",
@@ -273302,7 +273412,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-chroma": {
     "description": "Integration package connecting Chroma and LangChain",
     "pname": "python3.13-langchain-chroma",
-    "version": "0.2.3"
+    "version": "0.2.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-community": {
     "description": "Community contributed LangChain integrations",
@@ -279107,7 +279217,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nagiosplugin": {
     "description": "Python class library which helps with writing Nagios (Icinga) compatible plugins",
     "pname": "python3.13-nagiosplugin",
-    "version": "1.3.3"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.naked": {
     "description": "Python command line application framework",
@@ -281937,7 +282047,7 @@
   "legacyPackages.x86_64-linux.python313Packages.patool": {
     "description": "portable archive file manager",
     "pname": "python3.13-patool",
-    "version": "3.1.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.patrowl4py": {
     "description": "Python API Client for PatrOwl",
@@ -284847,7 +284957,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pycron": {
     "description": "Simple cron-like parser for Python, which determines if current datetime matches conditions",
     "pname": "python3.13-pycron",
-    "version": "3.1.2"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pycrypto": {
     "description": "Drop-in replacement for pycrypto using pycryptodome",
@@ -285092,7 +285202,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pydmd": {
     "description": "Python Dynamic Mode Decomposition",
     "pname": "python3.13-pydmd",
-    "version": "2025.05.01"
+    "version": "2025.06.01"
   },
   "legacyPackages.x86_64-linux.python313Packages.pydns": {
     "description": "Python 3 DNS library",
@@ -285287,7 +285397,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyemvue": {
     "description": "Python library for reading data from the Emporia Vue energy monitoring system",
     "pname": "python3.13-pyemvue",
-    "version": "0.18.8"
+    "version": "0.18.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyenchant": {
     "description": "pyenchant: Python bindings for the Enchant spellchecker",
@@ -285922,7 +286032,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyinstaller": {
     "description": "A tool to bundle a python application with dependencies into a single package",
     "pname": "python3.13-pyinstaller",
-    "version": "6.13.0"
+    "version": "6.14.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyinstaller-hooks-contrib": {
     "description": "Community maintained hooks for PyInstaller",
@@ -286977,7 +287087,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyopencl": {
     "description": "Python wrapper for OpenCL",
     "pname": "python3.13-pyopencl",
-    "version": "2025.1"
+    "version": "2025.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyopengl": {
     "description": "PyOpenGL, the Python OpenGL bindings",
@@ -287303,6 +287413,11 @@
     "description": "Probabilistic data structures",
     "pname": "python3.13-pyprobables",
     "version": "0.6.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.pyprobeplus": {
+    "description": "Generic library to interact with a Probe Plus BLE device",
+    "pname": "python3.13-pyprobeplus",
+    "version": "1.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyprof2calltree": {
     "description": "Help visualize profiling data from cProfile with kcachegrind and qcachegrind",
@@ -291297,7 +291412,7 @@
   "legacyPackages.x86_64-linux.python313Packages.qpsolvers": {
     "description": "Quadratic programming solvers in Python with a unified API",
     "pname": "python3.13-qpsolvers",
-    "version": "4.7.0"
+    "version": "4.7.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.qrcode": {
     "description": "Python QR Code image generator",
@@ -291792,7 +291907,7 @@
   "legacyPackages.x86_64-linux.python313Packages.recipe-scrapers": {
     "description": "Python package for scraping recipes data",
     "pname": "python3.13-recipe-scrapers",
-    "version": "15.7.1"
+    "version": "15.8.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.recline": {
     "description": "This library helps you quickly implement an interactive command-based application",
@@ -296467,7 +296582,7 @@
   "legacyPackages.x86_64-linux.python313Packages.structlog": {
     "description": "Painless structural logging",
     "pname": "python3.13-structlog",
-    "version": "25.3.0"
+    "version": "25.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.stubserver": {
     "description": "Web and FTP server for use in unit and7or acceptance tests",
@@ -298444,6 +298559,11 @@
     "pname": "python3.13-python-tree-sitter-cpp",
     "version": "0.25.3"
   },
+  "legacyPackages.x86_64-linux.python313Packages.tree-sitter-grammars.tree-sitter-crystal": {
+    "description": "Python bindings for tree-sitter-crystal",
+    "pname": "python3.13-python-tree-sitter-crystal",
+    "version": "0.25.3"
+  },
   "legacyPackages.x86_64-linux.python313Packages.tree-sitter-grammars.tree-sitter-css": {
     "description": "Python bindings for tree-sitter-css",
     "pname": "python3.13-python-tree-sitter-css",
@@ -299038,6 +299158,11 @@
     "description": "Rust grammar for tree-sitter",
     "pname": "python3.13-tree-sitter-rust",
     "version": "0.23.2"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.tree-sitter-sql": {
+    "description": "sql grammar for tree-sitter",
+    "pname": "python3.13-tree-sitter-sql",
+    "version": "0.3.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.tree-sitter-yaml": {
     "description": "YAML grammar for tree-sitter",
@@ -304159,6 +304284,11 @@
     "pname": "python3.13-zcbor",
     "version": "0.9.1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.zcc-helper": {
+    "description": "ZIMI ZCC helper module",
+    "pname": "python3.13-zcc-helper",
+    "version": "3.5.2"
+  },
   "legacyPackages.x86_64-linux.python313Packages.zconfig": {
     "description": "Structured Configuration Library",
     "pname": "python3.13-zconfig",
@@ -305167,17 +305297,17 @@
   "legacyPackages.x86_64-linux.qmplay2": {
     "description": "Qt-based Multimedia player",
     "pname": "qmplay2-qt6",
-    "version": "24.06.16"
+    "version": "25.01.19"
   },
   "legacyPackages.x86_64-linux.qmplay2-qt5": {
     "description": "Qt-based Multimedia player",
     "pname": "qmplay2-qt5",
-    "version": "24.06.16"
+    "version": "25.01.19"
   },
   "legacyPackages.x86_64-linux.qmplay2-qt6": {
     "description": "Qt-based Multimedia player",
     "pname": "qmplay2-qt6",
-    "version": "24.06.16"
+    "version": "25.01.19"
   },
   "legacyPackages.x86_64-linux.qmqtt": {
     "description": "MQTT client for Qt",
@@ -306942,7 +307072,7 @@
   "legacyPackages.x86_64-linux.radarr": {
     "description": "Usenet/BitTorrent movie downloader",
     "pname": "radarr",
-    "version": "5.24.1.10017"
+    "version": "5.25.0.10024"
   },
   "legacyPackages.x86_64-linux.radcli": {
     "description": "Simple RADIUS client library",
@@ -307117,7 +307247,7 @@
   "legacyPackages.x86_64-linux.rainfrog": {
     "description": "Database management TUI for postgres",
     "pname": "rainfrog",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.rainloop-community": {
     "description": "Simple, modern & fast web-based email client",
@@ -308342,7 +308472,7 @@
   "legacyPackages.x86_64-linux.reindeer": {
     "description": "Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules",
     "pname": "reindeer",
-    "version": "2025.05.26.00"
+    "version": "2025.06.02.00"
   },
   "legacyPackages.x86_64-linux.reiser4progs": {
     "description": "Reiser4 utilities",
@@ -309332,7 +309462,7 @@
   "legacyPackages.x86_64-linux.ripsecrets": {
     "description": "Command-line tool to prevent committing secret keys into your source code",
     "pname": "ripsecrets",
-    "version": "0.1.9"
+    "version": "0.1.11"
   },
   "legacyPackages.x86_64-linux.ripser": {
     "description": "Lean C++ code for the computation of Vietoris–Rips persistence barcodes",
@@ -310752,7 +310882,7 @@
   "legacyPackages.x86_64-linux.rofi-calc": {
     "description": "Do live calculations in rofi!",
     "pname": "rofi-calc",
-    "version": "2.3.0"
+    "version": "2.3.1"
   },
   "legacyPackages.x86_64-linux.rofi-emoji": {
     "description": "Emoji selector plugin for Rofi (built against rofi-unwrapped)",
@@ -311257,7 +311387,7 @@
   "legacyPackages.x86_64-linux.rqlite": {
     "description": "Lightweight, distributed relational database built on SQLite",
     "pname": "rqlite",
-    "version": "8.37.1"
+    "version": "8.37.4"
   },
   "legacyPackages.x86_64-linux.rquickshare": {
     "description": "Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS",
@@ -322362,12 +322492,12 @@
   "legacyPackages.x86_64-linux.rust-analyzer": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer",
-    "version": "2025-05-12"
+    "version": "2025-06-02"
   },
   "legacyPackages.x86_64-linux.rust-analyzer-unwrapped": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer-unwrapped",
-    "version": "2025-05-12"
+    "version": "2025-06-02"
   },
   "legacyPackages.x86_64-linux.rust-audit-info": {
     "description": "Command-line tool to extract the dependency trees embedded in binaries by cargo-auditable",
@@ -322617,7 +322747,7 @@
   "legacyPackages.x86_64-linux.rutorrent": {
     "description": "Yet another web front-end for rTorrent",
     "pname": "rutorrent",
-    "version": "5.2.6"
+    "version": "5.2.8"
   },
   "legacyPackages.x86_64-linux.ruwudu": {
     "description": "Arabic script font for a style of writing used in Niger, West Africa",
@@ -346977,7 +347107,7 @@
   "legacyPackages.x86_64-linux.sbctl": {
     "description": "Secure Boot key manager",
     "pname": "sbctl",
-    "version": "0.16"
+    "version": "0.17"
   },
   "legacyPackages.x86_64-linux.sblast": {
     "description": "Blast your Linux audio to DLNA receivers",
@@ -349147,7 +349277,7 @@
   "legacyPackages.x86_64-linux.showmethekey": {
     "description": "Show keys you typed on screen",
     "pname": "showmethekey",
-    "version": "1.18.2"
+    "version": "1.18.3"
   },
   "legacyPackages.x86_64-linux.showoff": {
     "description": "Slideshow presentation tool with a twist",
@@ -355512,7 +355642,7 @@
   "legacyPackages.x86_64-linux.swww": {
     "description": "Efficient animated wallpaper daemon for wayland, controlled at runtime",
     "pname": "swww",
-    "version": "0.10.1"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.sx": {
     "description": "Simple alternative to both xinit and startx for starting a Xorg server",
@@ -358037,7 +358167,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.datadog": {
     "description": "",
     "pname": "terraform-provider-datadog",
-    "version": "3.63.0"
+    "version": "3.65.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.deno": {
     "description": "",
@@ -358147,7 +358277,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
     "pname": "terraform-provider-google-beta",
-    "version": "6.37.0"
+    "version": "6.38.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.googleworkspace": {
     "description": "",
@@ -358477,12 +358607,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.routeros": {
     "description": "",
     "pname": "terraform-provider-routeros",
-    "version": "1.85.1"
+    "version": "1.85.3"
   },
   "legacyPackages.x86_64-linux.terraform-providers.rundeck": {
     "description": "",
     "pname": "terraform-provider-rundeck",
-    "version": "0.5.1"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.terraform-providers.sakuracloud": {
     "description": "",
@@ -358517,7 +358647,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.signalfx": {
     "description": "",
     "pname": "terraform-provider-signalfx",
-    "version": "9.13.2"
+    "version": "9.15.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.skytap": {
     "description": "",
@@ -358647,7 +358777,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.venafi": {
     "description": "",
     "pname": "terraform-provider-venafi",
-    "version": "0.22.0"
+    "version": "0.22.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.vinyldns": {
     "description": "",
@@ -382517,7 +382647,7 @@
   "legacyPackages.x86_64-linux.thunderbird-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "139.0"
+    "version": "139.0.1"
   },
   "legacyPackages.x86_64-linux.thunderbird-esr": {
     "description": "Full-featured e-mail client",
@@ -382547,12 +382677,12 @@
   "legacyPackages.x86_64-linux.thunderbird-latest-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "139.0"
+    "version": "139.0.1"
   },
   "legacyPackages.x86_64-linux.thunderbird-latest-bin-unwrapped": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "139.0"
+    "version": "139.0.1"
   },
   "legacyPackages.x86_64-linux.thunderbird-latest-unwrapped": {
     "description": "Full-featured e-mail client",
@@ -382807,7 +382937,7 @@
   "legacyPackages.x86_64-linux.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.20.1"
+    "version": "2.20.2"
   },
   "legacyPackages.x86_64-linux.timescaledb-parallel-copy": {
     "description": "Bulk, parallel insert of CSV records into PostgreSQL",
@@ -384827,6 +384957,11 @@
   "legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-cpp": {
     "description": "",
     "pname": "tree-sitter-cpp-grammar",
+    "version": "0.25.3"
+  },
+  "legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-crystal": {
+    "description": "",
+    "pname": "tree-sitter-crystal-grammar",
     "version": "0.25.3"
   },
   "legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-css": {
@@ -401922,7 +402057,7 @@
   "legacyPackages.x86_64-linux.valijson": {
     "description": "Header-only C++ library for JSON Schema validation, with support for many popular parsers",
     "pname": "valijson",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   "legacyPackages.x86_64-linux.valkey": {
     "description": "High-performance data structure server that primarily serves key/value workloads",
@@ -404774,6 +404909,11 @@
     "pname": "vimplugin-ddc.vim",
     "version": "2025-06-02"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.debugmaster-nvim": {
+    "description": "",
+    "pname": "vimplugin-debugmaster.nvim",
+    "version": "2025-05-26"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.debugprint-nvim": {
     "description": "",
     "pname": "vimplugin-debugprint.nvim",
@@ -405123,6 +405263,11 @@
     "description": "",
     "pname": "vimplugin-emodeline",
     "version": "2010-10-18"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.endec-nvim": {
+    "description": "",
+    "pname": "vimplugin-endec.nvim",
+    "version": "2025-04-07"
   },
   "legacyPackages.x86_64-linux.vimPlugins.errormarker-vim": {
     "description": "",
@@ -406269,6 +406414,11 @@
     "pname": "vimplugin-live-command.nvim",
     "version": "2025-04-30"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.live-share-nvim": {
+    "description": "",
+    "pname": "vimplugin-live-share.nvim",
+    "version": "2025-05-03"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.llama-vim": {
     "description": "",
     "pname": "vimplugin-llama.vim",
@@ -406854,6 +407004,11 @@
     "pname": "vimplugin-mru",
     "version": "2024-12-29"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.multicursor-nvim": {
+    "description": "",
+    "pname": "vimplugin-multicursor.nvim",
+    "version": "2025-05-29"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.multicursors-nvim": {
     "description": "",
     "pname": "vimplugin-multicursors.nvim",
@@ -407313,6 +407468,11 @@
     "description": "",
     "pname": "vimplugin-nfnl",
     "version": "2025-05-19"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.ng-nvim": {
+    "description": "",
+    "pname": "vimplugin-ng.nvim",
+    "version": "2025-04-21"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nginx-vim": {
     "description": "",
@@ -409883,6 +410043,11 @@
     "description": "",
     "pname": "vimplugin-vim-pathogen",
     "version": "2022-08-24"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.patterns-nvim": {
+    "description": "",
+    "pname": "vimplugin-patterns.nvim",
+    "version": "2025-05-12"
   },
   "legacyPackages.x86_64-linux.vimPlugins.pckr-nvim": {
     "description": "",
@@ -414132,7 +414297,7 @@
   "legacyPackages.x86_64-linux.virtnbdbackup": {
     "description": "Backup utility for Libvirt/qemu/kvm",
     "pname": "virtnbdbackup",
-    "version": "2.28"
+    "version": "2.29"
   },
   "legacyPackages.x86_64-linux.virtual-ans": {
     "description": "Photoelectronic microtonal/spectral musical instrument",
@@ -414767,7 +414932,7 @@
   "legacyPackages.x86_64-linux.vscode": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode",
-    "version": "1.100.2"
+    "version": "1.100.3"
   },
   "legacyPackages.x86_64-linux.vscode-extension-update": {
     "description": "",
@@ -416467,7 +416632,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.saoudrizwan.claude-dev": {
     "description": "A VSCode extension providing an autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way",
     "pname": "vscode-extension-saoudrizwan-claude-dev",
-    "version": "3.17.7"
+    "version": "3.17.11"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.sas.sas-lsp": {
     "description": "Official SAS Language Extension",
@@ -417012,7 +417177,7 @@
   "legacyPackages.x86_64-linux.vscode-fhs": {
     "description": "Wrapped variant of vscode which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
     "pname": "code",
-    "version": "1.100.2"
+    "version": "1.100.3"
   },
   "legacyPackages.x86_64-linux.vscode-js-debug": {
     "description": "DAP-compatible JavaScript debugger",
@@ -417032,7 +417197,7 @@
   "legacyPackages.x86_64-linux.vscode-with-extensions": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode-with-extensions",
-    "version": "1.100.2"
+    "version": "1.100.3"
   },
   "legacyPackages.x86_64-linux.vscodium": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) ",
@@ -418187,7 +418352,7 @@
   "legacyPackages.x86_64-linux.weaver": {
     "description": "OpenTelemetry tool for dealing with semantic conventions and application telemetry schemas",
     "pname": "weaver",
-    "version": "0.15.1"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.weaviate": {
     "description": "ML-first vector search engine",
@@ -419947,12 +420112,12 @@
   "legacyPackages.x86_64-linux.woodpecker-agent": {
     "description": "Woodpecker Continuous Integration agent",
     "pname": "woodpecker-agent",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.woodpecker-cli": {
     "description": "Command line client for the Woodpecker Continuous Integration server",
     "pname": "woodpecker-cli",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.woodpecker-pipeline-transform": {
     "description": "Utility to convert different pipelines to Woodpecker CI pipelines",
@@ -419967,7 +420132,7 @@
   "legacyPackages.x86_64-linux.woodpecker-server": {
     "description": "Woodpecker Continuous Integration server",
     "pname": "woodpecker-server",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.woof": {
     "description": "Web Offer One File - Command-line utility to easily exchange files over a local network",
@@ -420927,7 +421092,7 @@
   "legacyPackages.x86_64-linux.xa": {
     "description": "Andre Fachat's open-source 6502 cross assembler",
     "pname": "xa",
-    "version": "2.3.14"
+    "version": "2.4.1"
   },
   "legacyPackages.x86_64-linux.xalanc": {
     "description": "XSLT processor for transforming XML documents",
@@ -426447,7 +426612,7 @@
   "legacyPackages.x86_64-linux.zoekt": {
     "description": "Fast trigram based code search",
     "pname": "zoekt",
-    "version": "3.7.2-2-unstable-2025-05-21"
+    "version": "3.7.2-2-unstable-2025-06-04"
   },
   "legacyPackages.x86_64-linux.zola": {
     "description": "Fast static site generator with everything built-in",
