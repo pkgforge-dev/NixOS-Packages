@@ -3561,7 +3561,7 @@ legacyPackages.x86_64-linux.among-sus:
 legacyPackages.x86_64-linux.amp:
   description: Modern text editor inspired by Vim
   pname: amp
-  version: 0.7.0
+  version: 0.7.1
 legacyPackages.x86_64-linux.amp-cli:
   description: CLI for Amp, an agentic coding agent in research preview from Sourcegraph
   pname: amp-cli
@@ -13233,7 +13233,7 @@ legacyPackages.x86_64-linux.bpftop:
 legacyPackages.x86_64-linux.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.bpftune:
   description: BPF-based auto-tuning of Linux system parameters
   pname: bpftune
@@ -14061,7 +14061,7 @@ legacyPackages.x86_64-linux.bumpver:
 legacyPackages.x86_64-linux.bun:
   description: Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one
   pname: bun
-  version: 1.2.14
+  version: 1.2.16
 legacyPackages.x86_64-linux.bunbun:
   description: Simple and adorable sysinfo utility written in Rust
   pname: bunbun
@@ -15117,7 +15117,7 @@ legacyPackages.x86_64-linux.cargo-mobile2:
 legacyPackages.x86_64-linux.cargo-modules:
   description: Cargo plugin for showing a tree-like overview of a crate's modules
   pname: cargo-modules
-  version: 0.24.1
+  version: 0.24.2
 legacyPackages.x86_64-linux.cargo-mommy:
   description: Cargo wrapper that encourages you after running commands
   pname: cargo-mommy
@@ -16589,7 +16589,7 @@ legacyPackages.x86_64-linux.checkmate:
 legacyPackages.x86_64-linux.checkov:
   description: Static code analysis tool for infrastructure-as-code
   pname: checkov
-  version: 3.2.437
+  version: 3.2.441
 legacyPackages.x86_64-linux.checkpolicy:
   description: SELinux policy compiler
   pname: checkpolicy
@@ -20517,7 +20517,7 @@ legacyPackages.x86_64-linux.cnping:
 legacyPackages.x86_64-linux.cnquery:
   description: Cloud-native, graph-based asset inventory
   pname: cnquery
-  version: 11.56.0
+  version: 11.57.2
 legacyPackages.x86_64-linux.cns11643-kai:
   description: Chinese TrueType Kai font by Ministry of Education of Taiwan government
   pname: cns11643-kai
@@ -31269,7 +31269,7 @@ legacyPackages.x86_64-linux.entangle:
 legacyPackages.x86_64-linux.ente-auth:
   description: End-to-end encrypted, cross platform and free app for storing your 2FA codes with cloud backups
   pname: ente-auth
-  version: 4.3.6
+  version: 4.4.0
 legacyPackages.x86_64-linux.ente-cli:
   description: CLI client for downloading your data from Ente
   pname: ente-cli
@@ -39033,7 +39033,7 @@ legacyPackages.x86_64-linux.glamoroustoolkit:
 legacyPackages.x86_64-linux.glance:
   description: Self-hosted dashboard that puts all your feeds in one place
   pname: glance
-  version: 0.8.3
+  version: 0.8.4
 legacyPackages.x86_64-linux.glanceclient:
   description: Python bindings for the OpenStack Images API
   pname: python-glanceclient
@@ -44554,6 +44554,10 @@ legacyPackages.x86_64-linux.gof5:
   description: Open Source F5 BIG-IP VPN client
   pname: gof5
   version: 0.1.4
+legacyPackages.x86_64-linux.gofaxip:
+  description: T.38 backend for HylaFAX using FreeSWITCH
+  pname: gofaxip
+  version: 1.4-2
 legacyPackages.x86_64-linux.goffice:
   description: Glib/GTK set of document centric objects and utilities
   pname: goffice
@@ -48277,7 +48281,7 @@ legacyPackages.x86_64-linux.heroic-unwrapped:
 legacyPackages.x86_64-linux.heroku:
   description: Everything you need to get started using Heroku
   pname: heroku
-  version: 10.6.1
+  version: 10.10.0
 legacyPackages.x86_64-linux.herqq:
   description: Software library for building UPnP devices and control points
   pname: herqq-unstable
@@ -52881,7 +52885,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.zigbee2mqtt-n
 legacyPackages.x86_64-linux.home-manager:
   description: Nix-based user environment configurator
   pname: home-manager
-  version: 0-unstable-2025-06-02
+  version: 0-unstable-2025-06-13
 legacyPackages.x86_64-linux.homebank:
   description: Free, easy, personal accounting for everyone
   pname: homebank
@@ -72185,7 +72189,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -72821,7 +72825,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -73457,7 +73461,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -74093,7 +74097,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -74729,7 +74733,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -75369,7 +75373,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -76009,7 +76013,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -76641,7 +76645,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -77277,7 +77281,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -77913,7 +77917,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -78549,7 +78553,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_13_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -79185,7 +79189,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -79821,7 +79825,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_14_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -80457,7 +80461,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -81093,7 +81097,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -81725,7 +81729,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -82357,7 +82361,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -82989,7 +82993,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_ham.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -83625,7 +83629,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -84261,7 +84265,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -84897,7 +84901,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -85533,7 +85537,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -86169,7 +86173,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -86805,7 +86809,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -87441,7 +87445,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -88077,7 +88081,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcc:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -88713,7 +88717,7 @@ legacyPackages.x86_64-linux.linuxPackages-libre.bcc:
 legacyPackages.x86_64-linux.linuxPackages-libre.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages-libre.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -89349,7 +89353,7 @@ legacyPackages.x86_64-linux.linuxPackages.bcc:
 legacyPackages.x86_64-linux.linuxPackages.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -89985,7 +89989,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -90621,7 +90625,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -91257,7 +91261,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -91897,7 +91901,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -92533,7 +92537,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_6_13_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -93169,7 +93173,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_6_14_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -93805,7 +93809,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -94437,7 +94441,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -95073,7 +95077,7 @@ legacyPackages.x86_64-linux.linuxPackages_ham.bcc:
 legacyPackages.x86_64-linux.linuxPackages_ham.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_ham.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -95709,7 +95713,7 @@ legacyPackages.x86_64-linux.linuxPackages_hardened.bcc:
 legacyPackages.x86_64-linux.linuxPackages_hardened.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_hardened.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -96345,7 +96349,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.bcc:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -96981,7 +96985,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.bcc:
 legacyPackages.x86_64-linux.linuxPackages_latest.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_latest.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -97617,7 +97621,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.bcc:
 legacyPackages.x86_64-linux.linuxPackages_lqx.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_lqx.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -98253,7 +98257,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.bcc:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -98889,7 +98893,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcc:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -99525,7 +99529,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcc:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -100161,7 +100165,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.bcc:
 legacyPackages.x86_64-linux.linuxPackages_zen.bpftrace:
   description: High-level tracing language for Linux eBPF
   pname: bpftrace
-  version: 0.23.4
+  version: 0.23.5
 legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
@@ -115405,7 +115409,7 @@ legacyPackages.x86_64-linux.n3:
 legacyPackages.x86_64-linux.n8n:
   description: Free and source-available fair-code licensed workflow automation tool
   pname: n8n
-  version: 1.95.2
+  version: 1.97.1
 legacyPackages.x86_64-linux.n98-magerun:
   description: Swiss army knife for Magento1/OpenMage developers
   pname: n98-magerun
@@ -125509,11 +125513,11 @@ legacyPackages.x86_64-linux.onioncircuits:
 legacyPackages.x86_64-linux.onionshare:
   description: Securely and anonymously send and receive files
   pname: onionshare-cli
-  version: 2.6.2
+  version: 2.6.3
 legacyPackages.x86_64-linux.onionshare-gui:
   description: Securely and anonymously send and receive files
   pname: onionshare
-  version: 2.6.2
+  version: 2.6.3
 legacyPackages.x86_64-linux.oniux:
   description: Isolate Applications over Tor using Linux Namespaces
   pname: oniux
@@ -129561,7 +129565,7 @@ legacyPackages.x86_64-linux.pcstat:
 legacyPackages.x86_64-linux.pcsx2:
   description: Playstation 2 emulator
   pname: pcsx2
-  version: 2.3.39
+  version: 2.3.407
 legacyPackages.x86_64-linux.pcsx2-bin:
   description: Playstation 2 emulator (precompiled binary, repacked from official website)
   pname: pcsx2-bin
@@ -164065,7 +164069,7 @@ legacyPackages.x86_64-linux.python312Packages.IMAPClient:
 legacyPackages.x86_64-linux.python312Packages.JPype1:
   description: Python to Java bridge
   pname: python3.12-jpype1
-  version: 1.5.2
+  version: 1.6.0
 legacyPackages.x86_64-linux.python312Packages.JayDeBeApi:
   description: Use JDBC database drivers from Python 2/3 or Jython with a DB-API
   pname: python3.12-jaydebeapi
@@ -165913,7 +165917,7 @@ legacyPackages.x86_64-linux.python312Packages.ase:
 legacyPackages.x86_64-linux.python312Packages.asf-search:
   description: Python wrapper for the ASF SearchAPI
   pname: python3.12-asf-search
-  version: 8.3.4
+  version: 9.0.1
 legacyPackages.x86_64-linux.python312Packages.asgi-csrf:
   description: ASGI middleware for protecting against CSRF attacks
   pname: python3.12-asgi-csrf
@@ -167505,7 +167509,7 @@ legacyPackages.x86_64-linux.python312Packages.bids-validator:
 legacyPackages.x86_64-linux.python312Packages.bidsschematools:
   description: Python tools for working with the BIDS schema
   pname: python3.12-bidsschematools
-  version: 1.0.5
+  version: 1.0.10
 legacyPackages.x86_64-linux.python312Packages.biliass:
   description: Convert Bilibili XML/protobuf danmaku to ASS subtitle
   pname: python3.12-biliass
@@ -167929,7 +167933,7 @@ legacyPackages.x86_64-linux.python312Packages.boto3:
 legacyPackages.x86_64-linux.python312Packages.boto3-stubs:
   description: Type annotations for boto3
   pname: python3.12-boto3-stubs
-  version: 1.38.33
+  version: 1.38.36
 legacyPackages.x86_64-linux.python312Packages.botocore:
   description: Low-level interface to a growing number of Amazon Web Services
   pname: python3.12-botocore
@@ -169237,7 +169241,7 @@ legacyPackages.x86_64-linux.python312Packages.coffea:
 legacyPackages.x86_64-linux.python312Packages.cogapp:
   description: Code generator for executing Python snippets in source files
   pname: python3.12-cogapp
-  version: 3.4.1
+  version: 3.5.0
 legacyPackages.x86_64-linux.python312Packages.cohere:
   description: Simplify interfacing with the Cohere API
   pname: python3.12-cohere
@@ -170821,7 +170825,7 @@ legacyPackages.x86_64-linux.python312Packages.devialet:
 legacyPackages.x86_64-linux.python312Packages.devito:
   description: Code generation framework for automated finite difference computation
   pname: python3.12-devito
-  version: 4.8.17
+  version: 4.8.18
 legacyPackages.x86_64-linux.python312Packages.devolo-home-control-api:
   description: Python library to work with devolo Home Control
   pname: python3.12-devolo-home-control-api
@@ -172117,7 +172121,7 @@ legacyPackages.x86_64-linux.python312Packages.docling-ibm-models:
 legacyPackages.x86_64-linux.python312Packages.docling-parse:
   description: Simple package to extract text with coordinates from programmatic PDFs
   pname: python3.12-docling-parse
-  version: 4.0.1
+  version: 4.0.5
 legacyPackages.x86_64-linux.python312Packages.docling-serve:
   description: Running Docling as an API service
   pname: python3.12-docling-serve
@@ -172449,7 +172453,7 @@ legacyPackages.x86_64-linux.python312Packages.duckdb:
 legacyPackages.x86_64-linux.python312Packages.duckdb-engine:
   description: SQLAlchemy driver for duckdb
   pname: python3.12-duckdb-engine
-  version: 0.15.0
+  version: 0.17.0
 legacyPackages.x86_64-linux.python312Packages.duckduckgo-search:
   description: Python CLI and library for searching for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine
   pname: python3.12-duckduckgo-search
@@ -175621,7 +175625,7 @@ legacyPackages.x86_64-linux.python312Packages.google-cloud-workflows:
 legacyPackages.x86_64-linux.python312Packages.google-cloud-workstations:
   description: Python Client for Cloud Workstations
   pname: python3.12-google-cloud-workstations
-  version: 0.5.14
+  version: 0.5.15
 legacyPackages.x86_64-linux.python312Packages.google-compute-engine:
   description: Google Compute Engine tools and services
   pname: python3.12-google-compute-engine
@@ -177741,7 +177745,7 @@ legacyPackages.x86_64-linux.python312Packages.isbnlib:
 legacyPackages.x86_64-linux.python312Packages.islpy:
   description: Python wrapper around isl, an integer set library
   pname: python3.12-islpy
-  version: 2025.2.3
+  version: 2025.2.4
 legacyPackages.x86_64-linux.python312Packages.ismartgate:
   description: Python module to work with the ismartgate and gogogate2 API
   pname: python3.12-ismartgate
@@ -178173,7 +178177,7 @@ legacyPackages.x86_64-linux.python312Packages.jpylyzer:
 legacyPackages.x86_64-linux.python312Packages.jpype1:
   description: Python to Java bridge
   pname: python3.12-jpype1
-  version: 1.5.2
+  version: 1.6.0
 legacyPackages.x86_64-linux.python312Packages.jq:
   description: Python bindings for jq, the flexible JSON processor
   pname: python3.12-jq
@@ -179105,7 +179109,7 @@ legacyPackages.x86_64-linux.python312Packages.langchain-xai:
 legacyPackages.x86_64-linux.python312Packages.langchainplus-sdk:
   description: Client library to connect to the LangSmith LLM Tracing and Evaluation Platform
   pname: python3.12-langsmith
-  version: 0.3.22
+  version: 0.3.45
 legacyPackages.x86_64-linux.python312Packages.langcodes:
   description: Python toolkit for working with and comparing the standardized codes for languages
   pname: python3.12-langcodes
@@ -179153,7 +179157,7 @@ legacyPackages.x86_64-linux.python312Packages.langid:
 legacyPackages.x86_64-linux.python312Packages.langsmith:
   description: Client library to connect to the LangSmith LLM Tracing and Evaluation Platform
   pname: python3.12-langsmith
-  version: 0.3.22
+  version: 0.3.45
 legacyPackages.x86_64-linux.python312Packages.language-data:
   description: Supplement module for langcodes
   pname: python3.12-language-data
@@ -182289,7 +182293,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-amplifyuibuilder:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-apigateway:
   description: Type annotations for boto3 apigateway
   pname: python3.12-mypy-boto3-apigateway
-  version: 1.38.29
+  version: 1.38.36
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-apigatewaymanagementapi:
   description: Type annotations for boto3 apigatewaymanagementapi
   pname: python3.12-mypy-boto3-apigatewaymanagementapi
@@ -182297,7 +182301,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-apigatewaymanagementapi
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-apigatewayv2:
   description: Type annotations for boto3 apigatewayv2
   pname: python3.12-mypy-boto3-apigatewayv2
-  version: 1.38.29
+  version: 1.38.36
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-appconfig:
   description: Type annotations for boto3 appconfig
   pname: python3.12-mypy-boto3-appconfig
@@ -182677,7 +182681,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ecr-public:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ecs:
   description: Type annotations for boto3 ecs
   pname: python3.12-mypy-boto3-ecs
-  version: 1.38.28
+  version: 1.38.36
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-efs:
   description: Type annotations for boto3 efs
   pname: python3.12-mypy-boto3-efs
@@ -182685,7 +182689,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-efs:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-eks:
   description: Type annotations for boto3 eks
   pname: python3.12-mypy-boto3-eks
-  version: 1.38.28
+  version: 1.38.35
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-elastic-inference:
   description: Type annotations for boto3 elastic-inference
   pname: python3.12-mypy-boto3-elastic-inference
@@ -182721,7 +182725,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-emr-containers:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-emr-serverless:
   description: Type annotations for boto3 emr-serverless
   pname: python3.12-mypy-boto3-emr-serverless
-  version: 1.38.29
+  version: 1.38.36
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-entityresolution:
   description: Type annotations for boto3 entityresolution
   pname: python3.12-mypy-boto3-entityresolution
@@ -182889,7 +182893,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-iotfleethub:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-iotfleetwise:
   description: Type annotations for boto3 iotfleetwise
   pname: python3.12-mypy-boto3-iotfleetwise
-  version: 1.38.0
+  version: 1.38.36
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-iotsecuretunneling:
   description: Type annotations for boto3 iotsecuretunneling
   pname: python3.12-mypy-boto3-iotsecuretunneling
@@ -182977,7 +182981,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-kinesisvideo:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-kms:
   description: Type annotations for boto3 kms
   pname: python3.12-mypy-boto3-kms
-  version: 1.38.32
+  version: 1.38.36
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lakeformation:
   description: Type annotations for boto3 lakeformation
   pname: python3.12-mypy-boto3-lakeformation
@@ -182997,7 +183001,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lex-runtime:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lexv2-models:
   description: Type annotations for boto3 lexv2-models
   pname: python3.12-mypy-boto3-lexv2-models
-  version: 1.38.0
+  version: 1.38.35
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lexv2-runtime:
   description: Type annotations for boto3 lexv2-runtime
   pname: python3.12-mypy-boto3-lexv2-runtime
@@ -183169,7 +183173,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-network-firewall:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-networkmanager:
   description: Type annotations for boto3 networkmanager
   pname: python3.12-mypy-boto3-networkmanager
-  version: 1.38.0
+  version: 1.38.35
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-nimble:
   description: Type annotations for boto3 nimble
   pname: python3.12-mypy-boto3-nimble
@@ -183301,7 +183305,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-rbin:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-rds:
   description: Type annotations for boto3 rds
   pname: python3.12-mypy-boto3-rds
-  version: 1.38.32
+  version: 1.38.35
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-rds-data:
   description: Type annotations for boto3 rds-data
   pname: python3.12-mypy-boto3-rds-data
@@ -183613,7 +183617,7 @@ legacyPackages.x86_64-linux.python312Packages.mypy-boto3-waf-regional:
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-wafv2:
   description: Type annotations for boto3 wafv2
   pname: python3.12-mypy-boto3-wafv2
-  version: 1.38.31
+  version: 1.38.35
 legacyPackages.x86_64-linux.python312Packages.mypy-boto3-wellarchitected:
   description: Type annotations for boto3 wellarchitected
   pname: python3.12-mypy-boto3-wellarchitected
@@ -186001,7 +186005,7 @@ legacyPackages.x86_64-linux.python312Packages.pbr:
 legacyPackages.x86_64-linux.python312Packages.pbs-installer:
   description: Installer for Python Build Standalone
   pname: python3.12-pbs-installer
-  version: 2025.03.17
+  version: 2025.06.10
 legacyPackages.x86_64-linux.python312Packages.pbxproj:
   description: 'Python module to manipulate XCode projects '
   pname: python3.12-pbxproj
@@ -187529,7 +187533,7 @@ legacyPackages.x86_64-linux.python312Packages.pvextractor:
 legacyPackages.x86_64-linux.python312Packages.pvlib:
   description: Simulate the performance of photovoltaic energy systems
   pname: python3.12-pvlib
-  version: 0.12.0
+  version: 0.13.0
 legacyPackages.x86_64-linux.python312Packages.pvo:
   description: Python module to interact with the PVOutput API
   pname: python3.12-pvo
@@ -188161,7 +188165,7 @@ legacyPackages.x86_64-linux.python312Packages.pycflow2dot:
 legacyPackages.x86_64-linux.python312Packages.pycfmodel:
   description: Model for Cloud Formation scripts
   pname: python3.12-pycfmodel
-  version: 1.1.0
+  version: 1.1.3
 legacyPackages.x86_64-linux.python312Packages.pychannels:
   description: Python library for interacting with the Channels app
   pname: python3.12-pychannels
@@ -198129,7 +198133,7 @@ legacyPackages.x86_64-linux.python312Packages.tenant-schemas-celery:
 legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python:
   description: Tencent Cloud API 3.0 SDK for Python
   pname: python3.12-tencentcloud-sdk-python
-  version: 3.0.1394
+  version: 3.0.1397
 legacyPackages.x86_64-linux.python312Packages.tendo:
   description: Adds basic functionality that is not provided by Python
   pname: python3.12-tendo
@@ -204161,7 +204165,7 @@ legacyPackages.x86_64-linux.python313Packages.IMAPClient:
 legacyPackages.x86_64-linux.python313Packages.JPype1:
   description: Python to Java bridge
   pname: python3.13-jpype1
-  version: 1.5.2
+  version: 1.6.0
 legacyPackages.x86_64-linux.python313Packages.JayDeBeApi:
   description: Use JDBC database drivers from Python 2/3 or Jython with a DB-API
   pname: python3.13-jaydebeapi
@@ -206005,7 +206009,7 @@ legacyPackages.x86_64-linux.python313Packages.ase:
 legacyPackages.x86_64-linux.python313Packages.asf-search:
   description: Python wrapper for the ASF SearchAPI
   pname: python3.13-asf-search
-  version: 8.3.4
+  version: 9.0.1
 legacyPackages.x86_64-linux.python313Packages.asgi-csrf:
   description: ASGI middleware for protecting against CSRF attacks
   pname: python3.13-asgi-csrf
@@ -207601,7 +207605,7 @@ legacyPackages.x86_64-linux.python313Packages.bids-validator:
 legacyPackages.x86_64-linux.python313Packages.bidsschematools:
   description: Python tools for working with the BIDS schema
   pname: python3.13-bidsschematools
-  version: 1.0.5
+  version: 1.0.10
 legacyPackages.x86_64-linux.python313Packages.biliass:
   description: Convert Bilibili XML/protobuf danmaku to ASS subtitle
   pname: python3.13-biliass
@@ -208025,7 +208029,7 @@ legacyPackages.x86_64-linux.python313Packages.boto3:
 legacyPackages.x86_64-linux.python313Packages.boto3-stubs:
   description: Type annotations for boto3
   pname: python3.13-boto3-stubs
-  version: 1.38.33
+  version: 1.38.36
 legacyPackages.x86_64-linux.python313Packages.botocore:
   description: Low-level interface to a growing number of Amazon Web Services
   pname: python3.13-botocore
@@ -209333,7 +209337,7 @@ legacyPackages.x86_64-linux.python313Packages.coffea:
 legacyPackages.x86_64-linux.python313Packages.cogapp:
   description: Code generator for executing Python snippets in source files
   pname: python3.13-cogapp
-  version: 3.4.1
+  version: 3.5.0
 legacyPackages.x86_64-linux.python313Packages.cohere:
   description: Simplify interfacing with the Cohere API
   pname: python3.13-cohere
@@ -210917,7 +210921,7 @@ legacyPackages.x86_64-linux.python313Packages.devialet:
 legacyPackages.x86_64-linux.python313Packages.devito:
   description: Code generation framework for automated finite difference computation
   pname: python3.13-devito
-  version: 4.8.17
+  version: 4.8.18
 legacyPackages.x86_64-linux.python313Packages.devolo-home-control-api:
   description: Python library to work with devolo Home Control
   pname: python3.13-devolo-home-control-api
@@ -212213,7 +212217,7 @@ legacyPackages.x86_64-linux.python313Packages.docling-ibm-models:
 legacyPackages.x86_64-linux.python313Packages.docling-parse:
   description: Simple package to extract text with coordinates from programmatic PDFs
   pname: python3.13-docling-parse
-  version: 4.0.1
+  version: 4.0.5
 legacyPackages.x86_64-linux.python313Packages.docling-serve:
   description: Running Docling as an API service
   pname: python3.13-docling-serve
@@ -212545,7 +212549,7 @@ legacyPackages.x86_64-linux.python313Packages.duckdb:
 legacyPackages.x86_64-linux.python313Packages.duckdb-engine:
   description: SQLAlchemy driver for duckdb
   pname: python3.13-duckdb-engine
-  version: 0.15.0
+  version: 0.17.0
 legacyPackages.x86_64-linux.python313Packages.duckduckgo-search:
   description: Python CLI and library for searching for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine
   pname: python3.13-duckduckgo-search
@@ -215717,7 +215721,7 @@ legacyPackages.x86_64-linux.python313Packages.google-cloud-workflows:
 legacyPackages.x86_64-linux.python313Packages.google-cloud-workstations:
   description: Python Client for Cloud Workstations
   pname: python3.13-google-cloud-workstations
-  version: 0.5.14
+  version: 0.5.15
 legacyPackages.x86_64-linux.python313Packages.google-compute-engine:
   description: Google Compute Engine tools and services
   pname: python3.13-google-compute-engine
@@ -217837,7 +217841,7 @@ legacyPackages.x86_64-linux.python313Packages.isbnlib:
 legacyPackages.x86_64-linux.python313Packages.islpy:
   description: Python wrapper around isl, an integer set library
   pname: python3.13-islpy
-  version: 2025.2.3
+  version: 2025.2.4
 legacyPackages.x86_64-linux.python313Packages.ismartgate:
   description: Python module to work with the ismartgate and gogogate2 API
   pname: python3.13-ismartgate
@@ -218269,7 +218273,7 @@ legacyPackages.x86_64-linux.python313Packages.jpylyzer:
 legacyPackages.x86_64-linux.python313Packages.jpype1:
   description: Python to Java bridge
   pname: python3.13-jpype1
-  version: 1.5.2
+  version: 1.6.0
 legacyPackages.x86_64-linux.python313Packages.jq:
   description: Python bindings for jq, the flexible JSON processor
   pname: python3.13-jq
@@ -219201,7 +219205,7 @@ legacyPackages.x86_64-linux.python313Packages.langchain-xai:
 legacyPackages.x86_64-linux.python313Packages.langchainplus-sdk:
   description: Client library to connect to the LangSmith LLM Tracing and Evaluation Platform
   pname: python3.13-langsmith
-  version: 0.3.22
+  version: 0.3.45
 legacyPackages.x86_64-linux.python313Packages.langcodes:
   description: Python toolkit for working with and comparing the standardized codes for languages
   pname: python3.13-langcodes
@@ -219249,7 +219253,7 @@ legacyPackages.x86_64-linux.python313Packages.langid:
 legacyPackages.x86_64-linux.python313Packages.langsmith:
   description: Client library to connect to the LangSmith LLM Tracing and Evaluation Platform
   pname: python3.13-langsmith
-  version: 0.3.22
+  version: 0.3.45
 legacyPackages.x86_64-linux.python313Packages.language-data:
   description: Supplement module for langcodes
   pname: python3.13-language-data
@@ -222385,7 +222389,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-amplifyuibuilder:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-apigateway:
   description: Type annotations for boto3 apigateway
   pname: python3.13-mypy-boto3-apigateway
-  version: 1.38.29
+  version: 1.38.36
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-apigatewaymanagementapi:
   description: Type annotations for boto3 apigatewaymanagementapi
   pname: python3.13-mypy-boto3-apigatewaymanagementapi
@@ -222393,7 +222397,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-apigatewaymanagementapi
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-apigatewayv2:
   description: Type annotations for boto3 apigatewayv2
   pname: python3.13-mypy-boto3-apigatewayv2
-  version: 1.38.29
+  version: 1.38.36
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-appconfig:
   description: Type annotations for boto3 appconfig
   pname: python3.13-mypy-boto3-appconfig
@@ -222773,7 +222777,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ecr-public:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ecs:
   description: Type annotations for boto3 ecs
   pname: python3.13-mypy-boto3-ecs
-  version: 1.38.28
+  version: 1.38.36
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-efs:
   description: Type annotations for boto3 efs
   pname: python3.13-mypy-boto3-efs
@@ -222781,7 +222785,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-efs:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-eks:
   description: Type annotations for boto3 eks
   pname: python3.13-mypy-boto3-eks
-  version: 1.38.28
+  version: 1.38.35
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-elastic-inference:
   description: Type annotations for boto3 elastic-inference
   pname: python3.13-mypy-boto3-elastic-inference
@@ -222817,7 +222821,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr-containers:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr-serverless:
   description: Type annotations for boto3 emr-serverless
   pname: python3.13-mypy-boto3-emr-serverless
-  version: 1.38.29
+  version: 1.38.36
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-entityresolution:
   description: Type annotations for boto3 entityresolution
   pname: python3.13-mypy-boto3-entityresolution
@@ -222985,7 +222989,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-iotfleethub:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-iotfleetwise:
   description: Type annotations for boto3 iotfleetwise
   pname: python3.13-mypy-boto3-iotfleetwise
-  version: 1.38.0
+  version: 1.38.36
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-iotsecuretunneling:
   description: Type annotations for boto3 iotsecuretunneling
   pname: python3.13-mypy-boto3-iotsecuretunneling
@@ -223073,7 +223077,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-kinesisvideo:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-kms:
   description: Type annotations for boto3 kms
   pname: python3.13-mypy-boto3-kms
-  version: 1.38.32
+  version: 1.38.36
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lakeformation:
   description: Type annotations for boto3 lakeformation
   pname: python3.13-mypy-boto3-lakeformation
@@ -223093,7 +223097,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lex-runtime:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lexv2-models:
   description: Type annotations for boto3 lexv2-models
   pname: python3.13-mypy-boto3-lexv2-models
-  version: 1.38.0
+  version: 1.38.35
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lexv2-runtime:
   description: Type annotations for boto3 lexv2-runtime
   pname: python3.13-mypy-boto3-lexv2-runtime
@@ -223265,7 +223269,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-network-firewall:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-networkmanager:
   description: Type annotations for boto3 networkmanager
   pname: python3.13-mypy-boto3-networkmanager
-  version: 1.38.0
+  version: 1.38.35
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-nimble:
   description: Type annotations for boto3 nimble
   pname: python3.13-mypy-boto3-nimble
@@ -223397,7 +223401,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rbin:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rds:
   description: Type annotations for boto3 rds
   pname: python3.13-mypy-boto3-rds
-  version: 1.38.32
+  version: 1.38.35
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rds-data:
   description: Type annotations for boto3 rds-data
   pname: python3.13-mypy-boto3-rds-data
@@ -223709,7 +223713,7 @@ legacyPackages.x86_64-linux.python313Packages.mypy-boto3-waf-regional:
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-wafv2:
   description: Type annotations for boto3 wafv2
   pname: python3.13-mypy-boto3-wafv2
-  version: 1.38.31
+  version: 1.38.35
 legacyPackages.x86_64-linux.python313Packages.mypy-boto3-wellarchitected:
   description: Type annotations for boto3 wellarchitected
   pname: python3.13-mypy-boto3-wellarchitected
@@ -226097,7 +226101,7 @@ legacyPackages.x86_64-linux.python313Packages.pbr:
 legacyPackages.x86_64-linux.python313Packages.pbs-installer:
   description: Installer for Python Build Standalone
   pname: python3.13-pbs-installer
-  version: 2025.03.17
+  version: 2025.06.10
 legacyPackages.x86_64-linux.python313Packages.pbxproj:
   description: 'Python module to manipulate XCode projects '
   pname: python3.13-pbxproj
@@ -227625,7 +227629,7 @@ legacyPackages.x86_64-linux.python313Packages.pvextractor:
 legacyPackages.x86_64-linux.python313Packages.pvlib:
   description: Simulate the performance of photovoltaic energy systems
   pname: python3.13-pvlib
-  version: 0.12.0
+  version: 0.13.0
 legacyPackages.x86_64-linux.python313Packages.pvo:
   description: Python module to interact with the PVOutput API
   pname: python3.13-pvo
@@ -228257,7 +228261,7 @@ legacyPackages.x86_64-linux.python313Packages.pycflow2dot:
 legacyPackages.x86_64-linux.python313Packages.pycfmodel:
   description: Model for Cloud Formation scripts
   pname: python3.13-pycfmodel
-  version: 1.1.0
+  version: 1.1.3
 legacyPackages.x86_64-linux.python313Packages.pychannels:
   description: Python library for interacting with the Channels app
   pname: python3.13-pychannels
@@ -238253,7 +238257,7 @@ legacyPackages.x86_64-linux.python313Packages.tenant-schemas-celery:
 legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python:
   description: Tencent Cloud API 3.0 SDK for Python
   pname: python3.13-tencentcloud-sdk-python
-  version: 3.0.1394
+  version: 3.0.1397
 legacyPackages.x86_64-linux.python313Packages.tendo:
   description: Adds basic functionality that is not provided by Python
   pname: python3.13-tendo
@@ -285573,15 +285577,15 @@ legacyPackages.x86_64-linux.tailor-gui:
 legacyPackages.x86_64-linux.tailscale:
   description: Node agent for Tailscale, a mesh VPN built on WireGuard
   pname: tailscale
-  version: 1.84.1
+  version: 1.84.2
 legacyPackages.x86_64-linux.tailscale-gitops-pusher:
   description: Allows users to use a GitOps flow for managing Tailscale ACLs
   pname: tailscale-gitops-pusher
-  version: 1.84.1
+  version: 1.84.2
 legacyPackages.x86_64-linux.tailscale-nginx-auth:
   description: Tool that allows users to use Tailscale Whois authentication with NGINX as a reverse proxy
   pname: tailscale-nginx-auth
-  version: 1.84.1
+  version: 1.84.2
 legacyPackages.x86_64-linux.tailscale-systray:
   description: Tailscale systray
   pname: tailscale-systray
@@ -286765,7 +286769,7 @@ legacyPackages.x86_64-linux.termite-unwrapped:
 legacyPackages.x86_64-linux.termius:
   description: Cross-platform SSH client with cloud data sync and more
   pname: termius
-  version: 9.20.0
+  version: 9.21.2
 legacyPackages.x86_64-linux.termonad:
   description: Terminal emulator configurable in Haskell
   pname: termonad-with-packages
@@ -309801,7 +309805,7 @@ legacyPackages.x86_64-linux.txtw:
 legacyPackages.x86_64-linux.ty:
   description: Extremely fast Python type checker and language server, written in Rust
   pname: ty
-  version: 0.0.1-alpha.9
+  version: 0.0.1-alpha.10
 legacyPackages.x86_64-linux.tydra:
   description: Shortcut menu-based task runner, inspired by Emacs Hydra
   pname: tydra
@@ -331569,7 +331573,7 @@ legacyPackages.x86_64-linux.vimPlugins.vimspector:
 legacyPackages.x86_64-linux.vimPlugins.vimtex:
   description: ""
   pname: vimplugin-vimtex
-  version: "2025-06-02"
+  version: "2025-06-12"
 legacyPackages.x86_64-linux.vimPlugins.vimux:
   description: ""
   pname: vimplugin-vimux
@@ -334093,7 +334097,7 @@ legacyPackages.x86_64-linux.vscode-extensions.vincaslt.highlight-matching-tag:
 legacyPackages.x86_64-linux.vscode-extensions.visualjj.visualjj:
   description: Jujutsu version control integration, for simpler Git workflow
   pname: vscode-extension-visualjj-visualjj
-  version: 0.15.0
+  version: 0.15.1
 legacyPackages.x86_64-linux.vscode-extensions.visualstudioexptteam.intellicode-api-usage-examples:
   description: See relevant code examples from GitHub for over 100K different APIs right in your editor
   pname: vscode-extension-VisualStudioExptTeam-intellicode-api-usage-examples
@@ -334285,11 +334289,11 @@ legacyPackages.x86_64-linux.vscode-with-extensions:
 legacyPackages.x86_64-linux.vscodium:
   description: 'Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) '
   pname: vscodium
-  version: 1.100.33714
+  version: 1.101.03933
 legacyPackages.x86_64-linux.vscodium-fhs:
   description: 'Wrapped variant of vscodium which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: codium
-  version: 1.100.33714
+  version: 1.101.03933
 legacyPackages.x86_64-linux.vsftpd:
   description: Very secure FTP daemon
   pname: vsftpd
@@ -334589,7 +334593,7 @@ legacyPackages.x86_64-linux.waitron:
 legacyPackages.x86_64-linux.wakapi:
   description: Minimalist self-hosted WakaTime-compatible backend for coding statistics
   pname: wakapi
-  version: 2.13.4
+  version: 2.14.0
 legacyPackages.x86_64-linux.wakatime:
   description: WakaTime command line interface
   pname: wakatime-cli
@@ -335386,6 +335390,10 @@ legacyPackages.x86_64-linux.webwormhole:
   description: Send files using peer authenticated WebRTC
   pname: webwormhole
   version: 0-unstable-2023-11-15
+legacyPackages.x86_64-linux.wechat:
+  description: Messaging and calling app
+  pname: wechat
+  version: 4.0.1.11
 legacyPackages.x86_64-linux.wechat-uos:
   description: Messaging app
   pname: wechat-uos
@@ -337733,7 +337741,7 @@ legacyPackages.x86_64-linux.xdg-desktop-portal-hyprland:
 legacyPackages.x86_64-linux.xdg-desktop-portal-luminous:
   description: xdg-desktop-portal backend for wlroots based compositors, providing screenshot and screencast
   pname: xdg-desktop-portal-luminous
-  version: 0.1.8
+  version: 0.1.10
 legacyPackages.x86_64-linux.xdg-desktop-portal-shana:
   description: Filechooser portal backend for any desktop environment
   pname: xdg-desktop-portal-shana
@@ -340241,7 +340249,7 @@ legacyPackages.x86_64-linux.yandex-disk:
 legacyPackages.x86_64-linux.yandex-music:
   description: Personal recommendations, selections for any occasion and new music
   pname: yandex-music
-  version: 5.52.0
+  version: 5.54.0
 legacyPackages.x86_64-linux.yaneuraou:
   description: USI compliant shogi engine
   pname: yaneuraou
