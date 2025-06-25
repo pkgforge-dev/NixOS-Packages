@@ -4174,6 +4174,11 @@
     "pname": "altermime",
     "version": "0.3.11"
   },
+  "legacyPackages.x86_64-linux.alterware-launcher": {
+    "description": "Official launcher for AlterWare Call of Duty mods",
+    "pname": "alterware-launcher",
+    "version": "0.11.2"
+  },
   "legacyPackages.x86_64-linux.alterx": {
     "description": "Fast and customizable subdomain wordlist generator using DSL",
     "pname": "alterx",
@@ -9598,6 +9603,11 @@
     "description": "General-purpose library for parallel and massively-parallel computations",
     "pname": "arrayfire",
     "version": "3.9.0"
+  },
+  "legacyPackages.x86_64-linux.arrow": {
+    "description": "Game Narrative Design Tool",
+    "pname": "arrow",
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.arrow-cpp": {
     "description": "Cross-language development platform for in-memory data",
@@ -17472,7 +17482,7 @@
   "legacyPackages.x86_64-linux.buildbox": {
     "description": "Set of tools for remote worker build execution",
     "pname": "buildbox",
-    "version": "1.3.11"
+    "version": "1.3.21"
   },
   "legacyPackages.x86_64-linux.buildcatrust": {
     "description": "Build SSL/TLS trust stores",
@@ -17487,7 +17497,7 @@
   "legacyPackages.x86_64-linux.buildkit": {
     "description": "Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
     "pname": "buildkit",
-    "version": "0.22.0"
+    "version": "0.23.0"
   },
   "legacyPackages.x86_64-linux.buildkit-nix": {
     "description": "Nix frontend for BuildKit",
@@ -18517,7 +18527,7 @@
   "legacyPackages.x86_64-linux.carapace": {
     "description": "Multi-shell multi-command argument completer",
     "pname": "carapace",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   "legacyPackages.x86_64-linux.carapace-bridge": {
     "description": "Multi-shell completion bridge for carapace",
@@ -24157,12 +24167,12 @@
   "legacyPackages.x86_64-linux.chromedriver": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "chromedriver-unwrapped",
-    "version": "137.0.7151.119"
+    "version": "138.0.7204.49"
   },
   "legacyPackages.x86_64-linux.chromium": {
     "description": "Open source web browser from Google",
     "pname": "chromium",
-    "version": "137.0.7151.119"
+    "version": "138.0.7204.49"
   },
   "legacyPackages.x86_64-linux.chromium-bsu": {
     "description": "Fast paced, arcade-style, top-scrolling space shooter",
@@ -25887,12 +25897,12 @@
   "legacyPackages.x86_64-linux.code-cursor": {
     "description": "AI-powered code editor built on vscode",
     "pname": "cursor",
-    "version": "1.0.0"
+    "version": "1.1.3"
   },
   "legacyPackages.x86_64-linux.code-cursor-fhs": {
     "description": "Wrapped variant of cursor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
     "pname": "cursor",
-    "version": "1.0.0"
+    "version": "1.1.3"
   },
   "legacyPackages.x86_64-linux.code-maat": {
     "description": "Command line tool to mine and analyze data from version-control systems",
@@ -26872,7 +26882,7 @@
   "legacyPackages.x86_64-linux.containerd": {
     "description": "Daemon to control runC",
     "pname": "containerd",
-    "version": "2.1.1"
+    "version": "2.1.3"
   },
   "legacyPackages.x86_64-linux.containerlab": {
     "description": "Container-based networking lab",
@@ -27027,7 +27037,7 @@
   "legacyPackages.x86_64-linux.copilot-language-server": {
     "description": "Use GitHub Copilot with any editor or IDE via the Language Server Protocol",
     "pname": "copilot-language-server",
-    "version": "1.335.0"
+    "version": "1.337.0"
   },
   "legacyPackages.x86_64-linux.copilot-language-server-fhs": {
     "description": "Use GitHub Copilot with any editor or IDE via the Language Server Protocol (FHS-wrapped, expand package details for further information when to use it)",
@@ -27692,12 +27702,12 @@
   "legacyPackages.x86_64-linux.corepack_24": {
     "description": "Wrappers for npm, pnpm and Yarn via Node.js Corepack",
     "pname": "corepack-nodejs",
-    "version": "24.2.0"
+    "version": "24.3.0"
   },
   "legacyPackages.x86_64-linux.corepack_latest": {
     "description": "Wrappers for npm, pnpm and Yarn via Node.js Corepack",
     "pname": "corepack-nodejs",
-    "version": "24.2.0"
+    "version": "24.3.0"
   },
   "legacyPackages.x86_64-linux.corerad": {
     "description": "Extensible and observable IPv6 NDP RA daemon",
@@ -30347,7 +30357,7 @@
   "legacyPackages.x86_64-linux.cvc5": {
     "description": "High-performance theorem prover and SMT solver",
     "pname": "cvc5",
-    "version": "1.2.1"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.cve": {
     "description": "Library and a command line interface for the CVE Services API",
@@ -31752,7 +31762,7 @@
   "legacyPackages.x86_64-linux.davis": {
     "description": "Simple CardDav and CalDav server inspired by Baïkal",
     "pname": "davis",
-    "version": "5.0.2"
+    "version": "5.1.2"
   },
   "legacyPackages.x86_64-linux.davix": {
     "description": "Toolkit for Http-based file management",
@@ -31862,7 +31872,7 @@
   "legacyPackages.x86_64-linux.dbeaver-bin": {
     "description": "Universal SQL Client for developers, DBA and analysts. Supports MySQL, PostgreSQL, MariaDB, SQLite, and more",
     "pname": "dbeaver-bin",
-    "version": "25.1.0"
+    "version": "25.1.1"
   },
   "legacyPackages.x86_64-linux.dbgate": {
     "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others",
@@ -34812,12 +34822,12 @@
   "legacyPackages.x86_64-linux.docker-machine-hyperkit": {
     "description": "HyperKit driver for docker-machine",
     "pname": "docker-machine-hyperkit",
-    "version": "1.34.0"
+    "version": "1.36.0"
   },
   "legacyPackages.x86_64-linux.docker-machine-kvm2": {
     "description": "KVM2 driver for docker-machine",
     "pname": "docker-machine-kvm2",
-    "version": "1.34.0"
+    "version": "1.36.0"
   },
   "legacyPackages.x86_64-linux.docker-sbom": {
     "description": "Plugin for Docker CLI to support SBOM creation using Syft",
@@ -35992,7 +36002,7 @@
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-markdown": {
     "description": "Markdown code formatter.",
     "pname": "dprint-plugin-markdown",
-    "version": "0.18.0"
+    "version": "0.19.0"
   },
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-ruff": {
     "description": "Ruff (Python) wrapper plugin.",
@@ -36007,7 +36017,7 @@
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-typescript": {
     "description": "TypeScript/JavaScript code formatter.",
     "pname": "dprint-plugin-typescript",
-    "version": "0.95.7"
+    "version": "0.95.8"
   },
   "legacyPackages.x86_64-linux.dprint-plugins.g-plane-malva": {
     "description": "CSS, SCSS, Sass and Less formatter.",
@@ -36127,7 +36137,7 @@
   "legacyPackages.x86_64-linux.draupnir": {
     "description": "Moderation tool for Matrix",
     "pname": "draupnir",
-    "version": "2.3.1"
+    "version": "2.4.1"
   },
   "legacyPackages.x86_64-linux.drawing": {
     "description": "Free basic image editor, similar to Microsoft Paint, but aiming at the GNOME desktop",
@@ -39392,7 +39402,7 @@
   "legacyPackages.x86_64-linux.epson-escpr2": {
     "description": "ESC/P-R 2 Driver (generic driver)",
     "pname": "epson-inkjet-printer-escpr2",
-    "version": "1.2.28"
+    "version": "1.2.34"
   },
   "legacyPackages.x86_64-linux.epson-workforce-635-nx625-series": {
     "description": "Proprietary CUPS drivers for Epson inkjet printers",
@@ -39692,7 +39702,7 @@
   "legacyPackages.x86_64-linux.esphome": {
     "description": "Make creating custom firmwares for ESP32/ESP8266 super easy",
     "pname": "esphome",
-    "version": "2025.6.0"
+    "version": "2025.6.1"
   },
   "legacyPackages.x86_64-linux.espresso": {
     "description": "Multi-valued PLA minimization",
@@ -42397,7 +42407,7 @@
   "legacyPackages.x86_64-linux.firecracker": {
     "description": "Secure, fast, minimal micro-container virtualization",
     "pname": "firecracker",
-    "version": "1.12.0"
+    "version": "1.12.1"
   },
   "legacyPackages.x86_64-linux.firectl": {
     "description": "Command-line tool to run Firecracker microVMs",
@@ -47512,7 +47522,7 @@
   "legacyPackages.x86_64-linux.giada": {
     "description": "Free, minimal, hardcore audio tool for DJs, live performers and electronic musicians",
     "pname": "giada",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.giara": {
     "description": "Reddit app, built with Python, GTK and Handy; Created with mobile Linux in mind",
@@ -48473,6 +48483,11 @@
     "description": "Runner for Gitea based on act",
     "pname": "gitea-actions-runner",
     "version": "0.2.11"
+  },
+  "legacyPackages.x86_64-linux.gitea-mcp-server": {
+    "description": "Gitea Model Context Protocol (MCP) Server",
+    "pname": "gitea-mcp-server",
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.gitflow": {
     "description": "Extend git with the Gitflow branching model",
@@ -56307,7 +56322,7 @@
   "legacyPackages.x86_64-linux.google-cloud-sql-proxy": {
     "description": "Utility for ensuring secure connections to Google Cloud SQL instances",
     "pname": "google-cloud-sql-proxy",
-    "version": "2.16.0"
+    "version": "2.17.1"
   },
   "legacyPackages.x86_64-linux.google-compute-engine": {
     "description": "Google Compute Engine tools and services",
@@ -57297,7 +57312,7 @@
   "legacyPackages.x86_64-linux.grafana": {
     "description": "Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB",
     "pname": "grafana",
-    "version": "12.0.1+security-01"
+    "version": "12.0.2"
   },
   "legacyPackages.x86_64-linux.grafana-alloy": {
     "description": "Open source OpenTelemetry Collector distribution with built-in Prometheus pipelines and support for metrics, logs, traces, and profiles",
@@ -57312,7 +57327,7 @@
   "legacyPackages.x86_64-linux.grafana-image-renderer": {
     "description": "Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)",
     "pname": "renderer",
-    "version": "3.12.6"
+    "version": "3.12.7"
   },
   "legacyPackages.x86_64-linux.grafana-kiosk": {
     "description": "Kiosk Utility for Grafana",
@@ -77682,7 +77697,7 @@
   "legacyPackages.x86_64-linux.kitty-img": {
     "description": "Print images inline in kitty",
     "pname": "kitty-img",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.kitty-themes": {
     "description": "Themes for the kitty terminal emulator",
@@ -138482,7 +138497,7 @@
   "legacyPackages.x86_64-linux.mattermost": {
     "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle",
     "pname": "mattermost",
-    "version": "10.5.7"
+    "version": "10.5.8"
   },
   "legacyPackages.x86_64-linux.mattermost-desktop": {
     "description": "Mattermost Desktop client",
@@ -138492,7 +138507,7 @@
   "legacyPackages.x86_64-linux.mattermostLatest": {
     "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle",
     "pname": "mattermost",
-    "version": "10.8.1"
+    "version": "10.9.1"
   },
   "legacyPackages.x86_64-linux.matugen": {
     "description": "Material you color generation tool",
@@ -140677,7 +140692,7 @@
   "legacyPackages.x86_64-linux.minikube": {
     "description": "Tool that makes it easy to run Kubernetes locally",
     "pname": "minikube",
-    "version": "1.34.0"
+    "version": "1.36.0"
   },
   "legacyPackages.x86_64-linux.minilibx": {
     "description": "Simple X-Window (X11R6) programming API in C",
@@ -141617,7 +141632,7 @@
   "legacyPackages.x86_64-linux.mmctl": {
     "description": "Remote CLI tool for Mattermost",
     "pname": "mmctl",
-    "version": "10.5.7"
+    "version": "10.5.8"
   },
   "legacyPackages.x86_64-linux.mmdbctl": {
     "description": "MMDB file management CLI supporting various operations on MMDB database files",
@@ -142482,7 +142497,7 @@
   "legacyPackages.x86_64-linux.morewaita-icon-theme": {
     "description": "Adwaita style extra icons theme for Gnome Shell",
     "pname": "morewaita-icon-theme",
-    "version": "48.1"
+    "version": "48.2"
   },
   "legacyPackages.x86_64-linux.morf": {
     "description": "Offensive mobile security tool designed to identify and address sensitive information",
@@ -146147,7 +146162,7 @@
   "legacyPackages.x86_64-linux.netgen": {
     "description": "Atomatic 3d tetrahedral mesh generator",
     "pname": "netgen",
-    "version": "6.2.2501"
+    "version": "6.2.2504"
   },
   "legacyPackages.x86_64-linux.nethack": {
     "description": "Rogue-like game",
@@ -148722,12 +148737,12 @@
   "legacyPackages.x86_64-linux.nodejs-slim_24": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs-slim",
-    "version": "24.2.0"
+    "version": "24.3.0"
   },
   "legacyPackages.x86_64-linux.nodejs-slim_latest": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs-slim",
-    "version": "24.2.0"
+    "version": "24.3.0"
   },
   "legacyPackages.x86_64-linux.nodejsInstallExecutables": {
     "description": "",
@@ -148752,12 +148767,12 @@
   "legacyPackages.x86_64-linux.nodejs_24": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs",
-    "version": "24.2.0"
+    "version": "24.3.0"
   },
   "legacyPackages.x86_64-linux.nodejs_latest": {
     "description": "Event-driven I/O framework for the V8 JavaScript engine",
     "pname": "nodejs",
-    "version": "24.2.0"
+    "version": "24.3.0"
   },
   "legacyPackages.x86_64-linux.nodemon": {
     "description": "Simple monitor script for use during development of a Node.js app",
@@ -149562,7 +149577,7 @@
   "legacyPackages.x86_64-linux.ntfy-alertmanager": {
     "description": "Bridge between ntfy and Alertmanager",
     "pname": "ntfy-alertmanager",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.ntfy-sh": {
     "description": "Send push notifications to your phone or desktop via PUT/POST",
@@ -149862,7 +149877,7 @@
   "legacyPackages.x86_64-linux.nushellPlugins.hcl": {
     "description": "Nushell plugin for parsing Hashicorp Configuration Language files",
     "pname": "nushell_plugin_hcl",
-    "version": "0.104.1"
+    "version": "0.105.1"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.highlight": {
     "description": "A nushell plugin for syntax highlighting.",
@@ -149892,7 +149907,7 @@
   "legacyPackages.x86_64-linux.nushellPlugins.skim": {
     "description": "A nushell plugin that adds integrates the skim fuzzy finder",
     "pname": "nu_plugin_skim",
-    "version": "0.14.0"
+    "version": "0.15.0"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.units": {
     "description": "A nushell plugin for easily converting between common units.",
@@ -160218,6 +160233,11 @@
     "description": "Font heavily inspired by Highway Gothic",
     "pname": "overpass",
     "version": "3.0.5"
+  },
+  "legacyPackages.x86_64-linux.overpush": {
+    "description": "Self-hosted, drop-in replacement for Pushover that can use XMPP",
+    "pname": "overpush",
+    "version": "0.4.3"
   },
   "legacyPackages.x86_64-linux.overskride": {
     "description": "Bluetooth and Obex client that is straight to the point, DE/WM agnostic, and beautiful",
@@ -193267,7 +193287,7 @@
   "legacyPackages.x86_64-linux.php81Packages.php-codesniffer": {
     "description": "PHP coding standard tool",
     "pname": "php-codesniffer",
-    "version": "3.13.1"
+    "version": "3.13.2"
   },
   "legacyPackages.x86_64-linux.php81Packages.php-cs-fixer": {
     "description": "Tool to automatically fix PHP coding standards issues",
@@ -193927,7 +193947,7 @@
   "legacyPackages.x86_64-linux.php82Packages.php-codesniffer": {
     "description": "PHP coding standard tool",
     "pname": "php-codesniffer",
-    "version": "3.13.1"
+    "version": "3.13.2"
   },
   "legacyPackages.x86_64-linux.php82Packages.php-cs-fixer": {
     "description": "Tool to automatically fix PHP coding standards issues",
@@ -194587,7 +194607,7 @@
   "legacyPackages.x86_64-linux.php83Packages.php-codesniffer": {
     "description": "PHP coding standard tool",
     "pname": "php-codesniffer",
-    "version": "3.13.1"
+    "version": "3.13.2"
   },
   "legacyPackages.x86_64-linux.php83Packages.php-cs-fixer": {
     "description": "Tool to automatically fix PHP coding standards issues",
@@ -195247,7 +195267,7 @@
   "legacyPackages.x86_64-linux.php84Packages.php-codesniffer": {
     "description": "PHP coding standard tool",
     "pname": "php-codesniffer",
-    "version": "3.13.1"
+    "version": "3.13.2"
   },
   "legacyPackages.x86_64-linux.php84Packages.php-cs-fixer": {
     "description": "Tool to automatically fix PHP coding standards issues",
@@ -200532,7 +200552,7 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.h3-pg": {
     "description": "PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system",
     "pname": "h3-pg",
-    "version": "4.2.2"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
@@ -200867,7 +200887,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.h3-pg": {
     "description": "PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system",
     "pname": "h3-pg",
-    "version": "4.2.2"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
@@ -201202,7 +201222,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.h3-pg": {
     "description": "PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system",
     "pname": "h3-pg",
-    "version": "4.2.2"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
@@ -201537,7 +201557,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.h3-pg": {
     "description": "PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system",
     "pname": "h3-pg",
-    "version": "4.2.2"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
@@ -201872,7 +201892,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.h3-pg": {
     "description": "PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system",
     "pname": "h3-pg",
-    "version": "4.2.2"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
@@ -202207,7 +202227,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.h3-pg": {
     "description": "PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system",
     "pname": "h3-pg",
-    "version": "4.2.2"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
@@ -202772,7 +202792,7 @@
   "legacyPackages.x86_64-linux.powerstation": {
     "description": "Open source TDP control and performance daemon with DBus interface",
     "pname": "powerstation",
-    "version": "0.6.0"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.powersupply": {
     "description": "Graphical app to display power status of mobile Linux platforms",
@@ -203814,6 +203834,11 @@
     "pname": "shelly_exporter",
     "version": "1.0.0"
   },
+  "legacyPackages.x86_64-linux.prometheus-slurm-exporter": {
+    "description": "Prometheus exporter for performance metrics from Slurm",
+    "pname": "prometheus-slurm-exporter",
+    "version": "0.20"
+  },
   "legacyPackages.x86_64-linux.prometheus-smartctl-exporter": {
     "description": "Export smartctl statistics for Prometheus",
     "pname": "smartctl_exporter",
@@ -204482,7 +204507,7 @@
   "legacyPackages.x86_64-linux.pscale": {
     "description": "CLI for PlanetScale Database",
     "pname": "pscale",
-    "version": "0.245.0"
+    "version": "0.246.0"
   },
   "legacyPackages.x86_64-linux.pscid": {
     "description": "A lightweight editor experience for PureScript development",
@@ -224387,7 +224412,7 @@
   "legacyPackages.x86_64-linux.python312Packages.langchain": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.12-langchain",
-    "version": "0.3.25"
+    "version": "0.3.26"
   },
   "legacyPackages.x86_64-linux.python312Packages.langchain-anthropic": {
     "description": "Build LangChain applications with Anthropic",
@@ -230687,7 +230712,7 @@
   "legacyPackages.x86_64-linux.python312Packages.netgen-mesher": {
     "description": "Atomatic 3d tetrahedral mesh generator",
     "pname": "netgen",
-    "version": "6.2.2501"
+    "version": "6.2.2504"
   },
   "legacyPackages.x86_64-linux.python312Packages.nethsm": {
     "description": "Client-side Python SDK for NetHSM",
@@ -239172,12 +239197,12 @@
   "legacyPackages.x86_64-linux.python312Packages.pyside2": {
     "description": "LGPL-licensed Python bindings for Qt",
     "pname": "pyside2",
-    "version": "5.15.16"
+    "version": "5.15.17"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyside2-tools": {
     "description": "PySide2 development tools",
     "pname": "pyside2-tools",
-    "version": "5.15.16"
+    "version": "5.15.17"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyside6": {
     "description": "Python bindings for Qt",
@@ -244362,7 +244387,7 @@
   "legacyPackages.x86_64-linux.python312Packages.safetensors": {
     "description": "Fast (zero-copy) and safe (unlike pickle) format for storing tensors",
     "pname": "python3.12-safetensors",
-    "version": "0.5.2"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.safety": {
     "description": "Checks installed dependencies for known vulnerabilities",
@@ -245322,7 +245347,7 @@
   "legacyPackages.x86_64-linux.python312Packages.shiboken2": {
     "description": "Generator for the PySide2 Qt bindings",
     "pname": "shiboken2",
-    "version": "5.15.16"
+    "version": "5.15.17"
   },
   "legacyPackages.x86_64-linux.python312Packages.shiboken6": {
     "description": "Generator for the pyside6 Qt bindings",
@@ -254722,7 +254747,7 @@
   "legacyPackages.x86_64-linux.python312Packages.wyoming": {
     "description": "Protocol for Rhasspy Voice Assistant",
     "pname": "python3.12-wyoming",
-    "version": "1.6.1"
+    "version": "1.7.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.x-transformers": {
     "description": "Concise but fully-featured transformer",
@@ -274722,7 +274747,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.13-langchain",
-    "version": "0.3.25"
+    "version": "0.3.26"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-anthropic": {
     "description": "Build LangChain applications with Anthropic",
@@ -281022,7 +281047,7 @@
   "legacyPackages.x86_64-linux.python313Packages.netgen-mesher": {
     "description": "Atomatic 3d tetrahedral mesh generator",
     "pname": "netgen",
-    "version": "6.2.2501"
+    "version": "6.2.2504"
   },
   "legacyPackages.x86_64-linux.python313Packages.nethsm": {
     "description": "Client-side Python SDK for NetHSM",
@@ -289507,12 +289532,12 @@
   "legacyPackages.x86_64-linux.python313Packages.pyside2": {
     "description": "LGPL-licensed Python bindings for Qt",
     "pname": "pyside2",
-    "version": "5.15.16"
+    "version": "5.15.17"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyside2-tools": {
     "description": "PySide2 development tools",
     "pname": "pyside2-tools",
-    "version": "5.15.16"
+    "version": "5.15.17"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyside6": {
     "description": "Python bindings for Qt",
@@ -294697,7 +294722,7 @@
   "legacyPackages.x86_64-linux.python313Packages.safetensors": {
     "description": "Fast (zero-copy) and safe (unlike pickle) format for storing tensors",
     "pname": "python3.13-safetensors",
-    "version": "0.5.2"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.safety": {
     "description": "Checks installed dependencies for known vulnerabilities",
@@ -295657,7 +295682,7 @@
   "legacyPackages.x86_64-linux.python313Packages.shiboken2": {
     "description": "Generator for the PySide2 Qt bindings",
     "pname": "shiboken2",
-    "version": "5.15.16"
+    "version": "5.15.17"
   },
   "legacyPackages.x86_64-linux.python313Packages.shiboken6": {
     "description": "Generator for the pyside6 Qt bindings",
@@ -305102,7 +305127,7 @@
   "legacyPackages.x86_64-linux.python313Packages.wyoming": {
     "description": "Protocol for Rhasspy Voice Assistant",
     "pname": "python3.13-wyoming",
-    "version": "1.6.1"
+    "version": "1.7.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.x-transformers": {
     "description": "Concise but fully-featured transformer",
@@ -312937,7 +312962,7 @@
   "legacyPackages.x86_64-linux.rqbit": {
     "description": "Bittorrent client in Rust",
     "pname": "rqbit",
-    "version": "8.0.0"
+    "version": "8.1.1"
   },
   "legacyPackages.x86_64-linux.rqlite": {
     "description": "Lightweight, distributed relational database built on SQLite",
@@ -353964,6 +353989,11 @@
     "pname": "spideroak",
     "version": "7.5.0"
   },
+  "legacyPackages.x86_64-linux.spiffe-helper": {
+    "description": "Retrieve and manage SVIDs on behalf of a workload",
+    "pname": "spiffe-helper",
+    "version": "0.10.0"
+  },
   "legacyPackages.x86_64-linux.spiffe-vault": {
     "description": "Integrates Spiffe and Vault to have secretless authentication",
     "pname": "spiffe-vault",
@@ -355207,7 +355237,7 @@
   "legacyPackages.x86_64-linux.staruml": {
     "description": "Sophisticated software modeler",
     "pname": "staruml",
-    "version": "6.3.2"
+    "version": "6.3.3"
   },
   "legacyPackages.x86_64-linux.stash": {
     "description": "Organizer for your adult videos/images",
@@ -356417,7 +356447,7 @@
   "legacyPackages.x86_64-linux.supercronic": {
     "description": "Cron tool designed for use in containers",
     "pname": "supercronic",
-    "version": "0.2.33"
+    "version": "0.2.34"
   },
   "legacyPackages.x86_64-linux.superd": {
     "description": "Unprivileged user service supervisor",
@@ -402192,7 +402222,7 @@
   "legacyPackages.x86_64-linux.undetected-chromedriver": {
     "description": "Custom Selenium ChromeDriver that passes all bot mitigation systems",
     "pname": "undetected-chromedriver",
-    "version": "137.0.7151.119"
+    "version": "138.0.7204.49"
   },
   "legacyPackages.x86_64-linux.undistract-me": {
     "description": "Notifies you when long-running terminal commands complete",
@@ -404252,12 +404282,12 @@
   "legacyPackages.x86_64-linux.vencord": {
     "description": "Vencord web extension",
     "pname": "vencord",
-    "version": "1.12.3"
+    "version": "1.12.4"
   },
   "legacyPackages.x86_64-linux.vencord-web-extension": {
     "description": "Vencord web extension",
     "pname": "vencord",
-    "version": "1.12.3"
+    "version": "1.12.4"
   },
   "legacyPackages.x86_64-linux.vendir": {
     "description": "CLI tool to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively",
@@ -405208,6 +405238,11 @@
     "description": "",
     "pname": "vimplugin-aurora",
     "version": "2025-04-07"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.auto-fix-return-nvim": {
+    "description": "",
+    "pname": "vimplugin-auto-fix-return.nvim",
+    "version": "2025-06-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.auto-git-diff": {
     "description": "",
@@ -407544,6 +407579,11 @@
     "pname": "vimplugin-heirline.nvim",
     "version": "2025-05-23"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.helm-ls-nvim": {
+    "description": "",
+    "pname": "vimplugin-helm-ls.nvim",
+    "version": "2025-06-07"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.helpview-nvim": {
     "description": "",
     "pname": "vimplugin-helpview.nvim",
@@ -407953,6 +407993,11 @@
     "description": "",
     "pname": "vimplugin-lazydev.nvim",
     "version": "2025-02-20"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.lazydocker-nvim": {
+    "description": "",
+    "pname": "vimplugin-lazydocker.nvim",
+    "version": "2025-06-05"
   },
   "legacyPackages.x86_64-linux.vimPlugins.lazygit-nvim": {
     "description": "",
@@ -417207,7 +417252,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.devsense.profiler-php-vscode": {
     "description": "Visual studio code extension for PHP and XDebug profiling and inspecting",
     "pname": "vscode-extension-devsense-profiler-php-vscode",
-    "version": "1.59.17478"
+    "version": "1.59.17515"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.dhall.dhall-lang": {
     "description": "",
@@ -418477,7 +418522,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.sonarsource.sonarlint-vscode": {
     "description": "",
     "pname": "vscode-extension-sonarsource-sonarlint-vscode",
-    "version": "4.24.0"
+    "version": "4.25.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.sourcery.sourcery": {
     "description": "VSCode extension for Sourcery, an AI-powered code review and pair programming tool for Python",
@@ -421504,6 +421549,11 @@
     "pname": "wizer",
     "version": "9.0.0"
   },
+  "legacyPackages.x86_64-linux.wkg": {
+    "description": "Tools to package up WASM Components",
+    "pname": "wkg",
+    "version": "0.11.0"
+  },
   "legacyPackages.x86_64-linux.wkhtmltopdf": {
     "description": "Tools for rendering web pages to PDF or images (binary package)",
     "pname": "wkhtmltopdf",
@@ -422712,7 +422762,7 @@
   "legacyPackages.x86_64-linux.wyoming-faster-whisper": {
     "description": "Wyoming Server for Faster Whisper",
     "pname": "wyoming-faster-whisper",
-    "version": "2.4.0"
+    "version": "2.5.0"
   },
   "legacyPackages.x86_64-linux.wyoming-openwakeword": {
     "description": "Open source voice assistant toolkit for many human languages",
@@ -422722,7 +422772,7 @@
   "legacyPackages.x86_64-linux.wyoming-piper": {
     "description": "Wyoming Server for Piper",
     "pname": "wyoming-piper",
-    "version": "1.5.3"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.wyoming-satellite": {
     "description": "Remote voice satellite using Wyoming protocol",
@@ -423447,7 +423497,7 @@
   "legacyPackages.x86_64-linux.xenia-canary": {
     "description": "Xbox 360 Emulator Research Project",
     "pname": "xenia-canary",
-    "version": "0-unstable-2025-06-14"
+    "version": "0-unstable-2025-06-21"
   },
   "legacyPackages.x86_64-linux.xenomapper": {
     "description": "Utility for post processing mapped reads that have been aligned to a primary genome and a secondary genome and binning reads into species specific, multimapping in each species, unmapped and unassigned bins",
@@ -427737,7 +427787,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "0.191.7"
+    "version": "0.191.9"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
