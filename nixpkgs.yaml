@@ -11853,7 +11853,7 @@ legacyPackages.x86_64-linux.bfr:
 legacyPackages.x86_64-linux.bfs:
   description: Breadth-first version of the UNIX find command
   pname: bfs
-  version: 4.0.6
+  version: 4.0.8
 legacyPackages.x86_64-linux.bfscripts:
   description: Collection of scripts used for BlueField SoC system management
   pname: bfscripts-unstable
@@ -20037,7 +20037,7 @@ legacyPackages.x86_64-linux.clickgen:
 legacyPackages.x86_64-linux.clickhouse:
   description: Column-oriented database management system
   pname: clickhouse
-  version: 25.3.3.42
+  version: 25.3.4.190
 legacyPackages.x86_64-linux.clickhouse-backup:
   description: Tool for easy ClickHouse backup and restore using object storage for backup files
   pname: clickhouse-backup
@@ -21369,7 +21369,7 @@ legacyPackages.x86_64-linux.conftest:
 legacyPackages.x86_64-linux.confy:
   description: Conferences schedule viewer
   pname: confy
-  version: 0.8.0
+  version: 0.8.1
 legacyPackages.x86_64-linux.conglomerate:
   description: More command-line utilities for working with MINC files
   pname: conglomerate-unstable
@@ -23001,7 +23001,7 @@ legacyPackages.x86_64-linux.crowbar:
 legacyPackages.x86_64-linux.crowdin-cli:
   description: Command-line client for the Crowdin API
   pname: crowdin-cli
-  version: 4.7.1
+  version: 4.8.0
 legacyPackages.x86_64-linux.crowdsec:
   description: CrowdSec is a free, open-source and collaborative IPS
   pname: crowdsec
@@ -23953,7 +23953,7 @@ legacyPackages.x86_64-linux.cudd:
 legacyPackages.x86_64-linux.cue:
   description: Data constraint language which aims to simplify tasks involving defining and using data
   pname: cue
-  version: 0.13.1
+  version: 0.13.2
 legacyPackages.x86_64-linux.cue2pops:
   description: Convert CUE to ISO suitable to POPStarter
   pname: cue2pops
@@ -26389,7 +26389,7 @@ legacyPackages.x86_64-linux.denemo:
 legacyPackages.x86_64-linux.deno:
   description: Secure runtime for JavaScript and TypeScript
   pname: deno
-  version: 2.3.6
+  version: 2.3.7
 legacyPackages.x86_64-linux.densify:
   description: Compress PDF files with Ghostscript
   pname: densify
@@ -27569,7 +27569,7 @@ legacyPackages.x86_64-linux.dnf4:
 legacyPackages.x86_64-linux.dnf5:
   description: Next-generation RPM package management system
   pname: dnf5
-  version: 5.2.13.1
+  version: 5.2.14.0
 legacyPackages.x86_64-linux.dnglab:
   description: Camera RAW to DNG file format converter
   pname: dnglab
@@ -36539,9 +36539,9 @@ legacyPackages.x86_64-linux.gapcast:
   pname: gapcast
   version: 1.0.3
 legacyPackages.x86_64-linux.gaphor:
-  description: Simple modeling tool written in Python
+  description: UML and SysML modeling tool
   pname: gaphor
-  version: 3.0.0
+  version: 3.1.0
 legacyPackages.x86_64-linux.gapless:
   description: Beautiful, fast, fluent, light weight music player written in GTK4
   pname: gapless
@@ -47221,7 +47221,7 @@ legacyPackages.x86_64-linux.guitarix:
 legacyPackages.x86_64-linux.guix:
   description: Functional package manager with a Scheme interface
   pname: guix
-  version: 1.4.0
+  version: 1.4.0-unstable-2025-06-24
 legacyPackages.x86_64-linux.gum:
   description: Tasty Bubble Gum for your shell
   pname: gum
@@ -56393,7 +56393,7 @@ legacyPackages.x86_64-linux.intel-cmt-cat:
 legacyPackages.x86_64-linux.intel-compute-runtime:
   description: Intel Graphics Compute Runtime oneAPI Level Zero and OpenCL, supporting 12th Gen and newer
   pname: intel-compute-runtime
-  version: 25.18.33578.6
+  version: 25.22.33944.8
 legacyPackages.x86_64-linux.intel-compute-runtime-legacy1:
   description: Intel Graphics Compute Runtime oneAPI Level Zero and OpenCL with support for Gen8, Gen9 and Gen11 GPUs
   pname: intel-compute-runtime-legacy1
@@ -57013,7 +57013,7 @@ legacyPackages.x86_64-linux.irqbalance:
 legacyPackages.x86_64-linux.irrd:
   description: Internet Routing Registry database server, processing IRR objects in the RPSL format
   pname: python3.13-irrd
-  version: 4.4.4
+  version: 4.5.0b1
 legacyPackages.x86_64-linux.irrlicht:
   description: Open source high performance realtime 3D engine written in C++
   pname: irrlicht
@@ -67849,7 +67849,7 @@ legacyPackages.x86_64-linux.librepcb:
 legacyPackages.x86_64-linux.librepo:
   description: Library providing C and Python (libcURL like) API for downloading linux repository metadata and packages
   pname: librepo
-  version: 1.19.0
+  version: 1.20.0
 legacyPackages.x86_64-linux.libresample:
   description: Real-time library for sampling rate conversion library
   pname: libresample
@@ -112529,7 +112529,7 @@ legacyPackages.x86_64-linux.minidsp:
 legacyPackages.x86_64-linux.miniflux:
   description: Minimalist and opinionated feed reader
   pname: miniflux
-  version: 2.2.9
+  version: 2.2.10
 legacyPackages.x86_64-linux.minify:
   description: Go minifiers for web formats
   pname: minify
@@ -112937,7 +112937,7 @@ legacyPackages.x86_64-linux.mirrorbits:
 legacyPackages.x86_64-linux.mirrord:
   description: Run local processes in the context of Kubernetes environment
   pname: mirrord
-  version: 3.144.0
+  version: 3.146.0
 legacyPackages.x86_64-linux.mirtk:
   description: Medical image registration library and tools
   pname: mirtk-unstable
@@ -116837,7 +116837,7 @@ legacyPackages.x86_64-linux.netbootxyz-efi:
 legacyPackages.x86_64-linux.netbox:
   description: IP address management (IPAM) and data center infrastructure management (DCIM) tool
   pname: netbox
-  version: 4.2.9
+  version: 4.3.2
 legacyPackages.x86_64-linux.netbox2netshot:
   description: Inventory synchronization tool between Netbox and Netshot
   pname: netbox2netshot
@@ -116850,6 +116850,10 @@ legacyPackages.x86_64-linux.netbox_4_2:
   description: IP address management (IPAM) and data center infrastructure management (DCIM) tool
   pname: netbox
   version: 4.2.9
+legacyPackages.x86_64-linux.netbox_4_3:
+  description: IP address management (IPAM) and data center infrastructure management (DCIM) tool
+  pname: netbox
+  version: 4.3.2
 legacyPackages.x86_64-linux.netcap:
   description: Framework for secure and scalable network traffic analysis
   pname: netcap
@@ -119099,9 +119103,9 @@ legacyPackages.x86_64-linux.nomad_1_9:
   pname: nomad
   version: 1.9.7
 legacyPackages.x86_64-linux.nominatim:
-  description: Search engine for OpenStreetMap data
+  description: Search engine for OpenStreetMap data (DB, CLI)
   pname: nominatim
-  version: 4.4.0
+  version: 5.1.0
 legacyPackages.x86_64-linux.nomino:
   description: Batch rename utility for developers
   pname: nomino
@@ -120817,11 +120821,11 @@ legacyPackages.x86_64-linux.ocamlPackages.augeas:
 legacyPackages.x86_64-linux.ocamlPackages.awa:
   description: SSH implementation in OCaml
   pname: ocaml5.3.0-awa
-  version: 0.5.1
+  version: 0.5.2
 legacyPackages.x86_64-linux.ocamlPackages.awa-mirage:
   description: SSH implementation in OCaml
   pname: ocaml5.3.0-awa-mirage
-  version: 0.5.1
+  version: 0.5.2
 legacyPackages.x86_64-linux.ocamlPackages.b0:
   description: Software construction and deployment kit
   pname: ocaml5.3.0-b0
@@ -128813,7 +128817,7 @@ legacyPackages.x86_64-linux.pantheon.elementary-feedback:
 legacyPackages.x86_64-linux.pantheon.elementary-files:
   description: File browser designed for elementary OS
   pname: elementary-files
-  version: 7.1.3
+  version: 7.1.4
 legacyPackages.x86_64-linux.pantheon.elementary-greeter:
   description: LightDM Greeter for Pantheon
   pname: elementary-greeter
@@ -129085,7 +129089,7 @@ legacyPackages.x86_64-linux.pantheon.wingpanel-with-indicators:
 legacyPackages.x86_64-linux.pantheon.xdg-desktop-portal-pantheon:
   description: Backend implementation for xdg-desktop-portal for the Pantheon desktop environment
   pname: xdg-desktop-portal-pantheon
-  version: 8.0.3
+  version: 8.0.4
 legacyPackages.x86_64-linux.pantum-driver:
   description: Pantum universal driver
   pname: pantum-driver
@@ -129942,6 +129946,10 @@ legacyPackages.x86_64-linux.pcsx2-bin:
   description: Playstation 2 emulator (precompiled binary, repacked from official website)
   pname: pcsx2-bin
   version: 2.3.180
+legacyPackages.x86_64-linux.pd-else:
+  description: EL Locus Solus' Externals for Pure Data
+  pname: pd-else
+  version: 1.0-rc13
 legacyPackages.x86_64-linux.pdal:
   description: PDAL is Point Data Abstraction Library. GDAL for point cloud data
   pname: pdal
@@ -133765,7 +133773,7 @@ legacyPackages.x86_64-linux.perl538Packages.ImageOCRTesseract:
 legacyPackages.x86_64-linux.perl538Packages.ImagePNGLibpng:
   description: Perl interface to libpng
   pname: perl5.38.2-Image-PNG-Libpng
-  version: "0.57"
+  version: "0.59"
 legacyPackages.x86_64-linux.perl538Packages.ImageSane:
   description: Perl extension for the SANE (Scanner Access Now Easy) Project
   pname: perl5.38.2-Image-Sane
@@ -141537,7 +141545,7 @@ legacyPackages.x86_64-linux.perl540Packages.ImageOCRTesseract:
 legacyPackages.x86_64-linux.perl540Packages.ImagePNGLibpng:
   description: Perl interface to libpng
   pname: perl5.40.0-Image-PNG-Libpng
-  version: "0.57"
+  version: "0.59"
 legacyPackages.x86_64-linux.perl540Packages.ImageSane:
   description: Perl extension for the SANE (Scanner Access Now Easy) Project
   pname: perl5.40.0-Image-Sane
@@ -149305,7 +149313,7 @@ legacyPackages.x86_64-linux.perlPackages.ImageOCRTesseract:
 legacyPackages.x86_64-linux.perlPackages.ImagePNGLibpng:
   description: Perl interface to libpng
   pname: perl5.40.0-Image-PNG-Libpng
-  version: "0.57"
+  version: "0.59"
 legacyPackages.x86_64-linux.perlPackages.ImageSane:
   description: Perl extension for the SANE (Scanner Access Now Easy) Project
   pname: perl5.40.0-Image-Sane
@@ -179426,6 +179434,10 @@ legacyPackages.x86_64-linux.python312Packages.knx-frontend:
   description: Home Assistant Panel for managing the KNX integration
   pname: python3.12-knx-frontend
   version: 2025.4.1.91934
+legacyPackages.x86_64-linux.python312Packages.kokoro:
+  description: Open-weight TTS model with 82 million parameters
+  pname: python3.12-kokoro
+  version: 0-unstable-2025-06-16
 legacyPackages.x86_64-linux.python312Packages.kombu:
   description: Messaging library for Python
   pname: python3.12-kombu
@@ -180073,7 +180085,7 @@ legacyPackages.x86_64-linux.python312Packages.libredwg:
 legacyPackages.x86_64-linux.python312Packages.librepo:
   description: Library providing C and Python (libcURL like) API for downloading linux repository metadata and packages
   pname: librepo
-  version: 1.19.0
+  version: 1.20.0
 legacyPackages.x86_64-linux.python312Packages.librespot:
   description: Open Source Spotify Client
   pname: python3.12-librespot
@@ -181898,6 +181910,10 @@ legacyPackages.x86_64-linux.python312Packages.misaka:
   description: CFFI binding for Hoedown, a markdown parsing library
   pname: python3.12-misaka
   version: 2.1.1
+legacyPackages.x86_64-linux.python312Packages.misaki:
+  description: G2P engine for TTS
+  pname: python3.12-misaki
+  version: 0-unstable-2025-06-16
 legacyPackages.x86_64-linux.python312Packages.misoc:
   description: Original high performance and small footprint system-on-chip based on Migen
   pname: python3.12-misoc
@@ -184501,7 +184517,7 @@ legacyPackages.x86_64-linux.python312Packages.netapp-ontap:
 legacyPackages.x86_64-linux.python312Packages.netbox-attachments:
   description: Plugin to manage attachments for any model
   pname: python3.12-netbox-attachments
-  version: 7.2.0
+  version: 8.0.4
 legacyPackages.x86_64-linux.python312Packages.netbox-bgp:
   description: NetBox plugin for BGP related objects documentation
   pname: python3.12-netbox-bgp
@@ -184509,7 +184525,7 @@ legacyPackages.x86_64-linux.python312Packages.netbox-bgp:
 legacyPackages.x86_64-linux.python312Packages.netbox-contract:
   description: Contract plugin for netbox
   pname: python3.12-netbox-contract
-  version: 2.3.2
+  version: 2.4.0
 legacyPackages.x86_64-linux.python312Packages.netbox-dns:
   description: Netbox plugin for managing DNS data
   pname: python3.12-netbox-plugin-dns
@@ -184521,7 +184537,7 @@ legacyPackages.x86_64-linux.python312Packages.netbox-documents:
 legacyPackages.x86_64-linux.python312Packages.netbox-floorplan-plugin:
   description: Netbox plugin providing floorplan mapping capability for locations and sites
   pname: python3.12-netbox-floorplan-plugin
-  version: 0.6.0
+  version: 0.7.0
 legacyPackages.x86_64-linux.python312Packages.netbox-interface-synchronization:
   description: Netbox plugin to compare and synchronize interfaces between devices and device types
   pname: python3.12-netbox-interface-synchronization
@@ -184549,7 +184565,7 @@ legacyPackages.x86_64-linux.python312Packages.netbox-routing:
 legacyPackages.x86_64-linux.python312Packages.netbox-topology-views:
   description: Netbox plugin for generate topology views/maps from your devices
   pname: python3.12-netbox-topology-views
-  version: 4.2.1
+  version: 4.3.0
 legacyPackages.x86_64-linux.python312Packages.netcdf4:
   description: Interface to netCDF library (versions 3 and 4)
   pname: python3.12-netcdf4
@@ -184898,6 +184914,10 @@ legacyPackages.x86_64-linux.python312Packages.nominal-api-protos:
   description: Generated protobuf client for the Nominal API
   pname: python3.12-nominal-api-protos
   version: 0.708.0
+legacyPackages.x86_64-linux.python312Packages.nominatim-api:
+  description: Search engine for OpenStreetMap data (API module)
+  pname: python3.12-nominatim
+  version: 5.1.0
 legacyPackages.x86_64-linux.python312Packages.nonbloat-db:
   description: Simple key-value database for my small projects
   pname: python3.12-nonbloat-db
@@ -188821,7 +188841,7 @@ legacyPackages.x86_64-linux.python312Packages.pycrc:
 legacyPackages.x86_64-linux.python312Packages.pycrdt:
   description: CRDTs based on Yrs
   pname: python3.12-pycrdt
-  version: 0.12.21
+  version: 0.12.22
 legacyPackages.x86_64-linux.python312Packages.pycrdt-websocket:
   description: WebSocket Connector for pycrdt
   pname: python3.12-pycrdt-websocket
@@ -198061,11 +198081,11 @@ legacyPackages.x86_64-linux.python312Packages.stravaweblib:
 legacyPackages.x86_64-linux.python312Packages.strawberry-django:
   description: Strawberry GraphQL Django extension
   pname: python3.12-strawberry-django
-  version: 0.57.1
+  version: 0.60.0
 legacyPackages.x86_64-linux.python312Packages.strawberry-graphql:
   description: GraphQL library for Python that leverages type annotations
   pname: python3.12-strawberry-graphql
-  version: 0.263.1
+  version: 0.271.0
 legacyPackages.x86_64-linux.python312Packages.strct:
   description: Small pure-python package for data structure related utility functions
   pname: python3.12-strct
@@ -219694,6 +219714,10 @@ legacyPackages.x86_64-linux.python313Packages.knx-frontend:
   description: Home Assistant Panel for managing the KNX integration
   pname: python3.13-knx-frontend
   version: 2025.4.1.91934
+legacyPackages.x86_64-linux.python313Packages.kokoro:
+  description: Open-weight TTS model with 82 million parameters
+  pname: python3.13-kokoro
+  version: 0-unstable-2025-06-16
 legacyPackages.x86_64-linux.python313Packages.kombu:
   description: Messaging library for Python
   pname: python3.13-kombu
@@ -220341,7 +220365,7 @@ legacyPackages.x86_64-linux.python313Packages.libredwg:
 legacyPackages.x86_64-linux.python313Packages.librepo:
   description: Library providing C and Python (libcURL like) API for downloading linux repository metadata and packages
   pname: librepo
-  version: 1.19.0
+  version: 1.20.0
 legacyPackages.x86_64-linux.python313Packages.librespot:
   description: Open Source Spotify Client
   pname: python3.13-librespot
@@ -222166,6 +222190,10 @@ legacyPackages.x86_64-linux.python313Packages.misaka:
   description: CFFI binding for Hoedown, a markdown parsing library
   pname: python3.13-misaka
   version: 2.1.1
+legacyPackages.x86_64-linux.python313Packages.misaki:
+  description: G2P engine for TTS
+  pname: python3.13-misaki
+  version: 0-unstable-2025-06-16
 legacyPackages.x86_64-linux.python313Packages.misoc:
   description: Original high performance and small footprint system-on-chip based on Migen
   pname: python3.13-misoc
@@ -224769,7 +224797,7 @@ legacyPackages.x86_64-linux.python313Packages.netapp-ontap:
 legacyPackages.x86_64-linux.python313Packages.netbox-attachments:
   description: Plugin to manage attachments for any model
   pname: python3.13-netbox-attachments
-  version: 7.2.0
+  version: 8.0.4
 legacyPackages.x86_64-linux.python313Packages.netbox-bgp:
   description: NetBox plugin for BGP related objects documentation
   pname: python3.13-netbox-bgp
@@ -224777,7 +224805,7 @@ legacyPackages.x86_64-linux.python313Packages.netbox-bgp:
 legacyPackages.x86_64-linux.python313Packages.netbox-contract:
   description: Contract plugin for netbox
   pname: python3.13-netbox-contract
-  version: 2.3.2
+  version: 2.4.0
 legacyPackages.x86_64-linux.python313Packages.netbox-dns:
   description: Netbox plugin for managing DNS data
   pname: python3.13-netbox-plugin-dns
@@ -224789,7 +224817,7 @@ legacyPackages.x86_64-linux.python313Packages.netbox-documents:
 legacyPackages.x86_64-linux.python313Packages.netbox-floorplan-plugin:
   description: Netbox plugin providing floorplan mapping capability for locations and sites
   pname: python3.13-netbox-floorplan-plugin
-  version: 0.6.0
+  version: 0.7.0
 legacyPackages.x86_64-linux.python313Packages.netbox-interface-synchronization:
   description: Netbox plugin to compare and synchronize interfaces between devices and device types
   pname: python3.13-netbox-interface-synchronization
@@ -224817,7 +224845,7 @@ legacyPackages.x86_64-linux.python313Packages.netbox-routing:
 legacyPackages.x86_64-linux.python313Packages.netbox-topology-views:
   description: Netbox plugin for generate topology views/maps from your devices
   pname: python3.13-netbox-topology-views
-  version: 4.2.1
+  version: 4.3.0
 legacyPackages.x86_64-linux.python313Packages.netcdf4:
   description: Interface to netCDF library (versions 3 and 4)
   pname: python3.13-netcdf4
@@ -225166,6 +225194,10 @@ legacyPackages.x86_64-linux.python313Packages.nominal-api-protos:
   description: Generated protobuf client for the Nominal API
   pname: python3.13-nominal-api-protos
   version: 0.708.0
+legacyPackages.x86_64-linux.python313Packages.nominatim-api:
+  description: Search engine for OpenStreetMap data (API module)
+  pname: python3.13-nominatim
+  version: 5.1.0
 legacyPackages.x86_64-linux.python313Packages.nonbloat-db:
   description: Simple key-value database for my small projects
   pname: python3.13-nonbloat-db
@@ -229089,7 +229121,7 @@ legacyPackages.x86_64-linux.python313Packages.pycrc:
 legacyPackages.x86_64-linux.python313Packages.pycrdt:
   description: CRDTs based on Yrs
   pname: python3.13-pycrdt
-  version: 0.12.21
+  version: 0.12.22
 legacyPackages.x86_64-linux.python313Packages.pycrdt-websocket:
   description: WebSocket Connector for pycrdt
   pname: python3.13-pycrdt-websocket
@@ -238365,11 +238397,11 @@ legacyPackages.x86_64-linux.python313Packages.stravaweblib:
 legacyPackages.x86_64-linux.python313Packages.strawberry-django:
   description: Strawberry GraphQL Django extension
   pname: python3.13-strawberry-django
-  version: 0.57.1
+  version: 0.60.0
 legacyPackages.x86_64-linux.python313Packages.strawberry-graphql:
   description: GraphQL library for Python that leverages type annotations
   pname: python3.13-strawberry-graphql
-  version: 0.263.1
+  version: 0.271.0
 legacyPackages.x86_64-linux.python313Packages.strct:
   description: Small pure-python package for data structure related utility functions
   pname: python3.13-strct
@@ -248370,10 +248402,6 @@ legacyPackages.x86_64-linux.responder:
   description: LLMNR, NBT-NS and MDNS poisoner, with built-in HTTP/SMB/MSSQL/FTP/LDAP rogue authentication server
   pname: responder
   version: 3.1.5.0
-legacyPackages.x86_64-linux.responsively-app:
-  description: Modified web browser that helps in responsive web development
-  pname: responsively-app
-  version: 1.16.0
 legacyPackages.x86_64-linux.restate:
   description: Platform for developing distributed fault-tolerant applications.
   pname: restate
@@ -259697,7 +259725,7 @@ legacyPackages.x86_64-linux.s6-rc-man-pages:
 legacyPackages.x86_64-linux.s7:
   description: Scheme interpreter intended as an extension language for other applications
   pname: s7
-  version: 11.5-unstable-2025-06-15
+  version: 11.5-unstable-2025-06-25
 legacyPackages.x86_64-linux.s9fes:
   description: Scheme 9 From Empty Space, an interpreter for R4RS Scheme
   pname: s9fes
@@ -284161,7 +284189,7 @@ legacyPackages.x86_64-linux.stargazer:
 legacyPackages.x86_64-linux.starlark:
   description: Interpreter for Starlark, implemented in Go
   pname: starlark
-  version: 0-unstable-2025-06-03
+  version: 0-unstable-2025-06-23
 legacyPackages.x86_64-linux.starlark-rust:
   description: Rust implementation of the Starlark language
   pname: starlark-rust
@@ -287010,6 +287038,10 @@ legacyPackages.x86_64-linux.tclPackages.wapp:
   description: Framework for writing web applications in Tcl
   pname: wapp
   version: 0-unstable-2024-11-22
+legacyPackages.x86_64-linux.tclPackages.zesty:
+  description: Tcl library for rich terminal output
+  pname: zesty
+  version: "0.1"
 legacyPackages.x86_64-linux.tclap:
   description: Templatized C++ Command Line Parser Library
   pname: tclap
@@ -310681,7 +310713,7 @@ legacyPackages.x86_64-linux.txtw:
 legacyPackages.x86_64-linux.ty:
   description: Extremely fast Python type checker and language server, written in Rust
   pname: ty
-  version: 0.0.1-alpha.11
+  version: 0.0.1-alpha.12
 legacyPackages.x86_64-linux.tydra:
   description: Shortcut menu-based task runner, inspired by Emacs Hydra
   pname: tydra
@@ -335802,10 +335834,6 @@ legacyPackages.x86_64-linux.watson-ruby:
   description: Inline issue manager
   pname: watson-ruby
   version: 1.6.3
-legacyPackages.x86_64-linux.wavebox:
-  description: Wavebox Productivity Browser
-  pname: wavebox
-  version: 10.137.11-2
 legacyPackages.x86_64-linux.wavefunctioncollapse:
   description: Generator of bitmaps that are locally similar to the input bitmap
   pname: wavefunctioncollapse
