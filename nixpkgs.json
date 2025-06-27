@@ -9699,6 +9699,11 @@
     "pname": "as31",
     "version": "2.3.1"
   },
+  "legacyPackages.x86_64-linux.asahi-audio": {
+    "description": "Linux userspace audio configuration for Apple Silicon Macs",
+    "pname": "asahi-audio",
+    "version": "3.4"
+  },
   "legacyPackages.x86_64-linux.asahi-bless": {
     "description": "Tool to select active boot partition on ARM Macs",
     "pname": "asahi-bless",
@@ -13210,7 +13215,7 @@
     "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.bankstown-lv2": {
-    "description": "Halfway-decent three-stage psychoacoustic bass approximation",
+    "description": "Lightweight psychoacoustic bass enhancement plugin",
     "pname": "bankstown-lv2",
     "version": "1.1.0"
   },
@@ -33057,12 +33062,12 @@
   "legacyPackages.x86_64-linux.descent3": {
     "description": "Game engine for a 6DOF first-person shooter",
     "pname": "descent3",
-    "version": "1.5.0-beta-unstable-2025-06-03"
+    "version": "1.5.0-beta-unstable-2025-06-15"
   },
   "legacyPackages.x86_64-linux.descent3-unwrapped": {
     "description": "Game engine for a 6DOF first-person shooter",
     "pname": "descent3-unwrapped",
-    "version": "1.5.0-beta-unstable-2025-06-03"
+    "version": "1.5.0-beta-unstable-2025-06-15"
   },
   "legacyPackages.x86_64-linux.desed": {
     "description": "Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal",
@@ -34473,6 +34478,11 @@
     "description": "Simple command line notebook for programmers",
     "pname": "dnote",
     "version": "0.15.1"
+  },
+  "legacyPackages.x86_64-linux.dns-collector": {
+    "description": "Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata. ",
+    "pname": "dns-collector",
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.dns-over-https": {
     "description": "High performance DNS over HTTPS client & server",
@@ -42467,17 +42477,17 @@
   "legacyPackages.x86_64-linux.firefox-devedition": {
     "description": "Web browser built from Firefox Developer Edition source tree",
     "pname": "firefox-devedition",
-    "version": "140.0b9"
+    "version": "141.0b1"
   },
   "legacyPackages.x86_64-linux.firefox-devedition-bin": {
     "description": "Web browser built from Firefox Developer Edition source tree",
     "pname": "firefox-devedition",
-    "version": "140.0b9"
+    "version": "141.0b1"
   },
   "legacyPackages.x86_64-linux.firefox-devedition-unwrapped": {
     "description": "Web browser built from Firefox Developer Edition source tree",
     "pname": "firefox-devedition-unwrapped",
-    "version": "140.0b9"
+    "version": "141.0b1"
   },
   "legacyPackages.x86_64-linux.firefox-esr": {
     "description": "Web browser built from Firefox source tree",
@@ -42493,6 +42503,16 @@
     "description": "Web browser built from Firefox source tree",
     "pname": "firefox-unwrapped",
     "version": "128.12.0esr"
+  },
+  "legacyPackages.x86_64-linux.firefox-esr-140": {
+    "description": "Web browser built from Firefox source tree",
+    "pname": "firefox",
+    "version": "140.0esr"
+  },
+  "legacyPackages.x86_64-linux.firefox-esr-140-unwrapped": {
+    "description": "Web browser built from Firefox source tree",
+    "pname": "firefox-unwrapped",
+    "version": "140.0esr"
   },
   "legacyPackages.x86_64-linux.firefox-esr-unwrapped": {
     "description": "Web browser built from Firefox source tree",
@@ -45277,7 +45297,7 @@
   "legacyPackages.x86_64-linux.fwupd": {
     "description": "",
     "pname": "fwupd",
-    "version": "2.0.9"
+    "version": "2.0.12"
   },
   "legacyPackages.x86_64-linux.fwupd-efi": {
     "description": "",
@@ -48642,7 +48662,7 @@
   "legacyPackages.x86_64-linux.gitlab-runner": {
     "description": "GitLab Runner the continuous integration executor of GitLab",
     "pname": "gitlab-runner",
-    "version": "17.11.0"
+    "version": "18.1.0"
   },
   "legacyPackages.x86_64-linux.gitlab-shell": {
     "description": "SSH access and repository management app for GitLab",
@@ -56292,7 +56312,7 @@
   "legacyPackages.x86_64-linux.google-chrome": {
     "description": "Freeware web browser developed by Google",
     "pname": "google-chrome",
-    "version": "137.0.7151.119"
+    "version": "138.0.7204.49"
   },
   "legacyPackages.x86_64-linux.google-clasp": {
     "description": "Develop Apps Script Projects locally",
@@ -57002,7 +57022,7 @@
   "legacyPackages.x86_64-linux.gpsd": {
     "description": "GPS service daemon",
     "pname": "gpsd",
-    "version": "3.25"
+    "version": "3.26.1"
   },
   "legacyPackages.x86_64-linux.gpsprune": {
     "description": "Application for viewing, editing and converting GPS coordinate data",
@@ -66302,7 +66322,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.sankey-chart": {
     "description": "Home Assistant lovelace card to display a sankey chart.",
     "pname": "sankey-chart",
-    "version": "3.9.0"
+    "version": "3.9.3"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.template-entity-row": {
     "description": "Display whatever you want in an entities card row",
@@ -77677,7 +77697,7 @@
   "legacyPackages.x86_64-linux.kitex": {
     "description": "High-performance and strong-extensibility Golang RPC framework",
     "pname": "kitex",
-    "version": "0.14.0"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.kitsas": {
     "description": "Accounting tool suitable for Finnish associations and small business",
@@ -79307,7 +79327,7 @@
   "legacyPackages.x86_64-linux.kubelogin-oidc": {
     "description": "Kubernetes credential plugin implementing OpenID Connect (OIDC) authentication",
     "pname": "kubelogin",
-    "version": "1.32.4"
+    "version": "1.33.0"
   },
   "legacyPackages.x86_64-linux.kubemq-community": {
     "description": "KubeMQ Community is the open-source version of KubeMQ, the Kubernetes native message broker",
@@ -138812,12 +138832,12 @@
   "legacyPackages.x86_64-linux.mcpelauncher-client": {
     "description": "Unofficial Minecraft Bedrock Edition launcher with CLI",
     "pname": "mcpelauncher-client",
-    "version": "1.3.0-qt6"
+    "version": "1.4.0-qt6"
   },
   "legacyPackages.x86_64-linux.mcpelauncher-ui-qt": {
     "description": "Unofficial Minecraft Bedrock Edition launcher with GUI",
     "pname": "mcpelauncher-ui-qt",
-    "version": "1.3.0-qt6"
+    "version": "1.4.0-qt6"
   },
   "legacyPackages.x86_64-linux.mcphost": {
     "description": "CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP)",
@@ -143612,7 +143632,7 @@
   "legacyPackages.x86_64-linux.msbuild-structured-log-viewer": {
     "description": "Rich interactive log viewer for MSBuild logs",
     "pname": "msbuild-structured-log-viewer",
-    "version": "2.2.508"
+    "version": "2.3.13"
   },
   "legacyPackages.x86_64-linux.mscgen": {
     "description": "Convert Message Sequence Chart descriptions into PNG, SVG, or EPS images",
@@ -146617,7 +146637,7 @@
   "legacyPackages.x86_64-linux.nextcloud-whiteboard-server": {
     "description": "Backend server for the Nextcloud Whiteboard app",
     "pname": "nextcloud-whiteboard-server",
-    "version": "1.1.0"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.nextcloud30": {
     "description": "Sharing solution for files, calendars, contacts and more",
@@ -199897,7 +199917,7 @@
   "legacyPackages.x86_64-linux.pocketbase": {
     "description": "Open Source realtime backend in 1 file",
     "pname": "pocketbase",
-    "version": "0.28.3"
+    "version": "0.28.4"
   },
   "legacyPackages.x86_64-linux.pocketsphinx": {
     "description": "Small speech recognizer",
@@ -200347,7 +200367,7 @@
   "legacyPackages.x86_64-linux.pop-wallpapers": {
     "description": "Wallpapers for Pop!_OS",
     "pname": "pop-wallpapers",
-    "version": "1.0.5"
+    "version": "1.0.5-unstable-2025-06-24"
   },
   "legacyPackages.x86_64-linux.popa3d": {
     "description": "Tiny POP3 daemon with security as the primary goal",
@@ -234102,7 +234122,7 @@
   "legacyPackages.x86_64-linux.python312Packages.plotnine": {
     "description": "Grammar of graphics for Python",
     "pname": "python3.12-plotnine",
-    "version": "0.14.5"
+    "version": "0.14.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.plotpy": {
     "description": "Curve and image plotting tools for Python/Qt applications",
@@ -241449,6 +241469,11 @@
     "pname": "python3.12-python-songpal",
     "version": "0.16.2"
   },
+  "legacyPackages.x86_64-linux.python312Packages.python-speech-features": {
+    "description": "Common speech features for ASR including MFCCs and filterbank energies",
+    "pname": "python3.12-python-speech-features",
+    "version": "0.6.1"
+  },
   "legacyPackages.x86_64-linux.python312Packages.python-sql": {
     "description": "Library to write SQL queries in a pythonic way",
     "pname": "python3.12-python-sql",
@@ -243912,7 +243937,7 @@
   "legacyPackages.x86_64-linux.python312Packages.robotframework": {
     "description": "Generic test automation framework",
     "pname": "python3.12-robotframework",
-    "version": "7.3"
+    "version": "7.3.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.robotframework-assertion-engine": {
     "description": "Generic way to create meaningful and easy to use assertions for the Robot Framework libraries",
@@ -253412,12 +253437,12 @@
   "legacyPackages.x86_64-linux.python312Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.12-uv",
-    "version": "0.7.14"
+    "version": "0.7.15"
   },
   "legacyPackages.x86_64-linux.python312Packages.uv-build": {
     "description": "A minimal build backend for uv",
     "pname": "python3.12-uv-build",
-    "version": "0.7.14"
+    "version": "0.7.15"
   },
   "legacyPackages.x86_64-linux.python312Packages.uv-dynamic-versioning": {
     "description": "Dynamic versioning based on VCS tags for uv/hatch project",
@@ -255418,6 +255443,11 @@
     "description": "Library to read weather data from ZAMG Austria",
     "pname": "python3.12-zamg",
     "version": "0.3.6"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.zammad-py": {
+    "description": "Python API client for accessing zammad REST API",
+    "pname": "python3.12-zammad-py",
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.zarr": {
     "description": "Implementation of chunked, compressed, N-dimensional arrays for Python",
@@ -284452,7 +284482,7 @@
   "legacyPackages.x86_64-linux.python313Packages.plotnine": {
     "description": "Grammar of graphics for Python",
     "pname": "python3.13-plotnine",
-    "version": "0.14.5"
+    "version": "0.14.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.plotpy": {
     "description": "Curve and image plotting tools for Python/Qt applications",
@@ -291799,6 +291829,11 @@
     "pname": "python3.13-python-songpal",
     "version": "0.16.2"
   },
+  "legacyPackages.x86_64-linux.python313Packages.python-speech-features": {
+    "description": "Common speech features for ASR including MFCCs and filterbank energies",
+    "pname": "python3.13-python-speech-features",
+    "version": "0.6.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.python-sql": {
     "description": "Library to write SQL queries in a pythonic way",
     "pname": "python3.13-python-sql",
@@ -294262,7 +294297,7 @@
   "legacyPackages.x86_64-linux.python313Packages.robotframework": {
     "description": "Generic test automation framework",
     "pname": "python3.13-robotframework",
-    "version": "7.3"
+    "version": "7.3.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.robotframework-assertion-engine": {
     "description": "Generic way to create meaningful and easy to use assertions for the Robot Framework libraries",
@@ -303807,12 +303842,12 @@
   "legacyPackages.x86_64-linux.python313Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.13-uv",
-    "version": "0.7.14"
+    "version": "0.7.15"
   },
   "legacyPackages.x86_64-linux.python313Packages.uv-build": {
     "description": "A minimal build backend for uv",
     "pname": "python3.13-uv-build",
-    "version": "0.7.14"
+    "version": "0.7.15"
   },
   "legacyPackages.x86_64-linux.python313Packages.uv-dynamic-versioning": {
     "description": "Dynamic versioning based on VCS tags for uv/hatch project",
@@ -305813,6 +305848,11 @@
     "description": "Library to read weather data from ZAMG Austria",
     "pname": "python3.13-zamg",
     "version": "0.3.6"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.zammad-py": {
+    "description": "Python API client for accessing zammad REST API",
+    "pname": "python3.13-zammad-py",
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.zarr": {
     "description": "Implementation of chunked, compressed, N-dimensional arrays for Python",
@@ -311113,6 +311153,11 @@
     "description": "Dynamic tiling wayland compositor",
     "pname": "river",
     "version": "0.3.10"
+  },
+  "legacyPackages.x86_64-linux.river-bedload": {
+    "description": "Display information about river in json in the STDOUT",
+    "pname": "river-bedload",
+    "version": "0.1.1-unstable-2025-03-19"
   },
   "legacyPackages.x86_64-linux.river-bnf": {
     "description": "Switch back'n'forth between river tags",
@@ -351982,7 +352027,7 @@
   "legacyPackages.x86_64-linux.slint-lsp": {
     "description": "Language Server Protocol (LSP) for Slint UI language",
     "pname": "slint-lsp",
-    "version": "1.12.0"
+    "version": "1.12.1"
   },
   "legacyPackages.x86_64-linux.slint-viewer": {
     "description": "Viewer for .slint files from the Slint Project",
@@ -356627,7 +356672,7 @@
   "legacyPackages.x86_64-linux.surrealdb": {
     "description": "Scalable, distributed, collaborative, document-graph database, for the realtime web",
     "pname": "surrealdb",
-    "version": "2.3.4"
+    "version": "2.3.5"
   },
   "legacyPackages.x86_64-linux.surrealdb-migrations": {
     "description": "Awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project",
@@ -359172,7 +359217,7 @@
   "legacyPackages.x86_64-linux.telegraf": {
     "description": "Plugin-driven server agent for collecting & reporting metrics",
     "pname": "telegraf",
-    "version": "1.35.0"
+    "version": "1.35.1"
   },
   "legacyPackages.x86_64-linux.telegram-bot-api": {
     "description": "Telegram Bot API server",
@@ -385837,7 +385882,7 @@
   "legacyPackages.x86_64-linux.tootik": {
     "description": "Federated nanoblogging service with a Gemini frontend",
     "pname": "tootik",
-    "version": "0.16.1"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.top-git": {
     "description": "TopGit manages large amount of interdependent topic branches",
@@ -388382,7 +388427,7 @@
   "legacyPackages.x86_64-linux.txtpbfmt": {
     "description": "Formatter for text proto files",
     "pname": "txtpbfmt",
-    "version": "0-unstable-2025-03-26"
+    "version": "0-unstable-2025-06-25"
   },
   "legacyPackages.x86_64-linux.txtw": {
     "description": "Compute text widths",
@@ -403567,7 +403612,7 @@
   "legacyPackages.x86_64-linux.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "uv",
-    "version": "0.7.14"
+    "version": "0.7.15"
   },
   "legacyPackages.x86_64-linux.uv-sort": {
     "description": "Sort uv's dependencies alphabetically",
@@ -408138,6 +408183,11 @@
     "description": "",
     "pname": "vimplugin-lightspeed.nvim",
     "version": "2023-12-01"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.lightswitch-nvim": {
+    "description": "",
+    "pname": "vimplugin-lightswitch.nvim",
+    "version": "2025-06-09"
   },
   "legacyPackages.x86_64-linux.vimPlugins.limelight-vim": {
     "description": "",
@@ -416947,12 +416997,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ban.spellright": {
     "description": "Visual Studio Code extension for Spellchecker",
     "pname": "vscode-extension-ban-spellright",
-    "version": "3.0.142"
+    "version": "3.0.144"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.banacorn.agda-mode": {
     "description": "agda-mode on VS Code",
     "pname": "vscode-extension-banacorn-agda-mode",
-    "version": "0.5.7"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.batisteo.vscode-django": {
     "description": "Django extension for Visual Studio Code",
@@ -417062,7 +417112,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.bradlc.vscode-tailwindcss": {
     "description": "Tailwind CSS tooling for Visual Studio Code",
     "pname": "vscode-extension-bradlc-vscode-tailwindcss",
-    "version": "0.14.21"
+    "version": "0.14.23"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.brandonkirbyson.solarized-palenight": {
     "description": " A solarized-palenight theme for vscode",
@@ -417187,7 +417237,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.csharpier.csharpier-vscode": {
     "description": "CSharpier code formatter for Visual Studio Code",
     "pname": "vscode-extension-csharpier-csharpier-vscode",
-    "version": "2.0.6"
+    "version": "2.0.7"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.cweijan.dbclient-jdbc": {
     "description": "JDBC Adapter For Database Client",
@@ -417207,7 +417257,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.danielsanmedium.dscodegpt": {
     "description": "Easily connect to AI providers using their official APIs in VSCode",
     "pname": "vscode-extension-DanielSanMedium-dscodegpt",
-    "version": "3.12.81"
+    "version": "3.12.89"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.daohong-emilio.yash": {
     "description": "",
@@ -417227,7 +417277,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.databricks.databricks": {
     "description": "Databricks extension for Visual Studio Code",
     "pname": "vscode-extension-databricks-databricks",
-    "version": "2.9.4"
+    "version": "2.10.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.davidanson.vscode-markdownlint": {
     "description": "Markdown linting and style checking for Visual Studio Code",
@@ -417447,7 +417497,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.foam.foam-vscode": {
     "description": "Personal knowledge management and sharing system for VSCode ",
     "pname": "vscode-extension-foam-foam-vscode",
-    "version": "0.26.11"
+    "version": "0.26.12"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.formulahendry.auto-close-tag": {
     "description": "",
@@ -417542,7 +417592,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.gitlab.gitlab-workflow": {
     "description": "GitLab extension for Visual Studio Code",
     "pname": "vscode-extension-gitlab-gitlab-workflow",
-    "version": "6.25.0"
+    "version": "6.28.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.gleam.gleam": {
     "description": "Support for the Gleam programming language",
@@ -417752,7 +417802,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.jnoortheen.nix-ide": {
     "description": "Nix language support with formatting and error report",
     "pname": "vscode-extension-jnoortheen-nix-ide",
-    "version": "0.4.18"
+    "version": "0.4.21"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.jock.svg": {
     "description": "",
@@ -417792,7 +417842,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.kahole.magit": {
     "description": "Magit for VSCode",
     "pname": "vscode-extension-kahole-magit",
-    "version": "0.6.66"
+    "version": "0.6.67"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.kalebpace.balena-vscode": {
     "description": "VS Code extension for integration with Balena",
@@ -418047,7 +418097,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.vscode-dotnet-runtime": {
     "description": "Provides a way for other Visual Studio Code extensions to install local versions of .NET SDK/Runtime",
     "pname": "vscode-extension-ms-dotnettools-vscode-dotnet-runtime",
-    "version": "2.3.5"
+    "version": "2.3.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.vscodeintellicode-csharp": {
     "description": "AI-assisted development features for C# in Visual Studio Code",
@@ -418557,7 +418607,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.smcpeak.default-keys-windows": {
     "description": "VSCode extension that provides default Windows keybindings on any platform",
     "pname": "vscode-extension-smcpeak-default-keys-windows",
-    "version": "0.0.10"
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.sonarsource.sonarlint-vscode": {
     "description": "",
@@ -418912,7 +418962,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.wakatime.vscode-wakatime": {
     "description": "Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity ",
     "pname": "vscode-extension-WakaTime-vscode-wakatime",
-    "version": "25.0.4"
+    "version": "25.0.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.wholroyd.jinja": {
     "description": "",
@@ -422449,6 +422499,11 @@
     "pname": "wpaperd",
     "version": "1.2.1"
   },
+  "legacyPackages.x86_64-linux.wpcleaner": {
+    "description": "An utility for performing maintenance on Wikipedia",
+    "pname": "wpcleaner",
+    "version": "2.0.5-unstable-2025-04-25"
+  },
   "legacyPackages.x86_64-linux.wpgtk": {
     "description": "Template based wallpaper/colorscheme generator and manager",
     "pname": "wpgtk",
@@ -422807,7 +422862,7 @@
   "legacyPackages.x86_64-linux.wyoming-piper": {
     "description": "Wyoming Server for Piper",
     "pname": "wyoming-piper",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   "legacyPackages.x86_64-linux.wyoming-satellite": {
     "description": "Remote voice satellite using Wyoming protocol",
