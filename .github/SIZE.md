@@ -2,7 +2,7 @@
  72M └─┬ main
  15M   ├── nixpkgs.json
  13M   ├── nixpkgs.yaml
- 10M   ├── index.html
+ 11M   ├── index.html
  10M   ├── README.md.txt
  10M   ├── README.md
  10M   ├── nixpkgs.txt
