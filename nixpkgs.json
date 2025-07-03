@@ -3817,7 +3817,7 @@
   "legacyPackages.x86_64-linux.alertmanager-ntfy": {
     "description": "Forwards Prometheus Alertmanager notifications to ntfy.sh",
     "pname": "alertmanager-ntfy",
-    "version": "0-unstable-2025-06-27"
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.alertmanager-webhook-logger": {
     "description": "Generates (structured) log messages from Prometheus AlertManager webhook notifier",
@@ -8647,7 +8647,7 @@
   "legacyPackages.x86_64-linux.apko": {
     "description": "Build OCI images using APK directly without Dockerfile",
     "pname": "apko",
-    "version": "0.27.9"
+    "version": "0.29.1"
   },
   "legacyPackages.x86_64-linux.apksigcopier": {
     "description": "Copy/extract/patch android apk signatures & compare APKs",
@@ -9037,7 +9037,7 @@
   "legacyPackages.x86_64-linux.aravis": {
     "description": "Library for video acquisition using GenICam cameras",
     "pname": "aravis",
-    "version": "0.8.34"
+    "version": "0.8.35"
   },
   "legacyPackages.x86_64-linux.arc-browser": {
     "description": "Arc from The Browser Company",
@@ -13752,7 +13752,7 @@
   "legacyPackages.x86_64-linux.bdf2psf": {
     "description": "BDF to PSF converter",
     "pname": "bdf2psf",
-    "version": "1.237"
+    "version": "1.239"
   },
   "legacyPackages.x86_64-linux.bdf2sfd": {
     "description": "BDF to SFD converter",
@@ -18112,7 +18112,7 @@
   "legacyPackages.x86_64-linux.caido": {
     "description": "Lightweight web security auditing toolkit",
     "pname": "caido",
-    "version": "0.48.1"
+    "version": "0.49.0"
   },
   "legacyPackages.x86_64-linux.cairo": {
     "description": "2D graphics library with support for multiple output devices",
@@ -20607,7 +20607,7 @@
   "legacyPackages.x86_64-linux.charmcraft": {
     "description": "Build and publish Charmed Operators for deployment with Juju",
     "pname": "charmcraft",
-    "version": "3.5.1"
+    "version": "3.5.2"
   },
   "legacyPackages.x86_64-linux.chars": {
     "description": "Commandline tool to display information about unicode characters",
@@ -25837,7 +25837,7 @@
   "legacyPackages.x86_64-linux.cockpit": {
     "description": "Web-based graphical interface for servers",
     "pname": "cockpit",
-    "version": "340"
+    "version": "341.1"
   },
   "legacyPackages.x86_64-linux.cockroachdb": {
     "description": "Scalable, survivable, strongly-consistent SQL database",
@@ -26928,6 +26928,11 @@
     "description": "Conventional commit cli",
     "pname": "convco",
     "version": "0.6.1"
+  },
+  "legacyPackages.x86_64-linux.converged-security-suite": {
+    "description": "Converged Security Suite for Intel & AMD platform security features",
+    "pname": "converged-security-suite",
+    "version": "2.8.1"
   },
   "legacyPackages.x86_64-linux.converseen": {
     "description": "Batch image converter and resizer",
@@ -33222,7 +33227,7 @@
   "legacyPackages.x86_64-linux.devenv": {
     "description": "Fast, Declarative, Reproducible, and Composable Developer Environments",
     "pname": "devenv",
-    "version": "1.6.1"
+    "version": "1.7"
   },
   "legacyPackages.x86_64-linux.devhelp": {
     "description": "API documentation browser for GNOME",
@@ -43262,12 +43267,12 @@
   "legacyPackages.x86_64-linux.fleet": {
     "description": "CLI tool to launch Fleet server",
     "pname": "fleet",
-    "version": "4.69.0"
+    "version": "4.70.0"
   },
   "legacyPackages.x86_64-linux.fleetctl": {
     "description": "CLI tool for managing Fleet",
     "pname": "fleetctl",
-    "version": "4.69.0"
+    "version": "4.70.0"
   },
   "legacyPackages.x86_64-linux.fleeting-plugin-aws": {
     "description": "GitLab fleeting plugin for AWS",
@@ -47267,7 +47272,7 @@
   "legacyPackages.x86_64-linux.gh-dash": {
     "description": "Github Cli extension to display a dashboard with pull requests and issues",
     "pname": "gh-dash",
-    "version": "4.16.0"
+    "version": "4.16.1"
   },
   "legacyPackages.x86_64-linux.gh-eco": {
     "description": "gh extension to explore the ecosystem",
@@ -48112,7 +48117,7 @@
   "legacyPackages.x86_64-linux.git-gamble": {
     "description": "Tool that blends TDD (Test Driven Development) + TCR (`test && commit || revert`)",
     "pname": "git-gamble",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.git-get": {
     "description": "Better way to clone, organize and manage multiple git repositories",
@@ -58077,7 +58082,7 @@
   "legacyPackages.x86_64-linux.grpc-client-cli": {
     "description": "generic gRPC command line client",
     "pname": "grpc-client-cli",
-    "version": "1.22.3"
+    "version": "1.22.4"
   },
   "legacyPackages.x86_64-linux.grpc-gateway": {
     "description": "GRPC to JSON proxy generator plugin for Google Protocol Buffers",
@@ -79877,7 +79882,7 @@
   "legacyPackages.x86_64-linux.lact": {
     "description": "Linux GPU Configuration Tool for AMD and NVIDIA",
     "pname": "lact",
-    "version": "0.7.4"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.lacus": {
     "description": "Capturing system using playwright",
@@ -85172,7 +85177,7 @@
   "legacyPackages.x86_64-linux.libretro.genesis-plus-gx": {
     "description": "Enhanced Genesis Plus libretro port",
     "pname": "libretro-genesis-plus-gx",
-    "version": "0-unstable-2025-06-22"
+    "version": "0-unstable-2025-06-27"
   },
   "legacyPackages.x86_64-linux.libretro.gpsp": {
     "description": "Port of gpSP to libretro",
@@ -136822,7 +136827,7 @@
   "legacyPackages.x86_64-linux.matrix-alertmanager-receiver": {
     "description": "Alertmanager client that forwards alerts to a Matrix room",
     "pname": "matrix-alertmanager-receiver",
-    "version": "2025.5.21"
+    "version": "2025.7.2"
   },
   "legacyPackages.x86_64-linux.matrix-appservice-discord": {
     "description": "Bridge between Matrix and Discord",
@@ -136982,7 +136987,7 @@
   "legacyPackages.x86_64-linux.mattermost-desktop": {
     "description": "Mattermost Desktop client",
     "pname": "mattermost-desktop",
-    "version": "5.11.2"
+    "version": "5.12.1"
   },
   "legacyPackages.x86_64-linux.mattermostLatest": {
     "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle",
@@ -140987,7 +140992,7 @@
   "legacyPackages.x86_64-linux.morewaita-icon-theme": {
     "description": "Adwaita style extra icons theme for Gnome Shell",
     "pname": "morewaita-icon-theme",
-    "version": "48.2"
+    "version": "48.3"
   },
   "legacyPackages.x86_64-linux.morf": {
     "description": "Offensive mobile security tool designed to identify and address sensitive information",
@@ -145177,12 +145182,12 @@
   "legacyPackages.x86_64-linux.nexusmods-app": {
     "description": "Game mod installer, creator and manager",
     "pname": "nexusmods-app",
-    "version": "0.12.3"
+    "version": "0.13.4"
   },
   "legacyPackages.x86_64-linux.nexusmods-app-unfree": {
     "description": "Game mod installer, creator and manager",
     "pname": "nexusmods-app-unfree",
-    "version": "0.12.3"
+    "version": "0.13.4"
   },
   "legacyPackages.x86_64-linux.nezha": {
     "description": "Self-hosted, lightweight server and website monitoring and O&M tool",
@@ -211357,7 +211362,7 @@
   "legacyPackages.x86_64-linux.python312Packages.craft-application": {
     "description": "Basis for Canonical craft applications",
     "pname": "python3.12-craft-application",
-    "version": "5.3.0"
+    "version": "5.4.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.craft-archives": {
     "description": "Library for handling archives/repositories in Canonical craft applications",
@@ -211377,7 +211382,7 @@
   "legacyPackages.x86_64-linux.python312Packages.craft-parts": {
     "description": "Software artifact parts builder from Canonical",
     "pname": "python3.12-craft-parts",
-    "version": "2.14.0"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.craft-platforms": {
     "description": "Manage platforms and architectures for charm applications",
@@ -211392,7 +211397,7 @@
   "legacyPackages.x86_64-linux.python312Packages.craft-store": {
     "description": "Interfaces for communicating with Canonical Stores (e.g. Snap Store)",
     "pname": "python3.12-craft-store",
-    "version": "3.2.2"
+    "version": "3.3.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.cram": {
     "description": "Simple testing framework for command line applications",
@@ -248027,7 +248032,7 @@
   "legacyPackages.x86_64-linux.python312Packages.torchio": {
     "description": "Medical imaging toolkit for deep learning",
     "pname": "python3.12-torchio",
-    "version": "0.20.6"
+    "version": "0.20.16"
   },
   "legacyPackages.x86_64-linux.python312Packages.torchlibrosa": {
     "description": "PyTorch implemention of part of librosa functions",
@@ -252034,6 +252039,11 @@
     "pname": "python3.12-usbtmc",
     "version": "0.8"
   },
+  "legacyPackages.x86_64-linux.python312Packages.useful-types": {
+    "description": "Useful types for Python",
+    "pname": "python3.12-useful-types",
+    "version": "0.2.1"
+  },
   "legacyPackages.x86_64-linux.python312Packages.user-agents": {
     "description": "Python library to identify devices by parsing user agent strings",
     "pname": "python3.12-user-agents",
@@ -253692,7 +253702,7 @@
   "legacyPackages.x86_64-linux.python312Packages.xonsh": {
     "description": "Python-ish, BASHwards-compatible shell",
     "pname": "python3.12-xonsh",
-    "version": "0.19.4"
+    "version": "0.19.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.xpath-expressions": {
     "description": "Python module to handle XPath expressions",
@@ -261822,7 +261832,7 @@
   "legacyPackages.x86_64-linux.python313Packages.craft-application": {
     "description": "Basis for Canonical craft applications",
     "pname": "python3.13-craft-application",
-    "version": "5.3.0"
+    "version": "5.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.craft-archives": {
     "description": "Library for handling archives/repositories in Canonical craft applications",
@@ -261842,7 +261852,7 @@
   "legacyPackages.x86_64-linux.python313Packages.craft-parts": {
     "description": "Software artifact parts builder from Canonical",
     "pname": "python3.13-craft-parts",
-    "version": "2.14.0"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.craft-platforms": {
     "description": "Manage platforms and architectures for charm applications",
@@ -261857,7 +261867,7 @@
   "legacyPackages.x86_64-linux.python313Packages.craft-store": {
     "description": "Interfaces for communicating with Canonical Stores (e.g. Snap Store)",
     "pname": "python3.13-craft-store",
-    "version": "3.2.2"
+    "version": "3.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.cram": {
     "description": "Simple testing framework for command line applications",
@@ -298537,7 +298547,7 @@
   "legacyPackages.x86_64-linux.python313Packages.torchio": {
     "description": "Medical imaging toolkit for deep learning",
     "pname": "python3.13-torchio",
-    "version": "0.20.6"
+    "version": "0.20.16"
   },
   "legacyPackages.x86_64-linux.python313Packages.torchlibrosa": {
     "description": "PyTorch implemention of part of librosa functions",
@@ -302544,6 +302554,11 @@
     "pname": "python3.13-usbtmc",
     "version": "0.8"
   },
+  "legacyPackages.x86_64-linux.python313Packages.useful-types": {
+    "description": "Useful types for Python",
+    "pname": "python3.13-useful-types",
+    "version": "0.2.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.user-agents": {
     "description": "Python library to identify devices by parsing user agent strings",
     "pname": "python3.13-user-agents",
@@ -304202,7 +304217,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xonsh": {
     "description": "Python-ish, BASHwards-compatible shell",
     "pname": "python3.13-xonsh",
-    "version": "0.19.4"
+    "version": "0.19.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.xpath-expressions": {
     "description": "Python module to handle XPath expressions",
@@ -349532,7 +349547,7 @@
   "legacyPackages.x86_64-linux.sherlock-launcher": {
     "description": "Lightweight and efficient application launcher for Wayland built with Rust and GTK4",
     "pname": "sherlock-launcher",
-    "version": "0.1.13-hotfix-1"
+    "version": "0.1.13-hotfix-2"
   },
   "legacyPackages.x86_64-linux.sherpa": {
     "description": "Monte Carlo event generator for the Simulation of High-Energy Reactions of PArticles",
@@ -352447,7 +352462,7 @@
   "legacyPackages.x86_64-linux.sparrow": {
     "description": "Modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability",
     "pname": "sparrow",
-    "version": "2.2.1"
+    "version": "2.2.3"
   },
   "legacyPackages.x86_64-linux.sparrow3d": {
     "description": "Software renderer for different open handhelds like the gp2x, wiz, caanoo and pandora",
@@ -352877,7 +352892,7 @@
   "legacyPackages.x86_64-linux.splitcode": {
     "description": "Tool for flexible, efficient parsing, interpreting, and editing of technical sequences in sequencing reads",
     "pname": "splitcode",
-    "version": "0.31.2"
+    "version": "0.31.3"
   },
   "legacyPackages.x86_64-linux.splix": {
     "description": "CUPS drivers for SPL (Samsung Printer Language) printers",
@@ -357972,7 +357987,7 @@
   "legacyPackages.x86_64-linux.teleport": {
     "description": "Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",
     "pname": "teleport",
-    "version": "17.5.1"
+    "version": "17.5.3"
   },
   "legacyPackages.x86_64-linux.teleport_16": {
     "description": "Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",
@@ -357982,7 +357997,7 @@
   "legacyPackages.x86_64-linux.teleport_17": {
     "description": "Certificate authority and access plane for SSH, Kubernetes, web applications, and databases",
     "pname": "teleport",
-    "version": "17.5.1"
+    "version": "17.5.3"
   },
   "legacyPackages.x86_64-linux.telepresence": {
     "description": "Local development against a remote Kubernetes or OpenShift cluster",
@@ -382952,7 +382967,7 @@
   "legacyPackages.x86_64-linux.texturepacker": {
     "description": "Sprite sheet creator and game graphics optimizer",
     "pname": "texturepacker",
-    "version": "7.7.1"
+    "version": "7.8.0"
   },
   "legacyPackages.x86_64-linux.texworks": {
     "description": "Simple TeX front-end program inspired by TeXShop",
@@ -383297,12 +383312,12 @@
   "legacyPackages.x86_64-linux.thunderbird-128": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird",
-    "version": "128.11.1esr"
+    "version": "128.12.0esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-128-unwrapped": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "128.11.1esr"
+    "version": "128.12.0esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
@@ -383312,7 +383327,7 @@
   "legacyPackages.x86_64-linux.thunderbird-esr": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird",
-    "version": "128.11.1esr"
+    "version": "128.12.0esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-esr-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
@@ -383327,7 +383342,7 @@
   "legacyPackages.x86_64-linux.thunderbird-esr-unwrapped": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "128.11.1esr"
+    "version": "128.12.0esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-latest": {
     "description": "Full-featured e-mail client",
@@ -383362,12 +383377,12 @@
   "legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-128": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "128.11.1esr"
+    "version": "128.12.0esr"
   },
   "legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-esr": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "128.11.1esr"
+    "version": "128.12.0esr"
   },
   "legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-latest": {
     "description": "Full-featured e-mail client",
@@ -387362,7 +387377,7 @@
   "legacyPackages.x86_64-linux.ty": {
     "description": "Extremely fast Python type checker and language server, written in Rust",
     "pname": "ty",
-    "version": "0.0.1-alpha.12"
+    "version": "0.0.1-alpha.13"
   },
   "legacyPackages.x86_64-linux.tydra": {
     "description": "Shortcut menu-based task runner, inspired by Emacs Hydra",
@@ -404732,7 +404747,7 @@
   "legacyPackages.x86_64-linux.vectorcode": {
     "description": "Code repository indexing tool to supercharge your LLM experience",
     "pname": "vectorcode",
-    "version": "0.6.12"
+    "version": "0.7.4"
   },
   "legacyPackages.x86_64-linux.vectoroids": {
     "description": "Clone of the classic arcade game Asteroids by Atari",
@@ -406143,6 +406158,11 @@
     "description": "",
     "pname": "vimplugin-claude-code.nvim",
     "version": "2025-06-10"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.claudecode-nvim": {
+    "description": "",
+    "pname": "vimplugin-claudecode.nvim",
+    "version": "2025-06-21"
   },
   "legacyPackages.x86_64-linux.vimPlugins.clever-f-vim": {
     "description": "",
@@ -413857,7 +413877,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vectorcode-nvim": {
     "description": "Index and navigate your code repository using vectorcode",
     "pname": "vimplugin-vectorcode.nvim",
-    "version": "0.6.12"
+    "version": "0.7.4"
   },
   "legacyPackages.x86_64-linux.vimPlugins.venn-nvim": {
     "description": "",
@@ -423017,7 +423037,7 @@
   "legacyPackages.x86_64-linux.wrangler": {
     "description": "Command-line interface for all things Cloudflare Workers",
     "pname": "wrangler",
-    "version": "4.20.5"
+    "version": "4.22.0"
   },
   "legacyPackages.x86_64-linux.wrangler_1": {
     "description": "CLI tool designed for folks who are interested in using Cloudflare Workers",
@@ -425072,12 +425092,12 @@
   "legacyPackages.x86_64-linux.xonsh": {
     "description": "Python-ish, BASHwards-compatible shell",
     "pname": "xonsh",
-    "version": "0.19.4"
+    "version": "0.19.9"
   },
   "legacyPackages.x86_64-linux.xonsh-unwrapped": {
     "description": "Python-ish, BASHwards-compatible shell",
     "pname": "python3.13-xonsh",
-    "version": "0.19.4"
+    "version": "0.19.9"
   },
   "legacyPackages.x86_64-linux.xorex": {
     "description": "XOR Key Extractor",
@@ -428732,7 +428752,7 @@
   "legacyPackages.x86_64-linux.zigbee2mqtt_2": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.5.0"
+    "version": "2.5.1"
   },
   "legacyPackages.x86_64-linux.zigimports": {
     "description": "Automatically remove unused imports and globals from Zig files",
