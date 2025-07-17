@@ -1827,7 +1827,7 @@
   "legacyPackages.x86_64-linux.airwindows": {
     "description": "All Airwindows VST Plugins",
     "pname": "airwindows",
-    "version": "0-unstable-2025-06-28"
+    "version": "0-unstable-2025-07-06"
   },
   "legacyPackages.x86_64-linux.airwindows-lv2": {
     "description": "Airwindows plugins (ported to LV2)",
@@ -4422,7 +4422,7 @@
   "legacyPackages.x86_64-linux.amnezia-vpn": {
     "description": "Amnezia VPN Client",
     "pname": "amnezia-vpn",
-    "version": "4.8.6.0"
+    "version": "4.8.8.3"
   },
   "legacyPackages.x86_64-linux.amneziawg-go": {
     "description": "Userspace Go implementation of AmneziaWG",
@@ -4462,7 +4462,7 @@
   "legacyPackages.x86_64-linux.amp-cli": {
     "description": "CLI for Amp, an agentic coding agent in research preview from Sourcegraph",
     "pname": "amp-cli",
-    "version": "0.0.1750924878-gfee7d7"
+    "version": "0.0.1752566512-ga67426"
   },
   "legacyPackages.x86_64-linux.amphetype": {
     "description": "Advanced typing practice program",
@@ -4567,7 +4567,7 @@
   "legacyPackages.x86_64-linux.andcli": {
     "description": "2FA TUI for your shell",
     "pname": "andcli",
-    "version": "2.2.0"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.anders": {
     "description": "Modal Homotopy Type System",
@@ -9107,12 +9107,12 @@
   "legacyPackages.x86_64-linux.archipelago": {
     "description": "Multi-Game Randomizer and Server",
     "pname": "archipelago",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.archipelago-minecraft": {
     "description": "Multi-Game Randomizer and Server",
     "pname": "archipelago",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.archivebox": {
     "description": "Open source self-hosted web archiving",
@@ -9222,7 +9222,7 @@
   "legacyPackages.x86_64-linux.ares": {
     "description": "Open-source multi-system emulator with a focus on accuracy and preservation",
     "pname": "ares",
-    "version": "144"
+    "version": "145"
   },
   "legacyPackages.x86_64-linux.ares-cli": {
     "description": "Collection of commands used for creating, packaging, installing, and launching web apps for LG webOS TV",
@@ -10962,12 +10962,12 @@
   "legacyPackages.x86_64-linux.audacious": {
     "description": "Lightweight and versatile audio player",
     "pname": "audacious",
-    "version": "4.4.2"
+    "version": "4.5"
   },
   "legacyPackages.x86_64-linux.audacious-bare": {
     "description": "Lightweight and versatile audio player",
     "pname": "audacious",
-    "version": "4.4.2"
+    "version": "4.5"
   },
   "legacyPackages.x86_64-linux.audacious-plugins": {
     "description": "Plugins for Audacious music player",
@@ -11322,7 +11322,7 @@
   "legacyPackages.x86_64-linux.automatic-timezoned": {
     "description": "Automatically update system timezone based on location",
     "pname": "automatic-timezoned",
-    "version": "2.0.80"
+    "version": "2.0.82"
   },
   "legacyPackages.x86_64-linux.automaticcomponenttoolkit": {
     "description": "Toolkit to automatically generate software components: abstract API, implementation stubs and language bindings",
@@ -13507,7 +13507,7 @@
   "legacyPackages.x86_64-linux.basiliskii": {
     "description": "68k Macintosh emulator",
     "pname": "basiliskii-unstable",
-    "version": "2022-09-30"
+    "version": "2025-07-16"
   },
   "legacyPackages.x86_64-linux.basilk": {
     "description": "Terminal User Interface (TUI) to manage your tasks with minimal kanban logic",
@@ -14532,7 +14532,7 @@
   "legacyPackages.x86_64-linux.beeper": {
     "description": "Universal chat app",
     "pname": "beeper",
-    "version": "4.0.779"
+    "version": "4.0.821"
   },
   "legacyPackages.x86_64-linux.beeper-bridge-manager": {
     "description": "Tool for running self-hosted bridges with the Beeper Matrix server.",
@@ -17857,7 +17857,7 @@
   "legacyPackages.x86_64-linux.byedpi": {
     "description": "SOCKS proxy server implementing some DPI bypass methods",
     "pname": "byedpi",
-    "version": "0.17.1"
+    "version": "0.17.2"
   },
   "legacyPackages.x86_64-linux.byobu": {
     "description": "Text-based window manager and terminal multiplexer",
@@ -18977,7 +18977,7 @@
   "legacyPackages.x86_64-linux.cargo-llvm-lines": {
     "description": "Count the number of lines of LLVM IR across all instantiations of a generic function",
     "pname": "cargo-llvm-lines",
-    "version": "0.4.42"
+    "version": "0.4.43"
   },
   "legacyPackages.x86_64-linux.cargo-local-registry": {
     "description": "Cargo subcommand to manage local registries",
@@ -19032,7 +19032,7 @@
   "legacyPackages.x86_64-linux.cargo-nextest": {
     "description": "Next-generation test runner for Rust projects",
     "pname": "cargo-nextest",
-    "version": "0.9.99"
+    "version": "0.9.100"
   },
   "legacyPackages.x86_64-linux.cargo-outdated": {
     "description": "Cargo subcommand for displaying when Rust dependencies are out of date",
@@ -19157,7 +19157,7 @@
   "legacyPackages.x86_64-linux.cargo-sonar": {
     "description": "Utility to produce some Sonar-compatible format from different Rust tools like cargo-clippy cargo-audit or cargo-outdated",
     "pname": "cargo-sonar",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.cargo-sort": {
     "description": "Tool to check that your Cargo.toml dependencies are sorted alphabetically",
@@ -19192,7 +19192,7 @@
   "legacyPackages.x86_64-linux.cargo-tally": {
     "description": "Graph the number of crates that depend on your crate over time",
     "pname": "cargo-tally",
-    "version": "1.0.65"
+    "version": "1.0.66"
   },
   "legacyPackages.x86_64-linux.cargo-tarpaulin": {
     "description": "Code coverage tool for Rust projects",
@@ -20692,7 +20692,7 @@
   "legacyPackages.x86_64-linux.chatbox": {
     "description": "AI client application and smart assistant",
     "pname": "chatbox",
-    "version": "1.14.3"
+    "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.chatd": {
     "description": "Chat with your documents using local AI",
@@ -24232,12 +24232,12 @@
   "legacyPackages.x86_64-linux.chromedriver": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "chromedriver-unwrapped",
-    "version": "138.0.7204.100"
+    "version": "138.0.7204.157"
   },
   "legacyPackages.x86_64-linux.chromium": {
     "description": "Open source web browser from Google",
     "pname": "chromium",
-    "version": "138.0.7204.100"
+    "version": "138.0.7204.157"
   },
   "legacyPackages.x86_64-linux.chromium-bsu": {
     "description": "Fast paced, arcade-style, top-scrolling space shooter",
@@ -25687,7 +25687,7 @@
   "legacyPackages.x86_64-linux.cmctl": {
     "description": "Command line utility to interact with a cert-manager instalation on Kubernetes",
     "pname": "cmctl",
-    "version": "2.2.0"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.cmd-polkit": {
     "description": "Easily create polkit authentication agents by using commands",
@@ -28192,7 +28192,7 @@
   "legacyPackages.x86_64-linux.cowsql": {
     "description": "Embeddable, replicated and fault tolerant SQL engine",
     "pname": "cowsql",
-    "version": "1.15.8"
+    "version": "1.15.9"
   },
   "legacyPackages.x86_64-linux.coyim": {
     "description": "Safe and secure chat client",
@@ -29282,7 +29282,7 @@
   "legacyPackages.x86_64-linux.cubeb": {
     "description": "Cross platform audio library",
     "pname": "cubeb",
-    "version": "0-unstable-2025-06-16"
+    "version": "0-unstable-2025-07-10"
   },
   "legacyPackages.x86_64-linux.cubicle": {
     "description": "Open source model checker for verifying safety properties of array-based systems",
@@ -32332,7 +32332,7 @@
   "legacyPackages.x86_64-linux.ddns-go": {
     "description": "Simple and easy to use DDNS",
     "pname": "ddns-go",
-    "version": "6.11.2"
+    "version": "6.11.3"
   },
   "legacyPackages.x86_64-linux.ddns-updater": {
     "description": "Container to update DNS records periodically with WebUI for many DNS providers",
@@ -33062,12 +33062,12 @@
   "legacyPackages.x86_64-linux.deltachat-repl": {
     "description": "Delta Chat CLI client",
     "pname": "deltachat-repl",
-    "version": "1.160.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.deltachat-rpc-server": {
     "description": "Delta Chat RPC server exposing JSON-RPC core API over standard I/O",
     "pname": "deltachat-rpc-server",
-    "version": "1.160.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.deltatouch": {
     "description": "Messaging app for Ubuntu Touch, powered by Delta Chat core",
@@ -33567,7 +33567,7 @@
   "legacyPackages.x86_64-linux.dhcpcd": {
     "description": "Client for the Dynamic Host Configuration Protocol (DHCP)",
     "pname": "dhcpcd",
-    "version": "10.1.0"
+    "version": "10.2.4"
   },
   "legacyPackages.x86_64-linux.dhcpdump": {
     "description": "Tool for visualization of DHCP packets as recorded and output by tcpdump to analyze DHCP server responses",
@@ -35037,12 +35037,12 @@
   "legacyPackages.x86_64-linux.docling": {
     "description": "Get your documents ready for gen AI",
     "pname": "docling",
-    "version": "2.31.2"
+    "version": "2.41.0"
   },
   "legacyPackages.x86_64-linux.docling-serve": {
     "description": "Running Docling as an API service",
     "pname": "docling-serve",
-    "version": "0.11.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.docopt_cpp": {
     "description": "C++11 port of docopt",
@@ -36382,7 +36382,7 @@
   "legacyPackages.x86_64-linux.driversi686Linux.mesa": {
     "description": "Open source 3D graphics library",
     "pname": "mesa",
-    "version": "25.1.5"
+    "version": "25.1.6"
   },
   "legacyPackages.x86_64-linux.driversi686Linux.mesa-demos": {
     "description": "Collection of demos and test programs for OpenGL and Mesa",
@@ -38142,7 +38142,7 @@
   "legacyPackages.x86_64-linux.ejsonkms": {
     "description": "Integrates EJSON with AWS KMS",
     "pname": "ejsonkms",
-    "version": "0.2.5"
+    "version": "0.2.7"
   },
   "legacyPackages.x86_64-linux.ekam": {
     "description": "Build system (\"make\" in reverse)",
@@ -39712,7 +39712,7 @@
   "legacyPackages.x86_64-linux.erofs-utils": {
     "description": "Userspace utilities for linux-erofs file system",
     "pname": "erofs-utils",
-    "version": "1.8.9"
+    "version": "1.8.10"
   },
   "legacyPackages.x86_64-linux.erosmb": {
     "description": "SMB network scanner",
@@ -39792,7 +39792,7 @@
   "legacyPackages.x86_64-linux.esp-generate": {
     "description": "Template generation tool to create no_std applications targeting Espressif's chips",
     "pname": "esp-generate",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.espanso": {
     "description": "Cross-platform Text Expander written in Rust",
@@ -39837,7 +39837,7 @@
   "legacyPackages.x86_64-linux.esphome": {
     "description": "Make creating custom firmwares for ESP32/ESP8266 super easy",
     "pname": "esphome",
-    "version": "2025.6.3"
+    "version": "2025.7.0"
   },
   "legacyPackages.x86_64-linux.espresso": {
     "description": "Multi-valued PLA minimization",
@@ -40692,7 +40692,7 @@
   "legacyPackages.x86_64-linux.fabric-ai": {
     "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere",
     "pname": "fabric-ai",
-    "version": "1.4.231"
+    "version": "1.4.247"
   },
   "legacyPackages.x86_64-linux.fabric-installer": {
     "description": "Lightweight, experimental modding toolchain for Minecraft",
@@ -42587,7 +42587,7 @@
   "legacyPackages.x86_64-linux.firefly-iii-data-importer": {
     "description": "Firefly III Data Importer can import data into Firefly III.",
     "pname": "firefly-iii-data-importer",
-    "version": "1.7.3"
+    "version": "1.7.6"
   },
   "legacyPackages.x86_64-linux.firefox": {
     "description": "Web browser built from Firefox source tree",
@@ -44917,12 +44917,12 @@
   "legacyPackages.x86_64-linux.frida-tools": {
     "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers (client tools)",
     "pname": "frida-tools",
-    "version": "14.4.0"
+    "version": "14.4.1"
   },
   "legacyPackages.x86_64-linux.frigate": {
     "description": "NVR with realtime local object detection for IP cameras",
     "pname": "frigate",
-    "version": "0.15.1"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.frink": {
     "description": "Practical calculating tool and programming language",
@@ -45057,7 +45057,7 @@
   "legacyPackages.x86_64-linux.fselect": {
     "description": "Find files with SQL-like queries",
     "pname": "fselect",
-    "version": "0.8.12"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.fsg": {
     "description": "Cellular automata engine tuned towards the likes of Falling Sand",
@@ -45972,7 +45972,7 @@
   "legacyPackages.x86_64-linux.gatekeeper": {
     "description": "Policy Controller for Kubernetes",
     "pname": "gatekeeper",
-    "version": "3.19.2"
+    "version": "3.19.3"
   },
   "legacyPackages.x86_64-linux.gatk": {
     "description": "Wide variety of tools with a primary focus on variant discovery and genotyping.",
@@ -47487,7 +47487,7 @@
   "legacyPackages.x86_64-linux.gh-f": {
     "description": "GitHub CLI ultimate FZF extension",
     "pname": "gh-f",
-    "version": "1.2.1"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.gh-gei": {
     "description": "Migration CLI for GitHub to GitHub migrations",
@@ -48497,7 +48497,7 @@
   "legacyPackages.x86_64-linux.git-recent": {
     "description": "See your latest local git branches, formatted real fancy",
     "pname": "git-recent",
-    "version": "2.0.2"
+    "version": "2.0.4"
   },
   "legacyPackages.x86_64-linux.git-releaser": {
     "description": "Tool for creating Git releases based on Semantic Versioning",
@@ -55477,7 +55477,7 @@
   "legacyPackages.x86_64-linux.go-dnscollector": {
     "description": "Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata.",
     "pname": "go-dnscollector",
-    "version": "1.8.0"
+    "version": "1.9.0"
   },
   "legacyPackages.x86_64-linux.go-dork": {
     "description": "Dork scanner",
@@ -56436,7 +56436,7 @@
   },
   "legacyPackages.x86_64-linux.gollama": {
     "description": "Go manage your Ollama models",
-    "pname": "gollama-v1.34.0",
+    "pname": "gollama-v1.34.1",
     "version": ""
   },
   "legacyPackages.x86_64-linux.gollum": {
@@ -57102,7 +57102,7 @@
   "legacyPackages.x86_64-linux.gowebly": {
     "description": "CLI tool to create web applications with Go backend",
     "pname": "gowebly",
-    "version": "3.0.4"
+    "version": "3.0.5"
   },
   "legacyPackages.x86_64-linux.gowitness": {
     "description": "Web screenshot utility",
@@ -58183,6 +58183,11 @@
     "description": "Rust tool to collect and aggregate code coverage data for multiple source files",
     "pname": "grcov",
     "version": "0.9.1"
+  },
+  "legacyPackages.x86_64-linux.greaseweazle": {
+    "description": "Tools for accessing a floppy drive at the raw flux level",
+    "pname": "greaseweazle",
+    "version": "1.22"
   },
   "legacyPackages.x86_64-linux.greed": {
     "description": "Game of Consumption",
@@ -60902,7 +60907,7 @@
   "legacyPackages.x86_64-linux.helix": {
     "description": "Post-modern modal text editor",
     "pname": "helix",
-    "version": "25.01.1"
+    "version": "25.07"
   },
   "legacyPackages.x86_64-linux.helix-gpt": {
     "description": "Code completion LSP for Helix with support for Copilot + OpenAI",
@@ -61522,7 +61527,7 @@
   "legacyPackages.x86_64-linux.hmcl": {
     "description": "Minecraft Launcher which is multi-functional, cross-platform and popular",
     "pname": "hmcl",
-    "version": "3.6.13"
+    "version": "3.6.14"
   },
   "legacyPackages.x86_64-linux.hmm": {
     "description": "Small command-line note-taking app",
@@ -69367,7 +69372,7 @@
   "legacyPackages.x86_64-linux.icewm": {
     "description": "Simple, lightweight X window manager",
     "pname": "icewm",
-    "version": "3.8.0"
+    "version": "3.8.1"
   },
   "legacyPackages.x86_64-linux.icinga2": {
     "description": "Open source monitoring system",
@@ -69932,7 +69937,7 @@
   "legacyPackages.x86_64-linux.imagemagick": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
     "pname": "imagemagick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.imagemagick6": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
@@ -69952,12 +69957,12 @@
   "legacyPackages.x86_64-linux.imagemagickBig": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
     "pname": "imagemagick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.imagemagick_light": {
     "description": "Software suite to create, edit, compose, or convert bitmap images",
     "pname": "imagemagick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.imager": {
     "description": "Interferometric imaging package",
@@ -70157,7 +70162,7 @@
   "legacyPackages.x86_64-linux.immich-public-proxy": {
     "description": "Share your Immich photos and albums in a safe way without exposing your Immich instance to the public",
     "pname": "immich-public-proxy",
-    "version": "1.11.3"
+    "version": "1.11.5"
   },
   "legacyPackages.x86_64-linux.immudb": {
     "description": "Immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history",
@@ -70922,7 +70927,7 @@
   "legacyPackages.x86_64-linux.inputplumber": {
     "description": "Open source input router and remapper daemon for Linux",
     "pname": "inputplumber",
-    "version": "0.59.2"
+    "version": "0.60.2"
   },
   "legacyPackages.x86_64-linux.inql": {
     "description": "Security testing tool for GraphQL",
@@ -74677,7 +74682,7 @@
   "legacyPackages.x86_64-linux.kargo": {
     "description": "Application lifecycle orchestration",
     "pname": "kargo",
-    "version": "1.5.3"
+    "version": "1.6.1"
   },
   "legacyPackages.x86_64-linux.karla": {
     "description": "Outstanding grotesque sans serif typeface family",
@@ -77081,7 +77086,7 @@
   },
   "legacyPackages.x86_64-linux.kdePackages.qscintilla": {
     "description": "Qt port of the Scintilla text editing library",
-    "pname": "qscintilla-qt5",
+    "pname": "qscintilla-qt6",
     "version": "2.14.1"
   },
   "legacyPackages.x86_64-linux.kdePackages.qt-jdenticon": {
@@ -78257,7 +78262,7 @@
   "legacyPackages.x86_64-linux.kitty": {
     "description": "Fast, feature-rich, GPU based terminal emulator",
     "pname": "kitty",
-    "version": "0.42.1"
+    "version": "0.42.2"
   },
   "legacyPackages.x86_64-linux.kitty-img": {
     "description": "Print images inline in kitty",
@@ -79499,6 +79504,11 @@
     "pname": "krusader",
     "version": "2.9.0"
   },
+  "legacyPackages.x86_64-linux.kryoflux": {
+    "description": "Software UI to accompany KryoFlux, the renowned forensic floppy controller",
+    "pname": "kryoflux",
+    "version": ""
+  },
   "legacyPackages.x86_64-linux.kryptor": {
     "description": "Simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign",
     "pname": "kryptor",
@@ -80637,12 +80647,12 @@
   "legacyPackages.x86_64-linux.lasuite-meet": {
     "description": "Open source alternative to Google Meet and Zoom powered by LiveKit: HD video calls, screen sharing, and chat features. Built with Django and React",
     "pname": "lasuite-meet",
-    "version": "0.1.27"
+    "version": "0.1.28"
   },
   "legacyPackages.x86_64-linux.lasuite-meet-frontend": {
     "description": "Open source alternative to Google Meet and Zoom powered by LiveKit: HD video calls, screen sharing, and chat features. Built with Django and React",
     "pname": "lasuite-meet-frontend",
-    "version": "0.1.27"
+    "version": "0.1.28"
   },
   "legacyPackages.x86_64-linux.laszip": {
     "description": "Turn quickly bulky LAS files into compact LAZ files without information loss",
@@ -81182,7 +81192,7 @@
   "legacyPackages.x86_64-linux.leetgo": {
     "description": "Command-line tool for LeetCode",
     "pname": "leetgo",
-    "version": "1.4.14"
+    "version": "1.4.15"
   },
   "legacyPackages.x86_64-linux.left4gore-bin": {
     "description": "Memory patcher which adds the gore back into Left 4 Dead 2",
@@ -82527,7 +82537,7 @@
   "legacyPackages.x86_64-linux.libdeltachat": {
     "description": "Delta Chat Rust Core library",
     "pname": "libdeltachat",
-    "version": "1.160.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.libdevil": {
     "description": "Image library which can can load, save, convert, manipulate, filter and display a wide variety of image formats",
@@ -85487,7 +85497,7 @@
   "legacyPackages.x86_64-linux.libretro-shaders-slang": {
     "description": "Slang shaders for use with RetroArch's shader system",
     "pname": "libretro-shaders-slang",
-    "version": "0-unstable-2025-07-03"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.libretro.atari800": {
     "description": "Port of Atari800 to libretro",
@@ -91577,7 +91587,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -91588,6 +91598,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.10.239-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -92377,7 +92392,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -92388,6 +92403,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.10.238-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -93177,7 +93197,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -93188,6 +93208,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.15.188-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -93977,7 +94002,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -93988,6 +94013,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.15.185-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -94777,7 +94807,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -94788,6 +94818,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.4.295-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -95582,7 +95617,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -95593,6 +95628,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.4.294-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -96387,12 +96427,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.1.145-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -97182,7 +97227,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -97193,6 +97238,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.38-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -97982,7 +98032,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -97993,6 +98043,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.34-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -98782,7 +98837,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -98793,6 +98848,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -99582,12 +99642,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.1.141-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -100377,12 +100442,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.6.98-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -101172,12 +101242,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.6.94-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -101967,7 +102042,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -101978,6 +102053,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.34-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -102767,7 +102847,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -102778,6 +102858,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -103567,7 +103652,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -103578,6 +103663,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.38-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -104367,7 +104457,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -104378,6 +104468,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -105167,7 +105262,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -105178,6 +105273,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.37-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -105967,7 +106067,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -105978,6 +106078,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -106767,7 +106872,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -106778,6 +106883,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -107567,7 +107677,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -107578,6 +107688,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -108367,7 +108482,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -108378,6 +108493,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.38-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages-libre.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -109167,7 +109287,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -109178,6 +109298,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.38-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -109967,7 +110092,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -109978,6 +110103,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.10.238-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -110767,7 +110897,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -110778,6 +110908,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.15.185-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -111567,7 +111702,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.rtw89": {
     "description": " Driver for Realtek 8852AE, 8852BE, and 8853CE, 802.11ax devices",
@@ -111578,6 +111713,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "5.4.294-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -112372,7 +112512,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -112383,6 +112523,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.34-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -113172,12 +113317,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.1.141-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -113967,12 +114117,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.6.94-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -114767,7 +114922,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -114778,6 +114933,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.34-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_hardened.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -115567,7 +115727,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -115578,6 +115738,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_latest-libre.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -116367,7 +116532,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -116378,6 +116543,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_latest.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -117167,7 +117337,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -117178,6 +117348,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_lqx.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -117967,7 +118142,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -117978,6 +118153,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.12.37-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -118767,7 +118947,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -118778,6 +118958,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -119567,7 +119752,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -119578,6 +119763,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -120367,7 +120557,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
     "pname": "rtw88",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rust-out-of-tree-module": {
     "description": "Basic template for an out-of-tree Linux kernel module written in Rust",
@@ -120378,6 +120568,11 @@
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
     "version": "6.15.6-0.1.5-unstable-2025-06-04"
+  },
+  "legacyPackages.x86_64-linux.linuxPackages_zen.sheep-net": {
+    "description": "",
+    "pname": "sheep_net",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.shufflecake": {
     "description": "Plausible deniability (hidden storage) layer for Linux",
@@ -130757,7 +130952,7 @@
   "legacyPackages.x86_64-linux.lychee": {
     "description": "Fast, async, stream-based link checker written in Rust",
     "pname": "lychee",
-    "version": "0.18.1"
+    "version": "0.19.1"
   },
   "legacyPackages.x86_64-linux.lynis": {
     "description": "Security auditing tool for Linux, macOS, and UNIX-based systems",
@@ -132092,7 +132287,7 @@
   "legacyPackages.x86_64-linux.markdown-oxide": {
     "description": "Markdown LSP server inspired by Obsidian",
     "pname": "markdown-oxide",
-    "version": "0.25.3"
+    "version": "0.25.4"
   },
   "legacyPackages.x86_64-linux.markdown2html-converter": {
     "description": "Tool for converting a Markdown file to a single HTML file with built-in CSS and JS",
@@ -133317,7 +133512,7 @@
   "legacyPackages.x86_64-linux.mdbook": {
     "description": "Create books from MarkDown",
     "pname": "mdbook",
-    "version": "0.4.51"
+    "version": "0.4.52"
   },
   "legacyPackages.x86_64-linux.mdbook-admonish": {
     "description": "Preprocessor for mdbook to add Material Design admonishments",
@@ -133517,7 +133712,7 @@
   "legacyPackages.x86_64-linux.mdp": {
     "description": "Command-line based markdown presentation tool",
     "pname": "mdp",
-    "version": "1.0.15"
+    "version": "1.0.17"
   },
   "legacyPackages.x86_64-linux.mdq": {
     "description": "Like jq but for Markdown: find specific elements in a md doc",
@@ -134072,7 +134267,7 @@
   "legacyPackages.x86_64-linux.mesa": {
     "description": "Open source 3D graphics library",
     "pname": "mesa",
-    "version": "25.1.5"
+    "version": "25.1.6"
   },
   "legacyPackages.x86_64-linux.mesa-demos": {
     "description": "Collection of demos and test programs for OpenGL and Mesa",
@@ -134092,7 +134287,7 @@
   "legacyPackages.x86_64-linux.mesa_i686": {
     "description": "Open source 3D graphics library",
     "pname": "mesa",
-    "version": "25.1.5"
+    "version": "25.1.6"
   },
   "legacyPackages.x86_64-linux.mescc-tools": {
     "description": "Collection of tools written for use in bootstrapping",
@@ -135507,7 +135702,7 @@
   "legacyPackages.x86_64-linux.mint-themes": {
     "description": "Mint-X and Mint-Y themes for the cinnamon desktop",
     "pname": "mint-themes",
-    "version": "2.2.6"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.mint-x-icons": {
     "description": "Mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza",
@@ -136172,7 +136367,7 @@
   "legacyPackages.x86_64-linux.moar": {
     "description": "Nice-to-use pager for humans",
     "pname": "moar",
-    "version": "1.32.2"
+    "version": "1.32.3"
   },
   "legacyPackages.x86_64-linux.moarvm": {
     "description": "VM with adaptive optimization and JIT compilation, built for Rakudo",
@@ -136492,7 +136687,7 @@
   "legacyPackages.x86_64-linux.mongodb-atlas-cli": {
     "description": "CLI utility to manage MongoDB Atlas from the terminal",
     "pname": "mongodb-atlas-cli",
-    "version": "1.45.1"
+    "version": "1.46.2"
   },
   "legacyPackages.x86_64-linux.mongodb-ce": {
     "description": "MongoDB is a general purpose, document-based, distributed database.",
@@ -136702,7 +136897,7 @@
   "legacyPackages.x86_64-linux.moonlight": {
     "description": "Discord client modification, focused on enhancing user and developer experience",
     "pname": "moonlight",
-    "version": "1.3.22"
+    "version": "1.3.23"
   },
   "legacyPackages.x86_64-linux.moonlight-embedded": {
     "description": "Open source implementation of NVIDIA's GameStream",
@@ -138132,7 +138327,7 @@
   "legacyPackages.x86_64-linux.msmtp": {
     "description": "Simple and easy to use SMTP client with excellent sendmail compatibility",
     "pname": "msmtp",
-    "version": "1.8.26"
+    "version": "1.8.30"
   },
   "legacyPackages.x86_64-linux.msnake": {
     "description": "Multiplatform command line snake game",
@@ -138237,7 +138432,7 @@
   "legacyPackages.x86_64-linux.mtail": {
     "description": "Tool for extracting metrics from application logs",
     "pname": "mtail",
-    "version": "3.2.5"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.mtdev": {
     "description": "Multitouch Protocol Translation Library",
@@ -138857,7 +139052,7 @@
   "legacyPackages.x86_64-linux.mydumper": {
     "description": "High-performance MySQL backup tool",
     "pname": "mydumper",
-    "version": "0.19.3-2"
+    "version": "0.19.3-3"
   },
   "legacyPackages.x86_64-linux.myfitnesspal": {
     "description": "Python module to access meal tracking data stored in MyFitnessPal",
@@ -139072,7 +139267,7 @@
   "legacyPackages.x86_64-linux.naabu": {
     "description": "Fast SYN/CONNECT port scanner",
     "pname": "naabu",
-    "version": "2.3.4"
+    "version": "2.3.5"
   },
   "legacyPackages.x86_64-linux.nabi": {
     "description": "Easy Hangul XIM",
@@ -139087,7 +139282,7 @@
   "legacyPackages.x86_64-linux.naev": {
     "description": "2D action/rpg space game",
     "pname": "naev",
-    "version": "0.12.5"
+    "version": "0.12.6"
   },
   "legacyPackages.x86_64-linux.nafees": {
     "description": "OpenType Urdu font from the Center for Research in Urdu Language Processing",
@@ -140857,7 +141052,7 @@
   "legacyPackages.x86_64-linux.networkmanager": {
     "description": "Network configuration and management tool",
     "pname": "networkmanager",
-    "version": "1.52.0"
+    "version": "1.52.1"
   },
   "legacyPackages.x86_64-linux.networkmanager-fortisslvpn": {
     "description": "NetworkManager’s FortiSSL plugin",
@@ -141827,12 +142022,12 @@
   "legacyPackages.x86_64-linux.nix-ld": {
     "description": "Run unpatched dynamic binaries on NixOS",
     "pname": "nix-ld",
-    "version": "2.0.4"
+    "version": "2.0.5"
   },
   "legacyPackages.x86_64-linux.nix-ld-rs": {
     "description": "Run unpatched dynamic binaries on NixOS",
     "pname": "nix-ld",
-    "version": "2.0.4"
+    "version": "2.0.5"
   },
   "legacyPackages.x86_64-linux.nix-lib-nmd": {
     "description": "Documentation framework for projects based on NixOS modules",
@@ -142252,7 +142447,7 @@
   "legacyPackages.x86_64-linux.nixos-facter": {
     "description": "Declarative hardware configuration for NixOS",
     "pname": "nixos-facter",
-    "version": "0.4.0"
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.nixos-firewall-tool": {
     "description": "Tool to temporarily manipulate the NixOS firewall",
@@ -143272,7 +143467,7 @@
   "legacyPackages.x86_64-linux.nom": {
     "description": "RSS reader for the terminal",
     "pname": "nom",
-    "version": "2.10.0"
+    "version": "2.13.0"
   },
   "legacyPackages.x86_64-linux.nomachine-client": {
     "description": "NoMachine remote desktop client (nxplayer)",
@@ -144632,7 +144827,7 @@
   "legacyPackages.x86_64-linux.nwg-drawer": {
     "description": "Application drawer for sway Wayland compositor",
     "pname": "nwg-drawer",
-    "version": "0.7.1"
+    "version": "0.7.3"
   },
   "legacyPackages.x86_64-linux.nwg-hello": {
     "description": "GTK3-based greeter for the greetd daemon, written in python",
@@ -151692,12 +151887,12 @@
   "legacyPackages.x86_64-linux.olympus": {
     "description": "Cross-platform GUI Everest installer and Celeste mod manager",
     "pname": "olympus",
-    "version": "25.06.28.03"
+    "version": "25.07.12.01"
   },
   "legacyPackages.x86_64-linux.olympus-unwrapped": {
     "description": "Cross-platform GUI Everest installer and Celeste mod manager",
     "pname": "olympus-unwrapped",
-    "version": "25.06.28.03"
+    "version": "25.07.12.01"
   },
   "legacyPackages.x86_64-linux.om4": {
     "description": "Portable OpenBSD m4 macro processor",
@@ -153517,7 +153712,7 @@
   "legacyPackages.x86_64-linux.openstack-rs": {
     "description": "OpenStack CLI and TUI implemented in Rust",
     "pname": "openstack-rs",
-    "version": "0.12.3"
+    "version": "0.12.4"
   },
   "legacyPackages.x86_64-linux.openstackclient": {
     "description": "OpenStack Command-line Client",
@@ -157117,7 +157312,7 @@
   "legacyPackages.x86_64-linux.pdfid": {
     "description": "Scan a file to look for certain PDF keywords",
     "pname": "pdfid",
-    "version": "0.2.8"
+    "version": "0.2.10"
   },
   "legacyPackages.x86_64-linux.pdfium-binaries": {
     "description": "Binary distribution of PDFium",
@@ -157277,12 +157472,12 @@
   "legacyPackages.x86_64-linux.pds": {
     "description": "Bluesky Personal Data Server (PDS)",
     "pname": "pds",
-    "version": "0.4.107"
+    "version": "0.4.158"
   },
   "legacyPackages.x86_64-linux.pdsadmin": {
     "description": "Admin scripts for Bluesky Personal Data Server (PDS)",
     "pname": "pdsadmin",
-    "version": "0.4.107"
+    "version": "0.4.158"
   },
   "legacyPackages.x86_64-linux.pdsh": {
     "description": "High-performance, parallel remote shell utility",
@@ -161782,7 +161977,7 @@
   "legacyPackages.x86_64-linux.perl538Packages.ImageMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.38.2-Image-Magick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.perl538Packages.ImageOCRTesseract": {
     "description": "Read an image with tesseract ocr and get output",
@@ -164242,7 +164437,7 @@
   "legacyPackages.x86_64-linux.perl538Packages.PerlMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.38.2-Image-Magick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.perl538Packages.PerlMinimumVersion": {
     "description": "Find a minimum required version of perl for Perl code",
@@ -171497,7 +171692,7 @@
   "legacyPackages.x86_64-linux.perl540Packages.ImageMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.perl540Packages.ImageOCRTesseract": {
     "description": "Read an image with tesseract ocr and get output",
@@ -173957,7 +174152,7 @@
   "legacyPackages.x86_64-linux.perl540Packages.PerlMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.perl540Packages.PerlMinimumVersion": {
     "description": "Find a minimum required version of perl for Perl code",
@@ -181207,7 +181402,7 @@
   "legacyPackages.x86_64-linux.perlPackages.ImageMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.perlPackages.ImageOCRTesseract": {
     "description": "Read an image with tesseract ocr and get output",
@@ -183667,7 +183862,7 @@
   "legacyPackages.x86_64-linux.perlPackages.PerlMagick": {
     "description": "Objected-oriented Perl interface to ImageMagick. Use it to read, manipulate, or write an image or image sequence from within a Perl script",
     "pname": "perl5.40.0-Image-Magick",
-    "version": "7.1.1-47"
+    "version": "7.1.2-0"
   },
   "legacyPackages.x86_64-linux.perlPackages.PerlMinimumVersion": {
     "description": "Find a minimum required version of perl for Perl code",
@@ -191067,7 +191262,7 @@
   "legacyPackages.x86_64-linux.plantuml": {
     "description": "Draw UML diagrams using a simple and human readable text description",
     "pname": "plantuml",
-    "version": "1.2025.3"
+    "version": "1.2025.4"
   },
   "legacyPackages.x86_64-linux.plantuml-c4": {
     "description": "PlantUML bundled with C4-Plantuml and plantuml sprites library",
@@ -191122,7 +191317,7 @@
   "legacyPackages.x86_64-linux.plasma-plugin-blurredwallpaper": {
     "description": "Plasma 6 wallpaper plugin to blur the wallpaper of active window",
     "pname": "plasma-plugin-blurredwallpaper",
-    "version": "3.2.1"
+    "version": "3.3.1"
   },
   "legacyPackages.x86_64-linux.plasma-theme-switcher": {
     "description": "KDE Plasma theme switcher",
@@ -194207,7 +194402,7 @@
   "legacyPackages.x86_64-linux.pluto": {
     "description": "Find deprecated Kubernetes apiVersions",
     "pname": "pluto",
-    "version": "5.21.8"
+    "version": "5.22.0"
   },
   "legacyPackages.x86_64-linux.plutosvg": {
     "description": "Tiny SVG rendering library in C",
@@ -194687,7 +194882,7 @@
   "legacyPackages.x86_64-linux.polarity": {
     "description": "Language with Dependent Data and Codata Types",
     "pname": "polarity-latest-unstable",
-    "version": "2025-07-06"
+    "version": "2025-07-15"
   },
   "legacyPackages.x86_64-linux.polenum": {
     "description": "Tool to get the password policy from a windows machine",
@@ -195127,7 +195322,7 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
     "pname": "hypopg",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.ip4r": {
     "description": "IPv4/v6 and IPv4/v6 range index type for PostgreSQL",
@@ -195467,7 +195662,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
     "pname": "hypopg",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.ip4r": {
     "description": "IPv4/v6 and IPv4/v6 range index type for PostgreSQL",
@@ -195807,7 +196002,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
     "pname": "hypopg",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.ip4r": {
     "description": "IPv4/v6 and IPv4/v6 range index type for PostgreSQL",
@@ -196147,7 +196342,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
     "pname": "hypopg",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.ip4r": {
     "description": "IPv4/v6 and IPv4/v6 range index type for PostgreSQL",
@@ -196487,7 +196682,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
     "pname": "hypopg",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.ip4r": {
     "description": "IPv4/v6 and IPv4/v6 range index type for PostgreSQL",
@@ -196827,7 +197022,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
     "pname": "hypopg",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.ip4r": {
     "description": "IPv4/v6 and IPv4/v6 range index type for PostgreSQL",
@@ -197167,7 +197362,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.hypopg": {
     "description": "Hypothetical Indexes for PostgreSQL",
     "pname": "hypopg",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.ip4r": {
     "description": "IPv4/v6 and IPv4/v6 range index type for PostgreSQL",
@@ -198392,7 +198587,7 @@
   "legacyPackages.x86_64-linux.prometheus": {
     "description": "Service monitoring system and time series database",
     "pname": "prometheus",
-    "version": "3.4.2"
+    "version": "3.5.0"
   },
   "legacyPackages.x86_64-linux.prometheus-alertmanager": {
     "description": "Alert dispatcher for the Prometheus monitoring system",
@@ -199242,7 +199437,7 @@
   "legacyPackages.x86_64-linux.protonvpn-gui": {
     "description": "Proton VPN GTK app for Linux",
     "pname": "protonvpn-gui",
-    "version": "4.9.6"
+    "version": "4.9.7"
   },
   "legacyPackages.x86_64-linux.protoscope": {
     "description": "Simple, human-editable language for representing and emitting the Protobuf wire format",
@@ -200352,7 +200547,7 @@
   "legacyPackages.x86_64-linux.pyprland": {
     "description": "Hyperland plugin system",
     "pname": "pyprland",
-    "version": "2.4.5"
+    "version": "2.4.6"
   },
   "legacyPackages.x86_64-linux.pyprof2calltree": {
     "description": "Help visualize profiling data from cProfile with kcachegrind and qcachegrind",
@@ -201039,11 +201234,6 @@
     "pname": "python3.12-ahocorasick-rs",
     "version": "0.22.2"
   },
-  "legacyPackages.x86_64-linux.python312Packages.aider-chat": {
-    "description": "AI pair programming in your terminal",
-    "pname": "python3.12-aider-chat",
-    "version": "0.85.1"
-  },
   "legacyPackages.x86_64-linux.python312Packages.aigpy": {
     "description": "Python library with miscellaneous tools",
     "pname": "python3.12-aigpy",
@@ -201542,7 +201732,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aiolifx": {
     "description": "Module for local communication with LIFX devices over a LAN",
     "pname": "python3.12-aiolifx",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.aiolifx-connection": {
     "description": "Wrapper for aiolifx to connect to a single LIFX device",
@@ -209027,12 +209217,12 @@
   "legacyPackages.x86_64-linux.python312Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.12-deltachat",
-    "version": "1.160.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.12-deltachat-rpc-client",
-    "version": "1.160.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -210204,6 +210394,11 @@
     "pname": "python3.12-django-pwa",
     "version": "2.0.1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.django-pydantic-field": {
+    "description": "Django JSONField with Pydantic models as a Schema",
+    "pname": "python3.12-django-pydantic-field",
+    "version": "0.3.13"
+  },
   "legacyPackages.x86_64-linux.python312Packages.django-q2": {
     "description": "Multiprocessing distributed task queue for Django based on Django-Q",
     "pname": "python3.12-django-q2",
@@ -210407,7 +210602,7 @@
   "legacyPackages.x86_64-linux.python312Packages.django-types": {
     "description": "Type stubs for Django",
     "pname": "python3.12-django-types",
-    "version": "0.20.0"
+    "version": "0.22.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.django-versatileimagefield": {
     "description": "Replaces django's ImageField with a more flexible interface",
@@ -210617,7 +210812,7 @@
   "legacyPackages.x86_64-linux.python312Packages.djangosaml2": {
     "description": "Django SAML2 Service Provider based on pySAML2",
     "pname": "python3.12-djangosaml2",
-    "version": "1.11.0"
+    "version": "1.11.1-1"
   },
   "legacyPackages.x86_64-linux.python312Packages.djmail": {
     "description": "Simple, powerfull and nonobstructive django email middleware",
@@ -210792,27 +210987,27 @@
   "legacyPackages.x86_64-linux.python312Packages.docling": {
     "description": "Get your documents ready for gen AI",
     "pname": "python3.12-docling",
-    "version": "2.31.2"
+    "version": "2.41.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.docling-core": {
     "description": "Python library to define and validate data types in Docling",
     "pname": "python3.12-docling-core",
-    "version": "2.31.2"
+    "version": "2.43.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.docling-ibm-models": {
     "description": "Docling IBM models",
     "pname": "python3.12-docling-ibm-models",
-    "version": "3.4.4"
+    "version": "3.8.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.docling-parse": {
     "description": "Simple package to extract text with coordinates from programmatic PDFs",
     "pname": "python3.12-docling-parse",
-    "version": "4.0.5"
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.docling-serve": {
     "description": "Running Docling as an API service",
     "pname": "python3.12-docling-serve",
-    "version": "0.11.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.docloud": {
     "description": "IBM Decision Optimization on Cloud Python client",
@@ -211387,7 +211582,7 @@
   "legacyPackages.x86_64-linux.python312Packages.dvclive": {
     "description": "Library for logging machine learning metrics and other metadata in simple file formats",
     "pname": "python3.12-dvclive",
-    "version": "3.48.2"
+    "version": "3.48.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.dwdwfsapi": {
     "description": "Python client to retrieve data provided by DWD via their geoserver WFS API",
@@ -211592,7 +211787,7 @@
   "legacyPackages.x86_64-linux.python312Packages.edk2-pytool-library": {
     "description": "Python library package that supports UEFI development",
     "pname": "python3.12-edk2-pytool-library",
-    "version": "0.23.4"
+    "version": "0.23.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.edlib": {
     "description": "Lightweight, fast C/C++ library for sequence alignment using edit distance",
@@ -211712,7 +211907,7 @@
   "legacyPackages.x86_64-linux.python312Packages.elevenlabs": {
     "description": "Official Python API for ElevenLabs Text to Speech",
     "pname": "python3.12-elevenlabs",
-    "version": "2.5.0"
+    "version": "2.7.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.elfdeps": {
     "description": "Python implementation of RPM elfdeps",
@@ -219277,7 +219472,7 @@
   "legacyPackages.x86_64-linux.python312Packages.kernels": {
     "description": "Load compute kernels from the Huggingface Hub",
     "pname": "python3.12-kernels",
-    "version": "0.6.2"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.kestra": {
     "description": "Infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines",
@@ -219628,6 +219823,11 @@
     "description": "Build LangChain applications with Fireworks",
     "pname": "python3.12-langchain-fireworks",
     "version": "0.3.0"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.langchain-google-genai": {
+    "description": "LangChain integrations for Google Gemini",
+    "pname": "python3.12-langchain-google-genai",
+    "version": "2.1.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.langchain-groq": {
     "description": "Integration package connecting Groq and LangChain",
@@ -226287,7 +226487,7 @@
   "legacyPackages.x86_64-linux.python312Packages.nodriver": {
     "description": "Web automation framework which can bypass bot detection",
     "pname": "python3.12-nodriver",
-    "version": "0.46.1"
+    "version": "0.47.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.noise": {
     "description": "Native-code and shader implementations of Perlin noise",
@@ -226752,7 +226952,7 @@
   "legacyPackages.x86_64-linux.python312Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
     "pname": "python3.12-oelint-parser",
-    "version": "8.1.1"
+    "version": "8.2.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.oemthermostat": {
     "description": "Python module to interact with OpenEnergyMonitor thermostats",
@@ -229327,7 +229527,7 @@
   "legacyPackages.x86_64-linux.python312Packages.plugp100": {
     "description": "Python library to control Tapo Plug P100 devices",
     "pname": "python3.12-plugp100",
-    "version": "5.1.4"
+    "version": "5.1.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.plugwise": {
     "description": "Python module for Plugwise Smiles, Stretch and USB stick",
@@ -229587,7 +229787,7 @@
   "legacyPackages.x86_64-linux.python312Packages.posthog": {
     "description": "Module for interacting with PostHog",
     "pname": "python3.12-posthog",
-    "version": "6.0.2"
+    "version": "6.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pot": {
     "description": "Python Optimal Transport Library",
@@ -230002,7 +230202,7 @@
   "legacyPackages.x86_64-linux.python312Packages.proton-vpn-api-core": {
     "description": "Acts as a facade to the other Proton VPN components, exposing a uniform API to the available Proton VPN services",
     "pname": "python3.12-proton-vpn-api-core",
-    "version": "0.42.4"
+    "version": "0.42.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.proton-vpn-local-agent": {
     "description": "Proton VPN local agent written in Rust with Python bindings",
@@ -230012,7 +230212,7 @@
   "legacyPackages.x86_64-linux.python312Packages.proton-vpn-network-manager": {
     "description": "Provides the necessary functionality for other ProtonVPN components to interact with NetworkManager",
     "pname": "python3.12-proton-vpn-network-manager",
-    "version": "0.12.13"
+    "version": "0.12.14"
   },
   "legacyPackages.x86_64-linux.python312Packages.protonup": {
     "description": "CLI program and API to automate the installation and update of GloriousEggroll's Proton-GE",
@@ -237869,6 +238069,11 @@
     "pname": "python3.12-qscintilla-qt5",
     "version": "2.14.1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.qscintilla-qt6": {
+    "description": "Python binding to QScintilla, Qt based text editing control",
+    "pname": "python3.12-qscintilla-qt6",
+    "version": "2.14.1"
+  },
   "legacyPackages.x86_64-linux.python312Packages.qstylizer": {
     "description": "Qt stylesheet generation utility for PyQt/PySide",
     "pname": "python3.12-qstylizer",
@@ -239317,7 +239522,7 @@
   "legacyPackages.x86_64-linux.python312Packages.rope": {
     "description": "Python refactoring library",
     "pname": "python3.12-rope",
-    "version": "1.13.0"
+    "version": "1.14.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.ropgadget": {
     "description": "Tool to search for gadgets in binaries to facilitate ROP exploitation",
@@ -242522,7 +242727,7 @@
   "legacyPackages.x86_64-linux.python312Packages.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
     "pname": "python3.12-sqlmap",
-    "version": "1.9.6"
+    "version": "1.9.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.sqlmodel": {
     "description": "Module to work with SQL databases",
@@ -243747,7 +243952,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.12-tencentcloud-sdk-python",
-    "version": "3.0.1421"
+    "version": "3.0.1423"
   },
   "legacyPackages.x86_64-linux.python312Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -245607,7 +245812,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tree-sitter-language-pack": {
     "description": "Comprehensive collection of tree-sitter languages",
     "pname": "python3.12-tree-sitter-language-pack",
-    "version": "0.8.0"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.tree-sitter-languages": {
     "description": "Binary Python wheels for all tree sitter languages",
@@ -247957,7 +248162,7 @@
   "legacyPackages.x86_64-linux.python312Packages.types-markdown": {
     "description": "Typing stubs for Markdown",
     "pname": "python3.12-types-markdown",
-    "version": "3.8.0.20250415"
+    "version": "3.8.0.20250708"
   },
   "legacyPackages.x86_64-linux.python312Packages.types-markupsafe": {
     "description": "Typing stubs for MarkupSafe",
@@ -250167,7 +250372,7 @@
   "legacyPackages.x86_64-linux.python312Packages.x3dh": {
     "description": "Python Implementation of the Extended Triple Diffie-Hellman key Agreement Protocol",
     "pname": "python3.12-x3dh",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.x690": {
     "description": "Pure Python X.690 implementation",
@@ -250252,7 +250457,7 @@
   "legacyPackages.x86_64-linux.python312Packages.xeddsa": {
     "description": "Python bindings to libxeddsa",
     "pname": "python3.12-xeddsa",
-    "version": "1.1.0"
+    "version": "1.1.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.xen": {
     "description": "Type-1 hypervisor intended for embedded and hyperscale use cases",
@@ -251799,11 +252004,6 @@
     "pname": "python3.13-ahocorasick-rs",
     "version": "0.22.2"
   },
-  "legacyPackages.x86_64-linux.python313Packages.aider-chat": {
-    "description": "AI pair programming in your terminal",
-    "pname": "python3.13-aider-chat",
-    "version": "0.85.1"
-  },
   "legacyPackages.x86_64-linux.python313Packages.aigpy": {
     "description": "Python library with miscellaneous tools",
     "pname": "python3.13-aigpy",
@@ -252302,7 +252502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiolifx": {
     "description": "Module for local communication with LIFX devices over a LAN",
     "pname": "python3.13-aiolifx",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiolifx-connection": {
     "description": "Wrapper for aiolifx to connect to a single LIFX device",
@@ -259792,12 +259992,12 @@
   "legacyPackages.x86_64-linux.python313Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.13-deltachat",
-    "version": "1.160.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.13-deltachat-rpc-client",
-    "version": "1.160.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -260969,6 +261169,11 @@
     "pname": "python3.13-django-pwa",
     "version": "2.0.1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.django-pydantic-field": {
+    "description": "Django JSONField with Pydantic models as a Schema",
+    "pname": "python3.13-django-pydantic-field",
+    "version": "0.3.13"
+  },
   "legacyPackages.x86_64-linux.python313Packages.django-q2": {
     "description": "Multiprocessing distributed task queue for Django based on Django-Q",
     "pname": "python3.13-django-q2",
@@ -261172,7 +261377,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-types": {
     "description": "Type stubs for Django",
     "pname": "python3.13-django-types",
-    "version": "0.20.0"
+    "version": "0.22.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-versatileimagefield": {
     "description": "Replaces django's ImageField with a more flexible interface",
@@ -261382,7 +261587,7 @@
   "legacyPackages.x86_64-linux.python313Packages.djangosaml2": {
     "description": "Django SAML2 Service Provider based on pySAML2",
     "pname": "python3.13-djangosaml2",
-    "version": "1.11.0"
+    "version": "1.11.1-1"
   },
   "legacyPackages.x86_64-linux.python313Packages.djmail": {
     "description": "Simple, powerfull and nonobstructive django email middleware",
@@ -261557,27 +261762,27 @@
   "legacyPackages.x86_64-linux.python313Packages.docling": {
     "description": "Get your documents ready for gen AI",
     "pname": "python3.13-docling",
-    "version": "2.31.2"
+    "version": "2.41.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.docling-core": {
     "description": "Python library to define and validate data types in Docling",
     "pname": "python3.13-docling-core",
-    "version": "2.31.2"
+    "version": "2.43.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.docling-ibm-models": {
     "description": "Docling IBM models",
     "pname": "python3.13-docling-ibm-models",
-    "version": "3.4.4"
+    "version": "3.8.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.docling-parse": {
     "description": "Simple package to extract text with coordinates from programmatic PDFs",
     "pname": "python3.13-docling-parse",
-    "version": "4.0.5"
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.docling-serve": {
     "description": "Running Docling as an API service",
     "pname": "python3.13-docling-serve",
-    "version": "0.11.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.docloud": {
     "description": "IBM Decision Optimization on Cloud Python client",
@@ -262152,7 +262357,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dvclive": {
     "description": "Library for logging machine learning metrics and other metadata in simple file formats",
     "pname": "python3.13-dvclive",
-    "version": "3.48.2"
+    "version": "3.48.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.dwdwfsapi": {
     "description": "Python client to retrieve data provided by DWD via their geoserver WFS API",
@@ -262357,7 +262562,7 @@
   "legacyPackages.x86_64-linux.python313Packages.edk2-pytool-library": {
     "description": "Python library package that supports UEFI development",
     "pname": "python3.13-edk2-pytool-library",
-    "version": "0.23.4"
+    "version": "0.23.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.edlib": {
     "description": "Lightweight, fast C/C++ library for sequence alignment using edit distance",
@@ -262477,7 +262682,7 @@
   "legacyPackages.x86_64-linux.python313Packages.elevenlabs": {
     "description": "Official Python API for ElevenLabs Text to Speech",
     "pname": "python3.13-elevenlabs",
-    "version": "2.5.0"
+    "version": "2.7.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.elfdeps": {
     "description": "Python implementation of RPM elfdeps",
@@ -270042,7 +270247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.kernels": {
     "description": "Load compute kernels from the Huggingface Hub",
     "pname": "python3.13-kernels",
-    "version": "0.6.2"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.kestra": {
     "description": "Infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines",
@@ -270393,6 +270598,11 @@
     "description": "Build LangChain applications with Fireworks",
     "pname": "python3.13-langchain-fireworks",
     "version": "0.3.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.langchain-google-genai": {
+    "description": "LangChain integrations for Google Gemini",
+    "pname": "python3.13-langchain-google-genai",
+    "version": "2.1.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-groq": {
     "description": "Integration package connecting Groq and LangChain",
@@ -277052,7 +277262,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nodriver": {
     "description": "Web automation framework which can bypass bot detection",
     "pname": "python3.13-nodriver",
-    "version": "0.46.1"
+    "version": "0.47.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.noise": {
     "description": "Native-code and shader implementations of Perlin noise",
@@ -277517,7 +277727,7 @@
   "legacyPackages.x86_64-linux.python313Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
     "pname": "python3.13-oelint-parser",
-    "version": "8.1.1"
+    "version": "8.2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.oemthermostat": {
     "description": "Python module to interact with OpenEnergyMonitor thermostats",
@@ -280092,7 +280302,7 @@
   "legacyPackages.x86_64-linux.python313Packages.plugp100": {
     "description": "Python library to control Tapo Plug P100 devices",
     "pname": "python3.13-plugp100",
-    "version": "5.1.4"
+    "version": "5.1.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.plugwise": {
     "description": "Python module for Plugwise Smiles, Stretch and USB stick",
@@ -280352,7 +280562,7 @@
   "legacyPackages.x86_64-linux.python313Packages.posthog": {
     "description": "Module for interacting with PostHog",
     "pname": "python3.13-posthog",
-    "version": "6.0.2"
+    "version": "6.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pot": {
     "description": "Python Optimal Transport Library",
@@ -280767,7 +280977,7 @@
   "legacyPackages.x86_64-linux.python313Packages.proton-vpn-api-core": {
     "description": "Acts as a facade to the other Proton VPN components, exposing a uniform API to the available Proton VPN services",
     "pname": "python3.13-proton-vpn-api-core",
-    "version": "0.42.4"
+    "version": "0.42.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.proton-vpn-local-agent": {
     "description": "Proton VPN local agent written in Rust with Python bindings",
@@ -280777,7 +280987,7 @@
   "legacyPackages.x86_64-linux.python313Packages.proton-vpn-network-manager": {
     "description": "Provides the necessary functionality for other ProtonVPN components to interact with NetworkManager",
     "pname": "python3.13-proton-vpn-network-manager",
-    "version": "0.12.13"
+    "version": "0.12.14"
   },
   "legacyPackages.x86_64-linux.python313Packages.protonup": {
     "description": "CLI program and API to automate the installation and update of GloriousEggroll's Proton-GE",
@@ -288634,6 +288844,11 @@
     "pname": "python3.13-qscintilla-qt5",
     "version": "2.14.1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.qscintilla-qt6": {
+    "description": "Python binding to QScintilla, Qt based text editing control",
+    "pname": "python3.13-qscintilla-qt6",
+    "version": "2.14.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.qstylizer": {
     "description": "Qt stylesheet generation utility for PyQt/PySide",
     "pname": "python3.13-qstylizer",
@@ -290082,7 +290297,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rope": {
     "description": "Python refactoring library",
     "pname": "python3.13-rope",
-    "version": "1.13.0"
+    "version": "1.14.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.ropgadget": {
     "description": "Tool to search for gadgets in binaries to facilitate ROP exploitation",
@@ -293287,7 +293502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
     "pname": "python3.13-sqlmap",
-    "version": "1.9.6"
+    "version": "1.9.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.sqlmodel": {
     "description": "Module to work with SQL databases",
@@ -294557,7 +294772,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.0.1421"
+    "version": "3.0.1423"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -296417,7 +296632,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tree-sitter-language-pack": {
     "description": "Comprehensive collection of tree-sitter languages",
     "pname": "python3.13-tree-sitter-language-pack",
-    "version": "0.8.0"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tree-sitter-languages": {
     "description": "Binary Python wheels for all tree sitter languages",
@@ -298767,7 +298982,7 @@
   "legacyPackages.x86_64-linux.python313Packages.types-markdown": {
     "description": "Typing stubs for Markdown",
     "pname": "python3.13-types-markdown",
-    "version": "3.8.0.20250415"
+    "version": "3.8.0.20250708"
   },
   "legacyPackages.x86_64-linux.python313Packages.types-markupsafe": {
     "description": "Typing stubs for MarkupSafe",
@@ -300977,7 +301192,7 @@
   "legacyPackages.x86_64-linux.python313Packages.x3dh": {
     "description": "Python Implementation of the Extended Triple Diffie-Hellman key Agreement Protocol",
     "pname": "python3.13-x3dh",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.x690": {
     "description": "Pure Python X.690 implementation",
@@ -301062,7 +301277,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xeddsa": {
     "description": "Python bindings to libxeddsa",
     "pname": "python3.13-xeddsa",
-    "version": "1.1.0"
+    "version": "1.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.xen": {
     "description": "Type-1 hypervisor intended for embedded and hyperscale use cases",
@@ -302846,7 +303061,7 @@
   },
   "legacyPackages.x86_64-linux.qscintilla-qt6": {
     "description": "Qt port of the Scintilla text editing library",
-    "pname": "qscintilla-qt5",
+    "pname": "qscintilla-qt6",
     "version": "2.14.1"
   },
   "legacyPackages.x86_64-linux.qscreenshot": {
@@ -303501,7 +303716,7 @@
   },
   "legacyPackages.x86_64-linux.qt6Packages.qscintilla": {
     "description": "Qt port of the Scintilla text editing library",
-    "pname": "qscintilla-qt5",
+    "pname": "qscintilla-qt6",
     "version": "2.14.1"
   },
   "legacyPackages.x86_64-linux.qt6Packages.qt-jdenticon": {
@@ -305372,7 +305587,7 @@
   "legacyPackages.x86_64-linux.reaper": {
     "description": "Digital audio workstation",
     "pname": "reaper",
-    "version": "7.41"
+    "version": "7.42"
   },
   "legacyPackages.x86_64-linux.reaper-go": {
     "description": "Application security testing framework",
@@ -305867,7 +306082,7 @@
   "legacyPackages.x86_64-linux.reindeer": {
     "description": "Reindeer is a tool which takes Rust Cargo dependencies and generates Buck build rules",
     "pname": "reindeer",
-    "version": "2025.06.30.00"
+    "version": "2025.07.14.00"
   },
   "legacyPackages.x86_64-linux.reiser4progs": {
     "description": "Reiser4 utilities",
@@ -307322,7 +307537,7 @@
   "legacyPackages.x86_64-linux.rockcraft": {
     "description": "Create OCI images using the language from Snapcraft and Charmcraft",
     "pname": "rockcraft",
-    "version": "1.12.0"
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.rocket": {
     "description": "Tool for synchronizing music and visuals in demoscene productions",
@@ -308812,7 +309027,7 @@
   "legacyPackages.x86_64-linux.rqlite": {
     "description": "Lightweight, distributed relational database built on SQLite",
     "pname": "rqlite",
-    "version": "8.38.3"
+    "version": "8.39.1"
   },
   "legacyPackages.x86_64-linux.rquickshare": {
     "description": "Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS",
@@ -319927,12 +320142,12 @@
   "legacyPackages.x86_64-linux.rust-analyzer": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer",
-    "version": "2025-07-07"
+    "version": "2025-07-14"
   },
   "legacyPackages.x86_64-linux.rust-analyzer-unwrapped": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer-unwrapped",
-    "version": "2025-07-07"
+    "version": "2025-07-14"
   },
   "legacyPackages.x86_64-linux.rust-audit-info": {
     "description": "Command-line tool to extract the dependency trees embedded in binaries by cargo-auditable",
@@ -320562,7 +320777,7 @@
   "legacyPackages.x86_64-linux.saga": {
     "description": "System for Automated Geoscientific Analyses",
     "pname": "saga",
-    "version": "9.8.1"
+    "version": "9.9.0"
   },
   "legacyPackages.x86_64-linux.sage": {
     "description": "Open Source Mathematics Software, free alternative to Magma, Maple, Mathematica, and Matlab",
@@ -345292,17 +345507,17 @@
   "legacyPackages.x86_64-linux.scx.cscheds": {
     "description": "Sched-ext C userspace schedulers",
     "pname": "scx_cscheds",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   "legacyPackages.x86_64-linux.scx.full": {
     "description": "Sched-ext C and Rust userspace schedulers",
     "pname": "scx_full",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   "legacyPackages.x86_64-linux.scx.rustscheds": {
     "description": "Sched-ext Rust userspace schedulers",
     "pname": "scx_rustscheds",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   "legacyPackages.x86_64-linux.sd": {
     "description": "Intuitive find & replace CLI (sed alternative)",
@@ -345402,7 +345617,7 @@
   "legacyPackages.x86_64-linux.sdl_gamecontrollerdb": {
     "description": "Community sourced database of game controller mappings to be used with SDL2 and SDL3 Game Controller functionality",
     "pname": "sdl_gamecontrollerdb",
-    "version": "0-unstable-2025-07-03"
+    "version": "0-unstable-2025-07-10"
   },
   "legacyPackages.x86_64-linux.sdlookup": {
     "description": "IP lookups for open ports and vulnerabilities from internetdb.shodan.io",
@@ -346712,7 +346927,7 @@
   "legacyPackages.x86_64-linux.shopify-cli": {
     "description": "CLI which helps you build against the Shopify platform faster",
     "pname": "shopify",
-    "version": "3.82.0"
+    "version": "3.82.1"
   },
   "legacyPackages.x86_64-linux.shopify-themekit": {
     "description": "Command line tool for shopify themes",
@@ -350317,7 +350532,7 @@
   "legacyPackages.x86_64-linux.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
     "pname": "sqlmap",
-    "version": "1.9.6"
+    "version": "1.9.7"
   },
   "legacyPackages.x86_64-linux.sqlmc": {
     "description": "Tool to check URLs of a domain for SQL injections",
@@ -353507,7 +353722,7 @@
   "legacyPackages.x86_64-linux.syslogng": {
     "description": "Next-generation syslogd with advanced networking and filtering capabilities",
     "pname": "syslog-ng",
-    "version": "4.8.3"
+    "version": "4.9.0"
   },
   "legacyPackages.x86_64-linux.sysmenu": {
     "description": "Simple program launcher using GTK4",
@@ -354982,7 +355197,7 @@
   "legacyPackages.x86_64-linux.tektoncd-cli": {
     "description": "Provides a CLI for interacting with Tekton - tkn",
     "pname": "tektoncd-cli",
-    "version": "0.41.0"
+    "version": "0.41.1"
   },
   "legacyPackages.x86_64-linux.tela-circle-icon-theme": {
     "description": "Flat and colorful personality icon theme",
@@ -355727,7 +355942,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.datadog": {
     "description": "",
     "pname": "terraform-provider-datadog",
-    "version": "3.66.0"
+    "version": "3.67.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.deno": {
     "description": "",
@@ -355892,7 +356107,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.huaweicloud": {
     "description": "",
     "pname": "terraform-provider-huaweicloud",
-    "version": "1.76.1"
+    "version": "1.76.4"
   },
   "legacyPackages.x86_64-linux.terraform-providers.huaweicloudstack": {
     "description": "",
@@ -381252,7 +381467,7 @@
   "legacyPackages.x86_64-linux.tlsx": {
     "description": "TLS grabber focused on TLS based data collection",
     "pname": "tlsx",
-    "version": "1.1.9"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.tlwg": {
     "description": "Collection of Thai scalable fonts available under free licenses",
@@ -382047,7 +382262,7 @@
   "legacyPackages.x86_64-linux.torsocks": {
     "description": "Wrapper to safely torify applications",
     "pname": "torsocks",
-    "version": "2.4.0"
+    "version": "2.5.0"
   },
   "legacyPackages.x86_64-linux.tortoisehg": {
     "description": "Qt based graphical tool for working with Mercurial",
@@ -384092,7 +384307,7 @@
   "legacyPackages.x86_64-linux.tui-journal": {
     "description": "Your journal app if you live in a terminal",
     "pname": "tui-journal",
-    "version": "0.15.0"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.tuicam": {
     "description": "Terminal-based camera with switchable modes",
@@ -399547,12 +399762,12 @@
   "legacyPackages.x86_64-linux.uftrace": {
     "description": "Function (graph) tracer for user-space",
     "pname": "uftrace",
-    "version": "0.18"
+    "version": "0.18.1"
   },
   "legacyPackages.x86_64-linux.uftraceFull": {
     "description": "Function (graph) tracer for user-space",
     "pname": "uftrace",
-    "version": "0.18"
+    "version": "0.18.1"
   },
   "legacyPackages.x86_64-linux.ugarit": {
     "description": "Backup/archival system based around content-addressible storage",
@@ -399607,7 +399822,7 @@
   "legacyPackages.x86_64-linux.ugs": {
     "description": "Cross-platform G-Code sender for GRBL, Smoothieware, TinyG and G2core",
     "pname": "ugs",
-    "version": "2.1.14"
+    "version": "2.1.15"
   },
   "legacyPackages.x86_64-linux.ugtrain": {
     "description": "Universal Elite Game Trainer for CLI (Linux game trainer research project)",
@@ -399907,7 +400122,7 @@
   "legacyPackages.x86_64-linux.undetected-chromedriver": {
     "description": "Custom Selenium ChromeDriver that passes all bot mitigation systems",
     "pname": "undetected-chromedriver",
-    "version": "138.0.7204.100"
+    "version": "138.0.7204.157"
   },
   "legacyPackages.x86_64-linux.undistract-me": {
     "description": "Notifies you when long-running terminal commands complete",
@@ -401972,12 +402187,12 @@
   "legacyPackages.x86_64-linux.vencord": {
     "description": "Vencord web extension",
     "pname": "vencord",
-    "version": "1.12.4"
+    "version": "1.12.6"
   },
   "legacyPackages.x86_64-linux.vencord-web-extension": {
     "description": "Vencord web extension",
     "pname": "vencord",
-    "version": "1.12.4"
+    "version": "1.12.6"
   },
   "legacyPackages.x86_64-linux.vendir": {
     "description": "CLI tool to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively",
@@ -413817,7 +414032,7 @@
   "legacyPackages.x86_64-linux.virtnbdbackup": {
     "description": "Backup utility for Libvirt/qemu/kvm",
     "pname": "virtnbdbackup",
-    "version": "2.29"
+    "version": "2.30"
   },
   "legacyPackages.x86_64-linux.virtual-ans": {
     "description": "Photoelectronic microtonal/spectral musical instrument",
@@ -414457,7 +414672,7 @@
   "legacyPackages.x86_64-linux.vscode": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode",
-    "version": "1.101.2"
+    "version": "1.102.0"
   },
   "legacyPackages.x86_64-linux.vscode-css-languageserver": {
     "description": "CSS language server",
@@ -415128,6 +415343,11 @@
     "description": "",
     "pname": "vscode-extension-ethansk-restore-terminals",
     "version": "1.1.8"
+  },
+  "legacyPackages.x86_64-linux.vscode-extensions.ethersync.ethersync": {
+    "description": "Extension for real-time co-editing of local text files",
+    "pname": "vscode-extension-ethersync-ethersync",
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.eugleo.magic-racket": {
     "description": "Best coding experience for Racket in VS Code",
@@ -416747,7 +416967,7 @@
   "legacyPackages.x86_64-linux.vscode-fhs": {
     "description": "Wrapped variant of vscode which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
     "pname": "code",
-    "version": "1.101.2"
+    "version": "1.102.0"
   },
   "legacyPackages.x86_64-linux.vscode-js-debug": {
     "description": "DAP-compatible JavaScript debugger",
@@ -416772,7 +416992,7 @@
   "legacyPackages.x86_64-linux.vscode-with-extensions": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS ",
     "pname": "vscode-with-extensions",
-    "version": "1.101.2"
+    "version": "1.102.0"
   },
   "legacyPackages.x86_64-linux.vscodium": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) ",
@@ -426317,7 +426537,7 @@
   "legacyPackages.x86_64-linux.zola": {
     "description": "Fast static site generator with everything built-in",
     "pname": "zola",
-    "version": "0.20.0"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.zombietrackergps": {
     "description": "GPS track manager for Qt using KDE Marble maps",
@@ -426902,7 +427122,7 @@
   "legacyPackages.x86_64-linux.zziplib": {
     "description": "Library to extract data from files archived in a zip file",
     "pname": "zziplib",
-    "version": "0.13.79"
+    "version": "0.13.80"
   },
   "legacyPackages.x86_64-linux.zzuf": {
     "description": "Transparent application input fuzzer",
