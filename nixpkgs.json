@@ -1062,7 +1062,7 @@
   "legacyPackages.x86_64-linux.ada": {
     "description": "WHATWG-compliant and fast URL parser written in modern C",
     "pname": "ada",
-    "version": "3.2.6"
+    "version": "3.2.7"
   },
   "legacyPackages.x86_64-linux.adafruit-ampy": {
     "description": "Utility to interact with a MicroPython board over a serial connection",
@@ -16762,7 +16762,7 @@
   "legacyPackages.x86_64-linux.brev-cli": {
     "description": "Connect your laptop to cloud computers",
     "pname": "brev-cli",
-    "version": "0.6.311"
+    "version": "0.6.312"
   },
   "legacyPackages.x86_64-linux.brewtarget": {
     "description": "Open source beer recipe creation tool",
@@ -19132,7 +19132,7 @@
   "legacyPackages.x86_64-linux.cargo-shear": {
     "description": "Detect and remove unused dependencies from Cargo.toml",
     "pname": "cargo-shear",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "legacyPackages.x86_64-linux.cargo-show-asm": {
     "description": "Cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code",
@@ -20007,7 +20007,7 @@
   "legacyPackages.x86_64-linux.cdncheck": {
     "description": "Tool to detect various technology for a given IP address",
     "pname": "cdncheck",
-    "version": "1.1.28"
+    "version": "1.1.29"
   },
   "legacyPackages.x86_64-linux.cdo": {
     "description": "Collection of command line Operators to manipulate and analyse Climate and NWP model Data",
@@ -20682,7 +20682,7 @@
   "legacyPackages.x86_64-linux.chatbox": {
     "description": "AI client application and smart assistant",
     "pname": "chatbox",
-    "version": "1.15.0"
+    "version": "1.15.2"
   },
   "legacyPackages.x86_64-linux.chatd": {
     "description": "Chat with your documents using local AI",
@@ -25812,7 +25812,7 @@
   "legacyPackages.x86_64-linux.cnspec": {
     "description": "Open source, cloud-native security and policy project",
     "pname": "cnspec",
-    "version": "11.63.0"
+    "version": "11.64.0"
   },
   "legacyPackages.x86_64-linux.cnsprcy": {
     "description": "End to end encrypted connections between trusted devices",
@@ -25907,7 +25907,7 @@
   "legacyPackages.x86_64-linux.cockpit": {
     "description": "Web-based graphical interface for servers",
     "pname": "cockpit",
-    "version": "342"
+    "version": "343"
   },
   "legacyPackages.x86_64-linux.cockroachdb": {
     "description": "Scalable, survivable, strongly-consistent SQL database",
@@ -30507,7 +30507,7 @@
   "legacyPackages.x86_64-linux.cve-prioritizer": {
     "description": "Vulnerability patching with CVSS, EPSS, and CISA's Known Exploited Vulnerabilities",
     "pname": "cve-prioritizer",
-    "version": "1.9.0"
+    "version": "1.10.1"
   },
   "legacyPackages.x86_64-linux.cvehound": {
     "description": "Tool to check linux kernel source dump for known CVEs",
@@ -38327,7 +38327,7 @@
   "legacyPackages.x86_64-linux.electron-fiddle": {
     "description": "Easiest way to get started with Electron",
     "pname": "electron-fiddle",
-    "version": "0.36.5"
+    "version": "0.36.5-unstable-2025-07-17"
   },
   "legacyPackages.x86_64-linux.electron-mail": {
     "description": "ElectronMail is an Electron-based unofficial desktop client for ProtonMail",
@@ -39987,7 +39987,7 @@
   "legacyPackages.x86_64-linux.ethersync": {
     "description": "Real-time co-editing of local text files",
     "pname": "ethersync",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.ethq": {
     "description": "Ethernet NIC Queue stats viewer",
@@ -40052,7 +40052,7 @@
   "legacyPackages.x86_64-linux.euphonica": {
     "description": "MPD client with delusions of grandeur, made with Rust, GTK and Libadwaita",
     "pname": "euphonica",
-    "version": "0.94.1-alpha"
+    "version": "0.96.1-beta"
   },
   "legacyPackages.x86_64-linux.eureka-editor": {
     "description": "Map editor for the classic DOOM games, and a few related games such as Heretic and Hexen",
@@ -42497,7 +42497,7 @@
   "legacyPackages.x86_64-linux.findomain": {
     "description": "Fastest and cross-platform subdomain enumerator",
     "pname": "findomain",
-    "version": "9.0.4"
+    "version": "10.0.1"
   },
   "legacyPackages.x86_64-linux.findup": {
     "description": "Search parent directories for sentinel files",
@@ -45497,7 +45497,7 @@
   "legacyPackages.x86_64-linux.fwup": {
     "description": "Configurable embedded Linux firmware update creator and runner",
     "pname": "fwup",
-    "version": "1.13.1"
+    "version": "1.13.2"
   },
   "legacyPackages.x86_64-linux.fwupd": {
     "description": "",
@@ -58672,7 +58672,7 @@
   "legacyPackages.x86_64-linux.gruvbox-gtk-theme": {
     "description": "GTK theme based on the Gruvbox colour palette",
     "pname": "gruvbox-gtk-theme",
-    "version": "0-unstable-2025-04-24"
+    "version": "0-unstable-2025-07-21"
   },
   "legacyPackages.x86_64-linux.gruvbox-kvantum": {
     "description": "Gruvbox themes for kvantum",
@@ -64259,6 +64259,11 @@
     "pname": "homeassistant-test-mold_indicator",
     "version": "2025.7.3"
   },
+  "legacyPackages.x86_64-linux.home-assistant-component-tests.monoprice": {
+    "description": "Open source home automation that puts local control and privacy first",
+    "pname": "homeassistant-test-monoprice",
+    "version": "2025.7.3"
+  },
   "legacyPackages.x86_64-linux.home-assistant-component-tests.monzo": {
     "description": "Open source home automation that puts local control and privacy first",
     "pname": "homeassistant-test-monzo",
@@ -66962,7 +66967,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.sankey-chart": {
     "description": "Home Assistant lovelace card to display a sankey chart",
     "pname": "sankey-chart",
-    "version": "3.9.3"
+    "version": "3.9.4"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.template-entity-row": {
     "description": "Display whatever you want in an entities card row",
@@ -69877,7 +69882,7 @@
   "legacyPackages.x86_64-linux.igir": {
     "description": "Video game ROM collection manager to help filter, sort, patch, archive, and report on collections on any OS",
     "pname": "igir",
-    "version": "2.11.0"
+    "version": "4.1.1"
   },
   "legacyPackages.x86_64-linux.igmpproxy": {
     "description": "Daemon that routes multicast using IGMP forwarding",
@@ -70307,7 +70312,7 @@
   "legacyPackages.x86_64-linux.impala": {
     "description": "TUI for managing wifi",
     "pname": "impala",
-    "version": "0.2.4"
+    "version": "0.3.0"
   },
   "legacyPackages.x86_64-linux.impl": {
     "description": "Generate method stubs for implementing an interface",
@@ -72722,7 +72727,7 @@
   "legacyPackages.x86_64-linux.jbrowse": {
     "description": "Next-generation genome browser",
     "pname": "jbrowse",
-    "version": "3.6.3"
+    "version": "3.6.4"
   },
   "legacyPackages.x86_64-linux.jc": {
     "description": "This tool serializes the output of popular command line tools and filetypes to structured JSON output",
@@ -78512,7 +78517,7 @@
   "legacyPackages.x86_64-linux.klog-rs": {
     "description": "Tool to tail logs of multiple Kubernetes pods simultaneously",
     "pname": "klog-rs",
-    "version": "0.4.2"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.klog-time-tracker": {
     "description": "Command line tool for time tracking in a human-readable, plain-text file format",
@@ -91787,7 +91792,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -92592,7 +92597,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -93397,7 +93402,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -94202,7 +94207,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -95007,7 +95012,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -95817,7 +95822,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -96622,7 +96627,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -97427,7 +97432,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -98232,7 +98237,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -99037,7 +99042,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -99842,7 +99847,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -100642,7 +100647,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -101442,7 +101447,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -102242,7 +102247,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -103047,7 +103052,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -103852,7 +103857,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -104657,7 +104662,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -105462,7 +105467,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -106267,7 +106272,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -107072,7 +107077,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -107877,7 +107882,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -108682,7 +108687,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -109487,7 +109492,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -110292,7 +110297,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -111097,7 +111102,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -111902,7 +111907,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -112707,7 +112712,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -113517,7 +113522,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -114317,7 +114322,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -115117,7 +115122,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -115927,7 +115932,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -116732,7 +116737,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -117537,7 +117542,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -118342,7 +118347,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -119147,7 +119152,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -119952,7 +119957,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -120757,7 +120762,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -121562,7 +121567,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -124842,7 +124847,7 @@
   "legacyPackages.x86_64-linux.lms": {
     "description": "Lightweight Music Server - Access your self-hosted music using a web interface",
     "pname": "lms",
-    "version": "3.67.0"
+    "version": "3.68.1"
   },
   "legacyPackages.x86_64-linux.lmstudio": {
     "description": "LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs)",
@@ -132258,6 +132263,11 @@
     "description": "Control external displays using DDC/CI on Apple Silicon Macs",
     "pname": "m1ddc",
     "version": "1.2.0"
+  },
+  "legacyPackages.x86_64-linux.m1n1": {
+    "description": "Bootloader to bridge the Apple (XNU) boot to Linux boot",
+    "pname": "m1n1",
+    "version": "1.4.21"
   },
   "legacyPackages.x86_64-linux.m2-mesoplanet": {
     "description": "Macro Expander Saving Our m2-PLANET",
@@ -140627,7 +140637,7 @@
   "legacyPackages.x86_64-linux.namespace-cli": {
     "description": "Command line interface for the Namespaces platform",
     "pname": "namespace-cli",
-    "version": "0.0.431"
+    "version": "0.0.433"
   },
   "legacyPackages.x86_64-linux.namespaced-openvpn": {
     "description": "Network namespace isolation for OpenVPN tunnels",
@@ -146167,7 +146177,7 @@
   "legacyPackages.x86_64-linux.nzbhydra2": {
     "description": "Usenet meta search",
     "pname": "nzbhydra2",
-    "version": "7.15.3"
+    "version": "7.16.0"
   },
   "legacyPackages.x86_64-linux.nzportable": {
     "description": "Call of Duty: Zombies demake, powered by various Quake sourceports (PC version)",
@@ -152207,7 +152217,7 @@
   "legacyPackages.x86_64-linux.oci-cli": {
     "description": "Command Line Interface for Oracle Cloud Infrastructure",
     "pname": "oci-cli",
-    "version": "3.62.2"
+    "version": "3.63.0"
   },
   "legacyPackages.x86_64-linux.oci-seccomp-bpf-hook": {
     "description": "OCI hook to trace syscalls and generate a seccomp profile ",
@@ -189267,7 +189277,7 @@
   "legacyPackages.x86_64-linux.php81Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
     "pname": "phing",
-    "version": "3.0.1"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.php81Packages.phive": {
     "description": "Phar Installation and Verification Environment (PHIVE)",
@@ -189927,7 +189937,7 @@
   "legacyPackages.x86_64-linux.php82Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
     "pname": "phing",
-    "version": "3.0.1"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.php82Packages.phive": {
     "description": "Phar Installation and Verification Environment (PHIVE)",
@@ -190587,7 +190597,7 @@
   "legacyPackages.x86_64-linux.php83Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
     "pname": "phing",
-    "version": "3.0.1"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.php83Packages.phive": {
     "description": "Phar Installation and Verification Environment (PHIVE)",
@@ -191247,7 +191257,7 @@
   "legacyPackages.x86_64-linux.php84Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
     "pname": "phing",
-    "version": "3.0.1"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.php84Packages.phive": {
     "description": "Phar Installation and Verification Environment (PHIVE)",
@@ -191822,7 +191832,7 @@
   "legacyPackages.x86_64-linux.pim6sd": {
     "description": "PIM for IPv6 sparse mode daemon",
     "pname": "pim6sd",
-    "version": "0-unstable-2019-05-31"
+    "version": "0-unstable-2024-12-14"
   },
   "legacyPackages.x86_64-linux.pimsync": {
     "description": "Synchronise calendars and contacts",
@@ -201197,7 +201207,7 @@
   "legacyPackages.x86_64-linux.pulumi-bin": {
     "description": "Pulumi is a cloud development platform that makes creating cloud programs easy and productive",
     "pname": "pulumi",
-    "version": "3.185.0"
+    "version": "3.186.0"
   },
   "legacyPackages.x86_64-linux.pulumi-esc": {
     "description": "Pulumi ESC (Environments, Secrets, and Configuration) for cloud applications and infrastructure",
@@ -207697,7 +207707,7 @@
   "legacyPackages.x86_64-linux.python312Packages.censys": {
     "description": "Python API wrapper for the Censys Search Engine (censys.io)",
     "pname": "python3.12-censys",
-    "version": "2.2.17"
+    "version": "2.2.18"
   },
   "legacyPackages.x86_64-linux.python312Packages.cerberus": {
     "description": "Schema and data validation tool for Python dictionaries",
@@ -209642,7 +209652,7 @@
   "legacyPackages.x86_64-linux.python312Packages.cwl-utils": {
     "description": "Utilities for CWL",
     "pname": "python3.12-cwl-utils",
-    "version": "0.38"
+    "version": "0.39"
   },
   "legacyPackages.x86_64-linux.python312Packages.cwlformat": {
     "description": "Code formatter for CWL",
@@ -221887,7 +221897,7 @@
   "legacyPackages.x86_64-linux.python312Packages.license-expression": {
     "description": "Utility library to parse, normalize and compare License expressions",
     "pname": "python3.12-license-expression",
-    "version": "30.4.3"
+    "version": "30.4.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.lida": {
     "description": "Automatic Generation of Visualizations and Infographics using Large Language Models",
@@ -222412,7 +222422,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llm-gemini": {
     "description": "LLM plugin to access Google's Gemini family of models",
     "pname": "python3.12-llm-gemini",
-    "version": "0.23"
+    "version": "0.24"
   },
   "legacyPackages.x86_64-linux.python312Packages.llm-gguf": {
     "description": "Run models distributed as GGUF files using LLM",
@@ -224892,7 +224902,7 @@
   "legacyPackages.x86_64-linux.python312Packages.msgraph-sdk": {
     "description": "Microsoft Graph SDK for Python",
     "pname": "python3.12-msgraph-sdk",
-    "version": "1.38.0"
+    "version": "1.39.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.msgspec": {
     "description": "Module to handle JSON/MessagePack",
@@ -225037,7 +225047,7 @@
   "legacyPackages.x86_64-linux.python312Packages.multitasking": {
     "description": "Non-blocking Python methods using decorators",
     "pname": "python3.12-multitasking",
-    "version": "0.0.11"
+    "version": "0.0.12"
   },
   "legacyPackages.x86_64-linux.python312Packages.multivolumefile": {
     "description": "Library to provide a file-object wrapping multiple files as virtually like as a single file",
@@ -234679,6 +234689,11 @@
     "pname": "python3.12-pymongo-inmemory",
     "version": "0.5.0"
   },
+  "legacyPackages.x86_64-linux.python312Packages.pymonoprice": {
+    "description": "Python 3 interface implementation for Monoprice 6 zone amplifier",
+    "pname": "python3.12-pymonoprice",
+    "version": "0.5"
+  },
   "legacyPackages.x86_64-linux.python312Packages.pymoo": {
     "description": "Multi-objective Optimization in Python",
     "pname": "python3.12-pymoo",
@@ -237818,6 +237833,11 @@
     "description": "Python bindings for the remote Jenkins API",
     "pname": "python3.12-python-jenkins",
     "version": "1.8.2"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.python-join-api": {
+    "description": "Python API for interacting with Join by joaoapps",
+    "pname": "python3.12-python-join-api",
+    "version": "0.0.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.python-jose": {
     "description": "JOSE implementation in Python",
@@ -241572,7 +241592,7 @@
   "legacyPackages.x86_64-linux.python312Packages.scikit-hep-testdata": {
     "description": "Common package to provide example files (e.g., ROOT) for testing and developing packages against",
     "pname": "python3.12-scikit-hep-testdata",
-    "version": "0.5.4"
+    "version": "0.5.8"
   },
   "legacyPackages.x86_64-linux.python312Packages.scikit-image": {
     "description": "Image processing routines for SciPy",
@@ -251877,7 +251897,7 @@
   "legacyPackages.x86_64-linux.python312Packages.xdis": {
     "description": "Python cross-version byte-code disassembler and marshal routines",
     "pname": "python3.12-xdis",
-    "version": "6.1.4"
+    "version": "6.1.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.xdoctest": {
     "description": "Rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX",
@@ -258702,7 +258722,7 @@
   "legacyPackages.x86_64-linux.python313Packages.censys": {
     "description": "Python API wrapper for the Censys Search Engine (censys.io)",
     "pname": "python3.13-censys",
-    "version": "2.2.17"
+    "version": "2.2.18"
   },
   "legacyPackages.x86_64-linux.python313Packages.cerberus": {
     "description": "Schema and data validation tool for Python dictionaries",
@@ -260647,7 +260667,7 @@
   "legacyPackages.x86_64-linux.python313Packages.cwl-utils": {
     "description": "Utilities for CWL",
     "pname": "python3.13-cwl-utils",
-    "version": "0.38"
+    "version": "0.39"
   },
   "legacyPackages.x86_64-linux.python313Packages.cwlformat": {
     "description": "Code formatter for CWL",
@@ -272892,7 +272912,7 @@
   "legacyPackages.x86_64-linux.python313Packages.license-expression": {
     "description": "Utility library to parse, normalize and compare License expressions",
     "pname": "python3.13-license-expression",
-    "version": "30.4.3"
+    "version": "30.4.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.lida": {
     "description": "Automatic Generation of Visualizations and Infographics using Large Language Models",
@@ -273417,7 +273437,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llm-gemini": {
     "description": "LLM plugin to access Google's Gemini family of models",
     "pname": "python3.13-llm-gemini",
-    "version": "0.23"
+    "version": "0.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.llm-gguf": {
     "description": "Run models distributed as GGUF files using LLM",
@@ -275897,7 +275917,7 @@
   "legacyPackages.x86_64-linux.python313Packages.msgraph-sdk": {
     "description": "Microsoft Graph SDK for Python",
     "pname": "python3.13-msgraph-sdk",
-    "version": "1.38.0"
+    "version": "1.39.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.msgspec": {
     "description": "Module to handle JSON/MessagePack",
@@ -276042,7 +276062,7 @@
   "legacyPackages.x86_64-linux.python313Packages.multitasking": {
     "description": "Non-blocking Python methods using decorators",
     "pname": "python3.13-multitasking",
-    "version": "0.0.11"
+    "version": "0.0.12"
   },
   "legacyPackages.x86_64-linux.python313Packages.multivolumefile": {
     "description": "Library to provide a file-object wrapping multiple files as virtually like as a single file",
@@ -285684,6 +285704,11 @@
     "pname": "python3.13-pymongo-inmemory",
     "version": "0.5.0"
   },
+  "legacyPackages.x86_64-linux.python313Packages.pymonoprice": {
+    "description": "Python 3 interface implementation for Monoprice 6 zone amplifier",
+    "pname": "python3.13-pymonoprice",
+    "version": "0.5"
+  },
   "legacyPackages.x86_64-linux.python313Packages.pymoo": {
     "description": "Multi-objective Optimization in Python",
     "pname": "python3.13-pymoo",
@@ -288823,6 +288848,11 @@
     "description": "Python bindings for the remote Jenkins API",
     "pname": "python3.13-python-jenkins",
     "version": "1.8.2"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.python-join-api": {
+    "description": "Python API for interacting with Join by joaoapps",
+    "pname": "python3.13-python-join-api",
+    "version": "0.0.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-jose": {
     "description": "JOSE implementation in Python",
@@ -292577,7 +292607,7 @@
   "legacyPackages.x86_64-linux.python313Packages.scikit-hep-testdata": {
     "description": "Common package to provide example files (e.g., ROOT) for testing and developing packages against",
     "pname": "python3.13-scikit-hep-testdata",
-    "version": "0.5.4"
+    "version": "0.5.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.scikit-image": {
     "description": "Image processing routines for SciPy",
@@ -302927,7 +302957,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xdis": {
     "description": "Python cross-version byte-code disassembler and marshal routines",
     "pname": "python3.13-xdis",
-    "version": "6.1.4"
+    "version": "6.1.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.xdoctest": {
     "description": "Rewrite of Python's builtin doctest module (with pytest plugin integration) with AST instead of REGEX",
@@ -307922,7 +307952,7 @@
   "legacyPackages.x86_64-linux.renode-dts2repl": {
     "description": "Tool for converting device tree sources into Renode's .repl files",
     "pname": "renode-dts2repl",
-    "version": "0-unstable-2025-07-08"
+    "version": "0-unstable-2025-07-24"
   },
   "legacyPackages.x86_64-linux.renode-unstable": {
     "description": "Virtual development framework for complex embedded systems",
@@ -321677,7 +321707,7 @@
   "legacyPackages.x86_64-linux.ruffle": {
     "description": "Cross platform Adobe Flash Player emulator",
     "pname": "ruffle",
-    "version": "0-nightly-2025-07-19"
+    "version": "0-nightly-2025-07-27"
   },
   "legacyPackages.x86_64-linux.rufo": {
     "description": "Ruby formatter",
@@ -346792,7 +346822,7 @@
   "legacyPackages.x86_64-linux.schemat": {
     "description": "Code formatter for Scheme, Lisp, and any S-expressions",
     "pname": "schemat",
-    "version": "0.4.1"
+    "version": "0.4.2"
   },
   "legacyPackages.x86_64-linux.scheme-bytestructures": {
     "description": "Structured access to bytevector contents",
@@ -353247,7 +353277,7 @@
   "legacyPackages.x86_64-linux.steck": {
     "description": "Client for pinnwand pastebin",
     "pname": "steck",
-    "version": "0.7.0"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.steel": {
     "description": "Embedded scheme interpreter in Rust",
@@ -353347,7 +353377,7 @@
   "legacyPackages.x86_64-linux.sticky": {
     "description": "Sticky notes app for the linux desktop",
     "pname": "sticky",
-    "version": "1.24"
+    "version": "1.25"
   },
   "legacyPackages.x86_64-linux.sticky-notes": {
     "description": "Simple sticky notes app for GNOME",
@@ -355472,7 +355502,7 @@
   "legacyPackages.x86_64-linux.system76-power": {
     "description": "System76 Power Management",
     "pname": "system76-power",
-    "version": "1.2.6"
+    "version": "1.2.7"
   },
   "legacyPackages.x86_64-linux.system76-scheduler": {
     "description": "System76 Scheduler",
@@ -356917,7 +356947,7 @@
   "legacyPackages.x86_64-linux.telegraf": {
     "description": "Plugin-driven server agent for collecting & reporting metrics",
     "pname": "telegraf",
-    "version": "1.35.2"
+    "version": "1.35.3"
   },
   "legacyPackages.x86_64-linux.telegram-bot-api": {
     "description": "Telegram Bot API server",
@@ -357482,7 +357512,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.acme": {
     "description": "",
     "pname": "terraform-provider-acme",
-    "version": "2.34.0"
+    "version": "2.35.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.age": {
     "description": "",
@@ -357502,7 +357532,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.alicloud": {
     "description": "",
     "pname": "terraform-provider-alicloud",
-    "version": "1.253.0"
+    "version": "1.254.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.ansible": {
     "description": "",
@@ -357757,7 +357787,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google": {
     "description": "",
     "pname": "terraform-provider-google",
-    "version": "6.44.0"
+    "version": "6.45.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
@@ -357857,7 +357887,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.kafka": {
     "description": "",
     "pname": "terraform-provider-kafka",
-    "version": "0.10.3"
+    "version": "0.12.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.kafka-connect": {
     "description": "",
@@ -357932,12 +357962,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.minio": {
     "description": "",
     "pname": "terraform-provider-minio",
-    "version": "3.6.1"
+    "version": "3.6.2"
   },
   "legacyPackages.x86_64-linux.terraform-providers.mongodbatlas": {
     "description": "",
     "pname": "terraform-provider-mongodbatlas",
-    "version": "1.38.0"
+    "version": "1.39.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.namecheap": {
     "description": "",
@@ -358092,7 +358122,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.rootly": {
     "description": "",
     "pname": "terraform-provider-rootly",
-    "version": "3.4.0"
+    "version": "3.5.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.routeros": {
     "description": "",
@@ -358207,17 +358237,17 @@
   "legacyPackages.x86_64-linux.terraform-providers.temporalcloud": {
     "description": "",
     "pname": "terraform-provider-temporalcloud",
-    "version": "0.9.0"
+    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.tencentcloud": {
     "description": "",
     "pname": "terraform-provider-tencentcloud",
-    "version": "1.82.11"
+    "version": "1.82.13"
   },
   "legacyPackages.x86_64-linux.terraform-providers.tfe": {
     "description": "",
     "pname": "terraform-provider-tfe",
-    "version": "0.68.0"
+    "version": "0.68.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.thunder": {
     "description": "",
@@ -358242,7 +358272,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.turbot": {
     "description": "",
     "pname": "terraform-provider-turbot",
-    "version": "1.12.3"
+    "version": "1.12.4"
   },
   "legacyPackages.x86_64-linux.terraform-providers.ucloud": {
     "description": "",
@@ -382062,7 +382092,7 @@
   "legacyPackages.x86_64-linux.tflint": {
     "description": "Terraform linter focused on possible errors, best practices, and so on",
     "pname": "tflint",
-    "version": "0.58.0"
+    "version": "0.58.1"
   },
   "legacyPackages.x86_64-linux.tflint-plugins.tflint-ruleset-aws": {
     "description": "TFLint ruleset plugin for Terraform AWS Provider",
@@ -385732,7 +385762,7 @@
   "legacyPackages.x86_64-linux.tscli": {
     "description": "CLI tool to interact with the Tailscale API",
     "pname": "tscli",
-    "version": "0.0.13"
+    "version": "0.0.15"
   },
   "legacyPackages.x86_64-linux.tsduck": {
     "description": "MPEG Transport Stream Toolkit",
@@ -406649,6 +406679,11 @@
     "pname": "vimplugin-errormarker.vim",
     "version": "2015-01-26"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.ethersync": {
+    "description": "Real-time co-editing of local text files",
+    "pname": "vimplugin-ethersync",
+    "version": "0.7.0"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.eva01-vim": {
     "description": "",
     "pname": "vimplugin-eva01.vim",
@@ -419902,7 +419937,7 @@
   "legacyPackages.x86_64-linux.wdt": {
     "description": "Warp speed Data Transfer",
     "pname": "wdt",
-    "version": "1.27.1612021-unstable-2025-07-09"
+    "version": "1.27.1612021-unstable-2025-07-23"
   },
   "legacyPackages.x86_64-linux.wealthfolio": {
     "description": "Beautiful Private and Secure Desktop Investment Tracking Application",
@@ -423057,7 +423092,7 @@
   "legacyPackages.x86_64-linux.xcrawl3r": {
     "description": "CLI utility to recursively crawl webpages",
     "pname": "xcrawl3r",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.xcruiser": {
     "description": "Filesystem visualization utility",
@@ -423088,6 +423123,11 @@
     "description": "Clock application that morphs digits when they are changed",
     "pname": "xdaliclock",
     "version": "2.48"
+  },
+  "legacyPackages.x86_64-linux.xdcc-cli": {
+    "description": "CLI tool for downloading files using XDCC written in Rust",
+    "pname": "xdcc-cli",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.xdelta": {
     "description": "Binary differential compression in VCDIFF (RFC 3284) format",
@@ -423162,7 +423202,7 @@
   "legacyPackages.x86_64-linux.xdg-ninja": {
     "description": "Shell script which checks your $HOME for unwanted files and directories",
     "pname": "xdg-ninja",
-    "version": "0.2.0.2-unstable-2025-06-07"
+    "version": "0.2.0.2-unstable-2025-07-25"
   },
   "legacyPackages.x86_64-linux.xdg-terminal-exec": {
     "description": "Reference implementation of the proposed XDG Default Terminal Execution Specification",
@@ -425667,7 +425707,7 @@
   "legacyPackages.x86_64-linux.xray": {
     "description": "Platform for building proxies to bypass network restrictions. A replacement for v2ray-core, with XTLS support and fully compatible configuration",
     "pname": "xray",
-    "version": "25.2.21"
+    "version": "25.7.26"
   },
   "legacyPackages.x86_64-linux.xrdp": {
     "description": "Open source RDP server",
@@ -425832,7 +425872,7 @@
   "legacyPackages.x86_64-linux.xsubfind3r": {
     "description": "CLI utility to find subdomains from curated passive online sources",
     "pname": "xsubfind3r",
-    "version": "1.0.0"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.xsuspender": {
     "description": "Auto-suspend inactive X11 applications",
