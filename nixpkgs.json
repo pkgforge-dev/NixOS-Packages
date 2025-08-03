@@ -1827,7 +1827,7 @@
   "legacyPackages.x86_64-linux.airwindows": {
     "description": "All Airwindows VST Plugins",
     "pname": "airwindows",
-    "version": "0-unstable-2025-07-19"
+    "version": "0-unstable-2025-07-27"
   },
   "legacyPackages.x86_64-linux.airwindows-lv2": {
     "description": "Airwindows plugins (ported to LV2)",
@@ -4652,12 +4652,12 @@
   "legacyPackages.x86_64-linux.androidStudioPackages.canary": {
     "description": "Official IDE for Android (canary channel)",
     "pname": "android-studio-canary",
-    "version": "2025.1.3.2"
+    "version": "2025.1.3.3"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.dev": {
     "description": "Official IDE for Android (dev channel)",
     "pname": "android-studio-dev",
-    "version": "2025.1.3.2"
+    "version": "2025.1.3.3"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.stable": {
     "description": "Official IDE for Android (stable channel)",
@@ -8922,7 +8922,7 @@
   "legacyPackages.x86_64-linux.appthreat-depscan": {
     "description": "Security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies",
     "pname": "dep-scan",
-    "version": "5.5.0"
+    "version": "6.0.0b3"
   },
   "legacyPackages.x86_64-linux.appvm": {
     "description": "Nix-based app VMs",
@@ -10652,17 +10652,17 @@
   "legacyPackages.x86_64-linux.asterisk": {
     "description": "Software implementation of a telephone private branch exchange (PBX)",
     "pname": "asterisk",
-    "version": "20.11.1"
+    "version": "20.15.0"
   },
   "legacyPackages.x86_64-linux.asterisk-ldap": {
     "description": "Software implementation of a telephone private branch exchange (PBX)",
     "pname": "asterisk-ldap",
-    "version": "20.11.1"
+    "version": "20.15.0"
   },
   "legacyPackages.x86_64-linux.asterisk-lts": {
     "description": "Software implementation of a telephone private branch exchange (PBX)",
     "pname": "asterisk",
-    "version": "18.26.1"
+    "version": "18.26.2"
   },
   "legacyPackages.x86_64-linux.asterisk-module-sccp": {
     "description": "Replacement for the SCCP channel driver in Asterisk",
@@ -10672,17 +10672,22 @@
   "legacyPackages.x86_64-linux.asterisk-stable": {
     "description": "Software implementation of a telephone private branch exchange (PBX)",
     "pname": "asterisk",
-    "version": "20.11.1"
+    "version": "20.15.0"
   },
   "legacyPackages.x86_64-linux.asterisk_18": {
     "description": "Software implementation of a telephone private branch exchange (PBX)",
     "pname": "asterisk",
-    "version": "18.26.1"
+    "version": "18.26.2"
   },
   "legacyPackages.x86_64-linux.asterisk_20": {
     "description": "Software implementation of a telephone private branch exchange (PBX)",
     "pname": "asterisk",
-    "version": "20.11.1"
+    "version": "20.15.0"
+  },
+  "legacyPackages.x86_64-linux.asterisk_22": {
+    "description": "Software implementation of a telephone private branch exchange (PBX)",
+    "pname": "asterisk",
+    "version": "22.5.0"
   },
   "legacyPackages.x86_64-linux.astral": {
     "description": "Tool for estimating an unrooted species tree given a set of unrooted gene trees",
@@ -18637,7 +18642,7 @@
   "legacyPackages.x86_64-linux.cargo-3ds": {
     "description": "Cargo command to work with Nintendo 3DS project binaries",
     "pname": "cargo",
-    "version": "3ds-0.1.4"
+    "version": "3ds-0.1.5"
   },
   "legacyPackages.x86_64-linux.cargo-about": {
     "description": "Cargo plugin to generate list of all licenses for a crate",
@@ -19097,7 +19102,7 @@
   "legacyPackages.x86_64-linux.cargo-public-api": {
     "description": "List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations",
     "pname": "cargo-public-api",
-    "version": "0.49.0"
+    "version": "0.50.1"
   },
   "legacyPackages.x86_64-linux.cargo-raze": {
     "description": "Generate Bazel BUILD files from Cargo dependencies",
@@ -20022,7 +20027,7 @@
   "legacyPackages.x86_64-linux.cdncheck": {
     "description": "Tool to detect various technology for a given IP address",
     "pname": "cdncheck",
-    "version": "1.1.29"
+    "version": "1.1.30"
   },
   "legacyPackages.x86_64-linux.cdo": {
     "description": "Collection of command line Operators to manipulate and analyse Climate and NWP model Data",
@@ -24592,12 +24597,12 @@
   "legacyPackages.x86_64-linux.cjdns": {
     "description": "Encrypted networking for regular people",
     "pname": "cjdns",
-    "version": "21.4"
+    "version": "22.1"
   },
   "legacyPackages.x86_64-linux.cjdns-tools": {
     "description": "Tools for cjdns managment",
     "pname": "cjdns-tools",
-    "version": "21.4"
+    "version": "22.1"
   },
   "legacyPackages.x86_64-linux.cjose": {
     "description": "C library for Javascript Object Signing and Encryption. This is a maintained fork of the original project",
@@ -30337,7 +30342,7 @@
   "legacyPackages.x86_64-linux.cura-appimage": {
     "description": "3D printing software",
     "pname": "cura-appimage",
-    "version": "5.10.1"
+    "version": "5.10.2"
   },
   "legacyPackages.x86_64-linux.curaengine": {
     "description": "Powerful, fast and robust engine for processing 3D models into 3D printing instruction",
@@ -33152,7 +33157,7 @@
   "legacyPackages.x86_64-linux.dep-scan": {
     "description": "Security and risk audit tool based on known vulnerabilities, advisories, and license limitations for project dependencies",
     "pname": "dep-scan",
-    "version": "5.5.0"
+    "version": "6.0.0b3"
   },
   "legacyPackages.x86_64-linux.dep-tree": {
     "description": "Tool for visualizing interconnectedness of codebases in multiple languages",
@@ -34722,7 +34727,7 @@
   "legacyPackages.x86_64-linux.dnsmonster": {
     "description": "Passive DNS Capture and Monitoring Toolkit",
     "pname": "dnsmonster",
-    "version": "1.0.0"
+    "version": "1.0.2"
   },
   "legacyPackages.x86_64-linux.dnsname-cni": {
     "description": "DNS name resolution for containers",
@@ -46302,7 +46307,7 @@
   "legacyPackages.x86_64-linux.gcc-arm-embedded": {
     "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
     "pname": "gcc-arm-embedded",
-    "version": "14.2.rel1"
+    "version": "14.3.rel1"
   },
   "legacyPackages.x86_64-linux.gcc-arm-embedded-13": {
     "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
@@ -46312,7 +46317,7 @@
   "legacyPackages.x86_64-linux.gcc-arm-embedded-14": {
     "description": "Pre-built GNU toolchain from ARM Cortex-M & Cortex-R processors",
     "pname": "gcc-arm-embedded",
-    "version": "14.2.rel1"
+    "version": "14.3.rel1"
   },
   "legacyPackages.x86_64-linux.gcc-unwrapped": {
     "description": "GNU Compiler Collection, version 14.3.0",
@@ -57012,7 +57017,7 @@
   "legacyPackages.x86_64-linux.gost": {
     "description": "Simple tunnel written in golang",
     "pname": "gost",
-    "version": "3.1.0"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.gostatic": {
     "description": "Fast static site generator",
@@ -57137,7 +57142,7 @@
   "legacyPackages.x86_64-linux.gotty": {
     "description": "Share your terminal as a web application",
     "pname": "gotty",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.gotypist": {
     "description": "Touch-typing tutor",
@@ -60367,7 +60372,7 @@
   "legacyPackages.x86_64-linux.hashcat": {
     "description": "Fast password cracker",
     "pname": "hashcat",
-    "version": "6.2.6"
+    "version": "7.0.0"
   },
   "legacyPackages.x86_64-linux.hashcat-utils": {
     "description": "Small utilities that are useful in advanced password cracking",
@@ -82042,7 +82047,7 @@
   "legacyPackages.x86_64-linux.libation": {
     "description": "Audible audiobook manager",
     "pname": "libation",
-    "version": "12.3.1"
+    "version": "12.4.9"
   },
   "legacyPackages.x86_64-linux.libatomic_ops": {
     "description": "Library for semi-portable access to hardware-provided atomic memory update operations",
@@ -85737,7 +85742,7 @@
   "legacyPackages.x86_64-linux.libretro.beetle-pce-fast": {
     "description": "Port of Mednafen's PC Engine fast core to libretro",
     "pname": "libretro-mednafen-pce-fast",
-    "version": "0-unstable-2025-07-18"
+    "version": "0-unstable-2025-08-01"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-pcfx": {
     "description": "Port of Mednafen's PCFX core to libretro",
@@ -86122,7 +86127,7 @@
   "legacyPackages.x86_64-linux.libretro.stella": {
     "description": "Port of Stella to libretro",
     "pname": "libretro-stella",
-    "version": "0-unstable-2025-06-26"
+    "version": "0-unstable-2025-07-28"
   },
   "legacyPackages.x86_64-linux.libretro.stella2014": {
     "description": "Port of Stella ~2014 to libretro",
@@ -138357,7 +138362,7 @@
   "legacyPackages.x86_64-linux.moonlight": {
     "description": "Discord client modification, focused on enhancing user and developer experience",
     "pname": "moonlight",
-    "version": "1.3.24"
+    "version": "1.3.25"
   },
   "legacyPackages.x86_64-linux.moonlight-embedded": {
     "description": "Open source implementation of NVIDIA's GameStream",
@@ -145787,7 +145792,7 @@
   "legacyPackages.x86_64-linux.nuclei-templates": {
     "description": "Templates for the nuclei engine to find security vulnerabilities",
     "pname": "nuclei-templates",
-    "version": "10.2.5"
+    "version": "10.2.6"
   },
   "legacyPackages.x86_64-linux.nucleiparser": {
     "description": "Nuclei output parser for CLI",
@@ -195637,7 +195642,7 @@
   "legacyPackages.x86_64-linux.plater": {
     "description": "3D-printer parts placer and plate generator",
     "pname": "plater",
-    "version": "2020-07-30"
+    "version": "1.0.0-unstable-2025-03-24"
   },
   "legacyPackages.x86_64-linux.platform-folders": {
     "description": "C++ library to look for standard platform directories so that you do not need to write platform-specific code",
@@ -212904,10 +212909,25 @@
     "pname": "python3.12-dropmqttapi",
     "version": "1.0.3"
   },
+  "legacyPackages.x86_64-linux.python312Packages.ds-analysis-lib": {
+    "description": "Analysis library for owasp depscan",
+    "pname": "python3.12-ds-analysis-lib",
+    "version": "6.0.0b3"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.ds-reporting-lib": {
+    "description": "Reporting library for owasp depscan",
+    "pname": "python3.12-ds-reporting-lib",
+    "version": "6.0.0b3"
+  },
   "legacyPackages.x86_64-linux.python312Packages.ds-store": {
     "description": "Manipulate Finder .DS_Store files from Python",
     "pname": "python3.12-ds-store",
     "version": "1.3.1"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.ds-xbom-lib": {
+    "description": "xBOM library for owasp depscan",
+    "pname": "python3.12-ds-xbom-lib",
+    "version": "6.0.0b3"
   },
   "legacyPackages.x86_64-linux.python312Packages.ds4drv": {
     "description": "Userspace driver for the DualShock 4 controller",
@@ -214382,7 +214402,7 @@
   "legacyPackages.x86_64-linux.python312Packages.fastcore": {
     "description": "Python module for Fast AI",
     "pname": "python3.12-fastcore",
-    "version": "1.8.6"
+    "version": "1.8.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.fastcrc": {
     "description": "Hyper-fast Python module for computing CRC(8, 16, 32, 64) checksum",
@@ -222532,7 +222552,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llama-index-instrumentation": {
     "description": "Support for instrumentation in LlamaIndex applications",
     "pname": "python3.12-llama-index-instrumentation",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.llama-index-legacy": {
     "description": "LlamaIndex Readers Integration for files",
@@ -235147,7 +235167,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pynetdicom": {
     "description": "Python implementation of the DICOM networking protocol",
     "pname": "python3.12-pynetdicom",
-    "version": "3.0.3"
+    "version": "3.0.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.pynetgear": {
     "description": "Module for interacting with Netgear wireless routers",
@@ -235412,7 +235432,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyosohotwaterapi": {
     "description": "Module for using the OSO Hotwater API",
     "pname": "python3.12-pyosohotwaterapi",
-    "version": "1.2.0"
+    "version": "1.2.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyotb": {
     "description": "Python extension of Orfeo Toolbox",
@@ -241097,7 +241117,7 @@
   "legacyPackages.x86_64-linux.python312Packages.roadrecon": {
     "description": "Azure AD recon",
     "pname": "python3.12-roadrecon",
-    "version": "1.6.2"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.roadtools": {
     "description": "Azure AD tooling framework",
@@ -241242,7 +241262,7 @@
   "legacyPackages.x86_64-linux.python312Packages.root": {
     "description": "Data analysis framework",
     "pname": "python3.12-root",
-    "version": "6.36.00"
+    "version": "6.36.02"
   },
   "legacyPackages.x86_64-linux.python312Packages.rope": {
     "description": "Python refactoring library",
@@ -246352,7 +246372,7 @@
   "legacyPackages.x86_64-linux.python312Packages.timezonefinder": {
     "description": "Module for finding the timezone of any point on earth (coordinates) offline",
     "pname": "python3.12-timezonefinder",
-    "version": "6.6.2"
+    "version": "7.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.timing-asgi": {
     "description": "ASGI middleware to emit timing metrics with something like statsd",
@@ -263994,10 +264014,25 @@
     "pname": "python3.13-dropmqttapi",
     "version": "1.0.3"
   },
+  "legacyPackages.x86_64-linux.python313Packages.ds-analysis-lib": {
+    "description": "Analysis library for owasp depscan",
+    "pname": "python3.13-ds-analysis-lib",
+    "version": "6.0.0b3"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.ds-reporting-lib": {
+    "description": "Reporting library for owasp depscan",
+    "pname": "python3.13-ds-reporting-lib",
+    "version": "6.0.0b3"
+  },
   "legacyPackages.x86_64-linux.python313Packages.ds-store": {
     "description": "Manipulate Finder .DS_Store files from Python",
     "pname": "python3.13-ds-store",
     "version": "1.3.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.ds-xbom-lib": {
+    "description": "xBOM library for owasp depscan",
+    "pname": "python3.13-ds-xbom-lib",
+    "version": "6.0.0b3"
   },
   "legacyPackages.x86_64-linux.python313Packages.ds4drv": {
     "description": "Userspace driver for the DualShock 4 controller",
@@ -265472,7 +265507,7 @@
   "legacyPackages.x86_64-linux.python313Packages.fastcore": {
     "description": "Python module for Fast AI",
     "pname": "python3.13-fastcore",
-    "version": "1.8.6"
+    "version": "1.8.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.fastcrc": {
     "description": "Hyper-fast Python module for computing CRC(8, 16, 32, 64) checksum",
@@ -273622,7 +273657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llama-index-instrumentation": {
     "description": "Support for instrumentation in LlamaIndex applications",
     "pname": "python3.13-llama-index-instrumentation",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.llama-index-legacy": {
     "description": "LlamaIndex Readers Integration for files",
@@ -286237,7 +286272,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pynetdicom": {
     "description": "Python implementation of the DICOM networking protocol",
     "pname": "python3.13-pynetdicom",
-    "version": "3.0.3"
+    "version": "3.0.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.pynetgear": {
     "description": "Module for interacting with Netgear wireless routers",
@@ -286502,7 +286537,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyosohotwaterapi": {
     "description": "Module for using the OSO Hotwater API",
     "pname": "python3.13-pyosohotwaterapi",
-    "version": "1.2.0"
+    "version": "1.2.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyotb": {
     "description": "Python extension of Orfeo Toolbox",
@@ -292187,7 +292222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.roadrecon": {
     "description": "Azure AD recon",
     "pname": "python3.13-roadrecon",
-    "version": "1.6.2"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.roadtools": {
     "description": "Azure AD tooling framework",
@@ -292332,7 +292367,7 @@
   "legacyPackages.x86_64-linux.python313Packages.root": {
     "description": "Data analysis framework",
     "pname": "python3.13-root",
-    "version": "6.36.00"
+    "version": "6.36.02"
   },
   "legacyPackages.x86_64-linux.python313Packages.rope": {
     "description": "Python refactoring library",
@@ -297487,7 +297522,7 @@
   "legacyPackages.x86_64-linux.python313Packages.timezonefinder": {
     "description": "Module for finding the timezone of any point on earth (coordinates) offline",
     "pname": "python3.13-timezonefinder",
-    "version": "6.6.2"
+    "version": "7.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.timing-asgi": {
     "description": "ASGI middleware to emit timing metrics with something like statsd",
@@ -305057,7 +305092,7 @@
   "legacyPackages.x86_64-linux.qownnotes": {
     "description": "Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration",
     "pname": "qownnotes",
-    "version": "25.7.8"
+    "version": "25.7.9"
   },
   "legacyPackages.x86_64-linux.qpaeq": {
     "description": "Equalizer interface for pulseaudio's equalizer sinks",
@@ -310857,7 +310892,7 @@
   "legacyPackages.x86_64-linux.root": {
     "description": "Data analysis framework",
     "pname": "root",
-    "version": "6.36.00"
+    "version": "6.36.02"
   },
   "legacyPackages.x86_64-linux.rootbar": {
     "description": "Bar for Wayland WMs",
@@ -384652,7 +384687,7 @@
   "legacyPackages.x86_64-linux.tpnote": {
     "description": "Markup enhanced granular note-taking",
     "pname": "tpnote",
-    "version": "1.25.12"
+    "version": "1.25.14"
   },
   "legacyPackages.x86_64-linux.tproxy": {
     "description": "CLI tool to proxy and analyze TCP connections",
@@ -419693,6 +419728,11 @@
     "description": "Rust library for generating cryptocurrency wallets",
     "pname": "wagyu",
     "version": "0.6.3"
+  },
+  "legacyPackages.x86_64-linux.wahay": {
+    "description": "Decentralized encrypted conference call application",
+    "pname": "wahay",
+    "version": "0.2"
   },
   "legacyPackages.x86_64-linux.waifu2x-converter-cpp": {
     "description": "Improved fork of Waifu2X C++ using OpenCL and OpenCV",
