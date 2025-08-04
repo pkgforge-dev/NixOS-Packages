@@ -871,7 +871,7 @@
   },
   "legacyPackages.x86_64-linux.acd-cli": {
     "description": "Command line interface and FUSE filesystem for Amazon Cloud Drive",
-    "pname": "acd_cli",
+    "pname": "acd-cli",
     "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.ace": {
@@ -3962,7 +3962,7 @@
   "legacyPackages.x86_64-linux.aliyun-cli": {
     "description": "Tool to manage and use Alibaba Cloud resources through a command line interface",
     "pname": "aliyun-cli",
-    "version": "3.0.291"
+    "version": "3.0.292"
   },
   "legacyPackages.x86_64-linux.alkalami": {
     "description": "Font for Arabic-based writing systems in the Kano region of Nigeria and in Niger",
@@ -8172,7 +8172,7 @@
   "legacyPackages.x86_64-linux.anyk": {
     "description": "Tool for filling forms for the Hungarian government",
     "pname": "anyk",
-    "version": "3.43.0"
+    "version": "3.44.0"
   },
   "legacyPackages.x86_64-linux.anyrun": {
     "description": "Wayland-native, highly customizable runner",
@@ -8387,7 +8387,7 @@
   "legacyPackages.x86_64-linux.apacheHttpdPackages.php": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.apacheHttpdPackages.subversion": {
     "description": "Version control system intended to be a compelling replacement for CVS in the open source community",
@@ -8497,7 +8497,7 @@
   "legacyPackages.x86_64-linux.apacheHttpdPackages_2_4.php": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.apacheHttpdPackages_2_4.subversion": {
     "description": "Version control system intended to be a compelling replacement for CVS in the open source community",
@@ -8652,7 +8652,7 @@
   "legacyPackages.x86_64-linux.apkg": {
     "description": "Upstream packaging automation tool",
     "pname": "apkg",
-    "version": "0.5.0"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.apkid": {
     "description": "Android Application Identifier",
@@ -13147,7 +13147,7 @@
   "legacyPackages.x86_64-linux.balena-cli": {
     "description": "Command line interface for balenaCloud or openBalena",
     "pname": "balena-cli",
-    "version": "22.1.4"
+    "version": "22.1.5"
   },
   "legacyPackages.x86_64-linux.ballerburg": {
     "description": "Classic cannon combat game",
@@ -13324,6 +13324,11 @@
     "pname": "bartib",
     "version": "1.1.0"
   },
+  "legacyPackages.x86_64-linux.basalt": {
+    "description": "TUI Application to manage Obsidian notes directly from the terminal",
+    "pname": "basalt",
+    "version": "0.9.0"
+  },
   "legacyPackages.x86_64-linux.basalt-monado": {
     "description": "Fork of Basalt improved for tracking XR devices with Monado",
     "pname": "basalt-monado",
@@ -13412,7 +13417,7 @@
   "legacyPackages.x86_64-linux.bash-preexec": {
     "description": "Preexec and precmd functions for Bash just like Zsh",
     "pname": "bash-preexec",
-    "version": "0.5.0"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.bash-supergenpass": {
     "description": "Bash shell-script implementation of SuperGenPass password generation",
@@ -18007,7 +18012,7 @@
   "legacyPackages.x86_64-linux.c3c": {
     "description": "Compiler for the C3 language",
     "pname": "c3c",
-    "version": "0.7.3"
+    "version": "0.7.4"
   },
   "legacyPackages.x86_64-linux.c3d": {
     "description": "Medical imaging processing tool",
@@ -18822,7 +18827,7 @@
   "legacyPackages.x86_64-linux.cargo-deb": {
     "description": "Cargo subcommand that generates Debian packages from information in Cargo.toml",
     "pname": "cargo-deb",
-    "version": "3.3.0"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.cargo-deny": {
     "description": "Cargo plugin for linting your dependencies",
@@ -19057,7 +19062,7 @@
   "legacyPackages.x86_64-linux.cargo-pgrx": {
     "description": "Build Postgres Extensions with Rust",
     "pname": "cargo-pgrx",
-    "version": "0.15.0"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.cargo-pgrx_0_12_0_alpha_1": {
     "description": "Build Postgres Extensions with Rust",
@@ -25447,7 +25452,7 @@
   "legacyPackages.x86_64-linux.cloud-nuke": {
     "description": "Tool for cleaning up your cloud accounts by nuking (deleting) all resources within it",
     "pname": "cloud-nuke",
-    "version": "0.41.0"
+    "version": "0.42.0"
   },
   "legacyPackages.x86_64-linux.cloud-provider-kind": {
     "description": "Load Balancer implementation for Kubernetes-in-Docker",
@@ -25822,7 +25827,7 @@
   "legacyPackages.x86_64-linux.cnquery": {
     "description": "Cloud-native, graph-based asset inventory",
     "pname": "cnquery",
-    "version": "11.64.0"
+    "version": "11.65.0"
   },
   "legacyPackages.x86_64-linux.cns11643-kai": {
     "description": "Chinese TrueType Kai font by Ministry of Education of Taiwan government",
@@ -25997,12 +26002,12 @@
   "legacyPackages.x86_64-linux.code-cursor": {
     "description": "AI-powered code editor built on vscode",
     "pname": "cursor",
-    "version": "1.2.2"
+    "version": "1.3.8"
   },
   "legacyPackages.x86_64-linux.code-cursor-fhs": {
     "description": "Wrapped variant of cursor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
     "pname": "cursor",
-    "version": "1.2.2"
+    "version": "1.3.8"
   },
   "legacyPackages.x86_64-linux.code-maat": {
     "description": "Command line tool to mine and analyze data from version-control systems",
@@ -26852,7 +26857,7 @@
   "legacyPackages.x86_64-linux.conmon-rs": {
     "description": "OCI container runtime monitor written in Rust",
     "pname": "conmon-rs",
-    "version": "0.6.6"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.connect": {
     "description": "Make network connection via SOCKS and https proxy",
@@ -27847,7 +27852,7 @@
   "legacyPackages.x86_64-linux.corestore": {
     "description": "Simple corestore that wraps a random-access-storage module",
     "pname": "corestore",
-    "version": "7.1.0"
+    "version": "7.4.5"
   },
   "legacyPackages.x86_64-linux.coreth": {
     "description": "Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services",
@@ -28407,7 +28412,7 @@
   "legacyPackages.x86_64-linux.cpptrace": {
     "description": "Simple, portable, and self-contained stacktrace library for C++11 and newer",
     "pname": "cpptrace",
-    "version": "1.0.3"
+    "version": "1.0.4"
   },
   "legacyPackages.x86_64-linux.cppunit": {
     "description": "C++ unit testing framework",
@@ -28692,12 +28697,12 @@
   "legacyPackages.x86_64-linux.cri-o": {
     "description": "Open Container Initiative-based implementation of the Kubernetes Container Runtime Interface ",
     "pname": "cri-o-wrapper",
-    "version": "1.33.2"
+    "version": "1.33.3"
   },
   "legacyPackages.x86_64-linux.cri-o-unwrapped": {
     "description": "Open Container Initiative-based implementation of the Kubernetes Container Runtime Interface ",
     "pname": "cri-o",
-    "version": "1.33.2"
+    "version": "1.33.3"
   },
   "legacyPackages.x86_64-linux.cri-tools": {
     "description": "CLI and validation tools for Kubelet Container Runtime Interface (CRI)",
@@ -28787,7 +28792,7 @@
   "legacyPackages.x86_64-linux.croc": {
     "description": "Easily and securely send things from one computer to another",
     "pname": "croc",
-    "version": "10.2.2"
+    "version": "10.2.3"
   },
   "legacyPackages.x86_64-linux.crocoddyl": {
     "description": "Crocoddyl optimal control library",
@@ -28943,6 +28948,11 @@
     "description": "Network throughput and latency tester",
     "pname": "crusader",
     "version": "0.3.2"
+  },
+  "legacyPackages.x86_64-linux.crush": {
+    "description": "Glamourous AI coding agent for your favourite terminal",
+    "pname": "crush",
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.cryfs": {
     "description": "Cryptographic filesystem for the cloud",
@@ -37852,7 +37862,7 @@
   "legacyPackages.x86_64-linux.edgetx": {
     "description": "EdgeTX Companion transmitter support software",
     "pname": "edgetx",
-    "version": "2.11.0-rc3"
+    "version": "2.11.2"
   },
   "legacyPackages.x86_64-linux.edid-decode": {
     "description": "V4L utils and libv4l, provide common image formats regardless of the v4l device",
@@ -39872,7 +39882,7 @@
   "legacyPackages.x86_64-linux.esphome": {
     "description": "Make creating custom firmwares for ESP32/ESP8266 super easy",
     "pname": "esphome",
-    "version": "2025.7.3"
+    "version": "2025.7.4"
   },
   "legacyPackages.x86_64-linux.espresso": {
     "description": "Multi-valued PLA minimization",
@@ -39982,7 +39992,7 @@
   "legacyPackages.x86_64-linux.etherpad-lite": {
     "description": "Modern really-real-time collaborative document editor",
     "pname": "etherpad-lite",
-    "version": "2.3.2"
+    "version": "2.4.1"
   },
   "legacyPackages.x86_64-linux.ethersync": {
     "description": "Real-time co-editing of local text files",
@@ -42687,7 +42697,7 @@
   "legacyPackages.x86_64-linux.firefox-esr": {
     "description": "Web browser built from Firefox source tree",
     "pname": "firefox",
-    "version": "128.13.0esr"
+    "version": "140.1.0esr"
   },
   "legacyPackages.x86_64-linux.firefox-esr-128": {
     "description": "Web browser built from Firefox source tree",
@@ -42712,7 +42722,7 @@
   "legacyPackages.x86_64-linux.firefox-esr-unwrapped": {
     "description": "Web browser built from Firefox source tree",
     "pname": "firefox-unwrapped",
-    "version": "128.13.0esr"
+    "version": "140.1.0esr"
   },
   "legacyPackages.x86_64-linux.firefox-mobile": {
     "description": "Web browser built from Firefox source tree",
@@ -44404,6 +44414,11 @@
     "pname": "newt",
     "version": "1.4.0"
   },
+  "legacyPackages.x86_64-linux.fosrl-olm": {
+    "description": "Tunneling client for Pangolin",
+    "pname": "olm",
+    "version": "1.0.0"
+  },
   "legacyPackages.x86_64-linux.fosrl-pangolin": {
     "description": "Tunneled reverse proxy server with identity and access control",
     "pname": "pangolin",
@@ -44732,7 +44747,7 @@
   "legacyPackages.x86_64-linux.freefilesync": {
     "description": "Open Source File Synchronization & Backup Software",
     "pname": "freefilesync",
-    "version": "14.3"
+    "version": "14.4"
   },
   "legacyPackages.x86_64-linux.freefont_ttf": {
     "description": "GNU Free UCS Outline Fonts",
@@ -47582,7 +47597,7 @@
   "legacyPackages.x86_64-linux.gh-poi": {
     "description": "GitHub CLI extension to safely clean up your local branches",
     "pname": "gh-poi",
-    "version": "0.14.0"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.gh-s": {
     "description": "Search github repositories interactively",
@@ -55772,7 +55787,7 @@
   "legacyPackages.x86_64-linux.go-swag": {
     "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go",
     "pname": "go-swag",
-    "version": "1.16.4"
+    "version": "1.16.6"
   },
   "legacyPackages.x86_64-linux.go-swagger": {
     "description": "Golang implementation of Swagger 2.0, representation of your RESTful API",
@@ -55787,7 +55802,7 @@
   "legacyPackages.x86_64-linux.go-task": {
     "description": "Task runner / simpler Make alternative written in Go",
     "pname": "go-task",
-    "version": "3.44.0"
+    "version": "3.44.1"
   },
   "legacyPackages.x86_64-linux.go-thumbnailer": {
     "description": "Generate directory thumbnails for GTK-based file browsers from images inside them",
@@ -56457,7 +56472,7 @@
   "legacyPackages.x86_64-linux.golangci-lint": {
     "description": "Fast linters Runner for Go",
     "pname": "golangci-lint",
-    "version": "2.3.0"
+    "version": "2.3.1"
   },
   "legacyPackages.x86_64-linux.golangci-lint-langserver": {
     "description": "Language server for golangci-lint",
@@ -56917,7 +56932,7 @@
   "legacyPackages.x86_64-linux.goreleaser": {
     "description": "Deliver Go binaries as fast and easily as possible",
     "pname": "goreleaser",
-    "version": "2.11.1"
+    "version": "2.11.2"
   },
   "legacyPackages.x86_64-linux.goreman": {
     "description": "Foreman clone written in go language",
@@ -57182,7 +57197,7 @@
   "legacyPackages.x86_64-linux.goverter": {
     "description": "Generate type-safe Go converters by defining function signatures",
     "pname": "goverter",
-    "version": "1.9.0"
+    "version": "1.9.1"
   },
   "legacyPackages.x86_64-linux.goverview": {
     "description": "Tool to get an overview of the list of URLs",
@@ -57717,7 +57732,7 @@
   "legacyPackages.x86_64-linux.grafana": {
     "description": "Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB",
     "pname": "grafana",
-    "version": "12.0.2+security-01"
+    "version": "12.1.0"
   },
   "legacyPackages.x86_64-linux.grafana-alloy": {
     "description": "Open source OpenTelemetry Collector distribution with built-in Prometheus pipelines and support for metrics, logs, traces, and profiles",
@@ -60982,7 +60997,7 @@
   "legacyPackages.x86_64-linux.heimdall-proxy": {
     "description": "Cloud native Identity Aware Proxy and Access Control Decision service",
     "pname": "heimdall-proxy",
-    "version": "0.16.6"
+    "version": "0.16.7"
   },
   "legacyPackages.x86_64-linux.heimer": {
     "description": "Simple cross-platform mind map and note-taking tool written in Qt",
@@ -71122,7 +71137,7 @@
   "legacyPackages.x86_64-linux.inputplumber": {
     "description": "Open source input router and remapper daemon for Linux",
     "pname": "inputplumber",
-    "version": "0.60.7"
+    "version": "0.60.8"
   },
   "legacyPackages.x86_64-linux.inql": {
     "description": "Security testing tool for GraphQL",
@@ -71897,7 +71912,7 @@
   "legacyPackages.x86_64-linux.ipxe": {
     "description": "Network boot firmware",
     "pname": "ipxe",
-    "version": "1.21.1-unstable-2025-07-24"
+    "version": "1.21.1-unstable-2025-07-30"
   },
   "legacyPackages.x86_64-linux.iqtree": {
     "description": "Efficient and versatile phylogenomic software by maximum likelihood",
@@ -73947,7 +73962,7 @@
   "legacyPackages.x86_64-linux.jsonschema-cli": {
     "description": "Fast command-line tool for JSON Schema validation",
     "pname": "jsonschema-cli",
-    "version": "0.30.0"
+    "version": "0.32.0"
   },
   "legacyPackages.x86_64-linux.jsonwatch": {
     "description": "Like watch -d but for JSON",
@@ -78892,7 +78907,7 @@
   "legacyPackages.x86_64-linux.kodiPackages.formula1": {
     "description": "Videos from the Formula 1 website",
     "pname": "kodi-formula1",
-    "version": "2.0.5"
+    "version": "2.0.6"
   },
   "legacyPackages.x86_64-linux.kodiPackages.future": {
     "description": "Missing compatibility layer between Python 2 and Python 3",
@@ -79932,7 +79947,7 @@
   "legacyPackages.x86_64-linux.kubectl-ai": {
     "description": "AI powered Kubernetes Assistant",
     "pname": "kubectl-ai",
-    "version": "0.0.18"
+    "version": "0.0.20"
   },
   "legacyPackages.x86_64-linux.kubectl-cnpg": {
     "description": "Plugin for kubectl to manage a CloudNativePG cluster in Kubernetes",
@@ -80157,7 +80172,7 @@
   "legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-diff": {
     "description": "Helm plugin that shows a diff",
     "pname": "helm-diff",
-    "version": "3.12.3"
+    "version": "3.12.4"
   },
   "legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-dt": {
     "description": "Helm Distribution plugin is is a set of utilities and Helm Plugin for making offline work with Helm Charts easier",
@@ -80232,7 +80247,7 @@
   "legacyPackages.x86_64-linux.kubeshark": {
     "description": "API Traffic Viewer for Kubernetes",
     "pname": "kubeshark",
-    "version": "52.7.8"
+    "version": "52.8.0"
   },
   "legacyPackages.x86_64-linux.kubespy": {
     "description": "Tool to observe Kubernetes resources in real time",
@@ -80287,7 +80302,7 @@
   "legacyPackages.x86_64-linux.kubevpn": {
     "description": "Create a VPN and connect to Kubernetes cluster network, access resources, and more",
     "pname": "kubevpn",
-    "version": "2.8.1"
+    "version": "2.9.0"
   },
   "legacyPackages.x86_64-linux.kubexit": {
     "description": "Command supervisor for coordinated Kubernetes pod container termination",
@@ -80537,7 +80552,7 @@
   "legacyPackages.x86_64-linux.labwc": {
     "description": "Wayland stacking compositor, inspired by Openbox",
     "pname": "labwc",
-    "version": "0.9.0"
+    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.labwc-gtktheme": {
     "description": "Create a labwc theme based on current Gtk theme",
@@ -81745,6 +81760,11 @@
     "version": "4.9.3"
   },
   "legacyPackages.x86_64-linux.lgogdownloader": {
+    "description": "Unofficial downloader to GOG.com for Linux users. It uses the same API as the official GOGDownloader",
+    "pname": "lgogdownloader",
+    "version": "3.17"
+  },
+  "legacyPackages.x86_64-linux.lgogdownloader-gui": {
     "description": "Unofficial downloader to GOG.com for Linux users. It uses the same API as the official GOGDownloader",
     "pname": "lgogdownloader",
     "version": "3.17"
@@ -83772,7 +83792,7 @@
   "legacyPackages.x86_64-linux.libiec61850": {
     "description": "Open-source library for the IEC 61850 protocols",
     "pname": "libiec61850",
-    "version": "1.6.0"
+    "version": "1.6.1"
   },
   "legacyPackages.x86_64-linux.libiec61883": {
     "description": "",
@@ -91307,7 +91327,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -92117,7 +92137,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -92927,7 +92947,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -93737,7 +93757,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -94547,7 +94567,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -95362,7 +95382,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -96177,7 +96197,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -96982,7 +97002,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -97792,7 +97812,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -98602,7 +98622,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -99412,7 +99432,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -100222,7 +100242,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -101027,7 +101047,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -101832,7 +101852,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -102637,7 +102657,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -103447,7 +103467,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -104257,7 +104277,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -105067,7 +105087,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -105877,7 +105897,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -106687,7 +106707,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -107497,7 +107517,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -108307,7 +108327,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -109117,7 +109137,7 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -109927,7 +109947,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -110737,7 +110757,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -111547,7 +111567,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -112357,7 +112377,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -113172,7 +113192,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -113982,7 +114002,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -114787,7 +114807,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -115597,7 +115617,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -116407,7 +116427,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -117217,7 +117237,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -118027,7 +118047,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -118837,7 +118857,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -119647,7 +119667,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -120457,7 +120477,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -121267,7 +121287,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
     "pname": "corefreq",
-    "version": "2.0.7"
+    "version": "2.0.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.cpupower": {
     "description": "Tool to examine and tune power saving features",
@@ -134859,6 +134879,11 @@
     "pname": "mcp-k8s-go",
     "version": "0.5.0"
   },
+  "legacyPackages.x86_64-linux.mcp-nixos": {
+    "description": "MCP server for NixOS",
+    "pname": "mcp-nixos",
+    "version": "1.0.0"
+  },
   "legacyPackages.x86_64-linux.mcp-proxy": {
     "description": "MCP server which proxies other MCP servers from stdio to SSE or from SSE to stdio",
     "pname": "mcp-proxy",
@@ -135213,6 +135238,11 @@
     "description": "Execute SQL to markdown table and convert to other format",
     "pname": "mdtsql",
     "version": "0.1.0"
+  },
+  "legacyPackages.x86_64-linux.mdwatch": {
+    "description": "Simple CLI tool to live-preview Markdown files in your browser",
+    "pname": "mdwatch",
+    "version": "0.1.11"
   },
   "legacyPackages.x86_64-linux.mdx-language-server": {
     "description": "Language server for MDX",
@@ -137482,7 +137512,7 @@
   "legacyPackages.x86_64-linux.mkpasswd": {
     "description": "Overfeatured front-end to crypt, from the Debian whois package",
     "pname": "mkpasswd",
-    "version": "5.6.3"
+    "version": "5.6.4"
   },
   "legacyPackages.x86_64-linux.mkrand": {
     "description": "Digital Random Bit Generator",
@@ -138177,7 +138207,7 @@
   "legacyPackages.x86_64-linux.mongoose": {
     "description": "Graph Coarsening and Partitioning Library",
     "pname": "mongoose",
-    "version": "3.3.4"
+    "version": "3.3.5"
   },
   "legacyPackages.x86_64-linux.mongosh": {
     "description": "MongoDB Shell",
@@ -138847,7 +138877,7 @@
   "legacyPackages.x86_64-linux.mozillavpn": {
     "description": "Client for the Mozilla VPN service",
     "pname": "mozillavpn",
-    "version": "2.29.0"
+    "version": "2.30.0"
   },
   "legacyPackages.x86_64-linux.mozjpeg": {
     "description": "Mozilla JPEG Encoder Project",
@@ -140552,7 +140582,7 @@
   "legacyPackages.x86_64-linux.mympd": {
     "description": "Standalone and mobile friendly web mpd client with a tiny footprint and advanced features",
     "pname": "mympd",
-    "version": "22.0.2"
+    "version": "22.0.3"
   },
   "legacyPackages.x86_64-linux.mynewt-newt": {
     "description": "Build and package management tool for embedded development",
@@ -141107,7 +141137,7 @@
   "legacyPackages.x86_64-linux.nats-server": {
     "description": "High-Performance server for NATS",
     "pname": "nats-server",
-    "version": "2.11.6"
+    "version": "2.11.7"
   },
   "legacyPackages.x86_64-linux.nats-streaming-server": {
     "description": "NATS Streaming System Server",
@@ -142142,7 +142172,7 @@
   "legacyPackages.x86_64-linux.netbox": {
     "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool",
     "pname": "netbox",
-    "version": "4.3.3"
+    "version": "4.3.5"
   },
   "legacyPackages.x86_64-linux.netbox2netshot": {
     "description": "Inventory synchronization tool between Netbox and Netshot",
@@ -142162,7 +142192,7 @@
   "legacyPackages.x86_64-linux.netbox_4_3": {
     "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool",
     "pname": "netbox",
-    "version": "4.3.3"
+    "version": "4.3.5"
   },
   "legacyPackages.x86_64-linux.netcap": {
     "description": "Framework for secure and scalable network traffic analysis",
@@ -145777,7 +145807,7 @@
   "legacyPackages.x86_64-linux.nu_scripts": {
     "description": "Place to share Nushell scripts with each other",
     "pname": "nu_scripts",
-    "version": "0-unstable-2025-07-24"
+    "version": "0-unstable-2025-07-29"
   },
   "legacyPackages.x86_64-linux.nuclear": {
     "description": "Streaming music player that finds free music for you",
@@ -147377,7 +147407,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.brr": {
     "description": "Toolkit for programming browsers in OCaml",
     "pname": "ocaml5.3.0-brr",
-    "version": "0.0.7"
+    "version": "0.0.8"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.bwd": {
     "description": "Backward Lists",
@@ -147387,7 +147417,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.bytesrw": {
     "description": "Composable, memory efficient, byte stream readers and writers compatible with effect-based concurrency",
     "pname": "ocaml5.3.0-bytesrw",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.bytestring": {
     "description": "Efficient, immutable, pattern-matchable, UTF friendly byte strings",
@@ -148092,7 +148122,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.dream-html": {
     "description": "Write HTML directly in your OCaml source files with editor support",
     "pname": "ocaml5.3.0-dream-html",
-    "version": "3.11.0"
+    "version": "3.11.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.dream-httpaf": {
     "description": "Shared http/af stack for Dream (server) and Hyper (client)",
@@ -149167,7 +149197,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.jsont": {
     "description": "Declarative JSON data manipulation",
     "pname": "ocaml5.3.0-jsont",
-    "version": "0.1.1"
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.jst-config": {
     "description": "Compile-time configuration for Jane Street libraries",
@@ -150267,7 +150297,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.ocp-index": {
     "description": "Simple and light-weight documentation extractor for OCaml",
     "pname": "ocaml5.3.0-ocp-index",
-    "version": "1.3.7"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.ocp-ocamlres": {
     "description": "Simple tool and library to embed files and directories inside OCaml executables",
@@ -151132,7 +151162,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.pure-html": {
     "description": "Write HTML directly in your OCaml source files with editor support",
     "pname": "ocaml5.3.0-pure-html",
-    "version": "3.11.0"
+    "version": "3.11.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.pure-splitmix": {
     "description": "Purely functional splittable PRNG",
@@ -151162,12 +151192,12 @@
   "legacyPackages.x86_64-linux.ocamlPackages.qcheck-lin": {
     "description": "Multicore testing library for OCaml",
     "pname": "ocaml5.3.0-qcheck-lin",
-    "version": "0.8"
+    "version": "0.9"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.qcheck-multicoretests-util": {
     "description": "Utility functions for property-based testing of multicore programs",
     "pname": "ocaml5.3.0-qcheck-multicoretests-util",
-    "version": "0.8"
+    "version": "0.9"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.qcheck-ounit": {
     "description": "OUnit backend for qcheck",
@@ -151177,7 +151207,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.qcheck-stm": {
     "description": "State-machine testing library for sequential and parallel model-based tests",
     "pname": "ocaml5.3.0-qcheck-stm",
-    "version": "0.8"
+    "version": "0.9"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.qtest": {
     "description": "Inline (Unit) Tests for OCaml",
@@ -151522,7 +151552,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.sail": {
     "description": "Language for describing the instruction-set architecture (ISA) semantics of processors",
     "pname": "ocaml5.3.0-sail",
-    "version": "0.19"
+    "version": "0.19.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.samplerate": {
     "description": "Interface for libsamplerate",
@@ -151697,7 +151727,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.spdx_licenses": {
     "description": "Library providing a strict SPDX License Expression parser",
     "pname": "ocaml5.3.0-spdx_licenses",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.speex": {
     "description": "Bindings to libspeex",
@@ -152087,7 +152117,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.unisim_archisec": {
     "description": "UNISIM-VP DBA decoder",
     "pname": "ocaml5.3.0-unisim_archisec",
-    "version": "0.0.10"
+    "version": "0.0.11"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.unix-errno": {
     "description": "Unix errno types, maps, and support for OCaml",
@@ -154332,7 +154362,7 @@
   "legacyPackages.x86_64-linux.openfga": {
     "description": "High performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
     "pname": "openfga",
-    "version": "1.9.0"
+    "version": "1.9.2"
   },
   "legacyPackages.x86_64-linux.openfga-cli": {
     "description": "Cross-platform CLI to interact with an OpenFGA server",
@@ -156482,7 +156512,7 @@
   "legacyPackages.x86_64-linux.overcommit": {
     "description": "Tool to manage and configure Git hooks",
     "pname": "overcommit",
-    "version": "0.67.1"
+    "version": "0.68.0"
   },
   "legacyPackages.x86_64-linux.overlayed": {
     "description": "Modern discord voice chat overlay",
@@ -188962,7 +188992,7 @@
   "legacyPackages.x86_64-linux.php": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php81": {
     "description": "HTML-embedded scripting language",
@@ -190287,7 +190317,7 @@
   "legacyPackages.x86_64-linux.php83": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.amqp": {
     "description": "PHP extension to communicate with any AMQP compliant server",
@@ -190307,7 +190337,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.bcmath": {
     "description": "PHP upstream extension: bcmath",
     "pname": "php-bcmath",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.blackfire": {
     "description": "Blackfire Profiler PHP module",
@@ -190317,12 +190347,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.bz2": {
     "description": "PHP upstream extension: bz2",
     "pname": "php-bz2",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.calendar": {
     "description": "PHP upstream extension: calendar",
     "pname": "php-calendar",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.couchbase": {
     "description": "Couchbase Server PHP extension",
@@ -190332,12 +190362,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.ctype": {
     "description": "PHP upstream extension: ctype",
     "pname": "php-ctype",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.curl": {
     "description": "PHP upstream extension: curl",
     "pname": "php-curl",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.datadog_trace": {
     "description": "Datadog Tracing PHP Client",
@@ -190347,7 +190377,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.dba": {
     "description": "PHP upstream extension: dba",
     "pname": "php-dba",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.decimal": {
     "description": "Arbitrary-precision decimal arithmetic for PHP",
@@ -190357,7 +190387,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.dom": {
     "description": "PHP upstream extension: dom",
     "pname": "php-dom",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ds": {
     "description": "Extension providing efficient data structures for PHP",
@@ -190367,7 +190397,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.enchant": {
     "description": "PHP upstream extension: enchant",
     "pname": "php-enchant",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.event": {
     "description": "Efficiently schedule I/O, time and signal based events using the best I/O notification mechanism available",
@@ -190382,42 +190412,42 @@
   "legacyPackages.x86_64-linux.php83Extensions.exif": {
     "description": "PHP upstream extension: exif",
     "pname": "php-exif",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ffi": {
     "description": "PHP upstream extension: ffi",
     "pname": "php-ffi",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.fileinfo": {
     "description": "PHP upstream extension: fileinfo",
     "pname": "php-fileinfo",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.filter": {
     "description": "PHP upstream extension: filter",
     "pname": "php-filter",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ftp": {
     "description": "PHP upstream extension: ftp",
     "pname": "php-ftp",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gd": {
     "description": "PHP upstream extension: gd",
     "pname": "php-gd",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gettext": {
     "description": "PHP upstream extension: gettext",
     "pname": "php-gettext",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gmp": {
     "description": "PHP upstream extension: gmp",
     "pname": "php-gmp",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.gnupg": {
     "description": "PHP wrapper for GpgME library that provides access to GnuPG",
@@ -190432,7 +190462,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.iconv": {
     "description": "PHP upstream extension: iconv",
     "pname": "php-iconv",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.igbinary": {
     "description": "Binary serialization for PHP",
@@ -190457,7 +190487,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.intl": {
     "description": "PHP upstream extension: intl",
     "pname": "php-intl",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.ioncube-loader": {
     "description": "Use ionCube-encoded files on a web server",
@@ -190467,7 +190497,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.ldap": {
     "description": "PHP upstream extension: ldap",
     "pname": "php-ldap",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.luasandbox": {
     "description": "Extension for PHP 7 and PHP 8 to allow safely running untrusted Lua 5.1 code from within PHP",
@@ -190487,7 +190517,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.mbstring": {
     "description": "PHP upstream extension: mbstring",
     "pname": "php-mbstring",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.memcache": {
     "description": "PHP extension for interfacing with memcached",
@@ -190522,12 +190552,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.mysqli": {
     "description": "PHP upstream extension: mysqli",
     "pname": "php-mysqli",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.mysqlnd": {
     "description": "PHP upstream extension: mysqlnd",
     "pname": "php-mysqlnd",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.oci8": {
     "description": "Extension for Oracle Database",
@@ -190537,17 +190567,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.opcache": {
     "description": "PHP upstream extension: opcache",
     "pname": "php-opcache",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.openssl": {
     "description": "PHP upstream extension: openssl",
     "pname": "php-openssl",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.openssl-legacy": {
     "description": "PHP upstream extension: openssl-legacy",
     "pname": "php-openssl-legacy",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.openswoole": {
     "description": "Coroutine-based concurrency library and high performance programmatic server for PHP",
@@ -190567,7 +190597,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.pcntl": {
     "description": "PHP upstream extension: pcntl",
     "pname": "php-pcntl",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pcov": {
     "description": "Self contained php-code-coverage compatible driver for PHP",
@@ -190582,37 +190612,37 @@
   "legacyPackages.x86_64-linux.php83Extensions.pdo": {
     "description": "PHP upstream extension: pdo",
     "pname": "php-pdo",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_dblib": {
     "description": "PHP upstream extension: pdo_dblib",
     "pname": "php-pdo_dblib",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_mysql": {
     "description": "PHP upstream extension: pdo_mysql",
     "pname": "php-pdo_mysql",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_oci": {
     "description": "",
     "pname": "php-pdo_oci",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_odbc": {
     "description": "PHP upstream extension: pdo_odbc",
     "pname": "php-pdo_odbc",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_pgsql": {
     "description": "PHP upstream extension: pdo_pgsql",
     "pname": "php-pdo_pgsql",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_sqlite": {
     "description": "PHP upstream extension: pdo_sqlite",
     "pname": "php-pdo_sqlite",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.pdo_sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -190622,7 +190652,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.pgsql": {
     "description": "PHP upstream extension: pgsql",
     "pname": "php-pgsql",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.phalcon": {
     "description": "Phalcon is a full stack PHP framework offering low resource consumption and high performance",
@@ -190637,7 +190667,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.posix": {
     "description": "PHP upstream extension: posix",
     "pname": "php-posix",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.protobuf": {
     "description": "Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data",
@@ -190657,7 +190687,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.readline": {
     "description": "PHP upstream extension: readline",
     "pname": "php-readline",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.redis": {
     "description": "PHP extension for interfacing with Redis",
@@ -190677,17 +190707,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.session": {
     "description": "PHP upstream extension: session",
     "pname": "php-session",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.shmop": {
     "description": "PHP upstream extension: shmop",
     "pname": "php-shmop",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.simplexml": {
     "description": "PHP upstream extension: simplexml",
     "pname": "php-simplexml",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.smbclient": {
     "description": "PHP wrapper for libsmbclient",
@@ -190697,7 +190727,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.snmp": {
     "description": "PHP upstream extension: snmp",
     "pname": "php-snmp",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.snuffleupagus": {
     "description": "Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest",
@@ -190707,17 +190737,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.soap": {
     "description": "PHP upstream extension: soap",
     "pname": "php-soap",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sockets": {
     "description": "PHP upstream extension: sockets",
     "pname": "php-sockets",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sodium": {
     "description": "PHP upstream extension: sodium",
     "pname": "php-sodium",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.spx": {
     "description": "Simple & straight-to-the-point PHP profiling extension with its built-in web UI",
@@ -190727,7 +190757,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.sqlite3": {
     "description": "PHP upstream extension: sqlite3",
     "pname": "php-sqlite3",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -190752,17 +190782,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.sysvmsg": {
     "description": "PHP upstream extension: sysvmsg",
     "pname": "php-sysvmsg",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sysvsem": {
     "description": "PHP upstream extension: sysvsem",
     "pname": "php-sysvsem",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.sysvshm": {
     "description": "PHP upstream extension: sysvshm",
     "pname": "php-sysvshm",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.tideways": {
     "description": "Tideways PHP Probe",
@@ -190772,12 +190802,12 @@
   "legacyPackages.x86_64-linux.php83Extensions.tidy": {
     "description": "PHP upstream extension: tidy",
     "pname": "php-tidy",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.tokenizer": {
     "description": "PHP upstream extension: tokenizer",
     "pname": "php-tokenizer",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.uuid": {
     "description": "Wrapper around Universally Unique IDentifier library (libuuid)",
@@ -190807,22 +190837,22 @@
   "legacyPackages.x86_64-linux.php83Extensions.xml": {
     "description": "PHP upstream extension: xml",
     "pname": "php-xml",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.xmlreader": {
     "description": "PHP upstream extension: xmlreader",
     "pname": "php-xmlreader",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.xmlwriter": {
     "description": "PHP upstream extension: xmlwriter",
     "pname": "php-xmlwriter",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.xsl": {
     "description": "PHP upstream extension: xsl",
     "pname": "php-xsl",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.yaml": {
     "description": "YAML-1.1 parser and emitter",
@@ -190832,17 +190862,17 @@
   "legacyPackages.x86_64-linux.php83Extensions.zend_test": {
     "description": "PHP upstream extension: zend_test",
     "pname": "php-zend_test",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.zip": {
     "description": "PHP upstream extension: zip",
     "pname": "php-zip",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.zlib": {
     "description": "PHP upstream extension: zlib",
     "pname": "php-zlib",
-    "version": "8.3.23"
+    "version": "8.3.24"
   },
   "legacyPackages.x86_64-linux.php83Extensions.zstd": {
     "description": "Zstd Extension for PHP",
@@ -190947,7 +190977,7 @@
   "legacyPackages.x86_64-linux.php84": {
     "description": "HTML-embedded scripting language",
     "pname": "php-with-extensions",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.amqp": {
     "description": "PHP extension to communicate with any AMQP compliant server",
@@ -190967,7 +190997,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.bcmath": {
     "description": "PHP upstream extension: bcmath",
     "pname": "php-bcmath",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.blackfire": {
     "description": "Blackfire Profiler PHP module",
@@ -190977,12 +191007,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.bz2": {
     "description": "PHP upstream extension: bz2",
     "pname": "php-bz2",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.calendar": {
     "description": "PHP upstream extension: calendar",
     "pname": "php-calendar",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.couchbase": {
     "description": "Couchbase Server PHP extension",
@@ -190992,12 +191022,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.ctype": {
     "description": "PHP upstream extension: ctype",
     "pname": "php-ctype",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.curl": {
     "description": "PHP upstream extension: curl",
     "pname": "php-curl",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.datadog_trace": {
     "description": "Datadog Tracing PHP Client",
@@ -191007,7 +191037,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.dba": {
     "description": "PHP upstream extension: dba",
     "pname": "php-dba",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.decimal": {
     "description": "Arbitrary-precision decimal arithmetic for PHP",
@@ -191017,7 +191047,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.dom": {
     "description": "PHP upstream extension: dom",
     "pname": "php-dom",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ds": {
     "description": "Extension providing efficient data structures for PHP",
@@ -191027,7 +191057,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.enchant": {
     "description": "PHP upstream extension: enchant",
     "pname": "php-enchant",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.event": {
     "description": "Efficiently schedule I/O, time and signal based events using the best I/O notification mechanism available",
@@ -191042,42 +191072,42 @@
   "legacyPackages.x86_64-linux.php84Extensions.exif": {
     "description": "PHP upstream extension: exif",
     "pname": "php-exif",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ffi": {
     "description": "PHP upstream extension: ffi",
     "pname": "php-ffi",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.fileinfo": {
     "description": "PHP upstream extension: fileinfo",
     "pname": "php-fileinfo",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.filter": {
     "description": "PHP upstream extension: filter",
     "pname": "php-filter",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ftp": {
     "description": "PHP upstream extension: ftp",
     "pname": "php-ftp",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gd": {
     "description": "PHP upstream extension: gd",
     "pname": "php-gd",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gettext": {
     "description": "PHP upstream extension: gettext",
     "pname": "php-gettext",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gmp": {
     "description": "PHP upstream extension: gmp",
     "pname": "php-gmp",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.gnupg": {
     "description": "PHP wrapper for GpgME library that provides access to GnuPG",
@@ -191092,7 +191122,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.iconv": {
     "description": "PHP upstream extension: iconv",
     "pname": "php-iconv",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.igbinary": {
     "description": "Binary serialization for PHP",
@@ -191117,7 +191147,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.intl": {
     "description": "PHP upstream extension: intl",
     "pname": "php-intl",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.ioncube-loader": {
     "description": "Use ionCube-encoded files on a web server",
@@ -191127,7 +191157,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.ldap": {
     "description": "PHP upstream extension: ldap",
     "pname": "php-ldap",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.luasandbox": {
     "description": "Extension for PHP 7 and PHP 8 to allow safely running untrusted Lua 5.1 code from within PHP",
@@ -191147,7 +191177,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.mbstring": {
     "description": "PHP upstream extension: mbstring",
     "pname": "php-mbstring",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.memcache": {
     "description": "PHP extension for interfacing with memcached",
@@ -191182,12 +191212,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.mysqli": {
     "description": "PHP upstream extension: mysqli",
     "pname": "php-mysqli",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.mysqlnd": {
     "description": "PHP upstream extension: mysqlnd",
     "pname": "php-mysqlnd",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.oci8": {
     "description": "Extension for Oracle Database",
@@ -191197,17 +191227,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.opcache": {
     "description": "PHP upstream extension: opcache",
     "pname": "php-opcache",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.openssl": {
     "description": "PHP upstream extension: openssl",
     "pname": "php-openssl",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.openssl-legacy": {
     "description": "PHP upstream extension: openssl-legacy",
     "pname": "php-openssl-legacy",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.openswoole": {
     "description": "Coroutine-based concurrency library and high performance programmatic server for PHP",
@@ -191227,7 +191257,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.pcntl": {
     "description": "PHP upstream extension: pcntl",
     "pname": "php-pcntl",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pcov": {
     "description": "Self contained php-code-coverage compatible driver for PHP",
@@ -191242,17 +191272,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.pdo": {
     "description": "PHP upstream extension: pdo",
     "pname": "php-pdo",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_dblib": {
     "description": "PHP upstream extension: pdo_dblib",
     "pname": "php-pdo_dblib",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_mysql": {
     "description": "PHP upstream extension: pdo_mysql",
     "pname": "php-pdo_mysql",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_oci": {
     "description": "PHP PDO_OCI extension lets you access Oracle Database",
@@ -191262,17 +191292,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.pdo_odbc": {
     "description": "PHP upstream extension: pdo_odbc",
     "pname": "php-pdo_odbc",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_pgsql": {
     "description": "PHP upstream extension: pdo_pgsql",
     "pname": "php-pdo_pgsql",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_sqlite": {
     "description": "PHP upstream extension: pdo_sqlite",
     "pname": "php-pdo_sqlite",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.pdo_sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -191282,7 +191312,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.pgsql": {
     "description": "PHP upstream extension: pgsql",
     "pname": "php-pgsql",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.phalcon": {
     "description": "Phalcon is a full stack PHP framework offering low resource consumption and high performance",
@@ -191297,7 +191327,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.posix": {
     "description": "PHP upstream extension: posix",
     "pname": "php-posix",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.protobuf": {
     "description": "Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data",
@@ -191317,7 +191347,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.readline": {
     "description": "PHP upstream extension: readline",
     "pname": "php-readline",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.redis": {
     "description": "PHP extension for interfacing with Redis",
@@ -191337,17 +191367,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.session": {
     "description": "PHP upstream extension: session",
     "pname": "php-session",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.shmop": {
     "description": "PHP upstream extension: shmop",
     "pname": "php-shmop",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.simplexml": {
     "description": "PHP upstream extension: simplexml",
     "pname": "php-simplexml",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.smbclient": {
     "description": "PHP wrapper for libsmbclient",
@@ -191357,7 +191387,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.snmp": {
     "description": "PHP upstream extension: snmp",
     "pname": "php-snmp",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.snuffleupagus": {
     "description": "Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest",
@@ -191367,17 +191397,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.soap": {
     "description": "PHP upstream extension: soap",
     "pname": "php-soap",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sockets": {
     "description": "PHP upstream extension: sockets",
     "pname": "php-sockets",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sodium": {
     "description": "PHP upstream extension: sodium",
     "pname": "php-sodium",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.spx": {
     "description": "Simple & straight-to-the-point PHP profiling extension with its built-in web UI",
@@ -191387,7 +191417,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.sqlite3": {
     "description": "PHP upstream extension: sqlite3",
     "pname": "php-sqlite3",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sqlsrv": {
     "description": "Microsoft Drivers for PHP for SQL Server",
@@ -191412,17 +191442,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.sysvmsg": {
     "description": "PHP upstream extension: sysvmsg",
     "pname": "php-sysvmsg",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sysvsem": {
     "description": "PHP upstream extension: sysvsem",
     "pname": "php-sysvsem",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.sysvshm": {
     "description": "PHP upstream extension: sysvshm",
     "pname": "php-sysvshm",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.tideways": {
     "description": "Tideways PHP Probe",
@@ -191432,12 +191462,12 @@
   "legacyPackages.x86_64-linux.php84Extensions.tidy": {
     "description": "PHP upstream extension: tidy",
     "pname": "php-tidy",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.tokenizer": {
     "description": "PHP upstream extension: tokenizer",
     "pname": "php-tokenizer",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.uuid": {
     "description": "Wrapper around Universally Unique IDentifier library (libuuid)",
@@ -191467,22 +191497,22 @@
   "legacyPackages.x86_64-linux.php84Extensions.xml": {
     "description": "PHP upstream extension: xml",
     "pname": "php-xml",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.xmlreader": {
     "description": "PHP upstream extension: xmlreader",
     "pname": "php-xmlreader",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.xmlwriter": {
     "description": "PHP upstream extension: xmlwriter",
     "pname": "php-xmlwriter",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.xsl": {
     "description": "PHP upstream extension: xsl",
     "pname": "php-xsl",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.yaml": {
     "description": "YAML-1.1 parser and emitter",
@@ -191492,17 +191522,17 @@
   "legacyPackages.x86_64-linux.php84Extensions.zend_test": {
     "description": "PHP upstream extension: zend_test",
     "pname": "php-zend_test",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.zip": {
     "description": "PHP upstream extension: zip",
     "pname": "php-zip",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.zlib": {
     "description": "PHP upstream extension: zlib",
     "pname": "php-zlib",
-    "version": "8.4.10"
+    "version": "8.4.11"
   },
   "legacyPackages.x86_64-linux.php84Extensions.zstd": {
     "description": "Zstd Extension for PHP",
@@ -192137,7 +192167,7 @@
   "legacyPackages.x86_64-linux.pinact": {
     "description": "Pin GitHub Actions versions",
     "pname": "pinact",
-    "version": "3.3.0"
+    "version": "3.3.2"
   },
   "legacyPackages.x86_64-linux.pinball": {
     "description": "Emilia Pinball simulator",
@@ -195912,7 +195942,7 @@
   "legacyPackages.x86_64-linux.pluto": {
     "description": "Find deprecated Kubernetes apiVersions",
     "pname": "pluto",
-    "version": "5.22.1"
+    "version": "5.22.2"
   },
   "legacyPackages.x86_64-linux.plutosvg": {
     "description": "Tiny SVG rendering library in C",
@@ -196907,7 +196937,7 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.pg_net": {
     "description": "Async networking for Postgres",
     "pname": "pg_net",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.pg_partman": {
     "description": "Partition management extension for PostgreSQL",
@@ -197002,7 +197032,7 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.pgsql-http": {
     "description": "HTTP client for PostgreSQL, retrieve a web page from inside the database",
     "pname": "pgsql-http",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.pgtap": {
     "description": "Unit testing framework for PostgreSQL",
@@ -197102,12 +197132,12 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197247,7 +197277,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_net": {
     "description": "Async networking for Postgres",
     "pname": "pg_net",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_partman": {
     "description": "Partition management extension for PostgreSQL",
@@ -197342,7 +197372,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pgsql-http": {
     "description": "HTTP client for PostgreSQL, retrieve a web page from inside the database",
     "pname": "pgsql-http",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pgtap": {
     "description": "Unit testing framework for PostgreSQL",
@@ -197442,12 +197472,12 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197587,7 +197617,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_net": {
     "description": "Async networking for Postgres",
     "pname": "pg_net",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_partman": {
     "description": "Partition management extension for PostgreSQL",
@@ -197682,7 +197712,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pgsql-http": {
     "description": "HTTP client for PostgreSQL, retrieve a web page from inside the database",
     "pname": "pgsql-http",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pgtap": {
     "description": "Unit testing framework for PostgreSQL",
@@ -197782,12 +197812,12 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -197927,7 +197957,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_net": {
     "description": "Async networking for Postgres",
     "pname": "pg_net",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_partman": {
     "description": "Partition management extension for PostgreSQL",
@@ -198022,7 +198052,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pgsql-http": {
     "description": "HTTP client for PostgreSQL, retrieve a web page from inside the database",
     "pname": "pgsql-http",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pgtap": {
     "description": "Unit testing framework for PostgreSQL",
@@ -198122,12 +198152,12 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -198267,7 +198297,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_net": {
     "description": "Async networking for Postgres",
     "pname": "pg_net",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_partman": {
     "description": "Partition management extension for PostgreSQL",
@@ -198362,7 +198392,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pgsql-http": {
     "description": "HTTP client for PostgreSQL, retrieve a web page from inside the database",
     "pname": "pgsql-http",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pgtap": {
     "description": "Unit testing framework for PostgreSQL",
@@ -198462,12 +198492,12 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -198607,7 +198637,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_net": {
     "description": "Async networking for Postgres",
     "pname": "pg_net",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_partman": {
     "description": "Partition management extension for PostgreSQL",
@@ -198702,7 +198732,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.pgsql-http": {
     "description": "HTTP client for PostgreSQL, retrieve a web page from inside the database",
     "pname": "pgsql-http",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.pgtap": {
     "description": "Unit testing framework for PostgreSQL",
@@ -198802,12 +198832,12 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -198947,7 +198977,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_net": {
     "description": "Async networking for Postgres",
     "pname": "pg_net",
-    "version": "0.19.3"
+    "version": "0.19.4"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_partman": {
     "description": "Partition management extension for PostgreSQL",
@@ -199042,7 +199072,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pgsql-http": {
     "description": "HTTP client for PostgreSQL, retrieve a web page from inside the database",
     "pname": "pgsql-http",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pgtap": {
     "description": "Unit testing framework for PostgreSQL",
@@ -199142,12 +199172,12 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache": {
     "description": "Scales PostgreSQL for time-series data via automatic partitioning across time and space",
     "pname": "timescaledb-apache",
-    "version": "2.21.0"
+    "version": "2.21.1"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.timescaledb_toolkit": {
     "description": "Provide additional tools to ease all things analytic when using TimescaleDB",
@@ -200102,7 +200132,7 @@
   "legacyPackages.x86_64-linux.prometheus-artifactory-exporter": {
     "description": "JFrog Artifactory Prometheus Exporter",
     "pname": "artifactory_exporter",
-    "version": "1.15.1"
+    "version": "1.16.0"
   },
   "legacyPackages.x86_64-linux.prometheus-aruba-exporter": {
     "description": "Prometheus exporter for metrics from Aruba devices including ArubaSwitchOS, ArubaOS-CX, ArubaOS (Instant AP and controllers/gateways)",
@@ -200352,7 +200382,7 @@
   "legacyPackages.x86_64-linux.prometheus-mongodb-exporter": {
     "description": "Prometheus exporter for MongoDB including sharding, replication and storage engines",
     "pname": "mongodb_exporter",
-    "version": "0.45.0"
+    "version": "0.46.0"
   },
   "legacyPackages.x86_64-linux.prometheus-mysqld-exporter": {
     "description": "Prometheus exporter for MySQL server metrics",
@@ -201492,7 +201522,7 @@
   "legacyPackages.x86_64-linux.pulumi-bin": {
     "description": "Pulumi is a cloud development platform that makes creating cloud programs easy and productive",
     "pname": "pulumi",
-    "version": "3.186.0"
+    "version": "3.187.0"
   },
   "legacyPackages.x86_64-linux.pulumi-esc": {
     "description": "Pulumi ESC (Environments, Secrets, and Configuration) for cloud applications and infrastructure",
@@ -202327,7 +202357,7 @@
   "legacyPackages.x86_64-linux.python312Packages.Keras": {
     "description": "Multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch",
     "pname": "python3.12-keras",
-    "version": "3.10.0"
+    "version": "3.11.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.Mako": {
     "description": "Super-fast templating language",
@@ -205247,7 +205277,7 @@
   "legacyPackages.x86_64-linux.python312Packages.automower-ble": {
     "description": "Module to connect to Husqvarna Automower Connect",
     "pname": "python3.12-automower-ble",
-    "version": "0.2.1"
+    "version": "0.2.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.automx2": {
     "description": "Email client configuration made easy",
@@ -207612,7 +207642,7 @@
   "legacyPackages.x86_64-linux.python312Packages.bx-python": {
     "description": "Tools for manipulating biological data, particularly multiple sequence alignments",
     "pname": "python3.12-bx-python",
-    "version": "0.13.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.bytecode": {
     "description": "Python module to generate and modify bytecode",
@@ -208052,6 +208082,11 @@
   "legacyPackages.x86_64-linux.python312Packages.certbot-dns-route53": {
     "description": "Route53 DNS Authenticator plugin for Certbot",
     "pname": "python3.12-certbot-dns-route53",
+    "version": "4.0.0"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.certbot-nginx": {
+    "description": "Nginx plugin for Certbot",
+    "pname": "python3.12-certbot-nginx",
     "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.certifi": {
@@ -210252,7 +210287,7 @@
   "legacyPackages.x86_64-linux.python312Packages.databricks-sdk": {
     "description": "Databricks SDK for Python",
     "pname": "python3.12-databricks-sdk",
-    "version": "0.59.0"
+    "version": "0.61.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.databricks-sql-connector": {
     "description": "Databricks SQL Connector for Python",
@@ -210812,7 +210847,7 @@
   "legacyPackages.x86_64-linux.python312Packages.denonavr": {
     "description": "Automation Library for Denon AVR receivers",
     "pname": "python3.12-denonavr",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.dep-logic": {
     "description": "Python dependency specifications supporting logical operations",
@@ -212462,7 +212497,7 @@
   "legacyPackages.x86_64-linux.python312Packages.dnfile": {
     "description": "Module to parse .NET executable files",
     "pname": "python3.12-dnfile",
-    "version": "0.15.1"
+    "version": "0.16.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.dns": {
     "description": "DNS toolkit for Python",
@@ -213262,7 +213297,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ec2-metadata": {
     "description": "Easy interface to query the EC2 metadata API, with caching",
     "pname": "python3.12-ec2-metadata",
-    "version": "2.14.0"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.ec2instanceconnectcli": {
     "description": "Command Line Interface for AWS EC2 Instance Connect",
@@ -213692,7 +213727,7 @@
   "legacyPackages.x86_64-linux.python312Packages.environs": {
     "description": "Python modle for environment variable parsing",
     "pname": "python3.12-environs",
-    "version": "14.2.0"
+    "version": "14.3.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.envisage": {
     "description": "Framework for building applications whose functionalities can be extended by adding plug-ins",
@@ -219317,7 +219352,7 @@
   "legacyPackages.x86_64-linux.python312Packages.inform": {
     "description": "Print and logging utilities",
     "pname": "python3.12-inform",
-    "version": "1.34"
+    "version": "1.35"
   },
   "legacyPackages.x86_64-linux.python312Packages.ingredient-parser-nlp": {
     "description": "Parse structured information from recipe ingredient sentences",
@@ -220352,7 +220387,7 @@
   "legacyPackages.x86_64-linux.python312Packages.json-repair": {
     "description": "Module to repair invalid JSON, commonly used to parse the output of LLMs",
     "pname": "python3.12-json-repair",
-    "version": "0.47.8"
+    "version": "0.48.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.json-rpc": {
     "description": "JSON-RPC 1/2 transport implementation",
@@ -220527,7 +220562,7 @@
   "legacyPackages.x86_64-linux.python312Packages.jsonschema-rs": {
     "description": "High-performance JSON Schema validator for Python",
     "pname": "python3.12-jsonschema-rs",
-    "version": "0.30.0"
+    "version": "0.32.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.jsonschema-spec": {
     "description": "JSONSchema Spec with object-oriented paths",
@@ -221067,7 +221102,7 @@
   "legacyPackages.x86_64-linux.python312Packages.keras": {
     "description": "Multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch",
     "pname": "python3.12-keras",
-    "version": "3.10.0"
+    "version": "3.11.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.kerberos": {
     "description": "Kerberos high-level interface",
@@ -224072,7 +224107,7 @@
   "legacyPackages.x86_64-linux.python312Packages.meshtastic": {
     "description": "Python API for talking to Meshtastic devices",
     "pname": "python3.12-meshtastic",
-    "version": "2.6.4"
+    "version": "2.7.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.meson": {
     "description": "Open source, fast and friendly build system made in Python",
@@ -227692,7 +227727,7 @@
   "legacyPackages.x86_64-linux.python312Packages.netbox-dns": {
     "description": "Netbox plugin for managing DNS data",
     "pname": "python3.12-netbox-plugin-dns",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.netbox-documents": {
     "description": "Plugin designed to faciliate the storage of site, circuit, device type and device specific documents within NetBox",
@@ -227727,7 +227762,7 @@
   "legacyPackages.x86_64-linux.python312Packages.netbox-reorder-rack": {
     "description": "NetBox plugin to allow users to reorder devices within a rack using a drag and drop UI",
     "pname": "python3.12-netbox-reorder-rack",
-    "version": "1.1.3"
+    "version": "1.1.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.netbox-routing": {
     "description": "NetBox plugin for tracking all kinds of routing information",
@@ -227947,7 +227982,7 @@
   "legacyPackages.x86_64-linux.python312Packages.nicegui": {
     "description": "Module to create web-based user interfaces",
     "pname": "python3.12-nicegui",
-    "version": "2.22.0"
+    "version": "2.22.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.nicegui-highcharts": {
     "description": "NiceGUI with support for Highcharts",
@@ -228617,7 +228652,7 @@
   "legacyPackages.x86_64-linux.python312Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
     "pname": "python3.12-oelint-parser",
-    "version": "8.2.2"
+    "version": "8.2.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.oemthermostat": {
     "description": "Python module to interact with OpenEnergyMonitor thermostats",
@@ -229648,6 +229683,11 @@
     "description": "Implements one time password of HOTP/TOTP",
     "pname": "python3.12-otpauth",
     "version": "2.2.1"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.otr": {
+    "description": "Off-The-Record Messaging protocol implementation for Python",
+    "pname": "python3.12-otr",
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.ots-python": {
     "description": "Python wrapper for ots (OpenType Sanitizer)",
@@ -231382,7 +231422,7 @@
   "legacyPackages.x86_64-linux.python312Packages.polyline": {
     "description": "Python implementation of Google's Encoded Polyline Algorithm Format",
     "pname": "python3.12-polyline",
-    "version": "2.0.1"
+    "version": "2.0.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.polyswarm-api": {
     "description": "Library to interface with the PolySwarm consumer APIs",
@@ -232057,7 +232097,7 @@
   "legacyPackages.x86_64-linux.python312Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.12-publicsuffixlist",
-    "version": "1.0.2.20250724"
+    "version": "1.0.2.20250802"
   },
   "legacyPackages.x86_64-linux.python312Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -232777,7 +232817,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyathena": {
     "description": "Python DB API 2.0 (PEP 249) client for Amazon Athena",
     "pname": "python3.12-pyathena",
-    "version": "3.15.0"
+    "version": "3.16.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyatmo": {
     "description": "Simple API to access Netatmo weather station data",
@@ -234687,7 +234727,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pylitterbot": {
     "description": "Modulefor controlling a Litter-Robot",
     "pname": "python3.12-pylitterbot",
-    "version": "2024.2.2"
+    "version": "2024.2.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.pylnk3": {
     "description": "Python library for reading and writing Windows shortcut files (.lnk)",
@@ -240502,7 +240542,7 @@
   "legacyPackages.x86_64-linux.python312Packages.reolink-aio": {
     "description": "Module to interact with the Reolink IP camera API",
     "pname": "python3.12-reolink-aio",
-    "version": "0.14.3"
+    "version": "0.14.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.reorder-python-imports": {
     "description": "Tool for automatically reordering python imports",
@@ -243347,7 +243387,7 @@
   "legacyPackages.x86_64-linux.python312Packages.snakemake-interface-storage-plugins": {
     "description": "This package provides a stable interface for interactions between Snakemake and its storage plugins",
     "pname": "python3.12-snakemake-interface-storage-plugins",
-    "version": "4.2.1"
+    "version": "4.2.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.snakemake-storage-plugin-fs": {
     "description": "Snakemake storage plugin that reads and writes from a locally mounted filesystem using rsync",
@@ -248112,7 +248152,7 @@
   "legacyPackages.x86_64-linux.python312Packages.typer-shell": {
     "description": "Library for making beautiful shells/REPLs with Typer",
     "pname": "python3.12-typer-shell",
-    "version": "0.1.12"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.types-aiobotocore": {
     "description": "Type annotations for aiobotocore generated with mypy-boto3-builder",
@@ -253427,7 +253467,7 @@
   "legacyPackages.x86_64-linux.python313Packages.Keras": {
     "description": "Multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch",
     "pname": "python3.13-keras",
-    "version": "3.10.0"
+    "version": "3.11.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.Mako": {
     "description": "Super-fast templating language",
@@ -256352,7 +256392,7 @@
   "legacyPackages.x86_64-linux.python313Packages.automower-ble": {
     "description": "Module to connect to Husqvarna Automower Connect",
     "pname": "python3.13-automower-ble",
-    "version": "0.2.1"
+    "version": "0.2.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.automx2": {
     "description": "Email client configuration made easy",
@@ -258717,7 +258757,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bx-python": {
     "description": "Tools for manipulating biological data, particularly multiple sequence alignments",
     "pname": "python3.13-bx-python",
-    "version": "0.13.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.bytecode": {
     "description": "Python module to generate and modify bytecode",
@@ -259157,6 +259197,11 @@
   "legacyPackages.x86_64-linux.python313Packages.certbot-dns-route53": {
     "description": "Route53 DNS Authenticator plugin for Certbot",
     "pname": "python3.13-certbot-dns-route53",
+    "version": "4.0.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.certbot-nginx": {
+    "description": "Nginx plugin for Certbot",
+    "pname": "python3.13-certbot-nginx",
     "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.certifi": {
@@ -261357,7 +261402,7 @@
   "legacyPackages.x86_64-linux.python313Packages.databricks-sdk": {
     "description": "Databricks SDK for Python",
     "pname": "python3.13-databricks-sdk",
-    "version": "0.59.0"
+    "version": "0.61.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.databricks-sql-connector": {
     "description": "Databricks SQL Connector for Python",
@@ -261917,7 +261962,7 @@
   "legacyPackages.x86_64-linux.python313Packages.denonavr": {
     "description": "Automation Library for Denon AVR receivers",
     "pname": "python3.13-denonavr",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.dep-logic": {
     "description": "Python dependency specifications supporting logical operations",
@@ -263567,7 +263612,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dnfile": {
     "description": "Module to parse .NET executable files",
     "pname": "python3.13-dnfile",
-    "version": "0.15.1"
+    "version": "0.16.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.dns": {
     "description": "DNS toolkit for Python",
@@ -264367,7 +264412,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ec2-metadata": {
     "description": "Easy interface to query the EC2 metadata API, with caching",
     "pname": "python3.13-ec2-metadata",
-    "version": "2.14.0"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.ec2instanceconnectcli": {
     "description": "Command Line Interface for AWS EC2 Instance Connect",
@@ -264797,7 +264842,7 @@
   "legacyPackages.x86_64-linux.python313Packages.environs": {
     "description": "Python modle for environment variable parsing",
     "pname": "python3.13-environs",
-    "version": "14.2.0"
+    "version": "14.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.envisage": {
     "description": "Framework for building applications whose functionalities can be extended by adding plug-ins",
@@ -270422,7 +270467,7 @@
   "legacyPackages.x86_64-linux.python313Packages.inform": {
     "description": "Print and logging utilities",
     "pname": "python3.13-inform",
-    "version": "1.34"
+    "version": "1.35"
   },
   "legacyPackages.x86_64-linux.python313Packages.ingredient-parser-nlp": {
     "description": "Parse structured information from recipe ingredient sentences",
@@ -271457,7 +271502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.json-repair": {
     "description": "Module to repair invalid JSON, commonly used to parse the output of LLMs",
     "pname": "python3.13-json-repair",
-    "version": "0.47.8"
+    "version": "0.48.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.json-rpc": {
     "description": "JSON-RPC 1/2 transport implementation",
@@ -271632,7 +271677,7 @@
   "legacyPackages.x86_64-linux.python313Packages.jsonschema-rs": {
     "description": "High-performance JSON Schema validator for Python",
     "pname": "python3.13-jsonschema-rs",
-    "version": "0.30.0"
+    "version": "0.32.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.jsonschema-spec": {
     "description": "JSONSchema Spec with object-oriented paths",
@@ -272172,7 +272217,7 @@
   "legacyPackages.x86_64-linux.python313Packages.keras": {
     "description": "Multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch",
     "pname": "python3.13-keras",
-    "version": "3.10.0"
+    "version": "3.11.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.kerberos": {
     "description": "Kerberos high-level interface",
@@ -275177,7 +275222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.meshtastic": {
     "description": "Python API for talking to Meshtastic devices",
     "pname": "python3.13-meshtastic",
-    "version": "2.6.4"
+    "version": "2.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.meson": {
     "description": "Open source, fast and friendly build system made in Python",
@@ -278797,7 +278842,7 @@
   "legacyPackages.x86_64-linux.python313Packages.netbox-dns": {
     "description": "Netbox plugin for managing DNS data",
     "pname": "python3.13-netbox-plugin-dns",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.netbox-documents": {
     "description": "Plugin designed to faciliate the storage of site, circuit, device type and device specific documents within NetBox",
@@ -278832,7 +278877,7 @@
   "legacyPackages.x86_64-linux.python313Packages.netbox-reorder-rack": {
     "description": "NetBox plugin to allow users to reorder devices within a rack using a drag and drop UI",
     "pname": "python3.13-netbox-reorder-rack",
-    "version": "1.1.3"
+    "version": "1.1.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.netbox-routing": {
     "description": "NetBox plugin for tracking all kinds of routing information",
@@ -279052,7 +279097,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nicegui": {
     "description": "Module to create web-based user interfaces",
     "pname": "python3.13-nicegui",
-    "version": "2.22.0"
+    "version": "2.22.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.nicegui-highcharts": {
     "description": "NiceGUI with support for Highcharts",
@@ -279722,7 +279767,7 @@
   "legacyPackages.x86_64-linux.python313Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
     "pname": "python3.13-oelint-parser",
-    "version": "8.2.2"
+    "version": "8.2.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.oemthermostat": {
     "description": "Python module to interact with OpenEnergyMonitor thermostats",
@@ -280753,6 +280798,11 @@
     "description": "Implements one time password of HOTP/TOTP",
     "pname": "python3.13-otpauth",
     "version": "2.2.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.otr": {
+    "description": "Off-The-Record Messaging protocol implementation for Python",
+    "pname": "python3.13-otr",
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.ots-python": {
     "description": "Python wrapper for ots (OpenType Sanitizer)",
@@ -282487,7 +282537,7 @@
   "legacyPackages.x86_64-linux.python313Packages.polyline": {
     "description": "Python implementation of Google's Encoded Polyline Algorithm Format",
     "pname": "python3.13-polyline",
-    "version": "2.0.1"
+    "version": "2.0.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.polyswarm-api": {
     "description": "Library to interface with the PolySwarm consumer APIs",
@@ -283162,7 +283212,7 @@
   "legacyPackages.x86_64-linux.python313Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.13-publicsuffixlist",
-    "version": "1.0.2.20250724"
+    "version": "1.0.2.20250802"
   },
   "legacyPackages.x86_64-linux.python313Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -283882,7 +283932,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyathena": {
     "description": "Python DB API 2.0 (PEP 249) client for Amazon Athena",
     "pname": "python3.13-pyathena",
-    "version": "3.15.0"
+    "version": "3.16.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyatmo": {
     "description": "Simple API to access Netatmo weather station data",
@@ -285792,7 +285842,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pylitterbot": {
     "description": "Modulefor controlling a Litter-Robot",
     "pname": "python3.13-pylitterbot",
-    "version": "2024.2.2"
+    "version": "2024.2.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.pylnk3": {
     "description": "Python library for reading and writing Windows shortcut files (.lnk)",
@@ -291607,7 +291657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.reolink-aio": {
     "description": "Module to interact with the Reolink IP camera API",
     "pname": "python3.13-reolink-aio",
-    "version": "0.14.3"
+    "version": "0.14.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.reorder-python-imports": {
     "description": "Tool for automatically reordering python imports",
@@ -294452,7 +294502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.snakemake-interface-storage-plugins": {
     "description": "This package provides a stable interface for interactions between Snakemake and its storage plugins",
     "pname": "python3.13-snakemake-interface-storage-plugins",
-    "version": "4.2.1"
+    "version": "4.2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.snakemake-storage-plugin-fs": {
     "description": "Snakemake storage plugin that reads and writes from a locally mounted filesystem using rsync",
@@ -299262,7 +299312,7 @@
   "legacyPackages.x86_64-linux.python313Packages.typer-shell": {
     "description": "Library for making beautiful shells/REPLs with Typer",
     "pname": "python3.13-typer-shell",
-    "version": "0.1.12"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.types-aiobotocore": {
     "description": "Type annotations for aiobotocore generated with mypy-boto3-builder",
@@ -304752,7 +304802,7 @@
   "legacyPackages.x86_64-linux.qdigidoc": {
     "description": "Qt-based UI for signing and verifying DigiDoc documents",
     "pname": "qdigidoc",
-    "version": "4.7.0"
+    "version": "4.8.0"
   },
   "legacyPackages.x86_64-linux.qdirstat": {
     "description": "Graphical disk usage analyzer",
@@ -307077,7 +307127,7 @@
   "legacyPackages.x86_64-linux.rancher": {
     "description": "Rancher Command Line Interface (CLI) is a unified tool for interacting with your Rancher Server",
     "pname": "rancher",
-    "version": "2.11.3"
+    "version": "2.12.0"
   },
   "legacyPackages.x86_64-linux.rancid": {
     "description": "Really Awesome New Cisco confIg Differ",
@@ -307617,7 +307667,7 @@
   "legacyPackages.x86_64-linux.reaction": {
     "description": "Scan logs and take action: an alternative to fail2ban",
     "pname": "reaction",
-    "version": "2.1.1"
+    "version": "2.1.2"
   },
   "legacyPackages.x86_64-linux.reactphysics3d": {
     "description": "Open source C++ physics engine library",
@@ -307667,7 +307717,7 @@
   "legacyPackages.x86_64-linux.readest": {
     "description": "Modern, feature-rich ebook reader",
     "pname": "readest",
-    "version": "0.9.67"
+    "version": "0.9.69"
   },
   "legacyPackages.x86_64-linux.readexe": {
     "description": "Reads out structural information on Microsoft .exe formats",
@@ -307727,7 +307777,7 @@
   "legacyPackages.x86_64-linux.realm": {
     "description": "Simple, high performance relay server written in rust",
     "pname": "realm",
-    "version": "2.7.0"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.realm-studio": {
     "description": "Visual tool to view, edit, and model Realm databases",
@@ -308262,12 +308312,12 @@
   "legacyPackages.x86_64-linux.rekor-cli": {
     "description": "CLI client for Sigstore, the Signature Transparency Log",
     "pname": "rekor-cli",
-    "version": "1.3.10"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.rekor-server": {
     "description": "Sigstore server, the Signature Transparency Log",
     "pname": "rekor-server",
-    "version": "1.3.10"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.release-plz": {
     "description": "Publish Rust crates from CI with a Release PR",
@@ -311107,7 +311157,7 @@
   "legacyPackages.x86_64-linux.roxctl": {
     "description": "Command-line client of the StackRox Kubernetes Security Platform",
     "pname": "roxctl",
-    "version": "4.8.0"
+    "version": "4.8.1"
   },
   "legacyPackages.x86_64-linux.roxterm": {
     "description": "Highly configurable terminal emulator",
@@ -311212,7 +311262,7 @@
   "legacyPackages.x86_64-linux.rqlite": {
     "description": "Lightweight, distributed relational database built on SQLite",
     "pname": "rqlite",
-    "version": "8.41.0"
+    "version": "8.43.0"
   },
   "legacyPackages.x86_64-linux.rquickshare": {
     "description": "Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS",
@@ -322698,11 +322748,6 @@
     "description": "Experimental Nintendo Switch Emulator written in C# (community fork of Ryujinx)",
     "pname": "ryubing",
     "version": "1.3.2"
-  },
-  "legacyPackages.x86_64-linux.ryujinx": {
-    "description": "Experimental Nintendo Switch Emulator written in C#",
-    "pname": "ryujinx",
-    "version": "1.1.1401"
   },
   "legacyPackages.x86_64-linux.ryujinx-greemdev": {
     "description": "Experimental Nintendo Switch Emulator written in C# (community fork of Ryujinx)",
@@ -349407,7 +349452,7 @@
   "legacyPackages.x86_64-linux.signal-desktop": {
     "description": "Private, simple, and secure messenger (nixpkgs build)",
     "pname": "signal-desktop",
-    "version": "7.62.0"
+    "version": "7.64.0"
   },
   "legacyPackages.x86_64-linux.signal-desktop-bin": {
     "description": "Private, simple, and secure messenger",
@@ -349417,7 +349462,7 @@
   "legacyPackages.x86_64-linux.signal-desktop-source": {
     "description": "Private, simple, and secure messenger (nixpkgs build)",
     "pname": "signal-desktop",
-    "version": "7.62.0"
+    "version": "7.64.0"
   },
   "legacyPackages.x86_64-linux.signal-export": {
     "description": "Export your Signal chats to markdown files with attachments",
@@ -349427,7 +349472,7 @@
   "legacyPackages.x86_64-linux.signalbackup-tools": {
     "description": "Tool to work with Signal Backup files",
     "pname": "signalbackup-tools",
-    "version": "20250729"
+    "version": "20250801"
   },
   "legacyPackages.x86_64-linux.signaturepdf": {
     "description": "Web software for signing PDFs and also organize pages, edit metadata and compress pdf",
@@ -350802,7 +350847,7 @@
   "legacyPackages.x86_64-linux.snazy": {
     "description": "Snazzy json log viewer",
     "pname": "snazy",
-    "version": "0.57.2"
+    "version": "0.57.3"
   },
   "legacyPackages.x86_64-linux.snd": {
     "description": "Sound editor",
@@ -352272,7 +352317,7 @@
   "legacyPackages.x86_64-linux.spiffe-helper": {
     "description": "Retrieve and manage SVIDs on behalf of a workload",
     "pname": "spiffe-helper",
-    "version": "0.10.0"
+    "version": "0.10.1"
   },
   "legacyPackages.x86_64-linux.spiffe-vault": {
     "description": "Integrates Spiffe and Vault to have secretless authentication",
@@ -352652,7 +352697,7 @@
   "legacyPackages.x86_64-linux.sqldef": {
     "description": "Idempotent SQL schema management tool",
     "pname": "sqldef",
-    "version": "2.0.6"
+    "version": "2.0.7"
   },
   "legacyPackages.x86_64-linux.sqldiff": {
     "description": "Tool that displays the differences between SQLite databases",
@@ -355237,7 +355282,7 @@
   "legacyPackages.x86_64-linux.swaylock": {
     "description": "Screen locker for Wayland",
     "pname": "swaylock",
-    "version": "1.8.2"
+    "version": "1.8.3"
   },
   "legacyPackages.x86_64-linux.swaylock-effects": {
     "description": "Screen locker for Wayland",
@@ -355897,7 +355942,7 @@
   "legacyPackages.x86_64-linux.syrics": {
     "description": "Command line tool to fetch lyrics from spotify and save it to lrc file",
     "pname": "syrics",
-    "version": "0.1.2.2"
+    "version": "0.1.2.3"
   },
   "legacyPackages.x86_64-linux.sysbench": {
     "description": "Modular, cross-platform and multi-threaded benchmark tool",
@@ -356804,6 +356849,11 @@
     "pname": "ocaml5.3.0-tatl",
     "version": "1.0"
   },
+  "legacyPackages.x86_64-linux.tattoy": {
+    "description": "Text-based compositor for modern terminals",
+    "pname": "tattoy",
+    "version": "0.1.8"
+  },
   "legacyPackages.x86_64-linux.tau-hydrogen": {
     "description": "GTK icon theme for tauOS",
     "pname": "tau-hydrogen",
@@ -356877,7 +356927,7 @@
   "legacyPackages.x86_64-linux.tbls": {
     "description": "Tool to generate documentation based on a database structure",
     "pname": "tbls",
-    "version": "1.86.1"
+    "version": "1.87.0"
   },
   "legacyPackages.x86_64-linux.tboot": {
     "description": "Pre-kernel/VMM module that uses Intel(R) TXT to perform a measured and verified launch of an OS kernel/VMM",
@@ -358052,7 +358102,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.auth0": {
     "description": "",
     "pname": "terraform-provider-auth0",
-    "version": "1.24.1"
+    "version": "1.25.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.avi": {
     "description": "",
@@ -358117,7 +358167,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.btp": {
     "description": "",
     "pname": "terraform-provider-btp",
-    "version": "1.15.0"
+    "version": "1.15.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.buildkite": {
     "description": "",
@@ -358292,7 +358342,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
     "pname": "terraform-provider-google-beta",
-    "version": "6.45.0"
+    "version": "6.46.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.googleworkspace": {
     "description": "",
@@ -358397,7 +358447,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.keycloak": {
     "description": "",
     "pname": "terraform-provider-keycloak",
-    "version": "5.3.0"
+    "version": "5.4.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.kubectl": {
     "description": "",
@@ -358422,7 +358472,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.linode": {
     "description": "",
     "pname": "terraform-provider-linode",
-    "version": "3.1.0"
+    "version": "3.1.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.linuxbox": {
     "description": "",
@@ -358482,7 +358532,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.newrelic": {
     "description": "",
     "pname": "terraform-provider-newrelic",
-    "version": "3.64.0"
+    "version": "3.65.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.nexus": {
     "description": "",
@@ -358557,7 +358607,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.ovh": {
     "description": "",
     "pname": "terraform-provider-ovh",
-    "version": "2.5.0"
+    "version": "2.6.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.pagerduty": {
     "description": "",
@@ -358862,12 +358912,12 @@
   "legacyPackages.x86_64-linux.terragrunt": {
     "description": "Thin wrapper for Terraform that supports locking for Terraform state and enforces best practices",
     "pname": "terragrunt",
-    "version": "0.83.2"
+    "version": "0.84.0"
   },
   "legacyPackages.x86_64-linux.terramate": {
     "description": "Adds code generation, stacks, orchestration, change detection, data sharing and more to Terraform",
     "pname": "terramate",
-    "version": "0.14.1"
+    "version": "0.14.2"
   },
   "legacyPackages.x86_64-linux.terranix": {
     "description": "NixOS like terraform-json generator",
@@ -383554,6 +383604,11 @@
     "pname": "tk",
     "version": "9.0.1"
   },
+  "legacyPackages.x86_64-linux.tk-safe": {
+    "description": "Electronic medical record (ePA) by Techniker Krankenkasse (TK)",
+    "pname": "tk-safe",
+    "version": "25.8.1"
+  },
   "legacyPackages.x86_64-linux.tkcvs": {
     "description": "TCL/TK GUI for cvs and subversion",
     "pname": "tkrev",
@@ -402622,7 +402677,7 @@
   "legacyPackages.x86_64-linux.unimap": {
     "description": "Scan only once by IP address and reduce scan times with Nmap for large amounts of data",
     "pname": "unimap",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.unimatrix": {
     "description": "Python script to simulate the display from \"The Matrix\" in terminal",
@@ -403117,7 +403172,7 @@
   "legacyPackages.x86_64-linux.upbound-main": {
     "description": "CLI for interacting with Upbound Cloud, Upbound Enterprise, and Universal Crossplane (UXP)",
     "pname": "upbound-main",
-    "version": "0.39.0-384.g0a0c8634"
+    "version": "0.41.0-0.rc.0.26.ge82e8330"
   },
   "legacyPackages.x86_64-linux.upcloud-cli": {
     "description": "Command-line tool for managing UpCloud services",
@@ -403157,7 +403212,7 @@
   "legacyPackages.x86_64-linux.updatecli": {
     "description": "Declarative Dependency Management tool",
     "pname": "updatecli",
-    "version": "0.103.0"
+    "version": "0.105.0"
   },
   "legacyPackages.x86_64-linux.updfparser": {
     "description": "Very simple PDF parser",
@@ -403532,7 +403587,7 @@
   "legacyPackages.x86_64-linux.usql": {
     "description": "Universal command-line interface for SQL databases",
     "pname": "usql",
-    "version": "0.19.21"
+    "version": "0.19.25"
   },
   "legacyPackages.x86_64-linux.usque": {
     "description": "Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol",
@@ -417662,7 +417717,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ethersync.ethersync": {
     "description": "Extension for real-time co-editing of local text files",
     "pname": "vscode-extension-ethersync-ethersync",
-    "version": "0.2.1"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.eugleo.magic-racket": {
     "description": "Best coding experience for Racket in VS Code",
@@ -417927,7 +417982,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ionide.ionide-fsharp": {
     "description": "Enhanced F# Language Features for Visual Studio Code",
     "pname": "vscode-extension-Ionide-Ionide-fsharp",
-    "version": "7.26.5"
+    "version": "7.26.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.irongeek.vscode-env": {
     "description": "Adds formatting and syntax highlighting support for env files (.env) to Visual Studio Code",
@@ -419517,7 +419572,7 @@
   "legacyPackages.x86_64-linux.vulkan-hdr-layer-kwin6": {
     "description": "Vulkan Wayland HDR WSI Layer (Xaver Hugl's fork for KWin 6)",
     "pname": "vulkan-hdr-layer-kwin6",
-    "version": "0-unstable-2025-05-22"
+    "version": "0-unstable-2025-07-31"
   },
   "legacyPackages.x86_64-linux.vulkan-headers": {
     "description": "Vulkan Header files and API registry",
@@ -420917,7 +420972,7 @@
   "legacyPackages.x86_64-linux.werf": {
     "description": "GitOps delivery tool",
     "pname": "werf",
-    "version": "2.42.0"
+    "version": "2.45.0"
   },
   "legacyPackages.x86_64-linux.wesher": {
     "description": "Wireguard overlay mesh network manager",
@@ -421217,7 +421272,7 @@
   "legacyPackages.x86_64-linux.whois": {
     "description": "Intelligent WHOIS client from Debian",
     "pname": "whois",
-    "version": "5.6.3"
+    "version": "5.6.4"
   },
   "legacyPackages.x86_64-linux.whoogle-search": {
     "description": "Self-hosted, ad-free, privacy-respecting metasearch engine",
@@ -422297,7 +422352,7 @@
   "legacyPackages.x86_64-linux.wolfssl": {
     "description": "Small, fast, portable implementation of TLS/SSL for embedded devices",
     "pname": "wolfssl-all",
-    "version": "5.7.6"
+    "version": "5.8.2"
   },
   "legacyPackages.x86_64-linux.wolfstoneextract": {
     "description": "Utility to extract Wolfstone data from Wolfenstein II",
@@ -423327,7 +423382,7 @@
   "legacyPackages.x86_64-linux.xan": {
     "description": "Command line tool to process CSV files directly from the shell",
     "pname": "xan",
-    "version": "0.51.0"
+    "version": "0.52.0"
   },
   "legacyPackages.x86_64-linux.xandikos": {
     "description": "Lightweight CalDAV/CardDAV server",
@@ -428222,7 +428277,7 @@
   "legacyPackages.x86_64-linux.zdns": {
     "description": "CLI DNS lookup tool",
     "pname": "zdns",
-    "version": "2.0.4"
+    "version": "2.0.5"
   },
   "legacyPackages.x86_64-linux.zdoom": {
     "description": "Enhanced port of the official DOOM source code",
@@ -429318,6 +429373,11 @@
     "description": "Tool for displaying the code for all Zsh hook functions",
     "pname": "zsh-zhooks",
     "version": "0-unstable-2021-10-31"
+  },
+  "legacyPackages.x86_64-linux.zsign": {
+    "description": "Cross-platform codesign alternative for iOS 12+",
+    "pname": "zsign",
+    "version": "0.7"
   },
   "legacyPackages.x86_64-linux.zsnes": {
     "description": "Super Nintendo Entertainment System Emulator",
