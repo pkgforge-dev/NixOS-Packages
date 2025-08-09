@@ -1512,7 +1512,7 @@
   "legacyPackages.x86_64-linux.agate": {
     "description": "Very simple server for the Gemini hypertext protocol",
     "pname": "agate",
-    "version": "3.3.17"
+    "version": "3.3.18"
   },
   "legacyPackages.x86_64-linux.agave": {
     "description": "TrueType monospaced typeface designed for X environments",
@@ -1523,6 +1523,66 @@
     "description": "A dependently typed functional programming language and proof assistant",
     "pname": "agdaWithPackages",
     "version": "2.7.0.1"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages._1lab": {
+    "description": "Formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory ",
+    "pname": "1lab-unstable",
+    "version": "2024-08-05"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.agda": {
+    "description": "A dependently typed functional programming language and proof assistant",
+    "pname": "agdaWithPackages",
+    "version": "2.7.0.1"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.agda-categories": {
+    "description": "New Categories library",
+    "pname": "agda-categories",
+    "version": "0.2.0"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.agda-prelude": {
+    "description": "Programming library for Agda",
+    "pname": "agda-prelude-unstable",
+    "version": "2024-08-22"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.agdarsec": {
+    "description": "Total Parser Combinators in Agda",
+    "pname": "agdarsec",
+    "version": "0.4.1"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.cubical": {
+    "description": "Cubical type theory library for use with the Agda compiler",
+    "pname": "cubical",
+    "version": "0.8"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.cubical-mini": {
+    "description": "Nonstandard library for Cubical Agda",
+    "pname": "cubical-mini-nightly",
+    "version": "20241214"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.functional-linear-algebra": {
+    "description": "Formalizing linear algebra in Agda by representing matrices as functions from one vector space to another. ",
+    "pname": "functional-linear-algebra",
+    "version": "0.5.0"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.generic": {
+    "description": "Library for doing generic programming in Agda",
+    "pname": "generic",
+    "version": "0.1.0.2"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.generics": {
+    "description": "Library for datatype-generic programming in Agda",
+    "pname": "generics",
+    "version": "1.0.1"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.iowa-stdlib": {
+    "description": "Agda standard library developed at Iowa",
+    "pname": "iowa-stdlib",
+    "version": "1.5.0"
+  },
+  "legacyPackages.x86_64-linux.agdaPackages.standard-library": {
+    "description": "Standard library for use with the Agda compiler",
+    "pname": "standard-library",
+    "version": "2.2"
   },
   "legacyPackages.x86_64-linux.agdsn-zsh-config": {
     "description": "Modified version of the Grml Zsh configuration specialised for the needs of system administration",
@@ -11137,7 +11197,7 @@
   "legacyPackages.x86_64-linux.auth0-cli": {
     "description": "Supercharge your developer workflow",
     "pname": "auth0-cli",
-    "version": "1.16.0"
+    "version": "1.17.0"
   },
   "legacyPackages.x86_64-linux.authelia": {
     "description": "Single Sign-On Multi-Factor portal for web apps",
@@ -11512,7 +11572,7 @@
   "legacyPackages.x86_64-linux.avbroot": {
     "description": "Sign (and root) Android A/B OTAs with custom keys while preserving Android Verified Boot",
     "pname": "avbroot",
-    "version": "3.17.2"
+    "version": "3.18.1"
   },
   "legacyPackages.x86_64-linux.avdump3": {
     "description": "Tool for extracting audio/video metadata from media files and uploading it to AniDB",
@@ -15037,7 +15097,7 @@
   "legacyPackages.x86_64-linux.bikeshed": {
     "description": "Preprocessor for anyone writing specifications that converts source files into actual specs",
     "pname": "bikeshed",
-    "version": "5.3.3"
+    "version": "5.3.4"
   },
   "legacyPackages.x86_64-linux.biliass": {
     "description": "Convert Bilibili XML/protobuf danmaku to ASS subtitle",
@@ -15447,12 +15507,12 @@
   "legacyPackages.x86_64-linux.bitwarden-directory-connector": {
     "description": "LDAP connector for Bitwarden",
     "pname": "bitwarden-directory-connector",
-    "version": "2025.6.1"
+    "version": "2025.7.0"
   },
   "legacyPackages.x86_64-linux.bitwarden-directory-connector-cli": {
     "description": "LDAP connector for Bitwarden",
     "pname": "bitwarden-directory-connector-cli",
-    "version": "2025.6.1"
+    "version": "2025.7.0"
   },
   "legacyPackages.x86_64-linux.bitwarden-menu": {
     "description": "Dmenu/Rofi frontend for managing Bitwarden vaults. Uses the Bitwarden CLI tool to interact with the Bitwarden database",
@@ -16747,7 +16807,7 @@
   "legacyPackages.x86_64-linux.brave": {
     "description": "Privacy-oriented browser for Desktop and Laptop computers",
     "pname": "brave",
-    "version": "1.80.125"
+    "version": "1.81.131"
   },
   "legacyPackages.x86_64-linux.breads-ad": {
     "description": "Tool to evaluate Active Directory Security",
@@ -16762,7 +16822,7 @@
   "legacyPackages.x86_64-linux.breakpad": {
     "description": "Open-source multi-platform crash reporting system",
     "pname": "breakpad",
-    "version": "2023.06.01"
+    "version": "2024.02.16"
   },
   "legacyPackages.x86_64-linux.breakpointHook": {
     "description": "",
@@ -17767,7 +17827,7 @@
   "legacyPackages.x86_64-linux.burpsuite": {
     "description": "Integrated platform for performing security testing of web applications",
     "pname": "burpsuite",
-    "version": "2025.7.1"
+    "version": "2025.8"
   },
   "legacyPackages.x86_64-linux.bustle": {
     "description": "Graphical D-Bus message analyser and profiler",
@@ -25857,7 +25917,7 @@
   "legacyPackages.x86_64-linux.cnspec": {
     "description": "Open source, cloud-native security and policy project",
     "pname": "cnspec",
-    "version": "11.66.0"
+    "version": "11.66.1"
   },
   "legacyPackages.x86_64-linux.cnsprcy": {
     "description": "End to end encrypted connections between trusted devices",
@@ -26022,12 +26082,12 @@
   "legacyPackages.x86_64-linux.code-cursor": {
     "description": "AI-powered code editor built on vscode",
     "pname": "cursor",
-    "version": "1.3.9"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.code-cursor-fhs": {
     "description": "Wrapped variant of cursor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
     "pname": "cursor",
-    "version": "1.3.9"
+    "version": "1.4.2"
   },
   "legacyPackages.x86_64-linux.code-maat": {
     "description": "Command line tool to mine and analyze data from version-control systems",
@@ -26177,7 +26237,7 @@
   "legacyPackages.x86_64-linux.codex": {
     "description": "Lightweight coding agent that runs in your terminal",
     "pname": "codex",
-    "version": "0.14.0"
+    "version": "0.19.0"
   },
   "legacyPackages.x86_64-linux.codipack": {
     "description": "Fast gradient evaluation in C++ based on Expression Templates",
@@ -26774,11 +26834,6 @@
     "pname": "conduktor-ctl",
     "version": "0.6.2"
   },
-  "legacyPackages.x86_64-linux.conduwuit": {
-    "description": "Matrix homeserver written in Rust, forked from conduit",
-    "pname": "conduwuit",
-    "version": "0.4.6"
-  },
   "legacyPackages.x86_64-linux.cone": {
     "description": "Cone Programming Language",
     "pname": "cone-unstable",
@@ -26988,6 +27043,11 @@
     "description": "Generic template rendering and notifications with Consul",
     "pname": "consul-template",
     "version": "0.41.1"
+  },
+  "legacyPackages.x86_64-linux.contact": {
+    "description": "Console UI for Meshtastic",
+    "pname": "contact",
+    "version": "1.3.16"
   },
   "legacyPackages.x86_64-linux.contacts": {
     "description": "Access contacts from the Mac address book from command-line",
@@ -33447,7 +33507,7 @@
   "legacyPackages.x86_64-linux.devspace": {
     "description": "Open-source developer tool for Kubernetes that lets you develop and deploy cloud-native software faster",
     "pname": "devspace",
-    "version": "6.3.15"
+    "version": "6.3.16"
   },
   "legacyPackages.x86_64-linux.devtodo": {
     "description": "Hierarchical command-line task manager",
@@ -35127,7 +35187,7 @@
   "legacyPackages.x86_64-linux.doctl": {
     "description": "Command line tool for DigitalOcean services",
     "pname": "doctl",
-    "version": "1.135.0"
+    "version": "1.137.0"
   },
   "legacyPackages.x86_64-linux.doctoc": {
     "description": "Generate table of contents for Markdown files",
@@ -35522,7 +35582,7 @@
   "legacyPackages.x86_64-linux.dotnet-ef": {
     "description": "Tools to help with design-time development tasks",
     "pname": "dotnet-ef",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnet-outdated": {
     "description": ".NET Core global tool to display and update outdated NuGet packages in a project",
@@ -39077,7 +39137,7 @@
   "legacyPackages.x86_64-linux.emscripten": {
     "description": "LLVM-to-JavaScript Compiler",
     "pname": "emscripten",
-    "version": "4.0.11"
+    "version": "4.0.12"
   },
   "legacyPackages.x86_64-linux.emscriptenPackages.json_c": {
     "description": "JSON implementation in C",
@@ -40382,7 +40442,7 @@
   "legacyPackages.x86_64-linux.exercise-timer": {
     "description": "Timer app for high intensity interval training",
     "pname": "exercise-timer",
-    "version": "1.8.4"
+    "version": "1.8.5"
   },
   "legacyPackages.x86_64-linux.exercism": {
     "description": "Go based command line tool for exercism.io",
@@ -40537,7 +40597,7 @@
   "legacyPackages.x86_64-linux.exploitdb": {
     "description": "Archive of public exploits and corresponding vulnerable software",
     "pname": "exploitdb",
-    "version": "2025-08-04"
+    "version": "2025-08-05"
   },
   "legacyPackages.x86_64-linux.exportarr": {
     "description": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
@@ -42872,7 +42932,7 @@
   "legacyPackages.x86_64-linux.firmwareLinuxNonfree": {
     "description": "Binary firmware collection packaged by kernel.org",
     "pname": "linux-firmware",
-    "version": "20250708"
+    "version": "20250808"
   },
   "legacyPackages.x86_64-linux.firrtl": {
     "description": "Flexible Intermediate Representation for RTL",
@@ -43922,7 +43982,7 @@
   "legacyPackages.x86_64-linux.fluxcd-operator-mcp": {
     "description": "Kubernetes controller for managing the lifecycle of Flux CD",
     "pname": "fluxcd-operator-mcp",
-    "version": "0.26.0"
+    "version": "0.27.0"
   },
   "legacyPackages.x86_64-linux.flvstreamer": {
     "description": "Command-line RTMP client",
@@ -45107,7 +45167,7 @@
   "legacyPackages.x86_64-linux.frr": {
     "description": "FRR BGP/OSPF/ISIS/RIP/RIPNG routing daemon suite",
     "pname": "frr",
-    "version": "10.4.0"
+    "version": "10.4.1"
   },
   "legacyPackages.x86_64-linux.frugal": {
     "description": "Thrift improved",
@@ -47737,7 +47797,7 @@
   "legacyPackages.x86_64-linux.ghidra-extensions.findcrypt": {
     "description": "Ghidra analysis plugin to locate cryptographic constants",
     "pname": "findcrypt",
-    "version": "3.1.0"
+    "version": "3.1.1"
   },
   "legacyPackages.x86_64-linux.ghidra-extensions.ghidra-delinker-extension": {
     "description": "Ghidra extension for delinking executables back to object files",
@@ -47792,7 +47852,7 @@
   "legacyPackages.x86_64-linux.ghidra-extensions.wasm": {
     "description": "Ghidra Wasm plugin with disassembly and decompilation support",
     "pname": "wasm",
-    "version": "2.3.1"
+    "version": "2.3.2"
   },
   "legacyPackages.x86_64-linux.ghmap": {
     "description": "Python tool for mapping GitHub events to contributor activities",
@@ -48707,7 +48767,7 @@
   "legacyPackages.x86_64-linux.git-stack": {
     "description": "Stacked branch management for Git",
     "pname": "git-stack",
-    "version": "0.10.19"
+    "version": "0.10.20"
   },
   "legacyPackages.x86_64-linux.git-standup": {
     "description": "Recall what you did on the last working day",
@@ -56982,7 +57042,7 @@
   "legacyPackages.x86_64-linux.goresym": {
     "description": "Go symbol recovery tool",
     "pname": "goresym",
-    "version": "3.0.2"
+    "version": "3.1.1"
   },
   "legacyPackages.x86_64-linux.gorilla-bin": {
     "description": "Password Gorilla is a Tk based password manager",
@@ -60352,7 +60412,7 @@
   "legacyPackages.x86_64-linux.harper": {
     "description": "Grammar Checker for Developers",
     "pname": "harper",
-    "version": "0.55.0"
+    "version": "0.56.0"
   },
   "legacyPackages.x86_64-linux.harsh": {
     "description": "CLI habit tracking for geeks",
@@ -64339,6 +64399,11 @@
     "pname": "homeassistant-test-mold_indicator",
     "version": "2025.8.0"
   },
+  "legacyPackages.x86_64-linux.home-assistant-component-tests.monarch_money": {
+    "description": "Open source home automation that puts local control and privacy first",
+    "pname": "homeassistant-test-monarch_money",
+    "version": "2025.8.0"
+  },
   "legacyPackages.x86_64-linux.home-assistant-component-tests.monoprice": {
     "description": "Open source home automation that puts local control and privacy first",
     "pname": "homeassistant-test-monoprice",
@@ -67043,6 +67108,11 @@
     "description": "Mushroom Cards - Build a beautiful dashboard easily",
     "pname": "mushroom",
     "version": "4.5.0"
+  },
+  "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.opensprinkler-card": {
+    "description": "Home Assistant card for collecting OpenSprinkler status",
+    "pname": "opensprinkler-card",
+    "version": "1.13.2"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.plotly-chart-card": {
     "description": "Highly customisable Lovelace card to plot interactive graphs. Brings scrolling, zooming, and much more",
@@ -69898,6 +69968,426 @@
     "description": "Idris2 Package Manager with Curated Package Collections",
     "pname": "pack",
     "version": "2024-02-07"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.array": {
+    "description": "Primitive flat arrays containing Idris values",
+    "pname": "idris-array",
+    "version": "2016-10-14"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.base": {
+    "description": "base builtin Idris library",
+    "pname": "idris-base",
+    "version": "1.3.4"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.bi": {
+    "description": "Idris Binary Integer Arithmetic, porting PArith, NArith, and ZArith from Coq",
+    "pname": "idris-bi",
+    "version": "2018-06-25"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.bifunctors": {
+    "description": "Small bifunctor library for idris",
+    "pname": "idris-bifunctors",
+    "version": "2017-02-07"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.bytes": {
+    "description": "FFI-based byte buffers for Idris",
+    "pname": "idris-bytes",
+    "version": "2018-02-10"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.canvas": {
+    "description": "Idris FFI binding for html5 canvas 2d api",
+    "pname": "idris-canvas",
+    "version": "2017-11-09"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.categories": {
+    "description": "Category Theory",
+    "pname": "idris-categories",
+    "version": "2018-07-02"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.coda": {
+    "description": "Some Idris libraries including nodejs bindings and ISO8601 Date and Time",
+    "pname": "idris-coda",
+    "version": "2018-01-25"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.comonad": {
+    "description": "Comonads for Idris",
+    "pname": "idris-comonad",
+    "version": "2018-02-26"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.composition": {
+    "description": "Composition extras for Idris",
+    "pname": "idris-composition",
+    "version": "2017-11-12"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.config": {
+    "description": "Parsers for various configuration files written in Idris",
+    "pname": "idris-config",
+    "version": "2017-11-06"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.console": {
+    "description": "Idris library to interact with the browser console",
+    "pname": "idris-console",
+    "version": "2017-04-20"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.containers": {
+    "description": "Various data structures for use in the Idris Language",
+    "pname": "idris-containers",
+    "version": "2017-09-10"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.contrib": {
+    "description": "contrib builtin Idris library",
+    "pname": "idris-contrib",
+    "version": "1.3.4"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.cube": {
+    "description": "Implementation of the Lambda Cube in Idris",
+    "pname": "idris-cube",
+    "version": "2017-07-05"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.derive": {
+    "description": "Type class deriving with elaboration reflection",
+    "pname": "idris-derive",
+    "version": "2018-07-02"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.descncrunch": {
+    "description": "Descriptions, levitation, and reflecting the elaborator",
+    "pname": "idris-descncrunch",
+    "version": "2017-11-15"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.dict": {
+    "description": "Dict k v in Idris",
+    "pname": "idris-dict",
+    "version": "2016-12-26"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.dom": {
+    "description": "Idris library to interact with the DOM",
+    "pname": "idris-dom",
+    "version": "2017-04-22"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.effects": {
+    "description": "effects builtin Idris library",
+    "pname": "idris-effects",
+    "version": "1.3.4"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.electron": {
+    "description": "Electron bindings for Idris",
+    "pname": "idris-electron",
+    "version": "2016-03-07"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.eternal": {
+    "description": "Infix pipe operators and some Nat, Float, String conversions",
+    "pname": "idris-eternal",
+    "version": "2018-07-02"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.farrp": {
+    "description": "Arrowized FRP library for Idris with static safety guarantees",
+    "pname": "idris-farrp",
+    "version": "2018-02-13"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.free": {
+    "description": "Free Monads and useful constructions to work with them",
+    "pname": "idris-free",
+    "version": "2017-07-03"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.fsm": {
+    "description": "Comonads for Idris",
+    "pname": "idris-fsm",
+    "version": "2017-04-16"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.glfw": {
+    "description": "GLFW bindings for Idris",
+    "pname": "idris-glfw",
+    "version": "2016-12-05"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.graphviz": {
+    "description": "Parser and library for graphviz dot files",
+    "pname": "idris-graphviz",
+    "version": "2017-01-16"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.hamt": {
+    "description": "Idris Hash Array Mapped Trie",
+    "pname": "idris-hamt",
+    "version": "2016-11-15"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.hezarfen": {
+    "description": "Theorem prover for intuitionistic propositional logic in Idris, with metaprogramming features",
+    "pname": "idris-hezarfen",
+    "version": "2018-02-03"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.hrtime": {
+    "description": "Idris library for high resolution time",
+    "pname": "idris-hrtime",
+    "version": "2017-04-16"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.html": {
+    "description": "Idris library to interact with HTML",
+    "pname": "idris-html",
+    "version": "2017-04-23"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.http": {
+    "description": "HTTP library for idris",
+    "pname": "idris-http",
+    "version": "2018-02-25"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.http4idris": {
+    "description": "Experimental HTTP framework for Idris",
+    "pname": "idris-http4idris",
+    "version": "2018-01-16"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.iaia": {
+    "description": "Recursion scheme library for Idris",
+    "pname": "idris-iaia",
+    "version": "2017-11-10"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.idris": {
+    "description": "Functional Programming Language with Dependent Types",
+    "pname": "idris",
+    "version": "1.3.4"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.idris-no-deps": {
+    "description": "Functional Programming Language with Dependent Types",
+    "pname": "idris",
+    "version": "1.3.4"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.idrishighlighter": {
+    "description": "Semantic highlighter for Idris code",
+    "pname": "idris-idrishighlighter",
+    "version": "2018-02-22"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.idrisscript": {
+    "description": "FFI Bindings to interact with the unsafe world of JavaScript",
+    "pname": "idris-idrisscript",
+    "version": "2017-07-01"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.ipkgparser": {
+    "description": "Parser for Idris iPkg files written in Idris using Lightyear",
+    "pname": "idris-ipkgparser",
+    "version": "2017-11-14"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.jheiling-extras": {
+    "description": "Some useful functions for Idris",
+    "pname": "idris-extras",
+    "version": "2018-03-06"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.jheiling-js": {
+    "description": "Js library for Idris",
+    "pname": "idris-jheiling-js",
+    "version": "2016-03-09"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.js": {
+    "description": "Js libraries for idris",
+    "pname": "idris-js",
+    "version": "2018-11-27"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.lens": {
+    "description": "van Laarhoven lenses for Idris",
+    "pname": "idris-lens",
+    "version": "2017-09-25"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.lightyear": {
+    "description": "Parser combinators for Idris",
+    "pname": "idris-lightyear",
+    "version": "2017-09-10"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.logic": {
+    "description": "Propositional logic tools, inspired by the Coq standard library",
+    "pname": "idris-logic",
+    "version": "2016-12-02"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.mapping": {
+    "description": "Idris mapping library",
+    "pname": "idris-mapping",
+    "version": "2018-02-27"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.mhd": {
+    "description": "Binding of the GNU libmicrohttpd library to the Idris C backend",
+    "pname": "idris-mhd",
+    "version": "2016-04-22"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.pacman": {
+    "description": "Proof that Idris is pacman complete",
+    "pname": "idris-pacman",
+    "version": "2017-11-10"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.patricia": {
+    "description": "Immutable map from integer keys to values based on patricia tree. Basically persistent array",
+    "pname": "idris-patricia",
+    "version": "2017-10-27"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.permutations": {
+    "description": "Type-safe way of working with permutations in Idris",
+    "pname": "idris-permutations",
+    "version": "2018-01-19"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.pfds": {
+    "description": "Purely functional data structures in Idris",
+    "pname": "idris-pfds",
+    "version": "2017-09-25"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.pipes": {
+    "description": "Composable and effectful production, transformation and consumption of streams of data",
+    "pname": "idris-pipes",
+    "version": "2017-12-02"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.posix": {
+    "description": "System POSIX bindings for Idris",
+    "pname": "idris-posix",
+    "version": "2017-11-18"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.prelude": {
+    "description": "prelude builtin Idris library",
+    "pname": "idris-prelude",
+    "version": "1.3.4"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.pruviloj": {
+    "description": "pruviloj builtin Idris library",
+    "pname": "idris-pruviloj",
+    "version": "1.3.4"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.quantities": {
+    "description": "Type-safe physical computations and unit conversions in Idris",
+    "pname": "idris-quantities",
+    "version": "2018-04-17"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.rationals": {
+    "description": "Idris rational number type built from paths in the Stern Brocot tree",
+    "pname": "idris-rationals",
+    "version": "2017-04-29"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.recursion_schemes": {
+    "description": "Recursion schemes for Idris",
+    "pname": "idris-recursion_schemes",
+    "version": "2018-01-19"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.refined": {
+    "description": "Port of Scala/Haskell Refined library to Idris",
+    "pname": "idris-refined",
+    "version": "2017-12-28"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.sdl2": {
+    "description": "SDL2 binding for Idris",
+    "pname": "idris-sdl2",
+    "version": "0.1.1"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.semidirect": {
+    "description": "Semidirect products in Idris",
+    "pname": "idris-semidirect",
+    "version": "2018-07-02"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.setoids": {
+    "description": "Idris proofs for extensional equalities",
+    "pname": "idris-setoids",
+    "version": "2018-06-18"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.smproc": {
+    "description": "Well-typed symmetric-monoidal category of concurrent processes",
+    "pname": "idris-smproc",
+    "version": "2018-02-08"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.snippets": {
+    "description": "Collection of Idris snippets",
+    "pname": "idris-snippets",
+    "version": "2018-03-17"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.software_foundations": {
+    "description": "Code for Software Foundations in Idris",
+    "pname": "idris-software_foundations",
+    "version": "2017-11-04"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.specdris": {
+    "description": "Testing library for Idris",
+    "pname": "idris-specdris",
+    "version": "2018-01-23"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.tap": {
+    "description": "Simple TAP producer and consumer/reporter for Idris",
+    "pname": "idris-tap",
+    "version": "2017-04-08"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.test": {
+    "description": "Testing Utilities for Idris programs",
+    "pname": "idris-test",
+    "version": "2017-03-30"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.tf-random": {
+    "description": "Port of Haskell tf-random",
+    "pname": "idris-tf-random",
+    "version": "2020-01-15"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.tlhydra": {
+    "description": "Idris parser and serializer/deserealizer for TL language",
+    "pname": "idris-tlhydra",
+    "version": "2017-13-26"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.tomladris": {
+    "description": "TOML parser for Idris",
+    "pname": "idris-tomladris",
+    "version": "2017-11-14"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.tp": {
+    "description": "Strongly Typed Paths for Idris",
+    "pname": "idris-tp",
+    "version": "2017-08-15"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.tparsec": {
+    "description": "TParsec - Total Parser Combinators in Idris",
+    "pname": "idris-tparsec",
+    "version": "2020-02-11"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.transducers": {
+    "description": "Composable algorithmic transformation",
+    "pname": "idris-transducers",
+    "version": "2017-07-28"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.trees": {
+    "description": "Trees in Idris",
+    "pname": "idris-trees",
+    "version": "2018-03-19"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.union_type": {
+    "description": "UnionType in Idris",
+    "pname": "idris-union_type",
+    "version": "2018-01-30"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.vdom": {
+    "description": "Virtual DOM in pure Idris",
+    "pname": "idris-vdom",
+    "version": "0.6.0"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.vecspace": {
+    "description": "Abstract vector spaces in Idris",
+    "pname": "idris-vecspace",
+    "version": "2018-01-12"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.webgl": {
+    "description": "Idris library to interact with WebGL",
+    "pname": "idris-webgl",
+    "version": "2017-05-08"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.wl-pprint": {
+    "description": "Wadler-Leijen pretty-printing library",
+    "pname": "idris-wl-pprint",
+    "version": "2017-03-13"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.wyvern": {
+    "description": "Little web server written in Idris",
+    "pname": "idris-wyvern",
+    "version": "2017-06-26"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.xhr": {
+    "description": "Idris library to interact with xhr",
+    "pname": "idris-xhr",
+    "version": "2017-04-22"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.yaml": {
+    "description": "Idris YAML lib",
+    "pname": "idris-yaml",
+    "version": "2018-01-25"
+  },
+  "legacyPackages.x86_64-linux.idrisPackages.yampa": {
+    "description": "Idris implementation of Yampa FRP library as described in Reactive Programming through Dependent Types",
+    "pname": "idris-yampa",
+    "version": "2016-07-05"
   },
   "legacyPackages.x86_64-linux.idsk": {
     "description": "Manipulating CPC dsk images and files",
@@ -73067,7 +73557,7 @@
   "legacyPackages.x86_64-linux.jenkins": {
     "description": "Extendable open source continuous integration server",
     "pname": "jenkins",
-    "version": "2.504.3"
+    "version": "2.516.1"
   },
   "legacyPackages.x86_64-linux.jenkins-job-builder": {
     "description": "Jenkins Job Builder is a system for configuring Jenkins jobs using simple YAML files stored in Git",
@@ -78587,7 +79077,7 @@
   "legacyPackages.x86_64-linux.klayout": {
     "description": "High performance layout viewer and editor with support for GDS and OASIS",
     "pname": "klayout",
-    "version": "0.30.2"
+    "version": "0.30.3"
   },
   "legacyPackages.x86_64-linux.klee": {
     "description": "Symbolic virtual machine built on top of LLVM",
@@ -79522,7 +80012,7 @@
   "legacyPackages.x86_64-linux.kor": {
     "description": "Golang Tool to discover unused Kubernetes Resources",
     "pname": "kor",
-    "version": "0.6.2"
+    "version": "0.6.3"
   },
   "legacyPackages.x86_64-linux.kora-icon-theme": {
     "description": "SVG icon theme in four variants",
@@ -80117,7 +80607,7 @@
   "legacyPackages.x86_64-linux.kubedb-cli": {
     "description": "kubectl plugin for KubeDB by AppsCode",
     "pname": "kubedb-cli",
-    "version": "0.56.0"
+    "version": "0.57.0"
   },
   "legacyPackages.x86_64-linux.kubedock": {
     "description": "Minimal implementation of the Docker API that will orchestrate containers on a Kubernetes cluster",
@@ -86122,7 +86612,7 @@
   "legacyPackages.x86_64-linux.libretro.pcsx2": {
     "description": "Port of PCSX2 to libretro",
     "pname": "libretro-pcsx2",
-    "version": "0-unstable-2025-07-11"
+    "version": "0-unstable-2025-08-07"
   },
   "legacyPackages.x86_64-linux.libretro.pcsx_rearmed": {
     "description": "Port of PCSX ReARMed to libretro",
@@ -91047,7 +91537,7 @@
   "legacyPackages.x86_64-linux.linux-firmware": {
     "description": "Binary firmware collection packaged by kernel.org",
     "pname": "linux-firmware",
-    "version": "20250708"
+    "version": "20250808"
   },
   "legacyPackages.x86_64-linux.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -91232,7 +91722,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_lqx": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)",
     "pname": "linux-lqx",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rpi1": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
@@ -105067,17 +105557,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
     "pname": "acer-wmi-battery",
-    "version": "6.15.8-0.1.0-unstable-2025-04-24"
+    "version": "6.15.9-0.1.0-unstable-2025-04-24"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acpi_call": {
     "description": "Module allowing arbitrary ACPI calls; use case: hybrid video",
     "pname": "acpi-call",
-    "version": "1.2.2-6.15.8"
+    "version": "1.2.2-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ajantv2": {
     "description": "AJA video driver",
     "pname": "ajantv2-module",
-    "version": "17.5.0-6.15.8"
+    "version": "17.5.0-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.akvcam": {
     "description": "Virtual camera driver for Linux",
@@ -105097,12 +105587,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.apfs": {
     "description": "APFS module for linux",
     "pname": "apfs",
-    "version": "0.3.14-6.15.8"
+    "version": "0.3.14-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.15.8"
+    "version": "0.1.0-unstable-2025-01-10-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -105112,12 +105602,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.batman_adv": {
     "description": "B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2",
     "pname": "batman-adv",
-    "version": "2025.2-6.15.8"
+    "version": "2025.2-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bbswitch": {
     "description": "Module for powering off hybrid GPUs",
     "pname": "bbswitch-unstable",
-    "version": "2021-11-29-6.15.8"
+    "version": "2021-11-29-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -105132,7 +105622,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
     "pname": "broadcom-sta",
-    "version": "6.30.223.271-57-6.15.8"
+    "version": "6.30.223.271-57-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.can-isotp": {
     "description": "Kernel module for ISO-TP (ISO 15765-2)",
@@ -105157,7 +105647,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cpupower": {
     "description": "Tool to examine and tune power saving features",
     "pname": "cpupower",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cryptodev": {
     "description": "Device that allows access to Linux kernel cryptographic drivers",
@@ -105167,7 +105657,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ddcci-driver": {
     "description": "Kernel module driver for DDC/CI monitors",
     "pname": "ddcci-driver",
-    "version": "6.15.8-0.4.5-unstable-2024-09-26"
+    "version": "6.15.9-0.4.5-unstable-2024-09-26"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.dddvb": {
     "description": "Device driver for all Digital Devices DVB demodulator and modulator cards",
@@ -105212,7 +105702,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ena": {
     "description": "Amazon Elastic Network Adapter (ENA) driver for Linux",
     "pname": "ena",
-    "version": "2.15.0-6.15.8"
+    "version": "2.15.0-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.evdi": {
     "description": "Extensible Virtual Display Interface",
@@ -105222,12 +105712,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
     "pname": "facetimehd",
-    "version": "0.6.13-6.15.8"
+    "version": "0.6.13-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fanout": {
     "description": "Kernel-based publish-subscribe system",
     "pname": "fanout-unstable",
-    "version": "2022-10-17-6.15.8"
+    "version": "2022-10-17-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.framework-laptop-kmod": {
     "description": "Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace",
@@ -105237,7 +105727,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fwts-efi-runtime": {
     "description": "Firmware Test Suite(efi-runtime kernel module)",
     "pname": "fwts-efi-runtime",
-    "version": "24.09.00-6.15.8"
+    "version": "24.09.00-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.gasket": {
     "description": "Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems",
@@ -105272,17 +105762,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.hyperv-daemons": {
     "description": "Integration Services for running NixOS under HyperV",
     "pname": "hyperv-daemons",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.iio-utils": {
     "description": "Userspace tool for interacting with Linux IIO",
     "pname": "iio-utils",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.intel-speed-select": {
     "description": "Tool to enumerate and control the Intel Speed Select Technology features",
     "pname": "intel-speed-select",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ipu6-drivers": {
     "description": "IPU6 kernel driver",
@@ -105292,12 +105782,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.isgx": {
     "description": "Intel SGX Linux Driver",
     "pname": "isgx",
-    "version": "2.14-6.15.8"
+    "version": "2.14-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.it87": {
     "description": "Patched module for IT87xx superio chip sensors support",
     "pname": "it87-unstable",
-    "version": "2024-06-09-6.15.8"
+    "version": "2024-06-09-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ithc": {
     "description": "Linux driver for Intel Touch Host Controller",
@@ -105312,17 +105802,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ixgbevf": {
     "description": "Intel 82599 Virtual Function Driver",
     "pname": "ixgbevf",
-    "version": "4.6.1-6.15.8"
+    "version": "4.6.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.jool": {
     "description": "Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules",
     "pname": "jool",
-    "version": "4.1.14-6.15.8"
+    "version": "4.1.14-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.kernel": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)",
     "pname": "linux-lqx",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.kvmfr": {
     "description": "Optional kernel module for LookingGlass",
@@ -105342,17 +105832,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.liquidtux": {
     "description": "Linux kernel hwmon drivers for AIO liquid coolers and other devices",
     "pname": "liquidtux",
-    "version": "0.1.0-unstable-2025-01-16-6.15.8"
+    "version": "0.1.0-unstable-2025-01-16-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lkrg": {
     "description": "LKRG Linux Kernel module",
     "pname": "lkrg",
-    "version": "0.9.9-6.15.8"
+    "version": "0.9.9-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lttng-modules": {
     "description": "Linux kernel modules for LTTng tracing",
     "pname": "lttng-modules",
-    "version": "6.15.8-2.13.15"
+    "version": "6.15.9-2.13.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mba6x_bl": {
     "description": "MacBook Air 6,1 and 6,2 (mid 2013) backlight driver",
@@ -105382,12 +105872,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mwprocapture": {
     "description": "Linux driver for the Magewell Pro Capture family",
     "pname": "mwprocapture",
-    "version": "1.3.4418-6.15.8"
+    "version": "1.3.4418-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mxu11x0": {
     "description": "MOXA UPort 11x0 USB to Serial Hub driver",
     "pname": "mxu11x0",
-    "version": "5.1-6.15.8"
+    "version": "5.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
@@ -105397,12 +105887,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
     "pname": "ndiswrapper",
-    "version": "1.63-6.15.8"
+    "version": "1.63-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.netatop": {
     "description": "Network monitoring module for atop",
     "pname": "netatop",
-    "version": "6.15.8-3.1"
+    "version": "6.15.9-3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.new-lg4ff": {
     "description": "Experimental Logitech force feedback module for Linux",
@@ -105417,97 +105907,97 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "570.172.08-6.15.8"
+    "version": "570.172.08-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_535": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "535.154.05-6.15.8"
+    "version": "535.154.05-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_565": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "565.57.01-6.15.8"
+    "version": "565.57.01-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.15.8"
+    "version": "570.181-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.65.06-6.15.8"
+    "version": "580.65.06-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-580.65.06"
+    "version": "6.15.9-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "575.64.05-6.15.8"
+    "version": "575.64.05-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-575.64.05"
+    "version": "6.15.9-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "340.108-6.15.8"
+    "version": "340.108-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy390": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "390.157-6.15.8"
+    "version": "390.157-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy470": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "470.256.02-6.15.8"
+    "version": "470.256.02-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy535": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "535.261.03-6.15.8"
+    "version": "535.261.03-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.15.8"
+    "version": "570.181-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-570.181"
+    "version": "6.15.9-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-570.181"
+    "version": "6.15.9-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.19-6.15.8"
+    "version": "570.123.19-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-570.123.19"
+    "version": "6.15.9-570.123.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
     "pname": "nvidiabl",
-    "version": "2020-10-01-6.15.8"
+    "version": "2020-10-01-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nxp-pn5xx": {
     "description": "NXP's NFC Open Source Kernel mode driver with ACPI configuration support",
     "pname": "nxp-pn5xx",
-    "version": "0.4-unstable-2025-02-08-6.15.8"
+    "version": "0.4-unstable-2025-02-08-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.oci-seccomp-bpf-hook": {
     "description": "OCI hook to trace syscalls and generate a seccomp profile ",
@@ -105522,27 +106012,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.15.8-lqx1"
+    "version": "1.8.13.2-6.15.9-lqx1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs_1_8": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.15.8-lqx1"
+    "version": "1.8.13.2-6.15.9-lqx1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.10.3-6.15.8"
+    "version": "3.10.3-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
     "pname": "opensnitch_ebpf",
-    "version": "1.7.1-6.15.8"
+    "version": "1.7.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.perf": {
     "description": "Linux tools to profile with performance counters",
     "pname": "perf-linux",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.pktgen": {
     "description": "Traffic generator powered by DPDK",
@@ -105572,7 +106062,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.r8168": {
     "description": "Realtek r8168 driver",
     "pname": "r8168",
-    "version": "6.15.8-8.055.00"
+    "version": "6.15.9-8.055.00"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rr-zen_workaround": {
     "description": "Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs",
@@ -105582,42 +106072,42 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8188eus-aircrack": {
     "description": "RealTek RTL8188eus WiFi driver with monitor mode & frame injection support",
     "pname": "rtl8188eus-aircrack",
-    "version": "6.15.8-unstable-2024-09-18"
+    "version": "6.15.9-unstable-2024-09-18"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189es": {
     "description": "Driver for Realtek rtl8189es",
     "pname": "rtl8189es",
-    "version": "6.15.8-2025-04-29"
+    "version": "6.15.9-2025-04-29"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189fs": {
     "description": "Driver for Realtek rtl8189fs",
     "pname": "rtl8189fs",
-    "version": "6.15.8-2025-05-04"
+    "version": "6.15.9-2025-05-04"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8192eu": {
     "description": "Realtek rtl8192eu driver",
     "pname": "rtl8192eu",
-    "version": "6.15.8-4.4.1.20250504"
+    "version": "6.15.9-4.4.1.20250504"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8723ds": {
     "description": "Linux driver for RTL8723DS",
     "pname": "rtl8723ds",
-    "version": "6.15.8-unstable-2023-11-14"
+    "version": "6.15.9-unstable-2023-11-14"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8812au": {
     "description": "Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod",
     "pname": "rtl8812au",
-    "version": "6.15.8-unstable-2024-06-13"
+    "version": "6.15.9-unstable-2024-06-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8814au": {
     "description": "Realtek 8814AU USB WiFi driver",
     "pname": "rtl8814au",
-    "version": "6.15.8-unstable-2024-05-26"
+    "version": "6.15.9-unstable-2024-05-26"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821au": {
     "description": "rtl8821AU and rtl8812AU chipset driver with firmware",
     "pname": "rtl8821au",
-    "version": "6.15.8-unstable-2025-04-08"
+    "version": "6.15.9-unstable-2025-04-08"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821ce": {
     "description": "Realtek rtl8821ce driver",
@@ -105627,27 +106117,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821cu": {
     "description": "Realtek rtl8821cu driver",
     "pname": "rtl8821cu",
-    "version": "6.15.8-unstable-2025-05-08"
+    "version": "6.15.9-unstable-2025-05-08"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852au": {
     "description": "Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod",
     "pname": "rtl8852au",
-    "version": "6.15.8-unstable-2024-05-06"
+    "version": "6.15.9-unstable-2024-05-06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852bu": {
     "description": "Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod",
     "pname": "rtl8852bu",
-    "version": "6.15.8-unstable-2025-05-18"
+    "version": "6.15.9-unstable-2025-05-18"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88x2bu": {
     "description": "Realtek rtl88x2bu driver",
     "pname": "rtl88x2bu",
-    "version": "6.15.8-unstable-2024-06-09"
+    "version": "6.15.9-unstable-2024-06-09"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88xxau-aircrack": {
     "description": "Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
     "pname": "rtl88xxau-aircrack",
-    "version": "6.15.8-unstable-2024-04-09"
+    "version": "6.15.9-unstable-2024-04-09"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
@@ -105662,7 +106152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
-    "version": "6.15.8-0.1.5-unstable-2025-06-04"
+    "version": "6.15.9-0.1.5-unstable-2025-06-04"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.sheep-net": {
     "description": "",
@@ -105687,17 +106177,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76": {
     "description": "System76 DKMS driver",
     "pname": "system76-module",
-    "version": "1.0.17-6.15.8"
+    "version": "1.0.17-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-acpi": {
     "description": "System76 ACPI Driver (DKMS)",
     "pname": "system76-acpi-module",
-    "version": "1.0.2-6.15.8"
+    "version": "1.0.2-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-io": {
     "description": "DKMS module for controlling System76 Io board",
     "pname": "system76-io-module",
-    "version": "1.0.4-6.15.8"
+    "version": "1.0.4-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-power": {
     "description": "System76 Power Management",
@@ -105717,27 +106207,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tbs": {
     "description": "Linux driver for TBSDTV cards",
     "pname": "tbs",
-    "version": "20250510-6.15.8"
+    "version": "20250510-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tmon": {
     "description": "Monitoring and Testing Tool for Linux kernel thermal subsystem",
     "pname": "tmon",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.44-unstable-2025-05-26-6.15.8"
+    "version": "0.44-unstable-2025-05-26-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
     "pname": "trelay",
-    "version": "22.03.5-6.15.8"
+    "version": "22.03.5-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tsme-test": {
     "description": "Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)",
     "pname": "tsme-test",
-    "version": "6.15.8-unstable-2022-12-07"
+    "version": "6.15.9-unstable-2022-12-07"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tt-kmd": {
     "description": "Tenstorrent Kernel Module",
@@ -105747,17 +106237,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.turbostat": {
     "description": "Report processor frequency and idle statistics",
     "pname": "turbostat",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tuxedo-drivers": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.15.8-4.14.0"
+    "version": "6.15.9-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tuxedo-keyboard": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.15.8-4.14.0"
+    "version": "6.15.9-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.universal-pidff": {
     "description": "PIDFF driver with useful patches for initialization of FFB devices",
@@ -105767,17 +106257,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.usbip": {
     "description": "Allows to pass USB device from server to client over the network",
     "pname": "usbip-linux-lqx",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v4l2loopback": {
     "description": "Kernel module to create V4L2 loopback devices",
     "pname": "v4l2loopback",
-    "version": "0.15.1-6.15.8"
+    "version": "0.15.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v86d": {
     "description": "Daemon to run x86 code in an emulated environment",
     "pname": "v86d",
-    "version": "0.1.10-6.15.8"
+    "version": "0.1.10-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.veikk-linux-driver": {
     "description": "Linux driver for VEIKK-brand digitizers",
@@ -105787,7 +106277,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vendor-reset": {
     "description": "Linux kernel vendor specific hardware reset module",
     "pname": "vendor-reset-unstable",
-    "version": "2024-04-16-6.15.8"
+    "version": "2024-04-16-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vhba": {
     "description": "Provides a Virtual (SCSI) HBA",
@@ -105802,12 +106292,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.12-6.15.8"
+    "version": "7.1.12-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.12-6.15.8"
+    "version": "7.1.12-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -105822,12 +106312,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vmware": {
     "description": "Kernel modules needed for VMware hypervisor",
     "pname": "vmware-modules-workstation",
-    "version": "17.6.3-20250608-6.15.8"
+    "version": "17.6.3-20250608-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.x86_energy_perf_policy": {
     "description": "Set the energy versus performance policy preference bias on recent X86 processors",
     "pname": "x86_energy_perf_policy",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
@@ -105862,17 +106352,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_2": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.2.8-6.15.8"
+    "version": "2.2.8-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_3": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.3.3-6.15.8"
+    "version": "2.3.3-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_unstable": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.3.3-6.15.8"
+    "version": "2.3.3-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
@@ -118027,17 +118517,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
     "pname": "acer-wmi-battery",
-    "version": "6.15.8-0.1.0-unstable-2025-04-24"
+    "version": "6.15.9-0.1.0-unstable-2025-04-24"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.acpi_call": {
     "description": "Module allowing arbitrary ACPI calls; use case: hybrid video",
     "pname": "acpi-call",
-    "version": "1.2.2-6.15.8"
+    "version": "1.2.2-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ajantv2": {
     "description": "AJA video driver",
     "pname": "ajantv2-module",
-    "version": "17.5.0-6.15.8"
+    "version": "17.5.0-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.akvcam": {
     "description": "Virtual camera driver for Linux",
@@ -118057,12 +118547,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.apfs": {
     "description": "APFS module for linux",
     "pname": "apfs",
-    "version": "0.3.14-6.15.8"
+    "version": "0.3.14-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.15.8"
+    "version": "0.1.0-unstable-2025-01-10-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -118072,12 +118562,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.batman_adv": {
     "description": "B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2",
     "pname": "batman-adv",
-    "version": "2025.2-6.15.8"
+    "version": "2025.2-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.bbswitch": {
     "description": "Module for powering off hybrid GPUs",
     "pname": "bbswitch-unstable",
-    "version": "2021-11-29-6.15.8"
+    "version": "2021-11-29-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -118092,7 +118582,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
     "pname": "broadcom-sta",
-    "version": "6.30.223.271-57-6.15.8"
+    "version": "6.30.223.271-57-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.can-isotp": {
     "description": "Kernel module for ISO-TP (ISO 15765-2)",
@@ -118117,7 +118607,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.cpupower": {
     "description": "Tool to examine and tune power saving features",
     "pname": "cpupower",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.cryptodev": {
     "description": "Device that allows access to Linux kernel cryptographic drivers",
@@ -118127,7 +118617,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ddcci-driver": {
     "description": "Kernel module driver for DDC/CI monitors",
     "pname": "ddcci-driver",
-    "version": "6.15.8-0.4.5-unstable-2024-09-26"
+    "version": "6.15.9-0.4.5-unstable-2024-09-26"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.dddvb": {
     "description": "Device driver for all Digital Devices DVB demodulator and modulator cards",
@@ -118172,7 +118662,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ena": {
     "description": "Amazon Elastic Network Adapter (ENA) driver for Linux",
     "pname": "ena",
-    "version": "2.15.0-6.15.8"
+    "version": "2.15.0-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.evdi": {
     "description": "Extensible Virtual Display Interface",
@@ -118182,12 +118672,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
     "pname": "facetimehd",
-    "version": "0.6.13-6.15.8"
+    "version": "0.6.13-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.fanout": {
     "description": "Kernel-based publish-subscribe system",
     "pname": "fanout-unstable",
-    "version": "2022-10-17-6.15.8"
+    "version": "2022-10-17-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.framework-laptop-kmod": {
     "description": "Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace",
@@ -118197,7 +118687,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.fwts-efi-runtime": {
     "description": "Firmware Test Suite(efi-runtime kernel module)",
     "pname": "fwts-efi-runtime",
-    "version": "24.09.00-6.15.8"
+    "version": "24.09.00-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.gasket": {
     "description": "Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems",
@@ -118232,17 +118722,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.hyperv-daemons": {
     "description": "Integration Services for running NixOS under HyperV",
     "pname": "hyperv-daemons",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.iio-utils": {
     "description": "Userspace tool for interacting with Linux IIO",
     "pname": "iio-utils",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.intel-speed-select": {
     "description": "Tool to enumerate and control the Intel Speed Select Technology features",
     "pname": "intel-speed-select",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ipu6-drivers": {
     "description": "IPU6 kernel driver",
@@ -118252,12 +118742,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.isgx": {
     "description": "Intel SGX Linux Driver",
     "pname": "isgx",
-    "version": "2.14-6.15.8"
+    "version": "2.14-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.it87": {
     "description": "Patched module for IT87xx superio chip sensors support",
     "pname": "it87-unstable",
-    "version": "2024-06-09-6.15.8"
+    "version": "2024-06-09-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ithc": {
     "description": "Linux driver for Intel Touch Host Controller",
@@ -118272,17 +118762,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ixgbevf": {
     "description": "Intel 82599 Virtual Function Driver",
     "pname": "ixgbevf",
-    "version": "4.6.1-6.15.8"
+    "version": "4.6.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.jool": {
     "description": "Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules",
     "pname": "jool",
-    "version": "4.1.14-6.15.8"
+    "version": "4.1.14-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.kernel": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)",
     "pname": "linux-lqx",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.kvmfr": {
     "description": "Optional kernel module for LookingGlass",
@@ -118302,17 +118792,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.liquidtux": {
     "description": "Linux kernel hwmon drivers for AIO liquid coolers and other devices",
     "pname": "liquidtux",
-    "version": "0.1.0-unstable-2025-01-16-6.15.8"
+    "version": "0.1.0-unstable-2025-01-16-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.lkrg": {
     "description": "LKRG Linux Kernel module",
     "pname": "lkrg",
-    "version": "0.9.9-6.15.8"
+    "version": "0.9.9-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.lttng-modules": {
     "description": "Linux kernel modules for LTTng tracing",
     "pname": "lttng-modules",
-    "version": "6.15.8-2.13.15"
+    "version": "6.15.9-2.13.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.mba6x_bl": {
     "description": "MacBook Air 6,1 and 6,2 (mid 2013) backlight driver",
@@ -118342,12 +118832,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.mwprocapture": {
     "description": "Linux driver for the Magewell Pro Capture family",
     "pname": "mwprocapture",
-    "version": "1.3.4418-6.15.8"
+    "version": "1.3.4418-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.mxu11x0": {
     "description": "MOXA UPort 11x0 USB to Serial Hub driver",
     "pname": "mxu11x0",
-    "version": "5.1-6.15.8"
+    "version": "5.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
@@ -118357,12 +118847,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
     "pname": "ndiswrapper",
-    "version": "1.63-6.15.8"
+    "version": "1.63-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.netatop": {
     "description": "Network monitoring module for atop",
     "pname": "netatop",
-    "version": "6.15.8-3.1"
+    "version": "6.15.9-3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.new-lg4ff": {
     "description": "Experimental Logitech force feedback module for Linux",
@@ -118377,97 +118867,97 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "570.172.08-6.15.8"
+    "version": "570.172.08-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_535": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "535.154.05-6.15.8"
+    "version": "535.154.05-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_565": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "565.57.01-6.15.8"
+    "version": "565.57.01-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.15.8"
+    "version": "570.181-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.65.06-6.15.8"
+    "version": "580.65.06-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-580.65.06"
+    "version": "6.15.9-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "575.64.05-6.15.8"
+    "version": "575.64.05-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-575.64.05"
+    "version": "6.15.9-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "340.108-6.15.8"
+    "version": "340.108-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy390": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "390.157-6.15.8"
+    "version": "390.157-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy470": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "470.256.02-6.15.8"
+    "version": "470.256.02-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy535": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "535.261.03-6.15.8"
+    "version": "535.261.03-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.15.8"
+    "version": "570.181-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-570.181"
+    "version": "6.15.9-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-570.181"
+    "version": "6.15.9-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.19-6.15.8"
+    "version": "570.123.19-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.8-570.123.19"
+    "version": "6.15.9-570.123.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
     "pname": "nvidiabl",
-    "version": "2020-10-01-6.15.8"
+    "version": "2020-10-01-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nxp-pn5xx": {
     "description": "NXP's NFC Open Source Kernel mode driver with ACPI configuration support",
     "pname": "nxp-pn5xx",
-    "version": "0.4-unstable-2025-02-08-6.15.8"
+    "version": "0.4-unstable-2025-02-08-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.oci-seccomp-bpf-hook": {
     "description": "OCI hook to trace syscalls and generate a seccomp profile ",
@@ -118482,27 +118972,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.openafs": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.15.8-lqx1"
+    "version": "1.8.13.2-6.15.9-lqx1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.openafs_1_8": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.15.8-lqx1"
+    "version": "1.8.13.2-6.15.9-lqx1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.10.3-6.15.8"
+    "version": "3.10.3-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
     "pname": "opensnitch_ebpf",
-    "version": "1.7.1-6.15.8"
+    "version": "1.7.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.perf": {
     "description": "Linux tools to profile with performance counters",
     "pname": "perf-linux",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.pktgen": {
     "description": "Traffic generator powered by DPDK",
@@ -118532,7 +119022,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.r8168": {
     "description": "Realtek r8168 driver",
     "pname": "r8168",
-    "version": "6.15.8-8.055.00"
+    "version": "6.15.9-8.055.00"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rr-zen_workaround": {
     "description": "Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs",
@@ -118542,42 +119032,42 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8188eus-aircrack": {
     "description": "RealTek RTL8188eus WiFi driver with monitor mode & frame injection support",
     "pname": "rtl8188eus-aircrack",
-    "version": "6.15.8-unstable-2024-09-18"
+    "version": "6.15.9-unstable-2024-09-18"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189es": {
     "description": "Driver for Realtek rtl8189es",
     "pname": "rtl8189es",
-    "version": "6.15.8-2025-04-29"
+    "version": "6.15.9-2025-04-29"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189fs": {
     "description": "Driver for Realtek rtl8189fs",
     "pname": "rtl8189fs",
-    "version": "6.15.8-2025-05-04"
+    "version": "6.15.9-2025-05-04"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8192eu": {
     "description": "Realtek rtl8192eu driver",
     "pname": "rtl8192eu",
-    "version": "6.15.8-4.4.1.20250504"
+    "version": "6.15.9-4.4.1.20250504"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8723ds": {
     "description": "Linux driver for RTL8723DS",
     "pname": "rtl8723ds",
-    "version": "6.15.8-unstable-2023-11-14"
+    "version": "6.15.9-unstable-2023-11-14"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8812au": {
     "description": "Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod",
     "pname": "rtl8812au",
-    "version": "6.15.8-unstable-2024-06-13"
+    "version": "6.15.9-unstable-2024-06-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8814au": {
     "description": "Realtek 8814AU USB WiFi driver",
     "pname": "rtl8814au",
-    "version": "6.15.8-unstable-2024-05-26"
+    "version": "6.15.9-unstable-2024-05-26"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821au": {
     "description": "rtl8821AU and rtl8812AU chipset driver with firmware",
     "pname": "rtl8821au",
-    "version": "6.15.8-unstable-2025-04-08"
+    "version": "6.15.9-unstable-2025-04-08"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821ce": {
     "description": "Realtek rtl8821ce driver",
@@ -118587,27 +119077,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821cu": {
     "description": "Realtek rtl8821cu driver",
     "pname": "rtl8821cu",
-    "version": "6.15.8-unstable-2025-05-08"
+    "version": "6.15.9-unstable-2025-05-08"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852au": {
     "description": "Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod",
     "pname": "rtl8852au",
-    "version": "6.15.8-unstable-2024-05-06"
+    "version": "6.15.9-unstable-2024-05-06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852bu": {
     "description": "Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod",
     "pname": "rtl8852bu",
-    "version": "6.15.8-unstable-2025-05-18"
+    "version": "6.15.9-unstable-2025-05-18"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88x2bu": {
     "description": "Realtek rtl88x2bu driver",
     "pname": "rtl88x2bu",
-    "version": "6.15.8-unstable-2024-06-09"
+    "version": "6.15.9-unstable-2024-06-09"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88xxau-aircrack": {
     "description": "Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
     "pname": "rtl88xxau-aircrack",
-    "version": "6.15.8-unstable-2024-04-09"
+    "version": "6.15.9-unstable-2024-04-09"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
@@ -118622,7 +119112,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
-    "version": "6.15.8-0.1.5-unstable-2025-06-04"
+    "version": "6.15.9-0.1.5-unstable-2025-06-04"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.sheep-net": {
     "description": "",
@@ -118647,17 +119137,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.system76": {
     "description": "System76 DKMS driver",
     "pname": "system76-module",
-    "version": "1.0.17-6.15.8"
+    "version": "1.0.17-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.system76-acpi": {
     "description": "System76 ACPI Driver (DKMS)",
     "pname": "system76-acpi-module",
-    "version": "1.0.2-6.15.8"
+    "version": "1.0.2-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.system76-io": {
     "description": "DKMS module for controlling System76 Io board",
     "pname": "system76-io-module",
-    "version": "1.0.4-6.15.8"
+    "version": "1.0.4-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.system76-power": {
     "description": "System76 Power Management",
@@ -118677,27 +119167,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tbs": {
     "description": "Linux driver for TBSDTV cards",
     "pname": "tbs",
-    "version": "20250510-6.15.8"
+    "version": "20250510-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tmon": {
     "description": "Monitoring and Testing Tool for Linux kernel thermal subsystem",
     "pname": "tmon",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.44-unstable-2025-05-26-6.15.8"
+    "version": "0.44-unstable-2025-05-26-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
     "pname": "trelay",
-    "version": "22.03.5-6.15.8"
+    "version": "22.03.5-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tsme-test": {
     "description": "Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)",
     "pname": "tsme-test",
-    "version": "6.15.8-unstable-2022-12-07"
+    "version": "6.15.9-unstable-2022-12-07"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tt-kmd": {
     "description": "Tenstorrent Kernel Module",
@@ -118707,17 +119197,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.turbostat": {
     "description": "Report processor frequency and idle statistics",
     "pname": "turbostat",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tuxedo-drivers": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.15.8-4.14.0"
+    "version": "6.15.9-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.tuxedo-keyboard": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.15.8-4.14.0"
+    "version": "6.15.9-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.universal-pidff": {
     "description": "PIDFF driver with useful patches for initialization of FFB devices",
@@ -118727,17 +119217,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.usbip": {
     "description": "Allows to pass USB device from server to client over the network",
     "pname": "usbip-linux-lqx",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.v4l2loopback": {
     "description": "Kernel module to create V4L2 loopback devices",
     "pname": "v4l2loopback",
-    "version": "0.15.1-6.15.8"
+    "version": "0.15.1-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.v86d": {
     "description": "Daemon to run x86 code in an emulated environment",
     "pname": "v86d",
-    "version": "0.1.10-6.15.8"
+    "version": "0.1.10-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.veikk-linux-driver": {
     "description": "Linux driver for VEIKK-brand digitizers",
@@ -118747,7 +119237,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.vendor-reset": {
     "description": "Linux kernel vendor specific hardware reset module",
     "pname": "vendor-reset-unstable",
-    "version": "2024-04-16-6.15.8"
+    "version": "2024-04-16-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.vhba": {
     "description": "Provides a Virtual (SCSI) HBA",
@@ -118762,12 +119252,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.12-6.15.8"
+    "version": "7.1.12-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.12-6.15.8"
+    "version": "7.1.12-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -118782,12 +119272,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.vmware": {
     "description": "Kernel modules needed for VMware hypervisor",
     "pname": "vmware-modules-workstation",
-    "version": "17.6.3-20250608-6.15.8"
+    "version": "17.6.3-20250608-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.x86_energy_perf_policy": {
     "description": "Set the energy versus performance policy preference bias on recent X86 processors",
     "pname": "x86_energy_perf_policy",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
@@ -118822,17 +119312,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_2": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.2.8-6.15.8"
+    "version": "2.2.8-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_3": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.3.3-6.15.8"
+    "version": "2.3.3-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_unstable": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.3.3-6.15.8"
+    "version": "2.3.3-6.15.9"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
@@ -122167,7 +122657,7 @@
   "legacyPackages.x86_64-linux.linux_lqx": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)",
     "pname": "linux-lqx",
-    "version": "6.15.8"
+    "version": "6.15.9"
   },
   "legacyPackages.x86_64-linux.linux_rpi0": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
@@ -125177,7 +125667,7 @@
   "legacyPackages.x86_64-linux.lmstudio": {
     "description": "LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs)",
     "pname": "lmstudio",
-    "version": "0.3.20-4"
+    "version": "0.3.22-1"
   },
   "legacyPackages.x86_64-linux.lnav": {
     "description": "Logfile Navigator",
@@ -136277,7 +136767,7 @@
   "legacyPackages.x86_64-linux.microcode-amd": {
     "description": "AMD Processor microcode patch",
     "pname": "amd-ucode",
-    "version": "20250708"
+    "version": "20250808"
   },
   "legacyPackages.x86_64-linux.microcode-intel": {
     "description": "Microcode for Intel processors",
@@ -136287,7 +136777,7 @@
   "legacyPackages.x86_64-linux.microcodeAmd": {
     "description": "AMD Processor microcode patch",
     "pname": "amd-ucode",
-    "version": "20250708"
+    "version": "20250808"
   },
   "legacyPackages.x86_64-linux.microcodeIntel": {
     "description": "Microcode for Intel processors",
@@ -137242,7 +137732,7 @@
   "legacyPackages.x86_64-linux.mint-artwork": {
     "description": "Artwork for the cinnamon desktop",
     "pname": "mint-artwork",
-    "version": "1.8.9"
+    "version": "1.9.2"
   },
   "legacyPackages.x86_64-linux.mint-cursor-themes": {
     "description": "Linux Mint cursor themes",
@@ -140077,7 +140567,7 @@
   "legacyPackages.x86_64-linux.mubeng": {
     "description": "Proxy checker and IP rotator",
     "pname": "mubeng",
-    "version": "0.22.0"
+    "version": "0.23.0"
   },
   "legacyPackages.x86_64-linux.muchsync": {
     "description": "Synchronize maildirs and notmuch databases",
@@ -143762,7 +144252,7 @@
   "legacyPackages.x86_64-linux.nix-update": {
     "description": "Swiss-knife for updating nix packages",
     "pname": "nix-update",
-    "version": "1.12.0"
+    "version": "1.12.1"
   },
   "legacyPackages.x86_64-linux.nix-update-source": {
     "description": "Utility to automate updating of nix derivation sources",
@@ -154137,7 +154627,7 @@
   "legacyPackages.x86_64-linux.openbao": {
     "description": "Open source, community-driven fork of Vault managed by the Linux Foundation",
     "pname": "openbao",
-    "version": "2.3.1"
+    "version": "2.3.2"
   },
   "legacyPackages.x86_64-linux.openbgpd": {
     "description": "Free implementation of the Border Gateway Protocol, Version 4. It allows ordinary machines to be used as routers exchanging routes with other systems speaking the BGP protocol",
@@ -154787,12 +155277,12 @@
   "legacyPackages.x86_64-linux.openmoji-black": {
     "description": "Open-source emojis for designers, developers and everyone else",
     "pname": "openmoji",
-    "version": "15.1.0"
+    "version": "16.0.0"
   },
   "legacyPackages.x86_64-linux.openmoji-color": {
     "description": "Open-source emojis for designers, developers and everyone else",
     "pname": "openmoji",
-    "version": "15.1.0"
+    "version": "16.0.0"
   },
   "legacyPackages.x86_64-linux.openmolcas": {
     "description": "Advanced quantum chemistry software package",
@@ -155517,7 +156007,7 @@
   "legacyPackages.x86_64-linux.openvas-scanner": {
     "description": "Scanner component for Greenbone Community Edition",
     "pname": "openvas-scanner",
-    "version": "23.22.1"
+    "version": "23.23.0"
   },
   "legacyPackages.x86_64-linux.openvas-smb": {
     "description": "SMB module for Greenbone Community Edition",
@@ -155953,6 +156443,11 @@
     "description": "PNG optimizer",
     "pname": "optipng",
     "version": "7.9.1"
+  },
+  "legacyPackages.x86_64-linux.optnix": {
+    "description": "Options searcher for Nix module systems",
+    "pname": "optnix",
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.opusTools": {
     "description": "Tools to work with opus encoded audio streams",
@@ -156897,7 +157392,7 @@
   "legacyPackages.x86_64-linux.packer": {
     "description": "Tool for creating identical machine images for multiple platforms from a single source configuration",
     "pname": "packer",
-    "version": "1.14.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.packet": {
     "description": "Quick Share client for Linux",
@@ -189687,7 +190182,7 @@
   "legacyPackages.x86_64-linux.php81Packages.phan": {
     "description": "Static analyzer for PHP",
     "pname": "phan",
-    "version": "5.5.0"
+    "version": "5.5.1"
   },
   "legacyPackages.x86_64-linux.php81Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
@@ -190347,7 +190842,7 @@
   "legacyPackages.x86_64-linux.php82Packages.phan": {
     "description": "Static analyzer for PHP",
     "pname": "phan",
-    "version": "5.5.0"
+    "version": "5.5.1"
   },
   "legacyPackages.x86_64-linux.php82Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
@@ -191007,7 +191502,7 @@
   "legacyPackages.x86_64-linux.php83Packages.phan": {
     "description": "Static analyzer for PHP",
     "pname": "phan",
-    "version": "5.5.0"
+    "version": "5.5.1"
   },
   "legacyPackages.x86_64-linux.php83Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
@@ -191667,7 +192162,7 @@
   "legacyPackages.x86_64-linux.php84Packages.phan": {
     "description": "Static analyzer for PHP",
     "pname": "phan",
-    "version": "5.5.0"
+    "version": "5.5.1"
   },
   "legacyPackages.x86_64-linux.php84Packages.phing": {
     "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant",
@@ -192677,7 +193172,7 @@
   "legacyPackages.x86_64-linux.pixelorama": {
     "description": "Free & open-source 2D sprite editor, made with the Godot Engine",
     "pname": "pixelorama",
-    "version": "1.1.1"
+    "version": "1.1.3"
   },
   "legacyPackages.x86_64-linux.pixelpwnr": {
     "description": "Insanely fast pixelflut client for images and animations written in Rust",
@@ -196887,7 +197382,7 @@
   "legacyPackages.x86_64-linux.postfix-tlspol": {
     "description": "Lightweight MTA-STS + DANE/TLSA resolver and TLS policy server for Postfix, prioritizing DANE",
     "pname": "postfix-tlspol",
-    "version": "1.8.12"
+    "version": "1.8.13"
   },
   "legacyPackages.x86_64-linux.postfixadmin": {
     "description": "Web based virtual user administration interface for Postfix mail servers",
@@ -196962,7 +197457,7 @@
   "legacyPackages.x86_64-linux.postgresql13Packages.omnigres": {
     "description": "Postgres as a Business Operating System",
     "pname": "omnigres",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-06"
   },
   "legacyPackages.x86_64-linux.postgresql13Packages.periods": {
     "description": "PostgreSQL extension implementing SQL standard functionality for PERIODs and SYSTEM VERSIONING",
@@ -197302,7 +197797,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.omnigres": {
     "description": "Postgres as a Business Operating System",
     "pname": "omnigres",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-06"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.periods": {
     "description": "PostgreSQL extension implementing SQL standard functionality for PERIODs and SYSTEM VERSIONING",
@@ -197642,7 +198137,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.omnigres": {
     "description": "Postgres as a Business Operating System",
     "pname": "omnigres",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-06"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.periods": {
     "description": "PostgreSQL extension implementing SQL standard functionality for PERIODs and SYSTEM VERSIONING",
@@ -197982,7 +198477,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.omnigres": {
     "description": "Postgres as a Business Operating System",
     "pname": "omnigres",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-06"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.periods": {
     "description": "PostgreSQL extension implementing SQL standard functionality for PERIODs and SYSTEM VERSIONING",
@@ -198322,7 +198817,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.omnigres": {
     "description": "Postgres as a Business Operating System",
     "pname": "omnigres",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-06"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.periods": {
     "description": "PostgreSQL extension implementing SQL standard functionality for PERIODs and SYSTEM VERSIONING",
@@ -198662,7 +199157,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.omnigres": {
     "description": "Postgres as a Business Operating System",
     "pname": "omnigres",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-06"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.periods": {
     "description": "PostgreSQL extension implementing SQL standard functionality for PERIODs and SYSTEM VERSIONING",
@@ -199002,7 +199497,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.omnigres": {
     "description": "Postgres as a Business Operating System",
     "pname": "omnigres",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-06"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.periods": {
     "description": "PostgreSQL extension implementing SQL standard functionality for PERIODs and SYSTEM VERSIONING",
@@ -206817,7 +207312,7 @@
   "legacyPackages.x86_64-linux.python312Packages.bidsschematools": {
     "description": "Python tools for working with the BIDS schema",
     "pname": "python3.12-bidsschematools",
-    "version": "1.0.10"
+    "version": "1.0.13"
   },
   "legacyPackages.x86_64-linux.python312Packages.biliass": {
     "description": "Convert Bilibili XML/protobuf danmaku to ASS subtitle",
@@ -207347,7 +207842,7 @@
   "legacyPackages.x86_64-linux.python312Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.12-boto3-stubs",
-    "version": "1.40.4"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -209012,7 +209507,7 @@
   "legacyPackages.x86_64-linux.python312Packages.coiled": {
     "description": "Python client for coiled.io dask clusters",
     "pname": "python3.12-coiled",
-    "version": "1.113.0"
+    "version": "1.116.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.coinbase-advanced-py": {
     "description": "Coinbase Advanced API Python SDK",
@@ -210142,7 +210637,7 @@
   "legacyPackages.x86_64-linux.python312Packages.cyclopts": {
     "description": "Module to create CLIs based on Python type hints",
     "pname": "python3.12-cyclopts",
-    "version": "3.22.3"
+    "version": "3.22.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.cyipopt": {
     "description": "Cython interface for the interior point optimzer IPOPT",
@@ -210737,7 +211232,7 @@
   "legacyPackages.x86_64-linux.python312Packages.debugpy": {
     "description": "Implementation of the Debug Adapter Protocol for Python",
     "pname": "python3.12-debugpy",
-    "version": "1.8.15"
+    "version": "1.8.16"
   },
   "legacyPackages.x86_64-linux.python312Packages.decli": {
     "description": "Minimal, easy to use, declarative command line interface tool",
@@ -214724,11 +215219,6 @@
     "pname": "python3.12-feedparser",
     "version": "6.0.11"
   },
-  "legacyPackages.x86_64-linux.python312Packages.fenics": {
-    "description": "Python bindings for the DOLFIN FEM compiler",
-    "pname": "python3.12-dolfin",
-    "version": "2019.1.0"
-  },
   "legacyPackages.x86_64-linux.python312Packages.fenics-basix": {
     "description": "Finite element definition and tabulation runtime library",
     "pname": "python3.12-fenics-basix",
@@ -214892,7 +215382,7 @@
   "legacyPackages.x86_64-linux.python312Packages.fingerprints": {
     "description": "Library to generate entity fingerprints",
     "pname": "python3.12-fingerprints",
-    "version": "1.2.3"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.finitude": {
     "description": "Python module to get data from ABCD bus (RS-485) used by Carrier Infinity and Bryant Evolution HVAC systems",
@@ -215997,7 +216487,7 @@
   "legacyPackages.x86_64-linux.python312Packages.functions-framework": {
     "description": "FaaS (Function as a service) framework for writing portable Python functions",
     "pname": "python3.12-functions-framework",
-    "version": "3.8.3"
+    "version": "3.9.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.functiontrace": {
     "description": "Python module for Functiontrace",
@@ -221059,6 +221549,11 @@
     "pname": "python3.12-kaitaistruct",
     "version": "0.10"
   },
+  "legacyPackages.x86_64-linux.python312Packages.kaiterra-async-client": {
+    "description": "Async Python client for Kaiterra API",
+    "pname": "python3.12-kaiterra-async-client",
+    "version": "1.1.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.kajiki": {
     "description": "Module provides fast well-formed XML templates",
     "pname": "python3.12-kajiki",
@@ -221542,7 +222037,7 @@
   "legacyPackages.x86_64-linux.python312Packages.langchain-aws": {
     "description": "Build LangChain application on AWS",
     "pname": "python3.12-langchain-aws",
-    "version": "0.2.29"
+    "version": "0.2.30"
   },
   "legacyPackages.x86_64-linux.python312Packages.langchain-azure-dynamic-sessions": {
     "description": "Integration package connecting Azure Container Apps dynamic sessions and LangChain",
@@ -225039,6 +225534,11 @@
     "pname": "python3.12-monai-deploy",
     "version": "0.5.1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.monarchmoney": {
+    "description": "Python API for Monarch Money",
+    "pname": "python3.12-monarchmoney",
+    "version": "0.1.15"
+  },
   "legacyPackages.x86_64-linux.python312Packages.monero": {
     "description": "Comprehensive Python module for handling Monero",
     "pname": "python3.12-monero",
@@ -225817,7 +226317,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-batch": {
     "description": "Type annotations for boto3 batch",
     "pname": "python3.12-mypy-boto3-batch",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-billingconductor": {
     "description": "Type annotations for boto3 billingconductor",
@@ -225902,7 +226402,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-cloudfront": {
     "description": "Type annotations for boto3 cloudfront",
     "pname": "python3.12-mypy-boto3-cloudfront",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-cloudhsm": {
     "description": "Type annotations for boto3 cloudhsm",
@@ -225947,7 +226447,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-codebuild": {
     "description": "Type annotations for boto3 codebuild",
     "pname": "python3.12-mypy-boto3-codebuild",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-codecatalyst": {
     "description": "Type annotations for boto3 codecatalyst",
@@ -226332,7 +226832,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-glue": {
     "description": "Type annotations for boto3 glue",
     "pname": "python3.12-mypy-boto3-glue",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-grafana": {
     "description": "Type annotations for boto3 grafana",
@@ -226357,7 +226857,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-guardduty": {
     "description": "Type annotations for boto3 guardduty",
     "pname": "python3.12-mypy-boto3-guardduty",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-health": {
     "description": "Type annotations for boto3 health",
@@ -228357,7 +228857,7 @@
   "legacyPackages.x86_64-linux.python312Packages.normality": {
     "description": "Micro-library to normalize text strings",
     "pname": "python3.12-normality",
-    "version": "2.6.1"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.nose2": {
     "description": "Test runner for Python",
@@ -228649,6 +229149,11 @@
     "pname": "python3.12-oath",
     "version": "1.4.4"
   },
+  "legacyPackages.x86_64-linux.python312Packages.oathtool": {
+    "description": "One-time password generator",
+    "pname": "python3.12-oathtool",
+    "version": "2.4.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.oauth2-client": {
     "description": "Client library for OAuth2",
     "pname": "python3.12-oauth2-client",
@@ -228852,7 +229357,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ollama": {
     "description": "Ollama Python library",
     "pname": "python3.12-ollama",
-    "version": "0.5.1"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.ome-zarr": {
     "description": "Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud",
@@ -233872,7 +234377,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyexploitdb": {
     "description": "Library to fetch the most recent exploit-database",
     "pname": "python3.12-pyexploitdb",
-    "version": "0.2.91"
+    "version": "0.2.92"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyezvizapi": {
     "description": "Python interface for for Ezviz cameras",
@@ -235137,7 +235642,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pymodbus": {
     "description": "Python implementation of the Modbus protocol",
     "pname": "python3.12-pymodbus",
-    "version": "3.10.0"
+    "version": "3.11.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pymodbus-repl": {
     "description": "REPL client and server for pymodbus",
@@ -238812,7 +239317,7 @@
   "legacyPackages.x86_64-linux.python312Packages.python-stdnum": {
     "description": "Python module to handle standardized numbers and codes",
     "pname": "python3.12-python-stdnum",
-    "version": "1.20"
+    "version": "2.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.python-string-utils": {
     "description": "Handy Python library to validate, manipulate and generate strings",
@@ -241132,7 +241637,7 @@
   "legacyPackages.x86_64-linux.python312Packages.rigour": {
     "description": "Data cleaning and validation functions for names, languages, identifiers, etc",
     "pname": "python3.12-rigour",
-    "version": "0.8.2"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.ring-doorbell": {
     "description": "Library to communicate with Ring Door Bell",
@@ -241142,7 +241647,7 @@
   "legacyPackages.x86_64-linux.python312Packages.rio-stac": {
     "description": "Create STAC Items from raster datasets",
     "pname": "python3.12-rio-stac",
-    "version": "0.10.1"
+    "version": "0.11.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.rio-tiler": {
     "description": "User friendly Rasterio plugin to read raster datasets",
@@ -241812,7 +242317,7 @@
   "legacyPackages.x86_64-linux.python312Packages.safetensors": {
     "description": "Fast (zero-copy) and safe (unlike pickle) format for storing tensors",
     "pname": "python3.12-safetensors",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.safety": {
     "description": "Checks installed dependencies for known vulnerabilities",
@@ -245922,7 +246427,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.12-tencentcloud-sdk-python",
-    "version": "3.0.1439"
+    "version": "3.0.1441"
   },
   "legacyPackages.x86_64-linux.python312Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -248268,6 +248773,11 @@
     "description": "Typed settings based on attrs classes",
     "pname": "python3.12-typed-settings",
     "version": "24.6.0"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.typedmonarchmoney": {
+    "description": "Typed wrapper around the Monarch Money API",
+    "pname": "python3.12-typedmonarchmoney",
+    "version": "0.4.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.typedunits": {
     "description": "Units and dimensions library with support for static dimensionality checking and protobuffer serialization",
@@ -250989,6 +251499,11 @@
     "pname": "python3.12-uvicorn",
     "version": "0.34.2"
   },
+  "legacyPackages.x86_64-linux.python312Packages.uvicorn-worker": {
+    "description": "Uvicorn worker for Gunicorn",
+    "pname": "python3.12-uvicorn-worker",
+    "version": "0.3.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.uvloop": {
     "description": "Fast implementation of asyncio event loop on top of libuv",
     "pname": "python3.12-uvloop",
@@ -252502,7 +253017,7 @@
   "legacyPackages.x86_64-linux.python312Packages.xiaomi-ble": {
     "description": "Library for Xiaomi BLE devices",
     "pname": "python3.12-xiaomi-ble",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.xkbcommon": {
     "description": "Python bindings for libxkbcommon using cffi",
@@ -257982,7 +258497,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bidsschematools": {
     "description": "Python tools for working with the BIDS schema",
     "pname": "python3.13-bidsschematools",
-    "version": "1.0.10"
+    "version": "1.0.13"
   },
   "legacyPackages.x86_64-linux.python313Packages.biliass": {
     "description": "Convert Bilibili XML/protobuf danmaku to ASS subtitle",
@@ -258512,7 +259027,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.40.4"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -260177,7 +260692,7 @@
   "legacyPackages.x86_64-linux.python313Packages.coiled": {
     "description": "Python client for coiled.io dask clusters",
     "pname": "python3.13-coiled",
-    "version": "1.113.0"
+    "version": "1.116.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.coinbase-advanced-py": {
     "description": "Coinbase Advanced API Python SDK",
@@ -261307,7 +261822,7 @@
   "legacyPackages.x86_64-linux.python313Packages.cyclopts": {
     "description": "Module to create CLIs based on Python type hints",
     "pname": "python3.13-cyclopts",
-    "version": "3.22.3"
+    "version": "3.22.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.cyipopt": {
     "description": "Cython interface for the interior point optimzer IPOPT",
@@ -261902,7 +262417,7 @@
   "legacyPackages.x86_64-linux.python313Packages.debugpy": {
     "description": "Implementation of the Debug Adapter Protocol for Python",
     "pname": "python3.13-debugpy",
-    "version": "1.8.15"
+    "version": "1.8.16"
   },
   "legacyPackages.x86_64-linux.python313Packages.decli": {
     "description": "Minimal, easy to use, declarative command line interface tool",
@@ -265889,11 +266404,6 @@
     "pname": "python3.13-feedparser",
     "version": "6.0.11"
   },
-  "legacyPackages.x86_64-linux.python313Packages.fenics": {
-    "description": "Python bindings for the DOLFIN FEM compiler",
-    "pname": "python3.13-dolfin",
-    "version": "2019.1.0"
-  },
   "legacyPackages.x86_64-linux.python313Packages.fenics-basix": {
     "description": "Finite element definition and tabulation runtime library",
     "pname": "python3.13-fenics-basix",
@@ -266057,7 +266567,7 @@
   "legacyPackages.x86_64-linux.python313Packages.fingerprints": {
     "description": "Library to generate entity fingerprints",
     "pname": "python3.13-fingerprints",
-    "version": "1.2.3"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.finitude": {
     "description": "Python module to get data from ABCD bus (RS-485) used by Carrier Infinity and Bryant Evolution HVAC systems",
@@ -267162,7 +267672,7 @@
   "legacyPackages.x86_64-linux.python313Packages.functions-framework": {
     "description": "FaaS (Function as a service) framework for writing portable Python functions",
     "pname": "python3.13-functions-framework",
-    "version": "3.8.3"
+    "version": "3.9.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.functiontrace": {
     "description": "Python module for Functiontrace",
@@ -272224,6 +272734,11 @@
     "pname": "python3.13-kaitaistruct",
     "version": "0.10"
   },
+  "legacyPackages.x86_64-linux.python313Packages.kaiterra-async-client": {
+    "description": "Async Python client for Kaiterra API",
+    "pname": "python3.13-kaiterra-async-client",
+    "version": "1.1.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.kajiki": {
     "description": "Module provides fast well-formed XML templates",
     "pname": "python3.13-kajiki",
@@ -272707,7 +273222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-aws": {
     "description": "Build LangChain application on AWS",
     "pname": "python3.13-langchain-aws",
-    "version": "0.2.29"
+    "version": "0.2.30"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-azure-dynamic-sessions": {
     "description": "Integration package connecting Azure Container Apps dynamic sessions and LangChain",
@@ -276204,6 +276719,11 @@
     "pname": "python3.13-monai-deploy",
     "version": "0.5.1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.monarchmoney": {
+    "description": "Python API for Monarch Money",
+    "pname": "python3.13-monarchmoney",
+    "version": "0.1.15"
+  },
   "legacyPackages.x86_64-linux.python313Packages.monero": {
     "description": "Comprehensive Python module for handling Monero",
     "pname": "python3.13-monero",
@@ -276982,7 +277502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-batch": {
     "description": "Type annotations for boto3 batch",
     "pname": "python3.13-mypy-boto3-batch",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-billingconductor": {
     "description": "Type annotations for boto3 billingconductor",
@@ -277067,7 +277587,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cloudfront": {
     "description": "Type annotations for boto3 cloudfront",
     "pname": "python3.13-mypy-boto3-cloudfront",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-cloudhsm": {
     "description": "Type annotations for boto3 cloudhsm",
@@ -277112,7 +277632,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-codebuild": {
     "description": "Type annotations for boto3 codebuild",
     "pname": "python3.13-mypy-boto3-codebuild",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-codecatalyst": {
     "description": "Type annotations for boto3 codecatalyst",
@@ -277497,7 +278017,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-glue": {
     "description": "Type annotations for boto3 glue",
     "pname": "python3.13-mypy-boto3-glue",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-grafana": {
     "description": "Type annotations for boto3 grafana",
@@ -277522,7 +278042,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-guardduty": {
     "description": "Type annotations for boto3 guardduty",
     "pname": "python3.13-mypy-boto3-guardduty",
-    "version": "1.40.0"
+    "version": "1.40.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-health": {
     "description": "Type annotations for boto3 health",
@@ -279522,7 +280042,7 @@
   "legacyPackages.x86_64-linux.python313Packages.normality": {
     "description": "Micro-library to normalize text strings",
     "pname": "python3.13-normality",
-    "version": "2.6.1"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.nose2": {
     "description": "Test runner for Python",
@@ -279814,6 +280334,11 @@
     "pname": "python3.13-oath",
     "version": "1.4.4"
   },
+  "legacyPackages.x86_64-linux.python313Packages.oathtool": {
+    "description": "One-time password generator",
+    "pname": "python3.13-oathtool",
+    "version": "2.4.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.oauth2-client": {
     "description": "Client library for OAuth2",
     "pname": "python3.13-oauth2-client",
@@ -280017,7 +280542,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ollama": {
     "description": "Ollama Python library",
     "pname": "python3.13-ollama",
-    "version": "0.5.1"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.ome-zarr": {
     "description": "Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud",
@@ -285037,7 +285562,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyexploitdb": {
     "description": "Library to fetch the most recent exploit-database",
     "pname": "python3.13-pyexploitdb",
-    "version": "0.2.91"
+    "version": "0.2.92"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyezvizapi": {
     "description": "Python interface for for Ezviz cameras",
@@ -286302,7 +286827,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pymodbus": {
     "description": "Python implementation of the Modbus protocol",
     "pname": "python3.13-pymodbus",
-    "version": "3.10.0"
+    "version": "3.11.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pymodbus-repl": {
     "description": "REPL client and server for pymodbus",
@@ -289977,7 +290502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.python-stdnum": {
     "description": "Python module to handle standardized numbers and codes",
     "pname": "python3.13-python-stdnum",
-    "version": "1.20"
+    "version": "2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-string-utils": {
     "description": "Handy Python library to validate, manipulate and generate strings",
@@ -292297,7 +292822,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rigour": {
     "description": "Data cleaning and validation functions for names, languages, identifiers, etc",
     "pname": "python3.13-rigour",
-    "version": "0.8.2"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.ring-doorbell": {
     "description": "Library to communicate with Ring Door Bell",
@@ -292307,7 +292832,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rio-stac": {
     "description": "Create STAC Items from raster datasets",
     "pname": "python3.13-rio-stac",
-    "version": "0.10.1"
+    "version": "0.11.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.rio-tiler": {
     "description": "User friendly Rasterio plugin to read raster datasets",
@@ -292977,7 +293502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.safetensors": {
     "description": "Fast (zero-copy) and safe (unlike pickle) format for storing tensors",
     "pname": "python3.13-safetensors",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.safety": {
     "description": "Checks installed dependencies for known vulnerabilities",
@@ -297132,7 +297657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.0.1439"
+    "version": "3.0.1441"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -299478,6 +300003,11 @@
     "description": "Typed settings based on attrs classes",
     "pname": "python3.13-typed-settings",
     "version": "24.6.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.typedmonarchmoney": {
+    "description": "Typed wrapper around the Monarch Money API",
+    "pname": "python3.13-typedmonarchmoney",
+    "version": "0.4.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.typedunits": {
     "description": "Units and dimensions library with support for static dimensionality checking and protobuffer serialization",
@@ -302199,6 +302729,11 @@
     "pname": "python3.13-uvicorn",
     "version": "0.34.2"
   },
+  "legacyPackages.x86_64-linux.python313Packages.uvicorn-worker": {
+    "description": "Uvicorn worker for Gunicorn",
+    "pname": "python3.13-uvicorn-worker",
+    "version": "0.3.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.uvloop": {
     "description": "Fast implementation of asyncio event loop on top of libuv",
     "pname": "python3.13-uvloop",
@@ -303712,7 +304247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xiaomi-ble": {
     "description": "Library for Xiaomi BLE devices",
     "pname": "python3.13-xiaomi-ble",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.xkbcommon": {
     "description": "Python bindings for libxkbcommon using cffi",
@@ -304962,7 +305497,7 @@
   "legacyPackages.x86_64-linux.qcad": {
     "description": "2D CAD package based on Qt",
     "pname": "qcad",
-    "version": "3.32.3.1"
+    "version": "3.32.3.4"
   },
   "legacyPackages.x86_64-linux.qcal": {
     "description": "CLI calendar application for CalDAV servers written in Go",
@@ -305322,7 +305857,7 @@
   "legacyPackages.x86_64-linux.qolibri": {
     "description": "EPWING reader for viewing Japanese dictionaries",
     "pname": "qolibri",
-    "version": "2.1.5-unstable-2024-03-17"
+    "version": "2.1.5-unstable-2025-01-18"
   },
   "legacyPackages.x86_64-linux.qosmic": {
     "description": "Cosmic recursive flame fractal editor",
@@ -307042,7 +307577,7 @@
   "legacyPackages.x86_64-linux.rabbitmqadmin-ng": {
     "description": "Command line tool for RabbitMQ that uses the HTTP API",
     "pname": "rabbitmqadmin-ng",
-    "version": "2.7.1"
+    "version": "2.7.2"
   },
   "legacyPackages.x86_64-linux.rabtap": {
     "description": "RabbitMQ wire tap and swiss army knife",
@@ -322517,7 +323052,7 @@
   "legacyPackages.x86_64-linux.runme": {
     "description": "Execute commands inside your runbooks, docs, and READMEs",
     "pname": "runme",
-    "version": "3.15.0"
+    "version": "3.15.1"
   },
   "legacyPackages.x86_64-linux.runningx": {
     "description": "Program for testing if X is running",
@@ -322577,12 +323112,12 @@
   "legacyPackages.x86_64-linux.rust-analyzer": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer",
-    "version": "2025-07-28"
+    "version": "2025-08-04"
   },
   "legacyPackages.x86_64-linux.rust-analyzer-unwrapped": {
     "description": "Modular compiler frontend for the Rust language",
     "pname": "rust-analyzer-unwrapped",
-    "version": "2025-07-28"
+    "version": "2025-08-04"
   },
   "legacyPackages.x86_64-linux.rust-audit-info": {
     "description": "Command-line tool to extract the dependency trees embedded in binaries by cargo-auditable",
@@ -322832,7 +323367,7 @@
   "legacyPackages.x86_64-linux.rustywind": {
     "description": "CLI for organizing Tailwind CSS classes",
     "pname": "rustywind",
-    "version": "0.24.0"
+    "version": "0.24.3"
   },
   "legacyPackages.x86_64-linux.rutabaga_gfx": {
     "description": "Cross-platform abstraction for GPU and display virtualization",
@@ -347387,7 +347922,7 @@
   "legacyPackages.x86_64-linux.scalingo": {
     "description": "Command line client for the Scalingo PaaS",
     "pname": "scalingo",
-    "version": "1.36.0"
+    "version": "1.37.0"
   },
   "legacyPackages.x86_64-linux.scalp": {
     "description": "Scalable Linear Programming Library",
@@ -347467,7 +348002,7 @@
   "legacyPackages.x86_64-linux.sccmhunter": {
     "description": "Post exploitation tool to identify and attack SCCM related assets in an Active Directory domain",
     "pname": "sccmhunter",
-    "version": "1.0.10"
+    "version": "1.1.10"
   },
   "legacyPackages.x86_64-linux.scd2html": {
     "description": "scd2html generates HTML from scdoc source files",
@@ -347722,7 +348257,7 @@
   "legacyPackages.x86_64-linux.scooter": {
     "description": "Interactive find and replace in the terminal",
     "pname": "scooter",
-    "version": "0.5.4"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.scope-lite": {
     "description": "Migration path to C++ library extensions scope_exit, scope_fail, scope_success, unique_resource",
@@ -357817,7 +358352,7 @@
   "legacyPackages.x86_64-linux.tempo": {
     "description": "High volume, minimal dependency trace storage",
     "pname": "tempo",
-    "version": "2.8.1"
+    "version": "2.8.2"
   },
   "legacyPackages.x86_64-linux.tempora_lgc": {
     "description": "Tempora font",
@@ -358242,7 +358777,7 @@
   "legacyPackages.x86_64-linux.terraform-mcp-server": {
     "description": "Terraform Model Context Protocol (MCP) Server",
     "pname": "terraform-mcp-server",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "legacyPackages.x86_64-linux.terraform-plugin-docs": {
     "description": "Generate and validate Terraform plugin/provider documentation",
@@ -358387,7 +358922,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.checkly": {
     "description": "",
     "pname": "terraform-provider-checkly",
-    "version": "1.11.1"
+    "version": "1.12.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.ciscoasa": {
     "description": "",
@@ -358892,7 +359427,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.sakuracloud": {
     "description": "",
     "pname": "terraform-provider-sakuracloud",
-    "version": "2.28.1"
+    "version": "2.29.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.scaleway": {
     "description": "",
@@ -358947,7 +359482,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.spacelift": {
     "description": "",
     "pname": "terraform-provider-spacelift",
-    "version": "1.27.0"
+    "version": "1.28.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.spotinst": {
     "description": "",
@@ -358972,7 +359507,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.sumologic": {
     "description": "",
     "pname": "terraform-provider-sumologic",
-    "version": "3.1.2"
+    "version": "3.1.3"
   },
   "legacyPackages.x86_64-linux.terraform-providers.sysdig": {
     "description": "",
@@ -387457,7 +387992,7 @@
   "legacyPackages.x86_64-linux.tflint-plugins.tflint-ruleset-aws": {
     "description": "TFLint ruleset plugin for Terraform AWS Provider",
     "pname": "tflint-ruleset-aws",
-    "version": "0.41.0"
+    "version": "0.42.0"
   },
   "legacyPackages.x86_64-linux.tflint-plugins.tflint-ruleset-google": {
     "description": "TFLint ruleset plugin for Terraform Google Provider",
@@ -388077,17 +388612,17 @@
   "legacyPackages.x86_64-linux.timeshift": {
     "description": "System restore tool for Linux",
     "pname": "timeshift",
-    "version": "25.07.4"
+    "version": "25.07.5"
   },
   "legacyPackages.x86_64-linux.timeshift-minimal": {
     "description": "System restore tool for Linux (without runtime dependencies)",
     "pname": "timeshift",
-    "version": "25.07.4"
+    "version": "25.07.5"
   },
   "legacyPackages.x86_64-linux.timeshift-unwrapped": {
     "description": "System restore tool for Linux",
     "pname": "timeshift",
-    "version": "25.07.4"
+    "version": "25.07.5"
   },
   "legacyPackages.x86_64-linux.timetagger": {
     "description": "Library to interact with TimeTagger",
@@ -389142,7 +389677,7 @@
   "legacyPackages.x86_64-linux.tomcat": {
     "description": "Implementation of the Java Servlet and JavaServer Pages technologies",
     "pname": "apache-tomcat",
-    "version": "11.0.9"
+    "version": "11.0.10"
   },
   "legacyPackages.x86_64-linux.tomcat-native": {
     "description": "Optional component for use with Apache Tomcat that allows Tomcat to use certain native resources for performance, compatibility, etc",
@@ -389157,7 +389692,7 @@
   "legacyPackages.x86_64-linux.tomcat11": {
     "description": "Implementation of the Java Servlet and JavaServer Pages technologies",
     "pname": "apache-tomcat",
-    "version": "11.0.9"
+    "version": "11.0.10"
   },
   "legacyPackages.x86_64-linux.tomcat9": {
     "description": "Implementation of the Java Servlet and JavaServer Pages technologies",
@@ -391052,7 +391587,7 @@
   "legacyPackages.x86_64-linux.trufflehog": {
     "description": "Find credentials all over the place",
     "pname": "trufflehog",
-    "version": "3.90.2"
+    "version": "3.90.3"
   },
   "legacyPackages.x86_64-linux.trunk": {
     "description": "Build, bundle & ship your Rust WASM application to the web",
@@ -391727,7 +392262,7 @@
   "legacyPackages.x86_64-linux.tweag-credential-helper": {
     "description": "Credential helper framework and agent for Bazel and similar tools implementing the credential-helper spec",
     "pname": "tweag-credential-helper",
-    "version": "0.0.5"
+    "version": "0.0.6"
   },
   "legacyPackages.x86_64-linux.tweak": {
     "description": "Efficient hex editor",
@@ -406537,7 +407072,7 @@
   "legacyPackages.x86_64-linux.ucc": {
     "description": "Collective communication operations API",
     "pname": "ucc",
-    "version": "1.4.4"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.ucg": {
     "description": "Grep-like tool for searching large bodies of source code",
@@ -406612,7 +407147,7 @@
   "legacyPackages.x86_64-linux.ucx": {
     "description": "Unified Communication X library",
     "pname": "ucx",
-    "version": "1.18.1"
+    "version": "1.19.0"
   },
   "legacyPackages.x86_64-linux.uddup": {
     "description": "Tool for de-duplication URLs",
@@ -408862,7 +409397,7 @@
   "legacyPackages.x86_64-linux.vals": {
     "description": "Helm-like configuration values loader with support for various sources",
     "pname": "vals",
-    "version": "0.41.3"
+    "version": "0.42.0"
   },
   "legacyPackages.x86_64-linux.valum": {
     "description": "Web micro-framework written in Vala",
@@ -409002,7 +409537,7 @@
   "legacyPackages.x86_64-linux.vault-bin": {
     "description": "Tool for managing secrets, this binary includes the UI",
     "pname": "vault-bin",
-    "version": "1.20.0"
+    "version": "1.20.1"
   },
   "legacyPackages.x86_64-linux.vault-medusa": {
     "description": "Cli tool for importing and exporting Hashicorp Vault secrets",
@@ -409332,7 +409867,7 @@
   "legacyPackages.x86_64-linux.veilid": {
     "description": "Open-source, peer-to-peer, mobile-first, networked application framework",
     "pname": "veilid",
-    "version": "0.4.7"
+    "version": "0.4.8"
   },
   "legacyPackages.x86_64-linux.velero": {
     "description": "Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes",
@@ -410312,7 +410847,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.augment-vim": {
     "description": "",
     "pname": "vimplugin-augment.vim",
-    "version": "2025-03-18"
+    "version": "2025-07-30"
   },
   "legacyPackages.x86_64-linux.vimPlugins.aurora": {
     "description": "",
@@ -425082,7 +425617,7 @@
   "legacyPackages.x86_64-linux.waybar": {
     "description": "Highly customizable Wayland bar for Sway and Wlroots based compositors",
     "pname": "waybar",
-    "version": "0.13.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.waybar-lyric": {
     "description": "Waybar module for displaying song lyrics",
@@ -426322,7 +426857,7 @@
   "legacyPackages.x86_64-linux.windsurf": {
     "description": "Agentic IDE powered by AI Flow paradigm",
     "pname": "windsurf",
-    "version": "1.11.3"
+    "version": "1.11.5"
   },
   "legacyPackages.x86_64-linux.windterm": {
     "description": "Professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal",
@@ -431482,7 +432017,7 @@
   "legacyPackages.x86_64-linux.xviewer": {
     "description": "Generic image viewer from Linux Mint",
     "pname": "xviewer",
-    "version": "3.4.10"
+    "version": "3.4.11"
   },
   "legacyPackages.x86_64-linux.xvkbd": {
     "description": "Virtual keyboard for X window system",
@@ -433037,7 +433572,7 @@
   "legacyPackages.x86_64-linux.zapzap": {
     "description": "WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine",
     "pname": "zapzap",
-    "version": "6.1.1-2"
+    "version": "6.2"
   },
   "legacyPackages.x86_64-linux.zarchive": {
     "description": "File archive format supporting random-access reads",
@@ -433217,7 +433752,7 @@
   "legacyPackages.x86_64-linux.zellij": {
     "description": "Terminal workspace with batteries included",
     "pname": "zellij",
-    "version": "0.43.0"
+    "version": "0.43.1"
   },
   "legacyPackages.x86_64-linux.zenith": {
     "description": "Sort of like top or htop but with zoom-able charts, network, and disk usage",
