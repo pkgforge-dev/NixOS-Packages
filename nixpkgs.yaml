@@ -12169,7 +12169,7 @@ legacyPackages.x86_64-linux.biodiff:
 legacyPackages.x86_64-linux.biome:
   description: Toolchain of the web
   pname: biome
-  version: 2.1.3
+  version: 2.1.4
 legacyPackages.x86_64-linux.bionic:
   description: Android libc implementation
   pname: x86_64-bionic-prebuilt-ndk-release-r23
@@ -27557,11 +27557,11 @@ legacyPackages.x86_64-linux.djv:
 legacyPackages.x86_64-linux.djview:
   description: Portable DjVu viewer (Qt5)
   pname: djview
-  version: "4.12"
+  version: 4.12.3
 legacyPackages.x86_64-linux.djview4:
   description: Portable DjVu viewer (Qt5)
   pname: djview
-  version: "4.12"
+  version: 4.12.3
 legacyPackages.x86_64-linux.djvu2pdf:
   description: Convert DjVu files to PDF files
   pname: djvu2pdf
@@ -27725,7 +27725,7 @@ legacyPackages.x86_64-linux.dnf4:
 legacyPackages.x86_64-linux.dnf5:
   description: Next-generation RPM package management system
   pname: dnf5
-  version: 5.2.15.0
+  version: 5.2.16.0
 legacyPackages.x86_64-linux.dnglab:
   description: Camera RAW to DNG file format converter
   pname: dnglab
@@ -29533,7 +29533,7 @@ legacyPackages.x86_64-linux.dune_3:
 legacyPackages.x86_64-linux.dunst:
   description: Lightweight and customizable notification daemon
   pname: dunst
-  version: 1.12.2
+  version: 1.13.0
 legacyPackages.x86_64-linux.duo-unix:
   description: Duo Security Unix login integration
   pname: duo-unix
@@ -36893,11 +36893,11 @@ legacyPackages.x86_64-linux.gaucheBootstrap:
 legacyPackages.x86_64-linux.gauge:
   description: Light weight cross-platform test automation
   pname: gauge-wrapped
-  version: 1.6.19
+  version: 1.6.20
 legacyPackages.x86_64-linux.gauge-unwrapped:
   description: Light weight cross-platform test automation
   pname: gauge
-  version: 1.6.19
+  version: 1.6.20
 legacyPackages.x86_64-linux.gaugePlugins.dotnet:
   description: Gauge plugin that lets you write tests in C#
   pname: gauge-plugin-dotnet
@@ -39173,7 +39173,7 @@ legacyPackages.x86_64-linux.github-mcp-server:
 legacyPackages.x86_64-linux.github-release:
   description: Commandline app to create and edit releases on Github (and upload artifacts)
   pname: github-release
-  version: 0.10.1-unstable-2024-06-25
+  version: 0.11.0
 legacyPackages.x86_64-linux.github-runner:
   description: Self-hosted runner for GitHub Actions
   pname: github-runner
@@ -61821,7 +61821,7 @@ legacyPackages.x86_64-linux.kdePackages.polkit-qt-1:
 legacyPackages.x86_64-linux.kdePackages.poppler:
   description: PDF rendering library
   pname: poppler-qt6
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.kdePackages.powerdevil:
   description: Manages the power consumption settings of a Plasma shell
   pname: powerdevil
@@ -70729,7 +70729,7 @@ legacyPackages.x86_64-linux.libsForQt5.polkit-qt:
 legacyPackages.x86_64-linux.libsForQt5.poppler:
   description: PDF rendering library
   pname: poppler-qt5
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.libsForQt5.powerdevil:
   description: ""
   pname: powerdevil
@@ -100574,10 +100574,6 @@ legacyPackages.x86_64-linux.lomiri.lomiri-gallery-app:
   description: Photo gallery application for Ubuntu Touch devices
   pname: lomiri-gallery-app
   version: 3.1.1
-legacyPackages.x86_64-linux.lomiri.lomiri-gsettings-overrides:
-  description: ""
-  pname: lomiri-gsettings-overrides
-  version: ""
 legacyPackages.x86_64-linux.lomiri.lomiri-history-service:
   description: Service that provides call log and conversation history
   pname: lomiri-history-service
@@ -107681,7 +107677,7 @@ legacyPackages.x86_64-linux.matrix-synapse-unwrapped:
 legacyPackages.x86_64-linux.matrix-tuwunel:
   description: Matrix homeserver written in Rust, official successor to conduwuit
   pname: matrix-tuwunel
-  version: 1.2.0
+  version: 1.3.0
 legacyPackages.x86_64-linux.matrix-zulip-bridge:
   description: Matrix puppeting appservice bridge for Zulip
   pname: MatrixZulipBridge
@@ -112593,11 +112589,11 @@ legacyPackages.x86_64-linux.mysql2pgsql:
 legacyPackages.x86_64-linux.mysql80:
   description: World's most popular open source database
   pname: mysql
-  version: 8.0.42
+  version: 8.0.43
 legacyPackages.x86_64-linux.mysql84:
   description: World's most popular open source database
   pname: mysql
-  version: 8.4.5
+  version: 8.4.6
 legacyPackages.x86_64-linux.mysql_jdbc:
   description: MySQL Connector/J
   pname: mysql-connector-java
@@ -123781,7 +123777,7 @@ legacyPackages.x86_64-linux.openlinkhub:
 legacyPackages.x86_64-linux.openlist:
   description: AList Fork to Anti Trust Crisis
   pname: openlist
-  version: 4.0.9
+  version: 4.1.0
 legacyPackages.x86_64-linux.openllm:
   description: Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud
   pname: openllm
@@ -155965,7 +155961,7 @@ legacyPackages.x86_64-linux.plasma5Packages.polkit-qt:
 legacyPackages.x86_64-linux.plasma5Packages.poppler:
   description: PDF rendering library
   pname: poppler-qt5
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.plasma5Packages.powerdevil:
   description: ""
   pname: powerdevil
@@ -157413,11 +157409,11 @@ legacyPackages.x86_64-linux.poppins:
 legacyPackages.x86_64-linux.poppler:
   description: PDF rendering library
   pname: poppler-glib
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.poppler-utils:
   description: PDF rendering library
   pname: poppler-utils
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.poppler_data:
   description: Encoding files for Poppler, a PDF rendering library
   pname: poppler-data
@@ -157425,15 +157421,15 @@ legacyPackages.x86_64-linux.poppler_data:
 legacyPackages.x86_64-linux.poppler_gi:
   description: PDF rendering library
   pname: poppler-glib
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.poppler_min:
   description: PDF rendering library
   pname: poppler-min
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.poppler_utils:
   description: PDF rendering library
   pname: poppler-utils
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.popsicle:
   description: Multiple USB File Flasher
   pname: popsicle
@@ -157656,8 +157652,8 @@ legacyPackages.x86_64-linux.postgresql13Packages.pg_similarity:
   version: "2021-01-12"
 legacyPackages.x86_64-linux.postgresql13Packages.pg_squeeze:
   description: PostgreSQL extension for automatic bloat cleanup
-  pname: pg_squeeze-refs-tags-REL1.7.0
-  version: ""
+  pname: pg_squeeze
+  version: 1.9.0
 legacyPackages.x86_64-linux.postgresql13Packages.pg_tle:
   description: Framework for building trusted language extensions for PostgreSQL
   pname: pg_tle
@@ -157736,8 +157732,8 @@ legacyPackages.x86_64-linux.postgresql13Packages.plpython3:
   version: "13.21"
 legacyPackages.x86_64-linux.postgresql13Packages.plr:
   description: PL/R - R Procedural Language for PostgreSQL
-  pname: plr-refs-tags-REL8.4.7
-  version: ""
+  pname: plr
+  version: 8.4.8
 legacyPackages.x86_64-linux.postgresql13Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
@@ -157800,8 +157796,8 @@ legacyPackages.x86_64-linux.postgresql13Packages.vectorchord:
   version: 0.4.2
 legacyPackages.x86_64-linux.postgresql13Packages.wal2json:
   description: PostgreSQL JSON output plugin for changeset extraction
-  pname: wal2json-refs-tags-wal2json.2.6
-  version: ""
+  pname: wal2json
+  version: "2.6"
 legacyPackages.x86_64-linux.postgresql14Packages.age:
   description: Graph database extension for PostgreSQL
   pname: age
@@ -157928,8 +157924,8 @@ legacyPackages.x86_64-linux.postgresql14Packages.pg_similarity:
   version: "2021-01-12"
 legacyPackages.x86_64-linux.postgresql14Packages.pg_squeeze:
   description: PostgreSQL extension for automatic bloat cleanup
-  pname: pg_squeeze-refs-tags-REL1.7.0
-  version: ""
+  pname: pg_squeeze
+  version: 1.9.0
 legacyPackages.x86_64-linux.postgresql14Packages.pg_tle:
   description: Framework for building trusted language extensions for PostgreSQL
   pname: pg_tle
@@ -158008,8 +158004,8 @@ legacyPackages.x86_64-linux.postgresql14Packages.plpython3:
   version: "14.18"
 legacyPackages.x86_64-linux.postgresql14Packages.plr:
   description: PL/R - R Procedural Language for PostgreSQL
-  pname: plr-refs-tags-REL8.4.7
-  version: ""
+  pname: plr
+  version: 8.4.8
 legacyPackages.x86_64-linux.postgresql14Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
@@ -158072,8 +158068,8 @@ legacyPackages.x86_64-linux.postgresql14Packages.vectorchord:
   version: 0.4.2
 legacyPackages.x86_64-linux.postgresql14Packages.wal2json:
   description: PostgreSQL JSON output plugin for changeset extraction
-  pname: wal2json-refs-tags-wal2json.2.6
-  version: ""
+  pname: wal2json
+  version: "2.6"
 legacyPackages.x86_64-linux.postgresql15Packages.age:
   description: Graph database extension for PostgreSQL
   pname: age
@@ -158200,8 +158196,8 @@ legacyPackages.x86_64-linux.postgresql15Packages.pg_similarity:
   version: "2021-01-12"
 legacyPackages.x86_64-linux.postgresql15Packages.pg_squeeze:
   description: PostgreSQL extension for automatic bloat cleanup
-  pname: pg_squeeze-refs-tags-REL1.7.0
-  version: ""
+  pname: pg_squeeze
+  version: 1.9.0
 legacyPackages.x86_64-linux.postgresql15Packages.pg_tle:
   description: Framework for building trusted language extensions for PostgreSQL
   pname: pg_tle
@@ -158280,8 +158276,8 @@ legacyPackages.x86_64-linux.postgresql15Packages.plpython3:
   version: "15.13"
 legacyPackages.x86_64-linux.postgresql15Packages.plr:
   description: PL/R - R Procedural Language for PostgreSQL
-  pname: plr-refs-tags-REL8.4.7
-  version: ""
+  pname: plr
+  version: 8.4.8
 legacyPackages.x86_64-linux.postgresql15Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
@@ -158344,8 +158340,8 @@ legacyPackages.x86_64-linux.postgresql15Packages.vectorchord:
   version: 0.4.2
 legacyPackages.x86_64-linux.postgresql15Packages.wal2json:
   description: PostgreSQL JSON output plugin for changeset extraction
-  pname: wal2json-refs-tags-wal2json.2.6
-  version: ""
+  pname: wal2json
+  version: "2.6"
 legacyPackages.x86_64-linux.postgresql16Packages.age:
   description: Graph database extension for PostgreSQL
   pname: age
@@ -158472,8 +158468,8 @@ legacyPackages.x86_64-linux.postgresql16Packages.pg_similarity:
   version: "2021-01-12"
 legacyPackages.x86_64-linux.postgresql16Packages.pg_squeeze:
   description: PostgreSQL extension for automatic bloat cleanup
-  pname: pg_squeeze-refs-tags-REL1.7.0
-  version: ""
+  pname: pg_squeeze
+  version: 1.9.0
 legacyPackages.x86_64-linux.postgresql16Packages.pg_tle:
   description: Framework for building trusted language extensions for PostgreSQL
   pname: pg_tle
@@ -158552,8 +158548,8 @@ legacyPackages.x86_64-linux.postgresql16Packages.plpython3:
   version: "16.9"
 legacyPackages.x86_64-linux.postgresql16Packages.plr:
   description: PL/R - R Procedural Language for PostgreSQL
-  pname: plr-refs-tags-REL8.4.7
-  version: ""
+  pname: plr
+  version: 8.4.8
 legacyPackages.x86_64-linux.postgresql16Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
@@ -158616,8 +158612,8 @@ legacyPackages.x86_64-linux.postgresql16Packages.vectorchord:
   version: 0.4.2
 legacyPackages.x86_64-linux.postgresql16Packages.wal2json:
   description: PostgreSQL JSON output plugin for changeset extraction
-  pname: wal2json-refs-tags-wal2json.2.6
-  version: ""
+  pname: wal2json
+  version: "2.6"
 legacyPackages.x86_64-linux.postgresql17Packages.age:
   description: Graph database extension for PostgreSQL
   pname: age
@@ -158744,8 +158740,8 @@ legacyPackages.x86_64-linux.postgresql17Packages.pg_similarity:
   version: "2021-01-12"
 legacyPackages.x86_64-linux.postgresql17Packages.pg_squeeze:
   description: PostgreSQL extension for automatic bloat cleanup
-  pname: pg_squeeze-refs-tags-REL1.7.0
-  version: ""
+  pname: pg_squeeze
+  version: 1.9.0
 legacyPackages.x86_64-linux.postgresql17Packages.pg_tle:
   description: Framework for building trusted language extensions for PostgreSQL
   pname: pg_tle
@@ -158824,8 +158820,8 @@ legacyPackages.x86_64-linux.postgresql17Packages.plpython3:
   version: "17.5"
 legacyPackages.x86_64-linux.postgresql17Packages.plr:
   description: PL/R - R Procedural Language for PostgreSQL
-  pname: plr-refs-tags-REL8.4.7
-  version: ""
+  pname: plr
+  version: 8.4.8
 legacyPackages.x86_64-linux.postgresql17Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
@@ -158888,8 +158884,8 @@ legacyPackages.x86_64-linux.postgresql17Packages.vectorchord:
   version: 0.4.2
 legacyPackages.x86_64-linux.postgresql17Packages.wal2json:
   description: PostgreSQL JSON output plugin for changeset extraction
-  pname: wal2json-refs-tags-wal2json.2.6
-  version: ""
+  pname: wal2json
+  version: "2.6"
 legacyPackages.x86_64-linux.postgresql18Packages.age:
   description: Graph database extension for PostgreSQL
   pname: age
@@ -159016,8 +159012,8 @@ legacyPackages.x86_64-linux.postgresql18Packages.pg_similarity:
   version: "2021-01-12"
 legacyPackages.x86_64-linux.postgresql18Packages.pg_squeeze:
   description: PostgreSQL extension for automatic bloat cleanup
-  pname: pg_squeeze-refs-tags-REL1.7.0
-  version: ""
+  pname: pg_squeeze
+  version: 1.9.0
 legacyPackages.x86_64-linux.postgresql18Packages.pg_tle:
   description: Framework for building trusted language extensions for PostgreSQL
   pname: pg_tle
@@ -159096,8 +159092,8 @@ legacyPackages.x86_64-linux.postgresql18Packages.plpython3:
   version: 18beta2
 legacyPackages.x86_64-linux.postgresql18Packages.plr:
   description: PL/R - R Procedural Language for PostgreSQL
-  pname: plr-refs-tags-REL8.4.7
-  version: ""
+  pname: plr
+  version: 8.4.8
 legacyPackages.x86_64-linux.postgresql18Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
@@ -159160,8 +159156,8 @@ legacyPackages.x86_64-linux.postgresql18Packages.vectorchord:
   version: 0.4.2
 legacyPackages.x86_64-linux.postgresql18Packages.wal2json:
   description: PostgreSQL JSON output plugin for changeset extraction
-  pname: wal2json-refs-tags-wal2json.2.6
-  version: ""
+  pname: wal2json
+  version: "2.6"
 legacyPackages.x86_64-linux.postgresqlPackages.age:
   description: Graph database extension for PostgreSQL
   pname: age
@@ -159288,8 +159284,8 @@ legacyPackages.x86_64-linux.postgresqlPackages.pg_similarity:
   version: "2021-01-12"
 legacyPackages.x86_64-linux.postgresqlPackages.pg_squeeze:
   description: PostgreSQL extension for automatic bloat cleanup
-  pname: pg_squeeze-refs-tags-REL1.7.0
-  version: ""
+  pname: pg_squeeze
+  version: 1.9.0
 legacyPackages.x86_64-linux.postgresqlPackages.pg_tle:
   description: Framework for building trusted language extensions for PostgreSQL
   pname: pg_tle
@@ -159368,8 +159364,8 @@ legacyPackages.x86_64-linux.postgresqlPackages.plpython3:
   version: "17.5"
 legacyPackages.x86_64-linux.postgresqlPackages.plr:
   description: PL/R - R Procedural Language for PostgreSQL
-  pname: plr-refs-tags-REL8.4.7
-  version: ""
+  pname: plr
+  version: 8.4.8
 legacyPackages.x86_64-linux.postgresqlPackages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
@@ -159432,8 +159428,8 @@ legacyPackages.x86_64-linux.postgresqlPackages.vectorchord:
   version: 0.4.2
 legacyPackages.x86_64-linux.postgresqlPackages.wal2json:
   description: PostgreSQL JSON output plugin for changeset extraction
-  pname: wal2json-refs-tags-wal2json.2.6
-  version: ""
+  pname: wal2json
+  version: "2.6"
 legacyPackages.x86_64-linux.postgresqlTestHook:
   description: ""
   pname: postgresql-test-hook
@@ -161249,7 +161245,7 @@ legacyPackages.x86_64-linux.pulp:
 legacyPackages.x86_64-linux.pulsar:
   description: Community-led Hyper-Hackable Text Editor
   pname: pulsar
-  version: 1.128.0
+  version: 1.129.0
 legacyPackages.x86_64-linux.pulsarctl:
   description: CLI for Apache Pulsar written in Go
   pname: pulsarctl
@@ -182901,7 +182897,7 @@ legacyPackages.x86_64-linux.python312Packages.nvdlib:
 legacyPackages.x86_64-linux.python312Packages.nvidia-ml-py:
   description: Python Bindings for the NVIDIA Management Library
   pname: python3.12-nvidia-ml-py
-  version: 12.575.51
+  version: 13.580.65
 legacyPackages.x86_64-linux.python312Packages.nwdiag:
   description: Generate network-diagram image from spec-text file (similar to Graphviz)
   pname: python3.12-nwdiag
@@ -198281,7 +198277,7 @@ legacyPackages.x86_64-linux.python312Packages.treeo:
 legacyPackages.x86_64-linux.python312Packages.treescope:
   description: Interactive HTML pretty-printer for machine learning research in IPython notebooks
   pname: python3.12-treescope
-  version: 0.1.9
+  version: 0.1.10
 legacyPackages.x86_64-linux.python312Packages.treex:
   description: Pytree Module system for Deep Learning in JAX
   pname: python3.12-treex
@@ -223833,7 +223829,7 @@ legacyPackages.x86_64-linux.python313Packages.nvdlib:
 legacyPackages.x86_64-linux.python313Packages.nvidia-ml-py:
   description: Python Bindings for the NVIDIA Management Library
   pname: python3.13-nvidia-ml-py
-  version: 12.575.51
+  version: 13.580.65
 legacyPackages.x86_64-linux.python313Packages.nwdiag:
   description: Generate network-diagram image from spec-text file (similar to Graphviz)
   pname: python3.13-nwdiag
@@ -239249,7 +239245,7 @@ legacyPackages.x86_64-linux.python313Packages.treeo:
 legacyPackages.x86_64-linux.python313Packages.treescope:
   description: Interactive HTML pretty-printer for machine learning research in IPython notebooks
   pname: python3.13-treescope
-  version: 0.1.9
+  version: 0.1.10
 legacyPackages.x86_64-linux.python313Packages.treex:
   description: Pytree Module system for Deep Learning in JAX
   pname: python3.13-treex
@@ -244877,7 +244873,7 @@ legacyPackages.x86_64-linux.qt6Packages.packagekit-qt:
 legacyPackages.x86_64-linux.qt6Packages.poppler:
   description: PDF rendering library
   pname: poppler-qt6
-  version: 25.05.0
+  version: 25.07.0
 legacyPackages.x86_64-linux.qt6Packages.qca:
   description: Qt Cryptographic Architecture
   pname: qca
@@ -246493,7 +246489,7 @@ legacyPackages.x86_64-linux.recon-ng:
 legacyPackages.x86_64-linux.recordbox:
   description: Relatively simple music player
   pname: recordbox
-  version: 0.9.3
+  version: 0.10.3
 legacyPackages.x86_64-linux.recoverdm:
   description: Recover damaged CD DVD and disks with bad sectors
   pname: recoverdm
@@ -277861,7 +277857,7 @@ legacyPackages.x86_64-linux.scala:
 legacyPackages.x86_64-linux.scala-cli:
   description: Command-line tool to interact with the Scala language
   pname: scala-cli
-  version: 1.8.4
+  version: 1.8.5
 legacyPackages.x86_64-linux.scala-next:
   description: Scala 3 compiler, also known as Dotty
   pname: scala-next
@@ -289895,7 +289891,7 @@ legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.pangocairo
   pname: check-pkg-config-pango
   version: ""
 legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.poppler-glib:
-  description: Test whether poppler-glib-25.05.0 exposes pkg-config modules poppler-glib
+  description: Test whether poppler-glib-25.07.0 exposes pkg-config modules poppler-glib
   pname: check-pkg-config-poppler-glib
   version: ""
 legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.python:
