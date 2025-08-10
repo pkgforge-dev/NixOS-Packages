@@ -552,12 +552,12 @@
   "legacyPackages.x86_64-linux._7zz": {
     "description": "Command line archiver utility",
     "pname": "7zz",
-    "version": "25.00"
+    "version": "25.01"
   },
   "legacyPackages.x86_64-linux._7zz-rar": {
     "description": "Command line archiver utility",
     "pname": "7zz",
-    "version": "25.00"
+    "version": "25.01"
   },
   "legacyPackages.x86_64-linux._86Box": {
     "description": "Emulator of x86-based machines based on PCem",
@@ -1742,32 +1742,32 @@
   "legacyPackages.x86_64-linux.aider-chat": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat",
-    "version": "0.85.2"
+    "version": "0.86.0"
   },
   "legacyPackages.x86_64-linux.aider-chat-full": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat-playwright-browser-help-bedrock",
-    "version": "0.85.2"
+    "version": "0.86.0"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-bedrock": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat-bedrock",
-    "version": "0.85.2"
+    "version": "0.86.0"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-browser": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat-browser",
-    "version": "0.85.2"
+    "version": "0.86.0"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-help": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat-help",
-    "version": "0.85.2"
+    "version": "0.86.0"
   },
   "legacyPackages.x86_64-linux.aider-chat-with-playwright": {
     "description": "AI pair programming in your terminal",
     "pname": "aider-chat-playwright",
-    "version": "0.85.2"
+    "version": "0.86.0"
   },
   "legacyPackages.x86_64-linux.aiger": {
     "description": "And-Inverter Graph (AIG) utilities",
@@ -16522,7 +16522,7 @@
   "legacyPackages.x86_64-linux.boring": {
     "description": "SSH tunnel manager",
     "pname": "boring",
-    "version": "0.11.6"
+    "version": "0.11.7"
   },
   "legacyPackages.x86_64-linux.boringssl": {
     "description": "Free TLS/SSL implementation",
@@ -35552,7 +35552,7 @@
   "legacyPackages.x86_64-linux.dotnet-aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
@@ -35572,12 +35572,12 @@
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnet-ef": {
     "description": "Tools to help with design-time development tasks",
@@ -35597,7 +35597,7 @@
   "legacyPackages.x86_64-linux.dotnet-runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
@@ -35617,17 +35617,17 @@
   "legacyPackages.x86_64-linux.dotnet-runtime_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.412"
+    "version": "8.0.413"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
@@ -35647,12 +35647,12 @@
   "legacyPackages.x86_64-linux.dotnet-sdk_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.412"
+    "version": "8.0.413"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.303"
+    "version": "9.0.304"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
@@ -35687,22 +35687,22 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0-bin": {
-    "description": "ASP.NET Core Runtime 8.0.18 (wrapper)",
+    "description": "ASP.NET Core Runtime 8.0.19 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0-bin": {
-    "description": "ASP.NET Core Runtime 9.0.7 (wrapper)",
+    "description": "ASP.NET Core Runtime 9.0.8 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.autoPatchcilHook": {
     "description": "",
@@ -35732,42 +35732,42 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.118"
+    "version": "8.0.119"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.108"
+    "version": "9.0.109"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.generate-dotnet-sdk": {
     "description": "",
@@ -35817,22 +35817,22 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0-bin": {
-    "description": ".NET Runtime 8.0.18 (wrapper)",
+    "description": ".NET Runtime 8.0.19 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.18"
+    "version": "8.0.19"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0-bin": {
-    "description": ".NET Runtime 9.0.7 (wrapper)",
+    "description": ".NET Runtime 9.0.8 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.7"
+    "version": "9.0.8"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
@@ -35932,82 +35932,82 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.412"
+    "version": "8.0.413"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-bin": {
-    "description": ".NET SDK 8.0.412 (wrapper)",
+    "description": ".NET SDK 8.0.413 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.412"
+    "version": "8.0.413"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.118"
+    "version": "8.0.119"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.118"
+    "version": "8.0.119"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx-bin": {
-    "description": ".NET SDK 8.0.118 (wrapper)",
+    "description": ".NET SDK 8.0.119 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.118"
+    "version": "8.0.119"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.315"
+    "version": "8.0.316"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx-bin": {
-    "description": ".NET SDK 8.0.315 (wrapper)",
+    "description": ".NET SDK 8.0.316 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.315"
+    "version": "8.0.316"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.412"
+    "version": "8.0.413"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx-bin": {
-    "description": ".NET SDK 8.0.412 (wrapper)",
+    "description": ".NET SDK 8.0.413 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.412"
+    "version": "8.0.413"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.303"
+    "version": "9.0.304"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-bin": {
-    "description": ".NET SDK 9.0.303 (wrapper)",
+    "description": ".NET SDK 9.0.304 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.303"
+    "version": "9.0.304"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.108"
+    "version": "9.0.109"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.108"
+    "version": "9.0.109"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx-bin": {
-    "description": ".NET SDK 9.0.108 (wrapper)",
+    "description": ".NET SDK 9.0.109 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.108"
+    "version": "9.0.109"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.303"
+    "version": "9.0.304"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx-bin": {
-    "description": ".NET SDK 9.0.303 (wrapper)",
+    "description": ".NET SDK 9.0.304 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.303"
+    "version": "9.0.304"
   },
   "legacyPackages.x86_64-linux.dotnetPackages.Boogie": {
     "description": "Intermediate verification language",
@@ -37897,7 +37897,7 @@
   "legacyPackages.x86_64-linux.ed-odyssey-materials-helper": {
     "description": "Helper for managing materials in Elite Dangerous Odyssey",
     "pname": "ed-odyssey-materials-helper",
-    "version": "2.199"
+    "version": "2.223"
   },
   "legacyPackages.x86_64-linux.edac-utils": {
     "description": "Handles the reporting of hardware-related memory errors",
@@ -45077,7 +45077,7 @@
   "legacyPackages.x86_64-linux.frida-tools": {
     "description": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers (client tools)",
     "pname": "frida-tools",
-    "version": "14.4.2"
+    "version": "14.4.5"
   },
   "legacyPackages.x86_64-linux.frigate": {
     "description": "NVR with realtime local object detection for IP cameras",
@@ -64394,6 +64394,11 @@
     "pname": "homeassistant-test-modern_forms",
     "version": "2025.8.0"
   },
+  "legacyPackages.x86_64-linux.home-assistant-component-tests.moehlenhoff_alpha2": {
+    "description": "Open source home automation that puts local control and privacy first",
+    "pname": "homeassistant-test-moehlenhoff_alpha2",
+    "version": "2025.8.0"
+  },
   "legacyPackages.x86_64-linux.home-assistant-component-tests.mold_indicator": {
     "description": "Open source home automation that puts local control and privacy first",
     "pname": "homeassistant-test-mold_indicator",
@@ -64764,6 +64769,11 @@
     "pname": "homeassistant-test-onewire",
     "version": "2025.8.0"
   },
+  "legacyPackages.x86_64-linux.home-assistant-component-tests.onkyo": {
+    "description": "Open source home automation that puts local control and privacy first",
+    "pname": "homeassistant-test-onkyo",
+    "version": "2025.8.0"
+  },
   "legacyPackages.x86_64-linux.home-assistant-component-tests.onvif": {
     "description": "Open source home automation that puts local control and privacy first",
     "pname": "homeassistant-test-onvif",
@@ -64772,6 +64782,11 @@
   "legacyPackages.x86_64-linux.home-assistant-component-tests.open_meteo": {
     "description": "Open source home automation that puts local control and privacy first",
     "pname": "homeassistant-test-open_meteo",
+    "version": "2025.8.0"
+  },
+  "legacyPackages.x86_64-linux.home-assistant-component-tests.open_router": {
+    "description": "Open source home automation that puts local control and privacy first",
+    "pname": "homeassistant-test-open_router",
     "version": "2025.8.0"
   },
   "legacyPackages.x86_64-linux.home-assistant-component-tests.openai_conversation": {
@@ -66264,6 +66279,11 @@
     "pname": "homeassistant-test-uptime",
     "version": "2025.8.0"
   },
+  "legacyPackages.x86_64-linux.home-assistant-component-tests.uptime_kuma": {
+    "description": "Open source home automation that puts local control and privacy first",
+    "pname": "homeassistant-test-uptime_kuma",
+    "version": "2025.8.0"
+  },
   "legacyPackages.x86_64-linux.home-assistant-component-tests.uptimerobot": {
     "description": "Open source home automation that puts local control and privacy first",
     "pname": "homeassistant-test-uptimerobot",
@@ -66818,6 +66838,11 @@
     "description": "Home Assistant GPIO custom integration",
     "pname": "python3.13-raboof-gpio",
     "version": "0.0.4"
+  },
+  "legacyPackages.x86_64-linux.home-assistant-custom-components.hass-opensprinkler": {
+    "description": "OpenSprinkler Integration for Home Assistant",
+    "pname": "python3.13-vinteo-opensprinkler",
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.home_connect_alt": {
     "description": "Alternative (and improved) Home Connect integration for Home Assistant",
@@ -74802,7 +74827,7 @@
   "legacyPackages.x86_64-linux.jwx": {
     "description": "Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies",
     "pname": "jwx",
-    "version": "3.0.9"
+    "version": "3.0.10"
   },
   "legacyPackages.x86_64-linux.jx": {
     "description": "Command line tool for installing and using Jenkins X",
@@ -79957,7 +79982,7 @@
   "legacyPackages.x86_64-linux.koodo-reader": {
     "description": "Cross-platform ebook reader",
     "pname": "koodo-reader",
-    "version": "1.7.4"
+    "version": "2.0.9"
   },
   "legacyPackages.x86_64-linux.koodousfinder": {
     "description": "Tool to allows users to search for and analyze Android apps",
@@ -123387,7 +123412,12 @@
   "legacyPackages.x86_64-linux.llama-cpp": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "5985"
+    "version": "6123"
+  },
+  "legacyPackages.x86_64-linux.llama-cpp-vulkan": {
+    "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
+    "pname": "llama-cpp",
+    "version": "6123"
   },
   "legacyPackages.x86_64-linux.lld": {
     "description": "LLVM linker (unwrapped)",
@@ -125662,7 +125692,7 @@
   "legacyPackages.x86_64-linux.lms": {
     "description": "Lightweight Music Server - Access your self-hosted music using a web interface",
     "pname": "lms",
-    "version": "3.68.1"
+    "version": "3.69.0"
   },
   "legacyPackages.x86_64-linux.lmstudio": {
     "description": "LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs)",
@@ -134717,12 +134747,12 @@
   "legacyPackages.x86_64-linux.mate.mate-panel": {
     "description": "MATE panel",
     "pname": "mate-panel",
-    "version": "1.28.4"
+    "version": "1.28.5"
   },
   "legacyPackages.x86_64-linux.mate.mate-panel-with-applets": {
     "description": "MATE panel",
     "pname": "mate-panel-with-applets",
-    "version": "1.28.4"
+    "version": "1.28.5"
   },
   "legacyPackages.x86_64-linux.mate.mate-polkit": {
     "description": "Integrates polkit authentication for MATE desktop",
@@ -137827,7 +137857,7 @@
   "legacyPackages.x86_64-linux.mirrord": {
     "description": "Run local processes in the context of Kubernetes environment",
     "pname": "mirrord",
-    "version": "3.154.0"
+    "version": "3.157.0"
   },
   "legacyPackages.x86_64-linux.mirtk": {
     "description": "Medical image registration library and tools",
@@ -155917,7 +155947,7 @@
   "legacyPackages.x86_64-linux.opentofu": {
     "description": "Tool for building, changing, and versioning infrastructure",
     "pname": "opentofu",
-    "version": "1.10.4"
+    "version": "1.10.5"
   },
   "legacyPackages.x86_64-linux.opentofu-ls": {
     "description": "OpenTofu Language Server",
@@ -157892,7 +157922,7 @@
   "legacyPackages.x86_64-linux.pantheon.elementary-code": {
     "description": "Code editor designed for elementary OS",
     "pname": "elementary-code",
-    "version": "8.0.0"
+    "version": "8.1.0"
   },
   "legacyPackages.x86_64-linux.pantheon.elementary-default-settings": {
     "description": "Default settings and configuration files for elementary",
@@ -203964,6 +203994,11 @@
     "pname": "python3.12-aiooncue",
     "version": "0.3.9"
   },
+  "legacyPackages.x86_64-linux.python312Packages.aioonkyo": {
+    "description": "Library for controlling Onkyo AV receivers",
+    "pname": "python3.12-aioonkyo",
+    "version": "0.3.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.aioopenexchangerates": {
     "description": "Library for the Openexchangerates API",
     "pname": "python3.12-aioopenexchangerates",
@@ -225499,6 +225534,11 @@
     "pname": "python3.12-moderngl-window",
     "version": "3.1.1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.moehlenhoff-alpha2": {
+    "description": "Python client for the Moehlenhoff Alpha2 underfloor heating system",
+    "pname": "python3.12-moehlenhoff-alpha2",
+    "version": "1.4.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.mohawk": {
     "description": "Python library for Hawk HTTP authorization",
     "pname": "python3.12-mohawk",
@@ -231562,7 +231602,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pint-xarray": {
     "description": "Interface for using pint with xarray, providing convenience accessors",
     "pname": "python3.12-pint-xarray",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.pip": {
     "description": "PyPA recommended tool for installing Python packages",
@@ -236044,6 +236084,11 @@
     "pname": "python3.12-pyopengltk",
     "version": "0.0.4"
   },
+  "legacyPackages.x86_64-linux.python312Packages.pyopensprinkler": {
+    "description": "Python module for OpenSprinker API",
+    "pname": "python3.12-pyopensprinkler",
+    "version": "0.7.15"
+  },
   "legacyPackages.x86_64-linux.python312Packages.pyopenssl": {
     "description": "Python wrapper around the OpenSSL library",
     "pname": "python3.12-pyopenssl",
@@ -239094,6 +239139,11 @@
     "pname": "python3.12-python-on-whales",
     "version": "0.75.1"
   },
+  "legacyPackages.x86_64-linux.python312Packages.python-open-router": {
+    "description": "Asynchronous Python client for Open Router",
+    "pname": "python3.12-python-open-router",
+    "version": "0.3.1"
+  },
   "legacyPackages.x86_64-linux.python312Packages.python-opendata-transport": {
     "description": "Python client for interacting with transport.opendata.ch",
     "pname": "python3.12-python-opendata-transport",
@@ -239623,6 +239673,11 @@
     "description": "Eval nix code from python. ",
     "pname": "python3.12-pythonix",
     "version": "0.1.7"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.pythonkuma": {
+    "description": "Simple Python wrapper for Uptime Kuma",
+    "pname": "python3.12-pythonkuma",
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.pythonnet": {
     "description": ".NET integration for Python",
@@ -245917,7 +245972,7 @@
   "legacyPackages.x86_64-linux.python312Packages.svgdigitizer": {
     "description": "(x,y) Data Points from SVG files",
     "pname": "python3.12-svgdigitizer",
-    "version": "0.12.6"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.svgelements": {
     "description": "SVG Parsing for Elements, Paths, and other SVG Objects",
@@ -255148,6 +255203,11 @@
     "description": "Module to interact with the Kohler Oncue API",
     "pname": "python3.13-aiooncue",
     "version": "0.3.9"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.aioonkyo": {
+    "description": "Library for controlling Onkyo AV receivers",
+    "pname": "python3.13-aioonkyo",
+    "version": "0.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.aioopenexchangerates": {
     "description": "Library for the Openexchangerates API",
@@ -276689,6 +276749,11 @@
     "pname": "python3.13-moderngl-window",
     "version": "3.1.1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.moehlenhoff-alpha2": {
+    "description": "Python client for the Moehlenhoff Alpha2 underfloor heating system",
+    "pname": "python3.13-moehlenhoff-alpha2",
+    "version": "1.4.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.mohawk": {
     "description": "Python library for Hawk HTTP authorization",
     "pname": "python3.13-mohawk",
@@ -282752,7 +282817,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pint-xarray": {
     "description": "Interface for using pint with xarray, providing convenience accessors",
     "pname": "python3.13-pint-xarray",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pip": {
     "description": "PyPA recommended tool for installing Python packages",
@@ -287234,6 +287299,11 @@
     "pname": "python3.13-pyopengltk",
     "version": "0.0.4"
   },
+  "legacyPackages.x86_64-linux.python313Packages.pyopensprinkler": {
+    "description": "Python module for OpenSprinker API",
+    "pname": "python3.13-pyopensprinkler",
+    "version": "0.7.15"
+  },
   "legacyPackages.x86_64-linux.python313Packages.pyopenssl": {
     "description": "Python wrapper around the OpenSSL library",
     "pname": "python3.13-pyopenssl",
@@ -290284,6 +290354,11 @@
     "pname": "python3.13-python-on-whales",
     "version": "0.75.1"
   },
+  "legacyPackages.x86_64-linux.python313Packages.python-open-router": {
+    "description": "Asynchronous Python client for Open Router",
+    "pname": "python3.13-python-open-router",
+    "version": "0.3.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.python-opendata-transport": {
     "description": "Python client for interacting with transport.opendata.ch",
     "pname": "python3.13-python-opendata-transport",
@@ -290813,6 +290888,11 @@
     "description": "Eval nix code from python. ",
     "pname": "python3.13-pythonix",
     "version": "0.1.7"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.pythonkuma": {
+    "description": "Simple Python wrapper for Uptime Kuma",
+    "pname": "python3.13-pythonkuma",
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pythonnet": {
     "description": ".NET integration for Python",
@@ -297152,7 +297232,7 @@
   "legacyPackages.x86_64-linux.python313Packages.svgdigitizer": {
     "description": "(x,y) Data Points from SVG files",
     "pname": "python3.13-svgdigitizer",
-    "version": "0.12.6"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.svgelements": {
     "description": "SVG Parsing for Elements, Paths, and other SVG Objects",
@@ -309937,7 +310017,7 @@
   "legacyPackages.x86_64-linux.rime-wanxiang": {
     "description": "Feature-rich pinyin schema for Rime, basic edition",
     "pname": "rime-wanxiang",
-    "version": "9.1.3"
+    "version": "10.0.10"
   },
   "legacyPackages.x86_64-linux.rime-zhwiki": {
     "description": "RIME dictionary file for entries from zh.wikipedia.org",
@@ -354282,7 +354362,7 @@
   "legacyPackages.x86_64-linux.starlark": {
     "description": "Interpreter for Starlark, implemented in Go",
     "pname": "starlark",
-    "version": "0-unstable-2025-07-17"
+    "version": "0-unstable-2025-08-04"
   },
   "legacyPackages.x86_64-linux.starlark-rust": {
     "description": "Rust implementation of the Starlark language",
@@ -358872,7 +358952,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.awscc": {
     "description": "",
     "pname": "terraform-provider-awscc",
-    "version": "1.50.0"
+    "version": "1.51.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.azuread": {
     "description": "",
@@ -358947,7 +359027,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.cloudflare": {
     "description": "",
     "pname": "terraform-provider-cloudflare",
-    "version": "5.7.1"
+    "version": "5.8.2"
   },
   "legacyPackages.x86_64-linux.terraform-providers.cloudfoundry": {
     "description": "",
@@ -358982,7 +359062,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.datadog": {
     "description": "",
     "pname": "terraform-provider-datadog",
-    "version": "3.68.0"
+    "version": "3.69.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.deno": {
     "description": "",
@@ -359037,7 +359117,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.equinix": {
     "description": "",
     "pname": "terraform-provider-equinix",
-    "version": "3.11.1"
+    "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.exoscale": {
     "description": "",
@@ -359102,7 +359182,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.grafana": {
     "description": "",
     "pname": "terraform-provider-grafana",
-    "version": "3.25.9"
+    "version": "4.3.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.gridscale": {
     "description": "",
@@ -409312,7 +409392,7 @@
   "legacyPackages.x86_64-linux.vala-lint": {
     "description": "Check Vala code files for code-style errors",
     "pname": "vala-lint",
-    "version": "0-unstable-2024-08-28"
+    "version": "0-unstable-2025-08-03"
   },
   "legacyPackages.x86_64-linux.vala_0_56": {
     "description": "Compiler for GObject type system",
@@ -425277,7 +425357,7 @@
   "legacyPackages.x86_64-linux.wamr": {
     "description": "WebAssembly Micro Runtime",
     "pname": "wamr",
-    "version": "2.2.0"
+    "version": "2.4.1"
   },
   "legacyPackages.x86_64-linux.wander": {
     "description": "Terminal app/TUI for HashiCorp Nomad",
@@ -428812,7 +428892,7 @@
   "legacyPackages.x86_64-linux.xapp": {
     "description": "Cross-desktop libraries and common resources",
     "pname": "xapp",
-    "version": "2.8.11"
+    "version": "2.8.12"
   },
   "legacyPackages.x86_64-linux.xar": {
     "description": "Easily extensible archive format",
@@ -429472,7 +429552,7 @@
   "legacyPackages.x86_64-linux.xfce.orage": {
     "description": "Simple calendar application for Xfce",
     "pname": "orage",
-    "version": "4.20.1"
+    "version": "4.20.2"
   },
   "legacyPackages.x86_64-linux.xfce.parole": {
     "description": "Modern simple media player",

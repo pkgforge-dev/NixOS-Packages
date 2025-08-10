@@ -34,8 +34,8 @@
  6tunnel  0.13  Tunnelling for application that don't speak IPv6  legacyPackages.x86_64-linux._6tunnel 
  7kaa  2.15.6  GPL release of the Seven Kingdoms with multiplayer (available only on x86 platforms)  legacyPackages.x86_64-linux._7kaa 
  7z2hashcat  2.0  Extract hashcat hashes from password-protected .7z archives (and .sfx files)  legacyPackages.x86_64-linux._7z2hashcat 
- 7zz  25.00  Command line archiver utility  legacyPackages.x86_64-linux._7zz 
- 7zz  25.00  Command line archiver utility  legacyPackages.x86_64-linux._7zz-rar 
+ 7zz  25.01  Command line archiver utility  legacyPackages.x86_64-linux._7zz 
+ 7zz  25.01  Command line archiver utility  legacyPackages.x86_64-linux._7zz-rar 
  8086tiny  1.25  Open-source small 8086 emulator  legacyPackages.x86_64-linux.tiny8086 
  86Box  4.2.1  Emulator of x86-based machines based on PCem  legacyPackages.x86_64-linux._86Box 
  86Box  4.2.1  Emulator of x86-based machines based on PCem  legacyPackages.x86_64-linux._86Box-with-roms 
@@ -814,12 +814,12 @@
  aichat  0.30.0  Use GPT-4(V), Gemini, LocalAI, Ollama and other LLMs in the terminal  legacyPackages.x86_64-linux.aichat 
  aichej  15878  Bibliography style file for the AIChE Journal  legacyPackages.x86_64-linux.texlivePackages.aichej 
  aide  0.19.1  File and directory integrity checker  legacyPackages.x86_64-linux.aide 
- aider-chat  0.85.2  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat 
- aider-chat-bedrock  0.85.2  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-bedrock 
- aider-chat-browser  0.85.2  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-browser 
- aider-chat-help  0.85.2  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-help 
- aider-chat-playwright  0.85.2  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-playwright 
- aider-chat-playwright-browser-help-bedrock  0.85.2  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-full 
+ aider-chat  0.86.0  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat 
+ aider-chat-bedrock  0.86.0  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-bedrock 
+ aider-chat-browser  0.86.0  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-browser 
+ aider-chat-help  0.86.0  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-help 
+ aider-chat-playwright  0.86.0  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-with-playwright 
+ aider-chat-playwright-browser-help-bedrock  0.86.0  AI pair programming in your terminal  legacyPackages.x86_64-linux.aider-chat-full 
  aiger  1.9.20  And-Inverter Graph (AIG) utilities  legacyPackages.x86_64-linux.aiger 
  aiken  1.1.19  Modern smart contract platform for Cardano  legacyPackages.x86_64-linux.aiken 
  aileron  0.102  Helvetica font in nine weights  legacyPackages.x86_64-linux.aileron 
@@ -2532,8 +2532,8 @@
  aspnetcore-runtime-wrapped  7.0.20  ASP.NET Core Runtime 7.0.20 (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore_7 
  aspnetcore-runtime-wrapped  7.0.20  ASP.NET Core Runtime 7.0.20 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_7_0 
  aspnetcore-runtime-wrapped  7.0.20  ASP.NET Core Runtime 7.0.20 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_7_0-bin 
- aspnetcore-runtime-wrapped  8.0.18  ASP.NET Core Runtime 8.0.18 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0-bin 
- aspnetcore-runtime-wrapped  9.0.7  ASP.NET Core Runtime 9.0.7 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0-bin 
+ aspnetcore-runtime-wrapped  8.0.19  ASP.NET Core Runtime 8.0.19 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0-bin 
+ aspnetcore-runtime-wrapped  9.0.8  ASP.NET Core Runtime 9.0.8 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0-bin 
  assamese  2.91.5  Free and open source fonts for Indian languages (Assamese)  legacyPackages.x86_64-linux.lohit-fonts.assamese 
  assaultcube  1.3.0.2  Fast and fun first-person-shooter based on the Cube fps  legacyPackages.x86_64-linux.assaultcube 
  assemblyscript  0.28.2  TypeScript-like language for WebAssembly  legacyPackages.x86_64-linux.assemblyscript 
@@ -4103,7 +4103,7 @@
  borg-sans-mono  0.2.0  Droid Sans Mono Slashed + Hasklig-style ligatures  legacyPackages.x86_64-linux.borg-sans-mono 
  borgbackup  1.4.1  Deduplicating archiver with compression and encryption  legacyPackages.x86_64-linux.borgbackup 
  borgmatic  2.0.7  Simple, configuration-driven backup software for servers and workstations  legacyPackages.x86_64-linux.borgmatic 
- boring  0.11.6  SSH tunnel manager  legacyPackages.x86_64-linux.boring 
+ boring  0.11.7  SSH tunnel manager  legacyPackages.x86_64-linux.boring 
  boringssl-unstable  2024-09-20  Free TLS/SSL implementation  legacyPackages.x86_64-linux.boringssl 
  boringtun  0.6.0  Userspace WireGuard® implementation in Rust  legacyPackages.x86_64-linux.boringtun 
  bork-pytest-network-salted-q6gijdmk24wk      legacyPackages.x86_64-linux.tests.testers.runCommand.bork 
@@ -9546,13 +9546,13 @@
  dotnet-aspnetcore-runtime-wrapped  10.0.0-preview.6.25358.103  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore_10 
  dotnet-aspnetcore-runtime-wrapped  10.0.0-preview.6.25358.103  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_10_0 
  dotnet-aspnetcore-runtime-wrapped  10.0.0-preview.6.25358.103  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.aspnetcore 
- dotnet-aspnetcore-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore 
- dotnet-aspnetcore-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore_8 
- dotnet-aspnetcore-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0 
- dotnet-aspnetcore-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.aspnetcore 
- dotnet-aspnetcore-runtime-wrapped  9.0.7  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore_9 
- dotnet-aspnetcore-runtime-wrapped  9.0.7  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0 
- dotnet-aspnetcore-runtime-wrapped  9.0.7  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.aspnetcore 
+ dotnet-aspnetcore-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore 
+ dotnet-aspnetcore-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore_8 
+ dotnet-aspnetcore-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0 
+ dotnet-aspnetcore-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.aspnetcore 
+ dotnet-aspnetcore-runtime-wrapped  9.0.8  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-aspnetcore_9 
+ dotnet-aspnetcore-runtime-wrapped  9.0.8  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0 
+ dotnet-aspnetcore-runtime-wrapped  9.0.8  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.aspnetcore 
  dotnet-ef  9.0.8  Tools to help with design-time development tasks  legacyPackages.x86_64-linux.dotnet-ef 
  dotnet-gitversion  6.3.0  From git log to SemVer in no time  legacyPackages.x86_64-linux.gitversion 
  dotnet-outdated  4.6.4  .NET Core global tool to display and update outdated NuGet packages in a project  legacyPackages.x86_64-linux.dotnet-outdated 
@@ -9567,15 +9567,15 @@
  dotnet-runtime-wrapped  7.0.20  .NET Runtime 7.0.20 (wrapper)  legacyPackages.x86_64-linux.dotnet-runtime_7 
  dotnet-runtime-wrapped  7.0.20  .NET Runtime 7.0.20 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_7_0 
  dotnet-runtime-wrapped  7.0.20  .NET Runtime 7.0.20 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_7_0-bin 
- dotnet-runtime-wrapped  8.0.18  .NET Runtime 8.0.18 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0-bin 
- dotnet-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-runtime 
- dotnet-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-runtime_8 
- dotnet-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.runtime 
- dotnet-runtime-wrapped  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0 
- dotnet-runtime-wrapped  9.0.7  .NET Runtime 9.0.7 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0-bin 
- dotnet-runtime-wrapped  9.0.7  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-runtime_9 
- dotnet-runtime-wrapped  9.0.7  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.runtime 
- dotnet-runtime-wrapped  9.0.7  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0 
+ dotnet-runtime-wrapped  8.0.19  .NET Runtime 8.0.19 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0-bin 
+ dotnet-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-runtime 
+ dotnet-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-runtime_8 
+ dotnet-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.runtime 
+ dotnet-runtime-wrapped  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0 
+ dotnet-runtime-wrapped  9.0.8  .NET Runtime 9.0.8 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0-bin 
+ dotnet-runtime-wrapped  9.0.8  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-runtime_9 
+ dotnet-runtime-wrapped  9.0.8  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.runtime 
+ dotnet-runtime-wrapped  9.0.8  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0 
  dotnet-sdk-wrapped  10.0.100-preview.6.25358.103  .NET SDK 10.0.100-preview.6.25358.103 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0-bin 
  dotnet-sdk-wrapped  10.0.100-preview.6.25358.103  .NET SDK 10.0.100-preview.6.25358.103 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0_1xx-bin 
  dotnet-sdk-wrapped  10.0.100-preview.6.25358.103  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnet-sdk_10 
@@ -9599,30 +9599,30 @@
  dotnet-sdk-wrapped  7.0.410  .NET SDK 7.0.410 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_7_0-bin 
  dotnet-sdk-wrapped  7.0.410  .NET SDK 7.0.410 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_7_0_4xx 
  dotnet-sdk-wrapped  7.0.410  .NET SDK 7.0.410 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_7_0_4xx-bin 
- dotnet-sdk-wrapped  8.0.118  .NET SDK 8.0.118 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx-bin 
- dotnet-sdk-wrapped  8.0.118  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.sdk 
- dotnet-sdk-wrapped  8.0.118  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-source 
- dotnet-sdk-wrapped  8.0.118  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx 
- dotnet-sdk-wrapped  8.0.315  .NET SDK 8.0.315 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx-bin 
- dotnet-sdk-wrapped  8.0.315  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx 
- dotnet-sdk-wrapped  8.0.412  .NET SDK 8.0.412 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-bin 
- dotnet-sdk-wrapped  8.0.412  .NET SDK 8.0.412 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx-bin 
- dotnet-sdk-wrapped  8.0.412  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnet-sdk 
- dotnet-sdk-wrapped  8.0.412  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnet-sdk_8 
- dotnet-sdk-wrapped  8.0.412  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0 
- dotnet-sdk-wrapped  8.0.412  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx 
- dotnet-sdk-wrapped  9.0.108  .NET SDK 9.0.108 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx-bin 
- dotnet-sdk-wrapped  9.0.108  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.sdk 
- dotnet-sdk-wrapped  9.0.108  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-source 
- dotnet-sdk-wrapped  9.0.108  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx 
- dotnet-sdk-wrapped  9.0.303  .NET SDK 9.0.303 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-bin 
- dotnet-sdk-wrapped  9.0.303  .NET SDK 9.0.303 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx-bin 
- dotnet-sdk-wrapped  9.0.303  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnet-sdk_9 
- dotnet-sdk-wrapped  9.0.303  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0 
- dotnet-sdk-wrapped  9.0.303  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx 
+ dotnet-sdk-wrapped  8.0.119  .NET SDK 8.0.119 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx-bin 
+ dotnet-sdk-wrapped  8.0.119  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.sdk 
+ dotnet-sdk-wrapped  8.0.119  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-source 
+ dotnet-sdk-wrapped  8.0.119  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx 
+ dotnet-sdk-wrapped  8.0.316  .NET SDK 8.0.316 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx-bin 
+ dotnet-sdk-wrapped  8.0.316  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx 
+ dotnet-sdk-wrapped  8.0.413  .NET SDK 8.0.413 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-bin 
+ dotnet-sdk-wrapped  8.0.413  .NET SDK 8.0.413 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx-bin 
+ dotnet-sdk-wrapped  8.0.413  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnet-sdk 
+ dotnet-sdk-wrapped  8.0.413  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnet-sdk_8 
+ dotnet-sdk-wrapped  8.0.413  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0 
+ dotnet-sdk-wrapped  8.0.413  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx 
+ dotnet-sdk-wrapped  9.0.109  .NET SDK 9.0.109 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx-bin 
+ dotnet-sdk-wrapped  9.0.109  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.sdk 
+ dotnet-sdk-wrapped  9.0.109  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-source 
+ dotnet-sdk-wrapped  9.0.109  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx 
+ dotnet-sdk-wrapped  9.0.304  .NET SDK 9.0.304 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-bin 
+ dotnet-sdk-wrapped  9.0.304  .NET SDK 9.0.304 (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx-bin 
+ dotnet-sdk-wrapped  9.0.304  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnet-sdk_9 
+ dotnet-sdk-wrapped  9.0.304  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0 
+ dotnet-sdk-wrapped  9.0.304  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)  legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx 
  dotnet-vmr  10.0.0-preview.6  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.vmr 
- dotnet-vmr  8.0.18  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.vmr 
- dotnet-vmr  9.0.7  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.vmr 
+ dotnet-vmr  8.0.19  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.vmr 
+ dotnet-vmr  9.0.8  Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI  legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.vmr 
  dotnetbuildhelpers      legacyPackages.x86_64-linux.dotnetbuildhelpers 
  dotool  1.5  Command to simulate input anywhere  legacyPackages.x86_64-linux.dotool 
  dotseqn  1.1  Flush left equations with dotted leaders to the numbers  legacyPackages.x86_64-linux.texlivePackages.dotseqn 
@@ -10240,7 +10240,7 @@
  eczar  0.1  A font family supporting Devanagari and Latin script  legacyPackages.x86_64-linux.texlivePackages.eczar 
  ed  1.21.1  GNU implementation of the standard Unix editor  legacyPackages.x86_64-linux.ed 
  ed  1.8  Editorial Notes for LaTeX documents  legacyPackages.x86_64-linux.texlivePackages.ed 
- ed-odyssey-materials-helper  2.199  Helper for managing materials in Elite Dangerous Odyssey  legacyPackages.x86_64-linux.ed-odyssey-materials-helper 
+ ed-odyssey-materials-helper  2.223  Helper for managing materials in Elite Dangerous Odyssey  legacyPackages.x86_64-linux.ed-odyssey-materials-helper 
  edac-utils-unstable  2023-01-30  Handles the reporting of hardware-related memory errors  legacyPackages.x86_64-linux.edac-utils 
  edb  1.5.0  Cross platform AArch32/x86/x86-64 debugger  legacyPackages.x86_64-linux.edb 
  eddie  2.24.6  AirVPN's OpenVPN and WireGuard wrapper  legacyPackages.x86_64-linux.eddie 
@@ -10406,7 +10406,7 @@
  elementary-calendar  8.0.0  Desktop calendar app designed for elementary OS  legacyPackages.x86_64-linux.pantheon.elementary-calendar 
  elementary-camera  8.0.1  Camera app designed for elementary OS  legacyPackages.x86_64-linux.pantheon.elementary-camera 
  elementary-capnet-assist  8.0.1  Small WebKit app that assists a user with login when a captive portal is detected  legacyPackages.x86_64-linux.pantheon.elementary-capnet-assist 
- elementary-code  8.0.0  Code editor designed for elementary OS  legacyPackages.x86_64-linux.pantheon.elementary-code 
+ elementary-code  8.1.0  Code editor designed for elementary OS  legacyPackages.x86_64-linux.pantheon.elementary-code 
  elementary-default-settings  8.1.0  Default settings and configuration files for elementary  legacyPackages.x86_64-linux.pantheon.elementary-default-settings 
  elementary-dock  8.1.2  Elegant, simple, clean dock  legacyPackages.x86_64-linux.pantheon.elementary-dock 
  elementary-feedback  8.0.1  GitHub Issue Reporter designed for elementary OS  legacyPackages.x86_64-linux.pantheon.elementary-feedback 
@@ -12541,7 +12541,7 @@
  fretboard  9.1  Look up guitar chords  legacyPackages.x86_64-linux.fretboard 
  fribidi  1.0.16  GNU implementation of the Unicode Bidirectional Algorithm (bidi)  legacyPackages.x86_64-linux.fribidi 
  fricas  1.3.12  Advanced computer algebra system  legacyPackages.x86_64-linux.fricas 
- frida-tools  14.4.2  Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers (client tools)  legacyPackages.x86_64-linux.frida-tools 
+ frida-tools  14.4.5  Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers (client tools)  legacyPackages.x86_64-linux.frida-tools 
  frigate  0.15.2  NVR with realtime local object detection for IP cameras  legacyPackages.x86_64-linux.frigate 
  frimurer  1  Access to the 'frimurer' cipher for use with LaTeX  legacyPackages.x86_64-linux.texlivePackages.frimurer 
  frink  2025-01-07  Practical calculating tool and programming language  legacyPackages.x86_64-linux.frink 
@@ -17031,6 +17031,7 @@
  homeassistant-test-modbus  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.modbus 
  homeassistant-test-modem_callerid  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.modem_callerid 
  homeassistant-test-modern_forms  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.modern_forms 
+ homeassistant-test-moehlenhoff_alpha2  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.moehlenhoff_alpha2 
  homeassistant-test-mold_indicator  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.mold_indicator 
  homeassistant-test-monarch_money  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.monarch_money 
  homeassistant-test-monoprice  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.monoprice 
@@ -17105,8 +17106,10 @@
  homeassistant-test-ondilo_ico  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.ondilo_ico 
  homeassistant-test-onedrive  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.onedrive 
  homeassistant-test-onewire  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.onewire 
+ homeassistant-test-onkyo  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.onkyo 
  homeassistant-test-onvif  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.onvif 
  homeassistant-test-open_meteo  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.open_meteo 
+ homeassistant-test-open_router  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.open_router 
  homeassistant-test-openai_conversation  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.openai_conversation 
  homeassistant-test-openalpr_cloud  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.openalpr_cloud 
  homeassistant-test-openerz  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.openerz 
@@ -17405,6 +17408,7 @@
  homeassistant-test-update  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.update 
  homeassistant-test-upnp  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.upnp 
  homeassistant-test-uptime  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.uptime 
+ homeassistant-test-uptime_kuma  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.uptime_kuma 
  homeassistant-test-uptimerobot  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.uptimerobot 
  homeassistant-test-usb  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.usb 
  homeassistant-test-usgs_earthquakes_feed  2025.8.0  Open source home automation that puts local control and privacy first  legacyPackages.x86_64-linux.home-assistant-component-tests.usgs_earthquakes_feed 
@@ -19714,7 +19718,7 @@
  jwt-cli  6.2.0  Super fast CLI tool to decode and encode JWTs  legacyPackages.x86_64-linux.jwt-cli 
  jwt-hack  2.0.0  JSON Web Token Hack Toolkit  legacyPackages.x86_64-linux.jwt-hack 
  jwtinfo  0.4.4  Command-line tool to get information about JWTs  legacyPackages.x86_64-linux.jwtinfo 
- jwx  3.0.9  Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies  legacyPackages.x86_64-linux.jwx 
+ jwx  3.0.10  Implementation of various JWx (Javascript Object Signing and Encryption/JOSE) technologies  legacyPackages.x86_64-linux.jwx 
  jx  3.16.16  Command line tool for installing and using Jenkins X  legacyPackages.x86_64-linux.jx 
  jxplorer  3.3.1.2  Java Ldap Browser  legacyPackages.x86_64-linux.jxplorer 
  jxrlib  1.2-git20170615.f752187-5.2  Implementation of the JPEG XR image codec standard  legacyPackages.x86_64-linux.jxrlib 
@@ -20753,7 +20757,7 @@
  konversation  23.08.5  Integrated IRC client for KDE  legacyPackages.x86_64-linux.libsForQt5.konversation 
  konversation  23.08.5  Integrated IRC client for KDE  legacyPackages.x86_64-linux.plasma5Packages.konversation 
  konversation  25.04.3  User-friendly and fully-featured IRC client  legacyPackages.x86_64-linux.kdePackages.konversation 
- koodo-reader  1.7.4  Cross-platform ebook reader  legacyPackages.x86_64-linux.koodo-reader 
+ koodo-reader  2.0.9  Cross-platform ebook reader  legacyPackages.x86_64-linux.koodo-reader 
  koodousfinder  0.1.0  Tool to allows users to search for and analyze Android apps  legacyPackages.x86_64-linux.koodousfinder 
  kooha  2.3.0  Elegantly record your screen  legacyPackages.x86_64-linux.kooha 
  kool  3.5.2  From local development to the cloud: development workflow made easy  legacyPackages.x86_64-linux.kool 
@@ -23586,7 +23590,8 @@
  lkrg  0.9.9-6.6.94  LKRG Linux Kernel module  legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.lkrg 
  lksctp-tools  1.0.21  Linux Kernel Stream Control Transmission Protocol Tools  legacyPackages.x86_64-linux.lksctp-tools 
  lla  0.3.11  Blazing-fast `ls` replacement with superpowers  legacyPackages.x86_64-linux.lla 
- llama-cpp  5985  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp 
+ llama-cpp  6123  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp 
+ llama-cpp  6123  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp-vulkan 
  lld  12.0.1  LLVM linker (unwrapped)  legacyPackages.x86_64-linux.lld_12 
  lld  12.0.1  LLVM linker (unwrapped)  legacyPackages.x86_64-linux.llvmPackages_12.lld 
  lld  13.0.1  LLVM linker (unwrapped)  legacyPackages.x86_64-linux.lld_13 
@@ -23768,7 +23773,7 @@
  lmms  1.2.2  DAW similar to FL Studio (music production software)  legacyPackages.x86_64-linux.lmms 
  lmodern  2.005  Latin Modern font  legacyPackages.x86_64-linux.lmodern 
  lmp  2.0  Scanning and validation toolkit for the Log4J vulnerability  legacyPackages.x86_64-linux.lmp 
- lms  3.68.1  Lightweight Music Server - Access your self-hosted music using a web interface  legacyPackages.x86_64-linux.lms 
+ lms  3.69.0  Lightweight Music Server - Access your self-hosted music using a web interface  legacyPackages.x86_64-linux.lms 
  lmstudio  0.3.22-1  LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs)  legacyPackages.x86_64-linux.lmstudio 
  ln-boot-unstable  2023-05-22  Basic tool for creating symbolic links  legacyPackages.x86_64-linux.minimal-bootstrap.ln-boot 
  lnav  0.13.0  Logfile Navigator  legacyPackages.x86_64-linux.lnav 
@@ -25741,8 +25746,8 @@
  mate-menus  1.28.0  Menu system for MATE  legacyPackages.x86_64-linux.mate.mate-menus 
  mate-netbook  1.26.0  MATE utilities for netbooks  legacyPackages.x86_64-linux.mate.mate-netbook 
  mate-notification-daemon  1.28.3  Notification daemon for MATE Desktop  legacyPackages.x86_64-linux.mate.mate-notification-daemon 
- mate-panel  1.28.4  MATE panel  legacyPackages.x86_64-linux.mate.mate-panel 
- mate-panel-with-applets  1.28.4  MATE panel  legacyPackages.x86_64-linux.mate.mate-panel-with-applets 
+ mate-panel  1.28.5  MATE panel  legacyPackages.x86_64-linux.mate.mate-panel 
+ mate-panel-with-applets  1.28.5  MATE panel  legacyPackages.x86_64-linux.mate.mate-panel-with-applets 
  mate-polkit  1.28.1  Integrates polkit authentication for MATE desktop  legacyPackages.x86_64-linux.mate.mate-polkit 
  mate-power-manager  1.28.1  MATE Power Manager  legacyPackages.x86_64-linux.mate.mate-power-manager 
  mate-screensaver  1.28.0  Screen saver and locker for the MATE desktop  legacyPackages.x86_64-linux.mate.mate-screensaver 
@@ -26569,7 +26574,7 @@
  miredo  1.2.6  Teredo IPv6 Tunneling Daemon  legacyPackages.x86_64-linux.miredo 
  miriway  25.02.1  Mir based Wayland compositor  legacyPackages.x86_64-linux.miriway 
  mirrorbits  0.6  Geographical download redirector for distributing files efficiently across a set of mirrors  legacyPackages.x86_64-linux.mirrorbits 
- mirrord  3.154.0  Run local processes in the context of Kubernetes environment  legacyPackages.x86_64-linux.mirrord 
+ mirrord  3.157.0  Run local processes in the context of Kubernetes environment  legacyPackages.x86_64-linux.mirrord 
  mirtk-unstable  2022-07-22  Medical image registration library and tools  legacyPackages.x86_64-linux.mirtk 
  miru  5.5.10  Stream anime torrents, real-time with no waiting for downloads  legacyPackages.x86_64-linux.miru 
  misc-gitology  0-unstable-2024-08-26  Assortment of scripts around Git  legacyPackages.x86_64-linux.misc-gitology 
@@ -31860,7 +31865,7 @@
  opentelemetry-cpp  1.16.1  OpenTelemetry C++ Client Library  legacyPackages.x86_64-linux.opentelemetry-cpp 
  openterface-qt  0.3.18  Openterface mini-KVM host application for linux  legacyPackages.x86_64-linux.openterface-qt 
  opentimestamps-client  0.7.2  Command-line tool to create and verify OpenTimestamps proofs  legacyPackages.x86_64-linux.opentimestamps-client 
- opentofu  1.10.4  Tool for building, changing, and versioning infrastructure  legacyPackages.x86_64-linux.opentofu 
+ opentofu  1.10.5  Tool for building, changing, and versioning infrastructure  legacyPackages.x86_64-linux.opentofu 
  opentoonz  1.7.1  Full-featured 2D animation creation software  legacyPackages.x86_64-linux.opentoonz 
  opentracing-cpp  1.6.0  C++ implementation of the OpenTracing API  legacyPackages.x86_64-linux.opentracing-cpp 
  opentrack  2023.3.0  Head tracking software for MS Windows, Linux, and Apple OSX  legacyPackages.x86_64-linux.opentrack 
@@ -31986,7 +31991,7 @@
  or-tools  9.12  Google's software suite for combinatorial optimization.   legacyPackages.x86_64-linux.python312Packages.ortools 
  or-tools  9.12  Google's software suite for combinatorial optimization.   legacyPackages.x86_64-linux.python313Packages.ortools 
  oracle-instantclient  21.10.0.0.0  Oracle instant client libraries and sqlplus CLI  legacyPackages.x86_64-linux.oracle-instantclient 
- orage  4.20.1  Simple calendar application for Xfce  legacyPackages.x86_64-linux.xfce.orage 
+ orage  4.20.2  Simple calendar application for Xfce  legacyPackages.x86_64-linux.xfce.orage 
  oranchelo-icon-theme  0.9.0  Oranchelo icon theme  legacyPackages.x86_64-linux.oranchelo-icon-theme 
  oranda  0.6.5  Generate beautiful landing pages for your developer tools  legacyPackages.x86_64-linux.oranda 
  orangefs  2.9.8  Scale-out network file system for use on high-end computing systems  legacyPackages.x86_64-linux.orangefs 
@@ -41582,6 +41587,7 @@
  python3.12-aiontfy  0.5.3  Async ntfy client library  legacyPackages.x86_64-linux.python312Packages.aiontfy 
  python3.12-aionut  4.3.4  Asyncio Network UPS Tools  legacyPackages.x86_64-linux.python312Packages.aionut 
  python3.12-aiooncue  0.3.9  Module to interact with the Kohler Oncue API  legacyPackages.x86_64-linux.python312Packages.aiooncue 
+ python3.12-aioonkyo  0.3.0  Library for controlling Onkyo AV receivers  legacyPackages.x86_64-linux.python312Packages.aioonkyo 
  python3.12-aioopenexchangerates  0.6.21  Library for the Openexchangerates API  legacyPackages.x86_64-linux.python312Packages.aioopenexchangerates 
  python3.12-aioopenssl  0.6.0  TLS-capable transport using OpenSSL for asyncio  legacyPackages.x86_64-linux.python312Packages.aioopenssl 
  python3.12-aiooss2  0.2.11  Library for aliyun OSS (Object Storage Service)  legacyPackages.x86_64-linux.python312Packages.aiooss2 
@@ -45832,6 +45838,7 @@
  python3.12-modern-colorthief  0.1.7    legacyPackages.x86_64-linux.python312Packages.modern-colorthief 
  python3.12-moderngl  5.12.0  High performance rendering for Python  legacyPackages.x86_64-linux.python312Packages.moderngl 
  python3.12-moderngl-window  3.1.1  Cross platform helper library for ModernGL making window creation and resource loading simple  legacyPackages.x86_64-linux.python312Packages.moderngl-window 
+ python3.12-moehlenhoff-alpha2  1.4.0  Python client for the Moehlenhoff Alpha2 underfloor heating system  legacyPackages.x86_64-linux.python312Packages.moehlenhoff-alpha2 
  python3.12-mohawk  1.1.0  Python library for Hawk HTTP authorization  legacyPackages.x86_64-linux.python312Packages.mohawk 
  python3.12-molecule  25.7.0  Molecule aids in the development and testing of Ansible roles  legacyPackages.x86_64-linux.python312Packages.molecule 
  python3.12-molecule-plugins  23.5.3  Collection on molecule plugins  legacyPackages.x86_64-linux.python312Packages.molecule-plugins 
@@ -47023,7 +47030,7 @@
  python3.12-pins  0.8.7  Module to publishes data, models and other Python objects  legacyPackages.x86_64-linux.python312Packages.pins 
  python3.12-pint  0.24.4  Physical quantities module  legacyPackages.x86_64-linux.python312Packages.pint 
  python3.12-pint-pandas  0.6  Pandas support for pint  legacyPackages.x86_64-linux.python312Packages.pint-pandas 
- python3.12-pint-xarray  0.5.0  Interface for using pint with xarray, providing convenience accessors  legacyPackages.x86_64-linux.python312Packages.pint-xarray 
+ python3.12-pint-xarray  0.5.1  Interface for using pint with xarray, providing convenience accessors  legacyPackages.x86_64-linux.python312Packages.pint-xarray 
  python3.12-pip  25.0.1  PyPA recommended tool for installing Python packages  legacyPackages.x86_64-linux.python312Packages.pip 
  python3.12-pip-api  0.0.34  Importable pip API  legacyPackages.x86_64-linux.python312Packages.pip-api 
  python3.12-pip-chill  1.0.3  More relaxed `pip freeze`  legacyPackages.x86_64-linux.python312Packages.pip-chill 
@@ -47909,6 +47916,7 @@
  python3.12-pyopengl  3.1.9  PyOpenGL, the Python OpenGL bindings  legacyPackages.x86_64-linux.python312Packages.pyopengl 
  python3.12-pyopengl-accelerate  3.1.9  This set of C (Cython) extensions provides acceleration of common operations for slow points in PyOpenGL 3.x  legacyPackages.x86_64-linux.python312Packages.pyopengl-accelerate 
  python3.12-pyopengltk  0.0.4  OpenGL frame for Python/Tkinter via ctypes and pyopengl  legacyPackages.x86_64-linux.python312Packages.pyopengltk 
+ python3.12-pyopensprinkler  0.7.15  Python module for OpenSprinker API  legacyPackages.x86_64-linux.python312Packages.pyopensprinkler 
  python3.12-pyopenssl  25.1.0  Python wrapper around the OpenSSL library  legacyPackages.x86_64-linux.python312Packages.pyopenssl 
  python3.12-pyopenuv  2023.12.0  Python API to retrieve data from openuv.io  legacyPackages.x86_64-linux.python312Packages.pyopenuv 
  python3.12-pyopenweathermap  0.2.2  Python library for OpenWeatherMap API for Home Assistant  legacyPackages.x86_64-linux.python312Packages.pyopenweathermap 
@@ -48523,6 +48531,7 @@
  python3.12-python-octaviaclient  3.11.1  OpenStack Octavia Command-line Client  legacyPackages.x86_64-linux.python312Packages.python-octaviaclient 
  python3.12-python-olm  3.2.16  Python bindings for Olm  legacyPackages.x86_64-linux.python312Packages.python-olm 
  python3.12-python-on-whales  0.75.1  Docker client for Python, designed to be fun and intuitive  legacyPackages.x86_64-linux.python312Packages.python-on-whales 
+ python3.12-python-open-router  0.3.1  Asynchronous Python client for Open Router  legacyPackages.x86_64-linux.python312Packages.python-open-router 
  python3.12-python-opendata-transport  0.5.0  Python client for interacting with transport.opendata.ch  legacyPackages.x86_64-linux.python312Packages.python-opendata-transport 
  python3.12-python-openems  0.0.36  Python interface to OpenEMS  legacyPackages.x86_64-linux.python312Packages.python-openems 
  python3.12-python-opensky  1.0.1  Asynchronous Python client for the OpenSky API  legacyPackages.x86_64-linux.python312Packages.python-opensky 
@@ -48747,6 +48756,7 @@
  python3.12-pythonegardia  1.0.52  Python interface with Egardia/Woonveilig alarms  legacyPackages.x86_64-linux.python312Packages.pythonegardia 
  python3.12-pythonfinder  3.0.0  Cross platform search tool for finding Python  legacyPackages.x86_64-linux.python312Packages.pythonfinder 
  python3.12-pythonix  0.1.7  Eval nix code from python.   legacyPackages.x86_64-linux.python312Packages.pythonix 
+ python3.12-pythonkuma  0.3.1  Simple Python wrapper for Uptime Kuma  legacyPackages.x86_64-linux.python312Packages.pythonkuma 
  python3.12-pythonnet  3.0.5  .NET integration for Python  legacyPackages.x86_64-linux.python312Packages.pythonnet 
  python3.12-pythonqwt  0.14.5  Qt plotting widgets for Python (pure Python reimplementation of Qwt C++ library)  legacyPackages.x86_64-linux.python312Packages.pythonqwt 
  python3.12-pythran  0.18.0  Ahead of Time compiler for numeric kernels  legacyPackages.x86_64-linux.python312Packages.pythran 
@@ -49982,7 +49992,7 @@
  python3.12-svg-py  1.6.0  Type-safe Python library to generate SVG files  legacyPackages.x86_64-linux.python312Packages.svg-py 
  python3.12-svg.path  6.3  SVG path objects and parser  legacyPackages.x86_64-linux.python312Packages.svg-path 
  python3.12-svg2tikz  3.3.2  Set of tools for converting SVG graphics to TikZ/PGF code  legacyPackages.x86_64-linux.python312Packages.svg2tikz 
- python3.12-svgdigitizer  0.12.6  (x,y) Data Points from SVG files  legacyPackages.x86_64-linux.python312Packages.svgdigitizer 
+ python3.12-svgdigitizer  0.13.0  (x,y) Data Points from SVG files  legacyPackages.x86_64-linux.python312Packages.svgdigitizer 
  python3.12-svgelements  1.9.6  SVG Parsing for Elements, Paths, and other SVG Objects  legacyPackages.x86_64-linux.python312Packages.svgelements 
  python3.12-svglib  1.5.1  Pure-Python library for reading and converting SVG  legacyPackages.x86_64-linux.python312Packages.svglib 
  python3.12-svgpathtools  1.7.1  Collection of tools for manipulating and analyzing SVG Path objects and Bezier curves  legacyPackages.x86_64-linux.python312Packages.svgpathtools 
@@ -51668,6 +51678,7 @@
  python3.13-aiontfy  0.5.3  Async ntfy client library  legacyPackages.x86_64-linux.python313Packages.aiontfy 
  python3.13-aionut  4.3.4  Asyncio Network UPS Tools  legacyPackages.x86_64-linux.python313Packages.aionut 
  python3.13-aiooncue  0.3.9  Module to interact with the Kohler Oncue API  legacyPackages.x86_64-linux.python313Packages.aiooncue 
+ python3.13-aioonkyo  0.3.0  Library for controlling Onkyo AV receivers  legacyPackages.x86_64-linux.python313Packages.aioonkyo 
  python3.13-aioopenexchangerates  0.6.21  Library for the Openexchangerates API  legacyPackages.x86_64-linux.python313Packages.aioopenexchangerates 
  python3.13-aioopenssl  0.6.0  TLS-capable transport using OpenSSL for asyncio  legacyPackages.x86_64-linux.python313Packages.aioopenssl 
  python3.13-aiooss2  0.2.11  Library for aliyun OSS (Object Storage Service)  legacyPackages.x86_64-linux.python313Packages.aiooss2 
@@ -56121,6 +56132,7 @@
  python3.13-modern-colorthief  0.1.7    legacyPackages.x86_64-linux.python313Packages.modern-colorthief 
  python3.13-moderngl  5.12.0  High performance rendering for Python  legacyPackages.x86_64-linux.python313Packages.moderngl 
  python3.13-moderngl-window  3.1.1  Cross platform helper library for ModernGL making window creation and resource loading simple  legacyPackages.x86_64-linux.python313Packages.moderngl-window 
+ python3.13-moehlenhoff-alpha2  1.4.0  Python client for the Moehlenhoff Alpha2 underfloor heating system  legacyPackages.x86_64-linux.python313Packages.moehlenhoff-alpha2 
  python3.13-mohawk  1.1.0  Python library for Hawk HTTP authorization  legacyPackages.x86_64-linux.python313Packages.mohawk 
  python3.13-molecule  25.7.0  Molecule aids in the development and testing of Ansible roles  legacyPackages.x86_64-linux.python313Packages.molecule 
  python3.13-molecule-plugins  23.5.3  Collection on molecule plugins  legacyPackages.x86_64-linux.python313Packages.molecule-plugins 
@@ -57364,7 +57376,7 @@
  python3.13-pins  0.8.7  Module to publishes data, models and other Python objects  legacyPackages.x86_64-linux.python313Packages.pins 
  python3.13-pint  0.24.4  Physical quantities module  legacyPackages.x86_64-linux.python313Packages.pint 
  python3.13-pint-pandas  0.6  Pandas support for pint  legacyPackages.x86_64-linux.python313Packages.pint-pandas 
- python3.13-pint-xarray  0.5.0  Interface for using pint with xarray, providing convenience accessors  legacyPackages.x86_64-linux.python313Packages.pint-xarray 
+ python3.13-pint-xarray  0.5.1  Interface for using pint with xarray, providing convenience accessors  legacyPackages.x86_64-linux.python313Packages.pint-xarray 
  python3.13-pip  25.0.1  PyPA recommended tool for installing Python packages  legacyPackages.x86_64-linux.python313Packages.pip 
  python3.13-pip-api  0.0.34  Importable pip API  legacyPackages.x86_64-linux.python313Packages.pip-api 
  python3.13-pip-chill  1.0.3  More relaxed `pip freeze`  legacyPackages.x86_64-linux.python313Packages.pip-chill 
@@ -58279,6 +58291,7 @@
  python3.13-pyopengl  3.1.9  PyOpenGL, the Python OpenGL bindings  legacyPackages.x86_64-linux.python313Packages.pyopengl 
  python3.13-pyopengl-accelerate  3.1.9  This set of C (Cython) extensions provides acceleration of common operations for slow points in PyOpenGL 3.x  legacyPackages.x86_64-linux.python313Packages.pyopengl-accelerate 
  python3.13-pyopengltk  0.0.4  OpenGL frame for Python/Tkinter via ctypes and pyopengl  legacyPackages.x86_64-linux.python313Packages.pyopengltk 
+ python3.13-pyopensprinkler  0.7.15  Python module for OpenSprinker API  legacyPackages.x86_64-linux.python313Packages.pyopensprinkler 
  python3.13-pyopenssl  25.1.0  Python wrapper around the OpenSSL library  legacyPackages.x86_64-linux.python313Packages.pyopenssl 
  python3.13-pyopenuv  2023.12.0  Python API to retrieve data from openuv.io  legacyPackages.x86_64-linux.python313Packages.pyopenuv 
  python3.13-pyopenweathermap  0.2.2  Python library for OpenWeatherMap API for Home Assistant  legacyPackages.x86_64-linux.python313Packages.pyopenweathermap 
@@ -58894,6 +58907,7 @@
  python3.13-python-octaviaclient  3.11.1  OpenStack Octavia Command-line Client  legacyPackages.x86_64-linux.python313Packages.python-octaviaclient 
  python3.13-python-olm  3.2.16  Python bindings for Olm  legacyPackages.x86_64-linux.python313Packages.python-olm 
  python3.13-python-on-whales  0.75.1  Docker client for Python, designed to be fun and intuitive  legacyPackages.x86_64-linux.python313Packages.python-on-whales 
+ python3.13-python-open-router  0.3.1  Asynchronous Python client for Open Router  legacyPackages.x86_64-linux.python313Packages.python-open-router 
  python3.13-python-opendata-transport  0.5.0  Python client for interacting with transport.opendata.ch  legacyPackages.x86_64-linux.python313Packages.python-opendata-transport 
  python3.13-python-openems  0.0.36  Python interface to OpenEMS  legacyPackages.x86_64-linux.python313Packages.python-openems 
  python3.13-python-opensky  1.0.1  Asynchronous Python client for the OpenSky API  legacyPackages.x86_64-linux.python313Packages.python-opensky 
@@ -59119,6 +59133,7 @@
  python3.13-pythonegardia  1.0.52  Python interface with Egardia/Woonveilig alarms  legacyPackages.x86_64-linux.python313Packages.pythonegardia 
  python3.13-pythonfinder  3.0.0  Cross platform search tool for finding Python  legacyPackages.x86_64-linux.python313Packages.pythonfinder 
  python3.13-pythonix  0.1.7  Eval nix code from python.   legacyPackages.x86_64-linux.python313Packages.pythonix 
+ python3.13-pythonkuma  0.3.1  Simple Python wrapper for Uptime Kuma  legacyPackages.x86_64-linux.python313Packages.pythonkuma 
  python3.13-pythonnet  3.0.5  .NET integration for Python  legacyPackages.x86_64-linux.python313Packages.pythonnet 
  python3.13-pythonqwt  0.14.5  Qt plotting widgets for Python (pure Python reimplementation of Qwt C++ library)  legacyPackages.x86_64-linux.python313Packages.pythonqwt 
  python3.13-pythran  0.18.0  Ahead of Time compiler for numeric kernels  legacyPackages.x86_64-linux.python313Packages.pythran 
@@ -60412,7 +60427,7 @@
  python3.13-svg-py  1.6.0  Type-safe Python library to generate SVG files  legacyPackages.x86_64-linux.python313Packages.svg-py 
  python3.13-svg.path  6.3  SVG path objects and parser  legacyPackages.x86_64-linux.python313Packages.svg-path 
  python3.13-svg2tikz  3.3.2  Set of tools for converting SVG graphics to TikZ/PGF code  legacyPackages.x86_64-linux.python313Packages.svg2tikz 
- python3.13-svgdigitizer  0.12.6  (x,y) Data Points from SVG files  legacyPackages.x86_64-linux.python313Packages.svgdigitizer 
+ python3.13-svgdigitizer  0.13.0  (x,y) Data Points from SVG files  legacyPackages.x86_64-linux.python313Packages.svgdigitizer 
  python3.13-svgelements  1.9.6  SVG Parsing for Elements, Paths, and other SVG Objects  legacyPackages.x86_64-linux.python313Packages.svgelements 
  python3.13-svglib  1.5.1  Pure-Python library for reading and converting SVG  legacyPackages.x86_64-linux.python313Packages.svglib 
  python3.13-svgpathtools  1.7.1  Collection of tools for manipulating and analyzing SVG Path objects and Bezier curves  legacyPackages.x86_64-linux.python313Packages.svgpathtools 
@@ -61480,6 +61495,7 @@
  python3.13-vilfo-api-client  0.5.0  Simple wrapper client for the Vilfo router API  legacyPackages.x86_64-linux.python313Packages.vilfo-api-client 
  python3.13-vincenty  0.1.4  Calculate the geographical distance between 2 points with extreme accuracy  legacyPackages.x86_64-linux.python313Packages.vincenty 
  python3.13-vine  5.1.0  Python promises  legacyPackages.x86_64-linux.python313Packages.vine 
+ python3.13-vinteo-opensprinkler  1.5.1  OpenSprinkler Integration for Home Assistant  legacyPackages.x86_64-linux.home-assistant-custom-components.hass-opensprinkler 
  python3.13-virt-firmware  24.7  Tools for virtual machine firmware volumes  legacyPackages.x86_64-linux.python313Packages.virt-firmware 
  python3.13-virtkey  0.63.0  Extension to emulate keypresses and to get the layout information from the X server  legacyPackages.x86_64-linux.python313Packages.virtkey 
  python3.13-virtual-glob  0.2.0  Globbing of virtual file systems  legacyPackages.x86_64-linux.python313Packages.virtual-glob 
@@ -63442,7 +63458,7 @@
  rime-japanese  0-unstable-2023-08-02  Layout for typing in Japanese with RIME  legacyPackages.x86_64-linux.rime-japanese 
  rime-ls  0.4.3  Language server for Rime input method engine  legacyPackages.x86_64-linux.rime-ls 
  rime-moegirl  20250711  RIME dictionary file for entries from zh.moegirl.org.cn  legacyPackages.x86_64-linux.rime-moegirl 
- rime-wanxiang  9.1.3  Feature-rich pinyin schema for Rime, basic edition  legacyPackages.x86_64-linux.rime-wanxiang 
+ rime-wanxiang  10.0.10  Feature-rich pinyin schema for Rime, basic edition  legacyPackages.x86_64-linux.rime-wanxiang 
  rime-zhwiki  20240909  RIME dictionary file for entries from zh.wikipedia.org  legacyPackages.x86_64-linux.rime-zhwiki 
  rimgo  1.2.6  Alternative frontend for Imgur  legacyPackages.x86_64-linux.rimgo 
  rimsort  1.0.30  Open source mod manager for the video game RimWorld  legacyPackages.x86_64-linux.rimsort 
@@ -73509,7 +73525,7 @@
  starfont  1.2  The StarFont Sans astrological font  legacyPackages.x86_64-linux.texlivePackages.starfont 
  stargate-libcds  1.0.0  C data structure library  legacyPackages.x86_64-linux.stargate-libcds 
  stargazer  1.3.3  Fast and easy to use Gemini server  legacyPackages.x86_64-linux.stargazer 
- starlark  0-unstable-2025-07-17  Interpreter for Starlark, implemented in Go  legacyPackages.x86_64-linux.starlark 
+ starlark  0-unstable-2025-08-04  Interpreter for Starlark, implemented in Go  legacyPackages.x86_64-linux.starlark 
  starlark-rust  0.13.0  Rust implementation of the Starlark language  legacyPackages.x86_64-linux.starlark-rust 
  starpls  0.1.21  Language server for Starlark  legacyPackages.x86_64-linux.starpls 
  starpls  0.1.21  Language server for Starlark  legacyPackages.x86_64-linux.starpls-bin 
@@ -75082,7 +75098,7 @@
  terraform-provider-avi  31.1.1    legacyPackages.x86_64-linux.terraform-providers.avi 
  terraform-provider-aviatrix  8.0.0    legacyPackages.x86_64-linux.terraform-providers.aviatrix 
  terraform-provider-aws  5.99.1    legacyPackages.x86_64-linux.terraform-providers.aws 
- terraform-provider-awscc  1.50.0    legacyPackages.x86_64-linux.terraform-providers.awscc 
+ terraform-provider-awscc  1.51.0    legacyPackages.x86_64-linux.terraform-providers.awscc 
  terraform-provider-azuread  3.4.0    legacyPackages.x86_64-linux.terraform-providers.azuread 
  terraform-provider-azurerm  4.38.1    legacyPackages.x86_64-linux.terraform-providers.azurerm 
  terraform-provider-azurestack  1.0.0    legacyPackages.x86_64-linux.terraform-providers.azurestack 
@@ -75097,14 +75113,14 @@
  terraform-provider-checkly  1.12.0    legacyPackages.x86_64-linux.terraform-providers.checkly 
  terraform-provider-ciscoasa  1.3.0    legacyPackages.x86_64-linux.terraform-providers.ciscoasa 
  terraform-provider-cloudamqp  1.35.1    legacyPackages.x86_64-linux.terraform-providers.cloudamqp 
- terraform-provider-cloudflare  5.7.1    legacyPackages.x86_64-linux.terraform-providers.cloudflare 
+ terraform-provider-cloudflare  5.8.2    legacyPackages.x86_64-linux.terraform-providers.cloudflare 
  terraform-provider-cloudfoundry  0.52.0    legacyPackages.x86_64-linux.terraform-providers.cloudfoundry 
  terraform-provider-cloudinit  2.3.7    legacyPackages.x86_64-linux.terraform-providers.cloudinit 
  terraform-provider-cloudscale  4.4.0    legacyPackages.x86_64-linux.terraform-providers.cloudscale 
  terraform-provider-constellix  0.4.6    legacyPackages.x86_64-linux.terraform-providers.constellix 
  terraform-provider-consul  2.22.0    legacyPackages.x86_64-linux.terraform-providers.consul 
  terraform-provider-ct  0.13.0    legacyPackages.x86_64-linux.terraform-providers.ct 
- terraform-provider-datadog  3.68.0    legacyPackages.x86_64-linux.terraform-providers.datadog 
+ terraform-provider-datadog  3.69.0    legacyPackages.x86_64-linux.terraform-providers.datadog 
  terraform-provider-deno  0.1.0    legacyPackages.x86_64-linux.terraform-providers.deno 
  terraform-provider-dexidp  0.7.0    legacyPackages.x86_64-linux.terraform-providers.dexidp 
  terraform-provider-dhall  0.0.7    legacyPackages.x86_64-linux.terraform-providers.dhall 
@@ -75115,7 +75131,7 @@
  terraform-provider-docker  3.6.2    legacyPackages.x86_64-linux.terraform-providers.docker 
  terraform-provider-doppler  1.20.0    legacyPackages.x86_64-linux.terraform-providers.doppler 
  terraform-provider-elasticsearch  2.0.7    legacyPackages.x86_64-linux.terraform-providers.elasticsearch 
- terraform-provider-equinix  3.11.1    legacyPackages.x86_64-linux.terraform-providers.equinix 
+ terraform-provider-equinix  4.0.0    legacyPackages.x86_64-linux.terraform-providers.equinix 
  terraform-provider-exoscale  0.65.0    legacyPackages.x86_64-linux.terraform-providers.exoscale 
  terraform-provider-external  2.3.5    legacyPackages.x86_64-linux.terraform-providers.external 
  terraform-provider-fastly  5.17.0    legacyPackages.x86_64-linux.terraform-providers.fastly 
@@ -75128,7 +75144,7 @@
  terraform-provider-google  6.46.0    legacyPackages.x86_64-linux.terraform-providers.google 
  terraform-provider-google-beta  6.46.0    legacyPackages.x86_64-linux.terraform-providers.google-beta 
  terraform-provider-googleworkspace  0.7.0    legacyPackages.x86_64-linux.terraform-providers.googleworkspace 
- terraform-provider-grafana  3.25.9    legacyPackages.x86_64-linux.terraform-providers.grafana 
+ terraform-provider-grafana  4.3.0    legacyPackages.x86_64-linux.terraform-providers.grafana 
  terraform-provider-gridscale  2.2.0    legacyPackages.x86_64-linux.terraform-providers.gridscale 
  terraform-provider-harbor  3.10.23    legacyPackages.x86_64-linux.terraform-providers.harbor 
  terraform-provider-hcloud  1.52.0    legacyPackages.x86_64-linux.terraform-providers.hcloud 
@@ -80873,7 +80889,7 @@
  vala  0.56.18  Compiler for GObject type system  legacyPackages.x86_64-linux.vala 
  vala  0.56.18  Compiler for GObject type system  legacyPackages.x86_64-linux.vala_0_56 
  vala-language-server  0.48.7  Code Intelligence for Vala & Genie  legacyPackages.x86_64-linux.vala-language-server 
- vala-lint  0-unstable-2024-08-28  Check Vala code files for code-style errors  legacyPackages.x86_64-linux.vala-lint 
+ vala-lint  0-unstable-2025-08-03  Check Vala code files for code-style errors  legacyPackages.x86_64-linux.vala-lint 
  vale  3.12.0  Syntax-aware linter for prose built with speed and extensibility in mind  legacyPackages.x86_64-linux.vale 
  vale-ls  0.3.8  LSP implementation for the Vale command-line tool  legacyPackages.x86_64-linux.vale-ls 
  vale-style-alex  0.2.3  Vale-compatible implementation of the guidelines enforced by the alex linter  legacyPackages.x86_64-linux.valeStyles.alex 
@@ -84432,7 +84448,7 @@
  wally  0.3.2  Modern package manager for Roblox projects inspired by Cargo  legacyPackages.x86_64-linux.wally 
  wally-cli  2.0.1  Tool to flash firmware to mechanical keyboards  legacyPackages.x86_64-linux.wally-cli 
  wambo  0.4.0  All-in-one tool to convert decimal/bin/oct/hex and interpret bits as integers  legacyPackages.x86_64-linux.wambo 
- wamr  2.2.0  WebAssembly Micro Runtime  legacyPackages.x86_64-linux.wamr 
+ wamr  2.4.1  WebAssembly Micro Runtime  legacyPackages.x86_64-linux.wamr 
  wander  1.1.0  Terminal app/TUI for HashiCorp Nomad  legacyPackages.x86_64-linux.wander 
  wanderlust-theme  47.04    legacyPackages.x86_64-linux.dwarf-fortress-packages.themes.wanderlust 
  wandio  4.2.6-1  C library for simple and efficient file IO  legacyPackages.x86_64-linux.wandio 
@@ -85391,7 +85407,7 @@
  xapian  1.4.27  Search engine library  legacyPackages.x86_64-linux.xapian 
  xapian  1.4.27  Search engine library  legacyPackages.x86_64-linux.xapian_1_4 
  xapian-omega  1.4.27  Indexer and CGI search front-end built on Xapian library  legacyPackages.x86_64-linux.xapian-omega 
- xapp  2.8.11  Cross-desktop libraries and common resources  legacyPackages.x86_64-linux.xapp 
+ xapp  2.8.12  Cross-desktop libraries and common resources  legacyPackages.x86_64-linux.xapp 
  xar  501  Easily extensible archive format  legacyPackages.x86_64-linux.xar 
  xar-minimal  501  Easily extensible archive format  legacyPackages.x86_64-linux.xarMinimal 
  xarcan  0-unstable-2024-08-26  Patched Xserver that bridges connections to Arcan  legacyPackages.x86_64-linux.xarcan 
