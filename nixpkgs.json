@@ -4712,12 +4712,12 @@
   "legacyPackages.x86_64-linux.androidStudioPackages.canary": {
     "description": "Official IDE for Android (canary channel)",
     "pname": "android-studio-canary",
-    "version": "2025.1.3.3"
+    "version": "2025.1.3.4"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.dev": {
     "description": "Official IDE for Android (dev channel)",
     "pname": "android-studio-dev",
-    "version": "2025.1.3.3"
+    "version": "2025.1.3.4"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.stable": {
     "description": "Official IDE for Android (stable channel)",
@@ -10612,7 +10612,7 @@
   "legacyPackages.x86_64-linux.ast-grep": {
     "description": "Fast and polyglot tool for code searching, linting, rewriting at large scale",
     "pname": "ast-grep",
-    "version": "0.39.2"
+    "version": "0.39.3"
   },
   "legacyPackages.x86_64-linux.astal.apps": {
     "description": "Astal module for application query",
@@ -11292,7 +11292,7 @@
   "legacyPackages.x86_64-linux.autobase": {
     "description": "Concise multiwriter for data structures with Hypercore",
     "pname": "autobase",
-    "version": "7.17.0"
+    "version": "7.17.3"
   },
   "legacyPackages.x86_64-linux.autobloody": {
     "description": "Tool to automatically exploit Active Directory privilege escalation paths",
@@ -14822,7 +14822,7 @@
   "legacyPackages.x86_64-linux.beszel": {
     "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts",
     "pname": "beszel",
-    "version": "0.11.1"
+    "version": "0.12.3"
   },
   "legacyPackages.x86_64-linux.betaflight-configurator": {
     "description": "Betaflight flight control system configuration tool",
@@ -15107,7 +15107,7 @@
   "legacyPackages.x86_64-linux.bilibili": {
     "description": "Electron-based bilibili desktop client",
     "pname": "bilibili",
-    "version": "1.16.5-4"
+    "version": "1.17.0-2"
   },
   "legacyPackages.x86_64-linux.bililiverecorder": {
     "description": "Convenient free open source bilibili live recording tool",
@@ -15682,7 +15682,7 @@
   "legacyPackages.x86_64-linux.blade-formatter": {
     "description": "Laravel Blade template formatter",
     "pname": "blade-formatter",
-    "version": "1.43.0"
+    "version": "1.44.2"
   },
   "legacyPackages.x86_64-linux.blahaj": {
     "description": "Gay sharks at your local terminal - lolcat-like CLI tool",
@@ -19227,7 +19227,7 @@
   "legacyPackages.x86_64-linux.cargo-semver-checks": {
     "description": "Tool to scan your Rust crate for semver violations",
     "pname": "cargo-semver-checks",
-    "version": "0.42.0"
+    "version": "0.43.0"
   },
   "legacyPackages.x86_64-linux.cargo-shear": {
     "description": "Detect and remove unused dependencies from Cargo.toml",
@@ -29037,7 +29037,7 @@
   "legacyPackages.x86_64-linux.crush": {
     "description": "Glamourous AI coding agent for your favourite terminal",
     "pname": "crush",
-    "version": "0.2.1"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.cryfs": {
     "description": "Cryptographic filesystem for the cloud",
@@ -46122,7 +46122,7 @@
   "legacyPackages.x86_64-linux.garnet": {
     "description": "Remote cache-store from Microsoft Research",
     "pname": "garnet",
-    "version": "1.0.80"
+    "version": "1.0.81"
   },
   "legacyPackages.x86_64-linux.gash": {
     "description": "POSIX-compatible shell written in Guile Scheme",
@@ -68892,7 +68892,7 @@
   "legacyPackages.x86_64-linux.hypercore": {
     "description": "Secure, distributed append-only log",
     "pname": "hypercore",
-    "version": "11.11.2"
+    "version": "11.12.1"
   },
   "legacyPackages.x86_64-linux.hyperfine": {
     "description": "Command-line benchmarking tool",
@@ -72532,7 +72532,7 @@
   "legacyPackages.x86_64-linux.ipxe": {
     "description": "Network boot firmware",
     "pname": "ipxe",
-    "version": "1.21.1-unstable-2025-07-30"
+    "version": "1.21.1-unstable-2025-08-07"
   },
   "legacyPackages.x86_64-linux.iqtree": {
     "description": "Efficient and versatile phylogenomic software by maximum likelihood",
@@ -75737,7 +75737,7 @@
   "legacyPackages.x86_64-linux.kcc": {
     "description": "Python app to convert comic/manga files or folders to EPUB, Panel View MOBI or E-Ink optimized CBZ",
     "pname": "kcc",
-    "version": "7.5.1"
+    "version": "9.0.0"
   },
   "legacyPackages.x86_64-linux.kcgi": {
     "description": "Minimal CGI and FastCGI library for C/C++",
@@ -80442,7 +80442,7 @@
   "legacyPackages.x86_64-linux.ktailctl": {
     "description": "GUI to monitor and manage Tailscale on your Linux desktop",
     "pname": "ktailctl",
-    "version": "0.20.2"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.ktextaddons": {
     "description": "Various text handling addons for KDE applications",
@@ -80942,7 +80942,7 @@
   "legacyPackages.x86_64-linux.kubevirt": {
     "description": "Client tool to use advanced features such as console access",
     "pname": "kubevirt",
-    "version": "1.5.2"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.kubevpn": {
     "description": "Create a VPN and connect to Kubernetes cluster network, access resources, and more",
@@ -86732,7 +86732,7 @@
   "legacyPackages.x86_64-linux.libretro.ppsspp": {
     "description": "PPSSPP libretro port",
     "pname": "libretro-ppsspp",
-    "version": "0-unstable-2025-07-16"
+    "version": "0-unstable-2025-08-11"
   },
   "legacyPackages.x86_64-linux.libretro.prboom": {
     "description": "Prboom libretro port",
@@ -123487,12 +123487,12 @@
   "legacyPackages.x86_64-linux.llama-cpp": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "6123"
+    "version": "6134"
   },
   "legacyPackages.x86_64-linux.llama-cpp-vulkan": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "6123"
+    "version": "6134"
   },
   "legacyPackages.x86_64-linux.lld": {
     "description": "LLVM linker (unwrapped)",
@@ -141407,7 +141407,7 @@
   "legacyPackages.x86_64-linux.n8n": {
     "description": "Free and source-available fair-code licensed workflow automation tool",
     "pname": "n8n",
-    "version": "1.104.1"
+    "version": "1.105.3"
   },
   "legacyPackages.x86_64-linux.n98-magerun": {
     "description": "Swiss army knife for Magento1/OpenMage developers",
@@ -150102,7 +150102,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.logs": {
     "description": "Logging infrastructure for OCaml",
     "pname": "ocaml5.3.0-logs",
-    "version": "0.8.0"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.logs-syslog": {
     "description": "Logs reporter to syslog (UDP/TCP/TLS)",
@@ -155107,7 +155107,7 @@
   "legacyPackages.x86_64-linux.opengamepadui": {
     "description": "Open source gamepad-native game launcher and overlay",
     "pname": "opengamepadui",
-    "version": "0.40.4"
+    "version": "0.41.0"
   },
   "legacyPackages.x86_64-linux.opengfw": {
     "description": "Flexible, easy-to-use, open source implementation of GFW on Linux",
@@ -155337,7 +155337,7 @@
   "legacyPackages.x86_64-linux.openlinkhub": {
     "description": "Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux",
     "pname": "openlinkhub",
-    "version": "0.6.0"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.openlist": {
     "description": "AList Fork to Anti Trust Crisis",
@@ -159162,7 +159162,7 @@
   "legacyPackages.x86_64-linux.path-of-building": {
     "description": "Offline build planner for Path of Exile",
     "pname": "path-of-building",
-    "version": "2.55.5-unstable-2023-04-09"
+    "version": "2.56.0-unstable-2023-04-09"
   },
   "legacyPackages.x86_64-linux.pathvector": {
     "description": "Declarative edge routing platform that automates route optimization and control plane configuration",
@@ -205522,7 +205522,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ast-grep-py": {
     "description": "Fast and polyglot tool for code searching, linting, rewriting at large scale",
     "pname": "python3.12-ast-grep-py",
-    "version": "0.39.2"
+    "version": "0.39.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.asterisk-mbox": {
     "description": "Client side of a client/server to interact with Asterisk voicemail mailboxes",
@@ -215137,7 +215137,7 @@
   "legacyPackages.x86_64-linux.python312Packages.fast-simplification": {
     "description": "Fast Quadratic Mesh Simplification",
     "pname": "python3.12-fast-simplification",
-    "version": "0.1.11"
+    "version": "0.1.12"
   },
   "legacyPackages.x86_64-linux.python312Packages.fastai": {
     "description": "Fastai deep learning library",
@@ -219177,7 +219177,7 @@
   "legacyPackages.x86_64-linux.python312Packages.homeassistant-stubs": {
     "description": "Typing stubs for Home Assistant Core",
     "pname": "python3.12-homeassistant-stubs",
-    "version": "2025.8.0"
+    "version": "2025.8.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.homeconnect": {
     "description": "Python client for the BSH Home Connect REST API",
@@ -256842,7 +256842,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ast-grep-py": {
     "description": "Fast and polyglot tool for code searching, linting, rewriting at large scale",
     "pname": "python3.13-ast-grep-py",
-    "version": "0.39.2"
+    "version": "0.39.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.asterisk-mbox": {
     "description": "Client side of a client/server to interact with Asterisk voicemail mailboxes",
@@ -266462,7 +266462,7 @@
   "legacyPackages.x86_64-linux.python313Packages.fast-simplification": {
     "description": "Fast Quadratic Mesh Simplification",
     "pname": "python3.13-fast-simplification",
-    "version": "0.1.11"
+    "version": "0.1.12"
   },
   "legacyPackages.x86_64-linux.python313Packages.fastai": {
     "description": "Fastai deep learning library",
@@ -270502,7 +270502,7 @@
   "legacyPackages.x86_64-linux.python313Packages.homeassistant-stubs": {
     "description": "Typing stubs for Home Assistant Core",
     "pname": "python3.13-homeassistant-stubs",
-    "version": "2025.8.0"
+    "version": "2025.8.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.homeconnect": {
     "description": "Python client for the BSH Home Connect REST API",
@@ -306287,7 +306287,7 @@
   "legacyPackages.x86_64-linux.qownnotes": {
     "description": "Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration",
     "pname": "qownnotes",
-    "version": "25.7.9"
+    "version": "25.8.2"
   },
   "legacyPackages.x86_64-linux.qpaeq": {
     "description": "Equalizer interface for pulseaudio's equalizer sinks",
@@ -312597,7 +312597,7 @@
   "legacyPackages.x86_64-linux.rss-bridge": {
     "description": "RSS feed for websites missing it",
     "pname": "rss-bridge",
-    "version": "2025-06-03"
+    "version": "2025-08-05"
   },
   "legacyPackages.x86_64-linux.rss-bridge-cli": {
     "description": "Command-line interface for RSS-Bridge",
@@ -353332,7 +353332,7 @@
   "legacyPackages.x86_64-linux.speedscope": {
     "description": "Fast and interactive web-based viewer for performance profiles",
     "pname": "speedscope",
-    "version": "1.23.0"
+    "version": "1.23.1"
   },
   "legacyPackages.x86_64-linux.speedtest": {
     "description": "Graphical librespeed client written using GTK4 + libadwaita",
@@ -355232,7 +355232,7 @@
   "legacyPackages.x86_64-linux.storj-uplink": {
     "description": "Command-line tool for Storj",
     "pname": "storj-uplink",
-    "version": "1.133.5"
+    "version": "1.134.2"
   },
   "legacyPackages.x86_64-linux.stork": {
     "description": "Impossibly fast web search, made for static sites",
@@ -407037,7 +407037,7 @@
   "legacyPackages.x86_64-linux.typtea": {
     "description": "Terminal-based typing speed test with multi-language support",
     "pname": "typtea",
-    "version": "0.1.4"
+    "version": "0.1.5"
   },
   "legacyPackages.x86_64-linux.tyson": {
     "description": "TypeScript as a configuration language",
@@ -428937,7 +428937,7 @@
   "legacyPackages.x86_64-linux.wtfutil": {
     "description": "Personal information dashboard for your terminal",
     "pname": "wtfutil",
-    "version": "0.45.0"
+    "version": "0.46.0"
   },
   "legacyPackages.x86_64-linux.wthrr": {
     "description": "Weather companion for the terminal",
