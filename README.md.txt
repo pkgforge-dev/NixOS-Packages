@@ -118,7 +118,7 @@
 | IOKit | 11.0 |  | legacyPackages.x86_64-linux.darwin.IOKit |
 | IOKitTools | 125 | IOKit tools | legacyPackages.x86_64-linux.darwin.IOKitTools |
 | IPMIView | 2.21.0 |  | legacyPackages.x86_64-linux.ipmiview |
-| Iosevka | 33.2.7 | Versatile typeface for code, from code | legacyPackages.x86_64-linux.iosevka |
+| Iosevka | 33.2.8 | Versatile typeface for code, from code | legacyPackages.x86_64-linux.iosevka |
 | Iosevka-bin | 33.2.7 | Versatile typeface for code, from code | legacyPackages.x86_64-linux.iosevka-bin |
 | JAGS | 4.3.2 | Just Another Gibbs Sampler | legacyPackages.x86_64-linux.jags |
 | JMusicBot | 0.4.3 | Discord music bot that's easy to set up and run yourself | legacyPackages.x86_64-linux.jmusicbot |
@@ -359,8 +359,6 @@
 | VirtualBox-GuestAdditions | 7.1.12-6.12.41 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages-libre.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.12.41 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.12.41 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_xanmod.virtualboxGuestAdditions |
-| VirtualBox-GuestAdditions | 7.1.12-6.15.8 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions |
-| VirtualBox-GuestAdditions | 7.1.12-6.15.8 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.15.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.15.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.15.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.virtualboxGuestAdditions |
@@ -370,8 +368,10 @@
 | VirtualBox-GuestAdditions | 7.1.12-6.15.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.16 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.16 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.virtualboxGuestAdditions |
+| VirtualBox-GuestAdditions | 7.1.12-6.16 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.16 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_latest-libre.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.16 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_latest.virtualboxGuestAdditions |
+| VirtualBox-GuestAdditions | 7.1.12-6.16 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.6.101 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.6.94 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.1.12-6.6.94 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.virtualboxGuestAdditions |
@@ -550,8 +550,6 @@
 | acer-wmi-battery | 6.12.41-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages-libre.acer-wmi-battery |
 | acer-wmi-battery | 6.12.41-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages.acer-wmi-battery |
 | acer-wmi-battery | 6.12.41-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_xanmod.acer-wmi-battery |
-| acer-wmi-battery | 6.15.8-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery |
-| acer-wmi-battery | 6.15.8-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.15.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.acer-wmi-battery |
 | acer-wmi-battery | 6.15.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acer-wmi-battery |
 | acer-wmi-battery | 6.15.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.acer-wmi-battery |
@@ -561,8 +559,10 @@
 | acer-wmi-battery | 6.15.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acer-wmi-battery |
 | acer-wmi-battery | 6.16-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.acer-wmi-battery |
 | acer-wmi-battery | 6.16-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.acer-wmi-battery |
+| acer-wmi-battery | 6.16-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.16-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_latest-libre.acer-wmi-battery |
 | acer-wmi-battery | 6.16-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_latest.acer-wmi-battery |
+| acer-wmi-battery | 6.16-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.6.101-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acer-wmi-battery |
 | acer-wmi-battery | 6.6.94-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.acer-wmi-battery |
 | acer-wmi-battery | 6.6.94-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.acer-wmi-battery |
@@ -601,8 +601,6 @@
 | acpi-call | 1.2.2-6.12.41 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages-libre.acpi_call |
 | acpi-call | 1.2.2-6.12.41 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages.acpi_call |
 | acpi-call | 1.2.2-6.12.41 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_xanmod.acpi_call |
-| acpi-call | 1.2.2-6.15.8 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call |
-| acpi-call | 1.2.2-6.15.8 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call |
 | acpi-call | 1.2.2-6.15.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.acpi_call |
 | acpi-call | 1.2.2-6.15.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acpi_call |
 | acpi-call | 1.2.2-6.15.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.acpi_call |
@@ -612,8 +610,10 @@
 | acpi-call | 1.2.2-6.15.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acpi_call |
 | acpi-call | 1.2.2-6.16 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.acpi_call |
 | acpi-call | 1.2.2-6.16 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.acpi_call |
+| acpi-call | 1.2.2-6.16 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call |
 | acpi-call | 1.2.2-6.16 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_latest-libre.acpi_call |
 | acpi-call | 1.2.2-6.16 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_latest.acpi_call |
+| acpi-call | 1.2.2-6.16 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call |
 | acpi-call | 1.2.2-6.6.101 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acpi_call |
 | acpi-call | 1.2.2-6.6.94 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.acpi_call |
 | acpi-call | 1.2.2-6.6.94 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.acpi_call |
@@ -877,8 +877,6 @@
 | ajantv2-module | 17.5.0-6.12.41 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages-libre.ajantv2 |
 | ajantv2-module | 17.5.0-6.12.41 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages.ajantv2 |
 | ajantv2-module | 17.5.0-6.12.41 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.ajantv2 |
-| ajantv2-module | 17.5.0-6.15.8 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ajantv2 |
-| ajantv2-module | 17.5.0-6.15.8 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.15.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ajantv2 |
 | ajantv2-module | 17.5.0-6.15.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ajantv2 |
 | ajantv2-module | 17.5.0-6.15.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ajantv2 |
@@ -888,8 +886,10 @@
 | ajantv2-module | 17.5.0-6.15.9 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ajantv2 |
 | ajantv2-module | 17.5.0-6.16 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ajantv2 |
 | ajantv2-module | 17.5.0-6.16 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ajantv2 |
+| ajantv2-module | 17.5.0-6.16 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.16 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ajantv2 |
 | ajantv2-module | 17.5.0-6.16 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_latest.ajantv2 |
+| ajantv2-module | 17.5.0-6.16 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.6.101 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ajantv2 |
 | ajantv2-module | 17.5.0-6.6.94 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ajantv2 |
 | ajantv2-module | 17.5.0-6.6.94 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ajantv2 |
@@ -1397,7 +1397,7 @@
 | all-languages-etex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.etex |
 | all-languages-latex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.latex |
 | all-languages-luatex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.luatex |
-| all-the-package-names | 2.0.2159 | List of all the public package names on npm | legacyPackages.x86_64-linux.all-the-package-names |
+| all-the-package-names | 2.0.2168 | List of all the public package names on npm | legacyPackages.x86_64-linux.all-the-package-names |
 | allegro | 4.4.3.1 | Game programming library | legacyPackages.x86_64-linux.allegro |
 | allegro | 4.4.3.1 | Game programming library | legacyPackages.x86_64-linux.allegro4 |
 | allegro | 5.2.10.1 | Game programming library | legacyPackages.x86_64-linux.allegro5 |
@@ -1592,7 +1592,7 @@
 | amoeba-data | 1.1 | Fast-paced, polished OpenGL demonstration by Excess (data files) | legacyPackages.x86_64-linux.amoeba-data |
 | among-sus-unstable | 2021-05-19 | Among us, but it's a text adventure | legacyPackages.x86_64-linux.among-sus |
 | amp | 0.7.1 | Modern text editor inspired by Vim | legacyPackages.x86_64-linux.amp |
-| amp-cli | 0.0.1754036264-ga0aa13 | CLI for Amp, an agentic coding agent in research preview from Sourcegraph | legacyPackages.x86_64-linux.amp-cli |
+| amp-cli | 0.0.1754827277-g1b1a5d | CLI for Amp, an agentic coding agent in research preview from Sourcegraph | legacyPackages.x86_64-linux.amp-cli |
 | amphetype | 1.0.0 | Advanced typing practice program | legacyPackages.x86_64-linux.amphetype |
 | amqpcat | 1.0.0 | CLI tool for publishing to and consuming from AMQP servers | legacyPackages.x86_64-linux.amqpcat |
 | amrnb | 11.0.0.0 | AMR Narrow-Band Codec | legacyPackages.x86_64-linux.amrnb |
@@ -1754,7 +1754,7 @@
 | android-studio-stable | 2025.1.2.11 | Official IDE for Android (stable channel) | legacyPackages.x86_64-linux.android-studio-full |
 | android-studio-stable | 2025.1.2.11 | Official IDE for Android (stable channel) | legacyPackages.x86_64-linux.androidStudioPackages.stable |
 | android-studio-tools | 13114758 | Android Studio CLI Tools | legacyPackages.x86_64-linux.android-studio-tools |
-| android-tools | 35.0.1 | Android SDK platform tools | legacyPackages.x86_64-linux.android-tools |
+| android-tools | 35.0.2 | Android SDK platform tools | legacyPackages.x86_64-linux.android-tools |
 | android-translation-layer | 0-unstable-2025-07-14 | Translation layer that allows running Android apps on a Linux system | legacyPackages.x86_64-linux.android-translation-layer |
 | android-udev-rules | 20250525 | Android udev rules list aimed to be the most comprehensive on the net | legacyPackages.x86_64-linux.android-udev-rules |
 | android_m2repository_r47.zip |  |  | legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras-android-m2repository |
@@ -1971,8 +1971,6 @@
 | apfs | 0.3.14-6.12.41 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages-libre.apfs |
 | apfs | 0.3.14-6.12.41 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages.apfs |
 | apfs | 0.3.14-6.12.41 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_xanmod.apfs |
-| apfs | 0.3.14-6.15.8 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.apfs |
-| apfs | 0.3.14-6.15.8 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_zen.apfs |
 | apfs | 0.3.14-6.15.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.apfs |
 | apfs | 0.3.14-6.15.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.apfs |
 | apfs | 0.3.14-6.15.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.apfs |
@@ -1982,8 +1980,10 @@
 | apfs | 0.3.14-6.15.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.apfs |
 | apfs | 0.3.14-6.16 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.apfs |
 | apfs | 0.3.14-6.16 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.apfs |
+| apfs | 0.3.14-6.16 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.apfs |
 | apfs | 0.3.14-6.16 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_latest-libre.apfs |
 | apfs | 0.3.14-6.16 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_latest.apfs |
+| apfs | 0.3.14-6.16 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_zen.apfs |
 | apfs | 0.3.14-6.6.101 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.apfs |
 | apfs | 0.3.14-6.6.94 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.apfs |
 | apfs | 0.3.14-6.6.94 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.apfs |
@@ -2615,8 +2615,6 @@
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.12.41 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages-libre.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.12.41 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.12.41 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_xanmod.asus-ec-sensors |
-| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.15.8 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors |
-| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.15.8 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.15.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.15.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.15.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.asus-ec-sensors |
@@ -2626,8 +2624,10 @@
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.15.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.16 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.16 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.asus-ec-sensors |
+| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.16 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.16 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_latest-libre.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.16 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_latest.asus-ec-sensors |
+| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.16 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.6.101 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.6.94 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.6.94 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.asus-ec-sensors |
@@ -2805,7 +2805,7 @@
 | automake | 1.16.5 | GNU standard-compliant makefile generator | legacyPackages.x86_64-linux.automake116x |
 | automake | 1.18.1 | GNU standard-compliant makefile generator | legacyPackages.x86_64-linux.automake118x |
 | automata | 0.3 | Finite state machines, graphs and trees in MetaPost | legacyPackages.x86_64-linux.texlivePackages.automata |
-| automatic-timezoned | 2.0.84 | Automatically update system timezone based on location | legacyPackages.x86_64-linux.automatic-timezoned |
+| automatic-timezoned | 2.0.85 | Automatically update system timezone based on location | legacyPackages.x86_64-linux.automatic-timezoned |
 | automirror | 49 | Automatic Display Mirror | legacyPackages.x86_64-linux.automirror |
 | automysqlbackup | 3.0.7 | Script to run daily, weekly and monthly backups for your MySQL database | legacyPackages.x86_64-linux.automysqlbackup |
 | autonum | 0.3.11 | Automatic equation references | legacyPackages.x86_64-linux.texlivePackages.autonum |
@@ -3026,8 +3026,8 @@
 | b43-firmware | 6.30.163.46 | Firmware for cards supported by the b43 kernel module | legacyPackages.x86_64-linux.b43Firmware_6_30_163_46 |
 | b43-fwcutter | 019 | Firmware extractor for cards supported by the b43 kernel module | legacyPackages.x86_64-linux.b43FirmwareCutter |
 | b612 | 1.008 | Highly legible font family for use on aircraft cockpit screens | legacyPackages.x86_64-linux.b612 |
-| babashka | 1.12.206 | Clojure babushka for the grey areas of Bash | legacyPackages.x86_64-linux.babashka |
-| babashka-unwrapped | 1.12.206 | Clojure babushka for the grey areas of Bash | legacyPackages.x86_64-linux.babashka-unwrapped |
+| babashka | 1.12.207 | Clojure babushka for the grey areas of Bash | legacyPackages.x86_64-linux.babashka |
+| babashka-unwrapped | 1.12.207 | Clojure babushka for the grey areas of Bash | legacyPackages.x86_64-linux.babashka-unwrapped |
 | babel | 25.10 | Multilingual support for LaTeX, LuaLaTeX, XeLaTeX, and Plain TeX | legacyPackages.x86_64-linux.texlivePackages.babel |
 | babel-albanian | 1.0d | Support for Albanian within babel | legacyPackages.x86_64-linux.texlivePackages.babel-albanian |
 | babel-azerbaijani | 1.0a | Support for Azerbaijani within babel | legacyPackages.x86_64-linux.texlivePackages.babel-azerbaijani |
@@ -3115,7 +3115,7 @@
 | bacula | 15.0.3 | Enterprise ready, Network Backup Tool | legacyPackages.x86_64-linux.bacula |
 | bada-bib | 0.8.1 | Simple BibTeX Viewer and Editor | legacyPackages.x86_64-linux.bada-bib |
 | badchars | 0.5.0 | HEX badchar generator for different programming languages | legacyPackages.x86_64-linux.badchars |
-| baddns | 1.7.86 | Tool to check subdomains for subdomain takeovers and other DNS issues | legacyPackages.x86_64-linux.baddns |
+| baddns | 1.10.185 | Tool to check subdomains for subdomain takeovers and other DNS issues | legacyPackages.x86_64-linux.baddns |
 | badger | 4.8.0 | Fast key-value DB in Go | legacyPackages.x86_64-linux.badger |
 | badkeys | 0.0.13 | Tool to find common vulnerabilities in cryptographic public keys | legacyPackages.x86_64-linux.badkeys |
 | badlion-client | 4.5.4 | Most Complete All-In-One Mod Library for Minecraft with 100+ Mods, FPS Improvements, and more | legacyPackages.x86_64-linux.badlion-client |
@@ -3133,7 +3133,7 @@
 | bakoma-ttf | 2.2 | TrueType versions of the Computer Modern and AMS TeX Fonts | legacyPackages.x86_64-linux.bakoma_ttf |
 | balanceofsatoshis | 19.4.14 | Tool for working with the balance of your satoshis on LND | legacyPackages.x86_64-linux.balanceofsatoshis |
 | balatro | 1.0.1o | Poker roguelike | legacyPackages.x86_64-linux.balatro |
-| balena-cli | 22.1.5 | Command line interface for balenaCloud or openBalena | legacyPackages.x86_64-linux.balena-cli |
+| balena-cli | 22.2.4 | Command line interface for balenaCloud or openBalena | legacyPackages.x86_64-linux.balena-cli |
 | ballerburg | 1.2.0 | Classic cannon combat game | legacyPackages.x86_64-linux.ballerburg |
 | ballerina | 2201.10.3 | Open-source programming language for the cloud | legacyPackages.x86_64-linux.ballerina |
 | balls | 5.4.0 | Testing framework with balls | legacyPackages.x86_64-linux.balls |
@@ -3193,7 +3193,7 @@
 | base45 | 20230124 | Base45 library for Nim | legacyPackages.x86_64-linux.base45 |
 | base91 | 0.1.0 | CLI tool for encoding binary data as ASCII characters | legacyPackages.x86_64-linux.base91 |
 | basedmypy | 2.10.0 | Based Python static type checker with baseline, sane default settings and based typing features | legacyPackages.x86_64-linux.basedmypy |
-| basedpyright | 1.31.0 | Type checker for the Python language | legacyPackages.x86_64-linux.basedpyright |
+| basedpyright | 1.31.1 | Type checker for the Python language | legacyPackages.x86_64-linux.basedpyright |
 | baserom-us-safety-dir |  |  | legacyPackages.x86_64-linux.sm64baserom |
 | basex | 12.0 | XML database and XPath/XQuery processor | legacyPackages.x86_64-linux.basex |
 | basez | 1.6.2 | Base 16/32/64 encode/decode data to standard output | legacyPackages.x86_64-linux.basez |
@@ -3271,8 +3271,6 @@
 | batman-adv | 2025.2-6.12.41 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages-libre.batman_adv |
 | batman-adv | 2025.2-6.12.41 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages.batman_adv |
 | batman-adv | 2025.2-6.12.41 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_xanmod.batman_adv |
-| batman-adv | 2025.2-6.15.8 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.batman_adv |
-| batman-adv | 2025.2-6.15.8 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_zen.batman_adv |
 | batman-adv | 2025.2-6.15.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.batman_adv |
 | batman-adv | 2025.2-6.15.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.batman_adv |
 | batman-adv | 2025.2-6.15.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.batman_adv |
@@ -3282,8 +3280,10 @@
 | batman-adv | 2025.2-6.15.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.batman_adv |
 | batman-adv | 2025.2-6.16 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.batman_adv |
 | batman-adv | 2025.2-6.16 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.batman_adv |
+| batman-adv | 2025.2-6.16 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.batman_adv |
 | batman-adv | 2025.2-6.16 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_latest-libre.batman_adv |
 | batman-adv | 2025.2-6.16 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_latest.batman_adv |
+| batman-adv | 2025.2-6.16 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_zen.batman_adv |
 | batman-adv | 2025.2-6.6.101 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.batman_adv |
 | batman-adv | 2025.2-6.6.94 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.batman_adv |
 | batman-adv | 2025.2-6.6.94 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.batman_adv |
@@ -3308,7 +3308,7 @@
 | bazel-gazelle | 0.44.0 | Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.  | legacyPackages.x86_64-linux.bazel-gazelle |
 | bazel-kazel | 0.2.5 | BUILD file generator for go and bazel | legacyPackages.x86_64-linux.bazel-kazel |
 | bazel-remote | 2.5.2 | Remote HTTP/1.1 cache for Bazel | legacyPackages.x86_64-linux.bazel-remote |
-| bazel-watcher | 0.26.8 | Tools for building Bazel targets when source files change | legacyPackages.x86_64-linux.bazel-watcher |
+| bazel-watcher | 0.26.10 | Tools for building Bazel targets when source files change | legacyPackages.x86_64-linux.bazel-watcher |
 | bazelisk | 1.25.0 | User-friendly launcher for Bazel | legacyPackages.x86_64-linux.bazelisk |
 | bb | 1.3rc1 | AA-lib demo | legacyPackages.x86_64-linux.bb |
 | bbcard | 19440 | Bullshit bingo, calendar and baseball-score cards | legacyPackages.x86_64-linux.texlivePackages.bbcard |
@@ -3343,8 +3343,6 @@
 | bbswitch-unstable | 2021-11-29-6.12.41 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages-libre.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.12.41 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.12.41 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_xanmod.bbswitch |
-| bbswitch-unstable | 2021-11-29-6.15.8 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch |
-| bbswitch-unstable | 2021-11-29-6.15.8 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.15.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.15.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.15.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bbswitch |
@@ -3354,8 +3352,10 @@
 | bbswitch-unstable | 2021-11-29-6.15.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.16 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.16 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.bbswitch |
+| bbswitch-unstable | 2021-11-29-6.16 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.16 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_latest-libre.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.16 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_latest.bbswitch |
+| bbswitch-unstable | 2021-11-29-6.16 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.6.101 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.6.94 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.6.94 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.bbswitch |
@@ -4110,7 +4110,7 @@
 | boring | 0.11.7 | SSH tunnel manager | legacyPackages.x86_64-linux.boring |
 | boringssl-unstable | 2024-09-20 | Free TLS/SSL implementation | legacyPackages.x86_64-linux.boringssl |
 | boringtun | 0.6.0 | Userspace WireGuard® implementation in Rust | legacyPackages.x86_64-linux.boringtun |
-| bork-pytest-network-salted-q6gijdmk24wk |  |  | legacyPackages.x86_64-linux.tests.testers.runCommand.bork |
+| bork-pytest-network-salted-jz93v46956ls |  |  | legacyPackages.x86_64-linux.tests.testers.runCommand.bork |
 | boron | 2.1.0 | Scripting language and C library useful for building DSLs | legacyPackages.x86_64-linux.boron |
 | bosh-cli | 7.9.8 | Command line interface to CloudFoundry BOSH | legacyPackages.x86_64-linux.bosh-cli |
 | bosisio | 16989 | A collection of packages by Francesco Bosisio | legacyPackages.x86_64-linux.texlivePackages.bosisio |
@@ -4300,8 +4300,6 @@
 | broadcom-sta | 6.30.223.271-57-6.12.41 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages-libre.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.12.41 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.12.41 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.broadcom_sta |
-| broadcom-sta | 6.30.223.271-57-6.15.8 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta |
-| broadcom-sta | 6.30.223.271-57-6.15.8 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.15.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.15.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.15.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.broadcom_sta |
@@ -4311,8 +4309,10 @@
 | broadcom-sta | 6.30.223.271-57-6.15.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.16 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.16 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.broadcom_sta |
+| broadcom-sta | 6.30.223.271-57-6.16 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.16 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.16 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_latest.broadcom_sta |
+| broadcom-sta | 6.30.223.271-57-6.16 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.6.101 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.6.94 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.broadcom_sta |
 | broadcom-sta | 6.30.223.271-57-6.6.94 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.broadcom_sta |
@@ -4346,7 +4346,7 @@
 | bruteforce-luks | 1.4.1 | Cracks passwords of LUKS encrypted volumes | legacyPackages.x86_64-linux.bruteforce-luks |
 | bruteforce-salted-openssl | 1.5.0 | Try to find the password of file encrypted with OpenSSL | legacyPackages.x86_64-linux.bruteforce-salted-openssl |
 | bruteforce-wallet | 1.5.4 | Try to find password of encrypted cryptocurrency wallet | legacyPackages.x86_64-linux.bruteforce-wallet |
-| brutespray | 2.3.1 | Tool to do brute-forcing from Nmap output | legacyPackages.x86_64-linux.brutespray |
+| brutespray | 2.4.0 | Tool to do brute-forcing from Nmap output | legacyPackages.x86_64-linux.brutespray |
 | brygada | 1918-3.006 | Digital revival of the Brygada serif typeface | legacyPackages.x86_64-linux.brygada-1918 |
 | bs-manager | 1.5.3 | Your Beat Saber Assistant | legacyPackages.x86_64-linux.bs-manager |
 | bs2b-lv2 | 1.1.1 | LV2 plugin for using Bauer stereophonic-to-binaural DSP library | legacyPackages.x86_64-linux.bs2b-lv2 |
@@ -5068,7 +5068,7 @@
 | catppuccin-kvantum | 0-unstable-2025-04-22 | Soothing pastel theme for Kvantum | legacyPackages.x86_64-linux.catppuccin-kvantum |
 | catppuccin-papirus-folders | 0-unstable-2024-08-06 | Soothing pastel theme for Papirus Icon Theme folders | legacyPackages.x86_64-linux.catppuccin-papirus-folders |
 | catppuccin-plymouth | 0-unstable-2024-10-19 | Soothing pastel theme for Plymouth | legacyPackages.x86_64-linux.catppuccin-plymouth |
-| catppuccin-qt5ct | 2023-03-21 | Soothing pastel theme for qt5ct | legacyPackages.x86_64-linux.catppuccin-qt5ct |
+| catppuccin-qt5ct | 0-unstable-2025-03-29 | Soothing pastel theme for qt5ct & qt6ct | legacyPackages.x86_64-linux.catppuccin-qt5ct |
 | catppuccin-sddm | 1.1.0 | Soothing pastel theme for SDDM | legacyPackages.x86_64-linux.catppuccin-sddm |
 | catppuccin-sddm-corners | 0-unstable-2025-03-25 | Soothing pastel theme for SDDM based on corners theme | legacyPackages.x86_64-linux.catppuccin-sddm-corners |
 | catppuccin-unstable | 2025-02-21 | Soothing pastel themes | legacyPackages.x86_64-linux.catppuccin |
@@ -5204,7 +5204,7 @@
 | cdist | 7.0.0 | Minimalistic configuration management system | legacyPackages.x86_64-linux.cdist |
 | cdk | 5.0-20250116 | Curses development kit | legacyPackages.x86_64-linux.cdk |
 | cdk-go | 1.5.5 | Container penetration toolkit | legacyPackages.x86_64-linux.cdk-go |
-| cdncheck | 1.1.30 | Tool to detect various technology for a given IP address | legacyPackages.x86_64-linux.cdncheck |
+| cdncheck | 1.1.31 | Tool to detect various technology for a given IP address | legacyPackages.x86_64-linux.cdncheck |
 | cdo | 2.5.1 | Collection of command line Operators to manipulate and analyse Climate and NWP model Data | legacyPackages.x86_64-linux.cdo |
 | cdogs-sdl | 2.3.0 | Open source classic overhead run-and-gun game | legacyPackages.x86_64-linux.cdogs-sdl |
 | cdparanoia-III | 10.2 | Tool and library for reading digital audio from CDs | legacyPackages.x86_64-linux.cdparanoia |
@@ -5644,7 +5644,7 @@
 | checklistings | 1.0 | Pass verbatim contents through a compiler and reincorporate the resulting output | legacyPackages.x86_64-linux.texlivePackages.checklistings |
 | checkmake | 0.2.2 | Experimental tool for linting and checking Makefiles | legacyPackages.x86_64-linux.checkmake |
 | checkmate | 0.9.3 | Pluggable code security analysis tool | legacyPackages.x86_64-linux.checkmate |
-| checkov | 3.2.458 | Static code analysis tool for infrastructure-as-code | legacyPackages.x86_64-linux.checkov |
+| checkov | 3.2.460 | Static code analysis tool for infrastructure-as-code | legacyPackages.x86_64-linux.checkov |
 | checkpolicy | 3.8.1 | SELinux policy compiler | legacyPackages.x86_64-linux.checkpolicy |
 | checkpwn | 0.5.6 | Check Have I Been Pwned and see if it's time for you to change passwords | legacyPackages.x86_64-linux.checkpwn |
 | checkra1n | 0.12.4 | Jailbreak for iPhone 5s though iPhone X, iOS 12.0 and up | legacyPackages.x86_64-linux.checkra1n |
@@ -6424,7 +6424,7 @@
 | chs-physics-report | 54512 | Physics lab reports for Carmel High School | legacyPackages.x86_64-linux.texlivePackages.chs-physics-report |
 | chscite | 2.9999 | Bibliography style for Chalmers University of Technology | legacyPackages.x86_64-linux.texlivePackages.chscite |
 | chsrc | 0.2.2 | Change Source everywhere for every software | legacyPackages.x86_64-linux.chsrc |
-| cht.sh | 0-unstable-2025-07-29 | CLI client for cheat.sh, a community driven cheat sheet | legacyPackages.x86_64-linux.cht-sh |
+| cht.sh | 0-unstable-2025-08-08 | CLI client for cheat.sh, a community driven cheat sheet | legacyPackages.x86_64-linux.cht-sh |
 | chuck | 1.4.2.0 | Programming language for real-time sound synthesis and music creation | legacyPackages.x86_64-linux.chuck |
 | chunk | 2021-03-03 | Ultra-bold, ultra-awesome slab serif typeface | legacyPackages.x86_64-linux.chunk |
 | chunkfs | 0.8 | FUSE filesystems for viewing chunksync-style directory trees as a block device and vice versa | legacyPackages.x86_64-linux.chunkfs |
@@ -6804,11 +6804,11 @@
 | clib | 2.8.7 | C micro-package manager | legacyPackages.x86_64-linux.clib |
 | click | 0.5.2 | Tool to build click packages, mainly used for Ubuntu Touch | legacyPackages.x86_64-linux.ubports-click |
 | click | 0.6.3 | The "Command Line Interactive Controller for Kubernetes" | legacyPackages.x86_64-linux.click |
-| clickable | 8.3.1 | Build system for Ubuntu Touch apps | legacyPackages.x86_64-linux.clickable |
+| clickable | 8.4.0 | Build system for Ubuntu Touch apps | legacyPackages.x86_64-linux.clickable |
 | clickclack | 0.2.3 | Vibration/audio feedback tool to be used with virtual keyboards | legacyPackages.x86_64-linux.clickclack |
 | clickgen | 2.2.5 | Hassle-free cursor building toolbox | legacyPackages.x86_64-linux.clickgen |
 | clickhouse | 25.3.5.42 | Column-oriented database management system | legacyPackages.x86_64-linux.clickhouse |
-| clickhouse-backup | 2.6.30 | Tool for easy ClickHouse backup and restore using object storage for backup files | legacyPackages.x86_64-linux.clickhouse-backup |
+| clickhouse-backup | 2.6.33 | Tool for easy ClickHouse backup and restore using object storage for backup files | legacyPackages.x86_64-linux.clickhouse-backup |
 | clickhouse-cli | 0.3.9 | Third-party client for the Clickhouse DBMS server | legacyPackages.x86_64-linux.clickhouse-cli |
 | clicks | 0.4.3 | Slide Deck Animation | legacyPackages.x86_64-linux.texlivePackages.clicks |
 | clickup | 3.5.87 | All in one project management solution | legacyPackages.x86_64-linux.clickup |
@@ -7087,7 +7087,7 @@
 | codespell | 2.4.1 | Fix common misspellings in source code | legacyPackages.x86_64-linux.codespell |
 | codespelunker | 1.4.0 | Command code search tool | legacyPackages.x86_64-linux.codespelunker |
 | codevis | 0.8.4 | Tool to take all source code in a folder and render them to one image | legacyPackages.x86_64-linux.codevis |
-| codex | 0.19.0 | Lightweight coding agent that runs in your terminal | legacyPackages.x86_64-linux.codex |
+| codex | 0.20.0 | Lightweight coding agent that runs in your terminal | legacyPackages.x86_64-linux.codex |
 | codicefiscaleitaliano | 1.2 | Test the consistency of the Italian personal Fiscal Code | legacyPackages.x86_64-linux.texlivePackages.codicefiscaleitaliano |
 | codipack | 3.0.0 | Fast gradient evaluation in C++ based on Expression Templates | legacyPackages.x86_64-linux.codipack |
 | codium | 1.102.35058 | Wrapped variant of vscodium which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications.  | legacyPackages.x86_64-linux.vscodium-fhs |
@@ -7101,7 +7101,7 @@
 | coffeestains | 0.5.1 | Add coffee stains to documents | legacyPackages.x86_64-linux.texlivePackages.coffeestains |
 | cog | 0.8.1 | Small single “window” launcher for the WebKit WPE port | legacyPackages.x86_64-linux.cog |
 | cogl | 1.22.8 | Small open source library for using 3D graphics hardware for rendering | legacyPackages.x86_64-linux.cogl |
-| coin | 4.0.3 | High-level, retained-mode toolkit for effective 3D graphics development | legacyPackages.x86_64-linux.coin3d |
+| coin | 4.0.4 | High-level, retained-mode toolkit for effective 3D graphics development | legacyPackages.x86_64-linux.coin3d |
 | coinlive | 0.2.2 | Live cryptocurrency prices CLI | legacyPackages.x86_64-linux.coinlive |
 | coinmp | 1.8.4 | COIN-OR lightweight API for COIN-OR libraries CLP, CBC, and CGL | legacyPackages.x86_64-linux.CoinMP |
 | coinmp | 1.8.4 | COIN-OR lightweight API for COIN-OR libraries CLP, CBC, and CGL | legacyPackages.x86_64-linux.coinmp |
@@ -7542,7 +7542,7 @@
 | coppwr | 1.6.2 | Low level control GUI for the PipeWire multimedia server | legacyPackages.x86_64-linux.coppwr |
 | copy-desktop-items-hook |  |  | legacyPackages.x86_64-linux.copyDesktopItems |
 | copy-pkg-config-items-hook |  |  | legacyPackages.x86_64-linux.copyPkgconfigItems |
-| copybara | 20250728 | Tool for transforming and moving code between repositories | legacyPackages.x86_64-linux.copybara |
+| copybara | 20250804 | Tool for transforming and moving code between repositories | legacyPackages.x86_64-linux.copybara |
 | copyedit | 1.6 | Copyediting support for LaTeX documents | legacyPackages.x86_64-linux.texlivePackages.copyedit |
 | copyfile | 213.40.2 | Darwin file copying library | legacyPackages.x86_64-linux.darwin.copyfile |
 | copygen | 0.4.1 | Command-line and programmatic Go code generator that generates custom type-based code | legacyPackages.x86_64-linux.copygen |
@@ -7898,8 +7898,6 @@
 | cpupower | 6.12.41 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages-libre.cpupower |
 | cpupower | 6.12.41 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages.cpupower |
 | cpupower | 6.12.41 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_xanmod.cpupower |
-| cpupower | 6.15.8 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower |
-| cpupower | 6.15.8 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_zen.cpupower |
 | cpupower | 6.15.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.cpupower |
 | cpupower | 6.15.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cpupower |
 | cpupower | 6.15.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.cpupower |
@@ -7909,8 +7907,10 @@
 | cpupower | 6.15.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.cpupower |
 | cpupower | 6.16 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.cpupower |
 | cpupower | 6.16 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.cpupower |
+| cpupower | 6.16 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower |
 | cpupower | 6.16 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_latest-libre.cpupower |
 | cpupower | 6.16 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_latest.cpupower |
+| cpupower | 6.16 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_zen.cpupower |
 | cpupower | 6.6.101 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.cpupower |
 | cpupower | 6.6.94 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.cpupower |
 | cpupower | 6.6.94 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.cpupower |
@@ -8176,7 +8176,7 @@
 | ctune | 1.3.3 | Nice terminal nCurses (tui) internet radio player for Linux, browse and search from api.radio-browser.info | legacyPackages.x86_64-linux.ctune |
 | ctx-unstable | 2023-09-03 | Vector graphics terminal | legacyPackages.x86_64-linux.ctx |
 | ctypes.sh | 1.2 | Foreign function interface for bash | legacyPackages.x86_64-linux.ctypes_sh |
-| cubeb | 0-unstable-2025-07-10 | Cross platform audio library | legacyPackages.x86_64-linux.cubeb |
+| cubeb | 0-unstable-2025-08-05 | Cross platform audio library | legacyPackages.x86_64-linux.cubeb |
 | cubical | 0.8 | Cubical type theory library for use with the Agda compiler | legacyPackages.x86_64-linux.agdaPackages.cubical |
 | cubical-mini-nightly | 20241214 | Nonstandard library for Cubical Agda | legacyPackages.x86_64-linux.agdaPackages.cubical-mini |
 | cubicle | 1.2.0 | Open source model checker for verifying safety properties of array-based systems | legacyPackages.x86_64-linux.cubicle |
@@ -8498,7 +8498,7 @@
 | dashundergaps | 2.0h | Produce gaps that are underlined, dotted or dashed | legacyPackages.x86_64-linux.texlivePackages.dashundergaps |
 | dashy-ui | 3.1.1-unstable-2024-07-14 | dashy | legacyPackages.x86_64-linux.dashy-ui |
 | dasm | 2.20.14.1 | Assembler for 6502 and other 8-bit microprocessors | legacyPackages.x86_64-linux.dasm |
-| databricks-cli | 0.262.0 | Databricks CLI | legacyPackages.x86_64-linux.databricks-cli |
+| databricks-cli | 0.263.0 | Databricks CLI | legacyPackages.x86_64-linux.databricks-cli |
 | databricks-sql-cli | 0.3.3 | CLI for querying Databricks SQL | legacyPackages.x86_64-linux.databricks-sql-cli |
 | dataclass-wizard | 0.35.0 | Wizarding tools for interacting with the Python dataclasses module | legacyPackages.x86_64-linux.dataclass-wizard |
 | datadog-agent | 7.56.2 | Event collector for the DataDog analysis service -- v6 new golang implementation.  | legacyPackages.x86_64-linux.datadog-agent |
@@ -8676,8 +8676,6 @@
 | ddcci-driver | 6.12.41-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages-libre.ddcci-driver |
 | ddcci-driver | 6.12.41-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages.ddcci-driver |
 | ddcci-driver | 6.12.41-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_xanmod.ddcci-driver |
-| ddcci-driver | 6.15.8-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver |
-| ddcci-driver | 6.15.8-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver |
 | ddcci-driver | 6.15.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ddcci-driver |
 | ddcci-driver | 6.15.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ddcci-driver |
 | ddcci-driver | 6.15.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ddcci-driver |
@@ -8687,8 +8685,10 @@
 | ddcci-driver | 6.15.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ddcci-driver |
 | ddcci-driver | 6.16-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ddcci-driver |
 | ddcci-driver | 6.16-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ddcci-driver |
+| ddcci-driver | 6.16-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver |
 | ddcci-driver | 6.16-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ddcci-driver |
 | ddcci-driver | 6.16-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_latest.ddcci-driver |
+| ddcci-driver | 6.16-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver |
 | ddcci-driver | 6.6.101-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ddcci-driver |
 | ddcci-driver | 6.6.94-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ddcci-driver |
 | ddcci-driver | 6.6.94-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ddcci-driver |
@@ -9949,7 +9949,7 @@
 | duktape | 2.7.0 | Embeddable Javascript engine, with a focus on portability and compact footprint | legacyPackages.x86_64-linux.duktape |
 | dum | 0.1.20 | Npm scripts runner written in Rust | legacyPackages.x86_64-linux.dum |
 | dumb | 2.0.3 | Module/tracker based music format parser and player library | legacyPackages.x86_64-linux.dumb |
-| dumb-http-signed-tag-source-salted-xn2swjm3hxqd |  |  | legacyPackages.x86_64-linux.tests.fetchgit.dumb-http-signed-tag |
+| dumb-http-signed-tag-source-salted-p30rccvzrdws |  |  | legacyPackages.x86_64-linux.tests.fetchgit.dumb-http-signed-tag |
 | dumb-init | 1.2.5 | Minimal init system for Linux containers | legacyPackages.x86_64-linux.dumb-init |
 | dumbpipe | 0.27.0 | Connect A to B - Send Data | legacyPackages.x86_64-linux.dumbpipe |
 | dummyhttp | 1.1.1 | Super simple HTTP server that replies a fixed body with a fixed response code | legacyPackages.x86_64-linux.dummyhttp |
@@ -10153,45 +10153,45 @@
 | ec2-instance-selector | 3.1.1 | Recommends instance types based on resource criteria like vcpus and memory | legacyPackages.x86_64-linux.ec2-instance-selector |
 | ec2-metadata-mock | 1.12.0 | Amazon EC2 Metadata Mock | legacyPackages.x86_64-linux.ec2-metadata-mock |
 | ec2stepshell | 0-unstable-2023-04-07 | AWS post-exploitation tool | legacyPackages.x86_64-linux.ec2stepshell |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages-libre.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_hardened.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_latest.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_lqx.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_xanmod.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ecapture |
-| ecapture | 1.3.1 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_zen.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages-libre.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_hardened.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_latest.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_lqx.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_xanmod.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ecapture |
+| ecapture | 1.4.0 | Capture SSL/TLS text content without CA certificate Using eBPF | legacyPackages.x86_64-linux.linuxPackages_zen.ecapture |
 | ecasound | 2.9.3 | Software package designed for multitrack audio processing | legacyPackages.x86_64-linux.ecasound |
 | ecc | 1.0.27 | EBPF compile toolchain for eunomia-bpf | legacyPackages.x86_64-linux.ecc |
 | ecc | 15878 | Sources for the European Concrete fonts | legacyPackages.x86_64-linux.texlivePackages.ecc |
@@ -10316,7 +10316,7 @@
 | eggdbus | 0.6 | D-Bus bindings for GObject | legacyPackages.x86_64-linux.eggdbus |
 | eggdrop | 1.9.5 | Internet Relay Chat (IRC) bot | legacyPackages.x86_64-linux.eggdrop |
 | egglog | 0.4.0 | Fixpoint reasoning system that unifies Datalog and equality saturation | legacyPackages.x86_64-linux.egglog |
-| eggnog-mapper | 2.1.12 | Fast genome-wide functional annotation through orthology assignment | legacyPackages.x86_64-linux.eggnog-mapper |
+| eggnog-mapper | 2.1.13 | Fast genome-wide functional annotation through orthology assignment | legacyPackages.x86_64-linux.eggnog-mapper |
 | egl-wayland | 1.1.19 | EGLStream-based Wayland external platform | legacyPackages.x86_64-linux.egl-wayland |
 | eglexternalplatform | 1.2.1 | EGL External Platform interface | legacyPackages.x86_64-linux.eglexternalplatform |
 | ego | 1.1.7 | Run Linux desktop applications under a different local user | legacyPackages.x86_64-linux.ego |
@@ -10692,8 +10692,6 @@
 | ena | 2.15.0-6.12.41 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages-libre.ena |
 | ena | 2.15.0-6.12.41 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages.ena |
 | ena | 2.15.0-6.12.41 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod.ena |
-| ena | 2.15.0-6.15.8 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ena |
-| ena | 2.15.0-6.15.8 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_zen.ena |
 | ena | 2.15.0-6.15.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ena |
 | ena | 2.15.0-6.15.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ena |
 | ena | 2.15.0-6.15.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ena |
@@ -10703,8 +10701,10 @@
 | ena | 2.15.0-6.15.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ena |
 | ena | 2.15.0-6.16 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ena |
 | ena | 2.15.0-6.16 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ena |
+| ena | 2.15.0-6.16 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ena |
 | ena | 2.15.0-6.16 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ena |
 | ena | 2.15.0-6.16 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_latest.ena |
+| ena | 2.15.0-6.16 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_zen.ena |
 | ena | 2.15.0-6.6.101 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ena |
 | ena | 2.15.0-6.6.94 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ena |
 | ena | 2.15.0-6.6.94 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ena |
@@ -10907,7 +10907,7 @@
 | erfa | 2.0.1 | Essential Routines for Fundamental Astronomy | legacyPackages.x86_64-linux.liberfa |
 | erg | 0.6.52 | Statically typed language that can deeply improve the Python ecosystem | legacyPackages.x86_64-linux.erg |
 | ergo | 2.16.0 | Modern IRC server (daemon/ircd) written in Go | legacyPackages.x86_64-linux.ergochat |
-| ergo | 6.0.0 | Open protocol that implements modern scientific ideas in the blockchain area | legacyPackages.x86_64-linux.ergo |
+| ergo | 6.0.1 | Open protocol that implements modern scientific ideas in the blockchain area | legacyPackages.x86_64-linux.ergo |
 | ergogen | 4.1.0 | Ergonomic keyboard layout generator | legacyPackages.x86_64-linux.ergogen |
 | ergoscf | 3.8.2 | Quantum chemistry program for large-scale self-consistent field calculations | legacyPackages.x86_64-linux.ergoscf |
 | ericw-tools | 0.18.1 | Map compile tools for Quake and Hexen 2 | legacyPackages.x86_64-linux.ericw-tools |
@@ -11060,7 +11060,7 @@
 | evafast | 0-unstable-2024-02-09 | Seeking and hybrid fastforwarding like VHS | legacyPackages.x86_64-linux.mpvScripts.evafast |
 | evangelion-jfm | 1.0.5_c | A Japanese font metric supporting many advanced features | legacyPackages.x86_64-linux.texlivePackages.evangelion-jfm |
 | evans | 0.10.11 | More expressive universal gRPC client | legacyPackages.x86_64-linux.evans |
-| evcc | 0.207.0 | EV Charge Controller | legacyPackages.x86_64-linux.evcc |
+| evcc | 0.207.2 | EV Charge Controller | legacyPackages.x86_64-linux.evcc |
 | evcxr | 0.21.1 | Evaluation context for Rust | legacyPackages.x86_64-linux.evcxr |
 | evdev-proto | 6.14.7 | Input event device header files for FreeBSD | legacyPackages.x86_64-linux.evdev-proto |
 | evdevhook2 | 1.0.2 | Cemuhook UDP server for devices with modern Linux drivers | legacyPackages.x86_64-linux.evdevhook2 |
@@ -11297,7 +11297,7 @@
 | faba-mono-icons | 2016-04-30 | Full set of Faba monochrome panel icons | legacyPackages.x86_64-linux.faba-mono-icons |
 | fable | 4.26.0 | Fable is an F# to JavaScript compiler | legacyPackages.x86_64-linux.fable |
 | fabric | 3.2.2 | Pythonic remote execution | legacyPackages.x86_64-linux.Fabric |
-| fabric-ai | 1.4.272 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere | legacyPackages.x86_64-linux.fabric-ai |
+| fabric-ai | 1.4.280 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere | legacyPackages.x86_64-linux.fabric-ai |
 | fabric-installer | 1.0.3 | Lightweight, experimental modding toolchain for Minecraft | legacyPackages.x86_64-linux.fabric-installer |
 | fabricmanager | 520.61.05 | NVIDIA Fabric Manager. By downloading and using the packages you accept the terms and conditions of the CUDA EULA | legacyPackages.x86_64-linux.cudaPackages_11.fabricmanager |
 | fabricmanager | 570.124.06 | NVIDIA Fabric Manager. By downloading and using the packages you accept the terms and conditions of the CUDA EULA | legacyPackages.x86_64-linux.cudaPackages.fabricmanager |
@@ -11327,8 +11327,6 @@
 | facetimehd | 0.6.13-6.12.41 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages-libre.facetimehd |
 | facetimehd | 0.6.13-6.12.41 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages.facetimehd |
 | facetimehd | 0.6.13-6.12.41 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_xanmod.facetimehd |
-| facetimehd | 0.6.13-6.15.8 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd |
-| facetimehd | 0.6.13-6.15.8 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd |
 | facetimehd | 0.6.13-6.15.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.facetimehd |
 | facetimehd | 0.6.13-6.15.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.facetimehd |
 | facetimehd | 0.6.13-6.15.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.facetimehd |
@@ -11338,8 +11336,10 @@
 | facetimehd | 0.6.13-6.15.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.facetimehd |
 | facetimehd | 0.6.13-6.16 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.facetimehd |
 | facetimehd | 0.6.13-6.16 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.facetimehd |
+| facetimehd | 0.6.13-6.16 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd |
 | facetimehd | 0.6.13-6.16 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_latest-libre.facetimehd |
 | facetimehd | 0.6.13-6.16 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_latest.facetimehd |
+| facetimehd | 0.6.13-6.16 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd |
 | facetimehd | 0.6.13-6.6.101 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.facetimehd |
 | facetimehd | 0.6.13-6.6.94 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.facetimehd |
 | facetimehd | 0.6.13-6.6.94 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.facetimehd |
@@ -11467,8 +11467,6 @@
 | fanout-unstable | 2022-10-17-6.12.41 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages-libre.fanout |
 | fanout-unstable | 2022-10-17-6.12.41 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages.fanout |
 | fanout-unstable | 2022-10-17-6.12.41 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_xanmod.fanout |
-| fanout-unstable | 2022-10-17-6.15.8 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fanout |
-| fanout-unstable | 2022-10-17-6.15.8 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_zen.fanout |
 | fanout-unstable | 2022-10-17-6.15.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.fanout |
 | fanout-unstable | 2022-10-17-6.15.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fanout |
 | fanout-unstable | 2022-10-17-6.15.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.fanout |
@@ -11478,8 +11476,10 @@
 | fanout-unstable | 2022-10-17-6.15.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.fanout |
 | fanout-unstable | 2022-10-17-6.16 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.fanout |
 | fanout-unstable | 2022-10-17-6.16 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.fanout |
+| fanout-unstable | 2022-10-17-6.16 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fanout |
 | fanout-unstable | 2022-10-17-6.16 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_latest-libre.fanout |
 | fanout-unstable | 2022-10-17-6.16 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_latest.fanout |
+| fanout-unstable | 2022-10-17-6.16 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_zen.fanout |
 | fanout-unstable | 2022-10-17-6.6.101 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.fanout |
 | fanout-unstable | 2022-10-17-6.6.94 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.fanout |
 | fanout-unstable | 2022-10-17-6.6.94 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.fanout |
@@ -11621,7 +11621,7 @@
 | fcitx5-mozc | 2.30.5544.102 | Mozc - a Japanese Input Method Editor designed for multi-platform | legacyPackages.x86_64-linux.fcitx5-mozc-ut |
 | fcitx5-nord | 0-unstable-2021-07-27 | Fcitx5 theme based on Nord color | legacyPackages.x86_64-linux.fcitx5-nord |
 | fcitx5-pinyin-minecraft | 0.1.20250315 | Fcitx 5 pinyin dictionary from zh.minecraft.wiki | legacyPackages.x86_64-linux.fcitx5-pinyin-minecraft |
-| fcitx5-pinyin-moegirl | 20250711 | Fcitx 5 pinyin dictionary from zh.moegirl.org.cn | legacyPackages.x86_64-linux.fcitx5-pinyin-moegirl |
+| fcitx5-pinyin-moegirl | 20250810 | Fcitx 5 pinyin dictionary from zh.moegirl.org.cn | legacyPackages.x86_64-linux.fcitx5-pinyin-moegirl |
 | fcitx5-pinyin-zhwiki | 0.2.5 | Fcitx 5 pinyin dictionary from zh.wikipedia.org | legacyPackages.x86_64-linux.fcitx5-pinyin-zhwiki |
 | fcitx5-qt5 | 5.1.9 | Fcitx5 Qt Library | legacyPackages.x86_64-linux.libsForQt5.fcitx5-qt |
 | fcitx5-qt5 | 5.1.9 | Fcitx5 Qt Library | legacyPackages.x86_64-linux.plasma5Packages.fcitx5-qt |
@@ -11710,7 +11710,8 @@
 | fetamont | 43812 | Extended version of Knuth's logo typeface | legacyPackages.x86_64-linux.texlivePackages.fetamont |
 | fetch-scm | 0.1.6 | System information fetcher written in GNU Guile Scheme | legacyPackages.x86_64-linux.fetch-scm |
 | fetchcls | 1.0 | Fetch the current class name | legacyPackages.x86_64-linux.texlivePackages.fetchcls |
-| fetchgit-fetch-tags-test-salted-gwxwh0m84zn3 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.fetchTags |
+| fetchgit-fetch-tags-test-salted-f4cals8k7yp1 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.fetchTags |
+| fetchgit-with-rootdir-salted-j6c542yrw6qk |  |  | legacyPackages.x86_64-linux.tests.fetchgit.rootDir |
 | fetchit | 0.0.1 | Tool to manage the life cycle and configuration of Podman containers | legacyPackages.x86_64-linux.fetchit |
 | fetchmail | 6.5.1 | Full-featured remote-mail retrieval and forwarding utility | legacyPackages.x86_64-linux.fetchmail |
 | fetchmail-unstable | 2022-05-26 | Full-featured remote-mail retrieval and forwarding utility | legacyPackages.x86_64-linux.fetchmail_7 |
@@ -11875,7 +11876,7 @@
 | fira-sans | 4.301 | Sans-serif font for Firefox OS | legacyPackages.x86_64-linux.fira-sans |
 | firamath | 0.3.4 | Fira sans serif font with Unicode math support | legacyPackages.x86_64-linux.texlivePackages.firamath |
 | firamath-otf | 0.03b | Use OpenType math font Fira Math | legacyPackages.x86_64-linux.texlivePackages.firamath-otf |
-| fire | 1.0.1-unstable-2025-03-12 | Multi-band distortion plugin by Wings | legacyPackages.x86_64-linux.fire |
+| fire | 1.0.2-unstable-2025-07-05 | Multi-band distortion plugin by Wings | legacyPackages.x86_64-linux.fire |
 | firebase-tools | 14.11.2 | Manage, and deploy your Firebase project from the command line | legacyPackages.x86_64-linux.firebase-tools |
 | firebird | 3.0.12 | SQL relational database management system | legacyPackages.x86_64-linux.firebird_3 |
 | firebird | 4.0.5 | SQL relational database management system | legacyPackages.x86_64-linux.firebird |
@@ -12381,7 +12382,7 @@
 | fox | 1.6.57 | C++ based class library for building Graphical User Interfaces | legacyPackages.x86_64-linux.fox_1_6 |
 | fox | 1.7.81 | C++ based class library for building Graphical User Interfaces | legacyPackages.x86_64-linux.fox |
 | foxdot | 0.8.12 | Live coding music with SuperCollider | legacyPackages.x86_64-linux.foxdot |
-| foxglove-cli | 1.0.24 | Interact with the Foxglove platform | legacyPackages.x86_64-linux.foxglove-cli |
+| foxglove-cli | 1.0.25 | Interact with the Foxglove platform | legacyPackages.x86_64-linux.foxglove-cli |
 | foxmarks | 2.1.1 | CLI read-only interface for Mozilla Firefox's bookmarks | legacyPackages.x86_64-linux.foxmarks |
 | foxotron | 2024-09-23 | General purpose model viewer | legacyPackages.x86_64-linux.foxotron |
 | foxtrotgps | 1.2.2+331 | GPS/GIS application optimized for small screens | legacyPackages.x86_64-linux.foxtrotgps |
@@ -12581,7 +12582,7 @@
 | fs-uae-launcher | 3.1.70 | Graphical front-end for the FS-UAE emulator | legacyPackages.x86_64-linux.fsuae-launcher |
 | fsarchiver | 0.8.8 | File system archiver for linux | legacyPackages.x86_64-linux.fsarchiver |
 | fsatrace | 0.0.5 | Filesystem access tracer | legacyPackages.x86_64-linux.fsatrace |
-| fsautocomplete | 0.78.4 | FsAutoComplete project (FSAC) provides a backend service for rich editing or intellisense features for editors | legacyPackages.x86_64-linux.fsautocomplete |
+| fsautocomplete | 0.78.5 | FsAutoComplete project (FSAC) provides a backend service for rich editing or intellisense features for editors | legacyPackages.x86_64-linux.fsautocomplete |
 | fscan | 2.0.1 | Intranet comprehensive scanning tool | legacyPackages.x86_64-linux.fscan |
 | fsck-util-linux | 2.41 |  | legacyPackages.x86_64-linux.unixtools.fsck |
 | fscrypt | 0.3.5 | High-level tool for the management of Linux filesystem encryption | legacyPackages.x86_64-linux.fscrypt-experimental |
@@ -12700,8 +12701,6 @@
 | fwts-efi-runtime | 24.09.00-6.12.41 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages-libre.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.12.41 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.12.41 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_xanmod.fwts-efi-runtime |
-| fwts-efi-runtime | 24.09.00-6.15.8 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fwts-efi-runtime |
-| fwts-efi-runtime | 24.09.00-6.15.8 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.15.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.15.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.15.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.fwts-efi-runtime |
@@ -12711,15 +12710,17 @@
 | fwts-efi-runtime | 24.09.00-6.15.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.16 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.16 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.fwts-efi-runtime |
+| fwts-efi-runtime | 24.09.00-6.16 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.16 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_latest-libre.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.16 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_latest.fwts-efi-runtime |
+| fwts-efi-runtime | 24.09.00-6.16 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.6.101 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.6.94 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.fwts-efi-runtime |
 | fwts-efi-runtime | 24.09.00-6.6.94 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.fwts-efi-runtime |
 | fwup | 1.13.2 | Configurable embedded Linux firmware update creator and runner | legacyPackages.x86_64-linux.fwup |
 | fwupd | 2.0.13 |  | legacyPackages.x86_64-linux.fwupd |
 | fwupd-efi | 1.7 |  | legacyPackages.x86_64-linux.fwupd-efi |
-| fx | 38.0.0 | Terminal JSON viewer | legacyPackages.x86_64-linux.fx |
+| fx | 39.0.1 | Terminal JSON viewer | legacyPackages.x86_64-linux.fx |
 | fx-cast-bridge | 0.3.1 | Implementation of the Chrome Sender API (Chromecast) within Firefox | legacyPackages.x86_64-linux.fx-cast-bridge |
 | fx-cast-bridge | 0.3.1 | Implementation of the Chrome Sender API (Chromecast) within Firefox | legacyPackages.x86_64-linux.fx_cast_bridge |
 | fx2 | 0.13 | Chip support package for Cypress EZ-USB FX2 series microcontrollers | legacyPackages.x86_64-linux.libfx2 |
@@ -13500,8 +13501,8 @@
 | git-remote-gcrypt | 1.5 | Git remote helper for GPG-encrypted remotes | legacyPackages.x86_64-linux.git-remote-gcrypt |
 | git-remote-hg | 1.0.4 | Semi-official Mercurial bridge from Git project | legacyPackages.x86_64-linux.git-remote-hg |
 | git-reparent | 0-unstable-2017-09-03 | Git command to recommit HEAD with a new set of parents | legacyPackages.x86_64-linux.git-reparent |
-| git-repo | 2.57.2 | Android's repo management tool | legacyPackages.x86_64-linux.git-repo |
-| git-repo | 2.57.2 | Android's repo management tool | legacyPackages.x86_64-linux.gitRepo |
+| git-repo | 2.57.3 | Android's repo management tool | legacyPackages.x86_64-linux.git-repo |
+| git-repo | 2.57.3 | Android's repo management tool | legacyPackages.x86_64-linux.gitRepo |
 | git-review | 2.5.0 | Tool to submit code to Gerrit | legacyPackages.x86_64-linux.git-review |
 | git-revise | 0.7.0-unstable-2025-01-28 | Efficiently update, split, and rearrange git commits | legacyPackages.x86_64-linux.git-revise |
 | git-run | 0.5.5 | Multiple git repository management tool | legacyPackages.x86_64-linux.git-run |
@@ -13514,7 +13515,7 @@
 | git-spice | 0.15.2 | Manage stacked Git branches | legacyPackages.x86_64-linux.git-spice |
 | git-stack | 0.10.20 | Stacked branch management for Git | legacyPackages.x86_64-linux.git-stack |
 | git-standup | 2.3.2 | Recall what you did on the last working day | legacyPackages.x86_64-linux.git-standup |
-| git-statuses | 0.4.0 | Command-line tool to display the status of multiple Git repositories in a clear, tabular format | legacyPackages.x86_64-linux.git-statuses |
+| git-statuses | 0.5.1 | Command-line tool to display the status of multiple Git repositories in a clear, tabular format | legacyPackages.x86_64-linux.git-statuses |
 | git-subrepo | 0.4.9 | Git submodule alternative | legacyPackages.x86_64-linux.git-subrepo |
 | git-subtrac | 0.04 | Keep the content for your git submodules all in one place: the parent repo | legacyPackages.x86_64-linux.git-subtrac |
 | git-sync | 0-unstable-2025-06-26 | Script to automatically synchronize a git repository | legacyPackages.x86_64-linux.git-sync |
@@ -13556,7 +13557,7 @@
 | gitfs | 0.5.2 | FUSE filesystem that fully integrates with git | legacyPackages.x86_64-linux.gitfs |
 | gitg | 44 | GNOME GUI client to view git repositories | legacyPackages.x86_64-linux.gitg |
 | githooks | 3.0.4 | Git hooks manager with per-repo and shared Git hooks including version control | legacyPackages.x86_64-linux.githooks |
-| github-backup | 0.50.2 | Backup a github user or organization | legacyPackages.x86_64-linux.github-backup |
+| github-backup | 0.50.3 | Backup a github user or organization | legacyPackages.x86_64-linux.github-backup |
 | github-commenter | 0.28.0 | Command line utility for creating GitHub comments on Commits, Pull Request Reviews or Issues | legacyPackages.x86_64-linux.github-commenter |
 | github-copilot-intellij-agent | 1.4.5.4049 | GitHub copilot IntelliJ plugin's native component | legacyPackages.x86_64-linux.github-copilot-intellij-agent |
 | github-desktop | 3.4.13 | GUI for managing Git and GitHub | legacyPackages.x86_64-linux.github-desktop |
@@ -14268,7 +14269,7 @@
 | gnome-shell-extension-gravatar | 8 | Synchronize GNOME Shell user icon with an avatar service, one of Gravatar or Libravatar. | legacyPackages.x86_64-linux.gnomeExtensions.gravatar |
 | gnome-shell-extension-grayscale-windows | 3 | Make individual windows grayscale | legacyPackages.x86_64-linux.gnomeExtensions.grayscale-windows |
 | gnome-shell-extension-grown-up-notifications | 2 | Do not allow apps to delete their own notifications (e.g. web skype does that) | legacyPackages.x86_64-linux.gnomeExtensions.grown-up-notifications |
-| gnome-shell-extension-gsconnect | 62 | KDE Connect implementation for Gnome Shell | legacyPackages.x86_64-linux.gnomeExtensions.gsconnect |
+| gnome-shell-extension-gsconnect | 66 | KDE Connect implementation for Gnome Shell | legacyPackages.x86_64-linux.gnomeExtensions.gsconnect |
 | gnome-shell-extension-gsnap | 25 | Organize windows in customizable snap zones like FancyZones on Windows. | legacyPackages.x86_64-linux.gnomeExtensions.gsnap |
 | gnome-shell-extension-gtile | 62 | Tile windows on a grid | legacyPackages.x86_64-linux.gnomeExtensions.gtile |
 | gnome-shell-extension-gtk4-desktop-icons-ng-ding | 110 | Adw. Desktop Icons | legacyPackages.x86_64-linux.gnomeExtensions.gtk4-desktop-icons-ng-ding |
@@ -15014,7 +15015,7 @@
 | gocover-cobertura | 1.3.0 | This is a simple helper tool for generating XML output in Cobertura format for CIs like Jenkins and others from go tool cover output | legacyPackages.x86_64-linux.gocover-cobertura |
 | gocovsh | 0.6.1 | Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line | legacyPackages.x86_64-linux.gocovsh |
 | gocr | 0.52 | GPL Optical Character Recognition | legacyPackages.x86_64-linux.gocr |
-| gocryptfs | 2.6.0 | Encrypted overlay filesystem written in Go | legacyPackages.x86_64-linux.gocryptfs |
+| gocryptfs | 2.6.1 | Encrypted overlay filesystem written in Go | legacyPackages.x86_64-linux.gocryptfs |
 | goctl | 1.8.5 | CLI handcuffle of go-zero, a cloud-native Go microservices framework | legacyPackages.x86_64-linux.goctl |
 | gocyclo | 0.6.0 | Calculate cyclomatic complexities of functions in Go source code | legacyPackages.x86_64-linux.gocyclo |
 | goda | 0.7.1 | Go Dependency Analysis toolkit | legacyPackages.x86_64-linux.goda |
@@ -15149,7 +15150,7 @@
 | google-app-engine-go-sdk | 1.9.61 | Google App Engine SDK for Go | legacyPackages.x86_64-linux.google-app-engine-go-sdk |
 | google-authenticator-libpam | 1.11 | Two-step verification, with pam module | legacyPackages.x86_64-linux.google-authenticator |
 | google-chat-linux | 5.29.23-1 | Electron-base client for Google Hangouts Chat | legacyPackages.x86_64-linux.google-chat-linux |
-| google-chrome | 138.0.7204.183 | Freeware web browser developed by Google | legacyPackages.x86_64-linux.google-chrome |
+| google-chrome | 139.0.7258.66 | Freeware web browser developed by Google | legacyPackages.x86_64-linux.google-chrome |
 | google-cloud-bigtable-tool | 0.12.0 | Google Cloud Bigtable Tool | legacyPackages.x86_64-linux.google-cloud-bigtable-tool |
 | google-cloud-cpp | 2.38.0 | C++ Idiomatic Clients for Google Cloud Platform services | legacyPackages.x86_64-linux.google-cloud-cpp |
 | google-cloud-sdk | 529.0.0 | Tools for the google cloud platform | legacyPackages.x86_64-linux.google-cloud-sdk |
@@ -15227,7 +15228,7 @@
 | gorm | 1.4.0 | Graphical Object Relationship Modeller is an easy-to-use interface designer for GNUstep | legacyPackages.x86_64-linux.gorm |
 | gorm-gentool | 0.0.1 | Gen: Friendly & Safer GORM powered by Code Generation | legacyPackages.x86_64-linux.gorm-gentool |
 | gortr | 0.15.0 | RPKI-to-Router server used at Cloudflare | legacyPackages.x86_64-linux.gortr |
-| gose | 0.11.1 | Modern and scalable file-uploader focusing on scalability and simplicity | legacyPackages.x86_64-linux.gose |
+| gose | 0.11.2 | Modern and scalable file-uploader focusing on scalability and simplicity | legacyPackages.x86_64-linux.gose |
 | gosec | 2.22.7 | Golang security checker | legacyPackages.x86_64-linux.gosec |
 | gosh | 1.0.0 | Reverse/bind shell generator | legacyPackages.x86_64-linux.gosh |
 | goshs | 1.1.0 | Simple, yet feature-rich web server written in Go | legacyPackages.x86_64-linux.goshs |
@@ -15420,7 +15421,7 @@
 | grafana-kiosk | 1.0.9 | Kiosk Utility for Grafana | legacyPackages.x86_64-linux.grafana-kiosk |
 | grafana-loki | 3.5.3 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.grafana-loki |
 | grafana-lokiexplore-app | 1.0.23 | Browse Loki logs without the need for writing complex queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-lokiexplore-app |
-| grafana-metricsdrilldown-app | 1.0.8 | Queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-metricsdrilldown-app |
+| grafana-metricsdrilldown-app | 1.0.9 | Queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-metricsdrilldown-app |
 | grafana-mqtt-datasource | 1.1.0-beta.3 | Visualize streaming MQTT data from within Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-mqtt-datasource |
 | grafana-oncall-app | 1.16.4 | Developer-friendly incident response for Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-oncall-app |
 | grafana-opensearch-datasource | 2.24.0 | Empowers you to seamlessly integrate JSON data into Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-opensearch-datasource |
@@ -15540,7 +15541,7 @@
 | greetd-mini-wl-greeter | 0-unstable-2024-12-27 | Extremely minimal raw Wayland greeter for greetd | legacyPackages.x86_64-linux.greetd-mini-wl-greeter |
 | greg | 0.4.8 | Command-line podcast aggregator | legacyPackages.x86_64-linux.greg |
 | gregoriotex | 6.1.0 | Engraving Gregorian Chant scores | legacyPackages.x86_64-linux.texlivePackages.gregoriotex |
-| gremlin-console | 3.7.3 | Console of the Apache TinkerPop graph computing framework | legacyPackages.x86_64-linux.gremlin-console |
+| gremlin-console | 3.7.4 | Console of the Apache TinkerPop graph computing framework | legacyPackages.x86_64-linux.gremlin-console |
 | gremlin-server | 3.7.0 | Server of the Apache TinkerPop graph computing framework | legacyPackages.x86_64-linux.gremlin-server |
 | gren | 0.6.2 | Programming language for simple and correct applications | legacyPackages.x86_64-linux.gren |
 | grenedalf | 0.6.2 | Collection of commands for working with population genetic data | legacyPackages.x86_64-linux.grenedalf |
@@ -15943,7 +15944,7 @@
 | halide | 19.0.0 | C++ based language for image processing and computational photography | legacyPackages.x86_64-linux.python313Packages.halide |
 | halloweenmath | 0.11 | Scary and creepy math symbols with AMS-LaTeX integration | legacyPackages.x86_64-linux.texlivePackages.halloweenmath |
 | halloy | 2025.8 | IRC application | legacyPackages.x86_64-linux.halloy |
-| halo | 2.21.4 | Self-hosted dynamic blogging program | legacyPackages.x86_64-linux.halo |
+| halo | 2.21.6 | Self-hosted dynamic blogging program | legacyPackages.x86_64-linux.halo |
 | halp | 0.2.0 | CLI tool to get help with CLI tools | legacyPackages.x86_64-linux.halp |
 | hamlib | 3.3 | Runtime library to control radio transceivers and receivers | legacyPackages.x86_64-linux.hamlib |
 | hamlib | 3.3 | Runtime library to control radio transceivers and receivers | legacyPackages.x86_64-linux.hamlib_3 |
@@ -16172,8 +16173,8 @@
 | helm-s3 | 0.17.0 | Helm plugin that allows to set up a chart repository using AWS S3 | legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-s3 |
 | helm-secrets | 4.6.5 | Helm plugin that helps manage secrets | legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-secrets |
 | helm-unittest | 0.7.2 | BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin | legacyPackages.x86_64-linux.kubernetes-helmPlugins.helm-unittest |
-| helmfile | 1.1.3 | Declarative spec for deploying Helm charts | legacyPackages.x86_64-linux.helmfile |
-| helmfile | 1.1.3 | Declarative spec for deploying Helm charts | legacyPackages.x86_64-linux.helmfile-wrapped |
+| helmfile | 1.1.4 | Declarative spec for deploying Helm charts | legacyPackages.x86_64-linux.helmfile |
+| helmfile | 1.1.4 | Declarative spec for deploying Helm charts | legacyPackages.x86_64-linux.helmfile-wrapped |
 | helmholtz |  | Time domain pitch tracker for Pure Data | legacyPackages.x86_64-linux.helmholtz |
 | helmholtz-ellis-ji-notation | 1.1 | Beautiful in-line microtonal just intonation accidentals | legacyPackages.x86_64-linux.texlivePackages.helmholtz-ellis-ji-notation |
 | helmsman | 4.0.1 | Helm Charts (k8s applications) as Code tool | legacyPackages.x86_64-linux.helmsman |
@@ -16454,6 +16455,8 @@
 | hipify | 6.3.3 | Convert CUDA to Portable C++ Code | legacyPackages.x86_64-linux.rocmPackages_6.hipify |
 | hiprand | 6.3.3 | HIP wrapper for rocRAND and cuRAND | legacyPackages.x86_64-linux.rocmPackages.hiprand |
 | hiprand | 6.3.3 | HIP wrapper for rocRAND and cuRAND | legacyPackages.x86_64-linux.rocmPackages_6.hiprand |
+| hiprt | 2.5.a21e075.3 | Ray tracing library for HIP | legacyPackages.x86_64-linux.rocmPackages.hiprt |
+| hiprt | 2.5.a21e075.3 | Ray tracing library for HIP | legacyPackages.x86_64-linux.rocmPackages_6.hiprt |
 | hipsolver | 6.3.3 | ROCm SOLVER marshalling library | legacyPackages.x86_64-linux.rocmPackages.hipsolver |
 | hipsolver | 6.3.3 | ROCm SOLVER marshalling library | legacyPackages.x86_64-linux.rocmPackages_6.hipsolver |
 | hipsparse | 6.3.3 | ROCm SPARSE marshalling library | legacyPackages.x86_64-linux.rocmPackages.hipsparse |
@@ -16514,7 +16517,7 @@
 | holehe | 0-unstable-2023-05-18 | CLI to check if the mail is used on different sites | legacyPackages.x86_64-linux.holehe |
 | hollywood | 1.22 | Fill your console with Hollywood melodrama technobabble | legacyPackages.x86_64-linux.hollywood |
 | holo-build | 1.6.1 | Cross-distribution system package compiler | legacyPackages.x86_64-linux.holo-build |
-| holo-cli | 0.5.0-unstable-2025-07-01 | Holo` Command Line Interface | legacyPackages.x86_64-linux.holo-cli |
+| holo-cli | 0.5.0-unstable-2025-08-07 | Holo` Command Line Interface | legacyPackages.x86_64-linux.holo-cli |
 | holo-daemon | 0.8.0 | `holo` daemon that provides the routing protocols, tools and policies | legacyPackages.x86_64-linux.holo-daemon |
 | holochain-launcher | 0.11.5 | Cross-platform executable that launches a local Holochain conductor, and installs and opens apps | legacyPackages.x86_64-linux.holochain-launcher |
 | hologo | 1.15 | A collection of logos with bookmark support | legacyPackages.x86_64-linux.texlivePackages.hologo |
@@ -16522,7 +16525,7 @@
 | holos | 0.104.1 | Holos CLI tool | legacyPackages.x86_64-linux.holos |
 | home-assistant-chip-wheels | 2025.4.0 | Python wheels for APIs and tools related to CHIP | legacyPackages.x86_64-linux.python312Packages.home-assistant-chip-wheels |
 | home-assistant-chip-wheels | 2025.4.0 | Python wheels for APIs and tools related to CHIP | legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-wheels |
-| home-manager | 0-unstable-2025-07-28 | Nix-based user environment configurator | legacyPackages.x86_64-linux.home-manager |
+| home-manager | 0-unstable-2025-08-06 | Nix-based user environment configurator | legacyPackages.x86_64-linux.home-manager |
 | homeassistant | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant |
 | homeassistant-cli | 0.9.6 | Command-line tool for Home Assistant | legacyPackages.x86_64-linux.home-assistant-cli |
 | homeassistant-test-abode | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.abode |
@@ -16540,6 +16543,7 @@
 | homeassistant-test-airgradient | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airgradient |
 | homeassistant-test-airly | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airly |
 | homeassistant-test-airnow | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airnow |
+| homeassistant-test-airos | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airos |
 | homeassistant-test-airq | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airq |
 | homeassistant-test-airthings | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airthings |
 | homeassistant-test-airthings_ble | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airthings_ble |
@@ -17152,6 +17156,7 @@
 | homeassistant-test-pi_hole | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pi_hole |
 | homeassistant-test-picnic | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.picnic |
 | homeassistant-test-ping | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ping |
+| homeassistant-test-pjlink | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pjlink |
 | homeassistant-test-plaato | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plaato |
 | homeassistant-test-plant | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plant |
 | homeassistant-test-playstation_network | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.playstation_network |
@@ -17344,6 +17349,7 @@
 | homeassistant-test-tag | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tag |
 | homeassistant-test-tailscale | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tailscale |
 | homeassistant-test-tailwind | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tailwind |
+| homeassistant-test-tami4 | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tami4 |
 | homeassistant-test-tankerkoenig | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tankerkoenig |
 | homeassistant-test-tasmota | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tasmota |
 | homeassistant-test-tautulli | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tautulli |
@@ -17438,6 +17444,7 @@
 | homeassistant-test-voicerss | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.voicerss |
 | homeassistant-test-voip | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.voip |
 | homeassistant-test-volumio | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volumio |
+| homeassistant-test-volvo | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volvo |
 | homeassistant-test-volvooncall | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volvooncall |
 | homeassistant-test-vulcan | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vulcan |
 | homeassistant-test-vultr | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vultr |
@@ -17467,6 +17474,7 @@
 | homeassistant-test-withings | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.withings |
 | homeassistant-test-wiz | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wiz |
 | homeassistant-test-wled | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wled |
+| homeassistant-test-wmspro | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wmspro |
 | homeassistant-test-wolflink | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wolflink |
 | homeassistant-test-workday | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.workday |
 | homeassistant-test-worldclock | 2025.8.0 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.worldclock |
@@ -17935,8 +17943,6 @@
 | hyperv-daemons | 6.12.41 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages-libre.hyperv-daemons |
 | hyperv-daemons | 6.12.41 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages.hyperv-daemons |
 | hyperv-daemons | 6.12.41 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_xanmod.hyperv-daemons |
-| hyperv-daemons | 6.15.8 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hyperv-daemons |
-| hyperv-daemons | 6.15.8 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_zen.hyperv-daemons |
 | hyperv-daemons | 6.15.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.hyperv-daemons |
 | hyperv-daemons | 6.15.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.hyperv-daemons |
 | hyperv-daemons | 6.15.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.hyperv-daemons |
@@ -17946,8 +17952,10 @@
 | hyperv-daemons | 6.15.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.hyperv-daemons |
 | hyperv-daemons | 6.16 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.hyperv-daemons |
 | hyperv-daemons | 6.16 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.hyperv-daemons |
+| hyperv-daemons | 6.16 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hyperv-daemons |
 | hyperv-daemons | 6.16 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_latest-libre.hyperv-daemons |
 | hyperv-daemons | 6.16 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_latest.hyperv-daemons |
+| hyperv-daemons | 6.16 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_zen.hyperv-daemons |
 | hyperv-daemons | 6.6.101 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.hyperv-daemons |
 | hyperv-daemons | 6.6.94 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.hyperv-daemons |
 | hyperv-daemons | 6.6.94 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.hyperv-daemons |
@@ -18396,7 +18404,7 @@
 | iina | 1.3.5 | Modern media player for macOS | legacyPackages.x86_64-linux.iina |
 | iio-hyprland | 0-unstable-2025-06-11 | Listens to iio-sensor-proxy and automatically changes Hyprland output orientation | legacyPackages.x86_64-linux.iio-hyprland |
 | iio-oscilloscope | 0.17 | GTK+ based oscilloscope application for interfacing with various IIO devices | legacyPackages.x86_64-linux.iio-oscilloscope |
-| iio-sensor-proxy | 3.7 | Proxy for sending IIO sensor data to D-Bus | legacyPackages.x86_64-linux.iio-sensor-proxy |
+| iio-sensor-proxy | 3.8 | Proxy for sending IIO sensor data to D-Bus | legacyPackages.x86_64-linux.iio-sensor-proxy |
 | iio-utils | 5.10.238 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.iio-utils |
 | iio-utils | 5.10.238 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.iio-utils |
 | iio-utils | 5.10.240 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.iio-utils |
@@ -18419,8 +18427,6 @@
 | iio-utils | 6.12.41 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages-libre.iio-utils |
 | iio-utils | 6.12.41 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages.iio-utils |
 | iio-utils | 6.12.41 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_xanmod.iio-utils |
-| iio-utils | 6.15.8 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.iio-utils |
-| iio-utils | 6.15.8 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_zen.iio-utils |
 | iio-utils | 6.15.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.iio-utils |
 | iio-utils | 6.15.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.iio-utils |
 | iio-utils | 6.15.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.iio-utils |
@@ -18430,8 +18436,10 @@
 | iio-utils | 6.15.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.iio-utils |
 | iio-utils | 6.16 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.iio-utils |
 | iio-utils | 6.16 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.iio-utils |
+| iio-utils | 6.16 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.iio-utils |
 | iio-utils | 6.16 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_latest-libre.iio-utils |
 | iio-utils | 6.16 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_latest.iio-utils |
+| iio-utils | 6.16 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_zen.iio-utils |
 | iio-utils | 6.6.101 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.iio-utils |
 | iio-utils | 6.6.94 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.iio-utils |
 | iio-utils | 6.6.94 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.iio-utils |
@@ -18773,8 +18781,6 @@
 | intel-speed-select | 6.12.41 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages-libre.intel-speed-select |
 | intel-speed-select | 6.12.41 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages.intel-speed-select |
 | intel-speed-select | 6.12.41 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_xanmod.intel-speed-select |
-| intel-speed-select | 6.15.8 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.intel-speed-select |
-| intel-speed-select | 6.15.8 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_zen.intel-speed-select |
 | intel-speed-select | 6.15.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.intel-speed-select |
 | intel-speed-select | 6.15.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.intel-speed-select |
 | intel-speed-select | 6.15.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.intel-speed-select |
@@ -18784,8 +18790,10 @@
 | intel-speed-select | 6.15.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.intel-speed-select |
 | intel-speed-select | 6.16 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.intel-speed-select |
 | intel-speed-select | 6.16 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.intel-speed-select |
+| intel-speed-select | 6.16 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.intel-speed-select |
 | intel-speed-select | 6.16 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_latest-libre.intel-speed-select |
 | intel-speed-select | 6.16 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_latest.intel-speed-select |
+| intel-speed-select | 6.16 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_zen.intel-speed-select |
 | intel-speed-select | 6.6.101 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.intel-speed-select |
 | intel-speed-select | 6.6.94 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.intel-speed-select |
 | intel-speed-select | 6.6.94 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.intel-speed-select |
@@ -19038,8 +19046,6 @@
 | isgx | 2.14-6.12.41 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages-libre.isgx |
 | isgx | 2.14-6.12.41 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages.isgx |
 | isgx | 2.14-6.12.41 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.isgx |
-| isgx | 2.14-6.15.8 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.isgx |
-| isgx | 2.14-6.15.8 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_zen.isgx |
 | isgx | 2.14-6.15.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.isgx |
 | isgx | 2.14-6.15.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.isgx |
 | isgx | 2.14-6.15.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.isgx |
@@ -19049,8 +19055,10 @@
 | isgx | 2.14-6.15.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.isgx |
 | isgx | 2.14-6.16 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.isgx |
 | isgx | 2.14-6.16 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.isgx |
+| isgx | 2.14-6.16 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.isgx |
 | isgx | 2.14-6.16 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.isgx |
 | isgx | 2.14-6.16 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_latest.isgx |
+| isgx | 2.14-6.16 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_zen.isgx |
 | isgx | 2.14-6.6.101 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.isgx |
 | isgx | 2.14-6.6.94 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.isgx |
 | isgx | 2.14-6.6.94 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.isgx |
@@ -19117,8 +19125,6 @@
 | it87-unstable | 2024-06-09-6.12.41 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages-libre.it87 |
 | it87-unstable | 2024-06-09-6.12.41 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages.it87 |
 | it87-unstable | 2024-06-09-6.12.41 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_xanmod.it87 |
-| it87-unstable | 2024-06-09-6.15.8 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.it87 |
-| it87-unstable | 2024-06-09-6.15.8 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_zen.it87 |
 | it87-unstable | 2024-06-09-6.15.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.it87 |
 | it87-unstable | 2024-06-09-6.15.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.it87 |
 | it87-unstable | 2024-06-09-6.15.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.it87 |
@@ -19128,8 +19134,10 @@
 | it87-unstable | 2024-06-09-6.15.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.it87 |
 | it87-unstable | 2024-06-09-6.16 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.it87 |
 | it87-unstable | 2024-06-09-6.16 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.it87 |
+| it87-unstable | 2024-06-09-6.16 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.it87 |
 | it87-unstable | 2024-06-09-6.16 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_latest-libre.it87 |
 | it87-unstable | 2024-06-09-6.16 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_latest.it87 |
+| it87-unstable | 2024-06-09-6.16 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_zen.it87 |
 | it87-unstable | 2024-06-09-6.6.101 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.it87 |
 | it87-unstable | 2024-06-09-6.6.94 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.it87 |
 | it87-unstable | 2024-06-09-6.6.94 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.it87 |
@@ -19274,8 +19282,6 @@
 | ixgbevf | 4.6.1-6.12.41 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages-libre.ixgbevf |
 | ixgbevf | 4.6.1-6.12.41 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages.ixgbevf |
 | ixgbevf | 4.6.1-6.12.41 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.ixgbevf |
-| ixgbevf | 4.6.1-6.15.8 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ixgbevf |
-| ixgbevf | 4.6.1-6.15.8 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.15.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ixgbevf |
 | ixgbevf | 4.6.1-6.15.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ixgbevf |
 | ixgbevf | 4.6.1-6.15.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ixgbevf |
@@ -19285,8 +19291,10 @@
 | ixgbevf | 4.6.1-6.15.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ixgbevf |
 | ixgbevf | 4.6.1-6.16 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ixgbevf |
 | ixgbevf | 4.6.1-6.16 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ixgbevf |
+| ixgbevf | 4.6.1-6.16 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.16 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ixgbevf |
 | ixgbevf | 4.6.1-6.16 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_latest.ixgbevf |
+| ixgbevf | 4.6.1-6.16 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.6.101 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ixgbevf |
 | ixgbevf | 4.6.1-6.6.94 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ixgbevf |
 | ixgbevf | 4.6.1-6.6.94 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ixgbevf |
@@ -19380,7 +19388,7 @@
 | jcef-jetbrains | 1014 | Jetbrains' fork of JCEF | legacyPackages.x86_64-linux.jetbrains.jcef |
 | jcli | 0.0.47 | Jenkins CLI allows you to manage your Jenkins in an easy way | legacyPackages.x86_64-linux.jcli |
 | jconvolver | 1.1.0 | JACK client and audio file convolver with reverb samples | legacyPackages.x86_64-linux.jconvolver |
-| jd-diff-patch | 2.2.3 | Commandline utility and Go library for diffing and patching JSON values | legacyPackages.x86_64-linux.jd-diff-patch |
+| jd-diff-patch | 2.2.5 | Commandline utility and Go library for diffing and patching JSON values | legacyPackages.x86_64-linux.jd-diff-patch |
 | jdd | 0.4.5 | Johnny Decimal daemon for automatically organizing files into the correct drawer using their filename | legacyPackages.x86_64-linux.jdd |
 | jdepend | 2.10 | Traverses Java class file directories and generates design quality metrics for each Java package | legacyPackages.x86_64-linux.jdepend |
 | jdiskreport | 1.4.1 | Graphical utility to visualize disk usage | legacyPackages.x86_64-linux.jdiskreport |
@@ -19400,7 +19408,7 @@
 | jellyfin-media-player | 1.12.0 | Jellyfin Desktop Client based on Plex Media Player | legacyPackages.x86_64-linux.jellyfin-media-player |
 | jellyfin-mpv-shim | 2.9.0 | Allows casting of videos to MPV via the jellyfin mobile and web app | legacyPackages.x86_64-linux.jellyfin-mpv-shim |
 | jellyfin-rpc | 1.3.3 | Displays the content you're currently watching on Discord | legacyPackages.x86_64-linux.jellyfin-rpc |
-| jellyfin-tui | 1.2.3 | Jellyfin music streaming client for the terminal | legacyPackages.x86_64-linux.jellyfin-tui |
+| jellyfin-tui | 1.2.4 | Jellyfin music streaming client for the terminal | legacyPackages.x86_64-linux.jellyfin-tui |
 | jellyfin-web | 10.10.7 | Web Client for Jellyfin | legacyPackages.x86_64-linux.jellyfin-web |
 | jellyflix | 1.4.886 | Easy-to-use Jellyfin client for movies and shows | legacyPackages.x86_64-linux.jellyflix |
 | jellyseerr | 2.7.2 | Fork of overseerr for jellyfin support | legacyPackages.x86_64-linux.jellyseerr |
@@ -19534,8 +19542,6 @@
 | jool | 4.1.14-6.12.41 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages-libre.jool |
 | jool | 4.1.14-6.12.41 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages.jool |
 | jool | 4.1.14-6.12.41 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_xanmod.jool |
-| jool | 4.1.14-6.15.8 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.jool |
-| jool | 4.1.14-6.15.8 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_zen.jool |
 | jool | 4.1.14-6.15.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.jool |
 | jool | 4.1.14-6.15.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.jool |
 | jool | 4.1.14-6.15.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.jool |
@@ -19545,8 +19551,10 @@
 | jool | 4.1.14-6.15.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.jool |
 | jool | 4.1.14-6.16 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.jool |
 | jool | 4.1.14-6.16 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.jool |
+| jool | 4.1.14-6.16 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.jool |
 | jool | 4.1.14-6.16 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_latest-libre.jool |
 | jool | 4.1.14-6.16 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_latest.jool |
+| jool | 4.1.14-6.16 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_zen.jool |
 | jool | 4.1.14-6.6.101 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.jool |
 | jool | 4.1.14-6.6.94 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.jool |
 | jool | 4.1.14-6.6.94 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.jool |
@@ -19683,7 +19691,7 @@
 | julius | 1.8.0 | Open source re-implementation of Caesar III | legacyPackages.x86_64-linux.julius |
 | jumanpp | 2.0.0-rc3 | Japanese morphological analyser using a recurrent neural network language model (RNNLM) | legacyPackages.x86_64-linux.jumanpp |
 | jump | 0.51.0 | Navigate directories faster by learning your habits | legacyPackages.x86_64-linux.jump |
-| jump-to-char.yazi | 25.5.31-unstable-2025-06-18 | Switch the preview pane between hidden and shown | legacyPackages.x86_64-linux.yaziPlugins.jump-to-char |
+| jump-to-char.yazi | 25.5.31-unstable-2025-06-18 | Vim-like f<char>, jump to the next file whose name starts with <char>. | legacyPackages.x86_64-linux.yaziPlugins.jump-to-char |
 | jumpapp | 1.2 | Run-or-raise application switcher for any X11 desktop | legacyPackages.x86_64-linux.jumpapp |
 | jumplines | 0.2 | Articles with teasers and continuation later on | legacyPackages.x86_64-linux.texlivePackages.jumplines |
 | jumpnbump | 1.70-dev | Cute, true multiplayer platform game with bunnies | legacyPackages.x86_64-linux.jumpnbump |
@@ -20583,7 +20591,7 @@
 | knotifyconfig | 5.116.0 |  | legacyPackages.x86_64-linux.plasma5Packages.knotifyconfig |
 | knotifyconfig | 6.17.0 | KNotifyConfig | legacyPackages.x86_64-linux.kdePackages.knotifyconfig |
 | knowledge | 1.31 | Displaying, hyperlinking, and indexing notions in a document | legacyPackages.x86_64-linux.texlivePackages.knowledge |
-| knowsmore | 0.1.45 | Tool for pentesting Microsoft Active Directory | legacyPackages.x86_64-linux.knowsmore |
+| knowsmore | 0.1.46 | Tool for pentesting Microsoft Active Directory | legacyPackages.x86_64-linux.knowsmore |
 | kns | 0-unstable-2023-04-25 | Kubernetes namespace switcher | legacyPackages.x86_64-linux.kns |
 | knuth-errata | 58682 | Knuth's published errata | legacyPackages.x86_64-linux.texlivePackages.knuth-errata |
 | knuth-hint | 2.6 | HINT collection of typeset C/WEB sources in TeX Live | legacyPackages.x86_64-linux.texlivePackages.knuth-hint |
@@ -21501,7 +21509,7 @@
 | leaps | 0.9.1 | Pair programming tool and library written in Golang | legacyPackages.x86_64-linux.leaps |
 | learn6502 | 0.2.0 | Modern 6502 Assembly Learning Environment for GNOME | legacyPackages.x86_64-linux.learn6502 |
 | leatherman | 1.12.13 | Collection of C++ and CMake utility libraries | legacyPackages.x86_64-linux.leatherman |
-| leave-git-nix-source-salted-krfb2wlmj9l7 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.leave-git |
+| leave-git-nix-source-salted-c5q9ij35583v |  |  | legacyPackages.x86_64-linux.tests.fetchgit.leave-git |
 | lebhart | 70049 | Write your articles in a colorful way | legacyPackages.x86_64-linux.texlivePackages.lebhart |
 | lecturenotes | 3.2 | A LaTeX document class for lecture notes | legacyPackages.x86_64-linux.texlivePackages.lecturenotes |
 | lecturer | 23916 | On-screen presentations for (almost) all formats | legacyPackages.x86_64-linux.texlivePackages.lecturer |
@@ -22413,7 +22421,7 @@
 | libmsgraph | 0.3.3 | Library to access MS Graph API for Office 365 | legacyPackages.x86_64-linux.libmsgraph |
 | libmspack | 0.11alpha | De/compression library for various Microsoft formats | legacyPackages.x86_64-linux.libmspack |
 | libmspub | 0.1.4 | Microsoft Publisher import library | legacyPackages.x86_64-linux.libmspub |
-| libmsquic | 2.4.14 | Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust | legacyPackages.x86_64-linux.libmsquic |
+| libmsquic | 2.5.0 | Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust | legacyPackages.x86_64-linux.libmsquic |
 | libmsym | 0.2.3 | Molecular point group symmetry lib | legacyPackages.x86_64-linux.libmsym |
 | libmt32emu | 2.7.2 | Library to emulate Roland MT-32, CM-32L, CM-64 and LAPC-I devices | legacyPackages.x86_64-linux.libmt32emu |
 | libmtp | 1.1.22 | Implementation of Microsoft's Media Transfer Protocol | legacyPackages.x86_64-linux.libmtp |
@@ -22721,7 +22729,7 @@
 | libretro-core-info | 1.21.1 | Libretro's core info files | legacyPackages.x86_64-linux.libretro-core-info |
 | libretro-desmume | 0-unstable-2024-10-21 | Port of DeSmuME to libretro | legacyPackages.x86_64-linux.libretro.desmume |
 | libretro-desmume2015 | 0-unstable-2022-04-05 | Port of DeSmuME ~2015 to libretro | legacyPackages.x86_64-linux.libretro.desmume2015 |
-| libretro-dolphin | 0-unstable-2025-05-17 | Port of Dolphin to libretro | legacyPackages.x86_64-linux.libretro.dolphin |
+| libretro-dolphin | 0-unstable-2025-08-05 | Port of Dolphin to libretro | legacyPackages.x86_64-linux.libretro.dolphin |
 | libretro-dosbox | 0-unstable-2022-07-18 | Port of DOSBox to libretro | legacyPackages.x86_64-linux.libretro.dosbox |
 | libretro-dosbox-pure | 0-unstable-2025-08-03 | Port of DOSBox to libretro aiming for simplicity and ease of use | legacyPackages.x86_64-linux.libretro.dosbox-pure |
 | libretro-easyrpg | 0.8.1.1 | EasyRPG Player libretro port | legacyPackages.x86_64-linux.libretro.easyrpg |
@@ -22766,7 +22774,7 @@
 | libretro-mrboom | 0-unstable-2024-10-21 | Port of Mr.Boom to libretro | legacyPackages.x86_64-linux.libretro.mrboom |
 | libretro-mupen64plus-next | 0-unstable-2025-07-29 | Libretro port of Mupen64 Plus | legacyPackages.x86_64-linux.libretro.mupen64plus |
 | libretro-neocd | 0-unstable-2024-10-21 | NeoCD libretro port | legacyPackages.x86_64-linux.libretro.neocd |
-| libretro-nestopia | 0-unstable-2025-07-20 | Nestopia libretro port | legacyPackages.x86_64-linux.libretro.nestopia |
+| libretro-nestopia | 0-unstable-2025-08-09 | Nestopia libretro port | legacyPackages.x86_64-linux.libretro.nestopia |
 | libretro-np2kai | 0-unstable-2024-11-03 | Neko Project II kai libretro port | legacyPackages.x86_64-linux.libretro.np2kai |
 | libretro-nxengine | 0-unstable-2024-10-21 | NXEngine libretro port | legacyPackages.x86_64-linux.libretro.nxengine |
 | libretro-o2em | 0-unstable-2024-10-21 | Port of O2EM to libretro | legacyPackages.x86_64-linux.libretro.o2em |
@@ -23251,7 +23259,7 @@
 | linop | 0.1 | Typeset linear operators as they appear in quantum theory or linear algebra | legacyPackages.x86_64-linux.texlivePackages.linop |
 | linphone-desktop | 5.1.2 | Open source SIP phone for voice/video calls and instant messaging | legacyPackages.x86_64-linux.linphone |
 | linssid | 2.7 | Graphical wireless scanning for Linux | legacyPackages.x86_64-linux.linssid |
-| lint-staged | 16.1.2 | Run linters on git staged files | legacyPackages.x86_64-linux.lint-staged |
+| lint-staged | 16.1.3 | Run linters on git staged files | legacyPackages.x86_64-linux.lint-staged |
 | linthesia-unstable | 2023-05-23 | Game of playing music using a MIDI keyboard following a MIDI file | legacyPackages.x86_64-linux.linthesia |
 | lintspec | 0.6.1 | Blazingly fast linter for NatSpec comments in Solidity code | legacyPackages.x86_64-linux.lintspec |
 | linux | 5.10.240 | The Linux kernel (with patches: bridge-stp-helper, request-key-helper) | legacyPackages.x86_64-linux.linuxKernel.kernels.linux_5_10 |
@@ -23415,10 +23423,10 @@
 | linux-xanmod | 6.15.9 | Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.kernel |
 | linux-xanmod | 6.15.9 | Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience | legacyPackages.x86_64-linux.linux_xanmod_latest |
 | linux-xanmod | 6.15.9 | Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience | legacyPackages.x86_64-linux.linux_xanmod_stable |
-| linux-zen | 6.15.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.kernels.linux_zen |
-| linux-zen | 6.15.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kernel |
-| linux-zen | 6.15.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxPackages_zen.kernel |
-| linux-zen | 6.15.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linux_zen |
+| linux-zen | 6.16 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.kernels.linux_zen |
+| linux-zen | 6.16 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kernel |
+| linux-zen | 6.16 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxPackages_zen.kernel |
+| linux-zen | 6.16 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linux_zen |
 | linux_logo | 6.01 | Prints an ASCII logo and some system info | legacyPackages.x86_64-linux.linux_logo |
 | linuxconsoletools | 1.8.1 | Set of tools for joysticks and serial peripherals | legacyPackages.x86_64-linux.linuxConsoleTools |
 | linuxdoc-tools | 0.9.86 | Toolset for processing LinuxDoc DTD SGML files | legacyPackages.x86_64-linux.linuxdoc-tools |
@@ -23463,8 +23471,6 @@
 | liquidtux | 0.1.0-unstable-2025-01-16-6.12.41 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages-libre.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.12.41 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.12.41 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_xanmod.liquidtux |
-| liquidtux | 0.1.0-unstable-2025-01-16-6.15.8 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.liquidtux |
-| liquidtux | 0.1.0-unstable-2025-01-16-6.15.8 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.15.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.15.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.15.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.liquidtux |
@@ -23474,8 +23480,10 @@
 | liquidtux | 0.1.0-unstable-2025-01-16-6.15.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.16 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.16 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.liquidtux |
+| liquidtux | 0.1.0-unstable-2025-01-16-6.16 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.16 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_latest-libre.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.16 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_latest.liquidtux |
+| liquidtux | 0.1.0-unstable-2025-01-16-6.16 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.6.101 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.6.94 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.6.94 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.liquidtux |
@@ -23576,8 +23584,6 @@
 | lkrg | 0.9.9-6.12.41 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages-libre.lkrg |
 | lkrg | 0.9.9-6.12.41 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages.lkrg |
 | lkrg | 0.9.9-6.12.41 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.lkrg |
-| lkrg | 0.9.9-6.15.8 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lkrg |
-| lkrg | 0.9.9-6.15.8 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.lkrg |
 | lkrg | 0.9.9-6.15.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.lkrg |
 | lkrg | 0.9.9-6.15.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lkrg |
 | lkrg | 0.9.9-6.15.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.lkrg |
@@ -23587,8 +23593,10 @@
 | lkrg | 0.9.9-6.15.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lkrg |
 | lkrg | 0.9.9-6.16 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.lkrg |
 | lkrg | 0.9.9-6.16 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.lkrg |
+| lkrg | 0.9.9-6.16 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lkrg |
 | lkrg | 0.9.9-6.16 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.lkrg |
 | lkrg | 0.9.9-6.16 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.lkrg |
+| lkrg | 0.9.9-6.16 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.lkrg |
 | lkrg | 0.9.9-6.6.101 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lkrg |
 | lkrg | 0.9.9-6.6.94 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.lkrg |
 | lkrg | 0.9.9-6.6.94 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.lkrg |
@@ -23799,7 +23807,7 @@
 | lobster2 | 64442 | Lobster Two fonts, with support for all LaTeX engines | legacyPackages.x86_64-linux.texlivePackages.lobster2 |
 | local | 0.1.0.0 | Nixpkgs test case | legacyPackages.x86_64-linux.tests.haskell.cabalSdist.localFromCabalSdist |
 | local-ai | 2.28.0 | OpenAI alternative to run local LLMs, image and audio generation | legacyPackages.x86_64-linux.local-ai |
-| local-content-share | 31 | Storing/sharing text/files in your local network with no setup on client devices | legacyPackages.x86_64-linux.local-content-share |
+| local-content-share | 32 | Storing/sharing text/files in your local network with no setup on client devices | legacyPackages.x86_64-linux.local-content-share |
 | localHasDirectReference |  |  | legacyPackages.x86_64-linux.tests.haskell.cabalSdist.assumptionLocalHasDirectReference |
 | localHasNoDirectReference |  |  | legacyPackages.x86_64-linux.tests.haskell.cabalSdist.localHasNoDirectReference |
 | locale | 118 | Locale data for Darwin | legacyPackages.x86_64-linux.darwin.locale |
@@ -24060,8 +24068,6 @@
 | lttng-modules | 6.12.41-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages-libre.lttng-modules |
 | lttng-modules | 6.12.41-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages.lttng-modules |
 | lttng-modules | 6.12.41-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_xanmod.lttng-modules |
-| lttng-modules | 6.15.8-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lttng-modules |
-| lttng-modules | 6.15.8-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_zen.lttng-modules |
 | lttng-modules | 6.15.9-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.lttng-modules |
 | lttng-modules | 6.15.9-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lttng-modules |
 | lttng-modules | 6.15.9-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.lttng-modules |
@@ -24071,8 +24077,10 @@
 | lttng-modules | 6.15.9-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lttng-modules |
 | lttng-modules | 6.16-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.lttng-modules |
 | lttng-modules | 6.16-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.lttng-modules |
+| lttng-modules | 6.16-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lttng-modules |
 | lttng-modules | 6.16-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_latest-libre.lttng-modules |
 | lttng-modules | 6.16-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_latest.lttng-modules |
+| lttng-modules | 6.16-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_zen.lttng-modules |
 | lttng-modules | 6.6.101-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lttng-modules |
 | lttng-modules | 6.6.94-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.lttng-modules |
 | lttng-modules | 6.6.94-2.13.15 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.lttng-modules |
@@ -25820,7 +25828,7 @@
 | matomo | 5.3.2 | Real-time web analytics application | legacyPackages.x86_64-linux.matomo |
 | matomo | 5.3.2 | Real-time web analytics application | legacyPackages.x86_64-linux.matomo_5 |
 | matrix-alertmanager | 0.9.0 | Bot to receive Alertmanager webhook events and forward them to chosen rooms | legacyPackages.x86_64-linux.matrix-alertmanager |
-| matrix-alertmanager-receiver | 2025.7.30 | Alertmanager client that forwards alerts to a Matrix room | legacyPackages.x86_64-linux.matrix-alertmanager-receiver |
+| matrix-alertmanager-receiver | 2025.8.6 | Alertmanager client that forwards alerts to a Matrix room | legacyPackages.x86_64-linux.matrix-alertmanager-receiver |
 | matrix-appservice-discord | 4.0.0 | Bridge between Matrix and Discord | legacyPackages.x86_64-linux.matrix-appservice-discord |
 | matrix-appservice-irc | 3.0.5 | Node.js IRC bridge for Matrix | legacyPackages.x86_64-linux.matrix-appservice-irc |
 | matrix-appservice-slack | 2.1.2 | Matrix <--> Slack bridge | legacyPackages.x86_64-linux.matrix-appservice-slack |
@@ -26147,7 +26155,7 @@
 | meilisearch | 1.15.2 | Powerful, fast, and an easy to use search engine | legacyPackages.x86_64-linux.meilisearch |
 | mekuteriya | 0.1.5 | Ethiopian Calendar CLI | legacyPackages.x86_64-linux.mekuteriya |
 | mela | 2.0.1 | Mellin Evolution LibrAry | legacyPackages.x86_64-linux.mela |
-| melange | 0.30.1 | Build APKs from source code | legacyPackages.x86_64-linux.melange |
+| melange | 0.30.5 | Build APKs from source code | legacyPackages.x86_64-linux.melange |
 | meld | 3.23.0 | Visual diff and merge tool | legacyPackages.x86_64-linux.meld |
 | melete | 0.200 | Headline typeface that could be used as a movie title | legacyPackages.x86_64-linux.melete |
 | meletrix-udev-rules | 0-unstable-2023-10-20 | udev rules to configure Meletrix keyboards | legacyPackages.x86_64-linux.meletrix-udev-rules |
@@ -27195,7 +27203,7 @@
 | mpv-quality-menu | 4.2.1 | Userscript for MPV that allows you to change youtube video quality (ytdl-format) on the fly | legacyPackages.x86_64-linux.mpvScripts.quality-menu |
 | mpv-reload | 0-unstable-2024-03-22 | Manual & automatic reloading of videos | legacyPackages.x86_64-linux.mpvScripts.reload |
 | mpv-shim-default-shaders | 2.1.0 | Preconfigured set of MPV shaders and configurations for MPV Shim media clients | legacyPackages.x86_64-linux.mpv-shim-default-shaders |
-| mpv-skipsilence | 0-unstable-2024-05-06 | Increase playback speed during silence | legacyPackages.x86_64-linux.mpvScripts.skipsilence |
+| mpv-skipsilence | 0-unstable-2025-08-03 | Increase playback speed during silence | legacyPackages.x86_64-linux.mpvScripts.skipsilence |
 | mpv-slicing | 0-unstable-2017-11-25 | Lua script to cut fragments of the video in uncompressed RGB format | legacyPackages.x86_64-linux.mpvScripts.mpv-slicing |
 | mpv-subs-popout | 0.5.3 | Little application that makes it possible to display mpv's subs anywhere you want. With translation features | legacyPackages.x86_64-linux.mpv-subs-popout |
 | mpv-subtitle-lines | 0-unstable-2024-05-19 | List and search subtitle lines of the selected subtitle track | legacyPackages.x86_64-linux.mpvScripts.mpv-subtitle-lines |
@@ -27538,8 +27546,6 @@
 | mwprocapture | 1.3.4418-6.12.41 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages-libre.mwprocapture |
 | mwprocapture | 1.3.4418-6.12.41 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages.mwprocapture |
 | mwprocapture | 1.3.4418-6.12.41 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_xanmod.mwprocapture |
-| mwprocapture | 1.3.4418-6.15.8 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mwprocapture |
-| mwprocapture | 1.3.4418-6.15.8 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.15.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mwprocapture |
 | mwprocapture | 1.3.4418-6.15.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mwprocapture |
 | mwprocapture | 1.3.4418-6.15.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.mwprocapture |
@@ -27549,8 +27555,10 @@
 | mwprocapture | 1.3.4418-6.15.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mwprocapture |
 | mwprocapture | 1.3.4418-6.16 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.mwprocapture |
 | mwprocapture | 1.3.4418-6.16 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.mwprocapture |
+| mwprocapture | 1.3.4418-6.16 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.16 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_latest-libre.mwprocapture |
 | mwprocapture | 1.3.4418-6.16 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_latest.mwprocapture |
+| mwprocapture | 1.3.4418-6.16 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.6.101 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mwprocapture |
 | mwprocapture | 1.3.4418-6.6.94 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.mwprocapture |
 | mwprocapture | 1.3.4418-6.6.94 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.mwprocapture |
@@ -27581,8 +27589,6 @@
 | mxu11x0 | 5.1-6.12.41 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages-libre.mxu11x0 |
 | mxu11x0 | 5.1-6.12.41 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages.mxu11x0 |
 | mxu11x0 | 5.1-6.12.41 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.mxu11x0 |
-| mxu11x0 | 5.1-6.15.8 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0 |
-| mxu11x0 | 5.1-6.15.8 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.15.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mxu11x0 |
 | mxu11x0 | 5.1-6.15.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mxu11x0 |
 | mxu11x0 | 5.1-6.15.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.mxu11x0 |
@@ -27592,8 +27598,10 @@
 | mxu11x0 | 5.1-6.15.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mxu11x0 |
 | mxu11x0 | 5.1-6.16 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.mxu11x0 |
 | mxu11x0 | 5.1-6.16 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.mxu11x0 |
+| mxu11x0 | 5.1-6.16 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.16 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.mxu11x0 |
 | mxu11x0 | 5.1-6.16 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_latest.mxu11x0 |
+| mxu11x0 | 5.1-6.16 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.6.101 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mxu11x0 |
 | mxu11x0 | 5.1-6.6.94 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.mxu11x0 |
 | mxu11x0 | 5.1-6.6.94 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.mxu11x0 |
@@ -27613,7 +27621,7 @@
 | mylatexformat | 3.4 | Build a format based on the preamble of a LaTeX file | legacyPackages.x86_64-linux.texlivePackages.mylatexformat |
 | mylvmbackup | 0.16 | Tool for quickly creating full physical backups of a MySQL server's data files | legacyPackages.x86_64-linux.mylvmbackup |
 | mymcplus | 3.0.5 | PlayStation 2 memory card manager | legacyPackages.x86_64-linux.mymcplus |
-| mympd | 22.0.3 | Standalone and mobile friendly web mpd client with a tiny footprint and advanced features | legacyPackages.x86_64-linux.mympd |
+| mympd | 22.0.4 | Standalone and mobile friendly web mpd client with a tiny footprint and advanced features | legacyPackages.x86_64-linux.mympd |
 | mynewt-newt | 1.10.0 | Build and package management tool for embedded development | legacyPackages.x86_64-linux.mynewt-newt |
 | mynewt-newtmgr | 1.10.0 | Tool to communicate with devices running Mynewt OS | legacyPackages.x86_64-linux.mynewt-newtmgr |
 | mynsfc | 1.30 | XeLaTeX template for writing the main body of NSFC proposals | legacyPackages.x86_64-linux.texlivePackages.mynsfc |
@@ -27667,7 +27675,7 @@
 | naive-ebnf | 0.0.18 | EBNF in plain text | legacyPackages.x86_64-linux.texlivePackages.naive-ebnf |
 | naja | 0.2.2 | Structural Netlist API (and more) for EDA post synthesis flow development | legacyPackages.x86_64-linux.naja |
 | nak | 0.15.2 | Command-line tool for Nostr things | legacyPackages.x86_64-linux.nak |
-| nakama | 3.29.0 | Distributed server for social and realtime games and apps | legacyPackages.x86_64-linux.nakama |
+| nakama | 3.30.0 | Distributed server for social and realtime games and apps | legacyPackages.x86_64-linux.nakama |
 | nali | 0.8.1 | Offline tool for querying IP geographic information and CDN provider | legacyPackages.x86_64-linux.nali |
 | namaka | 0.2.1 | Snapshot testing tool for Nix based on haumea | legacyPackages.x86_64-linux.namaka |
 | namazu | 2.0.21 | Full-text search engine | legacyPackages.x86_64-linux.namazu |
@@ -27858,8 +27866,6 @@
 | ndiswrapper | 1.63-6.12.41 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages-libre.ndiswrapper |
 | ndiswrapper | 1.63-6.12.41 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages.ndiswrapper |
 | ndiswrapper | 1.63-6.12.41 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_xanmod.ndiswrapper |
-| ndiswrapper | 1.63-6.15.8 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper |
-| ndiswrapper | 1.63-6.15.8 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.15.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ndiswrapper |
 | ndiswrapper | 1.63-6.15.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ndiswrapper |
 | ndiswrapper | 1.63-6.15.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ndiswrapper |
@@ -27869,8 +27875,10 @@
 | ndiswrapper | 1.63-6.15.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ndiswrapper |
 | ndiswrapper | 1.63-6.16 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ndiswrapper |
 | ndiswrapper | 1.63-6.16 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ndiswrapper |
+| ndiswrapper | 1.63-6.16 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.16 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ndiswrapper |
 | ndiswrapper | 1.63-6.16 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_latest.ndiswrapper |
+| ndiswrapper | 1.63-6.16 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.6.101 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ndiswrapper |
 | ndiswrapper | 1.63-6.6.94 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ndiswrapper |
 | ndiswrapper | 1.63-6.6.94 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ndiswrapper |
@@ -28067,8 +28075,6 @@
 | netatop | 6.12.41-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages-libre.netatop |
 | netatop | 6.12.41-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages.netatop |
 | netatop | 6.12.41-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod.netatop |
-| netatop | 6.15.8-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.netatop |
-| netatop | 6.15.8-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_zen.netatop |
 | netatop | 6.15.9-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.netatop |
 | netatop | 6.15.9-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.netatop |
 | netatop | 6.15.9-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.netatop |
@@ -28078,8 +28084,10 @@
 | netatop | 6.15.9-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.netatop |
 | netatop | 6.16-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.netatop |
 | netatop | 6.16-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.netatop |
+| netatop | 6.16-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.netatop |
 | netatop | 6.16-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_latest-libre.netatop |
 | netatop | 6.16-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_latest.netatop |
+| netatop | 6.16-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_zen.netatop |
 | netatop | 6.6.101-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.netatop |
 | netatop | 6.6.94-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.netatop |
 | netatop | 6.6.94-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.netatop |
@@ -28560,6 +28568,7 @@
 | nixpkgs-track | 0.3.0 | Track where Nixpkgs pull requests have reached | legacyPackages.x86_64-linux.nixpkgs-track |
 | nixpkgs-vet | 0.1.4 | Tool to vet (check) Nixpkgs, including its pkgs/by-name directory | legacyPackages.x86_64-linux.nixpkgs-vet |
 | nixseparatedebuginfod | 0.4.0 | Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed | legacyPackages.x86_64-linux.nixseparatedebuginfod |
+| nixseparatedebuginfod2 | 0.1.0 | Downloads and provides debug symbols and source code for nix derivations to gdb and other debuginfod-capable debuggers as needed | legacyPackages.x86_64-linux.nixseparatedebuginfod2 |
 | nixt | 2.6.4 | Supporting library that wraps C++ nix | legacyPackages.x86_64-linux.nixt |
 | nixtract | 0.3.0 | CLI tool to extract the graph of derivations from a Nix flake | legacyPackages.x86_64-linux.nixtract |
 | njam | 1.25 | Cross-platform pacman-like game | legacyPackages.x86_64-linux.njam |
@@ -29014,8 +29023,6 @@
 | nvidia-dc | 535.154.05-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_dc_535 |
-| nvidia-dc | 535.154.05-6.15.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_535 |
-| nvidia-dc | 535.154.05-6.15.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_dc_535 |
@@ -29025,8 +29032,10 @@
 | nvidia-dc | 535.154.05-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_dc_535 |
+| nvidia-dc | 535.154.05-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc_535 |
+| nvidia-dc | 535.154.05-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.6.101 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.6.94 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.6.94 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_dc_535 |
@@ -29052,8 +29061,6 @@
 | nvidia-dc | 565.57.01-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_dc_565 |
-| nvidia-dc | 565.57.01-6.15.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565 |
-| nvidia-dc | 565.57.01-6.15.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_dc_565 |
@@ -29063,8 +29070,10 @@
 | nvidia-dc | 565.57.01-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_dc_565 |
+| nvidia-dc | 565.57.01-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc_565 |
+| nvidia-dc | 565.57.01-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.6.101 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.6.94 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.6.94 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_dc_565 |
@@ -29090,8 +29099,6 @@
 | nvidia-dc | 570.172.08-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_dc |
 | nvidia-dc | 570.172.08-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_dc |
 | nvidia-dc | 570.172.08-6.12.41 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_dc |
-| nvidia-dc | 570.172.08-6.15.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc |
-| nvidia-dc | 570.172.08-6.15.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_dc |
 | nvidia-dc | 570.172.08-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc |
 | nvidia-dc | 570.172.08-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_dc |
@@ -29101,8 +29108,10 @@
 | nvidia-dc | 570.172.08-6.15.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc |
 | nvidia-dc | 570.172.08-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_dc |
 | nvidia-dc | 570.172.08-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_dc |
+| nvidia-dc | 570.172.08-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_dc |
 | nvidia-dc | 570.172.08-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc |
+| nvidia-dc | 570.172.08-6.16 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.6.101 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc |
 | nvidia-dc | 570.172.08-6.6.94 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_dc |
 | nvidia-dc | 570.172.08-6.6.94 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_dc |
@@ -29218,16 +29227,6 @@
 | nvidia-open | 6.12.41-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_beta_open |
 | nvidia-open | 6.12.41-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_beta_open |
 | nvidia-open | 6.12.41-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_beta_open |
-| nvidia-open | 6.15.8-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open |
-| nvidia-open | 6.15.8-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open |
-| nvidia-open | 6.15.8-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open |
-| nvidia-open | 6.15.8-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open |
-| nvidia-open | 6.15.8-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open |
-| nvidia-open | 6.15.8-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open |
-| nvidia-open | 6.15.8-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open |
-| nvidia-open | 6.15.8-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open |
-| nvidia-open | 6.15.8-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open |
-| nvidia-open | 6.15.8-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open |
 | nvidia-open | 6.15.9-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.15.9-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.15.9-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta_open |
@@ -29265,24 +29264,34 @@
 | nvidia-open | 6.15.9-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta_open |
 | nvidia-open | 6.16-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.16-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_vulkan_beta_open |
+| nvidia-open | 6.16-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.16-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.16-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta_open |
+| nvidia-open | 6.16-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_production_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_stable_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_production_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_stable_open |
+| nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open |
+| nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_production_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_stable_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production_open |
 | nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_stable_open |
+| nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open |
+| nvidia-open | 6.16-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open |
 | nvidia-open | 6.16-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_latest_open |
 | nvidia-open | 6.16-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_latest_open |
+| nvidia-open | 6.16-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open |
 | nvidia-open | 6.16-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_latest_open |
 | nvidia-open | 6.16-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest_open |
+| nvidia-open | 6.16-575.64.05 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open |
 | nvidia-open | 6.16-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_beta_open |
 | nvidia-open | 6.16-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_beta_open |
+| nvidia-open | 6.16-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open |
 | nvidia-open | 6.16-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_beta_open |
 | nvidia-open | 6.16-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta_open |
+| nvidia-open | 6.16-580.65.06 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open |
 | nvidia-open | 6.6.101-570.123.19 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.6.101-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production_open |
 | nvidia-open | 6.6.101-570.181 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_stable_open |
@@ -29324,8 +29333,6 @@
 | nvidia-x11 | 340.108-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy340 |
-| nvidia-x11 | 340.108-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340 |
-| nvidia-x11 | 340.108-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy340 |
@@ -29335,8 +29342,10 @@
 | nvidia-x11 | 340.108-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_legacy340 |
+| nvidia-x11 | 340.108-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy340 |
+| nvidia-x11 | 340.108-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_legacy340 |
@@ -29362,8 +29371,6 @@
 | nvidia-x11 | 390.157-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy390 |
-| nvidia-x11 | 390.157-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy390 |
-| nvidia-x11 | 390.157-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy390 |
@@ -29373,8 +29380,10 @@
 | nvidia-x11 | 390.157-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_legacy390 |
+| nvidia-x11 | 390.157-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy390 |
+| nvidia-x11 | 390.157-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_legacy390 |
@@ -29400,8 +29409,6 @@
 | nvidia-x11 | 470.256.02-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy470 |
-| nvidia-x11 | 470.256.02-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy470 |
-| nvidia-x11 | 470.256.02-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy470 |
@@ -29411,8 +29418,10 @@
 | nvidia-x11 | 470.256.02-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_legacy470 |
+| nvidia-x11 | 470.256.02-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy470 |
+| nvidia-x11 | 470.256.02-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_legacy470 |
@@ -29438,8 +29447,6 @@
 | nvidia-x11 | 535.261.03-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy535 |
-| nvidia-x11 | 535.261.03-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535 |
-| nvidia-x11 | 535.261.03-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy535 |
@@ -29449,8 +29456,10 @@
 | nvidia-x11 | 535.261.03-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_legacy535 |
+| nvidia-x11 | 535.261.03-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy535 |
+| nvidia-x11 | 535.261.03-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.261.03-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_legacy535 |
@@ -29476,8 +29485,6 @@
 | nvidia-x11 | 570.123.19-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_vulkan_beta |
-| nvidia-x11 | 570.123.19-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta |
-| nvidia-x11 | 570.123.19-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta |
@@ -29487,8 +29494,10 @@
 | nvidia-x11 | 570.123.19-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_vulkan_beta |
+| nvidia-x11 | 570.123.19-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta |
+| nvidia-x11 | 570.123.19-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 570.123.19-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_vulkan_beta |
@@ -29536,10 +29545,6 @@
 | nvidia-x11 | 570.181-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11 |
 | nvidia-x11 | 570.181-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_production |
-| nvidia-x11 | 570.181-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11 |
-| nvidia-x11 | 570.181-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production |
-| nvidia-x11 | 570.181-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11 |
-| nvidia-x11 | 570.181-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11 |
 | nvidia-x11 | 570.181-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11 |
@@ -29558,10 +29563,14 @@
 | nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11 |
 | nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_production |
+| nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11 |
+| nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11 |
 | nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11 |
 | nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production |
+| nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11 |
+| nvidia-x11 | 570.181-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11 |
 | nvidia-x11 | 570.181-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production |
 | nvidia-x11 | 570.181-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11 |
@@ -29590,8 +29599,6 @@
 | nvidia-x11 | 575.64.05-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_latest |
-| nvidia-x11 | 575.64.05-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest |
-| nvidia-x11 | 575.64.05-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_latest |
@@ -29601,8 +29608,10 @@
 | nvidia-x11 | 575.64.05-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_latest |
+| nvidia-x11 | 575.64.05-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest |
+| nvidia-x11 | 575.64.05-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_latest |
 | nvidia-x11 | 575.64.05-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_latest |
@@ -29628,8 +29637,6 @@
 | nvidia-x11 | 580.65.06-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.12.41 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_beta |
-| nvidia-x11 | 580.65.06-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta |
-| nvidia-x11 | 580.65.06-6.15.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta |
@@ -29639,8 +29646,10 @@
 | nvidia-x11 | 580.65.06-6.15.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_beta |
+| nvidia-x11 | 580.65.06-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta |
+| nvidia-x11 | 580.65.06-6.16 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.6.101 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_beta |
 | nvidia-x11 | 580.65.06-6.6.94 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_beta |
@@ -29671,8 +29680,6 @@
 | nvidiabl | 2020-10-01-6.12.41 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages-libre.nvidiabl |
 | nvidiabl | 2020-10-01-6.12.41 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages.nvidiabl |
 | nvidiabl | 2020-10-01-6.12.41 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidiabl |
-| nvidiabl | 2020-10-01-6.15.8 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl |
-| nvidiabl | 2020-10-01-6.15.8 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.15.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidiabl |
 | nvidiabl | 2020-10-01-6.15.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidiabl |
 | nvidiabl | 2020-10-01-6.15.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidiabl |
@@ -29682,8 +29689,10 @@
 | nvidiabl | 2020-10-01-6.15.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidiabl |
 | nvidiabl | 2020-10-01-6.16 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidiabl |
 | nvidiabl | 2020-10-01-6.16 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidiabl |
+| nvidiabl | 2020-10-01-6.16 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.16 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidiabl |
 | nvidiabl | 2020-10-01-6.16 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_latest.nvidiabl |
+| nvidiabl | 2020-10-01-6.16 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.6.101 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidiabl |
 | nvidiabl | 2020-10-01-6.6.94 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidiabl |
 | nvidiabl | 2020-10-01-6.6.94 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidiabl |
@@ -29750,8 +29759,6 @@
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.12.41 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages-libre.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.12.41 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.12.41 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_xanmod.nxp-pn5xx |
-| nxp-pn5xx | 0.4-unstable-2025-02-08-6.15.8 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nxp-pn5xx |
-| nxp-pn5xx | 0.4-unstable-2025-02-08-6.15.8 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.15.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.15.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.15.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nxp-pn5xx |
@@ -29761,8 +29768,10 @@
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.15.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.16 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.16 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nxp-pn5xx |
+| nxp-pn5xx | 0.4-unstable-2025-02-08-6.16 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.16 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_latest-libre.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.16 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_latest.nxp-pn5xx |
+| nxp-pn5xx | 0.4-unstable-2025-02-08-6.16 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.6.101 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.6.94 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.6.94 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nxp-pn5xx |
@@ -31241,7 +31250,7 @@
 | oh-my-fish-unstable | 2022-03-27 | Fish Shell Framework | legacyPackages.x86_64-linux.oh-my-fish |
 | oh-my-git | 0.6.5 | Interactive Git learning game | legacyPackages.x86_64-linux.oh-my-git |
 | oh-my-posh | 26.8.0 | Prompt theme engine for any shell | legacyPackages.x86_64-linux.oh-my-posh |
-| oh-my-zsh | 2025-07-28 | Framework for managing your zsh configuration | legacyPackages.x86_64-linux.oh-my-zsh |
+| oh-my-zsh | 2025-08-08 | Framework for managing your zsh configuration | legacyPackages.x86_64-linux.oh-my-zsh |
 | oha | 1.9.0 | HTTP load generator inspired by rakyll/hey with tui animation | legacyPackages.x86_64-linux.oha |
 | oidc-agent | 5.3.2 | Manage OpenID Connect tokens on the command line | legacyPackages.x86_64-linux.oidc-agent |
 | oidentd | 3.1.0 | Configurable Ident protocol server | legacyPackages.x86_64-linux.oidentd |
@@ -31310,7 +31319,7 @@
 | omniorb | 4.3.3 | Robust high performance CORBA ORB for C++ and Python | legacyPackages.x86_64-linux.omniorb |
 | omniorb | 4.3.3 | Robust high performance CORBA ORB for C++ and Python | legacyPackages.x86_64-linux.python312Packages.omniorb |
 | omniorb | 4.3.3 | Robust high performance CORBA ORB for C++ and Python | legacyPackages.x86_64-linux.python313Packages.omniorb |
-| omnisharp-roslyn | 1.39.13 | OmniSharp based on roslyn workspaces | legacyPackages.x86_64-linux.omnisharp-roslyn |
+| omnisharp-roslyn | 1.39.14 | OmniSharp based on roslyn workspaces | legacyPackages.x86_64-linux.omnisharp-roslyn |
 | omnissa-horizon-client | 2503 | Allows you to connect to your Omnissa Horizon virtual desktop | legacyPackages.x86_64-linux.omnissa-horizon-client |
 | omnix | 1.3.0 | Nix companion to improve developer experience | legacyPackages.x86_64-linux.omnix |
 | omnom | 0.6.0 | Webpage bookmarking and snapshotting service | legacyPackages.x86_64-linux.omnom |
@@ -31459,10 +31468,6 @@
 | openafs | 1.8.13.2-6.12.41-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openafs_1_8 |
 | openafs | 1.8.13.2-6.12.41-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.openafs |
 | openafs | 1.8.13.2-6.12.41-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.openafs_1_8 |
-| openafs | 1.8.13.2-6.15.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs |
-| openafs | 1.8.13.2-6.15.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs_1_8 |
-| openafs | 1.8.13.2-6.15.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs |
-| openafs | 1.8.13.2-6.15.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs_1_8 |
 | openafs | 1.8.13.2-6.15.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.openafs |
 | openafs | 1.8.13.2-6.15.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.openafs_1_8 |
 | openafs | 1.8.13.2-6.15.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs |
@@ -31485,6 +31490,10 @@
 | openafs | 1.8.13.2-6.16.0-gnu | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.openafs_1_8 |
 | openafs | 1.8.13.2-6.16.0-gnu | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.openafs |
 | openafs | 1.8.13.2-6.16.0-gnu | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.openafs_1_8 |
+| openafs | 1.8.13.2-6.16.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs |
+| openafs | 1.8.13.2-6.16.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs_1_8 |
+| openafs | 1.8.13.2-6.16.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs |
+| openafs | 1.8.13.2-6.16.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs_1_8 |
 | openafs | 1.8.13.2-6.6.101 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs |
 | openafs | 1.8.13.2-6.6.101 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs_1_8 |
 | openafs | 1.8.13.2-6.6.94-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.openafs |
@@ -31592,10 +31601,10 @@
 | openh264 | 2.6.0 | Codec library which supports H.264 encoding and decoding | legacyPackages.x86_64-linux.openh264 |
 | openhantek6022 | 3.4.0 | Free software for Hantek and compatible (Voltcraft/Darkwire/Protek/Acetech) USB digital signal oscilloscopes | legacyPackages.x86_64-linux.openhantek6022 |
 | openhmd | 0.3.0 | Library API and drivers immersive technology | legacyPackages.x86_64-linux.openhmd |
-| openhue-cli | 0.18 | CLI for interacting with Philips Hue smart lighting systems | legacyPackages.x86_64-linux.openhue-cli |
+| openhue-cli | 0.20 | CLI for interacting with Philips Hue smart lighting systems | legacyPackages.x86_64-linux.openhue-cli |
 | openimagedenoise | 2.3.3 | High-Performance Denoising Library for Ray Tracing | legacyPackages.x86_64-linux.openimagedenoise |
-| openimageio | 3.0.9.0 | Library and tools for reading and writing images | legacyPackages.x86_64-linux.openimageio |
-| openimageio | 3.0.9.0 | Library and tools for reading and writing images | legacyPackages.x86_64-linux.openimageio2 |
+| openimageio | 3.0.9.1 | Library and tools for reading and writing images | legacyPackages.x86_64-linux.openimageio |
+| openimageio | 3.0.9.1 | Library and tools for reading and writing images | legacyPackages.x86_64-linux.openimageio2 |
 | openjade | 1.3.2 | Implementation of DSSSL, an ISO standard for formatting SGML (and XML) documents | legacyPackages.x86_64-linux.openjade |
 | openjdk | 11.0.27+6 | Open-source Java Development Kit | legacyPackages.x86_64-linux.jdk11 |
 | openjdk | 11.0.27+6 | Open-source Java Development Kit | legacyPackages.x86_64-linux.openjdk11 |
@@ -31740,8 +31749,6 @@
 | openrazer | 3.10.3-6.12.41 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages-libre.openrazer |
 | openrazer | 3.10.3-6.12.41 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages.openrazer |
 | openrazer | 3.10.3-6.12.41 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod.openrazer |
-| openrazer | 3.10.3-6.15.8 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer |
-| openrazer | 3.10.3-6.15.8 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_zen.openrazer |
 | openrazer | 3.10.3-6.15.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.openrazer |
 | openrazer | 3.10.3-6.15.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openrazer |
 | openrazer | 3.10.3-6.15.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openrazer |
@@ -31751,8 +31758,10 @@
 | openrazer | 3.10.3-6.15.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openrazer |
 | openrazer | 3.10.3-6.16 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.openrazer |
 | openrazer | 3.10.3-6.16 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.openrazer |
+| openrazer | 3.10.3-6.16 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer |
 | openrazer | 3.10.3-6.16 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_latest-libre.openrazer |
 | openrazer | 3.10.3-6.16 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_latest.openrazer |
+| openrazer | 3.10.3-6.16 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_zen.openrazer |
 | openrazer | 3.10.3-6.6.101 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openrazer |
 | openrazer | 3.10.3-6.6.94 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.openrazer |
 | openrazer | 3.10.3-6.6.94 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.openrazer |
@@ -31823,8 +31832,6 @@
 | opensnitch_ebpf | 1.7.1-6.12.41 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages-libre.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.12.41 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.12.41 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_xanmod.opensnitch-ebpf |
-| opensnitch_ebpf | 1.7.1-6.15.8 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf |
-| opensnitch_ebpf | 1.7.1-6.15.8 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.15.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.15.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.15.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.opensnitch-ebpf |
@@ -31834,8 +31841,10 @@
 | opensnitch_ebpf | 1.7.1-6.15.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.16 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.16 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.opensnitch-ebpf |
+| opensnitch_ebpf | 1.7.1-6.16 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.16 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_latest-libre.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.16 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_latest.opensnitch-ebpf |
+| opensnitch_ebpf | 1.7.1-6.16 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.6.101 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.6.94 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.1-6.6.94 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.opensnitch-ebpf |
@@ -31907,7 +31916,7 @@
 | openwith-unstable | 2022-10-28 | Utility to specify which application bundle should open specific file extensions | legacyPackages.x86_64-linux.darwin.openwith |
 | openwsman | 2.8.1 | Openwsman server implementation and client API with bindings | legacyPackages.x86_64-linux.openwsman |
 | openxcom | 1.0.0.2024.02.28 | Open source clone of UFO: Enemy Unknown | legacyPackages.x86_64-linux.openxcom |
-| openxr-loader | 1.1.49 | Khronos OpenXR loader | legacyPackages.x86_64-linux.openxr-loader |
+| openxr-loader | 1.1.50 | Khronos OpenXR loader | legacyPackages.x86_64-linux.openxr-loader |
 | openxray | 2921-january-2025-rc1 | Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World | legacyPackages.x86_64-linux.openxray |
 | openzone-cursors | 1.2.9 | Clean and sharp X11/Wayland cursor theme | legacyPackages.x86_64-linux.openzone-cursors |
 | openzwave | 1.6-unstable-2022-11-17 | C++ library to control Z-Wave Networks via a USB Z-Wave Controller | legacyPackages.x86_64-linux.openzwave |
@@ -32349,7 +32358,7 @@
 | paper-icon-theme-unstable | 2020-03-12 | Modern icon theme designed around bold colours and simple geometric shapes | legacyPackages.x86_64-linux.paper-icon-theme |
 | paper-plane | 0.1.0-beta.5 | Chat over Telegram on a modern and elegant client | legacyPackages.x86_64-linux.paper-plane |
 | papercdcase | 15878 | Origami-style folding paper CD case | legacyPackages.x86_64-linux.texlivePackages.papercdcase |
-| paperjam | 1.2.1 | Program for transforming PDF files | legacyPackages.x86_64-linux.paperjam |
+| paperjam | 1.2.2 | Program for transforming PDF files | legacyPackages.x86_64-linux.paperjam |
 | paperkey | 1.6 | Store OpenPGP or GnuPG on paper | legacyPackages.x86_64-linux.paperkey |
 | paperless-asn-qr-codes | 0.2.0 | Command line utility for generating ASN labels for paperless with both a human-readable representation, as well as a QR code for machine consumption | legacyPackages.x86_64-linux.paperless-asn-qr-codes |
 | paperless-ngx | 2.17.1 | Tool to scan, index, and archive all of your physical documents | legacyPackages.x86_64-linux.paperless-ng |
@@ -32462,7 +32471,7 @@
 | partclone | 0.3.37 | Utilities to save and restore used blocks on a partition | legacyPackages.x86_64-linux.partclone |
 | parted | 3.6 | Create, destroy, resize, check, and copy partitions | legacyPackages.x86_64-linux.parted |
 | particl-core | 23.2.7.0 | Privacy-Focused Marketplace & Decentralized Application Platform | legacyPackages.x86_64-linux.particl-core |
-| particle-cli | 3.40.0 | Command Line Interface for Particle Cloud and devices | legacyPackages.x86_64-linux.particle-cli |
+| particle-cli | 3.40.1 | Command Line Interface for Particle Cloud and devices | legacyPackages.x86_64-linux.particle-cli |
 | partimage | 0.6.9 | Opensource disk backup software | legacyPackages.x86_64-linux.partimage |
 | partio | 1.19.0 | C++ (with python bindings) library for easily reading/writing/manipulating common animation particle formats such as PDB, BGEO, PTC | legacyPackages.x86_64-linux.partio |
 | partitionmanager | 23.08.5 | KDE Partition Manager | legacyPackages.x86_64-linux.libsForQt5.partitionmanager |
@@ -32607,7 +32616,7 @@
 | payload-dumper-go | 1.3.0 | Android OTA payload dumper written in Go | legacyPackages.x86_64-linux.payload-dumper-go |
 | payload_dumper | 0-unstable-2022-04-11 | Android OTA payload dumper | legacyPackages.x86_64-linux.payload_dumper |
 | payloadsallthethings | 2025.1 | List of useful payloads and bypass for Web Application Security and Pentest/CTF | legacyPackages.x86_64-linux.payloadsallthethings |
-| payme | 1.2.3 | QR code generator (ASCII & PNG) for SEPA payments | legacyPackages.x86_64-linux.payme |
+| payme | 1.2.4 | QR code generator (ASCII & PNG) for SEPA payments | legacyPackages.x86_64-linux.payme |
 | pazi | 0.5.0 | Autojump "zap to directory" helper | legacyPackages.x86_64-linux.pazi |
 | pb | 0.6.0 | CLI client for Parseable server | legacyPackages.x86_64-linux.pb |
 | pb-diagram | 5.0 | A commutative diagram package using LAMSTeX or Xy-pic fonts | legacyPackages.x86_64-linux.texlivePackages.pb-diagram |
@@ -32756,7 +32765,7 @@
 | pdm | 2.24.2 | Modern Python package and dependency manager supporting the latest PEP standards | legacyPackages.x86_64-linux.pdm |
 | pdns | 4.9.5 | Authoritative DNS server | legacyPackages.x86_64-linux.pdns |
 | pdns | 4.9.5 | Authoritative DNS server | legacyPackages.x86_64-linux.powerdns |
-| pdns-recursor | 5.2.2 | Recursive DNS server | legacyPackages.x86_64-linux.pdns-recursor |
+| pdns-recursor | 5.2.5 | Recursive DNS server | legacyPackages.x86_64-linux.pdns-recursor |
 | pdnsd | 1.2.9a-par | Permanent DNS caching | legacyPackages.x86_64-linux.pdnsd |
 | pdpmake | 2.0.3 | Public domain POSIX make | legacyPackages.x86_64-linux.pdpmake |
 | pdqsort | 0-unstable-2021-03-14 | Novel sorting algorithm that combines the fast average case of randomized quicksort with the fast worst case of heapsort | legacyPackages.x86_64-linux.pdqsort |
@@ -32832,8 +32841,6 @@
 | perf-linux | 6.12.41 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages-libre.perf |
 | perf-linux | 6.12.41 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages.perf |
 | perf-linux | 6.12.41 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages_xanmod.perf |
-| perf-linux | 6.15.8 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.perf |
-| perf-linux | 6.15.8 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages_zen.perf |
 | perf-linux | 6.15.9 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.perf |
 | perf-linux | 6.15.9 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.perf |
 | perf-linux | 6.15.9 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.perf |
@@ -32843,8 +32850,10 @@
 | perf-linux | 6.15.9 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.perf |
 | perf-linux | 6.16 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.perf |
 | perf-linux | 6.16 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.perf |
+| perf-linux | 6.16 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.perf |
 | perf-linux | 6.16 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages_latest-libre.perf |
 | perf-linux | 6.16 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages_latest.perf |
+| perf-linux | 6.16 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages_zen.perf |
 | perf-linux | 6.6.101 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.perf |
 | perf-linux | 6.6.94 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.perf |
 | perf-linux | 6.6.94 | Linux tools to profile with performance counters | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.perf |
@@ -38765,9 +38774,9 @@
 | petiteannonce | 1.0001 | A class for small advertisements | legacyPackages.x86_64-linux.texlivePackages.petiteannonce |
 | petri-foo | 0.1.87 | MIDI controllable audio sampler | legacyPackages.x86_64-linux.petrifoo |
 | petri-nets | 39165 | A set TeX/LaTeX packages for drawing Petri nets | legacyPackages.x86_64-linux.texlivePackages.petri-nets |
-| petsc | 3.23.4 | Portable Extensible Toolkit for Scientific computation | legacyPackages.x86_64-linux.petsc |
-| petsc | 3.23.4 | Portable Extensible Toolkit for Scientific computation | legacyPackages.x86_64-linux.python312Packages.petsc4py |
-| petsc | 3.23.4 | Portable Extensible Toolkit for Scientific computation | legacyPackages.x86_64-linux.python313Packages.petsc4py |
+| petsc | 3.23.5 | Portable Extensible Toolkit for Scientific computation | legacyPackages.x86_64-linux.petsc |
+| petsc | 3.23.5 | Portable Extensible Toolkit for Scientific computation | legacyPackages.x86_64-linux.python312Packages.petsc4py |
+| petsc | 3.23.5 | Portable Extensible Toolkit for Scientific computation | legacyPackages.x86_64-linux.python313Packages.petsc4py |
 | pev | 0-unstable-2020-05-23 | Full-featured, open source, multiplatform command line toolkit to work with PE (Portable Executables) binaries | legacyPackages.x86_64-linux.pev |
 | pew | 1.2.0 | Tools to manage multiple virtualenvs written in pure python | legacyPackages.x86_64-linux.pew |
 | pfarrei-r37 |  | LaTeX support of pastors' and priests' work | legacyPackages.x86_64-linux.texlivePackages.pfarrei |
@@ -38872,13 +38881,13 @@
 | pg_libversion | 2.0.1 | PostgreSQL extension with support for version string comparison | legacyPackages.x86_64-linux.postgresql17Packages.pg_libversion |
 | pg_libversion | 2.0.1 | PostgreSQL extension with support for version string comparison | legacyPackages.x86_64-linux.postgresql18Packages.pg_libversion |
 | pg_libversion | 2.0.1 | PostgreSQL extension with support for version string comparison | legacyPackages.x86_64-linux.postgresqlPackages.pg_libversion |
-| pg_net | 0.19.4 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql13Packages.pg_net |
-| pg_net | 0.19.4 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql14Packages.pg_net |
-| pg_net | 0.19.4 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql15Packages.pg_net |
-| pg_net | 0.19.4 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql16Packages.pg_net |
-| pg_net | 0.19.4 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql17Packages.pg_net |
-| pg_net | 0.19.4 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql18Packages.pg_net |
-| pg_net | 0.19.4 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresqlPackages.pg_net |
+| pg_net | 0.19.5 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql13Packages.pg_net |
+| pg_net | 0.19.5 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql14Packages.pg_net |
+| pg_net | 0.19.5 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql15Packages.pg_net |
+| pg_net | 0.19.5 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql16Packages.pg_net |
+| pg_net | 0.19.5 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql17Packages.pg_net |
+| pg_net | 0.19.5 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresql18Packages.pg_net |
+| pg_net | 0.19.5 | Async networking for Postgres | legacyPackages.x86_64-linux.postgresqlPackages.pg_net |
 | pg_partman | 5.2.4 | Partition management extension for PostgreSQL | legacyPackages.x86_64-linux.postgresql13Packages.pg_partman |
 | pg_partman | 5.2.4 | Partition management extension for PostgreSQL | legacyPackages.x86_64-linux.postgresql14Packages.pg_partman |
 | pg_partman | 5.2.4 | Partition management extension for PostgreSQL | legacyPackages.x86_64-linux.postgresql15Packages.pg_partman |
@@ -39777,18 +39786,18 @@
 | pineflash | 0.5.5 | GUI tool to flash IronOS to the Pinecil V1 and V2 | legacyPackages.x86_64-linux.pineflash |
 | pinegrow | 6.8 | UI Web Editor | legacyPackages.x86_64-linux.pinegrow6 |
 | pinegrow | 7.8 | UI Web Editor | legacyPackages.x86_64-linux.pinegrow |
-| pinentry-all | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry |
-| pinentry-all | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-all |
+| pinentry-all | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry |
+| pinentry-all | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-all |
 | pinentry-bemenu | 0.14.0 | Pinentry implementation based on bemenu | legacyPackages.x86_64-linux.pinentry-bemenu |
-| pinentry-curses | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-curses |
+| pinentry-curses | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-curses |
 | pinentry-dmenu | 0.2.2 | Pinentry implementation based on dmenu | legacyPackages.x86_64-linux.pinentry-dmenu |
-| pinentry-emacs | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-emacs |
-| pinentry-gnome3 | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-gnome3 |
-| pinentry-gtk2 | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-gtk2 |
+| pinentry-emacs | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-emacs |
+| pinentry-gnome3 | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-gnome3 |
+| pinentry-gtk2 | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-gtk2 |
 | pinentry-mac | 1.1.1.1 | Pinentry for GPG on Mac | legacyPackages.x86_64-linux.pinentry_mac |
-| pinentry-qt | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-qt |
+| pinentry-qt | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-qt |
 | pinentry-rofi | 3.0.0 | Rofi frontend to pinentry | legacyPackages.x86_64-linux.pinentry-rofi |
-| pinentry-tty | 1.3.1 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-tty |
+| pinentry-tty | 1.3.2 | GnuPG’s interface to passphrase input | legacyPackages.x86_64-linux.pinentry-tty |
 | pinfo | 0.6.13 | Viewer for info files | legacyPackages.x86_64-linux.pinfo |
 | ping-exporter | 1.1.3 | Prometheus exporter for ICMP echo requests | legacyPackages.x86_64-linux.prometheus-ping-exporter |
 | ping-iputils | 20250605 |  | legacyPackages.x86_64-linux.unixtools.ping |
@@ -39845,7 +39854,7 @@
 | pipx | 1.7.1 | Install and run Python applications in isolated environments | legacyPackages.x86_64-linux.pipx |
 | pirate-get | 0.4.2 | Command line interface for The Pirate Bay | legacyPackages.x86_64-linux.pirate-get |
 | piscope | 0.8 | Logic analyser (digital waveform viewer) for the Raspberry | legacyPackages.x86_64-linux.piscope |
-| pistol | 0.5.2 | General purpose file previewer designed for Ranger, Lf to make scope.sh redundant | legacyPackages.x86_64-linux.pistol |
+| pistol | 0.5.3 | General purpose file previewer designed for Ranger, Lf to make scope.sh redundant | legacyPackages.x86_64-linux.pistol |
 | piston-cli | 1.5.0 | Piston api tool | legacyPackages.x86_64-linux.piston-cli |
 | pitch-black | 0-unstable-2019-07-23 | Dark plasma theme built with usability in mind | legacyPackages.x86_64-linux.pitch-black |
 | pitex | 24731 | Documentation macros | legacyPackages.x86_64-linux.texlivePackages.pitex |
@@ -40278,7 +40287,7 @@
 | pnpm-shell-completion | 0.5.4 | Complete your pnpm command fastly | legacyPackages.x86_64-linux.pnpm-shell-completion |
 | pocket-casts | 0.10.4 | Pocket Casts webapp, packaged for the Linux Desktop | legacyPackages.x86_64-linux.pocket-casts |
 | pocket-id | 1.6.4 | OIDC provider with passkeys support | legacyPackages.x86_64-linux.pocket-id |
-| pocketbase | 0.29.0 | Open Source realtime backend in 1 file | legacyPackages.x86_64-linux.pocketbase |
+| pocketbase | 0.29.2 | Open Source realtime backend in 1 file | legacyPackages.x86_64-linux.pocketbase |
 | pocketsphinx | 5.0.4 | Small speech recognizer | legacyPackages.x86_64-linux.pocketsphinx |
 | pocl | 7.0 | Portable open source (MIT-licensed) implementation of the OpenCL standard | legacyPackages.x86_64-linux.pocl |
 | poco | 1.14.1 | Cross-platform C++ libraries with a network/internet focus | legacyPackages.x86_64-linux.poco |
@@ -40529,7 +40538,7 @@
 | powershell-editor-services | 4.3.0 | Common platform for PowerShell development support in any editor or application | legacyPackages.x86_64-linux.powershell-editor-services |
 | powersploit | 3.0.0-unstable-2020-08-22 | PowerShell Post-Exploitation Framework | legacyPackages.x86_64-linux.powersploit |
 | powerstat | 0.04.05 | Laptop power measuring tool | legacyPackages.x86_64-linux.powerstat |
-| powerstation | 0.6.1 | Open source TDP control and performance daemon with DBus interface | legacyPackages.x86_64-linux.powerstation |
+| powerstation | 0.7.0 | Open source TDP control and performance daemon with DBus interface | legacyPackages.x86_64-linux.powerstation |
 | powersupply | 0.9.0 | Graphical app to display power status of mobile Linux platforms | legacyPackages.x86_64-linux.powersupply |
 | powertabeditor | 2.0.22 | View and edit guitar tablature | legacyPackages.x86_64-linux.powertabeditor |
 | powertop | 2.15 | Analyze power consumption on Intel-based laptops | legacyPackages.x86_64-linux.powertop |
@@ -41302,7 +41311,7 @@
 | pypass | 0.2.1 | Password manager pass in Python | legacyPackages.x86_64-linux.pypass |
 | pypi-mirror | 5.2.1 | Script to create a partial PyPI mirror | legacyPackages.x86_64-linux.pypi-mirror |
 | pypiserver | 2.3.2 | Minimal PyPI server for use with pip/easy_install | legacyPackages.x86_64-linux.pypiserver |
-| pyprland | 2.4.6 | Hyperland plugin system | legacyPackages.x86_64-linux.pyprland |
+| pyprland | 2.4.7 | Hyperland plugin system | legacyPackages.x86_64-linux.pyprland |
 | pyprof2calltree | 1.4.5 | Help visualize profiling data from cProfile with kcachegrind and qcachegrind | legacyPackages.x86_64-linux.pyprof2calltree |
 | pyprojectize | 1a6 | Tool to convert a RPM spec file from %py3_build etc. macros to pyproject | legacyPackages.x86_64-linux.pyprojectize |
 | pypy | 7.3.19 | Fast, compliant alternative implementation of the Python language (2.7) | legacyPackages.x86_64-linux.pypy |
@@ -41422,7 +41431,7 @@
 | python3.12-abjad | 3.22 | GNU LilyPond wrapper for Python | legacyPackages.x86_64-linux.python312Packages.abjad |
 | python3.12-about-time | 4.2.1 | Cool helper for tracking time and throughput of code blocks, with beautiful human friendly renditions | legacyPackages.x86_64-linux.python312Packages.about-time |
 | python3.12-absl-py | 2.2.2 | Abseil Python Common Libraries | legacyPackages.x86_64-linux.python312Packages.absl-py |
-| python3.12-accelerate | 1.9.0 | Simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision | legacyPackages.x86_64-linux.python312Packages.accelerate |
+| python3.12-accelerate | 1.10.0 | Simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision | legacyPackages.x86_64-linux.python312Packages.accelerate |
 | python3.12-accessible-pygments | 0.0.5 | Collection of accessible pygments styles | legacyPackages.x86_64-linux.python312Packages.accessible-pygments |
 | python3.12-accupy | 0.3.6 | Accurate sums and dot products for Python | legacyPackages.x86_64-linux.python312Packages.accupy |
 | python3.12-accuweather | 4.2.0 | Python wrapper for getting weather data from AccuWeather servers | legacyPackages.x86_64-linux.python312Packages.accuweather |
@@ -41671,6 +41680,7 @@
 | python3.12-airgradient | 0.9.2 | Module for AirGradient | legacyPackages.x86_64-linux.python312Packages.airgradient |
 | python3.12-airium | 0.2.6 | Bidirectional HTML-python translator | legacyPackages.x86_64-linux.python312Packages.airium |
 | python3.12-airly | 1.1.0 | Python module for getting air quality data from Airly sensors | legacyPackages.x86_64-linux.python312Packages.airly |
+| python3.12-airos | 0.2.4 | Ubiquity airOS module(s) for Python 3 | legacyPackages.x86_64-linux.python312Packages.airos |
 | python3.12-airportsdata | 20250706 | Extensive database of location and timezone data for nearly every operational airport | legacyPackages.x86_64-linux.python312Packages.airportsdata |
 | python3.12-airthings-ble | 1.1.0 | Library for Airthings BLE devices | legacyPackages.x86_64-linux.python312Packages.airthings-ble |
 | python3.12-airthings-cloud | 0.2.0 | Python module for Airthings | legacyPackages.x86_64-linux.python312Packages.airthings-cloud |
@@ -42014,7 +42024,7 @@
 | python3.12-awswrangler | 3.12.0 | Pandas on AWS | legacyPackages.x86_64-linux.python312Packages.awswrangler |
 | python3.12-ax-platform | 1.0.0 | Platform for understanding, managing, deploying, and automating adaptive experiments | legacyPackages.x86_64-linux.python312Packages.ax-platform |
 | python3.12-axis | 65 | Python library for communicating with devices from Axis Communications | legacyPackages.x86_64-linux.python312Packages.axis |
-| python3.12-axisregistry | 0.4.12 | Google Fonts registry of OpenType variation axis tags | legacyPackages.x86_64-linux.python312Packages.axisregistry |
+| python3.12-axisregistry | 0.4.16 | Google Fonts registry of OpenType variation axis tags | legacyPackages.x86_64-linux.python312Packages.axisregistry |
 | python3.12-ayla-iot-unofficial | 1.5.0 | Unofficial python library for interacting with the Ayla IoT API | legacyPackages.x86_64-linux.python312Packages.ayla-iot-unofficial |
 | python3.12-azure-ai-documentintelligence | 1.0.2 | Azure AI Document Intelligence client library for Python | legacyPackages.x86_64-linux.python312Packages.azure-ai-documentintelligence |
 | python3.12-azure-ai-vision-imageanalysis | 1.0.0b3 | Azure Image Analysis client library for Python | legacyPackages.x86_64-linux.python312Packages.azure-ai-vision-imageanalysis |
@@ -42498,7 +42508,7 @@
 | python3.12-catalogue | 2.0.10 | Tiny library for adding function or object registries | legacyPackages.x86_64-linux.python312Packages.catalogue |
 | python3.12-catboost | 1.2.7 | High-performance library for gradient boosting on decision trees | legacyPackages.x86_64-linux.python312Packages.catboost |
 | python3.12-catkin-pkg | 1.0.0 | Library for retrieving information about catkin packages | legacyPackages.x86_64-linux.python312Packages.catkin-pkg |
-| python3.12-catppuccin | 2.4.1 | Soothing pastel theme for Python | legacyPackages.x86_64-linux.python312Packages.catppuccin |
+| python3.12-catppuccin | 2.5.0 | Soothing pastel theme for Python | legacyPackages.x86_64-linux.python312Packages.catppuccin |
 | python3.12-cattrs | 24.1.3 | Python custom class converters for attrs | legacyPackages.x86_64-linux.python312Packages.cattrs |
 | python3.12-causal-conv1d | 1.5.0.post8 | Causal depthwise conv1d in CUDA with a PyTorch interface | legacyPackages.x86_64-linux.python312Packages.causal-conv1d |
 | python3.12-cbor | 1.0.0 | Concise Binary Object Representation (CBOR) library | legacyPackages.x86_64-linux.python312Packages.cbor |
@@ -43038,6 +43048,7 @@
 | python3.12-debuglater | 1.4.4 | Module for post-mortem debugging of Python programs | legacyPackages.x86_64-linux.python312Packages.debuglater |
 | python3.12-debugpy | 1.8.16 | Implementation of the Debug Adapter Protocol for Python | legacyPackages.x86_64-linux.python312Packages.debugpy |
 | python3.12-decli | 0.6.1 | Minimal, easy to use, declarative command line interface tool | legacyPackages.x86_64-linux.python312Packages.decli |
+| python3.12-declinate | 0.0.6 | Command line interface generator | legacyPackages.x86_64-linux.python312Packages.declinate |
 | python3.12-decopatch | 1.4.10 | Python helper for decorators | legacyPackages.x86_64-linux.python312Packages.decopatch |
 | python3.12-decora-wifi | 1.5 | Python library for controlling Leviton Decora Smart Wi-Fi devices | legacyPackages.x86_64-linux.python312Packages.decora-wifi |
 | python3.12-decorator | 5.2.1 | Better living through Python with decorators | legacyPackages.x86_64-linux.python312Packages.decorator |
@@ -43343,8 +43354,8 @@
 | python3.12-django-sql-utils | 0.7.0 | SQL utilities for Django | legacyPackages.x86_64-linux.python312Packages.django-sql-utils |
 | python3.12-django-statici18n | 2.6.0 | Helper for generating Javascript catalog to static files | legacyPackages.x86_64-linux.python312Packages.django-statici18n |
 | python3.12-django-storages | 1.14.5 | Collection of custom storage backends for Django | legacyPackages.x86_64-linux.python312Packages.django-storages |
-| python3.12-django-stubs | 5.2.0 | PEP-484 stubs for Django | legacyPackages.x86_64-linux.python312Packages.django-stubs |
-| python3.12-django-stubs-ext | 5.2.0 | Extensions and monkey-patching for django-stubs | legacyPackages.x86_64-linux.python312Packages.django-stubs-ext |
+| python3.12-django-stubs | 5.2.2 | PEP-484 stubs for Django | legacyPackages.x86_64-linux.python312Packages.django-stubs |
+| python3.12-django-stubs-ext | 5.2.2 | Extensions and monkey-patching for django-stubs | legacyPackages.x86_64-linux.python312Packages.django-stubs-ext |
 | python3.12-django-tables2 | 2.7.1 | Django app for creating HTML tables | legacyPackages.x86_64-linux.python312Packages.django-tables2 |
 | python3.12-django-tagging | 0.5.0 | Generic tagging application for Django projects | legacyPackages.x86_64-linux.python312Packages.django-tagging |
 | python3.12-django-tagging | 0.5.0 | Generic tagging application for Django projects | legacyPackages.x86_64-linux.python312Packages.django_tagging |
@@ -43379,7 +43390,7 @@
 | python3.12-djangorestframework-jsonp | 1.0.2 | JSONP support for Django REST Framework | legacyPackages.x86_64-linux.python312Packages.djangorestframework-jsonp |
 | python3.12-djangorestframework-recursive | 0.1.2 | Recursive Serialization for Django REST framework | legacyPackages.x86_64-linux.python312Packages.djangorestframework-recursive |
 | python3.12-djangorestframework-simplejwt | 5.5.0 | JSON Web Token authentication plugin for Django REST Framework | legacyPackages.x86_64-linux.python312Packages.djangorestframework-simplejwt |
-| python3.12-djangorestframework-stubs | 3.16.0 | PEP-484 stubs for Django REST Framework | legacyPackages.x86_64-linux.python312Packages.djangorestframework-stubs |
+| python3.12-djangorestframework-stubs | 3.16.1 | PEP-484 stubs for Django REST Framework | legacyPackages.x86_64-linux.python312Packages.djangorestframework-stubs |
 | python3.12-djangosaml2 | 1.11.1-1 | Django SAML2 Service Provider based on pySAML2 | legacyPackages.x86_64-linux.python312Packages.djangosaml2 |
 | python3.12-djmail | 2.0.0 | Simple, powerfull and nonobstructive django email middleware | legacyPackages.x86_64-linux.python312Packages.djmail |
 | python3.12-djoser | 2.3.1 | REST implementation of Django authentication system | legacyPackages.x86_64-linux.python312Packages.djoser |
@@ -43564,6 +43575,7 @@
 | python3.12-ebaysdk | 2.2.0 | eBay SDK for Python | legacyPackages.x86_64-linux.python312Packages.ebaysdk |
 | python3.12-ebcdic | 1.1.1 | Additional EBCDIC codecs | legacyPackages.x86_64-linux.python312Packages.ebcdic |
 | python3.12-ebooklib | 0.18 | Python E-book library for handling books in EPUB2/EPUB3  format | legacyPackages.x86_64-linux.python312Packages.ebooklib |
+| python3.12-ebusdpy | 0.0.17 | eBusd python integration library | legacyPackages.x86_64-linux.python312Packages.ebusdpy |
 | python3.12-ec2-metadata | 2.15.0 | Easy interface to query the EC2 metadata API, with caching | legacyPackages.x86_64-linux.python312Packages.ec2-metadata |
 | python3.12-ec2instanceconnectcli | 1.0.3 | Command Line Interface for AWS EC2 Instance Connect | legacyPackages.x86_64-linux.python312Packages.ec2instanceconnectcli |
 | python3.12-ecdsa | 0.19.1 | ECDSA cryptographic signature library | legacyPackages.x86_64-linux.python312Packages.ecdsa |
@@ -43577,7 +43589,6 @@
 | python3.12-edalize | 0.6.1 | Abstraction library for interfacing EDA tools | legacyPackages.x86_64-linux.python312Packages.edalize |
 | python3.12-editables | 0.5 | Editable installations | legacyPackages.x86_64-linux.python312Packages.editables |
 | python3.12-editdistance | 0.8.1 | Python implementation of the edit distance (Levenshtein distance) | legacyPackages.x86_64-linux.python312Packages.editdistance |
-| python3.12-editdistance-s | 1.0.0 | Fast implementation of the edit distance (Levenshtein distance) | legacyPackages.x86_64-linux.python312Packages.editdistance-s |
 | python3.12-editdistpy | 0.1.6 | Fast Levenshtein and Damerau optimal string alignment algorithms | legacyPackages.x86_64-linux.python312Packages.editdistpy |
 | python3.12-editor | 1.6.6 | Open the default text editor | legacyPackages.x86_64-linux.python312Packages.editor |
 | python3.12-editorconfig | 0.17.0 | EditorConfig File Locator and Interpreter for Python | legacyPackages.x86_64-linux.python312Packages.editorconfig |
@@ -43756,7 +43767,7 @@
 | python3.12-face-recognition-models | 0.3.0 | Trained models for the face_recognition python library | legacyPackages.x86_64-linux.python312Packages.face-recognition-models |
 | python3.12-face-recognition-models | 0.3.0 | Trained models for the face_recognition python library | legacyPackages.x86_64-linux.python312Packages.face_recognition_models |
 | python3.12-facebook-sdk | 3.1.0 | Client library that supports the Facebook Graph API and the official Facebook JavaScript SDK | legacyPackages.x86_64-linux.python312Packages.facebook-sdk |
-| python3.12-facedancer | 3.1.0 | Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET | legacyPackages.x86_64-linux.python312Packages.facedancer |
+| python3.12-facedancer | 3.1.1 | Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET | legacyPackages.x86_64-linux.python312Packages.facedancer |
 | python3.12-facenet-pytorch | 2.5.3 | Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models | legacyPackages.x86_64-linux.python312Packages.facenet-pytorch |
 | python3.12-factory-boy | 3.3.3 | Python package to create factories for complex objects | legacyPackages.x86_64-linux.python312Packages.factory-boy |
 | python3.12-factory-boy | 3.3.3 | Python package to create factories for complex objects | legacyPackages.x86_64-linux.python312Packages.factory_boy |
@@ -43776,7 +43787,7 @@
 | python3.12-fast-array-utils | 1.2.1 | Fast array utilities | legacyPackages.x86_64-linux.python312Packages.fast-array-utils |
 | python3.12-fast-histogram | 0.14 | Fast 1D and 2D histogram functions in Python | legacyPackages.x86_64-linux.python312Packages.fast-histogram |
 | python3.12-fast-simplification | 0.1.11 | Fast Quadratic Mesh Simplification | legacyPackages.x86_64-linux.python312Packages.fast-simplification |
-| python3.12-fastai | 2.8.2 | Fastai deep learning library | legacyPackages.x86_64-linux.python312Packages.fastai |
+| python3.12-fastai | 2.8.3 | Fastai deep learning library | legacyPackages.x86_64-linux.python312Packages.fastai |
 | python3.12-fastapi | 0.115.12 | Web framework for building APIs | legacyPackages.x86_64-linux.python312Packages.fastapi |
 | python3.12-fastapi-cli | 0.0.7 | Run and manage FastAPI apps from the command line with FastAPI CLI | legacyPackages.x86_64-linux.python312Packages.fastapi-cli |
 | python3.12-fastapi-mail | 1.5.0 | Module for sending emails and attachments | legacyPackages.x86_64-linux.python312Packages.fastapi-mail |
@@ -44223,7 +44234,7 @@
 | python3.12-glfw | 2.9.0 | Python bindings for GLFW | legacyPackages.x86_64-linux.python312Packages.glfw |
 | python3.12-gliner | 0.2.21 | Generalist and Lightweight Model for Named Entity Recognition | legacyPackages.x86_64-linux.python312Packages.gliner |
 | python3.12-glob2 | 0.7 | Version of the glob module that can capture patterns and supports recursive wildcards | legacyPackages.x86_64-linux.python312Packages.glob2 |
-| python3.12-globus-sdk | 3.61.0 | Interface to Globus REST APIs, including the Transfer API and the Globus Auth API | legacyPackages.x86_64-linux.python312Packages.globus-sdk |
+| python3.12-globus-sdk | 3.62.0 | Interface to Globus REST APIs, including the Transfer API and the Globus Auth API | legacyPackages.x86_64-linux.python312Packages.globus-sdk |
 | python3.12-glocaltokens | 0.7.5 | Library to extract google home devices local authentication tokens from google servers | legacyPackages.x86_64-linux.python312Packages.glocaltokens |
 | python3.12-glom | 24.11.0 | Module for restructuring data | legacyPackages.x86_64-linux.python312Packages.glom |
 | python3.12-glueviz | 1.22.2 | Linked Data Visualizations Across Multiple Files | legacyPackages.x86_64-linux.python312Packages.glueviz |
@@ -44306,7 +44317,7 @@
 | python3.12-google-cloud-workstations | 0.5.15 | Python Client for Cloud Workstations | legacyPackages.x86_64-linux.python312Packages.google-cloud-workstations |
 | python3.12-google-compute-engine | 20190124 | Google Compute Engine tools and services | legacyPackages.x86_64-linux.python312Packages.google-compute-engine |
 | python3.12-google-crc32c | 1.7.1 | Wrapper the google/crc32c hardware-based implementation of the CRC32C hashing algorithm | legacyPackages.x86_64-linux.python312Packages.google-crc32c |
-| python3.12-google-genai | 1.20.0 | Google Generative AI Python SDK | legacyPackages.x86_64-linux.python312Packages.google-genai |
+| python3.12-google-genai | 1.29.0 | Google Generative AI Python SDK | legacyPackages.x86_64-linux.python312Packages.google-genai |
 | python3.12-google-generativeai | 0.8.5 | Python client library for Google's large language model PaLM API | legacyPackages.x86_64-linux.python312Packages.google-generativeai |
 | python3.12-google-geo-type | 0.3.13 | Google Geo Type API client library | legacyPackages.x86_64-linux.python312Packages.google-geo-type |
 | python3.12-google-i18n-address | 3.1.1 | Google's i18n address data packaged for Python | legacyPackages.x86_64-linux.python312Packages.google-i18n-address |
@@ -44327,7 +44338,7 @@
 | python3.12-gotailwind | 0.3.0 | Modul to communicate with Tailwind garage door openers | legacyPackages.x86_64-linux.python312Packages.gotailwind |
 | python3.12-gotenberg-client | 0.10.0 | Python client for interfacing with the Gotenberg API | legacyPackages.x86_64-linux.python312Packages.gotenberg-client |
 | python3.12-gotify | 0.6.0 | Python library to access your gotify server | legacyPackages.x86_64-linux.python312Packages.gotify |
-| python3.12-gotrue | 2.12.0 | Python Client Library for Supabase Auth | legacyPackages.x86_64-linux.python312Packages.gotrue |
+| python3.12-gotrue | 2.12.3 | Python Client Library for Supabase Auth | legacyPackages.x86_64-linux.python312Packages.gotrue |
 | python3.12-govee-ble | 0.44.0 | Library for Govee BLE devices | legacyPackages.x86_64-linux.python312Packages.govee-ble |
 | python3.12-govee-led-wez | 0.0.15 | Control Govee Lights from Python | legacyPackages.x86_64-linux.python312Packages.govee-led-wez |
 | python3.12-govee-local-api | 2.1.0 | Library to communicate with Govee local API | legacyPackages.x86_64-linux.python312Packages.govee-local-api |
@@ -44401,7 +44412,7 @@
 | python3.12-groestlcoin-hash | 1.0.3 | Bindings for groestl key derivation function library used in Groestlcoin | legacyPackages.x86_64-linux.python312Packages.groestlcoin-hash |
 | python3.12-groestlcoin-hash | 1.0.3 | Bindings for groestl key derivation function library used in Groestlcoin | legacyPackages.x86_64-linux.python312Packages.groestlcoin_hash |
 | python3.12-groovy | 0.1.2 | Small Python library created to help developers protect their applications from Server Side Request Forgery (SSRF) attacks | legacyPackages.x86_64-linux.python312Packages.groovy |
-| python3.12-groq | 0.30.0 | Library for the Groq API | legacyPackages.x86_64-linux.python312Packages.groq |
+| python3.12-groq | 0.31.0 | Library for the Groq API | legacyPackages.x86_64-linux.python312Packages.groq |
 | python3.12-growattserver | 1.7.1 | Python package to retrieve information from Growatt units | legacyPackages.x86_64-linux.python312Packages.growattserver |
 | python3.12-grpc-google-iam-v1 | 0.14.2 | GRPC library for the google-iam-v1 service | legacyPackages.x86_64-linux.python312Packages.grpc-google-iam-v1 |
 | python3.12-grpc-google-iam-v1 | 0.14.2 | GRPC library for the google-iam-v1 service | legacyPackages.x86_64-linux.python312Packages.grpc_google_iam_v1 |
@@ -44441,7 +44452,7 @@
 | python3.12-guzzle-sphinx-theme | 0.7.11 | Sphinx theme used by Guzzle: http://guzzlephp.org | legacyPackages.x86_64-linux.python312Packages.guzzle_sphinx_theme |
 | python3.12-gviz_api | 1.10.0 | Python API for Google Visualization | legacyPackages.x86_64-linux.python312Packages.gviz-api |
 | python3.12-gvm-tools | 25.3.1 | Collection of APIs that help with remote controlling a Greenbone Security Manager | legacyPackages.x86_64-linux.python312Packages.gvm-tools |
-| python3.12-gwcs | 0.25.1 | Module to manage the Generalized World Coordinate System | legacyPackages.x86_64-linux.python312Packages.gwcs |
+| python3.12-gwcs | 0.25.2 | Module to manage the Generalized World Coordinate System | legacyPackages.x86_64-linux.python312Packages.gwcs |
 | python3.12-gym | 0.26.2 | Toolkit for developing and comparing your reinforcement learning agents | legacyPackages.x86_64-linux.python312Packages.gym |
 | python3.12-gym-notices | 0.0.8 | Notices for Python package Gym | legacyPackages.x86_64-linux.python312Packages.gym-notices |
 | python3.12-gymnasium | 1.2.0 | Standard API for reinforcement learning and a diverse set of reference environments (formerly Gym) | legacyPackages.x86_64-linux.python312Packages.gymnasium |
@@ -44689,7 +44700,7 @@
 | python3.12-idasen | 0.12.0 | Python API and CLI for the ikea IDÅSEN desk | legacyPackages.x86_64-linux.python312Packages.idasen |
 | python3.12-idasen-ha | 2.6.3 | Home Assistant helper lib for the IKEA Idasen Desk integration | legacyPackages.x86_64-linux.python312Packages.idasen-ha |
 | python3.12-idbutils | 1.0.1 | Python utilities useful for database and internal apps | legacyPackages.x86_64-linux.python312Packages.idbutils |
-| python3.12-identify | 2.6.12 | File identification library for Python | legacyPackages.x86_64-linux.python312Packages.identify |
+| python3.12-identify | 2.6.13 | File identification library for Python | legacyPackages.x86_64-linux.python312Packages.identify |
 | python3.12-idna | 3.10 | Internationalized Domain Names in Applications (IDNA) | legacyPackages.x86_64-linux.python312Packages.idna |
 | python3.12-idna-ssl | 1.1.0 | Patch ssl.match_hostname for Unicode(idna) domains support | legacyPackages.x86_64-linux.python312Packages.idna-ssl |
 | python3.12-idstools | 0.6.5 | Module to work with Snort and Suricata Rule and Event | legacyPackages.x86_64-linux.python312Packages.idstools |
@@ -44727,7 +44738,7 @@
 | python3.12-imgcat | 0.6.0 | Imgcat in Python | legacyPackages.x86_64-linux.python312Packages.imgcat |
 | python3.12-imgdiff | 1.7.1 | Compare two images side-by-side | legacyPackages.x86_64-linux.python312Packages.imgdiff |
 | python3.12-imgsize | 3.0.3 | Pure Python image size library | legacyPackages.x86_64-linux.python312Packages.imgsize |
-| python3.12-imgw-pib | 1.5.2 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python312Packages.imgw-pib |
+| python3.12-imgw-pib | 1.5.3 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python312Packages.imgw-pib |
 | python3.12-imia | 0.5.3 | Authentication library for Starlette and FastAPI | legacyPackages.x86_64-linux.python312Packages.imia |
 | python3.12-iminuit | 2.31.1 | Python interface for the Minuit2 C++ library | legacyPackages.x86_64-linux.python312Packages.iminuit |
 | python3.12-immutabledict | 4.2.1 | Fork of frozendict, an immutable wrapper around dictionaries | legacyPackages.x86_64-linux.python312Packages.immutabledict |
@@ -44766,7 +44777,6 @@
 | python3.12-inkbird-ble | 1.1.0 | Library for Inkbird BLE devices | legacyPackages.x86_64-linux.python312Packages.inkbird-ble |
 | python3.12-inkex | 1.4.2 | Library for manipulating SVG documents which is the basis for Inkscape extensions | legacyPackages.x86_64-linux.python312Packages.inkex |
 | python3.12-inline-snapshot | 0.23.0 | Create and update inline snapshots in Python tests | legacyPackages.x86_64-linux.python312Packages.inline-snapshot |
-| python3.12-inlinestyler | 0.2.5 | Simple CSS inliner for generating HTML email messages | legacyPackages.x86_64-linux.python312Packages.inlinestyler |
 | python3.12-inotify-simple | 1.3.5 | Simple Python wrapper around inotify | legacyPackages.x86_64-linux.python312Packages.inotify-simple |
 | python3.12-inotify-unstable | 2020-08-27 | Monitor filesystems events on Linux platforms with inotify | legacyPackages.x86_64-linux.python312Packages.inotify |
 | python3.12-inotifyrecursive | 0.3.5 | Simple recursive inotify watches for Python | legacyPackages.x86_64-linux.python312Packages.inotifyrecursive |
@@ -45202,7 +45212,7 @@
 | python3.12-langgraph-checkpoint-sqlite | 2.0.11 | Library with a SQLite implementation of LangGraph checkpoint saver | legacyPackages.x86_64-linux.python312Packages.langgraph-checkpoint-sqlite |
 | python3.12-langgraph-cli | 0.3.6 | Official CLI for LangGraph API | legacyPackages.x86_64-linux.python312Packages.langgraph-cli |
 | python3.12-langgraph-prebuilt | 0.6.3 | Prebuilt agents add-on for Langgraph. Should always be bundled with langgraph | legacyPackages.x86_64-linux.python312Packages.langgraph-prebuilt |
-| python3.12-langgraph-runtime-inmem | 0.6.8 | Inmem implementation for the LangGraph API server | legacyPackages.x86_64-linux.python312Packages.langgraph-runtime-inmem |
+| python3.12-langgraph-runtime-inmem | 0.6.10 | Inmem implementation for the LangGraph API server | legacyPackages.x86_64-linux.python312Packages.langgraph-runtime-inmem |
 | python3.12-langgraph-sdk | 0.2.0 | SDK for interacting with the LangGraph Cloud REST API | legacyPackages.x86_64-linux.python312Packages.langgraph-sdk |
 | python3.12-langid | 1.1.6 | Langid.py is a standalone Language Identification (LangID) tool | legacyPackages.x86_64-linux.python312Packages.langid |
 | python3.12-langsmith | 0.4.9 | Client library to connect to the LangSmith LLM Tracing and Evaluation Platform | legacyPackages.x86_64-linux.python312Packages.langchainplus-sdk |
@@ -45263,7 +45273,7 @@
 | python3.12-legacy-cgi | 2.6.3 | Fork of the standard library cgi and cgitb modules, being deprecated in PEP-594 | legacyPackages.x86_64-linux.python312Packages.legacy-cgi |
 | python3.12-leidenalg | 0.10.2 | Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python | legacyPackages.x86_64-linux.python312Packages.leidenalg |
 | python3.12-lektricowifi | 0.1 | Communication with Lektrico's chargers | legacyPackages.x86_64-linux.python312Packages.lektricowifi |
-| python3.12-letpot | 0.6.0 | Asynchronous Python client for LetPot hydroponic gardens | legacyPackages.x86_64-linux.python312Packages.letpot |
+| python3.12-letpot | 0.6.1 | Asynchronous Python client for LetPot hydroponic gardens | legacyPackages.x86_64-linux.python312Packages.letpot |
 | python3.12-leveldb | 0.201 | Thread-safe Python bindings for LevelDB | legacyPackages.x86_64-linux.python312Packages.leveldb |
 | python3.12-levenshtein | 0.27.1 | Functions for fast computation of Levenshtein distance and string similarity | legacyPackages.x86_64-linux.python312Packages.levenshtein |
 | python3.12-levenshtein | 0.27.1 | Functions for fast computation of Levenshtein distance and string similarity | legacyPackages.x86_64-linux.python312Packages.python-Levenshtein |
@@ -46340,7 +46350,7 @@
 | python3.12-nameparser | 1.1.3 | Module for parsing human names into their individual components | legacyPackages.x86_64-linux.python312Packages.nameparser |
 | python3.12-names | 0.3.0 | Generate random names | legacyPackages.x86_64-linux.python312Packages.names |
 | python3.12-namex | 0.1.0 | Simple utility to separate the implementation of your Python package and its public API surface | legacyPackages.x86_64-linux.python312Packages.namex |
-| python3.12-nampa | 1.0 | Python implementation of the FLIRT technology | legacyPackages.x86_64-linux.python312Packages.nampa |
+| python3.12-nampa | 1.0-unstable-2024-12-18 | Python implementation of the FLIRT technology | legacyPackages.x86_64-linux.python312Packages.nampa |
 | python3.12-nanobind | 2.8.0 | Tiny and efficient C++/Python bindings | legacyPackages.x86_64-linux.python312Packages.nanobind |
 | python3.12-nanoeigenpy | 0.3.0 | Support library for bindings between Eigen in C++ and Python, based on nanobind | legacyPackages.x86_64-linux.python312Packages.nanoeigenpy |
 | python3.12-nanoemoji | 0.15.8 | Wee tool to build color fonts | legacyPackages.x86_64-linux.python312Packages.nanoemoji |
@@ -46456,7 +46466,7 @@
 | python3.12-nibabel | 5.3.2 | Access a multitude of neuroimaging data formats | legacyPackages.x86_64-linux.python312Packages.nibabel |
 | python3.12-nibe | 2.17.0 | Library for the communication with Nibe heatpumps | legacyPackages.x86_64-linux.python312Packages.nibe |
 | python3.12-nice-go | 1.0.1 | Control various Nice access control products | legacyPackages.x86_64-linux.python312Packages.nice-go |
-| python3.12-nicegui | 2.22.1 | Module to create web-based user interfaces | legacyPackages.x86_64-linux.python312Packages.nicegui |
+| python3.12-nicegui | 2.22.2 | Module to create web-based user interfaces | legacyPackages.x86_64-linux.python312Packages.nicegui |
 | python3.12-nicegui-highcharts | 2.1.0 | NiceGUI with support for Highcharts | legacyPackages.x86_64-linux.python312Packages.nicegui-highcharts |
 | python3.12-nidaqmx | 1.1.0 | API for interacting with the NI-DAQmx driver | legacyPackages.x86_64-linux.python312Packages.nidaqmx |
 | python3.12-nifty8 | 8.5.7 | Bayesian Imaging library for high-dimensional posteriors | legacyPackages.x86_64-linux.python312Packages.nifty8 |
@@ -47259,7 +47269,7 @@
 | python3.12-ptyprocess | 0.7.0 | Run a subprocess in a pseudo terminal | legacyPackages.x86_64-linux.python312Packages.ptyprocess |
 | python3.12-publicsuffix | 1.1.1 | Allows to get the public suffix of a domain name | legacyPackages.x86_64-linux.python312Packages.publicsuffix |
 | python3.12-publicsuffix2 | 2.20191221 | Get a public suffix for a domain name using the Public Suffix List | legacyPackages.x86_64-linux.python312Packages.publicsuffix2 |
-| python3.12-publicsuffixlist | 1.0.2.20250802 | Public Suffix List parser implementation | legacyPackages.x86_64-linux.python312Packages.publicsuffixlist |
+| python3.12-publicsuffixlist | 1.0.2.20250809 | Public Suffix List parser implementation | legacyPackages.x86_64-linux.python312Packages.publicsuffixlist |
 | python3.12-pubnub | 10.4.1 | Python-based APIs for PubNub | legacyPackages.x86_64-linux.python312Packages.pubnub |
 | python3.12-pubnubsub-handler | 1.0.9 | PubNub subscription between PubNub and Home Assistant | legacyPackages.x86_64-linux.python312Packages.pubnubsub-handler |
 | python3.12-pudb | 2025.1 | Full-screen, console-based Python debugger | legacyPackages.x86_64-linux.python312Packages.pudb |
@@ -47417,7 +47427,7 @@
 | python3.12-pybind11 | 2.13.6 | Seamless operability between C++11 and Python | legacyPackages.x86_64-linux.python312Packages.pybind11 |
 | python3.12-pybind11-abseil | 202402.0 | Pybind11 bindings for the Abseil C++ Common Libraries | legacyPackages.x86_64-linux.python312Packages.pybind11-abseil |
 | python3.12-pybind11-protobuf | 0-unstable-2025-02-10 | Pybind11 bindings for Google's Protocol Buffers | legacyPackages.x86_64-linux.python312Packages.pybind11-protobuf |
-| python3.12-pybind11-stubgen | 2.5.4 | Generates stubs for python modules | legacyPackages.x86_64-linux.python312Packages.pybind11-stubgen |
+| python3.12-pybind11-stubgen | 2.5.5 | Generates stubs for python modules | legacyPackages.x86_64-linux.python312Packages.pybind11-stubgen |
 | python3.12-pybindgen | 0.22.1 | Python Bindings Generator | legacyPackages.x86_64-linux.python312Packages.pybindgen |
 | python3.12-pyblackbird | 0.6 | Python implementation for Monoprice Blackbird units | legacyPackages.x86_64-linux.python312Packages.pyblackbird |
 | python3.12-pybloom-live | 4.0.0 | Probabilistic data structure | legacyPackages.x86_64-linux.python312Packages.pybloom-live |
@@ -47713,6 +47723,7 @@
 | python3.12-pyiskra | 0.1.21 | Python Iskra devices interface | legacyPackages.x86_64-linux.python312Packages.pyiskra |
 | python3.12-pyiss | 1.0.1 | Python library to access International Space Station location and data | legacyPackages.x86_64-linux.python312Packages.pyiss |
 | python3.12-pyisy | 3.4.1 | Python module to talk to ISY994 from UDI | legacyPackages.x86_64-linux.python312Packages.pyisy |
+| python3.12-pyitachip2ir | 0.0.7 | Library for sending IR commands to an ITach IP2IR gateway | legacyPackages.x86_64-linux.python312Packages.pyitachip2ir |
 | python3.12-pyituran | 0.1.5 | Module to interact with the Ituran web service | legacyPackages.x86_64-linux.python312Packages.pyituran |
 | python3.12-pyixapi | 0.2.6 | Python API client library for IX-API | legacyPackages.x86_64-linux.python312Packages.pyixapi |
 | python3.12-pyjks | 20.0.0 | Pure-Python Java Keystore (JKS) library | legacyPackages.x86_64-linux.python312Packages.pyjks |
@@ -47810,7 +47821,7 @@
 | python3.12-pymatreader | 1.0.0 | Python package to read all kinds and all versions of Matlab mat files | legacyPackages.x86_64-linux.python312Packages.pymatreader |
 | python3.12-pymatting | 1.1.13 | Python library for alpha matting | legacyPackages.x86_64-linux.python312Packages.pymatting |
 | python3.12-pymaven-patch | 0.3.2 | Python access to maven | legacyPackages.x86_64-linux.python312Packages.pymaven-patch |
-| python3.12-pymavlink | 2.4.43 | Python MAVLink interface and utilities | legacyPackages.x86_64-linux.python312Packages.pymavlink |
+| python3.12-pymavlink | 2.4.49 | Python MAVLink interface and utilities | legacyPackages.x86_64-linux.python312Packages.pymavlink |
 | python3.12-pymbolic | 2024.2.2 | Package for symbolic computation | legacyPackages.x86_64-linux.python312Packages.pymbolic |
 | python3.12-pymc | 5.25.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python312Packages.pymc |
 | python3.12-pymc | 5.25.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python312Packages.pymc3 |
@@ -47833,7 +47844,7 @@
 | python3.12-pymfy | 0.11.0 | Python client for the Somfy Open API | legacyPackages.x86_64-linux.python312Packages.pymfy |
 | python3.12-pymicro-vad | 1.0.2 | Self-contained voice activity detector | legacyPackages.x86_64-linux.python312Packages.pymicro-vad |
 | python3.12-pymicrobot | 0.0.23 | Library to communicate with MicroBot | legacyPackages.x86_64-linux.python312Packages.pymicrobot |
-| python3.12-pymiele | 0.5.2 | Lib for Miele integration with Home Assistant | legacyPackages.x86_64-linux.python312Packages.pymiele |
+| python3.12-pymiele | 0.5.3 | Lib for Miele integration with Home Assistant | legacyPackages.x86_64-linux.python312Packages.pymiele |
 | python3.12-pymilter | 1.0.6 | Python bindings for libmilter api | legacyPackages.x86_64-linux.python312Packages.pymilter |
 | python3.12-pymilvus | 2.5.14 | Python SDK for Milvus | legacyPackages.x86_64-linux.python312Packages.pymilvus |
 | python3.12-pymitsubishi | 0.1.8 | A Python library for controlling and monitoring Mitsubishi MAC-577IF-2E air conditioners | legacyPackages.x86_64-linux.python312Packages.pymitsubishi |
@@ -47949,6 +47960,7 @@
 | python3.12-pyparsing | 3.2.3 | Python library for creating PEG parsers | legacyPackages.x86_64-linux.python312Packages.pyparsing |
 | python3.12-pyparted | 3.13.0 | Python interface for libparted | legacyPackages.x86_64-linux.python312Packages.pyparted |
 | python3.12-pypass | 0.2.1 | Password manager pass in Python | legacyPackages.x86_64-linux.python312Packages.pypass |
+| python3.12-pypasser | 0.0.5 | Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text | legacyPackages.x86_64-linux.python312Packages.pypasser |
 | python3.12-pypblib | 0.0.4 | PBLib Python3 Bindings | legacyPackages.x86_64-linux.python312Packages.pypblib |
 | python3.12-pypca | 0.0.13 | Python library for interacting with the PCA 301 smart plugs | legacyPackages.x86_64-linux.python312Packages.pypca |
 | python3.12-pypck | 0.8.10 | LCN-PCK library written in Python | legacyPackages.x86_64-linux.python312Packages.pypck |
@@ -47970,6 +47982,7 @@
 | python3.12-pypinyin | 0.55.0 | Chinese Characters to Pinyin - 汉字转拼音 | legacyPackages.x86_64-linux.python312Packages.pypinyin |
 | python3.12-pypiserver | 2.3.2 | Minimal PyPI server for use with pip/easy_install | legacyPackages.x86_64-linux.python312Packages.pypiserver |
 | python3.12-pypitoken | 7.1.1 | Library for generating and manipulating PyPI tokens | legacyPackages.x86_64-linux.python312Packages.pypitoken |
+| python3.12-pypjlink2 | 1.2.1 | Python implementation of the PJLink protocol for controlling digital projectors | legacyPackages.x86_64-linux.python312Packages.pypjlink2 |
 | python3.12-pyplaato | 0.0.19 | Python API client for fetching Plaato data | legacyPackages.x86_64-linux.python312Packages.pyplaato |
 | python3.12-pyplatec | 1.4.0 | Library to simulate plate tectonics with Python bindings | legacyPackages.x86_64-linux.python312Packages.pyplatec |
 | python3.12-pypng | 0.20220715.0 | Pure Python library for PNG image encoding/decoding | legacyPackages.x86_64-linux.python312Packages.pypng |
@@ -48048,6 +48061,7 @@
 | python3.12-pyre-extensions | 0.0.32 | This module defines extensions to the standard “typing” module that are supported by the Pyre typechecker | legacyPackages.x86_64-linux.python312Packages.pyre-extensions |
 | python3.12-pyreaderwriterlock | 1.0.9 | Implementation of the Readers-writers problem | legacyPackages.x86_64-linux.python312Packages.pyreaderwriterlock |
 | python3.12-pyreadstat | 1.3.0 | Module to read SAS, SPSS and Stata files into pandas data frames | legacyPackages.x86_64-linux.python312Packages.pyreadstat |
+| python3.12-pyrecswitch | 1.0.2 | Pure-python interface for controlling Ankuoo RecSwitch MS6126 | legacyPackages.x86_64-linux.python312Packages.pyrecswitch |
 | python3.12-pyrect | 0.2.0 | Simple module with a Rect class for Pygame-like rectangular areas | legacyPackages.x86_64-linux.python312Packages.pyrect |
 | python3.12-pyregion | 2.3.0 | Python parser for ds9 region files | legacyPackages.x86_64-linux.python312Packages.pyregion |
 | python3.12-pyrender | 0.1.45 | Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes | legacyPackages.x86_64-linux.python312Packages.pyrender |
@@ -48211,6 +48225,7 @@
 | python3.12-pysvn | 1.9.23 | Python bindings for Subversion | legacyPackages.x86_64-linux.python312Packages.pysvn |
 | python3.12-pyswitchbee | 1.8.3 | Library to control SwitchBee smart home device | legacyPackages.x86_64-linux.python312Packages.pyswitchbee |
 | python3.12-pyswitchbot | 0.68.3 | Python library to control Switchbot IoT devices | legacyPackages.x86_64-linux.python312Packages.pyswitchbot |
+| python3.12-pyswitchmate | 0.5.1 | A library to communicate with Switchmate | legacyPackages.x86_64-linux.python312Packages.pyswitchmate |
 | python3.12-pysychonaut | 0.6.0 | Unofficial python api for Erowid, PsychonautWiki and AskTheCaterpillar | legacyPackages.x86_64-linux.python312Packages.pysychonaut |
 | python3.12-pysyncobj | 0.3.14 | Python library for replicating your class | legacyPackages.x86_64-linux.python312Packages.pysyncobj |
 | python3.12-pysyncthru | 0.8.0 | Automated JSON API based communication with Samsung SyncThru Web Service | legacyPackages.x86_64-linux.python312Packages.pysyncthru |
@@ -48224,7 +48239,7 @@
 | python3.12-pytautulli | 23.1.1 | Python module to get information from Tautulli | legacyPackages.x86_64-linux.python312Packages.pytautulli |
 | python3.12-pyte | 0.8.2 | Simple VTXXX-compatible linux terminal emulator | legacyPackages.x86_64-linux.python312Packages.pyte |
 | python3.12-pytelegrambotapi | 4.27.0 | Python implementation for the Telegram Bot API | legacyPackages.x86_64-linux.python312Packages.pytelegrambotapi |
-| python3.12-pytenable | 1.8.2 | Python library for the Tenable.io and TenableSC API | legacyPackages.x86_64-linux.python312Packages.pytenable |
+| python3.12-pytenable | 1.8.3 | Python library for the Tenable.io and TenableSC API | legacyPackages.x86_64-linux.python312Packages.pytenable |
 | python3.12-pytensor | 2.31.7 | Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays | legacyPackages.x86_64-linux.python312Packages.pytensor |
 | python3.12-pytesseract | 0.3.13 | Python wrapper for Google Tesseract | legacyPackages.x86_64-linux.python312Packages.pytesseract |
 | python3.12-pytest | 7.4.4 | Framework for writing tests | legacyPackages.x86_64-linux.python312Packages.pytest_7 |
@@ -48399,8 +48414,8 @@
 | python3.12-python-bugzilla | 3.3.0 | Bugzilla XMLRPC access module | legacyPackages.x86_64-linux.python312Packages.bugzilla |
 | python3.12-python-bugzilla | 3.3.0 | Bugzilla XMLRPC access module | legacyPackages.x86_64-linux.python312Packages.python-bugzilla |
 | python3.12-python-calamine | 0.3.2 | Python binding for calamine | legacyPackages.x86_64-linux.python312Packages.python-calamine |
-| python3.12-python-can | 4.5.0 | CAN support for Python | legacyPackages.x86_64-linux.python312Packages.can |
-| python3.12-python-can | 4.5.0 | CAN support for Python | legacyPackages.x86_64-linux.python312Packages.python-can |
+| python3.12-python-can | 4.6.0 | CAN support for Python | legacyPackages.x86_64-linux.python312Packages.can |
+| python3.12-python-can | 4.6.0 | CAN support for Python | legacyPackages.x86_64-linux.python312Packages.python-can |
 | python3.12-python-cinderclient | 9.7.0 | OpenStack Block Storage API Client Library | legacyPackages.x86_64-linux.python312Packages.python-cinderclient |
 | python3.12-python-codon-tables | 0.1.15 | Codon Usage Tables for Python, from kazusa.or.jp | legacyPackages.x86_64-linux.python312Packages.python-codon-tables |
 | python3.12-python-coinmarketcap | 0.6 | Python package to wrap the CoinMarketCap API | legacyPackages.x86_64-linux.python312Packages.python-coinmarketcap |
@@ -48567,7 +48582,7 @@
 | python3.12-python-redis-lock | 4.0.0 | Lock context manager implemented via redis SETNX/BLPOP | legacyPackages.x86_64-linux.python312Packages.python-redis-lock |
 | python3.12-python-registry | 1.4 | Module to parse the Windows Registry hives | legacyPackages.x86_64-linux.python312Packages.python-registry |
 | python3.12-python-reprshed | 1.0.6 | Toolshed for writing great __repr__ methods quickly and easily | legacyPackages.x86_64-linux.python312Packages.reprshed |
-| python3.12-python-roborock | 2.25.0 | Python library & console tool for controlling Roborock vacuum | legacyPackages.x86_64-linux.python312Packages.python-roborock |
+| python3.12-python-roborock | 2.29.1 | Python library & console tool for controlling Roborock vacuum | legacyPackages.x86_64-linux.python312Packages.python-roborock |
 | python3.12-python-rtmidi | 1.5.8 | Python binding for the RtMidi C++ library implemented using Cython | legacyPackages.x86_64-linux.python312Packages.python-rtmidi |
 | python3.12-python-sat | 0.1.8.dev17 | Toolkit to provide interface for various SAT (without optional dependancy py-aiger-cnf) | legacyPackages.x86_64-linux.python312Packages.python-sat |
 | python3.12-python-secp256k1-cardano | 0.2.3 | Fork of python-secp256k1, fixing the commit hash of libsecp256k1 to a Cardano compatible version | legacyPackages.x86_64-linux.python312Packages.python-secp256k1-cardano |
@@ -48792,7 +48807,7 @@
 | python3.12-pytradfri | 14.0.0 | Python package to communicate with the IKEA Trådfri ZigBee Gateway | legacyPackages.x86_64-linux.python312Packages.pytradfri |
 | python3.12-pytrafikverket | 1.1.1 | Library to get data from the Swedish Transport Administration (Trafikverket) API | legacyPackages.x86_64-linux.python312Packages.pytrafikverket |
 | python3.12-pytransportnsw | 0.1.1 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python312Packages.pytransportnsw |
-| python3.12-pytransportnswv2 | 0.8.7 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python312Packages.pytransportnswv2 |
+| python3.12-pytransportnswv2 | 0.8.10 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python312Packages.pytransportnswv2 |
 | python3.12-pytrydan | 0.8.1 | Library to interface with V2C EVSE Trydan | legacyPackages.x86_64-linux.python312Packages.pytrydan |
 | python3.12-pyttsx3 | 2.98 | Offline text-to-speech synthesis library | legacyPackages.x86_64-linux.python312Packages.pyttsx3 |
 | python3.12-pytube | 15.0.0 | Python 3 library for downloading YouTube Videos | legacyPackages.x86_64-linux.python312Packages.pytube |
@@ -48864,6 +48879,7 @@
 | python3.12-pywinrm | 0.5.0 | Python library for Windows Remote Management | legacyPackages.x86_64-linux.python312Packages.pywinrm |
 | python3.12-pywizlight | 0.6.3 | Python connector for WiZ light bulbs | legacyPackages.x86_64-linux.python312Packages.pywizlight |
 | python3.12-pywlroots | 0.17.0 | Python bindings to wlroots using cffi | legacyPackages.x86_64-linux.python312Packages.pywlroots |
+| python3.12-pywmspro | 0.3.2 | Python library for WMS WebControl pro API | legacyPackages.x86_64-linux.python312Packages.pywmspro |
 | python3.12-pyworld | 0.3.5 | PyWorld is a Python wrapper for WORLD vocoder | legacyPackages.x86_64-linux.python312Packages.pyworld |
 | python3.12-pyws66i | 1.1 | Library to interface with WS66i 6-zone amplifier | legacyPackages.x86_64-linux.python312Packages.pyws66i |
 | python3.12-pyx | 0.16 | Python package for the generation of PostScript, PDF, and SVG files | legacyPackages.x86_64-linux.python312Packages.pyx |
@@ -49215,6 +49231,7 @@
 | python3.12-ropgadget | 7.6 | Tool to search for gadgets in binaries to facilitate ROP exploitation | legacyPackages.x86_64-linux.python312Packages.ROPGadget |
 | python3.12-ropgadget | 7.6 | Tool to search for gadgets in binaries to facilitate ROP exploitation | legacyPackages.x86_64-linux.python312Packages.ropgadget |
 | python3.12-ropper | 1.13.10 | Show information about files in different file formats | legacyPackages.x86_64-linux.python312Packages.ropper |
+| python3.12-rosbags | 0.10.11 | Pure Python library to read, modify, convert, and write rosbag files | legacyPackages.x86_64-linux.python312Packages.rosbags |
 | python3.12-rotary-embedding-torch | 0.8.7 | Implementation of Rotary Embeddings, from the Roformer paper, in Pytorch | legacyPackages.x86_64-linux.python312Packages.rotary-embedding-torch |
 | python3.12-rouge-score | 0.1.2 | Python ROUGE Implementation | legacyPackages.x86_64-linux.python312Packages.rouge-score |
 | python3.12-routeros-api | 0.21.0 | Python API to RouterBoard devices produced by MikroTik | legacyPackages.x86_64-linux.python312Packages.routeros-api |
@@ -49293,7 +49310,7 @@
 | python3.12-safety | 3.5.2 | Checks installed dependencies for known vulnerabilities | legacyPackages.x86_64-linux.python312Packages.safety |
 | python3.12-safety-schemas | 0.0.14 | Schemas for Safety CLI | legacyPackages.x86_64-linux.python312Packages.safety-schemas |
 | python3.12-sagemaker | 2.244.0 | Library for training and deploying machine learning models on Amazon SageMaker | legacyPackages.x86_64-linux.python312Packages.sagemaker |
-| python3.12-sagemaker-core | 1.0.47 | Python object-oriented interface for interacting with Amazon SageMaker resources | legacyPackages.x86_64-linux.python312Packages.sagemaker-core |
+| python3.12-sagemaker-core | 1.0.49 | Python object-oriented interface for interacting with Amazon SageMaker resources | legacyPackages.x86_64-linux.python312Packages.sagemaker-core |
 | python3.12-sagemaker-mlflow | 0.1.0 | MLFlow plugin for SageMaker | legacyPackages.x86_64-linux.python312Packages.sagemaker-mlflow |
 | python3.12-salib | 1.5.1 | Python implementations of commonly used sensitivity analysis methods, useful in systems modeling to calculate the effects of model inputs or exogenous factors on outputs of interest | legacyPackages.x86_64-linux.python312Packages.salib |
 | python3.12-salmon-mail | 3.3.0 | Pythonic mail application server | legacyPackages.x86_64-linux.python312Packages.salmon-mail |
@@ -49846,7 +49863,7 @@
 | python3.12-sqlite-vec | 0.1.6 | Python bindings for sqlite-vec | legacyPackages.x86_64-linux.python312Packages.sqlite-vec |
 | python3.12-sqlitedict | 2.1.0 | Persistent, thread-safe dict | legacyPackages.x86_64-linux.python312Packages.sqlitedict |
 | python3.12-sqliteschema | 2.0.1 | Python library to dump table schema of a SQLite database file | legacyPackages.x86_64-linux.python312Packages.sqliteschema |
-| python3.12-sqlmap | 1.9.7 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python312Packages.sqlmap |
+| python3.12-sqlmap | 1.9.8 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python312Packages.sqlmap |
 | python3.12-sqlmodel | 0.0.24 | Module to work with SQL databases | legacyPackages.x86_64-linux.python312Packages.sqlmodel |
 | python3.12-sqlobject | 3.13.0 | Object Relational Manager for providing an object interface to your database | legacyPackages.x86_64-linux.python312Packages.sqlobject |
 | python3.12-sqlparse | 0.5.3 | Non-validating SQL parser for Python | legacyPackages.x86_64-linux.python312Packages.sqlparse |
@@ -49924,7 +49941,7 @@
 | python3.12-stookwijzer | 1.6.1 | Python package for the Stookwijzer API | legacyPackages.x86_64-linux.python312Packages.stookwijzer |
 | python3.12-stop-words | 2018.7.23 | Get list of common stop words in various languages in Python | legacyPackages.x86_64-linux.python312Packages.stop-words |
 | python3.12-stopit | 1.1.2 | Raise asynchronous exceptions in other thread, control the timeout of blocks or callables with a context manager or a decorator | legacyPackages.x86_64-linux.python312Packages.stopit |
-| python3.12-storage3 | 0.12.0 | Supabase Storage client for Python. | legacyPackages.x86_64-linux.python312Packages.storage3 |
+| python3.12-storage3 | 0.12.1 | Supabase Storage client for Python. | legacyPackages.x86_64-linux.python312Packages.storage3 |
 | python3.12-stransi | 0.3.0 | Lightweight Python parser library for ANSI escape code sequences | legacyPackages.x86_64-linux.python312Packages.stransi |
 | python3.12-strategies | 0.2.3 | Python library for control flow programming | legacyPackages.x86_64-linux.python312Packages.strategies |
 | python3.12-stravalib | 2.4 | Python library for interacting with Strava v3 REST API | legacyPackages.x86_64-linux.python312Packages.stravalib |
@@ -50060,6 +50077,7 @@
 | python3.12-tailer | 0.4.1 | Python implementation implementation of GNU tail and head | legacyPackages.x86_64-linux.python312Packages.tailer |
 | python3.12-tailscale | 0.6.2 | Python client for the Tailscale API | legacyPackages.x86_64-linux.python312Packages.tailscale |
 | python3.12-takethetime | 0.3.1 | Simple time taking library using context managers | legacyPackages.x86_64-linux.python312Packages.takethetime |
+| python3.12-tami4edgeapi | 3.0 | Python API client for Tami4 Edge / Edge+ devices | legacyPackages.x86_64-linux.python312Packages.tami4edgeapi |
 | python3.12-tank-utility | 1.5.0 | Library for the Tank Utility API | legacyPackages.x86_64-linux.python312Packages.tank-utility |
 | python3.12-tap.py | 3.2.1 | Set of tools for working with the Test Anything Protocol (TAP) in Python | legacyPackages.x86_64-linux.python312Packages.tappy |
 | python3.12-tasklib | 2.5.1 | Library for interacting with taskwarrior databases | legacyPackages.x86_64-linux.python312Packages.tasklib |
@@ -50188,6 +50206,7 @@
 | python3.12-thermopro-ble | 0.13.1 | Library for Thermopro BLE devices | legacyPackages.x86_64-linux.python312Packages.thermopro-ble |
 | python3.12-thespian | 4.0.0 | Python Actor concurrency library | legacyPackages.x86_64-linux.python312Packages.thespian |
 | python3.12-thinc | 8.3.6 | Library for NLP machine learning | legacyPackages.x86_64-linux.python312Packages.thinc |
+| python3.12-thingspeak | 1.0.0 | Client library for the thingspeak.com API | legacyPackages.x86_64-linux.python312Packages.thingspeak |
 | python3.12-thinqconnect | 1.0.7 | Module to interacting with the LG ThinQ Connect Open API | legacyPackages.x86_64-linux.python312Packages.thinqconnect |
 | python3.12-thorlabspm100 | 1.2.2 | Interface to the PM100A/D power meter from Thorlabs | legacyPackages.x86_64-linux.python312Packages.thorlabspm100 |
 | python3.12-threadloop | 1.0.2 | Library to run tornado coroutines from synchronous Python | legacyPackages.x86_64-linux.python312Packages.threadloop |
@@ -50825,7 +50844,7 @@
 | python3.12-types-ipaddress | 1.0.8 | Typing stubs for ipaddress | legacyPackages.x86_64-linux.python312Packages.types-ipaddress |
 | python3.12-types-jinja2 | 2.11.9 | Typing stubs for Jinja2 | legacyPackages.x86_64-linux.python312Packages.types-jinja2 |
 | python3.12-types-lxml | 2025.03.04 | Complete lxml external type annotation | legacyPackages.x86_64-linux.python312Packages.types-lxml |
-| python3.12-types-markdown | 3.8.0.20250708 | Typing stubs for Markdown | legacyPackages.x86_64-linux.python312Packages.types-markdown |
+| python3.12-types-markdown | 3.8.0.20250809 | Typing stubs for Markdown | legacyPackages.x86_64-linux.python312Packages.types-markdown |
 | python3.12-types-markupsafe | 1.1.10 | Typing stubs for MarkupSafe | legacyPackages.x86_64-linux.python312Packages.types-markupsafe |
 | python3.12-types-mock | 5.2.0.20250516 | Type stub package for the mock package | legacyPackages.x86_64-linux.python312Packages.types-mock |
 | python3.12-types-pillow | 10.2.0.20240822 | Typing stubs for Pillow | legacyPackages.x86_64-linux.python312Packages.types-pillow |
@@ -51070,6 +51089,7 @@
 | python3.12-voluptuous-openapi | 0.1.0 | Convert voluptuous schemas to OpenAPI Schema object | legacyPackages.x86_64-linux.python312Packages.voluptuous-openapi |
 | python3.12-voluptuous-serialize | 2.6.0 | Convert Voluptuous schemas to dictionaries so they can be serialized | legacyPackages.x86_64-linux.python312Packages.voluptuous-serialize |
 | python3.12-voluptuous-stubs | 0.1.1 | Typing stubs for voluptuous | legacyPackages.x86_64-linux.python312Packages.voluptuous-stubs |
+| python3.12-volvocarsapi | 0.4.1 | Python client for the Volvo Cars API | legacyPackages.x86_64-linux.python312Packages.volvocarsapi |
 | python3.12-volvooncall | 0.10.4 | Retrieve information from the Volvo On Call web service | legacyPackages.x86_64-linux.python312Packages.volvooncall |
 | python3.12-vowpalwabbit | 9.10.0 | Vowpal Wabbit is a fast machine learning library for online learning, and this is the python wrapper for the project | legacyPackages.x86_64-linux.python312Packages.vowpalwabbit |
 | python3.12-vpk | 1.4.0 | Library for working with Valve Pak files | legacyPackages.x86_64-linux.python312Packages.vpk |
@@ -51493,7 +51513,7 @@
 | python3.13-Lash-L-roborock_custom_map | 0.1.1 | This allows you to use the core Roborock integration with the Xiaomi Map Card | legacyPackages.x86_64-linux.home-assistant-custom-components.roborock_custom_map |
 | python3.13-Limych-average | 2.4.0 | Average Sensor for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.average |
 | python3.13-MolBar | 1.1.3 | Unique molecular identifiers for molecular barcoding | legacyPackages.x86_64-linux.python313Packages.molbar |
-| python3.13-NewsGuyTor-fellow | 0.3.2 | Home Assistant integration for Fellow Aiden coffee brewer | legacyPackages.x86_64-linux.home-assistant-custom-components.fellow |
+| python3.13-NewsGuyTor-fellow | 0-unstable-2025-08-06 | Home Assistant integration for Fellow Aiden coffee brewer | legacyPackages.x86_64-linux.home-assistant-custom-components.fellow |
 | python3.13-PyWavefront | 1.3.3 | Python library for importing Wavefront .obj files | legacyPackages.x86_64-linux.python313Packages.pywavefront |
 | python3.13-SciencePlots | 2.1.1 | Matplotlib styles for scientific plotting | legacyPackages.x86_64-linux.python313Packages.scienceplots |
 | python3.13-SimpleSQLite | 1.5.4 | Python library to simplify SQLite database operations | legacyPackages.x86_64-linux.python313Packages.simplesqlite |
@@ -51506,7 +51526,7 @@
 | python3.13-about-time | 4.2.1 | Cool helper for tracking time and throughput of code blocks, with beautiful human friendly renditions | legacyPackages.x86_64-linux.python313Packages.about-time |
 | python3.13-absl-py | 2.2.2 | Abseil Python Common Libraries | legacyPackages.x86_64-linux.python313Packages.absl-py |
 | python3.13-acat | 1.0.0b1 | Microsoft Azure Command-Line Tools Acat Extension | legacyPackages.x86_64-linux.azure-cli-extensions.acat |
-| python3.13-accelerate | 1.9.0 | Simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision | legacyPackages.x86_64-linux.python313Packages.accelerate |
+| python3.13-accelerate | 1.10.0 | Simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision | legacyPackages.x86_64-linux.python313Packages.accelerate |
 | python3.13-accessible-pygments | 0.0.5 | Collection of accessible pygments styles | legacyPackages.x86_64-linux.python313Packages.accessible-pygments |
 | python3.13-account | 0.2.5 | Microsoft Azure Command-Line Tools SubscriptionClient Extension | legacyPackages.x86_64-linux.azure-cli-extensions.account |
 | python3.13-accupy | 0.3.6 | Accurate sums and dot products for Python | legacyPackages.x86_64-linux.python313Packages.accupy |
@@ -51762,6 +51782,7 @@
 | python3.13-airgradient | 0.9.2 | Module for AirGradient | legacyPackages.x86_64-linux.python313Packages.airgradient |
 | python3.13-airium | 0.2.6 | Bidirectional HTML-python translator | legacyPackages.x86_64-linux.python313Packages.airium |
 | python3.13-airly | 1.1.0 | Python module for getting air quality data from Airly sensors | legacyPackages.x86_64-linux.python313Packages.airly |
+| python3.13-airos | 0.2.4 | Ubiquity airOS module(s) for Python 3 | legacyPackages.x86_64-linux.python313Packages.airos |
 | python3.13-airportsdata | 20250706 | Extensive database of location and timezone data for nearly every operational airport | legacyPackages.x86_64-linux.python313Packages.airportsdata |
 | python3.13-airthings-ble | 1.1.0 | Library for Airthings BLE devices | legacyPackages.x86_64-linux.python313Packages.airthings-ble |
 | python3.13-airthings-cloud | 0.2.0 | Python module for Airthings | legacyPackages.x86_64-linux.python313Packages.airthings-cloud |
@@ -52126,7 +52147,7 @@
 | python3.13-awswrangler | 3.12.0 | Pandas on AWS | legacyPackages.x86_64-linux.python313Packages.awswrangler |
 | python3.13-ax-platform | 1.0.0 | Platform for understanding, managing, deploying, and automating adaptive experiments | legacyPackages.x86_64-linux.python313Packages.ax-platform |
 | python3.13-axis | 65 | Python library for communicating with devices from Axis Communications | legacyPackages.x86_64-linux.python313Packages.axis |
-| python3.13-axisregistry | 0.4.12 | Google Fonts registry of OpenType variation axis tags | legacyPackages.x86_64-linux.python313Packages.axisregistry |
+| python3.13-axisregistry | 0.4.16 | Google Fonts registry of OpenType variation axis tags | legacyPackages.x86_64-linux.python313Packages.axisregistry |
 | python3.13-ayla-iot-unofficial | 1.5.0 | Unofficial python library for interacting with the Ayla IoT API | legacyPackages.x86_64-linux.python313Packages.ayla-iot-unofficial |
 | python3.13-azure-ai-documentintelligence | 1.0.2 | Azure AI Document Intelligence client library for Python | legacyPackages.x86_64-linux.python313Packages.azure-ai-documentintelligence |
 | python3.13-azure-ai-vision-imageanalysis | 1.0.0b3 | Azure Image Analysis client library for Python | legacyPackages.x86_64-linux.python313Packages.azure-ai-vision-imageanalysis |
@@ -52644,7 +52665,7 @@
 | python3.13-catalogue | 2.0.10 | Tiny library for adding function or object registries | legacyPackages.x86_64-linux.python313Packages.catalogue |
 | python3.13-catboost | 1.2.7 | High-performance library for gradient boosting on decision trees | legacyPackages.x86_64-linux.python313Packages.catboost |
 | python3.13-catkin-pkg | 1.0.0 | Library for retrieving information about catkin packages | legacyPackages.x86_64-linux.python313Packages.catkin-pkg |
-| python3.13-catppuccin | 2.4.1 | Soothing pastel theme for Python | legacyPackages.x86_64-linux.python313Packages.catppuccin |
+| python3.13-catppuccin | 2.5.0 | Soothing pastel theme for Python | legacyPackages.x86_64-linux.python313Packages.catppuccin |
 | python3.13-cattrs | 24.1.3 | Python custom class converters for attrs | legacyPackages.x86_64-linux.python313Packages.cattrs |
 | python3.13-causal-conv1d | 1.5.0.post8 | Causal depthwise conv1d in CUDA with a PyTorch interface | legacyPackages.x86_64-linux.python313Packages.causal-conv1d |
 | python3.13-cbor | 1.0.0 | Concise Binary Object Representation (CBOR) library | legacyPackages.x86_64-linux.python313Packages.cbor |
@@ -53214,6 +53235,7 @@
 | python3.13-debuglater | 1.4.4 | Module for post-mortem debugging of Python programs | legacyPackages.x86_64-linux.python313Packages.debuglater |
 | python3.13-debugpy | 1.8.16 | Implementation of the Debug Adapter Protocol for Python | legacyPackages.x86_64-linux.python313Packages.debugpy |
 | python3.13-decli | 0.6.1 | Minimal, easy to use, declarative command line interface tool | legacyPackages.x86_64-linux.python313Packages.decli |
+| python3.13-declinate | 0.0.6 | Command line interface generator | legacyPackages.x86_64-linux.python313Packages.declinate |
 | python3.13-decopatch | 1.4.10 | Python helper for decorators | legacyPackages.x86_64-linux.python313Packages.decopatch |
 | python3.13-decora-wifi | 1.5 | Python library for controlling Leviton Decora Smart Wi-Fi devices | legacyPackages.x86_64-linux.python313Packages.decora-wifi |
 | python3.13-decorator | 5.2.1 | Better living through Python with decorators | legacyPackages.x86_64-linux.python313Packages.decorator |
@@ -53531,8 +53553,8 @@
 | python3.13-django-sql-utils | 0.7.0 | SQL utilities for Django | legacyPackages.x86_64-linux.python313Packages.django-sql-utils |
 | python3.13-django-statici18n | 2.6.0 | Helper for generating Javascript catalog to static files | legacyPackages.x86_64-linux.python313Packages.django-statici18n |
 | python3.13-django-storages | 1.14.5 | Collection of custom storage backends for Django | legacyPackages.x86_64-linux.python313Packages.django-storages |
-| python3.13-django-stubs | 5.2.0 | PEP-484 stubs for Django | legacyPackages.x86_64-linux.python313Packages.django-stubs |
-| python3.13-django-stubs-ext | 5.2.0 | Extensions and monkey-patching for django-stubs | legacyPackages.x86_64-linux.python313Packages.django-stubs-ext |
+| python3.13-django-stubs | 5.2.2 | PEP-484 stubs for Django | legacyPackages.x86_64-linux.python313Packages.django-stubs |
+| python3.13-django-stubs-ext | 5.2.2 | Extensions and monkey-patching for django-stubs | legacyPackages.x86_64-linux.python313Packages.django-stubs-ext |
 | python3.13-django-tables2 | 2.7.1 | Django app for creating HTML tables | legacyPackages.x86_64-linux.python313Packages.django-tables2 |
 | python3.13-django-tagging | 0.5.0 | Generic tagging application for Django projects | legacyPackages.x86_64-linux.python313Packages.django-tagging |
 | python3.13-django-tagging | 0.5.0 | Generic tagging application for Django projects | legacyPackages.x86_64-linux.python313Packages.django_tagging |
@@ -53567,7 +53589,7 @@
 | python3.13-djangorestframework-jsonp | 1.0.2 | JSONP support for Django REST Framework | legacyPackages.x86_64-linux.python313Packages.djangorestframework-jsonp |
 | python3.13-djangorestframework-recursive | 0.1.2 | Recursive Serialization for Django REST framework | legacyPackages.x86_64-linux.python313Packages.djangorestframework-recursive |
 | python3.13-djangorestframework-simplejwt | 5.5.0 | JSON Web Token authentication plugin for Django REST Framework | legacyPackages.x86_64-linux.python313Packages.djangorestframework-simplejwt |
-| python3.13-djangorestframework-stubs | 3.16.0 | PEP-484 stubs for Django REST Framework | legacyPackages.x86_64-linux.python313Packages.djangorestframework-stubs |
+| python3.13-djangorestframework-stubs | 3.16.1 | PEP-484 stubs for Django REST Framework | legacyPackages.x86_64-linux.python313Packages.djangorestframework-stubs |
 | python3.13-djangosaml2 | 1.11.1-1 | Django SAML2 Service Provider based on pySAML2 | legacyPackages.x86_64-linux.python313Packages.djangosaml2 |
 | python3.13-djmail | 2.0.0 | Simple, powerfull and nonobstructive django email middleware | legacyPackages.x86_64-linux.python313Packages.djmail |
 | python3.13-djoser | 2.3.1 | REST implementation of Django authentication system | legacyPackages.x86_64-linux.python313Packages.djoser |
@@ -53759,6 +53781,7 @@
 | python3.13-ebaysdk | 2.2.0 | eBay SDK for Python | legacyPackages.x86_64-linux.python313Packages.ebaysdk |
 | python3.13-ebcdic | 1.1.1 | Additional EBCDIC codecs | legacyPackages.x86_64-linux.python313Packages.ebcdic |
 | python3.13-ebooklib | 0.18 | Python E-book library for handling books in EPUB2/EPUB3  format | legacyPackages.x86_64-linux.python313Packages.ebooklib |
+| python3.13-ebusdpy | 0.0.17 | eBusd python integration library | legacyPackages.x86_64-linux.python313Packages.ebusdpy |
 | python3.13-ec2-metadata | 2.15.0 | Easy interface to query the EC2 metadata API, with caching | legacyPackages.x86_64-linux.python313Packages.ec2-metadata |
 | python3.13-ec2instanceconnectcli | 1.0.3 | Command Line Interface for AWS EC2 Instance Connect | legacyPackages.x86_64-linux.python313Packages.ec2instanceconnectcli |
 | python3.13-ecdsa | 0.19.1 | ECDSA cryptographic signature library | legacyPackages.x86_64-linux.python313Packages.ecdsa |
@@ -53774,7 +53797,6 @@
 | python3.13-edgezones | 1.0.0b1 | Microsoft Azure Command-Line Tools Edgezones Extension | legacyPackages.x86_64-linux.azure-cli-extensions.edgezones |
 | python3.13-editables | 0.5 | Editable installations | legacyPackages.x86_64-linux.python313Packages.editables |
 | python3.13-editdistance | 0.8.1 | Python implementation of the edit distance (Levenshtein distance) | legacyPackages.x86_64-linux.python313Packages.editdistance |
-| python3.13-editdistance-s | 1.0.0 | Fast implementation of the edit distance (Levenshtein distance) | legacyPackages.x86_64-linux.python313Packages.editdistance-s |
 | python3.13-editdistpy | 0.1.6 | Fast Levenshtein and Damerau optimal string alignment algorithms | legacyPackages.x86_64-linux.python313Packages.editdistpy |
 | python3.13-editor | 1.6.6 | Open the default text editor | legacyPackages.x86_64-linux.python313Packages.editor |
 | python3.13-editorconfig | 0.17.0 | EditorConfig File Locator and Interpreter for Python | legacyPackages.x86_64-linux.python313Packages.editorconfig |
@@ -53961,7 +53983,7 @@
 | python3.13-face-recognition-models | 0.3.0 | Trained models for the face_recognition python library | legacyPackages.x86_64-linux.python313Packages.face-recognition-models |
 | python3.13-face-recognition-models | 0.3.0 | Trained models for the face_recognition python library | legacyPackages.x86_64-linux.python313Packages.face_recognition_models |
 | python3.13-facebook-sdk | 3.1.0 | Client library that supports the Facebook Graph API and the official Facebook JavaScript SDK | legacyPackages.x86_64-linux.python313Packages.facebook-sdk |
-| python3.13-facedancer | 3.1.0 | Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET | legacyPackages.x86_64-linux.python313Packages.facedancer |
+| python3.13-facedancer | 3.1.1 | Implement your own USB device in Python, supported by a hardware peripheral such as Cynthion or GreatFET | legacyPackages.x86_64-linux.python313Packages.facedancer |
 | python3.13-facenet-pytorch | 2.5.3 | Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models | legacyPackages.x86_64-linux.python313Packages.facenet-pytorch |
 | python3.13-factory-boy | 3.3.3 | Python package to create factories for complex objects | legacyPackages.x86_64-linux.python313Packages.factory-boy |
 | python3.13-factory-boy | 3.3.3 | Python package to create factories for complex objects | legacyPackages.x86_64-linux.python313Packages.factory_boy |
@@ -53981,7 +54003,7 @@
 | python3.13-fast-array-utils | 1.2.1 | Fast array utilities | legacyPackages.x86_64-linux.python313Packages.fast-array-utils |
 | python3.13-fast-histogram | 0.14 | Fast 1D and 2D histogram functions in Python | legacyPackages.x86_64-linux.python313Packages.fast-histogram |
 | python3.13-fast-simplification | 0.1.11 | Fast Quadratic Mesh Simplification | legacyPackages.x86_64-linux.python313Packages.fast-simplification |
-| python3.13-fastai | 2.8.2 | Fastai deep learning library | legacyPackages.x86_64-linux.python313Packages.fastai |
+| python3.13-fastai | 2.8.3 | Fastai deep learning library | legacyPackages.x86_64-linux.python313Packages.fastai |
 | python3.13-fastapi | 0.115.12 | Web framework for building APIs | legacyPackages.x86_64-linux.python313Packages.fastapi |
 | python3.13-fastapi-cli | 0.0.7 | Run and manage FastAPI apps from the command line with FastAPI CLI | legacyPackages.x86_64-linux.python313Packages.fastapi-cli |
 | python3.13-fastapi-mail | 1.5.0 | Module for sending emails and attachments | legacyPackages.x86_64-linux.python313Packages.fastapi-mail |
@@ -54442,7 +54464,7 @@
 | python3.13-glfw | 2.9.0 | Python bindings for GLFW | legacyPackages.x86_64-linux.python313Packages.glfw |
 | python3.13-gliner | 0.2.21 | Generalist and Lightweight Model for Named Entity Recognition | legacyPackages.x86_64-linux.python313Packages.gliner |
 | python3.13-glob2 | 0.7 | Version of the glob module that can capture patterns and supports recursive wildcards | legacyPackages.x86_64-linux.python313Packages.glob2 |
-| python3.13-globus-sdk | 3.61.0 | Interface to Globus REST APIs, including the Transfer API and the Globus Auth API | legacyPackages.x86_64-linux.python313Packages.globus-sdk |
+| python3.13-globus-sdk | 3.62.0 | Interface to Globus REST APIs, including the Transfer API and the Globus Auth API | legacyPackages.x86_64-linux.python313Packages.globus-sdk |
 | python3.13-glocaltokens | 0.7.5 | Library to extract google home devices local authentication tokens from google servers | legacyPackages.x86_64-linux.python313Packages.glocaltokens |
 | python3.13-glom | 24.11.0 | Module for restructuring data | legacyPackages.x86_64-linux.python313Packages.glom |
 | python3.13-glueviz | 1.22.2 | Linked Data Visualizations Across Multiple Files | legacyPackages.x86_64-linux.python313Packages.glueviz |
@@ -54525,7 +54547,7 @@
 | python3.13-google-cloud-workstations | 0.5.15 | Python Client for Cloud Workstations | legacyPackages.x86_64-linux.python313Packages.google-cloud-workstations |
 | python3.13-google-compute-engine | 20190124 | Google Compute Engine tools and services | legacyPackages.x86_64-linux.python313Packages.google-compute-engine |
 | python3.13-google-crc32c | 1.7.1 | Wrapper the google/crc32c hardware-based implementation of the CRC32C hashing algorithm | legacyPackages.x86_64-linux.python313Packages.google-crc32c |
-| python3.13-google-genai | 1.20.0 | Google Generative AI Python SDK | legacyPackages.x86_64-linux.python313Packages.google-genai |
+| python3.13-google-genai | 1.29.0 | Google Generative AI Python SDK | legacyPackages.x86_64-linux.python313Packages.google-genai |
 | python3.13-google-generativeai | 0.8.5 | Python client library for Google's large language model PaLM API | legacyPackages.x86_64-linux.python313Packages.google-generativeai |
 | python3.13-google-geo-type | 0.3.13 | Google Geo Type API client library | legacyPackages.x86_64-linux.python313Packages.google-geo-type |
 | python3.13-google-i18n-address | 3.1.1 | Google's i18n address data packaged for Python | legacyPackages.x86_64-linux.python313Packages.google-i18n-address |
@@ -54546,7 +54568,7 @@
 | python3.13-gotailwind | 0.3.0 | Modul to communicate with Tailwind garage door openers | legacyPackages.x86_64-linux.python313Packages.gotailwind |
 | python3.13-gotenberg-client | 0.10.0 | Python client for interfacing with the Gotenberg API | legacyPackages.x86_64-linux.python313Packages.gotenberg-client |
 | python3.13-gotify | 0.6.0 | Python library to access your gotify server | legacyPackages.x86_64-linux.python313Packages.gotify |
-| python3.13-gotrue | 2.12.0 | Python Client Library for Supabase Auth | legacyPackages.x86_64-linux.python313Packages.gotrue |
+| python3.13-gotrue | 2.12.3 | Python Client Library for Supabase Auth | legacyPackages.x86_64-linux.python313Packages.gotrue |
 | python3.13-govee-ble | 0.44.0 | Library for Govee BLE devices | legacyPackages.x86_64-linux.python313Packages.govee-ble |
 | python3.13-govee-led-wez | 0.0.15 | Control Govee Lights from Python | legacyPackages.x86_64-linux.python313Packages.govee-led-wez |
 | python3.13-govee-local-api | 2.1.0 | Library to communicate with Govee local API | legacyPackages.x86_64-linux.python313Packages.govee-local-api |
@@ -54622,7 +54644,7 @@
 | python3.13-groestlcoin-hash | 1.0.3 | Bindings for groestl key derivation function library used in Groestlcoin | legacyPackages.x86_64-linux.python313Packages.groestlcoin-hash |
 | python3.13-groestlcoin-hash | 1.0.3 | Bindings for groestl key derivation function library used in Groestlcoin | legacyPackages.x86_64-linux.python313Packages.groestlcoin_hash |
 | python3.13-groovy | 0.1.2 | Small Python library created to help developers protect their applications from Server Side Request Forgery (SSRF) attacks | legacyPackages.x86_64-linux.python313Packages.groovy |
-| python3.13-groq | 0.30.0 | Library for the Groq API | legacyPackages.x86_64-linux.python313Packages.groq |
+| python3.13-groq | 0.31.0 | Library for the Groq API | legacyPackages.x86_64-linux.python313Packages.groq |
 | python3.13-growattserver | 1.7.1 | Python package to retrieve information from Growatt units | legacyPackages.x86_64-linux.python313Packages.growattserver |
 | python3.13-grpc-google-iam-v1 | 0.14.2 | GRPC library for the google-iam-v1 service | legacyPackages.x86_64-linux.python313Packages.grpc-google-iam-v1 |
 | python3.13-grpc-google-iam-v1 | 0.14.2 | GRPC library for the google-iam-v1 service | legacyPackages.x86_64-linux.python313Packages.grpc_google_iam_v1 |
@@ -54663,7 +54685,7 @@
 | python3.13-guzzle-sphinx-theme | 0.7.11 | Sphinx theme used by Guzzle: http://guzzlephp.org | legacyPackages.x86_64-linux.python313Packages.guzzle_sphinx_theme |
 | python3.13-gviz_api | 1.10.0 | Python API for Google Visualization | legacyPackages.x86_64-linux.python313Packages.gviz-api |
 | python3.13-gvm-tools | 25.3.1 | Collection of APIs that help with remote controlling a Greenbone Security Manager | legacyPackages.x86_64-linux.python313Packages.gvm-tools |
-| python3.13-gwcs | 0.25.1 | Module to manage the Generalized World Coordinate System | legacyPackages.x86_64-linux.python313Packages.gwcs |
+| python3.13-gwcs | 0.25.2 | Module to manage the Generalized World Coordinate System | legacyPackages.x86_64-linux.python313Packages.gwcs |
 | python3.13-gym | 0.26.2 | Toolkit for developing and comparing your reinforcement learning agents | legacyPackages.x86_64-linux.python313Packages.gym |
 | python3.13-gym-notices | 0.0.8 | Notices for Python package Gym | legacyPackages.x86_64-linux.python313Packages.gym-notices |
 | python3.13-gymnasium | 1.2.0 | Standard API for reinforcement learning and a diverse set of reference environments (formerly Gym) | legacyPackages.x86_64-linux.python313Packages.gymnasium |
@@ -54927,7 +54949,7 @@
 | python3.13-idasen | 0.12.0 | Python API and CLI for the ikea IDÅSEN desk | legacyPackages.x86_64-linux.python313Packages.idasen |
 | python3.13-idasen-ha | 2.6.3 | Home Assistant helper lib for the IKEA Idasen Desk integration | legacyPackages.x86_64-linux.python313Packages.idasen-ha |
 | python3.13-idbutils | 1.0.1 | Python utilities useful for database and internal apps | legacyPackages.x86_64-linux.python313Packages.idbutils |
-| python3.13-identify | 2.6.12 | File identification library for Python | legacyPackages.x86_64-linux.python313Packages.identify |
+| python3.13-identify | 2.6.13 | File identification library for Python | legacyPackages.x86_64-linux.python313Packages.identify |
 | python3.13-idna | 3.10 | Internationalized Domain Names in Applications (IDNA) | legacyPackages.x86_64-linux.python313Packages.idna |
 | python3.13-idna-ssl | 1.1.0 | Patch ssl.match_hostname for Unicode(idna) domains support | legacyPackages.x86_64-linux.python313Packages.idna-ssl |
 | python3.13-idstools | 0.6.5 | Module to work with Snort and Suricata Rule and Event | legacyPackages.x86_64-linux.python313Packages.idstools |
@@ -54967,7 +54989,7 @@
 | python3.13-imgcat | 0.6.0 | Imgcat in Python | legacyPackages.x86_64-linux.python313Packages.imgcat |
 | python3.13-imgdiff | 1.7.1 | Compare two images side-by-side | legacyPackages.x86_64-linux.python313Packages.imgdiff |
 | python3.13-imgsize | 3.0.3 | Pure Python image size library | legacyPackages.x86_64-linux.python313Packages.imgsize |
-| python3.13-imgw-pib | 1.5.2 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python313Packages.imgw-pib |
+| python3.13-imgw-pib | 1.5.3 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python313Packages.imgw-pib |
 | python3.13-imia | 0.5.3 | Authentication library for Starlette and FastAPI | legacyPackages.x86_64-linux.python313Packages.imia |
 | python3.13-iminuit | 2.31.1 | Python interface for the Minuit2 C++ library | legacyPackages.x86_64-linux.python313Packages.iminuit |
 | python3.13-immutabledict | 4.2.1 | Fork of frozendict, an immutable wrapper around dictionaries | legacyPackages.x86_64-linux.python313Packages.immutabledict |
@@ -55010,7 +55032,6 @@
 | python3.13-inkbird-ble | 1.1.0 | Library for Inkbird BLE devices | legacyPackages.x86_64-linux.python313Packages.inkbird-ble |
 | python3.13-inkex | 1.4.2 | Library for manipulating SVG documents which is the basis for Inkscape extensions | legacyPackages.x86_64-linux.python313Packages.inkex |
 | python3.13-inline-snapshot | 0.23.0 | Create and update inline snapshots in Python tests | legacyPackages.x86_64-linux.python313Packages.inline-snapshot |
-| python3.13-inlinestyler | 0.2.5 | Simple CSS inliner for generating HTML email messages | legacyPackages.x86_64-linux.python313Packages.inlinestyler |
 | python3.13-inotify-simple | 1.3.5 | Simple Python wrapper around inotify | legacyPackages.x86_64-linux.python313Packages.inotify-simple |
 | python3.13-inotify-unstable | 2020-08-27 | Monitor filesystems events on Linux platforms with inotify | legacyPackages.x86_64-linux.python313Packages.inotify |
 | python3.13-inotifyrecursive | 0.3.5 | Simple recursive inotify watches for Python | legacyPackages.x86_64-linux.python313Packages.inotifyrecursive |
@@ -55459,7 +55480,7 @@
 | python3.13-langgraph-checkpoint-sqlite | 2.0.11 | Library with a SQLite implementation of LangGraph checkpoint saver | legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint-sqlite |
 | python3.13-langgraph-cli | 0.3.6 | Official CLI for LangGraph API | legacyPackages.x86_64-linux.python313Packages.langgraph-cli |
 | python3.13-langgraph-prebuilt | 0.6.3 | Prebuilt agents add-on for Langgraph. Should always be bundled with langgraph | legacyPackages.x86_64-linux.python313Packages.langgraph-prebuilt |
-| python3.13-langgraph-runtime-inmem | 0.6.8 | Inmem implementation for the LangGraph API server | legacyPackages.x86_64-linux.python313Packages.langgraph-runtime-inmem |
+| python3.13-langgraph-runtime-inmem | 0.6.10 | Inmem implementation for the LangGraph API server | legacyPackages.x86_64-linux.python313Packages.langgraph-runtime-inmem |
 | python3.13-langgraph-sdk | 0.2.0 | SDK for interacting with the LangGraph Cloud REST API | legacyPackages.x86_64-linux.python313Packages.langgraph-sdk |
 | python3.13-langid | 1.1.6 | Langid.py is a standalone Language Identification (LangID) tool | legacyPackages.x86_64-linux.python313Packages.langid |
 | python3.13-langsmith | 0.4.9 | Client library to connect to the LangSmith LLM Tracing and Evaluation Platform | legacyPackages.x86_64-linux.python313Packages.langchainplus-sdk |
@@ -55520,7 +55541,7 @@
 | python3.13-legacy-cgi | 2.6.3 | Fork of the standard library cgi and cgitb modules, being deprecated in PEP-594 | legacyPackages.x86_64-linux.python313Packages.legacy-cgi |
 | python3.13-leidenalg | 0.10.2 | Implementation of the Leiden algorithm for various quality functions to be used with igraph in Python | legacyPackages.x86_64-linux.python313Packages.leidenalg |
 | python3.13-lektricowifi | 0.1 | Communication with Lektrico's chargers | legacyPackages.x86_64-linux.python313Packages.lektricowifi |
-| python3.13-letpot | 0.6.0 | Asynchronous Python client for LetPot hydroponic gardens | legacyPackages.x86_64-linux.python313Packages.letpot |
+| python3.13-letpot | 0.6.1 | Asynchronous Python client for LetPot hydroponic gardens | legacyPackages.x86_64-linux.python313Packages.letpot |
 | python3.13-leveldb | 0.201 | Thread-safe Python bindings for LevelDB | legacyPackages.x86_64-linux.python313Packages.leveldb |
 | python3.13-levenshtein | 0.27.1 | Functions for fast computation of Levenshtein distance and string similarity | legacyPackages.x86_64-linux.python313Packages.levenshtein |
 | python3.13-levenshtein | 0.27.1 | Functions for fast computation of Levenshtein distance and string similarity | legacyPackages.x86_64-linux.python313Packages.python-Levenshtein |
@@ -56643,7 +56664,7 @@
 | python3.13-names | 0.3.0 | Generate random names | legacyPackages.x86_64-linux.python313Packages.names |
 | python3.13-namespaced-openvpn | 0.6.0 | Network namespace isolation for OpenVPN tunnels | legacyPackages.x86_64-linux.namespaced-openvpn |
 | python3.13-namex | 0.1.0 | Simple utility to separate the implementation of your Python package and its public API surface | legacyPackages.x86_64-linux.python313Packages.namex |
-| python3.13-nampa | 1.0 | Python implementation of the FLIRT technology | legacyPackages.x86_64-linux.python313Packages.nampa |
+| python3.13-nampa | 1.0-unstable-2024-12-18 | Python implementation of the FLIRT technology | legacyPackages.x86_64-linux.python313Packages.nampa |
 | python3.13-nanobind | 2.8.0 | Tiny and efficient C++/Python bindings | legacyPackages.x86_64-linux.python313Packages.nanobind |
 | python3.13-nanoeigenpy | 0.3.0 | Support library for bindings between Eigen in C++ and Python, based on nanobind | legacyPackages.x86_64-linux.python313Packages.nanoeigenpy |
 | python3.13-nanoemoji | 0.15.8 | Wee tool to build color fonts | legacyPackages.x86_64-linux.python313Packages.nanoemoji |
@@ -56768,7 +56789,7 @@
 | python3.13-nibabel | 5.3.2 | Access a multitude of neuroimaging data formats | legacyPackages.x86_64-linux.python313Packages.nibabel |
 | python3.13-nibe | 2.17.0 | Library for the communication with Nibe heatpumps | legacyPackages.x86_64-linux.python313Packages.nibe |
 | python3.13-nice-go | 1.0.1 | Control various Nice access control products | legacyPackages.x86_64-linux.python313Packages.nice-go |
-| python3.13-nicegui | 2.22.1 | Module to create web-based user interfaces | legacyPackages.x86_64-linux.python313Packages.nicegui |
+| python3.13-nicegui | 2.22.2 | Module to create web-based user interfaces | legacyPackages.x86_64-linux.python313Packages.nicegui |
 | python3.13-nicegui-highcharts | 2.1.0 | NiceGUI with support for Highcharts | legacyPackages.x86_64-linux.python313Packages.nicegui-highcharts |
 | python3.13-nidaqmx | 1.1.0 | API for interacting with the NI-DAQmx driver | legacyPackages.x86_64-linux.python313Packages.nidaqmx |
 | python3.13-nielsfaber-alarmo | 1.10.9 | Alarm System for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.alarmo |
@@ -57621,7 +57642,7 @@
 | python3.13-ptyprocess | 0.7.0 | Run a subprocess in a pseudo terminal | legacyPackages.x86_64-linux.python313Packages.ptyprocess |
 | python3.13-publicsuffix | 1.1.1 | Allows to get the public suffix of a domain name | legacyPackages.x86_64-linux.python313Packages.publicsuffix |
 | python3.13-publicsuffix2 | 2.20191221 | Get a public suffix for a domain name using the Public Suffix List | legacyPackages.x86_64-linux.python313Packages.publicsuffix2 |
-| python3.13-publicsuffixlist | 1.0.2.20250802 | Public Suffix List parser implementation | legacyPackages.x86_64-linux.python313Packages.publicsuffixlist |
+| python3.13-publicsuffixlist | 1.0.2.20250809 | Public Suffix List parser implementation | legacyPackages.x86_64-linux.python313Packages.publicsuffixlist |
 | python3.13-pubnub | 10.4.1 | Python-based APIs for PubNub | legacyPackages.x86_64-linux.python313Packages.pubnub |
 | python3.13-pubnubsub-handler | 1.0.9 | PubNub subscription between PubNub and Home Assistant | legacyPackages.x86_64-linux.python313Packages.pubnubsub-handler |
 | python3.13-pudb | 2025.1 | Full-screen, console-based Python debugger | legacyPackages.x86_64-linux.python313Packages.pudb |
@@ -57790,7 +57811,7 @@
 | python3.13-pybind11 | 2.13.6 | Seamless operability between C++11 and Python | legacyPackages.x86_64-linux.python313Packages.pybind11 |
 | python3.13-pybind11-abseil | 202402.0 | Pybind11 bindings for the Abseil C++ Common Libraries | legacyPackages.x86_64-linux.python313Packages.pybind11-abseil |
 | python3.13-pybind11-protobuf | 0-unstable-2025-02-10 | Pybind11 bindings for Google's Protocol Buffers | legacyPackages.x86_64-linux.python313Packages.pybind11-protobuf |
-| python3.13-pybind11-stubgen | 2.5.4 | Generates stubs for python modules | legacyPackages.x86_64-linux.python313Packages.pybind11-stubgen |
+| python3.13-pybind11-stubgen | 2.5.5 | Generates stubs for python modules | legacyPackages.x86_64-linux.python313Packages.pybind11-stubgen |
 | python3.13-pybindgen | 0.22.1 | Python Bindings Generator | legacyPackages.x86_64-linux.python313Packages.pybindgen |
 | python3.13-pyblackbird | 0.6 | Python implementation for Monoprice Blackbird units | legacyPackages.x86_64-linux.python313Packages.pyblackbird |
 | python3.13-pybloom-live | 4.0.0 | Probabilistic data structure | legacyPackages.x86_64-linux.python313Packages.pybloom-live |
@@ -58087,6 +58108,7 @@
 | python3.13-pyiskra | 0.1.21 | Python Iskra devices interface | legacyPackages.x86_64-linux.python313Packages.pyiskra |
 | python3.13-pyiss | 1.0.1 | Python library to access International Space Station location and data | legacyPackages.x86_64-linux.python313Packages.pyiss |
 | python3.13-pyisy | 3.4.1 | Python module to talk to ISY994 from UDI | legacyPackages.x86_64-linux.python313Packages.pyisy |
+| python3.13-pyitachip2ir | 0.0.7 | Library for sending IR commands to an ITach IP2IR gateway | legacyPackages.x86_64-linux.python313Packages.pyitachip2ir |
 | python3.13-pyituran | 0.1.5 | Module to interact with the Ituran web service | legacyPackages.x86_64-linux.python313Packages.pyituran |
 | python3.13-pyixapi | 0.2.6 | Python API client library for IX-API | legacyPackages.x86_64-linux.python313Packages.pyixapi |
 | python3.13-pyjks | 20.0.0 | Pure-Python Java Keystore (JKS) library | legacyPackages.x86_64-linux.python313Packages.pyjks |
@@ -58184,7 +58206,7 @@
 | python3.13-pymatreader | 1.0.0 | Python package to read all kinds and all versions of Matlab mat files | legacyPackages.x86_64-linux.python313Packages.pymatreader |
 | python3.13-pymatting | 1.1.13 | Python library for alpha matting | legacyPackages.x86_64-linux.python313Packages.pymatting |
 | python3.13-pymaven-patch | 0.3.2 | Python access to maven | legacyPackages.x86_64-linux.python313Packages.pymaven-patch |
-| python3.13-pymavlink | 2.4.43 | Python MAVLink interface and utilities | legacyPackages.x86_64-linux.python313Packages.pymavlink |
+| python3.13-pymavlink | 2.4.49 | Python MAVLink interface and utilities | legacyPackages.x86_64-linux.python313Packages.pymavlink |
 | python3.13-pymbolic | 2024.2.2 | Package for symbolic computation | legacyPackages.x86_64-linux.python313Packages.pymbolic |
 | python3.13-pymc | 5.25.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python313Packages.pymc |
 | python3.13-pymc | 5.25.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python313Packages.pymc3 |
@@ -58207,7 +58229,7 @@
 | python3.13-pymfy | 0.11.0 | Python client for the Somfy Open API | legacyPackages.x86_64-linux.python313Packages.pymfy |
 | python3.13-pymicro-vad | 1.0.2 | Self-contained voice activity detector | legacyPackages.x86_64-linux.python313Packages.pymicro-vad |
 | python3.13-pymicrobot | 0.0.23 | Library to communicate with MicroBot | legacyPackages.x86_64-linux.python313Packages.pymicrobot |
-| python3.13-pymiele | 0.5.2 | Lib for Miele integration with Home Assistant | legacyPackages.x86_64-linux.python313Packages.pymiele |
+| python3.13-pymiele | 0.5.3 | Lib for Miele integration with Home Assistant | legacyPackages.x86_64-linux.python313Packages.pymiele |
 | python3.13-pymilter | 1.0.6 | Python bindings for libmilter api | legacyPackages.x86_64-linux.python313Packages.pymilter |
 | python3.13-pymilvus | 2.5.14 | Python SDK for Milvus | legacyPackages.x86_64-linux.python313Packages.pymilvus |
 | python3.13-pymitsubishi | 0.1.8 | A Python library for controlling and monitoring Mitsubishi MAC-577IF-2E air conditioners | legacyPackages.x86_64-linux.python313Packages.pymitsubishi |
@@ -58325,6 +58347,7 @@
 | python3.13-pyparsing | 3.2.3 | Python library for creating PEG parsers | legacyPackages.x86_64-linux.python313Packages.pyparsing |
 | python3.13-pyparted | 3.13.0 | Python interface for libparted | legacyPackages.x86_64-linux.python313Packages.pyparted |
 | python3.13-pypass | 0.2.1 | Password manager pass in Python | legacyPackages.x86_64-linux.python313Packages.pypass |
+| python3.13-pypasser | 0.0.5 | Bypassing reCaptcha V3 by sending HTTP requests & solving reCaptcha V2 using speech to text | legacyPackages.x86_64-linux.python313Packages.pypasser |
 | python3.13-pypblib | 0.0.4 | PBLib Python3 Bindings | legacyPackages.x86_64-linux.python313Packages.pypblib |
 | python3.13-pypca | 0.0.13 | Python library for interacting with the PCA 301 smart plugs | legacyPackages.x86_64-linux.python313Packages.pypca |
 | python3.13-pypck | 0.8.10 | LCN-PCK library written in Python | legacyPackages.x86_64-linux.python313Packages.pypck |
@@ -58346,6 +58369,7 @@
 | python3.13-pypinyin | 0.55.0 | Chinese Characters to Pinyin - 汉字转拼音 | legacyPackages.x86_64-linux.python313Packages.pypinyin |
 | python3.13-pypiserver | 2.3.2 | Minimal PyPI server for use with pip/easy_install | legacyPackages.x86_64-linux.python313Packages.pypiserver |
 | python3.13-pypitoken | 7.1.1 | Library for generating and manipulating PyPI tokens | legacyPackages.x86_64-linux.python313Packages.pypitoken |
+| python3.13-pypjlink2 | 1.2.1 | Python implementation of the PJLink protocol for controlling digital projectors | legacyPackages.x86_64-linux.python313Packages.pypjlink2 |
 | python3.13-pyplaato | 0.0.19 | Python API client for fetching Plaato data | legacyPackages.x86_64-linux.python313Packages.pyplaato |
 | python3.13-pyplatec | 1.4.0 | Library to simulate plate tectonics with Python bindings | legacyPackages.x86_64-linux.python313Packages.pyplatec |
 | python3.13-pypng | 0.20220715.0 | Pure Python library for PNG image encoding/decoding | legacyPackages.x86_64-linux.python313Packages.pypng |
@@ -58424,6 +58448,7 @@
 | python3.13-pyre-extensions | 0.0.32 | This module defines extensions to the standard “typing” module that are supported by the Pyre typechecker | legacyPackages.x86_64-linux.python313Packages.pyre-extensions |
 | python3.13-pyreaderwriterlock | 1.0.9 | Implementation of the Readers-writers problem | legacyPackages.x86_64-linux.python313Packages.pyreaderwriterlock |
 | python3.13-pyreadstat | 1.3.0 | Module to read SAS, SPSS and Stata files into pandas data frames | legacyPackages.x86_64-linux.python313Packages.pyreadstat |
+| python3.13-pyrecswitch | 1.0.2 | Pure-python interface for controlling Ankuoo RecSwitch MS6126 | legacyPackages.x86_64-linux.python313Packages.pyrecswitch |
 | python3.13-pyrect | 0.2.0 | Simple module with a Rect class for Pygame-like rectangular areas | legacyPackages.x86_64-linux.python313Packages.pyrect |
 | python3.13-pyregion | 2.3.0 | Python parser for ds9 region files | legacyPackages.x86_64-linux.python313Packages.pyregion |
 | python3.13-pyrender | 0.1.45 | Easy-to-use glTF 2.0-compliant OpenGL renderer for visualization of 3D scenes | legacyPackages.x86_64-linux.python313Packages.pyrender |
@@ -58587,6 +58612,7 @@
 | python3.13-pysvn | 1.9.23 | Python bindings for Subversion | legacyPackages.x86_64-linux.python313Packages.pysvn |
 | python3.13-pyswitchbee | 1.8.3 | Library to control SwitchBee smart home device | legacyPackages.x86_64-linux.python313Packages.pyswitchbee |
 | python3.13-pyswitchbot | 0.68.3 | Python library to control Switchbot IoT devices | legacyPackages.x86_64-linux.python313Packages.pyswitchbot |
+| python3.13-pyswitchmate | 0.5.1 | A library to communicate with Switchmate | legacyPackages.x86_64-linux.python313Packages.pyswitchmate |
 | python3.13-pysychonaut | 0.6.0 | Unofficial python api for Erowid, PsychonautWiki and AskTheCaterpillar | legacyPackages.x86_64-linux.python313Packages.pysychonaut |
 | python3.13-pysyncobj | 0.3.14 | Python library for replicating your class | legacyPackages.x86_64-linux.python313Packages.pysyncobj |
 | python3.13-pysyncthru | 0.8.0 | Automated JSON API based communication with Samsung SyncThru Web Service | legacyPackages.x86_64-linux.python313Packages.pysyncthru |
@@ -58600,7 +58626,7 @@
 | python3.13-pytautulli | 23.1.1 | Python module to get information from Tautulli | legacyPackages.x86_64-linux.python313Packages.pytautulli |
 | python3.13-pyte | 0.8.2 | Simple VTXXX-compatible linux terminal emulator | legacyPackages.x86_64-linux.python313Packages.pyte |
 | python3.13-pytelegrambotapi | 4.27.0 | Python implementation for the Telegram Bot API | legacyPackages.x86_64-linux.python313Packages.pytelegrambotapi |
-| python3.13-pytenable | 1.8.2 | Python library for the Tenable.io and TenableSC API | legacyPackages.x86_64-linux.python313Packages.pytenable |
+| python3.13-pytenable | 1.8.3 | Python library for the Tenable.io and TenableSC API | legacyPackages.x86_64-linux.python313Packages.pytenable |
 | python3.13-pytensor | 2.31.7 | Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays | legacyPackages.x86_64-linux.python313Packages.pytensor |
 | python3.13-pytesseract | 0.3.13 | Python wrapper for Google Tesseract | legacyPackages.x86_64-linux.python313Packages.pytesseract |
 | python3.13-pytest | 7.4.4 | Framework for writing tests | legacyPackages.x86_64-linux.python313Packages.pytest_7 |
@@ -58775,8 +58801,8 @@
 | python3.13-python-bugzilla | 3.3.0 | Bugzilla XMLRPC access module | legacyPackages.x86_64-linux.python313Packages.bugzilla |
 | python3.13-python-bugzilla | 3.3.0 | Bugzilla XMLRPC access module | legacyPackages.x86_64-linux.python313Packages.python-bugzilla |
 | python3.13-python-calamine | 0.3.2 | Python binding for calamine | legacyPackages.x86_64-linux.python313Packages.python-calamine |
-| python3.13-python-can | 4.5.0 | CAN support for Python | legacyPackages.x86_64-linux.python313Packages.can |
-| python3.13-python-can | 4.5.0 | CAN support for Python | legacyPackages.x86_64-linux.python313Packages.python-can |
+| python3.13-python-can | 4.6.0 | CAN support for Python | legacyPackages.x86_64-linux.python313Packages.can |
+| python3.13-python-can | 4.6.0 | CAN support for Python | legacyPackages.x86_64-linux.python313Packages.python-can |
 | python3.13-python-cinderclient | 9.7.0 | OpenStack Block Storage API Client Library | legacyPackages.x86_64-linux.python313Packages.python-cinderclient |
 | python3.13-python-codon-tables | 0.1.15 | Codon Usage Tables for Python, from kazusa.or.jp | legacyPackages.x86_64-linux.python313Packages.python-codon-tables |
 | python3.13-python-coinmarketcap | 0.6 | Python package to wrap the CoinMarketCap API | legacyPackages.x86_64-linux.python313Packages.python-coinmarketcap |
@@ -58944,7 +58970,7 @@
 | python3.13-python-redis-lock | 4.0.0 | Lock context manager implemented via redis SETNX/BLPOP | legacyPackages.x86_64-linux.python313Packages.python-redis-lock |
 | python3.13-python-registry | 1.4 | Module to parse the Windows Registry hives | legacyPackages.x86_64-linux.python313Packages.python-registry |
 | python3.13-python-reprshed | 1.0.6 | Toolshed for writing great __repr__ methods quickly and easily | legacyPackages.x86_64-linux.python313Packages.reprshed |
-| python3.13-python-roborock | 2.25.0 | Python library & console tool for controlling Roborock vacuum | legacyPackages.x86_64-linux.python313Packages.python-roborock |
+| python3.13-python-roborock | 2.29.1 | Python library & console tool for controlling Roborock vacuum | legacyPackages.x86_64-linux.python313Packages.python-roborock |
 | python3.13-python-rtmidi | 1.5.8 | Python binding for the RtMidi C++ library implemented using Cython | legacyPackages.x86_64-linux.python313Packages.python-rtmidi |
 | python3.13-python-sat | 0.1.8.dev17 | Toolkit to provide interface for various SAT (without optional dependancy py-aiger-cnf) | legacyPackages.x86_64-linux.python313Packages.python-sat |
 | python3.13-python-secp256k1-cardano | 0.2.3 | Fork of python-secp256k1, fixing the commit hash of libsecp256k1 to a Cardano compatible version | legacyPackages.x86_64-linux.python313Packages.python-secp256k1-cardano |
@@ -59169,7 +59195,7 @@
 | python3.13-pytradfri | 14.0.0 | Python package to communicate with the IKEA Trådfri ZigBee Gateway | legacyPackages.x86_64-linux.python313Packages.pytradfri |
 | python3.13-pytrafikverket | 1.1.1 | Library to get data from the Swedish Transport Administration (Trafikverket) API | legacyPackages.x86_64-linux.python313Packages.pytrafikverket |
 | python3.13-pytransportnsw | 0.1.1 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python313Packages.pytransportnsw |
-| python3.13-pytransportnswv2 | 0.8.7 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python313Packages.pytransportnswv2 |
+| python3.13-pytransportnswv2 | 0.8.10 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python313Packages.pytransportnswv2 |
 | python3.13-pytrydan | 0.8.1 | Library to interface with V2C EVSE Trydan | legacyPackages.x86_64-linux.python313Packages.pytrydan |
 | python3.13-pyttsx3 | 2.98 | Offline text-to-speech synthesis library | legacyPackages.x86_64-linux.python313Packages.pyttsx3 |
 | python3.13-pytube | 15.0.0 | Python 3 library for downloading YouTube Videos | legacyPackages.x86_64-linux.python313Packages.pytube |
@@ -59241,6 +59267,7 @@
 | python3.13-pywinrm | 0.5.0 | Python library for Windows Remote Management | legacyPackages.x86_64-linux.python313Packages.pywinrm |
 | python3.13-pywizlight | 0.6.3 | Python connector for WiZ light bulbs | legacyPackages.x86_64-linux.python313Packages.pywizlight |
 | python3.13-pywlroots | 0.17.0 | Python bindings to wlroots using cffi | legacyPackages.x86_64-linux.python313Packages.pywlroots |
+| python3.13-pywmspro | 0.3.2 | Python library for WMS WebControl pro API | legacyPackages.x86_64-linux.python313Packages.pywmspro |
 | python3.13-pyworld | 0.3.5 | PyWorld is a Python wrapper for WORLD vocoder | legacyPackages.x86_64-linux.python313Packages.pyworld |
 | python3.13-pyws66i | 1.1 | Library to interface with WS66i 6-zone amplifier | legacyPackages.x86_64-linux.python313Packages.pyws66i |
 | python3.13-pyx | 0.16 | Python package for the generation of PostScript, PDF, and SVG files | legacyPackages.x86_64-linux.python313Packages.pyx |
@@ -59609,6 +59636,7 @@
 | python3.13-ropgadget | 7.6 | Tool to search for gadgets in binaries to facilitate ROP exploitation | legacyPackages.x86_64-linux.python313Packages.ROPGadget |
 | python3.13-ropgadget | 7.6 | Tool to search for gadgets in binaries to facilitate ROP exploitation | legacyPackages.x86_64-linux.python313Packages.ropgadget |
 | python3.13-ropper | 1.13.10 | Show information about files in different file formats | legacyPackages.x86_64-linux.python313Packages.ropper |
+| python3.13-rosbags | 0.10.11 | Pure Python library to read, modify, convert, and write rosbag files | legacyPackages.x86_64-linux.python313Packages.rosbags |
 | python3.13-rotary-embedding-torch | 0.8.7 | Implementation of Rotary Embeddings, from the Roformer paper, in Pytorch | legacyPackages.x86_64-linux.python313Packages.rotary-embedding-torch |
 | python3.13-rouge-score | 0.1.2 | Python ROUGE Implementation | legacyPackages.x86_64-linux.python313Packages.rouge-score |
 | python3.13-routeros-api | 0.21.0 | Python API to RouterBoard devices produced by MikroTik | legacyPackages.x86_64-linux.python313Packages.routeros-api |
@@ -59691,7 +59719,7 @@
 | python3.13-safety | 3.5.2 | Checks installed dependencies for known vulnerabilities | legacyPackages.x86_64-linux.python313Packages.safety |
 | python3.13-safety-schemas | 0.0.14 | Schemas for Safety CLI | legacyPackages.x86_64-linux.python313Packages.safety-schemas |
 | python3.13-sagemaker | 2.244.0 | Library for training and deploying machine learning models on Amazon SageMaker | legacyPackages.x86_64-linux.python313Packages.sagemaker |
-| python3.13-sagemaker-core | 1.0.47 | Python object-oriented interface for interacting with Amazon SageMaker resources | legacyPackages.x86_64-linux.python313Packages.sagemaker-core |
+| python3.13-sagemaker-core | 1.0.49 | Python object-oriented interface for interacting with Amazon SageMaker resources | legacyPackages.x86_64-linux.python313Packages.sagemaker-core |
 | python3.13-sagemaker-mlflow | 0.1.0 | MLFlow plugin for SageMaker | legacyPackages.x86_64-linux.python313Packages.sagemaker-mlflow |
 | python3.13-salib | 1.5.1 | Python implementations of commonly used sensitivity analysis methods, useful in systems modeling to calculate the effects of model inputs or exogenous factors on outputs of interest | legacyPackages.x86_64-linux.python313Packages.salib |
 | python3.13-salmon-mail | 3.3.0 | Pythonic mail application server | legacyPackages.x86_64-linux.python313Packages.salmon-mail |
@@ -60257,7 +60285,7 @@
 | python3.13-sqlite-vec | 0.1.6 | Python bindings for sqlite-vec | legacyPackages.x86_64-linux.python313Packages.sqlite-vec |
 | python3.13-sqlitedict | 2.1.0 | Persistent, thread-safe dict | legacyPackages.x86_64-linux.python313Packages.sqlitedict |
 | python3.13-sqliteschema | 2.0.1 | Python library to dump table schema of a SQLite database file | legacyPackages.x86_64-linux.python313Packages.sqliteschema |
-| python3.13-sqlmap | 1.9.7 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python313Packages.sqlmap |
+| python3.13-sqlmap | 1.9.8 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python313Packages.sqlmap |
 | python3.13-sqlmodel | 0.0.24 | Module to work with SQL databases | legacyPackages.x86_64-linux.python313Packages.sqlmodel |
 | python3.13-sqlobject | 3.13.0 | Object Relational Manager for providing an object interface to your database | legacyPackages.x86_64-linux.python313Packages.sqlobject |
 | python3.13-sqlparse | 0.5.3 | Non-validating SQL parser for Python | legacyPackages.x86_64-linux.python313Packages.sqlparse |
@@ -60355,7 +60383,7 @@
 | python3.13-storage-blob-preview | 1.0.0b1 | Microsoft Azure Command-Line Tools Storage-blob-preview Extension | legacyPackages.x86_64-linux.azure-cli-extensions.storage-blob-preview |
 | python3.13-storage-mover | 1.1.0 | Microsoft Azure Command-Line Tools StorageMover Extension | legacyPackages.x86_64-linux.azure-cli-extensions.storage-mover |
 | python3.13-storage-preview | 1.0.0b7 | Provides a preview for upcoming storage features | legacyPackages.x86_64-linux.azure-cli-extensions.storage-preview |
-| python3.13-storage3 | 0.12.0 | Supabase Storage client for Python. | legacyPackages.x86_64-linux.python313Packages.storage3 |
+| python3.13-storage3 | 0.12.1 | Supabase Storage client for Python. | legacyPackages.x86_64-linux.python313Packages.storage3 |
 | python3.13-storagesync | 1.0.1 | Microsoft Azure Command-Line Tools MicrosoftStorageSync Extension | legacyPackages.x86_64-linux.azure-cli-extensions.storagesync |
 | python3.13-stransi | 0.3.0 | Lightweight Python parser library for ANSI escape code sequences | legacyPackages.x86_64-linux.python313Packages.stransi |
 | python3.13-strategies | 0.2.3 | Python library for control flow programming | legacyPackages.x86_64-linux.python313Packages.strategies |
@@ -60497,6 +60525,7 @@
 | python3.13-tailer | 0.4.1 | Python implementation implementation of GNU tail and head | legacyPackages.x86_64-linux.python313Packages.tailer |
 | python3.13-tailscale | 0.6.2 | Python client for the Tailscale API | legacyPackages.x86_64-linux.python313Packages.tailscale |
 | python3.13-takethetime | 0.3.1 | Simple time taking library using context managers | legacyPackages.x86_64-linux.python313Packages.takethetime |
+| python3.13-tami4edgeapi | 3.0 | Python API client for Tami4 Edge / Edge+ devices | legacyPackages.x86_64-linux.python313Packages.tami4edgeapi |
 | python3.13-tandoor-recipes | 1.5.35 | Application for managing recipes, planning meals, building shopping lists and much much more!  | legacyPackages.x86_64-linux.tandoor-recipes |
 | python3.13-tank-utility | 1.5.0 | Library for the Tank Utility API | legacyPackages.x86_64-linux.python313Packages.tank-utility |
 | python3.13-tap.py | 3.2.1 | Set of tools for working with the Test Anything Protocol (TAP) in Python | legacyPackages.x86_64-linux.python313Packages.tappy |
@@ -60632,6 +60661,7 @@
 | python3.13-thermopro-ble | 0.13.1 | Library for Thermopro BLE devices | legacyPackages.x86_64-linux.python313Packages.thermopro-ble |
 | python3.13-thespian | 4.0.0 | Python Actor concurrency library | legacyPackages.x86_64-linux.python313Packages.thespian |
 | python3.13-thinc | 8.3.6 | Library for NLP machine learning | legacyPackages.x86_64-linux.python313Packages.thinc |
+| python3.13-thingspeak | 1.0.0 | Client library for the thingspeak.com API | legacyPackages.x86_64-linux.python313Packages.thingspeak |
 | python3.13-thinkpad-scripts | 4.12.0 | Screen rotation, docking and other scripts for ThinkPad® X220 and X230 Tablet | legacyPackages.x86_64-linux.thinkpad-scripts |
 | python3.13-thinqconnect | 1.0.7 | Module to interacting with the LG ThinQ Connect Open API | legacyPackages.x86_64-linux.python313Packages.thinqconnect |
 | python3.13-thomasddn-volvo_cars | 1.5.7 | Volvo Cars Home Assistant integration | legacyPackages.x86_64-linux.home-assistant-custom-components.volvo_cars |
@@ -60685,6 +60715,7 @@
 | python3.13-tiptapy | 0.20.0-unstable-2024-06-14 | Library that generates HTML output from JSON export of tiptap editor | legacyPackages.x86_64-linux.python313Packages.tiptapy |
 | python3.13-titlecase | 2.4 | Python library to capitalize strings as specified by the New York Times | legacyPackages.x86_64-linux.python313Packages.titlecase |
 | python3.13-tivars | 0.9.2 | Python library for interacting with TI-(e)z80 (82/83/84 series) calculator files | legacyPackages.x86_64-linux.python313Packages.tivars |
+| python3.13-tjhorner-luxer | 0-unstable-2023-03-27 | Home Assistant integration for Luxer One | legacyPackages.x86_64-linux.home-assistant-custom-components.luxer_one |
 | python3.13-tkinter | 3.13.5 | Standard Python interface to the Tcl/Tk GUI toolkit | legacyPackages.x86_64-linux.python313Packages.tkinter |
 | python3.13-tkinter-gl | 1.0 | Base class for GL rendering surfaces in tkinter | legacyPackages.x86_64-linux.python313Packages.tkinter-gl |
 | python3.13-tl-eggdeps | 1.0 | Tool which computes a dependency graph between active Python eggs | legacyPackages.x86_64-linux.python313Packages.eggdeps |
@@ -61278,7 +61309,7 @@
 | python3.13-types-ipaddress | 1.0.8 | Typing stubs for ipaddress | legacyPackages.x86_64-linux.python313Packages.types-ipaddress |
 | python3.13-types-jinja2 | 2.11.9 | Typing stubs for Jinja2 | legacyPackages.x86_64-linux.python313Packages.types-jinja2 |
 | python3.13-types-lxml | 2025.03.04 | Complete lxml external type annotation | legacyPackages.x86_64-linux.python313Packages.types-lxml |
-| python3.13-types-markdown | 3.8.0.20250708 | Typing stubs for Markdown | legacyPackages.x86_64-linux.python313Packages.types-markdown |
+| python3.13-types-markdown | 3.8.0.20250809 | Typing stubs for Markdown | legacyPackages.x86_64-linux.python313Packages.types-markdown |
 | python3.13-types-markupsafe | 1.1.10 | Typing stubs for MarkupSafe | legacyPackages.x86_64-linux.python313Packages.types-markupsafe |
 | python3.13-types-mock | 5.2.0.20250516 | Type stub package for the mock package | legacyPackages.x86_64-linux.python313Packages.types-mock |
 | python3.13-types-pillow | 10.2.0.20240822 | Typing stubs for Pillow | legacyPackages.x86_64-linux.python313Packages.types-pillow |
@@ -61532,6 +61563,7 @@
 | python3.13-voluptuous-openapi | 0.1.0 | Convert voluptuous schemas to OpenAPI Schema object | legacyPackages.x86_64-linux.python313Packages.voluptuous-openapi |
 | python3.13-voluptuous-serialize | 2.6.0 | Convert Voluptuous schemas to dictionaries so they can be serialized | legacyPackages.x86_64-linux.python313Packages.voluptuous-serialize |
 | python3.13-voluptuous-stubs | 0.1.1 | Typing stubs for voluptuous | legacyPackages.x86_64-linux.python313Packages.voluptuous-stubs |
+| python3.13-volvocarsapi | 0.4.1 | Python client for the Volvo Cars API | legacyPackages.x86_64-linux.python313Packages.volvocarsapi |
 | python3.13-volvooncall | 0.10.4 | Retrieve information from the Volvo On Call web service | legacyPackages.x86_64-linux.python313Packages.volvooncall |
 | python3.13-vowpalwabbit | 9.10.0 | Vowpal Wabbit is a fast machine learning library for online learning, and this is the python wrapper for the project | legacyPackages.x86_64-linux.python313Packages.vowpalwabbit |
 | python3.13-vpk | 1.4.0 | Library for working with Valve Pak files | legacyPackages.x86_64-linux.python313Packages.vpk |
@@ -62736,6 +62768,7 @@
 | qutebrowser-qt5 | 3.5.1 | Keyboard-focused browser with a minimal GUI | legacyPackages.x86_64-linux.qutebrowser-qt5 |
 | qvge | 0.7.0 | Qt Visual Graph Editor | legacyPackages.x86_64-linux.qvge |
 | qview | 7.0 | Practical and minimal image viewer | legacyPackages.x86_64-linux.qview |
+| qwen-code | 0.0.5 | Coding agent that lives in digital world | legacyPackages.x86_64-linux.qwen-code |
 | qwertone | 0.5.0 | Simple music synthesizer app based on usual qwerty-keyboard for input | legacyPackages.x86_64-linux.qwertone |
 | qwerty-fr | 0.7.3 | Qwerty keyboard layout with French accents | legacyPackages.x86_64-linux.qwerty-fr |
 | qwlroots | 0.5.3 | Qt and QML bindings for wlroots | legacyPackages.x86_64-linux.kdePackages.qwlroots |
@@ -62827,8 +62860,6 @@
 | r8168 | 6.12.41-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages-libre.r8168 |
 | r8168 | 6.12.41-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages.r8168 |
 | r8168 | 6.12.41-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.r8168 |
-| r8168 | 6.15.8-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.r8168 |
-| r8168 | 6.15.8-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_zen.r8168 |
 | r8168 | 6.15.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.r8168 |
 | r8168 | 6.15.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.r8168 |
 | r8168 | 6.15.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.r8168 |
@@ -62838,8 +62869,10 @@
 | r8168 | 6.15.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.r8168 |
 | r8168 | 6.16-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.r8168 |
 | r8168 | 6.16-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.r8168 |
+| r8168 | 6.16-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.r8168 |
 | r8168 | 6.16-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.r8168 |
 | r8168 | 6.16-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_latest.r8168 |
+| r8168 | 6.16-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_zen.r8168 |
 | r8168 | 6.6.101-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.r8168 |
 | r8168 | 6.6.94-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.r8168 |
 | r8168 | 6.6.94-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.r8168 |
@@ -63156,7 +63189,7 @@
 | redis-explorer-app | 2.1.1 | Redis Explorer plugin for Grafana | legacyPackages.x86_64-linux.grafanaPlugins.redis-explorer-app |
 | redis-plus-plus | 1.3.15 | Redis client written in C++ | legacyPackages.x86_64-linux.redis-plus-plus |
 | redis-test-hook |  |  | legacyPackages.x86_64-linux.redisTestHook |
-| redis_exporter | 1.74.0 | Prometheus exporter for Redis metrics | legacyPackages.x86_64-linux.prometheus-redis-exporter |
+| redis_exporter | 1.75.0 | Prometheus exporter for Redis metrics | legacyPackages.x86_64-linux.prometheus-redis-exporter |
 | redisinsight | 2.70.0 | Developer GUI for Redis | legacyPackages.x86_64-linux.redisinsight |
 | redka | 0.6.0 | Redis re-implemented with SQLite | legacyPackages.x86_64-linux.redka |
 | redland | 1.0.17 | C libraries that provide support for the Resource Description Framework (RDF) | legacyPackages.x86_64-linux.librdf_redland |
@@ -63461,7 +63494,7 @@
 | rime-ice | 2025.04.06 | Actively maintained simplified Chinese dictionary with full and double pinyin support | legacyPackages.x86_64-linux.rime-ice |
 | rime-japanese | 0-unstable-2023-08-02 | Layout for typing in Japanese with RIME | legacyPackages.x86_64-linux.rime-japanese |
 | rime-ls | 0.4.3 | Language server for Rime input method engine | legacyPackages.x86_64-linux.rime-ls |
-| rime-moegirl | 20250711 | RIME dictionary file for entries from zh.moegirl.org.cn | legacyPackages.x86_64-linux.rime-moegirl |
+| rime-moegirl | 20250810 | RIME dictionary file for entries from zh.moegirl.org.cn | legacyPackages.x86_64-linux.rime-moegirl |
 | rime-wanxiang | 10.0.10 | Feature-rich pinyin schema for Rime, basic edition | legacyPackages.x86_64-linux.rime-wanxiang |
 | rime-zhwiki | 20240909 | RIME dictionary file for entries from zh.wikipedia.org | legacyPackages.x86_64-linux.rime-zhwiki |
 | rimgo | 1.2.6 | Alternative frontend for Imgur | legacyPackages.x86_64-linux.rimgo |
@@ -63950,8 +63983,6 @@
 | rtl8188eus-aircrack | 6.12.41-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.12.41-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.12.41-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8188eus-aircrack |
-| rtl8188eus-aircrack | 6.15.8-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8188eus-aircrack |
-| rtl8188eus-aircrack | 6.15.8-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.15.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.15.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.15.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8188eus-aircrack |
@@ -63961,8 +63992,10 @@
 | rtl8188eus-aircrack | 6.15.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.16-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.16-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8188eus-aircrack |
+| rtl8188eus-aircrack | 6.16-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.16-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.16-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8188eus-aircrack |
+| rtl8188eus-aircrack | 6.16-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.6.101-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.6.94-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.6.94-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8188eus-aircrack |
@@ -63988,8 +64021,6 @@
 | rtl8189es | 6.12.41-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8189es |
 | rtl8189es | 6.12.41-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages.rtl8189es |
 | rtl8189es | 6.12.41-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8189es |
-| rtl8189es | 6.15.8-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189es |
-| rtl8189es | 6.15.8-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189es |
 | rtl8189es | 6.15.9-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8189es |
 | rtl8189es | 6.15.9-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189es |
 | rtl8189es | 6.15.9-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8189es |
@@ -63999,8 +64030,10 @@
 | rtl8189es | 6.15.9-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8189es |
 | rtl8189es | 6.16-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8189es |
 | rtl8189es | 6.16-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8189es |
+| rtl8189es | 6.16-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189es |
 | rtl8189es | 6.16-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8189es |
 | rtl8189es | 6.16-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8189es |
+| rtl8189es | 6.16-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189es |
 | rtl8189es | 6.6.101-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8189es |
 | rtl8189es | 6.6.94-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8189es |
 | rtl8189es | 6.6.94-2025-04-29 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8189es |
@@ -64026,8 +64059,6 @@
 | rtl8189fs | 6.12.41-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8189fs |
 | rtl8189fs | 6.12.41-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages.rtl8189fs |
 | rtl8189fs | 6.12.41-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8189fs |
-| rtl8189fs | 6.15.8-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189fs |
-| rtl8189fs | 6.15.8-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189fs |
 | rtl8189fs | 6.15.9-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8189fs |
 | rtl8189fs | 6.15.9-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189fs |
 | rtl8189fs | 6.15.9-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8189fs |
@@ -64037,8 +64068,10 @@
 | rtl8189fs | 6.15.9-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8189fs |
 | rtl8189fs | 6.16-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8189fs |
 | rtl8189fs | 6.16-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8189fs |
+| rtl8189fs | 6.16-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189fs |
 | rtl8189fs | 6.16-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8189fs |
 | rtl8189fs | 6.16-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8189fs |
+| rtl8189fs | 6.16-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189fs |
 | rtl8189fs | 6.6.101-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8189fs |
 | rtl8189fs | 6.6.94-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8189fs |
 | rtl8189fs | 6.6.94-2025-05-04 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8189fs |
@@ -64064,8 +64097,6 @@
 | rtl8192eu | 6.12.41-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8192eu |
 | rtl8192eu | 6.12.41-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages.rtl8192eu |
 | rtl8192eu | 6.12.41-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8192eu |
-| rtl8192eu | 6.15.8-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8192eu |
-| rtl8192eu | 6.15.8-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8192eu |
 | rtl8192eu | 6.15.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8192eu |
 | rtl8192eu | 6.15.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8192eu |
 | rtl8192eu | 6.15.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8192eu |
@@ -64075,8 +64106,10 @@
 | rtl8192eu | 6.15.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8192eu |
 | rtl8192eu | 6.16-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8192eu |
 | rtl8192eu | 6.16-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8192eu |
+| rtl8192eu | 6.16-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8192eu |
 | rtl8192eu | 6.16-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8192eu |
 | rtl8192eu | 6.16-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8192eu |
+| rtl8192eu | 6.16-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8192eu |
 | rtl8192eu | 6.6.101-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8192eu |
 | rtl8192eu | 6.6.94-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8192eu |
 | rtl8192eu | 6.6.94-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8192eu |
@@ -64103,8 +64136,6 @@
 | rtl8723ds | 6.12.41-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8723ds |
 | rtl8723ds | 6.12.41-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages.rtl8723ds |
 | rtl8723ds | 6.12.41-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8723ds |
-| rtl8723ds | 6.15.8-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8723ds |
-| rtl8723ds | 6.15.8-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8723ds |
 | rtl8723ds | 6.15.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8723ds |
 | rtl8723ds | 6.15.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8723ds |
 | rtl8723ds | 6.15.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8723ds |
@@ -64114,8 +64145,10 @@
 | rtl8723ds | 6.15.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8723ds |
 | rtl8723ds | 6.16-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8723ds |
 | rtl8723ds | 6.16-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8723ds |
+| rtl8723ds | 6.16-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8723ds |
 | rtl8723ds | 6.16-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8723ds |
 | rtl8723ds | 6.16-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8723ds |
+| rtl8723ds | 6.16-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8723ds |
 | rtl8723ds | 6.6.101-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8723ds |
 | rtl8723ds | 6.6.94-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8723ds |
 | rtl8723ds | 6.6.94-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8723ds |
@@ -64142,8 +64175,6 @@
 | rtl8812au | 6.12.41-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8812au |
 | rtl8812au | 6.12.41-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages.rtl8812au |
 | rtl8812au | 6.12.41-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8812au |
-| rtl8812au | 6.15.8-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8812au |
-| rtl8812au | 6.15.8-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8812au |
 | rtl8812au | 6.15.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8812au |
 | rtl8812au | 6.15.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8812au |
 | rtl8812au | 6.15.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8812au |
@@ -64153,8 +64184,10 @@
 | rtl8812au | 6.15.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8812au |
 | rtl8812au | 6.16-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8812au |
 | rtl8812au | 6.16-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8812au |
+| rtl8812au | 6.16-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8812au |
 | rtl8812au | 6.16-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8812au |
 | rtl8812au | 6.16-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8812au |
+| rtl8812au | 6.16-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8812au |
 | rtl8812au | 6.6.101-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8812au |
 | rtl8812au | 6.6.94-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8812au |
 | rtl8812au | 6.6.94-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8812au |
@@ -64180,8 +64213,6 @@
 | rtl8814au | 6.12.41-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8814au |
 | rtl8814au | 6.12.41-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages.rtl8814au |
 | rtl8814au | 6.12.41-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8814au |
-| rtl8814au | 6.15.8-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8814au |
-| rtl8814au | 6.15.8-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8814au |
 | rtl8814au | 6.15.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8814au |
 | rtl8814au | 6.15.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8814au |
 | rtl8814au | 6.15.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8814au |
@@ -64191,8 +64222,10 @@
 | rtl8814au | 6.15.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8814au |
 | rtl8814au | 6.16-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8814au |
 | rtl8814au | 6.16-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8814au |
+| rtl8814au | 6.16-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8814au |
 | rtl8814au | 6.16-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8814au |
 | rtl8814au | 6.16-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8814au |
+| rtl8814au | 6.16-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8814au |
 | rtl8814au | 6.6.101-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8814au |
 | rtl8814au | 6.6.94-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8814au |
 | rtl8814au | 6.6.94-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8814au |
@@ -64218,8 +64251,6 @@
 | rtl8821au | 6.12.41-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8821au |
 | rtl8821au | 6.12.41-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages.rtl8821au |
 | rtl8821au | 6.12.41-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8821au |
-| rtl8821au | 6.15.8-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821au |
-| rtl8821au | 6.15.8-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821au |
 | rtl8821au | 6.15.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8821au |
 | rtl8821au | 6.15.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821au |
 | rtl8821au | 6.15.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8821au |
@@ -64229,8 +64260,10 @@
 | rtl8821au | 6.15.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8821au |
 | rtl8821au | 6.16-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8821au |
 | rtl8821au | 6.16-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8821au |
+| rtl8821au | 6.16-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821au |
 | rtl8821au | 6.16-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8821au |
 | rtl8821au | 6.16-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8821au |
+| rtl8821au | 6.16-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821au |
 | rtl8821au | 6.6.101-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8821au |
 | rtl8821au | 6.6.94-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8821au |
 | rtl8821au | 6.6.94-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8821au |
@@ -64294,8 +64327,6 @@
 | rtl8821cu | 6.12.41-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8821cu |
 | rtl8821cu | 6.12.41-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages.rtl8821cu |
 | rtl8821cu | 6.12.41-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8821cu |
-| rtl8821cu | 6.15.8-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821cu |
-| rtl8821cu | 6.15.8-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821cu |
 | rtl8821cu | 6.15.9-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8821cu |
 | rtl8821cu | 6.15.9-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821cu |
 | rtl8821cu | 6.15.9-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8821cu |
@@ -64305,8 +64336,10 @@
 | rtl8821cu | 6.15.9-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8821cu |
 | rtl8821cu | 6.16-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8821cu |
 | rtl8821cu | 6.16-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8821cu |
+| rtl8821cu | 6.16-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821cu |
 | rtl8821cu | 6.16-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8821cu |
 | rtl8821cu | 6.16-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8821cu |
+| rtl8821cu | 6.16-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821cu |
 | rtl8821cu | 6.6.101-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8821cu |
 | rtl8821cu | 6.6.94-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8821cu |
 | rtl8821cu | 6.6.94-unstable-2025-05-08 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8821cu |
@@ -64332,8 +64365,6 @@
 | rtl8852au | 6.12.41-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8852au |
 | rtl8852au | 6.12.41-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages.rtl8852au |
 | rtl8852au | 6.12.41-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8852au |
-| rtl8852au | 6.15.8-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852au |
-| rtl8852au | 6.15.8-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852au |
 | rtl8852au | 6.15.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8852au |
 | rtl8852au | 6.15.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852au |
 | rtl8852au | 6.15.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8852au |
@@ -64343,8 +64374,10 @@
 | rtl8852au | 6.15.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8852au |
 | rtl8852au | 6.16-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8852au |
 | rtl8852au | 6.16-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8852au |
+| rtl8852au | 6.16-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852au |
 | rtl8852au | 6.16-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8852au |
 | rtl8852au | 6.16-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8852au |
+| rtl8852au | 6.16-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852au |
 | rtl8852au | 6.6.101-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8852au |
 | rtl8852au | 6.6.94-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8852au |
 | rtl8852au | 6.6.94-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8852au |
@@ -64370,8 +64403,6 @@
 | rtl8852bu | 6.12.41-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages-libre.rtl8852bu |
 | rtl8852bu | 6.12.41-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages.rtl8852bu |
 | rtl8852bu | 6.12.41-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8852bu |
-| rtl8852bu | 6.15.8-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852bu |
-| rtl8852bu | 6.15.8-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852bu |
 | rtl8852bu | 6.15.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8852bu |
 | rtl8852bu | 6.15.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852bu |
 | rtl8852bu | 6.15.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8852bu |
@@ -64381,8 +64412,10 @@
 | rtl8852bu | 6.15.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8852bu |
 | rtl8852bu | 6.16-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl8852bu |
 | rtl8852bu | 6.16-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl8852bu |
+| rtl8852bu | 6.16-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852bu |
 | rtl8852bu | 6.16-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl8852bu |
 | rtl8852bu | 6.16-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8852bu |
+| rtl8852bu | 6.16-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852bu |
 | rtl8852bu | 6.6.101-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8852bu |
 | rtl8852bu | 6.6.94-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl8852bu |
 | rtl8852bu | 6.6.94-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl8852bu |
@@ -64408,8 +64441,6 @@
 | rtl88x2bu | 6.12.41-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages-libre.rtl88x2bu |
 | rtl88x2bu | 6.12.41-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages.rtl88x2bu |
 | rtl88x2bu | 6.12.41-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl88x2bu |
-| rtl88x2bu | 6.15.8-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88x2bu |
-| rtl88x2bu | 6.15.8-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88x2bu |
 | rtl88x2bu | 6.15.9-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl88x2bu |
 | rtl88x2bu | 6.15.9-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88x2bu |
 | rtl88x2bu | 6.15.9-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl88x2bu |
@@ -64419,8 +64450,10 @@
 | rtl88x2bu | 6.15.9-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl88x2bu |
 | rtl88x2bu | 6.16-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl88x2bu |
 | rtl88x2bu | 6.16-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl88x2bu |
+| rtl88x2bu | 6.16-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88x2bu |
 | rtl88x2bu | 6.16-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl88x2bu |
 | rtl88x2bu | 6.16-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl88x2bu |
+| rtl88x2bu | 6.16-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88x2bu |
 | rtl88x2bu | 6.6.101-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl88x2bu |
 | rtl88x2bu | 6.6.94-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl88x2bu |
 | rtl88x2bu | 6.6.94-unstable-2024-06-09 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl88x2bu |
@@ -64446,8 +64479,6 @@
 | rtl88xxau-aircrack | 6.12.41-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages-libre.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.12.41-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.12.41-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl88xxau-aircrack |
-| rtl88xxau-aircrack | 6.15.8-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88xxau-aircrack |
-| rtl88xxau-aircrack | 6.15.8-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.15.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.15.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.15.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl88xxau-aircrack |
@@ -64457,8 +64488,10 @@
 | rtl88xxau-aircrack | 6.15.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.16-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.16-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.rtl88xxau-aircrack |
+| rtl88xxau-aircrack | 6.16-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.16-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_latest-libre.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.16-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_latest.rtl88xxau-aircrack |
+| rtl88xxau-aircrack | 6.16-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.6.101-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.6.94-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.6.94-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.rtl88xxau-aircrack |
@@ -66779,7 +66812,7 @@
 | rusti-cal | 1.1.0 | Minimal command line calendar, similar to cal | legacyPackages.x86_64-linux.rusti-cal |
 | rustic | 0.9.5 | Fast, encrypted, deduplicated backups powered by pure Rust | legacyPackages.x86_64-linux.rustic |
 | rustic | 0.9.5 | Fast, encrypted, deduplicated backups powered by pure Rust | legacyPackages.x86_64-linux.rustic-rs |
-| rustical | 0.8.1 | Yet another calendar server aiming to be simple, fast and passwordless | legacyPackages.x86_64-linux.rustical |
+| rustical | 0.8.4 | Yet another calendar server aiming to be simple, fast and passwordless | legacyPackages.x86_64-linux.rustical |
 | rustlings | 6.4.0 | Explore the Rust programming language and learn more about it while doing exercises | legacyPackages.x86_64-linux.rustlings |
 | rustls-ffi | 0.15.0 | C-to-rustls bindings | legacyPackages.x86_64-linux.rustls-ffi |
 | rustls-libssl | 0.2.1 | Partial reimplementation of the OpenSSL 3 libssl ABI using rustls | legacyPackages.x86_64-linux.rustls-libssl |
@@ -66851,8 +66884,6 @@
 | ryzen-smu | 6.12.41-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages-libre.ryzen-smu |
 | ryzen-smu | 6.12.41-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages.ryzen-smu |
 | ryzen-smu | 6.12.41-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_xanmod.ryzen-smu |
-| ryzen-smu | 6.15.8-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu |
-| ryzen-smu | 6.15.8-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu |
 | ryzen-smu | 6.15.9-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ryzen-smu |
 | ryzen-smu | 6.15.9-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ryzen-smu |
 | ryzen-smu | 6.15.9-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ryzen-smu |
@@ -66862,8 +66893,10 @@
 | ryzen-smu | 6.15.9-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ryzen-smu |
 | ryzen-smu | 6.16-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ryzen-smu |
 | ryzen-smu | 6.16-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ryzen-smu |
+| ryzen-smu | 6.16-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu |
 | ryzen-smu | 6.16-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_latest-libre.ryzen-smu |
 | ryzen-smu | 6.16-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_latest.ryzen-smu |
+| ryzen-smu | 6.16-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu |
 | ryzen-smu | 6.6.101-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ryzen-smu |
 | ryzen-smu | 6.6.94-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.ryzen-smu |
 | ryzen-smu | 6.6.94-0.1.5-unstable-2025-06-04 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.ryzen-smu |
@@ -66912,7 +66945,7 @@
 | s6-rc | 0.5.6.0 | Service manager for s6-based systems | legacyPackages.x86_64-linux.skawarePackages.s6-rc |
 | s6-rc-man-pages | 0.5.5.0.1 | mdoc(7) versions of the documentation for the s6-rc service manager | legacyPackages.x86_64-linux.s6-rc-man-pages |
 | s6-rc-man-pages | 0.5.5.0.1 | mdoc(7) versions of the documentation for the s6-rc service manager | legacyPackages.x86_64-linux.skawarePackages.s6-rc-man-pages |
-| s7 | 11.5-unstable-2025-07-31 | Scheme interpreter intended as an extension language for other applications | legacyPackages.x86_64-linux.s7 |
+| s7 | 11.5-unstable-2025-08-09 | Scheme interpreter intended as an extension language for other applications | legacyPackages.x86_64-linux.s7 |
 | s9fes | 20181205 | Scheme 9 From Empty Space, an interpreter for R4RS Scheme | legacyPackages.x86_64-linux.s9fes |
 | sa-tikz | 0.7a | TikZ library to draw switching architectures | legacyPackages.x86_64-linux.texlivePackages.sa-tikz |
 | saber | 0.26.0 | Cross-platform open-source app built for handwriting | legacyPackages.x86_64-linux.saber |
@@ -72019,7 +72052,7 @@
 | sdl3 | 3.2.18 | Cross-platform development library | legacyPackages.x86_64-linux.sdl3 |
 | sdl3-image | 3.2.4 | SDL image library | legacyPackages.x86_64-linux.sdl3-image |
 | sdl3-ttf | 3.2.2 | SDL TrueType font library | legacyPackages.x86_64-linux.sdl3-ttf |
-| sdl_gamecontrollerdb | 0-unstable-2025-07-28 | Community sourced database of game controller mappings to be used with SDL2 and SDL3 Game Controller functionality | legacyPackages.x86_64-linux.sdl_gamecontrollerdb |
+| sdl_gamecontrollerdb | 0-unstable-2025-08-05 | Community sourced database of game controller mappings to be used with SDL2 and SDL3 Game Controller functionality | legacyPackages.x86_64-linux.sdl_gamecontrollerdb |
 | sdlookup | 0-unstable-2022-03-10 | IP lookups for open ports and vulnerabilities from internetdb.shodan.io | legacyPackages.x86_64-linux.sdlookup |
 | sdlpop | 1.23 | Open-source port of Prince of Persia | legacyPackages.x86_64-linux.sdlpop |
 | sdnotify-wrapper |  | Use systemd sd_notify without having to link against libsystemd | legacyPackages.x86_64-linux.sdnotify-wrapper |
@@ -72271,7 +72304,7 @@
 | shadow | 4.17.4 | Suite containing authentication-related tools such as passwd and su | legacyPackages.x86_64-linux.shadow |
 | shadow | 4.17.4 | Suite containing authentication-related tools such as passwd and su | legacyPackages.x86_64-linux.su |
 | shadow-tls | 0.2.25 | Proxy to expose real tls handshake to the firewall | legacyPackages.x86_64-linux.shadow-tls |
-| shadowenv | 3.3.1 | Reversible directory-local environment variable manipulations | legacyPackages.x86_64-linux.shadowenv |
+| shadowenv | 3.4.0 | Reversible directory-local environment variable manipulations | legacyPackages.x86_64-linux.shadowenv |
 | shadowfox | 2.2.0 | Universal dark theme for Firefox while adhering to the modern design principles set by Mozilla | legacyPackages.x86_64-linux.shadowfox |
 | shadowsocks-libev | 3.3.5 | Lightweight secured SOCKS5 proxy | legacyPackages.x86_64-linux.shadowsocks-libev |
 | shadowsocks-rust | 1.23.5 | Rust port of Shadowsocks | legacyPackages.x86_64-linux.shadowsocks-rust |
@@ -72359,7 +72392,7 @@
 | shellcheck-sortArray |  |  | legacyPackages.x86_64-linux.tests.arrayUtilities.sortArray.shellcheck |
 | shellclear | 0.4.8 | Secure shell history commands by finding sensitive data | legacyPackages.x86_64-linux.shellclear |
 | shellharden | 4.3.1 | Corrective bash syntax highlighter | legacyPackages.x86_64-linux.shellharden |
-| shellhub-agent | 0.19.2 | Enables easy access any Linux device behind firewall and NAT | legacyPackages.x86_64-linux.shellhub-agent |
+| shellhub-agent | 0.20.0 | Enables easy access any Linux device behind firewall and NAT | legacyPackages.x86_64-linux.shellhub-agent |
 | shellify | 0.11.0.4 | A tool for generating shell.nix files | legacyPackages.x86_64-linux.shellify |
 | shellnoob-unstable | 2022-03-16 | Shellcode writing toolkit | legacyPackages.x86_64-linux.shellnoob |
 | shellspec | 0.28.1 | Full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells | legacyPackages.x86_64-linux.shellspec |
@@ -72406,7 +72439,7 @@
 | shod | 2.6.2 | Mouse-based window manager that can tile windows inside floating containers | legacyPackages.x86_64-linux.shod |
 | shogihome | 1.24.3 | Shogi frontend supporting USI engines | legacyPackages.x86_64-linux.shogihome |
 | shogun | 6.1.4 | Toolbox which offers a wide range of efficient and unified machine learning methods | legacyPackages.x86_64-linux.shogun |
-| shopify | 3.83.1 | CLI which helps you build against the Shopify platform faster | legacyPackages.x86_64-linux.shopify-cli |
+| shopify | 3.83.3 | CLI which helps you build against the Shopify platform faster | legacyPackages.x86_64-linux.shopify-cli |
 | shopify-themekit | 1.3.2 | Command line tool for shopify themes | legacyPackages.x86_64-linux.shopify-themekit |
 | shopware-cli | 0.6.22 | Command line tool for Shopware 6 | legacyPackages.x86_64-linux.shopware-cli |
 | shoreline | 0-unstable-2021-08-24 | Very fast (200+ Gbit/s) pixelflut server written in C with full IPv6 support | legacyPackages.x86_64-linux.shoreline |
@@ -72561,7 +72594,7 @@
 | simbaplusplus | 0-unstable-2024-11-05 | SiMBA++ is a port of MBA Solver SiMBA to C/C++ | legacyPackages.x86_64-linux.simbaplusplus |
 | simde | 0.8.2 | Implementations of SIMD instruction sets for systems which don't natively support them | legacyPackages.x86_64-linux.simde |
 | simdjson | 3.13.0 | Parsing gigabytes of JSON per second | legacyPackages.x86_64-linux.simdjson |
-| simdutf | 7.3.4 | Unicode routines validation and transcoding at billions of characters per second | legacyPackages.x86_64-linux.simdutf |
+| simdutf | 7.3.5 | Unicode routines validation and transcoding at billions of characters per second | legacyPackages.x86_64-linux.simdutf |
 | simg2img | 1.1.5 | Tool to convert Android sparse images to raw images | legacyPackages.x86_64-linux.simg2img |
 | simgear | 2024.1.1 | Simulation construction toolkit | legacyPackages.x86_64-linux.simgear |
 | simgrid | 4.0 | Framework for the simulation of distributed applications | legacyPackages.x86_64-linux.simgrid |
@@ -72576,7 +72609,7 @@
 | simple-live-app | 1.8.6 | Simply Watch Live | legacyPackages.x86_64-linux.simple-live-app |
 | simple-mpv-ui | 3.0.0 | Web based user interface with controls for the mpv mediaplayer | legacyPackages.x86_64-linux.mpvScripts.simple-mpv-webui |
 | simple-mtpfs | 0.4.0 | Simple MTP fuse filesystem driver | legacyPackages.x86_64-linux.simple-mtpfs |
-| simple-nix-source-salted-jydvf1160dwd |  |  | legacyPackages.x86_64-linux.tests.fetchgit.simple |
+| simple-nix-source-salted | 07rvn528isl0 |  | legacyPackages.x86_64-linux.tests.fetchgit.simple |
 | simple-resume-cv | 43057 | Template for a simple resume or curriculum vitae (CV), in XeLaTeX | legacyPackages.x86_64-linux.texlivePackages.simple-resume-cv |
 | simple-scan | 46.0 | Simple scanning utility | legacyPackages.x86_64-linux.simple-scan |
 | simple-thesis-dissertation | 43058 | Template for a simple thesis or dissertation (Ph.D. or master's degree) or technical report, in XeLaTeX | legacyPackages.x86_64-linux.texlivePackages.simple-thesis-dissertation |
@@ -72922,7 +72955,7 @@
 | snphost | 0.6.1 | Administrative utility for SEV-SNP | legacyPackages.x86_64-linux.snphost |
 | snscrape | 0.7.0.20230622 | Social networking service scraper | legacyPackages.x86_64-linux.snscrape |
 | snx-rs | 4.5.0 | Open source Linux client for Checkpoint VPN tunnels | legacyPackages.x86_64-linux.snx-rs |
-| snyk | 1.1298.1 | Scans and monitors projects for security vulnerabilities | legacyPackages.x86_64-linux.snyk |
+| snyk | 1.1298.2 | Scans and monitors projects for security vulnerabilities | legacyPackages.x86_64-linux.snyk |
 | snzip | 1.0.5 | Compression/decompression tool based on snappy | legacyPackages.x86_64-linux.snzip |
 | so | 0.4.10 | TUI to StackExchange network | legacyPackages.x86_64-linux.so |
 | soapui | 5.9.0 | Most Advanced REST & SOAP Testing Tool in the World | legacyPackages.x86_64-linux.soapui |
@@ -73090,15 +73123,15 @@
 | source-salted | 7q5aygw4s5b9 |  | legacyPackages.x86_64-linux.tests.fetchpatch2.fileWithSpace |
 | source-salted | 9h7y5p30nf87 |  | legacyPackages.x86_64-linux.tests.fetchpatch.full |
 | source-salted-bk84apjhlilq |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.fileWithApostrophe |
+| source-salted-fap310m9qdjs |  | An open source short film to show off open source technologies. | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link |
 | source-salted-g0j3i7dh29nc |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.full |
+| source-salted-hkk68kh3716b |  | An open source short film to show off open source technologies. | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link |
 | source-salted-jx9fya1yq1f8 |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.simple |
 | source-salted-k7mwgz2swc9w |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.simple |
 | source-salted-ldv5qk1dwhlb |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.fileWithApostrophe |
 | source-salted-mx43qg08m808 |  |  | legacyPackages.x86_64-linux.tests.fetchzip.hiddenDir |
-| source-salted-r53hqc4ixj7v |  |  | legacyPackages.x86_64-linux.tests.fetchurl.header |
-| source-salted-sammxxgp9gbr |  | An open source short film to show off open source technologies. | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link |
-| source-salted-svn5ykdbyy7x |  | An open source short film to show off open source technologies. | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link |
 | source-salted-wip0z2ld3fny |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.relative |
+| source-salted-xjr2c88zf0dx |  |  | legacyPackages.x86_64-linux.tests.fetchurl.header |
 | source-salted-y5jh512rhx8q |  |  | legacyPackages.x86_64-linux.tests.fetchPypiLegacy.fetchSimple |
 | source-salted-z5pfsz9xm6kl |  |  | legacyPackages.x86_64-linux.tests.fetchDebianPatch.simple |
 | source-sans | 3.052 | Sans serif font family for user interface environments | legacyPackages.x86_64-linux.source-sans |
@@ -73182,8 +73215,8 @@
 | sparrow | 2.2.3 | Modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability | legacyPackages.x86_64-linux.sparrow |
 | sparrow3d-unstable | 2020-10-06 | Software renderer for different open handhelds like the gp2x, wiz, caanoo and pandora | legacyPackages.x86_64-linux.sparrow3d |
 | sparse | 0.6.4 | Semantic parser for C | legacyPackages.x86_64-linux.sparse |
-| sparse-checkout-nix-source-salted-m7pv4digadcz |  |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckout |
-| sparse-checkout-non-cone-nix-source-salted-nbp42ryrp79a |  |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckoutNonConeMode |
+| sparse-checkout-nix-source-salted | 2z4pmarivk60 |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckout |
+| sparse-checkout-non-cone-nix-source-salted-cvnb0xp6y2b4 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckoutNonConeMode |
 | sparsehash | 2.0.4 | Extremely memory-efficient hash_map implementation | legacyPackages.x86_64-linux.sparsehash |
 | spasm-ng-unstable | 2022-07-05 | Z80 assembler with extra features to support development for TI calculators | legacyPackages.x86_64-linux.spasm-ng |
 | spass | 3.9 | Automated theorem prover for first-order logic | legacyPackages.x86_64-linux.spass |
@@ -73366,7 +73399,7 @@
 | sqlitestudio | 3.4.17 | Free, open source, multi-platform SQLite database manager | legacyPackages.x86_64-linux.sqlitestudio |
 | sqlitestudio-plugins | 3.4.17 | Official plugins for SQLiteStudio, a free, open source, multi-platform SQLite database manager | legacyPackages.x86_64-linux.sqlitestudio-plugins |
 | sqlline | 1.12.0 | Shell for issuing SQL to relational databases via JDBC | legacyPackages.x86_64-linux.sqlline |
-| sqlmap | 1.9.7 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.sqlmap |
+| sqlmap | 1.9.8 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.sqlmap |
 | sqlmc | 1.1.0 | Tool to check URLs of a domain for SQL injections | legacyPackages.x86_64-linux.sqlmc |
 | sqlpage | 0.34.0 | SQL-only webapp builder, empowering data analysts to build websites and applications quickly | legacyPackages.x86_64-linux.sqlpage |
 | sqlpkg-cli | 0.2.3 | SQLite package manager | legacyPackages.x86_64-linux.sqlpkg-cli |
@@ -73480,7 +73513,7 @@
 | ssss | 0.5.7 | Shamir Secret Sharing Scheme | legacyPackages.x86_64-linux.ssss |
 | sstp-client-unstable | 2023-03-25 | SSTP client for Linux | legacyPackages.x86_64-linux.sstp |
 | ssw | 0.10 | GNU Spread Sheet Widget | legacyPackages.x86_64-linux.ssw |
-| st | 0.9.2 | Simple Terminal for X from Suckless.org Community | legacyPackages.x86_64-linux.st |
+| st | 0.9.3 | Simple Terminal for X from Suckless.org Community | legacyPackages.x86_64-linux.st |
 | st-snazzy | 0.8.5-unstable-2024-09-06 | Snazzy terminal (suckless + beautiful) | legacyPackages.x86_64-linux.siduck76-st |
 | st-snazzy | 0.8.5-unstable-2024-09-06 | Snazzy terminal (suckless + beautiful) | legacyPackages.x86_64-linux.st-snazzy |
 | sta | 0-unstable-2021-11-30 | Simple statistics from the command line interface (CLI), fast | legacyPackages.x86_64-linux.sta |
@@ -73491,7 +73524,7 @@
 | stack2nix | 0.2.3 | Convert stack.yaml files into Nix build instructions. | legacyPackages.x86_64-linux.stack2nix |
 | stackblur-go | 1.1.0 | Fast, almost Gaussian Blur implementation in Go | legacyPackages.x86_64-linux.stackblur-go |
 | stackengine | 4.11 | Highly customised stacking of objects, insets, baseline changes, etc | legacyPackages.x86_64-linux.texlivePackages.stackengine |
-| stackit-cli | 0.37.3 | CLI to manage STACKIT cloud services | legacyPackages.x86_64-linux.stackit-cli |
+| stackit-cli | 0.38.0 | CLI to manage STACKIT cloud services | legacyPackages.x86_64-linux.stackit-cli |
 | stackql | 0.8.175 | Deploy, manage and query cloud resources and interact with APIs using SQL | legacyPackages.x86_64-linux.stackql |
 | stacks | 2.68 | Software pipeline for building loci from short-read sequences | legacyPackages.x86_64-linux.stacks |
 | stacktile | 1.0.0 | Layout generator for the river Wayland compositor | legacyPackages.x86_64-linux.stacktile |
@@ -73724,7 +73757,7 @@
 | step | 25.04.3 | Interactive physics simulator | legacyPackages.x86_64-linux.kdePackages.step |
 | step-ca | 0.28.4 | Private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH | legacyPackages.x86_64-linux.step-ca |
 | step-cli | 0.28.6 | Zero trust swiss army knife for working with X509, OAuth, JWT, OATH OTP, etc | legacyPackages.x86_64-linux.step-cli |
-| step-kms-plugin | 0.14.0 | step plugin to manage keys and certificates on cloud KMSs and HSMs | legacyPackages.x86_64-linux.step-kms-plugin |
+| step-kms-plugin | 0.14.2 | step plugin to manage keys and certificates on cloud KMSs and HSMs | legacyPackages.x86_64-linux.step-kms-plugin |
 | stepgreek | 3.0b1 | A free Times/Elsevier-style Greek font | legacyPackages.x86_64-linux.texlivePackages.stepgreek |
 | stepmania | 5.1.0-b2-unstable-2022-11-14 | Free dance and rhythm game for Windows, Mac, and Linux | legacyPackages.x86_64-linux.stepmania |
 | stepreduce-unstable | 2020-04-30 | Reduces STEP file size by removing redundancy | legacyPackages.x86_64-linux.stepreduce |
@@ -73894,10 +73927,10 @@
 | sublimetext4 | 4199 | Sophisticated text editor for code, markup and prose | legacyPackages.x86_64-linux.sublime4-dev |
 | sublimetext4 | 4200 | Sophisticated text editor for code, markup and prose | legacyPackages.x86_64-linux.sublime4 |
 | submit50 | 3.2.1 | Tool for submitting student CS50 code | legacyPackages.x86_64-linux.submit50 |
-| submodule-deep-source-salted | 3hq9vh0q4p2k |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-deep |
-| submodule-leave-git-deep-source-salted | 0w7ga69b51gz |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git-deep |
-| submodule-leave-git-source-salted | 8p4q2y9w8ayj |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git |
-| submodule-simple-source-salted-wg67566ma8w6 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-simple |
+| submodule-deep-source-salted-mkip966ldkzx |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-deep |
+| submodule-leave-git-deep-source-salted-lvp2amahyc1a |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git-deep |
+| submodule-leave-git-source-salted | 91x09p4x84s5 |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git |
+| submodule-simple-source-salted | 1hnhdb34gn7s |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-simple |
 | subnetcalc | 2.6.4 | SubNetCalc is an IPv4/IPv6 subnet address calculator | legacyPackages.x86_64-linux.subnetcalc |
 | subprober | 1.0.9 | Subdomain scanning tool | legacyPackages.x86_64-linux.subprober |
 | subread | 2.1.1 | High-performance read alignment, quantification and mutation discovery | legacyPackages.x86_64-linux.subread |
@@ -74176,8 +74209,8 @@
 | sxhkd | 0.6.2 | Simple X hotkey daemon | legacyPackages.x86_64-linux.sxhkd |
 | sxiv | 26 | Simple X Image Viewer | legacyPackages.x86_64-linux.sxiv |
 | sycl-info | 0-unstable-2019-11-19 | Tool to show information about available SYCL implementations | legacyPackages.x86_64-linux.sycl-info |
-| sydbox | 3.37.2 | Seccomp-based application sandbox | legacyPackages.x86_64-linux.sydbox |
-| syft | 1.29.1 | CLI tool and library for generating a Software Bill of Materials from container images and filesystems | legacyPackages.x86_64-linux.syft |
+| sydbox | 3.37.6 | Seccomp-based application sandbox | legacyPackages.x86_64-linux.sydbox |
+| syft | 1.30.0 | CLI tool and library for generating a Software Bill of Materials from container images and filesystems | legacyPackages.x86_64-linux.syft |
 | sylk | 3.0.1 | Desktop client for SylkServer, a multiparty conferencing tool | legacyPackages.x86_64-linux.Sylk |
 | sylk | 3.0.1 | Desktop client for SylkServer, a multiparty conferencing tool | legacyPackages.x86_64-linux.sylk |
 | syllogism | 1.2 | Typeset syllogisms in LaTeX | legacyPackages.x86_64-linux.texlivePackages.syllogism |
@@ -74333,8 +74366,6 @@
 | system76-acpi-module | 1.0.2-6.12.41 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages-libre.system76-acpi |
 | system76-acpi-module | 1.0.2-6.12.41 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages.system76-acpi |
 | system76-acpi-module | 1.0.2-6.12.41 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_xanmod.system76-acpi |
-| system76-acpi-module | 1.0.2-6.15.8 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-acpi |
-| system76-acpi-module | 1.0.2-6.15.8 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.15.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-acpi |
 | system76-acpi-module | 1.0.2-6.15.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-acpi |
 | system76-acpi-module | 1.0.2-6.15.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76-acpi |
@@ -74344,8 +74375,10 @@
 | system76-acpi-module | 1.0.2-6.15.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-acpi |
 | system76-acpi-module | 1.0.2-6.16 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.system76-acpi |
 | system76-acpi-module | 1.0.2-6.16 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.system76-acpi |
+| system76-acpi-module | 1.0.2-6.16 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.16 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_latest-libre.system76-acpi |
 | system76-acpi-module | 1.0.2-6.16 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_latest.system76-acpi |
+| system76-acpi-module | 1.0.2-6.16 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.6.101 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-acpi |
 | system76-acpi-module | 1.0.2-6.6.94 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.system76-acpi |
 | system76-acpi-module | 1.0.2-6.6.94 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.system76-acpi |
@@ -74372,8 +74405,6 @@
 | system76-io-module | 1.0.4-6.12.41 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages-libre.system76-io |
 | system76-io-module | 1.0.4-6.12.41 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages.system76-io |
 | system76-io-module | 1.0.4-6.12.41 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_xanmod.system76-io |
-| system76-io-module | 1.0.4-6.15.8 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-io |
-| system76-io-module | 1.0.4-6.15.8 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_zen.system76-io |
 | system76-io-module | 1.0.4-6.15.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-io |
 | system76-io-module | 1.0.4-6.15.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-io |
 | system76-io-module | 1.0.4-6.15.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76-io |
@@ -74383,8 +74414,10 @@
 | system76-io-module | 1.0.4-6.15.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-io |
 | system76-io-module | 1.0.4-6.16 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.system76-io |
 | system76-io-module | 1.0.4-6.16 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.system76-io |
+| system76-io-module | 1.0.4-6.16 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-io |
 | system76-io-module | 1.0.4-6.16 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_latest-libre.system76-io |
 | system76-io-module | 1.0.4-6.16 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_latest.system76-io |
+| system76-io-module | 1.0.4-6.16 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_zen.system76-io |
 | system76-io-module | 1.0.4-6.6.101 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-io |
 | system76-io-module | 1.0.4-6.6.94 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.system76-io |
 | system76-io-module | 1.0.4-6.6.94 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.system76-io |
@@ -74411,8 +74444,6 @@
 | system76-module | 1.0.17-6.12.41 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages-libre.system76 |
 | system76-module | 1.0.17-6.12.41 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages.system76 |
 | system76-module | 1.0.17-6.12.41 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.system76 |
-| system76-module | 1.0.17-6.15.8 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76 |
-| system76-module | 1.0.17-6.15.8 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_zen.system76 |
 | system76-module | 1.0.17-6.15.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76 |
 | system76-module | 1.0.17-6.15.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76 |
 | system76-module | 1.0.17-6.15.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76 |
@@ -74422,8 +74453,10 @@
 | system76-module | 1.0.17-6.15.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76 |
 | system76-module | 1.0.17-6.16 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.system76 |
 | system76-module | 1.0.17-6.16 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.system76 |
+| system76-module | 1.0.17-6.16 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76 |
 | system76-module | 1.0.17-6.16 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.system76 |
 | system76-module | 1.0.17-6.16 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_latest.system76 |
+| system76-module | 1.0.17-6.16 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_zen.system76 |
 | system76-module | 1.0.17-6.6.101 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76 |
 | system76-module | 1.0.17-6.6.94 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.system76 |
 | system76-module | 1.0.17-6.6.94 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.system76 |
@@ -74658,9 +74691,9 @@
 | tail-tray | 0.2.23 | Tray icon to manage Tailscale | legacyPackages.x86_64-linux.tail-tray |
 | tailer | 0.1.1 | CLI tool to insert lines when command output stops | legacyPackages.x86_64-linux.tailer |
 | tailor_gui | 0.2.3 | Rust GUI for interacting with hardware from TUXEDO Computers | legacyPackages.x86_64-linux.tailor-gui |
-| tailscale | 1.86.2 | Node agent for Tailscale, a mesh VPN built on WireGuard | legacyPackages.x86_64-linux.tailscale |
-| tailscale-gitops-pusher | 1.86.2 | Allows users to use a GitOps flow for managing Tailscale ACLs | legacyPackages.x86_64-linux.tailscale-gitops-pusher |
-| tailscale-nginx-auth | 1.86.2 | Tool that allows users to use Tailscale Whois authentication with NGINX as a reverse proxy | legacyPackages.x86_64-linux.tailscale-nginx-auth |
+| tailscale | 1.86.4 | Node agent for Tailscale, a mesh VPN built on WireGuard | legacyPackages.x86_64-linux.tailscale |
+| tailscale-gitops-pusher | 1.86.4 | Allows users to use a GitOps flow for managing Tailscale ACLs | legacyPackages.x86_64-linux.tailscale-gitops-pusher |
+| tailscale-nginx-auth | 1.86.4 | Tool that allows users to use Tailscale Whois authentication with NGINX as a reverse proxy | legacyPackages.x86_64-linux.tailscale-nginx-auth |
 | tailscale-systray | 2022-10-19 | Tailscale systray | legacyPackages.x86_64-linux.tailscale-systray |
 | tailscalesd | 0.3.0 | Prometheus Service Discovery for Tailscale | legacyPackages.x86_64-linux.tailscalesd |
 | tailspin | 5.4.5 | Log file highlighter | legacyPackages.x86_64-linux.tailspin |
@@ -74763,13 +74796,13 @@
 | taterclient-ddnet | 10.4.0 | Modification of DDNet teeworlds client | legacyPackages.x86_64-linux.taterclient-ddnet |
 | tattoy | 0.1.8 | Text-based compositor for modern terminals | legacyPackages.x86_64-linux.tattoy |
 | tau-hydrogen | 1.0.16 | GTK icon theme for tauOS | legacyPackages.x86_64-linux.tau-hydrogen |
-| tauno-monitor | 0.2.11 | Simple serial port monitor | legacyPackages.x86_64-linux.tauno-monitor |
+| tauno-monitor | 0.2.14 | Simple serial port monitor | legacyPackages.x86_64-linux.tauno-monitor |
 | tauon | 8.0.1 | Linux desktop music player from the future | legacyPackages.x86_64-linux.tauon |
 | tauri | 1.8.1 | Build smaller, faster, and more secure desktop applications with a web frontend | legacyPackages.x86_64-linux.cargo-tauri_1 |
 | tauri | 2.7.1 | Build smaller, faster, and more secure desktop applications with a web frontend | legacyPackages.x86_64-linux.cargo-tauri |
 | taxi | 2.0.2-unstable-2024-12-26 | FTP Client that drives you anywhere | legacyPackages.x86_64-linux.taxi |
 | taxi | 6.3.1 | Timesheeting made easy | legacyPackages.x86_64-linux.taxi-cli |
-| tayga | 0.9.2 | Userland stateless NAT64 daemon | legacyPackages.x86_64-linux.tayga |
+| tayga | 0.9.5 | Userland stateless NAT64 daemon | legacyPackages.x86_64-linux.tayga |
 | taze | 19.1.0 | Modern cli tool that keeps your deps fresh | legacyPackages.x86_64-linux.taze |
 | tbb | 2020.3.3 | Intel Thread Building Blocks C++ Library | legacyPackages.x86_64-linux.tbb |
 | tbb | 2020.3.3 | Intel Thread Building Blocks C++ Library | legacyPackages.x86_64-linux.tbb_2020 |
@@ -74803,8 +74836,6 @@
 | tbs | 20250510-6.12.41 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages-libre.tbs |
 | tbs | 20250510-6.12.41 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages.tbs |
 | tbs | 20250510-6.12.41 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.tbs |
-| tbs | 20250510-6.15.8 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tbs |
-| tbs | 20250510-6.15.8 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_zen.tbs |
 | tbs | 20250510-6.15.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tbs |
 | tbs | 20250510-6.15.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tbs |
 | tbs | 20250510-6.15.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tbs |
@@ -74814,8 +74845,10 @@
 | tbs | 20250510-6.15.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tbs |
 | tbs | 20250510-6.16 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.tbs |
 | tbs | 20250510-6.16 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.tbs |
+| tbs | 20250510-6.16 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tbs |
 | tbs | 20250510-6.16 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_latest-libre.tbs |
 | tbs | 20250510-6.16 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_latest.tbs |
+| tbs | 20250510-6.16 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_zen.tbs |
 | tbs | 20250510-6.6.101 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tbs |
 | tbs | 20250510-6.6.94 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.tbs |
 | tbs | 20250510-6.6.94 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.tbs |
@@ -75124,7 +75157,7 @@
 | terraform-provider-constellix | 0.4.6 |  | legacyPackages.x86_64-linux.terraform-providers.constellix |
 | terraform-provider-consul | 2.22.0 |  | legacyPackages.x86_64-linux.terraform-providers.consul |
 | terraform-provider-ct | 0.13.0 |  | legacyPackages.x86_64-linux.terraform-providers.ct |
-| terraform-provider-datadog | 3.69.0 |  | legacyPackages.x86_64-linux.terraform-providers.datadog |
+| terraform-provider-datadog | 3.70.0 |  | legacyPackages.x86_64-linux.terraform-providers.datadog |
 | terraform-provider-deno | 0.1.0 |  | legacyPackages.x86_64-linux.terraform-providers.deno |
 | terraform-provider-dexidp | 0.7.0 |  | legacyPackages.x86_64-linux.terraform-providers.dexidp |
 | terraform-provider-dhall | 0.0.7 |  | legacyPackages.x86_64-linux.terraform-providers.dhall |
@@ -75157,7 +75190,7 @@
 | terraform-provider-hetznerdns | 2.2.0 |  | legacyPackages.x86_64-linux.terraform-providers.hetznerdns |
 | terraform-provider-htpasswd | 1.2.1 |  | legacyPackages.x86_64-linux.terraform-providers.htpasswd |
 | terraform-provider-http | 3.5.0 |  | legacyPackages.x86_64-linux.terraform-providers.http |
-| terraform-provider-huaweicloud | 1.77.1 |  | legacyPackages.x86_64-linux.terraform-providers.huaweicloud |
+| terraform-provider-huaweicloud | 1.77.3 |  | legacyPackages.x86_64-linux.terraform-providers.huaweicloud |
 | terraform-provider-huaweicloudstack | 1.3.0 |  | legacyPackages.x86_64-linux.terraform-providers.huaweicloudstack |
 | terraform-provider-hydra | 0.1.2 |  | legacyPackages.x86_64-linux.terraform-providers.hydra |
 | terraform-provider-ibm | 1.81.0 |  | legacyPackages.x86_64-linux.terraform-providers.ibm |
@@ -75179,7 +75212,7 @@
 | terraform-provider-mailgun | 0.7.7 |  | legacyPackages.x86_64-linux.terraform-providers.mailgun |
 | terraform-provider-matchbox | 0.5.4 |  | legacyPackages.x86_64-linux.terraform-providers.matchbox |
 | terraform-provider-metal | 3.3.0 |  | legacyPackages.x86_64-linux.terraform-providers.metal |
-| terraform-provider-migadu | 2025.7.17 |  | legacyPackages.x86_64-linux.terraform-providers.migadu |
+| terraform-provider-migadu | 2025.8.7 |  | legacyPackages.x86_64-linux.terraform-providers.migadu |
 | terraform-provider-minio | 3.6.3 |  | legacyPackages.x86_64-linux.terraform-providers.minio |
 | terraform-provider-mongodbatlas | 1.39.0 |  | legacyPackages.x86_64-linux.terraform-providers.mongodbatlas |
 | terraform-provider-namecheap | 2.2.0 |  | legacyPackages.x86_64-linux.terraform-providers.namecheap |
@@ -75221,7 +75254,7 @@
 | terraform-provider-selectel | 6.6.0 |  | legacyPackages.x86_64-linux.terraform-providers.selectel |
 | terraform-provider-sentry | 0.14.6 |  | legacyPackages.x86_64-linux.terraform-providers.sentry |
 | terraform-provider-shell | 1.7.10 |  | legacyPackages.x86_64-linux.terraform-providers.shell |
-| terraform-provider-signalfx | 9.17.0 |  | legacyPackages.x86_64-linux.terraform-providers.signalfx |
+| terraform-provider-signalfx | 9.19.1 |  | legacyPackages.x86_64-linux.terraform-providers.signalfx |
 | terraform-provider-skytap | 0.15.1 |  | legacyPackages.x86_64-linux.terraform-providers.skytap |
 | terraform-provider-slack | 1.2.2 |  | legacyPackages.x86_64-linux.terraform-providers.slack |
 | terraform-provider-snowflake | 1.0.5 |  | legacyPackages.x86_64-linux.terraform-providers.snowflake |
@@ -75777,7 +75810,7 @@
 | tfswitch | 1.5.0 | Command line tool to switch between different versions of terraform | legacyPackages.x86_64-linux.tfswitch |
 | tftp-hpa | 5.2-untagged-2024-06-10 | TFTP tools - a lot of fixes on top of BSD TFTP | legacyPackages.x86_64-linux.tftp-hpa |
 | tftui | 0.13.5 | Textual UI to view and interact with Terraform state | legacyPackages.x86_64-linux.tftui |
-| tfupdate | 0.9.1 | Update version constraints in your Terraform configurations | legacyPackages.x86_64-linux.tfupdate |
+| tfupdate | 0.9.2 | Update version constraints in your Terraform configurations | legacyPackages.x86_64-linux.tfupdate |
 | tg | 0.22.0 | Terminal client for telegram | legacyPackages.x86_64-linux.tg |
 | tg-archive | 1.3.0 | Tool for exporting Telegram group chats into static websites like mailing list archives | legacyPackages.x86_64-linux.tg-archive |
 | tg-timer | 0.7.0 | for timing mechanical watches | legacyPackages.x86_64-linux.tg-timer |
@@ -76019,20 +76052,20 @@
 | timer | 1.4.6 | `sleep` with progress | legacyPackages.x86_64-linux.timer |
 | times | 61719 | URW 'Base 35' font pack for LaTeX | legacyPackages.x86_64-linux.texlivePackages.times |
 | times-newer-roman-unstable | 2018-09-11 | Font that looks just like Times New Roman, except each character is 5-10% wider | legacyPackages.x86_64-linux.times-newer-roman |
-| timescaledb | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql13Packages.timescaledb |
-| timescaledb | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql14Packages.timescaledb |
-| timescaledb | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql15Packages.timescaledb |
-| timescaledb | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql16Packages.timescaledb |
-| timescaledb | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql17Packages.timescaledb |
-| timescaledb | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql18Packages.timescaledb |
-| timescaledb | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresqlPackages.timescaledb |
-| timescaledb-apache | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql13Packages.timescaledb-apache |
-| timescaledb-apache | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache |
-| timescaledb-apache | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache |
-| timescaledb-apache | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache |
-| timescaledb-apache | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache |
-| timescaledb-apache | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql18Packages.timescaledb-apache |
-| timescaledb-apache | 2.21.1 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache |
+| timescaledb | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql13Packages.timescaledb |
+| timescaledb | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql14Packages.timescaledb |
+| timescaledb | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql15Packages.timescaledb |
+| timescaledb | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql16Packages.timescaledb |
+| timescaledb | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql17Packages.timescaledb |
+| timescaledb | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql18Packages.timescaledb |
+| timescaledb | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresqlPackages.timescaledb |
+| timescaledb-apache | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql13Packages.timescaledb-apache |
+| timescaledb-apache | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache |
+| timescaledb-apache | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache |
+| timescaledb-apache | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache |
+| timescaledb-apache | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache |
+| timescaledb-apache | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresql18Packages.timescaledb-apache |
+| timescaledb-apache | 2.21.2 | Scales PostgreSQL for time-series data via automatic partitioning across time and space | legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache |
 | timescaledb-parallel-copy | 0.9.0 | Bulk, parallel insert of CSV records into PostgreSQL | legacyPackages.x86_64-linux.timescaledb-parallel-copy |
 | timescaledb-tune | 0.18.0 | Tool for tuning your TimescaleDB for better performance | legacyPackages.x86_64-linux.timescaledb-tune |
 | timescaledb_toolkit | 1.21.0 | Provide additional tools to ease all things analytic when using TimescaleDB | legacyPackages.x86_64-linux.postgresql13Packages.timescaledb_toolkit |
@@ -76217,8 +76250,6 @@
 | tmon | 6.12.41 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages-libre.tmon |
 | tmon | 6.12.41 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages.tmon |
 | tmon | 6.12.41 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_xanmod.tmon |
-| tmon | 6.15.8 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tmon |
-| tmon | 6.15.8 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_zen.tmon |
 | tmon | 6.15.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tmon |
 | tmon | 6.15.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tmon |
 | tmon | 6.15.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tmon |
@@ -76228,8 +76259,10 @@
 | tmon | 6.15.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tmon |
 | tmon | 6.16 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.tmon |
 | tmon | 6.16 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.tmon |
+| tmon | 6.16 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tmon |
 | tmon | 6.16 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_latest-libre.tmon |
 | tmon | 6.16 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_latest.tmon |
+| tmon | 6.16 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_zen.tmon |
 | tmon | 6.6.101 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tmon |
 | tmon | 6.6.94 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.tmon |
 | tmon | 6.6.94 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.tmon |
@@ -76449,8 +76482,6 @@
 | tp_smapi | 0.44-unstable-2025-05-26-6.12.41 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages-libre.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.12.41 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.12.41 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.tp_smapi |
-| tp_smapi | 0.44-unstable-2025-05-26-6.15.8 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi |
-| tp_smapi | 0.44-unstable-2025-05-26-6.15.8 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.15.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.15.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.15.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tp_smapi |
@@ -76460,8 +76491,10 @@
 | tp_smapi | 0.44-unstable-2025-05-26-6.15.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.16 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.16 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.tp_smapi |
+| tp_smapi | 0.44-unstable-2025-05-26-6.16 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.16 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_latest-libre.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.16 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_latest.tp_smapi |
+| tp_smapi | 0.44-unstable-2025-05-26-6.16 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.6.101 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.6.94 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.tp_smapi |
 | tp_smapi | 0.44-unstable-2025-05-26-6.6.94 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.tp_smapi |
@@ -76774,8 +76807,6 @@
 | trelay | 22.03.5-6.12.41 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages-libre.trelay |
 | trelay | 22.03.5-6.12.41 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages.trelay |
 | trelay | 22.03.5-6.12.41 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_xanmod.trelay |
-| trelay | 22.03.5-6.15.8 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay |
-| trelay | 22.03.5-6.15.8 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_zen.trelay |
 | trelay | 22.03.5-6.15.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.trelay |
 | trelay | 22.03.5-6.15.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.trelay |
 | trelay | 22.03.5-6.15.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.trelay |
@@ -76785,8 +76816,10 @@
 | trelay | 22.03.5-6.15.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.trelay |
 | trelay | 22.03.5-6.16 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.trelay |
 | trelay | 22.03.5-6.16 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.trelay |
+| trelay | 22.03.5-6.16 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay |
 | trelay | 22.03.5-6.16 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_latest-libre.trelay |
 | trelay | 22.03.5-6.16 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_latest.trelay |
+| trelay | 22.03.5-6.16 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_zen.trelay |
 | trelay | 22.03.5-6.6.101 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.trelay |
 | trelay | 22.03.5-6.6.94 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.trelay |
 | trelay | 22.03.5-6.6.94 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.trelay |
@@ -76822,8 +76855,8 @@
 | trilinos | 12.12.1 | Engineering and scientific problems algorithms | legacyPackages.x86_64-linux.trilinos |
 | trilinos | 12.12.1 | Engineering and scientific problems algorithms | legacyPackages.x86_64-linux.trilinos-mpi |
 | trilium-desktop | 0.63.6 | Hierarchical note taking application with focus on building large personal knowledge bases | legacyPackages.x86_64-linux.trilium-desktop |
-| trilium-next-desktop | 0.97.1 | Hierarchical note taking application with focus on building large personal knowledge bases | legacyPackages.x86_64-linux.trilium-next-desktop |
-| trilium-next-server | 0.97.1 | Hierarchical note taking application with focus on building large personal knowledge bases | legacyPackages.x86_64-linux.trilium-next-server |
+| trilium-next-desktop | 0.97.2 | Hierarchical note taking application with focus on building large personal knowledge bases | legacyPackages.x86_64-linux.trilium-next-desktop |
+| trilium-next-server | 0.97.2 | Hierarchical note taking application with focus on building large personal knowledge bases | legacyPackages.x86_64-linux.trilium-next-server |
 | trilium-server | 0.63.6 | Hierarchical note taking application with focus on building large personal knowledge bases | legacyPackages.x86_64-linux.trilium-server |
 | trillian | 1.7.2 | Transparent, highly scalable and cryptographically verifiable data store | legacyPackages.x86_64-linux.trillian |
 | trillian-im | 6.3.0.1 | Modern instant messaging for home and work that prioritizes chat interoperability and security | legacyPackages.x86_64-linux.trillian-im |
@@ -76916,8 +76949,6 @@
 | tsme-test | 6.12.41-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages-libre.tsme-test |
 | tsme-test | 6.12.41-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages.tsme-test |
 | tsme-test | 6.12.41-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_xanmod.tsme-test |
-| tsme-test | 6.15.8-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tsme-test |
-| tsme-test | 6.15.8-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_zen.tsme-test |
 | tsme-test | 6.15.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tsme-test |
 | tsme-test | 6.15.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tsme-test |
 | tsme-test | 6.15.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tsme-test |
@@ -76927,8 +76958,10 @@
 | tsme-test | 6.15.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tsme-test |
 | tsme-test | 6.16-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.tsme-test |
 | tsme-test | 6.16-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.tsme-test |
+| tsme-test | 6.16-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tsme-test |
 | tsme-test | 6.16-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_latest-libre.tsme-test |
 | tsme-test | 6.16-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_latest.tsme-test |
+| tsme-test | 6.16-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_zen.tsme-test |
 | tsme-test | 6.6.101-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tsme-test |
 | tsme-test | 6.6.94-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.tsme-test |
 | tsme-test | 6.6.94-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.tsme-test |
@@ -77083,8 +77116,6 @@
 | turbostat | 6.12.41 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages-libre.turbostat |
 | turbostat | 6.12.41 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages.turbostat |
 | turbostat | 6.12.41 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_xanmod.turbostat |
-| turbostat | 6.15.8 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.turbostat |
-| turbostat | 6.15.8 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_zen.turbostat |
 | turbostat | 6.15.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.turbostat |
 | turbostat | 6.15.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.turbostat |
 | turbostat | 6.15.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.turbostat |
@@ -77094,8 +77125,10 @@
 | turbostat | 6.15.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.turbostat |
 | turbostat | 6.16 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.turbostat |
 | turbostat | 6.16 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.turbostat |
+| turbostat | 6.16 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.turbostat |
 | turbostat | 6.16 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_latest-libre.turbostat |
 | turbostat | 6.16 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_latest.turbostat |
+| turbostat | 6.16 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_zen.turbostat |
 | turbostat | 6.6.101 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.turbostat |
 | turbostat | 6.6.94 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.turbostat |
 | turbostat | 6.6.94 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.turbostat |
@@ -77164,10 +77197,6 @@
 | tuxedo-drivers | 6.12.41-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages.tuxedo-keyboard |
 | tuxedo-drivers | 6.12.41-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod.tuxedo-drivers |
 | tuxedo-drivers | 6.12.41-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod.tuxedo-keyboard |
-| tuxedo-drivers | 6.15.8-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-drivers |
-| tuxedo-drivers | 6.15.8-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-keyboard |
-| tuxedo-drivers | 6.15.8-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-drivers |
-| tuxedo-drivers | 6.15.8-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.15.9-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tuxedo-drivers |
 | tuxedo-drivers | 6.15.9-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tuxedo-keyboard |
 | tuxedo-drivers | 6.15.9-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tuxedo-drivers |
@@ -77186,10 +77215,14 @@
 | tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.tuxedo-keyboard |
 | tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.tuxedo-drivers |
 | tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.tuxedo-keyboard |
+| tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-drivers |
+| tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest-libre.tuxedo-drivers |
 | tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest-libre.tuxedo-keyboard |
 | tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest.tuxedo-drivers |
 | tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest.tuxedo-keyboard |
+| tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-drivers |
+| tuxedo-drivers | 6.16-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.6.101-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tuxedo-drivers |
 | tuxedo-drivers | 6.6.101-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tuxedo-keyboard |
 | tuxedo-drivers | 6.6.94-4.14.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.tuxedo-drivers |
@@ -77266,7 +77299,7 @@
 | typer | 0-unstable-2023-02-08 | Typing test in your terminal | legacyPackages.x86_64-linux.typer |
 | typescript | 5.9.2 | Superset of JavaScript that compiles to clean JavaScript output | legacyPackages.x86_64-linux.typescript |
 | typescript-go | 0-unstable-2025-08-01 | Go implementation of TypeScript | legacyPackages.x86_64-linux.typescript-go |
-| typescript-language-server | 4.3.4 | Language Server Protocol implementation for TypeScript using tsserver | legacyPackages.x86_64-linux.typescript-language-server |
+| typescript-language-server | 4.4.0 | Language Server Protocol implementation for TypeScript using tsserver | legacyPackages.x86_64-linux.typescript-language-server |
 | typesense | 29.0 | Typesense is a fast, typo-tolerant search engine for building delightful search experiences | legacyPackages.x86_64-linux.typesense |
 | typeshare | 1.13.3 | Command Line Tool for generating language files with typeshare | legacyPackages.x86_64-linux.typeshare |
 | typespec | 1.1.0 | Language for defining cloud service APIs and shapes | legacyPackages.x86_64-linux.typespec |
@@ -80701,8 +80734,8 @@
 | usbip-linux-xanmod | 6.15.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.usbip |
 | usbip-linux-xanmod | 6.15.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.usbip |
 | usbip-linux-xanmod | 6.15.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.usbip |
-| usbip-linux-zen | 6.15.8 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.usbip |
-| usbip-linux-zen | 6.15.8 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_zen.usbip |
+| usbip-linux-zen | 6.16 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.usbip |
+| usbip-linux-zen | 6.16 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_zen.usbip |
 | usbip-ssh | 0-unstable-2024-10-09 | Import usb devices from another linux machine with ssh's connection forwarding mechanism | legacyPackages.x86_64-linux.usbip-ssh |
 | usbkvm | 0.3.0 | Open-source USB KVM (Keyboard, Video and Mouse) adapter | legacyPackages.x86_64-linux.usbkvm |
 | usbmuxd | 1.1.1+date=2023-05-05 | Socket daemon to multiplex connections from and to iOS devices | legacyPackages.x86_64-linux.usbmuxd |
@@ -80831,8 +80864,6 @@
 | v4l2loopback | 0.15.1-6.12.41 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages-libre.v4l2loopback |
 | v4l2loopback | 0.15.1-6.12.41 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages.v4l2loopback |
 | v4l2loopback | 0.15.1-6.12.41 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_xanmod.v4l2loopback |
-| v4l2loopback | 0.15.1-6.15.8 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v4l2loopback |
-| v4l2loopback | 0.15.1-6.15.8 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_zen.v4l2loopback |
 | v4l2loopback | 0.15.1-6.15.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.v4l2loopback |
 | v4l2loopback | 0.15.1-6.15.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v4l2loopback |
 | v4l2loopback | 0.15.1-6.15.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.v4l2loopback |
@@ -80842,8 +80873,10 @@
 | v4l2loopback | 0.15.1-6.15.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.v4l2loopback |
 | v4l2loopback | 0.15.1-6.16 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.v4l2loopback |
 | v4l2loopback | 0.15.1-6.16 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.v4l2loopback |
+| v4l2loopback | 0.15.1-6.16 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v4l2loopback |
 | v4l2loopback | 0.15.1-6.16 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_latest-libre.v4l2loopback |
 | v4l2loopback | 0.15.1-6.16 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_latest.v4l2loopback |
+| v4l2loopback | 0.15.1-6.16 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_zen.v4l2loopback |
 | v4l2loopback | 0.15.1-6.6.101 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.v4l2loopback |
 | v4l2loopback | 0.15.1-6.6.94 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.v4l2loopback |
 | v4l2loopback | 0.15.1-6.6.94 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.v4l2loopback |
@@ -80869,8 +80902,6 @@
 | v86d | 0.1.10-6.12.41 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages-libre.v86d |
 | v86d | 0.1.10-6.12.41 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages.v86d |
 | v86d | 0.1.10-6.12.41 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_xanmod.v86d |
-| v86d | 0.1.10-6.15.8 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v86d |
-| v86d | 0.1.10-6.15.8 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_zen.v86d |
 | v86d | 0.1.10-6.15.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.v86d |
 | v86d | 0.1.10-6.15.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v86d |
 | v86d | 0.1.10-6.15.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.v86d |
@@ -80880,13 +80911,15 @@
 | v86d | 0.1.10-6.15.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.v86d |
 | v86d | 0.1.10-6.16 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.v86d |
 | v86d | 0.1.10-6.16 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.v86d |
+| v86d | 0.1.10-6.16 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v86d |
 | v86d | 0.1.10-6.16 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_latest-libre.v86d |
 | v86d | 0.1.10-6.16 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_latest.v86d |
+| v86d | 0.1.10-6.16 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_zen.v86d |
 | v86d | 0.1.10-6.6.101 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.v86d |
 | v86d | 0.1.10-6.6.94 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.v86d |
 | v86d | 0.1.10-6.6.94 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.v86d |
 | vacuum-card | 2.11.0 | Vacuum cleaner card for Home Assistant Lovelace UI | legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.vacuum-card |
-| vacuum-go | 0.17.7 | World's fastest OpenAPI & Swagger linter | legacyPackages.x86_64-linux.vacuum-go |
+| vacuum-go | 0.17.8 | World's fastest OpenAPI & Swagger linter | legacyPackages.x86_64-linux.vacuum-go |
 | vacuum-im-unstable | 2021-12-09 | XMPP client fully composed of plugins | legacyPackages.x86_64-linux.vacuum |
 | vagrant | 2.4.3 | Tool for building complete development environments | legacyPackages.x86_64-linux.vagrant |
 | vak | 23431 | BibTeX style for Russian Theses, books, etc | legacyPackages.x86_64-linux.texlivePackages.vak |
@@ -81068,7 +81101,7 @@
 | veikk-linux-driver-gui | 2.0 | Configuration tool for the VEIKK Linux driver | legacyPackages.x86_64-linux.veikk-linux-driver-gui |
 | veilid | 0.4.8 | Open-source, peer-to-peer, mobile-first, networked application framework | legacyPackages.x86_64-linux.veilid |
 | velero | 1.16.2 | Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes | legacyPackages.x86_64-linux.velero |
-| velocity | 3.4.0-unstable-2025-06-11 | Modern, next-generation Minecraft server proxy | legacyPackages.x86_64-linux.velocity |
+| velocity | 3.4.0-unstable-2025-08-02 | Modern, next-generation Minecraft server proxy | legacyPackages.x86_64-linux.velocity |
 | veloren | 0.17.0 | Open world, open source voxel RPG | legacyPackages.x86_64-linux.veloren |
 | velthuis | 2.17.1 | Typeset Devanagari | legacyPackages.x86_64-linux.texlivePackages.velthuis |
 | vencord | 1.12.9 | Vencord web extension | legacyPackages.x86_64-linux.vencord |
@@ -81096,8 +81129,6 @@
 | vendor-reset-unstable | 2024-04-16-6.12.41 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages-libre.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.12.41 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.12.41 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_xanmod.vendor-reset |
-| vendor-reset-unstable | 2024-04-16-6.15.8 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vendor-reset |
-| vendor-reset-unstable | 2024-04-16-6.15.8 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.15.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.15.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.15.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.vendor-reset |
@@ -81107,8 +81138,10 @@
 | vendor-reset-unstable | 2024-04-16-6.15.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.16 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.16 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.vendor-reset |
+| vendor-reset-unstable | 2024-04-16-6.16 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.16 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.16 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_latest.vendor-reset |
+| vendor-reset-unstable | 2024-04-16-6.16 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.6.101 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.6.94 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.6.94 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.vendor-reset |
@@ -81123,7 +81156,7 @@
 | ventoy | 1.1.05 | New Bootable USB Solution | legacyPackages.x86_64-linux.ventoy-full |
 | ventoy-gtk3 | 1.1.05 | New Bootable USB Solution with GUI support | legacyPackages.x86_64-linux.ventoy-full-gtk |
 | ventoy-qt5 | 1.1.05 | New Bootable USB Solution with GUI support | legacyPackages.x86_64-linux.ventoy-full-qt |
-| ventura-psychrometric-panel | 5.0.1 | Grafana plugin to display air conditions on a psychrometric chart | legacyPackages.x86_64-linux.grafanaPlugins.ventura-psychrometric-panel |
+| ventura-psychrometric-panel | 5.0.2 | Grafana plugin to display air conditions on a psychrometric chart | legacyPackages.x86_64-linux.grafanaPlugins.ventura-psychrometric-panel |
 | venturisadf | 2.0 | Venturis ADF fonts collection | legacyPackages.x86_64-linux.texlivePackages.venturisadf |
 | venv-shell-hook |  |  | legacyPackages.x86_64-linux.python312Packages.venvShellHook |
 | venv-shell-hook |  |  | legacyPackages.x86_64-linux.python313Packages.venvShellHook |
@@ -83514,6 +83547,7 @@
 | vimplugin-wombat256.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.wombat256 |
 | vimplugin-wombat256.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.wombat256-vim |
 | vimplugin-workflowish | 2015-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.workflowish |
+| vimplugin-workspaces.nvim | 2024-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.workspaces-nvim |
 | vimplugin-wrapping.nvim | 2025-01-16 |  | legacyPackages.x86_64-linux.vimPlugins.wrapping-nvim |
 | vimplugin-wstrip.vim | 2021-03-14 |  | legacyPackages.x86_64-linux.vimPlugins.wstrip-vim |
 | vimplugin-wtf.nvim | 2025-08-03 |  | legacyPackages.x86_64-linux.vimPlugins.wtf-nvim |
@@ -83600,7 +83634,7 @@
 | virtio_vmmci |  | OpenBSD VMM Control Interface (vmmci) for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtio_vmmci |
 | virtio_vmmci |  | OpenBSD VMM Control Interface (vmmci) for Linux | legacyPackages.x86_64-linux.linuxPackages_zen.virtio_vmmci |
 | virtiofsd | 1.13.2 | vhost-user virtio-fs device backend written in Rust | legacyPackages.x86_64-linux.virtiofsd |
-| virtnbdbackup | 2.32 | Backup utility for Libvirt/qemu/kvm | legacyPackages.x86_64-linux.virtnbdbackup |
+| virtnbdbackup | 2.34 | Backup utility for Libvirt/qemu/kvm | legacyPackages.x86_64-linux.virtnbdbackup |
 | virtual-ans | 3.0.3 | Photoelectronic microtonal/spectral musical instrument | legacyPackages.x86_64-linux.virtual-ans |
 | virtualbox | 7.1.12 | PC emulator | legacyPackages.x86_64-linux.virtualbox |
 | virtualbox | 7.1.12 | PC emulator | legacyPackages.x86_64-linux.virtualboxHardened |
@@ -83629,8 +83663,6 @@
 | virtualbox-modules | 7.1.12-6.12.41 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages-libre.virtualbox |
 | virtualbox-modules | 7.1.12-6.12.41 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages.virtualbox |
 | virtualbox-modules | 7.1.12-6.12.41 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_xanmod.virtualbox |
-| virtualbox-modules | 7.1.12-6.15.8 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox |
-| virtualbox-modules | 7.1.12-6.15.8 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox |
 | virtualbox-modules | 7.1.12-6.15.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.virtualbox |
 | virtualbox-modules | 7.1.12-6.15.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualbox |
 | virtualbox-modules | 7.1.12-6.15.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.virtualbox |
@@ -83640,8 +83672,10 @@
 | virtualbox-modules | 7.1.12-6.15.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualbox |
 | virtualbox-modules | 7.1.12-6.16 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.virtualbox |
 | virtualbox-modules | 7.1.12-6.16 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.virtualbox |
+| virtualbox-modules | 7.1.12-6.16 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox |
 | virtualbox-modules | 7.1.12-6.16 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_latest-libre.virtualbox |
 | virtualbox-modules | 7.1.12-6.16 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_latest.virtualbox |
+| virtualbox-modules | 7.1.12-6.16 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox |
 | virtualbox-modules | 7.1.12-6.6.101 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualbox |
 | virtualbox-modules | 7.1.12-6.6.94 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.virtualbox |
 | virtualbox-modules | 7.1.12-6.6.94 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.virtualbox |
@@ -83783,8 +83817,6 @@
 | vmware-modules-workstation | 17.6.3-20250608-6.12.41 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages-libre.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.12.41 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.12.41 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_xanmod.vmware |
-| vmware-modules-workstation | 17.6.3-20250608-6.15.8 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware |
-| vmware-modules-workstation | 17.6.3-20250608-6.15.8 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.15.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.15.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.15.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.vmware |
@@ -83794,8 +83826,10 @@
 | vmware-modules-workstation | 17.6.3-20250608-6.15.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.16 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.16 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.vmware |
+| vmware-modules-workstation | 17.6.3-20250608-6.16 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.16 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_latest-libre.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.16 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_latest.vmware |
+| vmware-modules-workstation | 17.6.3-20250608-6.16 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.6.101 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.6.94 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.vmware |
 | vmware-modules-workstation | 17.6.3-20250608-6.6.94 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.vmware |
@@ -83829,7 +83863,7 @@
 | volkovlabs-echarts-panel | 7.0.0 | Visualization panel for Grafana that allows you to incorporate the popular Apache ECharts library into your Grafana dashboard | legacyPackages.x86_64-linux.grafanaPlugins.volkovlabs-echarts-panel |
 | volkovlabs-form-panel | 6.0.0 | Plugin that allows inserting and updating application data, as well as modifying configuration directly from your Grafana dashboard | legacyPackages.x86_64-linux.grafanaPlugins.volkovlabs-form-panel |
 | volkovlabs-rss-datasource | 4.4.0 | Plugin for Grafana that retrieves RSS/Atom feeds and allows visualizing them using Dynamic Text and other panels | legacyPackages.x86_64-linux.grafanaPlugins.volkovlabs-rss-datasource |
-| volkovlabs-variable-panel | 4.0.0 | Variable panel allows you to have dashboard filters in a separate panel which you can place anywhere on the dashboard | legacyPackages.x86_64-linux.grafanaPlugins.volkovlabs-variable-panel |
+| volkovlabs-variable-panel | 4.1.0 | Variable panel allows you to have dashboard filters in a separate panel which you can place anywhere on the dashboard | legacyPackages.x86_64-linux.grafanaPlugins.volkovlabs-variable-panel |
 | vollkorn | 4.105 | Free and healthy typeface for bread and butter use | legacyPackages.x86_64-linux.vollkorn |
 | volta | 2.0.2 | Hassle-Free JavaScript Tool Manager | legacyPackages.x86_64-linux.volta |
 | volume_key | 0.3.11 | Library for manipulating storage volume encryption keys and storing them separately from volumes to handle forgotten passphrases, and the associated command-line tool | legacyPackages.x86_64-linux.volume_key |
@@ -83886,12 +83920,12 @@
 | vscode-extension-Cameron-vscode-pytest | 0.1.1 | Visual Studio Code extension that adds IntelliSense support for pytest fixtures | legacyPackages.x86_64-linux.vscode-extensions.cameron.vscode-pytest |
 | vscode-extension-Continue-continue | 1.1.49 | Open-source autopilot for software development - bring the power of ChatGPT to your IDE | legacyPackages.x86_64-linux.vscode-extensions.continue.continue |
 | vscode-extension-DanielGavin-ols | 0.1.38 | Visual Studio Code extension for Odin language | legacyPackages.x86_64-linux.vscode-extensions.danielgavin.ols |
-| vscode-extension-DanielSanMedium-dscodegpt | 3.13.40 | Easily connect to AI providers using their official APIs in VSCode | legacyPackages.x86_64-linux.vscode-extensions.danielsanmedium.dscodegpt |
+| vscode-extension-DanielSanMedium-dscodegpt | 3.14.3 | Easily connect to AI providers using their official APIs in VSCode | legacyPackages.x86_64-linux.vscode-extensions.danielsanmedium.dscodegpt |
 | vscode-extension-DavidAnson-vscode-markdownlint | 0.60.0 | Markdown linting and style checking for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.davidanson.vscode-markdownlint |
 | vscode-extension-DivyanshuAgrawal-competitive-programming-helper | 2025.7.1752155836 | Makes judging, compiling, and downloading problems for competitve programming easy. Also supports auto-submit for a few sites | legacyPackages.x86_64-linux.vscode-extensions.divyanshuagrawal.competitive-programming-helper |
 | vscode-extension-Elmtooling-elm-ls-vscode | 2.8.0 | Elm language server | legacyPackages.x86_64-linux.vscode-extensions.elmtooling.elm-ls-vscode |
 | vscode-extension-ExiaHuang-dictionary | 0.0.2 | Visual Studio Code extension of using chinese-english dictonary in right-click menu | legacyPackages.x86_64-linux.vscode-extensions.ExiaHuang.dictionary |
-| vscode-extension-FStarLang-fstar-vscode-assistant | 0.18.1 | Interactive editing mode VS Code extension for F* | legacyPackages.x86_64-linux.vscode-extensions.fstarlang.fstar-vscode-assistant |
+| vscode-extension-FStarLang-fstar-vscode-assistant | 0.19.1 | Interactive editing mode VS Code extension for F* | legacyPackages.x86_64-linux.vscode-extensions.fstarlang.fstar-vscode-assistant |
 | vscode-extension-GraphQL-vscode-graphql | 0.13.2 | GraphQL extension for VSCode built with the aim to tightly integrate the GraphQL Ecosystem with VSCode for an awesome developer experience | legacyPackages.x86_64-linux.vscode-extensions.graphql.vscode-graphql |
 | vscode-extension-GraphQL-vscode-graphql-syntax | 1.3.8 | Adds full GraphQL syntax highlighting and language support such as bracket matching | legacyPackages.x86_64-linux.vscode-extensions.graphql.vscode-graphql-syntax |
 | vscode-extension-Gruntfuggly-todo-tree | 0.0.226 |  | legacyPackages.x86_64-linux.vscode-extensions.gruntfuggly.todo-tree |
@@ -83923,7 +83957,7 @@
 | vscode-extension-PollywogGames-pico8-ls | 0.5.7 | VSCode extension for full language support for the PICO-8 dialect of Lua | legacyPackages.x86_64-linux.vscode-extensions.pollywoggames.pico8-ls |
 | vscode-extension-Prisma-prisma | 6.13.0 | VSCode extension for syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files | legacyPackages.x86_64-linux.vscode-extensions.prisma.prisma |
 | vscode-extension-PythagoraTechnologies-gpt-pilot-vs-code | 0.2.32 | VSCode extension for assisting the developer to code, debug, build applications using LLMs/AI | legacyPackages.x86_64-linux.vscode-extensions.pythagoratechnologies.gpt-pilot-vs-code |
-| vscode-extension-RooVeterinaryInc-roo-cline | 3.25.4 | AI-powered autonomous coding agent that lives in your editor | legacyPackages.x86_64-linux.vscode-extensions.rooveterinaryinc.roo-cline |
+| vscode-extension-RooVeterinaryInc-roo-cline | 3.25.10 | AI-powered autonomous coding agent that lives in your editor | legacyPackages.x86_64-linux.vscode-extensions.rooveterinaryinc.roo-cline |
 | vscode-extension-RoweWilsonFrederiskHolme-wikitext | 4.0.2 | Extension that helps users view and write MediaWiki's Wikitext files | legacyPackages.x86_64-linux.vscode-extensions.RoweWilsonFrederiskHolme.wikitext |
 | vscode-extension-Rubymaniac-vscode-paste-and-indent | 0.0.8 |  | legacyPackages.x86_64-linux.vscode-extensions.rubymaniac.vscode-paste-and-indent |
 | vscode-extension-SAS-sas-lsp | 1.16.0 | Official SAS Language Extension | legacyPackages.x86_64-linux.vscode-extensions.sas.sas-lsp |
@@ -83935,9 +83969,9 @@
 | vscode-extension-VisualStudioExptTeam-intellicode-api-usage-examples | 0.2.9 | See relevant code examples from GitHub for over 100K different APIs right in your editor | legacyPackages.x86_64-linux.vscode-extensions.visualstudioexptteam.intellicode-api-usage-examples |
 | vscode-extension-VisualStudioExptTeam-vscodeintellicode | 1.3.2 | AI-assisted development | legacyPackages.x86_64-linux.vscode-extensions.visualstudioexptteam.vscodeintellicode |
 | vscode-extension-VisualStudioToolsForUnity-vstuc | 1.1.2 | Integrates Visual Studio Code for Unity | legacyPackages.x86_64-linux.vscode-extensions.visualstudiotoolsforunity.vstuc |
-| vscode-extension-Vue-volar | 3.0.4 | Official Vue VSCode extension | legacyPackages.x86_64-linux.vscode-extensions.vue.volar |
+| vscode-extension-Vue-volar | 3.0.5 | Official Vue VSCode extension | legacyPackages.x86_64-linux.vscode-extensions.vue.volar |
 | vscode-extension-Vue-vscode-typescript-vue-plugin | 1.8.27 | Vue VSCode extension for TypeScript | legacyPackages.x86_64-linux.vscode-extensions.vue.vscode-typescript-vue-plugin |
-| vscode-extension-WakaTime-vscode-wakatime | 25.2.2 | Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity  | legacyPackages.x86_64-linux.vscode-extensions.wakatime.vscode-wakatime |
+| vscode-extension-WakaTime-vscode-wakatime | 25.3.0 | Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity  | legacyPackages.x86_64-linux.vscode-extensions.wakatime.vscode-wakatime |
 | vscode-extension-ZainChen-json | 2.0.2 | Visual Studio Code extension for JSON support | legacyPackages.x86_64-linux.vscode-extensions.zainchen.json |
 | vscode-extension-a5huynh-vscode-ron | 0.11.0 |  | legacyPackages.x86_64-linux.vscode-extensions.a5huynh.vscode-ron |
 | vscode-extension-aaron-bond-better-comments | 3.0.2 | Improve your code commenting by annotating with alert, informational, TODOs, and more | legacyPackages.x86_64-linux.vscode-extensions.aaron-bond.better-comments |
@@ -83965,8 +83999,8 @@
 | vscode-extension-azdavis-Millet | 0.14.9 | Standard ML support for VS Code | legacyPackages.x86_64-linux.vscode-extensions.azdavis.millet |
 | vscode-extension-baccata-scaladex-search | 0.3.5 |  | legacyPackages.x86_64-linux.vscode-extensions.baccata.scaladex-search |
 | vscode-extension-badochov-ocaml-formatter | 2.0.5 | VSCode Extension Formatter for OCaml language | legacyPackages.x86_64-linux.vscode-extensions.badochov.ocaml-formatter |
-| vscode-extension-ban-spellright | 3.0.144 | Visual Studio Code extension for Spellchecker | legacyPackages.x86_64-linux.vscode-extensions.ban.spellright |
-| vscode-extension-banacorn-agda-mode | 0.6.2 | agda-mode on VS Code | legacyPackages.x86_64-linux.vscode-extensions.banacorn.agda-mode |
+| vscode-extension-ban-spellright | 3.0.146 | Visual Studio Code extension for Spellchecker | legacyPackages.x86_64-linux.vscode-extensions.ban.spellright |
+| vscode-extension-banacorn-agda-mode | 0.6.3 | agda-mode on VS Code | legacyPackages.x86_64-linux.vscode-extensions.banacorn.agda-mode |
 | vscode-extension-batisteo-vscode-django | 1.15.0 | Django extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.batisteo.vscode-django |
 | vscode-extension-bazelbuild-vscode-bazel | 0.12.0 | Bazel support for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.bazelbuild.vscode-bazel |
 | vscode-extension-bbenoist-Nix | 1.0.1 |  | legacyPackages.x86_64-linux.vscode-extensions.bbenoist.nix |
@@ -83988,7 +84022,7 @@
 | vscode-extension-bodil-blueprint-gtk | 0.2.0 | Gtk Blueprint language support | legacyPackages.x86_64-linux.vscode-extensions.bodil.blueprint-gtk |
 | vscode-extension-bodil-file-browser | 0.2.11 |  | legacyPackages.x86_64-linux.vscode-extensions.bodil.file-browser |
 | vscode-extension-bradgashler-htmltagwrap | 1.0.0 | VSCode extension for wrapping a text selection in HTML tags | legacyPackages.x86_64-linux.vscode-extensions.bradgashler.htmltagwrap |
-| vscode-extension-bradlc-vscode-tailwindcss | 0.14.25 | Tailwind CSS tooling for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.bradlc.vscode-tailwindcss |
+| vscode-extension-bradlc-vscode-tailwindcss | 0.14.26 | Tailwind CSS tooling for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.bradlc.vscode-tailwindcss |
 | vscode-extension-brettm12345-nixfmt-vscode | 0.0.1 |  | legacyPackages.x86_64-linux.vscode-extensions.brettm12345.nixfmt-vscode |
 | vscode-extension-budparr-language-hugo-vscode | 1.3.1 | Adds syntax highlighting and snippets to Hugo files in VS Code | legacyPackages.x86_64-linux.vscode-extensions.budparr.language-hugo-vscode |
 | vscode-extension-bungcip-better-toml | 0.3.2 | Better TOML Language support | legacyPackages.x86_64-linux.vscode-extensions.bungcip.better-toml |
@@ -84018,7 +84052,7 @@
 | vscode-extension-dart-code-flutter | 3.116.0 |  | legacyPackages.x86_64-linux.vscode-extensions.dart-code.flutter |
 | vscode-extension-databricks-databricks | 2.10.2 | Databricks extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.databricks.databricks |
 | vscode-extension-davidlday-languagetool-linter | 0.25.1 | LanguageTool integration for VS Code | legacyPackages.x86_64-linux.vscode-extensions.davidlday.languagetool-linter |
-| vscode-extension-dbaeumer-vscode-eslint | 3.0.15 | Integrates ESLint JavaScript into VS Code | legacyPackages.x86_64-linux.vscode-extensions.dbaeumer.vscode-eslint |
+| vscode-extension-dbaeumer-vscode-eslint | 3.0.16 | Integrates ESLint JavaScript into VS Code | legacyPackages.x86_64-linux.vscode-extensions.dbaeumer.vscode-eslint |
 | vscode-extension-dendron-adjust-heading-level | 0.1.0 | VSCode extension to adjust the heading level of the selected text | legacyPackages.x86_64-linux.vscode-extensions.dendron.adjust-heading-level |
 | vscode-extension-dendron-dendron | 0.124.0 | Personal knowledge management (PKM) tool that grows as you do | legacyPackages.x86_64-linux.vscode-extensions.dendron.dendron |
 | vscode-extension-dendron-dendron-markdown-preview-enhanced | 0.10.57 | SUPER POWERFUL markdown extension for Visual Studio Code to bring you a wonderful markdown writing experience | legacyPackages.x86_64-linux.vscode-extensions.dendron.dendron-markdown-preview-enhanced |
@@ -84147,12 +84181,12 @@
 | vscode-extension-mkhl-direnv | 0.17.0 | direnv support for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.mkhl.direnv |
 | vscode-extension-mkhl-shfmt | 1.3.1 | Extension uses shfmt to provide a formatter for shell script documents | legacyPackages.x86_64-linux.vscode-extensions.mkhl.shfmt |
 | vscode-extension-mongodb-mongodb-vscode | 1.13.3 | Extension for VS Code that makes it easy to work with your data in MongoDB | legacyPackages.x86_64-linux.vscode-extensions.mongodb.mongodb-vscode |
-| vscode-extension-moshfeu-compare-folders | 0.25.1 | Extension allows you to compare folders, show the diffs in a list and present diff in a splitted view side by side | legacyPackages.x86_64-linux.vscode-extensions.moshfeu.compare-folders |
+| vscode-extension-moshfeu-compare-folders | 0.25.3 | Extension allows you to compare folders, show the diffs in a list and present diff in a splitted view side by side | legacyPackages.x86_64-linux.vscode-extensions.moshfeu.compare-folders |
 | vscode-extension-ms-azuretools-vscode-bicep | 0.36.1 | Visual Studio Code extension for Bicep language | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-bicep |
 | vscode-extension-ms-azuretools-vscode-containers | 2.1.0 | Container Tools Extension for Visual Studio Code  | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-containers |
 | vscode-extension-ms-azuretools-vscode-docker | 2.0.0 | Docker Extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-docker |
-| vscode-extension-ms-dotnettools-csdevkit | 1.30.44 | Official Visual Studio Code extension for C# from Microsoft | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.csdevkit |
-| vscode-extension-ms-dotnettools-csharp | 2.84.19 | Official C# support for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.csharp |
+| vscode-extension-ms-dotnettools-csdevkit | 1.41.11 | Official Visual Studio Code extension for C# from Microsoft | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.csdevkit |
+| vscode-extension-ms-dotnettools-csharp | 2.87.31 | Official C# support for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.csharp |
 | vscode-extension-ms-dotnettools-vscode-dotnet-runtime | 2.3.7 | Provides a way for other Visual Studio Code extensions to install local versions of .NET SDK/Runtime | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.vscode-dotnet-runtime |
 | vscode-extension-ms-dotnettools-vscodeintellicode-csharp | 2.2.3 | AI-assisted development features for C# in Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.vscodeintellicode-csharp |
 | vscode-extension-ms-kubernetes-tools-vscode-kubernetes-tools | 1.3.25 |  | legacyPackages.x86_64-linux.vscode-extensions.ms-kubernetes-tools.vscode-kubernetes-tools |
@@ -84775,7 +84809,7 @@
 | wikit | 4.4-unstable-2022-10-17 | Command line program for getting Wikipedia summaries | legacyPackages.x86_64-linux.wikit |
 | wildcard | 0.3.3 | Test your regular expressions | legacyPackages.x86_64-linux.wildcard |
 | wildmidi | 0.4.6 | Software MIDI player and library | legacyPackages.x86_64-linux.wildmidi |
-| wiliwili | 1.5.1 | Third-party Bilibili client with a switch-like UI | legacyPackages.x86_64-linux.wiliwili |
+| wiliwili | 1.5.2 | Third-party Bilibili client with a switch-like UI | legacyPackages.x86_64-linux.wiliwili |
 | williams | 15878 | Miscellaneous macros by Peter Williams | legacyPackages.x86_64-linux.texlivePackages.williams |
 | willowtreebook | 1.03 | Easy basic book class, built on memoir | legacyPackages.x86_64-linux.texlivePackages.willowtreebook |
 | wily | 0.13.42 | Emulation of ACME | legacyPackages.x86_64-linux.wily |
@@ -85084,7 +85118,7 @@
 | workcraft | 3.5.3 | Framework for interpreted graph modeling, verification and synthesis | legacyPackages.x86_64-linux.workcraft |
 | worker | 5.2.2 | Advanced orthodox file manager | legacyPackages.x86_64-linux.worker |
 | worker-build | 0.6.1 | Tool to be used as a custom build command for a Cloudflare Workers `workers-rs` project | legacyPackages.x86_64-linux.worker-build |
-| workout-tracker | 2.4.0 | Workout tracking web application for personal use | legacyPackages.x86_64-linux.workout-tracker |
+| workout-tracker | 2.4.1 | Workout tracking web application for personal use | legacyPackages.x86_64-linux.workout-tracker |
 | workrave | 1.10.53 | Program to help prevent Repetitive Strain Injury | legacyPackages.x86_64-linux.workrave |
 | worksheet | 1.1 | Easy creation of worksheets | legacyPackages.x86_64-linux.texlivePackages.worksheet |
 | workshop-runner | 0.2.3 | CLI tool to drive test-driven Rust workshops | legacyPackages.x86_64-linux.workshop-runner |
@@ -85385,8 +85419,6 @@
 | x86_energy_perf_policy | 6.12.41 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages-libre.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.12.41 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.12.41 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_xanmod.x86_energy_perf_policy |
-| x86_energy_perf_policy | 6.15.8 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy |
-| x86_energy_perf_policy | 6.15.8 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.15.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.15.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.15.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.x86_energy_perf_policy |
@@ -85396,8 +85428,10 @@
 | x86_energy_perf_policy | 6.15.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.16 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.16 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.x86_energy_perf_policy |
+| x86_energy_perf_policy | 6.16 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.16 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_latest-libre.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.16 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_latest.x86_energy_perf_policy |
+| x86_energy_perf_policy | 6.16 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.6.101 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.6.94 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.6.94 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.x86_energy_perf_policy |
@@ -86699,8 +86733,6 @@
 | zfs-kernel | 2.2.8-6.12.41 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages-libre.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.12.41 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.12.41 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_2 |
-| zfs-kernel | 2.2.8-6.15.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_2 |
-| zfs-kernel | 2.2.8-6.15.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.15.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.15.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.15.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_2_2 |
@@ -86710,8 +86742,10 @@
 | zfs-kernel | 2.2.8-6.15.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_2_2 |
+| zfs-kernel | 2.2.8-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_2 |
+| zfs-kernel | 2.2.8-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.6.101 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.6.94 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.zfs_2_2 |
 | zfs-kernel | 2.2.8-6.6.94 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.zfs_2_2 |
@@ -86759,10 +86793,6 @@
 | zfs-kernel | 2.3.3-6.12.41 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages.zfs_unstable |
 | zfs-kernel | 2.3.3-6.12.41 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_3 |
 | zfs-kernel | 2.3.3-6.12.41 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_unstable |
-| zfs-kernel | 2.3.3-6.15.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3 |
-| zfs-kernel | 2.3.3-6.15.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable |
-| zfs-kernel | 2.3.3-6.15.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3 |
-| zfs-kernel | 2.3.3-6.15.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable |
 | zfs-kernel | 2.3.3-6.15.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_2_3 |
 | zfs-kernel | 2.3.3-6.15.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_unstable |
 | zfs-kernel | 2.3.3-6.15.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_3 |
@@ -86781,10 +86811,14 @@
 | zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.zfs_unstable |
 | zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_2_3 |
 | zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_unstable |
+| zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3 |
+| zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable |
 | zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_2_3 |
 | zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_unstable |
 | zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_3 |
 | zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.zfs_unstable |
+| zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3 |
+| zfs-kernel | 2.3.3-6.16 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable |
 | zfs-kernel | 2.3.3-6.6.101 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_3 |
 | zfs-kernel | 2.3.3-6.6.101 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_unstable |
 | zfs-kernel | 2.3.3-6.6.94 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.zfs_2_3 |
@@ -86899,7 +86933,7 @@
 | zookeeper | 3.9.3 | Apache Zookeeper | legacyPackages.x86_64-linux.zookeeper |
 | zookeeper_mt | 3.9.3 | Apache Zookeeper | legacyPackages.x86_64-linux.zookeeper_mt |
 | zoom | 1.1.5 | Player for Z-Code, TADS and HUGO stories or games | legacyPackages.x86_64-linux.zoom |
-| zoom | 6.5.7.3298 | zoom.us video conferencing application | legacyPackages.x86_64-linux.zoom-us |
+| zoom | 6.5.8.3527 | zoom.us video conferencing application | legacyPackages.x86_64-linux.zoom-us |
 | zootaxa-bst | 1.0 | A BibTeX style for the journal Zootaxa | legacyPackages.x86_64-linux.texlivePackages.zootaxa-bst |
 | zopfli | 1.0.3 | Very good, but slow, deflate or zlib compression | legacyPackages.x86_64-linux.zopfli |
 | zoraxy | 3.2.5r2 | General purpose HTTP reverse proxy and forwarding tool written in Go | legacyPackages.x86_64-linux.zoraxy |
