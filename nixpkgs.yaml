@@ -6249,7 +6249,7 @@ legacyPackages.x86_64-linux.angsd:
 legacyPackages.x86_64-linux.angular-language-server:
   description: LSP for angular completions, AOT diagnostic, quick info and go to definitions
   pname: angular-language-server
-  version: 20.1.1
+  version: 20.2.1
 legacyPackages.x86_64-linux.ani-cli:
   description: Cli tool to browse and play anime
   pname: ani-cli
@@ -15125,7 +15125,7 @@ legacyPackages.x86_64-linux.cargo-deadlinks:
 legacyPackages.x86_64-linux.cargo-deb:
   description: Cargo subcommand that generates Debian packages from information in Cargo.toml
   pname: cargo-deb
-  version: 3.4.0
+  version: 3.4.1
 legacyPackages.x86_64-linux.cargo-deny:
   description: Cargo plugin for linting your dependencies
   pname: cargo-deny
@@ -19469,11 +19469,11 @@ legacyPackages.x86_64-linux.chrome-token-signing:
 legacyPackages.x86_64-linux.chromedriver:
   description: WebDriver server for running Selenium tests on Chrome
   pname: chromedriver-unwrapped
-  version: 139.0.7258.66
+  version: 139.0.7258.127
 legacyPackages.x86_64-linux.chromium:
   description: Open source web browser from Google
   pname: chromium
-  version: 139.0.7258.66
+  version: 139.0.7258.127
 legacyPackages.x86_64-linux.chromium-bsu:
   description: Fast paced, arcade-style, top-scrolling space shooter
   pname: chromium-bsu
@@ -19633,7 +19633,7 @@ legacyPackages.x86_64-linux.cinnamon-translations:
 legacyPackages.x86_64-linux.cinny:
   description: Yet another Matrix client for the web
   pname: cinny-unwrapped
-  version: 4.8.1
+  version: 4.9.0
 legacyPackages.x86_64-linux.cinny-desktop:
   description: Yet another matrix client for desktop
   pname: cinny-desktop
@@ -19641,7 +19641,7 @@ legacyPackages.x86_64-linux.cinny-desktop:
 legacyPackages.x86_64-linux.cinny-unwrapped:
   description: Yet another Matrix client for the web
   pname: cinny-unwrapped
-  version: 4.8.1
+  version: 4.9.0
 legacyPackages.x86_64-linux.cinzel:
   description: Typeface inspired in First Century Roman Inscriptions
   pname: cinzel
@@ -20917,7 +20917,7 @@ legacyPackages.x86_64-linux.codeblocksFull:
 legacyPackages.x86_64-linux.codebook:
   description: Unholy spellchecker for code
   pname: codebook
-  version: 0.3.6
+  version: 0.3.8
 legacyPackages.x86_64-linux.codebraid:
   description: 'Live code in Pandoc Markdown.  Codebraid is a Python program that enables executable code in Pandoc Markdown documents. Using Codebraid can be as simple as adding a class to your code blocks'' attributes, and then running codebraid rather than pandoc to convert your document from Markdown to another format. codebraid supports almost all of pandoc''s options and passes them to pandoc internally.  Codebraid provides two options for executing code. It includes a built-in code execution system that currently supports Python 3.5+, Julia, Rust, R, Bash, and JavaScript. Code can also be executed using Jupyter kernels, with support for rich output like plots. '
   pname: codebraid
@@ -21069,7 +21069,7 @@ legacyPackages.x86_64-linux.colemak-dh:
 legacyPackages.x86_64-linux.colima:
   description: Container runtimes with minimal setup
   pname: colima
-  version: 0.8.1
+  version: 0.8.4
 legacyPackages.x86_64-linux.collabora-online:
   description: Collaborative online office suite based on LibreOffice technology
   pname: collabora-online
@@ -28249,7 +28249,7 @@ legacyPackages.x86_64-linux.dolfinx:
 legacyPackages.x86_64-linux.dolibarr:
   description: Enterprise resource planning (ERP) and customer relationship manager (CRM) server
   pname: dolibarr
-  version: 21.0.2
+  version: 22.0.0
 legacyPackages.x86_64-linux.dolphin-emu:
   description: Gamecube/Wii/Triforce emulator for x86_64 and ARMv8
   pname: dolphin-emu
@@ -34889,7 +34889,7 @@ legacyPackages.x86_64-linux.flexibee:
 legacyPackages.x86_64-linux.flexoptix-app:
   description: Configure FLEXOPTIX Universal Transceivers in seconds
   pname: flexoptix-app
-  version: 5.21.2-latest
+  version: 5.48.0-latest
 legacyPackages.x86_64-linux.flight-of-the-amazon-queen:
   description: 2D point-and-click adventure game set in the 1940s
   pname: flight-of-the-amazon-queen
@@ -35118,6 +35118,14 @@ legacyPackages.x86_64-linux.flutter332:
   description: Flutter is Google's SDK for building mobile, web and desktop with Dart
   pname: flutter-wrapped
   version: 3.32.8-sdk-links
+legacyPackages.x86_64-linux.flutter335:
+  description: Flutter is Google's SDK for building mobile, web and desktop with Dart
+  pname: flutter-wrapped
+  version: 3.35.0-0.3.pre-sdk-links
+legacyPackages.x86_64-linux.flutterPackages-bin.beta:
+  description: Flutter is Google's SDK for building mobile, web and desktop with Dart
+  pname: flutter-wrapped
+  version: 3.35.0-0.3.pre-sdk-links
 legacyPackages.x86_64-linux.flutterPackages-bin.stable:
   description: Flutter is Google's SDK for building mobile, web and desktop with Dart
   pname: flutter-wrapped
@@ -35138,6 +35146,14 @@ legacyPackages.x86_64-linux.flutterPackages-bin.v3_32:
   description: Flutter is Google's SDK for building mobile, web and desktop with Dart
   pname: flutter-wrapped
   version: 3.32.8-sdk-links
+legacyPackages.x86_64-linux.flutterPackages-bin.v3_35:
+  description: Flutter is Google's SDK for building mobile, web and desktop with Dart
+  pname: flutter-wrapped
+  version: 3.35.0-0.3.pre-sdk-links
+legacyPackages.x86_64-linux.flutterPackages-source.beta:
+  description: Flutter is Google's SDK for building mobile, web and desktop with Dart
+  pname: flutter-wrapped
+  version: 3.35.0-0.3.pre-sdk-links
 legacyPackages.x86_64-linux.flutterPackages-source.stable:
   description: Flutter is Google's SDK for building mobile, web and desktop with Dart
   pname: flutter-wrapped
@@ -35158,6 +35174,14 @@ legacyPackages.x86_64-linux.flutterPackages-source.v3_32:
   description: Flutter is Google's SDK for building mobile, web and desktop with Dart
   pname: flutter-wrapped
   version: 3.32.8-sdk-links
+legacyPackages.x86_64-linux.flutterPackages-source.v3_35:
+  description: Flutter is Google's SDK for building mobile, web and desktop with Dart
+  pname: flutter-wrapped
+  version: 3.35.0-0.3.pre-sdk-links
+legacyPackages.x86_64-linux.flutterPackages.beta:
+  description: Flutter is Google's SDK for building mobile, web and desktop with Dart
+  pname: flutter-wrapped
+  version: 3.35.0-0.3.pre-sdk-links
 legacyPackages.x86_64-linux.flutterPackages.stable:
   description: Flutter is Google's SDK for building mobile, web and desktop with Dart
   pname: flutter-wrapped
@@ -35178,6 +35202,10 @@ legacyPackages.x86_64-linux.flutterPackages.v3_32:
   description: Flutter is Google's SDK for building mobile, web and desktop with Dart
   pname: flutter-wrapped
   version: 3.32.8-sdk-links
+legacyPackages.x86_64-linux.flutterPackages.v3_35:
+  description: Flutter is Google's SDK for building mobile, web and desktop with Dart
+  pname: flutter-wrapped
+  version: 3.35.0-0.3.pre-sdk-links
 legacyPackages.x86_64-linux.flutter_rust_bridge_codegen:
   description: Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple
   pname: flutter_rust_bridge_codegen
@@ -35993,7 +36021,7 @@ legacyPackages.x86_64-linux.freetts:
 legacyPackages.x86_64-linux.freetube:
   description: Open Source YouTube app for privacy
   pname: freetube
-  version: 0.23.5
+  version: 0.23.6
 legacyPackages.x86_64-linux.freetype:
   description: Font rendering engine
   pname: freetype
@@ -44789,11 +44817,11 @@ legacyPackages.x86_64-linux.go_1_24:
 legacyPackages.x86_64-linux.go_1_25:
   description: Go Programming language
   pname: go
-  version: 1.25rc3
+  version: 1.25.0
 legacyPackages.x86_64-linux.go_latest:
   description: Go Programming language
   pname: go
-  version: 1.24.5
+  version: 1.25.0
 legacyPackages.x86_64-linux.goa:
   description: Design-based APIs and microservices in Go
   pname: goa
@@ -46329,7 +46357,7 @@ legacyPackages.x86_64-linux.grafanaPlugins.frser-sqlite-datasource:
 legacyPackages.x86_64-linux.grafanaPlugins.grafadruid-druid-datasource:
   description: Connects Grafana to Druid
   pname: grafadruid-druid-datasource
-  version: 1.4.1
+  version: 1.7.0
 legacyPackages.x86_64-linux.grafanaPlugins.grafana-clickhouse-datasource:
   description: Connects Grafana to ClickHouse
   pname: grafana-clickhouse-datasource
@@ -46357,7 +46385,7 @@ legacyPackages.x86_64-linux.grafanaPlugins.grafana-googlesheets-datasource:
 legacyPackages.x86_64-linux.grafanaPlugins.grafana-lokiexplore-app:
   description: Browse Loki logs without the need for writing complex queries
   pname: grafana-lokiexplore-app
-  version: 1.0.23
+  version: 1.0.25
 legacyPackages.x86_64-linux.grafanaPlugins.grafana-metricsdrilldown-app:
   description: Queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries
   pname: grafana-metricsdrilldown-app
@@ -48273,7 +48301,7 @@ legacyPackages.x86_64-linux.har-to-k6:
 legacyPackages.x86_64-linux.harbor-cli:
   description: Command-line tool facilitates seamless interaction with the Harbor container registry
   pname: harbor-cli
-  version: 0.0.8
+  version: 0.0.9
 legacyPackages.x86_64-linux.hardinfo2:
   description: System information and benchmarks for Linux systems
   pname: hardinfo2
@@ -49257,7 +49285,7 @@ legacyPackages.x86_64-linux.higan:
 legacyPackages.x86_64-linux.high-tide:
   description: Libadwaita TIDAL client for Linux
   pname: high-tide
-  version: 0.1.7
+  version: 0.1.8
 legacyPackages.x86_64-linux.highfive:
   description: Header-only C++ HDF5 interface
   pname: highfive
@@ -55041,7 +55069,7 @@ legacyPackages.x86_64-linux.hybridreverb2:
 legacyPackages.x86_64-linux.hydra:
   description: Nix-based continuous build system
   pname: hydra
-  version: 0-unstable-2025-08-05
+  version: 0-unstable-2025-08-12
 legacyPackages.x86_64-linux.hydra-check:
   description: Check hydra for the build status of a package
   pname: hydra-check
@@ -55057,7 +55085,7 @@ legacyPackages.x86_64-linux.hydraAntLogger:
 legacyPackages.x86_64-linux.hydra_unstable:
   description: Nix-based continuous build system
   pname: hydra
-  version: 0-unstable-2025-08-05
+  version: 0-unstable-2025-08-12
 legacyPackages.x86_64-linux.hydralauncher:
   description: Game launcher with its own embedded bittorrent client
   pname: hydralauncher
@@ -59693,7 +59721,7 @@ legacyPackages.x86_64-linux.jsonschema:
 legacyPackages.x86_64-linux.jsonschema-cli:
   description: Fast command-line tool for JSON Schema validation
   pname: jsonschema-cli
-  version: 0.32.0
+  version: 0.32.1
 legacyPackages.x86_64-linux.jsonwatch:
   description: Like watch -d but for JSON
   pname: jsonwatch
@@ -73305,7 +73333,7 @@ legacyPackages.x86_64-linux.linssid:
 legacyPackages.x86_64-linux.lint-staged:
   description: Run linters on git staged files
   pname: lint-staged
-  version: 16.1.3
+  version: 16.1.5
 legacyPackages.x86_64-linux.linthesia:
   description: Game of playing music using a MIDI keyboard following a MIDI file
   pname: linthesia-unstable
@@ -73313,7 +73341,7 @@ legacyPackages.x86_64-linux.linthesia:
 legacyPackages.x86_64-linux.lintspec:
   description: Blazingly fast linter for NatSpec comments in Solidity code
   pname: lintspec
-  version: 0.6.1
+  version: 0.6.2
 legacyPackages.x86_64-linux.linux:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
@@ -73913,7 +73941,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-5.10.240
+  version: 1.7.2-5.10.240
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -74141,7 +74169,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.10.240
+  version: 17.6.3-20250728-5.10.240
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -74561,7 +74589,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-5.10.238
+  version: 1.7.2-5.10.238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -74789,7 +74817,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.10.238
+  version: 17.6.3-20250728-5.10.238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -75209,7 +75237,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-5.15.189
+  version: 1.7.2-5.15.189
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -75437,7 +75465,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.15.189
+  version: 17.6.3-20250728-5.15.189
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -75857,7 +75885,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-5.15.185
+  version: 1.7.2-5.15.185
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -76085,7 +76113,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.15.185
+  version: 17.6.3-20250728-5.15.185
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -76733,7 +76761,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.4.296
+  version: 17.6.3-20250728-5.4.296
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.wireguard:
   description: Kernel module for the WireGuard secure network tunnel
   pname: wireguard
@@ -77385,7 +77413,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.4.294
+  version: 17.6.3-20250728-5.4.294
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.wireguard:
   description: Kernel module for the WireGuard secure network tunnel
   pname: wireguard
@@ -77809,7 +77837,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.1.147
+  version: 1.7.2-6.1.147
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -78033,7 +78061,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.1.147
+  version: 17.6.3-20250728-6.1.147
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -78453,7 +78481,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.41
+  version: 1.7.2-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -78681,7 +78709,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.41
+  version: 17.6.3-20250728-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -79101,7 +79129,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.34
+  version: 1.7.2-6.12.34
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -79329,7 +79357,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.34
+  version: 17.6.3-20250728-6.12.34
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -79749,7 +79777,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.15.9
+  version: 1.7.2-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -79977,7 +80005,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.15.9
+  version: 17.6.3-20250728-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -80397,7 +80425,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.16
+  version: 1.7.2-6.16
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -80625,7 +80653,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.16
+  version: 17.6.3-20250728-6.16
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -81045,7 +81073,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.1.141
+  version: 1.7.2-6.1.141
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -81269,7 +81297,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.1.141
+  version: 17.6.3-20250728-6.1.141
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -81689,7 +81717,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.6.101
+  version: 1.7.2-6.6.101
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -81913,7 +81941,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.6.101
+  version: 17.6.3-20250728-6.6.101
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -82333,7 +82361,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.6.94
+  version: 1.7.2-6.6.94
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -82557,7 +82585,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.6.94
+  version: 17.6.3-20250728-6.6.94
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -82977,7 +83005,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.34
+  version: 1.7.2-6.12.34
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -83205,7 +83233,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.34
+  version: 17.6.3-20250728-6.12.34
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -83625,7 +83653,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.16
+  version: 1.7.2-6.16
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -83853,7 +83881,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.16
+  version: 17.6.3-20250728-6.16
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -84273,7 +84301,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.41
+  version: 1.7.2-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -84501,7 +84529,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.41
+  version: 17.6.3-20250728-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -84921,7 +84949,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.15.9
+  version: 1.7.2-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -85149,7 +85177,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.15.9
+  version: 17.6.3-20250728-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -85569,7 +85597,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.41
+  version: 1.7.2-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -85797,7 +85825,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.41
+  version: 17.6.3-20250728-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -86217,7 +86245,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.15.9
+  version: 1.7.2-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -86445,7 +86473,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.15.9
+  version: 17.6.3-20250728-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -86865,7 +86893,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.15.9
+  version: 1.7.2-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -87093,7 +87121,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.15.9
+  version: 17.6.3-20250728-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -87513,7 +87541,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.16
+  version: 1.7.2-6.16
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -87741,7 +87769,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.16
+  version: 17.6.3-20250728-6.16
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -88161,7 +88189,7 @@ legacyPackages.x86_64-linux.linuxPackages-libre.openrazer:
 legacyPackages.x86_64-linux.linuxPackages-libre.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.41
+  version: 1.7.2-6.12.41
 legacyPackages.x86_64-linux.linuxPackages-libre.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -88389,7 +88417,7 @@ legacyPackages.x86_64-linux.linuxPackages-libre.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages-libre.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.41
+  version: 17.6.3-20250728-6.12.41
 legacyPackages.x86_64-linux.linuxPackages-libre.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -88809,7 +88837,7 @@ legacyPackages.x86_64-linux.linuxPackages.openrazer:
 legacyPackages.x86_64-linux.linuxPackages.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.41
+  version: 1.7.2-6.12.41
 legacyPackages.x86_64-linux.linuxPackages.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -89037,7 +89065,7 @@ legacyPackages.x86_64-linux.linuxPackages.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.41
+  version: 17.6.3-20250728-6.12.41
 legacyPackages.x86_64-linux.linuxPackages.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -89457,7 +89485,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-5.10.238
+  version: 1.7.2-5.10.238
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -89685,7 +89713,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.10.238
+  version: 17.6.3-20250728-5.10.238
 legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -90105,7 +90133,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-5.15.185
+  version: 1.7.2-5.15.185
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -90333,7 +90361,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.15.185
+  version: 17.6.3-20250728-5.15.185
 legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -90981,7 +91009,7 @@ legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-5.4.294
+  version: 17.6.3-20250728-5.4.294
 legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.wireguard:
   description: Kernel module for the WireGuard secure network tunnel
   pname: wireguard
@@ -91405,7 +91433,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.34
+  version: 1.7.2-6.12.34
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -91633,7 +91661,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.34
+  version: 17.6.3-20250728-6.12.34
 legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -92053,7 +92081,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.1.141
+  version: 1.7.2-6.1.141
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -92277,7 +92305,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.1.141
+  version: 17.6.3-20250728-6.1.141
 legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -92697,7 +92725,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.6.94
+  version: 1.7.2-6.6.94
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -92921,7 +92949,7 @@ legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.6.94
+  version: 17.6.3-20250728-6.6.94
 legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -93345,7 +93373,7 @@ legacyPackages.x86_64-linux.linuxPackages_hardened.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_hardened.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.34
+  version: 1.7.2-6.12.34
 legacyPackages.x86_64-linux.linuxPackages_hardened.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -93573,7 +93601,7 @@ legacyPackages.x86_64-linux.linuxPackages_hardened.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_hardened.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.34
+  version: 17.6.3-20250728-6.12.34
 legacyPackages.x86_64-linux.linuxPackages_hardened.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -93993,7 +94021,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.16
+  version: 1.7.2-6.16
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -94221,7 +94249,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.16
+  version: 17.6.3-20250728-6.16
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -94641,7 +94669,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_latest.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.16
+  version: 1.7.2-6.16
 legacyPackages.x86_64-linux.linuxPackages_latest.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -94869,7 +94897,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_latest.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.16
+  version: 17.6.3-20250728-6.16
 legacyPackages.x86_64-linux.linuxPackages_latest.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -95289,7 +95317,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_lqx.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.15.9
+  version: 1.7.2-6.15.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -95517,7 +95545,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_lqx.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.15.9
+  version: 17.6.3-20250728-6.15.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -95937,7 +95965,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.12.41
+  version: 1.7.2-6.12.41
 legacyPackages.x86_64-linux.linuxPackages_xanmod.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -96165,7 +96193,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.12.41
+  version: 17.6.3-20250728-6.12.41
 legacyPackages.x86_64-linux.linuxPackages_xanmod.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -96585,7 +96613,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.15.9
+  version: 1.7.2-6.15.9
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -96813,7 +96841,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.15.9
+  version: 17.6.3-20250728-6.15.9
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -97233,7 +97261,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.15.9
+  version: 1.7.2-6.15.9
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -97461,7 +97489,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.15.9
+  version: 17.6.3-20250728-6.15.9
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -97881,7 +97909,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.openrazer:
 legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.1-6.16
+  version: 1.7.2-6.16
 legacyPackages.x86_64-linux.linuxPackages_zen.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -98109,7 +98137,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_zen.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250608-6.16
+  version: 17.6.3-20250728-6.16
 legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
@@ -110949,7 +110977,7 @@ legacyPackages.x86_64-linux.modsecurity-crs:
 legacyPackages.x86_64-linux.modsecurity_standalone:
   description: Open source, cross-platform web application firewall (WAF)
   pname: modsecurity
-  version: 2.9.8
+  version: 2.9.12
 legacyPackages.x86_64-linux.moe:
   description: Small, 8-bit clean editor
   pname: moe
@@ -111857,7 +111885,7 @@ legacyPackages.x86_64-linux.mpremote:
 legacyPackages.x86_64-linux.mprime:
   description: Mersenne prime search / System stability tester
   pname: mprime
-  version: 30.8b15
+  version: 30.19b21
 legacyPackages.x86_64-linux.mpris-discord-rpc:
   description: Linux Discord rich presence for music, using MPRIS with album cover and progress bar support
   pname: mpris-discord-rpc
@@ -115229,7 +115257,7 @@ legacyPackages.x86_64-linux.nitrokey-app:
 legacyPackages.x86_64-linux.nitrokey-app2:
   description: This application allows to manage Nitrokey 3 devices
   pname: nitrokey-app2
-  version: 2.3.3
+  version: 2.3.5
 legacyPackages.x86_64-linux.nitrokey-fido2-firmware:
   description: Firmware for the Nitrokey FIDO2 device
   pname: nitrokey-fido2-firmware
@@ -118702,6 +118730,10 @@ legacyPackages.x86_64-linux.ocamlPackages.coin:
   description: Library to normalize an KOI8-{U,R} input to Unicode
   pname: ocaml5.3.0-coin
   version: 0.1.4
+legacyPackages.x86_64-linux.ocamlPackages.colombe:
+  description: SMTP protocol according to RFC5321 without extensions
+  pname: ocaml5.3.0-colombe
+  version: 0.12.0
 legacyPackages.x86_64-linux.ocamlPackages.color:
   description: Converts between different color formats
   pname: ocaml5.3.0-color
@@ -120054,6 +120086,10 @@ legacyPackages.x86_64-linux.ocamlPackages.letsencrypt-mirage:
   description: ACME implementation in OCaml for MirageOS
   pname: ocaml5.3.0-letsencrypt-mirage
   version: 1.1.0
+legacyPackages.x86_64-linux.ocamlPackages.letters:
+  description: OCaml library for creating and sending emails over SMTP using LWT
+  pname: ocaml5.3.0-letters
+  version: 0.4.0
 legacyPackages.x86_64-linux.ocamlPackages.libc:
   description: Raw definitions and bindings to platforms system libraries
   pname: ocaml5.3.0-libc
@@ -121862,6 +121898,10 @@ legacyPackages.x86_64-linux.ocamlPackages.semver:
   description: Semantic versioning module
   pname: ocaml5.3.0-semver
   version: 0.2.1
+legacyPackages.x86_64-linux.ocamlPackages.sendmail:
+  description: Library to be able to send an email
+  pname: ocaml5.3.0-sendmail
+  version: 0.12.0
 legacyPackages.x86_64-linux.ocamlPackages.seq:
   description: Dummy backward-compatibility package for iterators
   pname: ocaml5.3.0-seq
@@ -123337,7 +123377,7 @@ legacyPackages.x86_64-linux.omni-gtk-theme:
 legacyPackages.x86_64-linux.omnictl:
   description: CLI for the Sidero Omni Kubernetes management platform
   pname: omnictl
-  version: 1.0.0
+  version: 1.0.1
 legacyPackages.x86_64-linux.omniorb:
   description: Robust high performance CORBA ORB for C++ and Python
   pname: omniorb
@@ -123909,7 +123949,7 @@ legacyPackages.x86_64-linux.openclonk:
 legacyPackages.x86_64-linux.opencloud:
   description: OpenCloud gives you a secure and private way to store, access, and share your files
   pname: opencloud
-  version: 3.2.1
+  version: 3.3.0
 legacyPackages.x86_64-linux.opencloud-desktop:
   description: Desktop Application for OpenCloud
   pname: opencloud-desktop
@@ -124681,11 +124721,11 @@ legacyPackages.x86_64-linux.opensmtpd-table-sqlite:
 legacyPackages.x86_64-linux.opensnitch:
   description: Application firewall
   pname: opensnitch
-  version: 1.7.1
+  version: 1.7.2
 legacyPackages.x86_64-linux.opensnitch-ui:
   description: Application firewall
   pname: opensnitch-ui
-  version: 1.7.1
+  version: 1.7.2
 legacyPackages.x86_64-linux.opensoldat:
   description: Unique 2D (side-view) multiplayer action game
   pname: opensoldat-unstable
@@ -125806,6 +125846,10 @@ legacyPackages.x86_64-linux.overpush:
   description: Self-hosted, drop-in replacement for Pushover that can use XMPP
   pname: overpush
   version: 0.4.5
+legacyPackages.x86_64-linux.overseerr:
+  description: Request management and media discovery tool for the Plex ecosystem
+  pname: overseerr
+  version: 1.34.0
 legacyPackages.x86_64-linux.overskride:
   description: Bluetooth and Obex client that is straight to the point, DE/WM agnostic, and beautiful
   pname: overskride
@@ -152233,7 +152277,7 @@ legacyPackages.x86_64-linux.php81Extensions.zlib:
 legacyPackages.x86_64-linux.php81Extensions.zstd:
   description: Zstd Extension for PHP
   pname: php-zstd
-  version: 0.14.0+pie
+  version: 0.15.0
 legacyPackages.x86_64-linux.php81Packages.box:
   description: Application for building and managing Phars
   pname: box
@@ -152761,7 +152805,7 @@ legacyPackages.x86_64-linux.php82Extensions.zlib:
 legacyPackages.x86_64-linux.php82Extensions.zstd:
   description: Zstd Extension for PHP
   pname: php-zstd
-  version: 0.14.0+pie
+  version: 0.15.0
 legacyPackages.x86_64-linux.php82Packages.box:
   description: Application for building and managing Phars
   pname: box
@@ -153289,7 +153333,7 @@ legacyPackages.x86_64-linux.php83Extensions.zlib:
 legacyPackages.x86_64-linux.php83Extensions.zstd:
   description: Zstd Extension for PHP
   pname: php-zstd
-  version: 0.14.0+pie
+  version: 0.15.0
 legacyPackages.x86_64-linux.php83Packages.box:
   description: Application for building and managing Phars
   pname: box
@@ -153817,7 +153861,7 @@ legacyPackages.x86_64-linux.php84Extensions.zlib:
 legacyPackages.x86_64-linux.php84Extensions.zstd:
   description: Zstd Extension for PHP
   pname: php-zstd
-  version: 0.14.0+pie
+  version: 0.15.0
 legacyPackages.x86_64-linux.php84Packages.box:
   description: Application for building and managing Phars
   pname: box
@@ -154669,7 +154713,7 @@ legacyPackages.x86_64-linux.pixeluvo:
 legacyPackages.x86_64-linux.pixi:
   description: Package management made easy
   pname: pixi
-  version: 0.49.0
+  version: 0.51.0
 legacyPackages.x86_64-linux.pixi-pack:
   description: Pack and unpack conda environments created with pixi
   pname: pixi-pack
@@ -157338,6 +157382,10 @@ legacyPackages.x86_64-linux.plumed:
   description: Molecular metadynamics library
   pname: plumed
   version: 2.9.3
+legacyPackages.x86_64-linux.plus-jakarta-sans:
+  description: Typeface designed for Jakarta 'City of collaboration' program in 2020
+  pname: plus-jakarta-sans
+  version: 2.7.1
 legacyPackages.x86_64-linux.pluto:
   description: Find deprecated Kubernetes apiVersions
   pname: pluto
@@ -157670,6 +157718,10 @@ legacyPackages.x86_64-linux.pokemmo-installer:
   description: Installer and Launcher for the PokeMMO emulator
   pname: pokemmo-installer
   version: 1.4.8
+legacyPackages.x86_64-linux.pokemon-colorscripts:
+  description: Scripts for Pokémon color manipulation
+  pname: pokemon-colorscripts
+  version: 0-unstable-2024-10-19
 legacyPackages.x86_64-linux.pokemon-colorscripts-mac:
   description: Pokémon colorscripts for the terminal, compatible for mac
   pname: pokemon-colorscripts-mac-stable
@@ -164101,7 +164153,7 @@ legacyPackages.x86_64-linux.python312Packages.approvaltests:
 legacyPackages.x86_64-linux.python312Packages.appthreat-vulnerability-db:
   description: Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm
   pname: python3.12-appthreat-vulnerability-db
-  version: 6.4.3
+  version: 6.4.4
 legacyPackages.x86_64-linux.python312Packages.apptools:
   description: Set of packages that Enthought has found useful in creating a number of applications
   pname: python3.12-apptools
@@ -164309,7 +164361,7 @@ legacyPackages.x86_64-linux.python312Packages.arxiv2bib:
 legacyPackages.x86_64-linux.python312Packages.asana:
   description: Python client library for Asana
   pname: python3.12-asana
-  version: 5.2.0
+  version: 5.2.1
 legacyPackages.x86_64-linux.python312Packages.ascii-magic:
   description: Python module to converts pictures into ASCII art
   pname: python3.12-ascii-magic
@@ -165602,6 +165654,10 @@ legacyPackages.x86_64-linux.python312Packages.bagit:
   description: Python library and command line utility for working with BagIt style packages
   pname: python3.12-bagit
   version: 1.9.0
+legacyPackages.x86_64-linux.python312Packages.baidu-aip:
+  description: Baidu AI Platform SDK for Python
+  pname: python3.12-baidu-aip
+  version: 4.16.1
 legacyPackages.x86_64-linux.python312Packages.baize:
   description: Powerful and exquisite WSGI/ASGI framework/toolkit
   pname: python3.12-baize
@@ -167729,7 +167785,7 @@ legacyPackages.x86_64-linux.python312Packages.cogapp:
 legacyPackages.x86_64-linux.python312Packages.cohere:
   description: Simplify interfacing with the Cohere API
   pname: python3.12-cohere
-  version: 5.15.0
+  version: 5.16.2
 legacyPackages.x86_64-linux.python312Packages.coiled:
   description: Python client for coiled.io dask clusters
   pname: python3.12-coiled
@@ -170273,7 +170329,7 @@ legacyPackages.x86_64-linux.python312Packages.django-simple-captcha:
 legacyPackages.x86_64-linux.python312Packages.django-simple-history:
   description: Module to store Django model state on every create/update/delete
   pname: python3.12-django-simple-history
-  version: 3.9.0
+  version: 3.10.1
 legacyPackages.x86_64-linux.python312Packages.django-sites:
   description: Alternative implementation of django sites framework
   pname: python3.12-django-sites
@@ -170529,7 +170585,7 @@ legacyPackages.x86_64-linux.python312Packages.djmail:
 legacyPackages.x86_64-linux.python312Packages.djoser:
   description: REST implementation of Django authentication system
   pname: python3.12-djoser
-  version: 2.3.1
+  version: 2.3.3
 legacyPackages.x86_64-linux.python312Packages.dkimpy:
   description: DKIM + ARC email signing/verification tools + Python module
   pname: python3.12-dkimpy
@@ -170677,7 +170733,7 @@ legacyPackages.x86_64-linux.python312Packages.docling-ibm-models:
 legacyPackages.x86_64-linux.python312Packages.docling-jobkit:
   description: Running a distributed job processing documents with Docling
   pname: python3.12-docling-jobkit
-  version: 1.1.1
+  version: 1.2.0
 legacyPackages.x86_64-linux.python312Packages.docling-parse:
   description: Simple package to extract text with coordinates from programmatic PDFs
   pname: python3.12-docling-parse
@@ -174109,7 +174165,7 @@ legacyPackages.x86_64-linux.python312Packages.google-cloud-bigquery-storage:
 legacyPackages.x86_64-linux.python312Packages.google-cloud-bigtable:
   description: Google Cloud Bigtable API client library
   pname: python3.12-google-cloud-bigtable
-  version: 2.31.0
+  version: 2.32.0
 legacyPackages.x86_64-linux.python312Packages.google-cloud-compute:
   description: API Client library for Google Cloud Compute
   pname: python3.12-google-cloud-compute
@@ -179325,7 +179381,7 @@ legacyPackages.x86_64-linux.python312Packages.mahotas:
 legacyPackages.x86_64-linux.python312Packages.mail-parser:
   description: Mail parser for python 2 and 3
   pname: python3.12-mail-parser
-  version: 4.1.3
+  version: 4.1.4
 legacyPackages.x86_64-linux.python312Packages.mailcap-fix:
   description: Patched mailcap module that conforms to RFC 1524
   pname: python3.12-mailcap-fix
@@ -181041,7 +181097,7 @@ legacyPackages.x86_64-linux.python312Packages.mwoauth:
 legacyPackages.x86_64-linux.python312Packages.mwparserfromhell:
   description: MWParserFromHell is a parser for MediaWiki wikicode
   pname: python3.12-mwparserfromhell
-  version: 0.6.6
+  version: 0.7.2
 legacyPackages.x86_64-linux.python312Packages.mwtypes:
   description: Set of classes for working with MediaWiki data types
   pname: python3.12-mwtypes
@@ -182893,7 +182949,7 @@ legacyPackages.x86_64-linux.python312Packages.netgen-mesher:
 legacyPackages.x86_64-linux.python312Packages.nethsm:
   description: Client-side Python SDK for NetHSM
   pname: python3.12-nethsm
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.python312Packages.netifaces:
   description: Portable access to network interfaces from Python
   pname: python3.12-netifaces
@@ -183801,7 +183857,7 @@ legacyPackages.x86_64-linux.python312Packages.openai-triton:
 legacyPackages.x86_64-linux.python312Packages.openai-triton-bin:
   description: Language and compiler for custom Deep Learning operations
   pname: python3.12-triton
-  version: 3.3.1
+  version: 3.4.0
 legacyPackages.x86_64-linux.python312Packages.openai-triton-cuda:
   description: Language and compiler for writing highly efficient custom Deep-Learning primitives
   pname: python3.12-triton
@@ -184745,7 +184801,7 @@ legacyPackages.x86_64-linux.python312Packages.partd:
 legacyPackages.x86_64-linux.python312Packages.partial-json-parser:
   description: Parse partial JSON generated by LLM
   pname: python3.12-partial-json-parser
-  version: 0.2.1.1.post5
+  version: 0.2.1.1.post6
 legacyPackages.x86_64-linux.python312Packages.particle:
   description: Package to deal with particles, the PDG particle data table and others
   pname: python3.12-particle
@@ -184913,7 +184969,7 @@ legacyPackages.x86_64-linux.python312Packages.pcbnewtransition:
 legacyPackages.x86_64-linux.python312Packages.pcffont:
   description: Library for manipulating Portable Compiled Format (PCF) Fonts
   pname: python3.12-pcffont
-  version: 0.0.20
+  version: 0.0.21
 legacyPackages.x86_64-linux.python312Packages.pcodec:
   description: Lossless codec for numerical data
   pname: python3.12-pcodec
@@ -188985,7 +189041,7 @@ legacyPackages.x86_64-linux.python312Packages.pyombi:
 legacyPackages.x86_64-linux.python312Packages.pyomo:
   description: Python Optimization Modeling Objects
   pname: python3.12-pyomo
-  version: 6.9.2
+  version: 6.9.3
 legacyPackages.x86_64-linux.python312Packages.pyopencl:
   description: Python wrapper for OpenCL
   pname: python3.12-pyopencl
@@ -191081,7 +191137,7 @@ legacyPackages.x86_64-linux.python312Packages.python-docx:
 legacyPackages.x86_64-linux.python312Packages.python-doi:
   description: Python library to work with Document Object Identifiers (doi)
   pname: python3.12-python-doi
-  version: 0.1.1
+  version: "0.2"
 legacyPackages.x86_64-linux.python312Packages.python-dotenv:
   description: Add .env support to your django/flask apps in development and deployments
   pname: python3.12-python-dotenv
@@ -197649,7 +197705,7 @@ legacyPackages.x86_64-linux.python312Packages.textual:
 legacyPackages.x86_64-linux.python312Packages.textual-autocomplete:
   description: Python library that provides autocomplete capabilities to textual
   pname: python3.12-textual-autocomplete
-  version: 4.0.4
+  version: 4.0.5
 legacyPackages.x86_64-linux.python312Packages.textual-dev:
   description: Development tools for Textual
   pname: python3.12-textual-dev
@@ -198981,7 +199037,7 @@ legacyPackages.x86_64-linux.python312Packages.triton:
 legacyPackages.x86_64-linux.python312Packages.triton-bin:
   description: Language and compiler for custom Deep Learning operations
   pname: python3.12-triton
-  version: 3.3.1
+  version: 3.4.0
 legacyPackages.x86_64-linux.python312Packages.triton-cuda:
   description: Language and compiler for writing highly efficient custom Deep-Learning primitives
   pname: python3.12-triton
@@ -200705,7 +200761,7 @@ legacyPackages.x86_64-linux.python312Packages.types-appdirs:
 legacyPackages.x86_64-linux.python312Packages.types-awscrt:
   description: Type annotations and code completion for awscrt
   pname: python3.12-types-awscrt
-  version: 0.27.5
+  version: 0.27.6
 legacyPackages.x86_64-linux.python312Packages.types-beautifulsoup4:
   description: Typing stubs for beautifulsoup4
   pname: python3.12-types-beautifulsoup4
@@ -200741,7 +200797,7 @@ legacyPackages.x86_64-linux.python312Packages.types-docopt:
 legacyPackages.x86_64-linux.python312Packages.types-docutils:
   description: Typing stubs for docutils
   pname: python3.12-types-docutils
-  version: 0.21.0.20250728
+  version: 0.21.0.20250809
 legacyPackages.x86_64-linux.python312Packages.types-freezegun:
   description: Typing stubs for freezegun
   pname: python3.12-types-freezegun
@@ -205173,7 +205229,7 @@ legacyPackages.x86_64-linux.python313Packages.approvaltests:
 legacyPackages.x86_64-linux.python313Packages.appthreat-vulnerability-db:
   description: Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm
   pname: python3.13-appthreat-vulnerability-db
-  version: 6.4.3
+  version: 6.4.4
 legacyPackages.x86_64-linux.python313Packages.apptools:
   description: Set of packages that Enthought has found useful in creating a number of applications
   pname: python3.13-apptools
@@ -205381,7 +205437,7 @@ legacyPackages.x86_64-linux.python313Packages.arxiv2bib:
 legacyPackages.x86_64-linux.python313Packages.asana:
   description: Python client library for Asana
   pname: python3.13-asana
-  version: 5.2.0
+  version: 5.2.1
 legacyPackages.x86_64-linux.python313Packages.ascii-magic:
   description: Python module to converts pictures into ASCII art
   pname: python3.13-ascii-magic
@@ -206678,6 +206734,10 @@ legacyPackages.x86_64-linux.python313Packages.bagit:
   description: Python library and command line utility for working with BagIt style packages
   pname: python3.13-bagit
   version: 1.9.0
+legacyPackages.x86_64-linux.python313Packages.baidu-aip:
+  description: Baidu AI Platform SDK for Python
+  pname: python3.13-baidu-aip
+  version: 4.16.1
 legacyPackages.x86_64-linux.python313Packages.baize:
   description: Powerful and exquisite WSGI/ASGI framework/toolkit
   pname: python3.13-baize
@@ -208805,7 +208865,7 @@ legacyPackages.x86_64-linux.python313Packages.cogapp:
 legacyPackages.x86_64-linux.python313Packages.cohere:
   description: Simplify interfacing with the Cohere API
   pname: python3.13-cohere
-  version: 5.15.0
+  version: 5.16.2
 legacyPackages.x86_64-linux.python313Packages.coiled:
   description: Python client for coiled.io dask clusters
   pname: python3.13-coiled
@@ -211349,7 +211409,7 @@ legacyPackages.x86_64-linux.python313Packages.django-simple-captcha:
 legacyPackages.x86_64-linux.python313Packages.django-simple-history:
   description: Module to store Django model state on every create/update/delete
   pname: python3.13-django-simple-history
-  version: 3.9.0
+  version: 3.10.1
 legacyPackages.x86_64-linux.python313Packages.django-sites:
   description: Alternative implementation of django sites framework
   pname: python3.13-django-sites
@@ -211605,7 +211665,7 @@ legacyPackages.x86_64-linux.python313Packages.djmail:
 legacyPackages.x86_64-linux.python313Packages.djoser:
   description: REST implementation of Django authentication system
   pname: python3.13-djoser
-  version: 2.3.1
+  version: 2.3.3
 legacyPackages.x86_64-linux.python313Packages.dkimpy:
   description: DKIM + ARC email signing/verification tools + Python module
   pname: python3.13-dkimpy
@@ -211753,7 +211813,7 @@ legacyPackages.x86_64-linux.python313Packages.docling-ibm-models:
 legacyPackages.x86_64-linux.python313Packages.docling-jobkit:
   description: Running a distributed job processing documents with Docling
   pname: python3.13-docling-jobkit
-  version: 1.1.1
+  version: 1.2.0
 legacyPackages.x86_64-linux.python313Packages.docling-parse:
   description: Simple package to extract text with coordinates from programmatic PDFs
   pname: python3.13-docling-parse
@@ -215185,7 +215245,7 @@ legacyPackages.x86_64-linux.python313Packages.google-cloud-bigquery-storage:
 legacyPackages.x86_64-linux.python313Packages.google-cloud-bigtable:
   description: Google Cloud Bigtable API client library
   pname: python3.13-google-cloud-bigtable
-  version: 2.31.0
+  version: 2.32.0
 legacyPackages.x86_64-linux.python313Packages.google-cloud-compute:
   description: API Client library for Google Cloud Compute
   pname: python3.13-google-cloud-compute
@@ -220401,7 +220461,7 @@ legacyPackages.x86_64-linux.python313Packages.mahotas:
 legacyPackages.x86_64-linux.python313Packages.mail-parser:
   description: Mail parser for python 2 and 3
   pname: python3.13-mail-parser
-  version: 4.1.3
+  version: 4.1.4
 legacyPackages.x86_64-linux.python313Packages.mailcap-fix:
   description: Patched mailcap module that conforms to RFC 1524
   pname: python3.13-mailcap-fix
@@ -222117,7 +222177,7 @@ legacyPackages.x86_64-linux.python313Packages.mwoauth:
 legacyPackages.x86_64-linux.python313Packages.mwparserfromhell:
   description: MWParserFromHell is a parser for MediaWiki wikicode
   pname: python3.13-mwparserfromhell
-  version: 0.6.6
+  version: 0.7.2
 legacyPackages.x86_64-linux.python313Packages.mwtypes:
   description: Set of classes for working with MediaWiki data types
   pname: python3.13-mwtypes
@@ -223969,7 +224029,7 @@ legacyPackages.x86_64-linux.python313Packages.netgen-mesher:
 legacyPackages.x86_64-linux.python313Packages.nethsm:
   description: Client-side Python SDK for NetHSM
   pname: python3.13-nethsm
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.python313Packages.netifaces:
   description: Portable access to network interfaces from Python
   pname: python3.13-netifaces
@@ -224877,7 +224937,7 @@ legacyPackages.x86_64-linux.python313Packages.openai-triton:
 legacyPackages.x86_64-linux.python313Packages.openai-triton-bin:
   description: Language and compiler for custom Deep Learning operations
   pname: python3.13-triton
-  version: 3.3.1
+  version: 3.4.0
 legacyPackages.x86_64-linux.python313Packages.openai-triton-cuda:
   description: Language and compiler for writing highly efficient custom Deep-Learning primitives
   pname: python3.13-triton
@@ -225821,7 +225881,7 @@ legacyPackages.x86_64-linux.python313Packages.partd:
 legacyPackages.x86_64-linux.python313Packages.partial-json-parser:
   description: Parse partial JSON generated by LLM
   pname: python3.13-partial-json-parser
-  version: 0.2.1.1.post5
+  version: 0.2.1.1.post6
 legacyPackages.x86_64-linux.python313Packages.particle:
   description: Package to deal with particles, the PDG particle data table and others
   pname: python3.13-particle
@@ -225989,7 +226049,7 @@ legacyPackages.x86_64-linux.python313Packages.pcbnewtransition:
 legacyPackages.x86_64-linux.python313Packages.pcffont:
   description: Library for manipulating Portable Compiled Format (PCF) Fonts
   pname: python3.13-pcffont
-  version: 0.0.20
+  version: 0.0.21
 legacyPackages.x86_64-linux.python313Packages.pcodec:
   description: Lossless codec for numerical data
   pname: python3.13-pcodec
@@ -230061,7 +230121,7 @@ legacyPackages.x86_64-linux.python313Packages.pyombi:
 legacyPackages.x86_64-linux.python313Packages.pyomo:
   description: Python Optimization Modeling Objects
   pname: python3.13-pyomo
-  version: 6.9.2
+  version: 6.9.3
 legacyPackages.x86_64-linux.python313Packages.pyopencl:
   description: Python wrapper for OpenCL
   pname: python3.13-pyopencl
@@ -232157,7 +232217,7 @@ legacyPackages.x86_64-linux.python313Packages.python-docx:
 legacyPackages.x86_64-linux.python313Packages.python-doi:
   description: Python library to work with Document Object Identifiers (doi)
   pname: python3.13-python-doi
-  version: 0.1.1
+  version: "0.2"
 legacyPackages.x86_64-linux.python313Packages.python-dotenv:
   description: Add .env support to your django/flask apps in development and deployments
   pname: python3.13-python-dotenv
@@ -238761,7 +238821,7 @@ legacyPackages.x86_64-linux.python313Packages.textual:
 legacyPackages.x86_64-linux.python313Packages.textual-autocomplete:
   description: Python library that provides autocomplete capabilities to textual
   pname: python3.13-textual-autocomplete
-  version: 4.0.4
+  version: 4.0.5
 legacyPackages.x86_64-linux.python313Packages.textual-dev:
   description: Development tools for Textual
   pname: python3.13-textual-dev
@@ -240093,7 +240153,7 @@ legacyPackages.x86_64-linux.python313Packages.triton:
 legacyPackages.x86_64-linux.python313Packages.triton-bin:
   description: Language and compiler for custom Deep Learning operations
   pname: python3.13-triton
-  version: 3.3.1
+  version: 3.4.0
 legacyPackages.x86_64-linux.python313Packages.triton-cuda:
   description: Language and compiler for writing highly efficient custom Deep-Learning primitives
   pname: python3.13-triton
@@ -241817,7 +241877,7 @@ legacyPackages.x86_64-linux.python313Packages.types-appdirs:
 legacyPackages.x86_64-linux.python313Packages.types-awscrt:
   description: Type annotations and code completion for awscrt
   pname: python3.13-types-awscrt
-  version: 0.27.5
+  version: 0.27.6
 legacyPackages.x86_64-linux.python313Packages.types-beautifulsoup4:
   description: Typing stubs for beautifulsoup4
   pname: python3.13-types-beautifulsoup4
@@ -241853,7 +241913,7 @@ legacyPackages.x86_64-linux.python313Packages.types-docopt:
 legacyPackages.x86_64-linux.python313Packages.types-docutils:
   description: Typing stubs for docutils
   pname: python3.13-types-docutils
-  version: 0.21.0.20250728
+  version: 0.21.0.20250809
 legacyPackages.x86_64-linux.python313Packages.types-freezegun:
   description: Typing stubs for freezegun
   pname: python3.13-types-freezegun
@@ -285153,7 +285213,7 @@ legacyPackages.x86_64-linux.sway-assign-cgroups:
 legacyPackages.x86_64-linux.sway-audio-idle-inhibit:
   description: Prevents swayidle from sleeping while any application is outputting or receiving audio
   pname: sway-audio-idle-inhibit
-  version: 0.1.2
+  version: 0.2.0
 legacyPackages.x86_64-linux.sway-contrib.grimshot:
   description: Helper for screenshots within sway
   pname: grimshot
@@ -286865,7 +286925,7 @@ legacyPackages.x86_64-linux.teams:
 legacyPackages.x86_64-linux.teams-for-linux:
   description: Unofficial Microsoft Teams client for Linux
   pname: teams-for-linux
-  version: 2.1.0
+  version: 2.1.4
 legacyPackages.x86_64-linux.teamspeak3:
   description: TeamSpeak voice communication tool
   pname: teamspeak3
@@ -288137,7 +288197,7 @@ legacyPackages.x86_64-linux.terragrunt:
 legacyPackages.x86_64-linux.terramate:
   description: Adds code generation, stacks, orchestration, change detection, data sharing and more to Terraform
   pname: terramate
-  version: 0.14.2
+  version: 0.14.3
 legacyPackages.x86_64-linux.terranix:
   description: NixOS like terraform-json generator
   pname: terranix
@@ -312649,7 +312709,7 @@ legacyPackages.x86_64-linux.tradingview:
 legacyPackages.x86_64-linux.traefik:
   description: Modern reverse proxy
   pname: traefik
-  version: 3.4.4
+  version: 3.5.0
 legacyPackages.x86_64-linux.traefik-certs-dumper:
   description: Dump ACME data from traefik to certificates
   pname: traefik-certs-dumper
@@ -314433,7 +314493,7 @@ legacyPackages.x86_64-linux.typescript:
 legacyPackages.x86_64-linux.typescript-go:
   description: Go implementation of TypeScript
   pname: typescript-go
-  version: 0-unstable-2025-08-01
+  version: 0-unstable-2025-08-12
 legacyPackages.x86_64-linux.typescript-language-server:
   description: Language Server Protocol implementation for TypeScript using tsserver
   pname: typescript-language-server
@@ -326713,7 +326773,7 @@ legacyPackages.x86_64-linux.undervolt:
 legacyPackages.x86_64-linux.undetected-chromedriver:
   description: Custom Selenium ChromeDriver that passes all bot mitigation systems
   pname: undetected-chromedriver
-  version: 139.0.7258.66
+  version: 139.0.7258.127
 legacyPackages.x86_64-linux.undistract-me:
   description: Notifies you when long-running terminal commands complete
   pname: undistract-me
@@ -339741,7 +339801,7 @@ legacyPackages.x86_64-linux.vscode-extensions.rebornix.ruby:
 legacyPackages.x86_64-linux.vscode-extensions.redhat.ansible:
   description: Ansible language support
   pname: vscode-extension-redhat-ansible
-  version: 25.7.2
+  version: 25.8.1
 legacyPackages.x86_64-linux.vscode-extensions.redhat.java:
   description: Java language support for VS Code via the Eclipse JDT Language Server
   pname: vscode-extension-redhat-java
@@ -347437,7 +347497,7 @@ legacyPackages.x86_64-linux.zed-discord-presence:
 legacyPackages.x86_64-linux.zed-editor:
   description: High-performance, multiplayer code editor from the creators of Atom and Tree-sitter
   pname: zed-editor
-  version: 0.198.5
+  version: 0.198.6
 legacyPackages.x86_64-linux.zed-editor-fhs:
   description: 'Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: zeditor
@@ -348373,7 +348433,7 @@ legacyPackages.x86_64-linux.zulu23:
 legacyPackages.x86_64-linux.zulu24:
   description: Certified builds of OpenJDK
   pname: zulu-ca-jdk
-  version: 24.0.1
+  version: 24.0.2
 legacyPackages.x86_64-linux.zulu8:
   description: Certified builds of OpenJDK
   pname: zulu-ca-jdk
