@@ -1047,7 +1047,7 @@
   "legacyPackages.x86_64-linux.actual-server": {
     "description": "Super fast privacy-focused app for managing your finances",
     "pname": "actual-server",
-    "version": "25.7.1"
+    "version": "25.8.0"
   },
   "legacyPackages.x86_64-linux.ad": {
     "description": "Adaptable text editor",
@@ -4027,7 +4027,7 @@
   "legacyPackages.x86_64-linux.aliyun-cli": {
     "description": "Tool to manage and use Alibaba Cloud resources through a command line interface",
     "pname": "aliyun-cli",
-    "version": "3.0.294"
+    "version": "3.0.296"
   },
   "legacyPackages.x86_64-linux.alkalami": {
     "description": "Font for Arabic-based writing systems in the Kano region of Nigeria and in Niger",
@@ -4042,7 +4042,7 @@
   "legacyPackages.x86_64-linux.all-the-package-names": {
     "description": "List of all the public package names on npm",
     "pname": "all-the-package-names",
-    "version": "2.0.2168"
+    "version": "2.0.2177"
   },
   "legacyPackages.x86_64-linux.allegro": {
     "description": "Game programming library",
@@ -4527,7 +4527,7 @@
   "legacyPackages.x86_64-linux.amp-cli": {
     "description": "CLI for Amp, an agentic coding agent in research preview from Sourcegraph",
     "pname": "amp-cli",
-    "version": "0.0.1754827277-g1b1a5d"
+    "version": "0.0.1755532879-g2b6e3d"
   },
   "legacyPackages.x86_64-linux.amphetype": {
     "description": "Advanced typing practice program",
@@ -8076,8 +8076,8 @@
   },
   "legacyPackages.x86_64-linux.ante": {
     "description": "Low-level functional language for exploring refinement types, lifetime inference, and algebraic effects",
-    "pname": "ante-unstable",
-    "version": "2023-12-18"
+    "pname": "ante",
+    "version": "0-unstable-2025-07-12"
   },
   "legacyPackages.x86_64-linux.antfs-cli": {
     "description": "Extracts FIT files from ANT-FS based sport watches",
@@ -8757,7 +8757,7 @@
   "legacyPackages.x86_64-linux.apko": {
     "description": "Build OCI images using APK directly without Dockerfile",
     "pname": "apko",
-    "version": "0.30.4"
+    "version": "0.30.5"
   },
   "legacyPackages.x86_64-linux.apksigcopier": {
     "description": "Copy/extract/patch android apk signatures & compare APKs",
@@ -8818,6 +8818,11 @@
     "description": "Distraction free Markdown editor for GNU/Linux",
     "pname": "apostrophe",
     "version": "3.2"
+  },
+  "legacyPackages.x86_64-linux.apotris": {
+    "description": "Block stacking game",
+    "pname": "apotris",
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.app2unit": {
     "description": "Launches Desktop Entries as Systemd user units",
@@ -9412,7 +9417,7 @@
   "legacyPackages.x86_64-linux.argparse-manpage": {
     "description": "Automatically build man-pages for your Python project",
     "pname": "argparse-manpage",
-    "version": "4.6"
+    "version": "4.7"
   },
   "legacyPackages.x86_64-linux.argtable": {
     "description": "Single-file, ANSI C command-line parsing library",
@@ -11587,7 +11592,7 @@
   "legacyPackages.x86_64-linux.avalonia": {
     "description": "Cross-platform UI framework for dotnet",
     "pname": "Avalonia",
-    "version": "11.3.3"
+    "version": "11.3.4"
   },
   "legacyPackages.x86_64-linux.avalonia-ilspy": {
     "description": ".NET assembly browser and decompiler",
@@ -13317,7 +13322,7 @@
   "legacyPackages.x86_64-linux.bandit": {
     "description": "Security oriented static analyser for python code",
     "pname": "bandit",
-    "version": "1.8.5"
+    "version": "1.8.6"
   },
   "legacyPackages.x86_64-linux.bandwhich": {
     "description": "CLI utility for displaying current network utilization",
@@ -15132,7 +15137,7 @@
   "legacyPackages.x86_64-linux.bilibili": {
     "description": "Electron-based bilibili desktop client",
     "pname": "bilibili",
-    "version": "1.17.0-2"
+    "version": "1.17.1-1"
   },
   "legacyPackages.x86_64-linux.bililiverecorder": {
     "description": "Convenient free open source bilibili live recording tool",
@@ -15767,7 +15772,7 @@
   "legacyPackages.x86_64-linux.bleachbit": {
     "description": "Program to clean your computer",
     "pname": "bleachbit",
-    "version": "4.6.0"
+    "version": "5.0.0"
   },
   "legacyPackages.x86_64-linux.bleep": {
     "description": "Bleeping fast scala build tool",
@@ -16043,6 +16048,16 @@
     "description": "Markup language for GTK user interface files",
     "pname": "blueprint-compiler",
     "version": "0.18.0"
+  },
+  "legacyPackages.x86_64-linux.bluesky-pds": {
+    "description": "Bluesky Personal Data Server (PDS)",
+    "pname": "pds",
+    "version": "0.4.158"
+  },
+  "legacyPackages.x86_64-linux.bluesky-pdsadmin": {
+    "description": "Admin scripts for Bluesky Personal Data Server (PDS)",
+    "pname": "pdsadmin",
+    "version": "0.4.158"
   },
   "legacyPackages.x86_64-linux.bluesnarfer": {
     "description": "Bluetooth bluesnarfing utility",
@@ -16372,7 +16387,7 @@
   "legacyPackages.x86_64-linux.bookstack": {
     "description": "Platform to create documentation/wiki content built with PHP & Laravel",
     "pname": "bookstack",
-    "version": "25.07"
+    "version": "25.07.1"
   },
   "legacyPackages.x86_64-linux.bookworm": {
     "description": "Simple, focused eBook reader",
@@ -17842,7 +17857,7 @@
   "legacyPackages.x86_64-linux.bup": {
     "description": "Efficient file backup system based on the git packfile format",
     "pname": "bup",
-    "version": "0.33.7"
+    "version": "0.33.8"
   },
   "legacyPackages.x86_64-linux.bupc": {
     "description": "Compiler for the Berkely Unified Parallel C language",
@@ -19317,7 +19332,7 @@
   "legacyPackages.x86_64-linux.cargo-tally": {
     "description": "Graph the number of crates that depend on your crate over time",
     "pname": "cargo-tally",
-    "version": "1.0.67"
+    "version": "1.0.68"
   },
   "legacyPackages.x86_64-linux.cargo-tarpaulin": {
     "description": "Code coverage tool for Rust projects",
@@ -20207,7 +20222,7 @@
   "legacyPackages.x86_64-linux.cedar": {
     "description": "Implementation of the Cedar Policy Language",
     "pname": "cedar",
-    "version": "4.5.0"
+    "version": "4.5.1"
   },
   "legacyPackages.x86_64-linux.cedille": {
     "description": "Interactive theorem-prover and dependently typed programming language, based on extrinsic (aka Curry-style) type theory",
@@ -24727,7 +24742,7 @@
   "legacyPackages.x86_64-linux.civo": {
     "description": "CLI for interacting with Civo resources",
     "pname": "civo",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   "legacyPackages.x86_64-linux.cjdns": {
     "description": "Encrypted networking for regular people",
@@ -25102,7 +25117,7 @@
   "legacyPackages.x86_64-linux.claude-code": {
     "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "1.0.83"
+    "version": "1.0.84"
   },
   "legacyPackages.x86_64-linux.claws": {
     "description": "Interactive command line client for testing websocket servers",
@@ -25577,7 +25592,7 @@
   "legacyPackages.x86_64-linux.cloud-init": {
     "description": "Provides configuration and customization of cloud instance",
     "pname": "cloud-init",
-    "version": "25.1.4"
+    "version": "25.2"
   },
   "legacyPackages.x86_64-linux.cloud-nuke": {
     "description": "Tool for cleaning up your cloud accounts by nuking (deleting) all resources within it",
@@ -27212,7 +27227,7 @@
   "legacyPackages.x86_64-linux.cook-cli": {
     "description": "Suite of tools to create shopping lists and maintain recipes",
     "pname": "cook-cli",
-    "version": "0.12.1"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.cook-framework": {
     "description": "Wordlist generator, splitter, merger, finder, saver for security researchers, bug bounty and hackers",
@@ -28078,6 +28093,11 @@
     "description": "Reimplementation of the 1997 Bullfrog business sim Theme Hospital",
     "pname": "corsix-th",
     "version": "0.69.1"
+  },
+  "legacyPackages.x86_64-linux.cortex-command-community-project": {
+    "description": "Cortex Command Community Project",
+    "pname": "cortex-command-community-project",
+    "version": "6.2.2"
   },
   "legacyPackages.x86_64-linux.cortex-tools": {
     "description": "Tools used for interacting with Cortex, a Prometheus-compatible server",
@@ -29452,7 +29472,7 @@
   "legacyPackages.x86_64-linux.cubeb": {
     "description": "Cross platform audio library",
     "pname": "cubeb",
-    "version": "0-unstable-2025-08-05"
+    "version": "0-unstable-2025-08-13"
   },
   "legacyPackages.x86_64-linux.cubicle": {
     "description": "Open source model checker for verifying safety properties of array-based systems",
@@ -32934,6 +32954,11 @@
     "pname": "deer",
     "version": "1.4"
   },
+  "legacyPackages.x86_64-linux.deezer-enhanced": {
+    "description": "Unofficial application for Deezer with enhanced features",
+    "pname": "deezer-enhanced",
+    "version": "1.3.0"
+  },
   "legacyPackages.x86_64-linux.deface": {
     "description": "Video anonymization by face detection",
     "pname": "deface",
@@ -33047,7 +33072,7 @@
   "legacyPackages.x86_64-linux.deltachat-desktop": {
     "description": "Email-based instant messaging for Desktop",
     "pname": "deltachat-desktop",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.deltachat-repl": {
     "description": "Delta Chat CLI client",
@@ -33137,7 +33162,7 @@
   "legacyPackages.x86_64-linux.dependabot-cli": {
     "description": "Tool for testing and debugging Dependabot update jobs",
     "pname": "dependabot-cli",
-    "version": "1.68.0"
+    "version": "1.71.0"
   },
   "legacyPackages.x86_64-linux.dependency-track": {
     "description": "Intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain",
@@ -33302,7 +33327,7 @@
   "legacyPackages.x86_64-linux.devbox": {
     "description": "Instant, easy, predictable shells and containers",
     "pname": "devbox",
-    "version": "0.15.1"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.devcontainer": {
     "description": "Dev container CLI, run and manage your dev environments via a devcontainer.json",
@@ -33492,7 +33517,7 @@
   "legacyPackages.x86_64-linux.dgraph": {
     "description": "Fast, Distributed Graph DB",
     "pname": "dgraph",
-    "version": "24.1.3"
+    "version": "24.1.4"
   },
   "legacyPackages.x86_64-linux.dhall": {
     "description": "A configuration language guaranteed to terminate",
@@ -34052,12 +34077,12 @@
   "legacyPackages.x86_64-linux.discord": {
     "description": "All-in-one cross-platform voice and text chat for gamers",
     "pname": "discord",
-    "version": "0.0.103"
+    "version": "0.0.104"
   },
   "legacyPackages.x86_64-linux.discord-canary": {
     "description": "All-in-one cross-platform voice and text chat for gamers",
     "pname": "discord-canary",
-    "version": "0.0.730"
+    "version": "0.0.740"
   },
   "legacyPackages.x86_64-linux.discord-development": {
     "description": "All-in-one cross-platform voice and text chat for gamers",
@@ -34072,7 +34097,7 @@
   "legacyPackages.x86_64-linux.discord-ptb": {
     "description": "All-in-one cross-platform voice and text chat for gamers",
     "pname": "discord-ptb",
-    "version": "0.0.154"
+    "version": "0.0.156"
   },
   "legacyPackages.x86_64-linux.discord-rpc": {
     "description": "Official library to interface with the Discord client",
@@ -36037,7 +36062,7 @@
   "legacyPackages.x86_64-linux.doublecmd": {
     "description": "Two-panel graphical file manager written in Pascal",
     "pname": "doublecmd",
-    "version": "1.1.27"
+    "version": "1.1.28"
   },
   "legacyPackages.x86_64-linux.doulos-sil": {
     "description": "Font that provides complete support for the International Phonetic Alphabet",
@@ -37322,7 +37347,7 @@
   "legacyPackages.x86_64-linux.dysk": {
     "description": "Get information on your mounted disks",
     "pname": "dysk",
-    "version": "2.10.1"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.dysnomia": {
     "description": "Automated deployment of mutable components and services for Disnix",
@@ -39452,7 +39477,7 @@
   "legacyPackages.x86_64-linux.enzyme": {
     "description": "High-performance automatic differentiation of LLVM and MLIR",
     "pname": "enzyme",
-    "version": "0.0.188"
+    "version": "0.0.189"
   },
   "legacyPackages.x86_64-linux.eog": {
     "description": "GNOME image viewer",
@@ -39877,7 +39902,7 @@
   "legacyPackages.x86_64-linux.esptool": {
     "description": "ESP8266 and ESP32 serial bootloader utility",
     "pname": "esptool",
-    "version": "4.9.0"
+    "version": "5.0.2"
   },
   "legacyPackages.x86_64-linux.esptool-ck": {
     "description": "ESP8266/ESP32 build helper tool",
@@ -40737,7 +40762,7 @@
   "legacyPackages.x86_64-linux.fabric-ai": {
     "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere",
     "pname": "fabric-ai",
-    "version": "1.4.280"
+    "version": "1.4.291"
   },
   "legacyPackages.x86_64-linux.fabric-installer": {
     "description": "Lightweight, experimental modding toolchain for Minecraft",
@@ -44322,7 +44347,7 @@
   "legacyPackages.x86_64-linux.forgejo-actions-runner": {
     "description": "Runner for Forgejo based on act",
     "pname": "forgejo-runner",
-    "version": "9.0.3"
+    "version": "9.1.0"
   },
   "legacyPackages.x86_64-linux.forgejo-cli": {
     "description": "CLI application for interacting with Forgejo",
@@ -44337,7 +44362,7 @@
   "legacyPackages.x86_64-linux.forgejo-runner": {
     "description": "Runner for Forgejo based on act",
     "pname": "forgejo-runner",
-    "version": "9.0.3"
+    "version": "9.1.0"
   },
   "legacyPackages.x86_64-linux.fork-cleaner": {
     "description": "Quickly clean up unused forks on your GitHub account",
@@ -44952,7 +44977,7 @@
   "legacyPackages.x86_64-linux.freshrss": {
     "description": "FreshRSS is a free, self-hostable RSS aggregator",
     "pname": "FreshRSS",
-    "version": "1.26.3"
+    "version": "1.27.0"
   },
   "legacyPackages.x86_64-linux.freshrss-extensions.auto-ttl": {
     "description": "FreshRSS extension for automatic feed refresh TTL based on the average frequency of entries",
@@ -45607,7 +45632,7 @@
   "legacyPackages.x86_64-linux.fzf-make": {
     "description": "Fuzzy finder for Makefile",
     "pname": "fzf-make",
-    "version": "0.59.0"
+    "version": "0.60.0"
   },
   "legacyPackages.x86_64-linux.fzf-obc": {
     "description": "Completion script adding fzf over all know bash completion functions",
@@ -45727,7 +45752,7 @@
   "legacyPackages.x86_64-linux.gale": {
     "description": "Lightweight Thunderstore client",
     "pname": "gale",
-    "version": "1.9.2"
+    "version": "1.9.5"
   },
   "legacyPackages.x86_64-linux.galen": {
     "description": "Automated layout testing for websites",
@@ -46410,9 +46435,9 @@
     "version": ""
   },
   "legacyPackages.x86_64-linux.gcc15": {
-    "description": "GNU Compiler Collection, version 15.1.0 (wrapper script)",
+    "description": "GNU Compiler Collection, version 15.2.0 (wrapper script)",
     "pname": "gcc-wrapper",
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   "legacyPackages.x86_64-linux.gcc15Stdenv": {
     "description": "The default build environment for Unix packages in Nixpkgs",
@@ -46560,9 +46585,9 @@
     "version": "14.3.0"
   },
   "legacyPackages.x86_64-linux.gcc_latest": {
-    "description": "GNU Compiler Collection, version 15.1.0 (wrapper script)",
+    "description": "GNU Compiler Collection, version 15.2.0 (wrapper script)",
     "pname": "gcc-wrapper",
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   "legacyPackages.x86_64-linux.gcc_multi": {
     "description": "GNU Compiler Collection, version 14.3.0 (wrapper script)",
@@ -46592,7 +46617,7 @@
   "legacyPackages.x86_64-linux.gccgo15": {
     "description": "System C compiler (wrapper script)",
     "pname": "gccgo-wrapper",
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   "legacyPackages.x86_64-linux.gccmakedep": {
     "description": "Creates dependencies in makefiles using 'gcc -M'",
@@ -47470,9 +47495,9 @@
     "version": "14.3.0"
   },
   "legacyPackages.x86_64-linux.gfortran15": {
-    "description": "GNU Compiler Collection, version 15.1.0 (wrapper script)",
+    "description": "GNU Compiler Collection, version 15.2.0 (wrapper script)",
     "pname": "gfortran-wrapper",
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   "legacyPackages.x86_64-linux.gfortran9": {
     "description": "GNU Compiler Collection, version 9.5.0 (wrapper script)",
@@ -47802,7 +47827,7 @@
   "legacyPackages.x86_64-linux.ghostfolio": {
     "description": "Open Source Wealth Management Software",
     "pname": "ghostfolio",
-    "version": "2.189.0"
+    "version": "2.191.1"
   },
   "legacyPackages.x86_64-linux.ghostie": {
     "description": "Github notifications in your terminal",
@@ -48137,7 +48162,7 @@
   "legacyPackages.x86_64-linux.ginkgo": {
     "description": "Modern Testing Framework for Go",
     "pname": "ginkgo",
-    "version": "2.23.4"
+    "version": "2.24.0"
   },
   "legacyPackages.x86_64-linux.ginko": {
     "description": "Device-tree source parser, analyzer and language server",
@@ -50185,14 +50210,14 @@
     "version": "25.0.0"
   },
   "legacyPackages.x86_64-linux.gnat15": {
-    "description": "GNU Compiler Collection, version 15.1.0 (wrapper script)",
+    "description": "GNU Compiler Collection, version 15.2.0 (wrapper script)",
     "pname": "gnat-wrapper",
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   "legacyPackages.x86_64-linux.gnat15Packages.gnat": {
-    "description": "GNU Compiler Collection, version 15.1.0 (wrapper script)",
+    "description": "GNU Compiler Collection, version 15.2.0 (wrapper script)",
     "pname": "gnat-wrapper",
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   "legacyPackages.x86_64-linux.gnat15Packages.gnatcoll-core": {
     "description": "GNAT Components Collection - Core packages",
@@ -55807,7 +55832,7 @@
   "legacyPackages.x86_64-linux.go-sendxmpp": {
     "description": "Tool to send messages or files to an XMPP contact or MUC",
     "pname": "go-sendxmpp",
-    "version": "0.14.1"
+    "version": "0.15.0"
   },
   "legacyPackages.x86_64-linux.go-shadowsocks2": {
     "description": "Fresh implementation of Shadowsocks in Go",
@@ -56423,6 +56448,11 @@
     "description": "Gets documentation for items in Go source code",
     "pname": "gogetdoc-unstable",
     "version": "2019-02-28"
+  },
+  "legacyPackages.x86_64-linux.gogh": {
+    "description": "Collection of color schemes for terminal emulators",
+    "pname": "gogh",
+    "version": "361"
   },
   "legacyPackages.x86_64-linux.gogui": {
     "description": "Graphical user interface to programs that play the board game Go and support the Go Text Protocol such as GNU Go",
@@ -57062,7 +57092,7 @@
   "legacyPackages.x86_64-linux.gost": {
     "description": "Simple tunnel written in golang",
     "pname": "gost",
-    "version": "3.2.3"
+    "version": "3.2.4"
   },
   "legacyPackages.x86_64-linux.gostatic": {
     "description": "Fast static site generator",
@@ -57238,6 +57268,11 @@
     "description": "Database client and tools for the Go vulnerability database, also known as vuln",
     "pname": "govulncheck",
     "version": "1.1.4"
+  },
+  "legacyPackages.x86_64-linux.gow": {
+    "description": "Missing watch mode for Go commands",
+    "pname": "gow",
+    "version": "0-unstable-2025-08-13"
   },
   "legacyPackages.x86_64-linux.gowall": {
     "description": "Tool to convert a Wallpaper's color scheme / palette",
@@ -60127,7 +60162,7 @@
   "legacyPackages.x86_64-linux.halo": {
     "description": "Self-hosted dynamic blogging program",
     "pname": "halo",
-    "version": "2.21.6"
+    "version": "2.21.7"
   },
   "legacyPackages.x86_64-linux.halp": {
     "description": "CLI tool to get help with CLI tools",
@@ -60357,7 +60392,7 @@
   "legacyPackages.x86_64-linux.harper": {
     "description": "Grammar Checker for Developers",
     "pname": "harper",
-    "version": "0.57.0"
+    "version": "0.58.0"
   },
   "legacyPackages.x86_64-linux.harsh": {
     "description": "CLI habit tracking for geeks",
@@ -60742,7 +60777,7 @@
   "legacyPackages.x86_64-linux.hcxtools": {
     "description": "Tools for capturing wlan traffic and conversion to hashcat and John the Ripper formats",
     "pname": "hcxtools",
-    "version": "7.0.0"
+    "version": "7.0.1"
   },
   "legacyPackages.x86_64-linux.hd-idle": {
     "description": "Spins down external disks after a period of idle time",
@@ -66904,6 +66939,11 @@
     "pname": "python3.13-wuwentao-midea_ac_lan",
     "version": "0.6.9"
   },
+  "legacyPackages.x86_64-linux.home-assistant-custom-components.miraie": {
+    "description": "Home Assistant component for Miraie ACs",
+    "pname": "python3.13-rkzofficial-miraie",
+    "version": "1.1.6"
+  },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.mitsubishi": {
     "description": "Home Assistant Mitsubishi Air Conditioner Integration",
     "pname": "python3.13-pymitsubishi-mitsubishi",
@@ -67307,7 +67347,7 @@
   "legacyPackages.x86_64-linux.hopper": {
     "description": "MacOS and Linux Disassembler",
     "pname": "hopper",
-    "version": "5.18.0"
+    "version": "5.19.4"
   },
   "legacyPackages.x86_64-linux.hoppet": {
     "description": "Higher Order Perturbative Parton Evolution Toolkit",
@@ -70527,7 +70567,7 @@
   "legacyPackages.x86_64-linux.igir": {
     "description": "Video game ROM collection manager to help filter, sort, patch, archive, and report on collections on any OS",
     "pname": "igir",
-    "version": "4.1.2"
+    "version": "4.2.0"
   },
   "legacyPackages.x86_64-linux.igmpproxy": {
     "description": "Daemon that routes multicast using IGMP forwarding",
@@ -72492,7 +72532,7 @@
   "legacyPackages.x86_64-linux.ipxe": {
     "description": "Network boot firmware",
     "pname": "ipxe",
-    "version": "1.21.1-unstable-2025-08-07"
+    "version": "1.21.1-unstable-2025-08-13"
   },
   "legacyPackages.x86_64-linux.iqtree": {
     "description": "Efficient and versatile phylogenomic software by maximum likelihood",
@@ -73587,7 +73627,7 @@
   "legacyPackages.x86_64-linux.jellyseerr": {
     "description": "Fork of overseerr for jellyfin support",
     "pname": "jellyseerr",
-    "version": "2.7.2"
+    "version": "2.7.3"
   },
   "legacyPackages.x86_64-linux.jellytui": {
     "description": "TUI client for Jellyfin, using mpv",
@@ -74827,7 +74867,7 @@
   "legacyPackages.x86_64-linux.justbuild": {
     "description": "Generic build tool",
     "pname": "justbuild",
-    "version": "1.6.2"
+    "version": "1.6.3"
   },
   "legacyPackages.x86_64-linux.justify": {
     "description": "Simple text alignment tool that supports left/right/center/fill justify alignment",
@@ -78477,7 +78517,7 @@
   "legacyPackages.x86_64-linux.keepass": {
     "description": "GUI password manager with strong cryptography",
     "pname": "keepass",
-    "version": "2.57.1"
+    "version": "2.59"
   },
   "legacyPackages.x86_64-linux.keepass-charactercopy": {
     "description": "",
@@ -80867,7 +80907,7 @@
   "legacyPackages.x86_64-linux.kubescape": {
     "description": "Tool for testing if Kubernetes is deployed securely",
     "pname": "kubescape",
-    "version": "3.0.37"
+    "version": "3.0.38"
   },
   "legacyPackages.x86_64-linux.kubeseal": {
     "description": "Kubernetes controller and tool for one-way encrypted Secrets",
@@ -80882,7 +80922,7 @@
   "legacyPackages.x86_64-linux.kubeshark": {
     "description": "API Traffic Viewer for Kubernetes",
     "pname": "kubeshark",
-    "version": "52.8.0"
+    "version": "52.8.1"
   },
   "legacyPackages.x86_64-linux.kubespy": {
     "description": "Tool to observe Kubernetes resources in real time",
@@ -82402,7 +82442,7 @@
   "legacyPackages.x86_64-linux.lfs": {
     "description": "Get information on your mounted disks",
     "pname": "dysk",
-    "version": "2.10.1"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.lftp": {
     "description": "File transfer program supporting a number of network protocols",
@@ -85197,7 +85237,7 @@
   "legacyPackages.x86_64-linux.libmsquic": {
     "description": "Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust",
     "pname": "libmsquic",
-    "version": "2.5.0"
+    "version": "2.5.3"
   },
   "legacyPackages.x86_64-linux.libmsym": {
     "description": "Molecular point group symmetry lib",
@@ -86712,7 +86752,7 @@
   "legacyPackages.x86_64-linux.libretro.pcsx-rearmed": {
     "description": "Port of PCSX ReARMed to libretro",
     "pname": "libretro-pcsx-rearmed",
-    "version": "0-unstable-2025-05-23"
+    "version": "0-unstable-2025-08-16"
   },
   "legacyPackages.x86_64-linux.libretro.pcsx2": {
     "description": "Port of PCSX2 to libretro",
@@ -86722,7 +86762,7 @@
   "legacyPackages.x86_64-linux.libretro.pcsx_rearmed": {
     "description": "Port of PCSX ReARMed to libretro",
     "pname": "libretro-pcsx-rearmed",
-    "version": "0-unstable-2025-05-23"
+    "version": "0-unstable-2025-08-16"
   },
   "legacyPackages.x86_64-linux.libretro.picodrive": {
     "description": "Fast MegaDrive/MegaCD/32X emulator",
@@ -86782,7 +86822,7 @@
   "legacyPackages.x86_64-linux.libretro.snes9x": {
     "description": "Port of SNES9x git to libretro",
     "pname": "libretro-snes9x",
-    "version": "0-unstable-2025-08-10"
+    "version": "0-unstable-2025-08-11"
   },
   "legacyPackages.x86_64-linux.libretro.snes9x2002": {
     "description": "Optimized port/rewrite of SNES9x 1.39 to Libretro",
@@ -86807,7 +86847,7 @@
   "legacyPackages.x86_64-linux.libretro.stella": {
     "description": "Port of Stella to libretro",
     "pname": "libretro-stella",
-    "version": "0-unstable-2025-08-07"
+    "version": "0-unstable-2025-08-18"
   },
   "legacyPackages.x86_64-linux.libretro.stella2014": {
     "description": "Port of Stella ~2014 to libretro",
@@ -92267,27 +92307,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.240"
+    "version": "570.181-5.10.240"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.240"
+    "version": "580.65.06-5.10.240"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.240-580.76.05"
+    "version": "5.10.240-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.240"
+    "version": "575.64.05-5.10.240"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.240-580.76.05"
+    "version": "5.10.240-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -92312,17 +92352,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.240"
+    "version": "570.181-5.10.240"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.240-580.76.05"
+    "version": "5.10.240-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.240-580.76.05"
+    "version": "5.10.240-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -93077,27 +93117,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "570.181-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "580.65.06-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "575.64.05-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -93122,17 +93162,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "570.181-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -93887,27 +93927,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.189"
+    "version": "570.181-5.15.189"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.189"
+    "version": "580.65.06-5.15.189"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.189-580.76.05"
+    "version": "5.15.189-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.189"
+    "version": "575.64.05-5.15.189"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.189-580.76.05"
+    "version": "5.15.189-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -93932,17 +93972,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.189"
+    "version": "570.181-5.15.189"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.189-580.76.05"
+    "version": "5.15.189-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.189-580.76.05"
+    "version": "5.15.189-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -94697,27 +94737,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "570.181-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "580.65.06-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "575.64.05-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -94742,17 +94782,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "570.181-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -95512,27 +95552,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.296"
+    "version": "570.181-5.4.296"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.296"
+    "version": "580.65.06-5.4.296"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.296-580.76.05"
+    "version": "5.4.296-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.296"
+    "version": "575.64.05-5.4.296"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.296-580.76.05"
+    "version": "5.4.296-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -95557,17 +95597,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.296"
+    "version": "570.181-5.4.296"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.296-580.76.05"
+    "version": "5.4.296-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.296-580.76.05"
+    "version": "5.4.296-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -96327,27 +96367,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "570.181-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "580.65.06-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "575.64.05-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -96372,17 +96412,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "570.181-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -97137,27 +97177,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.148"
+    "version": "570.181-6.1.148"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.148"
+    "version": "580.65.06-6.1.148"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.148-580.76.05"
+    "version": "6.1.148-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.148"
+    "version": "575.64.05-6.1.148"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.148-580.76.05"
+    "version": "6.1.148-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -97182,17 +97222,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.148"
+    "version": "570.181-6.1.148"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.148-580.76.05"
+    "version": "6.1.148-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.148-580.76.05"
+    "version": "6.1.148-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -97942,27 +97982,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "580.65.06-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "575.64.05-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -97987,17 +98027,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -98752,27 +98792,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "580.65.06-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "575.64.05-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -98797,17 +98837,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -99562,27 +99602,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "580.65.06-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "575.64.05-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -99607,17 +99647,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -100372,27 +100412,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "580.65.06-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "575.64.05-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -100417,17 +100457,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -101182,27 +101222,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "570.181-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "580.65.06-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "575.64.05-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -101227,17 +101267,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "570.181-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -101987,27 +102027,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.102"
+    "version": "570.181-6.6.102"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.102"
+    "version": "580.65.06-6.6.102"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.102-580.76.05"
+    "version": "6.6.102-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.102"
+    "version": "575.64.05-6.6.102"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.102-580.76.05"
+    "version": "6.6.102-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -102032,17 +102072,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.102"
+    "version": "570.181-6.6.102"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.102-580.76.05"
+    "version": "6.6.102-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.102-580.76.05"
+    "version": "6.6.102-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -102792,27 +102832,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "570.181-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "580.65.06-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "575.64.05-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -102837,17 +102877,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "570.181-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -103597,27 +103637,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "580.65.06-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "575.64.05-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -103642,17 +103682,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -104407,27 +104447,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "580.65.06-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "575.64.05-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -104452,17 +104492,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -105217,27 +105257,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "580.65.06-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "575.64.05-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -105262,17 +105302,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -106027,27 +106067,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "580.65.06-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "575.64.05-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -106072,17 +106112,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -106837,27 +106877,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "580.65.06-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "575.64.05-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -106882,17 +106922,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -107647,27 +107687,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "580.65.06-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "575.64.05-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -107692,17 +107732,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -108457,27 +108497,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "580.65.06-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "575.64.05-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -108502,17 +108542,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -109267,27 +109307,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "580.65.06-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "575.64.05-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -109312,17 +109352,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -110077,27 +110117,27 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "580.65.06-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "575.64.05-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -110122,17 +110162,17 @@
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -110887,27 +110927,27 @@
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "580.65.06-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "575.64.05-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -110932,17 +110972,17 @@
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -111697,27 +111737,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "570.181-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "580.65.06-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "575.64.05-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -111742,17 +111782,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.10.238"
+    "version": "570.181-5.10.238"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.10.238-580.76.05"
+    "version": "5.10.238-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_10_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -112507,27 +112547,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "570.181-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "580.65.06-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "575.64.05-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -112552,17 +112592,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.15.185"
+    "version": "570.181-5.15.185"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.15.185-580.76.05"
+    "version": "5.15.185-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_15_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -113322,27 +113362,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "570.181-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "580.65.06-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "575.64.05-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -113367,17 +113407,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-5.4.294"
+    "version": "570.181-5.4.294"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "5.4.294-580.76.05"
+    "version": "5.4.294-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_5_4_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -114132,27 +114172,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "580.65.06-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "575.64.05-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -114177,17 +114217,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_12_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -114942,27 +114982,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "570.181-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "580.65.06-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "575.64.05-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -114987,17 +115027,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.1.141"
+    "version": "570.181-6.1.141"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.1.141-580.76.05"
+    "version": "6.1.141-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_1_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -115747,27 +115787,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "570.181-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "580.65.06-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "575.64.05-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -115792,17 +115832,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.6.94"
+    "version": "570.181-6.6.94"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.6.94-580.76.05"
+    "version": "6.6.94-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_6_6_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -116557,27 +116597,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "580.65.06-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "575.64.05-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -116602,17 +116642,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.34"
+    "version": "570.181-6.12.34"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.34-580.76.05"
+    "version": "6.12.34-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_hardened.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -117367,27 +117407,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "580.65.06-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "575.64.05-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -117412,17 +117452,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest-libre.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -118177,27 +118217,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "580.65.06-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "575.64.05-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -118222,17 +118262,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -118987,27 +119027,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "580.65.06-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "575.64.05-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -119032,17 +119072,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -119797,27 +119837,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "580.65.06-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "575.64.05-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -119842,17 +119882,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.12.42"
+    "version": "570.181-6.12.42"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.12.42-580.76.05"
+    "version": "6.12.42-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -120607,27 +120647,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "580.65.06-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "575.64.05-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -120652,17 +120692,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -121417,27 +121457,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "580.65.06-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "575.64.05-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -121462,17 +121502,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.15.10"
+    "version": "570.181-6.15.10"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.15.10-580.76.05"
+    "version": "6.15.10-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -122227,27 +122267,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "580.65.06-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "575.64.05-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -122272,17 +122312,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.76.05-6.16.1"
+    "version": "570.181-6.16.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.76.05"
+    "version": "6.16.1-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
@@ -135092,7 +135132,7 @@
   "legacyPackages.x86_64-linux.matrix-authentication-service": {
     "description": "OAuth2.0 + OpenID Provider for Matrix Homeservers",
     "pname": "matrix-authentication-service",
-    "version": "0.20.0"
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.matrix-brandy": {
     "description": "Matrix Brandy BASIC VI for Linux, Windows, MacOSX",
@@ -135287,7 +135327,7 @@
   "legacyPackages.x86_64-linux.mautrix-meta": {
     "description": "Matrix <-> Facebook and Matrix <-> Instagram hybrid puppeting/relaybot bridge",
     "pname": "mautrix-meta",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.mautrix-signal": {
     "description": "Matrix-Signal puppeting bridge",
@@ -135542,7 +135582,7 @@
   "legacyPackages.x86_64-linux.mcp-grafana": {
     "description": "MCP server for Grafana",
     "pname": "mcp-grafana",
-    "version": "0.6.2"
+    "version": "0.6.3"
   },
   "legacyPackages.x86_64-linux.mcp-k8s-go": {
     "description": "MCP server connecting to Kubernetes",
@@ -135885,9 +135925,9 @@
     "version": "0.2.5"
   },
   "legacyPackages.x86_64-linux.mdsf": {
-    "description": "Tool for formatting a linting markdown code snippets using language specific tools",
+    "description": "Format markdown code blocks using your favorite tools",
     "pname": "mdsf",
-    "version": "0.5.1"
+    "version": "0.10.4"
   },
   "legacyPackages.x86_64-linux.mdsh": {
     "description": "Markdown shell pre-processor",
@@ -136127,7 +136167,7 @@
   "legacyPackages.x86_64-linux.meilisearch": {
     "description": "Powerful, fast, and an easy to use search engine",
     "pname": "meilisearch",
-    "version": "1.15.2"
+    "version": "1.17.1"
   },
   "legacyPackages.x86_64-linux.meilisearch_1_11": {
     "description": "Powerful, fast, and an easy to use search engine",
@@ -136327,7 +136367,7 @@
   "legacyPackages.x86_64-linux.meowlnir": {
     "description": "Opinionated Matrix moderation bot",
     "pname": "meowlnir",
-    "version": "0.6.0"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.meowpdf": {
     "description": "PDF viewer for the Kitty terminal with GUI-like usage and Vim-like keybindings written in Rust",
@@ -138042,7 +138082,7 @@
   "legacyPackages.x86_64-linux.mitra": {
     "description": "Federated micro-blogging platform",
     "pname": "mitra",
-    "version": "4.7.0"
+    "version": "4.8.0"
   },
   "legacyPackages.x86_64-linux.mitscheme": {
     "description": "MIT/GNU Scheme, a native code Scheme compiler",
@@ -138592,7 +138632,7 @@
   "legacyPackages.x86_64-linux.mockgen": {
     "description": "Mocking framework for the Go programming language",
     "pname": "mockgen",
-    "version": "0.5.2"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.mockobjects": {
     "description": "Generic unit testing framework and methodology for testing any kind of code",
@@ -138607,7 +138647,7 @@
   "legacyPackages.x86_64-linux.mod": {
     "description": "Automated Semantic Import Versioning Upgrades for Go",
     "pname": "mod",
-    "version": "0.8.0"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.mod-arpeggiator-lv2": {
     "description": "LV2 arpeggiator",
@@ -139832,7 +139872,7 @@
   "legacyPackages.x86_64-linux.mprisence": {
     "description": "Highly customizable Discord Rich Presence for MPRIS media players on Linux",
     "pname": "mprisence",
-    "version": "1.2.4"
+    "version": "1.2.5"
   },
   "legacyPackages.x86_64-linux.mprocs": {
     "description": "TUI tool to run multiple commands in parallel and show the output of each command separately",
@@ -140362,17 +140402,17 @@
   "legacyPackages.x86_64-linux.mrustc": {
     "description": "Mutabah's Rust Compiler",
     "pname": "mrustc",
-    "version": "0.10.1"
+    "version": "0.11.2"
   },
   "legacyPackages.x86_64-linux.mrustc-bootstrap": {
     "description": "Minimal build of Rust",
     "pname": "mrustc-bootstrap",
-    "version": "0.10.1_1.54.0"
+    "version": "0.11.2_1.54.0"
   },
   "legacyPackages.x86_64-linux.mrustc-minicargo": {
     "description": "Minimalist builder for Rust",
     "pname": "mrustc-minicargo",
-    "version": "0.10.1"
+    "version": "0.11.2"
   },
   "legacyPackages.x86_64-linux.mrxvt": {
     "description": "Lightweight multitabbed feature-rich X11 terminal emulator",
@@ -140737,7 +140777,7 @@
   "legacyPackages.x86_64-linux.muffon": {
     "description": "Advanced multi-source music streaming client",
     "pname": "muffon",
-    "version": "2.2.0"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.mujmap": {
     "description": "JMAP integration for notmuch mail",
@@ -140747,7 +140787,7 @@
   "legacyPackages.x86_64-linux.mujoco": {
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator",
     "pname": "mujoco",
-    "version": "3.3.4"
+    "version": "3.3.5"
   },
   "legacyPackages.x86_64-linux.mujs": {
     "description": "Lightweight, embeddable Javascript interpreter",
@@ -144007,7 +144047,7 @@
   "legacyPackages.x86_64-linux.niriswitcher": {
     "description": "Application switcher for niri",
     "pname": "python3.13-niriswitcher",
-    "version": "0.7.0"
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.nitch": {
     "description": "Incredibly fast system fetch written in nim",
@@ -146277,7 +146317,7 @@
   "legacyPackages.x86_64-linux.nsc": {
     "description": "Tool for creating NATS account and user access configurations",
     "pname": "nsc",
-    "version": "2.11.0"
+    "version": "2.11.1"
   },
   "legacyPackages.x86_64-linux.nsd": {
     "description": "Authoritative only, high performance, simple and open source name server",
@@ -146867,7 +146907,7 @@
   "legacyPackages.x86_64-linux.nvidia-modprobe": {
     "description": "Load the NVIDIA kernel module and create NVIDIA character device files ",
     "pname": "nvidia-modprobe",
-    "version": "580.65.06"
+    "version": "580.76.05"
   },
   "legacyPackages.x86_64-linux.nvidia-optical-flow-sdk": {
     "description": "Nvidia optical flow headers for computing the relative motion of pixels between images",
@@ -146943,6 +146983,11 @@
     "description": "Aims to be similar to VSCode Remote, but for Neovim",
     "pname": "nvrh",
     "version": "0.1.23"
+  },
+  "legacyPackages.x86_64-linux.nvs": {
+    "description": "Lightweight Neovim Version & Config Manager CLI tool to install, switch, list, uninstall, and reset Neovim versions",
+    "pname": "nvs",
+    "version": "1.10.6"
   },
   "legacyPackages.x86_64-linux.nvtopPackages.amd": {
     "description": "htop-like task monitor for AMD, Adreno, Intel and NVIDIA GPUs",
@@ -147542,7 +147587,7 @@
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-teleport": {
     "description": "OBS Studio plugin for an open NDI-like replacement",
     "pname": "obs-teleport",
-    "version": "0.7.4"
+    "version": "0.7.5"
   },
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-text-pthread": {
     "description": "Rich text source plugin for OBS Studio",
@@ -154142,12 +154187,12 @@
   "legacyPackages.x86_64-linux.olympus": {
     "description": "Cross-platform GUI Everest installer and Celeste mod manager",
     "pname": "olympus",
-    "version": "25.07.26.04"
+    "version": "25.08.17.03"
   },
   "legacyPackages.x86_64-linux.olympus-unwrapped": {
     "description": "Cross-platform GUI Everest installer and Celeste mod manager",
     "pname": "olympus-unwrapped",
-    "version": "25.07.26.04"
+    "version": "25.08.17.03"
   },
   "legacyPackages.x86_64-linux.om4": {
     "description": "Portable OpenBSD m4 macro processor",
@@ -157127,7 +157172,7 @@
   "legacyPackages.x86_64-linux.oterm": {
     "description": "Text-based terminal client for Ollama",
     "pname": "oterm",
-    "version": "0.14.1"
+    "version": "0.14.3"
   },
   "legacyPackages.x86_64-linux.otf2": {
     "description": "Open Trace Format 2 library",
@@ -159832,7 +159877,7 @@
   "legacyPackages.x86_64-linux.peazip": {
     "description": "File and archive manager",
     "pname": "peazip",
-    "version": "10.6.0"
+    "version": "10.6.1"
   },
   "legacyPackages.x86_64-linux.pebble": {
     "description": "Small RFC 8555 ACME test server",
@@ -192847,7 +192892,7 @@
   "legacyPackages.x86_64-linux.pigment": {
     "description": "Extract color palettes from your images",
     "pname": "pigment",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.pigpio": {
     "description": "C library for the Raspberry which allows control of the General Purpose Input Outputs (GPIO)",
@@ -193487,7 +193532,7 @@
   "legacyPackages.x86_64-linux.pkgsite": {
     "description": "Official tool to extract and generate documentation for Go projects like pkg.go.dev",
     "pname": "pkgsite",
-    "version": "0-unstable-2025-07-21"
+    "version": "0-unstable-2025-08-14"
   },
   "legacyPackages.x86_64-linux.pkgtop": {
     "description": "Interactive package manager and resource monitor designed for the GNU/Linux",
@@ -196462,7 +196507,7 @@
   "legacyPackages.x86_64-linux.platformsh": {
     "description": "Unified tool for managing your Platform.sh services from the command line",
     "pname": "platformsh",
-    "version": "5.1.1"
+    "version": "5.2.0"
   },
   "legacyPackages.x86_64-linux.platinum-searcher": {
     "description": "Code search tool similar to ack and the_silver_searcher(ag)",
@@ -200377,7 +200422,7 @@
   "legacyPackages.x86_64-linux.pragtical": {
     "description": "Practical and pragmatic code editor",
     "pname": "pragtical",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.prboom-plus": {
     "description": "Advanced, Vanilla-compatible Doom engine based on PrBoom",
@@ -203652,7 +203697,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aioamazondevices": {
     "description": "Python library to control Amazon devices",
     "pname": "python3.12-aioamazondevices",
-    "version": "4.0.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.aioambient": {
     "description": "Python library for the Ambient Weather API",
@@ -204377,7 +204422,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aioslimproto": {
     "description": "Module to control Squeezebox players",
     "pname": "python3.12-aioslimproto",
-    "version": "3.1.0"
+    "version": "3.1.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.aiosmb": {
     "description": "Python SMB library",
@@ -205367,7 +205412,7 @@
   "legacyPackages.x86_64-linux.python312Packages.argparse-manpage": {
     "description": "Automatically build man-pages for your Python project",
     "pname": "python3.12-argparse-manpage",
-    "version": "4.6"
+    "version": "4.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.args": {
     "description": "Command Arguments for Humans",
@@ -207107,7 +207152,7 @@
   "legacyPackages.x86_64-linux.python312Packages.bandit": {
     "description": "Security oriented static analyser for python code",
     "pname": "python3.12-bandit",
-    "version": "1.8.5"
+    "version": "1.8.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.bangla": {
     "description": "Bangla is a package for Bangla language users with various functionalities including Bangla date and Bangla numeric conversation",
@@ -211137,7 +211182,7 @@
   "legacyPackages.x86_64-linux.python312Packages.databricks-sdk": {
     "description": "Databricks SDK for Python",
     "pname": "python3.12-databricks-sdk",
-    "version": "0.62.0"
+    "version": "0.63.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.databricks-sql-connector": {
     "description": "Databricks SQL Connector for Python",
@@ -213247,7 +213292,7 @@
   "legacyPackages.x86_64-linux.python312Packages.djangorestframework-stubs": {
     "description": "PEP-484 stubs for Django REST Framework",
     "pname": "python3.12-djangorestframework-stubs",
-    "version": "3.16.1"
+    "version": "3.16.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.djangosaml2": {
     "description": "Django SAML2 Service Provider based on pySAML2",
@@ -214247,7 +214292,7 @@
   "legacyPackages.x86_64-linux.python312Packages.edk2-pytool-library": {
     "description": "Python library package that supports UEFI development",
     "pname": "python3.12-edk2-pytool-library",
-    "version": "0.23.6"
+    "version": "0.23.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.edlib": {
     "description": "Lightweight, fast C/C++ library for sequence alignment using edit distance",
@@ -217742,7 +217787,7 @@
   "legacyPackages.x86_64-linux.python312Packages.google-cloud-compute": {
     "description": "API Client library for Google Cloud Compute",
     "pname": "python3.12-google-cloud-compute",
-    "version": "1.34.0"
+    "version": "1.35.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.google-cloud-container": {
     "description": "Google Container Engine API client library",
@@ -217967,7 +218012,7 @@
   "legacyPackages.x86_64-linux.python312Packages.google-genai": {
     "description": "Google Generative AI Python SDK",
     "pname": "python3.12-google-genai",
-    "version": "1.29.0"
+    "version": "1.31.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.google-generativeai": {
     "description": "Python client library for Google's large language model PaLM API",
@@ -219067,7 +219112,7 @@
   "legacyPackages.x86_64-linux.python312Packages.hf-xet": {
     "description": "Xet client tech, used in huggingface_hub",
     "pname": "python3.12-hf-xet",
-    "version": "1.1.7"
+    "version": "1.1.8"
   },
   "legacyPackages.x86_64-linux.python312Packages.hfst": {
     "description": "Python bindings for HFST",
@@ -223812,7 +223857,7 @@
   "legacyPackages.x86_64-linux.python312Packages.lm-eval": {
     "description": "Framework for few-shot evaluation of language models",
     "pname": "python3.12-lm-eval",
-    "version": "0.4.8"
+    "version": "0.4.9.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.lm-format-enforcer": {
     "description": "Enforce the output format (JSON Schema, Regex etc) of a language model",
@@ -225344,6 +225389,11 @@
     "pname": "python3.12-mir-eval",
     "version": "0.8.2"
   },
+  "legacyPackages.x86_64-linux.python312Packages.miraie-ac": {
+    "description": "Python library for controlling Panasonic Miraie ACs",
+    "pname": "python3.12-miraie-ac",
+    "version": "1.1.1"
+  },
   "legacyPackages.x86_64-linux.python312Packages.mirakuru": {
     "description": "Process orchestration tool designed for functional and integration tests",
     "pname": "python3.12-mirakuru",
@@ -226267,12 +226317,12 @@
   "legacyPackages.x86_64-linux.python312Packages.mujoco": {
     "description": "Python bindings for MuJoCo: a general purpose physics simulator",
     "pname": "python3.12-mujoco",
-    "version": "3.3.4"
+    "version": "3.3.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.mujoco-mjx": {
     "description": "MuJoCo XLA (MJX)",
     "pname": "python3.12-mujoco-mjx",
-    "version": "3.3.4"
+    "version": "3.3.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.mujson": {
     "description": "Use the fastest JSON functions available at import time",
@@ -230057,7 +230107,7 @@
   "legacyPackages.x86_64-linux.python312Packages.openrgb-python": {
     "description": "Module for the OpenRGB SDK",
     "pname": "python3.12-openrgb-python",
-    "version": "0.3.3"
+    "version": "0.3.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.openrouteservice": {
     "description": "Python API to consume openrouteservice(s) painlessly",
@@ -230407,7 +230457,7 @@
   "legacyPackages.x86_64-linux.python312Packages.orbax-checkpoint": {
     "description": "Orbax provides common utility libraries for JAX users",
     "pname": "python3.12-orbax-checkpoint",
-    "version": "0.11.22"
+    "version": "0.11.23"
   },
   "legacyPackages.x86_64-linux.python312Packages.ordered-set": {
     "description": "MutableSet that remembers its order, so that every entry has an index",
@@ -232067,7 +232117,7 @@
   "legacyPackages.x86_64-linux.python312Packages.plaid-python": {
     "description": "Python client library for the Plaid API and Link",
     "pname": "python3.12-plaid-python",
-    "version": "35.0.0"
+    "version": "36.0.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.planetary-computer": {
     "description": "Planetary Computer SDK for Python",
@@ -232487,7 +232537,7 @@
   "legacyPackages.x86_64-linux.python312Packages.posthog": {
     "description": "Module for interacting with PostHog",
     "pname": "python3.12-posthog",
-    "version": "6.5.0"
+    "version": "6.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pot": {
     "description": "Python Optimal Transport Library",
@@ -234402,7 +234452,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pydevccu": {
     "description": "HomeMatic CCU XML-RPC Server with fake devices",
     "pname": "python3.12-pydevccu",
-    "version": "0.1.11"
+    "version": "0.1.15"
   },
   "legacyPackages.x86_64-linux.python312Packages.pydevd": {
     "description": "PyDev.Debugger (used in PyDev, PyCharm and VSCode Python)",
@@ -235642,7 +235692,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pylibjpeg-openjpeg": {
     "description": "J2K and JP2 plugin for pylibjpeg",
     "pname": "python3.12-pylibjpeg-openjpeg",
-    "version": "2.4.0"
+    "version": "2.5.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyliblo3": {
     "description": "Python wrapper for the liblo OSC library",
@@ -242357,7 +242407,7 @@
   "legacyPackages.x86_64-linux.python312Packages.rocketchat-api": {
     "description": "Python API wrapper for Rocket.Chat",
     "pname": "python3.12-rocketchat-api",
-    "version": "1.35.1"
+    "version": "1.35.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.roku": {
     "description": "Screw remotes. Control your Roku with Python",
@@ -244937,7 +244987,7 @@
   "legacyPackages.x86_64-linux.python312Packages.spectral-cube": {
     "description": "Library for reading and analyzing astrophysical spectral data cubes",
     "pname": "python3.12-spectral-cube",
-    "version": "0.6.6"
+    "version": "0.6.6-unstable-2025-06-11"
   },
   "legacyPackages.x86_64-linux.python312Packages.speechbrain": {
     "description": "PyTorch-based Speech Toolkit",
@@ -246947,7 +246997,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.12-tencentcloud-sdk-python",
-    "version": "3.0.1444"
+    "version": "3.0.1446"
   },
   "legacyPackages.x86_64-linux.python312Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -247472,7 +247522,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tidalapi": {
     "description": "Unofficial Python API for TIDAL music streaming service",
     "pname": "python3.12-tidalapi",
-    "version": "0.8.5"
+    "version": "0.8.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.tidyexc": {
     "description": "Raise rich, helpful exceptions",
@@ -248942,7 +248992,7 @@
   "legacyPackages.x86_64-linux.python312Packages.trimesh": {
     "description": "Python library for loading and using triangular meshes",
     "pname": "python3.12-trimesh",
-    "version": "4.7.3"
+    "version": "4.7.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.trino-python-client": {
     "description": "Client for the Trino distributed SQL Engine",
@@ -255182,7 +255232,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aioamazondevices": {
     "description": "Python library to control Amazon devices",
     "pname": "python3.13-aioamazondevices",
-    "version": "4.0.0"
+    "version": "4.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.aioambient": {
     "description": "Python library for the Ambient Weather API",
@@ -255907,7 +255957,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aioslimproto": {
     "description": "Module to control Squeezebox players",
     "pname": "python3.13-aioslimproto",
-    "version": "3.1.0"
+    "version": "3.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiosmb": {
     "description": "Python SMB library",
@@ -256897,7 +256947,7 @@
   "legacyPackages.x86_64-linux.python313Packages.argparse-manpage": {
     "description": "Automatically build man-pages for your Python project",
     "pname": "python3.13-argparse-manpage",
-    "version": "4.6"
+    "version": "4.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.args": {
     "description": "Command Arguments for Humans",
@@ -258642,7 +258692,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bandit": {
     "description": "Security oriented static analyser for python code",
     "pname": "python3.13-bandit",
-    "version": "1.8.5"
+    "version": "1.8.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.bangla": {
     "description": "Bangla is a package for Bangla language users with various functionalities including Bangla date and Bangla numeric conversation",
@@ -262672,7 +262722,7 @@
   "legacyPackages.x86_64-linux.python313Packages.databricks-sdk": {
     "description": "Databricks SDK for Python",
     "pname": "python3.13-databricks-sdk",
-    "version": "0.62.0"
+    "version": "0.63.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.databricks-sql-connector": {
     "description": "Databricks SQL Connector for Python",
@@ -264782,7 +264832,7 @@
   "legacyPackages.x86_64-linux.python313Packages.djangorestframework-stubs": {
     "description": "PEP-484 stubs for Django REST Framework",
     "pname": "python3.13-djangorestframework-stubs",
-    "version": "3.16.1"
+    "version": "3.16.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.djangosaml2": {
     "description": "Django SAML2 Service Provider based on pySAML2",
@@ -265782,7 +265832,7 @@
   "legacyPackages.x86_64-linux.python313Packages.edk2-pytool-library": {
     "description": "Python library package that supports UEFI development",
     "pname": "python3.13-edk2-pytool-library",
-    "version": "0.23.6"
+    "version": "0.23.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.edlib": {
     "description": "Lightweight, fast C/C++ library for sequence alignment using edit distance",
@@ -269277,7 +269327,7 @@
   "legacyPackages.x86_64-linux.python313Packages.google-cloud-compute": {
     "description": "API Client library for Google Cloud Compute",
     "pname": "python3.13-google-cloud-compute",
-    "version": "1.34.0"
+    "version": "1.35.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.google-cloud-container": {
     "description": "Google Container Engine API client library",
@@ -269502,7 +269552,7 @@
   "legacyPackages.x86_64-linux.python313Packages.google-genai": {
     "description": "Google Generative AI Python SDK",
     "pname": "python3.13-google-genai",
-    "version": "1.29.0"
+    "version": "1.31.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.google-generativeai": {
     "description": "Python client library for Google's large language model PaLM API",
@@ -270602,7 +270652,7 @@
   "legacyPackages.x86_64-linux.python313Packages.hf-xet": {
     "description": "Xet client tech, used in huggingface_hub",
     "pname": "python3.13-hf-xet",
-    "version": "1.1.7"
+    "version": "1.1.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.hfst": {
     "description": "Python bindings for HFST",
@@ -275347,7 +275397,7 @@
   "legacyPackages.x86_64-linux.python313Packages.lm-eval": {
     "description": "Framework for few-shot evaluation of language models",
     "pname": "python3.13-lm-eval",
-    "version": "0.4.8"
+    "version": "0.4.9.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.lm-format-enforcer": {
     "description": "Enforce the output format (JSON Schema, Regex etc) of a language model",
@@ -276879,6 +276929,11 @@
     "pname": "python3.13-mir-eval",
     "version": "0.8.2"
   },
+  "legacyPackages.x86_64-linux.python313Packages.miraie-ac": {
+    "description": "Python library for controlling Panasonic Miraie ACs",
+    "pname": "python3.13-miraie-ac",
+    "version": "1.1.1"
+  },
   "legacyPackages.x86_64-linux.python313Packages.mirakuru": {
     "description": "Process orchestration tool designed for functional and integration tests",
     "pname": "python3.13-mirakuru",
@@ -277802,12 +277857,12 @@
   "legacyPackages.x86_64-linux.python313Packages.mujoco": {
     "description": "Python bindings for MuJoCo: a general purpose physics simulator",
     "pname": "python3.13-mujoco",
-    "version": "3.3.4"
+    "version": "3.3.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.mujoco-mjx": {
     "description": "MuJoCo XLA (MJX)",
     "pname": "python3.13-mujoco-mjx",
-    "version": "3.3.4"
+    "version": "3.3.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.mujson": {
     "description": "Use the fastest JSON functions available at import time",
@@ -281592,7 +281647,7 @@
   "legacyPackages.x86_64-linux.python313Packages.openrgb-python": {
     "description": "Module for the OpenRGB SDK",
     "pname": "python3.13-openrgb-python",
-    "version": "0.3.3"
+    "version": "0.3.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.openrouteservice": {
     "description": "Python API to consume openrouteservice(s) painlessly",
@@ -281942,7 +281997,7 @@
   "legacyPackages.x86_64-linux.python313Packages.orbax-checkpoint": {
     "description": "Orbax provides common utility libraries for JAX users",
     "pname": "python3.13-orbax-checkpoint",
-    "version": "0.11.22"
+    "version": "0.11.23"
   },
   "legacyPackages.x86_64-linux.python313Packages.ordered-set": {
     "description": "MutableSet that remembers its order, so that every entry has an index",
@@ -283602,7 +283657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.plaid-python": {
     "description": "Python client library for the Plaid API and Link",
     "pname": "python3.13-plaid-python",
-    "version": "35.0.0"
+    "version": "36.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.planetary-computer": {
     "description": "Planetary Computer SDK for Python",
@@ -284022,7 +284077,7 @@
   "legacyPackages.x86_64-linux.python313Packages.posthog": {
     "description": "Module for interacting with PostHog",
     "pname": "python3.13-posthog",
-    "version": "6.5.0"
+    "version": "6.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pot": {
     "description": "Python Optimal Transport Library",
@@ -285937,7 +285992,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pydevccu": {
     "description": "HomeMatic CCU XML-RPC Server with fake devices",
     "pname": "python3.13-pydevccu",
-    "version": "0.1.11"
+    "version": "0.1.15"
   },
   "legacyPackages.x86_64-linux.python313Packages.pydevd": {
     "description": "PyDev.Debugger (used in PyDev, PyCharm and VSCode Python)",
@@ -287177,7 +287232,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pylibjpeg-openjpeg": {
     "description": "J2K and JP2 plugin for pylibjpeg",
     "pname": "python3.13-pylibjpeg-openjpeg",
-    "version": "2.4.0"
+    "version": "2.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyliblo3": {
     "description": "Python wrapper for the liblo OSC library",
@@ -293892,7 +293947,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rocketchat-api": {
     "description": "Python API wrapper for Rocket.Chat",
     "pname": "python3.13-rocketchat-api",
-    "version": "1.35.1"
+    "version": "1.35.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.roku": {
     "description": "Screw remotes. Control your Roku with Python",
@@ -296472,7 +296527,7 @@
   "legacyPackages.x86_64-linux.python313Packages.spectral-cube": {
     "description": "Library for reading and analyzing astrophysical spectral data cubes",
     "pname": "python3.13-spectral-cube",
-    "version": "0.6.6"
+    "version": "0.6.6-unstable-2025-06-11"
   },
   "legacyPackages.x86_64-linux.python313Packages.speechbrain": {
     "description": "PyTorch-based Speech Toolkit",
@@ -298527,7 +298582,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.0.1444"
+    "version": "3.0.1446"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -299052,7 +299107,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tidalapi": {
     "description": "Unofficial Python API for TIDAL music streaming service",
     "pname": "python3.13-tidalapi",
-    "version": "0.8.5"
+    "version": "0.8.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.tidyexc": {
     "description": "Raise rich, helpful exceptions",
@@ -300522,7 +300577,7 @@
   "legacyPackages.x86_64-linux.python313Packages.trimesh": {
     "description": "Python library for loading and using triangular meshes",
     "pname": "python3.13-trimesh",
-    "version": "4.7.3"
+    "version": "4.7.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.trino-python-client": {
     "description": "Client for the Trino distributed SQL Engine",
@@ -310822,7 +310877,7 @@
   "legacyPackages.x86_64-linux.riffdiff": {
     "description": "Diff filter highlighting which line parts have changed",
     "pname": "riffdiff",
-    "version": "3.4.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.rifiuti": {
     "description": "Analyze Windows Recycle Bin INFO2 file",
@@ -312494,6 +312549,11 @@
     "pname": "rofi-mpd",
     "version": "2.2.1"
   },
+  "legacyPackages.x86_64-linux.rofi-nerdy": {
+    "description": "Nerd font icon selector plugin for rofi",
+    "pname": "rofi-nerdy",
+    "version": "0.0.8"
+  },
   "legacyPackages.x86_64-linux.rofi-network-manager": {
     "description": "Manage wifi and ethernet with rofi",
     "pname": "rofi-network-manager",
@@ -312862,7 +312922,7 @@
   "legacyPackages.x86_64-linux.roxctl": {
     "description": "Command-line client of the StackRox Kubernetes Security Platform",
     "pname": "roxctl",
-    "version": "4.8.1"
+    "version": "4.8.2"
   },
   "legacyPackages.x86_64-linux.roxterm": {
     "description": "Highly configurable terminal emulator",
@@ -312967,7 +313027,7 @@
   "legacyPackages.x86_64-linux.rqlite": {
     "description": "Lightweight, distributed relational database built on SQLite",
     "pname": "rqlite",
-    "version": "8.43.2"
+    "version": "8.43.3"
   },
   "legacyPackages.x86_64-linux.rquickshare": {
     "description": "Rust implementation of NearbyShare/QuickShare from Android for Linux and macOS",
@@ -313273,6 +313333,11 @@
     "description": "Daemon that hands out real-time priority to processes",
     "pname": "rtkit",
     "version": "0.13"
+  },
+  "legacyPackages.x86_64-linux.rtklib-ex": {
+    "description": "Open Source Program Package for GNSS Positioning",
+    "pname": "rtklib-ex",
+    "version": "2.5.0"
   },
   "legacyPackages.x86_64-linux.rtl-ais": {
     "description": "Simple AIS tuner and generic dual-frequency FM demodulator",
@@ -323977,7 +324042,7 @@
   "legacyPackages.x86_64-linux.rundeck": {
     "description": "Job scheduler and runbook automation",
     "pname": "rundeck",
-    "version": "5.13.0-20250625"
+    "version": "5.14.1-20250818"
   },
   "legacyPackages.x86_64-linux.rundeck-cli": {
     "description": "Official CLI tool for Rundeck",
@@ -324247,7 +324312,7 @@
   "legacyPackages.x86_64-linux.rustical": {
     "description": "Yet another calendar server aiming to be simple, fast and passwordless",
     "pname": "rustical",
-    "version": "0.8.4"
+    "version": "0.8.6"
   },
   "legacyPackages.x86_64-linux.rustlings": {
     "description": "Explore the Rust programming language and learn more about it while doing exercises",
@@ -349297,7 +349362,7 @@
   "legacyPackages.x86_64-linux.scraper": {
     "description": "Tool to query HTML files with CSS selectors",
     "pname": "scraper",
-    "version": "0.23.1"
+    "version": "0.24.0"
   },
   "legacyPackages.x86_64-linux.scrcpy": {
     "description": "Display and control Android devices over USB or TCP/IP",
@@ -350047,7 +350112,7 @@
   "legacyPackages.x86_64-linux.seqkit": {
     "description": "Cross-platform and ultrafast toolkit for FASTA/Q file manipulation",
     "pname": "seqkit",
-    "version": "2.10.0"
+    "version": "2.10.1"
   },
   "legacyPackages.x86_64-linux.seqtk": {
     "description": "Toolkit for processing sequences in FASTA/Q formats",
@@ -351187,7 +351252,7 @@
   "legacyPackages.x86_64-linux.signalbackup-tools": {
     "description": "Tool to work with Signal Backup files",
     "pname": "signalbackup-tools",
-    "version": "20250817"
+    "version": "20250818-1"
   },
   "legacyPackages.x86_64-linux.signaturepdf": {
     "description": "Web software for signing PDFs and also organize pages, edit metadata and compress pdf",
@@ -351332,7 +351397,7 @@
   "legacyPackages.x86_64-linux.simdutf": {
     "description": "Unicode routines validation and transcoding at billions of characters per second",
     "pname": "simdutf",
-    "version": "7.3.5"
+    "version": "7.3.6"
   },
   "legacyPackages.x86_64-linux.simg2img": {
     "description": "Tool to convert Android sparse images to raw images",
@@ -353627,7 +353692,7 @@
   "legacyPackages.x86_64-linux.spacetimedb": {
     "description": "Full-featured relational database system that lets you run your application logic inside the database",
     "pname": "spacetimedb",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.spacevim": {
     "description": "Modular Vim/Neovim configuration",
@@ -359237,7 +359302,7 @@
   "legacyPackages.x86_64-linux.telegraf": {
     "description": "Plugin-driven server agent for collecting & reporting metrics",
     "pname": "telegraf",
-    "version": "1.35.3"
+    "version": "1.35.4"
   },
   "legacyPackages.x86_64-linux.telegram-bot-api": {
     "description": "Telegram Bot API server",
@@ -359977,7 +360042,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.datadog": {
     "description": "",
     "pname": "terraform-provider-datadog",
-    "version": "3.70.0"
+    "version": "3.71.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.deno": {
     "description": "",
@@ -360087,7 +360152,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
     "pname": "terraform-provider-google-beta",
-    "version": "6.47.0"
+    "version": "6.48.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.googleworkspace": {
     "description": "",
@@ -360097,7 +360162,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.grafana": {
     "description": "",
     "pname": "terraform-provider-grafana",
-    "version": "4.3.0"
+    "version": "4.5.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.gridscale": {
     "description": "",
@@ -360252,7 +360317,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.migadu": {
     "description": "",
     "pname": "terraform-provider-migadu",
-    "version": "2025.8.7"
+    "version": "2025.8.14"
   },
   "legacyPackages.x86_64-linux.terraform-providers.minio": {
     "description": "",
@@ -360337,7 +360402,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.opentelekomcloud": {
     "description": "",
     "pname": "terraform-provider-opentelekomcloud",
-    "version": "1.36.44"
+    "version": "1.36.45"
   },
   "legacyPackages.x86_64-linux.terraform-providers.openwrt": {
     "description": "",
@@ -360592,7 +360657,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.venafi": {
     "description": "",
     "pname": "terraform-provider-venafi",
-    "version": "0.22.3"
+    "version": "0.22.4"
   },
   "legacyPackages.x86_64-linux.terraform-providers.vinyldns": {
     "description": "",
@@ -360622,7 +360687,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.vultr": {
     "description": "",
     "pname": "terraform-provider-vultr",
-    "version": "2.26.0"
+    "version": "2.27.1"
   },
   "legacyPackages.x86_64-linux.terraform-providers.wavefront": {
     "description": "",
@@ -361212,7 +361277,7 @@
   "legacyPackages.x86_64-linux.tests.cc-wrapper.gccTests.gcc15Stdenv": {
     "description": "",
     "pname": "cc-wrapper-test-gcc",
-    "version": "15.1.0"
+    "version": "15.2.0"
   },
   "legacyPackages.x86_64-linux.tests.cc-wrapper.gccTests.gcc9Stdenv": {
     "description": "",
@@ -389642,7 +389707,7 @@
   "legacyPackages.x86_64-linux.timeline": {
     "description": "Display and navigate information on a timeline",
     "pname": "timeline",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.timeloop": {
     "description": "Chip modeling/mapping benchmarking framework",
@@ -390312,7 +390377,7 @@
   "legacyPackages.x86_64-linux.tmuxPlugins.extrakto": {
     "description": "Fuzzy find your text with fzf instead of selecting it by hand ",
     "pname": "tmuxplugin-extrakto",
-    "version": "0-unstable-2024-08-25"
+    "version": "0-unstable-2025-07-27"
   },
   "legacyPackages.x86_64-linux.tmuxPlugins.fingers": {
     "description": "",
@@ -392992,7 +393057,7 @@
   "legacyPackages.x86_64-linux.ttyplot": {
     "description": "Simple general purpose plotting utility for tty with data input from stdin",
     "pname": "ttyplot",
-    "version": "1.7.3"
+    "version": "1.7.4"
   },
   "legacyPackages.x86_64-linux.ttysvr": {
     "description": "Screen saver for your terminal",
@@ -393502,7 +393567,7 @@
   "legacyPackages.x86_64-linux.ty": {
     "description": "Extremely fast Python type checker and language server, written in Rust",
     "pname": "ty",
-    "version": "0.0.1-alpha.18"
+    "version": "0.0.1-alpha.19"
   },
   "legacyPackages.x86_64-linux.tydra": {
     "description": "Shortcut menu-based task runner, inspired by Emacs Hydra",
@@ -393597,7 +393662,7 @@
   "legacyPackages.x86_64-linux.typos": {
     "description": "Source code spell checker",
     "pname": "typos",
-    "version": "1.35.3"
+    "version": "1.35.5"
   },
   "legacyPackages.x86_64-linux.typos-lsp": {
     "description": "Source code spell checker",
@@ -409607,7 +409672,7 @@
   "legacyPackages.x86_64-linux.upbound-main": {
     "description": "CLI for interacting with Upbound Cloud, Upbound Enterprise, and Universal Crossplane (UXP)",
     "pname": "upbound-main",
-    "version": "0.41.0-0.rc.0.26.ge82e8330"
+    "version": "0.41.0-0.rc.0.93.g469ed591"
   },
   "legacyPackages.x86_64-linux.upcloud-cli": {
     "description": "Command-line tool for managing UpCloud services",
@@ -412135,7 +412200,7 @@
     "version": "2025-06-07"
   },
   "legacyPackages.x86_64-linux.vimPlugins.blink-cmp-words": {
-    "description": "",
+    "description": "Offline word and synonym completion provider for Neovim",
     "pname": "vimplugin-blink-cmp-words",
     "version": "2025-08-06"
   },
@@ -413390,7 +413455,7 @@
     "version": "2024-08-06"
   },
   "legacyPackages.x86_64-linux.vimPlugins.demicolon-nvim": {
-    "description": "",
+    "description": "Overloaded ; and , keys in Neovim",
     "pname": "vimplugin-demicolon.nvim",
     "version": "2025-08-11"
   },
@@ -423717,7 +423782,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.asvetliakov.vscode-neovim": {
     "description": "Vim-mode for VS Code using embedded Neovim",
     "pname": "vscode-extension-asvetliakov-vscode-neovim",
-    "version": "1.18.23"
+    "version": "1.18.24"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.attilabuti.brainfuck-syntax": {
     "description": "VSCode extension providing syntax highlighting support for Brainfuck",
@@ -425457,7 +425522,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.svelte.svelte-vscode": {
     "description": "Svelte language support for VS Code",
     "pname": "vscode-extension-svelte-svelte-vscode",
-    "version": "109.10.1"
+    "version": "109.11.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.svsool.markdown-memo": {
     "description": "Markdown knowledge base with bidirectional [[link]]s built on top of VSCode",
@@ -427077,7 +427142,7 @@
   "legacyPackages.x86_64-linux.weaver": {
     "description": "OpenTelemetry tool for dealing with semantic conventions and application telemetry schemas",
     "pname": "weaver",
-    "version": "0.16.1"
+    "version": "0.17.1"
   },
   "legacyPackages.x86_64-linux.weaviate": {
     "description": "ML-first vector search engine",
@@ -427742,7 +427807,7 @@
   "legacyPackages.x86_64-linux.whitesur-icon-theme": {
     "description": "MacOS Big Sur style icon theme for Linux desktops",
     "pname": "Whitesur-icon-theme",
-    "version": "2025-02-10"
+    "version": "2025-08-02"
   },
   "legacyPackages.x86_64-linux.whitesur-kde": {
     "description": "MacOS big sur like theme for KDE Plasma desktop",
@@ -429582,7 +429647,7 @@
   "legacyPackages.x86_64-linux.wtfis": {
     "description": "Passive hostname, domain and IP lookup tool for non-robots",
     "pname": "wtfis",
-    "version": "0.12.0"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.wtfutil": {
     "description": "Personal information dashboard for your terminal",
@@ -429669,6 +429734,11 @@
     "pname": "wxwidgets",
     "version": "3.2.8.1"
   },
+  "legacyPackages.x86_64-linux.wxGTK33": {
+    "description": "Cross-Platform C++ GUI Library",
+    "pname": "wxwidgets",
+    "version": "3.3.1"
+  },
   "legacyPackages.x86_64-linux.wxSVG": {
     "description": "SVG manipulation library built with wxWidgets",
     "pname": "wxsvg",
@@ -429708,6 +429778,11 @@
     "description": "Simple SQLite database browser built with wxWidgets",
     "pname": "wxsqliteplus",
     "version": "0.4.0"
+  },
+  "legacyPackages.x86_64-linux.wxwidgets_3_3": {
+    "description": "Cross-Platform C++ GUI Library",
+    "pname": "wxwidgets",
+    "version": "3.3.1"
   },
   "legacyPackages.x86_64-linux.wyoming-faster-whisper": {
     "description": "Wyoming Server for Faster Whisper",
@@ -434157,7 +434232,7 @@
   "legacyPackages.x86_64-linux.youtubeuploader": {
     "description": "Scripted uploads to Youtube using Golang",
     "pname": "youtubeuploader",
-    "version": "1.25.3"
+    "version": "1.25.5"
   },
   "legacyPackages.x86_64-linux.ypbind-mt": {
     "description": "Multithreaded daemon maintaining the NIS binding informations",
@@ -434367,7 +434442,7 @@
   "legacyPackages.x86_64-linux.yyjson": {
     "description": "Fastest JSON library in C",
     "pname": "yyjson",
-    "version": "0.11.1"
+    "version": "0.12.0"
   },
   "legacyPackages.x86_64-linux.z-lua": {
     "description": "New cd command that helps you navigate faster by learning your habits",
@@ -434822,7 +434897,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "0.199.9"
+    "version": "0.199.10"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
@@ -435492,7 +435567,7 @@
   "legacyPackages.x86_64-linux.zoekt": {
     "description": "Fast trigram based code search",
     "pname": "zoekt",
-    "version": "3.7.2-2-unstable-2025-08-05"
+    "version": "3.7.2-2-unstable-2025-08-18"
   },
   "legacyPackages.x86_64-linux.zola": {
     "description": "Fast static site generator with everything built-in",
@@ -435537,7 +435612,7 @@
   "legacyPackages.x86_64-linux.zoom-us": {
     "description": "zoom.us video conferencing application",
     "pname": "zoom",
-    "version": "6.5.9.3723"
+    "version": "6.5.10.3973"
   },
   "legacyPackages.x86_64-linux.zopfli": {
     "description": "Very good, but slow, deflate or zlib compression",
