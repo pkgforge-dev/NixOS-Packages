@@ -342,6 +342,10 @@ legacyPackages.x86_64-linux._0x:
   description: Colorful, configurable xxd
   pname: 0x
   version: 0-unstable-2022-07-11
+legacyPackages.x86_64-linux._0xffff:
+  description: Open Free Fiasco Firmware Flasher for Maemo devices
+  pname: "0xFFFF"
+  version: "0.10"
 legacyPackages.x86_64-linux._0xpropo:
   description: Proportional version of the 0xProto font
   pname: 0xpropo
@@ -801,7 +805,7 @@ legacyPackages.x86_64-linux.acr-cli:
 legacyPackages.x86_64-linux.acsccid:
   description: PC/SC driver for Linux/Mac OS X and it supports ACS CCID smart card readers
   pname: acsccid
-  version: 1.1.8
+  version: 1.1.12
 legacyPackages.x86_64-linux.act:
   description: Run your GitHub Actions locally
   pname: act
@@ -3593,7 +3597,7 @@ legacyPackages.x86_64-linux.ammonite_3_3:
 legacyPackages.x86_64-linux.amnezia-vpn:
   description: Amnezia VPN Client
   pname: amnezia-vpn
-  version: 4.8.9.1
+  version: 4.8.9.2
 legacyPackages.x86_64-linux.amneziawg-go:
   description: Userspace Go implementation of AmneziaWG
   pname: amneziawg-go
@@ -7505,7 +7509,7 @@ legacyPackages.x86_64-linux.argo-workflows:
 legacyPackages.x86_64-linux.argocd:
   description: Declarative continuous deployment for Kubernetes
   pname: argocd
-  version: 2.14.11
+  version: 3.1.0
 legacyPackages.x86_64-linux.argocd-autopilot:
   description: ArgoCD Autopilot
   pname: argocd-autopilot
@@ -7973,7 +7977,7 @@ legacyPackages.x86_64-linux.asciiquarium:
 legacyPackages.x86_64-linux.asciiquarium-transparent:
   description: Aquarium/sea animation in ASCII art (with option of transparent background)
   pname: asciiquarium-transparent
-  version: "1.3"
+  version: "1.4"
 legacyPackages.x86_64-linux.asdbctl:
   description: Apple Studio Display brightness controll
   pname: asdbctl
@@ -8913,7 +8917,7 @@ legacyPackages.x86_64-linux.audio-sharing:
 legacyPackages.x86_64-linux.audiobookshelf:
   description: Self-hosted audiobook and podcast server
   pname: audiobookshelf
-  version: 2.28.0
+  version: 2.29.0
 legacyPackages.x86_64-linux.audiofile:
   description: Library for reading and writing audio files in various formats
   pname: audiofile
@@ -10981,7 +10985,7 @@ legacyPackages.x86_64-linux.bazecor:
 legacyPackages.x86_64-linux.bazel:
   description: Build tool that builds code quickly and reliably
   pname: bazel
-  version: 6.5.0
+  version: 7.6.0
 legacyPackages.x86_64-linux.bazel-buildtools:
   description: Tools for working with Google's bazel buildtool. Includes buildifier, buildozer, and unused_deps
   pname: bazel-buildtools
@@ -11002,10 +11006,6 @@ legacyPackages.x86_64-linux.bazel-watcher:
   description: Tools for building Bazel targets when source files change
   pname: bazel-watcher
   version: 0.26.10
-legacyPackages.x86_64-linux.bazel_6:
-  description: Build tool that builds code quickly and reliably
-  pname: bazel
-  version: 6.5.0
 legacyPackages.x86_64-linux.bazel_7:
   description: Build tool that builds code quickly and reliably
   pname: bazel
@@ -11725,7 +11725,7 @@ legacyPackages.x86_64-linux.beep:
 legacyPackages.x86_64-linux.beeper:
   description: Universal chat app
   pname: beeper
-  version: 4.1.111
+  version: 4.1.135
 legacyPackages.x86_64-linux.beeper-bridge-manager:
   description: Tool for running self-hosted bridges with the Beeper Matrix server
   pname: bbctl
@@ -12810,6 +12810,10 @@ legacyPackages.x86_64-linux.bloop:
   description: Scala build server and command-line tool to make the compile and test developer workflows fast and productive in a build-tool-agnostic way
   pname: bloop
   version: 2.0.13
+legacyPackages.x86_64-linux.blowfish-tools:
+  description: CLI to initialize and configure a Blowfish project
+  pname: blowfish-tools
+  version: 1.10.0
 legacyPackages.x86_64-linux.blst:
   description: Multilingual BLS12-381 signature library
   pname: blst
@@ -19465,7 +19469,7 @@ legacyPackages.x86_64-linux.chonburi-font:
 legacyPackages.x86_64-linux.choose:
   description: Human-friendly and fast alternative to cut and (sometimes) awk
   pname: choose
-  version: 1.3.6
+  version: 1.3.7
 legacyPackages.x86_64-linux.choose-gui:
   description: Fuzzy matcher for OS X that uses both std{in,out} and a native GUI
   pname: choose-gui
@@ -19582,10 +19586,6 @@ legacyPackages.x86_64-linux.chunksync:
   description: Space-efficient incremental backups of large files or block devices
   pname: chunksync
   version: "0.4"
-legacyPackages.x86_64-linux.ci-edit:
-  description: Terminal text editor with mouse support and ctrl+Q to quit
-  pname: ci-edit
-  version: 51-unstable-2023-04-11
 legacyPackages.x86_64-linux.ciano:
   description: Multimedia file converter focused on simplicity
   pname: ciano
@@ -19721,7 +19721,7 @@ legacyPackages.x86_64-linux.circom:
 legacyPackages.x86_64-linux.circt:
   description: Circuit IR compilers and tools
   pname: circt
-  version: 1.125.0
+  version: 1.128.0
 legacyPackages.x86_64-linux.circumflex:
   description: Command line tool for browsing Hacker News in your terminal
   pname: circumflex
@@ -20101,7 +20101,7 @@ legacyPackages.x86_64-linux.clatd:
 legacyPackages.x86_64-linux.claude-code:
   description: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
   pname: claude-code
-  version: 1.0.90
+  version: 1.0.92
 legacyPackages.x86_64-linux.claws:
   description: Interactive command line client for testing websocket servers
   pname: claws
@@ -20909,11 +20909,11 @@ legacyPackages.x86_64-linux.codd:
 legacyPackages.x86_64-linux.code-cursor:
   description: AI-powered code editor built on vscode
   pname: cursor
-  version: 1.4.5
+  version: 1.5.5
 legacyPackages.x86_64-linux.code-cursor-fhs:
   description: Wrapped variant of cursor which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
   pname: cursor
-  version: 1.4.5
+  version: 1.5.5
 legacyPackages.x86_64-linux.code-maat:
   description: Command line tool to mine and analyze data from version-control systems
   pname: code-maat
@@ -23073,7 +23073,7 @@ legacyPackages.x86_64-linux.cri-o-unwrapped:
 legacyPackages.x86_64-linux.cri-tools:
   description: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
   pname: cri-tools
-  version: 1.33.0
+  version: 1.34.0
 legacyPackages.x86_64-linux.crictty:
   description: Terminal-based cricket scorecard viewer
   pname: crictty
@@ -25321,7 +25321,7 @@ legacyPackages.x86_64-linux.dbqn-native:
 legacyPackages.x86_64-linux.dbt:
   description: Enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications
   pname: dbt-core
-  version: 1.10.6
+  version: 1.10.9
 legacyPackages.x86_64-linux.dbtpl:
   description: Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
   pname: dbtpl
@@ -25342,22 +25342,6 @@ legacyPackages.x86_64-linux.dbus-glib:
   description: Obsolete glib bindings for D-Bus lightweight IPC mechanism
   pname: dbus-glib
   version: "0.114"
-legacyPackages.x86_64-linux.dbus-sharp-1_0:
-  description: D-Bus for .NET
-  pname: dbus-sharp
-  version: "0.7"
-legacyPackages.x86_64-linux.dbus-sharp-2_0:
-  description: D-Bus for .NET
-  pname: dbus-sharp
-  version: 0.8.1
-legacyPackages.x86_64-linux.dbus-sharp-glib-1_0:
-  description: 'D-Bus for .NET: GLib integration module'
-  pname: dbus-sharp-glib
-  version: "0.5"
-legacyPackages.x86_64-linux.dbus-sharp-glib-2_0:
-  description: 'D-Bus for .NET: GLib integration module'
-  pname: dbus-sharp-glib
-  version: "0.6"
 legacyPackages.x86_64-linux.dbus-test-runner:
   description: Small little utility to run a couple of executables under a new DBus session for testing
   pname: dbus-test-runner-unstable
@@ -26837,7 +26821,7 @@ legacyPackages.x86_64-linux.diylc:
 legacyPackages.x86_64-linux.django-upgrade:
   description: Automatically upgrade your Django projects
   pname: django-upgrade
-  version: 1.22.2
+  version: 1.25.0
 legacyPackages.x86_64-linux.djbdns:
   description: Collection of Domain Name System tools
   pname: djbdns
@@ -27409,7 +27393,7 @@ legacyPackages.x86_64-linux.doclifter:
 legacyPackages.x86_64-linux.docling:
   description: Get your documents ready for gen AI
   pname: docling
-  version: 2.43.0
+  version: 2.47.1
 legacyPackages.x86_64-linux.docling-serve:
   description: Running Docling as an API service
   pname: docling-serve
@@ -29684,8 +29668,8 @@ legacyPackages.x86_64-linux.edl:
   version: 3.52.1-unstable-2025-07-31
 legacyPackages.x86_64-linux.edlib:
   description: Lightweight, fast C/C++ library for sequence alignment using edit distance
-  pname: edlib-unstable
-  version: "2021-08-20"
+  pname: edlib
+  version: 1.3.9.post1
 legacyPackages.x86_64-linux.edlin:
   description: FreeDOS line editor
   pname: edlin
@@ -30222,10 +30206,6 @@ legacyPackages.x86_64-linux.elliptic_curves:
   description: Databases of elliptic curves
   pname: elliptic_curves
   version: 0.8.1
-legacyPackages.x86_64-linux.elm-github-install:
-  description: Install Elm packages from git repositories
-  pname: elm-github-install
-  version: 1.0.1
 legacyPackages.x86_64-linux.elm-land:
   description: Production-ready framework for building Elm applications
   pname: elm-land
@@ -30441,7 +30421,7 @@ legacyPackages.x86_64-linux.emanote:
 legacyPackages.x86_64-linux.embellish:
   description: User-friendly application designed for managing Nerd Fonts on your system
   pname: embellish
-  version: 0.4.7
+  version: 0.5.1
 legacyPackages.x86_64-linux.ember-cli:
   description: Ember.js command line utility
   pname: ember-cli
@@ -31456,8 +31436,8 @@ legacyPackages.x86_64-linux.evdevhook2:
   version: 1.0.2
 legacyPackages.x86_64-linux.evdevremapkeys:
   description: Daemon to remap events on linux input devices
-  pname: python3.13-evdevremapkeys-unstable
-  version: "2021-05-04"
+  pname: python3.13-evdevremapkeys
+  version: 1.0.0
 legacyPackages.x86_64-linux.evebox:
   description: Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search
   pname: evebox
@@ -32781,7 +32761,7 @@ legacyPackages.x86_64-linux.fcron:
 legacyPackages.x86_64-linux.fd:
   description: Simple, fast and user-friendly alternative to find
   pname: fd
-  version: 10.2.0
+  version: 10.3.0
 legacyPackages.x86_64-linux.fdk-aac-encoder:
   description: Command line encoder frontend for libfdk-aac encoder
   pname: fdkaac
@@ -32801,7 +32781,7 @@ legacyPackages.x86_64-linux.fdroidcl:
 legacyPackages.x86_64-linux.fdroidserver:
   description: Server and tools for F-Droid, the Free Software repository system for Android
   pname: fdroidserver
-  version: 2.4.0
+  version: 2.4.2
 legacyPackages.x86_64-linux.fdtools:
   description: Set of utilities for working with file descriptors
   pname: fdtools
@@ -33098,6 +33078,18 @@ legacyPackages.x86_64-linux.ffmpeg_7-headless:
   description: Complete, cross-platform solution to record, convert and stream audio and video
   pname: ffmpeg-headless
   version: 7.1.1
+legacyPackages.x86_64-linux.ffmpeg_8:
+  description: Complete, cross-platform solution to record, convert and stream audio and video
+  pname: ffmpeg
+  version: "8.0"
+legacyPackages.x86_64-linux.ffmpeg_8-full:
+  description: Complete, cross-platform solution to record, convert and stream audio and video
+  pname: ffmpeg-full
+  version: "8.0"
+legacyPackages.x86_64-linux.ffmpeg_8-headless:
+  description: Complete, cross-platform solution to record, convert and stream audio and video
+  pname: ffmpeg-headless
+  version: "8.0"
 legacyPackages.x86_64-linux.ffmpegthumbnailer:
   description: Lightweight video thumbnailer
   pname: ffmpegthumbnailer-unstable
@@ -33949,7 +33941,7 @@ legacyPackages.x86_64-linux.flamerobin:
 legacyPackages.x86_64-linux.flameshot:
   description: Powerful yet simple to use screenshot software
   pname: flameshot
-  version: 13.0.1
+  version: 13.1.0
 legacyPackages.x86_64-linux.flamp:
   description: Digital modem program
   pname: flamp
@@ -34357,7 +34349,7 @@ legacyPackages.x86_64-linux.fluent-gtk-theme:
 legacyPackages.x86_64-linux.fluent-icon-theme:
   description: Fluent icon theme for linux desktops
   pname: Fluent-icon-theme
-  version: "2025-02-26"
+  version: "2025-08-21"
 legacyPackages.x86_64-linux.fluent-reader:
   description: Modern desktop RSS reader built with Electron, React, and Fluent UI
   pname: fluent-reader
@@ -34829,7 +34821,7 @@ legacyPackages.x86_64-linux.forge:
 legacyPackages.x86_64-linux.forge-mtg:
   description: 'Magic: the Gathering card game with rules enforcement'
   pname: forge-mtg
-  version: 1.6.65
+  version: 2.0.05
 legacyPackages.x86_64-linux.forge-sparks:
   description: Get Git forges notifications
   pname: forge-sparks
@@ -35433,7 +35425,7 @@ legacyPackages.x86_64-linux.froide-govplan:
 legacyPackages.x86_64-linux.fromager:
   description: Wheel maker
   pname: fromager
-  version: 0.47.0
+  version: 0.59.0
 legacyPackages.x86_64-linux.frostwire-bin:
   description: BitTorrent Client and Cloud File Downloader
   pname: frostwire
@@ -36001,7 +35993,7 @@ legacyPackages.x86_64-linux.galerio:
 legacyPackages.x86_64-linux.gallery-dl:
   description: Command-line program to download image-galleries and -collections from several image hosting sites
   pname: gallery-dl
-  version: 1.30.4
+  version: 1.30.5
 legacyPackages.x86_64-linux.galleta:
   description: Examine the contents of the IE's cookie files for forensic purposes
   pname: galleta
@@ -37561,7 +37553,7 @@ legacyPackages.x86_64-linux.ghost-cli:
 legacyPackages.x86_64-linux.ghostfolio:
   description: Open Source Wealth Management Software
   pname: ghostfolio
-  version: 2.191.1
+  version: 2.193.0
 legacyPackages.x86_64-linux.ghostie:
   description: Github notifications in your terminal
   pname: ghostie
@@ -48409,7 +48401,7 @@ legacyPackages.x86_64-linux.higan:
 legacyPackages.x86_64-linux.high-tide:
   description: Libadwaita TIDAL client for Linux
   pname: high-tide
-  version: 1.0.0
+  version: 1.1.0
 legacyPackages.x86_64-linux.highfive:
   description: Header-only C++ HDF5 interface
   pname: highfive
@@ -52865,7 +52857,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.waste_collection_sc
 legacyPackages.x86_64-linux.home-assistant-custom-components.xiaomi_gateway3:
   description: Home Assistant custom component for control Xiaomi Multimode Gateway (aka Gateway 3), Xiaomi Multimode Gateway 2, Aqara Hub E1 on default firmwares over LAN
   pname: python3.13-AlexxIT-xiaomi_gateway3
-  version: 4.1.0
+  version: 4.1.2
 legacyPackages.x86_64-linux.home-assistant-custom-components.xiaomi_miot:
   description: Automatic integrate all Xiaomi devices to HomeAssistant via miot-spec, support Wi-Fi, BLE, ZigBee devices
   pname: python3.13-al-one-xiaomi_miot
@@ -53021,7 +53013,7 @@ legacyPackages.x86_64-linux.homebridge-config-ui-x:
 legacyPackages.x86_64-linux.homepage-dashboard:
   description: Highly customisable dashboard with Docker and service API integrations
   pname: homepage-dashboard
-  version: 1.3.2
+  version: 1.4.6
 legacyPackages.x86_64-linux.homer:
   description: Very simple static homepage for your server
   pname: homer
@@ -57958,6 +57950,10 @@ legacyPackages.x86_64-linux.jdd:
   description: Johnny Decimal daemon for automatically organizing files into the correct drawer using their filename
   pname: jdd
   version: 0.4.5
+legacyPackages.x86_64-linux.jdenticon-cli:
+  description: JavaScript library for generating highly recognizable identicons using HTML5 canvas or SVG.
+  pname: jdenticon-cli
+  version: 3.3.0
 legacyPackages.x86_64-linux.jdepend:
   description: Traverses Java class file directories and generates design quality metrics for each Java package
   pname: jdepend
@@ -58557,7 +58553,7 @@ legacyPackages.x86_64-linux.joplin:
 legacyPackages.x86_64-linux.joplin-desktop:
   description: Open source note taking and to-do application with synchronisation capabilities
   pname: joplin-desktop
-  version: 3.3.13
+  version: 3.4.6
 legacyPackages.x86_64-linux.jose:
   description: C-language implementation of Javascript Object Signing and Encryption
   pname: jose
@@ -58789,7 +58785,7 @@ legacyPackages.x86_64-linux.jsluice:
 legacyPackages.x86_64-linux.json-fortran:
   description: Modern Fortran JSON API
   pname: json-fortran
-  version: 9.0.4
+  version: 9.0.5
 legacyPackages.x86_64-linux.json-glib:
   description: Library providing (de)serialization support for the JavaScript Object Notation (JSON) format
   pname: json-glib
@@ -62769,7 +62765,7 @@ legacyPackages.x86_64-linux.kobodeluxe:
 legacyPackages.x86_64-linux.koboldcpp:
   description: Way to run various GGML and GGUF models
   pname: koboldcpp
-  version: 1.97.4
+  version: "1.98"
 legacyPackages.x86_64-linux.koboredux:
   description: Frantic 80's style 2D shooter, similar to XKobo and Kobo Deluxe
   pname: koboredux
@@ -66970,6 +66966,10 @@ legacyPackages.x86_64-linux.libjpeg:
   description: Faster (using SIMD) libjpeg implementation
   pname: libjpeg-turbo
   version: 3.1.1
+legacyPackages.x86_64-linux.libjpeg-tools:
+  description: A complete implementation of 10918-1 (JPEG) coming from jpeg.org (the ISO group) with extensions for HDR, lossless and alpha channel coding standardized as ISO/IEC 18477 (JPEG XT)
+  pname: libjpeg-tools
+  version: "1.71"
 legacyPackages.x86_64-linux.libjpeg8:
   description: Faster (using SIMD) libjpeg implementation
   pname: libjpeg-turbo
@@ -68425,7 +68425,7 @@ legacyPackages.x86_64-linux.libretro.bsnes-mercury-performance:
 legacyPackages.x86_64-linux.libretro.citra:
   description: Port of Citra to libretro
   pname: libretro-citra
-  version: 0-unstable-2025-06-22
+  version: 0-unstable-2025-08-17
 legacyPackages.x86_64-linux.libretro.desmume:
   description: Port of DeSmuME to libretro
   pname: libretro-desmume
@@ -69985,7 +69985,7 @@ legacyPackages.x86_64-linux.libsigcxx30:
 legacyPackages.x86_64-linux.libsignal-ffi:
   description: C ABI library which exposes Signal protocol logic
   pname: libsignal-ffi
-  version: 0.76.1
+  version: 0.78.2
 legacyPackages.x86_64-linux.libsignal-protocol-c:
   description: Signal Protocol C Library
   pname: libsignal-protocol-c
@@ -72197,7 +72197,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-5.10.240
+  version: 2.3.4-5.10.240
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -72841,7 +72841,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-5.15.189
+  version: 2.3.4-5.15.189
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -73489,7 +73489,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-5.4.296
+  version: 2.3.4-5.4.296
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -74129,7 +74129,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.1.148
+  version: 2.3.4-6.1.148
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -74773,7 +74773,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.43
+  version: 2.3.4-6.12.43
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -75417,7 +75417,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.41
+  version: 2.3.4-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -76061,7 +76061,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.15.11
+  version: 2.3.4-6.15.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -76705,7 +76705,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.15.9
+  version: 2.3.4-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -77349,7 +77349,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.3
+  version: 2.3.4-6.16.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -77989,7 +77989,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.6.102
+  version: 2.3.4-6.6.102
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -78633,7 +78633,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.41
+  version: 2.3.4-6.12.41
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -79277,7 +79277,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.3
+  version: 2.3.4-6.16.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -79921,7 +79921,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.43
+  version: 2.3.4-6.12.43
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -80565,7 +80565,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.3
+  version: 2.3.4-6.16.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -81209,7 +81209,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.43
+  version: 2.3.4-6.12.43
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -81853,7 +81853,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.15.11
+  version: 2.3.4-6.15.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -82497,7 +82497,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.15.11
+  version: 2.3.4-6.15.11
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -83141,7 +83141,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_2:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.1
+  version: 2.3.4-6.16.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -83785,7 +83785,7 @@ legacyPackages.x86_64-linux.linuxPackages-libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages-libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.43
+  version: 2.3.4-6.12.43
 legacyPackages.x86_64-linux.linuxPackages-libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -84429,7 +84429,7 @@ legacyPackages.x86_64-linux.linuxPackages.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.43
+  version: 2.3.4-6.12.43
 legacyPackages.x86_64-linux.linuxPackages.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -85077,7 +85077,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.3
+  version: 2.3.4-6.16.3
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -85721,7 +85721,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.3
+  version: 2.3.4-6.16.3
 legacyPackages.x86_64-linux.linuxPackages_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -86365,7 +86365,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.3
+  version: 2.3.4-6.16.3
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -87009,7 +87009,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.12.43
+  version: 2.3.4-6.12.43
 legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -87653,7 +87653,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.15.11
+  version: 2.3.4-6.15.11
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -88297,7 +88297,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.15.11
+  version: 2.3.4-6.15.11
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -88941,7 +88941,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_2:
 legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.3-6.16.1
+  version: 2.3.4-6.16.1
 legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
@@ -98065,179 +98065,179 @@ legacyPackages.x86_64-linux.maphosts:
 legacyPackages.x86_64-linux.maple-mono.CN:
   description: 'Open source monospace CN font with round corner and ligatures for IDE and command line '
   pname: MapleMono-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.CN-unhinted:
   description: 'Open source monospace CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMono-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NF:
   description: 'Open source Nerd Font font with round corner and ligatures for IDE and command line '
   pname: MapleMono-NF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NF-CN:
   description: 'Open source Nerd Font CN font with round corner and ligatures for IDE and command line '
   pname: MapleMono-NF-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NF-CN-unhinted:
   description: 'Open source Nerd Font CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMono-NF-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NF-unhinted:
   description: 'Open source Nerd Font unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMono-NF-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-CN:
   description: 'Open source No Ligature monospace CN font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-CN-unhinted:
   description: 'Open source No Ligature monospace CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-NF:
   description: 'Open source No Ligature Nerd Font font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-NF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-NF-CN:
   description: 'Open source No Ligature Nerd Font CN font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-NF-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-NF-CN-unhinted:
   description: 'Open source No Ligature Nerd Font CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-NF-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-NF-unhinted:
   description: 'Open source No Ligature Nerd Font unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-NF-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-OTF:
   description: 'Open source No Ligature OpenType font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-OTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-TTF:
   description: 'Open source No Ligature monospace TrueType font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-TTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-TTF-AutoHint:
   description: 'Open source No Ligature monospace ttf autohint font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-TTF-AutoHint
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-Variable:
   description: 'Open source No Ligature monospace variable font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-Variable
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NL-Woff2:
   description: 'Open source No Ligature WOFF2.0 font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNL-Woff2
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-CN:
   description: 'Open source Normal Ligature monospace CN font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-CN-unhinted:
   description: 'Open source Normal Ligature monospace CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-NF:
   description: 'Open source Normal Ligature Nerd Font font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-NF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-NF-CN:
   description: 'Open source Normal Ligature Nerd Font CN font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-NF-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-NF-CN-unhinted:
   description: 'Open source Normal Ligature Nerd Font CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-NF-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-NF-unhinted:
   description: 'Open source Normal Ligature Nerd Font unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-NF-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-OTF:
   description: 'Open source Normal Ligature OpenType font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-OTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-TTF:
   description: 'Open source Normal Ligature monospace TrueType font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-TTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-TTF-AutoHint:
   description: 'Open source Normal Ligature monospace ttf autohint font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-TTF-AutoHint
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-Variable:
   description: 'Open source Normal Ligature monospace variable font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-Variable
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.Normal-Woff2:
   description: 'Open source Normal Ligature WOFF2.0 font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormal-Woff2
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-CN:
   description: 'Open source Normal No Ligature monospace CN font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-CN-unhinted:
   description: 'Open source Normal No Ligature monospace CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-NF:
   description: 'Open source Normal No Ligature Nerd Font font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-NF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-NF-CN:
   description: 'Open source Normal No Ligature Nerd Font CN font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-NF-CN
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-NF-CN-unhinted:
   description: 'Open source Normal No Ligature Nerd Font CN unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-NF-CN-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-NF-unhinted:
   description: 'Open source Normal No Ligature Nerd Font unhinted font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-NF-unhinted
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-OTF:
   description: 'Open source Normal No Ligature OpenType font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-OTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-TTF:
   description: 'Open source Normal No Ligature monospace TrueType font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-TTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-TTF-AutoHint:
   description: 'Open source Normal No Ligature monospace ttf autohint font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-TTF-AutoHint
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-Variable:
   description: 'Open source Normal No Ligature monospace variable font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-Variable
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.NormalNL-Woff2:
   description: 'Open source Normal No Ligature WOFF2.0 font with round corner and ligatures for IDE and command line '
   pname: MapleMonoNormalNL-Woff2
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.opentype:
   description: 'Open source OpenType font with round corner and ligatures for IDE and command line '
   pname: MapleMono-OTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.truetype:
   description: 'Open source monospace TrueType font with round corner and ligatures for IDE and command line '
   pname: MapleMono-TTF
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.truetype-autohint:
   description: 'Open source monospace ttf autohint font with round corner and ligatures for IDE and command line '
   pname: MapleMono-TTF-AutoHint
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.variable:
   description: 'Open source monospace variable font with round corner and ligatures for IDE and command line '
   pname: MapleMono-Variable
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.maple-mono.woff2:
   description: 'Open source WOFF2.0 font with round corner and ligatures for IDE and command line '
   pname: MapleMono-Woff2
-  version: "7.4"
+  version: "7.6"
 legacyPackages.x86_64-linux.mapnik:
   description: Open source toolkit for developing mapping applications
   pname: mapnik
@@ -99045,7 +99045,7 @@ legacyPackages.x86_64-linux.mautrix-meta:
 legacyPackages.x86_64-linux.mautrix-signal:
   description: Matrix-Signal puppeting bridge
   pname: mautrix-signal
-  version: 0.8.5
+  version: 0.8.6
 legacyPackages.x86_64-linux.mautrix-slack:
   description: Matrix-Slack puppeting bridge
   pname: mautrix-slack
@@ -99057,7 +99057,7 @@ legacyPackages.x86_64-linux.mautrix-telegram:
 legacyPackages.x86_64-linux.mautrix-whatsapp:
   description: Matrix <-> Whatsapp hybrid puppeting/relaybot bridge
   pname: mautrix-whatsapp
-  version: 0.12.3
+  version: 0.12.4
 legacyPackages.x86_64-linux.maven:
   description: Build automation tool (used primarily for Java projects)
   pname: maven
@@ -100666,6 +100666,10 @@ legacyPackages.x86_64-linux.minecraftia:
   description: Cool Minecraft font
   pname: minecraftia
   version: "1.0"
+legacyPackages.x86_64-linux.minefair:
+  description: Fair and infinite implementation of Minesweeper
+  pname: minefair
+  version: 1.5.0
 legacyPackages.x86_64-linux.minesector:
   description: Snazzy Minesweeper-based game built with SDL2
   pname: minesector
@@ -101229,7 +101233,7 @@ legacyPackages.x86_64-linux.mitm6:
 legacyPackages.x86_64-linux.mitmproxy:
   description: Man-in-the-middle proxy
   pname: mitmproxy
-  version: 12.1.1
+  version: 12.1.2
 legacyPackages.x86_64-linux.mitmproxy2swagger:
   description: Tool to automagically reverse-engineer REST APIs
   pname: mitmproxy2swagger
@@ -101425,7 +101429,7 @@ legacyPackages.x86_64-linux.mle:
 legacyPackages.x86_64-linux.mlflow-server:
   description: Open source platform for the machine learning lifecycle
   pname: mlflow
-  version: 3.1.4
+  version: 3.3.1
 legacyPackages.x86_64-linux.mlib:
   description: Library of generic and type safe containers in pure C language
   pname: mlib
@@ -103413,7 +103417,7 @@ legacyPackages.x86_64-linux.mullvad:
 legacyPackages.x86_64-linux.mullvad-browser:
   description: Privacy-focused browser made in a collaboration between The Tor Project and Mullvad
   pname: mullvad-browser
-  version: 14.5.5
+  version: 14.5.6
 legacyPackages.x86_64-linux.mullvad-closest:
   description: Find Mullvad servers with the lowest latency at your location
   pname: mullvad-closest-unstable
@@ -103869,15 +103873,15 @@ legacyPackages.x86_64-linux.mysql-client:
 legacyPackages.x86_64-linux.mysql-shell:
   description: New command line scriptable shell for MySQL
   pname: mysql-shell
-  version: 8.4.5
+  version: 8.4.6
 legacyPackages.x86_64-linux.mysql-shell-innovation:
   description: New command line scriptable shell for MySQL
   pname: mysql-shell-innovation
-  version: 9.3.0
+  version: 9.4.0
 legacyPackages.x86_64-linux.mysql-shell_8:
   description: New command line scriptable shell for MySQL
   pname: mysql-shell
-  version: 8.4.5
+  version: 8.4.6
 legacyPackages.x86_64-linux.mysql-workbench:
   description: Visual MySQL database modeling, administration and querying tool
   pname: mysql-workbench
@@ -104449,7 +104453,7 @@ legacyPackages.x86_64-linux.ncrack:
 legacyPackages.x86_64-linux.ncspot:
   description: Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes
   pname: ncspot
-  version: 1.3.0
+  version: 1.3.1
 legacyPackages.x86_64-linux.ncurses:
   description: Free software emulation of curses in SVR4 and more
   pname: ncurses
@@ -105625,7 +105629,7 @@ legacyPackages.x86_64-linux.nexusmods-app-unfree:
 legacyPackages.x86_64-linux.nezha:
   description: Self-hosted, lightweight server and website monitoring and O&M tool
   pname: nezha
-  version: 1.13.0
+  version: 1.13.1
 legacyPackages.x86_64-linux.nezha-agent:
   description: Agent of Nezha Monitoring
   pname: nezha-agent
@@ -105837,7 +105841,7 @@ legacyPackages.x86_64-linux.niftyseg:
 legacyPackages.x86_64-linux.nightfox-gtk-theme:
   description: GTK theme based on the Nightfox colour palette
   pname: nightfox-gtk-theme
-  version: 0-unstable-2025-07-28
+  version: 0-unstable-2025-08-21
 legacyPackages.x86_64-linux.nightlight:
   description: CLI tool for configuring Night Shift macOS
   pname: nightlight
@@ -107538,10 +107542,6 @@ legacyPackages.x86_64-linux.notify-osd-customizable:
   description: Daemon that displays passive pop-up notifications
   pname: notify-osd
   version: 0.9.35+16.04.20160415
-legacyPackages.x86_64-linux.notify-sharp:
-  description: D-Bus for .NET
-  pname: notify-sharp
-  version: 3.0.3
 legacyPackages.x86_64-linux.notifymuch:
   description: Display desktop notifications for unread mail in a notmuch database
   pname: notifymuch
@@ -107713,7 +107713,7 @@ legacyPackages.x86_64-linux.npiet:
 legacyPackages.x86_64-linux.npingler:
   description: Nix profile manager for use with npins
   pname: npingler-unstable
-  version: "2025-08-21"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.npins:
   description: Simple and convenient dependency pinning for Nix
   pname: npins
@@ -107869,7 +107869,7 @@ legacyPackages.x86_64-linux.nssTools:
 legacyPackages.x86_64-linux.nss_3_114:
   description: Set of libraries for development of security-enabled client and server applications
   pname: nss
-  version: "3.114"
+  version: 3.114.1
 legacyPackages.x86_64-linux.nss_esr:
   description: Set of libraries for development of security-enabled client and server applications
   pname: nss
@@ -107877,7 +107877,7 @@ legacyPackages.x86_64-linux.nss_esr:
 legacyPackages.x86_64-linux.nss_latest:
   description: Set of libraries for development of security-enabled client and server applications
   pname: nss
-  version: "3.115"
+  version: 3.115.1
 legacyPackages.x86_64-linux.nss_ldap:
   description: LDAP module for the Solaris Nameservice Switch (NSS)
   pname: nss_ldap
@@ -108841,7 +108841,7 @@ legacyPackages.x86_64-linux.obs-studio-plugins.obs-teleport:
 legacyPackages.x86_64-linux.obs-studio-plugins.obs-text-pthread:
   description: Rich text source plugin for OBS Studio
   pname: obs-text-pthread
-  version: 2.0.5
+  version: 2.0.6
 legacyPackages.x86_64-linux.obs-studio-plugins.obs-transition-table:
   description: Plugin for OBS Studio to add a Transition Table to the tools menu
   pname: obs-transition-table
@@ -114093,15 +114093,15 @@ legacyPackages.x86_64-linux.olivetin:
 legacyPackages.x86_64-linux.ollama:
   description: Get up and running with large language models locally
   pname: ollama
-  version: 0.11.4
+  version: 0.11.7
 legacyPackages.x86_64-linux.ollama-cuda:
   description: Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration
   pname: ollama
-  version: 0.11.4
+  version: 0.11.7
 legacyPackages.x86_64-linux.ollama-rocm:
   description: Get up and running with large language models locally, using ROCm for AMD GPU acceleration
   pname: ollama
-  version: 0.11.4
+  version: 0.11.7
 legacyPackages.x86_64-linux.olm:
   description: Implements double cryptographic ratchet and Megolm ratchet
   pname: olm
@@ -114141,7 +114141,7 @@ legacyPackages.x86_64-linux.ombi:
 legacyPackages.x86_64-linux.ome_zarr:
   description: Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud
   pname: ome-zarr
-  version: 0.12.1
+  version: 0.12.2
 legacyPackages.x86_64-linux.omegat:
   description: Free computer aided translation (CAT) tool for professionals
   pname: omegat
@@ -114614,6 +114614,10 @@ legacyPackages.x86_64-linux.openapi-tui:
   description: Terminal UI to list, browse and run APIs defined with openapi spec
   pname: openapi-tui
   version: 0.10.2
+legacyPackages.x86_64-linux.openapv:
+  description: Reference implementation of the APV codec
+  pname: openapv
+  version: 0.2.0.1
 legacyPackages.x86_64-linux.openarena:
   description: Fast-paced 3D first-person shooter, similar to id Software Inc.'s Quake III Arena
   pname: openarena
@@ -143073,7 +143077,7 @@ legacyPackages.x86_64-linux.php81Packages.castor:
 legacyPackages.x86_64-linux.php81Packages.composer:
   description: Dependency Manager for PHP
   pname: composer
-  version: 2.8.5
+  version: 2.8.11
 legacyPackages.x86_64-linux.php81Packages.composer-local-repo-plugin:
   description: Composer plugin that facilitates the creation of a local composer type repository
   pname: nix-community-composer-local-repo-plugin
@@ -143601,7 +143605,7 @@ legacyPackages.x86_64-linux.php82Packages.castor:
 legacyPackages.x86_64-linux.php82Packages.composer:
   description: Dependency Manager for PHP
   pname: composer
-  version: 2.8.5
+  version: 2.8.11
 legacyPackages.x86_64-linux.php82Packages.composer-local-repo-plugin:
   description: Composer plugin that facilitates the creation of a local composer type repository
   pname: nix-community-composer-local-repo-plugin
@@ -144129,7 +144133,7 @@ legacyPackages.x86_64-linux.php83Packages.castor:
 legacyPackages.x86_64-linux.php83Packages.composer:
   description: Dependency Manager for PHP
   pname: composer
-  version: 2.8.5
+  version: 2.8.11
 legacyPackages.x86_64-linux.php83Packages.composer-local-repo-plugin:
   description: Composer plugin that facilitates the creation of a local composer type repository
   pname: nix-community-composer-local-repo-plugin
@@ -144657,7 +144661,7 @@ legacyPackages.x86_64-linux.php84Packages.castor:
 legacyPackages.x86_64-linux.php84Packages.composer:
   description: Dependency Manager for PHP
   pname: composer
-  version: 2.8.5
+  version: 2.8.11
 legacyPackages.x86_64-linux.php84Packages.composer-local-repo-plugin:
   description: Composer plugin that facilitates the creation of a local composer type repository
   pname: nix-community-composer-local-repo-plugin
@@ -146969,7 +146973,7 @@ legacyPackages.x86_64-linux.plumber:
 legacyPackages.x86_64-linux.plumed:
   description: Molecular metadynamics library
   pname: plumed
-  version: 2.9.3
+  version: 2.10.0
 legacyPackages.x86_64-linux.plus-jakarta-sans:
   description: Typeface designed for Jakarta 'City of collaboration' program in 2020
   pname: plus-jakarta-sans
@@ -147165,7 +147169,7 @@ legacyPackages.x86_64-linux.pocket-casts:
 legacyPackages.x86_64-linux.pocket-id:
   description: OIDC provider with passkeys support
   pname: pocket-id
-  version: 1.7.0
+  version: 1.9.1
 legacyPackages.x86_64-linux.pocket-updater-utility:
   description: Update utility for the openFPGA cores, firmware, and other stuff on your Analogue Pocket
   pname: pupdate
@@ -150041,7 +150045,7 @@ legacyPackages.x86_64-linux.prettier-plugin-go-template:
 legacyPackages.x86_64-linux.prettierd:
   description: Prettier, as a daemon, for improved formatting speed
   pname: prettierd
-  version: 0.26.1
+  version: 0.26.2
 legacyPackages.x86_64-linux.pretty-php:
   description: Opinionated PHP code formatter
   pname: pretty-php
@@ -150849,7 +150853,7 @@ legacyPackages.x86_64-linux.protoc-gen-entgrpc:
 legacyPackages.x86_64-linux.protoc-gen-es:
   description: Protobuf plugin for generating ECMAScript code
   pname: protoc-gen-es
-  version: 2.6.3
+  version: 2.7.0
 legacyPackages.x86_64-linux.protoc-gen-go:
   description: Go support for Google's protocol buffers
   pname: protoc-gen-go
@@ -150877,7 +150881,7 @@ legacyPackages.x86_64-linux.protoc-gen-grpc-web:
 legacyPackages.x86_64-linux.protoc-gen-js:
   description: Protobuf plugin for generating JavaScript code
   pname: protoc-gen-js
-  version: 3.21.2
+  version: 3.21.4
 legacyPackages.x86_64-linux.protoc-gen-lint:
   description: Plug-in for Google's Protocol Buffers compiler to check .proto files for style violations
   pname: protoc-gen-lint
@@ -151061,7 +151065,7 @@ legacyPackages.x86_64-linux.prow:
 legacyPackages.x86_64-linux.prowlarr:
   description: Indexer manager/proxy built on the popular arr .net/reactjs base stack
   pname: prowlarr
-  version: 1.37.0.5076
+  version: 2.0.5.5160
 legacyPackages.x86_64-linux.prowler:
   description: Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments
   pname: prowler
@@ -156285,7 +156289,7 @@ legacyPackages.x86_64-linux.python312Packages.btest:
 legacyPackages.x86_64-linux.python312Packages.bthome-ble:
   description: Library for BThome BLE devices
   pname: python3.12-bthome-ble
-  version: 3.14.0
+  version: 3.14.1
 legacyPackages.x86_64-linux.python312Packages.bthomehub5-devicelist:
   description: Returns a list of devices currently connected to a BT Home Hub 5
   pname: python3.12-bthomehub5-devicelist
@@ -157041,7 +157045,7 @@ legacyPackages.x86_64-linux.python312Packages.ciso8601:
 legacyPackages.x86_64-linux.python312Packages.citeproc-py:
   description: Citation Style Language (CSL) parser for Python
   pname: python3.12-citeproc-py
-  version: 0.8.2
+  version: 0.9.0
 legacyPackages.x86_64-linux.python312Packages.cjkwrap:
   description: Library for wrapping and filling CJK text
   pname: python3.12-cjkwrap
@@ -158697,7 +158701,7 @@ legacyPackages.x86_64-linux.python312Packages.dbglib:
 legacyPackages.x86_64-linux.python312Packages.dbt-adapters:
   description: Set of adapter protocols and base functionality that supports integration with dbt-core
   pname: python3.12-dbt-adapters
-  version: 1.16.3
+  version: 1.16.5
 legacyPackages.x86_64-linux.python312Packages.dbt-bigquery:
   description: Plugin enabling dbt to operate on a BigQuery database
   pname: python3.12-dbt-bigquery
@@ -158705,15 +158709,15 @@ legacyPackages.x86_64-linux.python312Packages.dbt-bigquery:
 legacyPackages.x86_64-linux.python312Packages.dbt-common:
   description: Shared common utilities for dbt-core and adapter implementations use
   pname: python3.12-dbt-common
-  version: 1.23.0-unstable-2025-04-21
+  version: 1.28.0-unstable-2025-08-14
 legacyPackages.x86_64-linux.python312Packages.dbt-core:
   description: Enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications
   pname: python3.12-dbt-core
-  version: 1.10.6
+  version: 1.10.9
 legacyPackages.x86_64-linux.python312Packages.dbt-extractor:
   description: Tool that processes the most common jinja value templates in dbt model files
   pname: python3.12-dbt-extractor
-  version: 0.5.1
+  version: 0.6.0
 legacyPackages.x86_64-linux.python312Packages.dbt-postgres:
   description: Plugin enabling dbt to work with a Postgres database
   pname: python3.12-dbt-postgres
@@ -158729,11 +158733,11 @@ legacyPackages.x86_64-linux.python312Packages.dbt-redshift:
 legacyPackages.x86_64-linux.python312Packages.dbt-semantic-interfaces:
   description: Shared interfaces used by dbt-core and MetricFlow projects
   pname: python3.12-dbt-semantic-interfaces
-  version: 0.8.5
+  version: 0.9.0
 legacyPackages.x86_64-linux.python312Packages.dbt-snowflake:
   description: Plugin enabling dbt to work with Snowflake
   pname: python3.12-dbt-snowflake
-  version: 1.9.1
+  version: 1.10.0
 legacyPackages.x86_64-linux.python312Packages.dbus-client-gen:
   description: Python Library for Generating D-Bus Client Code
   pname: python3.12-dbus-client-gen
@@ -160369,11 +160373,11 @@ legacyPackages.x86_64-linux.python312Packages.dockerspawner:
 legacyPackages.x86_64-linux.python312Packages.docling:
   description: Get your documents ready for gen AI
   pname: python3.12-docling
-  version: 2.43.0
+  version: 2.47.1
 legacyPackages.x86_64-linux.python312Packages.docling-core:
   description: Python library to define and validate data types in Docling
   pname: python3.12-docling-core
-  version: 2.44.2
+  version: 2.45.0
 legacyPackages.x86_64-linux.python312Packages.docling-ibm-models:
   description: Docling IBM models
   pname: python3.12-docling-ibm-models
@@ -160385,7 +160389,7 @@ legacyPackages.x86_64-linux.python312Packages.docling-jobkit:
 legacyPackages.x86_64-linux.python312Packages.docling-parse:
   description: Simple package to extract text with coordinates from programmatic PDFs
   pname: python3.12-docling-parse
-  version: 4.1.0
+  version: 4.2.3
 legacyPackages.x86_64-linux.python312Packages.docling-serve:
   description: Running Docling as an API service
   pname: python3.12-docling-serve
@@ -160861,7 +160865,7 @@ legacyPackages.x86_64-linux.python312Packages.dvc-webhdfs:
 legacyPackages.x86_64-linux.python312Packages.dvclive:
   description: Library for logging machine learning metrics and other metadata in simple file formats
   pname: python3.12-dvclive
-  version: 3.48.4
+  version: 3.48.5
 legacyPackages.x86_64-linux.python312Packages.dwdwfsapi:
   description: Python client to retrieve data provided by DWD via their geoserver WFS API
   pname: python3.12-dwdwfsapi
@@ -161025,7 +161029,7 @@ legacyPackages.x86_64-linux.python312Packages.edk2-pytool-library:
 legacyPackages.x86_64-linux.python312Packages.edlib:
   description: Lightweight, fast C/C++ library for sequence alignment using edit distance
   pname: python3.12-edlib
-  version: 1.3.9
+  version: 1.3.9.post1
 legacyPackages.x86_64-linux.python312Packages.eduvpn-common:
   description: Python wrapper for libeduvpn-common
   pname: python3.12-eduvpn-common
@@ -162993,7 +162997,7 @@ legacyPackages.x86_64-linux.python312Packages.fschat:
 legacyPackages.x86_64-linux.python312Packages.fslpy:
   description: FSL Python library
   pname: python3.12-fslpy
-  version: 3.21.1
+  version: 3.23.0
 legacyPackages.x86_64-linux.python312Packages.fsspec:
   description: Specification that Python filesystems should adhere to
   pname: python3.12-fsspec
@@ -167425,7 +167429,7 @@ legacyPackages.x86_64-linux.python312Packages.kubernetes:
 legacyPackages.x86_64-linux.python312Packages.kubernetes-asyncio:
   description: Python asynchronous client library for Kubernetes http://kubernetes.io
   pname: python3.12-kubernetes-asyncio
-  version: 32.3.0
+  version: 33.3.0
 legacyPackages.x86_64-linux.python312Packages.kubernetes-validate:
   description: Module to validate Kubernetes resource definitions against the declared Kubernetes schemas
   pname: python3.12-kubernetes-validate
@@ -168493,7 +168497,7 @@ legacyPackages.x86_64-linux.python312Packages.llama-index-vector-stores-google:
 legacyPackages.x86_64-linux.python312Packages.llama-index-vector-stores-postgres:
   description: LlamaIndex Vector Store Integration for Postgres
   pname: python3.12-llama-index-vector-stores-postgres
-  version: 0.6.1
+  version: 0.6.3
 legacyPackages.x86_64-linux.python312Packages.llama-index-vector-stores-qdrant:
   description: LlamaIndex Vector Store Integration for Qdrant
   pname: python3.12-llama-index-vector-stores-qdrant
@@ -169941,19 +169945,19 @@ legacyPackages.x86_64-linux.python312Packages.mistune_2_0:
 legacyPackages.x86_64-linux.python312Packages.mitmproxy:
   description: Man-in-the-middle proxy
   pname: python3.12-mitmproxy
-  version: 12.1.1
+  version: 12.1.2
 legacyPackages.x86_64-linux.python312Packages.mitmproxy-linux:
   description: Linux Rust bits in mitmproxy
   pname: python3.12-mitmproxy-linux
-  version: 0.12.3
+  version: 0.12.7
 legacyPackages.x86_64-linux.python312Packages.mitmproxy-macos:
   description: MacOS Rust bits in mitmproxy
   pname: python3.12-mitmproxy-macos
-  version: 0.12.3
+  version: 0.12.7
 legacyPackages.x86_64-linux.python312Packages.mitmproxy-rs:
   description: Rust bits in mitmproxy
   pname: python3.12-mitmproxy-rs
-  version: 0.12.3
+  version: 0.12.7
 legacyPackages.x86_64-linux.python312Packages.mitogen:
   description: Python Library for writing distributed self-replicating programs
   pname: python3.12-mitogen
@@ -170133,7 +170137,7 @@ legacyPackages.x86_64-linux.python312Packages.mlcroissant:
 legacyPackages.x86_64-linux.python312Packages.mlflow:
   description: Open source platform for the machine learning lifecycle
   pname: python3.12-mlflow
-  version: 3.1.4
+  version: 3.3.1
 legacyPackages.x86_64-linux.python312Packages.mlrose:
   description: Machine Learning, Randomized Optimization and SEarch
   pname: python3.12-mlrose
@@ -173117,7 +173121,7 @@ legacyPackages.x86_64-linux.python312Packages.numbaWithCuda:
 legacyPackages.x86_64-linux.python312Packages.numbagg:
   description: Fast N-dimensional aggregation functions with Numba
   pname: python3.12-numbagg
-  version: 0.9.0
+  version: 0.9.1
 legacyPackages.x86_64-linux.python312Packages.numcodecs:
   description: Buffer compression and transformation codecs for use in data storage and communication applications
   pname: python3.12-numcodecs
@@ -173385,7 +173389,7 @@ legacyPackages.x86_64-linux.python312Packages.ollama:
 legacyPackages.x86_64-linux.python312Packages.ome-zarr:
   description: Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud
   pname: python3.12-ome-zarr
-  version: 0.12.1
+  version: 0.12.2
 legacyPackages.x86_64-linux.python312Packages.omegaconf:
   description: Framework for configuring complex applications
   pname: python3.12-omegaconf
@@ -174093,7 +174097,7 @@ legacyPackages.x86_64-linux.python312Packages.oslo-serialization:
 legacyPackages.x86_64-linux.python312Packages.oslo-utils:
   description: Oslo Utility library
   pname: python3.12-oslo-utils
-  version: 9.0.0
+  version: 9.1.0
 legacyPackages.x86_64-linux.python312Packages.oslotest:
   description: Oslo test framework
   pname: python3.12-oslotest
@@ -175249,7 +175253,7 @@ legacyPackages.x86_64-linux.python312Packages.pkce:
 legacyPackages.x86_64-linux.python312Packages.pkg-about:
   description: Python metadata sharing at runtime
   pname: python3.12-pkg-about
-  version: 1.3.7
+  version: 1.4.0
 legacyPackages.x86_64-linux.python312Packages.pkgconfig:
   description: Interface Python with pkg-config
   pname: python3.12-pkgconfig
@@ -178849,7 +178853,7 @@ legacyPackages.x86_64-linux.python312Packages.pyoutbreaksnearme:
 legacyPackages.x86_64-linux.python312Packages.pyoverkiz:
   description: Module to interact with the Somfy TaHoma API or other OverKiz APIs
   pname: python3.12-pyoverkiz
-  version: 1.18.1
+  version: 1.18.2
 legacyPackages.x86_64-linux.python312Packages.pyowm:
   description: Python wrapper around the OpenWeatherMap web API
   pname: python3.12-pyowm
@@ -181409,7 +181413,7 @@ legacyPackages.x86_64-linux.python312Packages.python-rtmidi:
 legacyPackages.x86_64-linux.python312Packages.python-sat:
   description: Toolkit to provide interface for various SAT (without optional dependancy py-aiger-cnf)
   pname: python3.12-python-sat
-  version: 0.1.8.dev17
+  version: 0.1.8.dev20
 legacyPackages.x86_64-linux.python312Packages.python-secp256k1-cardano:
   description: Fork of python-secp256k1, fixing the commit hash of libsecp256k1 to a Cardano compatible version
   pname: python3.12-python-secp256k1-cardano
@@ -182017,7 +182021,7 @@ legacyPackages.x86_64-linux.python312Packages.pyvisa-sim:
 legacyPackages.x86_64-linux.python312Packages.pyvista:
   description: Easier Pythonic interface to VTK
   pname: python3.12-pyvista
-  version: 0.46.1
+  version: 0.46.2
 legacyPackages.x86_64-linux.python312Packages.pyviz-comms:
   description: Bidirectional communication for the HoloViz ecosystem
   pname: python3.12-pyviz-comms
@@ -182865,15 +182869,15 @@ legacyPackages.x86_64-linux.python312Packages.refery:
 legacyPackages.x86_64-linux.python312Packages.reflex:
   description: Web apps in pure Python
   pname: python3.12-reflex
-  version: 0.8.6
+  version: 0.8.7
 legacyPackages.x86_64-linux.python312Packages.reflex-chakra:
   description: Chakra Implementation in Reflex
   pname: python3.12-reflex-chakra
-  version: 0.8.2post1
+  version: 0.8.2
 legacyPackages.x86_64-linux.python312Packages.reflex-hosting-cli:
   description: Reflex Hosting CLI
   pname: python3.12-reflex-hosting-cli
-  version: 0.1.54
+  version: 0.1.55
 legacyPackages.x86_64-linux.python312Packages.reflink:
   description: Python reflink wraps around platform specific reflink implementations
   pname: python3.12-reflink
@@ -182969,7 +182973,7 @@ legacyPackages.x86_64-linux.python312Packages.reolink-aio:
 legacyPackages.x86_64-linux.python312Packages.reorder-python-imports:
   description: Tool for automatically reordering python imports
   pname: python3.12-reorder-python-imports
-  version: 3.13.0
+  version: 3.15.0
 legacyPackages.x86_64-linux.python312Packages.reparser:
   description: Simple regex-based lexer/parser for inline markup
   pname: python3.12-reparser
@@ -183917,11 +183921,11 @@ legacyPackages.x86_64-linux.python312Packages.safety-schemas:
 legacyPackages.x86_64-linux.python312Packages.sagemaker:
   description: Library for training and deploying machine learning models on Amazon SageMaker
   pname: python3.12-sagemaker
-  version: 2.249.0
+  version: 2.251.0
 legacyPackages.x86_64-linux.python312Packages.sagemaker-core:
   description: Python object-oriented interface for interacting with Amazon SageMaker resources
   pname: python3.12-sagemaker-core
-  version: 1.0.52
+  version: 1.0.55
 legacyPackages.x86_64-linux.python312Packages.sagemaker-mlflow:
   description: MLFlow plugin for SageMaker
   pname: python3.12-sagemaker-mlflow
@@ -185509,7 +185513,7 @@ legacyPackages.x86_64-linux.python312Packages.soupsieve:
 legacyPackages.x86_64-linux.python312Packages.sourmash:
   description: Quickly search, compare, and analyze genomic and metagenomic data sets
   pname: python3.12-sourmash
-  version: 4.8.14
+  version: 4.9.4
 legacyPackages.x86_64-linux.python312Packages.soxr:
   description: High quality, one-dimensional sample-rate conversion library
   pname: python3.12-soxr
@@ -188181,7 +188185,7 @@ legacyPackages.x86_64-linux.python312Packages.transaction:
 legacyPackages.x86_64-linux.python312Packages.transformers:
   description: Natural Language Processing for TensorFlow 2.0 and PyTorch
   pname: python3.12-transformers
-  version: 4.55.3
+  version: 4.55.4
 legacyPackages.x86_64-linux.python312Packages.transforms3d:
   description: Convert between various geometric transformations
   pname: python3.12-transforms3d
@@ -188225,7 +188229,7 @@ legacyPackages.x86_64-linux.python312Packages.trectools:
 legacyPackages.x86_64-linux.python312Packages.tree-sitter:
   description: Python bindings to the Tree-sitter parsing library
   pname: python3.12-tree-sitter
-  version: 0.25.0
+  version: 0.25.1
 legacyPackages.x86_64-linux.python312Packages.tree-sitter-c-sharp:
   description: C# Grammar for tree-sitter
   pname: python3.12-tree-sitter-c-sharp
@@ -191006,10 +191010,6 @@ legacyPackages.x86_64-linux.python312Packages.unidiff:
   description: Unified diff python parsing/metadata extraction library
   pname: python3.12-unidiff
   version: 0.7.5
-legacyPackages.x86_64-linux.python312Packages.unifi:
-  description: API towards the Ubiquity Networks UniFi controller
-  pname: python3.12-unifi
-  version: 1.2.5
 legacyPackages.x86_64-linux.python312Packages.unifi-ap:
   description: Python API for UniFi accesspoints
   pname: python3.12-unifi-ap
@@ -197569,7 +197569,7 @@ legacyPackages.x86_64-linux.python313Packages.btest:
 legacyPackages.x86_64-linux.python313Packages.bthome-ble:
   description: Library for BThome BLE devices
   pname: python3.13-bthome-ble
-  version: 3.14.0
+  version: 3.14.1
 legacyPackages.x86_64-linux.python313Packages.bthomehub5-devicelist:
   description: Returns a list of devices currently connected to a BT Home Hub 5
   pname: python3.13-bthomehub5-devicelist
@@ -198325,7 +198325,7 @@ legacyPackages.x86_64-linux.python313Packages.ciso8601:
 legacyPackages.x86_64-linux.python313Packages.citeproc-py:
   description: Citation Style Language (CSL) parser for Python
   pname: python3.13-citeproc-py
-  version: 0.8.2
+  version: 0.9.0
 legacyPackages.x86_64-linux.python313Packages.cjkwrap:
   description: Library for wrapping and filling CJK text
   pname: python3.13-cjkwrap
@@ -199981,7 +199981,7 @@ legacyPackages.x86_64-linux.python313Packages.dbglib:
 legacyPackages.x86_64-linux.python313Packages.dbt-adapters:
   description: Set of adapter protocols and base functionality that supports integration with dbt-core
   pname: python3.13-dbt-adapters
-  version: 1.16.3
+  version: 1.16.5
 legacyPackages.x86_64-linux.python313Packages.dbt-bigquery:
   description: Plugin enabling dbt to operate on a BigQuery database
   pname: python3.13-dbt-bigquery
@@ -199989,15 +199989,15 @@ legacyPackages.x86_64-linux.python313Packages.dbt-bigquery:
 legacyPackages.x86_64-linux.python313Packages.dbt-common:
   description: Shared common utilities for dbt-core and adapter implementations use
   pname: python3.13-dbt-common
-  version: 1.23.0-unstable-2025-04-21
+  version: 1.28.0-unstable-2025-08-14
 legacyPackages.x86_64-linux.python313Packages.dbt-core:
   description: Enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications
   pname: python3.13-dbt-core
-  version: 1.10.6
+  version: 1.10.9
 legacyPackages.x86_64-linux.python313Packages.dbt-extractor:
   description: Tool that processes the most common jinja value templates in dbt model files
   pname: python3.13-dbt-extractor
-  version: 0.5.1
+  version: 0.6.0
 legacyPackages.x86_64-linux.python313Packages.dbt-postgres:
   description: Plugin enabling dbt to work with a Postgres database
   pname: python3.13-dbt-postgres
@@ -200013,11 +200013,11 @@ legacyPackages.x86_64-linux.python313Packages.dbt-redshift:
 legacyPackages.x86_64-linux.python313Packages.dbt-semantic-interfaces:
   description: Shared interfaces used by dbt-core and MetricFlow projects
   pname: python3.13-dbt-semantic-interfaces
-  version: 0.8.5
+  version: 0.9.0
 legacyPackages.x86_64-linux.python313Packages.dbt-snowflake:
   description: Plugin enabling dbt to work with Snowflake
   pname: python3.13-dbt-snowflake
-  version: 1.9.1
+  version: 1.10.0
 legacyPackages.x86_64-linux.python313Packages.dbus-client-gen:
   description: Python Library for Generating D-Bus Client Code
   pname: python3.13-dbus-client-gen
@@ -201653,11 +201653,11 @@ legacyPackages.x86_64-linux.python313Packages.dockerspawner:
 legacyPackages.x86_64-linux.python313Packages.docling:
   description: Get your documents ready for gen AI
   pname: python3.13-docling
-  version: 2.43.0
+  version: 2.47.1
 legacyPackages.x86_64-linux.python313Packages.docling-core:
   description: Python library to define and validate data types in Docling
   pname: python3.13-docling-core
-  version: 2.44.2
+  version: 2.45.0
 legacyPackages.x86_64-linux.python313Packages.docling-ibm-models:
   description: Docling IBM models
   pname: python3.13-docling-ibm-models
@@ -201669,7 +201669,7 @@ legacyPackages.x86_64-linux.python313Packages.docling-jobkit:
 legacyPackages.x86_64-linux.python313Packages.docling-parse:
   description: Simple package to extract text with coordinates from programmatic PDFs
   pname: python3.13-docling-parse
-  version: 4.1.0
+  version: 4.2.3
 legacyPackages.x86_64-linux.python313Packages.docling-serve:
   description: Running Docling as an API service
   pname: python3.13-docling-serve
@@ -202145,7 +202145,7 @@ legacyPackages.x86_64-linux.python313Packages.dvc-webhdfs:
 legacyPackages.x86_64-linux.python313Packages.dvclive:
   description: Library for logging machine learning metrics and other metadata in simple file formats
   pname: python3.13-dvclive
-  version: 3.48.4
+  version: 3.48.5
 legacyPackages.x86_64-linux.python313Packages.dwdwfsapi:
   description: Python client to retrieve data provided by DWD via their geoserver WFS API
   pname: python3.13-dwdwfsapi
@@ -202309,7 +202309,7 @@ legacyPackages.x86_64-linux.python313Packages.edk2-pytool-library:
 legacyPackages.x86_64-linux.python313Packages.edlib:
   description: Lightweight, fast C/C++ library for sequence alignment using edit distance
   pname: python3.13-edlib
-  version: 1.3.9
+  version: 1.3.9.post1
 legacyPackages.x86_64-linux.python313Packages.eduvpn-common:
   description: Python wrapper for libeduvpn-common
   pname: python3.13-eduvpn-common
@@ -204277,7 +204277,7 @@ legacyPackages.x86_64-linux.python313Packages.fschat:
 legacyPackages.x86_64-linux.python313Packages.fslpy:
   description: FSL Python library
   pname: python3.13-fslpy
-  version: 3.21.1
+  version: 3.23.0
 legacyPackages.x86_64-linux.python313Packages.fsspec:
   description: Specification that Python filesystems should adhere to
   pname: python3.13-fsspec
@@ -208709,7 +208709,7 @@ legacyPackages.x86_64-linux.python313Packages.kubernetes:
 legacyPackages.x86_64-linux.python313Packages.kubernetes-asyncio:
   description: Python asynchronous client library for Kubernetes http://kubernetes.io
   pname: python3.13-kubernetes-asyncio
-  version: 32.3.0
+  version: 33.3.0
 legacyPackages.x86_64-linux.python313Packages.kubernetes-validate:
   description: Module to validate Kubernetes resource definitions against the declared Kubernetes schemas
   pname: python3.13-kubernetes-validate
@@ -209777,7 +209777,7 @@ legacyPackages.x86_64-linux.python313Packages.llama-index-vector-stores-google:
 legacyPackages.x86_64-linux.python313Packages.llama-index-vector-stores-postgres:
   description: LlamaIndex Vector Store Integration for Postgres
   pname: python3.13-llama-index-vector-stores-postgres
-  version: 0.6.1
+  version: 0.6.3
 legacyPackages.x86_64-linux.python313Packages.llama-index-vector-stores-qdrant:
   description: LlamaIndex Vector Store Integration for Qdrant
   pname: python3.13-llama-index-vector-stores-qdrant
@@ -211225,19 +211225,19 @@ legacyPackages.x86_64-linux.python313Packages.mistune_2_0:
 legacyPackages.x86_64-linux.python313Packages.mitmproxy:
   description: Man-in-the-middle proxy
   pname: python3.13-mitmproxy
-  version: 12.1.1
+  version: 12.1.2
 legacyPackages.x86_64-linux.python313Packages.mitmproxy-linux:
   description: Linux Rust bits in mitmproxy
   pname: python3.13-mitmproxy-linux
-  version: 0.12.3
+  version: 0.12.7
 legacyPackages.x86_64-linux.python313Packages.mitmproxy-macos:
   description: MacOS Rust bits in mitmproxy
   pname: python3.13-mitmproxy-macos
-  version: 0.12.3
+  version: 0.12.7
 legacyPackages.x86_64-linux.python313Packages.mitmproxy-rs:
   description: Rust bits in mitmproxy
   pname: python3.13-mitmproxy-rs
-  version: 0.12.3
+  version: 0.12.7
 legacyPackages.x86_64-linux.python313Packages.mitogen:
   description: Python Library for writing distributed self-replicating programs
   pname: python3.13-mitogen
@@ -211417,7 +211417,7 @@ legacyPackages.x86_64-linux.python313Packages.mlcroissant:
 legacyPackages.x86_64-linux.python313Packages.mlflow:
   description: Open source platform for the machine learning lifecycle
   pname: python3.13-mlflow
-  version: 3.1.4
+  version: 3.3.1
 legacyPackages.x86_64-linux.python313Packages.mlrose:
   description: Machine Learning, Randomized Optimization and SEarch
   pname: python3.13-mlrose
@@ -214401,7 +214401,7 @@ legacyPackages.x86_64-linux.python313Packages.numbaWithCuda:
 legacyPackages.x86_64-linux.python313Packages.numbagg:
   description: Fast N-dimensional aggregation functions with Numba
   pname: python3.13-numbagg
-  version: 0.9.0
+  version: 0.9.1
 legacyPackages.x86_64-linux.python313Packages.numcodecs:
   description: Buffer compression and transformation codecs for use in data storage and communication applications
   pname: python3.13-numcodecs
@@ -214669,7 +214669,7 @@ legacyPackages.x86_64-linux.python313Packages.ollama:
 legacyPackages.x86_64-linux.python313Packages.ome-zarr:
   description: Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud
   pname: python3.13-ome-zarr
-  version: 0.12.1
+  version: 0.12.2
 legacyPackages.x86_64-linux.python313Packages.omegaconf:
   description: Framework for configuring complex applications
   pname: python3.13-omegaconf
@@ -215377,7 +215377,7 @@ legacyPackages.x86_64-linux.python313Packages.oslo-serialization:
 legacyPackages.x86_64-linux.python313Packages.oslo-utils:
   description: Oslo Utility library
   pname: python3.13-oslo-utils
-  version: 9.0.0
+  version: 9.1.0
 legacyPackages.x86_64-linux.python313Packages.oslotest:
   description: Oslo test framework
   pname: python3.13-oslotest
@@ -216533,7 +216533,7 @@ legacyPackages.x86_64-linux.python313Packages.pkce:
 legacyPackages.x86_64-linux.python313Packages.pkg-about:
   description: Python metadata sharing at runtime
   pname: python3.13-pkg-about
-  version: 1.3.7
+  version: 1.4.0
 legacyPackages.x86_64-linux.python313Packages.pkgconfig:
   description: Interface Python with pkg-config
   pname: python3.13-pkgconfig
@@ -220133,7 +220133,7 @@ legacyPackages.x86_64-linux.python313Packages.pyoutbreaksnearme:
 legacyPackages.x86_64-linux.python313Packages.pyoverkiz:
   description: Module to interact with the Somfy TaHoma API or other OverKiz APIs
   pname: python3.13-pyoverkiz
-  version: 1.18.1
+  version: 1.18.2
 legacyPackages.x86_64-linux.python313Packages.pyowm:
   description: Python wrapper around the OpenWeatherMap web API
   pname: python3.13-pyowm
@@ -222693,7 +222693,7 @@ legacyPackages.x86_64-linux.python313Packages.python-rtmidi:
 legacyPackages.x86_64-linux.python313Packages.python-sat:
   description: Toolkit to provide interface for various SAT (without optional dependancy py-aiger-cnf)
   pname: python3.13-python-sat
-  version: 0.1.8.dev17
+  version: 0.1.8.dev20
 legacyPackages.x86_64-linux.python313Packages.python-secp256k1-cardano:
   description: Fork of python-secp256k1, fixing the commit hash of libsecp256k1 to a Cardano compatible version
   pname: python3.13-python-secp256k1-cardano
@@ -223301,7 +223301,7 @@ legacyPackages.x86_64-linux.python313Packages.pyvisa-sim:
 legacyPackages.x86_64-linux.python313Packages.pyvista:
   description: Easier Pythonic interface to VTK
   pname: python3.13-pyvista
-  version: 0.46.1
+  version: 0.46.2
 legacyPackages.x86_64-linux.python313Packages.pyviz-comms:
   description: Bidirectional communication for the HoloViz ecosystem
   pname: python3.13-pyviz-comms
@@ -224149,15 +224149,15 @@ legacyPackages.x86_64-linux.python313Packages.refery:
 legacyPackages.x86_64-linux.python313Packages.reflex:
   description: Web apps in pure Python
   pname: python3.13-reflex
-  version: 0.8.6
+  version: 0.8.7
 legacyPackages.x86_64-linux.python313Packages.reflex-chakra:
   description: Chakra Implementation in Reflex
   pname: python3.13-reflex-chakra
-  version: 0.8.2post1
+  version: 0.8.2
 legacyPackages.x86_64-linux.python313Packages.reflex-hosting-cli:
   description: Reflex Hosting CLI
   pname: python3.13-reflex-hosting-cli
-  version: 0.1.54
+  version: 0.1.55
 legacyPackages.x86_64-linux.python313Packages.reflink:
   description: Python reflink wraps around platform specific reflink implementations
   pname: python3.13-reflink
@@ -224253,7 +224253,7 @@ legacyPackages.x86_64-linux.python313Packages.reolink-aio:
 legacyPackages.x86_64-linux.python313Packages.reorder-python-imports:
   description: Tool for automatically reordering python imports
   pname: python3.13-reorder-python-imports
-  version: 3.13.0
+  version: 3.15.0
 legacyPackages.x86_64-linux.python313Packages.reparser:
   description: Simple regex-based lexer/parser for inline markup
   pname: python3.13-reparser
@@ -225201,11 +225201,11 @@ legacyPackages.x86_64-linux.python313Packages.safety-schemas:
 legacyPackages.x86_64-linux.python313Packages.sagemaker:
   description: Library for training and deploying machine learning models on Amazon SageMaker
   pname: python3.13-sagemaker
-  version: 2.249.0
+  version: 2.251.0
 legacyPackages.x86_64-linux.python313Packages.sagemaker-core:
   description: Python object-oriented interface for interacting with Amazon SageMaker resources
   pname: python3.13-sagemaker-core
-  version: 1.0.52
+  version: 1.0.55
 legacyPackages.x86_64-linux.python313Packages.sagemaker-mlflow:
   description: MLFlow plugin for SageMaker
   pname: python3.13-sagemaker-mlflow
@@ -226793,7 +226793,7 @@ legacyPackages.x86_64-linux.python313Packages.soupsieve:
 legacyPackages.x86_64-linux.python313Packages.sourmash:
   description: Quickly search, compare, and analyze genomic and metagenomic data sets
   pname: python3.13-sourmash
-  version: 4.8.14
+  version: 4.9.4
 legacyPackages.x86_64-linux.python313Packages.soxr:
   description: High quality, one-dimensional sample-rate conversion library
   pname: python3.13-soxr
@@ -229501,7 +229501,7 @@ legacyPackages.x86_64-linux.python313Packages.transaction:
 legacyPackages.x86_64-linux.python313Packages.transformers:
   description: Natural Language Processing for TensorFlow 2.0 and PyTorch
   pname: python3.13-transformers
-  version: 4.55.3
+  version: 4.55.4
 legacyPackages.x86_64-linux.python313Packages.transforms3d:
   description: Convert between various geometric transformations
   pname: python3.13-transforms3d
@@ -229545,7 +229545,7 @@ legacyPackages.x86_64-linux.python313Packages.trectools:
 legacyPackages.x86_64-linux.python313Packages.tree-sitter:
   description: Python bindings to the Tree-sitter parsing library
   pname: python3.13-tree-sitter
-  version: 0.25.0
+  version: 0.25.1
 legacyPackages.x86_64-linux.python313Packages.tree-sitter-c-sharp:
   description: C# Grammar for tree-sitter
   pname: python3.13-tree-sitter-c-sharp
@@ -232326,10 +232326,6 @@ legacyPackages.x86_64-linux.python313Packages.unidiff:
   description: Unified diff python parsing/metadata extraction library
   pname: python3.13-unidiff
   version: 0.7.5
-legacyPackages.x86_64-linux.python313Packages.unifi:
-  description: API towards the Ubiquity Networks UniFi controller
-  pname: python3.13-unifi
-  version: 1.2.5
 legacyPackages.x86_64-linux.python313Packages.unifi-ap:
   description: Python API for UniFi accesspoints
   pname: python3.13-unifi-ap
@@ -238433,7 +238429,7 @@ legacyPackages.x86_64-linux.rime-moegirl:
 legacyPackages.x86_64-linux.rime-wanxiang:
   description: Feature-rich pinyin schema for Rime, basic edition
   pname: rime-wanxiang
-  version: 11.1.4
+  version: 11.3.1
 legacyPackages.x86_64-linux.rime-zhwiki:
   description: RIME dictionary file for entries from zh.wikipedia.org
   pname: rime-zhwiki
@@ -238473,7 +238469,7 @@ legacyPackages.x86_64-linux.rinutils:
 legacyPackages.x86_64-linux.rio:
   description: Hardware-accelerated GPU terminal emulator powered by WebGPU
   pname: rio
-  version: 0.2.28
+  version: 0.2.29
 legacyPackages.x86_64-linux.riot-redis:
   description: Get data in and out of Redis
   pname: riot-redis
@@ -239825,7 +239821,7 @@ legacyPackages.x86_64-linux.roogle:
 legacyPackages.x86_64-linux.roomarranger:
   description: 3D room planning software
   pname: roomarranger
-  version: 10.0.1
+  version: "10.2"
 legacyPackages.x86_64-linux.roomeqwizard:
   description: Room Acoustics Software
   pname: roomeqwizard
@@ -269521,7 +269517,7 @@ legacyPackages.x86_64-linux.seafile-shared:
 legacyPackages.x86_64-linux.seagoat:
   description: Local-first semantic code search engine
   pname: seagoat
-  version: 1.0.20
+  version: 1.0.25
 legacyPackages.x86_64-linux.seahorse:
   description: Application for managing encryption keys and passwords in the GnomeKeyring
   pname: seahorse
@@ -269961,7 +269957,7 @@ legacyPackages.x86_64-linux.servo:
 legacyPackages.x86_64-linux.sesh:
   description: Smart session manager for the terminal
   pname: sesh
-  version: 2.16.0
+  version: 2.17.1
 legacyPackages.x86_64-linux.seshat:
   description: Roman body font designed for main text by Sora Sagano
   pname: seshat
@@ -270729,7 +270725,7 @@ legacyPackages.x86_64-linux.signal-export:
 legacyPackages.x86_64-linux.signalbackup-tools:
   description: Tool to work with Signal Backup files
   pname: signalbackup-tools
-  version: 20250818-1
+  version: "20250824"
 legacyPackages.x86_64-linux.signaturepdf:
   description: Web software for signing PDFs and also organize pages, edit metadata and compress pdf
   pname: signaturepdf
@@ -273061,7 +273057,7 @@ legacyPackages.x86_64-linux.spire-server:
 legacyPackages.x86_64-linux.spirit:
   description: Online schema change tool for MySQL
   pname: spirit
-  version: 0.8.0
+  version: 0.9.0
 legacyPackages.x86_64-linux.spirv-cross:
   description: Tool designed for parsing and converting SPIR-V to other shader languages
   pname: spirv-cross
@@ -274961,7 +274957,7 @@ legacyPackages.x86_64-linux.supabase-cli:
 legacyPackages.x86_64-linux.super-productivity:
   description: To Do List / Time Tracker with Jira Integration
   pname: super-productivity
-  version: 14.1.0
+  version: 14.3.3
 legacyPackages.x86_64-linux.super-slicer:
   description: PrusaSlicer fork with more features and faster development cycle
   pname: super-slicer
@@ -275210,6 +275206,10 @@ legacyPackages.x86_64-linux.svgcleaner:
   description: Clean and optimize SVG files from unnecessary data
   pname: SVGCleaner-unstable
   version: "2021-08-30"
+legacyPackages.x86_64-linux.svgo:
+  description: Node.js tool for optimizing SVG files
+  pname: svgo
+  version: 4.0.0
 legacyPackages.x86_64-linux.sview:
   description: Viewer for 3D stereoscopic videos and images
   pname: sview
@@ -276605,7 +276605,7 @@ legacyPackages.x86_64-linux.task-master-ai:
 legacyPackages.x86_64-linux.taskchampion-sync-server:
   description: Sync server for Taskwarrior 3
   pname: taskchampion-sync-server
-  version: 0.6.1
+  version: 0.7.0
 legacyPackages.x86_64-linux.taskflow:
   description: General-purpose Parallel and Heterogeneous Task Programming System
   pname: taskflow
@@ -276701,7 +276701,7 @@ legacyPackages.x86_64-linux.tayga:
 legacyPackages.x86_64-linux.taze:
   description: Modern cli tool that keeps your deps fresh
   pname: taze
-  version: 19.1.0
+  version: 19.3.0
 legacyPackages.x86_64-linux.tbb:
   description: Intel Thread Building Blocks C++ Library
   pname: tbb
@@ -278325,7 +278325,7 @@ legacyPackages.x86_64-linux.terraforming:
 legacyPackages.x86_64-linux.terragrunt:
   description: Thin wrapper for Terraform that supports locking for Terraform state and enforces best practices
   pname: terragrunt
-  version: 0.85.0
+  version: 0.86.0
 legacyPackages.x86_64-linux.terramate:
   description: Adds code generation, stacks, orchestration, change detection, data sharing and more to Terraform
   pname: terramate
@@ -301218,6 +301218,14 @@ legacyPackages.x86_64-linux.thunderbird-128-unwrapped:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
   version: 128.14.0esr
+legacyPackages.x86_64-linux.thunderbird-140:
+  description: Full-featured e-mail client
+  pname: thunderbird
+  version: 140.2.0esr
+legacyPackages.x86_64-linux.thunderbird-140-unwrapped:
+  description: Full-featured e-mail client
+  pname: thunderbird-unwrapped
+  version: 140.2.0esr
 legacyPackages.x86_64-linux.thunderbird-bin:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-bin
@@ -301225,7 +301233,7 @@ legacyPackages.x86_64-linux.thunderbird-bin:
 legacyPackages.x86_64-linux.thunderbird-esr:
   description: Full-featured e-mail client
   pname: thunderbird
-  version: 128.14.0esr
+  version: 140.2.0esr
 legacyPackages.x86_64-linux.thunderbird-esr-bin:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-esr-bin
@@ -301237,7 +301245,7 @@ legacyPackages.x86_64-linux.thunderbird-esr-bin-unwrapped:
 legacyPackages.x86_64-linux.thunderbird-esr-unwrapped:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
-  version: 128.14.0esr
+  version: 140.2.0esr
 legacyPackages.x86_64-linux.thunderbird-latest:
   description: Full-featured e-mail client
   pname: thunderbird
@@ -301266,10 +301274,14 @@ legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-128:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
   version: 128.14.0esr
+legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-140:
+  description: Full-featured e-mail client
+  pname: thunderbird-unwrapped
+  version: 140.2.0esr
 legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-esr:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
-  version: 128.14.0esr
+  version: 140.2.0esr
 legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-latest:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
@@ -301521,7 +301533,7 @@ legacyPackages.x86_64-linux.timidity:
 legacyPackages.x86_64-linux.timoni:
   description: Package manager for Kubernetes, powered by CUE and inspired by Helm
   pname: timoni
-  version: 0.25.1
+  version: 0.25.2
 legacyPackages.x86_64-linux.tinc:
   description: VPN daemon with full mesh routing
   pname: tinc
@@ -302589,7 +302601,7 @@ legacyPackages.x86_64-linux.tpacpi-bat:
 legacyPackages.x86_64-linux.tparse:
   description: CLI tool for summarizing go test output. Pipe friendly. CI/CD friendly
   pname: tparse
-  version: 0.17.0
+  version: 0.18.0
 legacyPackages.x86_64-linux.tparted:
   description: Text-based user interface (TUI) frontend for parted
   pname: tparted
@@ -303741,19 +303753,11 @@ legacyPackages.x86_64-linux.trilinos-mpi:
 legacyPackages.x86_64-linux.trilium-desktop:
   description: Hierarchical note taking application with focus on building large personal knowledge bases
   pname: trilium-desktop
-  version: 0.63.6
-legacyPackages.x86_64-linux.trilium-next-desktop:
-  description: Hierarchical note taking application with focus on building large personal knowledge bases
-  pname: trilium-next-desktop
-  version: 0.97.2
-legacyPackages.x86_64-linux.trilium-next-server:
-  description: Hierarchical note taking application with focus on building large personal knowledge bases
-  pname: trilium-next-server
-  version: 0.97.2
+  version: 0.98.0
 legacyPackages.x86_64-linux.trilium-server:
   description: Hierarchical note taking application with focus on building large personal knowledge bases
   pname: trilium-server
-  version: 0.63.6
+  version: 0.98.0
 legacyPackages.x86_64-linux.trillian:
   description: Transparent, highly scalable and cryptographically verifiable data store
   pname: trillian
@@ -317625,7 +317629,7 @@ legacyPackages.x86_64-linux.ursadb:
 legacyPackages.x86_64-linux.urserver:
   description: One-and-only remote for your computer
   pname: urserver
-  version: 3.13.0.2505
+  version: 3.14.0.2574
 legacyPackages.x86_64-linux.urweb:
   description: Advanced purely-functional web programming language
   pname: urweb
@@ -318745,7 +318749,7 @@ legacyPackages.x86_64-linux.victor-mono:
 legacyPackages.x86_64-linux.victorialogs:
   description: User friendly log database from VictoriaMetrics
   pname: VictoriaLogs
-  version: 1.26.0
+  version: 1.29.0
 legacyPackages.x86_64-linux.victoriametrics:
   description: Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
   pname: VictoriaMetrics
@@ -324602,6 +324606,10 @@ legacyPackages.x86_64-linux.vimPlugins.peek-nvim:
   description: ""
   pname: vimplugin-peek.nvim
   version: "2024-04-09"
+legacyPackages.x86_64-linux.vimPlugins.perfanno-nvim:
+  description: ""
+  pname: vimplugin-perfanno.nvim
+  version: "2024-12-28"
 legacyPackages.x86_64-linux.vimPlugins.persisted-nvim:
   description: ""
   pname: vimplugin-persisted.nvim
@@ -327174,6 +327182,10 @@ legacyPackages.x86_64-linux.vimPlugins.vim-repeat:
   description: ""
   pname: vimplugin-vim-repeat
   version: "2024-07-08"
+legacyPackages.x86_64-linux.vimPlugins.vim-rhai:
+  description: ""
+  pname: vimplugin-vim-rhai
+  version: "2022-07-16"
 legacyPackages.x86_64-linux.vimPlugins.vim-rhubarb:
   description: ""
   pname: vimplugin-vim-rhubarb
@@ -328265,7 +328277,7 @@ legacyPackages.x86_64-linux.vkquake:
 legacyPackages.x86_64-linux.vlagent:
   description: User friendly log database from VictoriaMetrics
   pname: VictoriaLogs
-  version: 1.26.0
+  version: 1.29.0
 legacyPackages.x86_64-linux.vlan:
   description: User mode programs to enable VLANs on Ethernet devices
   pname: vlan
@@ -328737,7 +328749,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ban.spellright:
 legacyPackages.x86_64-linux.vscode-extensions.banacorn.agda-mode:
   description: agda-mode on VS Code
   pname: vscode-extension-banacorn-agda-mode
-  version: 0.6.4
+  version: 0.6.5
 legacyPackages.x86_64-linux.vscode-extensions.batisteo.vscode-django:
   description: Django extension for Visual Studio Code
   pname: vscode-extension-batisteo-vscode-django
@@ -328869,7 +328881,7 @@ legacyPackages.x86_64-linux.vscode-extensions.catppuccin.catppuccin-vsc-icons:
 legacyPackages.x86_64-linux.vscode-extensions.chanhx.crabviz:
   description: VSCode extension for generating call graphs based on LSP
   pname: vscode-extension-chanhx-crabviz
-  version: 0.4.0
+  version: 0.5.0
 legacyPackages.x86_64-linux.vscode-extensions.charliermarsh.ruff:
   description: Visual Studio Code extension with support for the Ruff linter
   pname: vscode-extension-charliermarsh-ruff
@@ -329069,7 +329081,7 @@ legacyPackages.x86_64-linux.vscode-extensions.egirlcatnip.adwaita-github-theme:
 legacyPackages.x86_64-linux.vscode-extensions.elixir-lsp.vscode-elixir-ls:
   description: Elixir support with debugger, autocomplete, and more. Powered by ElixirLS
   pname: vscode-extension-JakeBecker-elixir-ls
-  version: 0.29.2
+  version: 0.29.3
 legacyPackages.x86_64-linux.vscode-extensions.elmtooling.elm-ls-vscode:
   description: Elm language server
   pname: vscode-extension-Elmtooling-elm-ls-vscode
@@ -333329,7 +333341,7 @@ legacyPackages.x86_64-linux.wrk2:
 legacyPackages.x86_64-linux.wrkflw:
   description: Validate and execute GitHub Actions workflows locally
   pname: wrkflw
-  version: 0.7.0
+  version: 0.7.1
 legacyPackages.x86_64-linux.wrtag:
   description: Fast automated music tagging and organization based on MusicBrainz
   pname: wrtag
@@ -334566,10 +334578,6 @@ legacyPackages.x86_64-linux.xjobs:
   description: Program which reads job descriptions line by line and executes them in parallel
   pname: xjobs
   version: "20250529"
-legacyPackages.x86_64-linux.xjump:
-  description: Falling tower game
-  pname: xjump
-  version: 2.9.3
 legacyPackages.x86_64-linux.xk6:
   description: Build k6 with extensions
   pname: xk6
@@ -336557,7 +336565,7 @@ legacyPackages.x86_64-linux.yara:
 legacyPackages.x86_64-linux.yara-x:
   description: Tool to do pattern matching for malware research
   pname: yara-x
-  version: 0.15.0
+  version: 1.5.0
 legacyPackages.x86_64-linux.yaralyzer:
   description: Tool to visually inspect and force decode YARA and regex matches
   pname: yaralyzer
@@ -337489,7 +337497,7 @@ legacyPackages.x86_64-linux.zap-chip-gui:
 legacyPackages.x86_64-linux.zapret:
   description: DPI bypass multi platform
   pname: zapret
-  version: "71"
+  version: "71.4"
 legacyPackages.x86_64-linux.zapzap:
   description: WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine
   pname: zapzap
@@ -337785,7 +337793,7 @@ legacyPackages.x86_64-linux.zfp:
 legacyPackages.x86_64-linux.zfs:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.3
+  version: 2.3.4
 legacyPackages.x86_64-linux.zfs-autobackup:
   description: ZFS backup, replicationand snapshot tool
   pname: zfs-autobackup
@@ -337801,7 +337809,7 @@ legacyPackages.x86_64-linux.zfs-replicate:
 legacyPackages.x86_64-linux.zfsStable:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.3
+  version: 2.3.4
 legacyPackages.x86_64-linux.zfsUnstable:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
@@ -337813,7 +337821,7 @@ legacyPackages.x86_64-linux.zfs_2_2:
 legacyPackages.x86_64-linux.zfs_2_3:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.3.3
+  version: 2.3.4
 legacyPackages.x86_64-linux.zfs_unstable:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
