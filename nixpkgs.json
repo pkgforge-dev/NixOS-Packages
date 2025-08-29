@@ -25112,7 +25112,7 @@
   "legacyPackages.x86_64-linux.claude-code": {
     "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "1.0.93"
+    "version": "1.0.95"
   },
   "legacyPackages.x86_64-linux.claws": {
     "description": "Interactive command line client for testing websocket servers",
@@ -41077,7 +41077,7 @@
   "legacyPackages.x86_64-linux.feh": {
     "description": "Light-weight image viewer",
     "pname": "feh",
-    "version": "3.10.3"
+    "version": "3.11"
   },
   "legacyPackages.x86_64-linux.fehlstart": {
     "description": "Small desktop application launcher with reasonable memory footprint",
@@ -46132,7 +46132,7 @@
   "legacyPackages.x86_64-linux.gemini-cli": {
     "description": "AI agent that brings the power of Gemini directly into your terminal",
     "pname": "gemini-cli",
-    "version": "0.1.22"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.geminicommit": {
     "description": "CLI that generates git commit messages with Google Gemini AI",
@@ -55547,7 +55547,7 @@
   "legacyPackages.x86_64-linux.golds": {
     "description": "Experimental Go local docs server/generator and code reader implemented with some fresh ideas",
     "pname": "golds",
-    "version": "0.7.6"
+    "version": "0.7.8"
   },
   "legacyPackages.x86_64-linux.goldwarden": {
     "description": "Feature-packed Bitwarden compatible desktop integration",
@@ -72342,7 +72342,7 @@
   "legacyPackages.x86_64-linux.jazz2": {
     "description": "Open-source Jazz Jackrabbit 2 reimplementation",
     "pname": "jazz2",
-    "version": "3.3.0"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.jazz2-content": {
     "description": "Assets needed for jazz2",
@@ -81027,7 +81027,7 @@
   "legacyPackages.x86_64-linux.ledger-live-desktop": {
     "description": "App for Ledger hardware wallets",
     "pname": "ledger-live-desktop",
-    "version": "2.124.0"
+    "version": "2.126.0"
   },
   "legacyPackages.x86_64-linux.ledger-udev-rules": {
     "description": "udev rules for Ledger devices",
@@ -89417,7 +89417,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.kernels.linux_zen": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.",
     "pname": "linux-zen",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
@@ -103102,17 +103102,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
     "pname": "acer-wmi-battery",
-    "version": "6.16.1-0.1.0-unstable-2025-04-24"
+    "version": "6.16.3-0.1.0-unstable-2025-04-24"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call": {
     "description": "Module allowing arbitrary ACPI calls; use case: hybrid video",
     "pname": "acpi-call",
-    "version": "1.2.2-6.16.1"
+    "version": "1.2.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ajantv2": {
     "description": "AJA video driver",
     "pname": "ajantv2-module",
-    "version": "17.5.0-6.16.1"
+    "version": "17.5.0-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.akvcam": {
     "description": "Virtual camera driver for Linux",
@@ -103132,12 +103132,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.apfs": {
     "description": "APFS module for linux",
     "pname": "apfs",
-    "version": "0.3.14-6.16.1"
+    "version": "0.3.14-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.16.1"
+    "version": "0.1.0-unstable-2025-01-10-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -103147,12 +103147,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.batman_adv": {
     "description": "B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2",
     "pname": "batman-adv",
-    "version": "2025.2-6.16.1"
+    "version": "2025.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch": {
     "description": "Module for powering off hybrid GPUs",
     "pname": "bbswitch-unstable",
-    "version": "2021-11-29-6.16.1"
+    "version": "2021-11-29-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -103167,7 +103167,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
     "pname": "broadcom-sta",
-    "version": "6.30.223.271-57-6.16.1"
+    "version": "6.30.223.271-57-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.can-isotp": {
     "description": "Kernel module for ISO-TP (ISO 15765-2)",
@@ -103192,7 +103192,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower": {
     "description": "Tool to examine and tune power saving features",
     "pname": "cpupower",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cryptodev": {
     "description": "Device that allows access to Linux kernel cryptographic drivers",
@@ -103202,7 +103202,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver": {
     "description": "Kernel module driver for DDC/CI monitors",
     "pname": "ddcci-driver",
-    "version": "6.16.1-0.4.5-unstable-2024-09-26"
+    "version": "6.16.3-0.4.5-unstable-2024-09-26"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.dddvb": {
     "description": "Device driver for all Digital Devices DVB demodulator and modulator cards",
@@ -103242,7 +103242,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ena": {
     "description": "Amazon Elastic Network Adapter (ENA) driver for Linux",
     "pname": "ena",
-    "version": "2.15.0-6.16.1"
+    "version": "2.15.0-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.evdi": {
     "description": "Extensible Virtual Display Interface",
@@ -103252,12 +103252,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
     "pname": "facetimehd",
-    "version": "0.6.13-6.16.1"
+    "version": "0.6.13-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fanout": {
     "description": "Kernel-based publish-subscribe system",
     "pname": "fanout-unstable",
-    "version": "2022-10-17-6.16.1"
+    "version": "2022-10-17-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.framework-laptop-kmod": {
     "description": "Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace",
@@ -103267,7 +103267,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fwts-efi-runtime": {
     "description": "Firmware Test Suite(efi-runtime kernel module)",
     "pname": "fwts-efi-runtime",
-    "version": "24.09.00-6.16.1"
+    "version": "24.09.00-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.gasket": {
     "description": "Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems",
@@ -103302,17 +103302,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hyperv-daemons": {
     "description": "Integration Services for running NixOS under HyperV",
     "pname": "hyperv-daemons",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.iio-utils": {
     "description": "Userspace tool for interacting with Linux IIO",
     "pname": "iio-utils",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.intel-speed-select": {
     "description": "Tool to enumerate and control the Intel Speed Select Technology features",
     "pname": "intel-speed-select",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ipu6-drivers": {
     "description": "IPU6 kernel driver",
@@ -103322,12 +103322,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.isgx": {
     "description": "Intel SGX Linux Driver",
     "pname": "isgx",
-    "version": "2.14-6.16.1"
+    "version": "2.14-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.it87": {
     "description": "Patched module for IT87xx superio chip sensors support",
     "pname": "it87-unstable",
-    "version": "2024-06-09-6.16.1"
+    "version": "2024-06-09-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ithc": {
     "description": "Linux driver for Intel Touch Host Controller",
@@ -103342,17 +103342,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ixgbevf": {
     "description": "Intel 82599 Virtual Function Driver",
     "pname": "ixgbevf",
-    "version": "4.6.1-6.16.1"
+    "version": "4.6.1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.jool": {
     "description": "Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules",
     "pname": "jool",
-    "version": "4.1.14-6.16.1"
+    "version": "4.1.14-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kernel": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.",
     "pname": "linux-zen",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kvmfr": {
     "description": "Optional kernel module for LookingGlass",
@@ -103372,17 +103372,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.liquidtux": {
     "description": "Linux kernel hwmon drivers for AIO liquid coolers and other devices",
     "pname": "liquidtux",
-    "version": "0.1.0-unstable-2025-01-16-6.16.1"
+    "version": "0.1.0-unstable-2025-01-16-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lkrg": {
     "description": "LKRG Linux Kernel module",
     "pname": "lkrg",
-    "version": "0.9.9-6.16.1"
+    "version": "0.9.9-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lttng-modules": {
     "description": "Linux kernel modules for LTTng tracing",
     "pname": "lttng-modules",
-    "version": "6.16.1-2.13.15"
+    "version": "6.16.3-2.13.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mba6x_bl": {
     "description": "MacBook Air 6,1 and 6,2 (mid 2013) backlight driver",
@@ -103412,12 +103412,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mwprocapture": {
     "description": "Linux driver for the Magewell Pro Capture family",
     "pname": "mwprocapture",
-    "version": "1.3.4418-6.16.1"
+    "version": "1.3.4418-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0": {
     "description": "MOXA UPort 11x0 USB to Serial Hub driver",
     "pname": "mxu11x0",
-    "version": "5.1-6.16.1"
+    "version": "5.1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
@@ -103427,12 +103427,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
     "pname": "ndiswrapper",
-    "version": "1.63-6.16.1"
+    "version": "1.63-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.netatop": {
     "description": "Network monitoring module for atop",
     "pname": "netatop",
-    "version": "6.16.1-3.1"
+    "version": "6.16.3-3.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.new-lg4ff": {
     "description": "Experimental Logitech force feedback module for Linux",
@@ -103447,97 +103447,97 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "570.172.08-6.16.1"
+    "version": "570.172.08-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_535": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "535.154.05-6.16.1"
+    "version": "535.154.05-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "565.57.01-6.16.1"
+    "version": "565.57.01-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.16.1"
+    "version": "570.181-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.65.06-6.16.1"
+    "version": "580.65.06-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.65.06"
+    "version": "6.16.3-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "575.64.05-6.16.1"
+    "version": "575.64.05-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-575.64.05"
+    "version": "6.16.3-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "340.108-6.16.1"
+    "version": "340.108-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy390": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "390.157-6.16.1"
+    "version": "390.157-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy470": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "470.256.02-6.16.1"
+    "version": "470.256.02-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "535.261.03-6.16.1"
+    "version": "535.261.03-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.16.1"
+    "version": "570.181-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-570.181"
+    "version": "6.16.3-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-570.181"
+    "version": "6.16.3-570.181"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.19-6.16.1"
+    "version": "570.123.19-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-570.123.19"
+    "version": "6.16.3-570.123.19"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
     "pname": "nvidiabl",
-    "version": "2020-10-01-6.16.1"
+    "version": "2020-10-01-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nxp-pn5xx": {
     "description": "NXP's NFC Open Source Kernel mode driver with ACPI configuration support",
     "pname": "nxp-pn5xx",
-    "version": "0.4-unstable-2025-02-08-6.16.1"
+    "version": "0.4-unstable-2025-02-08-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.oci-seccomp-bpf-hook": {
     "description": "OCI hook to trace syscalls and generate a seccomp profile ",
@@ -103552,27 +103552,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.16.1-zen1"
+    "version": "1.8.13.2-6.16.3-zen1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs_1_8": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.16.1-zen1"
+    "version": "1.8.13.2-6.16.3-zen1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.10.3-6.16.1"
+    "version": "3.10.3-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
     "pname": "opensnitch_ebpf",
-    "version": "1.7.2-6.16.1"
+    "version": "1.7.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.perf": {
     "description": "Linux tools to profile with performance counters",
     "pname": "perf-linux",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.pktgen": {
     "description": "Traffic generator powered by DPDK",
@@ -103602,7 +103602,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.r8168": {
     "description": "Realtek r8168 driver",
     "pname": "r8168",
-    "version": "6.16.1-8.055.00"
+    "version": "6.16.3-8.055.00"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rr-zen_workaround": {
     "description": "Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs",
@@ -103612,42 +103612,42 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8188eus-aircrack": {
     "description": "RealTek RTL8188eus WiFi driver with monitor mode & frame injection support",
     "pname": "rtl8188eus-aircrack",
-    "version": "6.16.1-unstable-2024-09-18"
+    "version": "6.16.3-unstable-2024-09-18"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189es": {
     "description": "Driver for Realtek rtl8189es",
     "pname": "rtl8189es",
-    "version": "6.16.1-2025-04-29"
+    "version": "6.16.3-2025-04-29"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189fs": {
     "description": "Driver for Realtek rtl8189fs",
     "pname": "rtl8189fs",
-    "version": "6.16.1-2025-05-04"
+    "version": "6.16.3-2025-05-04"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8192eu": {
     "description": "Realtek rtl8192eu driver",
     "pname": "rtl8192eu",
-    "version": "6.16.1-4.4.1.20250504"
+    "version": "6.16.3-4.4.1.20250504"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8723ds": {
     "description": "Linux driver for RTL8723DS",
     "pname": "rtl8723ds",
-    "version": "6.16.1-unstable-2023-11-14"
+    "version": "6.16.3-unstable-2023-11-14"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8812au": {
     "description": "Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod",
     "pname": "rtl8812au",
-    "version": "6.16.1-unstable-2024-06-13"
+    "version": "6.16.3-unstable-2024-06-13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8814au": {
     "description": "Realtek 8814AU USB WiFi driver",
     "pname": "rtl8814au",
-    "version": "6.16.1-unstable-2024-05-26"
+    "version": "6.16.3-unstable-2024-05-26"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821au": {
     "description": "rtl8821AU and rtl8812AU chipset driver with firmware",
     "pname": "rtl8821au",
-    "version": "6.16.1-unstable-2025-04-08"
+    "version": "6.16.3-unstable-2025-04-08"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821ce": {
     "description": "Realtek rtl8821ce driver",
@@ -103657,27 +103657,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821cu": {
     "description": "Realtek rtl8821cu driver",
     "pname": "rtl8821cu",
-    "version": "6.16.1-unstable-2025-05-08"
+    "version": "6.16.3-unstable-2025-05-08"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852au": {
     "description": "Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod",
     "pname": "rtl8852au",
-    "version": "6.16.1-unstable-2024-05-06"
+    "version": "6.16.3-unstable-2024-05-06"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852bu": {
     "description": "Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod",
     "pname": "rtl8852bu",
-    "version": "6.16.1-unstable-2025-05-18"
+    "version": "6.16.3-unstable-2025-05-18"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88x2bu": {
     "description": "Realtek rtl88x2bu driver",
     "pname": "rtl88x2bu",
-    "version": "6.16.1-unstable-2024-06-09"
+    "version": "6.16.3-unstable-2024-06-09"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88xxau-aircrack": {
     "description": "Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
     "pname": "rtl88xxau-aircrack",
-    "version": "6.16.1-unstable-2024-04-09"
+    "version": "6.16.3-unstable-2024-04-09"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
@@ -103692,7 +103692,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
-    "version": "6.16.1-0.1.5-unstable-2025-06-04"
+    "version": "6.16.3-0.1.5-unstable-2025-06-04"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.sheep-net": {
     "description": "",
@@ -103717,17 +103717,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76": {
     "description": "System76 DKMS driver",
     "pname": "system76-module",
-    "version": "1.0.17-6.16.1"
+    "version": "1.0.17-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-acpi": {
     "description": "System76 ACPI Driver (DKMS)",
     "pname": "system76-acpi-module",
-    "version": "1.0.2-6.16.1"
+    "version": "1.0.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-io": {
     "description": "DKMS module for controlling System76 Io board",
     "pname": "system76-io-module",
-    "version": "1.0.4-6.16.1"
+    "version": "1.0.4-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-power": {
     "description": "System76 Power Management",
@@ -103747,27 +103747,27 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tbs": {
     "description": "Linux driver for TBSDTV cards",
     "pname": "tbs",
-    "version": "20250510-6.16.1"
+    "version": "20250510-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tmon": {
     "description": "Monitoring and Testing Tool for Linux kernel thermal subsystem",
     "pname": "tmon",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.44-unstable-2025-05-26-6.16.1"
+    "version": "0.44-unstable-2025-05-26-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
     "pname": "trelay",
-    "version": "22.03.5-6.16.1"
+    "version": "22.03.5-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tsme-test": {
     "description": "Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)",
     "pname": "tsme-test",
-    "version": "6.16.1-unstable-2022-12-07"
+    "version": "6.16.3-unstable-2022-12-07"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tt-kmd": {
     "description": "Tenstorrent Kernel Module",
@@ -103777,17 +103777,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.turbostat": {
     "description": "Report processor frequency and idle statistics",
     "pname": "turbostat",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-drivers": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.16.1-4.14.0"
+    "version": "6.16.3-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-keyboard": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.16.1-4.14.0"
+    "version": "6.16.3-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.universal-pidff": {
     "description": "PIDFF driver with useful patches for initialization of FFB devices",
@@ -103797,17 +103797,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.usbip": {
     "description": "Allows to pass USB device from server to client over the network",
     "pname": "usbip-linux-zen",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v4l2loopback": {
     "description": "Kernel module to create V4L2 loopback devices",
     "pname": "v4l2loopback",
-    "version": "0.15.1-6.16.1"
+    "version": "0.15.1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v86d": {
     "description": "Daemon to run x86 code in an emulated environment",
     "pname": "v86d",
-    "version": "0.1.10-6.16.1"
+    "version": "0.1.10-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.veikk-linux-driver": {
     "description": "Linux driver for VEIKK-brand digitizers",
@@ -103817,7 +103817,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vendor-reset": {
     "description": "Linux kernel vendor specific hardware reset module",
     "pname": "vendor-reset-unstable",
-    "version": "2024-04-16-6.16.1"
+    "version": "2024-04-16-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vhba": {
     "description": "Provides a Virtual (SCSI) HBA",
@@ -103832,12 +103832,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.12-6.16.1"
+    "version": "7.1.12-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.12-6.16.1"
+    "version": "7.1.12-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -103852,12 +103852,12 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware": {
     "description": "Kernel modules needed for VMware hypervisor",
     "pname": "vmware-modules-workstation",
-    "version": "17.6.3-20250728-6.16.1"
+    "version": "17.6.3-20250728-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy": {
     "description": "Set the energy versus performance policy preference bias on recent X86 processors",
     "pname": "x86_energy_perf_policy",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
@@ -103892,17 +103892,17 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_2": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.2.8-6.16.1"
+    "version": "2.2.8-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.3.4-6.16.1"
+    "version": "2.3.4-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.4.0-rc1-6.16.1"
+    "version": "2.4.0-rc1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages-libre.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
@@ -110352,17 +110352,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery": {
     "description": "Driver for the Acer WMI battery health control interface",
     "pname": "acer-wmi-battery",
-    "version": "6.16.1-0.1.0-unstable-2025-04-24"
+    "version": "6.16.3-0.1.0-unstable-2025-04-24"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call": {
     "description": "Module allowing arbitrary ACPI calls; use case: hybrid video",
     "pname": "acpi-call",
-    "version": "1.2.2-6.16.1"
+    "version": "1.2.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ajantv2": {
     "description": "AJA video driver",
     "pname": "ajantv2-module",
-    "version": "17.5.0-6.16.1"
+    "version": "17.5.0-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.akvcam": {
     "description": "Virtual camera driver for Linux",
@@ -110382,12 +110382,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.apfs": {
     "description": "APFS module for linux",
     "pname": "apfs",
-    "version": "0.3.14-6.16.1"
+    "version": "0.3.14-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.16.1"
+    "version": "0.1.0-unstable-2025-01-10-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -110397,12 +110397,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.batman_adv": {
     "description": "B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2",
     "pname": "batman-adv",
-    "version": "2025.2-6.16.1"
+    "version": "2025.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch": {
     "description": "Module for powering off hybrid GPUs",
     "pname": "bbswitch-unstable",
-    "version": "2021-11-29-6.16.1"
+    "version": "2021-11-29-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -110417,7 +110417,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta": {
     "description": "Kernel module driver for some Broadcom's wireless cards",
     "pname": "broadcom-sta",
-    "version": "6.30.223.271-57-6.16.1"
+    "version": "6.30.223.271-57-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.can-isotp": {
     "description": "Kernel module for ISO-TP (ISO 15765-2)",
@@ -110442,7 +110442,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.cpupower": {
     "description": "Tool to examine and tune power saving features",
     "pname": "cpupower",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.cryptodev": {
     "description": "Device that allows access to Linux kernel cryptographic drivers",
@@ -110452,7 +110452,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver": {
     "description": "Kernel module driver for DDC/CI monitors",
     "pname": "ddcci-driver",
-    "version": "6.16.1-0.4.5-unstable-2024-09-26"
+    "version": "6.16.3-0.4.5-unstable-2024-09-26"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.dddvb": {
     "description": "Device driver for all Digital Devices DVB demodulator and modulator cards",
@@ -110492,7 +110492,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.ena": {
     "description": "Amazon Elastic Network Adapter (ENA) driver for Linux",
     "pname": "ena",
-    "version": "2.15.0-6.16.1"
+    "version": "2.15.0-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.evdi": {
     "description": "Extensible Virtual Display Interface",
@@ -110502,12 +110502,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
     "pname": "facetimehd",
-    "version": "0.6.13-6.16.1"
+    "version": "0.6.13-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.fanout": {
     "description": "Kernel-based publish-subscribe system",
     "pname": "fanout-unstable",
-    "version": "2022-10-17-6.16.1"
+    "version": "2022-10-17-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.framework-laptop-kmod": {
     "description": "Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace",
@@ -110517,7 +110517,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.fwts-efi-runtime": {
     "description": "Firmware Test Suite(efi-runtime kernel module)",
     "pname": "fwts-efi-runtime",
-    "version": "24.09.00-6.16.1"
+    "version": "24.09.00-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.gasket": {
     "description": "Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems",
@@ -110552,17 +110552,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.hyperv-daemons": {
     "description": "Integration Services for running NixOS under HyperV",
     "pname": "hyperv-daemons",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.iio-utils": {
     "description": "Userspace tool for interacting with Linux IIO",
     "pname": "iio-utils",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.intel-speed-select": {
     "description": "Tool to enumerate and control the Intel Speed Select Technology features",
     "pname": "intel-speed-select",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ipu6-drivers": {
     "description": "IPU6 kernel driver",
@@ -110572,12 +110572,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.isgx": {
     "description": "Intel SGX Linux Driver",
     "pname": "isgx",
-    "version": "2.14-6.16.1"
+    "version": "2.14-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.it87": {
     "description": "Patched module for IT87xx superio chip sensors support",
     "pname": "it87-unstable",
-    "version": "2024-06-09-6.16.1"
+    "version": "2024-06-09-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ithc": {
     "description": "Linux driver for Intel Touch Host Controller",
@@ -110592,17 +110592,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.ixgbevf": {
     "description": "Intel 82599 Virtual Function Driver",
     "pname": "ixgbevf",
-    "version": "4.6.1-6.16.1"
+    "version": "4.6.1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.jool": {
     "description": "Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules",
     "pname": "jool",
-    "version": "4.1.14-6.16.1"
+    "version": "4.1.14-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.kernel": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.",
     "pname": "linux-zen",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.kvmfr": {
     "description": "Optional kernel module for LookingGlass",
@@ -110622,17 +110622,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.liquidtux": {
     "description": "Linux kernel hwmon drivers for AIO liquid coolers and other devices",
     "pname": "liquidtux",
-    "version": "0.1.0-unstable-2025-01-16-6.16.1"
+    "version": "0.1.0-unstable-2025-01-16-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.lkrg": {
     "description": "LKRG Linux Kernel module",
     "pname": "lkrg",
-    "version": "0.9.9-6.16.1"
+    "version": "0.9.9-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.lttng-modules": {
     "description": "Linux kernel modules for LTTng tracing",
     "pname": "lttng-modules",
-    "version": "6.16.1-2.13.15"
+    "version": "6.16.3-2.13.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.mba6x_bl": {
     "description": "MacBook Air 6,1 and 6,2 (mid 2013) backlight driver",
@@ -110662,12 +110662,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.mwprocapture": {
     "description": "Linux driver for the Magewell Pro Capture family",
     "pname": "mwprocapture",
-    "version": "1.3.4418-6.16.1"
+    "version": "1.3.4418-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0": {
     "description": "MOXA UPort 11x0 USB to Serial Hub driver",
     "pname": "mxu11x0",
-    "version": "5.1-6.16.1"
+    "version": "5.1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nct6687d": {
     "description": "Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI",
@@ -110677,12 +110677,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper": {
     "description": "Ndis driver wrapper for the Linux kernel",
     "pname": "ndiswrapper",
-    "version": "1.63-6.16.1"
+    "version": "1.63-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.netatop": {
     "description": "Network monitoring module for atop",
     "pname": "netatop",
-    "version": "6.16.1-3.1"
+    "version": "6.16.3-3.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.new-lg4ff": {
     "description": "Experimental Logitech force feedback module for Linux",
@@ -110697,97 +110697,97 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "570.172.08-6.16.1"
+    "version": "570.172.08-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_535": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "535.154.05-6.16.1"
+    "version": "535.154.05-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565": {
     "description": "Data Center driver and kernel module for NVIDIA cards",
     "pname": "nvidia-dc",
-    "version": "565.57.01-6.16.1"
+    "version": "565.57.01-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.16.1"
+    "version": "570.181-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "580.65.06-6.16.1"
+    "version": "580.65.06-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-580.65.06"
+    "version": "6.16.3-580.65.06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "575.64.05-6.16.1"
+    "version": "575.64.05-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-575.64.05"
+    "version": "6.16.3-575.64.05"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "340.108-6.16.1"
+    "version": "340.108-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy390": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "390.157-6.16.1"
+    "version": "390.157-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy470": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "470.256.02-6.16.1"
+    "version": "470.256.02-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "535.261.03-6.16.1"
+    "version": "535.261.03-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.181-6.16.1"
+    "version": "570.181-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-570.181"
+    "version": "6.16.3-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-570.181"
+    "version": "6.16.3-570.181"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta": {
     "description": "X.org driver and kernel module for NVIDIA cards",
     "pname": "nvidia-x11",
-    "version": "570.123.19-6.16.1"
+    "version": "570.123.19-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open": {
     "description": "NVIDIA Linux Open GPU Kernel Module",
     "pname": "nvidia-open",
-    "version": "6.16.1-570.123.19"
+    "version": "6.16.3-570.123.19"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl": {
     "description": "Linux driver for setting the backlight brightness on laptops using NVIDIA GPU",
     "pname": "nvidiabl",
-    "version": "2020-10-01-6.16.1"
+    "version": "2020-10-01-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.nxp-pn5xx": {
     "description": "NXP's NFC Open Source Kernel mode driver with ACPI configuration support",
     "pname": "nxp-pn5xx",
-    "version": "0.4-unstable-2025-02-08-6.16.1"
+    "version": "0.4-unstable-2025-02-08-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.oci-seccomp-bpf-hook": {
     "description": "OCI hook to trace syscalls and generate a seccomp profile ",
@@ -110802,27 +110802,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.openafs": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.16.1-zen1"
+    "version": "1.8.13.2-6.16.3-zen1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.openafs_1_8": {
     "description": "Open AFS client kernel module",
     "pname": "openafs",
-    "version": "1.8.13.2-6.16.1-zen1"
+    "version": "1.8.13.2-6.16.3-zen1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.openrazer": {
     "description": "Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux",
     "pname": "openrazer",
-    "version": "3.10.3-6.16.1"
+    "version": "3.10.3-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf": {
     "description": "eBPF process monitor module for OpenSnitch",
     "pname": "opensnitch_ebpf",
-    "version": "1.7.2-6.16.1"
+    "version": "1.7.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.perf": {
     "description": "Linux tools to profile with performance counters",
     "pname": "perf-linux",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.pktgen": {
     "description": "Traffic generator powered by DPDK",
@@ -110852,7 +110852,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.r8168": {
     "description": "Realtek r8168 driver",
     "pname": "r8168",
-    "version": "6.16.1-8.055.00"
+    "version": "6.16.3-8.055.00"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rr-zen_workaround": {
     "description": "Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs",
@@ -110862,42 +110862,42 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8188eus-aircrack": {
     "description": "RealTek RTL8188eus WiFi driver with monitor mode & frame injection support",
     "pname": "rtl8188eus-aircrack",
-    "version": "6.16.1-unstable-2024-09-18"
+    "version": "6.16.3-unstable-2024-09-18"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189es": {
     "description": "Driver for Realtek rtl8189es",
     "pname": "rtl8189es",
-    "version": "6.16.1-2025-04-29"
+    "version": "6.16.3-2025-04-29"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189fs": {
     "description": "Driver for Realtek rtl8189fs",
     "pname": "rtl8189fs",
-    "version": "6.16.1-2025-05-04"
+    "version": "6.16.3-2025-05-04"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8192eu": {
     "description": "Realtek rtl8192eu driver",
     "pname": "rtl8192eu",
-    "version": "6.16.1-4.4.1.20250504"
+    "version": "6.16.3-4.4.1.20250504"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8723ds": {
     "description": "Linux driver for RTL8723DS",
     "pname": "rtl8723ds",
-    "version": "6.16.1-unstable-2023-11-14"
+    "version": "6.16.3-unstable-2023-11-14"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8812au": {
     "description": "Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod",
     "pname": "rtl8812au",
-    "version": "6.16.1-unstable-2024-06-13"
+    "version": "6.16.3-unstable-2024-06-13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8814au": {
     "description": "Realtek 8814AU USB WiFi driver",
     "pname": "rtl8814au",
-    "version": "6.16.1-unstable-2024-05-26"
+    "version": "6.16.3-unstable-2024-05-26"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821au": {
     "description": "rtl8821AU and rtl8812AU chipset driver with firmware",
     "pname": "rtl8821au",
-    "version": "6.16.1-unstable-2025-04-08"
+    "version": "6.16.3-unstable-2025-04-08"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821ce": {
     "description": "Realtek rtl8821ce driver",
@@ -110907,27 +110907,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821cu": {
     "description": "Realtek rtl8821cu driver",
     "pname": "rtl8821cu",
-    "version": "6.16.1-unstable-2025-05-08"
+    "version": "6.16.3-unstable-2025-05-08"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852au": {
     "description": "Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod",
     "pname": "rtl8852au",
-    "version": "6.16.1-unstable-2024-05-06"
+    "version": "6.16.3-unstable-2024-05-06"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852bu": {
     "description": "Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod",
     "pname": "rtl8852bu",
-    "version": "6.16.1-unstable-2025-05-18"
+    "version": "6.16.3-unstable-2025-05-18"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl88x2bu": {
     "description": "Realtek rtl88x2bu driver",
     "pname": "rtl88x2bu",
-    "version": "6.16.1-unstable-2024-06-09"
+    "version": "6.16.3-unstable-2024-06-09"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtl88xxau-aircrack": {
     "description": "Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.",
     "pname": "rtl88xxau-aircrack",
-    "version": "6.16.1-unstable-2024-04-09"
+    "version": "6.16.3-unstable-2024-04-09"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.rtw88": {
     "description": "Backport of the latest Realtek RTW88 driver from wireless-next for older kernels",
@@ -110942,7 +110942,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu": {
     "description": "Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors",
     "pname": "ryzen-smu",
-    "version": "6.16.1-0.1.5-unstable-2025-06-04"
+    "version": "6.16.3-0.1.5-unstable-2025-06-04"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.sheep-net": {
     "description": "",
@@ -110967,17 +110967,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.system76": {
     "description": "System76 DKMS driver",
     "pname": "system76-module",
-    "version": "1.0.17-6.16.1"
+    "version": "1.0.17-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.system76-acpi": {
     "description": "System76 ACPI Driver (DKMS)",
     "pname": "system76-acpi-module",
-    "version": "1.0.2-6.16.1"
+    "version": "1.0.2-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.system76-io": {
     "description": "DKMS module for controlling System76 Io board",
     "pname": "system76-io-module",
-    "version": "1.0.4-6.16.1"
+    "version": "1.0.4-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.system76-power": {
     "description": "System76 Power Management",
@@ -110997,27 +110997,27 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.tbs": {
     "description": "Linux driver for TBSDTV cards",
     "pname": "tbs",
-    "version": "20250510-6.16.1"
+    "version": "20250510-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.tmon": {
     "description": "Monitoring and Testing Tool for Linux kernel thermal subsystem",
     "pname": "tmon",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi": {
     "description": "IBM ThinkPad hardware functions driver",
     "pname": "tp_smapi",
-    "version": "0.44-unstable-2025-05-26-6.16.1"
+    "version": "0.44-unstable-2025-05-26-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.trelay": {
     "description": "For relaying IP packets between two devices to build a IP bridge between them",
     "pname": "trelay",
-    "version": "22.03.5-6.16.1"
+    "version": "22.03.5-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.tsme-test": {
     "description": "Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)",
     "pname": "tsme-test",
-    "version": "6.16.1-unstable-2022-12-07"
+    "version": "6.16.3-unstable-2022-12-07"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.tt-kmd": {
     "description": "Tenstorrent Kernel Module",
@@ -111027,17 +111027,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.turbostat": {
     "description": "Report processor frequency and idle statistics",
     "pname": "turbostat",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-drivers": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.16.1-4.14.0"
+    "version": "6.16.3-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-keyboard": {
     "description": "Keyboard and hardware I/O driver for TUXEDO Computers laptops",
     "pname": "tuxedo-drivers",
-    "version": "6.16.1-4.14.0"
+    "version": "6.16.3-4.14.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.universal-pidff": {
     "description": "PIDFF driver with useful patches for initialization of FFB devices",
@@ -111047,17 +111047,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.usbip": {
     "description": "Allows to pass USB device from server to client over the network",
     "pname": "usbip-linux-zen",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.v4l2loopback": {
     "description": "Kernel module to create V4L2 loopback devices",
     "pname": "v4l2loopback",
-    "version": "0.15.1-6.16.1"
+    "version": "0.15.1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.v86d": {
     "description": "Daemon to run x86 code in an emulated environment",
     "pname": "v86d",
-    "version": "0.1.10-6.16.1"
+    "version": "0.1.10-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.veikk-linux-driver": {
     "description": "Linux driver for VEIKK-brand digitizers",
@@ -111067,7 +111067,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.vendor-reset": {
     "description": "Linux kernel vendor specific hardware reset module",
     "pname": "vendor-reset-unstable",
-    "version": "2024-04-16-6.16.1"
+    "version": "2024-04-16-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.vhba": {
     "description": "Provides a Virtual (SCSI) HBA",
@@ -111082,12 +111082,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox": {
     "description": "PC emulator (kernel modules)",
     "pname": "virtualbox-modules",
-    "version": "7.1.12-6.16.1"
+    "version": "7.1.12-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions": {
     "description": "Guest additions for VirtualBox",
     "pname": "VirtualBox-GuestAdditions",
-    "version": "7.1.12-6.16.1"
+    "version": "7.1.12-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.vm-tools": {
     "description": "Set of virtual memory tools",
@@ -111102,12 +111102,12 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.vmware": {
     "description": "Kernel modules needed for VMware hypervisor",
     "pname": "vmware-modules-workstation",
-    "version": "17.6.3-20250728-6.16.1"
+    "version": "17.6.3-20250728-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy": {
     "description": "Set the energy versus performance policy preference bias on recent X86 processors",
     "pname": "x86_energy_perf_policy",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
@@ -111142,17 +111142,17 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_2": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.2.8-6.16.1"
+    "version": "2.2.8-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.3.4-6.16.1"
+    "version": "2.3.4-6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable": {
     "description": "ZFS Filesystem Linux Kernel Module",
     "pname": "zfs-kernel",
-    "version": "2.4.0-rc1-6.16.1"
+    "version": "2.4.0-rc1-6.16.3"
   },
   "legacyPackages.x86_64-linux.linux_5_10": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
@@ -111277,7 +111277,7 @@
   "legacyPackages.x86_64-linux.linux_zen": {
     "description": "Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads.",
     "pname": "linux-zen",
-    "version": "6.16.1"
+    "version": "6.16.3"
   },
   "legacyPackages.x86_64-linux.linuxdoc-tools": {
     "description": "Toolset for processing LinuxDoc DTD SGML files",
@@ -124752,7 +124752,7 @@
   "legacyPackages.x86_64-linux.memray": {
     "description": "Memory profiler for Python",
     "pname": "memray",
-    "version": "1.17.2"
+    "version": "1.18.0"
   },
   "legacyPackages.x86_64-linux.memtest86-efi": {
     "description": "Tool to detect memory errors, to be run from a bootloader",
@@ -127307,12 +127307,12 @@
   "legacyPackages.x86_64-linux.monero-cli": {
     "description": "Private, secure, untraceable currency",
     "pname": "monero-cli",
-    "version": "0.18.4.1"
+    "version": "0.18.4.2"
   },
   "legacyPackages.x86_64-linux.monero-gui": {
     "description": "Private, secure, untraceable currency",
     "pname": "monero-gui",
-    "version": "0.18.4.1"
+    "version": "0.18.4.2"
   },
   "legacyPackages.x86_64-linux.monetdb": {
     "description": "Open source database system",
@@ -194347,7 +194347,7 @@
   "legacyPackages.x86_64-linux.python312Packages.adafruit-platformdetect": {
     "description": "Platform detection for use by Adafruit libraries",
     "pname": "python3.12-adafruit-platformdetect",
-    "version": "3.82.0"
+    "version": "3.83.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.adafruit-pureio": {
     "description": "Python interface to Linux IO including I2C and SPI",
@@ -200643,6 +200643,11 @@
     "description": "CMSIS SVD parser",
     "pname": "python3.12-cmsis-svd",
     "version": "0.4-unstable-2024-01-25"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.cmudict": {
+    "description": "A versioned python wrapper package for The CMU Pronouncing Dictionary data files",
+    "pname": "python3.12-cmudict",
+    "version": "1.1.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.cnvkit": {
     "description": "Python library and command-line software toolkit to infer and visualize copy number from high-throughput DNA sequencing data",
@@ -214547,7 +214552,7 @@
   "legacyPackages.x86_64-linux.python312Packages.llama-index-vector-stores-chroma": {
     "description": "LlamaIndex Vector Store Integration for Chroma",
     "pname": "python3.12-llama-index-vector-stores-chroma",
-    "version": "0.5.0"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.llama-index-vector-stores-google": {
     "description": "LlamaIndex Vector Store Integration for Google",
@@ -221877,7 +221882,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pandas-stubs": {
     "description": "Type annotations for Pandas",
     "pname": "python3.12-pandas-stubs",
-    "version": "2.2.3.250308"
+    "version": "2.3.2.250827"
   },
   "legacyPackages.x86_64-linux.python312Packages.pandas-ta": {
     "description": "Technical Analysis Indicators",
@@ -233437,7 +233442,7 @@
   "legacyPackages.x86_64-linux.python312Packages.root": {
     "description": "Data analysis framework",
     "pname": "python3.12-root",
-    "version": "6.36.02"
+    "version": "6.36.04"
   },
   "legacyPackages.x86_64-linux.python312Packages.rope": {
     "description": "Python refactoring library",
@@ -233452,7 +233457,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ropper": {
     "description": "Show information about files in different file formats",
     "pname": "python3.12-ropper",
-    "version": "1.13.10"
+    "version": "1.13.13"
   },
   "legacyPackages.x86_64-linux.python312Packages.rosbags": {
     "description": "Pure Python library to read, modify, convert, and write rosbag files",
@@ -235492,7 +235497,7 @@
   "legacyPackages.x86_64-linux.python312Packages.smolagents": {
     "description": "Barebones library for agents",
     "pname": "python3.12-smolagents",
-    "version": "1.20.0"
+    "version": "1.21.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.smp": {
     "description": "Simple Management Protocol (SMP) for remotely managing MCU firmware",
@@ -237242,7 +237247,7 @@
   "legacyPackages.x86_64-linux.python312Packages.stripe": {
     "description": "Stripe Python bindings",
     "pname": "python3.12-stripe",
-    "version": "12.4.0"
+    "version": "12.5.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.striprtf": {
     "description": "Simple library to convert rtf to text",
@@ -238757,7 +238762,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tlds": {
     "description": "Automatically updated list of valid TLDs taken directly from IANA",
     "pname": "python3.12-tlds",
-    "version": "2025051700"
+    "version": "2025082700"
   },
   "legacyPackages.x86_64-linux.python312Packages.tls-client": {
     "description": "Advanced HTTP Library",
@@ -245972,7 +245977,7 @@
   "legacyPackages.x86_64-linux.python313Packages.adafruit-platformdetect": {
     "description": "Platform detection for use by Adafruit libraries",
     "pname": "python3.13-adafruit-platformdetect",
-    "version": "3.82.0"
+    "version": "3.83.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.adafruit-pureio": {
     "description": "Python interface to Linux IO including I2C and SPI",
@@ -252273,6 +252278,11 @@
     "description": "CMSIS SVD parser",
     "pname": "python3.13-cmsis-svd",
     "version": "0.4-unstable-2024-01-25"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.cmudict": {
+    "description": "A versioned python wrapper package for The CMU Pronouncing Dictionary data files",
+    "pname": "python3.13-cmudict",
+    "version": "1.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.cnvkit": {
     "description": "Python library and command-line software toolkit to infer and visualize copy number from high-throughput DNA sequencing data",
@@ -266177,7 +266187,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llama-index-vector-stores-chroma": {
     "description": "LlamaIndex Vector Store Integration for Chroma",
     "pname": "python3.13-llama-index-vector-stores-chroma",
-    "version": "0.5.0"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.llama-index-vector-stores-google": {
     "description": "LlamaIndex Vector Store Integration for Google",
@@ -273507,7 +273517,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pandas-stubs": {
     "description": "Type annotations for Pandas",
     "pname": "python3.13-pandas-stubs",
-    "version": "2.2.3.250308"
+    "version": "2.3.2.250827"
   },
   "legacyPackages.x86_64-linux.python313Packages.pandas-ta": {
     "description": "Technical Analysis Indicators",
@@ -285067,7 +285077,7 @@
   "legacyPackages.x86_64-linux.python313Packages.root": {
     "description": "Data analysis framework",
     "pname": "python3.13-root",
-    "version": "6.36.02"
+    "version": "6.36.04"
   },
   "legacyPackages.x86_64-linux.python313Packages.rope": {
     "description": "Python refactoring library",
@@ -285082,7 +285092,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ropper": {
     "description": "Show information about files in different file formats",
     "pname": "python3.13-ropper",
-    "version": "1.13.10"
+    "version": "1.13.13"
   },
   "legacyPackages.x86_64-linux.python313Packages.rosbags": {
     "description": "Pure Python library to read, modify, convert, and write rosbag files",
@@ -287122,7 +287132,7 @@
   "legacyPackages.x86_64-linux.python313Packages.smolagents": {
     "description": "Barebones library for agents",
     "pname": "python3.13-smolagents",
-    "version": "1.20.0"
+    "version": "1.21.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.smp": {
     "description": "Simple Management Protocol (SMP) for remotely managing MCU firmware",
@@ -288917,7 +288927,7 @@
   "legacyPackages.x86_64-linux.python313Packages.stripe": {
     "description": "Stripe Python bindings",
     "pname": "python3.13-stripe",
-    "version": "12.4.0"
+    "version": "12.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.striprtf": {
     "description": "Simple library to convert rtf to text",
@@ -290432,7 +290442,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tlds": {
     "description": "Automatically updated list of valid TLDs taken directly from IANA",
     "pname": "python3.13-tlds",
-    "version": "2025051700"
+    "version": "2025082700"
   },
   "legacyPackages.x86_64-linux.python313Packages.tls-client": {
     "description": "Advanced HTTP Library",
@@ -303782,7 +303792,7 @@
   "legacyPackages.x86_64-linux.root": {
     "description": "Data analysis framework",
     "pname": "root",
-    "version": "6.36.02"
+    "version": "6.36.04"
   },
   "legacyPackages.x86_64-linux.rootbar": {
     "description": "Bar for Wayland WMs",
@@ -340707,17 +340717,17 @@
   "legacyPackages.x86_64-linux.scx.cscheds": {
     "description": "Sched-ext C userspace schedulers",
     "pname": "scx_cscheds",
-    "version": "1.0.14"
+    "version": "1.0.15"
   },
   "legacyPackages.x86_64-linux.scx.full": {
     "description": "Sched-ext C and Rust userspace schedulers",
     "pname": "scx_full",
-    "version": "1.0.14"
+    "version": "1.0.15"
   },
   "legacyPackages.x86_64-linux.scx.rustscheds": {
     "description": "Sched-ext Rust userspace schedulers",
     "pname": "scx_rustscheds",
-    "version": "1.0.14"
+    "version": "1.0.15"
   },
   "legacyPackages.x86_64-linux.sd": {
     "description": "Intuitive find & replace CLI (sed alternative)",
@@ -341212,7 +341222,7 @@
   "legacyPackages.x86_64-linux.sensible-utils": {
     "description": "Collection of utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager",
     "pname": "sensible-utils",
-    "version": "0.0.24"
+    "version": "0.0.26"
   },
   "legacyPackages.x86_64-linux.sensu-go-agent": {
     "description": "Open source monitoring tool for ephemeral infrastructure & distributed applications",
@@ -342877,7 +342887,7 @@
   "legacyPackages.x86_64-linux.siyuan": {
     "description": "Privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync",
     "pname": "siyuan",
-    "version": "3.2.1"
+    "version": "3.3.0"
   },
   "legacyPackages.x86_64-linux.sizelint": {
     "description": "Lint your file tree based on file sizes",
@@ -344187,7 +344197,7 @@
   "legacyPackages.x86_64-linux.soft-serve": {
     "description": "Tasty, self-hosted Git server for the command line",
     "pname": "soft-serve",
-    "version": "0.9.1"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.softether": {
     "description": "Open-Source Free Cross-platform Multi-protocol VPN Program",
@@ -380697,7 +380707,7 @@
   "legacyPackages.x86_64-linux.tideways-daemon": {
     "description": "Tideways Daemon",
     "pname": "tideways-daemon",
-    "version": "1.9.48"
+    "version": "1.9.52"
   },
   "legacyPackages.x86_64-linux.tidgi": {
     "description": "Customizable personal knowledge-base and blogging platform with git as backup manager",
@@ -425029,6 +425039,11 @@
     "pname": "projects.yazi",
     "version": "0-unstable-2025-06-19"
   },
+  "legacyPackages.x86_64-linux.yaziPlugins.recycle-bin": {
+    "description": "A Recycle Bin for Yazi with browse, restore, and cleanup capabilities",
+    "pname": "recycle-bin.yazi",
+    "version": "1.0.0-unstable-2025-08-20"
+  },
   "legacyPackages.x86_64-linux.yaziPlugins.relative-motions": {
     "description": "Yazi plugin based about vim motions",
     "pname": "relative-motions.yazi",
@@ -426062,7 +426077,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "0.201.4"
+    "version": "0.201.5"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
