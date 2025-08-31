@@ -3789,11 +3789,11 @@ legacyPackages.x86_64-linux.androidStudioPackages.beta:
 legacyPackages.x86_64-linux.androidStudioPackages.canary:
   description: Official IDE for Android (canary channel)
   pname: android-studio-canary
-  version: 2025.1.4.1
+  version: 2025.1.4.3
 legacyPackages.x86_64-linux.androidStudioPackages.dev:
   description: Official IDE for Android (dev channel)
   pname: android-studio-dev
-  version: 2025.1.4.1
+  version: 2025.1.4.3
 legacyPackages.x86_64-linux.androidStudioPackages.stable:
   description: Official IDE for Android (stable channel)
   pname: android-studio-stable
@@ -11669,7 +11669,7 @@ legacyPackages.x86_64-linux.bearssl:
 legacyPackages.x86_64-linux.beatprints:
   description: Create eye-catching, Pinterest-style music posters effortlessly
   pname: BeatPrints
-  version: 1.1.4
+  version: 1.1.5
 legacyPackages.x86_64-linux.beats:
   description: Swatch Internet Time implemented as a C program
   pname: beats
@@ -20101,7 +20101,7 @@ legacyPackages.x86_64-linux.clatd:
 legacyPackages.x86_64-linux.claude-code:
   description: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
   pname: claude-code
-  version: 1.0.96
+  version: 1.0.98
 legacyPackages.x86_64-linux.claws:
   description: Interactive command line client for testing websocket servers
   pname: claws
@@ -23217,7 +23217,7 @@ legacyPackages.x86_64-linux.crosswords:
 legacyPackages.x86_64-linux.crosvm:
   description: Secure virtual machine monitor for KVM
   pname: crosvm
-  version: 0-unstable-2025-08-18
+  version: 0-unstable-2025-08-28
 legacyPackages.x86_64-linux.crow:
   description: Fast and Easy to use microframework for the web
   pname: crow
@@ -25589,7 +25589,7 @@ legacyPackages.x86_64-linux.debase:
 legacyPackages.x86_64-linux.debian-devscripts:
   description: Debian package maintenance scripts
   pname: debian-devscripts
-  version: 2.25.18
+  version: 2.25.15+deb13u1
 legacyPackages.x86_64-linux.debian-goodies:
   description: Small toolbox-style utilities for Debian systems
   pname: debian-goodies
@@ -28185,7 +28185,7 @@ legacyPackages.x86_64-linux.dotslash:
 legacyPackages.x86_64-linux.dotter:
   description: Dotfile manager and templater written in Rust
   pname: dotter
-  version: 0.13.3
+  version: 0.13.4
 legacyPackages.x86_64-linux.dotty:
   description: Scala 3 compiler, also known as Dotty
   pname: scala
@@ -28913,7 +28913,7 @@ legacyPackages.x86_64-linux.duplicity:
 legacyPackages.x86_64-linux.duply:
   description: Shell front end for the duplicity backup tool
   pname: duply
-  version: 2.5.5
+  version: 2.5.6
 legacyPackages.x86_64-linux.dura:
   description: Background process that saves uncommitted changes on git
   pname: dura
@@ -32177,7 +32177,7 @@ legacyPackages.x86_64-linux.faissWithCuda:
 legacyPackages.x86_64-linux.fake-gcs-server:
   description: Google Cloud Storage emulator & testing library
   pname: fake-gcs-server
-  version: 1.52.2
+  version: 1.52.3
 legacyPackages.x86_64-linux.fakeNss:
   description: ""
   pname: fake-nss
@@ -32425,7 +32425,7 @@ legacyPackages.x86_64-linux.fastmod:
 legacyPackages.x86_64-linux.fastnetmon-advanced:
   description: High performance DDoS detector / sensor - commercial edition
   pname: fastnetmon-advanced
-  version: 2.0.371
+  version: 2.0.372
 legacyPackages.x86_64-linux.fastnlo-toolkit:
   description: Fast pQCD calculations for hadron-induced processes
   pname: fastnlo-toolkit
@@ -34405,7 +34405,7 @@ legacyPackages.x86_64-linux.fluidsynth:
 legacyPackages.x86_64-linux.flutter:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutter324:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
@@ -34425,11 +34425,11 @@ legacyPackages.x86_64-linux.flutter332:
 legacyPackages.x86_64-linux.flutter335:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutterPackages-bin.stable:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutterPackages-bin.v3_24:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
@@ -34449,11 +34449,11 @@ legacyPackages.x86_64-linux.flutterPackages-bin.v3_32:
 legacyPackages.x86_64-linux.flutterPackages-bin.v3_35:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutterPackages-source.stable:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutterPackages-source.v3_24:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
@@ -34473,11 +34473,11 @@ legacyPackages.x86_64-linux.flutterPackages-source.v3_32:
 legacyPackages.x86_64-linux.flutterPackages-source.v3_35:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutterPackages.stable:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutterPackages.v3_24:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
@@ -34497,7 +34497,7 @@ legacyPackages.x86_64-linux.flutterPackages.v3_32:
 legacyPackages.x86_64-linux.flutterPackages.v3_35:
   description: Makes it easy and fast to build beautiful apps for mobile and beyond
   pname: flutter-wrapped
-  version: 3.35.1-sdk-links
+  version: 3.35.2-sdk-links
 legacyPackages.x86_64-linux.flutter_rust_bridge_codegen:
   description: Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple
   pname: flutter_rust_bridge_codegen
@@ -36089,11 +36089,11 @@ legacyPackages.x86_64-linux.gamepad-tool:
 legacyPackages.x86_64-linux.gamescope:
   description: SteamOS session compositing window manager
   pname: gamescope
-  version: 3.16.14.2
+  version: 3.16.15
 legacyPackages.x86_64-linux.gamescope-wsi:
   description: SteamOS session compositing window manager
   pname: gamescope
-  version: 3.16.14.2
+  version: 3.16.15
 legacyPackages.x86_64-linux.gamja:
   description: Simple IRC web client
   pname: gamja
@@ -36265,7 +36265,7 @@ legacyPackages.x86_64-linux.gato:
 legacyPackages.x86_64-linux.gatus:
   description: Automated developer-oriented status page
   pname: gatus
-  version: 5.19.0
+  version: 5.23.2
 legacyPackages.x86_64-linux.gau:
   description: Tool to fetch known URLs
   pname: gau
@@ -36893,7 +36893,7 @@ legacyPackages.x86_64-linux.gef:
 legacyPackages.x86_64-linux.gefyra:
   description: Tool to connect local containers to kubernetes clusters
   pname: gefyra
-  version: 2.3.1
+  version: 2.3.2
 legacyPackages.x86_64-linux.gegl:
   description: Graph-based image processing framework
   pname: gegl
@@ -36929,7 +36929,7 @@ legacyPackages.x86_64-linux.gemget:
 legacyPackages.x86_64-linux.gemini-cli:
   description: AI agent that brings the power of Gemini directly into your terminal
   pname: gemini-cli
-  version: 0.2.1
+  version: 0.2.2
 legacyPackages.x86_64-linux.geminicommit:
   description: CLI that generates git commit messages with Google Gemini AI
   pname: geminicommit
@@ -37045,7 +37045,7 @@ legacyPackages.x86_64-linux.gentium-plus:
 legacyPackages.x86_64-linux.genxword:
   description: Crossword generator
   pname: genxword
-  version: 2.1.0
+  version: 2.2.0
 legacyPackages.x86_64-linux.genymotion:
   description: Fast and easy Android emulation
   pname: genymotion
@@ -38137,7 +38137,7 @@ legacyPackages.x86_64-linux.git-latexdiff:
 legacyPackages.x86_64-linux.git-lfs:
   description: Git extension for versioning large files
   pname: git-lfs
-  version: 3.6.1
+  version: 3.7.0
 legacyPackages.x86_64-linux.git-lfs-transfer:
   description: Server-side implementation of the Git LFS pure-SSH protocol
   pname: git-lfs-transfer
@@ -38741,7 +38741,7 @@ legacyPackages.x86_64-linux.gl3w:
 legacyPackages.x86_64-linux.glab:
   description: GitLab CLI tool bringing GitLab to your command line
   pname: glab
-  version: 1.65.0
+  version: 1.67.0
 legacyPackages.x86_64-linux.glabels:
   description: Create labels and business cards
   pname: glabels
@@ -47744,8 +47744,8 @@ legacyPackages.x86_64-linux.haxor-news:
   version: "2022-04-22"
 legacyPackages.x86_64-linux.hayabusa:
   description: Swift rust fetch program
-  pname: hayabusa-unstable
-  version: "2023-11-29"
+  pname: hayabusa
+  version: 0.3.9
 legacyPackages.x86_64-linux.hayabusa-sec:
   description: Sigma-based threat hunting and fast forensics timeline generator for Windows event logs
   pname: hayabusa-sec
@@ -51110,6 +51110,10 @@ legacyPackages.x86_64-linux.home-assistant-component-tests.oralb:
   description: Open source home automation that puts local control and privacy first
   pname: homeassistant-test-oralb
   version: 2025.8.3
+legacyPackages.x86_64-linux.home-assistant-component-tests.osoenergy:
+  description: Open source home automation that puts local control and privacy first
+  pname: homeassistant-test-osoenergy
+  version: 2025.8.3
 legacyPackages.x86_64-linux.home-assistant-component-tests.otbr:
   description: Open source home automation that puts local control and privacy first
   pname: homeassistant-test-otbr
@@ -52897,7 +52901,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.volvo_cars:
 legacyPackages.x86_64-linux.home-assistant-custom-components.waste_collection_schedule:
   description: Home Assistant integration framework for (garbage collection) schedules
   pname: python3.13-mampfes-waste_collection_schedule
-  version: 2.9.0
+  version: 2.10.0
 legacyPackages.x86_64-linux.home-assistant-custom-components.xiaomi_gateway3:
   description: Home Assistant custom component for control Xiaomi Multimode Gateway (aka Gateway 3), Xiaomi Multimode Gateway 2, Aqara Hub E1 on default firmwares over LAN
   pname: python3.13-AlexxIT-xiaomi_gateway3
@@ -52921,7 +52925,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.advanced-came
 legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.apexcharts-card:
   description: Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant
   pname: apexcharts-card
-  version: 2.2.0
+  version: 2.2.3
 legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.atomic-calendar-revive:
   description: Advanced calendar card for Home Assistant Lovelace
   pname: atomic-calendar-revive
@@ -58469,7 +58473,7 @@ legacyPackages.x86_64-linux.jj-fzf:
 legacyPackages.x86_64-linux.jjui:
   description: TUI for Jujutsu VCS
   pname: jjui
-  version: 0.9.2
+  version: 0.9.3
 legacyPackages.x86_64-linux.jl:
   description: Functional sed for JSON
   pname: jl
@@ -58921,7 +58925,7 @@ legacyPackages.x86_64-linux.jsonschema:
 legacyPackages.x86_64-linux.jsonschema-cli:
   description: Fast command-line tool for JSON Schema validation
   pname: jsonschema-cli
-  version: 0.32.1
+  version: 0.33.0
 legacyPackages.x86_64-linux.jsonwatch:
   description: Like watch -d but for JSON
   pname: jsonwatch
@@ -62821,7 +62825,7 @@ legacyPackages.x86_64-linux.kobodeluxe:
 legacyPackages.x86_64-linux.koboldcpp:
   description: Way to run various GGML and GGUF models
   pname: koboldcpp
-  version: "1.98"
+  version: 1.98.1
 legacyPackages.x86_64-linux.koboredux:
   description: Frantic 80's style 2D shooter, similar to XKobo and Kobo Deluxe
   pname: koboredux
@@ -64277,7 +64281,7 @@ legacyPackages.x86_64-linux.ladspaPlugins:
 legacyPackages.x86_64-linux.ladybird:
   description: Browser using the SerenityOS LibWeb engine with a Qt or Cocoa GUI
   pname: ladybird
-  version: 0-unstable-2025-08-19
+  version: 0-unstable-2025-08-29
 legacyPackages.x86_64-linux.lager:
   description: C++ library for value-oriented design using the unidirectional data-flow architecture — Redux for C++
   pname: lager
@@ -66389,11 +66393,11 @@ legacyPackages.x86_64-linux.libflowmanager:
 legacyPackages.x86_64-linux.libfm:
   description: Glib-based library for file management
   pname: libfm
-  version: 1.3.2
+  version: 1.4.0
 legacyPackages.x86_64-linux.libfm-extra:
   description: Glib-based library for file management
   pname: libfm-extra
-  version: 1.3.2
+  version: 1.4.0
 legacyPackages.x86_64-linux.libfmvoice:
   description: C library for loading, saving and converting FM sound chip voice files in various formats
   pname: libfmvoice
@@ -67612,8 +67616,8 @@ legacyPackages.x86_64-linux.libnl:
   version: 3.11.0
 legacyPackages.x86_64-linux.libnl-tiny:
   description: Tiny OpenWrt fork of libnl
-  pname: libnl-tiny-unstable
-  version: "2023-12-05"
+  pname: libnl-tiny
+  version: 0-unstable-2025-03-19
 legacyPackages.x86_64-linux.libnma:
   description: NetworkManager UI utilities (libnm version)
   pname: libnma
@@ -68393,7 +68397,7 @@ legacyPackages.x86_64-linux.libretro-core-info:
 legacyPackages.x86_64-linux.libretro-shaders-slang:
   description: Slang shaders for use with RetroArch's shader system
   pname: libretro-shaders-slang
-  version: 0-unstable-2025-08-14
+  version: 0-unstable-2025-08-26
 legacyPackages.x86_64-linux.libretro.atari800:
   description: Port of Atari800 to libretro
   pname: libretro-atari800
@@ -68669,7 +68673,7 @@ legacyPackages.x86_64-linux.libretro.play:
 legacyPackages.x86_64-linux.libretro.ppsspp:
   description: PPSSPP libretro port
   pname: libretro-ppsspp
-  version: 0-unstable-2025-08-19
+  version: 0-unstable-2025-08-30
 legacyPackages.x86_64-linux.libretro.prboom:
   description: Prboom libretro port
   pname: libretro-prboom
@@ -68817,7 +68821,7 @@ legacyPackages.x86_64-linux.librevenge:
 legacyPackages.x86_64-linux.librewolf:
   description: Fork of Firefox, focused on privacy, security and freedom
   pname: librewolf
-  version: 142.0-1
+  version: 142.0.1-1
 legacyPackages.x86_64-linux.librewolf-bin:
   description: Fork of Firefox, focused on privacy, security and freedom (upstream binary release)
   pname: librewolf-bin
@@ -68829,11 +68833,11 @@ legacyPackages.x86_64-linux.librewolf-bin-unwrapped:
 legacyPackages.x86_64-linux.librewolf-unwrapped:
   description: Fork of Firefox, focused on privacy, security and freedom
   pname: librewolf-unwrapped
-  version: 142.0-1
+  version: 142.0.1-1
 legacyPackages.x86_64-linux.librewolf-wayland:
   description: Fork of Firefox, focused on privacy, security and freedom
   pname: librewolf
-  version: 142.0-1
+  version: 142.0.1-1
 legacyPackages.x86_64-linux.librime:
   description: Rime Input Method Engine, the core library
   pname: librime
@@ -70401,19 +70405,19 @@ legacyPackages.x86_64-linux.libu2f-server:
 legacyPackages.x86_64-linux.libubox:
   description: C utility functions for OpenWrt
   pname: libubox
-  version: 0-unstable-2024-12-19
+  version: 0-unstable-2025-07-23
 legacyPackages.x86_64-linux.libubox-mbedtls:
   description: C utility functions for OpenWrt
   pname: libubox
-  version: 0-unstable-2024-12-19
+  version: 0-unstable-2025-07-23
 legacyPackages.x86_64-linux.libubox-nossl:
   description: C utility functions for OpenWrt
   pname: libubox
-  version: 0-unstable-2024-12-19
+  version: 0-unstable-2025-07-23
 legacyPackages.x86_64-linux.libubox-wolfssl:
   description: C utility functions for OpenWrt
   pname: libubox
-  version: 0-unstable-2024-12-19
+  version: 0-unstable-2025-07-23
 legacyPackages.x86_64-linux.libuchardet:
   description: Mozilla's Universal Charset Detector C/C++ API
   pname: uchardet
@@ -71502,14 +71506,6 @@ legacyPackages.x86_64-linux.linuxKernel.kernels.linux_6_12_hardened:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper, linux-hardened-v6.12.41-hardened1)'
   pname: linux-hardened
   version: 6.12.41
-legacyPackages.x86_64-linux.linuxKernel.kernels.linux_6_15:
-  description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
-  pname: linux
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.kernels.linux_6_15_hardened:
-  description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper, linux-hardened-v6.15.9-hardened1)'
-  pname: linux-hardened
-  version: 6.15.9
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_6_16:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
@@ -71989,7 +71985,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -72633,7 +72629,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -73277,7 +73273,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -73925,7 +73921,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -74565,7 +74561,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -75209,7 +75205,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -75462,1294 +75458,6 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_unstabl
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
   version: 2.4.0-rc1-6.12.41
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.acer-wmi-battery:
-  description: Driver for the Acer WMI battery health control interface
-  pname: acer-wmi-battery
-  version: 6.15.11-0.1.0-unstable-2025-04-24
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.acpi_call:
-  description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
-  pname: acpi-call
-  version: 1.2.2-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ajantv2:
-  description: AJA video driver
-  pname: ajantv2-module
-  version: 17.5.0-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.akvcam:
-  description: Virtual camera driver for Linux
-  pname: akvcam
-  version: 1.3.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.amdgpu-i2c:
-  description: Exposes i2c interface to set colors on AMD GPUs
-  pname: amdgpu-i2c
-  version: 0-unstable-2024-12-16
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.amneziawg:
-  description: Kernel module for the AmneziaWG
-  pname: amneziawg
-  version: 1.0.20240711
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.apfs:
-  description: APFS module for linux
-  pname: apfs
-  version: 0.3.14-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.asus-ec-sensors:
-  description: Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller
-  pname: asus-ec-sensors
-  version: 0.1.0-unstable-2025-01-10-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ax99100:
-  description: ASIX AX99100 Serial and Parallel Port driver
-  pname: ax99100
-  version: 1.8.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.batman_adv:
-  description: B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2
-  pname: batman-adv
-  version: 2025.2-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.bbswitch:
-  description: Module for powering off hybrid GPUs
-  pname: bbswitch-unstable
-  version: 2021-11-29-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.bcc:
-  description: Dynamic Tracing Tools for Linux
-  pname: bcc
-  version: 0.35.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.bpftrace:
-  description: High-level tracing language for Linux eBPF
-  pname: bpftrace
-  version: 0.23.5
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.broadcom_sta:
-  description: Kernel module driver for some Broadcom's wireless cards
-  pname: broadcom-sta
-  version: 6.30.223.271-57-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.can-isotp:
-  description: Kernel module for ISO-TP (ISO 15765-2)
-  pname: can-isotp
-  version: "20200910"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ch9344:
-  description: WCH CH9344/CH348 UART driver
-  pname: ch9344
-  version: "2.3"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.chipsec:
-  description: Platform Security Assessment Framework
-  pname: chipsec
-  version: 1.10.6
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.corefreq:
-  description: CPU monitoring and tuning software designed for 64-bit processors
-  pname: corefreq
-  version: 2.0.8
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.cpupower:
-  description: Tool to examine and tune power saving features
-  pname: cpupower
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.cryptodev:
-  description: Device that allows access to Linux kernel cryptographic drivers
-  pname: cryptodev-linux
-  version: "1.14"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ddcci-driver:
-  description: Kernel module driver for DDC/CI monitors
-  pname: ddcci-driver
-  version: 6.15.11-0.4.5-unstable-2024-09-26
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.dddvb:
-  description: Device driver for all Digital Devices DVB demodulator and modulator cards
-  pname: dddvb
-  version: 0.9.38-pre.6
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.decklink:
-  description: Kernel module for the Blackmagic Design Decklink cards
-  pname: decklink
-  version: 14.4.1a4
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.digimend:
-  description: DIGImend graphics tablet drivers for the Linux kernel
-  pname: digimend
-  version: 13-unstable-2025-01-02
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.dpdk:
-  description: Set of libraries and drivers for fast packet processing
-  pname: dpdk
-  version: "25.07"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.dpdk-kmods:
-  description: Kernel modules for DPDK
-  pname: dpdk-kmods
-  version: "2023-02-05"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.drbd:
-  description: LINBIT DRBD kernel module
-  pname: drbd
-  version: 9.2.12
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ecapture:
-  description: Capture SSL/TLS text content without CA certificate Using eBPF
-  pname: ecapture
-  version: 1.4.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ena:
-  description: Amazon Elastic Network Adapter (ENA) driver for Linux
-  pname: ena
-  version: 2.15.0-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.evdi:
-  description: Extensible Virtual Display Interface
-  pname: evdi
-  version: 1.14.10
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.facetimehd:
-  description: Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam
-  pname: facetimehd
-  version: 0.6.13-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.fanout:
-  description: Kernel-based publish-subscribe system
-  pname: fanout-unstable
-  version: 2022-10-17-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.framework-laptop-kmod:
-  description: Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace
-  pname: framework-laptop-kmod
-  version: 0-unstable-2024-09-15
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.fwts-efi-runtime:
-  description: Firmware Test Suite(efi-runtime kernel module)
-  pname: fwts-efi-runtime
-  version: 24.09.00-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.gasket:
-  description: Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems
-  pname: gasket
-  version: 1.0-18-unstable-2024-04-25
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.gcadapter-oc-kmod:
-  description: Kernel module for overclocking the Nintendo Wii U/Mayflash GameCube adapter
-  pname: gcadapter-oc-kmod-unstable
-  version: "2021-12-11"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.hid-ite8291r3:
-  description: Linux driver for the ITE 8291 RGB keyboard backlight controller
-  pname: hid-ite8291r3-unstable
-  version: "2022-06-01"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.hid-t150:
-  description: Linux kernel driver for Thrustmaster T150 and TMX Force Feedback wheel
-  pname: hid-t150
-  version: 0.8a
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.hid-tmff2:
-  description: Linux kernel module for Thrustmaster T300RS, T248 and TX(experimental)
-  pname: hid-tmff2
-  version: 0-unstable-2025-07-28
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.hpuefi-mod:
-  description: Kernel module for managing BIOS settings and updating BIOS firmware on supported HP computers
-  pname: hpuefi-mod
-  version: "3.05"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.hyperv-daemons:
-  description: Integration Services for running NixOS under HyperV
-  pname: hyperv-daemons
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.iio-utils:
-  description: Userspace tool for interacting with Linux IIO
-  pname: iio-utils
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.intel-speed-select:
-  description: Tool to enumerate and control the Intel Speed Select Technology features
-  pname: intel-speed-select
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ipu6-drivers:
-  description: IPU6 kernel driver
-  pname: ipu6-drivers-unstable
-  version: "2025-02-19"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.isgx:
-  description: Intel SGX Linux Driver
-  pname: isgx
-  version: 2.14-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.it87:
-  description: Patched module for IT87xx superio chip sensors support
-  pname: it87-unstable
-  version: 2024-06-09-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ithc:
-  description: Linux driver for Intel Touch Host Controller
-  pname: ithc-unstable
-  version: "2022-06-07"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ivsc-driver:
-  description: Intel Vision Sensing Controller kernel driver
-  pname: ivsc-driver-unstable
-  version: "2024-09-18"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ixgbevf:
-  description: Intel 82599 Virtual Function Driver
-  pname: ixgbevf
-  version: 4.6.1-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.jool:
-  description: Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules
-  pname: jool
-  version: 4.1.14-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.kernel:
-  description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
-  pname: linux
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.kvmfr:
-  description: Optional kernel module for LookingGlass
-  pname: kvmfr-B7
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.lenovo-legion-module:
-  description: Linux kernel module for controlling fan and power in Lenovo Legion laptops
-  pname: lenovo-legion-module
-  version: 0.0.20-unstable-2025-04-01
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.linux-gpib:
-  description: Support package for GPIB (IEEE 488) hardware
-  pname: linux-gpib-kernel
-  version: 4.3.6
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.liquidtux:
-  description: Linux kernel hwmon drivers for AIO liquid coolers and other devices
-  pname: liquidtux
-  version: 0.1.0-unstable-2025-01-16-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.lkrg:
-  description: LKRG Linux Kernel module
-  pname: lkrg
-  version: 0.9.9-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.lttng-modules:
-  description: Linux kernel modules for LTTng tracing
-  pname: lttng-modules
-  version: 6.15.11-2.13.15
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mba6x_bl:
-  description: MacBook Air 6,1 and 6,2 (mid 2013) backlight driver
-  pname: mba6x_bl-unstable
-  version: "2017-12-30"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mbp2018-bridge-drv:
-  description: Driver for MacBook models 2018 and newer, which makes the keyboard, mouse and audio output work
-  pname: mbp2018-bridge-drv
-  version: "2020-01-31"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mm-tools:
-  description: Set of virtual memory tools
-  pname: mm-tools
-  version: 6.12.44
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.msi-ec:
-  description: Kernel modules for MSI Embedded controller
-  pname: msi-ec-kmods
-  version: 0-unstable-2025-05-17
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mstflint_access:
-  description: Kernel module for Nvidia NIC firmware update
-  pname: mstflint_access
-  version: 4.31.0-1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mwprocapture:
-  description: Linux driver for the Magewell Pro Capture family
-  pname: mwprocapture
-  version: 1.3.4418-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.mxu11x0:
-  description: MOXA UPort 11x0 USB to Serial Hub driver
-  pname: mxu11x0
-  version: 5.1-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nct6687d:
-  description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
-  pname: nct6687d
-  version: 0-unstable-2025-06-30
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ndiswrapper:
-  description: Ndis driver wrapper for the Linux kernel
-  pname: ndiswrapper
-  version: 1.63-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.netatop:
-  description: Network monitoring module for atop
-  pname: netatop
-  version: 6.15.11-3.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.new-lg4ff:
-  description: Experimental Logitech force feedback module for Linux
-  pname: new-lg4ff
-  version: 0.5.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nullfs:
-  description: Virtual black hole file system that behaves like /dev/null
-  pname: nullfs
-  version: "0.19"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_dc:
-  description: Data Center driver and kernel module for NVIDIA cards
-  pname: nvidia-dc
-  version: 570.172.08-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_dc_535:
-  description: Data Center driver and kernel module for NVIDIA cards
-  pname: nvidia-dc
-  version: 535.154.05-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_dc_565:
-  description: Data Center driver and kernel module for NVIDIA cards
-  pname: nvidia-dc
-  version: 565.57.01-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 570.181-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_beta:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 580.65.06-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_beta_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.11-580.65.06
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_latest:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 575.64.05-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_latest_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.11-575.64.05
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy340:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 340.108-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy390:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 390.157-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy470:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 470.256.02-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_legacy535:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 535.261.03-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_production:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 570.181-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_production_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.11-570.181
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_stable_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.11-570.181
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_vulkan_beta:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 570.123.19-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidia_x11_vulkan_beta_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.11-570.123.19
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nvidiabl:
-  description: Linux driver for setting the backlight brightness on laptops using NVIDIA GPU
-  pname: nvidiabl
-  version: 2020-10-01-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.nxp-pn5xx:
-  description: NXP's NFC Open Source Kernel mode driver with ACPI configuration support
-  pname: nxp-pn5xx
-  version: 0.4-unstable-2025-02-08-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.oci-seccomp-bpf-hook:
-  description: 'OCI hook to trace syscalls and generate a seccomp profile '
-  pname: oci-seccomp-bpf-hook
-  version: 1.2.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.odp-dpdk:
-  description: Open Data Plane optimized for DPDK
-  pname: odp-dpdk
-  version: 1.46.0.0_DPDK_22.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.openafs:
-  description: Open AFS client kernel module
-  pname: openafs
-  version: 1.8.13.2-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.openafs_1_8:
-  description: Open AFS client kernel module
-  pname: openafs
-  version: 1.8.13.2-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.openrazer:
-  description: Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux
-  pname: openrazer
-  version: 3.10.3-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.opensnitch-ebpf:
-  description: eBPF process monitor module for OpenSnitch
-  pname: opensnitch_ebpf
-  version: 1.7.2-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.perf:
-  description: Linux tools to profile with performance counters
-  pname: perf-linux
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.pktgen:
-  description: Traffic generator powered by DPDK
-  pname: pktgen
-  version: 24.10.3
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ply:
-  description: Dynamic tracing in Linux
-  pname: ply
-  version: 2.1.1-e25c913
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.prl-tools:
-  description: Parallels Tools for Linux guests
-  pname: prl-tools
-  version: 20.4.1-55996
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.qc71_laptop:
-  description: Linux driver for QC71 laptop
-  pname: qc71_laptop
-  version: 0-unstable-2025-01-07
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.r8125:
-  description: Realtek r8125 2.5G Ethernet driver
-  pname: r8125
-  version: 9.016.00
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.r8168:
-  description: Realtek r8168 driver
-  pname: r8168
-  version: 6.15.11-8.055.00
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rr-zen_workaround:
-  description: Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs
-  pname: rr-zen_workaround
-  version: 5.9.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8188eus-aircrack:
-  description: RealTek RTL8188eus WiFi driver with monitor mode & frame injection support
-  pname: rtl8188eus-aircrack
-  version: 6.15.11-unstable-2024-09-18
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8189es:
-  description: Driver for Realtek rtl8189es
-  pname: rtl8189es
-  version: 6.15.11-2025-04-29
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8189fs:
-  description: Driver for Realtek rtl8189fs
-  pname: rtl8189fs
-  version: 6.15.11-2025-05-04
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8192eu:
-  description: Realtek rtl8192eu driver
-  pname: rtl8192eu
-  version: 6.15.11-4.4.1.20250504
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8723ds:
-  description: Linux driver for RTL8723DS
-  pname: rtl8723ds
-  version: 6.15.11-unstable-2023-11-14
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8812au:
-  description: Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod
-  pname: rtl8812au
-  version: 6.15.11-unstable-2024-06-13
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8814au:
-  description: Realtek 8814AU USB WiFi driver
-  pname: rtl8814au
-  version: 6.15.11-unstable-2024-05-26
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8821au:
-  description: rtl8821AU and rtl8812AU chipset driver with firmware
-  pname: rtl8821au
-  version: 6.15.11-unstable-2025-04-08
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8821ce:
-  description: Realtek rtl8821ce driver
-  pname: rtl8821ce
-  version: 0-unstable-2025-08-20
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8821cu:
-  description: Realtek rtl8821cu driver
-  pname: rtl8821cu
-  version: 6.15.11-unstable-2025-05-08
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8852au:
-  description: Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod
-  pname: rtl8852au
-  version: 6.15.11-unstable-2024-05-06
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl8852bu:
-  description: Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod
-  pname: rtl8852bu
-  version: 6.15.11-unstable-2025-05-18
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl88x2bu:
-  description: Realtek rtl88x2bu driver
-  pname: rtl88x2bu
-  version: 6.15.11-unstable-2024-06-09
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtl88xxau-aircrack:
-  description: Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.
-  pname: rtl88xxau-aircrack
-  version: 6.15.11-unstable-2024-04-09
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rtw88:
-  description: Backport of the latest Realtek RTW88 driver from wireless-next for older kernels
-  pname: rtw88
-  version: 0-unstable-2025-08-09
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.rust-out-of-tree-module:
-  description: Basic template for an out-of-tree Linux kernel module written in Rust
-  pname: rust-out-of-tree-module
-  version: 0-unstable-2024-05-06
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.ryzen-smu:
-  description: Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors
-  pname: ryzen-smu
-  version: 6.15.11-0.1.5-unstable-2025-06-04
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.sheep-net:
-  description: ""
-  pname: sheep_net
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.shufflecake:
-  description: Plausible deniability (hidden storage) layer for Linux
-  pname: shufflecake
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.stdenv:
-  description: The default build environment for Unix packages in Nixpkgs
-  pname: stdenv-linux
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.sysdig:
-  description: Tracepoint-based system tracing tool for Linux (with clients for other OSes)
-  pname: sysdig
-  version: 0.38.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76:
-  description: System76 DKMS driver
-  pname: system76-module
-  version: 1.0.17-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-acpi:
-  description: System76 ACPI Driver (DKMS)
-  pname: system76-acpi-module
-  version: 1.0.2-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-io:
-  description: DKMS module for controlling System76 Io board
-  pname: system76-io-module
-  version: 1.0.4-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-power:
-  description: System76 Power Management
-  pname: system76-power
-  version: 1.2.7
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.system76-scheduler:
-  description: System76 Scheduler
-  pname: system76-scheduler
-  version: 2.0.2
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.systemtap:
-  description: Provides a scripting language for instrumentation on a live kernel plus user-space
-  pname: systemtap
-  version: "5.2"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tbs:
-  description: Linux driver for TBSDTV cards
-  pname: tbs
-  version: 20250510-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tmon:
-  description: Monitoring and Testing Tool for Linux kernel thermal subsystem
-  pname: tmon
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tp_smapi:
-  description: IBM ThinkPad hardware functions driver
-  pname: tp_smapi
-  version: 0.44-unstable-2025-05-26-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.trelay:
-  description: For relaying IP packets between two devices to build a IP bridge between them
-  pname: trelay
-  version: 22.03.5-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tsme-test:
-  description: Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)
-  pname: tsme-test
-  version: 6.15.11-unstable-2022-12-07
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tt-kmd:
-  description: Tenstorrent Kernel Module
-  pname: tt-kmd
-  version: 2.0.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.turbostat:
-  description: Report processor frequency and idle statistics
-  pname: turbostat
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tuxedo-drivers:
-  description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
-  pname: tuxedo-drivers
-  version: 6.15.11-4.14.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.tuxedo-keyboard:
-  description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
-  pname: tuxedo-drivers
-  version: 6.15.11-4.14.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.universal-pidff:
-  description: PIDFF driver with useful patches for initialization of FFB devices
-  pname: universal-pidff
-  version: 0.2.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.usbip:
-  description: Allows to pass USB device from server to client over the network
-  pname: usbip-linux
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.v4l2loopback:
-  description: Kernel module to create V4L2 loopback devices
-  pname: v4l2loopback
-  version: 0.15.1-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.v86d:
-  description: Daemon to run x86 code in an emulated environment
-  pname: v86d
-  version: 0.1.10-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.veikk-linux-driver:
-  description: Linux driver for VEIKK-brand digitizers
-  pname: veikk-linux-driver
-  version: "2.0"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vendor-reset:
-  description: Linux kernel vendor specific hardware reset module
-  pname: vendor-reset-unstable
-  version: 2024-04-16-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vhba:
-  description: Provides a Virtual (SCSI) HBA
-  pname: vhba
-  version: "20250329"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.virtio_vmmci:
-  description: OpenBSD VMM Control Interface (vmmci) for Linux
-  pname: virtio_vmmci
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.virtualbox:
-  description: PC emulator (kernel modules)
-  pname: virtualbox-modules
-  version: 7.1.12-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.virtualboxGuestAdditions:
-  description: Guest additions for VirtualBox
-  pname: VirtualBox-GuestAdditions
-  version: 7.1.12-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vm-tools:
-  description: Set of virtual memory tools
-  pname: mm-tools
-  version: 6.12.44
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vmm_clock:
-  description: Experimental implementation of a kvmclock-derived clocksource for Linux guests under OpenBSD's hypervisor
-  pname: vmm_clock
-  version: 0.2.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.vmware:
-  description: Kernel modules needed for VMware hypervisor
-  pname: vmware-modules-workstation
-  version: 17.6.3-20250728-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.x86_energy_perf_policy:
-  description: Set the energy versus performance policy preference bias on recent X86 processors
-  pname: x86_energy_perf_policy
-  version: 6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.xone:
-  description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
-  pname: xone
-  version: 0.4.3
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.xpad-noone:
-  description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
-  pname: xpad-noone
-  version: 0-unstable-2024-01-10
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.xpadneo:
-  description: Advanced Linux driver for Xbox One wireless controllers
-  pname: xpadneo
-  version: 0.9.7
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.yt6801:
-  description: YT6801 Gigabit PCIe Ethernet controller chip
-  pname: yt6801
-  version: 1.0.30-20250430
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zenergy:
-  description: Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely
-  pname: zenergy
-  version: 0-unstable-2025-04-15
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zenpower:
-  description: Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs
-  pname: zenpower-unstable
-  version: "2025-06-17"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_2_2:
-  description: ZFS Filesystem Linux Kernel Module
-  pname: zfs-kernel
-  version: 2.2.8-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_2_3:
-  description: ZFS Filesystem Linux Kernel Module
-  pname: zfs-kernel
-  version: 2.3.4-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15.zfs_unstable:
-  description: ZFS Filesystem Linux Kernel Module
-  pname: zfs-kernel
-  version: 2.4.0-rc1-6.15.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.acer-wmi-battery:
-  description: Driver for the Acer WMI battery health control interface
-  pname: acer-wmi-battery
-  version: 6.15.9-0.1.0-unstable-2025-04-24
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.acpi_call:
-  description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
-  pname: acpi-call
-  version: 1.2.2-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ajantv2:
-  description: AJA video driver
-  pname: ajantv2-module
-  version: 17.5.0-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.akvcam:
-  description: Virtual camera driver for Linux
-  pname: akvcam
-  version: 1.3.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.amdgpu-i2c:
-  description: Exposes i2c interface to set colors on AMD GPUs
-  pname: amdgpu-i2c
-  version: 0-unstable-2024-12-16
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.amneziawg:
-  description: Kernel module for the AmneziaWG
-  pname: amneziawg
-  version: 1.0.20240711
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.apfs:
-  description: APFS module for linux
-  pname: apfs
-  version: 0.3.14-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.asus-ec-sensors:
-  description: Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller
-  pname: asus-ec-sensors
-  version: 0.1.0-unstable-2025-01-10-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ax99100:
-  description: ASIX AX99100 Serial and Parallel Port driver
-  pname: ax99100
-  version: 1.8.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.batman_adv:
-  description: B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2
-  pname: batman-adv
-  version: 2025.2-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.bbswitch:
-  description: Module for powering off hybrid GPUs
-  pname: bbswitch-unstable
-  version: 2021-11-29-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.bcc:
-  description: Dynamic Tracing Tools for Linux
-  pname: bcc
-  version: 0.35.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.bpftrace:
-  description: High-level tracing language for Linux eBPF
-  pname: bpftrace
-  version: 0.23.5
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.broadcom_sta:
-  description: Kernel module driver for some Broadcom's wireless cards
-  pname: broadcom-sta
-  version: 6.30.223.271-57-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.can-isotp:
-  description: Kernel module for ISO-TP (ISO 15765-2)
-  pname: can-isotp
-  version: "20200910"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ch9344:
-  description: WCH CH9344/CH348 UART driver
-  pname: ch9344
-  version: "2.3"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.chipsec:
-  description: Platform Security Assessment Framework
-  pname: chipsec
-  version: 1.10.6
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.corefreq:
-  description: CPU monitoring and tuning software designed for 64-bit processors
-  pname: corefreq
-  version: 2.0.8
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.cpupower:
-  description: Tool to examine and tune power saving features
-  pname: cpupower
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.cryptodev:
-  description: Device that allows access to Linux kernel cryptographic drivers
-  pname: cryptodev-linux
-  version: "1.14"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ddcci-driver:
-  description: Kernel module driver for DDC/CI monitors
-  pname: ddcci-driver
-  version: 6.15.9-0.4.5-unstable-2024-09-26
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.dddvb:
-  description: Device driver for all Digital Devices DVB demodulator and modulator cards
-  pname: dddvb
-  version: 0.9.38-pre.6
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.decklink:
-  description: Kernel module for the Blackmagic Design Decklink cards
-  pname: decklink
-  version: 14.4.1a4
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.digimend:
-  description: DIGImend graphics tablet drivers for the Linux kernel
-  pname: digimend
-  version: 13-unstable-2025-01-02
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.dpdk:
-  description: Set of libraries and drivers for fast packet processing
-  pname: dpdk
-  version: "25.07"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.dpdk-kmods:
-  description: Kernel modules for DPDK
-  pname: dpdk-kmods
-  version: "2023-02-05"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.drbd:
-  description: LINBIT DRBD kernel module
-  pname: drbd
-  version: 9.2.12
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ecapture:
-  description: Capture SSL/TLS text content without CA certificate Using eBPF
-  pname: ecapture
-  version: 1.4.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ena:
-  description: Amazon Elastic Network Adapter (ENA) driver for Linux
-  pname: ena
-  version: 2.15.0-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.evdi:
-  description: Extensible Virtual Display Interface
-  pname: evdi
-  version: 1.14.10
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.facetimehd:
-  description: Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam
-  pname: facetimehd
-  version: 0.6.13-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.fanout:
-  description: Kernel-based publish-subscribe system
-  pname: fanout-unstable
-  version: 2022-10-17-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.framework-laptop-kmod:
-  description: Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace
-  pname: framework-laptop-kmod
-  version: 0-unstable-2024-09-15
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.fwts-efi-runtime:
-  description: Firmware Test Suite(efi-runtime kernel module)
-  pname: fwts-efi-runtime
-  version: 24.09.00-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.gasket:
-  description: Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems
-  pname: gasket
-  version: 1.0-18-unstable-2024-04-25
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.gcadapter-oc-kmod:
-  description: Kernel module for overclocking the Nintendo Wii U/Mayflash GameCube adapter
-  pname: gcadapter-oc-kmod-unstable
-  version: "2021-12-11"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.hid-ite8291r3:
-  description: Linux driver for the ITE 8291 RGB keyboard backlight controller
-  pname: hid-ite8291r3-unstable
-  version: "2022-06-01"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.hid-t150:
-  description: Linux kernel driver for Thrustmaster T150 and TMX Force Feedback wheel
-  pname: hid-t150
-  version: 0.8a
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.hid-tmff2:
-  description: Linux kernel module for Thrustmaster T300RS, T248 and TX(experimental)
-  pname: hid-tmff2
-  version: 0-unstable-2025-07-28
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.hpuefi-mod:
-  description: Kernel module for managing BIOS settings and updating BIOS firmware on supported HP computers
-  pname: hpuefi-mod
-  version: "3.05"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.hyperv-daemons:
-  description: Integration Services for running NixOS under HyperV
-  pname: hyperv-daemons
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.iio-utils:
-  description: Userspace tool for interacting with Linux IIO
-  pname: iio-utils
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.intel-speed-select:
-  description: Tool to enumerate and control the Intel Speed Select Technology features
-  pname: intel-speed-select
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ipu6-drivers:
-  description: IPU6 kernel driver
-  pname: ipu6-drivers-unstable
-  version: "2025-02-19"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.isgx:
-  description: Intel SGX Linux Driver
-  pname: isgx
-  version: 2.14-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.it87:
-  description: Patched module for IT87xx superio chip sensors support
-  pname: it87-unstable
-  version: 2024-06-09-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ithc:
-  description: Linux driver for Intel Touch Host Controller
-  pname: ithc-unstable
-  version: "2022-06-07"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ivsc-driver:
-  description: Intel Vision Sensing Controller kernel driver
-  pname: ivsc-driver-unstable
-  version: "2024-09-18"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ixgbevf:
-  description: Intel 82599 Virtual Function Driver
-  pname: ixgbevf
-  version: 4.6.1-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.jool:
-  description: Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules
-  pname: jool
-  version: 4.1.14-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.kernel:
-  description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper, linux-hardened-v6.15.9-hardened1)'
-  pname: linux-hardened
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.kvmfr:
-  description: Optional kernel module for LookingGlass
-  pname: kvmfr-B7
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.lenovo-legion-module:
-  description: Linux kernel module for controlling fan and power in Lenovo Legion laptops
-  pname: lenovo-legion-module
-  version: 0.0.20-unstable-2025-04-01
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.linux-gpib:
-  description: Support package for GPIB (IEEE 488) hardware
-  pname: linux-gpib-kernel
-  version: 4.3.6
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.liquidtux:
-  description: Linux kernel hwmon drivers for AIO liquid coolers and other devices
-  pname: liquidtux
-  version: 0.1.0-unstable-2025-01-16-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.lkrg:
-  description: LKRG Linux Kernel module
-  pname: lkrg
-  version: 0.9.9-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.lttng-modules:
-  description: Linux kernel modules for LTTng tracing
-  pname: lttng-modules
-  version: 6.15.9-2.13.15
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.mba6x_bl:
-  description: MacBook Air 6,1 and 6,2 (mid 2013) backlight driver
-  pname: mba6x_bl-unstable
-  version: "2017-12-30"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.mbp2018-bridge-drv:
-  description: Driver for MacBook models 2018 and newer, which makes the keyboard, mouse and audio output work
-  pname: mbp2018-bridge-drv
-  version: "2020-01-31"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.mm-tools:
-  description: Set of virtual memory tools
-  pname: mm-tools
-  version: 6.12.44
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.msi-ec:
-  description: Kernel modules for MSI Embedded controller
-  pname: msi-ec-kmods
-  version: 0-unstable-2025-05-17
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.mstflint_access:
-  description: Kernel module for Nvidia NIC firmware update
-  pname: mstflint_access
-  version: 4.31.0-1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.mwprocapture:
-  description: Linux driver for the Magewell Pro Capture family
-  pname: mwprocapture
-  version: 1.3.4418-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.mxu11x0:
-  description: MOXA UPort 11x0 USB to Serial Hub driver
-  pname: mxu11x0
-  version: 5.1-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nct6687d:
-  description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
-  pname: nct6687d
-  version: 0-unstable-2025-06-30
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ndiswrapper:
-  description: Ndis driver wrapper for the Linux kernel
-  pname: ndiswrapper
-  version: 1.63-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.netatop:
-  description: Network monitoring module for atop
-  pname: netatop
-  version: 6.15.9-3.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.new-lg4ff:
-  description: Experimental Logitech force feedback module for Linux
-  pname: new-lg4ff
-  version: 0.5.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nullfs:
-  description: Virtual black hole file system that behaves like /dev/null
-  pname: nullfs
-  version: "0.19"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_dc:
-  description: Data Center driver and kernel module for NVIDIA cards
-  pname: nvidia-dc
-  version: 570.172.08-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_dc_535:
-  description: Data Center driver and kernel module for NVIDIA cards
-  pname: nvidia-dc
-  version: 535.154.05-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_dc_565:
-  description: Data Center driver and kernel module for NVIDIA cards
-  pname: nvidia-dc
-  version: 565.57.01-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 570.181-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_beta:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 580.65.06-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_beta_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.9-580.65.06
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_latest:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 575.64.05-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_latest_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.9-575.64.05
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_legacy340:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 340.108-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_legacy390:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 390.157-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_legacy470:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 470.256.02-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_legacy535:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 535.261.03-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_production:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 570.181-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_production_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.9-570.181
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_stable_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.9-570.181
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_vulkan_beta:
-  description: X.org driver and kernel module for NVIDIA cards
-  pname: nvidia-x11
-  version: 570.123.19-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidia_x11_vulkan_beta_open:
-  description: NVIDIA Linux Open GPU Kernel Module
-  pname: nvidia-open
-  version: 6.15.9-570.123.19
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nvidiabl:
-  description: Linux driver for setting the backlight brightness on laptops using NVIDIA GPU
-  pname: nvidiabl
-  version: 2020-10-01-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.nxp-pn5xx:
-  description: NXP's NFC Open Source Kernel mode driver with ACPI configuration support
-  pname: nxp-pn5xx
-  version: 0.4-unstable-2025-02-08-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.oci-seccomp-bpf-hook:
-  description: 'OCI hook to trace syscalls and generate a seccomp profile '
-  pname: oci-seccomp-bpf-hook
-  version: 1.2.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.odp-dpdk:
-  description: Open Data Plane optimized for DPDK
-  pname: odp-dpdk
-  version: 1.46.0.0_DPDK_22.11
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.openafs:
-  description: Open AFS client kernel module
-  pname: openafs
-  version: 1.8.13.2-6.15.9-hardened1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.openafs_1_8:
-  description: Open AFS client kernel module
-  pname: openafs
-  version: 1.8.13.2-6.15.9-hardened1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.openrazer:
-  description: Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux
-  pname: openrazer
-  version: 3.10.3-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.opensnitch-ebpf:
-  description: eBPF process monitor module for OpenSnitch
-  pname: opensnitch_ebpf
-  version: 1.7.2-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.perf:
-  description: Linux tools to profile with performance counters
-  pname: perf-linux
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.pktgen:
-  description: Traffic generator powered by DPDK
-  pname: pktgen
-  version: 24.10.3
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ply:
-  description: Dynamic tracing in Linux
-  pname: ply
-  version: 2.1.1-e25c913
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.prl-tools:
-  description: Parallels Tools for Linux guests
-  pname: prl-tools
-  version: 20.4.1-55996
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.qc71_laptop:
-  description: Linux driver for QC71 laptop
-  pname: qc71_laptop
-  version: 0-unstable-2025-01-07
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.r8125:
-  description: Realtek r8125 2.5G Ethernet driver
-  pname: r8125
-  version: 9.016.00
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.r8168:
-  description: Realtek r8168 driver
-  pname: r8168
-  version: 6.15.9-8.055.00
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rr-zen_workaround:
-  description: Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs
-  pname: rr-zen_workaround
-  version: 5.9.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8188eus-aircrack:
-  description: RealTek RTL8188eus WiFi driver with monitor mode & frame injection support
-  pname: rtl8188eus-aircrack
-  version: 6.15.9-unstable-2024-09-18
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8189es:
-  description: Driver for Realtek rtl8189es
-  pname: rtl8189es
-  version: 6.15.9-2025-04-29
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8189fs:
-  description: Driver for Realtek rtl8189fs
-  pname: rtl8189fs
-  version: 6.15.9-2025-05-04
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8192eu:
-  description: Realtek rtl8192eu driver
-  pname: rtl8192eu
-  version: 6.15.9-4.4.1.20250504
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8723ds:
-  description: Linux driver for RTL8723DS
-  pname: rtl8723ds
-  version: 6.15.9-unstable-2023-11-14
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8812au:
-  description: Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod
-  pname: rtl8812au
-  version: 6.15.9-unstable-2024-06-13
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8814au:
-  description: Realtek 8814AU USB WiFi driver
-  pname: rtl8814au
-  version: 6.15.9-unstable-2024-05-26
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8821au:
-  description: rtl8821AU and rtl8812AU chipset driver with firmware
-  pname: rtl8821au
-  version: 6.15.9-unstable-2025-04-08
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8821ce:
-  description: Realtek rtl8821ce driver
-  pname: rtl8821ce
-  version: 0-unstable-2025-08-20
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8821cu:
-  description: Realtek rtl8821cu driver
-  pname: rtl8821cu
-  version: 6.15.9-unstable-2025-05-08
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8852au:
-  description: Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod
-  pname: rtl8852au
-  version: 6.15.9-unstable-2024-05-06
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl8852bu:
-  description: Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod
-  pname: rtl8852bu
-  version: 6.15.9-unstable-2025-05-18
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl88x2bu:
-  description: Realtek rtl88x2bu driver
-  pname: rtl88x2bu
-  version: 6.15.9-unstable-2024-06-09
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtl88xxau-aircrack:
-  description: Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.
-  pname: rtl88xxau-aircrack
-  version: 6.15.9-unstable-2024-04-09
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rtw88:
-  description: Backport of the latest Realtek RTW88 driver from wireless-next for older kernels
-  pname: rtw88
-  version: 0-unstable-2025-08-09
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.rust-out-of-tree-module:
-  description: Basic template for an out-of-tree Linux kernel module written in Rust
-  pname: rust-out-of-tree-module
-  version: 0-unstable-2024-05-06
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.ryzen-smu:
-  description: Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors
-  pname: ryzen-smu
-  version: 6.15.9-0.1.5-unstable-2025-06-04
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.sheep-net:
-  description: ""
-  pname: sheep_net
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.shufflecake:
-  description: Plausible deniability (hidden storage) layer for Linux
-  pname: shufflecake
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.stdenv:
-  description: The default build environment for Unix packages in Nixpkgs
-  pname: stdenv-linux
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.sysdig:
-  description: Tracepoint-based system tracing tool for Linux (with clients for other OSes)
-  pname: sysdig
-  version: 0.38.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.system76:
-  description: System76 DKMS driver
-  pname: system76-module
-  version: 1.0.17-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.system76-acpi:
-  description: System76 ACPI Driver (DKMS)
-  pname: system76-acpi-module
-  version: 1.0.2-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.system76-io:
-  description: DKMS module for controlling System76 Io board
-  pname: system76-io-module
-  version: 1.0.4-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.system76-power:
-  description: System76 Power Management
-  pname: system76-power
-  version: 1.2.7
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.system76-scheduler:
-  description: System76 Scheduler
-  pname: system76-scheduler
-  version: 2.0.2
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.systemtap:
-  description: Provides a scripting language for instrumentation on a live kernel plus user-space
-  pname: systemtap
-  version: "5.2"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.tbs:
-  description: Linux driver for TBSDTV cards
-  pname: tbs
-  version: 20250510-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.tmon:
-  description: Monitoring and Testing Tool for Linux kernel thermal subsystem
-  pname: tmon
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.tp_smapi:
-  description: IBM ThinkPad hardware functions driver
-  pname: tp_smapi
-  version: 0.44-unstable-2025-05-26-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.trelay:
-  description: For relaying IP packets between two devices to build a IP bridge between them
-  pname: trelay
-  version: 22.03.5-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.tsme-test:
-  description: Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)
-  pname: tsme-test
-  version: 6.15.9-unstable-2022-12-07
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.tt-kmd:
-  description: Tenstorrent Kernel Module
-  pname: tt-kmd
-  version: 2.0.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.turbostat:
-  description: Report processor frequency and idle statistics
-  pname: turbostat
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.tuxedo-drivers:
-  description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
-  pname: tuxedo-drivers
-  version: 6.15.9-4.14.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.tuxedo-keyboard:
-  description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
-  pname: tuxedo-drivers
-  version: 6.15.9-4.14.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.universal-pidff:
-  description: PIDFF driver with useful patches for initialization of FFB devices
-  pname: universal-pidff
-  version: 0.2.0
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.usbip:
-  description: Allows to pass USB device from server to client over the network
-  pname: usbip-linux-hardened
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.v4l2loopback:
-  description: Kernel module to create V4L2 loopback devices
-  pname: v4l2loopback
-  version: 0.15.1-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.v86d:
-  description: Daemon to run x86 code in an emulated environment
-  pname: v86d
-  version: 0.1.10-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.veikk-linux-driver:
-  description: Linux driver for VEIKK-brand digitizers
-  pname: veikk-linux-driver
-  version: "2.0"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.vendor-reset:
-  description: Linux kernel vendor specific hardware reset module
-  pname: vendor-reset-unstable
-  version: 2024-04-16-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.vhba:
-  description: Provides a Virtual (SCSI) HBA
-  pname: vhba
-  version: "20250329"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.virtio_vmmci:
-  description: OpenBSD VMM Control Interface (vmmci) for Linux
-  pname: virtio_vmmci
-  version: ""
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.virtualbox:
-  description: PC emulator (kernel modules)
-  pname: virtualbox-modules
-  version: 7.1.12-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.virtualboxGuestAdditions:
-  description: Guest additions for VirtualBox
-  pname: VirtualBox-GuestAdditions
-  version: 7.1.12-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.vm-tools:
-  description: Set of virtual memory tools
-  pname: mm-tools
-  version: 6.12.44
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.vmm_clock:
-  description: Experimental implementation of a kvmclock-derived clocksource for Linux guests under OpenBSD's hypervisor
-  pname: vmm_clock
-  version: 0.2.1
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.vmware:
-  description: Kernel modules needed for VMware hypervisor
-  pname: vmware-modules-workstation
-  version: 17.6.3-20250728-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.x86_energy_perf_policy:
-  description: Set the energy versus performance policy preference bias on recent X86 processors
-  pname: x86_energy_perf_policy
-  version: 6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.xone:
-  description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
-  pname: xone
-  version: 0.4.3
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.xpad-noone:
-  description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
-  pname: xpad-noone
-  version: 0-unstable-2024-01-10
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.xpadneo:
-  description: Advanced Linux driver for Xbox One wireless controllers
-  pname: xpadneo
-  version: 0.9.7
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.yt6801:
-  description: YT6801 Gigabit PCIe Ethernet controller chip
-  pname: yt6801
-  version: 1.0.30-20250430
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zenergy:
-  description: Based on AMD_ENERGY driver, but with some jiffies added so non-root users can read it safely
-  pname: zenergy
-  version: 0-unstable-2025-04-15
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zenpower:
-  description: Linux kernel driver for reading temperature, voltage(SVI2), current(SVI2) and power(SVI2) for AMD Zen family CPUs
-  pname: zenpower-unstable
-  version: "2025-06-17"
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zfs_2_2:
-  description: ZFS Filesystem Linux Kernel Module
-  pname: zfs-kernel
-  version: 2.2.8-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zfs_2_3:
-  description: ZFS Filesystem Linux Kernel Module
-  pname: zfs-kernel
-  version: 2.3.4-6.15.9
-legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_15_hardened.zfs_unstable:
-  description: ZFS Filesystem Linux Kernel Module
-  pname: zfs-kernel
-  version: 2.4.0-rc1-6.15.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -77141,7 +75849,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -77785,7 +76493,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -78425,7 +77133,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -79069,7 +77777,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_latest_libre.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -79713,7 +78421,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -80357,7 +79065,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -81001,7 +79709,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -81645,7 +80353,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -82289,7 +80997,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -82933,7 +81641,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ply:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -83577,7 +82285,7 @@ legacyPackages.x86_64-linux.linuxPackages-libre.ply:
 legacyPackages.x86_64-linux.linuxPackages-libre.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages-libre.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -84221,7 +82929,7 @@ legacyPackages.x86_64-linux.linuxPackages.ply:
 legacyPackages.x86_64-linux.linuxPackages.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -84869,7 +83577,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest-libre.ply:
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages_latest-libre.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -85513,7 +84221,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.ply:
 legacyPackages.x86_64-linux.linuxPackages_latest.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages_latest.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -86157,7 +84865,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.ply:
 legacyPackages.x86_64-linux.linuxPackages_lqx.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages_lqx.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -86801,7 +85509,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.ply:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages_xanmod.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -87445,7 +86153,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ply:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -88089,7 +86797,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ply:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -88733,7 +87441,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.ply:
 legacyPackages.x86_64-linux.linuxPackages_zen.prl-tools:
   description: Parallels Tools for Linux guests
   pname: prl-tools
-  version: 20.4.1-55996
+  version: 26.0.0-57238
 legacyPackages.x86_64-linux.linuxPackages_zen.qc71_laptop:
   description: Linux driver for QC71 laptop
   pname: qc71_laptop
@@ -89010,10 +87718,6 @@ legacyPackages.x86_64-linux.linux_6_12_hardened:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper, linux-hardened-v6.12.41-hardened1)'
   pname: linux-hardened
   version: 6.12.41
-legacyPackages.x86_64-linux.linux_6_15:
-  description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
-  pname: linux
-  version: 6.15.11
 legacyPackages.x86_64-linux.linux_6_16:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
@@ -96797,7 +95501,7 @@ legacyPackages.x86_64-linux.luastatus:
 legacyPackages.x86_64-linux.luau:
   description: Fast, small, safe, gradually typed embeddable scripting language derived from Lua
   pname: luau
-  version: "0.688"
+  version: "0.689"
 legacyPackages.x86_64-linux.luau-lsp:
   description: Language Server Implementation for Luau
   pname: luau-lsp
@@ -97053,11 +95757,11 @@ legacyPackages.x86_64-linux.lx-music-desktop:
 legacyPackages.x86_64-linux.lxappearance:
   description: Lightweight program for configuring the theme and fonts of gtk applications
   pname: lxappearance
-  version: 0.6.3
+  version: 0.6.4
 legacyPackages.x86_64-linux.lxappearance-gtk2:
   description: Lightweight program for configuring the theme and fonts of gtk applications
   pname: lxappearance
-  version: 0.6.3
+  version: 0.6.4
 legacyPackages.x86_64-linux.lxc:
   description: Userspace tools for Linux Containers, a lightweight virtualization system
   pname: lxc
@@ -97097,27 +95801,27 @@ legacyPackages.x86_64-linux.lxde.gtk2-x11:
 legacyPackages.x86_64-linux.lxde.lxappearance:
   description: Lightweight program for configuring the theme and fonts of gtk applications
   pname: lxappearance
-  version: 0.6.3
+  version: 0.6.4
 legacyPackages.x86_64-linux.lxde.lxappearance-gtk2:
   description: Lightweight program for configuring the theme and fonts of gtk applications
   pname: lxappearance
-  version: 0.6.3
+  version: 0.6.4
 legacyPackages.x86_64-linux.lxde.lxmenu-data:
   description: Freedesktop.org desktop menus for LXDE
   pname: lxmenu-data
-  version: 0.1.5
+  version: 0.1.6
 legacyPackages.x86_64-linux.lxde.lxpanel:
   description: Lightweight X11 desktop panel for LXDE
   pname: lxpanel
-  version: 0.10.1
+  version: 0.11.1
 legacyPackages.x86_64-linux.lxde.lxrandr:
   description: Standard screen manager of LXDE
   pname: lxrandr
-  version: 0.3.2
+  version: 0.3.3
 legacyPackages.x86_64-linux.lxde.lxsession:
   description: Classic LXDE session manager
   pname: lxsession
-  version: 0.5.5
+  version: 0.5.6
 legacyPackages.x86_64-linux.lxde.lxtask:
   description: Lightweight and desktop independent task manager
   pname: lxtask
@@ -97153,11 +95857,11 @@ legacyPackages.x86_64-linux.lxi-tools-gui:
 legacyPackages.x86_64-linux.lxmenu-data:
   description: Freedesktop.org desktop menus for LXDE
   pname: lxmenu-data
-  version: 0.1.5
+  version: 0.1.6
 legacyPackages.x86_64-linux.lxpanel:
   description: Lightweight X11 desktop panel for LXDE
   pname: lxpanel
-  version: 0.10.1
+  version: 0.11.1
 legacyPackages.x86_64-linux.lxqt-panel-profiles:
   description: ""
   pname: lxqt-panel-profiles
@@ -97325,11 +96029,11 @@ legacyPackages.x86_64-linux.lxqt.xdg-desktop-portal-lxqt:
 legacyPackages.x86_64-linux.lxrandr:
   description: Standard screen manager of LXDE
   pname: lxrandr
-  version: 0.3.2
+  version: 0.3.3
 legacyPackages.x86_64-linux.lxsession:
   description: Classic LXDE session manager
   pname: lxsession
-  version: 0.5.5
+  version: 0.5.6
 legacyPackages.x86_64-linux.lxtask:
   description: Lightweight and desktop independent task manager
   pname: lxtask
@@ -99605,7 +98309,7 @@ legacyPackages.x86_64-linux.me_cleaner:
 legacyPackages.x86_64-linux.mealie:
   description: Self hosted recipe manager and meal planner
   pname: mealie
-  version: 3.0.2
+  version: 3.1.2
 legacyPackages.x86_64-linux.measureme:
   description: Support crate for rustc's self-profiling feature
   pname: measureme
@@ -99901,7 +98605,7 @@ legacyPackages.x86_64-linux.mendeley:
 legacyPackages.x86_64-linux.menu-cache:
   description: Library to read freedesktop.org menu files
   pname: menu-cache
-  version: 1.1.0
+  version: 1.1.1
 legacyPackages.x86_64-linux.menulibre:
   description: Advanced menu editor with an easy-to-use interface
   pname: menulibre
@@ -100101,7 +98805,7 @@ legacyPackages.x86_64-linux.metacity:
 legacyPackages.x86_64-linux.metacubexd:
   description: Clash.Meta Dashboard, The Official One, XD
   pname: metacubexd
-  version: 1.190.1
+  version: 1.192.0
 legacyPackages.x86_64-linux.metadata:
   description: Media metadata parser and formatter designed for human consumption, powered by FFmpeg
   pname: metadata
@@ -100481,7 +99185,7 @@ legacyPackages.x86_64-linux.midivisualizer:
 legacyPackages.x86_64-linux.mieru:
   description: Socks5 / HTTP / HTTPS proxy to bypass censorship
   pname: mieru
-  version: 3.19.0
+  version: 3.19.1
 legacyPackages.x86_64-linux.mighty-mike:
   description: Port of Mighty Mike, a 1995 Macintosh game by Pangea Software, for modern operating systems
   pname: mighty-mike
@@ -104497,7 +103201,7 @@ legacyPackages.x86_64-linux.ncpamixer:
 legacyPackages.x86_64-linux.ncps:
   description: Nix binary cache proxy service
   pname: ncps
-  version: 0.2.0
+  version: 0.3.0
 legacyPackages.x86_64-linux.ncrack:
   description: Network authentication tool
   pname: ncrack
@@ -106061,7 +104765,7 @@ legacyPackages.x86_64-linux.nipap-www:
 legacyPackages.x86_64-linux.niri:
   description: Scrollable-tiling Wayland compositor
   pname: niri
-  version: 25.05.1
+  version: "25.08"
 legacyPackages.x86_64-linux.niriswitcher:
   description: Application switcher for niri
   pname: python3.13-niriswitcher
@@ -106473,7 +105177,7 @@ legacyPackages.x86_64-linux.nixf:
 legacyPackages.x86_64-linux.nixf-diagnose:
   description: CLI wrapper for nixf-tidy with fancy diagnostic output
   pname: nixf-diagnose
-  version: 0.1.2
+  version: 0.1.3
 legacyPackages.x86_64-linux.nixfmt:
   description: Official formatter for Nix code
   pname: nixfmt
@@ -119905,7 +118609,7 @@ legacyPackages.x86_64-linux.owamp:
 legacyPackages.x86_64-linux.owi:
   description: Symbolic execution for Wasm, C, C++, Rust and Zig
   pname: ocaml5.2.1-owi
-  version: 0.2-unstable-2025-08-18
+  version: 0.2-unstable-2025-08-22
 legacyPackages.x86_64-linux.owl:
   description: Open Apple Wireless Direct Link (AWDL) implementation written in C
   pname: owl
@@ -120445,7 +119149,7 @@ legacyPackages.x86_64-linux.panicparse:
 legacyPackages.x86_64-linux.panoply:
   description: netCDF, HDF and GRIB Data Viewer
   pname: panoply
-  version: 5.6.2
+  version: 5.7.0
 legacyPackages.x86_64-linux.panotools:
   description: Free software suite for authoring and displaying virtual reality panoramas
   pname: libpano13
@@ -145677,7 +144381,7 @@ legacyPackages.x86_64-linux.pgmetrics:
 legacyPackages.x86_64-linux.pgmodeler:
   description: Database modeling tool for PostgreSQL
   pname: pgmodeler
-  version: 1.2.0
+  version: 1.2.1
 legacyPackages.x86_64-linux.pgmoneta:
   description: Backup / restore solution for PostgreSQL
   pname: pgmoneta
@@ -145745,7 +144449,7 @@ legacyPackages.x86_64-linux.pharo-spur64:
 legacyPackages.x86_64-linux.phase-cli:
   description: Securely manage and sync environment variables with Phase
   pname: phase-cli
-  version: 1.19.3
+  version: 1.19.6
 legacyPackages.x86_64-linux.phash:
   description: Compute the perceptual hash of an image
   pname: pHash
@@ -150159,7 +148863,7 @@ legacyPackages.x86_64-linux.plow:
   pname: plow
   version: 1.3.2
 legacyPackages.x86_64-linux.plowshare:
-  description: 'A command-line download/upload tool for popular file sharing websites '
+  description: Command-line download/upload tool for popular file sharing websites
   pname: plowshare
   version: 2.1.7
 legacyPackages.x86_64-linux.plplot:
@@ -150889,7 +149593,7 @@ legacyPackages.x86_64-linux.postfix:
 legacyPackages.x86_64-linux.postfix-tlspol:
   description: Lightweight MTA-STS + DANE/TLSA resolver and TLS policy server for Postfix, prioritizing DANE
   pname: postfix-tlspol
-  version: 1.8.14
+  version: 1.8.15
 legacyPackages.x86_64-linux.postfixadmin:
   description: Web based virtual user administration interface for Postfix mail servers
   pname: postfixadmin
@@ -151001,7 +149705,7 @@ legacyPackages.x86_64-linux.postgresql13Packages.pg_libversion:
 legacyPackages.x86_64-linux.postgresql13Packages.pg_net:
   description: Async networking for Postgres
   pname: pg_net
-  version: 0.19.5
+  version: 0.19.7
 legacyPackages.x86_64-linux.postgresql13Packages.pg_partman:
   description: Partition management extension for PostgreSQL
   pname: pg_partman
@@ -151273,7 +149977,7 @@ legacyPackages.x86_64-linux.postgresql14Packages.pg_libversion:
 legacyPackages.x86_64-linux.postgresql14Packages.pg_net:
   description: Async networking for Postgres
   pname: pg_net
-  version: 0.19.5
+  version: 0.19.7
 legacyPackages.x86_64-linux.postgresql14Packages.pg_partman:
   description: Partition management extension for PostgreSQL
   pname: pg_partman
@@ -151545,7 +150249,7 @@ legacyPackages.x86_64-linux.postgresql15Packages.pg_libversion:
 legacyPackages.x86_64-linux.postgresql15Packages.pg_net:
   description: Async networking for Postgres
   pname: pg_net
-  version: 0.19.5
+  version: 0.19.7
 legacyPackages.x86_64-linux.postgresql15Packages.pg_partman:
   description: Partition management extension for PostgreSQL
   pname: pg_partman
@@ -151817,7 +150521,7 @@ legacyPackages.x86_64-linux.postgresql16Packages.pg_libversion:
 legacyPackages.x86_64-linux.postgresql16Packages.pg_net:
   description: Async networking for Postgres
   pname: pg_net
-  version: 0.19.5
+  version: 0.19.7
 legacyPackages.x86_64-linux.postgresql16Packages.pg_partman:
   description: Partition management extension for PostgreSQL
   pname: pg_partman
@@ -152089,7 +150793,7 @@ legacyPackages.x86_64-linux.postgresql17Packages.pg_libversion:
 legacyPackages.x86_64-linux.postgresql17Packages.pg_net:
   description: Async networking for Postgres
   pname: pg_net
-  version: 0.19.5
+  version: 0.19.7
 legacyPackages.x86_64-linux.postgresql17Packages.pg_partman:
   description: Partition management extension for PostgreSQL
   pname: pg_partman
@@ -152361,7 +151065,7 @@ legacyPackages.x86_64-linux.postgresql18Packages.pg_libversion:
 legacyPackages.x86_64-linux.postgresql18Packages.pg_net:
   description: Async networking for Postgres
   pname: pg_net
-  version: 0.19.5
+  version: 0.19.7
 legacyPackages.x86_64-linux.postgresql18Packages.pg_partman:
   description: Partition management extension for PostgreSQL
   pname: pg_partman
@@ -152633,7 +151337,7 @@ legacyPackages.x86_64-linux.postgresqlPackages.pg_libversion:
 legacyPackages.x86_64-linux.postgresqlPackages.pg_net:
   description: Async networking for Postgres
   pname: pg_net
-  version: 0.19.5
+  version: 0.19.7
 legacyPackages.x86_64-linux.postgresqlPackages.pg_partman:
   description: Partition management extension for PostgreSQL
   pname: pg_partman
@@ -154689,7 +153393,7 @@ legacyPackages.x86_64-linux.pulseview:
 legacyPackages.x86_64-linux.pulumi:
   description: Cloud development platform that makes creating cloud programs easy and productive
   pname: pulumi
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.pulumi-bin:
   description: Pulumi is a cloud development platform that makes creating cloud programs easy and productive
   pname: pulumi
@@ -154713,7 +153417,7 @@ legacyPackages.x86_64-linux.pulumiPackages.pulumi-command:
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-go:
   description: Language host for Pulumi programs written in Go
   pname: pulumi-go
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-hcloud:
   description: Hetzner Cloud Pulumi resource package, providing multi-language access to Hetzner Cloud
   pname: pulumi-hcloud
@@ -154721,23 +153425,23 @@ legacyPackages.x86_64-linux.pulumiPackages.pulumi-hcloud:
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-language-go:
   description: Language host for Pulumi programs written in Go
   pname: pulumi-go
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-language-nodejs:
   description: Language host for Pulumi programs written in TypeScript & JavaScript (Node.js)
   pname: pulumi-nodejs
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-language-python:
   description: Language host for Pulumi programs written in Python
   pname: pulumi-python
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-nodejs:
   description: Language host for Pulumi programs written in TypeScript & JavaScript (Node.js)
   pname: pulumi-nodejs
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-python:
   description: Language host for Pulumi programs written in Python
   pname: pulumi-python
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.pulumiPackages.pulumi-random:
   description: Pulumi provider that safely enables randomness for resources
   pname: pulumi-random
@@ -157113,7 +155817,7 @@ legacyPackages.x86_64-linux.python312Packages.argon2_cffi:
 legacyPackages.x86_64-linux.python312Packages.argos-translate-files:
   description: Translate files using Argos Translate
   pname: python3.12-argos-translate-files
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.python312Packages.argostranslate:
   description: Open-source offline translation library written in Python
   pname: python3.12-argostranslate
@@ -157453,7 +156157,7 @@ legacyPackages.x86_64-linux.python312Packages.asyncer:
 legacyPackages.x86_64-linux.python312Packages.asyncinotify:
   description: Module for inotify
   pname: python3.12-asyncinotify
-  version: 4.2.0
+  version: 4.2.1
 legacyPackages.x86_64-linux.python312Packages.asyncio-dgram:
   description: Python support for higher level Datagram
   pname: python3.12-asyncio-dgram
@@ -161901,7 +160605,7 @@ legacyPackages.x86_64-linux.python312Packages.dateutils:
 legacyPackages.x86_64-linux.python312Packages.datrie:
   description: Super-fast, efficiently stored Trie for Python
   pname: python3.12-datrie
-  version: 0.8.2
+  version: 0.8.3
 legacyPackages.x86_64-linux.python312Packages.dawg-python:
   description: Pure Python reader for DAWGs created by dawgdic C++ library or DAWG Python extension
   pname: python3.12-dawg-python
@@ -162477,7 +161181,7 @@ legacyPackages.x86_64-linux.python312Packages.disnake:
 legacyPackages.x86_64-linux.python312Packages.disposable-email-domains:
   description: Set of disposable email domains
   pname: python3.12-disposable-email-domains
-  version: 0.0.131
+  version: 0.0.132
 legacyPackages.x86_64-linux.python312Packages.dissect:
   description: Dissect meta module
   pname: python3.12-dissect
@@ -163029,7 +161733,7 @@ legacyPackages.x86_64-linux.python312Packages.django-modeltranslation:
 legacyPackages.x86_64-linux.python312Packages.django-mptt:
   description: Utilities for implementing a modified pre-order traversal tree in Django
   pname: python3.12-django-mptt
-  version: "0.17"
+  version: "0.18"
 legacyPackages.x86_64-linux.python312Packages.django-multiselectfield:
   description: Multiple Choice model field for Django
   pname: python3.12-django-multiselectfield
@@ -163545,7 +162249,7 @@ legacyPackages.x86_64-linux.python312Packages.dnf4:
 legacyPackages.x86_64-linux.python312Packages.dnfile:
   description: Module to parse .NET executable files
   pname: python3.12-dnfile
-  version: 0.16.4
+  version: 0.17.0
 legacyPackages.x86_64-linux.python312Packages.dns:
   description: DNS toolkit for Python
   pname: python3.12-dnspython
@@ -165257,7 +163961,7 @@ legacyPackages.x86_64-linux.python312Packages.feedgen:
 legacyPackages.x86_64-linux.python312Packages.feedgenerator:
   description: Standalone version of Django's feedgenerator module
   pname: python3.12-feedgenerator
-  version: 2.2.0
+  version: 2.2.1
 legacyPackages.x86_64-linux.python312Packages.feedparser:
   description: Universal feed parser
   pname: python3.12-feedparser
@@ -167237,7 +165941,7 @@ legacyPackages.x86_64-linux.python312Packages.google-crc32c:
 legacyPackages.x86_64-linux.python312Packages.google-genai:
   description: Google Generative AI Python SDK
   pname: python3.12-google-genai
-  version: 1.31.0
+  version: 1.32.0
 legacyPackages.x86_64-linux.python312Packages.google-generativeai:
   description: Python client library for Google's large language model PaLM API
   pname: python3.12-google-generativeai
@@ -169290,6 +167994,10 @@ legacyPackages.x86_64-linux.python312Packages.iptools:
   description: Utilities for manipulating IP addresses including a class that can be used to include CIDR network blocks in Django's INTERNAL_IPS setting
   pname: python3.12-iptools
   version: 0.7.0
+legacyPackages.x86_64-linux.python312Packages.ipv8-rust-tunnels:
+  description: A set of performance enhancements to the TunnelCommunity, the anonymization layer used in IPv8 and Tribler
+  pname: python3.12-ipv8-rust-tunnels
+  version: 0.1.33
 legacyPackages.x86_64-linux.python312Packages.ipwhl:
   description: Utilities for the InterPlanetary Wheels
   pname: python3.12-ipwhl
@@ -169653,15 +168361,15 @@ legacyPackages.x86_64-linux.python312Packages.javaproperties:
 legacyPackages.x86_64-linux.python312Packages.jax:
   description: 'Source-built JAX frontend: differentiate, compile, and transform Numpy code'
   pname: python3.12-jax
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python312Packages.jax-cuda12-pjrt:
   description: JAX XLA PJRT Plugin for NVIDIA GPUs
   pname: python3.12-jax-cuda12-pjrt
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python312Packages.jax-cuda12-plugin:
   description: JAX Plugin for CUDA12
   pname: python3.12-jax-cuda12-plugin
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python312Packages.jax-jumpy:
   description: Jumpy is a common backend for NumPy and optionally JAX
   pname: python3.12-jumpy
@@ -169669,11 +168377,11 @@ legacyPackages.x86_64-linux.python312Packages.jax-jumpy:
 legacyPackages.x86_64-linux.python312Packages.jaxlib:
   description: Prebuilt jaxlib backend from PyPi
   pname: python3.12-jaxlib
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python312Packages.jaxlib-bin:
   description: Prebuilt jaxlib backend from PyPi
   pname: python3.12-jaxlib
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python312Packages.jaxlib-build:
   description: Source-built JAX backend. JAX is Autograd and XLA, brought together for high-performance machine learning research
   pname: python3.12-jaxlib
@@ -170773,7 +169481,7 @@ legacyPackages.x86_64-linux.python312Packages.langchain-fireworks:
 legacyPackages.x86_64-linux.python312Packages.langchain-google-genai:
   description: LangChain integrations for Google Gemini
   pname: python3.12-langchain-google-genai
-  version: 2.1.9
+  version: 2.1.10
 legacyPackages.x86_64-linux.python312Packages.langchain-groq:
   description: Integration package connecting Groq and LangChain
   pname: python3.12-langchain-groq
@@ -171709,7 +170417,7 @@ legacyPackages.x86_64-linux.python312Packages.llama-index-readers-database:
 legacyPackages.x86_64-linux.python312Packages.llama-index-readers-file:
   description: LlamaIndex Readers Integration for files
   pname: python3.12-llama-index-readers-file
-  version: 0.5.0
+  version: 0.5.2
 legacyPackages.x86_64-linux.python312Packages.llama-index-readers-json:
   description: LlamaIndex Readers Integration for Json
   pname: python3.12-llama-index-readers-json
@@ -172086,6 +170794,10 @@ legacyPackages.x86_64-linux.python312Packages.loqedapi:
   description: Module to interact with the Loqed Smart Door Lock API
   pname: python3.12-loqedapi
   version: 2.1.10
+legacyPackages.x86_64-linux.python312Packages.loro:
+  description: Data collaborative and version-controlled JSON with CRDTs
+  pname: python3.12-loro
+  version: 1.5.4
 legacyPackages.x86_64-linux.python312Packages.losant-rest:
   description: Python module for consuming the Losant IoT Platform API
   pname: python3.12-losant-rest
@@ -173825,7 +172537,7 @@ legacyPackages.x86_64-linux.python312Packages.msal-extensions:
 legacyPackages.x86_64-linux.python312Packages.mscerts:
   description: Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python
   pname: python3.12-mscerts
-  version: 2025.6.27
+  version: 2025.8.29
 legacyPackages.x86_64-linux.python312Packages.msg-parser:
   description: Python module to read, parse and converting Microsoft Outlook MSG E-Mail files
   pname: python3.12-msg-parser
@@ -177541,7 +176253,7 @@ legacyPackages.x86_64-linux.python312Packages.paddle2onnx:
 legacyPackages.x86_64-linux.python312Packages.paddleocr:
   description: Multilingual OCR toolkits based on PaddlePaddle
   pname: python3.12-paddleocr
-  version: 3.1.1
+  version: 3.2.0
 legacyPackages.x86_64-linux.python312Packages.paddlepaddle:
   description: Machine Learning Framework from Industrial Practice
   pname: python3.12-paddlepaddle
@@ -179429,7 +178141,7 @@ legacyPackages.x86_64-linux.python312Packages.pulsectl-asyncio:
 legacyPackages.x86_64-linux.python312Packages.pulumi:
   description: Modern Infrastructure as Code. Any cloud, any language
   pname: python3.12-pulumi
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.python312Packages.pulumi-aws:
   description: Pulumi python amazon web services provider
   pname: python3.12-pulumi-aws
@@ -180957,7 +179669,7 @@ legacyPackages.x86_64-linux.python312Packages.pygit2:
 legacyPackages.x86_64-linux.python312Packages.pygitguardian:
   description: Library to access the GitGuardian API
   pname: python3.12-pygitguardian
-  version: 1.24.0
+  version: 1.25.0
 legacyPackages.x86_64-linux.python312Packages.pygithub:
   description: Python library to access the GitHub API v3
   pname: python3.12-pygithub
@@ -181225,7 +179937,7 @@ legacyPackages.x86_64-linux.python312Packages.pyipp:
 legacyPackages.x86_64-linux.python312Packages.pyipv8:
   description: Python implementation of Tribler's IPv8 p2p-networking layer
   pname: python3.12-pyipv8
-  version: 3.0.0
+  version: 3.0.2197-unstable-2025-07-29
 legacyPackages.x86_64-linux.python312Packages.pyiqvia:
   description: Module for working with IQVIA data
   pname: python3.12-pyiqvia
@@ -182146,6 +180858,10 @@ legacyPackages.x86_64-linux.python312Packages.pyosmium:
   description: Python bindings for libosmium
   pname: python3.12-pyosmium
   version: 4.0.2
+legacyPackages.x86_64-linux.python312Packages.pyosoenergyapi:
+  description: Python library to interface with the OSO Energy API
+  pname: python3.12-pyosoenergyapi
+  version: 1.2.4
 legacyPackages.x86_64-linux.python312Packages.pyosohotwaterapi:
   description: Module for using the OSO Hotwater API
   pname: python3.12-pyosohotwaterapi
@@ -187121,7 +185837,7 @@ legacyPackages.x86_64-linux.python312Packages.ruamel_yaml_clib:
 legacyPackages.x86_64-linux.python312Packages.rubicon-objc:
   description: Bridge interface between Python and Objective-C
   pname: python3.12-rubicon-objc
-  version: 0.5.1
+  version: 0.5.2
 legacyPackages.x86_64-linux.python312Packages.rubymarshal:
   description: Read and write Ruby-marshalled data
   pname: python3.12-rubymarshal
@@ -189253,7 +187969,7 @@ legacyPackages.x86_64-linux.python312Packages.sphinxcontrib-httpdomain:
 legacyPackages.x86_64-linux.python312Packages.sphinxcontrib-images:
   description: Sphinx extension for thumbnails
   pname: python3.12-sphinxcontrib-images
-  version: 0.9.4
+  version: 1.0.1
 legacyPackages.x86_64-linux.python312Packages.sphinxcontrib-jinjadomain:
   description: Sphinx domain for describing jinja templates
   pname: python3.12-sphinxcontrib-jinjadomain
@@ -189401,7 +188117,7 @@ legacyPackages.x86_64-linux.python312Packages.spsdk-mcu-link:
 legacyPackages.x86_64-linux.python312Packages.spsdk-pyocd:
   description: Debugger probe plugin for SPSDK
   pname: python3.12-spsdk-pyocd
-  version: 0.3.2
+  version: 0.3.3
 legacyPackages.x86_64-linux.python312Packages.spur:
   description: Python module to run commands and manipulate files locally or over SSH
   pname: python3.12-spur
@@ -190290,6 +189006,10 @@ legacyPackages.x86_64-linux.python312Packages.syndication-domination:
   description: RSS/Atom parser written in C++ with Python binding
   pname: syndication-domination
   version: 1.0-unstable-2023-03-25
+legacyPackages.x86_64-linux.python312Packages.syne-tune:
+  description: Large scale asynchronous hyperparameter and architecture optimization library
+  pname: python3.12-syne-tune
+  version: 0.14.2
 legacyPackages.x86_64-linux.python312Packages.synergy:
   description: Python library for calculating, analyzing, and visualizing drug combination synergy
   pname: python3.12-synergy
@@ -191241,7 +189961,7 @@ legacyPackages.x86_64-linux.python312Packages.tokenize-rt:
 legacyPackages.x86_64-linux.python312Packages.tokenizers:
   description: Fast State-of-the-Art Tokenizers optimized for Research and Production
   pname: python3.12-tokenizers
-  version: 0.21.4
+  version: 0.22.0
 legacyPackages.x86_64-linux.python312Packages.tokenlib:
   description: Generic support library for signed-token-based auth schemes
   pname: python3.12-tokenlib
@@ -191533,7 +190253,7 @@ legacyPackages.x86_64-linux.python312Packages.transaction:
 legacyPackages.x86_64-linux.python312Packages.transformers:
   description: Natural Language Processing for TensorFlow 2.0 and PyTorch
   pname: python3.12-transformers
-  version: 4.55.4
+  version: 4.56.0
 legacyPackages.x86_64-linux.python312Packages.transforms3d:
   description: Convert between various geometric transformations
   pname: python3.12-transforms3d
@@ -196125,7 +194845,7 @@ legacyPackages.x86_64-linux.python312Packages.yara-python:
 legacyPackages.x86_64-linux.python312Packages.yara-x:
   description: Official Python library for YARA-X
   pname: python3.12-yara-x
-  version: 0.15.0
+  version: 1.5.0
 legacyPackages.x86_64-linux.python312Packages.yaramod:
   description: Parsing of YARA rules into AST and building new rulesets in C++
   pname: python3.12-yaramod
@@ -198545,7 +197265,7 @@ legacyPackages.x86_64-linux.python313Packages.argon2_cffi:
 legacyPackages.x86_64-linux.python313Packages.argos-translate-files:
   description: Translate files using Argos Translate
   pname: python3.13-argos-translate-files
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.python313Packages.argostranslate:
   description: Open-source offline translation library written in Python
   pname: python3.13-argostranslate
@@ -198885,7 +197605,7 @@ legacyPackages.x86_64-linux.python313Packages.asyncer:
 legacyPackages.x86_64-linux.python313Packages.asyncinotify:
   description: Module for inotify
   pname: python3.13-asyncinotify
-  version: 4.2.0
+  version: 4.2.1
 legacyPackages.x86_64-linux.python313Packages.asyncio-dgram:
   description: Python support for higher level Datagram
   pname: python3.13-asyncio-dgram
@@ -203337,7 +202057,7 @@ legacyPackages.x86_64-linux.python313Packages.dateutils:
 legacyPackages.x86_64-linux.python313Packages.datrie:
   description: Super-fast, efficiently stored Trie for Python
   pname: python3.13-datrie
-  version: 0.8.2
+  version: 0.8.3
 legacyPackages.x86_64-linux.python313Packages.dawg-python:
   description: Pure Python reader for DAWGs created by dawgdic C++ library or DAWG Python extension
   pname: python3.13-dawg-python
@@ -203913,7 +202633,7 @@ legacyPackages.x86_64-linux.python313Packages.disnake:
 legacyPackages.x86_64-linux.python313Packages.disposable-email-domains:
   description: Set of disposable email domains
   pname: python3.13-disposable-email-domains
-  version: 0.0.131
+  version: 0.0.132
 legacyPackages.x86_64-linux.python313Packages.dissect:
   description: Dissect meta module
   pname: python3.13-dissect
@@ -204465,7 +203185,7 @@ legacyPackages.x86_64-linux.python313Packages.django-modeltranslation:
 legacyPackages.x86_64-linux.python313Packages.django-mptt:
   description: Utilities for implementing a modified pre-order traversal tree in Django
   pname: python3.13-django-mptt
-  version: "0.17"
+  version: "0.18"
 legacyPackages.x86_64-linux.python313Packages.django-multiselectfield:
   description: Multiple Choice model field for Django
   pname: python3.13-django-multiselectfield
@@ -204981,7 +203701,7 @@ legacyPackages.x86_64-linux.python313Packages.dnf4:
 legacyPackages.x86_64-linux.python313Packages.dnfile:
   description: Module to parse .NET executable files
   pname: python3.13-dnfile
-  version: 0.16.4
+  version: 0.17.0
 legacyPackages.x86_64-linux.python313Packages.dns:
   description: DNS toolkit for Python
   pname: python3.13-dnspython
@@ -206693,7 +205413,7 @@ legacyPackages.x86_64-linux.python313Packages.feedgen:
 legacyPackages.x86_64-linux.python313Packages.feedgenerator:
   description: Standalone version of Django's feedgenerator module
   pname: python3.13-feedgenerator
-  version: 2.2.0
+  version: 2.2.1
 legacyPackages.x86_64-linux.python313Packages.feedparser:
   description: Universal feed parser
   pname: python3.13-feedparser
@@ -208673,7 +207393,7 @@ legacyPackages.x86_64-linux.python313Packages.google-crc32c:
 legacyPackages.x86_64-linux.python313Packages.google-genai:
   description: Google Generative AI Python SDK
   pname: python3.13-google-genai
-  version: 1.31.0
+  version: 1.32.0
 legacyPackages.x86_64-linux.python313Packages.google-generativeai:
   description: Python client library for Google's large language model PaLM API
   pname: python3.13-google-generativeai
@@ -210726,6 +209446,10 @@ legacyPackages.x86_64-linux.python313Packages.iptools:
   description: Utilities for manipulating IP addresses including a class that can be used to include CIDR network blocks in Django's INTERNAL_IPS setting
   pname: python3.13-iptools
   version: 0.7.0
+legacyPackages.x86_64-linux.python313Packages.ipv8-rust-tunnels:
+  description: A set of performance enhancements to the TunnelCommunity, the anonymization layer used in IPv8 and Tribler
+  pname: python3.13-ipv8-rust-tunnels
+  version: 0.1.33
 legacyPackages.x86_64-linux.python313Packages.ipwhl:
   description: Utilities for the InterPlanetary Wheels
   pname: python3.13-ipwhl
@@ -211089,15 +209813,15 @@ legacyPackages.x86_64-linux.python313Packages.javaproperties:
 legacyPackages.x86_64-linux.python313Packages.jax:
   description: 'Source-built JAX frontend: differentiate, compile, and transform Numpy code'
   pname: python3.13-jax
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python313Packages.jax-cuda12-pjrt:
   description: JAX XLA PJRT Plugin for NVIDIA GPUs
   pname: python3.13-jax-cuda12-pjrt
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python313Packages.jax-cuda12-plugin:
   description: JAX Plugin for CUDA12
   pname: python3.13-jax-cuda12-plugin
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python313Packages.jax-jumpy:
   description: Jumpy is a common backend for NumPy and optionally JAX
   pname: python3.13-jumpy
@@ -211105,11 +209829,11 @@ legacyPackages.x86_64-linux.python313Packages.jax-jumpy:
 legacyPackages.x86_64-linux.python313Packages.jaxlib:
   description: Prebuilt jaxlib backend from PyPi
   pname: python3.13-jaxlib
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python313Packages.jaxlib-bin:
   description: Prebuilt jaxlib backend from PyPi
   pname: python3.13-jaxlib
-  version: 0.6.2
+  version: 0.7.1
 legacyPackages.x86_64-linux.python313Packages.jaxlib-build:
   description: Source-built JAX backend. JAX is Autograd and XLA, brought together for high-performance machine learning research
   pname: python3.13-jaxlib
@@ -212209,7 +210933,7 @@ legacyPackages.x86_64-linux.python313Packages.langchain-fireworks:
 legacyPackages.x86_64-linux.python313Packages.langchain-google-genai:
   description: LangChain integrations for Google Gemini
   pname: python3.13-langchain-google-genai
-  version: 2.1.9
+  version: 2.1.10
 legacyPackages.x86_64-linux.python313Packages.langchain-groq:
   description: Integration package connecting Groq and LangChain
   pname: python3.13-langchain-groq
@@ -213145,7 +211869,7 @@ legacyPackages.x86_64-linux.python313Packages.llama-index-readers-database:
 legacyPackages.x86_64-linux.python313Packages.llama-index-readers-file:
   description: LlamaIndex Readers Integration for files
   pname: python3.13-llama-index-readers-file
-  version: 0.5.0
+  version: 0.5.2
 legacyPackages.x86_64-linux.python313Packages.llama-index-readers-json:
   description: LlamaIndex Readers Integration for Json
   pname: python3.13-llama-index-readers-json
@@ -213522,6 +212246,10 @@ legacyPackages.x86_64-linux.python313Packages.loqedapi:
   description: Module to interact with the Loqed Smart Door Lock API
   pname: python3.13-loqedapi
   version: 2.1.10
+legacyPackages.x86_64-linux.python313Packages.loro:
+  description: Data collaborative and version-controlled JSON with CRDTs
+  pname: python3.13-loro
+  version: 1.5.4
 legacyPackages.x86_64-linux.python313Packages.losant-rest:
   description: Python module for consuming the Losant IoT Platform API
   pname: python3.13-losant-rest
@@ -215261,7 +213989,7 @@ legacyPackages.x86_64-linux.python313Packages.msal-extensions:
 legacyPackages.x86_64-linux.python313Packages.mscerts:
   description: Makes the Microsoft Trusted Root Program's Certificate Trust Lists available in Python
   pname: python3.13-mscerts
-  version: 2025.6.27
+  version: 2025.8.29
 legacyPackages.x86_64-linux.python313Packages.msg-parser:
   description: Python module to read, parse and converting Microsoft Outlook MSG E-Mail files
   pname: python3.13-msg-parser
@@ -218977,7 +217705,7 @@ legacyPackages.x86_64-linux.python313Packages.paddle2onnx:
 legacyPackages.x86_64-linux.python313Packages.paddleocr:
   description: Multilingual OCR toolkits based on PaddlePaddle
   pname: python3.13-paddleocr
-  version: 3.1.1
+  version: 3.2.0
 legacyPackages.x86_64-linux.python313Packages.paddlepaddle:
   description: Machine Learning Framework from Industrial Practice
   pname: python3.13-paddlepaddle
@@ -220865,7 +219593,7 @@ legacyPackages.x86_64-linux.python313Packages.pulsectl-asyncio:
 legacyPackages.x86_64-linux.python313Packages.pulumi:
   description: Modern Infrastructure as Code. Any cloud, any language
   pname: python3.13-pulumi
-  version: 3.190.0
+  version: 3.192.0
 legacyPackages.x86_64-linux.python313Packages.pulumi-aws:
   description: Pulumi python amazon web services provider
   pname: python3.13-pulumi-aws
@@ -222393,7 +221121,7 @@ legacyPackages.x86_64-linux.python313Packages.pygit2:
 legacyPackages.x86_64-linux.python313Packages.pygitguardian:
   description: Library to access the GitGuardian API
   pname: python3.13-pygitguardian
-  version: 1.24.0
+  version: 1.25.0
 legacyPackages.x86_64-linux.python313Packages.pygithub:
   description: Python library to access the GitHub API v3
   pname: python3.13-pygithub
@@ -222661,7 +221389,7 @@ legacyPackages.x86_64-linux.python313Packages.pyipp:
 legacyPackages.x86_64-linux.python313Packages.pyipv8:
   description: Python implementation of Tribler's IPv8 p2p-networking layer
   pname: python3.13-pyipv8
-  version: 3.0.0
+  version: 3.0.2197-unstable-2025-07-29
 legacyPackages.x86_64-linux.python313Packages.pyiqvia:
   description: Module for working with IQVIA data
   pname: python3.13-pyiqvia
@@ -223582,6 +222310,10 @@ legacyPackages.x86_64-linux.python313Packages.pyosmium:
   description: Python bindings for libosmium
   pname: python3.13-pyosmium
   version: 4.0.2
+legacyPackages.x86_64-linux.python313Packages.pyosoenergyapi:
+  description: Python library to interface with the OSO Energy API
+  pname: python3.13-pyosoenergyapi
+  version: 1.2.4
 legacyPackages.x86_64-linux.python313Packages.pyosohotwaterapi:
   description: Module for using the OSO Hotwater API
   pname: python3.13-pyosohotwaterapi
@@ -228557,7 +227289,7 @@ legacyPackages.x86_64-linux.python313Packages.ruamel_yaml_clib:
 legacyPackages.x86_64-linux.python313Packages.rubicon-objc:
   description: Bridge interface between Python and Objective-C
   pname: python3.13-rubicon-objc
-  version: 0.5.1
+  version: 0.5.2
 legacyPackages.x86_64-linux.python313Packages.rubymarshal:
   description: Read and write Ruby-marshalled data
   pname: python3.13-rubymarshal
@@ -230689,7 +229421,7 @@ legacyPackages.x86_64-linux.python313Packages.sphinxcontrib-httpdomain:
 legacyPackages.x86_64-linux.python313Packages.sphinxcontrib-images:
   description: Sphinx extension for thumbnails
   pname: python3.13-sphinxcontrib-images
-  version: 0.9.4
+  version: 1.0.1
 legacyPackages.x86_64-linux.python313Packages.sphinxcontrib-jinjadomain:
   description: Sphinx domain for describing jinja templates
   pname: python3.13-sphinxcontrib-jinjadomain
@@ -230837,7 +229569,7 @@ legacyPackages.x86_64-linux.python313Packages.spsdk-mcu-link:
 legacyPackages.x86_64-linux.python313Packages.spsdk-pyocd:
   description: Debugger probe plugin for SPSDK
   pname: python3.13-spsdk-pyocd
-  version: 0.3.2
+  version: 0.3.3
 legacyPackages.x86_64-linux.python313Packages.spur:
   description: Python module to run commands and manipulate files locally or over SSH
   pname: python3.13-spur
@@ -231762,6 +230494,10 @@ legacyPackages.x86_64-linux.python313Packages.syndication-domination:
   description: RSS/Atom parser written in C++ with Python binding
   pname: syndication-domination
   version: 1.0-unstable-2023-03-25
+legacyPackages.x86_64-linux.python313Packages.syne-tune:
+  description: Large scale asynchronous hyperparameter and architecture optimization library
+  pname: python3.13-syne-tune
+  version: 0.14.2
 legacyPackages.x86_64-linux.python313Packages.synergy:
   description: Python library for calculating, analyzing, and visualizing drug combination synergy
   pname: python3.13-synergy
@@ -232713,7 +231449,7 @@ legacyPackages.x86_64-linux.python313Packages.tokenize-rt:
 legacyPackages.x86_64-linux.python313Packages.tokenizers:
   description: Fast State-of-the-Art Tokenizers optimized for Research and Production
   pname: python3.13-tokenizers
-  version: 0.21.4
+  version: 0.22.0
 legacyPackages.x86_64-linux.python313Packages.tokenlib:
   description: Generic support library for signed-token-based auth schemes
   pname: python3.13-tokenlib
@@ -233005,7 +231741,7 @@ legacyPackages.x86_64-linux.python313Packages.transaction:
 legacyPackages.x86_64-linux.python313Packages.transformers:
   description: Natural Language Processing for TensorFlow 2.0 and PyTorch
   pname: python3.13-transformers
-  version: 4.55.4
+  version: 4.56.0
 legacyPackages.x86_64-linux.python313Packages.transforms3d:
   description: Convert between various geometric transformations
   pname: python3.13-transforms3d
@@ -237597,7 +236333,7 @@ legacyPackages.x86_64-linux.python313Packages.yara-python:
 legacyPackages.x86_64-linux.python313Packages.yara-x:
   description: Official Python library for YARA-X
   pname: python3.13-yara-x
-  version: 0.15.0
+  version: 1.5.0
 legacyPackages.x86_64-linux.python313Packages.yaramod:
   description: Parsing of YARA rules into AST and building new rulesets in C++
   pname: python3.13-yaramod
@@ -238677,7 +237413,7 @@ legacyPackages.x86_64-linux.qovery-cli:
 legacyPackages.x86_64-linux.qownnotes:
   description: Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration
   pname: qownnotes
-  version: 25.8.4
+  version: 25.8.7
 legacyPackages.x86_64-linux.qpaeq:
   description: Equalizer interface for pulseaudio's equalizer sinks
   pname: qpaeq
@@ -240833,7 +239569,7 @@ legacyPackages.x86_64-linux.reap:
 legacyPackages.x86_64-linux.reaper:
   description: Digital audio workstation
   pname: reaper
-  version: "7.42"
+  version: "7.45"
 legacyPackages.x86_64-linux.reaper-go:
   description: Application security testing framework
   pname: reaper-go
@@ -241249,11 +239985,11 @@ legacyPackages.x86_64-linux.reiserfsprogs:
 legacyPackages.x86_64-linux.rekor-cli:
   description: CLI client for Sigstore, the Signature Transparency Log
   pname: rekor-cli
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.rekor-server:
   description: Sigstore server, the Signature Transparency Log
   pname: rekor-server
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.release-plz:
   description: Publish Rust crates from CI with a Release PR
   pname: release-plz
@@ -241821,7 +240557,7 @@ legacyPackages.x86_64-linux.rgbds:
 legacyPackages.x86_64-linux.rgp:
   description: Tool from AMD that allows for deep inspection of GPU workloads
   pname: rgp
-  version: "2.3"
+  version: "2.5"
 legacyPackages.x86_64-linux.rgxg:
   description: C library and a command-line tool to generate (extended) regular expressions
   pname: rgxg
@@ -243593,7 +242329,7 @@ legacyPackages.x86_64-linux.rpg-cli:
 legacyPackages.x86_64-linux.rpi-imager:
   description: Raspberry Pi Imaging Utility
   pname: rpi-imager
-  version: 1.9.4
+  version: 1.9.6
 legacyPackages.x86_64-linux.rpiboot:
   description: Utility to boot a Raspberry Pi CM/CM3/CM4/Zero over USB
   pname: rpiboot
@@ -274061,7 +272797,7 @@ legacyPackages.x86_64-linux.shorewall:
 legacyPackages.x86_64-linux.shortcat:
   description: Manipulate macOS masterfully, minus the mouse
   pname: shortcat
-  version: 0.11.4
+  version: 0.12.2
 legacyPackages.x86_64-linux.shortenPerlShebang:
   description: ""
   pname: shorten-perl-shebang-hook
@@ -281129,7 +279865,7 @@ legacyPackages.x86_64-linux.terracognita:
 legacyPackages.x86_64-linux.terraform:
   description: Tool for building, changing, and versioning infrastructure
   pname: terraform
-  version: 1.13.0
+  version: 1.13.1
 legacyPackages.x86_64-linux.terraform-backend-git:
   description: Terraform HTTP Backend implementation that uses Git repository as storage
   pname: terraform-backend-git
@@ -281233,7 +279969,7 @@ legacyPackages.x86_64-linux.terraform-providers.aviatrix:
 legacyPackages.x86_64-linux.terraform-providers.aws:
   description: ""
   pname: terraform-provider-aws
-  version: 6.8.0
+  version: 6.11.0
 legacyPackages.x86_64-linux.terraform-providers.awscc:
   description: ""
   pname: terraform-provider-awscc
@@ -281861,7 +280597,7 @@ legacyPackages.x86_64-linux.terraform-providers.yandex:
 legacyPackages.x86_64-linux.terraform_1:
   description: Tool for building, changing, and versioning infrastructure
   pname: terraform
-  version: 1.13.0
+  version: 1.13.1
 legacyPackages.x86_64-linux.terraform_plugins_test:
   description: ""
   pname: terraform-plugin-test
@@ -304953,7 +303689,7 @@ legacyPackages.x86_64-linux.tile-downloader:
 legacyPackages.x86_64-linux.tile38:
   description: Real-time Geospatial and Geofencing
   pname: tile38
-  version: 1.36.0
+  version: 1.36.1
 legacyPackages.x86_64-linux.tiled:
   description: Free, easy to use and flexible tile map editor
   pname: tiled
@@ -306798,6 +305534,10 @@ legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-go:
   description: ""
   pname: tree-sitter-go-grammar
   version: 0.25.6
+legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-go-template:
+  description: ""
+  pname: tree-sitter-go-template-grammar
+  version: 0.25.6
 legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-godot-resource:
   description: ""
   pname: tree-sitter-godot-resource-grammar
@@ -307263,9 +306003,9 @@ legacyPackages.x86_64-linux.trgui-ng-web:
   pname: TrguiNG-frontend
   version: 1.4.0-unstable-2025-05-18
 legacyPackages.x86_64-linux.tribler:
-  description: Decentralised P2P filesharing client based on the Bittorrent protocol
+  description: Decentralized P2P filesharing client based on the Bittorrent protocol
   pname: tribler
-  version: 7.14.0
+  version: ""
 legacyPackages.x86_64-linux.trickest-cli:
   description: CLI tool to execute Trickest workflows
   pname: trickest-cli
@@ -307766,6 +306506,10 @@ legacyPackages.x86_64-linux.tuistash:
   description: Terminal User Interface for Logstash
   pname: tuistash
   version: 0.7.1
+legacyPackages.x86_64-linux.tukai:
+  description: Terminal-based touch typing application
+  pname: tukai
+  version: 0.2.3
 legacyPackages.x86_64-linux.tuleap-cli:
   description: Command-line interface for the Tuleap API
   pname: tuleap-cli
@@ -322377,7 +321121,7 @@ legacyPackages.x86_64-linux.vifm-full:
 legacyPackages.x86_64-linux.vigra:
   description: Novel computer vision C++ library with customizable algorithms and data structures
   pname: vigra
-  version: 1.12.1
+  version: 1.12.2
 legacyPackages.x86_64-linux.viking:
   description: GPS data editor and analyzer
   pname: viking
@@ -322453,7 +321197,7 @@ legacyPackages.x86_64-linux.vimPlugins.Colour_Sampler_Pack:
 legacyPackages.x86_64-linux.vimPlugins.CopilotChat-nvim:
   description: ""
   pname: vimplugin-CopilotChat.nvim
-  version: "2025-08-19"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.Coqtail:
   description: ""
   pname: vimplugin-Coqtail
@@ -322573,7 +321317,7 @@ legacyPackages.x86_64-linux.vimPlugins.ReplaceWithRegister:
 legacyPackages.x86_64-linux.vimPlugins.SchemaStore-nvim:
   description: ""
   pname: vimplugin-SchemaStore.nvim
-  version: "2025-08-21"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.Shade-nvim:
   description: ""
   pname: vimplugin-Shade.nvim
@@ -322697,7 +321441,7 @@ legacyPackages.x86_64-linux.vimPlugins.adwaita-nvim:
 legacyPackages.x86_64-linux.vimPlugins.aerial-nvim:
   description: ""
   pname: vimplugin-aerial.nvim
-  version: "2025-08-21"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.ag-nvim:
   description: ""
   pname: vimplugin-ag.nvim
@@ -322869,7 +321613,7 @@ legacyPackages.x86_64-linux.vimPlugins.auto-save-nvim:
 legacyPackages.x86_64-linux.vimPlugins.auto-session:
   description: ""
   pname: vimplugin-auto-session
-  version: "2025-08-20"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.autoclose-nvim:
   description: ""
   pname: vimplugin-autoclose.nvim
@@ -322941,7 +321685,7 @@ legacyPackages.x86_64-linux.vimPlugins.base16-vim:
 legacyPackages.x86_64-linux.vimPlugins.base46:
   description: ""
   pname: vimplugin-base46
-  version: "2025-08-08"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.bat-vim:
   description: ""
   pname: vimplugin-bat.vim
@@ -323041,7 +321785,7 @@ legacyPackages.x86_64-linux.vimPlugins.blink-pairs:
 legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim:
   description: ""
   pname: vimplugin-blink-ripgrep.nvim
-  version: "2025-08-21"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.bloat-nvim:
   description: ""
   pname: vimplugin-bloat.nvim
@@ -323209,7 +321953,7 @@ legacyPackages.x86_64-linux.vimPlugins.close-buffers-vim:
 legacyPackages.x86_64-linux.vimPlugins.cmake-tools-nvim:
   description: ""
   pname: vimplugin-cmake-tools.nvim
-  version: "2025-08-11"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.cmd-parser-nvim:
   description: ""
   pname: vimplugin-cmd-parser.nvim
@@ -323537,7 +322281,7 @@ legacyPackages.x86_64-linux.vimPlugins.coc-nginx:
 legacyPackages.x86_64-linux.vimPlugins.coc-nvim:
   description: ""
   pname: vimplugin-coc.nvim
-  version: "2025-08-21"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.coc-pairs:
   description: Auto pair extension for coc.nvim
   pname: vimplugin-coc-pairs
@@ -323653,7 +322397,7 @@ legacyPackages.x86_64-linux.vimPlugins.coconut-vim:
 legacyPackages.x86_64-linux.vimPlugins.codecompanion-history-nvim:
   description: ""
   pname: vimplugin-codecompanion-history.nvim
-  version: "2025-08-21"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.codecompanion-nvim:
   description: ""
   pname: vimplugin-codecompanion.nvim
@@ -323689,7 +322433,7 @@ legacyPackages.x86_64-linux.vimPlugins.colorful-menu-nvim:
 legacyPackages.x86_64-linux.vimPlugins.colorful-winsep-nvim:
   description: ""
   pname: vimplugin-colorful-winsep.nvim
-  version: "2025-08-20"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.colorizer:
   description: ""
   pname: vimplugin-colorizer
@@ -323785,11 +322529,11 @@ legacyPackages.x86_64-linux.vimPlugins.conflict-marker-vim:
 legacyPackages.x86_64-linux.vimPlugins.conform-nvim:
   description: ""
   pname: vimplugin-conform.nvim
-  version: "2025-08-20"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.conjure:
   description: ""
   pname: vimplugin-conjure
-  version: "2025-08-17"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.context-filetype:
   description: ""
   pname: vimplugin-context_filetype.vim
@@ -323805,7 +322549,7 @@ legacyPackages.x86_64-linux.vimPlugins.context_filetype-vim:
 legacyPackages.x86_64-linux.vimPlugins.contextfiles-nvim:
   description: ""
   pname: vimplugin-contextfiles.nvim
-  version: "2025-07-13"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.copilot-cmp:
   description: ""
   pname: vimplugin-copilot-cmp
@@ -323817,7 +322561,7 @@ legacyPackages.x86_64-linux.vimPlugins.copilot-lsp:
 legacyPackages.x86_64-linux.vimPlugins.copilot-lua:
   description: ""
   pname: vimplugin-copilot.lua
-  version: "2025-08-21"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.copilot-lualine:
   description: ""
   pname: vimplugin-copilot-lualine
@@ -323869,7 +322613,7 @@ legacyPackages.x86_64-linux.vimPlugins.cpsm:
 legacyPackages.x86_64-linux.vimPlugins.crates-nvim:
   description: ""
   pname: vimplugin-crates.nvim
-  version: "2025-08-06"
+  version: "2025-08-23"
 legacyPackages.x86_64-linux.vimPlugins.csapprox:
   description: ""
   pname: vimplugin-csapprox
@@ -323933,7 +322677,7 @@ legacyPackages.x86_64-linux.vimPlugins.cutlass-nvim:
 legacyPackages.x86_64-linux.vimPlugins.cyberdream-nvim:
   description: ""
   pname: vimplugin-cyberdream.nvim
-  version: "2025-08-09"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.dailies-nvim:
   description: ""
   pname: vimplugin-dailies.nvim
@@ -323989,11 +322733,11 @@ legacyPackages.x86_64-linux.vimPlugins.ddc-ui-native:
 legacyPackages.x86_64-linux.vimPlugins.ddc-ui-pum:
   description: ""
   pname: vimplugin-ddc-ui-pum
-  version: "2025-04-07"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.ddc-vim:
   description: ""
   pname: vimplugin-ddc.vim
-  version: "2025-08-08"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.debugmaster-nvim:
   description: ""
   pname: vimplugin-debugmaster.nvim
@@ -324001,7 +322745,7 @@ legacyPackages.x86_64-linux.vimPlugins.debugmaster-nvim:
 legacyPackages.x86_64-linux.vimPlugins.debugprint-nvim:
   description: ""
   pname: vimplugin-debugprint.nvim
-  version: "2025-08-01"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.deepwhite-nvim:
   description: ""
   pname: vimplugin-deepwhite.nvim
@@ -324045,7 +322789,7 @@ legacyPackages.x86_64-linux.vimPlugins.denite-nvim:
 legacyPackages.x86_64-linux.vimPlugins.denops-vim:
   description: ""
   pname: vimplugin-denops.vim
-  version: "2025-08-12"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.deol-nvim:
   description: ""
   pname: vimplugin-deol.nvim
@@ -324209,7 +322953,7 @@ legacyPackages.x86_64-linux.vimPlugins.easy-align:
 legacyPackages.x86_64-linux.vimPlugins.easy-dotnet-nvim:
   description: ""
   pname: vimplugin-easy-dotnet.nvim
-  version: "2025-08-19"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.easygit:
   description: ""
   pname: vimplugin-vim-easygit
@@ -324261,7 +323005,7 @@ legacyPackages.x86_64-linux.vimPlugins.eighties:
 legacyPackages.x86_64-linux.vimPlugins.elixir-tools-nvim:
   description: ""
   pname: vimplugin-elixir-tools.nvim
-  version: "2025-06-20"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.elm-vim:
   description: ""
   pname: vimplugin-elm-vim
@@ -324329,7 +323073,7 @@ legacyPackages.x86_64-linux.vimPlugins.far-vim:
 legacyPackages.x86_64-linux.vimPlugins.fastaction-nvim:
   description: ""
   pname: vimplugin-fastaction.nvim
-  version: "2025-06-15"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.faster-nvim:
   description: ""
   pname: vimplugin-faster.nvim
@@ -324373,7 +323117,7 @@ legacyPackages.x86_64-linux.vimPlugins.fine-cmdline-nvim:
 legacyPackages.x86_64-linux.vimPlugins.firenvim:
   description: ""
   pname: vimplugin-firenvim
-  version: "2025-07-22"
+  version: "2025-08-23"
 legacyPackages.x86_64-linux.vimPlugins.flake8-vim:
   description: ""
   pname: vimplugin-flake8-vim
@@ -324433,7 +323177,7 @@ legacyPackages.x86_64-linux.vimPlugins.forms:
 legacyPackages.x86_64-linux.vimPlugins.fortune-nvim:
   description: ""
   pname: vimplugin-fortune.nvim
-  version: "2024-07-18"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.freeze-nvim:
   description: ""
   pname: vimplugin-freeze.nvim
@@ -324494,6 +323238,10 @@ legacyPackages.x86_64-linux.vimPlugins.fzf-vim:
   description: ""
   pname: vimplugin-fzf.vim
   version: "2025-06-20"
+legacyPackages.x86_64-linux.vimPlugins.fzf-wrapper:
+  description: ""
+  pname: vimplugin-fzf
+  version: 0.65.1
 legacyPackages.x86_64-linux.vimPlugins.fzfWrapper:
   description: ""
   pname: vimplugin-fzf
@@ -324561,7 +323309,7 @@ legacyPackages.x86_64-linux.vimPlugins.git-worktree-nvim:
 legacyPackages.x86_64-linux.vimPlugins.gitgutter:
   description: ""
   pname: vimplugin-vim-gitgutter
-  version: "2025-05-26"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.github-nvim-theme:
   description: ""
   pname: vimplugin-github-nvim-theme
@@ -324601,7 +323349,7 @@ legacyPackages.x86_64-linux.vimPlugins.glow-nvim:
 legacyPackages.x86_64-linux.vimPlugins.go-nvim:
   description: ""
   pname: vimplugin-go.nvim
-  version: "2025-08-05"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.godbolt-nvim:
   description: ""
   pname: vimplugin-godbolt.nvim
@@ -324641,7 +323389,7 @@ legacyPackages.x86_64-linux.vimPlugins.grapple-nvim:
 legacyPackages.x86_64-linux.vimPlugins.gruber-darker-nvim:
   description: ""
   pname: vimplugin-gruber-darker.nvim
-  version: "2024-01-08"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.grug-far-nvim:
   description: Find And Replace plugin for neovim
   pname: vimplugin-luajit2.1-grug-far.nvim
@@ -324677,11 +323425,11 @@ legacyPackages.x86_64-linux.vimPlugins.gruvbox-nvim:
 legacyPackages.x86_64-linux.vimPlugins.guard-collection:
   description: ""
   pname: vimplugin-guard-collection
-  version: "2025-05-29"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.guard-nvim:
   description: ""
   pname: vimplugin-guard.nvim
-  version: "2025-08-20"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.guess-indent-nvim:
   description: ""
   pname: vimplugin-guess-indent.nvim
@@ -324729,7 +323477,7 @@ legacyPackages.x86_64-linux.vimPlugins.haskell-scope-highlighting-nvim:
 legacyPackages.x86_64-linux.vimPlugins.haskell-snippets-nvim:
   description: ""
   pname: vimplugin-haskell-snippets.nvim
-  version: "2025-03-17"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.haskell-tools-nvim:
   description: "\U0001F9A5 Supercharge your Haskell experience in neovim!"
   pname: vimplugin-luajit2.1-haskell-tools.nvim
@@ -324825,7 +323573,7 @@ legacyPackages.x86_64-linux.vimPlugins.hoon-vim:
 legacyPackages.x86_64-linux.vimPlugins.hop-nvim:
   description: ""
   pname: vimplugin-hop.nvim
-  version: "2025-08-06"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.hotpot-nvim:
   description: ""
   pname: vimplugin-hotpot.nvim
@@ -324985,7 +323733,7 @@ legacyPackages.x86_64-linux.vimPlugins.jdd-nvim:
 legacyPackages.x86_64-linux.vimPlugins.jedi-vim:
   description: code-completion for python using python-jedi
   pname: vimplugin-jedi-vim
-  version: "2024-12-27"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.jellybeans-nvim:
   description: ""
   pname: vimplugin-jellybeans-nvim
@@ -325029,7 +323777,7 @@ legacyPackages.x86_64-linux.vimPlugins.kanagawa-nvim:
 legacyPackages.x86_64-linux.vimPlugins.kanagawa-paper-nvim:
   description: ""
   pname: vimplugin-kanagawa-paper.nvim
-  version: "2025-08-19"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.kanso-nvim:
   description: ""
   pname: vimplugin-kanso.nvim
@@ -325065,7 +323813,7 @@ legacyPackages.x86_64-linux.vimPlugins.kotlin-vim:
 legacyPackages.x86_64-linux.vimPlugins.kulala-nvim:
   description: ""
   pname: vimplugin-kulala.nvim
-  version: "2025-08-19"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.lackluster-nvim:
   description: ""
   pname: vimplugin-lackluster.nvim
@@ -325105,7 +323853,7 @@ legacyPackages.x86_64-linux.vimPlugins.lazydev-nvim:
 legacyPackages.x86_64-linux.vimPlugins.lazydocker-nvim:
   description: ""
   pname: vimplugin-lazydocker.nvim
-  version: "2025-06-25"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.lazygit-nvim:
   description: ""
   pname: vimplugin-lazygit.nvim
@@ -325117,7 +323865,7 @@ legacyPackages.x86_64-linux.vimPlugins.lazyjj-nvim:
 legacyPackages.x86_64-linux.vimPlugins.lean-nvim:
   description: ""
   pname: vimplugin-lean.nvim
-  version: "2025-08-21"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.lean-vim:
   description: ""
   pname: vimplugin-lean.vim
@@ -325129,11 +323877,11 @@ legacyPackages.x86_64-linux.vimPlugins.leap-ast-nvim:
 legacyPackages.x86_64-linux.vimPlugins.leap-nvim:
   description: ""
   pname: vimplugin-leap.nvim
-  version: "2025-08-15"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.leetcode-nvim:
   description: ""
   pname: vimplugin-leetcode.nvim
-  version: "2025-07-21"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.legendary-nvim:
   description: ""
   pname: vimplugin-legendary.nvim
@@ -325145,7 +323893,7 @@ legacyPackages.x86_64-linux.vimPlugins.lens-vim:
 legacyPackages.x86_64-linux.vimPlugins.lensline-nvim:
   description: ""
   pname: vimplugin-lensline.nvim
-  version: "2025-08-28"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.lessspace-vim:
   description: ""
   pname: vimplugin-lessspace.vim
@@ -325245,7 +323993,7 @@ legacyPackages.x86_64-linux.vimPlugins.live-preview-nvim:
 legacyPackages.x86_64-linux.vimPlugins.live-rename-nvim:
   description: ""
   pname: vimplugin-live-rename.nvim
-  version: "2025-06-23"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.live-share-nvim:
   description: ""
   pname: vimplugin-live-share.nvim
@@ -325253,7 +324001,7 @@ legacyPackages.x86_64-linux.vimPlugins.live-share-nvim:
 legacyPackages.x86_64-linux.vimPlugins.llama-vim:
   description: ""
   pname: vimplugin-llama.vim
-  version: "2025-08-20"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.llm-nvim:
   description: ""
   pname: vimplugin-llm.nvim
@@ -325409,11 +324157,11 @@ legacyPackages.x86_64-linux.vimPlugins.marks-nvim:
 legacyPackages.x86_64-linux.vimPlugins.markview-nvim:
   description: ""
   pname: vimplugin-markview.nvim
-  version: "2025-08-19"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.mason-lspconfig-nvim:
   description: ""
   pname: vimplugin-mason-lspconfig.nvim
-  version: "2025-08-18"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.mason-null-ls-nvim:
   description: ""
   pname: vimplugin-mason-null-ls.nvim
@@ -325485,167 +324233,167 @@ legacyPackages.x86_64-linux.vimPlugins.mind-nvim:
 legacyPackages.x86_64-linux.vimPlugins.mini-ai:
   description: ""
   pname: vimplugin-mini.ai
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-align:
   description: ""
   pname: vimplugin-mini.align
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-animate:
   description: ""
   pname: vimplugin-mini.animate
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-base16:
   description: ""
   pname: vimplugin-mini.base16
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-basics:
   description: ""
   pname: vimplugin-mini.basics
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-bracketed:
   description: ""
   pname: vimplugin-mini.bracketed
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-bufremove:
   description: ""
   pname: vimplugin-mini.bufremove
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-clue:
   description: ""
   pname: vimplugin-mini.clue
-  version: "2025-08-19"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-colors:
   description: ""
   pname: vimplugin-mini.colors
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-comment:
   description: ""
   pname: vimplugin-mini.comment
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-completion:
   description: ""
   pname: vimplugin-mini.completion
-  version: "2025-08-17"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-cursorword:
   description: ""
   pname: vimplugin-mini.cursorword
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-deps:
   description: ""
   pname: vimplugin-mini.deps
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-diff:
   description: ""
   pname: vimplugin-mini.diff
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-doc:
   description: ""
   pname: vimplugin-mini.doc
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-extra:
   description: ""
   pname: vimplugin-mini.extra
-  version: "2025-08-21"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-files:
   description: ""
   pname: vimplugin-mini.files
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-fuzzy:
   description: ""
   pname: vimplugin-mini.fuzzy
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-git:
   description: ""
   pname: vimplugin-mini-git
-  version: "2025-08-12"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-hipatterns:
   description: ""
   pname: vimplugin-mini.hipatterns
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-hues:
   description: ""
   pname: vimplugin-mini.hues
-  version: "2025-08-15"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-icons:
   description: ""
   pname: vimplugin-mini.icons
-  version: "2025-07-24"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-indentscope:
   description: ""
   pname: vimplugin-mini.indentscope
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-jump:
   description: ""
   pname: vimplugin-mini.jump
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-jump2d:
   description: ""
   pname: vimplugin-mini.jump2d
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-keymap:
   description: ""
   pname: vimplugin-mini.keymap
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-map:
   description: ""
   pname: vimplugin-mini.map
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-misc:
   description: ""
   pname: vimplugin-mini.misc
-  version: "2025-08-19"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-move:
   description: ""
   pname: vimplugin-mini.move
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-notify:
   description: ""
   pname: vimplugin-mini.notify
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-nvim:
   description: ""
   pname: vimplugin-mini.nvim
-  version: "2025-08-21"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.mini-operators:
   description: ""
   pname: vimplugin-mini.operators
-  version: "2025-08-12"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-pairs:
   description: ""
   pname: vimplugin-mini.pairs
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-pick:
   description: ""
   pname: vimplugin-mini.pick
-  version: "2025-08-02"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-sessions:
   description: ""
   pname: vimplugin-mini.sessions
-  version: "2025-07-22"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.mini-snippets:
   description: ""
   pname: vimplugin-mini.snippets
-  version: "2025-08-12"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-splitjoin:
   description: ""
   pname: vimplugin-mini.splitjoin
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-starter:
   description: ""
   pname: vimplugin-mini.starter
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-statusline:
   description: ""
   pname: vimplugin-mini.statusline
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-surround:
   description: ""
   pname: vimplugin-mini.surround
-  version: "2025-08-12"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-tabline:
   description: ""
   pname: vimplugin-mini.tabline
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-test:
   description: Test neovim plugins. Part of the mini.nvim suite.
   pname: vimplugin-luajit2.1-mini.test
@@ -325653,19 +324401,15 @@ legacyPackages.x86_64-linux.vimPlugins.mini-test:
 legacyPackages.x86_64-linux.vimPlugins.mini-trailspace:
   description: ""
   pname: vimplugin-mini.trailspace
-  version: "2025-07-22"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.mini-visits:
   description: ""
   pname: vimplugin-mini.visits
-  version: "2025-08-16"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.minimap-vim:
   description: ""
   pname: vimplugin-minimap.vim
   version: "2025-01-26"
-legacyPackages.x86_64-linux.vimPlugins.minsnip-nvim:
-  description: ""
-  pname: vimplugin-minsnip.nvim
-  version: "2022-01-04"
 legacyPackages.x86_64-linux.vimPlugins.minuet-ai-nvim:
   description: ""
   pname: vimplugin-minuet-ai.nvim
@@ -325697,7 +324441,7 @@ legacyPackages.x86_64-linux.vimPlugins.molokai:
 legacyPackages.x86_64-linux.vimPlugins.molten-nvim:
   description: ""
   pname: vimplugin-molten-nvim
-  version: "2025-08-17"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.monaspace-nvim:
   description: ""
   pname: vimplugin-monaspace.nvim
@@ -325721,7 +324465,7 @@ legacyPackages.x86_64-linux.vimPlugins.mru:
 legacyPackages.x86_64-linux.vimPlugins.multicursor-nvim:
   description: ""
   pname: vimplugin-multicursor.nvim
-  version: "2025-05-29"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.multicursors-nvim:
   description: ""
   pname: vimplugin-multicursors.nvim
@@ -325825,7 +324569,7 @@ legacyPackages.x86_64-linux.vimPlugins.necoGhc:
 legacyPackages.x86_64-linux.vimPlugins.neo-tree-nvim:
   description: ""
   pname: vimplugin-neo-tree.nvim
-  version: "2025-08-17"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.neocomplete:
   description: ""
   pname: vimplugin-neocomplete.vim
@@ -325837,7 +324581,7 @@ legacyPackages.x86_64-linux.vimPlugins.neocomplete-vim:
 legacyPackages.x86_64-linux.vimPlugins.neoconf-nvim:
   description: ""
   pname: vimplugin-neoconf.nvim
-  version: "2025-08-20"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.neocord:
   description: ""
   pname: vimplugin-neocord
@@ -325861,7 +324605,7 @@ legacyPackages.x86_64-linux.vimPlugins.neogen:
 legacyPackages.x86_64-linux.vimPlugins.neogit:
   description: ""
   pname: vimplugin-neogit
-  version: "2025-08-19"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.neoinclude:
   description: ""
   pname: vimplugin-neoinclude.vim
@@ -325937,7 +324681,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-bash:
 legacyPackages.x86_64-linux.vimPlugins.neotest-ctest:
   description: ""
   pname: vimplugin-neotest-ctest
-  version: "2025-08-03"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.neotest-dart:
   description: ""
   pname: vimplugin-neotest-dart
@@ -325965,7 +324709,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-go:
 legacyPackages.x86_64-linux.vimPlugins.neotest-golang:
   description: ""
   pname: vimplugin-neotest-golang
-  version: "2025-08-19"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.neotest-gradle:
   description: ""
   pname: vimplugin-neotest-gradle
@@ -325977,7 +324721,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-gtest:
 legacyPackages.x86_64-linux.vimPlugins.neotest-haskell:
   description: ""
   pname: vimplugin-neotest-haskell
-  version: "2025-08-18"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.neotest-java:
   description: ""
   pname: vimplugin-neotest-java
@@ -325985,7 +324729,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-java:
 legacyPackages.x86_64-linux.vimPlugins.neotest-jest:
   description: ""
   pname: vimplugin-neotest-jest
-  version: "2025-08-02"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.neotest-minitest:
   description: ""
   pname: vimplugin-neotest-minitest
@@ -325993,7 +324737,7 @@ legacyPackages.x86_64-linux.vimPlugins.neotest-minitest:
 legacyPackages.x86_64-linux.vimPlugins.neotest-mocha:
   description: ""
   pname: vimplugin-neotest-mocha
-  version: "2024-07-30"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.neotest-pest:
   description: ""
   pname: vimplugin-neotest-pest
@@ -326093,7 +324837,7 @@ legacyPackages.x86_64-linux.vimPlugins.neuron-vim:
 legacyPackages.x86_64-linux.vimPlugins.nfnl:
   description: ""
   pname: vimplugin-nfnl
-  version: "2025-08-17"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.ng-nvim:
   description: ""
   pname: vimplugin-ng.nvim
@@ -326129,7 +324873,7 @@ legacyPackages.x86_64-linux.vimPlugins.nix-develop-nvim:
 legacyPackages.x86_64-linux.vimPlugins.nlsp-settings-nvim:
   description: ""
   pname: vimplugin-nlsp-settings.nvim
-  version: "2025-08-21"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.nnn-vim:
   description: ""
   pname: vimplugin-nnn.vim
@@ -326141,7 +324885,7 @@ legacyPackages.x86_64-linux.vimPlugins.no-clown-fiesta-nvim:
 legacyPackages.x86_64-linux.vimPlugins.no-neck-pain-nvim:
   description: ""
   pname: vimplugin-no-neck-pain.nvim
-  version: "2025-07-20"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.noctis-nvim:
   description: ""
   pname: vimplugin-noctis.nvim
@@ -326153,7 +324897,7 @@ legacyPackages.x86_64-linux.vimPlugins.noice-nvim:
 legacyPackages.x86_64-linux.vimPlugins.none-ls-nvim:
   description: ""
   pname: vimplugin-none-ls.nvim
-  version: "2025-08-05"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.nord-nvim:
   description: ""
   pname: vimplugin-nord.nvim
@@ -326197,7 +324941,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvchad:
 legacyPackages.x86_64-linux.vimPlugins.nvchad-ui:
   description: ""
   pname: vimplugin-nvchad-ui
-  version: "2025-08-08"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.nvcode-color-schemes-vim:
   description: ""
   pname: vimplugin-nvcode-color-schemes.vim
@@ -326273,7 +325017,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-cursorline:
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap:
   description: ""
   pname: vimplugin-nvim-dap
-  version: "2025-08-19"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-cortex-debug:
   description: ""
   pname: vimplugin-nvim-dap-cortex-debug
@@ -326289,7 +325033,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-dap-lldb:
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-python:
   description: ""
   pname: vimplugin-nvim-dap-python
-  version: "2025-08-21"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-rego:
   description: ""
   pname: vimplugin-nvim-dap-rego
@@ -326305,7 +325049,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-dap-ui:
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-view:
   description: ""
   pname: vimplugin-nvim-dap-view
-  version: "2025-08-19"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.nvim-dap-virtual-text:
   description: ""
   pname: vimplugin-nvim-dap-virtual-text
@@ -326325,7 +325069,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-docs-view:
 legacyPackages.x86_64-linux.vimPlugins.nvim-early-retirement:
   description: ""
   pname: vimplugin-nvim-early-retirement
-  version: "2025-08-19"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.nvim-expand-expr:
   description: ""
   pname: vimplugin-nvim-expand-expr
@@ -326345,7 +325089,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-gdb:
 legacyPackages.x86_64-linux.vimPlugins.nvim-genghis:
   description: ""
   pname: vimplugin-nvim-genghis
-  version: "2025-08-18"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.nvim-gomove:
   description: ""
   pname: vimplugin-nvim-gomove
@@ -326397,7 +325141,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-java-test:
 legacyPackages.x86_64-linux.vimPlugins.nvim-jdtls:
   description: ""
   pname: vimplugin-nvim-jdtls
-  version: "2025-06-13"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.nvim-jqx:
   description: ""
   pname: vimplugin-nvim-jqx
@@ -326429,7 +325173,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-lilypond-suite:
 legacyPackages.x86_64-linux.vimPlugins.nvim-lint:
   description: ""
   pname: vimplugin-nvim-lint
-  version: "2025-08-21"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-file-operations:
   description: ""
   pname: vimplugin-nvim-lsp-file-operations
@@ -326445,7 +325189,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-ts-utils:
 legacyPackages.x86_64-linux.vimPlugins.nvim-lspconfig:
   description: ""
   pname: vimplugin-nvim-lspconfig
-  version: "2025-08-21"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.nvim-lsputils:
   description: ""
   pname: vimplugin-nvim-lsputils
@@ -326505,7 +325249,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-numbertoggle:
 legacyPackages.x86_64-linux.vimPlugins.nvim-origami:
   description: ""
   pname: vimplugin-nvim-origami
-  version: "2025-08-19"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.nvim-osc52:
   description: ""
   pname: vimplugin-nvim-osc52
@@ -326513,7 +325257,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-osc52:
 legacyPackages.x86_64-linux.vimPlugins.nvim-paredit:
   description: ""
   pname: vimplugin-nvim-paredit
-  version: "2025-07-21"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.nvim-parinfer:
   description: ""
   pname: vimplugin-nvim-parinfer
@@ -326541,11 +325285,11 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-rg:
 legacyPackages.x86_64-linux.vimPlugins.nvim-rip-substitute:
   description: ""
   pname: vimplugin-nvim-rip-substitute
-  version: "2025-08-18"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.nvim-scissors:
   description: ""
   pname: vimplugin-nvim-scissors
-  version: "2025-08-02"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.nvim-scrollbar:
   description: ""
   pname: vimplugin-nvim-scrollbar
@@ -326581,11 +325325,11 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-spectre:
 legacyPackages.x86_64-linux.vimPlugins.nvim-spider:
   description: ""
   pname: vimplugin-nvim-spider
-  version: "2025-08-18"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.nvim-surround:
   description: ""
   pname: vimplugin-nvim-surround
-  version: "2025-08-18"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.nvim-teal-maker:
   description: ""
   pname: vimplugin-nvim-teal-maker
@@ -326601,11 +325345,11 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-test:
 legacyPackages.x86_64-linux.vimPlugins.nvim-tinygit:
   description: ""
   pname: vimplugin-nvim-tinygit
-  version: "2025-08-18"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.nvim-tree-lua:
   description: ""
   pname: vimplugin-nvim-tree.lua
-  version: "2025-08-20"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter:
   description: ""
   pname: vimplugin-nvim-treesitter
@@ -327953,7 +326697,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvim-unity:
 legacyPackages.x86_64-linux.vimPlugins.nvim-various-textobjs:
   description: ""
   pname: vimplugin-nvim-various-textobjs
-  version: "2025-08-19"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.nvim-vtsls:
   description: ""
   pname: vimplugin-nvim-vtsls
@@ -328005,7 +326749,7 @@ legacyPackages.x86_64-linux.vimPlugins.nvzone-volt:
 legacyPackages.x86_64-linux.vimPlugins.obsidian-nvim:
   description: ""
   pname: vimplugin-obsidian.nvim
-  version: "2025-08-21"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.oceanic-material:
   description: ""
   pname: vimplugin-oceanic-material
@@ -328085,7 +326829,7 @@ legacyPackages.x86_64-linux.vimPlugins.open-browser-vim:
 legacyPackages.x86_64-linux.vimPlugins.opencode-nvim:
   description: ""
   pname: vimplugin-opencode.nvim
-  version: "2025-08-21"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.openingh-nvim:
   description: ""
   pname: vimplugin-openingh.nvim
@@ -328093,11 +326837,11 @@ legacyPackages.x86_64-linux.vimPlugins.openingh-nvim:
 legacyPackages.x86_64-linux.vimPlugins.openscad-nvim:
   description: ""
   pname: vimplugin-openscad.nvim
-  version: "2025-04-04"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.org-roam-nvim:
   description: ""
   pname: vimplugin-org-roam.nvim
-  version: "2025-08-12"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.orgmode:
   description: Orgmode clone written in Lua for Neovim 0.10.0+.
   pname: vimplugin-luajit2.1-orgmode
@@ -328149,7 +326893,7 @@ legacyPackages.x86_64-linux.vimPlugins.papercolor-theme:
 legacyPackages.x86_64-linux.vimPlugins.papercolor-theme-slim:
   description: ""
   pname: vimplugin-papercolor-theme-slim
-  version: "2025-06-02"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.papis-nvim:
   description: Manage your bibliography from within your favourite editor
   pname: vimplugin-luajit2.1-papis.nvim
@@ -328177,7 +326921,7 @@ legacyPackages.x86_64-linux.vimPlugins.patterns-nvim:
 legacyPackages.x86_64-linux.vimPlugins.pckr-nvim:
   description: ""
   pname: vimplugin-pckr.nvim
-  version: "2025-06-11"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.pear-tree:
   description: ""
   pname: vimplugin-pear-tree
@@ -328253,7 +326997,7 @@ legacyPackages.x86_64-linux.vimPlugins.poimandres-nvim:
 legacyPackages.x86_64-linux.vimPlugins.polyglot:
   description: ""
   pname: vimplugin-vim-polyglot
-  version: "2024-12-04"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.pomo-nvim:
   description: ""
   pname: vimplugin-pomo.nvim
@@ -328301,7 +327045,7 @@ legacyPackages.x86_64-linux.vimPlugins.prev_indent:
 legacyPackages.x86_64-linux.vimPlugins.project-nvim:
   description: ""
   pname: vimplugin-project.nvim
-  version: "2025-08-21"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.projections-nvim:
   description: ""
   pname: vimplugin-projections.nvim
@@ -328345,7 +327089,7 @@ legacyPackages.x86_64-linux.vimPlugins.qmk-nvim:
 legacyPackages.x86_64-linux.vimPlugins.quarto-nvim:
   description: ""
   pname: vimplugin-quarto-nvim
-  version: "2025-04-10"
+  version: "2025-08-23"
 legacyPackages.x86_64-linux.vimPlugins.quick-scope:
   description: ""
   pname: vimplugin-quick-scope
@@ -328353,7 +327097,7 @@ legacyPackages.x86_64-linux.vimPlugins.quick-scope:
 legacyPackages.x86_64-linux.vimPlugins.quicker-nvim:
   description: ""
   pname: vimplugin-quicker.nvim
-  version: "2025-05-15"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.quickfix-reflector-vim:
   description: ""
   pname: vimplugin-quickfix-reflector.vim
@@ -328433,7 +327177,7 @@ legacyPackages.x86_64-linux.vimPlugins.remember-nvim:
 legacyPackages.x86_64-linux.vimPlugins.remote-nvim-nvim:
   description: ""
   pname: vimplugin-remote-nvim.nvim
-  version: "2025-08-21"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.remote-sshfs-nvim:
   description: ""
   pname: vimplugin-remote-sshfs.nvim
@@ -328445,7 +327189,7 @@ legacyPackages.x86_64-linux.vimPlugins.renamer-nvim:
 legacyPackages.x86_64-linux.vimPlugins.render-markdown-nvim:
   description: ""
   pname: vimplugin-render-markdown.nvim
-  version: "2025-08-21"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.repeat:
   description: ""
   pname: vimplugin-vim-repeat
@@ -328505,7 +327249,7 @@ legacyPackages.x86_64-linux.vimPlugins.ron-vim:
 legacyPackages.x86_64-linux.vimPlugins.rose-pine:
   description: ""
   pname: vimplugin-rose-pine
-  version: "2025-07-18"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.roslyn-nvim:
   description: ""
   pname: vimplugin-roslyn.nvim
@@ -328653,7 +327397,7 @@ legacyPackages.x86_64-linux.vimPlugins.smart-open-nvim:
 legacyPackages.x86_64-linux.vimPlugins.smart-splits-nvim:
   description: ""
   pname: vimplugin-smart-splits.nvim
-  version: "2025-08-15"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.smartcolumn-nvim:
   description: ""
   pname: vimplugin-smartcolumn.nvim
@@ -328721,7 +327465,7 @@ legacyPackages.x86_64-linux.vimPlugins.sonokai:
 legacyPackages.x86_64-linux.vimPlugins.sort-nvim:
   description: ""
   pname: vimplugin-sort.nvim
-  version: "2025-08-15"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.sourcemap:
   description: ""
   pname: vimplugin-sourcemap.vim
@@ -329285,7 +328029,7 @@ legacyPackages.x86_64-linux.vimPlugins.treesj:
 legacyPackages.x86_64-linux.vimPlugins.treewalker-nvim:
   description: ""
   pname: vimplugin-treewalker.nvim
-  version: "2025-07-31"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.tremor-vim:
   description: ""
   pname: vimplugin-tremor-vim
@@ -329297,7 +328041,7 @@ legacyPackages.x86_64-linux.vimPlugins.trim-nvim:
 legacyPackages.x86_64-linux.vimPlugins.triptych-nvim:
   description: ""
   pname: vimplugin-triptych.nvim
-  version: "2025-05-18"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.trouble-nvim:
   description: ""
   pname: vimplugin-trouble.nvim
@@ -329377,7 +328121,7 @@ legacyPackages.x86_64-linux.vimPlugins.typstwatch-nvim:
 legacyPackages.x86_64-linux.vimPlugins.ultimate-autopair-nvim:
   description: ""
   pname: vimplugin-ultimate-autopair.nvim
-  version: "2025-08-17"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.ultisnips:
   description: ""
   pname: vimplugin-ultisnips
@@ -329405,7 +328149,7 @@ legacyPackages.x86_64-linux.vimPlugins.unimpaired-which-key-nvim:
 legacyPackages.x86_64-linux.vimPlugins.unison:
   description: ""
   pname: vimplugin-unison
-  version: "2025-08-19"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.unite:
   description: ""
   pname: vimplugin-unite.vim
@@ -329441,7 +328185,7 @@ legacyPackages.x86_64-linux.vimPlugins.vader-vim:
 legacyPackages.x86_64-linux.vimPlugins.vague-nvim:
   description: ""
   pname: vimplugin-vague.nvim
-  version: "2025-08-20"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.vectorcode-nvim:
   description: Index and navigate your code repository using vectorcode
   pname: vimplugin-vectorcode.nvim
@@ -329457,7 +328201,7 @@ legacyPackages.x86_64-linux.vimPlugins.verilog_systemverilog-vim:
 legacyPackages.x86_64-linux.vimPlugins.vifm-vim:
   description: ""
   pname: vimplugin-vifm.vim
-  version: "2025-07-24"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.vim-CtrlXA:
   description: ""
   pname: vimplugin-vim-CtrlXA
@@ -329845,7 +328589,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-completion:
 legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-ui:
   description: ""
   pname: vimplugin-vim-dadbod-ui
-  version: "2025-06-02"
+  version: "2025-08-24"
 legacyPackages.x86_64-linux.vimPlugins.vim-dasht:
   description: ""
   pname: vimplugin-vim-dasht
@@ -330081,7 +328825,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-gitbranch:
 legacyPackages.x86_64-linux.vimPlugins.vim-gitgutter:
   description: ""
   pname: vimplugin-vim-gitgutter
-  version: "2025-05-26"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.vim-github-dashboard:
   description: ""
   pname: vimplugin-vim-github-dashboard
@@ -330109,7 +328853,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-grammarous:
 legacyPackages.x86_64-linux.vimPlugins.vim-graphql:
   description: ""
   pname: vimplugin-vim-graphql
-  version: "2025-05-25"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.vim-grepper:
   description: ""
   pname: vimplugin-vim-grepper
@@ -330129,7 +328873,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-gutentags:
 legacyPackages.x86_64-linux.vimPlugins.vim-habamax:
   description: ""
   pname: vimplugin-vim-habamax
-  version: "2025-08-18"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.vim-hardtime:
   description: ""
   pname: vimplugin-vim-hardtime
@@ -330445,7 +329189,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-matchtag:
 legacyPackages.x86_64-linux.vimPlugins.vim-matchup:
   description: ""
   pname: vimplugin-vim-matchup
-  version: "2025-08-14"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.vim-mediawiki-editor:
   description: ""
   pname: vimplugin-vim-mediawiki-editor
@@ -330673,7 +329417,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-pluto:
 legacyPackages.x86_64-linux.vimPlugins.vim-polyglot:
   description: ""
   pname: vimplugin-vim-polyglot
-  version: "2024-12-04"
+  version: "2025-08-27"
 legacyPackages.x86_64-linux.vimPlugins.vim-pony:
   description: ""
   pname: vimplugin-vim-pony
@@ -330705,7 +329449,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-projectionist:
 legacyPackages.x86_64-linux.vimPlugins.vim-prosession:
   description: ""
   pname: vimplugin-vim-prosession
-  version: "2024-06-13"
+  version: "2025-08-22"
 legacyPackages.x86_64-linux.vimPlugins.vim-protobuf:
   description: ""
   pname: vimplugin-vim-protobuf
@@ -330841,7 +329585,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-signature:
 legacyPackages.x86_64-linux.vimPlugins.vim-signify:
   description: ""
   pname: vimplugin-vim-signify
-  version: "2025-07-28"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.vim-sile:
   description: ""
   pname: vimplugin-vim-sile
@@ -330861,7 +329605,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-sleuth:
 legacyPackages.x86_64-linux.vimPlugins.vim-slime:
   description: ""
   pname: vimplugin-vim-slime
-  version: "2025-04-22"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.vim-smali:
   description: ""
   pname: vimplugin-vim-smali
@@ -330917,11 +329661,11 @@ legacyPackages.x86_64-linux.vimPlugins.vim-speeddating:
 legacyPackages.x86_64-linux.vimPlugins.vim-spirv:
   description: ""
   pname: vimplugin-vim-spirv
-  version: "2025-08-20"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.vim-splunk:
   description: ""
   pname: vimplugin-vim-splunk
-  version: "2024-08-10"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPlugins.vim-startify:
   description: ""
   pname: vimplugin-vim-startify
@@ -331005,7 +329749,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-terraform-completion:
 legacyPackages.x86_64-linux.vimPlugins.vim-test:
   description: ""
   pname: vimplugin-vim-test
-  version: "2025-08-20"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.vim-textobj-comment:
   description: ""
   pname: vimplugin-vim-textobj-comment
@@ -331037,7 +329781,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-textobj-variable-segment:
 legacyPackages.x86_64-linux.vimPlugins.vim-themis:
   description: ""
   pname: vimplugin-vim-themis
-  version: "2024-04-06"
+  version: "2025-08-29"
 legacyPackages.x86_64-linux.vimPlugins.vim-tmux:
   description: ""
   pname: vimplugin-vim-tmux
@@ -331145,7 +329889,7 @@ legacyPackages.x86_64-linux.vimPlugins.vim-vue-plugin:
 legacyPackages.x86_64-linux.vimPlugins.vim-wakatime:
   description: ""
   pname: vimplugin-vim-wakatime
-  version: "2025-07-27"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.vim-watchdogs:
   description: ""
   pname: vimplugin-vim-watchdogs
@@ -331265,11 +330009,11 @@ legacyPackages.x86_64-linux.vimPlugins.vimshell-vim:
 legacyPackages.x86_64-linux.vimPlugins.vimspector:
   description: ""
   pname: vimplugin-vimspector
-  version: "2025-07-24"
+  version: "2025-08-26"
 legacyPackages.x86_64-linux.vimPlugins.vimtex:
   description: ""
   pname: vimplugin-vimtex
-  version: "2025-08-17"
+  version: "2025-08-23"
 legacyPackages.x86_64-linux.vimPlugins.vimux:
   description: ""
   pname: vimplugin-vimux
@@ -331453,7 +330197,7 @@ legacyPackages.x86_64-linux.vimPlugins.yats-vim:
 legacyPackages.x86_64-linux.vimPlugins.yazi-nvim:
   description: ""
   pname: vimplugin-yazi.nvim
-  version: "2025-08-21"
+  version: "2025-08-28"
 legacyPackages.x86_64-linux.vimPlugins.yescapsquit-vim:
   description: ""
   pname: vimplugin-yescapsquit.vim
@@ -331517,7 +330261,7 @@ legacyPackages.x86_64-linux.vimPlugins.zotcite:
 legacyPackages.x86_64-linux.vimPlugins.zoxide-vim:
   description: ""
   pname: vimplugin-zoxide.vim
-  version: "2023-10-23"
+  version: "2025-08-25"
 legacyPackages.x86_64-linux.vimPluginsUpdater:
   description: ""
   pname: vim-plugins-updater
@@ -331825,7 +330569,7 @@ legacyPackages.x86_64-linux.vkbasalt-cli:
 legacyPackages.x86_64-linux.vkd3d:
   description: Direct3D to Vulkan translation library
   pname: vkd3d
-  version: "1.15"
+  version: "1.17"
 legacyPackages.x86_64-linux.vkd3d-proton:
   description: Fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan
   pname: vkd3d-proton
@@ -332074,10 +330818,6 @@ legacyPackages.x86_64-linux.vowpal-wabbit:
   description: Machine learning system focused on online reinforcement learning
   pname: vowpal-wabbit
   version: 9.10.0
-legacyPackages.x86_64-linux.voxelands:
-  description: Infinite-world block sandbox game based on Minetest
-  pname: voxelands
-  version: "1704.00"
 legacyPackages.x86_64-linux.voxinput:
   description: Voice to text for any Linux app via dotool/uinput and the LocalAI/OpenAI transcription API
   pname: voxinput
@@ -336013,11 +334753,11 @@ legacyPackages.x86_64-linux.wiper:
 legacyPackages.x86_64-linux.wire:
   description: Code generation tool that automates connecting components using dependency injection
   pname: wire
-  version: 0.6.0
+  version: 0.7.0
 legacyPackages.x86_64-linux.wire-desktop:
   description: Modern, secure messenger for everyone
   pname: wire-desktop
-  version: 3.39.3653
+  version: 3.40.3718
 legacyPackages.x86_64-linux.wired:
   description: Lightweight notification daemon written in Rust
   pname: wired
@@ -341213,7 +339953,7 @@ legacyPackages.x86_64-linux.zed-discord-presence:
 legacyPackages.x86_64-linux.zed-editor:
   description: High-performance, multiplayer code editor from the creators of Atom and Tree-sitter
   pname: zed-editor
-  version: 0.201.6
+  version: 0.201.8
 legacyPackages.x86_64-linux.zed-editor-fhs:
   description: 'Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: zeditor
