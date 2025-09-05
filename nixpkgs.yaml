@@ -173,7 +173,7 @@ legacyPackages.x86_64-linux.Literate:
 legacyPackages.x86_64-linux.LycheeSlicer:
   description: All-in-one 3D slicer for resin and FDM printers
   pname: LycheeSlicer
-  version: 7.4.3
+  version: 7.4.4
 legacyPackages.x86_64-linux.MACS2:
   description: Model-based Analysis for ChIP-Seq
   pname: python3.11-macs2
@@ -401,7 +401,7 @@ legacyPackages.x86_64-linux._389-ds-base:
 legacyPackages.x86_64-linux._3cpio:
   description: Manage initrd cpio archives
   pname: 3cpio
-  version: 0.10.2
+  version: 0.11.0
 legacyPackages.x86_64-linux._3llo:
   description: Trello interactive CLI on terminal
   pname: 3llo
@@ -3749,7 +3749,7 @@ legacyPackages.x86_64-linux.android-file-transfer:
 legacyPackages.x86_64-linux.android-studio:
   description: Official IDE for Android (stable channel)
   pname: android-studio-stable
-  version: 2025.1.2.12
+  version: 2025.1.3.7
 legacyPackages.x86_64-linux.android-studio-for-platform:
   description: Official IDE for Android platform development
   pname: android-studio-for-platform
@@ -3757,7 +3757,7 @@ legacyPackages.x86_64-linux.android-studio-for-platform:
 legacyPackages.x86_64-linux.android-studio-full:
   description: Official IDE for Android (stable channel)
   pname: android-studio-stable
-  version: 2025.1.2.12
+  version: 2025.1.3.7
 legacyPackages.x86_64-linux.android-studio-tools:
   description: Android Studio CLI Tools
   pname: android-studio-tools
@@ -3797,7 +3797,7 @@ legacyPackages.x86_64-linux.androidStudioPackages.dev:
 legacyPackages.x86_64-linux.androidStudioPackages.stable:
   description: Official IDE for Android (stable channel)
   pname: android-studio-stable
-  version: 2025.1.2.12
+  version: 2025.1.3.7
 legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v10.google_apis:
   description: Android SDK tools, packaged in Nixpkgs
   pname: google_apis
@@ -7334,10 +7334,6 @@ legacyPackages.x86_64-linux.aravis:
   description: Library for video acquisition using GenICam cameras
   pname: aravis
   version: 0.8.35
-legacyPackages.x86_64-linux.arc-browser:
-  description: Arc from The Browser Company
-  pname: arc-browser
-  version: 1.109.0-67185
 legacyPackages.x86_64-linux.arc-icon-theme:
   description: Arc icon theme
   pname: arc-icon-theme
@@ -7613,7 +7609,7 @@ legacyPackages.x86_64-linux.ark-pixel-font:
 legacyPackages.x86_64-linux.arkade:
   description: Open Source Kubernetes Marketplace
   pname: arkade
-  version: 0.11.41
+  version: 0.11.43
 legacyPackages.x86_64-linux.arkenfox-userjs:
   description: Comprehensive user.js template for configuration and hardening
   pname: arkenfox-userjs
@@ -9705,7 +9701,7 @@ legacyPackages.x86_64-linux.azure-artifacts-credprovider:
 legacyPackages.x86_64-linux.azure-cli:
   description: Next generation multi-platform command line experience for Azure
   pname: azure-cli
-  version: 2.75.0
+  version: 2.77.0
 legacyPackages.x86_64-linux.azure-cli-extensions.acat:
   description: Microsoft Azure Command-Line Tools Acat Extension
   pname: python3.13-acat
@@ -10873,7 +10869,7 @@ legacyPackages.x86_64-linux.bashmount:
 legacyPackages.x86_64-linux.bashplotlib:
   description: Plotting in the terminal
   pname: bashplotlib
-  version: "2021-03-31"
+  version: 0.6.5-unstable-2021-03-31
 legacyPackages.x86_64-linux.bashrun2:
   description: Application launcher based on a modified bash session in a small terminal window
   pname: bashrun2
@@ -13045,7 +13041,7 @@ legacyPackages.x86_64-linux.bolt:
 legacyPackages.x86_64-linux.bolt-launcher:
   description: Alternative launcher for RuneScape
   pname: bolt-launcher
-  version: 0.19.0
+  version: 0.19.1
 legacyPackages.x86_64-linux.bolt_19:
   description: LLVM post-link optimizer
   pname: bolt
@@ -13057,7 +13053,7 @@ legacyPackages.x86_64-linux.bolt_20:
 legacyPackages.x86_64-linux.bolt_21:
   description: LLVM post-link optimizer
   pname: bolt
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.boltbrowser:
   description: CLI Browser for BoltDB files
   pname: boltbrowser
@@ -13301,7 +13297,7 @@ legacyPackages.x86_64-linux.boron:
 legacyPackages.x86_64-linux.bosh-cli:
   description: Command line interface to CloudFoundry BOSH
   pname: bosh-cli
-  version: 7.9.9
+  version: 7.9.10
 legacyPackages.x86_64-linux.bossa:
   description: Flash programming utility for Atmel's SAM family of flash-based ARM microcontrollers
   pname: bossa
@@ -13701,7 +13697,7 @@ legacyPackages.x86_64-linux.brscan5:
 legacyPackages.x86_64-linux.bruijn:
   description: Purely functional programming language based on lambda calculus and de Bruijn indices
   pname: bruijn
-  version: 0-unstable-2025-06-23
+  version: 0-unstable-2025-09-02
 legacyPackages.x86_64-linux.bruno:
   description: Open-source IDE For exploring and testing APIs
   pname: bruno
@@ -14309,7 +14305,7 @@ legacyPackages.x86_64-linux.bunyan-rs:
 legacyPackages.x86_64-linux.bup:
   description: Efficient file backup system based on the git packfile format
   pname: bup
-  version: 0.33.8
+  version: 0.33.9
 legacyPackages.x86_64-linux.bupc:
   description: Compiler for the Berkely Unified Parallel C language
   pname: berkeley_upc
@@ -17081,7 +17077,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.ansi-escape-sequences:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.apropos:
   description: CHICKEN apropos
   pname: chicken-apropos
-  version: 3.11.2
+  version: 3.11.3
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.arcadedb:
   description: An ArcadeDB database driver for CHICKEN Scheme.
   pname: chicken-arcadedb
@@ -17105,7 +17101,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.autocompile:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.awful:
   description: awful provides an application and an extension to ease the development of web-based applications.
   pname: chicken-awful
-  version: 1.0.3
+  version: 1.0.4
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.awful-main:
   description: Turn awful web applications into static executables
   pname: chicken-awful-main
@@ -17121,7 +17117,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.awful-postgresql:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.awful-salmonella-tar:
   description: Serve salmonella report files out of tar archives
   pname: chicken-awful-salmonella-tar
-  version: 0.0.4
+  version: 0.0.5
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.awful-sql-de-lite:
   description: sql-de-lite support for awful
   pname: chicken-awful-sql-de-lite
@@ -17193,11 +17189,11 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.bitwise-utils:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.blas:
   description: An interface to level 1, 2 and 3 BLAS routines
   pname: chicken-blas
-  version: "4.5"
+  version: "5.1"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.blob-utils:
   description: Blob Utilities
   pname: chicken-blob-utils
-  version: 2.0.4
+  version: 2.0.5
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.bloom-filter:
   description: Bloom Filter
   pname: chicken-bloom-filter
@@ -17213,7 +17209,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.botan:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.box:
   description: Boxing
   pname: chicken-box
-  version: 3.8.1
+  version: 3.9.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.breadcrumbs:
   description: Breadcrumbs for web pages
   pname: chicken-breadcrumbs
@@ -17274,6 +17270,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.chibi-generic:
   description: Chibi Scheme's simple generic function interface
   pname: chicken-chibi-generic
   version: 0.1.3
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.chiccup:
+  description: Chiccup - HTML generation using sxml-transforms
+  pname: chicken-chiccup
+  version: 0.1.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.chickadee:
   description: chicken-doc web server
   pname: chicken-chickadee
@@ -17377,7 +17377,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.coops:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.coops-utils:
   description: coops utilities
   pname: chicken-coops-utils
-  version: 2.3.0
+  version: 2.3.2
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.crc:
   description: Computes CRC checksum
   pname: chicken-crc
@@ -17481,7 +17481,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.dyn-vector:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.dynamic-import:
   description: Dynamic Import
   pname: chicken-dynamic-import
-  version: 1.0.2
+  version: 1.1.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.edn:
   description: EDN data reader/writer.
   pname: chicken-edn
@@ -17493,7 +17493,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.edward:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.egg-tarballs:
   description: Creates tarballs for eggs in henrietta cache
   pname: chicken-egg-tarballs
-  version: 1.0.1
+  version: 1.1.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.elliptic-curves:
   description: Arithmetic and Cryptography on Elliptic Curve Groups over Finite Fields
   pname: chicken-elliptic-curves
@@ -17505,7 +17505,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.endian-blob:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.endian-port:
   description: An I/O port that supports different endian formats.
   pname: chicken-endian-port
-  version: "4.0"
+  version: "4.1"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.envsubst:
   description: Simple templating with parameter expansion
   pname: chicken-envsubst
@@ -17521,7 +17521,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.epoxy:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.error-utils:
   description: Error Utilities
   pname: chicken-error-utils
-  version: 2.1.0
+  version: 2.1.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.ersatz:
   description: A template engine inspired by Jinja2 and Jingoo.
   pname: chicken-ersatz
@@ -17564,7 +17564,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.fast-generic:
   version: "0.7"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.fcp:
   description: Very basic interface to freenet FCP
-  pname: chicken-fcp-v0.8
+  pname: chicken-fcp-v0.9
   version: ""
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.feature-test:
   description: Foreign feature testing
@@ -17581,7 +17581,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.fix-me-now:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.fmt:
   description: Combinator Formatting
   pname: chicken-fmt
-  version: 0.8.11.2
+  version: 0.8.11.3
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.foof-loop:
   description: Extensible looping macros (originally based on Alex Shinn's)
   pname: chicken-foof-loop
@@ -17597,7 +17597,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.foreigners:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.format:
   description: Common-Lisp style formatted output
   pname: chicken-format
-  version: 3.2.3
+  version: 3.2.4
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.fp-utils:
   description: fp utilities
   pname: chicken-fp-utils
@@ -17641,7 +17641,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.genann:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.generalized-arrays:
   description: Provides generalized arrays, intervals, and storage classes for CHICKEN Scheme.
   pname: chicken-generalized-arrays
-  version: 2.1.0
+  version: 2.1.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.generics:
   description: an implementation of generic functions and a lot of helpers
   pname: chicken-generics
@@ -17682,6 +17682,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.glls:
   description: A compiler for a Scheme-like language targeting the GLSL
   pname: chicken-glls
   version: 0.12.2
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.glut:
+  description: GLUT bindings
+  pname: chicken-glut
+  version: "1.20"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.gmi:
   description: Gemtext reader and writer
   pname: chicken-gmi
@@ -17765,7 +17769,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.http-client:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.http-session:
   description: Facilities for managing HTTP sessions
   pname: chicken-http-session
-  version: "2.10"
+  version: "2.11"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.hyde:
   description: A static website compiler
   pname: chicken-hyde
@@ -17829,7 +17833,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.ioctl:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.ipfs:
   description: IPFS HTTP API for Scheme
   pname: chicken-ipfs
-  version: 0.0.18
+  version: 0.0.20
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.irc:
   description: A simple IRC client
   pname: chicken-irc
@@ -17857,7 +17861,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.jsmin:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.json:
   description: A JSON library
   pname: chicken-json
-  version: "1.6"
+  version: "1.7"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.json-abnf:
   description: Parser combinators for JavaScript Object Notation (JSON).
   pname: chicken-json-abnf
@@ -17865,7 +17869,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.json-abnf:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.json-rpc:
   description: A JSON RPC library for R7RS scheme.
   pname: chicken-json-rpc
-  version: 0.4.5a
+  version: 0.5.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.json-utils:
   description: JSON Utilities
   pname: chicken-json-utils
@@ -17889,7 +17893,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.latch:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.lay:
   description: Lay eggs efficiently
   pname: chicken-lay
-  version: 0.3.1
+  version: 0.3.3
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.lazy-ffi:
   description: A foreign function interface for lazy programmers
   pname: chicken-lazy-ffi
@@ -17925,11 +17929,15 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.list-comprehensions:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.list-utils:
   description: list-utils
   pname: chicken-list-utils
-  version: 2.7.2
+  version: 2.8.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.live-define:
   description: Hack that replaces “define” with a version that mutates existing procedures.
   pname: chicken-live-define
   version: "1.1"
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.llama:
+  description: Inference with Llama2 model.
+  pname: chicken-llama
+  version: "1.2"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.llrb-syntax:
   description: Expands LLRB code customized to data structures.
   pname: chicken-llrb-syntax
@@ -17949,7 +17957,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.lmdb-ht:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.locale:
   description: Provides locale operations
   pname: chicken-locale
-  version: 0.9.5
+  version: 0.9.6
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.locals:
   description: local declarations inspired by ML
   pname: chicken-locals
@@ -17965,7 +17973,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.lowdown:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.lsp-server:
   description: LSP Server for CHICKEN.
   pname: chicken-lsp-server
-  version: 0.4.7
+  version: 0.4.8
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.macaw:
   description: Efficient color types and math
   pname: chicken-macaw
@@ -17981,7 +17989,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.magic-pipes:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.mailbox:
   description: Thread-safe queues with timeout
   pname: chicken-mailbox
-  version: 3.3.11
+  version: 3.3.12
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.make:
   description: The PLT 'make' macro
   pname: chicken-make
@@ -18001,7 +18009,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.markdown-svnwiki:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.match-generics:
   description: matchable generics
   pname: chicken-match-generics
-  version: "2.8"
+  version: "2.12"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.matchable:
   description: Hygienic MATCH replacement
   pname: chicken-matchable
@@ -18013,7 +18021,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.math:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.math-utils:
   description: Miscellaneous math utilities
   pname: chicken-math-utils
-  version: 1.7.0
+  version: 1.12.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.mathh:
   description: ISO C math functions and constants
   pname: chicken-mathh
@@ -18025,7 +18033,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.matrico:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.md2:
   description: Message Digest 2 algorithm as defined in RFC1319
   pname: chicken-md2
-  version: "1.3"
+  version: "1.4"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.md5:
   description: Computes MD5 (RFC1321) checksums
   pname: chicken-md5
@@ -18033,7 +18041,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.md5:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.mdh:
   description: interface to the MDH database
   pname: chicken-mdh
-  version: "0.2"
+  version: "0.3"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.medea:
   description: A JSON parser (and emitter) built with comparse
   pname: chicken-medea
@@ -18065,7 +18073,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.message-digest-type:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.message-digest-utils:
   description: Message Digest Support
   pname: chicken-message-digest-utils
-  version: 4.3.9
+  version: 4.4.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.messages:
   description: Creating algebraic- and abstract-types based on vectors
   pname: chicken-messages
@@ -18073,11 +18081,11 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.messages:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.micro-benchmark:
   description: Easily create micro-benchmarks
   pname: chicken-micro-benchmark
-  version: 0.0.21
+  version: 0.1.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.micro-stats:
   description: Easily create micro-stats
   pname: chicken-micro-stats
-  version: 0.2.1
+  version: 0.3.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.mini-kanren:
   description: Packages the canonical miniKanren implementation for CHICKEN Scheme.
   pname: chicken-mini-kanren
@@ -18165,11 +18173,15 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.nrepl:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.number-limits:
   description: Limit constants for numbers
   pname: chicken-number-limits
-  version: 3.0.9
+  version: 3.0.10
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.oauth:
   description: OAuth 1.0, 1.0a, RFC 5849
   pname: chicken-oauth
   version: "0.3"
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.oauthtoothy:
+  description: Oauth2 support for Schematra
+  pname: chicken-oauthtoothy
+  version: 0.1.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.object-evict:
   description: Evict data to unmanaged memory
   pname: chicken-object-evict
@@ -18181,7 +18193,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.opencl:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.opengl:
   description: OpenGL bindings
   pname: chicken-opengl
-  version: "1.21"
+  version: "1.22"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.openssl:
   description: Bindings to the OpenSSL SSL/TLS library
   pname: chicken-openssl
@@ -18197,7 +18209,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.optimism:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.packrat:
   description: A packrat parsing library
   pname: chicken-packrat
-  version: "1.5"
+  version: "1.6"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.pandoc:
   description: Call upon Pandoc to parse documents into SXML
   pname: chicken-pandoc
@@ -18265,7 +18277,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.posix-shm:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.posix-utils:
   description: posix-utils
   pname: chicken-posix-utils
-  version: 2.1.2
+  version: 2.1.5
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.postgresql:
   description: Bindings for PostgreSQL's C-api
   pname: chicken-postgresql
@@ -18273,7 +18285,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.postgresql:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.poule:
   description: Manage pools of worker processes
   pname: chicken-poule
-  version: 0.1.1
+  version: 0.1.3
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.prefixes:
   description: prefixing in er-macro-transformers made easy
   pname: chicken-prefixes
@@ -18317,7 +18329,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.pseudolists:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.pstk:
   description: 'PS/Tk: Portable Scheme interface to Tk'
   pname: chicken-pstk
-  version: 1.4.1
+  version: 1.4.2
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.pthreads:
   description: Maintain and talk to a pthread pool.
   pname: chicken-pthreads
@@ -18353,7 +18365,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.r6rs-bytevectors:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.r7rs:
   description: R7RS compatibility
   pname: chicken-r7rs
-  version: 1.0.10
+  version: 1.0.12
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.r7rs-tools:
   description: '"Pure" r7rs compiler and interpreter'
   pname: chicken-r7rs-tools
@@ -18397,7 +18409,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.regex-case:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.remote-mailbox:
   description: Remote Mailbox
   pname: chicken-remote-mailbox
-  version: 1.0.8
+  version: 1.0.9
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.rest-bind:
   description: Generates wrappers to REST-like HTTP APIs.
   pname: chicken-rest-bind
@@ -18437,7 +18449,11 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.s48-modules:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.s9fes-char-graphics:
   description: Scheme 9 from Empty Space Char Graphics
   pname: chicken-s9fes-char-graphics
-  version: 1.4.3
+  version: 1.19.0
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.s9fes-char-graphics-shapes:
+  description: Scheme 9 from Empty Space Char Graphics Shapes
+  pname: chicken-s9fes-char-graphics-shapes
+  version: 1.5.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.salmonella:
   description: A tool for testing eggs
   pname: chicken-salmonella
@@ -18470,6 +18486,18 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.schematic:
   description: Tools for Scheme development
   pname: chicken-schematic
   version: 0.3.2
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.schematra:
+  description: Schematra is a minimalistic web server built on top of spiffy
+  pname: chicken-schematra
+  version: 0.2.3
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.schematra-csrf:
+  description: schematra-csrf - Schematra middleware to add CSRF
+  pname: chicken-schematra-csrf
+  version: 0.1.1
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.schematra-session:
+  description: Session support for Schematra
+  pname: chicken-schematra-session
+  version: 0.1.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.scheme-indent:
   description: A Scheme code indenter
   pname: chicken-scheme-indent
@@ -18489,7 +18517,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.scmfmt:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.scsh-process:
   description: A reimplementation for CHICKEN of SCSH's process notation.
   pname: chicken-scsh-process
-  version: 1.6.0
+  version: 1.6.2
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.scss:
   description: ""
   pname: chicken-scss
@@ -18529,7 +18557,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.sequences-utils:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.server-test:
   description: Utilities to help testing servers
   pname: chicken-server-test
-  version: "0.6"
+  version: "0.7"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.sexp-diff:
   description: S-Expression diff algorithm
   pname: chicken-sexp-diff
@@ -18617,7 +18645,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.slib-arraymap:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.slib-charplot:
   description: The SLIB character plotting library
   pname: chicken-slib-charplot
-  version: 1.2.4
+  version: 1.3.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.slib-compat:
   description: CHICKEN SLIB compatibility library
   pname: chicken-slib-compat
@@ -18630,6 +18658,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.slice:
   description: A slicer procedure for lists, strings and vectors
   pname: chicken-slice
   version: "1.3"
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.slset:
+  description: Lists of symbols as sets
+  pname: chicken-slset
+  version: "0.1"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.smtp:
   description: Parser combinators and state machine for Simple Mail Transfer Protocol (RFC 5321).
   pname: chicken-smtp
@@ -18665,7 +18697,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.spiffy-cgi-handlers:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.spiffy-cookies:
   description: Procedures for managing cookies
   pname: chicken-spiffy-cookies
-  version: "1.2"
+  version: "1.3"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.spiffy-directory-listing:
   description: Flexible directory listing for Spiffy
   pname: chicken-spiffy-directory-listing
@@ -18673,7 +18705,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.spiffy-directory-listi
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.spiffy-request-vars:
   description: Easy access to variables from HTTP requests
   pname: chicken-spiffy-request-vars
-  version: "0.19"
+  version: "0.20"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.spiffy-sexpr-log:
   description: Symbolic expression log format for Spiffy
   pname: chicken-spiffy-sexpr-log
@@ -18713,7 +18745,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-1:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-101:
   description: SRFI 101
   pname: chicken-srfi
-  version: 101-0.0.3
+  version: 101-0.0.4
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-105:
   description: SRFI-105 - curly infix expressions
   pname: chicken-srfi
@@ -18725,7 +18757,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-111:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-113:
   description: 'SRFI-113: Sets and Bags'
   pname: chicken-srfi
-  version: 113-1.2.0
+  version: 113-1.2.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-115:
   description: 'SRFI 115: Scheme Regular Expressions'
   pname: chicken-srfi
@@ -18857,7 +18889,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-189:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-19:
   description: Time Data Types and Procedures
   pname: chicken-srfi
-  version: 19-4.10.2
+  version: 19-4.12.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-193:
   description: 'SRFI 193: Command line'
   pname: chicken-srfi
@@ -18866,6 +18898,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-194:
   description: Random data generators
   pname: chicken-srfi
   version: 194-1.0.0
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-195:
+  description: SRFI 195
+  pname: chicken-srfi
+  version: 195-0.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-196:
   description: 'SRFI-196: Range Objects'
   pname: chicken-srfi
@@ -18898,6 +18934,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-217:
   description: 'SRFI 217: Integer Sets'
   pname: chicken-srfi
   version: 217-0.2
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-225:
+  description: Generic Dictionaries
+  pname: chicken-srfi
+  version: 225-1.0.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-227:
   description: 'SRFI 227: Optional Arguments'
   pname: chicken-srfi
@@ -18905,7 +18945,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-227:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-228:
   description: Composing Comparators
   pname: chicken-srfi
-  version: 228-1.0.0
+  version: 228-1.0.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-232:
   description: 'SRFI 232: Flexible curried procedures'
   pname: chicken-srfi
@@ -18923,9 +18963,9 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-253:
   pname: chicken-srfi
   version: 253-0.1.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-259:
-  description: Tagged procedures with type safety
+  description: Tagged procedures with type safety (with SRFI-229 compatability)
   pname: chicken-srfi
-  version: 259-0.10.0
+  version: 259-1.1.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-27:
   description: Sources of Random Bits
   pname: chicken-srfi
@@ -18933,7 +18973,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-27:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-29:
   description: Localization
   pname: chicken-srfi
-  version: 29-3.1.0
+  version: 29-3.2.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-34:
   description: 'SRFI-34: Exception Handling for Programs'
   pname: chicken-srfi
@@ -18957,7 +18997,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-4-comprehensions:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-41:
   description: SRFI 41 (Streams)
   pname: chicken-srfi
-  version: 41-2.1.5
+  version: 41-2.3.2
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-42:
   description: SRFI-42 (Eager comprehensions)
   pname: chicken-srfi
@@ -18965,7 +19005,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-42:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-45:
   description: 'SRFI-45: Primitives for Expressing Iterative Lazy Algorithms'
   pname: chicken-srfi
-  version: 45-4.0.8
+  version: 45-4.0.9
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-47:
   description: 'SRFI-47: Arrays'
   pname: chicken-srfi
@@ -19006,6 +19046,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-69:
   description: SRFI-69 hash-table library
   pname: chicken-srfi
   version: 69-0.4.3
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-69-weak:
+  description: SRFI-69/90 hash-table library (w/ weak references)
+  pname: chicken-srfi
+  version: 69-weak-0.8.0
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-71:
   description: 'SRFI-71: Extended LET-syntax for multiple values'
   pname: chicken-srfi
@@ -19018,6 +19062,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-78:
   description: 'SRFI-78: Lightweight testing'
   pname: chicken-srfi
   version: 78-0.5
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-90:
+  description: SRFI-90 hash-table library
+  pname: chicken-srfi
+  version: 90-0.3.2
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.srfi-94:
   description: 'SRFI 94: Type-Restricted Numerical Functions'
   pname: chicken-srfi
@@ -19077,7 +19125,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.stfl:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.string-utils:
   description: String Utilities
   pname: chicken-string-utils
-  version: 2.7.5
+  version: 2.8.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.strse:
   description: A string DSL
   pname: chicken-strse
@@ -19105,7 +19153,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.svnwiki-sxml:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.svnwiki2html:
   description: A program to convert svnwiki syntax to HTML
   pname: chicken-svnwiki2html
-  version: 0.0.2
+  version: 0.0.3
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.sxml-modifications:
   description: The sxml-modification bits of sxml-tools from the SSAX project at Sourceforge
   pname: chicken-sxml-modifications
@@ -19177,7 +19225,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.test-new-egg:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.test-utils:
   description: Test Utilities (for test egg)
   pname: chicken-test-utils
-  version: 1.2.1
+  version: 1.6.1
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.this:
   description: Python's "this" module ported to CHICKEN
   pname: chicken-this
@@ -19185,7 +19233,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.this:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.thread-utils:
   description: Thread Utilities
   pname: chicken-thread-utils
-  version: 2.2.9
+  version: 2.2.10
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.tiger-hash:
   description: Tiger/192 Message Digest
   pname: chicken-tiger-hash
@@ -19193,7 +19241,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.tiger-hash:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.timed-resource:
   description: Resource w/ Timeout
   pname: chicken-timed-resource
-  version: 2.4.3
+  version: 2.4.4
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.tiny-prolog:
   description: Tiny PROLOG interpreter.
   pname: chicken-tiny-prolog
@@ -19269,7 +19317,7 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.unitconv:
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.unitex-named-chars:
   description: Unicode & LaTeX Named Chars
   pname: chicken-unitex-named-chars
-  version: 0.0.4
+  version: 0.0.5
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.unsafe:
   description: Unsafe operations
   pname: chicken-unsafe
@@ -19302,6 +19350,10 @@ legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.uuid-lib:
   description: OSF DCE 1.1 UUID
   pname: chicken-uuid-lib
   version: 0.0.16
+legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.vandusen:
+  description: A cheeky IRC bot
+  pname: chicken-vandusen
+  version: "0.15"
 legacyPackages.x86_64-linux.chickenPackages_5.chickenEggs.vector-lib:
   description: Port of the SRFI-43 reference implementation
   pname: chicken-vector-lib
@@ -19525,11 +19577,11 @@ legacyPackages.x86_64-linux.chrome-token-signing:
 legacyPackages.x86_64-linux.chromedriver:
   description: WebDriver server for running Selenium tests on Chrome
   pname: chromedriver-unwrapped
-  version: 139.0.7258.154
+  version: 140.0.7339.80
 legacyPackages.x86_64-linux.chromium:
   description: Open source web browser from Google
   pname: chromium
-  version: 139.0.7258.154
+  version: 140.0.7339.80
 legacyPackages.x86_64-linux.chromium-bsu:
   description: Fast paced, arcade-style, top-scrolling space shooter
   pname: chromium-bsu
@@ -20021,7 +20073,7 @@ legacyPackages.x86_64-linux.clang_20:
 legacyPackages.x86_64-linux.clang_21:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.clang_multi:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
@@ -20509,7 +20561,7 @@ legacyPackages.x86_64-linux.cloudcompare:
 legacyPackages.x86_64-linux.clouddrive2:
   description: Multi-cloud drives management tool supporting mounting cloud drives locally
   pname: clouddrive2
-  version: 0.9.5
+  version: 0.9.8
 legacyPackages.x86_64-linux.cloudflare-cli:
   description: CLI for interacting with Cloudflare
   pname: cloudflare-cli
@@ -20529,7 +20581,7 @@ legacyPackages.x86_64-linux.cloudflare-utils:
 legacyPackages.x86_64-linux.cloudflare-warp:
   description: Replaces the connection between your device and the Internet with a modern, optimized, protocol
   pname: cloudflare-warp
-  version: 2025.5.943
+  version: 2025.6.1335
 legacyPackages.x86_64-linux.cloudflared:
   description: Cloudflare Tunnel daemon, Cloudflare Access toolkit, and DNS-over-HTTPS client
   pname: cloudflared
@@ -21974,6 +22026,10 @@ legacyPackages.x86_64-linux.coqPackages.deriving:
   description: Generic instances of MathComp classes
   pname: coq9.0-deriving
   version: 0.2.2
+legacyPackages.x86_64-linux.coqPackages.dpdgraph:
+  description: Build dependency graphs between Coq objects
+  pname: coq9.0-dpdgraph
+  version: 1.0+9.0
 legacyPackages.x86_64-linux.coqPackages.equations:
   description: Plugin for Coq to add dependent pattern-matching
   pname: coq9.0-equations
@@ -22561,7 +22617,7 @@ legacyPackages.x86_64-linux.cosmic-player:
 legacyPackages.x86_64-linux.cosmic-protocols:
   description: Additional wayland-protocols used by the COSMIC desktop environment
   pname: cosmic-protocols
-  version: 0-unstable-2025-08-12
+  version: 0-unstable-2025-09-01
 legacyPackages.x86_64-linux.cosmic-randr:
   description: Library and utility for displaying and configuring Wayland outputs
   pname: cosmic-randr
@@ -23073,11 +23129,11 @@ legacyPackages.x86_64-linux.crex:
 legacyPackages.x86_64-linux.cri-o:
   description: 'Open Container Initiative-based implementation of the Kubernetes Container Runtime Interface '
   pname: cri-o-wrapper
-  version: 1.33.3
+  version: 1.33.4
 legacyPackages.x86_64-linux.cri-o-unwrapped:
   description: 'Open Container Initiative-based implementation of the Kubernetes Container Runtime Interface '
   pname: cri-o
-  version: 1.33.3
+  version: 1.33.4
 legacyPackages.x86_64-linux.cri-tools:
   description: CLI and validation tools for Kubelet Container Runtime Interface (CRI)
   pname: cri-tools
@@ -23237,7 +23293,7 @@ legacyPackages.x86_64-linux.crowbar:
 legacyPackages.x86_64-linux.crowdin-cli:
   description: Command-line client for the Crowdin API
   pname: crowdin-cli
-  version: 4.10.0
+  version: 4.11.0
 legacyPackages.x86_64-linux.crowdsec:
   description: Free, open-source and collaborative IPS
   pname: crowdsec
@@ -25893,7 +25949,7 @@ legacyPackages.x86_64-linux.dependabot-cli:
 legacyPackages.x86_64-linux.dependency-track:
   description: Intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain
   pname: dependency-track
-  version: 4.13.3
+  version: 4.13.4
 legacyPackages.x86_64-linux.dependency-track-exporter:
   description: Helper to export Prometheus metrics for Dependency-Track
   pname: dependency-track-exporter
@@ -28485,7 +28541,7 @@ legacyPackages.x86_64-linux.driversi686Linux.libvdpau-va-gl:
 legacyPackages.x86_64-linux.driversi686Linux.mesa:
   description: Open source 3D graphics library
   pname: mesa
-  version: 25.2.1
+  version: 25.2.2
 legacyPackages.x86_64-linux.driversi686Linux.mesa-demos:
   description: Collection of demos and test programs for OpenGL and Mesa
   pname: mesa-demos
@@ -28953,11 +29009,11 @@ legacyPackages.x86_64-linux.dvb-apps:
 legacyPackages.x86_64-linux.dvc:
   description: Version Control System for Machine Learning Projects
   pname: dvc
-  version: 3.61.0
+  version: 3.63.0
 legacyPackages.x86_64-linux.dvc-with-remotes:
   description: Version Control System for Machine Learning Projects
   pname: dvc
-  version: 3.61.0
+  version: 3.63.0
 legacyPackages.x86_64-linux.dvd-slideshow:
   description: Suite of command line programs that creates a slideshow-style video from groups of pictures
   pname: dvd-slideshow
@@ -30013,11 +30069,11 @@ legacyPackages.x86_64-linux.electricsheep:
 legacyPackages.x86_64-linux.electron:
   description: Cross platform desktop application shell
   pname: electron
-  version: 37.3.1
+  version: 37.4.0
 legacyPackages.x86_64-linux.electron-bin:
   description: Cross platform desktop application shell
   pname: electron
-  version: 37.3.1
+  version: 37.4.0
 legacyPackages.x86_64-linux.electron-cash:
   description: Bitcoin Cash SPV Wallet
   pname: electron-cash
@@ -30025,7 +30081,7 @@ legacyPackages.x86_64-linux.electron-cash:
 legacyPackages.x86_64-linux.electron-chromedriver:
   description: WebDriver server for running Selenium tests on Chrome
   pname: electron-chromedriver
-  version: 37.3.1
+  version: 37.4.0
 legacyPackages.x86_64-linux.electron-chromedriver_35:
   description: WebDriver server for running Selenium tests on Chrome
   pname: electron-chromedriver
@@ -30037,7 +30093,7 @@ legacyPackages.x86_64-linux.electron-chromedriver_36:
 legacyPackages.x86_64-linux.electron-chromedriver_37:
   description: WebDriver server for running Selenium tests on Chrome
   pname: electron-chromedriver
-  version: 37.3.1
+  version: 37.4.0
 legacyPackages.x86_64-linux.electron-fiddle:
   description: Easiest way to get started with Electron
   pname: electron-fiddle
@@ -30065,11 +30121,11 @@ legacyPackages.x86_64-linux.electron_36-bin:
 legacyPackages.x86_64-linux.electron_37:
   description: Cross platform desktop application shell
   pname: electron
-  version: 37.3.1
+  version: 37.4.0
 legacyPackages.x86_64-linux.electron_37-bin:
   description: Cross platform desktop application shell
   pname: electron
-  version: 37.3.1
+  version: 37.4.0
 legacyPackages.x86_64-linux.electrs:
   description: Efficient re-implementation of Electrum Server in Rust
   pname: electrs
@@ -30105,15 +30161,15 @@ legacyPackages.x86_64-linux.element-call:
 legacyPackages.x86_64-linux.element-desktop:
   description: Feature-rich client for Matrix.org
   pname: element-desktop
-  version: 1.11.109
+  version: 1.11.110
 legacyPackages.x86_64-linux.element-web:
   description: Glossy Matrix collaboration client for the web
   pname: element-web
-  version: 1.11.109
+  version: 1.11.110
 legacyPackages.x86_64-linux.element-web-unwrapped:
   description: Glossy Matrix collaboration client for the web
   pname: element-web
-  version: 1.11.109
+  version: 1.11.110
 legacyPackages.x86_64-linux.elementary-xfce-icon-theme:
   description: Elementary icons for Xfce and other GTK desktops like GNOME
   pname: elementary-xfce-icon-theme
@@ -31789,7 +31845,7 @@ legacyPackages.x86_64-linux.expliot:
 legacyPackages.x86_64-linux.exploitdb:
   description: Archive of public exploits and corresponding vulnerable software
   pname: exploitdb
-  version: "2025-08-27"
+  version: "2025-09-02"
 legacyPackages.x86_64-linux.exportarr:
   description: AIO Prometheus Exporter for Sonarr, Radarr or Lidarr
   pname: exportarr
@@ -31965,7 +32021,7 @@ legacyPackages.x86_64-linux.faad2:
 legacyPackages.x86_64-linux.faas-cli:
   description: Official CLI for OpenFaaS
   pname: faas-cli
-  version: 0.17.7
+  version: 0.17.8
 legacyPackages.x86_64-linux.faba-icon-theme:
   description: Sexy and modern icon theme with Tango influences
   pname: faba-icon-theme
@@ -32153,7 +32209,7 @@ legacyPackages.x86_64-linux.fail2ban:
 legacyPackages.x86_64-linux.faircamp:
   description: Self-hostable, statically generated bandcamp alternative
   pname: faircamp
-  version: 1.5.0
+  version: 1.6.0
 legacyPackages.x86_64-linux.fairfax:
   description: 6×12 bitmap font supporting many Unicode blocks & scripts as well as constructed scripts
   pname: open-relay-fairfax
@@ -32566,10 +32622,6 @@ legacyPackages.x86_64-linux.fbida:
   description: Image viewing and manipulation programs including fbi, fbgs, ida, exiftran and thumbnail.cgi
   pname: fbida
   version: "2.14"
-legacyPackages.x86_64-linux.fbjni:
-  description: Library designed to simplify the usage of the Java Native Interface
-  pname: fbjni
-  version: 0.5.1
 legacyPackages.x86_64-linux.fblog:
   description: Small command-line JSON log viewer
   pname: fblog
@@ -32957,7 +33009,7 @@ legacyPackages.x86_64-linux.fernglas:
 legacyPackages.x86_64-linux.feroxbuster:
   description: Recursive content discovery tool
   pname: feroxbuster
-  version: 2.11.0
+  version: 2.12.0
 legacyPackages.x86_64-linux.ferretdb:
   description: Truly Open Source MongoDB alternative
   pname: ferretdb
@@ -33317,7 +33369,7 @@ legacyPackages.x86_64-linux.filen-desktop:
 legacyPackages.x86_64-linux.files-cli:
   description: Files.com Command Line App for Windows, Linux, and macOS
   pname: files-cli
-  version: 2.15.85
+  version: 2.15.88
 legacyPackages.x86_64-linux.files-to-prompt:
   description: Concatenate a directory full of files into a single prompt for use with LLMs
   pname: files-to-prompt
@@ -33430,6 +33482,10 @@ legacyPackages.x86_64-linux.fingerprintx:
   description: Standalone utility for service discovery on open ports
   pname: fingerprintx
   version: 1.1.15
+legacyPackages.x86_64-linux.finit:
+  description: Fast init for Linux
+  pname: finit
+  version: "4.14"
 legacyPackages.x86_64-linux.fio:
   description: Flexible IO Tester - an IO benchmark tool
   pname: fio
@@ -33989,7 +34045,7 @@ legacyPackages.x86_64-linux.flang_20:
 legacyPackages.x86_64-linux.flang_21:
   description: LLVM-based Fortran frontend
   pname: flang
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.flann:
   description: Fast approximate nearest neighbor searches in high dimensional spaces
   pname: flann
@@ -34145,11 +34201,11 @@ legacyPackages.x86_64-linux.fldigi:
 legacyPackages.x86_64-linux.fleet:
   description: CLI tool to launch Fleet server
   pname: fleet
-  version: 4.71.1
+  version: 4.72.1
 legacyPackages.x86_64-linux.fleetctl:
   description: CLI tool for managing Fleet
   pname: fleetctl
-  version: 4.71.1
+  version: 4.72.1
 legacyPackages.x86_64-linux.fleeting-plugin-aws:
   description: GitLab fleeting plugin for AWS
   pname: fleeting-plugin-aws
@@ -34701,7 +34757,7 @@ legacyPackages.x86_64-linux.font-alias:
 legacyPackages.x86_64-linux.font-awesome:
   description: Font Awesome - OTF font
   pname: font-awesome
-  version: 6.7.2
+  version: 7.0.1
 legacyPackages.x86_64-linux.font-awesome_4:
   description: Font Awesome - OTF font
   pname: font-awesome
@@ -34714,6 +34770,10 @@ legacyPackages.x86_64-linux.font-awesome_6:
   description: Font Awesome - OTF font
   pname: font-awesome
   version: 6.7.2
+legacyPackages.x86_64-linux.font-awesome_7:
+  description: Font Awesome - OTF font
+  pname: font-awesome
+  version: 7.0.1
 legacyPackages.x86_64-linux.font-config-info:
   description: Prints a Linux system's font configuration
   pname: font-config-info
@@ -34861,7 +34921,7 @@ legacyPackages.x86_64-linux.forgejo:
 legacyPackages.x86_64-linux.forgejo-actions-runner:
   description: Runner for Forgejo based on act
   pname: forgejo-runner
-  version: 9.1.1
+  version: 10.0.1
 legacyPackages.x86_64-linux.forgejo-cli:
   description: CLI application for interacting with Forgejo
   pname: forgejo-cli
@@ -34873,7 +34933,7 @@ legacyPackages.x86_64-linux.forgejo-lts:
 legacyPackages.x86_64-linux.forgejo-runner:
   description: Runner for Forgejo based on act
   pname: forgejo-runner
-  version: 9.1.1
+  version: 10.0.1
 legacyPackages.x86_64-linux.fork-cleaner:
   description: Quickly clean up unused forks on your GitHub account
   pname: fork-cleaner
@@ -36233,7 +36293,7 @@ legacyPackages.x86_64-linux.garmintools:
 legacyPackages.x86_64-linux.garnet:
   description: Remote cache-store from Microsoft Research
   pname: garnet
-  version: 1.0.82
+  version: 1.0.83
 legacyPackages.x86_64-linux.gash:
   description: POSIX-compatible shell written in Guile Scheme
   pname: gash
@@ -37149,7 +37209,7 @@ legacyPackages.x86_64-linux.gepetto-viewer-corba:
 legacyPackages.x86_64-linux.geph:
   description: Modular Internet censorship circumvention system designed specifically to deal with national filtering
   pname: geph5
-  version: 0.2.82
+  version: 0.2.83
 legacyPackages.x86_64-linux.gephi:
   description: Platform for visualizing and manipulating large graphs
   pname: gephi
@@ -38682,10 +38742,6 @@ legacyPackages.x86_64-linux.gitui:
   description: Blazing fast terminal-ui for Git written in Rust
   pname: gitui
   version: 0.27.0
-legacyPackages.x86_64-linux.gitversion:
-  description: From git log to SemVer in no time
-  pname: dotnet-gitversion
-  version: 6.3.0
 legacyPackages.x86_64-linux.gitwatch:
   description: Watch a filesystem and automatically stage changes to a git
   pname: gitwatch
@@ -43837,7 +43893,7 @@ legacyPackages.x86_64-linux.go-mtpfs:
 legacyPackages.x86_64-linux.go-musicfox:
   description: Terminal netease cloud music client written in Go
   pname: go-musicfox
-  version: 4.6.6
+  version: 4.7.1
 legacyPackages.x86_64-linux.go-neb:
   description: Extensible matrix bot written in Go
   pname: go-neb-unstable
@@ -44561,7 +44617,7 @@ legacyPackages.x86_64-linux.gomuks-web:
 legacyPackages.x86_64-linux.gonic:
   description: Music streaming server / subsonic server API implementation
   pname: gonic
-  version: 0.16.4
+  version: 0.17.0
 legacyPackages.x86_64-linux.goobook:
   description: Access your Google contacts from the command line
   pname: goobook
@@ -44801,7 +44857,7 @@ legacyPackages.x86_64-linux.goredo:
 legacyPackages.x86_64-linux.goreleaser:
   description: Deliver Go binaries as fast and easily as possible
   pname: goreleaser
-  version: 2.11.2
+  version: 2.12.0
 legacyPackages.x86_64-linux.goreman:
   description: Foreman clone written in go language
   pname: goreman
@@ -45342,10 +45398,6 @@ legacyPackages.x86_64-linux.gqrx-portaudio:
   description: Software defined radio (SDR) receiver
   pname: gqrx
   version: 2.17.7
-legacyPackages.x86_64-linux.gr-framework:
-  description: GR framework is a graphics library for visualisation applications
-  pname: gr-framework
-  version: 0.73.10
 legacyPackages.x86_64-linux.graalvm-ce:
   description: High-Performance Polyglot VM
   pname: graalvm-ce
@@ -45801,7 +45853,7 @@ legacyPackages.x86_64-linux.grass-sass:
 legacyPackages.x86_64-linux.grav:
   description: Fast, simple, and flexible, file-based web platform
   pname: grav
-  version: 1.7.48
+  version: 1.7.49.2
 legacyPackages.x86_64-linux.gravit:
   description: Beautiful OpenGL-based gravity simulator
   pname: gravit
@@ -47453,7 +47505,7 @@ legacyPackages.x86_64-linux.har-to-k6:
 legacyPackages.x86_64-linux.harbor-cli:
   description: Command-line tool facilitates seamless interaction with the Harbor container registry
   pname: harbor-cli
-  version: 0.0.10
+  version: 0.0.11
 legacyPackages.x86_64-linux.hardinfo2:
   description: System information and benchmarks for Linux systems
   pname: hardinfo2
@@ -47529,7 +47581,7 @@ legacyPackages.x86_64-linux.harmonist:
 legacyPackages.x86_64-linux.harper:
   description: Grammar Checker for Developers
   pname: harper
-  version: 0.60.0
+  version: 0.61.0
 legacyPackages.x86_64-linux.harsh:
   description: CLI habit tracking for geeks
   pname: harsh
@@ -122689,7 +122741,7 @@ legacyPackages.x86_64-linux.hck:
 legacyPackages.x86_64-linux.hcl2json:
   description: Convert hcl2 to json
   pname: hcl2json
-  version: 0.6.7
+  version: 0.6.8
 legacyPackages.x86_64-linux.hcledit:
   description: Command line editor for HCL
   pname: hcledit
@@ -122861,11 +122913,11 @@ legacyPackages.x86_64-linux.health-check:
 legacyPackages.x86_64-linux.healthchecks:
   description: Cron monitoring tool written in Python & Django
   pname: healthchecks
-  version: "3.9"
+  version: "3.11"
 legacyPackages.x86_64-linux.heaptrack:
   description: Heap memory profiler for Linux
   pname: heaptrack
-  version: 1.5.0
+  version: 1.5.0-unstable-2025-07-21
 legacyPackages.x86_64-linux.heartbeat:
   description: Lightweight shipper for uptime monitoring
   pname: heartbeat
@@ -127657,7 +127709,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.midea-air-appliance
 legacyPackages.x86_64-linux.home-assistant-custom-components.midea_ac:
   description: Home Assistant custom integration to control Midea (and associated brands) air conditioners via LAN
   pname: python3.13-mill1000-midea_ac
-  version: 2025.7.0
+  version: 2025.9.0
 legacyPackages.x86_64-linux.home-assistant-custom-components.midea_ac_lan:
   description: Auto-configure and then control your Midea M-Smart devices (Air conditioner, Fan, Water heater, Washer, etc) via local area network
   pname: python3.13-wuwentao-midea_ac_lan
@@ -127729,7 +127781,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.smartir:
 legacyPackages.x86_64-linux.home-assistant-custom-components.smartthinq-sensors:
   description: Home Assistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface
   pname: python3.13-ollo69-smartthinq_sensors
-  version: 0.41.1
+  version: 0.41.2
 legacyPackages.x86_64-linux.home-assistant-custom-components.solarman:
   description: Home Assistant component for Solarman collectors used with a variety of inverters
   pname: python3.13-StephanJoubert-solarman
@@ -127893,7 +127945,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.template-enti
 legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.universal-remote-card:
   description: Completely customizable universal remote card for Home Assistant. Supports multiple platforms out of the box
   pname: universal-remote-card
-  version: 4.6.11
+  version: 4.7.1
 legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.vacuum-card:
   description: Vacuum cleaner card for Home Assistant Lovelace UI
   pname: vacuum-card
@@ -130937,7 +130989,7 @@ legacyPackages.x86_64-linux.imposm:
 legacyPackages.x86_64-linux.impression:
   description: Straight-forward and modern application to create bootable drives
   pname: impression
-  version: 3.5.0
+  version: 3.5.1
 legacyPackages.x86_64-linux.improv-setup:
   description: Configure Wifi credentials on IOT devices using Improv serial protocol
   pname: improv-setup
@@ -131621,7 +131673,7 @@ legacyPackages.x86_64-linux.intel-gpu-tools:
 legacyPackages.x86_64-linux.intel-graphics-compiler:
   description: LLVM-based compiler for OpenCL targeting Intel Gen graphics hardware
   pname: intel-graphics-compiler
-  version: 2.14.1
+  version: 2.16.0
 legacyPackages.x86_64-linux.intel-media-driver:
   description: Intel Media Driver for VAAPI — Broadwell+ iGPUs
   pname: intel-media-driver
@@ -133469,7 +133521,7 @@ legacyPackages.x86_64-linux.joincap:
 legacyPackages.x86_64-linux.joker:
   description: Small Clojure interpreter and linter written in Go
   pname: joker
-  version: 1.5.2
+  version: 1.5.6
 legacyPackages.x86_64-linux.jol:
   description: Java Object Layout (JOL)
   pname: jol
@@ -134718,10 +134770,6 @@ legacyPackages.x86_64-linux.kbfs:
   description: Keybase filesystem
   pname: kbfs
   version: 6.5.1
-legacyPackages.x86_64-linux.kbibtex:
-  description: Bibliography editor for KDE
-  pname: kbibtex
-  version: 0.10.0
 legacyPackages.x86_64-linux.kbld:
   description: Seamlessly incorporates image building and image pushing into your development and deployment workflows
   pname: kbld
@@ -137610,10 +137658,6 @@ legacyPackages.x86_64-linux.kmonad:
   description: Advanced keyboard remapping utility
   pname: kmonad
   version: 0.4.4
-legacyPackages.x86_64-linux.kmplayer:
-  description: MPlayer front-end for KDE
-  pname: kmplayer
-  version: 0.12.0b
 legacyPackages.x86_64-linux.kmscon:
   description: KMS/DRM based System Console
   pname: kmscon
@@ -138394,10 +138438,6 @@ legacyPackages.x86_64-linux.krelay:
   description: Drop-in replacement for `kubectl port-forward` with some enhanced features
   pname: krelay
   version: 0.1.3
-legacyPackages.x86_64-linux.krename:
-  description: Powerful batch renamer for KDE
-  pname: krename
-  version: 5.0.2
 legacyPackages.x86_64-linux.krep:
   description: Blazingly fast string search utility designed for performance-critical applications
   pname: krep
@@ -138446,14 +138486,6 @@ legacyPackages.x86_64-linux.krunker:
   description: Easy to get into fully moddable First Person Shooter with advanced movement mechanics
   pname: krunker
   version: 2.1.3
-legacyPackages.x86_64-linux.krunner-pass:
-  description: Integrates krunner with pass the unix standard password manager (https://www.passwordstore.org/)
-  pname: krunner-pass
-  version: 1.3.0
-legacyPackages.x86_64-linux.krunner-translator:
-  description: Plugin for KRunner which integrates a translator, supports Google Translate, Bing Translator, youdao and Baidu Fanyi
-  pname: krunner-translator
-  version: 1.5.0
 legacyPackages.x86_64-linux.krunner-vscodeprojects:
   description: Krunner Plugin which allows you to open your VSCode Project Manager projects
   pname: krunner-vscodeprojects
@@ -138677,7 +138709,7 @@ legacyPackages.x86_64-linux.kubectl-explore:
 legacyPackages.x86_64-linux.kubectl-gadget:
   description: Collection of gadgets for troubleshooting Kubernetes applications using eBPF
   pname: kubectl-gadget
-  version: 0.43.0
+  version: 0.44.0
 legacyPackages.x86_64-linux.kubectl-graph:
   description: Kubectl plugin to visualize Kubernetes resources and relationships
   pname: kubectl-graph
@@ -138797,7 +138829,7 @@ legacyPackages.x86_64-linux.kubepug:
 legacyPackages.x86_64-linux.kubergrunt:
   description: Collection of commands to fill in the gaps between Terraform, Helm, and Kubectl
   pname: kubergrunt
-  version: 0.18.2
+  version: 0.18.3
 legacyPackages.x86_64-linux.kubernetes:
   description: Production-Grade Container Scheduling and Management
   pname: kubernetes
@@ -138969,23 +139001,23 @@ legacyPackages.x86_64-linux.kulala-fmt:
 legacyPackages.x86_64-linux.kuma:
   description: Service mesh controller
   pname: kuma
-  version: 2.11.4
+  version: 2.11.5
 legacyPackages.x86_64-linux.kuma-cp:
   description: Service mesh controller
   pname: kuma-cp
-  version: 2.11.4
+  version: 2.11.5
 legacyPackages.x86_64-linux.kuma-dp:
   description: Service mesh controller
   pname: kuma-dp
-  version: 2.11.4
+  version: 2.11.5
 legacyPackages.x86_64-linux.kuma-experimental:
   description: Service mesh controller
   pname: kuma-experimental
-  version: 2.11.4
+  version: 2.11.5
 legacyPackages.x86_64-linux.kumactl:
   description: Service mesh controller
   pname: kumactl
-  version: 2.11.4
+  version: 2.11.5
 legacyPackages.x86_64-linux.kup:
   description: Backup tool for KDE
   pname: kup
@@ -139085,7 +139117,7 @@ legacyPackages.x86_64-linux.kyua:
 legacyPackages.x86_64-linux.kyverno:
   description: Kubernetes Native Policy Management
   pname: kyverno
-  version: 1.15.0
+  version: 1.15.1
 legacyPackages.x86_64-linux.kyverno-chainsaw:
   description: Declarative approach to test Kubernetes operators and controllers
   pname: kyverno-chainsaw
@@ -141437,7 +141469,7 @@ legacyPackages.x86_64-linux.libgen-cli:
 legacyPackages.x86_64-linux.libgeneral:
   description: Helper library used by usbmuxd2
   pname: libgeneral
-  version: "85"
+  version: "86"
 legacyPackages.x86_64-linux.libgeotiff:
   description: Library implementing attempt to create a tiff based interchange format for georeferenced raster imagery
   pname: libgeotiff
@@ -143325,11 +143357,11 @@ legacyPackages.x86_64-linux.libretro.beetle-pcfx:
 legacyPackages.x86_64-linux.libretro.beetle-psx:
   description: Port of Mednafen's PSX Engine core to libretro
   pname: libretro-mednafen-psx
-  version: 0-unstable-2025-08-06
+  version: 0-unstable-2025-08-29
 legacyPackages.x86_64-linux.libretro.beetle-psx-hw:
   description: Port of Mednafen's PSX Engine core to libretro (with hardware acceleration support)
   pname: libretro-mednafen-psx-hw
-  version: 0-unstable-2025-08-06
+  version: 0-unstable-2025-08-29
 legacyPackages.x86_64-linux.libretro.beetle-saturn:
   description: Port of Mednafen's Saturn core to libretro
   pname: libretro-mednafen-saturn
@@ -143806,14 +143838,6 @@ legacyPackages.x86_64-linux.libsForQt5.attica:
   description: ""
   pname: attica
   version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.baloo:
-  description: ""
-  pname: baloo
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.bluez-qt:
-  description: ""
-  pname: bluez-qt
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.breeze-icons:
   description: ""
   pname: breeze-icons
@@ -143862,10 +143886,6 @@ legacyPackages.x86_64-linux.libsForQt5.kactivities-stats:
   description: ""
   pname: kactivities-stats
   version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kapidox:
-  description: ""
-  pname: kapidox
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.karchive:
   description: ""
   pname: karchive
@@ -143906,10 +143926,6 @@ legacyPackages.x86_64-linux.libsForQt5.kconfigwidgets:
   description: ""
   pname: kconfigwidgets
   version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kcontacts:
-  description: ""
-  pname: kcontacts
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.kcoreaddons:
   description: ""
   pname: kcoreaddons
@@ -143917,10 +143933,6 @@ legacyPackages.x86_64-linux.libsForQt5.kcoreaddons:
 legacyPackages.x86_64-linux.libsForQt5.kcrash:
   description: ""
   pname: kcrash
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kdav:
-  description: ""
-  pname: kdav
   version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.kdb:
   description: Database connectivity and creation framework for various database vendors
@@ -143946,10 +143958,6 @@ legacyPackages.x86_64-linux.libsForQt5.kdesignerplugin:
   description: ""
   pname: kdesignerplugin
   version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kdesu:
-  description: ""
-  pname: kdesu
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.kdiagram:
   description: Libraries for creating business diagrams
   pname: kdiagram
@@ -143974,10 +143982,6 @@ legacyPackages.x86_64-linux.libsForQt5.kf5gpgmepp:
   description: ""
   pname: kf5gpgmepp
   version: 16.08.3
-legacyPackages.x86_64-linux.libsForQt5.kfilemetadata:
-  description: ""
-  pname: kfilemetadata
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.kglobalaccel:
   description: ""
   pname: kglobalaccel
@@ -143985,14 +143989,6 @@ legacyPackages.x86_64-linux.libsForQt5.kglobalaccel:
 legacyPackages.x86_64-linux.libsForQt5.kguiaddons:
   description: ""
   pname: kguiaddons
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kholidays:
-  description: ""
-  pname: kholidays
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.khtml:
-  description: ""
-  pname: khtml
   version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.ki18n:
   description: ""
@@ -144010,10 +144006,6 @@ legacyPackages.x86_64-linux.libsForQt5.kimageannotator:
   description: Tool for annotating images
   pname: kimageannotator
   version: 0.7.1
-legacyPackages.x86_64-linux.libsForQt5.kimageformats:
-  description: ""
-  pname: kimageformats
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.kinit:
   description: ""
   pname: kinit
@@ -144042,18 +144034,6 @@ legacyPackages.x86_64-linux.libsForQt5.kjobwidgets:
   description: ""
   pname: kjobwidgets
   version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kjs:
-  description: ""
-  pname: kjs
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kjsembed:
-  description: ""
-  pname: kjsembed
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kmediaplayer:
-  description: ""
-  pname: kmediaplayer
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.knewstuff:
   description: ""
   pname: knewstuff
@@ -144074,14 +144054,6 @@ legacyPackages.x86_64-linux.libsForQt5.kparts:
   description: ""
   pname: kparts
   version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kpeople:
-  description: ""
-  pname: kpeople
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kpeoplevcard:
-  description: Pulseaudio bindings for Qt
-  pname: kpeoplevcard
-  version: "0.1"
 legacyPackages.x86_64-linux.libsForQt5.kplotting:
   description: ""
   pname: kplotting
@@ -144090,37 +144062,13 @@ legacyPackages.x86_64-linux.libsForQt5.kproperty:
   description: Property editing framework with editor widget similar to what is known from Qt Designer
   pname: kproperty
   version: 3.2.0
-legacyPackages.x86_64-linux.libsForQt5.kpty:
-  description: ""
-  pname: kpty
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kpurpose:
-  description: ""
-  pname: purpose
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kquickcharts:
-  description: ""
-  pname: kquickcharts
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.kquickimageedit:
   description: Set of QtQuick components providing basic image editing capabilities
   pname: kquickimageeditor
   version: 0.3.0
-legacyPackages.x86_64-linux.libsForQt5.kross:
-  description: ""
-  pname: kross
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.krunner:
-  description: ""
-  pname: krunner
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.kservice:
   description: ""
   pname: kservice
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.ktexteditor:
-  description: ""
-  pname: ktexteditor
   version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.ktextwidgets:
   description: ""
@@ -144142,10 +144090,6 @@ legacyPackages.x86_64-linux.libsForQt5.kwayland:
   description: ""
   pname: kwayland
   version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kweathercore:
-  description: 'Library to facilitate retrieval of weather information including forecasts and alerts '
-  pname: kweathercore
-  version: "0.7"
 legacyPackages.x86_64-linux.libsForQt5.kwidgetsaddons:
   description: ""
   pname: kwidgetsaddons
@@ -144157,10 +144101,6 @@ legacyPackages.x86_64-linux.libsForQt5.kwindowsystem:
 legacyPackages.x86_64-linux.libsForQt5.kxmlgui:
   description: ""
   pname: kxmlgui
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.kxmlrpcclient:
-  description: ""
-  pname: kxmlrpcclient
   version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.ldutils:
   description: Headers and link library for other ldutils projects
@@ -144230,22 +144170,6 @@ legacyPackages.x86_64-linux.libsForQt5.mlt:
   description: Open source multimedia framework, designed for television broadcasting
   pname: mlt
   version: 7.30.0
-legacyPackages.x86_64-linux.libsForQt5.modemmanager-qt:
-  description: ""
-  pname: modemmanager-qt
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.networkmanager-qt:
-  description: ""
-  pname: networkmanager-qt
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.oxygen-icons:
-  description: ""
-  pname: oxygen-icons
-  version: 5.116.0
-legacyPackages.x86_64-linux.libsForQt5.oxygen-icons5:
-  description: ""
-  pname: oxygen-icons
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.phonon:
   description: Multimedia API for Qt
   pname: phonon
@@ -144274,10 +144198,6 @@ legacyPackages.x86_64-linux.libsForQt5.poppler:
   description: PDF rendering library
   pname: poppler-qt5
   version: 25.07.0
-legacyPackages.x86_64-linux.libsForQt5.prison:
-  description: ""
-  pname: prison
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.pulseaudio-qt:
   description: Pulseaudio bindings for Qt
   pname: pulseaudio-qt
@@ -144326,10 +144246,6 @@ legacyPackages.x86_64-linux.libsForQt5.qoauth:
   description: Qt library for OAuth authentication
   pname: qoauth
   version: 2.0.0
-legacyPackages.x86_64-linux.libsForQt5.qqc2-desktop-style:
-  description: ""
-  pname: qqc2-desktop-style
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.qscintilla:
   description: Qt port of the Scintilla text editing library
   pname: qscintilla-qt5
@@ -144798,10 +144714,6 @@ legacyPackages.x86_64-linux.libsForQt5.telepathy:
   description: Telepathy Qt bindings
   pname: telepathy-qt
   version: 0.9.8
-legacyPackages.x86_64-linux.libsForQt5.threadweaver:
-  description: ""
-  pname: threadweaver
-  version: 5.116.0
 legacyPackages.x86_64-linux.libsForQt5.timed:
   description: Time daemon managing system time, time zone and settings
   pname: timed
@@ -146337,27 +146249,27 @@ legacyPackages.x86_64-linux.linux-router-without-wifi:
 legacyPackages.x86_64-linux.linux-rt:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 5.15.183-rt85
+  version: 5.15.189-rt87
 legacyPackages.x86_64-linux.linux-rt_5_10:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 5.10.237-rt131
+  version: 5.10.240-rt134
 legacyPackages.x86_64-linux.linux-rt_5_15:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 5.15.183-rt85
+  version: 5.15.189-rt87
 legacyPackages.x86_64-linux.linux-rt_5_4:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper)'
   pname: linux-rt
-  version: 5.4.293-rt98
+  version: 5.4.296-rt100
 legacyPackages.x86_64-linux.linux-rt_6_1:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 6.1.134-rt51
+  version: 6.1.146-rt53
 legacyPackages.x86_64-linux.linux-rt_latest:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 6.6.87-rt54
+  version: 6.6.101-rt59
 legacyPackages.x86_64-linux.linux-scripts:
   description: Standalone scripts from <linux>/scripts
   pname: linux-scripts
@@ -146453,27 +146365,27 @@ legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rpi4:
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rt_5_10:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 5.10.237-rt131
+  version: 5.10.240-rt134
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rt_5_15:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 5.15.183-rt85
+  version: 5.15.189-rt87
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rt_5_4:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper)'
   pname: linux-rt
-  version: 5.4.293-rt98
+  version: 5.4.296-rt100
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rt_6_1:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 6.1.134-rt51
+  version: 6.1.146-rt53
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rt_6_6:
   description: 'The Linux kernel (with patches: rt, bridge-stp-helper, request-key-helper, export-rt-sched-migrate)'
   pname: linux-rt
-  version: 6.6.87-rt54
+  version: 6.6.101-rt59
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_testing:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
-  version: 6.17-rc3
+  version: 6.17-rc4
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_xanmod:
   description: Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience
   pname: linux-xanmod
@@ -162669,7 +162581,7 @@ legacyPackages.x86_64-linux.linux_rpi4:
 legacyPackages.x86_64-linux.linux_testing:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
-  version: 6.17-rc3
+  version: 6.17-rc4
 legacyPackages.x86_64-linux.linux_xanmod:
   description: Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience
   pname: linux-xanmod
@@ -163301,7 +163213,7 @@ legacyPackages.x86_64-linux.lld_20:
 legacyPackages.x86_64-linux.lld_21:
   description: LLVM linker (unwrapped)
   pname: lld
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.lldap:
   description: Lightweight authentication server that provides an opinionated, simplified LDAP interface for authentication
   pname: lldap
@@ -163353,7 +163265,7 @@ legacyPackages.x86_64-linux.lldb_20:
 legacyPackages.x86_64-linux.lldb_21:
   description: Next-generation high-performance debugger
   pname: lldb
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.lldpd:
   description: 802.1ab implementation (LLDP) to help you locate neighbors of all your equipments
   pname: lldpd
@@ -164849,111 +164761,111 @@ legacyPackages.x86_64-linux.llvmPackages_20.tblgen:
 legacyPackages.x86_64-linux.llvmPackages_21.bintools:
   description: System binary utilities (wrapper script)
   pname: llvm-binutils-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.bintools-unwrapped:
   description: ""
   pname: llvm-binutils
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.bintoolsNoLibc:
   description: System binary utilities (wrapper script)
   pname: llvm-binutils-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.bolt:
   description: LLVM post-link optimizer
   pname: bolt
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clang:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clang-manpages:
-  description: man page for Clang 21.1.0-rc3
+  description: man page for Clang 21.1.0
   pname: clang-manpages
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clang-tools:
   description: Standalone command line tools for C++ development
   pname: clang-tools
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clang-unwrapped:
   description: C language family frontend for LLVM
   pname: clang
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangNoCompilerRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangNoCompilerRtWithLibc:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangNoLibc:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangNoLibcNoRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangNoLibcWithBasicRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangNoLibcxx:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangUseLLVM:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangWithLibcAndBasicRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.clangWithLibcAndBasicRtAndLibcxx:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.compiler-rt:
   description: Compiler runtime libraries
   pname: compiler-rt-libc
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.compiler-rt-libc:
   description: Compiler runtime libraries
   pname: compiler-rt-libc
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.compiler-rt-no-libc:
   description: Compiler runtime libraries
   pname: compiler-rt
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.flang:
   description: LLVM-based Fortran frontend
   pname: flang
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libc:
   description: Standard C library for LLVM
   pname: libc
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libc-full:
   description: Standard C library for LLVM
   pname: libc
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libc-overlay:
   description: Standard C library for LLVM
   pname: libc
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libclang:
   description: C language family frontend for LLVM
   pname: clang
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libcxx:
   description: C++ standard library
   pname: libcxx
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libcxxClang:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libcxxStdenv:
   description: The default build environment for Unix packages in Nixpkgs
   pname: stdenv-linux
@@ -164961,27 +164873,27 @@ legacyPackages.x86_64-linux.llvmPackages_21.libcxxStdenv:
 legacyPackages.x86_64-linux.llvmPackages_21.libllvm:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libstdcxxClang:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.libunwind:
   description: LLVM's unwinder library
   pname: libunwind
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.lld:
   description: LLVM linker (unwrapped)
   pname: lld
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.lldb:
   description: Next-generation high-performance debugger
   pname: lldb
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.lldb-manpages:
-  description: man pages for LLDB 21.1.0-rc3
+  description: man pages for LLDB 21.1.0
   pname: lldb-manpages
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.lldbPlugins.llef:
   description: LLEF is a plugin for LLDB to make it more useful for RE and VR
   pname: llef
@@ -164989,19 +164901,19 @@ legacyPackages.x86_64-linux.llvmPackages_21.lldbPlugins.llef:
 legacyPackages.x86_64-linux.llvmPackages_21.llvm:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.llvm-manpages:
-  description: man pages for LLVM 21.1.0-rc3
+  description: man pages for LLVM 21.1.0
   pname: llvm-manpages
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.mlir:
   description: Multi-Level IR Compiler Framework
   pname: mlir
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.openmp:
   description: Support for the OpenMP language
   pname: openmp
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvmPackages_21.stdenv:
   description: The default build environment for Unix packages in Nixpkgs
   pname: stdenv-linux
@@ -165009,7 +164921,7 @@ legacyPackages.x86_64-linux.llvmPackages_21.stdenv:
 legacyPackages.x86_64-linux.llvmPackages_21.tblgen:
   description: ""
   pname: llvm-tblgen
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.llvm_12:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
@@ -165049,7 +164961,7 @@ legacyPackages.x86_64-linux.llvm_20:
 legacyPackages.x86_64-linux.llvm_21:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.lm4flash:
   description: Command-line firmware flashing tool for the Stellaris Launchpad
   pname: lm4flash
@@ -165189,7 +165101,7 @@ legacyPackages.x86_64-linux.loccount:
 legacyPackages.x86_64-linux.lock:
   description: Process data with GnuPG
   pname: lock
-  version: 1.7.3
+  version: 1.7.5
 legacyPackages.x86_64-linux.lockbook:
   description: Private, polished note-taking platform
   pname: lockbook
@@ -170525,7 +170437,7 @@ legacyPackages.x86_64-linux.lunasvg:
 legacyPackages.x86_64-linux.lunatask:
   description: All-in-one encrypted todo list, notebook, habit and mood tracker, pomodoro timer, and journaling app
   pname: lunatask
-  version: 2.1.5
+  version: 2.1.6
 legacyPackages.x86_64-linux.lunatic:
   description: Erlang inspired runtime for WebAssembly
   pname: lunatic
@@ -170686,38 +170598,6 @@ legacyPackages.x86_64-linux.lxd-unwrapped-lts:
   description: Daemon based on liblxc offering a REST API to manage containers
   pname: lxd-unwrapped-lts
   version: 5.21.2
-legacyPackages.x86_64-linux.lxde.gtk2-x11:
-  description: Multi-platform toolkit for creating graphical user interfaces
-  pname: gtk+
-  version: 2.24.33
-legacyPackages.x86_64-linux.lxde.lxappearance:
-  description: Lightweight program for configuring the theme and fonts of gtk applications
-  pname: lxappearance
-  version: 0.6.4
-legacyPackages.x86_64-linux.lxde.lxappearance-gtk2:
-  description: Lightweight program for configuring the theme and fonts of gtk applications
-  pname: lxappearance
-  version: 0.6.4
-legacyPackages.x86_64-linux.lxde.lxmenu-data:
-  description: Freedesktop.org desktop menus for LXDE
-  pname: lxmenu-data
-  version: 0.1.6
-legacyPackages.x86_64-linux.lxde.lxpanel:
-  description: Lightweight X11 desktop panel for LXDE
-  pname: lxpanel
-  version: 0.11.1
-legacyPackages.x86_64-linux.lxde.lxrandr:
-  description: Standard screen manager of LXDE
-  pname: lxrandr
-  version: 0.3.3
-legacyPackages.x86_64-linux.lxde.lxsession:
-  description: Classic LXDE session manager
-  pname: lxsession
-  version: 0.5.6
-legacyPackages.x86_64-linux.lxde.lxtask:
-  description: Lightweight and desktop independent task manager
-  pname: lxtask
-  version: 0.1.12
 legacyPackages.x86_64-linux.lxgw-fusionkai:
   description: Simplified Chinese font derived from LXGW WenKai GB, iansui and Klee One
   pname: lxgw-fusionkai
@@ -172445,7 +172325,7 @@ legacyPackages.x86_64-linux.material-symbols:
 legacyPackages.x86_64-linux.materialgram:
   description: Telegram Desktop fork with material icons and some improvements
   pname: materialgram
-  version: 6.0.0.1
+  version: 6.1.0.1
 legacyPackages.x86_64-linux.materialize:
   description: Streaming SQL materialized view engine for real-time applications
   pname: materialize
@@ -172669,7 +172549,7 @@ legacyPackages.x86_64-linux.maubot:
 legacyPackages.x86_64-linux.maude:
   description: High-level specification language
   pname: maude
-  version: "3.5"
+  version: 3.5.1
 legacyPackages.x86_64-linux.mautrix-discord:
   description: Matrix-Discord puppeting bridge
   pname: mautrix-discord
@@ -173569,7 +173449,7 @@ legacyPackages.x86_64-linux.mergerfs-tools:
 legacyPackages.x86_64-linux.mergiraf:
   description: Syntax-aware git merge driver for a growing collection of programming languages and file formats
   pname: mergiraf
-  version: 0.13.0
+  version: 0.14.0
 legacyPackages.x86_64-linux.meritous:
   description: Action-adventure dungeon crawl game
   pname: meritous
@@ -173601,7 +173481,7 @@ legacyPackages.x86_64-linux.merriweather-sans:
 legacyPackages.x86_64-linux.mesa:
   description: Open source 3D graphics library
   pname: mesa
-  version: 25.2.1
+  version: 25.2.2
 legacyPackages.x86_64-linux.mesa-demos:
   description: Collection of demos and test programs for OpenGL and Mesa
   pname: mesa-demos
@@ -173617,7 +173497,7 @@ legacyPackages.x86_64-linux.mesa_glu:
 legacyPackages.x86_64-linux.mesa_i686:
   description: Open source 3D graphics library
   pname: mesa
-  version: 25.2.1
+  version: 25.2.2
 legacyPackages.x86_64-linux.mescc-tools:
   description: Collection of tools written for use in bootstrapping
   pname: mescc-tools
@@ -174913,7 +174793,7 @@ legacyPackages.x86_64-linux.mixxc:
 legacyPackages.x86_64-linux.mixxx:
   description: Digital DJ mixing software
   pname: mixxx
-  version: 2.5.2
+  version: 2.5.3
 legacyPackages.x86_64-linux.mjmap:
   description: Sendmail‐compatible JMAP client
   pname: mjmap
@@ -178673,7 +178553,7 @@ legacyPackages.x86_64-linux.nerdfix:
 legacyPackages.x86_64-linux.nero-umu:
   description: Fast and efficient Proton prefix runner and manager using umu as backend
   pname: nero-umu
-  version: 1.1.3
+  version: 1.1.4
 legacyPackages.x86_64-linux.nest:
   description: Command line tool for simulating neural networks
   pname: nest
@@ -178729,7 +178609,7 @@ legacyPackages.x86_64-linux.netbeans:
 legacyPackages.x86_64-linux.netbird:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-client
-  version: 0.55.1
+  version: 0.56.0
 legacyPackages.x86_64-linux.netbird-dashboard:
   description: NetBird Management Service Web UI Panel
   pname: netbird-dashboard
@@ -178737,23 +178617,23 @@ legacyPackages.x86_64-linux.netbird-dashboard:
 legacyPackages.x86_64-linux.netbird-management:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-management
-  version: 0.55.1
+  version: 0.56.0
 legacyPackages.x86_64-linux.netbird-relay:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-relay
-  version: 0.55.1
+  version: 0.56.0
 legacyPackages.x86_64-linux.netbird-signal:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-signal
-  version: 0.55.1
+  version: 0.56.0
 legacyPackages.x86_64-linux.netbird-ui:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-ui
-  version: 0.55.1
+  version: 0.56.0
 legacyPackages.x86_64-linux.netbird-upload:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-upload
-  version: 0.55.1
+  version: 0.56.0
 legacyPackages.x86_64-linux.netboot:
   description: Mini PXE server
   pname: netboot
@@ -179229,7 +179109,7 @@ legacyPackages.x86_64-linux.nextcloud-spreed-signaling:
 legacyPackages.x86_64-linux.nextcloud-talk-desktop:
   description: Nextcloud Talk Desktop Client
   pname: nextcloud-talk-desktop
-  version: 1.2.5
+  version: 1.2.6
 legacyPackages.x86_64-linux.nextcloud-whiteboard-server:
   description: Backend server for the Nextcloud Whiteboard app
   pname: nextcloud-whiteboard-server
@@ -180033,7 +179913,7 @@ legacyPackages.x86_64-linux.nixVersions.git:
 legacyPackages.x86_64-linux.nixVersions.latest:
   description: Nix package manager
   pname: nix
-  version: 2.30.2
+  version: 2.31.1
 legacyPackages.x86_64-linux.nixVersions.nix_2_28:
   description: Powerful package manager that makes package management reliable and reproducible
   pname: nix
@@ -180049,7 +179929,7 @@ legacyPackages.x86_64-linux.nixVersions.nix_2_30:
 legacyPackages.x86_64-linux.nixVersions.nix_2_31:
   description: Nix package manager
   pname: nix
-  version: 2.31.0
+  version: 2.31.1
 legacyPackages.x86_64-linux.nixVersions.stable:
   description: Powerful package manager that makes package management reliable and reproducible
   pname: nix
@@ -180786,10 +180666,6 @@ legacyPackages.x86_64-linux.nm-file-secret-agent:
   description: NetworkManager secret agent that responds with the content of preconfigured files
   pname: nm-file-secret-agent
   version: ""
-legacyPackages.x86_64-linux.nm-tray:
-  description: Simple Network Manager frontend written in Qt
-  pname: nm-tray
-  version: 0.5.0
 legacyPackages.x86_64-linux.nmap:
   description: Free and open source utility for network discovery and security auditing
   pname: nmap
@@ -184141,7 +184017,7 @@ legacyPackages.x86_64-linux.ntp:
 legacyPackages.x86_64-linux.ntpd-rs:
   description: Full-featured implementation of the Network Time Protocol
   pname: ntpd-rs
-  version: 1.6.1
+  version: 1.6.2
 legacyPackages.x86_64-linux.ntpstat:
   description: Print the ntpd or chronyd synchronisation status
   pname: ntpstat
@@ -186169,7 +186045,7 @@ legacyPackages.x86_64-linux.ocamlPackages.elina:
 legacyPackages.x86_64-linux.ocamlPackages.elpi:
   description: Embeddable λProlog Interpreter
   pname: ocaml5.3.0-elpi
-  version: 3.0.1
+  version: 3.3.0
 legacyPackages.x86_64-linux.ocamlPackages.email_message:
   description: E-mail message parser
   pname: ocaml5.3.0-email_message
@@ -191337,7 +191213,7 @@ legacyPackages.x86_64-linux.open-pdf-sign:
 legacyPackages.x86_64-linux.open-policy-agent:
   description: General-purpose policy engine
   pname: open-policy-agent
-  version: 1.7.1
+  version: 1.8.0
 legacyPackages.x86_64-linux.open-sans:
   description: Open Sans fonts
   pname: open-sans
@@ -191561,7 +191437,7 @@ legacyPackages.x86_64-linux.opencl-caps-viewer:
 legacyPackages.x86_64-linux.opencl-clang:
   description: Clang wrapper library with an OpenCL-oriented API and the ability to compile OpenCL C kernels to SPIR-V modules
   pname: opencl-clang
-  version: 15.0.1
+  version: 15.0.3
 legacyPackages.x86_64-linux.opencl-clhpp:
   description: OpenCL Host API C++ bindings
   pname: opencl-clhpp
@@ -191577,7 +191453,7 @@ legacyPackages.x86_64-linux.openclonk:
 legacyPackages.x86_64-linux.opencloud:
   description: OpenCloud gives you a secure and private way to store, access, and share your files
   pname: opencloud
-  version: 3.3.0
+  version: 3.4.0
 legacyPackages.x86_64-linux.opencloud-desktop:
   description: Desktop Application for OpenCloud
   pname: opencloud-desktop
@@ -192665,7 +192541,7 @@ legacyPackages.x86_64-linux.openxcom:
 legacyPackages.x86_64-linux.openxr-loader:
   description: Khronos OpenXR loader
   pname: openxr-loader
-  version: 1.1.50
+  version: 1.1.51
 legacyPackages.x86_64-linux.openxray:
   description: Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World
   pname: openxray
@@ -222313,7 +222189,7 @@ legacyPackages.x86_64-linux.pius:
 legacyPackages.x86_64-linux.piv-agent:
   description: SSH and GPG agent which you can use with your PIV hardware security device (e.g. a Yubikey)
   pname: piv-agent
-  version: 0.23.0
+  version: 0.23.1
 legacyPackages.x86_64-linux.pix:
   description: Generic image viewer from Linux Mint
   pname: pix
@@ -222578,14 +222454,6 @@ legacyPackages.x86_64-linux.plasma5Packages.attica:
   description: ""
   pname: attica
   version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.baloo:
-  description: ""
-  pname: baloo
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.bluez-qt:
-  description: ""
-  pname: bluez-qt
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.breeze-icons:
   description: ""
   pname: breeze-icons
@@ -222634,10 +222502,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kactivities-stats:
   description: ""
   pname: kactivities-stats
   version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kapidox:
-  description: ""
-  pname: kapidox
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.karchive:
   description: ""
   pname: karchive
@@ -222678,10 +222542,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kconfigwidgets:
   description: ""
   pname: kconfigwidgets
   version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kcontacts:
-  description: ""
-  pname: kcontacts
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.kcoreaddons:
   description: ""
   pname: kcoreaddons
@@ -222689,10 +222549,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kcoreaddons:
 legacyPackages.x86_64-linux.plasma5Packages.kcrash:
   description: ""
   pname: kcrash
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kdav:
-  description: ""
-  pname: kdav
   version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.kdb:
   description: Database connectivity and creation framework for various database vendors
@@ -222718,10 +222574,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kdesignerplugin:
   description: ""
   pname: kdesignerplugin
   version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kdesu:
-  description: ""
-  pname: kdesu
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.kdiagram:
   description: Libraries for creating business diagrams
   pname: kdiagram
@@ -222746,10 +222598,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kf5gpgmepp:
   description: ""
   pname: kf5gpgmepp
   version: 16.08.3
-legacyPackages.x86_64-linux.plasma5Packages.kfilemetadata:
-  description: ""
-  pname: kfilemetadata
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.kglobalaccel:
   description: ""
   pname: kglobalaccel
@@ -222757,14 +222605,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kglobalaccel:
 legacyPackages.x86_64-linux.plasma5Packages.kguiaddons:
   description: ""
   pname: kguiaddons
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kholidays:
-  description: ""
-  pname: kholidays
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.khtml:
-  description: ""
-  pname: khtml
   version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.ki18n:
   description: ""
@@ -222782,10 +222622,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kimageannotator:
   description: Tool for annotating images
   pname: kimageannotator
   version: 0.7.1
-legacyPackages.x86_64-linux.plasma5Packages.kimageformats:
-  description: ""
-  pname: kimageformats
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.kinit:
   description: ""
   pname: kinit
@@ -222814,18 +222650,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kjobwidgets:
   description: ""
   pname: kjobwidgets
   version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kjs:
-  description: ""
-  pname: kjs
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kjsembed:
-  description: ""
-  pname: kjsembed
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kmediaplayer:
-  description: ""
-  pname: kmediaplayer
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.knewstuff:
   description: ""
   pname: knewstuff
@@ -222846,14 +222670,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kparts:
   description: ""
   pname: kparts
   version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kpeople:
-  description: ""
-  pname: kpeople
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kpeoplevcard:
-  description: Pulseaudio bindings for Qt
-  pname: kpeoplevcard
-  version: "0.1"
 legacyPackages.x86_64-linux.plasma5Packages.kplotting:
   description: ""
   pname: kplotting
@@ -222862,37 +222678,13 @@ legacyPackages.x86_64-linux.plasma5Packages.kproperty:
   description: Property editing framework with editor widget similar to what is known from Qt Designer
   pname: kproperty
   version: 3.2.0
-legacyPackages.x86_64-linux.plasma5Packages.kpty:
-  description: ""
-  pname: kpty
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kpurpose:
-  description: ""
-  pname: purpose
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kquickcharts:
-  description: ""
-  pname: kquickcharts
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.kquickimageedit:
   description: Set of QtQuick components providing basic image editing capabilities
   pname: kquickimageeditor
   version: 0.3.0
-legacyPackages.x86_64-linux.plasma5Packages.kross:
-  description: ""
-  pname: kross
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.krunner:
-  description: ""
-  pname: krunner
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.kservice:
   description: ""
   pname: kservice
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.ktexteditor:
-  description: ""
-  pname: ktexteditor
   version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.ktextwidgets:
   description: ""
@@ -222914,10 +222706,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kwayland:
   description: ""
   pname: kwayland
   version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kweathercore:
-  description: 'Library to facilitate retrieval of weather information including forecasts and alerts '
-  pname: kweathercore
-  version: "0.7"
 legacyPackages.x86_64-linux.plasma5Packages.kwidgetsaddons:
   description: ""
   pname: kwidgetsaddons
@@ -222929,10 +222717,6 @@ legacyPackages.x86_64-linux.plasma5Packages.kwindowsystem:
 legacyPackages.x86_64-linux.plasma5Packages.kxmlgui:
   description: ""
   pname: kxmlgui
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.kxmlrpcclient:
-  description: ""
-  pname: kxmlrpcclient
   version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.ldutils:
   description: Headers and link library for other ldutils projects
@@ -223002,22 +222786,6 @@ legacyPackages.x86_64-linux.plasma5Packages.mlt:
   description: Open source multimedia framework, designed for television broadcasting
   pname: mlt
   version: 7.30.0
-legacyPackages.x86_64-linux.plasma5Packages.modemmanager-qt:
-  description: ""
-  pname: modemmanager-qt
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.networkmanager-qt:
-  description: ""
-  pname: networkmanager-qt
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.oxygen-icons:
-  description: ""
-  pname: oxygen-icons
-  version: 5.116.0
-legacyPackages.x86_64-linux.plasma5Packages.oxygen-icons5:
-  description: ""
-  pname: oxygen-icons
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.phonon:
   description: Multimedia API for Qt
   pname: phonon
@@ -223046,10 +222814,6 @@ legacyPackages.x86_64-linux.plasma5Packages.poppler:
   description: PDF rendering library
   pname: poppler-qt5
   version: 25.07.0
-legacyPackages.x86_64-linux.plasma5Packages.prison:
-  description: ""
-  pname: prison
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.pulseaudio-qt:
   description: Pulseaudio bindings for Qt
   pname: pulseaudio-qt
@@ -223098,10 +222862,6 @@ legacyPackages.x86_64-linux.plasma5Packages.qoauth:
   description: Qt library for OAuth authentication
   pname: qoauth
   version: 2.0.0
-legacyPackages.x86_64-linux.plasma5Packages.qqc2-desktop-style:
-  description: ""
-  pname: qqc2-desktop-style
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.qscintilla:
   description: Qt port of the Scintilla text editing library
   pname: qscintilla-qt5
@@ -223570,10 +223330,6 @@ legacyPackages.x86_64-linux.plasma5Packages.telepathy:
   description: Telepathy Qt bindings
   pname: telepathy-qt
   version: 0.9.8
-legacyPackages.x86_64-linux.plasma5Packages.threadweaver:
-  description: ""
-  pname: threadweaver
-  version: 5.116.0
 legacyPackages.x86_64-linux.plasma5Packages.timed:
   description: Time daemon managing system time, time zone and settings
   pname: timed
@@ -224589,7 +224345,7 @@ legacyPackages.x86_64-linux.postgresql13Packages.pg_auto_failover:
 legacyPackages.x86_64-linux.postgresql13Packages.pg_bigm:
   description: Text similarity measurement and index searching based on bigrams
   pname: pg_bigm
-  version: 1.2-20240606
+  version: 1.2-20250903
 legacyPackages.x86_64-linux.postgresql13Packages.pg_byteamagic:
   description: PostgreSQL extension to determinate the filetypes of bytea BLOBs
   pname: pg_byteamagic
@@ -224865,7 +224621,7 @@ legacyPackages.x86_64-linux.postgresql14Packages.pg_auto_failover:
 legacyPackages.x86_64-linux.postgresql14Packages.pg_bigm:
   description: Text similarity measurement and index searching based on bigrams
   pname: pg_bigm
-  version: 1.2-20240606
+  version: 1.2-20250903
 legacyPackages.x86_64-linux.postgresql14Packages.pg_byteamagic:
   description: PostgreSQL extension to determinate the filetypes of bytea BLOBs
   pname: pg_byteamagic
@@ -225141,7 +224897,7 @@ legacyPackages.x86_64-linux.postgresql15Packages.pg_auto_failover:
 legacyPackages.x86_64-linux.postgresql15Packages.pg_bigm:
   description: Text similarity measurement and index searching based on bigrams
   pname: pg_bigm
-  version: 1.2-20240606
+  version: 1.2-20250903
 legacyPackages.x86_64-linux.postgresql15Packages.pg_byteamagic:
   description: PostgreSQL extension to determinate the filetypes of bytea BLOBs
   pname: pg_byteamagic
@@ -225417,7 +225173,7 @@ legacyPackages.x86_64-linux.postgresql16Packages.pg_auto_failover:
 legacyPackages.x86_64-linux.postgresql16Packages.pg_bigm:
   description: Text similarity measurement and index searching based on bigrams
   pname: pg_bigm
-  version: 1.2-20240606
+  version: 1.2-20250903
 legacyPackages.x86_64-linux.postgresql16Packages.pg_byteamagic:
   description: PostgreSQL extension to determinate the filetypes of bytea BLOBs
   pname: pg_byteamagic
@@ -225693,7 +225449,7 @@ legacyPackages.x86_64-linux.postgresql17Packages.pg_auto_failover:
 legacyPackages.x86_64-linux.postgresql17Packages.pg_bigm:
   description: Text similarity measurement and index searching based on bigrams
   pname: pg_bigm
-  version: 1.2-20240606
+  version: 1.2-20250903
 legacyPackages.x86_64-linux.postgresql17Packages.pg_byteamagic:
   description: PostgreSQL extension to determinate the filetypes of bytea BLOBs
   pname: pg_byteamagic
@@ -225969,7 +225725,7 @@ legacyPackages.x86_64-linux.postgresql18Packages.pg_auto_failover:
 legacyPackages.x86_64-linux.postgresql18Packages.pg_bigm:
   description: Text similarity measurement and index searching based on bigrams
   pname: pg_bigm
-  version: 1.2-20240606
+  version: 1.2-20250903
 legacyPackages.x86_64-linux.postgresql18Packages.pg_byteamagic:
   description: PostgreSQL extension to determinate the filetypes of bytea BLOBs
   pname: pg_byteamagic
@@ -226245,7 +226001,7 @@ legacyPackages.x86_64-linux.postgresqlPackages.pg_auto_failover:
 legacyPackages.x86_64-linux.postgresqlPackages.pg_bigm:
   description: Text similarity measurement and index searching based on bigrams
   pname: pg_bigm
-  version: 1.2-20240606
+  version: 1.2-20250903
 legacyPackages.x86_64-linux.postgresqlPackages.pg_byteamagic:
   description: PostgreSQL extension to determinate the filetypes of bytea BLOBs
   pname: pg_byteamagic
@@ -227473,7 +227229,7 @@ legacyPackages.x86_64-linux.prometheus-ping-exporter:
 legacyPackages.x86_64-linux.prometheus-postfix-exporter:
   description: Prometheus exporter for Postfix
   pname: postfix_exporter
-  version: 0.12.1
+  version: 0.14.0
 legacyPackages.x86_64-linux.prometheus-postgres-exporter:
   description: Prometheus exporter for PostgreSQL
   pname: postgres_exporter
@@ -228327,9 +228083,9 @@ legacyPackages.x86_64-linux.pulseeffects-legacy:
   pname: pulseeffects
   version: 4.8.7-unstable-2024-09-17
 legacyPackages.x86_64-linux.pulsemeeter:
-  description: Frontend of pulseaudio's routing capabilities, mimicking voicemeeter's workflow
+  description: Pulseaudio and pipewire audio mixer inspired by voicemeeter
   pname: pulsemeeter
-  version: 1.2.14
+  version: 2.0.0
 legacyPackages.x86_64-linux.pulsemixer:
   description: Cli and curses mixer for pulseaudio
   pname: pulsemixer
@@ -228429,7 +228185,7 @@ legacyPackages.x86_64-linux.pupdate:
 legacyPackages.x86_64-linux.puppet:
   description: Server automation framework and application
   pname: puppet
-  version: 8.6.0
+  version: 8.10.0
 legacyPackages.x86_64-linux.puppet-bolt:
   description: Execute commands remotely over SSH and WinRM
   pname: puppet-bolt
@@ -228582,6 +228338,10 @@ legacyPackages.x86_64-linux.pwdsafety:
   description: Command line tool checking password safety
   pname: pwdsafety
   version: 0.4.0
+legacyPackages.x86_64-linux.pwdsphinx:
+  description: Native backend for web-extensions for Sphinx-based password storage
+  pname: pwdsphinx
+  version: 2.0.3
 legacyPackages.x86_64-linux.pwgen:
   description: Password generator which creates passwords which can be easily memorized by a human
   pname: pwgen
@@ -229445,7 +229205,7 @@ legacyPackages.x86_64-linux.python312Packages.aioaudiobookshelf:
 legacyPackages.x86_64-linux.python312Packages.aioautomower:
   description: Module to communicate with the Automower Connect API
   pname: python3.12-aioautomower
-  version: 2.2.0
+  version: 2.2.2
 legacyPackages.x86_64-linux.python312Packages.aioazuredevops:
   description: Get data from the Azure DevOps API
   pname: python3.12-aioazuredevops
@@ -229781,7 +229541,7 @@ legacyPackages.x86_64-linux.python312Packages.aiomcache:
 legacyPackages.x86_64-linux.python312Packages.aiomealie:
   description: Module to interact with Mealie
   pname: python3.12-aiomealie
-  version: 0.10.1
+  version: 0.10.2
 legacyPackages.x86_64-linux.python312Packages.aiomisc:
   description: Miscellaneous utils for asyncio
   pname: python3.12-aiomisc
@@ -229877,7 +229637,7 @@ legacyPackages.x86_64-linux.python312Packages.aiopulse:
 legacyPackages.x86_64-linux.python312Packages.aiopurpleair:
   description: Python library for interacting with the PurpleAir API
   pname: python3.12-aiopurpleair
-  version: 2023.12.0
+  version: 2025.08.1
 legacyPackages.x86_64-linux.python312Packages.aiopvapi:
   description: Python API for the PowerView API
   pname: python3.12-aiopvapi
@@ -230305,7 +230065,7 @@ legacyPackages.x86_64-linux.python312Packages.amaranth:
 legacyPackages.x86_64-linux.python312Packages.amaranth-boards:
   description: Board definitions for Amaranth HDL
   pname: python3.12-amaranth-boards
-  version: 0-unstable-2025-03-29
+  version: 0-unstable-2025-08-28
 legacyPackages.x86_64-linux.python312Packages.amaranth-soc:
   description: System on Chip toolkit for Amaranth HDL
   pname: python3.12-amaranth-soc
@@ -230822,6 +230582,18 @@ legacyPackages.x86_64-linux.python312Packages.arris-tg2492lg:
   description: Library to connect to an Arris TG2492LG
   pname: python3.12-arris-tg2492lg
   version: 2.2.0
+legacyPackages.x86_64-linux.python312Packages.arro3-compute:
+  description: Rust-based compute kernels for Arrow in Python
+  pname: python3.12-arro3-compute
+  version: 0.5.1
+legacyPackages.x86_64-linux.python312Packages.arro3-core:
+  description: Core library for representing Arrow data in Python
+  pname: python3.12-arro3-core
+  version: 0.5.1
+legacyPackages.x86_64-linux.python312Packages.arro3-io:
+  description: Rust-based readers and writers for Arrow in Python
+  pname: python3.12-arro3-io
+  version: 0.5.1
 legacyPackages.x86_64-linux.python312Packages.arrow:
   description: Python library for date manipulation
   pname: python3.12-arrow
@@ -230877,7 +230649,7 @@ legacyPackages.x86_64-linux.python312Packages.asdf-coordinates-schemas:
 legacyPackages.x86_64-linux.python312Packages.asdf-standard:
   description: Standards document describing ASDF
   pname: python3.12-asdf-standard
-  version: 1.3.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.python312Packages.asdf-transform-schemas:
   description: ASDF schemas for validating transform tags
   pname: python3.12-asdf-transform-schemas
@@ -231938,6 +231710,22 @@ legacyPackages.x86_64-linux.python312Packages.azure-mgmt-resource:
   description: Microsoft Azure SDK for Python
   pname: python3.12-azure-mgmt-resource
   version: 24.0.0
+legacyPackages.x86_64-linux.python312Packages.azure-mgmt-resource-deployments:
+  description: Microsoft Azure SDK for Python
+  pname: python3.12-azure-mgmt-resource-deployments
+  version: 1.0.0b1
+legacyPackages.x86_64-linux.python312Packages.azure-mgmt-resource-deploymentscripts:
+  description: Microsoft Azure SDK for Python
+  pname: python3.12-azure-mgmt-resource-deploymentscripts
+  version: 1.0.0b1
+legacyPackages.x86_64-linux.python312Packages.azure-mgmt-resource-deploymentstacks:
+  description: Microsoft Azure SDK for Python
+  pname: python3.12-azure-mgmt-resource-deploymentstacks
+  version: 1.0.0b1
+legacyPackages.x86_64-linux.python312Packages.azure-mgmt-resource-templatespecs:
+  description: Microsoft Azure SDK for Python
+  pname: python3.12-azure-mgmt-resource-templatespecs
+  version: 1.0.0b1
 legacyPackages.x86_64-linux.python312Packages.azure-mgmt-scheduler:
   description: This is the Microsoft Azure Scheduler Management Client Library
   pname: python3.12-azure-mgmt-scheduler
@@ -233821,7 +233609,7 @@ legacyPackages.x86_64-linux.python312Packages.chevron:
 legacyPackages.x86_64-linux.python312Packages.chex:
   description: Library of utilities for helping to write reliable JAX code
   pname: python3.12-chex
-  version: 0.1.90
+  version: 0.1.91
 legacyPackages.x86_64-linux.python312Packages.chirpstack-api:
   description: ChirpStack gRPC API message and service wrappers for Python
   pname: python3.12-chirpstack-api
@@ -234857,7 +234645,7 @@ legacyPackages.x86_64-linux.python312Packages.craft-application:
 legacyPackages.x86_64-linux.python312Packages.craft-archives:
   description: Library for handling archives/repositories in Canonical craft applications
   pname: python3.12-craft-archives
-  version: 2.1.0
+  version: 2.2.0
 legacyPackages.x86_64-linux.python312Packages.craft-cli:
   description: CLI builder for Canonical's CLI Guidelines
   pname: python3.12-craft-cli
@@ -234865,11 +234653,11 @@ legacyPackages.x86_64-linux.python312Packages.craft-cli:
 legacyPackages.x86_64-linux.python312Packages.craft-grammar:
   description: Advanced grammar for Canonical's craft-parts library
   pname: python3.12-craft-grammar
-  version: 2.1.0
+  version: 2.2.0
 legacyPackages.x86_64-linux.python312Packages.craft-parts:
   description: Software artifact parts builder from Canonical
   pname: python3.12-craft-parts
-  version: 2.20.0
+  version: 2.20.1
 legacyPackages.x86_64-linux.python312Packages.craft-platforms:
   description: Manage platforms and architectures for charm applications
   pname: python3.12-craft-platforms
@@ -234877,7 +234665,7 @@ legacyPackages.x86_64-linux.python312Packages.craft-platforms:
 legacyPackages.x86_64-linux.python312Packages.craft-providers:
   description: Interfaces for instantiating and controlling a variety of build environments
   pname: python3.12-craft-providers
-  version: 2.4.0
+  version: 3.0.0
 legacyPackages.x86_64-linux.python312Packages.craft-store:
   description: Interfaces for communicating with Canonical Stores (e.g. Snap Store)
   pname: python3.12-craft-store
@@ -236277,7 +236065,7 @@ legacyPackages.x86_64-linux.python312Packages.distorm3:
 legacyPackages.x86_64-linux.python312Packages.distrax:
   description: Probability distributions in JAX
   pname: python3.12-distrax
-  version: 0.1.5
+  version: 0.1.7
 legacyPackages.x86_64-linux.python312Packages.distributed:
   description: Distributed computation in Python
   pname: python3.12-distributed
@@ -236581,11 +236369,11 @@ legacyPackages.x86_64-linux.python312Packages.django-hierarkey:
 legacyPackages.x86_64-linux.python312Packages.django-hijack:
   description: Allows superusers to hijack (=login as) and work on behalf of another user
   pname: python3.12-django-hijack
-  version: 3.7.3
+  version: 3.7.4
 legacyPackages.x86_64-linux.python312Packages.django-htmx:
   description: Extensions for using Django with htmx
   pname: python3.12-django-htmx
-  version: 1.23.0
+  version: 1.23.2
 legacyPackages.x86_64-linux.python312Packages.django-i18nfield:
   description: Store internationalized strings in Django models
   pname: python3.12-django-i18nfield
@@ -237021,7 +236809,7 @@ legacyPackages.x86_64-linux.python312Packages.django_guardian:
 legacyPackages.x86_64-linux.python312Packages.django_hijack:
   description: Allows superusers to hijack (=login as) and work on behalf of another user
   pname: python3.12-django-hijack
-  version: 3.7.3
+  version: 3.7.4
 legacyPackages.x86_64-linux.python312Packages.django_modelcluster:
   description: Django extension to allow working with 'clusters' of models as a single unit, independently of the database
   pname: python3.12-django-modelcluster
@@ -237689,7 +237477,7 @@ legacyPackages.x86_64-linux.python312Packages.durus:
 legacyPackages.x86_64-linux.python312Packages.dvc:
   description: Version Control System for Machine Learning Projects
   pname: python3.12-dvc
-  version: 3.61.0
+  version: 3.63.0
 legacyPackages.x86_64-linux.python312Packages.dvc-azure:
   description: Azure plugin for dvc
   pname: python3.12-dvc-azure
@@ -238421,7 +238209,7 @@ legacyPackages.x86_64-linux.python312Packages.evdev:
 legacyPackages.x86_64-linux.python312Packages.eve:
   description: Open source Python REST API framework designed for human beings
   pname: python3.12-eve
-  version: 2.2.1
+  version: 2.2.3
 legacyPackages.x86_64-linux.python312Packages.eventkit:
   description: Event-driven data pipelines
   pname: python3.12-eventkit
@@ -238813,7 +238601,7 @@ legacyPackages.x86_64-linux.python312Packages.faster-whisper:
 legacyPackages.x86_64-linux.python312Packages.fastexcel:
   description: Fast excel file reader for Python, written in Rust
   pname: python3.12-fastexcel
-  version: 0.14.0
+  version: 0.15.1
 legacyPackages.x86_64-linux.python312Packages.fastimport:
   description: VCS fastimport/fastexport parser
   pname: python3.12-fastimport
@@ -243785,7 +243573,7 @@ legacyPackages.x86_64-linux.python312Packages.jupyter-collaboration:
 legacyPackages.x86_64-linux.python312Packages.jupyter-collaboration-ui:
   description: JupyterLab/Jupyter Notebook 7+ extension providing user interface integration for real time collaboration
   pname: python3.12-jupyter-collaboration-ui
-  version: 2.1.0
+  version: 2.1.1
 legacyPackages.x86_64-linux.python312Packages.jupyter-console:
   description: Jupyter terminal console
   pname: python3.12-jupyter-console
@@ -245045,7 +244833,7 @@ legacyPackages.x86_64-linux.python312Packages.libusbsio:
 legacyPackages.x86_64-linux.python312Packages.libuuu:
   description: Python wrapper for libuuu
   pname: python3.12-libuuu
-  version: 1.5.222
+  version: 1.5.233
 legacyPackages.x86_64-linux.python312Packages.libversion:
   description: Python bindings for libversion, which provides fast, powerful and correct generic version string comparison algorithm
   pname: python3.12-libversion
@@ -245577,7 +245365,7 @@ legacyPackages.x86_64-linux.python312Packages.llmx:
 legacyPackages.x86_64-linux.python312Packages.llvmlite:
   description: Lightweight LLVM python binding for writing JIT compilers
   pname: python3.12-llvmlite
-  version: 0.44.0
+  version: 0.45.0rc1
 legacyPackages.x86_64-linux.python312Packages.lm-eval:
   description: Framework for few-shot evaluation of language models
   pname: python3.12-lm-eval
@@ -246917,7 +246705,7 @@ legacyPackages.x86_64-linux.python312Packages.mkdocs-autolinks-plugin:
 legacyPackages.x86_64-linux.python312Packages.mkdocs-autorefs:
   description: Automatically link across pages in MkDocs
   pname: python3.12-mkdocs-autorefs
-  version: 1.4.2
+  version: 1.4.3
 legacyPackages.x86_64-linux.python312Packages.mkdocs-awesome-nav:
   description: Plugin for customizing the navigation structure of your MkDocs site
   pname: python3.12-mkdocs-awesome-nav
@@ -247533,7 +247321,7 @@ legacyPackages.x86_64-linux.python312Packages.mslex:
 legacyPackages.x86_64-linux.python312Packages.msmart-ng:
   description: Python library for local control of Midea (and associated brands) smart air conditioners
   pname: python3.12-msmart-ng
-  version: 2025.7.0
+  version: 2025.9.0
 legacyPackages.x86_64-linux.python312Packages.msoffcrypto-tool:
   description: Python tool and library for decrypting MS Office files with passwords or other keys
   pname: python3.12-msoffcrypto-tool
@@ -250049,7 +249837,7 @@ legacyPackages.x86_64-linux.python312Packages.numato-gpio:
 legacyPackages.x86_64-linux.python312Packages.numba:
   description: Compiling Python code using LLVM
   pname: python3.12-numba
-  version: 0.61.2
+  version: 0.62.0rc1
 legacyPackages.x86_64-linux.python312Packages.numba-scipy:
   description: Extends Numba to make it aware of SciPy
   pname: python3.12-numba-scipy
@@ -250057,7 +249845,7 @@ legacyPackages.x86_64-linux.python312Packages.numba-scipy:
 legacyPackages.x86_64-linux.python312Packages.numbaWithCuda:
   description: Compiling Python code using LLVM
   pname: python3.12-numba
-  version: 0.61.2
+  version: 0.62.0rc1
 legacyPackages.x86_64-linux.python312Packages.numbagg:
   description: Fast N-dimensional aggregation functions with Numba
   pname: python3.12-numbagg
@@ -250829,7 +250617,7 @@ legacyPackages.x86_64-linux.python312Packages.openwrt-ubus-rpc:
 legacyPackages.x86_64-linux.python312Packages.opower:
   description: Module for getting historical and forecasted usage/cost from utilities that use opower.com
   pname: python3.12-opower
-  version: 0.15.3
+  version: 0.15.4
 legacyPackages.x86_64-linux.python312Packages.opsdroid-get-image-size:
   description: Get image width and height given a file path using minimal dependencies
   pname: python3.12-opsdroid-get-image-size
@@ -251037,7 +250825,7 @@ legacyPackages.x86_64-linux.python312Packages.oslo-i18n:
 legacyPackages.x86_64-linux.python312Packages.oslo-log:
   description: oslo.log library
   pname: python3.12-oslo-log
-  version: 7.2.0
+  version: 7.2.1
 legacyPackages.x86_64-linux.python312Packages.oslo-metrics:
   description: OpenStack library for collecting metrics from Oslo libraries
   pname: python3.12-oslo-metrics
@@ -252578,9 +252366,13 @@ legacyPackages.x86_64-linux.python312Packages.posix_ipc:
   description: POSIX IPC primitives (semaphores, shared memory and message queues)
   pname: python3.12-posix-ipc
   version: 1.1.1
+legacyPackages.x86_64-linux.python312Packages.postgrest:
+  description: PostgREST client for Python, provides an ORM interface to PostgREST
+  pname: python3.12-postgrest
+  version: 1.1.1
 legacyPackages.x86_64-linux.python312Packages.postgrest-py:
   description: PostgREST client for Python, provides an ORM interface to PostgREST
-  pname: python3.12-postgrest-py
+  pname: python3.12-postgrest
   version: 1.1.1
 legacyPackages.x86_64-linux.python312Packages.posthog:
   description: Module for interacting with PostHog
@@ -254625,7 +254417,7 @@ legacyPackages.x86_64-linux.python312Packages.pyghmi:
 legacyPackages.x86_64-linux.python312Packages.pygit2:
   description: Set of Python bindings to the libgit2 shared library
   pname: python3.12-pygit2
-  version: 1.18.1
+  version: 1.18.2
 legacyPackages.x86_64-linux.python312Packages.pygitguardian:
   description: Library to access the GitGuardian API
   pname: python3.12-pygitguardian
@@ -254917,7 +254709,7 @@ legacyPackages.x86_64-linux.python312Packages.pyisemail:
 legacyPackages.x86_64-linux.python312Packages.pyiskra:
   description: Python Iskra devices interface
   pname: python3.12-pyiskra
-  version: 0.1.22
+  version: 0.1.26
 legacyPackages.x86_64-linux.python312Packages.pyiss:
   description: Python library to access International Space Station location and data
   pname: python3.12-pyiss
@@ -259697,7 +259489,7 @@ legacyPackages.x86_64-linux.python312Packages.rawpy:
 legacyPackages.x86_64-linux.python312Packages.ray:
   description: Unified framework for scaling AI and Python applications
   pname: python3.12-ray
-  version: 2.49.0
+  version: 2.49.1
 legacyPackages.x86_64-linux.python312Packages.raylib-python-cffi:
   description: Python CFFI bindings for Raylib
   pname: python3.12-raylib-python-cffi
@@ -259789,7 +259581,7 @@ legacyPackages.x86_64-linux.python312Packages.readthedocs-sphinx-ext:
 legacyPackages.x86_64-linux.python312Packages.realtime:
   description: Python Realtime Client for Supabase
   pname: python3.12-realtime-py
-  version: 2.5.2
+  version: 2.7.0
 legacyPackages.x86_64-linux.python312Packages.rebulk:
   description: Advanced string matching from simple patterns
   pname: python3.12-rebulk
@@ -259877,7 +259669,7 @@ legacyPackages.x86_64-linux.python312Packages.refery:
 legacyPackages.x86_64-linux.python312Packages.reflex:
   description: Web apps in pure Python
   pname: python3.12-reflex
-  version: 0.8.7
+  version: 0.8.9
 legacyPackages.x86_64-linux.python312Packages.reflex-chakra:
   description: Chakra Implementation in Reflex
   pname: python3.12-reflex-chakra
@@ -260437,7 +260229,7 @@ legacyPackages.x86_64-linux.python312Packages.rkm-codes:
 legacyPackages.x86_64-linux.python312Packages.rlax:
   description: Library of reinforcement learning building blocks in JAX
   pname: python3.12-rlax
-  version: 0.1.7
+  version: 0.1.8
 legacyPackages.x86_64-linux.python312Packages.rlcard:
   description: Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO
   pname: python3.12-rlcard
@@ -261233,7 +261025,7 @@ legacyPackages.x86_64-linux.python312Packages.scipy-stubs:
 legacyPackages.x86_64-linux.python312Packages.scmrepo:
   description: SCM wrapper and fsspec filesystem
   pname: python3.12-scmrepo
-  version: 3.5.1
+  version: 3.5.2
 legacyPackages.x86_64-linux.python312Packages.scooby:
   description: Lightweight tool for reporting Python package versions and hardware resources
   pname: python3.12-scooby
@@ -261338,10 +261130,6 @@ legacyPackages.x86_64-linux.python312Packages.seabreeze:
   description: Python library to access Ocean Optics spectrometers
   pname: python3.12-seabreeze
   version: 2.10.1
-legacyPackages.x86_64-linux.python312Packages.seaserv:
-  description: File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance
-  pname: seafile-server
-  version: 11.0.12
 legacyPackages.x86_64-linux.python312Packages.seasonal:
   description: Robustly estimate trend and periodicity in a timeseries
   pname: python3.12-seasonal
@@ -262165,7 +261953,7 @@ legacyPackages.x86_64-linux.python312Packages.slither-analyzer:
 legacyPackages.x86_64-linux.python312Packages.slixmpp:
   description: Python library for XMPP
   pname: python3.12-slixmpp
-  version: 1.10.0
+  version: 1.11.0
 legacyPackages.x86_64-linux.python312Packages.slob:
   description: Reference implementation of the slob (sorted list of blobs) format
   pname: python3.12-slob-unstable
@@ -263772,8 +263560,8 @@ legacyPackages.x86_64-linux.python312Packages.sunweg:
   version: 3.1.0
 legacyPackages.x86_64-linux.python312Packages.supabase:
   description: Supabas client for Python
-  pname: python3.12-supabase-py
-  version: 2.16.0
+  pname: python3.12-supabase
+  version: 2.17.0
 legacyPackages.x86_64-linux.python312Packages.supabase-functions:
   description: Library for Supabase Functions
   pname: python3.12-supafunc
@@ -264265,7 +264053,7 @@ legacyPackages.x86_64-linux.python312Packages.tenant-schemas-celery:
 legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python:
   description: Tencent Cloud API 3.0 SDK for Python
   pname: python3.12-tencentcloud-sdk-python
-  version: 3.0.1453
+  version: 3.0.1454
 legacyPackages.x86_64-linux.python312Packages.tendo:
   description: Adds basic functionality that is not provided by Python
   pname: python3.12-tendo
@@ -264541,7 +264329,7 @@ legacyPackages.x86_64-linux.python312Packages.texttable:
 legacyPackages.x86_64-linux.python312Packages.textual:
   description: TUI framework for Python inspired by modern web development
   pname: python3.12-textual
-  version: 6.0.0
+  version: 6.1.0
 legacyPackages.x86_64-linux.python312Packages.textual-autocomplete:
   description: Python library that provides autocomplete capabilities to textual
   pname: python3.12-textual-autocomplete
@@ -265865,7 +265653,7 @@ legacyPackages.x86_64-linux.python312Packages.triggercmd:
 legacyPackages.x86_64-linux.python312Packages.trimesh:
   description: Python library for loading and using triangular meshes
   pname: python3.12-trimesh
-  version: 4.7.4
+  version: 4.8.1
 legacyPackages.x86_64-linux.python312Packages.trino-python-client:
   description: Client for the Trino distributed SQL Engine
   pname: python3.12-trino-python-client
@@ -268685,7 +268473,7 @@ legacyPackages.x86_64-linux.python312Packages.voluptuous-stubs:
 legacyPackages.x86_64-linux.python312Packages.volvocarsapi:
   description: Python client for the Volvo Cars API
   pname: python3.12-volvocarsapi
-  version: 0.4.1
+  version: 0.4.2
 legacyPackages.x86_64-linux.python312Packages.volvooncall:
   description: Retrieve information from the Volvo On Call web service
   pname: python3.12-volvooncall
@@ -270917,7 +270705,7 @@ legacyPackages.x86_64-linux.python313Packages.aioaudiobookshelf:
 legacyPackages.x86_64-linux.python313Packages.aioautomower:
   description: Module to communicate with the Automower Connect API
   pname: python3.13-aioautomower
-  version: 2.2.0
+  version: 2.2.2
 legacyPackages.x86_64-linux.python313Packages.aioazuredevops:
   description: Get data from the Azure DevOps API
   pname: python3.13-aioazuredevops
@@ -271253,7 +271041,7 @@ legacyPackages.x86_64-linux.python313Packages.aiomcache:
 legacyPackages.x86_64-linux.python313Packages.aiomealie:
   description: Module to interact with Mealie
   pname: python3.13-aiomealie
-  version: 0.10.1
+  version: 0.10.2
 legacyPackages.x86_64-linux.python313Packages.aiomisc:
   description: Miscellaneous utils for asyncio
   pname: python3.13-aiomisc
@@ -271349,7 +271137,7 @@ legacyPackages.x86_64-linux.python313Packages.aiopulse:
 legacyPackages.x86_64-linux.python313Packages.aiopurpleair:
   description: Python library for interacting with the PurpleAir API
   pname: python3.13-aiopurpleair
-  version: 2023.12.0
+  version: 2025.08.1
 legacyPackages.x86_64-linux.python313Packages.aiopvapi:
   description: Python API for the PowerView API
   pname: python3.13-aiopvapi
@@ -271777,7 +271565,7 @@ legacyPackages.x86_64-linux.python313Packages.amaranth:
 legacyPackages.x86_64-linux.python313Packages.amaranth-boards:
   description: Board definitions for Amaranth HDL
   pname: python3.13-amaranth-boards
-  version: 0-unstable-2025-03-29
+  version: 0-unstable-2025-08-28
 legacyPackages.x86_64-linux.python313Packages.amaranth-soc:
   description: System on Chip toolkit for Amaranth HDL
   pname: python3.13-amaranth-soc
@@ -272294,6 +272082,18 @@ legacyPackages.x86_64-linux.python313Packages.arris-tg2492lg:
   description: Library to connect to an Arris TG2492LG
   pname: python3.13-arris-tg2492lg
   version: 2.2.0
+legacyPackages.x86_64-linux.python313Packages.arro3-compute:
+  description: Rust-based compute kernels for Arrow in Python
+  pname: python3.13-arro3-compute
+  version: 0.5.1
+legacyPackages.x86_64-linux.python313Packages.arro3-core:
+  description: Core library for representing Arrow data in Python
+  pname: python3.13-arro3-core
+  version: 0.5.1
+legacyPackages.x86_64-linux.python313Packages.arro3-io:
+  description: Rust-based readers and writers for Arrow in Python
+  pname: python3.13-arro3-io
+  version: 0.5.1
 legacyPackages.x86_64-linux.python313Packages.arrow:
   description: Python library for date manipulation
   pname: python3.13-arrow
@@ -272349,7 +272149,7 @@ legacyPackages.x86_64-linux.python313Packages.asdf-coordinates-schemas:
 legacyPackages.x86_64-linux.python313Packages.asdf-standard:
   description: Standards document describing ASDF
   pname: python3.13-asdf-standard
-  version: 1.3.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.python313Packages.asdf-transform-schemas:
   description: ASDF schemas for validating transform tags
   pname: python3.13-asdf-transform-schemas
@@ -273414,6 +273214,22 @@ legacyPackages.x86_64-linux.python313Packages.azure-mgmt-resource:
   description: Microsoft Azure SDK for Python
   pname: python3.13-azure-mgmt-resource
   version: 24.0.0
+legacyPackages.x86_64-linux.python313Packages.azure-mgmt-resource-deployments:
+  description: Microsoft Azure SDK for Python
+  pname: python3.13-azure-mgmt-resource-deployments
+  version: 1.0.0b1
+legacyPackages.x86_64-linux.python313Packages.azure-mgmt-resource-deploymentscripts:
+  description: Microsoft Azure SDK for Python
+  pname: python3.13-azure-mgmt-resource-deploymentscripts
+  version: 1.0.0b1
+legacyPackages.x86_64-linux.python313Packages.azure-mgmt-resource-deploymentstacks:
+  description: Microsoft Azure SDK for Python
+  pname: python3.13-azure-mgmt-resource-deploymentstacks
+  version: 1.0.0b1
+legacyPackages.x86_64-linux.python313Packages.azure-mgmt-resource-templatespecs:
+  description: Microsoft Azure SDK for Python
+  pname: python3.13-azure-mgmt-resource-templatespecs
+  version: 1.0.0b1
 legacyPackages.x86_64-linux.python313Packages.azure-mgmt-scheduler:
   description: This is the Microsoft Azure Scheduler Management Client Library
   pname: python3.13-azure-mgmt-scheduler
@@ -275297,7 +275113,7 @@ legacyPackages.x86_64-linux.python313Packages.chevron:
 legacyPackages.x86_64-linux.python313Packages.chex:
   description: Library of utilities for helping to write reliable JAX code
   pname: python3.13-chex
-  version: 0.1.90
+  version: 0.1.91
 legacyPackages.x86_64-linux.python313Packages.chirpstack-api:
   description: ChirpStack gRPC API message and service wrappers for Python
   pname: python3.13-chirpstack-api
@@ -276333,7 +276149,7 @@ legacyPackages.x86_64-linux.python313Packages.craft-application:
 legacyPackages.x86_64-linux.python313Packages.craft-archives:
   description: Library for handling archives/repositories in Canonical craft applications
   pname: python3.13-craft-archives
-  version: 2.1.0
+  version: 2.2.0
 legacyPackages.x86_64-linux.python313Packages.craft-cli:
   description: CLI builder for Canonical's CLI Guidelines
   pname: python3.13-craft-cli
@@ -276341,11 +276157,11 @@ legacyPackages.x86_64-linux.python313Packages.craft-cli:
 legacyPackages.x86_64-linux.python313Packages.craft-grammar:
   description: Advanced grammar for Canonical's craft-parts library
   pname: python3.13-craft-grammar
-  version: 2.1.0
+  version: 2.2.0
 legacyPackages.x86_64-linux.python313Packages.craft-parts:
   description: Software artifact parts builder from Canonical
   pname: python3.13-craft-parts
-  version: 2.20.0
+  version: 2.20.1
 legacyPackages.x86_64-linux.python313Packages.craft-platforms:
   description: Manage platforms and architectures for charm applications
   pname: python3.13-craft-platforms
@@ -276353,7 +276169,7 @@ legacyPackages.x86_64-linux.python313Packages.craft-platforms:
 legacyPackages.x86_64-linux.python313Packages.craft-providers:
   description: Interfaces for instantiating and controlling a variety of build environments
   pname: python3.13-craft-providers
-  version: 2.4.0
+  version: 3.0.0
 legacyPackages.x86_64-linux.python313Packages.craft-store:
   description: Interfaces for communicating with Canonical Stores (e.g. Snap Store)
   pname: python3.13-craft-store
@@ -277753,7 +277569,7 @@ legacyPackages.x86_64-linux.python313Packages.distorm3:
 legacyPackages.x86_64-linux.python313Packages.distrax:
   description: Probability distributions in JAX
   pname: python3.13-distrax
-  version: 0.1.5
+  version: 0.1.7
 legacyPackages.x86_64-linux.python313Packages.distributed:
   description: Distributed computation in Python
   pname: python3.13-distributed
@@ -278057,11 +277873,11 @@ legacyPackages.x86_64-linux.python313Packages.django-hierarkey:
 legacyPackages.x86_64-linux.python313Packages.django-hijack:
   description: Allows superusers to hijack (=login as) and work on behalf of another user
   pname: python3.13-django-hijack
-  version: 3.7.3
+  version: 3.7.4
 legacyPackages.x86_64-linux.python313Packages.django-htmx:
   description: Extensions for using Django with htmx
   pname: python3.13-django-htmx
-  version: 1.23.0
+  version: 1.23.2
 legacyPackages.x86_64-linux.python313Packages.django-i18nfield:
   description: Store internationalized strings in Django models
   pname: python3.13-django-i18nfield
@@ -278497,7 +278313,7 @@ legacyPackages.x86_64-linux.python313Packages.django_guardian:
 legacyPackages.x86_64-linux.python313Packages.django_hijack:
   description: Allows superusers to hijack (=login as) and work on behalf of another user
   pname: python3.13-django-hijack
-  version: 3.7.3
+  version: 3.7.4
 legacyPackages.x86_64-linux.python313Packages.django_modelcluster:
   description: Django extension to allow working with 'clusters' of models as a single unit, independently of the database
   pname: python3.13-django-modelcluster
@@ -279165,7 +278981,7 @@ legacyPackages.x86_64-linux.python313Packages.durus:
 legacyPackages.x86_64-linux.python313Packages.dvc:
   description: Version Control System for Machine Learning Projects
   pname: python3.13-dvc
-  version: 3.61.0
+  version: 3.63.0
 legacyPackages.x86_64-linux.python313Packages.dvc-azure:
   description: Azure plugin for dvc
   pname: python3.13-dvc-azure
@@ -279897,7 +279713,7 @@ legacyPackages.x86_64-linux.python313Packages.evdev:
 legacyPackages.x86_64-linux.python313Packages.eve:
   description: Open source Python REST API framework designed for human beings
   pname: python3.13-eve
-  version: 2.2.1
+  version: 2.2.3
 legacyPackages.x86_64-linux.python313Packages.eventkit:
   description: Event-driven data pipelines
   pname: python3.13-eventkit
@@ -280289,7 +280105,7 @@ legacyPackages.x86_64-linux.python313Packages.faster-whisper:
 legacyPackages.x86_64-linux.python313Packages.fastexcel:
   description: Fast excel file reader for Python, written in Rust
   pname: python3.13-fastexcel
-  version: 0.14.0
+  version: 0.15.1
 legacyPackages.x86_64-linux.python313Packages.fastimport:
   description: VCS fastimport/fastexport parser
   pname: python3.13-fastimport
@@ -285261,7 +285077,7 @@ legacyPackages.x86_64-linux.python313Packages.jupyter-collaboration:
 legacyPackages.x86_64-linux.python313Packages.jupyter-collaboration-ui:
   description: JupyterLab/Jupyter Notebook 7+ extension providing user interface integration for real time collaboration
   pname: python3.13-jupyter-collaboration-ui
-  version: 2.1.0
+  version: 2.1.1
 legacyPackages.x86_64-linux.python313Packages.jupyter-console:
   description: Jupyter terminal console
   pname: python3.13-jupyter-console
@@ -286521,7 +286337,7 @@ legacyPackages.x86_64-linux.python313Packages.libusbsio:
 legacyPackages.x86_64-linux.python313Packages.libuuu:
   description: Python wrapper for libuuu
   pname: python3.13-libuuu
-  version: 1.5.222
+  version: 1.5.233
 legacyPackages.x86_64-linux.python313Packages.libversion:
   description: Python bindings for libversion, which provides fast, powerful and correct generic version string comparison algorithm
   pname: python3.13-libversion
@@ -287053,7 +286869,7 @@ legacyPackages.x86_64-linux.python313Packages.llmx:
 legacyPackages.x86_64-linux.python313Packages.llvmlite:
   description: Lightweight LLVM python binding for writing JIT compilers
   pname: python3.13-llvmlite
-  version: 0.44.0
+  version: 0.45.0rc1
 legacyPackages.x86_64-linux.python313Packages.lm-eval:
   description: Framework for few-shot evaluation of language models
   pname: python3.13-lm-eval
@@ -288393,7 +288209,7 @@ legacyPackages.x86_64-linux.python313Packages.mkdocs-autolinks-plugin:
 legacyPackages.x86_64-linux.python313Packages.mkdocs-autorefs:
   description: Automatically link across pages in MkDocs
   pname: python3.13-mkdocs-autorefs
-  version: 1.4.2
+  version: 1.4.3
 legacyPackages.x86_64-linux.python313Packages.mkdocs-awesome-nav:
   description: Plugin for customizing the navigation structure of your MkDocs site
   pname: python3.13-mkdocs-awesome-nav
@@ -289009,7 +288825,7 @@ legacyPackages.x86_64-linux.python313Packages.mslex:
 legacyPackages.x86_64-linux.python313Packages.msmart-ng:
   description: Python library for local control of Midea (and associated brands) smart air conditioners
   pname: python3.13-msmart-ng
-  version: 2025.7.0
+  version: 2025.9.0
 legacyPackages.x86_64-linux.python313Packages.msoffcrypto-tool:
   description: Python tool and library for decrypting MS Office files with passwords or other keys
   pname: python3.13-msoffcrypto-tool
@@ -291525,7 +291341,7 @@ legacyPackages.x86_64-linux.python313Packages.numato-gpio:
 legacyPackages.x86_64-linux.python313Packages.numba:
   description: Compiling Python code using LLVM
   pname: python3.13-numba
-  version: 0.61.2
+  version: 0.62.0rc1
 legacyPackages.x86_64-linux.python313Packages.numba-scipy:
   description: Extends Numba to make it aware of SciPy
   pname: python3.13-numba-scipy
@@ -291533,7 +291349,7 @@ legacyPackages.x86_64-linux.python313Packages.numba-scipy:
 legacyPackages.x86_64-linux.python313Packages.numbaWithCuda:
   description: Compiling Python code using LLVM
   pname: python3.13-numba
-  version: 0.61.2
+  version: 0.62.0rc1
 legacyPackages.x86_64-linux.python313Packages.numbagg:
   description: Fast N-dimensional aggregation functions with Numba
   pname: python3.13-numbagg
@@ -292305,7 +292121,7 @@ legacyPackages.x86_64-linux.python313Packages.openwrt-ubus-rpc:
 legacyPackages.x86_64-linux.python313Packages.opower:
   description: Module for getting historical and forecasted usage/cost from utilities that use opower.com
   pname: python3.13-opower
-  version: 0.15.3
+  version: 0.15.4
 legacyPackages.x86_64-linux.python313Packages.opsdroid-get-image-size:
   description: Get image width and height given a file path using minimal dependencies
   pname: python3.13-opsdroid-get-image-size
@@ -292513,7 +292329,7 @@ legacyPackages.x86_64-linux.python313Packages.oslo-i18n:
 legacyPackages.x86_64-linux.python313Packages.oslo-log:
   description: oslo.log library
   pname: python3.13-oslo-log
-  version: 7.2.0
+  version: 7.2.1
 legacyPackages.x86_64-linux.python313Packages.oslo-metrics:
   description: OpenStack library for collecting metrics from Oslo libraries
   pname: python3.13-oslo-metrics
@@ -294054,9 +293870,13 @@ legacyPackages.x86_64-linux.python313Packages.posix_ipc:
   description: POSIX IPC primitives (semaphores, shared memory and message queues)
   pname: python3.13-posix-ipc
   version: 1.1.1
+legacyPackages.x86_64-linux.python313Packages.postgrest:
+  description: PostgREST client for Python, provides an ORM interface to PostgREST
+  pname: python3.13-postgrest
+  version: 1.1.1
 legacyPackages.x86_64-linux.python313Packages.postgrest-py:
   description: PostgREST client for Python, provides an ORM interface to PostgREST
-  pname: python3.13-postgrest-py
+  pname: python3.13-postgrest
   version: 1.1.1
 legacyPackages.x86_64-linux.python313Packages.posthog:
   description: Module for interacting with PostHog
@@ -296101,7 +295921,7 @@ legacyPackages.x86_64-linux.python313Packages.pyghmi:
 legacyPackages.x86_64-linux.python313Packages.pygit2:
   description: Set of Python bindings to the libgit2 shared library
   pname: python3.13-pygit2
-  version: 1.18.1
+  version: 1.18.2
 legacyPackages.x86_64-linux.python313Packages.pygitguardian:
   description: Library to access the GitGuardian API
   pname: python3.13-pygitguardian
@@ -296393,7 +296213,7 @@ legacyPackages.x86_64-linux.python313Packages.pyisemail:
 legacyPackages.x86_64-linux.python313Packages.pyiskra:
   description: Python Iskra devices interface
   pname: python3.13-pyiskra
-  version: 0.1.22
+  version: 0.1.26
 legacyPackages.x86_64-linux.python313Packages.pyiss:
   description: Python library to access International Space Station location and data
   pname: python3.13-pyiss
@@ -301173,7 +300993,7 @@ legacyPackages.x86_64-linux.python313Packages.rawpy:
 legacyPackages.x86_64-linux.python313Packages.ray:
   description: Unified framework for scaling AI and Python applications
   pname: python3.13-ray
-  version: 2.49.0
+  version: 2.49.1
 legacyPackages.x86_64-linux.python313Packages.raylib-python-cffi:
   description: Python CFFI bindings for Raylib
   pname: python3.13-raylib-python-cffi
@@ -301265,7 +301085,7 @@ legacyPackages.x86_64-linux.python313Packages.readthedocs-sphinx-ext:
 legacyPackages.x86_64-linux.python313Packages.realtime:
   description: Python Realtime Client for Supabase
   pname: python3.13-realtime-py
-  version: 2.5.2
+  version: 2.7.0
 legacyPackages.x86_64-linux.python313Packages.rebulk:
   description: Advanced string matching from simple patterns
   pname: python3.13-rebulk
@@ -301353,7 +301173,7 @@ legacyPackages.x86_64-linux.python313Packages.refery:
 legacyPackages.x86_64-linux.python313Packages.reflex:
   description: Web apps in pure Python
   pname: python3.13-reflex
-  version: 0.8.7
+  version: 0.8.9
 legacyPackages.x86_64-linux.python313Packages.reflex-chakra:
   description: Chakra Implementation in Reflex
   pname: python3.13-reflex-chakra
@@ -301913,7 +301733,7 @@ legacyPackages.x86_64-linux.python313Packages.rkm-codes:
 legacyPackages.x86_64-linux.python313Packages.rlax:
   description: Library of reinforcement learning building blocks in JAX
   pname: python3.13-rlax
-  version: 0.1.7
+  version: 0.1.8
 legacyPackages.x86_64-linux.python313Packages.rlcard:
   description: Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO
   pname: python3.13-rlcard
@@ -302709,7 +302529,7 @@ legacyPackages.x86_64-linux.python313Packages.scipy-stubs:
 legacyPackages.x86_64-linux.python313Packages.scmrepo:
   description: SCM wrapper and fsspec filesystem
   pname: python3.13-scmrepo
-  version: 3.5.1
+  version: 3.5.2
 legacyPackages.x86_64-linux.python313Packages.scooby:
   description: Lightweight tool for reporting Python package versions and hardware resources
   pname: python3.13-scooby
@@ -302814,10 +302634,6 @@ legacyPackages.x86_64-linux.python313Packages.seabreeze:
   description: Python library to access Ocean Optics spectrometers
   pname: python3.13-seabreeze
   version: 2.10.1
-legacyPackages.x86_64-linux.python313Packages.seaserv:
-  description: File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance
-  pname: seafile-server
-  version: 11.0.12
 legacyPackages.x86_64-linux.python313Packages.seasonal:
   description: Robustly estimate trend and periodicity in a timeseries
   pname: python3.13-seasonal
@@ -303641,7 +303457,7 @@ legacyPackages.x86_64-linux.python313Packages.slither-analyzer:
 legacyPackages.x86_64-linux.python313Packages.slixmpp:
   description: Python library for XMPP
   pname: python3.13-slixmpp
-  version: 1.10.0
+  version: 1.11.0
 legacyPackages.x86_64-linux.python313Packages.slob:
   description: Reference implementation of the slob (sorted list of blobs) format
   pname: python3.13-slob-unstable
@@ -305284,8 +305100,8 @@ legacyPackages.x86_64-linux.python313Packages.sunweg:
   version: 3.1.0
 legacyPackages.x86_64-linux.python313Packages.supabase:
   description: Supabas client for Python
-  pname: python3.13-supabase-py
-  version: 2.16.0
+  pname: python3.13-supabase
+  version: 2.17.0
 legacyPackages.x86_64-linux.python313Packages.supabase-functions:
   description: Library for Supabase Functions
   pname: python3.13-supafunc
@@ -305777,7 +305593,7 @@ legacyPackages.x86_64-linux.python313Packages.tenant-schemas-celery:
 legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python:
   description: Tencent Cloud API 3.0 SDK for Python
   pname: python3.13-tencentcloud-sdk-python
-  version: 3.0.1453
+  version: 3.0.1454
 legacyPackages.x86_64-linux.python313Packages.tendo:
   description: Adds basic functionality that is not provided by Python
   pname: python3.13-tendo
@@ -306053,7 +305869,7 @@ legacyPackages.x86_64-linux.python313Packages.texttable:
 legacyPackages.x86_64-linux.python313Packages.textual:
   description: TUI framework for Python inspired by modern web development
   pname: python3.13-textual
-  version: 6.0.0
+  version: 6.1.0
 legacyPackages.x86_64-linux.python313Packages.textual-autocomplete:
   description: Python library that provides autocomplete capabilities to textual
   pname: python3.13-textual-autocomplete
@@ -307377,7 +307193,7 @@ legacyPackages.x86_64-linux.python313Packages.triggercmd:
 legacyPackages.x86_64-linux.python313Packages.trimesh:
   description: Python library for loading and using triangular meshes
   pname: python3.13-trimesh
-  version: 4.7.4
+  version: 4.8.1
 legacyPackages.x86_64-linux.python313Packages.trino-python-client:
   description: Client for the Trino distributed SQL Engine
   pname: python3.13-trino-python-client
@@ -310197,7 +310013,7 @@ legacyPackages.x86_64-linux.python313Packages.voluptuous-stubs:
 legacyPackages.x86_64-linux.python313Packages.volvocarsapi:
   description: Python client for the Volvo Cars API
   pname: python3.13-volvocarsapi
-  version: 0.4.1
+  version: 0.4.2
 legacyPackages.x86_64-linux.python313Packages.volvooncall:
   description: Retrieve information from the Volvo On Call web service
   pname: python3.13-volvooncall
@@ -313469,7 +313285,7 @@ legacyPackages.x86_64-linux.quark-goldleaf:
 legacyPackages.x86_64-linux.quarkus:
   description: Kubernetes-native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards
   pname: quarkus-cli
-  version: 3.25.3
+  version: 3.25.4
 legacyPackages.x86_64-linux.quarto:
   description: Open-source scientific and technical publishing system built on Pandoc
   pname: quarto
@@ -314321,7 +314137,7 @@ legacyPackages.x86_64-linux.rbspy:
 legacyPackages.x86_64-linux.rbw:
   description: Unofficial command line client for Bitwarden
   pname: rbw
-  version: 1.13.2
+  version: 1.14.1
 legacyPackages.x86_64-linux.rc:
   description: Plan 9 shell
   pname: rc-unstable
@@ -314989,7 +314805,7 @@ legacyPackages.x86_64-linux.rekor-server:
 legacyPackages.x86_64-linux.release-plz:
   description: Publish Rust crates from CI with a Release PR
   pname: release-plz
-  version: 0.3.140
+  version: 0.3.142
 legacyPackages.x86_64-linux.relic:
   description: Service and a tool for adding digital signatures to operating system packages for Linux and Windows
   pname: relic
@@ -315897,7 +315713,7 @@ legacyPackages.x86_64-linux.rke:
 legacyPackages.x86_64-linux.rke2:
   description: Rancher's next-generation Kubernetes distribution, also known as RKE Government
   pname: rke2
-  version: 1.31.7+rke2r1
+  version: 1.31.11+rke2r1
 legacyPackages.x86_64-linux.rke2_1_30:
   description: Rancher's next-generation Kubernetes distribution, also known as RKE Government
   pname: rke2
@@ -315905,7 +315721,7 @@ legacyPackages.x86_64-linux.rke2_1_30:
 legacyPackages.x86_64-linux.rke2_1_31:
   description: Rancher's next-generation Kubernetes distribution, also known as RKE Government
   pname: rke2
-  version: 1.31.7+rke2r1
+  version: 1.31.11+rke2r1
 legacyPackages.x86_64-linux.rke2_1_32:
   description: Rancher's next-generation Kubernetes distribution, also known as RKE Government
   pname: rke2
@@ -315917,7 +315733,7 @@ legacyPackages.x86_64-linux.rke2_latest:
 legacyPackages.x86_64-linux.rke2_stable:
   description: Rancher's next-generation Kubernetes distribution, also known as RKE Government
   pname: rke2
-  version: 1.31.7+rke2r1
+  version: 1.31.11+rke2r1
 legacyPackages.x86_64-linux.rkflashtool:
   description: Tools for flashing Rockchip devices
   pname: rkflashtool
@@ -317165,7 +316981,7 @@ legacyPackages.x86_64-linux.roslyn:
 legacyPackages.x86_64-linux.roslyn-ls:
   description: Language server behind C# Dev Kit for Visual Studio Code
   pname: roslyn-ls
-  version: 5.0.0-2.25371.17
+  version: 5.0.0-2.25424.1
 legacyPackages.x86_64-linux.rospo:
   description: Simple, reliable, persistent ssh tunnels with embedded ssh server
   pname: rospo
@@ -326153,7 +325969,7 @@ legacyPackages.x86_64-linux.ruff:
 legacyPackages.x86_64-linux.ruffle:
   description: Cross platform Adobe Flash Player emulator
   pname: ruffle
-  version: 0.2-nightly-2025-08-22
+  version: 0.2-nightly-2025-09-02
 legacyPackages.x86_64-linux.rufo:
   description: Ruby formatter
   pname: rufo
@@ -346786,10 +346602,6 @@ legacyPackages.x86_64-linux.seafile-client:
   description: Desktop client for Seafile, the Next-generation Open Source Cloud Storage
   pname: seafile-client
   version: 9.0.14
-legacyPackages.x86_64-linux.seafile-server:
-  description: File syncing and sharing software with file encryption and group sharing, emphasis on reliability and high performance
-  pname: seafile-server
-  version: 11.0.12
 legacyPackages.x86_64-linux.seafile-shared:
   description: 'Shared components of Seafile: seafile-daemon, libseafile, libseafile python bindings, manuals, and icons'
   pname: seafile-shared
@@ -346802,10 +346614,6 @@ legacyPackages.x86_64-linux.seahorse:
   description: Application for managing encryption keys and passwords in the GnomeKeyring
   pname: seahorse
   version: 47.0.1
-legacyPackages.x86_64-linux.seahub:
-  description: Web end of seafile server
-  pname: seahub
-  version: 11.0.12
 legacyPackages.x86_64-linux.sealcurses:
   description: SDL Emulation and Adaptation Layer for Curses (ncursesw)
   pname: sealcurses
@@ -347989,7 +347797,7 @@ legacyPackages.x86_64-linux.signal-cli:
 legacyPackages.x86_64-linux.signal-desktop:
   description: Private, simple, and secure messenger (nixpkgs build)
   pname: signal-desktop
-  version: 7.66.0
+  version: 7.68.0
 legacyPackages.x86_64-linux.signal-desktop-bin:
   description: Private, simple, and secure messenger
   pname: signal-desktop-bin
@@ -347997,7 +347805,7 @@ legacyPackages.x86_64-linux.signal-desktop-bin:
 legacyPackages.x86_64-linux.signal-desktop-source:
   description: Private, simple, and secure messenger (nixpkgs build)
   pname: signal-desktop
-  version: 7.66.0
+  version: 7.68.0
 legacyPackages.x86_64-linux.signal-export:
   description: Export your Signal chats to markdown files with attachments
   pname: signal-export
@@ -349065,7 +348873,7 @@ legacyPackages.x86_64-linux.snapcast:
 legacyPackages.x86_64-linux.snapcraft:
   description: Build and publish Snap packages
   pname: snapcraft
-  version: 8.10.2
+  version: 8.11.2
 legacyPackages.x86_64-linux.snapdragon-profiler:
   description: Profiler for Android devices running Snapdragon chips
   pname: snapdragon-profiler
@@ -350457,7 +350265,7 @@ legacyPackages.x86_64-linux.spotify-cli-linux:
 legacyPackages.x86_64-linux.spotify-player:
   description: Terminal spotify player that has feature parity with the official client
   pname: spotify-player
-  version: 0.20.7
+  version: 0.21.0
 legacyPackages.x86_64-linux.spotify-qt:
   description: Lightweight unofficial Spotify client using Qt
   pname: spotify-qt
@@ -352213,7 +352021,7 @@ legacyPackages.x86_64-linux.sunsama:
 legacyPackages.x86_64-linux.sunsetr:
   description: Automatic blue light filter for Hyprland, Niri, and everything Wayland
   pname: sunsetr
-  version: 0.7.1
+  version: 0.8.0
 legacyPackages.x86_64-linux.sunshine:
   description: Game stream host for Moonlight
   pname: sunshine
@@ -352421,7 +352229,7 @@ legacyPackages.x86_64-linux.survex:
 legacyPackages.x86_64-linux.sus-compiler:
   description: New Hardware Design Language that keeps you in the driver's seat
   pname: sus-compiler
-  version: 0.2.1
+  version: 0.3.0-unstable-2025-08-28
 legacyPackages.x86_64-linux.suscan:
   description: Channel scanner based on sigutils library
   pname: suscan
@@ -352713,7 +352521,7 @@ legacyPackages.x86_64-linux.swaynag-battery:
 legacyPackages.x86_64-linux.swaynotificationcenter:
   description: Simple notification daemon with a GUI built for Sway
   pname: SwayNotificationCenter
-  version: 0.12.1
+  version: 0.12.2
 legacyPackages.x86_64-linux.swayosd:
   description: GTK based on screen display for keyboard shortcuts
   pname: swayosd
@@ -353097,7 +352905,7 @@ legacyPackages.x86_64-linux.synapse-admin:
 legacyPackages.x86_64-linux.synapse-admin-etkecc:
   description: Maintained fork of the admin console for (Matrix) Synapse homeservers, including additional features
   pname: synapse-admin-etkecc
-  version: 0.11.1-etke45
+  version: 0.11.1-etke47
 legacyPackages.x86_64-linux.synapse-bt:
   description: Flexible and fast BitTorrent daemon
   pname: synapse-bt-unstable
@@ -354273,7 +354081,7 @@ legacyPackages.x86_64-linux.tdb:
 legacyPackages.x86_64-linux.tdesktop:
   description: Telegram Desktop messaging app
   pname: telegram-desktop
-  version: 6.0.2
+  version: 6.1.1
 legacyPackages.x86_64-linux.tdf:
   description: Tui-based PDF viewer
   pname: tdf
@@ -354469,7 +354277,7 @@ legacyPackages.x86_64-linux.telegram-bot-api:
 legacyPackages.x86_64-linux.telegram-desktop:
   description: Telegram Desktop messaging app
   pname: telegram-desktop
-  version: 6.0.2
+  version: 6.1.1
 legacyPackages.x86_64-linux.telegraph:
   description: Write and decode Morse
   pname: telegraph
@@ -354553,7 +354361,7 @@ legacyPackages.x86_64-linux.tellico:
 legacyPackages.x86_64-linux.templ:
   description: Language for writing HTML user interfaces in Go
   pname: templ
-  version: 0.3.937
+  version: 0.3.943
 legacyPackages.x86_64-linux.template-glib:
   description: Library for template expansion which supports calling into GObject Introspection from templates
   pname: template-glib
@@ -356133,11 +355941,11 @@ legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_20.libcxx:
 legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_21.clang:
   description: ""
   pname: cc-wrapper-test-clang
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_21.libcxx:
   description: ""
   pname: cc-wrapper-test-clang-libcxx
-  version: 21.1.0-rc3
+  version: 21.1.0
 legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_git.clang:
   description: ""
   pname: cc-wrapper-test-clang
@@ -378657,7 +378465,7 @@ legacyPackages.x86_64-linux.tig:
 legacyPackages.x86_64-linux.tigerbeetle:
   description: Financial accounting database designed to be distributed and fast
   pname: tigerbeetle
-  version: 0.16.55
+  version: 0.16.57
 legacyPackages.x86_64-linux.tigerjython:
   description: Simple development environment for programming in Python
   pname: tigerjython
@@ -381109,7 +380917,7 @@ legacyPackages.x86_64-linux.triton-llvm:
 legacyPackages.x86_64-linux.trivy:
   description: Simple and comprehensive vulnerability scanner for containers, suitable for CI
   pname: trivy
-  version: 0.65.0
+  version: 0.66.0
 legacyPackages.x86_64-linux.trlib:
   description: Trust Region Subproblem Solver Library
   pname: trlib
@@ -381509,7 +381317,7 @@ legacyPackages.x86_64-linux.tukai:
 legacyPackages.x86_64-linux.tuleap-cli:
   description: Command-line interface for the Tuleap API
   pname: tuleap-cli
-  version: 1.1.0
+  version: 1.2.0
 legacyPackages.x86_64-linux.tulip:
   description: Visualization framework for the analysis and visualization of relational data
   pname: tulip
@@ -381537,7 +381345,7 @@ legacyPackages.x86_64-linux.tunctl:
 legacyPackages.x86_64-linux.tuned:
   description: Tuning Profile Delivery Mechanism for Linux
   pname: tuned
-  version: 2.25.1
+  version: 2.26.0
 legacyPackages.x86_64-linux.tunefish:
   description: Virtual analog synthesizer LV2 plugin
   pname: tunefish
@@ -394153,7 +393961,7 @@ legacyPackages.x86_64-linux.undervolt:
 legacyPackages.x86_64-linux.undetected-chromedriver:
   description: Custom Selenium ChromeDriver that passes all bot mitigation systems
   pname: undetected-chromedriver
-  version: 139.0.7258.154
+  version: 140.0.7339.80
 legacyPackages.x86_64-linux.undistract-me:
   description: Notifies you when long-running terminal commands complete
   pname: undistract-me
@@ -395245,7 +395053,7 @@ legacyPackages.x86_64-linux.uwsgi:
 legacyPackages.x86_64-linux.uwsm:
   description: Universal wayland session manager
   pname: uwsm
-  version: 0.23.2
+  version: 0.23.3
 legacyPackages.x86_64-linux.uwu-colors:
   description: Simple LSP server made to display colors via textDocument/documentColor
   pname: uwu-colors
@@ -395769,7 +395577,7 @@ legacyPackages.x86_64-linux.vector:
 legacyPackages.x86_64-linux.vectorcode:
   description: Code repository indexing tool to supercharge your LLM experience
   pname: vectorcode
-  version: 0.7.14
+  version: 0.7.15
 legacyPackages.x86_64-linux.vectoroids:
   description: Clone of the classic arcade game Asteroids by Atari
   pname: vectoroids
@@ -395801,7 +395609,7 @@ legacyPackages.x86_64-linux.velero:
 legacyPackages.x86_64-linux.velocity:
   description: Modern, next-generation Minecraft server proxy
   pname: velocity
-  version: 3.4.0-unstable-2025-08-14
+  version: 3.4.0-unstable-2025-08-31
 legacyPackages.x86_64-linux.veloren:
   description: Open world, open source voxel RPG
   pname: veloren
@@ -395865,7 +395673,7 @@ legacyPackages.x86_64-linux.veracrypt:
 legacyPackages.x86_64-linux.verapdf:
   description: Command line and GUI industry supported PDF/A and PDF/UA Validation
   pname: verapdf
-  version: 1.26.5
+  version: 1.28.2
 legacyPackages.x86_64-linux.verbiste:
   description: French and Italian verb conjugator
   pname: verbiste
@@ -403185,7 +402993,7 @@ legacyPackages.x86_64-linux.vimPlugins.vague-nvim:
 legacyPackages.x86_64-linux.vimPlugins.vectorcode-nvim:
   description: Index and navigate your code repository using vectorcode
   pname: vimplugin-vectorcode.nvim
-  version: 0.7.14
+  version: 0.7.15
 legacyPackages.x86_64-linux.vimPlugins.venn-nvim:
   description: ""
   pname: vimplugin-venn.nvim
@@ -405934,6 +405742,10 @@ legacyPackages.x86_64-linux.vscode-extensions.ExiaHuang.dictionary:
   description: Visual Studio Code extension of using chinese-english dictonary in right-click menu
   pname: vscode-extension-ExiaHuang-dictionary
   version: 0.0.2
+legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion:
+  description: Enable Gemini CLI with direct access to your IDE workspace
+  pname: vscode-extension-gemini-cli-vscode-ide-companion
+  version: 0.2.2
 legacyPackages.x86_64-linux.vscode-extensions.RoweWilsonFrederiskHolme.wikitext:
   description: Extension that helps users view and write MediaWiki's Wikitext files
   pname: vscode-extension-RoweWilsonFrederiskHolme-wikitext
@@ -407973,7 +407785,7 @@ legacyPackages.x86_64-linux.vultr-cli:
 legacyPackages.x86_64-linux.vunnel:
   description: Tool for collecting vulnerability data from various sources
   pname: vunnel
-  version: 0.37.0
+  version: 0.38.0
 legacyPackages.x86_64-linux.vvenc:
   description: Fraunhofer Versatile Video Encoder
   pname: vvenc
@@ -408221,7 +408033,7 @@ legacyPackages.x86_64-linux.warp-plus:
 legacyPackages.x86_64-linux.warp-terminal:
   description: Rust-based terminal
   pname: warp-terminal
-  version: 0.2025.08.27.08.11.stable_03
+  version: 0.2025.08.27.08.11.stable_04
 legacyPackages.x86_64-linux.warpd:
   description: Modal keyboard driven interface for mouse manipulation
   pname: warpd
@@ -409109,7 +408921,7 @@ legacyPackages.x86_64-linux.wgautomesh:
 legacyPackages.x86_64-linux.wgcf:
   description: Cross-platform, unofficial CLI for Cloudflare Warp
   pname: wgcf
-  version: 2.2.28
+  version: 2.2.29
 legacyPackages.x86_64-linux.wget:
   description: Tool for retrieving files using HTTP, HTTPS, and FTP
   pname: wget
@@ -409185,7 +408997,7 @@ legacyPackages.x86_64-linux.whatstyle:
 legacyPackages.x86_64-linux.whatweb:
   description: Next generation web scanner
   pname: whatweb
-  version: 0.5.5
+  version: 0.6.2
 legacyPackages.x86_64-linux.when:
   description: Extremely simple personal calendar program
   pname: when
@@ -409487,7 +409299,7 @@ legacyPackages.x86_64-linux.wine-discord-ipc-bridge:
   pname: wine-discord-ipc-bridge
   version: 0.0.3
 legacyPackages.x86_64-linux.wine-staging:
-  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
+  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine-staging
   version: "10.14"
 legacyPackages.x86_64-linux.wine-wayland:
@@ -409547,7 +409359,7 @@ legacyPackages.x86_64-linux.wine64Packages.waylandFull:
   pname: wine64
   version: "10.0"
 legacyPackages.x86_64-linux.wine64Packages.yabridge:
-  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
+  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine64-yabridge
   version: "9.21"
 legacyPackages.x86_64-linux.winePackages.base:
@@ -409599,7 +409411,7 @@ legacyPackages.x86_64-linux.winePackages.waylandFull:
   pname: wine
   version: "10.0"
 legacyPackages.x86_64-linux.winePackages.yabridge:
-  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
+  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine-yabridge
   version: "9.21"
 legacyPackages.x86_64-linux.wineWayland:
@@ -409655,7 +409467,7 @@ legacyPackages.x86_64-linux.wineWow64Packages.waylandFull:
   pname: wine-wow64
   version: "10.0"
 legacyPackages.x86_64-linux.wineWow64Packages.yabridge:
-  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
+  description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine-wow64-yabridge
   version: "9.21"
 legacyPackages.x86_64-linux.wineWowPackages.base:
@@ -409801,7 +409613,7 @@ legacyPackages.x86_64-linux.wiremock:
 legacyPackages.x86_64-linux.wireplumber:
   description: Modular session / policy manager for PipeWire
   pname: wireplumber
-  version: 0.5.10
+  version: 0.5.11
 legacyPackages.x86_64-linux.wireproxy:
   description: Wireguard client that exposes itself as a socks5 proxy
   pname: wireproxy
@@ -411126,10 +410938,6 @@ legacyPackages.x86_64-linux.xbps:
   description: X Binary Package System
   pname: xbps
   version: 0.59.2
-legacyPackages.x86_64-linux.xbrightness:
-  description: X11 brigthness and gamma software control
-  pname: xbrightness
-  version: 0.3-mika-akk
 legacyPackages.x86_64-linux.xbyak:
   description: JIT assembler for x86/x64 architectures supporting advanced instruction sets up to AVX10.2
   pname: xbyak
@@ -413941,7 +413749,7 @@ legacyPackages.x86_64-linux.yarn-bash-completion:
 legacyPackages.x86_64-linux.yarn-berry:
   description: Fast, reliable, and secure dependency management
   pname: yarn-berry
-  version: 4.9.2
+  version: 4.9.4
 legacyPackages.x86_64-linux.yarn-berry_3:
   description: Fast, reliable, and secure dependency management
   pname: yarn-berry
@@ -413949,7 +413757,7 @@ legacyPackages.x86_64-linux.yarn-berry_3:
 legacyPackages.x86_64-linux.yarn-berry_4:
   description: Fast, reliable, and secure dependency management
   pname: yarn-berry
-  version: 4.9.2
+  version: 4.9.4
 legacyPackages.x86_64-linux.yarn-lock-converter:
   description: Converts modern Yarn v2+ yarn.lock files into a Yarn v1 format
   pname: yarn-lock-converter
@@ -414557,7 +414365,7 @@ legacyPackages.x86_64-linux.yubikey-agent:
 legacyPackages.x86_64-linux.yubikey-manager:
   description: Command line tool for configuring any YubiKey over all USB transports
   pname: python3.13-yubikey-manager
-  version: 5.7.2
+  version: 5.8.0
 legacyPackages.x86_64-linux.yubikey-personalization:
   description: Library and command line tool to personalize YubiKeys
   pname: yubikey-personalization
@@ -414629,75 +414437,75 @@ legacyPackages.x86_64-linux.zabbix-cli:
 legacyPackages.x86_64-linux.zabbix.agent:
   description: Enterprise-class open source distributed monitoring solution (client-side agent)
   pname: zabbix-agent
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.agent2:
   description: Enterprise-class open source distributed monitoring solution (client-side agent)
   pname: zabbix-agent2
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.proxy-mysql:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.proxy-pgsql:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.proxy-sqlite:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.server:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.server-mysql:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.server-pgsql:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix.web:
   description: Enterprise-class open source distributed monitoring solution (web frontend)
   pname: zabbix-web
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.agent:
   description: Enterprise-class open source distributed monitoring solution (client-side agent)
   pname: zabbix-agent
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.agent2:
   description: Enterprise-class open source distributed monitoring solution (client-side agent)
   pname: zabbix-agent2
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.proxy-mysql:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.proxy-pgsql:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.proxy-sqlite:
   description: Enterprise-class open source distributed monitoring solution (client-server proxy)
   pname: zabbix-proxy
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.server:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.server-mysql:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.server-pgsql:
   description: Enterprise-class open source distributed monitoring solution
   pname: zabbix-server
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix60.web:
   description: Enterprise-class open source distributed monitoring solution (web frontend)
   pname: zabbix-web
-  version: 6.0.36
+  version: 6.0.41
 legacyPackages.x86_64-linux.zabbix70.agent:
   description: Enterprise-class open source distributed monitoring solution (client-side agent)
   pname: zabbix-agent
@@ -414961,7 +414769,7 @@ legacyPackages.x86_64-linux.zed-discord-presence:
 legacyPackages.x86_64-linux.zed-editor:
   description: High-performance, multiplayer code editor from the creators of Atom and Tree-sitter
   pname: zed-editor
-  version: 0.201.8
+  version: 0.202.5
 legacyPackages.x86_64-linux.zed-editor-fhs:
   description: 'Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: zeditor
