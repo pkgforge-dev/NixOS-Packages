@@ -11173,7 +11173,7 @@ legacyPackages.x86_64-linux.beam26Packages.erlfmt:
 legacyPackages.x86_64-linux.beam26Packages.ex_doc:
   description: 'ExDoc produces HTML and EPUB documentation for Elixir projects '
   pname: ex_doc
-  version: 0.38.3
+  version: 0.38.4
 legacyPackages.x86_64-linux.beam26Packages.hex:
   description: Package manager for the Erlang VM https://hex.pm
   pname: hex
@@ -11253,7 +11253,7 @@ legacyPackages.x86_64-linux.beam27Packages.erlfmt:
 legacyPackages.x86_64-linux.beam27Packages.ex_doc:
   description: 'ExDoc produces HTML and EPUB documentation for Elixir projects '
   pname: ex_doc
-  version: 0.38.3
+  version: 0.38.4
 legacyPackages.x86_64-linux.beam27Packages.hex:
   description: Package manager for the Erlang VM https://hex.pm
   pname: hex
@@ -11329,7 +11329,7 @@ legacyPackages.x86_64-linux.beam28Packages.erlfmt:
 legacyPackages.x86_64-linux.beam28Packages.ex_doc:
   description: 'ExDoc produces HTML and EPUB documentation for Elixir projects '
   pname: ex_doc
-  version: 0.38.3
+  version: 0.38.4
 legacyPackages.x86_64-linux.beam28Packages.hex:
   description: Package manager for the Erlang VM https://hex.pm
   pname: hex
@@ -11413,7 +11413,7 @@ legacyPackages.x86_64-linux.beamMinimal26Packages.erlfmt:
 legacyPackages.x86_64-linux.beamMinimal26Packages.ex_doc:
   description: 'ExDoc produces HTML and EPUB documentation for Elixir projects '
   pname: ex_doc
-  version: 0.38.3
+  version: 0.38.4
 legacyPackages.x86_64-linux.beamMinimal26Packages.hex:
   description: Package manager for the Erlang VM https://hex.pm
   pname: hex
@@ -11493,7 +11493,7 @@ legacyPackages.x86_64-linux.beamMinimal27Packages.erlfmt:
 legacyPackages.x86_64-linux.beamMinimal27Packages.ex_doc:
   description: 'ExDoc produces HTML and EPUB documentation for Elixir projects '
   pname: ex_doc
-  version: 0.38.3
+  version: 0.38.4
 legacyPackages.x86_64-linux.beamMinimal27Packages.hex:
   description: Package manager for the Erlang VM https://hex.pm
   pname: hex
@@ -11569,7 +11569,7 @@ legacyPackages.x86_64-linux.beamMinimal28Packages.erlfmt:
 legacyPackages.x86_64-linux.beamMinimal28Packages.ex_doc:
   description: 'ExDoc produces HTML and EPUB documentation for Elixir projects '
   pname: ex_doc
-  version: 0.38.3
+  version: 0.38.4
 legacyPackages.x86_64-linux.beamMinimal28Packages.hex:
   description: Package manager for the Erlang VM https://hex.pm
   pname: hex
@@ -31741,7 +31741,7 @@ legacyPackages.x86_64-linux.eww-wayland:
 legacyPackages.x86_64-linux.ex_doc:
   description: 'ExDoc produces HTML and EPUB documentation for Elixir projects '
   pname: ex_doc
-  version: 0.38.3
+  version: 0.38.4
 legacyPackages.x86_64-linux.exabgp:
   description: BGP swiss army knife of networking
   pname: exabgp
@@ -38705,7 +38705,7 @@ legacyPackages.x86_64-linux.github-to-sqlite:
 legacyPackages.x86_64-linux.gitify:
   description: GitHub notifications on your menu bar
   pname: gitify
-  version: 6.6.0
+  version: 6.8.0
 legacyPackages.x86_64-linux.gitingest:
   description: Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
   pname: gitingest
@@ -130137,7 +130137,7 @@ legacyPackages.x86_64-linux.idb-companion:
 legacyPackages.x86_64-linux.ideamaker:
   description: Raise3D's 3D slicer software
   pname: ideamaker
-  version: 4.3.3.6560
+  version: 5.2.2.8570
 legacyPackages.x86_64-linux.identity:
   description: Program for comparing multiple versions of an image or video
   pname: identity
@@ -139913,11 +139913,11 @@ legacyPackages.x86_64-linux.lemmy-help:
 legacyPackages.x86_64-linux.lemmy-server:
   description: "\U0001F400 Building a federated alternative to reddit in rust"
   pname: lemmy-server
-  version: 0.19.12
+  version: 0.19.13
 legacyPackages.x86_64-linux.lemmy-ui:
   description: Building a federated alternative to reddit in rust
   pname: lemmy-ui
-  version: 0.19.12
+  version: 0.19.13
 legacyPackages.x86_64-linux.lemon:
   description: LALR(1) parser generator
   pname: lemon
@@ -172157,7 +172157,7 @@ legacyPackages.x86_64-linux.mate.mate-common:
 legacyPackages.x86_64-linux.mate.mate-control-center:
   description: Utilities to configure the MATE desktop
   pname: mate-control-center
-  version: 1.28.0
+  version: 1.28.1
 legacyPackages.x86_64-linux.mate.mate-desktop:
   description: Library with common API for various MATE modules
   pname: mate-desktop
@@ -193921,7 +193921,7 @@ legacyPackages.x86_64-linux.pantheon-tweaks:
 legacyPackages.x86_64-linux.pantheon.appcenter:
   description: Open, pay-what-you-want app store for indie developers, designed for elementary OS
   pname: appcenter
-  version: 8.2.0
+  version: 8.3.0
 legacyPackages.x86_64-linux.pantheon.contractor:
   description: Desktop-wide extension service used by elementary OS
   pname: contractor
@@ -193949,7 +193949,7 @@ legacyPackages.x86_64-linux.pantheon.elementary-capnet-assist:
 legacyPackages.x86_64-linux.pantheon.elementary-code:
   description: Code editor designed for elementary OS
   pname: elementary-code
-  version: 8.1.0
+  version: 8.1.1
 legacyPackages.x86_64-linux.pantheon.elementary-default-settings:
   description: Default settings and configuration files for elementary
   pname: elementary-default-settings
@@ -193965,7 +193965,7 @@ legacyPackages.x86_64-linux.pantheon.elementary-feedback:
 legacyPackages.x86_64-linux.pantheon.elementary-files:
   description: File browser designed for elementary OS
   pname: elementary-files
-  version: 7.1.4
+  version: 7.1.5
 legacyPackages.x86_64-linux.pantheon.elementary-greeter:
   description: LightDM Greeter for Pantheon
   pname: elementary-greeter
@@ -194137,7 +194137,7 @@ legacyPackages.x86_64-linux.pantheon.switchboard-plug-mouse-touchpad:
 legacyPackages.x86_64-linux.pantheon.switchboard-plug-network:
   description: Switchboard Networking Plug
   pname: switchboard-plug-network
-  version: 8.1.0
+  version: 8.2.0
 legacyPackages.x86_64-linux.pantheon.switchboard-plug-notifications:
   description: Switchboard Notifications Plug
   pname: switchboard-plug-notifications
@@ -194209,7 +194209,7 @@ legacyPackages.x86_64-linux.pantheon.wingpanel-indicator-keyboard:
 legacyPackages.x86_64-linux.pantheon.wingpanel-indicator-network:
   description: Network Indicator for Wingpanel
   pname: wingpanel-indicator-network
-  version: 7.1.1
+  version: 8.0.0
 legacyPackages.x86_64-linux.pantheon.wingpanel-indicator-nightlight:
   description: Night Light Indicator for Wingpanel
   pname: wingpanel-indicator-nightlight
@@ -227789,7 +227789,7 @@ legacyPackages.x86_64-linux.psc-package:
 legacyPackages.x86_64-linux.pscale:
   description: CLI for PlanetScale Database
   pname: pscale
-  version: 0.255.0
+  version: 0.256.0
 legacyPackages.x86_64-linux.pscid:
   description: A lightweight editor experience for PureScript development
   pname: pscid
@@ -236305,7 +236305,7 @@ legacyPackages.x86_64-linux.python312Packages.django-gravatar2:
 legacyPackages.x86_64-linux.python312Packages.django-guardian:
   description: Per object permissions for Django
   pname: python3.12-django-guardian
-  version: 3.0.3
+  version: 3.1.0
 legacyPackages.x86_64-linux.python312Packages.django-haystack:
   description: Pluggable search for Django
   pname: python3.12-django-haystack
@@ -236761,7 +236761,7 @@ legacyPackages.x86_64-linux.python312Packages.django_extensions:
 legacyPackages.x86_64-linux.python312Packages.django_guardian:
   description: Per object permissions for Django
   pname: python3.12-django-guardian
-  version: 3.0.3
+  version: 3.1.0
 legacyPackages.x86_64-linux.python312Packages.django_hijack:
   description: Allows superusers to hijack (=login as) and work on behalf of another user
   pname: python3.12-django-hijack
@@ -241525,7 +241525,7 @@ legacyPackages.x86_64-linux.python312Packages.hf-transfer:
 legacyPackages.x86_64-linux.python312Packages.hf-xet:
   description: Xet client tech, used in huggingface_hub
   pname: python3.12-hf-xet
-  version: 1.1.9
+  version: 1.1.10
 legacyPackages.x86_64-linux.python312Packages.hfst:
   description: Python bindings for HFST
   pname: python3.12-hfst
@@ -277917,7 +277917,7 @@ legacyPackages.x86_64-linux.python313Packages.django-gravatar2:
 legacyPackages.x86_64-linux.python313Packages.django-guardian:
   description: Per object permissions for Django
   pname: python3.13-django-guardian
-  version: 3.0.3
+  version: 3.1.0
 legacyPackages.x86_64-linux.python313Packages.django-haystack:
   description: Pluggable search for Django
   pname: python3.13-django-haystack
@@ -278373,7 +278373,7 @@ legacyPackages.x86_64-linux.python313Packages.django_extensions:
 legacyPackages.x86_64-linux.python313Packages.django_guardian:
   description: Per object permissions for Django
   pname: python3.13-django-guardian
-  version: 3.0.3
+  version: 3.1.0
 legacyPackages.x86_64-linux.python313Packages.django_hijack:
   description: Allows superusers to hijack (=login as) and work on behalf of another user
   pname: python3.13-django-hijack
@@ -283137,7 +283137,7 @@ legacyPackages.x86_64-linux.python313Packages.hf-transfer:
 legacyPackages.x86_64-linux.python313Packages.hf-xet:
   description: Xet client tech, used in huggingface_hub
   pname: python3.13-hf-xet
-  version: 1.1.9
+  version: 1.1.10
 legacyPackages.x86_64-linux.python313Packages.hfst:
   description: Python bindings for HFST
   pname: python3.13-hfst
@@ -347929,7 +347929,7 @@ legacyPackages.x86_64-linux.sigi:
 legacyPackages.x86_64-linux.sigil:
   description: Free, open source, multi-platform ebook (ePub) editor
   pname: sigil
-  version: 2.6.0
+  version: 2.6.2
 legacyPackages.x86_64-linux.siglo:
   description: GTK app to sync InfiniTime watch with PinePhone
   pname: siglo
@@ -352193,7 +352193,7 @@ legacyPackages.x86_64-linux.supabase-cli:
 legacyPackages.x86_64-linux.super-productivity:
   description: To Do List / Time Tracker with Jira Integration
   pname: super-productivity
-  version: 14.4.1
+  version: 15.0.0
 legacyPackages.x86_64-linux.super-slicer:
   description: PrusaSlicer fork with more features and faster development cycle
   pname: super-slicer
@@ -352361,7 +352361,7 @@ legacyPackages.x86_64-linux.surreal-engine:
 legacyPackages.x86_64-linux.surrealdb:
   description: Scalable, distributed, collaborative, document-graph database, for the realtime web
   pname: surrealdb
-  version: 2.3.7
+  version: 2.3.8
 legacyPackages.x86_64-linux.surrealdb-migrations:
   description: Awesome SurrealDB migration tool, with a user-friendly CLI and a versatile Rust library that enables seamless integration into any project
   pname: surrealdb-migrations
@@ -378606,10 +378606,6 @@ legacyPackages.x86_64-linux.ticktick:
   description: Powerful to-do & task management app with seamless cloud synchronization across all your devices
   pname: ticktick
   version: 6.0.40
-legacyPackages.x86_64-linux.ticpp:
-  description: Interface to TinyXML
-  pname: ticpp
-  version: 0-unstable-2019-01-09
 legacyPackages.x86_64-linux.tidal-dl:
   description: Application that lets you download videos and tracks from Tidal
   pname: tidal-dl
@@ -409481,7 +409477,7 @@ legacyPackages.x86_64-linux.winbox4:
 legacyPackages.x86_64-linux.windmill:
   description: Open-source developer platform to turn scripts into workflows and UIs
   pname: windmill
-  version: 1.474.0
+  version: 1.542.1
 legacyPackages.x86_64-linux.windowchef:
   description: Stacking window manager that cooks windows with orders from the Waitron
   pname: windowchef
