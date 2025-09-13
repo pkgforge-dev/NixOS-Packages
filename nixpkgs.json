@@ -13107,7 +13107,7 @@
   "legacyPackages.x86_64-linux.backblaze-b2": {
     "description": "Command-line tool for accessing the Backblaze B2 storage service",
     "pname": "backblaze-b2",
-    "version": "4.4.1"
+    "version": "4.4.2"
   },
   "legacyPackages.x86_64-linux.backdown": {
     "description": "File deduplicator",
@@ -15808,6 +15808,11 @@
     "description": "High performance C++ math library",
     "pname": "blaze",
     "version": "3.8.2"
+  },
+  "legacyPackages.x86_64-linux.ble-serial": {
+    "description": "\"RFCOMM for BLE\" a Serial UART over Bluetooth low energy (4+) bridge",
+    "pname": "ble-serial",
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.bleachbit": {
     "description": "Program to clean your computer",
@@ -19337,7 +19342,7 @@
   "legacyPackages.x86_64-linux.cargo-shuttle": {
     "description": "Cargo command for the shuttle platform",
     "pname": "cargo-shuttle",
-    "version": "0.56.6"
+    "version": "0.57.1"
   },
   "legacyPackages.x86_64-linux.cargo-sonar": {
     "description": "Utility to produce some Sonar-compatible format from different Rust tools like cargo-clippy cargo-audit or cargo-outdated",
@@ -31602,7 +31607,7 @@
   "legacyPackages.x86_64-linux.davfs2": {
     "description": "Mount WebDAV shares like a typical filesystem",
     "pname": "davfs2",
-    "version": "1.7.1"
+    "version": "1.7.2"
   },
   "legacyPackages.x86_64-linux.davinci-resolve": {
     "description": "Professional video editing, color, effects and audio post-processing",
@@ -33422,7 +33427,7 @@
   "legacyPackages.x86_64-linux.discord-ptb": {
     "description": "All-in-one cross-platform voice and text chat for gamers",
     "pname": "discord-ptb",
-    "version": "0.0.159"
+    "version": "0.0.160"
   },
   "legacyPackages.x86_64-linux.discord-rpc": {
     "description": "Official library to interface with the Discord client",
@@ -34349,10 +34354,15 @@
     "pname": "docker",
     "version": "28.3.3"
   },
+  "legacyPackages.x86_64-linux.dockerfile-language-server": {
+    "description": "Language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies",
+    "pname": "dockerfile-language-server",
+    "version": "0.14.1"
+  },
   "legacyPackages.x86_64-linux.dockerfile-language-server-nodejs": {
     "description": "Language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies",
-    "pname": "dockerfile-language-server-nodejs",
-    "version": "0.11.0"
+    "pname": "dockerfile-language-server",
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.dockerfmt": {
     "description": "Dockerfile formatter: a modern dockfmt",
@@ -34787,12 +34797,12 @@
   "legacyPackages.x86_64-linux.dotnet-aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_6": {
     "description": "ASP.NET Core Runtime 6.0.36 (wrapper)",
@@ -34807,12 +34817,12 @@
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnet-aspnetcore_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnet-ef": {
     "description": "Tools to help with design-time development tasks",
@@ -34832,12 +34842,12 @@
   "legacyPackages.x86_64-linux.dotnet-runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_6": {
     "description": ".NET Runtime 6.0.36 (wrapper)",
@@ -34852,22 +34862,22 @@
   "legacyPackages.x86_64-linux.dotnet-runtime_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnet-runtime_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.413"
+    "version": "8.0.414"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_10": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.7.25380.108"
+    "version": "10.0.100-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_6": {
     "description": ".NET SDK 6.0.428 (wrapper)",
@@ -34882,22 +34892,22 @@
   "legacyPackages.x86_64-linux.dotnet-sdk_8": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.413"
+    "version": "8.0.414"
   },
   "legacyPackages.x86_64-linux.dotnet-sdk_9": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.304"
+    "version": "9.0.305"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_10_0-bin": {
-    "description": "ASP.NET Core Runtime 10.0.0-preview.7.25380.108 (wrapper)",
+    "description": "ASP.NET Core Runtime 10.0.0-rc.1.25451.107 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_6_0": {
     "description": "ASP.NET Core Runtime 6.0.36 (wrapper)",
@@ -34922,22 +34932,22 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_8_0-bin": {
-    "description": "ASP.NET Core Runtime 8.0.19 (wrapper)",
+    "description": "ASP.NET Core Runtime 8.0.20 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.aspnetcore_9_0-bin": {
-    "description": "ASP.NET Core Runtime 9.0.8 (wrapper)",
+    "description": "ASP.NET Core Runtime 9.0.9 (wrapper)",
     "pname": "aspnetcore-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.autoPatchcilHook": {
     "description": "",
@@ -34947,62 +34957,62 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.7.25380.108"
+    "version": "10.0.100-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_10.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "10.0.0-preview.7"
+    "version": "10.0.0-rc.1"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.119"
+    "version": "8.0.120"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_8.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.aspnetcore": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-aspnetcore-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.runtime": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.sdk": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.109"
+    "version": "9.0.110"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.dotnet_9.vmr": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "pname": "dotnet-vmr",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.generate-dotnet-sdk": {
     "description": "",
@@ -35022,12 +35032,12 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_10_0-bin": {
-    "description": ".NET Runtime 10.0.0-preview.7.25380.108 (wrapper)",
+    "description": ".NET Runtime 10.0.0-rc.1.25451.107 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "10.0.0-preview.7.25380.108"
+    "version": "10.0.0-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_6_0": {
     "description": ".NET Runtime 6.0.36 (wrapper)",
@@ -35052,47 +35062,47 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_8_0-bin": {
-    "description": ".NET Runtime 8.0.19 (wrapper)",
+    "description": ".NET Runtime 8.0.20 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "8.0.19"
+    "version": "8.0.20"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.runtime_9_0-bin": {
-    "description": ".NET Runtime 9.0.8 (wrapper)",
+    "description": ".NET Runtime 9.0.9 (wrapper)",
     "pname": "dotnet-runtime-wrapped",
-    "version": "9.0.8"
+    "version": "9.0.9"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.7.25380.108"
+    "version": "10.0.100-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0-bin": {
-    "description": ".NET SDK 10.0.100-preview.7.25380.108 (wrapper)",
+    "description": ".NET SDK 10.0.100-rc.1.25451.107 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.7.25380.108"
+    "version": "10.0.100-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.7.25380.108"
+    "version": "10.0.100-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.7.25380.108"
+    "version": "10.0.100-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_10_0_1xx-bin": {
-    "description": ".NET SDK 10.0.100-preview.7.25380.108 (wrapper)",
+    "description": ".NET SDK 10.0.100-rc.1.25451.107 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "10.0.100-preview.7.25380.108"
+    "version": "10.0.100-rc.1.25451.107"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_6_0": {
     "description": ".NET SDK 6.0.428 (wrapper)",
@@ -35167,82 +35177,82 @@
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.413"
+    "version": "8.0.414"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-bin": {
-    "description": ".NET SDK 8.0.413 (wrapper)",
+    "description": ".NET SDK 8.0.414 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.413"
+    "version": "8.0.414"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.119"
+    "version": "8.0.120"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.119"
+    "version": "8.0.120"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_1xx-bin": {
-    "description": ".NET SDK 8.0.119 (wrapper)",
+    "description": ".NET SDK 8.0.120 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.119"
+    "version": "8.0.120"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.316"
+    "version": "8.0.317"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_3xx-bin": {
-    "description": ".NET SDK 8.0.316 (wrapper)",
+    "description": ".NET SDK 8.0.317 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.316"
+    "version": "8.0.317"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.413"
+    "version": "8.0.414"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_8_0_4xx-bin": {
-    "description": ".NET SDK 8.0.413 (wrapper)",
+    "description": ".NET SDK 8.0.414 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "8.0.413"
+    "version": "8.0.414"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.304"
+    "version": "9.0.305"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-bin": {
-    "description": ".NET SDK 9.0.304 (wrapper)",
+    "description": ".NET SDK 9.0.305 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.304"
+    "version": "9.0.305"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0-source": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.109"
+    "version": "9.0.110"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.109"
+    "version": "9.0.110"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_1xx-bin": {
-    "description": ".NET SDK 9.0.109 (wrapper)",
+    "description": ".NET SDK 9.0.110 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.109"
+    "version": "9.0.110"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx": {
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI (wrapper) (combined) (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.304"
+    "version": "9.0.305"
   },
   "legacyPackages.x86_64-linux.dotnetCorePackages.sdk_9_0_3xx-bin": {
-    "description": ".NET SDK 9.0.304 (wrapper)",
+    "description": ".NET SDK 9.0.305 (wrapper)",
     "pname": "dotnet-sdk-wrapped",
-    "version": "9.0.304"
+    "version": "9.0.305"
   },
   "legacyPackages.x86_64-linux.dotnetPackages.Boogie": {
     "description": "Intermediate verification language",
@@ -35472,7 +35482,7 @@
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-biome": {
     "description": "Biome (JS/TS) wrapper plugin",
     "pname": "dprint-plugin-biome",
-    "version": "0.10.1"
+    "version": "0.10.3"
   },
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-dockerfile": {
     "description": "Dockerfile code formatter",
@@ -41419,6 +41429,11 @@
     "pname": "fex",
     "version": "2509"
   },
+  "legacyPackages.x86_64-linux.fex-headless": {
+    "description": "Fast usermode x86 and x86-64 emulator for Arm64 Linux",
+    "pname": "fex",
+    "version": "2509"
+  },
   "legacyPackages.x86_64-linux.ff2mpv": {
     "description": "Native Messaging Host for ff2mpv firefox addon",
     "pname": "ff2mpv",
@@ -43722,7 +43737,7 @@
   "legacyPackages.x86_64-linux.foot": {
     "description": "Fast, lightweight and minimalistic Wayland terminal emulator",
     "pname": "foot",
-    "version": "1.23.1"
+    "version": "1.24.0"
   },
   "legacyPackages.x86_64-linux.footage": {
     "description": "Video editing tool that allows you to trim, flip, rotate, and crop clips",
@@ -45012,7 +45027,7 @@
   "legacyPackages.x86_64-linux.fwupd": {
     "description": "",
     "pname": "fwupd",
-    "version": "2.0.15"
+    "version": "2.0.16"
   },
   "legacyPackages.x86_64-linux.fwupd-efi": {
     "description": "",
@@ -47727,7 +47742,7 @@
   "legacyPackages.x86_64-linux.git-cola": {
     "description": "Sleek and powerful Git GUI",
     "pname": "git-cola",
-    "version": "4.14.0"
+    "version": "4.15.0"
   },
   "legacyPackages.x86_64-linux.git-conventional-commits": {
     "description": "Generate semantic versions, markdown changelogs, and validate commit messages",
@@ -48262,7 +48277,7 @@
   "legacyPackages.x86_64-linux.gitea": {
     "description": "Git with a cup of tea",
     "pname": "gitea",
-    "version": "1.24.5"
+    "version": "1.24.6"
   },
   "legacyPackages.x86_64-linux.gitea-actions-runner": {
     "description": "Runner for Gitea based on act",
@@ -55727,7 +55742,7 @@
   "legacyPackages.x86_64-linux.goimports-reviser": {
     "description": "Right imports sorting & code formatting tool (goimports alternative)",
     "pname": "goimports-reviser",
-    "version": "3.9.1"
+    "version": "3.10.0"
   },
   "legacyPackages.x86_64-linux.gojo": {
     "description": "Yet another Go implementation of jo",
@@ -56352,7 +56367,7 @@
   "legacyPackages.x86_64-linux.got": {
     "description": "Version control system which prioritizes ease of use and simplicity over flexibility",
     "pname": "got",
-    "version": "0.117"
+    "version": "0.118.1"
   },
   "legacyPackages.x86_64-linux.gotags": {
     "description": "ctags-compatible tag generator for Go",
@@ -56857,17 +56872,12 @@
   "legacyPackages.x86_64-linux.gpxsee": {
     "description": "GPS log file viewer and analyzer",
     "pname": "gpxsee",
-    "version": "13.46"
-  },
-  "legacyPackages.x86_64-linux.gpxsee-qt5": {
-    "description": "GPS log file viewer and analyzer",
-    "pname": "gpxsee",
-    "version": "13.46"
+    "version": "13.47"
   },
   "legacyPackages.x86_64-linux.gpxsee-qt6": {
     "description": "GPS log file viewer and analyzer",
     "pname": "gpxsee",
-    "version": "13.46"
+    "version": "13.47"
   },
   "legacyPackages.x86_64-linux.gpython": {
     "description": "Python interpreter written in Go",
@@ -160387,7 +160397,7 @@
   "legacyPackages.x86_64-linux.htmlhint": {
     "description": "Static code analysis tool for HTML",
     "pname": "htmlhint",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.htmlq": {
     "description": "Like jq, but for HTML",
@@ -163642,12 +163652,12 @@
   "legacyPackages.x86_64-linux.immich": {
     "description": "Self-hosted photo and video backup solution",
     "pname": "immich",
-    "version": "1.140.1"
+    "version": "1.142.0"
   },
   "legacyPackages.x86_64-linux.immich-cli": {
     "description": "Self-hosted photo and video backup solution (command line interface)",
     "pname": "immich-cli",
-    "version": "2.2.86"
+    "version": "2.2.89"
   },
   "legacyPackages.x86_64-linux.immich-go": {
     "description": "Immich client tool for bulk-uploads",
@@ -163657,7 +163667,7 @@
   "legacyPackages.x86_64-linux.immich-machine-learning": {
     "description": "Self-hosted photo and video backup solution (machine learning component)",
     "pname": "immich-machine-learning",
-    "version": "1.140.1"
+    "version": "1.142.0"
   },
   "legacyPackages.x86_64-linux.immich-public-proxy": {
     "description": "Share your Immich photos and albums in a safe way without exposing your Immich instance to the public",
@@ -166002,7 +166012,7 @@
   "legacyPackages.x86_64-linux.java-service-wrapper": {
     "description": "Enables a Java Application to be run as a Windows Service or Unix Daemon",
     "pname": "java-service-wrapper",
-    "version": "3.6.2"
+    "version": "3.6.3"
   },
   "legacyPackages.x86_64-linux.javaCup": {
     "description": "LALR parser generator for Java",
@@ -166037,7 +166047,7 @@
   "legacyPackages.x86_64-linux.jawiki-all-titles-in-ns0": {
     "description": "Jawiki dump list of page titles in main namespace",
     "pname": "jawiki-all-titles-in-ns0",
-    "version": "0-unstable-2025-08-01"
+    "version": "0-unstable-2025-09-01"
   },
   "legacyPackages.x86_64-linux.jay": {
     "description": "Wayland compositor written in Rust",
@@ -166102,7 +166112,7 @@
   "legacyPackages.x86_64-linux.jbrowse": {
     "description": "Next-generation genome browser",
     "pname": "jbrowse",
-    "version": "3.6.4"
+    "version": "3.6.5"
   },
   "legacyPackages.x86_64-linux.jc": {
     "description": "This tool serializes the output of popular command line tools and filetypes to structured JSON output",
@@ -166367,7 +166377,7 @@
   "legacyPackages.x86_64-linux.jetbrains-runner": {
     "description": "Krunner Plugin which allows you to open your recent JetBrains projects",
     "pname": "jetbrains-runner",
-    "version": "3.0.5"
+    "version": "3.0.6"
   },
   "legacyPackages.x86_64-linux.jetbrains-toolbox": {
     "description": "JetBrains Toolbox",
@@ -166817,7 +166827,7 @@
   "legacyPackages.x86_64-linux.jocalsend": {
     "description": "Rust terminal client for Localsend",
     "pname": "jocalsend",
-    "version": "1.6.18033"
+    "version": "1.61803398"
   },
   "legacyPackages.x86_64-linux.joe": {
     "description": "Full featured terminal-based screen editor",
@@ -173602,7 +173612,7 @@
   "legacyPackages.x86_64-linux.kubeseal": {
     "description": "Kubernetes controller and tool for one-way encrypted Secrets",
     "pname": "kubeseal",
-    "version": "0.31.0"
+    "version": "0.32.1"
   },
   "legacyPackages.x86_64-linux.kubesec": {
     "description": "Security risk analysis tool for Kubernetes resources",
@@ -173977,7 +173987,7 @@
   "legacyPackages.x86_64-linux.ladybird": {
     "description": "Browser using the SerenityOS LibWeb engine with a Qt or Cocoa GUI",
     "pname": "ladybird",
-    "version": "0-unstable-2025-08-29"
+    "version": "0-unstable-2025-09-10"
   },
   "legacyPackages.x86_64-linux.lager": {
     "description": "C++ library for value-oriented design using the unidirectional data-flow architecture — Redux for C++",
@@ -178357,7 +178367,7 @@
   "legacyPackages.x86_64-linux.liboprf": {
     "description": "Library providing OPRF and Threshold OPRF based on libsodium",
     "pname": "liboprf",
-    "version": "0.8.0"
+    "version": "0.9.2"
   },
   "legacyPackages.x86_64-linux.libopus": {
     "description": "Open, royalty-free, highly versatile audio codec",
@@ -207112,7 +207122,7 @@
   "legacyPackages.x86_64-linux.lr": {
     "description": "List files recursively",
     "pname": "lr",
-    "version": "2.0"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.lrcalc": {
     "description": "Littlewood-Richardson calculator",
@@ -216282,7 +216292,7 @@
   "legacyPackages.x86_64-linux.mdsf": {
     "description": "Format markdown code blocks using your favorite tools",
     "pname": "mdsf",
-    "version": "0.10.5"
+    "version": "0.10.6"
   },
   "legacyPackages.x86_64-linux.mdsh": {
     "description": "Markdown shell pre-processor",
@@ -217582,17 +217592,17 @@
   "legacyPackages.x86_64-linux.mindustry": {
     "description": "Sandbox tower defense game",
     "pname": "mindustry",
-    "version": "146"
+    "version": "151.1"
   },
   "legacyPackages.x86_64-linux.mindustry-server": {
     "description": "Sandbox tower defense game",
     "pname": "mindustry",
-    "version": "146"
+    "version": "151.1"
   },
   "legacyPackages.x86_64-linux.mindustry-wayland": {
     "description": "Sandbox tower defense game",
     "pname": "mindustry",
-    "version": "146"
+    "version": "151.1"
   },
   "legacyPackages.x86_64-linux.minecraft-server": {
     "description": "Minecraft Server",
@@ -219377,7 +219387,7 @@
   "legacyPackages.x86_64-linux.monophony": {
     "description": "Linux app for streaming music from YouTube",
     "pname": "monophony",
-    "version": "3.4.1"
+    "version": "3.4.2"
   },
   "legacyPackages.x86_64-linux.monosat": {
     "description": "SMT solver for Monotonic Theories",
@@ -226501,8 +226511,8 @@
   },
   "legacyPackages.x86_64-linux.nodePackages.dockerfile-language-server-nodejs": {
     "description": "Language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies",
-    "pname": "dockerfile-language-server-nodejs",
-    "version": "0.11.0"
+    "pname": "dockerfile-language-server",
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.nodePackages.dotenv-cli": {
     "description": "CLI to load dotenv files",
@@ -226717,7 +226727,7 @@
   "legacyPackages.x86_64-linux.nodePackages.htmlhint": {
     "description": "Static code analysis tool for HTML",
     "pname": "htmlhint",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.nodePackages.http-server": {
     "description": "Simple zero-configuration command-line http server",
@@ -226742,7 +226752,7 @@
   "legacyPackages.x86_64-linux.nodePackages.immich": {
     "description": "Self-hosted photo and video backup solution (command line interface)",
     "pname": "immich-cli",
-    "version": "2.2.86"
+    "version": "2.2.89"
   },
   "legacyPackages.x86_64-linux.nodePackages.intelephense": {
     "description": "Professional PHP tooling for any Language Server Protocol capable editor",
@@ -228061,8 +228071,8 @@
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.dockerfile-language-server-nodejs": {
     "description": "Language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies",
-    "pname": "dockerfile-language-server-nodejs",
-    "version": "0.11.0"
+    "pname": "dockerfile-language-server",
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.dotenv-cli": {
     "description": "CLI to load dotenv files",
@@ -228277,7 +228287,7 @@
   "legacyPackages.x86_64-linux.nodePackages_latest.htmlhint": {
     "description": "Static code analysis tool for HTML",
     "pname": "htmlhint",
-    "version": "1.6.3"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.http-server": {
     "description": "Simple zero-configuration command-line http server",
@@ -228302,7 +228312,7 @@
   "legacyPackages.x86_64-linux.nodePackages_latest.immich": {
     "description": "Self-hosted photo and video backup solution (command line interface)",
     "pname": "immich-cli",
-    "version": "2.2.86"
+    "version": "2.2.89"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.intelephense": {
     "description": "Professional PHP tooling for any Language Server Protocol capable editor",
@@ -239127,7 +239137,7 @@
   "legacyPackages.x86_64-linux.openapv": {
     "description": "Reference implementation of the APV codec",
     "pname": "openapv",
-    "version": "0.2.0.2"
+    "version": "0.2.0.3"
   },
   "legacyPackages.x86_64-linux.openarena": {
     "description": "Fast-paced 3D first-person shooter, similar to id Software Inc.'s Quake III Arena",
@@ -239462,7 +239472,7 @@
   "legacyPackages.x86_64-linux.openfga": {
     "description": "High performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar",
     "pname": "openfga",
-    "version": "1.9.5"
+    "version": "1.10.0"
   },
   "legacyPackages.x86_64-linux.openfga-cli": {
     "description": "Cross-platform CLI to interact with an OpenFGA server",
@@ -239877,7 +239887,7 @@
   "legacyPackages.x86_64-linux.openomf": {
     "description": "One Must Fall 2097 Remake",
     "pname": "openomf",
-    "version": "0.8.4"
+    "version": "0.8.5"
   },
   "legacyPackages.x86_64-linux.openorbitaloptimizer": {
     "description": "Common orbital optimisation algorithms for quantum chemistry",
@@ -243162,7 +243172,7 @@
   "legacyPackages.x86_64-linux.paretosecurity": {
     "description": "Agent that makes sure your laptop is correctly configured for security",
     "pname": "paretosecurity",
-    "version": "0.3.3"
+    "version": "0.3.4"
   },
   "legacyPackages.x86_64-linux.pari": {
     "description": "Computer algebra system for high-performance number theory computations",
@@ -274702,7 +274712,7 @@
   "legacyPackages.x86_64-linux.php81Extensions.zstd": {
     "description": "Zstd Extension for PHP",
     "pname": "php-zstd",
-    "version": "0.15.1"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.php81Packages.box": {
     "description": "Application for building and managing Phars",
@@ -275352,7 +275362,7 @@
   "legacyPackages.x86_64-linux.php82Extensions.zstd": {
     "description": "Zstd Extension for PHP",
     "pname": "php-zstd",
-    "version": "0.15.1"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.php82Packages.box": {
     "description": "Application for building and managing Phars",
@@ -276002,7 +276012,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.zstd": {
     "description": "Zstd Extension for PHP",
     "pname": "php-zstd",
-    "version": "0.15.1"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.php83Packages.box": {
     "description": "Application for building and managing Phars",
@@ -276652,7 +276662,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.zstd": {
     "description": "Zstd Extension for PHP",
     "pname": "php-zstd",
-    "version": "0.15.1"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.php84Packages.box": {
     "description": "Application for building and managing Phars",
@@ -282942,7 +282952,7 @@
   "legacyPackages.x86_64-linux.powershell": {
     "description": "Powerful cross-platform (Windows, Linux, and macOS) shell and scripting language based on .NET",
     "pname": "powershell",
-    "version": "7.5.2"
+    "version": "7.5.3"
   },
   "legacyPackages.x86_64-linux.powershell-editor-services": {
     "description": "Common platform for PowerShell development support in any editor or application",
@@ -283997,7 +284007,7 @@
   "legacyPackages.x86_64-linux.prometheus-redis-exporter": {
     "description": "Prometheus exporter for Redis metrics",
     "pname": "redis_exporter",
-    "version": "1.76.0"
+    "version": "1.77.0"
   },
   "legacyPackages.x86_64-linux.prometheus-restic-exporter": {
     "description": "Prometheus exporter for the Restic backup system",
@@ -285587,7 +285597,7 @@
   "legacyPackages.x86_64-linux.pyocd": {
     "description": "Python library for programming and debugging Arm Cortex-M microcontrollers",
     "pname": "pyocd",
-    "version": "0.38.0"
+    "version": "0.39.0"
   },
   "legacyPackages.x86_64-linux.pyotherside": {
     "description": "Asynchronous Python 3 Bindings for Qt 5",
@@ -288762,7 +288772,7 @@
   "legacyPackages.x86_64-linux.python312Packages.auth0-python": {
     "description": "Auth0 Python SDK",
     "pname": "python3.12-auth0-python",
-    "version": "4.10.0"
+    "version": "4.11.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.authcaptureproxy": {
     "description": "Proxy to capture authentication information from a webpage",
@@ -290549,6 +290559,11 @@
     "pname": "python3.12-blake3",
     "version": "1.0.5"
   },
+  "legacyPackages.x86_64-linux.python312Packages.ble-serial": {
+    "description": "\"RFCOMM for BLE\" a Serial UART over Bluetooth low energy (4+) bridge",
+    "pname": "python3.12-ble-serial",
+    "version": "3.0.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.bleach": {
     "description": "Easy, HTML5, whitelisting HTML sanitizer",
     "pname": "python3.12-bleach",
@@ -290862,7 +290877,7 @@
   "legacyPackages.x86_64-linux.python312Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.12-boto3-stubs",
-    "version": "1.40.28"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -290872,7 +290887,7 @@
   "legacyPackages.x86_64-linux.python312Packages.botocore-stubs": {
     "description": "Type annotations and code completion for botocore",
     "pname": "python3.12-botocore-stubs",
-    "version": "1.40.28"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.botorch": {
     "description": "Bayesian Optimization in PyTorch",
@@ -295397,7 +295412,7 @@
   "legacyPackages.x86_64-linux.python312Packages.django-htmx": {
     "description": "Extensions for using Django with htmx",
     "pname": "python3.12-django-htmx",
-    "version": "1.23.2"
+    "version": "1.24.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.django-i18nfield": {
     "description": "Store internationalized strings in Django models",
@@ -297797,7 +297812,7 @@
   "legacyPackages.x86_64-linux.python312Packages.exiv2": {
     "description": "Low level Python interface to the Exiv2 C++ library",
     "pname": "python3.12-exiv2",
-    "version": "0.17.3"
+    "version": "0.17.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.expandvars": {
     "description": "Expand system variables Unix style",
@@ -308437,7 +308452,17 @@
   "legacyPackages.x86_64-linux.python312Packages.mkdocs-macros": {
     "description": "Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code",
     "pname": "python3.12-mkdocs-macros-plugin",
-    "version": "1.0.5"
+    "version": "1.3.9"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.mkdocs-macros-plugin": {
+    "description": "Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code",
+    "pname": "python3.12-mkdocs-macros-plugin",
+    "version": "1.3.9"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.mkdocs-macros-test": {
+    "description": "Implementation of a (model) pluglet for mkdocs-macros",
+    "pname": "python3.12-mkdocs-macros-test",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.mkdocs-markmap": {
     "description": "MkDocs plugin and extension to create mindmaps from markdown using markmap",
@@ -308503,6 +308528,11 @@
     "description": "MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page",
     "pname": "python3.12-mkdocs-table-reader-plugin",
     "version": "3.1.0"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.mkdocs-test": {
+    "description": "Framework for testing MkDocs projects",
+    "pname": "python3.12-mkdocs-test",
+    "version": "0.5.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.mkdocstrings": {
     "description": "Automatic documentation from sources for MkDocs",
@@ -309427,7 +309457,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-amp": {
     "description": "Type annotations for boto3 amp",
     "pname": "python3.12-mypy-boto3-amp",
-    "version": "1.40.11"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-amplify": {
     "description": "Type annotations for boto3 amplify",
@@ -309932,7 +309962,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ecs": {
     "description": "Type annotations for boto3 ecs",
     "pname": "python3.12-mypy-boto3-ecs",
-    "version": "1.40.25"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-efs": {
     "description": "Type annotations for boto3 efs",
@@ -309982,7 +310012,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-emr-containers": {
     "description": "Type annotations for boto3 emr-containers",
     "pname": "python3.12-mypy-boto3-emr-containers",
-    "version": "1.40.17"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-emr-serverless": {
     "description": "Type annotations for boto3 emr-serverless",
@@ -310097,7 +310127,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-guardduty": {
     "description": "Type annotations for boto3 guardduty",
     "pname": "python3.12-mypy-boto3-guardduty",
-    "version": "1.40.15"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-health": {
     "description": "Type annotations for boto3 health",
@@ -310437,7 +310467,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
     "pname": "python3.12-mypy-boto3-medialive",
-    "version": "1.40.16"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediapackage": {
     "description": "Type annotations for boto3 mediapackage",
@@ -310697,7 +310727,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-quicksight": {
     "description": "Type annotations for boto3 quicksight",
     "pname": "python3.12-mypy-boto3-quicksight",
-    "version": "1.40.7"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ram": {
     "description": "Type annotations for boto3 ram",
@@ -310712,7 +310742,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-rds": {
     "description": "Type annotations for boto3 rds",
     "pname": "python3.12-mypy-boto3-rds",
-    "version": "1.40.24"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-rds-data": {
     "description": "Type annotations for boto3 rds-data",
@@ -316052,7 +316082,7 @@
   "legacyPackages.x86_64-linux.python312Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.12-publicsuffixlist",
-    "version": "1.0.2.20250906"
+    "version": "1.0.2.20250911"
   },
   "legacyPackages.x86_64-linux.python312Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -318242,7 +318272,12 @@
   "legacyPackages.x86_64-linux.python312Packages.pyiceberg": {
     "description": "Python library for programmatic access to Apache Iceberg",
     "pname": "python3.12-iceberg-python",
-    "version": "0.9.1"
+    "version": "0.10.0"
+  },
+  "legacyPackages.x86_64-linux.python312Packages.pyiceberg-core": {
+    "description": "Iceberg-rust powered core for pyiceberg",
+    "pname": "python3.12-pyiceberg-core",
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyicloud": {
     "description": "PyiCloud is a module which allows pythonistas to interact with iCloud webservices",
@@ -319377,7 +319412,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyocd": {
     "description": "Python library for programming and debugging Arm Cortex-M microcontrollers",
     "pname": "python3.12-pyocd",
-    "version": "0.38.0"
+    "version": "0.39.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyocd-pemicro": {
     "description": "PEMicro probe plugin for pyOCD",
@@ -319482,7 +319517,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyoprf": {
     "description": "Library providing OPRF and Threshold OPRF based on libsodium",
     "pname": "python3.12-pyoprf",
-    "version": "0.8.0"
+    "version": "0.9.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyorc": {
     "description": "Python module for Apache ORC file format",
@@ -322077,7 +322112,7 @@
   "legacyPackages.x86_64-linux.python312Packages.python-docs-theme": {
     "description": "Sphinx theme for CPython project",
     "pname": "python3.12-python-docs-theme",
-    "version": "2025.5"
+    "version": "2025.9.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.python-docx": {
     "description": "Create and update Microsoft Word .docx files",
@@ -322222,7 +322257,7 @@
   "legacyPackages.x86_64-linux.python312Packages.python-gvm": {
     "description": "Collection of APIs that help with remote controlling a Greenbone Security Manager",
     "pname": "python3.12-python-gvm",
-    "version": "26.5.0"
+    "version": "26.6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.python-hcl2": {
     "description": "Parser for HCL2 written in Python using Lark",
@@ -323082,7 +323117,7 @@
   "legacyPackages.x86_64-linux.python312Packages.python_docs_theme": {
     "description": "Sphinx theme for CPython project",
     "pname": "python3.12-python-docs-theme",
-    "version": "2025.5"
+    "version": "2025.9.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.python_fedora": {
     "description": "Module to interact with the infrastructure of the Fedora Project",
@@ -329474,6 +329509,11 @@
     "pname": "python3.12-supafunc",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.python312Packages.super-collections": {
+    "description": "Python SuperDictionaries (with attributes) and SuperLists",
+    "pname": "python3.12-super-collections",
+    "version": "0.5.4"
+  },
   "legacyPackages.x86_64-linux.python312Packages.superqt": {
     "description": "Missing widgets and components for Qt-python (napari/superqt)",
     "pname": "python3.12-superqt",
@@ -330467,7 +330507,7 @@
   "legacyPackages.x86_64-linux.python312Packages.textual-universal-directorytree": {
     "description": "Textual plugin for a DirectoryTree compatible with remote filesystems",
     "pname": "python3.12-textual-universal-directorytree",
-    "version": "1.5.0"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.textualeffects": {
     "description": "Visual effects for Textual, a TerminalTextEffects wrapper",
@@ -340747,7 +340787,7 @@
   "legacyPackages.x86_64-linux.python313Packages.auth0-python": {
     "description": "Auth0 Python SDK",
     "pname": "python3.13-auth0-python",
-    "version": "4.10.0"
+    "version": "4.11.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.authcaptureproxy": {
     "description": "Proxy to capture authentication information from a webpage",
@@ -342534,6 +342574,11 @@
     "pname": "python3.13-blake3",
     "version": "1.0.5"
   },
+  "legacyPackages.x86_64-linux.python313Packages.ble-serial": {
+    "description": "\"RFCOMM for BLE\" a Serial UART over Bluetooth low energy (4+) bridge",
+    "pname": "python3.13-ble-serial",
+    "version": "3.0.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.bleach": {
     "description": "Easy, HTML5, whitelisting HTML sanitizer",
     "pname": "python3.13-bleach",
@@ -342847,7 +342892,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.40.28"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -342857,7 +342902,7 @@
   "legacyPackages.x86_64-linux.python313Packages.botocore-stubs": {
     "description": "Type annotations and code completion for botocore",
     "pname": "python3.13-botocore-stubs",
-    "version": "1.40.28"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.botorch": {
     "description": "Bayesian Optimization in PyTorch",
@@ -347382,7 +347427,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-htmx": {
     "description": "Extensions for using Django with htmx",
     "pname": "python3.13-django-htmx",
-    "version": "1.23.2"
+    "version": "1.24.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-i18nfield": {
     "description": "Store internationalized strings in Django models",
@@ -349782,7 +349827,7 @@
   "legacyPackages.x86_64-linux.python313Packages.exiv2": {
     "description": "Low level Python interface to the Exiv2 C++ library",
     "pname": "python3.13-exiv2",
-    "version": "0.17.3"
+    "version": "0.17.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.expandvars": {
     "description": "Expand system variables Unix style",
@@ -360422,7 +360467,17 @@
   "legacyPackages.x86_64-linux.python313Packages.mkdocs-macros": {
     "description": "Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code",
     "pname": "python3.13-mkdocs-macros-plugin",
-    "version": "1.0.5"
+    "version": "1.3.9"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.mkdocs-macros-plugin": {
+    "description": "Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code",
+    "pname": "python3.13-mkdocs-macros-plugin",
+    "version": "1.3.9"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.mkdocs-macros-test": {
+    "description": "Implementation of a (model) pluglet for mkdocs-macros",
+    "pname": "python3.13-mkdocs-macros-test",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.mkdocs-markmap": {
     "description": "MkDocs plugin and extension to create mindmaps from markdown using markmap",
@@ -360488,6 +360543,11 @@
     "description": "MkDocs plugin that enables a markdown tag like {{ read_csv('table.csv') }} to directly insert various table formats into a page",
     "pname": "python3.13-mkdocs-table-reader-plugin",
     "version": "3.1.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.mkdocs-test": {
+    "description": "Framework for testing MkDocs projects",
+    "pname": "python3.13-mkdocs-test",
+    "version": "0.5.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mkdocstrings": {
     "description": "Automatic documentation from sources for MkDocs",
@@ -361412,7 +361472,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-amp": {
     "description": "Type annotations for boto3 amp",
     "pname": "python3.13-mypy-boto3-amp",
-    "version": "1.40.11"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-amplify": {
     "description": "Type annotations for boto3 amplify",
@@ -361917,7 +361977,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ecs": {
     "description": "Type annotations for boto3 ecs",
     "pname": "python3.13-mypy-boto3-ecs",
-    "version": "1.40.25"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-efs": {
     "description": "Type annotations for boto3 efs",
@@ -361967,7 +362027,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr-containers": {
     "description": "Type annotations for boto3 emr-containers",
     "pname": "python3.13-mypy-boto3-emr-containers",
-    "version": "1.40.17"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr-serverless": {
     "description": "Type annotations for boto3 emr-serverless",
@@ -362082,7 +362142,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-guardduty": {
     "description": "Type annotations for boto3 guardduty",
     "pname": "python3.13-mypy-boto3-guardduty",
-    "version": "1.40.15"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-health": {
     "description": "Type annotations for boto3 health",
@@ -362422,7 +362482,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-medialive": {
     "description": "Type annotations for boto3 medialive",
     "pname": "python3.13-mypy-boto3-medialive",
-    "version": "1.40.16"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediapackage": {
     "description": "Type annotations for boto3 mediapackage",
@@ -362682,7 +362742,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-quicksight": {
     "description": "Type annotations for boto3 quicksight",
     "pname": "python3.13-mypy-boto3-quicksight",
-    "version": "1.40.7"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ram": {
     "description": "Type annotations for boto3 ram",
@@ -362697,7 +362757,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rds": {
     "description": "Type annotations for boto3 rds",
     "pname": "python3.13-mypy-boto3-rds",
-    "version": "1.40.24"
+    "version": "1.40.29"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rds-data": {
     "description": "Type annotations for boto3 rds-data",
@@ -368037,7 +368097,7 @@
   "legacyPackages.x86_64-linux.python313Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.13-publicsuffixlist",
-    "version": "1.0.2.20250906"
+    "version": "1.0.2.20250911"
   },
   "legacyPackages.x86_64-linux.python313Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -370227,7 +370287,12 @@
   "legacyPackages.x86_64-linux.python313Packages.pyiceberg": {
     "description": "Python library for programmatic access to Apache Iceberg",
     "pname": "python3.13-iceberg-python",
-    "version": "0.9.1"
+    "version": "0.10.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.pyiceberg-core": {
+    "description": "Iceberg-rust powered core for pyiceberg",
+    "pname": "python3.13-pyiceberg-core",
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyicloud": {
     "description": "PyiCloud is a module which allows pythonistas to interact with iCloud webservices",
@@ -371362,7 +371427,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyocd": {
     "description": "Python library for programming and debugging Arm Cortex-M microcontrollers",
     "pname": "python3.13-pyocd",
-    "version": "0.38.0"
+    "version": "0.39.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyocd-pemicro": {
     "description": "PEMicro probe plugin for pyOCD",
@@ -371467,7 +371532,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyoprf": {
     "description": "Library providing OPRF and Threshold OPRF based on libsodium",
     "pname": "python3.13-pyoprf",
-    "version": "0.8.0"
+    "version": "0.9.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyorc": {
     "description": "Python module for Apache ORC file format",
@@ -374062,7 +374127,7 @@
   "legacyPackages.x86_64-linux.python313Packages.python-docs-theme": {
     "description": "Sphinx theme for CPython project",
     "pname": "python3.13-python-docs-theme",
-    "version": "2025.5"
+    "version": "2025.9.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-docx": {
     "description": "Create and update Microsoft Word .docx files",
@@ -374207,7 +374272,7 @@
   "legacyPackages.x86_64-linux.python313Packages.python-gvm": {
     "description": "Collection of APIs that help with remote controlling a Greenbone Security Manager",
     "pname": "python3.13-python-gvm",
-    "version": "26.5.0"
+    "version": "26.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-hcl2": {
     "description": "Parser for HCL2 written in Python using Lark",
@@ -375067,7 +375132,7 @@
   "legacyPackages.x86_64-linux.python313Packages.python_docs_theme": {
     "description": "Sphinx theme for CPython project",
     "pname": "python3.13-python-docs-theme",
-    "version": "2025.5"
+    "version": "2025.9.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.python_fedora": {
     "description": "Module to interact with the infrastructure of the Fedora Project",
@@ -381504,6 +381569,11 @@
     "pname": "python3.13-supafunc",
     "version": "0.10.2"
   },
+  "legacyPackages.x86_64-linux.python313Packages.super-collections": {
+    "description": "Python SuperDictionaries (with attributes) and SuperLists",
+    "pname": "python3.13-super-collections",
+    "version": "0.5.4"
+  },
   "legacyPackages.x86_64-linux.python313Packages.superqt": {
     "description": "Missing widgets and components for Qt-python (napari/superqt)",
     "pname": "python3.13-superqt",
@@ -382497,7 +382567,7 @@
   "legacyPackages.x86_64-linux.python313Packages.textual-universal-directorytree": {
     "description": "Textual plugin for a DirectoryTree compatible with remote filesystems",
     "pname": "python3.13-textual-universal-directorytree",
-    "version": "1.5.0"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.textualeffects": {
     "description": "Visual effects for Textual, a TerminalTextEffects wrapper",
@@ -391752,7 +391822,7 @@
   "legacyPackages.x86_64-linux.quartz-wm": {
     "description": "",
     "pname": "quartz-wm",
-    "version": "1.3.1"
+    "version": "1.3.2"
   },
   "legacyPackages.x86_64-linux.quassel": {
     "description": "Qt/KDE distributed IRC client supporting a remote daemon",
@@ -393162,7 +393232,7 @@
   "legacyPackages.x86_64-linux.rebels-in-the-sky": {
     "description": "P2P terminal game about spacepirates playing basketball across the galaxy",
     "pname": "rebels-in-the-sky",
-    "version": "1.0.30"
+    "version": "1.0.31"
   },
   "legacyPackages.x86_64-linux.rebuilderd": {
     "description": "Independent verification of binary packages - reproducible builds",
@@ -394997,7 +395067,7 @@
   "legacyPackages.x86_64-linux.roadrunner": {
     "description": "High-performance PHP application server, process manager written in Go and powered with plugins",
     "pname": "roadrunner",
-    "version": "2025.1.2"
+    "version": "2025.1.3"
   },
   "legacyPackages.x86_64-linux.roam-research": {
     "description": "Note-taking tool for networked thought",
@@ -433202,7 +433272,7 @@
   "legacyPackages.x86_64-linux.sd-switch": {
     "description": "Systemd unit switcher for Home Manager",
     "pname": "sd-switch",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.sdat2img": {
     "description": "Convert sparse Android data image (.dat) into filesystem ext4 image (.img)",
@@ -434867,7 +434937,7 @@
   "legacyPackages.x86_64-linux.signal-desktop": {
     "description": "Private, simple, and secure messenger (nixpkgs build)",
     "pname": "signal-desktop",
-    "version": "7.68.0"
+    "version": "7.70.0"
   },
   "legacyPackages.x86_64-linux.signal-desktop-bin": {
     "description": "Private, simple, and secure messenger",
@@ -434877,7 +434947,7 @@
   "legacyPackages.x86_64-linux.signal-desktop-source": {
     "description": "Private, simple, and secure messenger (nixpkgs build)",
     "pname": "signal-desktop",
-    "version": "7.68.0"
+    "version": "7.70.0"
   },
   "legacyPackages.x86_64-linux.signal-export": {
     "description": "Export your Signal chats to markdown files with attachments",
@@ -436617,7 +436687,7 @@
   "legacyPackages.x86_64-linux.socket_wrapper": {
     "description": "Library passing all socket communications through unix sockets",
     "pname": "socket_wrapper",
-    "version": "1.5.0"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.socklog": {
     "description": "System and kernel logging services",
@@ -440517,7 +440587,7 @@
   "legacyPackages.x86_64-linux.svlint": {
     "description": "SystemVerilog linter",
     "pname": "svlint",
-    "version": "0.9.3"
+    "version": "0.9.4"
   },
   "legacyPackages.x86_64-linux.svls": {
     "description": "SystemVerilog language server",
@@ -443587,7 +443657,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.azurerm": {
     "description": "",
     "pname": "terraform-provider-azurerm",
-    "version": "4.42.0"
+    "version": "4.44.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.azurestack": {
     "description": "",
@@ -443787,7 +443857,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.gitlab": {
     "description": "",
     "pname": "terraform-provider-gitlab",
-    "version": "18.2.0"
+    "version": "18.3.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.google": {
     "description": "",
@@ -444022,7 +444092,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.oci": {
     "description": "",
     "pname": "terraform-provider-oci",
-    "version": "7.16.0"
+    "version": "7.18.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.okta": {
     "description": "",
@@ -506707,7 +506777,7 @@
   "legacyPackages.x86_64-linux.vips": {
     "description": "Image processing system for large images",
     "pname": "vips",
-    "version": "8.16.1"
+    "version": "8.17.1"
   },
   "legacyPackages.x86_64-linux.vipsdisp": {
     "description": "Tiny image viewer with libvips",
@@ -506717,7 +506787,7 @@
   "legacyPackages.x86_64-linux.virglrenderer": {
     "description": "Virtual 3D GPU for use inside QEMU virtual machines",
     "pname": "virglrenderer",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.virt-manager": {
     "description": "Desktop user interface for managing virtual machines",
@@ -506917,7 +506987,7 @@
   "legacyPackages.x86_64-linux.vivaldi": {
     "description": "Browser for our Friends, powerful and personal",
     "pname": "vivaldi",
-    "version": "7.5.3735.66"
+    "version": "7.5.3735.74"
   },
   "legacyPackages.x86_64-linux.vivaldi-ffmpeg-codecs": {
     "description": "Additional support for proprietary codecs for Vivaldi and other chromium based tools",
@@ -507402,7 +507472,7 @@
   "legacyPackages.x86_64-linux.vscode": {
     "description": "Code editor developed by Microsoft",
     "pname": "vscode",
-    "version": "1.103.2"
+    "version": "1.104.0"
   },
   "legacyPackages.x86_64-linux.vscode-css-languageserver": {
     "description": "CSS language server",
@@ -507947,7 +508017,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.detachhead.basedpyright": {
     "description": "VS Code static type checking for Python (but based)",
     "pname": "vscode-extension-detachhead-basedpyright",
-    "version": "1.31.3"
+    "version": "1.31.4"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.dhall.dhall-lang": {
     "description": "",
@@ -509722,7 +509792,7 @@
   "legacyPackages.x86_64-linux.vscode-fhs": {
     "description": "Wrapped variant of vscode which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
     "pname": "code",
-    "version": "1.103.2"
+    "version": "1.104.0"
   },
   "legacyPackages.x86_64-linux.vscode-js-debug": {
     "description": "DAP-compatible JavaScript debugger",
@@ -509752,17 +509822,17 @@
   "legacyPackages.x86_64-linux.vscode-with-extensions": {
     "description": "Code editor developed by Microsoft",
     "pname": "vscode-with-extensions",
-    "version": "1.103.2"
+    "version": "1.104.0"
   },
   "legacyPackages.x86_64-linux.vscodium": {
     "description": "Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing) ",
     "pname": "vscodium",
-    "version": "1.103.25610"
+    "version": "1.104.06114"
   },
   "legacyPackages.x86_64-linux.vscodium-fhs": {
     "description": "Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
     "pname": "codium",
-    "version": "1.103.25610"
+    "version": "1.104.06114"
   },
   "legacyPackages.x86_64-linux.vsftpd": {
     "description": "Very secure FTP daemon",
@@ -511777,7 +511847,7 @@
   "legacyPackages.x86_64-linux.winbox4": {
     "description": "Graphical configuration utility for RouterOS-based devices",
     "pname": "winbox",
-    "version": "4.0beta26"
+    "version": "4.0beta30"
   },
   "legacyPackages.x86_64-linux.windmill": {
     "description": "Open-source developer platform to turn scripts into workflows and UIs",
@@ -517887,7 +517957,7 @@
   "legacyPackages.x86_64-linux.yed": {
     "description": "Powerful desktop application that can be used to quickly and effectively generate high-quality diagrams",
     "pname": "yEd",
-    "version": "3.25"
+    "version": "3.25.1"
   },
   "legacyPackages.x86_64-linux.yeetgif": {
     "description": "GIF effects CLI",
@@ -519642,7 +519712,7 @@
   "legacyPackages.x86_64-linux.zrc": {
     "description": "UNIX shell and scripting language with syntax similar to Tcl",
     "pname": "zrc",
-    "version": "2.2"
+    "version": "2.3"
   },
   "legacyPackages.x86_64-linux.zrepl": {
     "description": "One-stop, integrated solution for ZFS replication",
