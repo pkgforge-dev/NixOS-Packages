@@ -2194,7 +2194,7 @@
  advent-of-code-api  0.2.9.1  Advent of Code REST API bindings and servant API  legacyPackages.x86_64-linux.haskellPackages.advent-of-code-api 
  advent-of-code-ocr  0.1.2.1  Parse Advent of Code ASCII art letters  legacyPackages.x86_64-linux.haskellPackages.advent-of-code-ocr 
  advice  1.1.1  Extend commands and environments  legacyPackages.x86_64-linux.texlivePackages.advice 
- adw-gtk3  6.2  Unofficial GTK 3 port of libadwaita  legacyPackages.x86_64-linux.adw-gtk3 
+ adw-gtk3  6.3  Unofficial GTK 3 port of libadwaita  legacyPackages.x86_64-linux.adw-gtk3 
  adwaita-fonts  48.2  Adwaita Sans, a variation of Inter, and Adwaita Mono, Iosevka customized to match Inter  legacyPackages.x86_64-linux.adwaita-fonts 
  adwaita-icon-theme  48.0    legacyPackages.x86_64-linux.adwaita-icon-theme 
  adwaita-icon-theme-legacy  46.2  Fullcolor icon theme providing fallback for legacy apps  legacyPackages.x86_64-linux.adwaita-icon-theme-legacy 
@@ -2370,7 +2370,7 @@
  aguplus  1.6b  Styles for American Geophysical Union  legacyPackages.x86_64-linux.texlivePackages.aguplus 
  aha  0.5.1  ANSI HTML Adapter  legacyPackages.x86_64-linux.aha 
  ahcpd  0.53  Autoconfiguration protocol for IPv6 and dual-stack IPv6/IPv4 networks  legacyPackages.x86_64-linux.ahcpd 
- ahk_x11  1.0.5-unstable-2025-09-04  AutoHotkey for X11  legacyPackages.x86_64-linux.ahk_x11 
+ ahk_x11  1.0.6  AutoHotkey for X11  legacyPackages.x86_64-linux.ahk_x11 
  ahoviewer  1.6.5  GTK2 image viewer, manga reader, and booru browser  legacyPackages.x86_64-linux.ahoviewer 
  ahoy  2.5.0  Create self-documenting cli programs from YAML files  legacyPackages.x86_64-linux.ahoy 
  aiaa  3.6  Typeset AIAA conference papers  legacyPackages.x86_64-linux.texlivePackages.aiaa 
@@ -3039,7 +3039,7 @@
  alsa-utils  1.2.14  ALSA, the Advanced Linux Sound Architecture utils  legacyPackages.x86_64-linux.alsa-utils 
  alsa-utils-nhlt  1.2.14  Tool to extract microphone array information from ACPI NHLT table  legacyPackages.x86_64-linux.alsa-utils-nhlt 
  alsaequal  0.7.1  Real-time adjustable equalizer plugin for ALSA  legacyPackages.x86_64-linux.alsaequal 
- alt-tab-macos  7.27.0  Windows alt-tab on macOS  legacyPackages.x86_64-linux.alt-tab-macos 
+ alt-tab-macos  7.28.0  Windows alt-tab on macOS  legacyPackages.x86_64-linux.alt-tab-macos 
  altair  8.2.5  Feature-rich GraphQL Client IDE  legacyPackages.x86_64-linux.altair 
  altcomposition  0.2.3.0  Alternative combinators for unorthodox function composition  legacyPackages.x86_64-linux.haskellPackages.altcomposition 
  altdns  1.0.2-unstable-2021-09-09  Generates permutations, alterations and mutations of subdomains and then resolves them  legacyPackages.x86_64-linux.altdns 
@@ -3567,7 +3567,7 @@
  anatomy  0.4  Anatomy: Atomo documentation system  legacyPackages.x86_64-linux.haskellPackages.anatomy 
  anchor  0.31.1  Solana Sealevel Framework  legacyPackages.x86_64-linux.anchor 
  andagii  1.0.2  Unicode Plane 1 Osmanya script font  legacyPackages.x86_64-linux.andagii 
- andcli  2.4.0  2FA TUI for your shell  legacyPackages.x86_64-linux.andcli 
+ andcli  2.4.1  2FA TUI for your shell  legacyPackages.x86_64-linux.andcli 
  andi  0.14  Efficient Estimation of Evolutionary Distances  legacyPackages.x86_64-linux.andi 
  andika  6.101  andika fonts with support for all LaTeX engines  legacyPackages.x86_64-linux.texlivePackages.andika 
  andika  7.000  Family designed especially for literacy use taking into account the needs of beginning readers  legacyPackages.x86_64-linux.andika 
@@ -6906,7 +6906,7 @@
  bophook  0.02  Provides an At-Begin-Page hook  legacyPackages.x86_64-linux.texlivePackages.bophook 
  borceux  21047  Diagram macros by Francois Borceux  legacyPackages.x86_64-linux.texlivePackages.borceux 
  bordacount  0.1.0.0  Implementation of the Borda count election method  legacyPackages.x86_64-linux.haskellPackages.bordacount 
- borders-plus-plus  0.50.0  Hyprland multiple borders plugin  legacyPackages.x86_64-linux.hyprlandPlugins.borders-plus-plus 
+ borders-plus-plus  0.51.0  Hyprland multiple borders plugin  legacyPackages.x86_64-linux.hyprlandPlugins.borders-plus-plus 
  bore  0.4.1  DNS query tool  legacyPackages.x86_64-linux.bore 
  bore-cli  0.6.0  Rust tool to create TCP tunnels  legacyPackages.x86_64-linux.bore-cli 
  borealis-cursors  2.0  Cursor theme using a custom color palette inspired by boreal colors  legacyPackages.x86_64-linux.borealis-cursors 
@@ -9670,7 +9670,7 @@
  chipsec  1.10.6  Platform Security Assessment Framework  legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.chipsec 
  chipsec  1.10.6  Platform Security Assessment Framework  legacyPackages.x86_64-linux.linuxPackages_zen.chipsec 
  chiptrack  0.5  Programmable cross-platform sequencer for the Game Boy Advance sound chip  legacyPackages.x86_64-linux.chiptrack 
- chirp  0.4.0-unstable-2025-08-31  Free, open-source tool for programming your amateur radio  legacyPackages.x86_64-linux.chirp 
+ chirp  0.4.0-unstable-2025-09-11  Free, open-source tool for programming your amateur radio  legacyPackages.x86_64-linux.chirp 
  chirpstack-concentratord  4.5.1  Concentrator HAL daemon for LoRa gateways  legacyPackages.x86_64-linux.chirpstack-concentratord 
  chirpstack-fuota-server  3.0.0-test.4-unstable-2025-08-26  FUOTA server which can be used together with ChirpStack Application Server  legacyPackages.x86_64-linux.chirpstack-fuota-server 
  chirpstack-gateway-bridge  4.0.11  Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT  legacyPackages.x86_64-linux.chirpstack-gateway-bridge 
@@ -10070,7 +10070,8 @@
  classy-prelude-yesod  1.5.0  Provide a classy prelude including common Yesod functionality  legacyPackages.x86_64-linux.haskellPackages.classy-prelude-yesod 
  classyplate  0.3.2.0  Fuseable type-class based generics  legacyPackages.x86_64-linux.haskellPackages.classyplate 
  clatd  2.1.0  464XLAT CLAT implementation for Linux  legacyPackages.x86_64-linux.clatd 
- claude-code  1.0.113  Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster  legacyPackages.x86_64-linux.claude-code 
+ claude-code  1.0.115  Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster  legacyPackages.x86_64-linux.claude-code 
+ claude-monitor  3.1.0  Real-time Claude Code usage monitor  legacyPackages.x86_64-linux.claude-monitor 
  claws  0.4.1  Interactive command line client for testing websocket servers  legacyPackages.x86_64-linux.claws 
  claws-mail  4.3.1  User-friendly, lightweight, and fast email client  legacyPackages.x86_64-linux.claws-mail 
  clay  0.15.0  CSS preprocessor as embedded Haskell  legacyPackages.x86_64-linux.haskellPackages.clay 
@@ -10573,7 +10574,7 @@
  code-theme-converter  1.2.1  Convert any vscode theme with ease  legacyPackages.x86_64-linux.nodePackages_latest.code-theme-converter 
  code2prompt  1.1.0  CLI tool that converts your codebase into a single LLM prompt with a source tree, prompt templating, and token counting  legacyPackages.x86_64-linux.code2prompt 
  codeanatomy  0.4-Beta  Typeset code with annotations  legacyPackages.x86_64-linux.texlivePackages.codeanatomy 
- codeberg-cli  0.4.11  CLI Tool for Codeberg similar to gh and glab  legacyPackages.x86_64-linux.codeberg-cli 
+ codeberg-cli  0.5.0  CLI Tool for Codeberg similar to gh and glab  legacyPackages.x86_64-linux.codeberg-cli 
  codeberg-pages  6.3  Static websites hosting from Gitea repositories  legacyPackages.x86_64-linux.codeberg-pages 
  codeblocks  25.03  Open source, cross platform, free C, C++ and Fortran IDE  legacyPackages.x86_64-linux.codeblocks 
  codeblocks-full  25.03  Open source, cross platform, free C, C++ and Fortran IDE  legacyPackages.x86_64-linux.codeblocksFull 
@@ -11652,7 +11653,7 @@
  corerenamer  5.0.0  Batch file renamer from the C Suite  legacyPackages.x86_64-linux.CuboCore.corerenamer 
  coreshot  5.0.0  Screen capture utility from the C Suite  legacyPackages.x86_64-linux.CuboCore.coreshot 
  corestats  5.0.0  System resource viewer from the C Suite  legacyPackages.x86_64-linux.CuboCore.corestats 
- corestore  7.4.5  Simple corestore that wraps a random-access-storage module  legacyPackages.x86_64-linux.corestore 
+ corestore  7.4.7  Simple corestore that wraps a random-access-storage module  legacyPackages.x86_64-linux.corestore 
  corestuff  5.0.0  Activity viewer from the C Suite  legacyPackages.x86_64-linux.CuboCore.corestuff 
  coreterminal  5.0.0  Terminal emulator from the C Suite  legacyPackages.x86_64-linux.CuboCore.coreterminal 
  coreth  0.15.3  Code and wrapper to extract Ethereum blockchain functionalities without network/consensus, for building custom blockchain services  legacyPackages.x86_64-linux.coreth 
@@ -11952,7 +11953,7 @@
  crefthe  70156  Cross referencing with proper definite articles and declensions  legacyPackages.x86_64-linux.texlivePackages.crefthe 
  crem  0.1.0.0  Compositional representable executable machines  legacyPackages.x86_64-linux.haskellPackages.crem 
  crengine-ng  0.9.12  Cross-platform library designed to implement text viewers and e-book readers  legacyPackages.x86_64-linux.crengine-ng 
- crewai  0.175.0  Framework for orchestrating role-playing, autonomous AI agents  legacyPackages.x86_64-linux.crewai 
+ crewai  0.186.1  Framework for orchestrating role-playing, autonomous AI agents  legacyPackages.x86_64-linux.crewai 
  crex  0.2.5  Explore, test, and check regular expressions in the terminal  legacyPackages.x86_64-linux.crex 
  crf-chain1  0.2.3  First-order, linear-chain conditional random fields  legacyPackages.x86_64-linux.haskellPackages.crf-chain1 
  crf-chain1-constrained  0.6.0  First-order, constrained, linear-chain conditional random fields  legacyPackages.x86_64-linux.haskellPackages.crf-chain1-constrained 
@@ -12165,7 +12166,7 @@
  cse-ghc-plugin  0.1.1  Compiler plugin for common subexpression elimination  legacyPackages.x86_64-linux.haskellPackages.cse-ghc-plugin 
  csfml  2.6.1  Simple and fast multimedia library  legacyPackages.x86_64-linux.csfml 
  csg  0.1.0.6  Analytical CSG (Constructive Solid Geometry) library  legacyPackages.x86_64-linux.haskellPackages.csg 
- csgo-vulkan-fix  0.50.0  Hyprland CS:GO/CS2 Vulkan fix plugin  legacyPackages.x86_64-linux.hyprlandPlugins.csgo-vulkan-fix 
+ csgo-vulkan-fix  0.51.0  Hyprland CS:GO/CS2 Vulkan fix plugin  legacyPackages.x86_64-linux.hyprlandPlugins.csgo-vulkan-fix 
  csharp-ls  0.19.0  Roslyn-based LSP language server for C#  legacyPackages.x86_64-linux.csharp-ls 
  csharpier  1.1.2  Opinionated code formatter for C#  legacyPackages.x86_64-linux.csharpier 
  csharprepl  0.6.7  C# REPL with syntax highlighting  legacyPackages.x86_64-linux.csharprepl 
@@ -13243,7 +13244,7 @@
  delimseasy  2.0  Delimiter commands that are easy to use and resize  legacyPackages.x86_64-linux.texlivePackages.delimseasy 
  delimset  2.2.2  Typeset and declare sets of delimiters with convenient size control  legacyPackages.x86_64-linux.texlivePackages.delimset 
  delimtxt  16549  Read and parse text tables  legacyPackages.x86_64-linux.texlivePackages.delimtxt 
- delineate  0.1.0  View and edit graphs  legacyPackages.x86_64-linux.delineate 
+ delineate  0.1.1  View and edit graphs  legacyPackages.x86_64-linux.delineate 
  delivery-status-notification  0.2.0.2  Parse bounce messages per RFC3464, RFC3463  legacyPackages.x86_64-linux.haskellPackages.delivery-status-notification 
  dell-command-configure  5.1.0-6  Configure BIOS settings on Dell laptops  legacyPackages.x86_64-linux.dell-command-configure 
  delly  1.5.0  Structural variant caller for mapped DNA sequenced data  legacyPackages.x86_64-linux.delly 
@@ -14142,7 +14143,7 @@
  dolch  0-unstable-2024-07-29  NLTK Data  legacyPackages.x86_64-linux.nltk-data.dolch 
  doldol  0.4.1.2  Flag packer & handler for flaggable data  legacyPackages.x86_64-linux.haskellPackages.doldol 
  dolfinx  0.9.0.post1  Computational environment of FEniCSx and implements the FEniCS Problem Solving Environment in C++ and Python  legacyPackages.x86_64-linux.dolfinx 
- dolibarr  22.0.0  Enterprise resource planning (ERP) and customer relationship manager (CRM) server  legacyPackages.x86_64-linux.dolibarr 
+ dolibarr  22.0.1  Enterprise resource planning (ERP) and customer relationship manager (CRM) server  legacyPackages.x86_64-linux.dolibarr 
  dollaridoos  0.2.0.0  A newtype for monetary values  legacyPackages.x86_64-linux.haskellPackages.dollaridoos 
  dolphin  25.08.1  File manager by KDE  legacyPackages.x86_64-linux.kdePackages.dolphin 
  dolphin-emu  2506a  Gamecube/Wii/Triforce emulator for x86_64 and ARMv8  legacyPackages.x86_64-linux.dolphin-emu 
@@ -14863,12 +14864,12 @@
  easel  0.49  Sequence analysis library used by Eddy/Rivas lab code  legacyPackages.x86_64-linux.easel 
  easeprobe  2.3.0  Simple, standalone, and lightweight tool that can do health/status checking, written in Go  legacyPackages.x86_64-linux.easeprobe 
  easing  0.1  easing functions for pgfmath  legacyPackages.x86_64-linux.texlivePackages.easing 
- eask-cli  0.11.7  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.eask 
- eask-cli  0.11.7  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.eask-cli 
- eask-cli  0.11.7  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages.@emacs-eask/cli 
- eask-cli  0.11.7  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages.eask 
- eask-cli  0.11.7  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages_latest.@emacs-eask/cli 
- eask-cli  0.11.7  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages_latest.eask 
+ eask-cli  0.11.8  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.eask 
+ eask-cli  0.11.8  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.eask-cli 
+ eask-cli  0.11.8  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages.@emacs-eask/cli 
+ eask-cli  0.11.8  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages.eask 
+ eask-cli  0.11.8  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages_latest.@emacs-eask/cli 
+ eask-cli  0.11.8  CLI for building, runing, testing, and managing your Emacs Lisp dependencies  legacyPackages.x86_64-linux.nodePackages_latest.eask 
  easy  0.99  A collection of easy-to-use macros  legacyPackages.x86_64-linux.texlivePackages.easy 
  easy-api  0.1.0.0  Utility code for building HTTP API bindings more quickly  legacyPackages.x86_64-linux.haskellPackages.easy-api 
  easy-args  0.1.0.1  Parses command line arguments  legacyPackages.x86_64-linux.haskellPackages.easy-args 
@@ -15294,7 +15295,7 @@
  elementary-print-shim  0.1.3  Simple shim for printing support via Contractor  legacyPackages.x86_64-linux.pantheon.elementary-print-shim 
  elementary-redacted-script  5.1.0  Font for concealing text  legacyPackages.x86_64-linux.pantheon.elementary-redacted-script 
  elementary-screenshot  8.0.3  Screenshot tool designed for elementary OS  legacyPackages.x86_64-linux.pantheon.elementary-screenshot 
- elementary-session-settings  8.0.1  Session settings for elementary  legacyPackages.x86_64-linux.pantheon.elementary-session-settings 
+ elementary-session-settings  8.0.1-unstable-2025-09-15  Session settings for elementary  legacyPackages.x86_64-linux.pantheon.elementary-session-settings 
  elementary-settings-daemon  8.3.1  Settings daemon for Pantheon  legacyPackages.x86_64-linux.pantheon.elementary-settings-daemon 
  elementary-shortcut-overlay  8.1.0  Native OS-wide shortcut overlay to be launched by Gala  legacyPackages.x86_64-linux.pantheon.elementary-shortcut-overlay 
  elementary-sound-theme  1.1.0  Set of system sounds for elementary  legacyPackages.x86_64-linux.pantheon.elementary-sound-theme 
@@ -16005,8 +16006,8 @@
  espanso  2.2-unstable-2024-05-14  Cross-platform Text Expander written in Rust  legacyPackages.x86_64-linux.espanso 
  espanso  2.2-unstable-2024-05-14  Cross-platform Text Expander written in Rust  legacyPackages.x86_64-linux.espanso-wayland 
  espeak  1.48.04  Compact open source software speech synthesizer  legacyPackages.x86_64-linux.espeak-classic 
- espeak-ng  1.51.1  Open source speech synthesizer that supports over 70 languages, based on eSpeak  legacyPackages.x86_64-linux.espeak 
- espeak-ng  1.51.1  Open source speech synthesizer that supports over 70 languages, based on eSpeak  legacyPackages.x86_64-linux.espeak-ng 
+ espeak-ng  1.52.0  Speech synthesizer that supports more than hundred languages and accents  legacyPackages.x86_64-linux.espeak 
+ espeak-ng  1.52.0  Speech synthesizer that supports more than hundred languages and accents  legacyPackages.x86_64-linux.espeak-ng 
  espeakedit  1.48.03  Phoneme editor for espeak  legacyPackages.x86_64-linux.espeakedit 
  espeakup  0.90  Lightweight connector for espeak-ng and speakup  legacyPackages.x86_64-linux.espeakup 
  espflash  4.0.1  Serial flasher utility for Espressif SoCs and modules based on esptool.py  legacyPackages.x86_64-linux.cargo-espflash 
@@ -16499,7 +16500,7 @@
  f3d  3.2.0  Fast and minimalist 3D viewer using VTK  legacyPackages.x86_64-linux.python313Packages.f3d_egl 
  f5_6  0.110  Weighted decorative font  legacyPackages.x86_64-linux.f5_6 
  fa_1  0.100  Weighted decorative font  legacyPackages.x86_64-linux.fa_1 
- faac  1.30  Open source MPEG-4 and MPEG-2 AAC encoder  legacyPackages.x86_64-linux.faac 
+ faac  1.31.1  Open source MPEG-4 and MPEG-2 AAC encoder  legacyPackages.x86_64-linux.faac 
  faad2  2.11.2  Open source MPEG-4 and MPEG-2 AAC decoder  legacyPackages.x86_64-linux.faad2 
  faas-cli  0.17.8  Official CLI for OpenFaaS  legacyPackages.x86_64-linux.faas-cli 
  faba-icon-theme  4.3  Sexy and modern icon theme with Tango influences  legacyPackages.x86_64-linux.faba-icon-theme 
@@ -17284,14 +17285,14 @@
  firefox  142.0.1  Web browser built from Firefox source tree  legacyPackages.x86_64-linux.firefox 
  firefox  142.0.1  Web browser built from Firefox source tree  legacyPackages.x86_64-linux.firefox-mobile 
  firefox  142.0.1  Web browser built from Firefox source tree  legacyPackages.x86_64-linux.firefox-wayland 
- firefox-beta  143.0b9  Web browser built from Firefox Beta Release source tree  legacyPackages.x86_64-linux.firefox-beta 
- firefox-beta  143.0b9  Web browser built from Firefox Beta Release source tree  legacyPackages.x86_64-linux.firefox-beta-bin 
- firefox-beta-unwrapped  143.0b9  Web browser built from Firefox Beta Release source tree  legacyPackages.x86_64-linux.firefox-beta-unwrapped 
+ firefox-beta  144.0b1  Web browser built from Firefox Beta Release source tree  legacyPackages.x86_64-linux.firefox-beta 
+ firefox-beta  144.0b1  Web browser built from Firefox Beta Release source tree  legacyPackages.x86_64-linux.firefox-beta-bin 
+ firefox-beta-unwrapped  144.0b1  Web browser built from Firefox Beta Release source tree  legacyPackages.x86_64-linux.firefox-beta-unwrapped 
  firefox-bin  142.0.1  Mozilla Firefox, free web browser (binary package)  legacyPackages.x86_64-linux.firefox-bin 
  firefox-bin-unwrapped  142.0.1  Mozilla Firefox, free web browser (binary package)  legacyPackages.x86_64-linux.firefox-bin-unwrapped 
- firefox-devedition  143.0b9  Web browser built from Firefox Developer Edition source tree  legacyPackages.x86_64-linux.firefox-devedition 
- firefox-devedition  143.0b9  Web browser built from Firefox Developer Edition source tree  legacyPackages.x86_64-linux.firefox-devedition-bin 
- firefox-devedition-unwrapped  143.0b9  Web browser built from Firefox Developer Edition source tree  legacyPackages.x86_64-linux.firefox-devedition-unwrapped 
+ firefox-devedition  144.0b1  Web browser built from Firefox Developer Edition source tree  legacyPackages.x86_64-linux.firefox-devedition 
+ firefox-devedition  144.0b1  Web browser built from Firefox Developer Edition source tree  legacyPackages.x86_64-linux.firefox-devedition-bin 
+ firefox-devedition-unwrapped  144.0b1  Web browser built from Firefox Developer Edition source tree  legacyPackages.x86_64-linux.firefox-devedition-unwrapped 
  firefox-sync-client  1.9.0  Commandline-utility to list/view/edit/delete entries in a firefox-sync account  legacyPackages.x86_64-linux.firefox-sync-client 
  firefox-unwrapped  140.2.0esr  Web browser built from Firefox source tree  legacyPackages.x86_64-linux.firefox-esr-140-unwrapped 
  firefox-unwrapped  140.2.0esr  Web browser built from Firefox source tree  legacyPackages.x86_64-linux.firefox-esr-unwrapped 
@@ -17835,6 +17836,7 @@
  fontaxes  2.0.1  Additional font selection axes for LaTeX  legacyPackages.x86_64-linux.texlivePackages.fontaxes 
  fontbakery  1.0.1  Tool for checking the quality of font projects  legacyPackages.x86_64-linux.fontbakery 
  fontbook  0.2  Generate a font book  legacyPackages.x86_64-linux.texlivePackages.fontbook 
+ fontc  0.3.0  Wherein we pursue oxidizing fontmake  legacyPackages.x86_64-linux.fontc 
  fontch  2.2  Changing fonts, sizes and encodings in Plain TeX  legacyPackages.x86_64-linux.texlivePackages.fontch 
  fontconfig  2.16.2  Library for font customization and configuration  legacyPackages.x86_64-linux.fontconfig 
  fontconfig-pure  0.5.1.0  Queries your system (Linux/BSD/etc) font database  legacyPackages.x86_64-linux.haskellPackages.fontconfig-pure 
@@ -18568,13 +18570,13 @@
  galene-stt  0.1  Speech-to-text support for Galene  legacyPackages.x86_64-linux.galene-stt 
  galer  0.2.0  Tool to fetch URLs from HTML attributes  legacyPackages.x86_64-linux.galer 
  galerio  1.2.0  Simple generator for self-contained HTML flexbox galleries  legacyPackages.x86_64-linux.galerio 
- gallery-dl  1.30.6  Command-line program to download image-galleries and -collections from several image hosting sites  legacyPackages.x86_64-linux.gallery-dl 
+ gallery-dl  1.30.7  Command-line program to download image-galleries and -collections from several image hosting sites  legacyPackages.x86_64-linux.gallery-dl 
  galleta  20040505_1  Examine the contents of the IE's cookie files for forensic purposes  legacyPackages.x86_64-linux.galleta 
  gallia  2.0.0a4  Extendable Pentesting Framework for the Automotive Domain  legacyPackages.x86_64-linux.gallia 
  galois  1.5  Typeset Galois connections  legacyPackages.x86_64-linux.texlivePackages.galois 
  galois-fft  0.1.0  FFTs over finite fields  legacyPackages.x86_64-linux.haskellPackages.galois-fft 
  galois-field  1.0.2  Galois field library  legacyPackages.x86_64-linux.haskellPackages.galois-field 
- gam  6.58  Command line management for Google Workspace  legacyPackages.x86_64-linux.gam 
+ gam  7.21.01  Command line management for Google Workspace  legacyPackages.x86_64-linux.gam 
  gama  2.28  Tools for adjustment of geodetic networks  legacyPackages.x86_64-linux.gama 
  gama-tui  1.2.1  Manage your GitHub Actions from Terminal with great UI  legacyPackages.x86_64-linux.gama-tui 
  gambit  0.1.0  Play chess in your terminal  legacyPackages.x86_64-linux.gambit-chess 
@@ -19468,15 +19470,15 @@
  ghost  8.0.0  Android post-exploitation framework  legacyPackages.x86_64-linux.ghost 
  ghost-buster  0.1.1.0  Existential type utilites  legacyPackages.x86_64-linux.haskellPackages.ghost-buster 
  ghost-cli  1.28.3  CLI Tool for installing & updating Ghost  legacyPackages.x86_64-linux.ghost-cli 
- ghostfolio  2.193.0  Open Source Wealth Management Software  legacyPackages.x86_64-linux.ghostfolio 
+ ghostfolio  2.199.0  Open Source Wealth Management Software  legacyPackages.x86_64-linux.ghostfolio 
  ghostie  0.3.1  Github notifications in your terminal  legacyPackages.x86_64-linux.ghostie 
  ghostscript  10.05.1  PostScript interpreter (mainline version)  legacyPackages.x86_64-linux.ghostscript_headless 
  ghostscript-parallel  0.0.1  Let Ghostscript render pages in parallel  legacyPackages.x86_64-linux.haskellPackages.ghostscript-parallel 
  ghostscript-with-X  10.05.1  PostScript interpreter (mainline version)  legacyPackages.x86_64-linux.ghostscript 
  ghostscript-with-X  10.05.1  PostScript interpreter (mainline version)  legacyPackages.x86_64-linux.ghostscriptX 
  ghosttohugo  0.5.3  Convert Ghost export to Hugo posts  legacyPackages.x86_64-linux.ghosttohugo 
- ghostty  1.1.3  Fast, native, feature-rich terminal emulator pushing modern features  legacyPackages.x86_64-linux.ghostty 
- ghostty-bin  1.1.3  Fast, native, feature-rich terminal emulator pushing modern features  legacyPackages.x86_64-linux.ghostty-bin 
+ ghostty  1.2.0  Fast, native, feature-rich terminal emulator pushing modern features  legacyPackages.x86_64-linux.ghostty 
+ ghostty-bin  1.2.0  Fast, native, feature-rich terminal emulator pushing modern features  legacyPackages.x86_64-linux.ghostty-bin 
  ghostunnel  1.8.4  TLS proxy with mutual authentication support for securing non-TLS backend applications  legacyPackages.x86_64-linux.ghostunnel 
  ghostwriter  25.08.1  Text editor for Markdown  legacyPackages.x86_64-linux.kdePackages.ghostwriter 
  ghp-import  2.1.0  Copy your docs directly to the gh-pages branch  legacyPackages.x86_64-linux.ghp-import 
@@ -19484,7 +19486,7 @@
  ghr  0.17.0  Upload multiple artifacts to GitHub Release in parallel  legacyPackages.x86_64-linux.ghr 
  ghr  0.4.4  Yet another repository management with auto-attaching profiles  legacyPackages.x86_64-linux.siketyan-ghr 
  ghrepo-stats  0.5.5  Python module and CLI tool for GitHub repo statistics  legacyPackages.x86_64-linux.ghrepo-stats 
- ghstack  0.11.0  Submit stacked diffs to GitHub on the command line  legacyPackages.x86_64-linux.ghstack 
+ ghstack  0.12.0  Submit stacked diffs to GitHub on the command line  legacyPackages.x86_64-linux.ghstack 
  ghsystem  4.8c  Globally harmonised system of chemical (etc) naming  legacyPackages.x86_64-linux.texlivePackages.ghsystem 
  ght  0.4.0.1  Trivial routines for inspecting git repositories  legacyPackages.x86_64-linux.haskellPackages.ght 
  ghunt  2.3.3  Offensive Google framework  legacyPackages.x86_64-linux.ghunt 
@@ -21783,6 +21785,7 @@
  googleearth-pro  7.3.6.10201  World sphere viewer  legacyPackages.x86_64-linux.googleearth-pro 
  googleplus  0.3.1.1  Haskell implementation of the Google+ API v1  legacyPackages.x86_64-linux.haskellPackages.googleplus 
  googlepolyline  0.1.0.2  Google Polyline Encoder/Decoder  legacyPackages.x86_64-linux.haskellPackages.googlepolyline 
+ googlesans-code  6.000  Google Sans Code font family  legacyPackages.x86_64-linux.googlesans-code 
  goose  3.25.0  Database migration tool which supports SQL migrations and Go functions  legacyPackages.x86_64-linux.goose 
  goose-cli  1.6.0  Open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM  legacyPackages.x86_64-linux.goose-cli 
  goose-lang  0.9.2  Goose converts a small subset of Go to Coq  legacyPackages.x86_64-linux.goose-lang 
@@ -21793,7 +21796,7 @@
  gopass-summon-provider  1.15.16  Gopass Summon Provider  legacyPackages.x86_64-linux.gopass-summon-provider 
  gopatch  0.4.0  Refactoring and code transformation tool for Go  legacyPackages.x86_64-linux.gopatch 
  gopeed  1.8.0  Modern download manager that supports all platforms  legacyPackages.x86_64-linux.gopeed 
- goperf  0-unstable-2025-08-13  Tools and packages for analyzing Go benchmark results  legacyPackages.x86_64-linux.goperf 
+ goperf  0-unstable-2025-09-09  Tools and packages for analyzing Go benchmark results  legacyPackages.x86_64-linux.goperf 
  gopher  3.0.19  Ncurses gopher client  legacyPackages.x86_64-linux.gopher 
  gopher-proxy  0.1.1.3  proxy gopher over http  legacyPackages.x86_64-linux.haskellPackages.gopher-proxy 
  gopher64  1.0.17  N64 emulator written in Rust  legacyPackages.x86_64-linux.gopher64 
@@ -25490,7 +25493,7 @@
  hopfli  0.2.2.1  Bidings to Google's Zopfli compression library  legacyPackages.x86_64-linux.haskellPackages.hopfli 
  hopper  5.19.4  MacOS and Linux Disassembler  legacyPackages.x86_64-linux.hopper 
  hoppet  1.2.0  Higher Order Perturbative Parton Evolution Toolkit  legacyPackages.x86_64-linux.hoppet 
- hoppscotch  25.8.0-0  Open source API development ecosystem  legacyPackages.x86_64-linux.hoppscotch 
+ hoppscotch  25.8.1-0  Open source API development ecosystem  legacyPackages.x86_64-linux.hoppscotch 
  hoppy-docs  0.9.0  C++ FFI generator - Documentation  legacyPackages.x86_64-linux.haskellPackages.hoppy-docs 
  hoppy-generator  0.9.0  C++ FFI generator - Code generator  legacyPackages.x86_64-linux.haskellPackages.hoppy-generator 
  hoppy-runtime  0.9.0  C++ FFI generator - Runtime support  legacyPackages.x86_64-linux.haskellPackages.hoppy-runtime 
@@ -26511,7 +26514,7 @@
  hxtools  20250309  Collection of small tools over the years by j.eng  legacyPackages.x86_64-linux.hxtools 
  hxweb  0.1  Minimal webframework using fastcgi, libxml2 and libxslt  legacyPackages.x86_64-linux.haskellPackages.hxweb 
  hy  1.1.0  LISP dialect embedded in Python  legacyPackages.x86_64-linux.hy 
- hy3-hl0.50.0    Hyprland plugin for an i3 / sway like manual tiling layout  legacyPackages.x86_64-linux.hyprlandPlugins.hy3 
+ hy3  0.51.0  Hyprland plugin for an i3 / sway like manual tiling layout  legacyPackages.x86_64-linux.hyprlandPlugins.hy3 
  hyahtzee  0.5  A Yahtzee game implementation in Haskell  legacyPackages.x86_64-linux.haskellPackages.hyahtzee 
  hyakko  0.6.7  Literate-style Documentation Generator  legacyPackages.x86_64-linux.haskellPackages.hyakko 
  hybrid  2.0  A implementation of a type-checker for Lambda-H  legacyPackages.x86_64-linux.haskellPackages.hybrid 
@@ -26715,12 +26718,12 @@
  hypopg  1.4.2  Hypothetical Indexes for PostgreSQL  legacyPackages.x86_64-linux.postgresqlPackages.hypopg 
  hypr-dynamic-cursors  0-unstable-2025-09-01  Plugin to make your Hyprland cursor more realistic  legacyPackages.x86_64-linux.hyprlandPlugins.hypr-dynamic-cursors 
  hypr-unstable  2023-01-26  Tiling X11 window manager written in modern C++  legacyPackages.x86_64-linux.hypr 
- hyprbars  0.50.0  Hyprland window title plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprbars 
+ hyprbars  0.51.0  Hyprland window title plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprbars 
  hyprcursor  0.1.13  Hyprland cursor format, library and utilities  legacyPackages.x86_64-linux.hyprcursor 
  hyprdim  3.0.1  Automatically dim windows in Hyprland when switching between them  legacyPackages.x86_64-linux.hyprdim 
  hypre  2.33.0  Parallel solvers for sparse linear systems featuring multigrid methods  legacyPackages.x86_64-linux.hypre 
- hyprexpo  0.50.0  Hyprland workspaces overview plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprexpo 
- hyprfocus  0.50.0  Hyprland flashfocus plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprfocus 
+ hyprexpo  0.51.0  Hyprland workspaces overview plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprexpo 
+ hyprfocus  0.51.0  Hyprland flashfocus plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprfocus 
  hyprgraphics  0.1.5  Cpp graphics library for Hypr ecosystem  legacyPackages.x86_64-linux.hyprgraphics 
  hyprgrass  0.8.2-unstable-2025-05-08  Hyprland plugin for touch gestures  legacyPackages.x86_64-linux.hyprlandPlugins.hyprgrass 
  hypridle  0.1.7  Hyprland's idle daemon  legacyPackages.x86_64-linux.hypridle 
@@ -26746,7 +26749,7 @@
  hyprpicker  0.4.5  Wlroots-compatible Wayland color picker that does not suck  legacyPackages.x86_64-linux.hyprpicker 
  hyprpolkitagent  0.1.3  Polkit authentication agent written in QT/QML  legacyPackages.x86_64-linux.hyprpolkitagent 
  hyprprop  0.1-unstable-2025-08-20  Xprop replacement for Hyprland  legacyPackages.x86_64-linux.hyprprop 
- hyprscrolling  0.50.0  Hyprland scrolling layout plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprscrolling 
+ hyprscrolling  0.51.0  Hyprland scrolling layout plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprscrolling 
  hyprshell  4.6.0  Modern GTK4-based window switcher and application launcher for Hyprland  legacyPackages.x86_64-linux.hyprshell 
  hyprshot  1.3.0  Utility to easily take screenshots in Hyprland using your mouse  legacyPackages.x86_64-linux.hyprshot 
  hyprsome  0.1.12-unstable-2024-05-20  Awesome-like workspaces for Hyprland  legacyPackages.x86_64-linux.hyprsome 
@@ -26755,10 +26758,10 @@
  hyprsplit  0.50.1  Hyprland plugin for awesome / dwm like workspaces  legacyPackages.x86_64-linux.hyprlandPlugins.hyprsplit 
  hyprsunset  0.3.2  Application to enable a blue-light filter on Hyprland  legacyPackages.x86_64-linux.hyprsunset 
  hyprsysteminfo  0.1.3  Tiny qt6/qml application to display information about the running system  legacyPackages.x86_64-linux.hyprsysteminfo 
- hyprtrails  0.50.0  Hyprland smooth trails behind moving windows plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprtrails 
+ hyprtrails  0.51.0  Hyprland smooth trails behind moving windows plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprtrails 
  hyprutils  0.8.4  Small C++ library for utilities used across the Hypr ecosystem  legacyPackages.x86_64-linux.hyprutils 
  hyprwayland-scanner  0.4.5  Hyprland version of wayland-scanner in and for C++  legacyPackages.x86_64-linux.hyprwayland-scanner 
- hyprwinwrap  0.50.0  Hyprland xwinwrap-like plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprwinwrap 
+ hyprwinwrap  0.51.0  Hyprland xwinwrap-like plugin  legacyPackages.x86_64-linux.hyprlandPlugins.hyprwinwrap 
  hypseus-singe  2.11.6  Laserdisc game emulator, the SDL2 version of Daphne and Singe  legacyPackages.x86_64-linux.hypseus-singe 
  hyraxAbif  0.2.4.5  Modules for parsing, generating and manipulating AB1 files  legacyPackages.x86_64-linux.haskellPackages.hyraxAbif 
  hysteria  2.6.2  Feature-packed proxy & relay utility optimized for lossy, unstable connections  legacyPackages.x86_64-linux.hysteria 
@@ -27153,7 +27156,7 @@
  ihs  0.1.0.3  Interpolated Haskell  legacyPackages.x86_64-linux.haskellPackages.ihs 
  ihttp  0.3.0  Incremental HTTP iteratee  legacyPackages.x86_64-linux.haskellPackages.ihttp 
  ii  2.0  Irc it, simple FIFO based irc client  legacyPackages.x86_64-linux.ii 
- iina  1.3.5  Modern media player for macOS  legacyPackages.x86_64-linux.iina 
+ iina  1.4.0  Modern media player for macOS  legacyPackages.x86_64-linux.iina 
  iio-hyprland  0-unstable-2025-08-21  Listens to iio-sensor-proxy and automatically changes Hyprland output orientation  legacyPackages.x86_64-linux.iio-hyprland 
  iio-oscilloscope  0.17  GTK+ based oscilloscope application for interfacing with various IIO devices  legacyPackages.x86_64-linux.iio-oscilloscope 
  iio-sensor-proxy  3.8  Proxy for sending IIO sensor data to D-Bus  legacyPackages.x86_64-linux.iio-sensor-proxy 
@@ -27186,7 +27189,7 @@
  iitem  1.0  Multiple level of lists in one list-like environment  legacyPackages.x86_64-linux.texlivePackages.iitem 
  ijhttp  252.23892.409  Run HTTP requests from a terminal, e.g. for HTTP request testing  legacyPackages.x86_64-linux.ijhttp 
  ijmart  1.7  LaTeX Class for the Israel Journal of Mathematics  legacyPackages.x86_64-linux.texlivePackages.ijmart 
- ijq  1.1.2  Interactive wrapper for jq  legacyPackages.x86_64-linux.ijq 
+ ijq  1.2.0  Interactive wrapper for jq  legacyPackages.x86_64-linux.ijq 
  ijqc  1.2  BibTeX style file for the Intl. J. Quantum Chem  legacyPackages.x86_64-linux.texlivePackages.ijqc 
  ijs  10.05.1  Raster printer driver architecture  legacyPackages.x86_64-linux.ijs 
  ijsra  1.1  LaTeX document class for the International Journal of Student Research in Archaeology  legacyPackages.x86_64-linux.texlivePackages.ijsra 
@@ -31718,9 +31721,8 @@
  libmtp  1.1.22  Implementation of Microsoft's Media Transfer Protocol  legacyPackages.x86_64-linux.libmtp 
  libmtquery  0.0.1alpha3  Multitran lib: main engine to query translations  legacyPackages.x86_64-linux.multitran.libmtquery 
  libmtsupport  0.0.1alpha2  Multitran lib: basic useful functions  legacyPackages.x86_64-linux.multitran.libmtsupport 
- libmusicbrainz  3.0.3  MusicBrainz Client Library (3.x version)  legacyPackages.x86_64-linux.libmusicbrainz 
- libmusicbrainz  3.0.3  MusicBrainz Client Library (3.x version)  legacyPackages.x86_64-linux.libmusicbrainz3 
- libmusicbrainz  5.1.0  MusicBrainz Client Library (5.x version)  legacyPackages.x86_64-linux.libmusicbrainz5 
+ libmusicbrainz  5.1.0-unstable-2025-07-12  MusicBrainz Client Library  legacyPackages.x86_64-linux.libmusicbrainz 
+ libmusicbrainz  5.1.0-unstable-2025-07-12  MusicBrainz Client Library  legacyPackages.x86_64-linux.libmusicbrainz5 
  libmwaw  0.3.22  Import library for some old mac text documents  legacyPackages.x86_64-linux.libmwaw 
  libmypaint  1.6.1  Library for making brushstrokes which is used by MyPaint and other projects  legacyPackages.x86_64-linux.libmypaint 
  libmysofa  1.3.3  Reader for AES SOFA files to get better HRTFs  legacyPackages.x86_64-linux.libmysofa 
@@ -32034,7 +32036,7 @@
  libretro-desmume2015  0-unstable-2022-04-05  Port of DeSmuME ~2015 to libretro  legacyPackages.x86_64-linux.libretro.desmume2015 
  libretro-dolphin  0-unstable-2025-08-05  Port of Dolphin to libretro  legacyPackages.x86_64-linux.libretro.dolphin 
  libretro-dosbox  0-unstable-2022-07-18  Port of DOSBox to libretro  legacyPackages.x86_64-linux.libretro.dosbox 
- libretro-dosbox-pure  0-unstable-2025-09-04  Port of DOSBox to libretro aiming for simplicity and ease of use  legacyPackages.x86_64-linux.libretro.dosbox-pure 
+ libretro-dosbox-pure  0-unstable-2025-09-14  Port of DOSBox to libretro aiming for simplicity and ease of use  legacyPackages.x86_64-linux.libretro.dosbox-pure 
  libretro-easyrpg  0.8.1.1  EasyRPG Player libretro port  legacyPackages.x86_64-linux.libretro.easyrpg 
  libretro-fbalpha2012  0-unstable-2024-10-21  Port of Final Burn Alpha ~2012 to libretro  legacyPackages.x86_64-linux.libretro.fbalpha2012 
  libretro-fbneo  0-unstable-2025-09-12  Port of FBNeo to libretro  legacyPackages.x86_64-linux.libretro.fbneo 
@@ -32245,7 +32247,6 @@
  libsystemd-journal  1.4.6.0  Haskell bindings to libsystemd-journal  legacyPackages.x86_64-linux.haskellPackages.libsystemd-journal 
  libsystemtap  5.3  Statically defined probes development files  legacyPackages.x86_64-linux.libsystemtap 
  libtagc  0.12.0  Binding to TagLib C library  legacyPackages.x86_64-linux.haskellPackages.libtagc 
- libtap  1.14.0  Library to implement a test protocol  legacyPackages.x86_64-linux.libtap 
  libtapi  1600.0.11.8  Replaces the Mach-O Dynamic Library Stub files in Apple's SDKs to reduce the size  legacyPackages.x86_64-linux.darwin.libtapi 
  libtapi  1600.0.11.8  Replaces the Mach-O Dynamic Library Stub files in Apple's SDKs to reduce the size  legacyPackages.x86_64-linux.libtapi 
  libtar  1.2.20  C library for manipulating POSIX tar files  legacyPackages.x86_64-linux.libtar 
@@ -33068,9 +33069,9 @@
  lksctp-tools  1.0.21  Linux Kernel Stream Control Transmission Protocol Tools  legacyPackages.x86_64-linux.lksctp-tools 
  ll-picosat  0.1.0.0    legacyPackages.x86_64-linux.haskellPackages.ll-picosat 
  lla  0.4.0  Blazing-fast `ls` replacement with superpowers  legacyPackages.x86_64-linux.lla 
- llama-cpp  6442  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp 
- llama-cpp  6442  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp-rocm 
- llama-cpp  6442  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp-vulkan 
+ llama-cpp  6479  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp 
+ llama-cpp  6479  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp-rocm 
+ llama-cpp  6479  Inference of Meta's LLaMA model (and others) in pure C/C++  legacyPackages.x86_64-linux.llama-cpp-vulkan 
  llama-cpp-haskell  0.1.0.2  Haskell bindings for the llama.cpp llama-server  legacyPackages.x86_64-linux.haskellPackages.llama-cpp-haskell 
  llama-cpp-hs  0.1.0.0  Haskell FFI bindings to the llama.cpp LLM inference library  legacyPackages.x86_64-linux.haskellPackages.llama-cpp-hs 
  llama-swap  156  Model swapping for llama.cpp (or any local OpenAPI compatible server)  legacyPackages.x86_64-linux.llama-swap 
@@ -33104,7 +33105,7 @@
  lldb-manpages  19.1.7  man pages for LLDB 19.1.7  legacyPackages.x86_64-linux.llvmPackages_19.lldb-manpages 
  lldb-manpages  20.1.8  man pages for LLDB 20.1.8  legacyPackages.x86_64-linux.llvmPackages_20.lldb-manpages 
  lldb-manpages  21.1.1  man pages for LLDB 21.1.1  legacyPackages.x86_64-linux.llvmPackages_21.lldb-manpages 
- lldpd  1.0.19  802.1ab implementation (LLDP) to help you locate neighbors of all your equipments  legacyPackages.x86_64-linux.lldpd 
+ lldpd  1.0.20  802.1ab implementation (LLDP) to help you locate neighbors of all your equipments  legacyPackages.x86_64-linux.lldpd 
  llef  2.0.0  LLEF is a plugin for LLDB to make it more useful for RE and VR  legacyPackages.x86_64-linux.llvmPackages.lldbPlugins.llef 
  llef  2.0.0  LLEF is a plugin for LLDB to make it more useful for RE and VR  legacyPackages.x86_64-linux.llvmPackages_18.lldbPlugins.llef 
  llef  2.0.0  LLEF is a plugin for LLDB to make it more useful for RE and VR  legacyPackages.x86_64-linux.llvmPackages_19.lldbPlugins.llef 
@@ -33694,10 +33695,10 @@
  lua5.1-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.lua51Packages.fifo 
  lua5.1-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.lua51Packages.fluent 
  lua5.1-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua51Packages.funnyfiles-nvim 
- lua5.1-fzf-lua  0.0.2185-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua51Packages.fzf-lua 
+ lua5.1-fzf-lua  0.0.2234-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua51Packages.fzf-lua 
  lua5.1-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua51Packages.fzy 
  lua5.1-gitsigns.nvim-scm  1  Git signs written in pure lua  legacyPackages.x86_64-linux.lua51Packages.gitsigns-nvim 
- lua5.1-grug-far.nvim  1.6.46-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua51Packages.grug-far-nvim 
+ lua5.1-grug-far.nvim  1.6.48-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua51Packages.grug-far-nvim 
  lua5.1-haskell-tools.nvim  6.2.0-1  🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.lua51Packages.haskell-tools-nvim 
  lua5.1-http  0.4-0  HTTP library for Lua  legacyPackages.x86_64-linux.lua51Packages.http 
  lua5.1-image.nvim  1.3.0-1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.lua51Packages.image-nvim 
@@ -33809,8 +33810,8 @@
  lua5.1-nvim-nio  1.10.1-1  A library for asynchronous IO in Neovim  legacyPackages.x86_64-linux.lua51Packages.nvim-nio 
  lua5.1-nvim-web-devicons  0.100-1  Nerd Font icons for neovim  legacyPackages.x86_64-linux.lua51Packages.nvim-web-devicons 
  lua5.1-oil.nvim  2.15.0-1  Neovim file explorer: edit your filesystem like a buffer  legacyPackages.x86_64-linux.lua51Packages.oil-nvim 
- lua5.1-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.10.0+.  legacyPackages.x86_64-linux.lua51Packages.orgmode 
- lua5.1-papis.nvim  0.8.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua51Packages.papis-nvim 
+ lua5.1-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.11.0+.  legacyPackages.x86_64-linux.lua51Packages.orgmode 
+ lua5.1-papis.nvim  0.9.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua51Packages.papis-nvim 
  lua5.1-pathlib.nvim  2.2.3-1  OS Independent, ultimate solution to path handling in neovim.  legacyPackages.x86_64-linux.lua51Packages.pathlib-nvim 
  lua5.1-penlight  1.14.0-3  Lua utility libraries loosely based on the Python standard libraries  legacyPackages.x86_64-linux.lua51Packages.penlight 
  lua5.1-plenary.nvim-scm  1  lua functions you don't want to write   legacyPackages.x86_64-linux.lua51Packages.plenary-nvim 
@@ -33893,14 +33894,14 @@
  lua5.2-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.luaPackages.fluent 
  lua5.2-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua52Packages.funnyfiles-nvim 
  lua5.2-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.luaPackages.funnyfiles-nvim 
- lua5.2-fzf-lua  0.0.2185-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua52Packages.fzf-lua 
- lua5.2-fzf-lua  0.0.2185-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luaPackages.fzf-lua 
+ lua5.2-fzf-lua  0.0.2234-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua52Packages.fzf-lua 
+ lua5.2-fzf-lua  0.0.2234-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luaPackages.fzf-lua 
  lua5.2-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua52Packages.fzy 
  lua5.2-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.luaPackages.fzy 
  lua5.2-gitsigns.nvim-scm  1  Git signs written in pure lua  legacyPackages.x86_64-linux.lua52Packages.gitsigns-nvim 
  lua5.2-gitsigns.nvim-scm  1  Git signs written in pure lua  legacyPackages.x86_64-linux.luaPackages.gitsigns-nvim 
- lua5.2-grug-far.nvim  1.6.46-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua52Packages.grug-far-nvim 
- lua5.2-grug-far.nvim  1.6.46-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.luaPackages.grug-far-nvim 
+ lua5.2-grug-far.nvim  1.6.48-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua52Packages.grug-far-nvim 
+ lua5.2-grug-far.nvim  1.6.48-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.luaPackages.grug-far-nvim 
  lua5.2-haskell-tools.nvim  6.2.0-1  🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.lua52Packages.haskell-tools-nvim 
  lua5.2-haskell-tools.nvim  6.2.0-1  🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.luaPackages.haskell-tools-nvim 
  lua5.2-http  0.4-0  HTTP library for Lua  legacyPackages.x86_64-linux.lua52Packages.http 
@@ -34116,10 +34117,10 @@
  lua5.2-nvim-web-devicons  0.100-1  Nerd Font icons for neovim  legacyPackages.x86_64-linux.luaPackages.nvim-web-devicons 
  lua5.2-oil.nvim  2.15.0-1  Neovim file explorer: edit your filesystem like a buffer  legacyPackages.x86_64-linux.lua52Packages.oil-nvim 
  lua5.2-oil.nvim  2.15.0-1  Neovim file explorer: edit your filesystem like a buffer  legacyPackages.x86_64-linux.luaPackages.oil-nvim 
- lua5.2-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.10.0+.  legacyPackages.x86_64-linux.lua52Packages.orgmode 
- lua5.2-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.10.0+.  legacyPackages.x86_64-linux.luaPackages.orgmode 
- lua5.2-papis.nvim  0.8.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua52Packages.papis-nvim 
- lua5.2-papis.nvim  0.8.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.luaPackages.papis-nvim 
+ lua5.2-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.11.0+.  legacyPackages.x86_64-linux.lua52Packages.orgmode 
+ lua5.2-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.11.0+.  legacyPackages.x86_64-linux.luaPackages.orgmode 
+ lua5.2-papis.nvim  0.9.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua52Packages.papis-nvim 
+ lua5.2-papis.nvim  0.9.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.luaPackages.papis-nvim 
  lua5.2-pathlib.nvim  2.2.3-1  OS Independent, ultimate solution to path handling in neovim.  legacyPackages.x86_64-linux.lua52Packages.pathlib-nvim 
  lua5.2-pathlib.nvim  2.2.3-1  OS Independent, ultimate solution to path handling in neovim.  legacyPackages.x86_64-linux.luaPackages.pathlib-nvim 
  lua5.2-penlight  1.14.0-3  Lua utility libraries loosely based on the Python standard libraries  legacyPackages.x86_64-linux.lua52Packages.penlight 
@@ -34210,10 +34211,10 @@
  lua5.3-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.lua53Packages.fifo 
  lua5.3-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.lua53Packages.fluent 
  lua5.3-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua53Packages.funnyfiles-nvim 
- lua5.3-fzf-lua  0.0.2185-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua53Packages.fzf-lua 
+ lua5.3-fzf-lua  0.0.2234-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua53Packages.fzf-lua 
  lua5.3-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua53Packages.fzy 
  lua5.3-gitsigns.nvim-scm  1  Git signs written in pure lua  legacyPackages.x86_64-linux.lua53Packages.gitsigns-nvim 
- lua5.3-grug-far.nvim  1.6.46-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua53Packages.grug-far-nvim 
+ lua5.3-grug-far.nvim  1.6.48-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua53Packages.grug-far-nvim 
  lua5.3-haskell-tools.nvim  6.2.0-1  🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.lua53Packages.haskell-tools-nvim 
  lua5.3-http  0.4-0  HTTP library for Lua  legacyPackages.x86_64-linux.lua53Packages.http 
  lua5.3-image.nvim  1.3.0-1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.lua53Packages.image-nvim 
@@ -34321,8 +34322,8 @@
  lua5.3-nvim-nio  1.10.1-1  A library for asynchronous IO in Neovim  legacyPackages.x86_64-linux.lua53Packages.nvim-nio 
  lua5.3-nvim-web-devicons  0.100-1  Nerd Font icons for neovim  legacyPackages.x86_64-linux.lua53Packages.nvim-web-devicons 
  lua5.3-oil.nvim  2.15.0-1  Neovim file explorer: edit your filesystem like a buffer  legacyPackages.x86_64-linux.lua53Packages.oil-nvim 
- lua5.3-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.10.0+.  legacyPackages.x86_64-linux.lua53Packages.orgmode 
- lua5.3-papis.nvim  0.8.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua53Packages.papis-nvim 
+ lua5.3-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.11.0+.  legacyPackages.x86_64-linux.lua53Packages.orgmode 
+ lua5.3-papis.nvim  0.9.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua53Packages.papis-nvim 
  lua5.3-pathlib.nvim  2.2.3-1  OS Independent, ultimate solution to path handling in neovim.  legacyPackages.x86_64-linux.lua53Packages.pathlib-nvim 
  lua5.3-penlight  1.14.0-3  Lua utility libraries loosely based on the Python standard libraries  legacyPackages.x86_64-linux.lua53Packages.penlight 
  lua5.3-plenary.nvim-scm  1  lua functions you don't want to write   legacyPackages.x86_64-linux.lua53Packages.plenary-nvim 
@@ -34380,10 +34381,10 @@
  lua5.4-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.lua54Packages.fifo 
  lua5.4-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.lua54Packages.fluent 
  lua5.4-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua54Packages.funnyfiles-nvim 
- lua5.4-fzf-lua  0.0.2185-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua54Packages.fzf-lua 
+ lua5.4-fzf-lua  0.0.2234-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua54Packages.fzf-lua 
  lua5.4-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua54Packages.fzy 
  lua5.4-gitsigns.nvim-scm  1  Git signs written in pure lua  legacyPackages.x86_64-linux.lua54Packages.gitsigns-nvim 
- lua5.4-grug-far.nvim  1.6.46-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua54Packages.grug-far-nvim 
+ lua5.4-grug-far.nvim  1.6.48-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua54Packages.grug-far-nvim 
  lua5.4-haskell-tools.nvim  6.2.0-1  🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.lua54Packages.haskell-tools-nvim 
  lua5.4-http  0.4-0  HTTP library for Lua  legacyPackages.x86_64-linux.lua54Packages.http 
  lua5.4-image.nvim  1.3.0-1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.lua54Packages.image-nvim 
@@ -34491,8 +34492,8 @@
  lua5.4-nvim-nio  1.10.1-1  A library for asynchronous IO in Neovim  legacyPackages.x86_64-linux.lua54Packages.nvim-nio 
  lua5.4-nvim-web-devicons  0.100-1  Nerd Font icons for neovim  legacyPackages.x86_64-linux.lua54Packages.nvim-web-devicons 
  lua5.4-oil.nvim  2.15.0-1  Neovim file explorer: edit your filesystem like a buffer  legacyPackages.x86_64-linux.lua54Packages.oil-nvim 
- lua5.4-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.10.0+.  legacyPackages.x86_64-linux.lua54Packages.orgmode 
- lua5.4-papis.nvim  0.8.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua54Packages.papis-nvim 
+ lua5.4-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.11.0+.  legacyPackages.x86_64-linux.lua54Packages.orgmode 
+ lua5.4-papis.nvim  0.9.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.lua54Packages.papis-nvim 
  lua5.4-pathlib.nvim  2.2.3-1  OS Independent, ultimate solution to path handling in neovim.  legacyPackages.x86_64-linux.lua54Packages.pathlib-nvim 
  lua5.4-penlight  1.14.0-3  Lua utility libraries loosely based on the Python standard libraries  legacyPackages.x86_64-linux.lua54Packages.penlight 
  lua5.4-plenary.nvim-scm  1  lua functions you don't want to write   legacyPackages.x86_64-linux.lua54Packages.plenary-nvim 
@@ -34577,10 +34578,10 @@
  luajit2.1-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.luajitPackages.fifo 
  luajit2.1-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.luajitPackages.fluent 
  luajit2.1-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.luajitPackages.funnyfiles-nvim 
- luajit2.1-fzf-lua  0.0.2185-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luajitPackages.fzf-lua 
+ luajit2.1-fzf-lua  0.0.2234-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luajitPackages.fzf-lua 
  luajit2.1-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.luajitPackages.fzy 
  luajit2.1-gitsigns.nvim-scm  1  Git signs written in pure lua  legacyPackages.x86_64-linux.luajitPackages.gitsigns-nvim 
- luajit2.1-grug-far.nvim  1.6.46-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.luajitPackages.grug-far-nvim 
+ luajit2.1-grug-far.nvim  1.6.48-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.luajitPackages.grug-far-nvim 
  luajit2.1-haskell-tools.nvim  6.2.0-1  🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.luajitPackages.haskell-tools-nvim 
  luajit2.1-http  0.4-0  HTTP library for Lua  legacyPackages.x86_64-linux.luajitPackages.http 
  luajit2.1-image.nvim  1.3.0-1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.luajitPackages.image-nvim 
@@ -34684,8 +34685,8 @@
  luajit2.1-nvim-nio  1.10.1-1  A library for asynchronous IO in Neovim  legacyPackages.x86_64-linux.luajitPackages.nvim-nio 
  luajit2.1-nvim-web-devicons  0.100-1  Nerd Font icons for neovim  legacyPackages.x86_64-linux.luajitPackages.nvim-web-devicons 
  luajit2.1-oil.nvim  2.15.0-1  Neovim file explorer: edit your filesystem like a buffer  legacyPackages.x86_64-linux.luajitPackages.oil-nvim 
- luajit2.1-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.10.0+.  legacyPackages.x86_64-linux.luajitPackages.orgmode 
- luajit2.1-papis.nvim  0.8.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.luajitPackages.papis-nvim 
+ luajit2.1-orgmode  0.7.1-1  Orgmode clone written in Lua for Neovim 0.11.0+.  legacyPackages.x86_64-linux.luajitPackages.orgmode 
+ luajit2.1-papis.nvim  0.9.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.luajitPackages.papis-nvim 
  luajit2.1-pathlib.nvim  2.2.3-1  OS Independent, ultimate solution to path handling in neovim.  legacyPackages.x86_64-linux.luajitPackages.pathlib-nvim 
  luajit2.1-penlight  1.14.0-3  Lua utility libraries loosely based on the Python standard libraries  legacyPackages.x86_64-linux.luajitPackages.penlight 
  luajit2.1-plenary.nvim-scm  1  lua functions you don't want to write   legacyPackages.x86_64-linux.luajitPackages.plenary-nvim 
@@ -34788,7 +34789,7 @@
  luatikz  2.12.0  A 2D graphics library to draw TikZ graphics using the Lua programming language  legacyPackages.x86_64-linux.texlivePackages.luatikz 
  luatodonotes  0.5  Add editing annotations in a LuaLaTeX document  legacyPackages.x86_64-linux.texlivePackages.luatodonotes 
  luatruthtable  1.3  Generate truth tables of boolean values in LuaLaTeX  legacyPackages.x86_64-linux.texlivePackages.luatruthtable 
- luau  0.690  Fast, small, safe, gradually typed embeddable scripting language derived from Lua  legacyPackages.x86_64-linux.luau 
+ luau  0.691  Fast, small, safe, gradually typed embeddable scripting language derived from Lua  legacyPackages.x86_64-linux.luau 
  luau-lsp  1.53.3  Language Server Implementation for Luau  legacyPackages.x86_64-linux.luau-lsp 
  luautils  0.1.4  Helpers for Haskell integration with Lua  legacyPackages.x86_64-linux.haskellPackages.luautils 
  luavlna  0.1m  Prevent line breaks after single letter words, units, or academic titles  legacyPackages.x86_64-linux.texlivePackages.luavlna 
@@ -35060,7 +35061,7 @@
  maeparser  1.3.3  Maestro file parser  legacyPackages.x86_64-linux.maeparser 
  maestral  1.9.4  Open-source Dropbox client for macOS and Linux  legacyPackages.x86_64-linux.maestral 
  maestral-qt  1.9.4  GUI front-end for maestral (an open-source Dropbox client) for Linux  legacyPackages.x86_64-linux.maestral-gui 
- maestro  2.0.2  Mobile UI Automation tool  legacyPackages.x86_64-linux.maestro 
+ maestro  2.0.3  Mobile UI Automation tool  legacyPackages.x86_64-linux.maestro 
  mafft  7.526  Multiple alignment program for amino acid or nucleotide sequences  legacyPackages.x86_64-linux.mafft 
  mafr  1.0  Mathematics in accord with French usage  legacyPackages.x86_64-linux.texlivePackages.mafr 
  magaz  0.4  Magazine layout  legacyPackages.x86_64-linux.texlivePackages.magaz 
@@ -35328,7 +35329,7 @@
  marginfit  1.1  Improved margin notes  legacyPackages.x86_64-linux.texlivePackages.marginfit 
  marginfix  1.2  Patch marginpar to avoid overfull margins  legacyPackages.x86_64-linux.texlivePackages.marginfix 
  marginnote  68204  Notes in the margin, even where marginpar fails  legacyPackages.x86_64-linux.texlivePackages.marginnote 
- mari0  1.6.2  Crossover between Super Mario Bros. and Portal  legacyPackages.x86_64-linux.mari0 
+ mari0  1.6.2-unstable-2023-08-08  Crossover between Super Mario Bros. and Portal  legacyPackages.x86_64-linux.mari0 
  mariadb-client  10.11.14  Enhanced, drop-in replacement for MySQL  legacyPackages.x86_64-linux.mariadb-client 
  mariadb-client  10.11.14  Enhanced, drop-in replacement for MySQL  legacyPackages.x86_64-linux.mysql-client 
  mariadb-connector-c  3.1.21  Client library that can be used to connect to MySQL or MariaDB  legacyPackages.x86_64-linux.libmysqlclient_3_1 
@@ -35606,7 +35607,7 @@
  matrix-static  0.3  Type-safe matrix operations  legacyPackages.x86_64-linux.haskellPackages.matrix-static 
  matrix-synapse  1.138.0  Matrix reference homeserver  legacyPackages.x86_64-linux.matrix-synapse-unwrapped 
  matrix-synapse-wrapped  1.138.0  Matrix reference homeserver  legacyPackages.x86_64-linux.matrix-synapse 
- matrix-tuwunel  1.4.1  Matrix homeserver written in Rust, official successor to conduwuit  legacyPackages.x86_64-linux.matrix-tuwunel 
+ matrix-tuwunel  1.4.2  Matrix homeserver written in Rust, official successor to conduwuit  legacyPackages.x86_64-linux.matrix-tuwunel 
  matroid  0.0.0.1.1  matroid (combinatorial pre-geometries) library  legacyPackages.x86_64-linux.haskellPackages.matroid 
  matsuri  0.0.4  ncurses XMPP client  legacyPackages.x86_64-linux.haskellPackages.matsuri 
  mattens  1.3b  Matrices/tensor typesetting  legacyPackages.x86_64-linux.texlivePackages.mattens 
@@ -36512,7 +36513,7 @@
  mint-artwork  1.9.2  Artwork for the cinnamon desktop  legacyPackages.x86_64-linux.mint-artwork 
  mint-cursor-themes  1.0.2  Linux Mint cursor themes  legacyPackages.x86_64-linux.mint-cursor-themes 
  mint-l-icons  1.7.6  Mint-L icon theme  legacyPackages.x86_64-linux.mint-l-icons 
- mint-l-theme  2.0.1  Mint-L theme for the Cinnamon desktop  legacyPackages.x86_64-linux.mint-l-theme 
+ mint-l-theme  2.0.2  Mint-L theme for the Cinnamon desktop  legacyPackages.x86_64-linux.mint-l-theme 
  mint-themes  2.3.2  Mint-X and Mint-Y themes for the cinnamon desktop  legacyPackages.x86_64-linux.mint-themes 
  mint-x-icons  1.7.3  Mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza  legacyPackages.x86_64-linux.mint-x-icons 
  mint-y-icons  1.8.6  Mint-Y icon theme  legacyPackages.x86_64-linux.mint-y-icons 
@@ -37739,7 +37740,7 @@
  multipool-persistent-postgresql  0.2.0.0  Read and write appropriately from both master and replicated postgresql instances  legacyPackages.x86_64-linux.haskellPackages.multipool-persistent-postgresql 
  multipool-postgresql-simple  0.2.0.0    legacyPackages.x86_64-linux.haskellPackages.multipool-postgresql-simple 
  multiprocess  0.0.0  Multiprocess architecture library  legacyPackages.x86_64-linux.haskellPackages.multiprocess 
- multiqc  1.29  Aggregates bioinformatics results from multiple samples into a unified report  legacyPackages.x86_64-linux.multiqc 
+ multiqc  1.30  Aggregates bioinformatics results from multiple samples into a unified report  legacyPackages.x86_64-linux.multiqc 
  multirec  0.7.9  Generic programming for families of recursive datatypes  legacyPackages.x86_64-linux.haskellPackages.multirec 
  multirec-alt-deriver  0.1.3  Alternative multirec instances deriver  legacyPackages.x86_64-linux.haskellPackages.multirec-alt-deriver 
  multirec-binary  0.0.1  Generic Data.Binary instances using MultiRec.  legacyPackages.x86_64-linux.haskellPackages.multirec-binary 
@@ -39043,7 +39044,7 @@
  nix-script  2020-03-23  Shebang for running inside nix-shell  legacyPackages.x86_64-linux.nix-script 
  nix-search  0.4.0  Nix-channel-compatible package search  legacyPackages.x86_64-linux.nix-search 
  nix-search-cli  0.2-unstable-2024-09-24  CLI for searching packages on search.nixos.org  legacyPackages.x86_64-linux.nix-search-cli 
- nix-search-tv  2.2.0  Fuzzy search for Nix packages  legacyPackages.x86_64-linux.nix-search-tv 
+ nix-search-tv  2.2.1  Fuzzy search for Nix packages  legacyPackages.x86_64-linux.nix-search-tv 
  nix-serve  0.2-a7e046d  Utility for sharing a Nix store as a binary cache  legacyPackages.x86_64-linux.nix-serve 
  nix-serve-ng  1.0.1-unstable-2025-05-28  A drop-in replacement for nix-serve that's faster and more stable  legacyPackages.x86_64-linux.haskellPackages.nix-serve-ng 
  nix-serve-ng  1.0.1-unstable-2025-05-28  A drop-in replacement for nix-serve that's faster and more stable  legacyPackages.x86_64-linux.lixPackageSets.git.nix-serve-ng 
@@ -39387,8 +39388,8 @@
  noto-fonts-cjk-sans  2.004  Beautiful and free fonts for CJK languages  legacyPackages.x86_64-linux.noto-fonts-cjk-sans-static 
  noto-fonts-cjk-serif  2.003  Beautiful and free fonts for CJK languages  legacyPackages.x86_64-linux.noto-fonts-cjk-serif 
  noto-fonts-cjk-serif  2.003  Beautiful and free fonts for CJK languages  legacyPackages.x86_64-linux.noto-fonts-cjk-serif-static 
- noto-fonts-color-emoji  2.048  Color emoji font  legacyPackages.x86_64-linux.noto-fonts-color-emoji 
- noto-fonts-color-emoji  2.048  Color emoji font  legacyPackages.x86_64-linux.noto-fonts-emoji 
+ noto-fonts-color-emoji  2.051  Color emoji font  legacyPackages.x86_64-linux.noto-fonts-color-emoji 
+ noto-fonts-color-emoji  2.051  Color emoji font  legacyPackages.x86_64-linux.noto-fonts-emoji 
  noto-fonts-emoji-blob-bin  15.0  Noto Emoji with extended Blob support  legacyPackages.x86_64-linux.noto-fonts-emoji-blob-bin 
  noto-fonts-lgc-plus  2025.09.01  Beautiful and free fonts for many languages  legacyPackages.x86_64-linux.noto-fonts-lgc-plus 
  noto-fonts-monochrome-emoji  3.000  Monochrome emoji font  legacyPackages.x86_64-linux.noto-fonts-monochrome-emoji 
@@ -39495,7 +39496,7 @@
  nss  3.112.1  Set of libraries for development of security-enabled client and server applications  legacyPackages.x86_64-linux.nssTools 
  nss  3.112.1  Set of libraries for development of security-enabled client and server applications  legacyPackages.x86_64-linux.nss_esr 
  nss  3.114.1  Set of libraries for development of security-enabled client and server applications  legacyPackages.x86_64-linux.nss_3_114 
- nss  3.116  Set of libraries for development of security-enabled client and server applications  legacyPackages.x86_64-linux.nss_latest 
+ nss  3.115.1  Set of libraries for development of security-enabled client and server applications  legacyPackages.x86_64-linux.nss_latest 
  nss-cacert  3.115  Bundle of X.509 certificates of public Certificate Authorities (CA)  legacyPackages.x86_64-linux.cacert 
  nss-mdns  0.15.1  MDNS Name Service Switch (NSS) plug-in  legacyPackages.x86_64-linux.nssmdns 
  nss-pam-ldapd  0.9.13  LDAP identity and authentication for NSS/PAM  legacyPackages.x86_64-linux.nss_pam_ldapd 
@@ -40330,7 +40331,6 @@
  obs-mute-filter  0.3.0  OBS Studio plugin to mute audio of a source  legacyPackages.x86_64-linux.obs-studio-plugins.obs-mute-filter 
  obs-ndi  4.14.1  Network A/V plugin for OBS Studio  legacyPackages.x86_64-linux.obs-studio-plugins.obs-ndi 
  obs-noise  1.0.0  Plug-in for noise generation and noise effects for OBS  legacyPackages.x86_64-linux.obs-studio-plugins.obs-noise 
- obs-nvfbc  0.0.7  OBS Studio source plugin for NVIDIA FBC API  legacyPackages.x86_64-linux.obs-studio-plugins.obs-nvfbc 
  obs-pipewire-audio-capture  1.2.1  Audio device and application capture for OBS Studio using PipeWire  legacyPackages.x86_64-linux.obs-studio-plugins.obs-pipewire-audio-capture 
  obs-recursion-effect  0.1.0  Plugin for OBS Studio to add recursion effect to a source using a filter  legacyPackages.x86_64-linux.obs-studio-plugins.obs-recursion-effect 
  obs-replay-source  1.8.1  Replay source for OBS studio  legacyPackages.x86_64-linux.obs-studio-plugins.obs-replay-source 
@@ -41626,7 +41626,7 @@
  ocaml5.3.0-username_kernel  0.17.0  Identifier for a user  legacyPackages.x86_64-linux.ocamlPackages.username_kernel 
  ocaml5.3.0-utf8  0.1.0-unstable-2024-05-07  Utf8 logic with minimal dependencies  legacyPackages.x86_64-linux.ocamlPackages.reason-native.utf8 
  ocaml5.3.0-utop  2.15.0  Universal toplevel for OCaml  legacyPackages.x86_64-linux.ocamlPackages.utop 
- ocaml5.3.0-uucp  16.0.0  OCaml library providing efficient access to a selection of character properties of the Unicode character database  legacyPackages.x86_64-linux.ocamlPackages.uucp 
+ ocaml5.3.0-uucp  17.0.0  OCaml library providing efficient access to a selection of character properties of the Unicode character database  legacyPackages.x86_64-linux.ocamlPackages.uucp 
  ocaml5.3.0-uunf  16.0.0  OCaml module for normalizing Unicode text  legacyPackages.x86_64-linux.ocamlPackages.uunf 
  ocaml5.3.0-uuseg  16.0.0  OCaml library for segmenting Unicode text  legacyPackages.x86_64-linux.ocamlPackages.uuseg 
  ocaml5.3.0-uutf  1.0.4  Non-blocking streaming Unicode codec for OCaml  legacyPackages.x86_64-linux.ocamlPackages.uutf 
@@ -42054,7 +42054,7 @@
  oneanime  1.4.1  Anime1 third-party client with bullet screen  legacyPackages.x86_64-linux.oneanime 
  onedown  1.7  Typeset Bridge Diagrams  legacyPackages.x86_64-linux.texlivePackages.onedown 
  onedrive  2.5.6  Complete tool to interact with OneDrive on Linux  legacyPackages.x86_64-linux.onedrive 
- onedrivegui  1.2.1  Simple GUI for Linux OneDrive Client, with multi-account support  legacyPackages.x86_64-linux.onedrivegui 
+ onedrivegui  1.2.2  Simple GUI for Linux OneDrive Client, with multi-account support  legacyPackages.x86_64-linux.onedrivegui 
  onedriver  0.14.1  Network filesystem for Linux  legacyPackages.x86_64-linux.onedriver 
  onefetch  2.25.0  Git repository summary on your terminal  legacyPackages.x86_64-linux.onefetch 
  oneko  1.2.6  Creates a cute cat chasing around your mouse cursor  legacyPackages.x86_64-linux.oneko 
@@ -42083,12 +42083,13 @@
  onlyoffice-desktopeditors  9.0.0  Office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents  legacyPackages.x86_64-linux.onlyoffice-desktopeditors 
  onlyoffice-documentserver  8.3.3  ONLYOFFICE Document Server is an online office suite comprising viewers and editors  legacyPackages.x86_64-linux.onlyoffice-documentserver 
  onmetal-image  0.1.1  Onmetal OCI Image Specification, Library and Tooling  legacyPackages.x86_64-linux.onmetal-image 
- onnxruntime  1.22.0  Cross-platform, high performance scoring engine for ML models  legacyPackages.x86_64-linux.onnxruntime 
+ onnxruntime  1.22.2  Cross-platform, high performance scoring engine for ML models  legacyPackages.x86_64-linux.onnxruntime 
  onpartitions  0.1.0.0  partition lenses  legacyPackages.x86_64-linux.haskellPackages.onpartitions 
  onrannual  1.1  Class for Office of Naval Research Ocean Battlespace Sensing annual report  legacyPackages.x86_64-linux.texlivePackages.onrannual 
  onscripter-en  20110930  Japanese visual novel scripting engine  legacyPackages.x86_64-linux.onscripter-en 
  onthespot  0.5  QT based Spotify music downloader written in Python  legacyPackages.x86_64-linux.onthespot 
  onu-course  1  Code for the Haskell course taught at the Odessa National University in 2012  legacyPackages.x86_64-linux.haskellPackages.onu-course 
+ onyx  2.0.12  App for Claude Bernard University  legacyPackages.x86_64-linux.onyx 
  oo-prototypes  0.1.0.0  Support for OO-like prototypes  legacyPackages.x86_64-linux.haskellPackages.oo-prototypes 
  oo7  0.5.0  James Bond went on a new mission as a Secret Service provider  legacyPackages.x86_64-linux.oo7 
  oo7-portal  0.5.0  James Bond went on a new mission as a Secret Service provider (XDG Desktop Portal)  legacyPackages.x86_64-linux.oo7-portal 
@@ -42897,7 +42898,6 @@
  osm-download  0.4  Download Open Street Map tiles  legacyPackages.x86_64-linux.haskellPackages.osm-download 
  osm-gps-map  1.2.0  GTK widget for displaying OpenStreetMap tiles  legacyPackages.x86_64-linux.osm-gps-map 
  osm2pgsql  2.1.1  OpenStreetMap data to PostgreSQL converter  legacyPackages.x86_64-linux.osm2pgsql 
- osm2xmap  2.0  Converter from OpenStreetMap data format to OpenOrienteering Mapper format  legacyPackages.x86_64-linux.osm2xmap 
  osmctools  0.9  Command line tools for transforming Open Street Map files  legacyPackages.x86_64-linux.osmctools 
  osmid  0.8.0  Lightweight, portable, easy to use tool to convert MIDI to OSC and OSC to MIDI  legacyPackages.x86_64-linux.osmid 
  osmium-tool  1.18.0  Multipurpose command line tool for working with OpenStreetMap data based on the Osmium library  legacyPackages.x86_64-linux.osmium-tool 
@@ -51197,8 +51197,8 @@
  pipenv-poetry-migrate  0.6.2  This is simple migration script, migrate pipenv to poetry  legacyPackages.x86_64-linux.pipenv-poetry-migrate 
  piper  0.8  GTK frontend for ratbagd mouse config daemon  legacyPackages.x86_64-linux.piper 
  piper-phonemize  2023.11.14-4  C++ library for converting text to phonemes for Piper  legacyPackages.x86_64-linux.piper-phonemize 
- piper-tts  2023.11.14-2  Fast, local neural text to speech system  legacyPackages.x86_64-linux.larynx 
- piper-tts  2023.11.14-2  Fast, local neural text to speech system  legacyPackages.x86_64-linux.piper-tts 
+ piper-tts  1.3.0  Fast, local neural text to speech system  legacyPackages.x86_64-linux.larynx 
+ piper-tts  1.3.0  Fast, local neural text to speech system  legacyPackages.x86_64-linux.piper-tts 
  piper.yazi  25.5.31-unstable-2025-06-21  Pipe any shell command as a previewer  legacyPackages.x86_64-linux.yaziPlugins.piper 
  pipes  1.3.0  Animated pipes terminal screensaver  legacyPackages.x86_64-linux.pipes 
  pipes  4.3.16  Compositional pipelines  legacyPackages.x86_64-linux.haskellPackages.pipes 
@@ -51993,7 +51993,7 @@
  positive  0.4.1  Positive integers  legacyPackages.x86_64-linux.haskellPackages.positive 
  positive-integer  0.1.2.0  Type of positive integers  legacyPackages.x86_64-linux.haskellPackages.positive-integer 
  positron  0.1.0.0  Experiment  legacyPackages.x86_64-linux.haskellPackages.positron 
- positron-bin  2025.08.0-130  Positron, a next-generation data science IDE  legacyPackages.x86_64-linux.positron-bin 
+ positron-bin  2025.09.0-139  Positron, a next-generation data science IDE  legacyPackages.x86_64-linux.positron-bin 
  posix-acl  0.2.0.1  Support for Posix ACL  legacyPackages.x86_64-linux.haskellPackages.posix-acl 
  posix-api  0.7.3.0  posix bindings  legacyPackages.x86_64-linux.haskellPackages.posix-api 
  posix-error-codes  0.1.0.0  POSIX error codes  legacyPackages.x86_64-linux.haskellPackages.posix-error-codes 
@@ -52201,7 +52201,7 @@
  powersploit  3.0.0-unstable-2020-08-22  PowerShell Post-Exploitation Framework  legacyPackages.x86_64-linux.powersploit 
  powerstat  0.04.05  Laptop power measuring tool  legacyPackages.x86_64-linux.powerstat 
  powerstation  0.7.0  Open source TDP control and performance daemon with DBus interface  legacyPackages.x86_64-linux.powerstation 
- powersupply  0.9.0  Graphical app to display power status of mobile Linux platforms  legacyPackages.x86_64-linux.powersupply 
+ powersupply  0.10.1  Graphical app to display power status of mobile Linux platforms  legacyPackages.x86_64-linux.powersupply 
  powertabeditor  2.0.22  View and edit guitar tablature  legacyPackages.x86_64-linux.powertabeditor 
  powertop  2.15  Analyze power consumption on Intel-based laptops  legacyPackages.x86_64-linux.powertop 
  powwow  1.2.23  Multi-user Dungeon Client  legacyPackages.x86_64-linux.powwow 
@@ -52627,7 +52627,6 @@
  progressbar  1.0b-4  Visualize shares of total amounts in the form of a (progress-)bar  legacyPackages.x86_64-linux.texlivePackages.progressbar 
  progression  0.5.0.2  Automates the recording and graphing of criterion benchmarks  legacyPackages.x86_64-linux.haskellPackages.progression 
  progressive  0.1.0.1  Multilabel classification model which learns sequentially (online)  legacyPackages.x86_64-linux.haskellPackages.progressive 
- proj  7.2.1  Cartographic Projections Library  legacyPackages.x86_64-linux.proj_7 
  proj  9.6.1  Cartographic Projections Library  legacyPackages.x86_64-linux.proj 
  proj-datumgrid-world  1.0  Repository for proj datum grids  legacyPackages.x86_64-linux.proj-datumgrid 
  proj4-hs-bindings  0.1  Haskell bindings for the Proj4 C dynamic library  legacyPackages.x86_64-linux.haskellPackages.proj4-hs-bindings 
@@ -53362,7 +53361,7 @@
  pypy3.10  7.3.19  Fast, compliant alternative implementation of the Python language (3.10)  legacyPackages.x86_64-linux.pypy310 
  pypy3.11  7.3.19  Fast, compliant alternative implementation of the Python language (3.11)  legacyPackages.x86_64-linux.pypy3 
  pypy3.11  7.3.19  Fast, compliant alternative implementation of the Python language (3.11)  legacyPackages.x86_64-linux.pypy311 
- pyradio  0.9.3.11.16  Curses based internet radio player  legacyPackages.x86_64-linux.pyradio 
+ pyradio  0.9.3.11.18  Curses based internet radio player  legacyPackages.x86_64-linux.pyradio 
  pyrefly  0.28.1  Fast type checker and IDE for Python  legacyPackages.x86_64-linux.pyrefly 
  pyright  1.1.403  Type checker for the Python language  legacyPackages.x86_64-linux.pyright 
  pyroscope  1.13.4  Continuous profiling platform; debug performance issues down to a single line of code  legacyPackages.x86_64-linux.pyroscope 
@@ -54918,7 +54917,7 @@
  python3.12-crcelk  1.3  Implementation of the CRC algorithm  legacyPackages.x86_64-linux.python312Packages.crcelk 
  python3.12-crcmod  1.7  Python module for generating objects that compute the Cyclic Redundancy Check (CRC)  legacyPackages.x86_64-linux.python312Packages.crcmod 
  python3.12-credstash  1.17.1  Utility for managing secrets in the cloud using AWS KMS and DynamoDB  legacyPackages.x86_64-linux.python312Packages.credstash 
- python3.12-crewai  0.175.0  Framework for orchestrating role-playing, autonomous AI agents  legacyPackages.x86_64-linux.python312Packages.crewai 
+ python3.12-crewai  0.186.1  Framework for orchestrating role-playing, autonomous AI agents  legacyPackages.x86_64-linux.python312Packages.crewai 
  python3.12-crispy-bootstrap3  2024.1  Bootstrap 3 template pack for django-crispy-forms  legacyPackages.x86_64-linux.python312Packages.crispy-bootstrap3 
  python3.12-crispy-bootstrap3  2024.1  Bootstrap 3 template pack for django-crispy-forms  legacyPackages.x86_64-linux.python312Packages.django-crispy-bootstrap3 
  python3.12-crispy-bootstrap4  2025.6  Bootstrap 4 template pack for django-crispy-forms  legacyPackages.x86_64-linux.python312Packages.crispy-bootstrap4 
@@ -55329,8 +55328,8 @@
  python3.12-django-google-analytics-app  6.0.0  Django Google Analytics brings the power of server side/non-js Google Analytics to your Django projects  legacyPackages.x86_64-linux.python312Packages.django-google-analytics-app 
  python3.12-django-graphiql-debug-toolbar  0.2.0  Django Debug Toolbar for GraphiQL IDE  legacyPackages.x86_64-linux.python312Packages.django-graphiql-debug-toolbar 
  python3.12-django-gravatar2  1.4.5  Essential Gravatar support for Django  legacyPackages.x86_64-linux.python312Packages.django-gravatar2 
- python3.12-django-guardian  3.1.0  Per object permissions for Django  legacyPackages.x86_64-linux.python312Packages.django-guardian 
- python3.12-django-guardian  3.1.0  Per object permissions for Django  legacyPackages.x86_64-linux.python312Packages.django_guardian 
+ python3.12-django-guardian  3.1.3  Per object permissions for Django  legacyPackages.x86_64-linux.python312Packages.django-guardian 
+ python3.12-django-guardian  3.1.3  Per object permissions for Django  legacyPackages.x86_64-linux.python312Packages.django_guardian 
  python3.12-django-haystack  3.3.0  Pluggable search for Django  legacyPackages.x86_64-linux.python312Packages.django-haystack 
  python3.12-django-hcaptcha  0.2.0  Django hCaptcha provides a simple way to protect your django forms using hCaptcha  legacyPackages.x86_64-linux.python312Packages.django-hcaptcha 
  python3.12-django-health-check  3.20.0  Pluggable app that runs a full check on the deployment  legacyPackages.x86_64-linux.python312Packages.django-health-check 
@@ -58677,6 +58676,7 @@
  python3.12-nutpie  0.15.2  Python wrapper for nuts-rs  legacyPackages.x86_64-linux.python312Packages.nutpie 
  python3.12-nvchecker  2.18  New version checker for software  legacyPackages.x86_64-linux.python312Packages.nvchecker 
  python3.12-nvdlib  0.8.3  Module to interact with the National Vulnerability CVE/CPE API  legacyPackages.x86_64-linux.python312Packages.nvdlib 
+ python3.12-nvidia-dlprof-pytorch-nvtx  1.8.0  NVIDIA DLProf Pytorch NVTX markers  legacyPackages.x86_64-linux.python312Packages.nvidia-dlprof-pytorch-nvtx 
  python3.12-nvidia-ml-py  13.580.65  Python Bindings for the NVIDIA Management Library  legacyPackages.x86_64-linux.python312Packages.nvidia-ml-py 
  python3.12-nwdiag  3.0.0  Generate network-diagram image from spec-text file (similar to Graphviz)  legacyPackages.x86_64-linux.python312Packages.nwdiag 
  python3.12-nxt-python  3.5.1  Python driver/interface for Lego Mindstorms NXT robot  legacyPackages.x86_64-linux.python312Packages.nxt-python 
@@ -58746,12 +58746,12 @@
  python3.12-online-judge-tools  12.0.0  Tools for various online judges. Download sample cases, generate additional test cases, test your code, and submit it  legacyPackages.x86_64-linux.python312Packages.online-judge-tools 
  python3.12-online-judge-verify-helper  5.6.0  Testing framework for snippet libraries used in competitive programming  legacyPackages.x86_64-linux.python312Packages.online-judge-verify-helper 
  python3.12-onlykey-solo-python  0.0.32  Python library for OnlyKey with Solo FIDO2  legacyPackages.x86_64-linux.python312Packages.onlykey-solo-python 
- python3.12-onnx  1.18.0  Open Neural Network Exchange  legacyPackages.x86_64-linux.python312Packages.onnx 
- python3.12-onnxconverter-common  1.15.0  ONNX Converter and Optimization Tools  legacyPackages.x86_64-linux.python312Packages.onnxconverter-common 
+ python3.12-onnx  1.19.0  Open Neural Network Exchange  legacyPackages.x86_64-linux.python312Packages.onnx 
+ python3.12-onnxconverter-common  0.16.0  ONNX Converter and Optimization Tools  legacyPackages.x86_64-linux.python312Packages.onnxconverter-common 
  python3.12-onnxmltools  1.14.0  ONNXMLTools enables conversion of models to ONNX  legacyPackages.x86_64-linux.python312Packages.onnxmltools 
- python3.12-onnxruntime  1.22.0  Cross-platform, high performance scoring engine for ML models  legacyPackages.x86_64-linux.python312Packages.onnxruntime 
+ python3.12-onnxruntime  1.22.2  Cross-platform, high performance scoring engine for ML models  legacyPackages.x86_64-linux.python312Packages.onnxruntime 
  python3.12-onnxruntime-tools  1.7.0  Transformers Model Optimization Tool of ONNXRuntime  legacyPackages.x86_64-linux.python312Packages.onnxruntime-tools 
- python3.12-onnxslim  0.1.62  Toolkit to Help Optimize Onnx Model  legacyPackages.x86_64-linux.python312Packages.onnxslim 
+ python3.12-onnxslim  0.1.68  Toolkit to Help Optimize Onnx Model  legacyPackages.x86_64-linux.python312Packages.onnxslim 
  python3.12-onvif-zeep  0.2.12  Python Client for ONVIF Camera  legacyPackages.x86_64-linux.python312Packages.onvif-zeep 
  python3.12-onvif-zeep-async  4.0.4  ONVIF Client Implementation in Python  legacyPackages.x86_64-linux.python312Packages.onvif-zeep-async 
  python3.12-oocsi  0.4.3  OOCSI library for Python  legacyPackages.x86_64-linux.python312Packages.oocsi 
@@ -61101,7 +61101,7 @@
  python3.12-qt-material  2.17  Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6  legacyPackages.x86_64-linux.python312Packages.qt-material 
  python3.12-qt5reactor  0.6.3  Twisted Qt Integration  legacyPackages.x86_64-linux.python312Packages.qt5reactor 
  python3.12-qtawesome  1.4.0  Iconic fonts in PyQt and PySide applications  legacyPackages.x86_64-linux.python312Packages.qtawesome 
- python3.12-qtconsole  5.6.1  Jupyter Qt console  legacyPackages.x86_64-linux.python312Packages.qtconsole 
+ python3.12-qtconsole  5.7.0  Jupyter Qt console  legacyPackages.x86_64-linux.python312Packages.qtconsole 
  python3.12-qtile  0.33.0  Small, flexible, scriptable tiling window manager written in Python  legacyPackages.x86_64-linux.python312Packages.qtile 
  python3.12-qtile-bonsai  0.6.0  Flexible layout for the qtile tiling window manager  legacyPackages.x86_64-linux.python312Packages.qtile-bonsai 
  python3.12-qtile-extras  0.33.0  Extra modules and widgets for the Qtile tiling window manager  legacyPackages.x86_64-linux.python312Packages.qtile-extras 
@@ -65248,7 +65248,7 @@
  python3.13-crcelk  1.3  Implementation of the CRC algorithm  legacyPackages.x86_64-linux.python313Packages.crcelk 
  python3.13-crcmod  1.7  Python module for generating objects that compute the Cyclic Redundancy Check (CRC)  legacyPackages.x86_64-linux.python313Packages.crcmod 
  python3.13-credstash  1.17.1  Utility for managing secrets in the cloud using AWS KMS and DynamoDB  legacyPackages.x86_64-linux.python313Packages.credstash 
- python3.13-crewai  0.175.0  Framework for orchestrating role-playing, autonomous AI agents  legacyPackages.x86_64-linux.python313Packages.crewai 
+ python3.13-crewai  0.186.1  Framework for orchestrating role-playing, autonomous AI agents  legacyPackages.x86_64-linux.python313Packages.crewai 
  python3.13-crispy-bootstrap3  2024.1  Bootstrap 3 template pack for django-crispy-forms  legacyPackages.x86_64-linux.python313Packages.crispy-bootstrap3 
  python3.13-crispy-bootstrap3  2024.1  Bootstrap 3 template pack for django-crispy-forms  legacyPackages.x86_64-linux.python313Packages.django-crispy-bootstrap3 
  python3.13-crispy-bootstrap4  2025.6  Bootstrap 4 template pack for django-crispy-forms  legacyPackages.x86_64-linux.python313Packages.crispy-bootstrap4 
@@ -65685,8 +65685,8 @@
  python3.13-django-google-analytics-app  6.0.0  Django Google Analytics brings the power of server side/non-js Google Analytics to your Django projects  legacyPackages.x86_64-linux.python313Packages.django-google-analytics-app 
  python3.13-django-graphiql-debug-toolbar  0.2.0  Django Debug Toolbar for GraphiQL IDE  legacyPackages.x86_64-linux.python313Packages.django-graphiql-debug-toolbar 
  python3.13-django-gravatar2  1.4.5  Essential Gravatar support for Django  legacyPackages.x86_64-linux.python313Packages.django-gravatar2 
- python3.13-django-guardian  3.1.0  Per object permissions for Django  legacyPackages.x86_64-linux.python313Packages.django-guardian 
- python3.13-django-guardian  3.1.0  Per object permissions for Django  legacyPackages.x86_64-linux.python313Packages.django_guardian 
+ python3.13-django-guardian  3.1.3  Per object permissions for Django  legacyPackages.x86_64-linux.python313Packages.django-guardian 
+ python3.13-django-guardian  3.1.3  Per object permissions for Django  legacyPackages.x86_64-linux.python313Packages.django_guardian 
  python3.13-django-haystack  3.3.0  Pluggable search for Django  legacyPackages.x86_64-linux.python313Packages.django-haystack 
  python3.13-django-hcaptcha  0.2.0  Django hCaptcha provides a simple way to protect your django forms using hCaptcha  legacyPackages.x86_64-linux.python313Packages.django-hcaptcha 
  python3.13-django-health-check  3.20.0  Pluggable app that runs a full check on the deployment  legacyPackages.x86_64-linux.python313Packages.django-health-check 
@@ -69169,6 +69169,7 @@
  python3.13-nutpie  0.15.2  Python wrapper for nuts-rs  legacyPackages.x86_64-linux.python313Packages.nutpie 
  python3.13-nvchecker  2.18  New version checker for software  legacyPackages.x86_64-linux.python313Packages.nvchecker 
  python3.13-nvdlib  0.8.3  Module to interact with the National Vulnerability CVE/CPE API  legacyPackages.x86_64-linux.python313Packages.nvdlib 
+ python3.13-nvidia-dlprof-pytorch-nvtx  1.8.0  NVIDIA DLProf Pytorch NVTX markers  legacyPackages.x86_64-linux.python313Packages.nvidia-dlprof-pytorch-nvtx 
  python3.13-nvidia-ml-py  13.580.65  Python Bindings for the NVIDIA Management Library  legacyPackages.x86_64-linux.python313Packages.nvidia-ml-py 
  python3.13-nwdiag  3.0.0  Generate network-diagram image from spec-text file (similar to Graphviz)  legacyPackages.x86_64-linux.python313Packages.nwdiag 
  python3.13-nwg-clipman  0.2.7  GTK3-based GUI for cliphist  legacyPackages.x86_64-linux.nwg-clipman 
@@ -69251,12 +69252,12 @@
  python3.13-online-judge-tools  12.0.0  Tools for various online judges. Download sample cases, generate additional test cases, test your code, and submit it  legacyPackages.x86_64-linux.python313Packages.online-judge-tools 
  python3.13-online-judge-verify-helper  5.6.0  Testing framework for snippet libraries used in competitive programming  legacyPackages.x86_64-linux.python313Packages.online-judge-verify-helper 
  python3.13-onlykey-solo-python  0.0.32  Python library for OnlyKey with Solo FIDO2  legacyPackages.x86_64-linux.python313Packages.onlykey-solo-python 
- python3.13-onnx  1.18.0  Open Neural Network Exchange  legacyPackages.x86_64-linux.python313Packages.onnx 
- python3.13-onnxconverter-common  1.15.0  ONNX Converter and Optimization Tools  legacyPackages.x86_64-linux.python313Packages.onnxconverter-common 
+ python3.13-onnx  1.19.0  Open Neural Network Exchange  legacyPackages.x86_64-linux.python313Packages.onnx 
+ python3.13-onnxconverter-common  0.16.0  ONNX Converter and Optimization Tools  legacyPackages.x86_64-linux.python313Packages.onnxconverter-common 
  python3.13-onnxmltools  1.14.0  ONNXMLTools enables conversion of models to ONNX  legacyPackages.x86_64-linux.python313Packages.onnxmltools 
- python3.13-onnxruntime  1.22.0  Cross-platform, high performance scoring engine for ML models  legacyPackages.x86_64-linux.python313Packages.onnxruntime 
+ python3.13-onnxruntime  1.22.2  Cross-platform, high performance scoring engine for ML models  legacyPackages.x86_64-linux.python313Packages.onnxruntime 
  python3.13-onnxruntime-tools  1.7.0  Transformers Model Optimization Tool of ONNXRuntime  legacyPackages.x86_64-linux.python313Packages.onnxruntime-tools 
- python3.13-onnxslim  0.1.62  Toolkit to Help Optimize Onnx Model  legacyPackages.x86_64-linux.python313Packages.onnxslim 
+ python3.13-onnxslim  0.1.68  Toolkit to Help Optimize Onnx Model  legacyPackages.x86_64-linux.python313Packages.onnxslim 
  python3.13-onvif-zeep  0.2.12  Python Client for ONVIF Camera  legacyPackages.x86_64-linux.python313Packages.onvif-zeep 
  python3.13-onvif-zeep-async  4.0.4  ONVIF Client Implementation in Python  legacyPackages.x86_64-linux.python313Packages.onvif-zeep-async 
  python3.13-oocsi  0.4.3  OOCSI library for Python  legacyPackages.x86_64-linux.python313Packages.oocsi 
@@ -69687,7 +69688,6 @@
  python3.13-pipdeptree  2.28.0  Command line utility to show dependency tree of packages  legacyPackages.x86_64-linux.python313Packages.pipdeptree 
  python3.13-pipe  2.2  Module to use infix notation  legacyPackages.x86_64-linux.python313Packages.pipe 
  python3.13-piper-phonemize  2023.11.14-4  Phonemization libary used by Piper text to speech system  legacyPackages.x86_64-linux.python313Packages.piper-phonemize 
- python3.13-piper-train  2023.11.14-2  Fast, local neural text to speech system  legacyPackages.x86_64-linux.piper-train 
  python3.13-pipetools  1.1.0  Library that enables function composition similar to using Unix pipes  legacyPackages.x86_64-linux.python313Packages.pipetools 
  python3.13-pipx  1.7.1  Install and run Python applications in isolated environments  legacyPackages.x86_64-linux.python313Packages.pipx 
  python3.13-piqp  0.6.0  Proximal Interior Point Quadratic Programming solver  legacyPackages.x86_64-linux.python313Packages.piqp 
@@ -71650,7 +71650,7 @@
  python3.13-qt-material  2.17  Material inspired stylesheet for PySide2, PySide6, PyQt5 and PyQt6  legacyPackages.x86_64-linux.python313Packages.qt-material 
  python3.13-qt5reactor  0.6.3  Twisted Qt Integration  legacyPackages.x86_64-linux.python313Packages.qt5reactor 
  python3.13-qtawesome  1.4.0  Iconic fonts in PyQt and PySide applications  legacyPackages.x86_64-linux.python313Packages.qtawesome 
- python3.13-qtconsole  5.6.1  Jupyter Qt console  legacyPackages.x86_64-linux.python313Packages.qtconsole 
+ python3.13-qtconsole  5.7.0  Jupyter Qt console  legacyPackages.x86_64-linux.python313Packages.qtconsole 
  python3.13-qtile  0.33.0  Small, flexible, scriptable tiling window manager written in Python  legacyPackages.x86_64-linux.python313Packages.qtile 
  python3.13-qtile  0.33.0  Small, flexible, scriptable tiling window manager written in Python  legacyPackages.x86_64-linux.qtile-unwrapped 
  python3.13-qtile-bonsai  0.6.0  Flexible layout for the qtile tiling window manager  legacyPackages.x86_64-linux.python313Packages.qtile-bonsai 
@@ -75572,7 +75572,7 @@
  rawr  0.0.0.1  Anonymous extensible records  legacyPackages.x86_64-linux.haskellPackages.rawr 
  rawstring-qm  0.2.3.1  Simple raw string quotation and dictionary interpolation  legacyPackages.x86_64-linux.haskellPackages.rawstring-qm 
  rawtherapee  5.12  RAW converter and digital photo processing software  legacyPackages.x86_64-linux.rawtherapee 
- raycast  1.102.7  Control your tools with a few keystrokes  legacyPackages.x86_64-linux.raycast 
+ raycast  1.103.0  Control your tools with a few keystrokes  legacyPackages.x86_64-linux.raycast 
  raygui    Simple and easy-to-use immediate-mode gui library  legacyPackages.x86_64-linux.raygui 
  raylib  5.5  Simple and easy-to-use library to enjoy videogames programming  legacyPackages.x86_64-linux.raylib 
  raylib-games  2022-10-24  Collection of games made with raylib  legacyPackages.x86_64-linux.raylib-games 
@@ -75829,7 +75829,7 @@
  recv  0.1.1  Efficient network recv  legacyPackages.x86_64-linux.haskellPackages.recv 
  recyclarr  7.4.1  Automatically sync TRaSH guides to your Sonarr and Radarr instances  legacyPackages.x86_64-linux.recyclarr 
  recycle  15878  A font providing the "recyclable" logo  legacyPackages.x86_64-linux.texlivePackages.recycle 
- recycle-bin.yazi  0-unstable-2025-09-08  A Recycle Bin for Yazi with browse, restore, and cleanup capabilities  legacyPackages.x86_64-linux.yaziPlugins.recycle-bin 
+ recycle-bin.yazi  0-unstable-2025-09-15  A Recycle Bin for Yazi with browse, restore, and cleanup capabilities  legacyPackages.x86_64-linux.yaziPlugins.recycle-bin 
  red  0.6.4  New programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting, while providing modern support for concurrency and multi-core CPUs   legacyPackages.x86_64-linux.red 
  red-black-record  2.1.6.0  Extensible records and variants indexed by a type-level Red-Black tree  legacyPackages.x86_64-linux.haskellPackages.red-black-record 
  red-black-tree  0.1.0.0  Red Black Trees implemented in Haskell  legacyPackages.x86_64-linux.haskellPackages.red-black-tree 
@@ -76158,7 +76158,7 @@
  render50  9.2.10  Generate syntax-highlighted PDFs of source code  legacyPackages.x86_64-linux.render50 
  renderable  0.2.0.1  An API for managing renderable resources  legacyPackages.x86_64-linux.haskellPackages.renderable 
  rendercv  2.2  Typst-based CV/resume generator  legacyPackages.x86_64-linux.rendercv 
- renderdoc  1.39  Single-frame graphics debugger  legacyPackages.x86_64-linux.renderdoc 
+ renderdoc  1.40  Single-frame graphics debugger  legacyPackages.x86_64-linux.renderdoc 
  renderer  4.0.14  Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)  legacyPackages.x86_64-linux.grafana-image-renderer 
  renderizer  2.0.13  CLI to render Go template text files  legacyPackages.x86_64-linux.renderizer 
  reno  4.1.0  Release Notes Manager  legacyPackages.x86_64-linux.python312Packages.reno 
@@ -86639,7 +86639,7 @@
  snphost  0.6.1  Administrative utility for SEV-SNP  legacyPackages.x86_64-linux.snphost 
  snscrape  0.7.0.20230622  Social networking service scraper  legacyPackages.x86_64-linux.snscrape 
  snumber  0.3.0  Integer singletons with flexible representation  legacyPackages.x86_64-linux.haskellPackages.snumber 
- snx-rs  4.7.0  Open source Linux client for Checkpoint VPN tunnels  legacyPackages.x86_64-linux.snx-rs 
+ snx-rs  4.8.0  Open source Linux client for Checkpoint VPN tunnels  legacyPackages.x86_64-linux.snx-rs 
  snyk  1.1298.3  Scans and monitors projects for security vulnerabilities  legacyPackages.x86_64-linux.nodePackages.snyk 
  snyk  1.1298.3  Scans and monitors projects for security vulnerabilities  legacyPackages.x86_64-linux.nodePackages_latest.snyk 
  snyk  1.1298.3  Scans and monitors projects for security vulnerabilities  legacyPackages.x86_64-linux.snyk 
@@ -87088,7 +87088,7 @@
  spider  2.37.136  Web crawler and scraper, building blocks for data curation workloads  legacyPackages.x86_64-linux.spider 
  spidermonkey  115.27.0  Mozilla's JavaScript engine written in C/C++  legacyPackages.x86_64-linux.spidermonkey_115 
  spidermonkey  128.14.0  Mozilla's JavaScript engine written in C/C++  legacyPackages.x86_64-linux.spidermonkey_128 
- spidermonkey  140.2.0  Mozilla's JavaScript engine written in C/C++  legacyPackages.x86_64-linux.spidermonkey_140 
+ spidermonkey  140.3.0  Mozilla's JavaScript engine written in C/C++  legacyPackages.x86_64-linux.spidermonkey_140 
  spideroak  7.5.0  Secure online backup and sychronization  legacyPackages.x86_64-linux.spideroak 
  spie  3.25  Support for formatting SPIE Proceedings manuscripts  legacyPackages.x86_64-linux.texlivePackages.spie 
  spiffe-helper  0.10.1  Retrieve and manage SVIDs on behalf of a workload  legacyPackages.x86_64-linux.spiffe-helper 
@@ -88469,7 +88469,7 @@
  switchboard  0-unstable-2024-07-29  NLTK Data  legacyPackages.x86_64-linux.nltk-data.switchboard 
  switchboard  8.0.3  Extensible System Settings app for Pantheon  legacyPackages.x86_64-linux.pantheon.switchboard 
  switchboard-plug-about  8.2.1  Switchboard About Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-about 
- switchboard-plug-applications  8.1.0  Switchboard Applications Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-applications 
+ switchboard-plug-applications  8.2.0  Switchboard Applications Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-applications 
  switchboard-plug-bluetooth  8.0.2  Switchboard Bluetooth Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-bluetooth 
  switchboard-plug-datetime  8.1.0  Switchboard Date & Time Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-datetime 
  switchboard-plug-display  8.0.2  Switchboard Displays Plug  legacyPackages.x86_64-linux.pantheon.switchboard-plug-display 
@@ -89261,7 +89261,7 @@
  tasty-tmux  0.1.0.5  Terminal user acceptance testing (UAT) via tmux  legacyPackages.x86_64-linux.haskellPackages.tasty-tmux 
  tasty-travis  0.2.0.2  Fancy Travis CI output for tasty tests  legacyPackages.x86_64-linux.haskellPackages.tasty-travis 
  tasty-wai  0.1.2.0  Test 'wai' endpoints via Test.Tasty  legacyPackages.x86_64-linux.haskellPackages.tasty-wai 
- taterclient-ddnet  10.5.0  Modification of DDNet teeworlds client  legacyPackages.x86_64-linux.taterclient-ddnet 
+ taterclient-ddnet  10.5.2  Modification of DDNet teeworlds client  legacyPackages.x86_64-linux.taterclient-ddnet 
  tateti-tateti  0.1.0.1  Meta tic-tac-toe ncurses game  legacyPackages.x86_64-linux.haskellPackages.tateti-tateti 
  tattoy  0.1.8  Text-based compositor for modern terminals  legacyPackages.x86_64-linux.tattoy 
  tau  6.28318  Tau, the ratio between any circle's circumference and radius  legacyPackages.x86_64-linux.haskellPackages.tau 
@@ -89559,7 +89559,7 @@
  tenacity  1.3.4  Sound editor with graphical UI  legacyPackages.x86_64-linux.tenacity 
  tendermint  0.35.9  Byzantine-Fault Tolerant State Machines. Or Blockchain, for short  legacyPackages.x86_64-linux.tendermint 
  tenderness  0.601  Serif font designed by Sora Sagano with old-style figures  legacyPackages.x86_64-linux.tenderness 
- tenere  0.11.2-unstable-2024-12-05  Terminal interface for large language models (LLMs)  legacyPackages.x86_64-linux.tenere 
+ tenere  0.11.3  Terminal interface for large language models (LLMs)  legacyPackages.x86_64-linux.tenere 
  tengine  3.1.0  Web server based on Nginx and has many advanced features, originated by Taobao  legacyPackages.x86_64-linux.tengine 
  tengwarscript  1.3.1  LaTeX support for using Tengwar fonts  legacyPackages.x86_64-linux.texlivePackages.tengwarscript 
  tenki  1.11.0  tty-clock with weather effect  legacyPackages.x86_64-linux.tenki 
@@ -90712,9 +90712,9 @@
  thumbs  0.8.0  Lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator  legacyPackages.x86_64-linux.thumbs 
  thumbs  1.0q  Create thumb indexes  legacyPackages.x86_64-linux.texlivePackages.thumbs 
  thumby  0.1  Create thumb indexes for printed books  legacyPackages.x86_64-linux.texlivePackages.thumby 
- thunar  4.20.4  Xfce file manager  legacyPackages.x86_64-linux.xfce.thunar 
- thunar  4.20.4  Xfce file manager  legacyPackages.x86_64-linux.xfce.thunar-bare 
- thunar  4.20.4  Xfce file manager  legacyPackages.x86_64-linux.xfce.thunar-unwrapped 
+ thunar  4.20.5  Xfce file manager  legacyPackages.x86_64-linux.xfce.thunar 
+ thunar  4.20.5  Xfce file manager  legacyPackages.x86_64-linux.xfce.thunar-bare 
+ thunar  4.20.5  Xfce file manager  legacyPackages.x86_64-linux.xfce.thunar-unwrapped 
  thunar-archive-plugin  0.6.0  Thunar plugin providing file context menus for archives  legacyPackages.x86_64-linux.xfce.thunar-archive-plugin 
  thunar-dropbox  0.3.2  Plugin that adds context-menu items for Dropbox to Thunar  legacyPackages.x86_64-linux.xfce.thunar-dropbox-plugin 
  thunar-media-tags-plugin  0.6.0  Thunar plugin providing tagging and renaming features for media files  legacyPackages.x86_64-linux.xfce.thunar-media-tags-plugin 
@@ -91038,7 +91038,7 @@
  tinycc-mes-unstable  2023-04-20  Small, fast, and embeddable C compiler and interpreter  legacyPackages.x86_64-linux.minimal-bootstrap.tinycc-mes.compiler 
  tinycc-musl-unstable  2023-07-10-compiler  Small, fast, and embeddable C compiler and interpreter  legacyPackages.x86_64-linux.minimal-bootstrap.tinycc-musl.compiler 
  tinycc-musl-unstable  2023-07-10-libs  Small, fast, and embeddable C compiler and interpreter  legacyPackages.x86_64-linux.minimal-bootstrap.tinycc-musl.libs 
- tinycdb  0.80  Utility to manipulate constant databases (cdb)  legacyPackages.x86_64-linux.tinycdb 
+ tinycdb  0.81  Utility to manipulate constant databases (cdb)  legacyPackages.x86_64-linux.tinycdb 
  tinycompress  1.2.13  Userspace library for anyone who wants to use the ALSA compressed APIs  legacyPackages.x86_64-linux.tinycompress 
  tinyemu  2019-12-21  System emulator for the RISC-V and x86 architectures  legacyPackages.x86_64-linux.tinyemu 
  tinyfecvpn  20230206.0  VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support  legacyPackages.x86_64-linux.tinyfecvpn 
@@ -97014,7 +97014,7 @@
  vimplugin-Colour-Sampler-Pack  2012-11-30    legacyPackages.x86_64-linux.vimPlugins.Colour-Sampler-Pack 
  vimplugin-Colour-Sampler-Pack  2012-11-30    legacyPackages.x86_64-linux.vimPlugins.Colour_Sampler_Pack 
  vimplugin-Colour-Sampler-Pack  2012-11-30    legacyPackages.x86_64-linux.vimPlugins.colorsamplerpack 
- vimplugin-CopilotChat.nvim  2025-08-31    legacyPackages.x86_64-linux.vimPlugins.CopilotChat-nvim 
+ vimplugin-CopilotChat.nvim  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.CopilotChat-nvim 
  vimplugin-Coqtail  2025-08-03    legacyPackages.x86_64-linux.vimPlugins.Coqtail 
  vimplugin-DoxygenToolkit.vim  2010-11-06    legacyPackages.x86_64-linux.vimPlugins.DoxygenToolkit-vim 
  vimplugin-FTerm.nvim  2022-11-13    legacyPackages.x86_64-linux.vimPlugins.FTerm-nvim 
@@ -97025,7 +97025,7 @@
  vimplugin-Jenkinsfile-vim-syntax  2021-01-26    legacyPackages.x86_64-linux.vimPlugins.Jenkinsfile-vim-syntax 
  vimplugin-LanguageClient-neovim  0.1.161    legacyPackages.x86_64-linux.vimPlugins.LanguageClient-neovim 
  vimplugin-LanguageTool.nvim  2020-10-19    legacyPackages.x86_64-linux.vimPlugins.LanguageTool-nvim 
- vimplugin-LazyVim  2025-05-12    legacyPackages.x86_64-linux.vimPlugins.LazyVim 
+ vimplugin-LazyVim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.LazyVim 
  vimplugin-LeaderF  2025-09-02    legacyPackages.x86_64-linux.vimPlugins.LeaderF 
  vimplugin-LibDeflate.nvim  2025-06-16    legacyPackages.x86_64-linux.vimPlugins.LibDeflate-nvim 
  vimplugin-LuaSnip-snippets.nvim  2022-03-17    legacyPackages.x86_64-linux.vimPlugins.LuaSnip-snippets-nvim 
@@ -97040,7 +97040,7 @@
  vimplugin-Recover.vim  2022-09-07    legacyPackages.x86_64-linux.vimPlugins.Recover-vim 
  vimplugin-Rename  2011-08-31    legacyPackages.x86_64-linux.vimPlugins.Rename 
  vimplugin-ReplaceWithRegister  2014-10-31    legacyPackages.x86_64-linux.vimPlugins.ReplaceWithRegister 
- vimplugin-SchemaStore.nvim  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.SchemaStore-nvim 
+ vimplugin-SchemaStore.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.SchemaStore-nvim 
  vimplugin-Shade.nvim  2022-02-01    legacyPackages.x86_64-linux.vimPlugins.Shade-nvim 
  vimplugin-ShowMultiBase  2010-10-18    legacyPackages.x86_64-linux.vimPlugins.ShowMultiBase 
  vimplugin-SimpylFold  2022-05-02    legacyPackages.x86_64-linux.vimPlugins.SimpylFold 
@@ -97083,8 +97083,8 @@
  vimplugin-arrow.nvim  2025-03-31    legacyPackages.x86_64-linux.vimPlugins.arrow-nvim 
  vimplugin-arshlib.nvim  2024-05-18    legacyPackages.x86_64-linux.vimPlugins.arshlib-nvim 
  vimplugin-astrocore  2025-06-06    legacyPackages.x86_64-linux.vimPlugins.astrocore 
- vimplugin-astrolsp  2025-06-06    legacyPackages.x86_64-linux.vimPlugins.astrolsp 
- vimplugin-astrotheme  2025-08-07    legacyPackages.x86_64-linux.vimPlugins.astrotheme 
+ vimplugin-astrolsp  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.astrolsp 
+ vimplugin-astrotheme  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.astrotheme 
  vimplugin-astroui  2025-07-23    legacyPackages.x86_64-linux.vimPlugins.astroui 
  vimplugin-async.vim  2022-04-04    legacyPackages.x86_64-linux.vimPlugins.async-vim 
  vimplugin-asyncomplete-buffer.vim  2023-12-03    legacyPackages.x86_64-linux.vimPlugins.asyncomplete-buffer-vim 
@@ -97097,14 +97097,14 @@
  vimplugin-asyncrun.vim  2025-03-24    legacyPackages.x86_64-linux.vimPlugins.asyncrun-vim 
  vimplugin-asynctasks.vim  2024-09-27    legacyPackages.x86_64-linux.vimPlugins.asynctasks-vim 
  vimplugin-ats-vim  2020-09-04    legacyPackages.x86_64-linux.vimPlugins.ats-vim 
- vimplugin-augment.vim  2025-08-14    legacyPackages.x86_64-linux.vimPlugins.augment-vim 
+ vimplugin-augment.vim  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.augment-vim 
  vimplugin-aurora  2025-04-07    legacyPackages.x86_64-linux.vimPlugins.aurora 
  vimplugin-auto-fix-return.nvim  2025-08-12    legacyPackages.x86_64-linux.vimPlugins.auto-fix-return-nvim 
  vimplugin-auto-git-diff  2022-10-29    legacyPackages.x86_64-linux.vimPlugins.auto-git-diff 
  vimplugin-auto-hlsearch.nvim  2024-08-23    legacyPackages.x86_64-linux.vimPlugins.auto-hlsearch-nvim 
  vimplugin-auto-pairs  2019-02-27    legacyPackages.x86_64-linux.vimPlugins.auto-pairs 
  vimplugin-auto-save.nvim  2025-05-24    legacyPackages.x86_64-linux.vimPlugins.auto-save-nvim 
- vimplugin-auto-session  2025-08-26    legacyPackages.x86_64-linux.vimPlugins.auto-session 
+ vimplugin-auto-session  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.auto-session 
  vimplugin-autoclose.nvim  2025-07-21    legacyPackages.x86_64-linux.vimPlugins.autoclose-nvim 
  vimplugin-autolist.nvim  2023-07-07    legacyPackages.x86_64-linux.vimPlugins.autolist-nvim 
  vimplugin-autoload_cscope.vim  2011-01-28    legacyPackages.x86_64-linux.vimPlugins.autoload_cscope-vim 
@@ -97120,9 +97120,9 @@
  vimplugin-bamboo.nvim  2025-08-13    legacyPackages.x86_64-linux.vimPlugins.bamboo-nvim 
  vimplugin-barbar.nvim  2025-08-12    legacyPackages.x86_64-linux.vimPlugins.barbar-nvim 
  vimplugin-barbecue.nvim  2024-08-20  VS Code like winbar for Neovim  legacyPackages.x86_64-linux.vimPlugins.barbecue-nvim 
- vimplugin-base16-nvim  2025-08-18    legacyPackages.x86_64-linux.vimPlugins.base16-nvim 
+ vimplugin-base16-nvim  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.base16-nvim 
  vimplugin-base16-vim  2022-09-20    legacyPackages.x86_64-linux.vimPlugins.base16-vim 
- vimplugin-base46  2025-08-24    legacyPackages.x86_64-linux.vimPlugins.base46 
+ vimplugin-base46  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.base46 
  vimplugin-bat.vim  2022-11-14    legacyPackages.x86_64-linux.vimPlugins.bat-vim 
  vimplugin-bats.vim  2013-07-03    legacyPackages.x86_64-linux.vimPlugins.bats 
  vimplugin-bats.vim  2013-07-03    legacyPackages.x86_64-linux.vimPlugins.bats-vim 
@@ -97144,8 +97144,8 @@
  vimplugin-blink-copilot  2025-07-26    legacyPackages.x86_64-linux.vimPlugins.blink-copilot 
  vimplugin-blink-emoji.nvim  2025-05-24    legacyPackages.x86_64-linux.vimPlugins.blink-emoji-nvim 
  vimplugin-blink-nerdfont.nvim  2025-02-06    legacyPackages.x86_64-linux.vimPlugins.blink-nerdfont-nvim 
- vimplugin-blink-ripgrep.nvim  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim 
- vimplugin-blink.cmp  1.6.0  Performant, batteries-included completion plugin for Neovim  legacyPackages.x86_64-linux.vimPlugins.blink-cmp 
+ vimplugin-blink-ripgrep.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim 
+ vimplugin-blink.cmp  1.7.0  Performant, batteries-included completion plugin for Neovim  legacyPackages.x86_64-linux.vimPlugins.blink-cmp 
  vimplugin-blink.compat  2025-05-28    legacyPackages.x86_64-linux.vimPlugins.blink-compat 
  vimplugin-blink.pairs  0.3.0  Rainbow highlighting and intelligent auto-pairs for Neovim  legacyPackages.x86_64-linux.vimPlugins.blink-pairs 
  vimplugin-bloat.nvim  2025-04-30    legacyPackages.x86_64-linux.vimPlugins.bloat-nvim 
@@ -97183,7 +97183,7 @@
  vimplugin-clang_complete  2023-11-05    legacyPackages.x86_64-linux.vimPlugins.clang_complete 
  vimplugin-clangd_extensions.nvim  0-unstable-2025-01-27  Clangd's off-spec features for neovim's LSP client  legacyPackages.x86_64-linux.vimPlugins.clangd_extensions-nvim 
  vimplugin-claude-code.nvim  2025-07-02    legacyPackages.x86_64-linux.vimPlugins.claude-code-nvim 
- vimplugin-claudecode.nvim  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.claudecode-nvim 
+ vimplugin-claudecode.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.claudecode-nvim 
  vimplugin-clever-f.vim  2022-10-15    legacyPackages.x86_64-linux.vimPlugins.clever-f-vim 
  vimplugin-clighter8  2018-07-25    legacyPackages.x86_64-linux.vimPlugins.clighter8 
  vimplugin-clipboard-image.nvim  2022-11-10    legacyPackages.x86_64-linux.vimPlugins.clipboard-image-nvim 
@@ -97242,7 +97242,7 @@
  vimplugin-cmp-vsnip  2022-11-22    legacyPackages.x86_64-linux.vimPlugins.cmp-vsnip 
  vimplugin-cmp-zsh  2022-10-03    legacyPackages.x86_64-linux.vimPlugins.cmp-zsh 
  vimplugin-cmp_luasnip  2024-11-04    legacyPackages.x86_64-linux.vimPlugins.cmp_luasnip 
- vimplugin-cmp_yanky  2025-08-19    legacyPackages.x86_64-linux.vimPlugins.cmp_yanky 
+ vimplugin-cmp_yanky  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.cmp_yanky 
  vimplugin-cobalt2.nvim  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.cobalt2-nvim 
  vimplugin-coc-basedpyright  1.19.0-unstable-2025-04-30  Basedpyright extension for coc.nvim  legacyPackages.x86_64-linux.vimPlugins.coc-basedpyright 
  vimplugin-coc-clangd  0.31.0  clangd extension for coc.nvim  legacyPackages.x86_64-linux.vimPlugins.coc-clangd 
@@ -97298,10 +97298,10 @@
  vimplugin-coc-wxml  1.0.9  wxml language server extension for coc.nvim  legacyPackages.x86_64-linux.vimPlugins.coc-wxml 
  vimplugin-coc-yaml  1.9.1  yaml extension for coc.nvim  legacyPackages.x86_64-linux.vimPlugins.coc-yaml 
  vimplugin-coc-yank  1.2.4  Yank extension for coc.nvim  legacyPackages.x86_64-linux.vimPlugins.coc-yank 
- vimplugin-coc.nvim  2025-08-27    legacyPackages.x86_64-linux.vimPlugins.coc-nvim 
+ vimplugin-coc.nvim  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.coc-nvim 
  vimplugin-coconut.vim  2017-10-10    legacyPackages.x86_64-linux.vimPlugins.coconut-vim 
  vimplugin-codecompanion-history.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.codecompanion-history-nvim 
- vimplugin-codecompanion.nvim  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.codecompanion-nvim 
+ vimplugin-codecompanion.nvim  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.codecompanion-nvim 
  vimplugin-codesnap.nvim  1.6.3    legacyPackages.x86_64-linux.vimPlugins.codesnap-nvim 
  vimplugin-codewindow.nvim  2025-05-22    legacyPackages.x86_64-linux.vimPlugins.codewindow-nvim 
  vimplugin-codi.vim  2023-02-28    legacyPackages.x86_64-linux.vimPlugins.codi-vim 
@@ -97329,7 +97329,7 @@
  vimplugin-concealedyank.vim  2013-03-24    legacyPackages.x86_64-linux.vimPlugins.concealedyank-vim 
  vimplugin-conflict-marker.vim  2024-05-20    legacyPackages.x86_64-linux.vimPlugins.conflict-marker-vim 
  vimplugin-conform.nvim  2025-08-27    legacyPackages.x86_64-linux.vimPlugins.conform-nvim 
- vimplugin-conjure  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.conjure 
+ vimplugin-conjure  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.conjure 
  vimplugin-context.vim  2024-07-19    legacyPackages.x86_64-linux.vimPlugins.context-vim 
  vimplugin-context_filetype.vim  2025-03-11    legacyPackages.x86_64-linux.vimPlugins.context-filetype 
  vimplugin-context_filetype.vim  2025-03-11    legacyPackages.x86_64-linux.vimPlugins.context_filetype-vim 
@@ -97337,8 +97337,8 @@
  vimplugin-copilot-cmp  2024-12-11    legacyPackages.x86_64-linux.vimPlugins.copilot-cmp 
  vimplugin-copilot-lsp  2025-08-18    legacyPackages.x86_64-linux.vimPlugins.copilot-lsp 
  vimplugin-copilot-lualine  2025-04-05    legacyPackages.x86_64-linux.vimPlugins.copilot-lualine 
- vimplugin-copilot.lua  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.copilot-lua 
- vimplugin-copilot.vim  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.copilot-vim 
+ vimplugin-copilot.lua  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.copilot-lua 
+ vimplugin-copilot.vim  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.copilot-vim 
  vimplugin-coq-lsp.nvim  2024-10-28    legacyPackages.x86_64-linux.vimPlugins.coq-lsp-nvim 
  vimplugin-coq.artifacts  2025-01-20    legacyPackages.x86_64-linux.vimPlugins.coq-artifacts 
  vimplugin-coq.thirdparty  2025-01-18    legacyPackages.x86_64-linux.vimPlugins.coq-thirdparty 
@@ -97352,11 +97352,11 @@
  vimplugin-crates.nvim  2025-08-23    legacyPackages.x86_64-linux.vimPlugins.crates-nvim 
  vimplugin-csapprox  2013-07-27    legacyPackages.x86_64-linux.vimPlugins.CSApprox 
  vimplugin-csapprox  2013-07-27    legacyPackages.x86_64-linux.vimPlugins.csapprox 
- vimplugin-csharpls-extended-lsp.nvim  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.csharpls-extended-lsp-nvim 
+ vimplugin-csharpls-extended-lsp.nvim  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.csharpls-extended-lsp-nvim 
  vimplugin-cspell.nvim  2025-07-30    legacyPackages.x86_64-linux.vimPlugins.cspell-nvim 
  vimplugin-csv.vim  2025-02-21    legacyPackages.x86_64-linux.vimPlugins.csv 
  vimplugin-csv.vim  2025-02-21    legacyPackages.x86_64-linux.vimPlugins.csv-vim 
- vimplugin-csvview.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.csvview-nvim 
+ vimplugin-csvview.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.csvview-nvim 
  vimplugin-ctags-lsp.nvim  2024-12-08    legacyPackages.x86_64-linux.vimPlugins.ctags-lsp-nvim 
  vimplugin-ctrlp-cmatcher  2015-10-15    legacyPackages.x86_64-linux.vimPlugins.ctrlp-cmatcher 
  vimplugin-ctrlp-py-matcher  2021-09-20    legacyPackages.x86_64-linux.vimPlugins.ctrlp-py-matcher 
@@ -97376,10 +97376,10 @@
  vimplugin-ddc-fuzzy  2025-02-01    legacyPackages.x86_64-linux.vimPlugins.ddc-fuzzy 
  vimplugin-ddc-source-around  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.ddc-source-around 
  vimplugin-ddc-source-file  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.ddc-source-file 
- vimplugin-ddc-source-lsp  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.ddc-source-lsp 
+ vimplugin-ddc-source-lsp  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.ddc-source-lsp 
  vimplugin-ddc-ui-native  2025-08-30    legacyPackages.x86_64-linux.vimPlugins.ddc-ui-native 
  vimplugin-ddc-ui-pum  2025-08-26    legacyPackages.x86_64-linux.vimPlugins.ddc-ui-pum 
- vimplugin-ddc.vim  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.ddc-vim 
+ vimplugin-ddc.vim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.ddc-vim 
  vimplugin-debugmaster.nvim  2025-07-16    legacyPackages.x86_64-linux.vimPlugins.debugmaster-nvim 
  vimplugin-debugprint.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.debugprint-nvim 
  vimplugin-deepwhite.nvim  2024-09-30    legacyPackages.x86_64-linux.vimPlugins.deepwhite-nvim 
@@ -97387,7 +97387,7 @@
  vimplugin-defx-icons  2021-08-21    legacyPackages.x86_64-linux.vimPlugins.defx-icons 
  vimplugin-defx.nvim  2024-03-12    legacyPackages.x86_64-linux.vimPlugins.defx-nvim 
  vimplugin-delimitMate  2024-08-06    legacyPackages.x86_64-linux.vimPlugins.delimitMate 
- vimplugin-demicolon.nvim  2025-08-15  Overloaded ; and , keys in Neovim  legacyPackages.x86_64-linux.vimPlugins.demicolon-nvim 
+ vimplugin-demicolon.nvim  2025-09-09  Overloaded ; and , keys in Neovim  legacyPackages.x86_64-linux.vimPlugins.demicolon-nvim 
  vimplugin-denite-extra  2019-03-29    legacyPackages.x86_64-linux.vimPlugins.denite-extra 
  vimplugin-denite-git  2021-01-25    legacyPackages.x86_64-linux.vimPlugins.denite-git 
  vimplugin-denite.nvim  2024-03-12    legacyPackages.x86_64-linux.vimPlugins.denite 
@@ -97432,11 +97432,11 @@
  vimplugin-dressing.nvim  2025-02-12    legacyPackages.x86_64-linux.vimPlugins.dressing-nvim 
  vimplugin-dropbar.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.dropbar-nvim 
  vimplugin-earthly.vim  2024-04-02    legacyPackages.x86_64-linux.vimPlugins.earthly-vim 
- vimplugin-easy-dotnet.nvim  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.easy-dotnet-nvim 
+ vimplugin-easy-dotnet.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.easy-dotnet-nvim 
  vimplugin-echodoc.vim  2022-11-27    legacyPackages.x86_64-linux.vimPlugins.echodoc 
  vimplugin-echodoc.vim  2022-11-27    legacyPackages.x86_64-linux.vimPlugins.echodoc-vim 
  vimplugin-ecolog.nvim  2025-08-11    legacyPackages.x86_64-linux.vimPlugins.ecolog-nvim 
- vimplugin-edge  2025-08-18    legacyPackages.x86_64-linux.vimPlugins.edge 
+ vimplugin-edge  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.edge 
  vimplugin-edgedb-vim  2023-05-26    legacyPackages.x86_64-linux.vimPlugins.edgedb-vim 
  vimplugin-edgy.nvim  2024-08-31    legacyPackages.x86_64-linux.vimPlugins.edgy-nvim 
  vimplugin-editorconfig-vim  2025-04-21    legacyPackages.x86_64-linux.vimPlugins.editorconfig-vim 
@@ -97452,14 +97452,14 @@
  vimplugin-errormarker.vim  2015-01-26    legacyPackages.x86_64-linux.vimPlugins.errormarker-vim 
  vimplugin-ethersync  0.7.0  Real-time co-editing of local text files  legacyPackages.x86_64-linux.vimPlugins.ethersync 
  vimplugin-eva01.vim  2025-03-31    legacyPackages.x86_64-linux.vimPlugins.eva01-vim 
- vimplugin-everforest  2025-08-18    legacyPackages.x86_64-linux.vimPlugins.everforest 
+ vimplugin-everforest  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.everforest 
  vimplugin-executor.nvim  2025-08-15    legacyPackages.x86_64-linux.vimPlugins.executor-nvim 
  vimplugin-eyeliner.nvim  2024-09-27    legacyPackages.x86_64-linux.vimPlugins.eyeliner-nvim 
  vimplugin-falcon  2025-04-28    legacyPackages.x86_64-linux.vimPlugins.falcon 
  vimplugin-famous-quotes.nvim  2025-07-01    legacyPackages.x86_64-linux.vimPlugins.famous-quotes-nvim 
  vimplugin-far.vim  2024-05-14    legacyPackages.x86_64-linux.vimPlugins.far-vim 
  vimplugin-fastaction.nvim  2025-08-25    legacyPackages.x86_64-linux.vimPlugins.fastaction-nvim 
- vimplugin-faster.nvim  2025-05-29    legacyPackages.x86_64-linux.vimPlugins.faster-nvim 
+ vimplugin-faster.nvim  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.faster-nvim 
  vimplugin-fastfold  2025-06-04    legacyPackages.x86_64-linux.vimPlugins.fastfold 
  vimplugin-faust-nvim  2022-06-01    legacyPackages.x86_64-linux.vimPlugins.faust-nvim 
  vimplugin-fcitx.vim  2024-04-21  Keep and restore fcitx state when leaving/re-entering insert mode or search mode  legacyPackages.x86_64-linux.vimPlugins.fcitx-vim 
@@ -97500,7 +97500,7 @@
  vimplugin-fzf-lsp.nvim  2023-02-02    legacyPackages.x86_64-linux.vimPlugins.fzf-lsp-nvim 
  vimplugin-fzf.vim  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.fzf-vim 
  vimplugin-galaxyline.nvim  2022-01-21    legacyPackages.x86_64-linux.vimPlugins.galaxyline-nvim 
- vimplugin-gbprod-nord  2025-02-12    legacyPackages.x86_64-linux.vimPlugins.gbprod-nord 
+ vimplugin-gbprod-nord  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.gbprod-nord 
  vimplugin-gen.nvim  2025-05-03    legacyPackages.x86_64-linux.vimPlugins.gen-nvim 
  vimplugin-gen_tags.vim  2023-03-06    legacyPackages.x86_64-linux.vimPlugins.gen_tags-vim 
  vimplugin-gentoo-syntax  2025-06-26    legacyPackages.x86_64-linux.vimPlugins.gentoo-syntax 
@@ -97522,7 +97522,7 @@
  vimplugin-gitv  2019-08-22    legacyPackages.x86_64-linux.vimPlugins.gitv 
  vimplugin-glance.nvim  2025-06-16    legacyPackages.x86_64-linux.vimPlugins.glance-nvim 
  vimplugin-glow.nvim  2025-03-21    legacyPackages.x86_64-linux.vimPlugins.glow-nvim 
- vimplugin-go.nvim  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.go-nvim 
+ vimplugin-go.nvim  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.go-nvim 
  vimplugin-godbolt.nvim  2025-04-21    legacyPackages.x86_64-linux.vimPlugins.godbolt-nvim 
  vimplugin-golden-ratio  2022-06-28    legacyPackages.x86_64-linux.vimPlugins.golden-ratio 
  vimplugin-gotests-vim  2022-07-12    legacyPackages.x86_64-linux.vimPlugins.gotests-vim 
@@ -97537,7 +97537,7 @@
  vimplugin-gruvbox-baby  2024-01-25    legacyPackages.x86_64-linux.vimPlugins.gruvbox-baby 
  vimplugin-gruvbox-community  2025-05-10    legacyPackages.x86_64-linux.vimPlugins.gruvbox-community 
  vimplugin-gruvbox-flat.nvim  2023-05-27    legacyPackages.x86_64-linux.vimPlugins.gruvbox-flat-nvim 
- vimplugin-gruvbox-material  2025-08-18    legacyPackages.x86_64-linux.vimPlugins.gruvbox-material 
+ vimplugin-gruvbox-material  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.gruvbox-material 
  vimplugin-gruvbox-material.nvim  2025-08-13    legacyPackages.x86_64-linux.vimPlugins.gruvbox-material-nvim 
  vimplugin-gruvbox.nvim  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.gruvbox-nvim 
  vimplugin-guard-collection  2025-08-24    legacyPackages.x86_64-linux.vimPlugins.guard-collection 
@@ -97549,7 +97549,7 @@
  vimplugin-gv.vim  2023-12-10    legacyPackages.x86_64-linux.vimPlugins.gv-vim 
  vimplugin-gx.nvim  2025-07-12    legacyPackages.x86_64-linux.vimPlugins.gx-nvim 
  vimplugin-hardhat.nvim  2025-01-13    legacyPackages.x86_64-linux.vimPlugins.hardhat-nvim 
- vimplugin-hardtime.nvim  2025-07-29    legacyPackages.x86_64-linux.vimPlugins.hardtime-nvim 
+ vimplugin-hardtime.nvim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.hardtime-nvim 
  vimplugin-hare.vim  0-unstable-2025-04-24  Hare programming in Vim  legacyPackages.x86_64-linux.vimPlugins.hare-vim 
  vimplugin-harpoon  2024-08-29    legacyPackages.x86_64-linux.vimPlugins.harpoon 
  vimplugin-harpoon2  2025-02-10    legacyPackages.x86_64-linux.vimPlugins.harpoon2 
@@ -97560,7 +97560,7 @@
  vimplugin-hasksyn  2014-09-04    legacyPackages.x86_64-linux.vimPlugins.hasksyn 
  vimplugin-headlines.nvim  2024-09-13    legacyPackages.x86_64-linux.vimPlugins.headlines-nvim 
  vimplugin-heirline.nvim  2025-05-23    legacyPackages.x86_64-linux.vimPlugins.heirline-nvim 
- vimplugin-helm-ls.nvim  2025-06-25    legacyPackages.x86_64-linux.vimPlugins.helm-ls-nvim 
+ vimplugin-helm-ls.nvim  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.helm-ls-nvim 
  vimplugin-helpview.nvim  2025-07-27    legacyPackages.x86_64-linux.vimPlugins.helpview-nvim 
  vimplugin-hex.nvim  2025-07-27    legacyPackages.x86_64-linux.vimPlugins.hex-nvim 
  vimplugin-hiPairs  2020-12-10    legacyPackages.x86_64-linux.vimPlugins.hiPairs 
@@ -97576,7 +97576,7 @@
  vimplugin-hop.nvim  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.hop-nvim 
  vimplugin-hotpot.nvim  2025-07-15    legacyPackages.x86_64-linux.vimPlugins.hotpot-nvim 
  vimplugin-houdini.nvim  2024-07-05    legacyPackages.x86_64-linux.vimPlugins.houdini-nvim 
- vimplugin-hover.nvim  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.hover-nvim 
+ vimplugin-hover.nvim  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.hover-nvim 
  vimplugin-html5.vim  2024-03-20    legacyPackages.x86_64-linux.vimPlugins.html5-vim 
  vimplugin-hunk.nvim  2025-06-09    legacyPackages.x86_64-linux.vimPlugins.hunk-nvim 
  vimplugin-hurl  7.0.0    legacyPackages.x86_64-linux.vimPlugins.hurl 
@@ -97607,7 +97607,7 @@
  vimplugin-investigate.vim  2024-02-26    legacyPackages.x86_64-linux.vimPlugins.investigate-vim 
  vimplugin-iosvkem  2021-03-26    legacyPackages.x86_64-linux.vimPlugins.iosvkem 
  vimplugin-ir_black  2012-03-05    legacyPackages.x86_64-linux.vimPlugins.ir_black 
- vimplugin-iron.nvim  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.iron-nvim 
+ vimplugin-iron.nvim  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.iron-nvim 
  vimplugin-is.vim  2020-10-27    legacyPackages.x86_64-linux.vimPlugins.is-vim 
  vimplugin-jdaddy.vim  2014-02-22    legacyPackages.x86_64-linux.vimPlugins.jdaddy-vim 
  vimplugin-jdd.nvim  2025-07-04    legacyPackages.x86_64-linux.vimPlugins.jdd-nvim 
@@ -97621,7 +97621,7 @@
  vimplugin-jule.nvim  2025-08-07    legacyPackages.x86_64-linux.vimPlugins.jule-nvim 
  vimplugin-julia-vim  2024-05-25    legacyPackages.x86_64-linux.vimPlugins.julia-vim 
  vimplugin-jupytext.nvim  2024-04-05    legacyPackages.x86_64-linux.vimPlugins.jupytext-nvim 
- vimplugin-kanagawa-paper.nvim  2025-08-29    legacyPackages.x86_64-linux.vimPlugins.kanagawa-paper-nvim 
+ vimplugin-kanagawa-paper.nvim  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.kanagawa-paper-nvim 
  vimplugin-kanagawa.nvim  2025-05-21    legacyPackages.x86_64-linux.vimPlugins.kanagawa-nvim 
  vimplugin-kanso.nvim  2025-08-16    legacyPackages.x86_64-linux.vimPlugins.kanso-nvim 
  vimplugin-kdl.vim  2023-02-20    legacyPackages.x86_64-linux.vimPlugins.kdl-vim 
@@ -97631,7 +97631,7 @@
  vimplugin-knap  2024-10-22    legacyPackages.x86_64-linux.vimPlugins.knap 
  vimplugin-kommentary  2023-11-29    legacyPackages.x86_64-linux.vimPlugins.kommentary 
  vimplugin-kotlin-vim  2022-12-30    legacyPackages.x86_64-linux.vimPlugins.kotlin-vim 
- vimplugin-kulala.nvim  2025-09-01    legacyPackages.x86_64-linux.vimPlugins.kulala-nvim 
+ vimplugin-kulala.nvim  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.kulala-nvim 
  vimplugin-lackluster.nvim  2025-05-13    legacyPackages.x86_64-linux.vimPlugins.lackluster-nvim 
  vimplugin-lalrpop.vim  2017-11-22    legacyPackages.x86_64-linux.vimPlugins.lalrpop-vim 
  vimplugin-langmapper.nvim  2025-05-05    legacyPackages.x86_64-linux.vimPlugins.langmapper-nvim 
@@ -97639,24 +97639,24 @@
  vimplugin-latex-box  2015-06-01    legacyPackages.x86_64-linux.vimPlugins.latex-box 
  vimplugin-lazy-lsp.nvim  2025-08-14    legacyPackages.x86_64-linux.vimPlugins.lazy-lsp-nvim 
  vimplugin-lazy.nvim  2025-02-25    legacyPackages.x86_64-linux.vimPlugins.lazy-nvim 
- vimplugin-lazydev.nvim  2025-02-20    legacyPackages.x86_64-linux.vimPlugins.lazydev-nvim 
+ vimplugin-lazydev.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.lazydev-nvim 
  vimplugin-lazydocker.nvim  2025-08-24    legacyPackages.x86_64-linux.vimPlugins.lazydocker-nvim 
- vimplugin-lazygit.nvim  2025-09-02    legacyPackages.x86_64-linux.vimPlugins.lazygit-nvim 
+ vimplugin-lazygit.nvim  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.lazygit-nvim 
  vimplugin-lazyjj.nvim  2024-11-28    legacyPackages.x86_64-linux.vimPlugins.lazyjj-nvim 
- vimplugin-lean.nvim  2025-09-01    legacyPackages.x86_64-linux.vimPlugins.lean-nvim 
+ vimplugin-lean.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.lean-nvim 
  vimplugin-lean.vim  2021-09-29    legacyPackages.x86_64-linux.vimPlugins.lean-vim 
  vimplugin-leap-ast.nvim  2022-10-10    legacyPackages.x86_64-linux.vimPlugins.leap-ast-nvim 
- vimplugin-leap.nvim  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.leap-nvim 
+ vimplugin-leap.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.leap-nvim 
  vimplugin-leetcode.nvim  2025-08-25    legacyPackages.x86_64-linux.vimPlugins.leetcode-nvim 
  vimplugin-legendary.nvim  2025-03-20    legacyPackages.x86_64-linux.vimPlugins.legendary-nvim 
  vimplugin-lens.vim  2021-05-30    legacyPackages.x86_64-linux.vimPlugins.lens-vim 
- vimplugin-lensline.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.lensline-nvim 
+ vimplugin-lensline.nvim  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.lensline-nvim 
  vimplugin-lessspace.vim  2023-02-13    legacyPackages.x86_64-linux.vimPlugins.lessspace-vim 
  vimplugin-lexima.vim  2025-05-15    legacyPackages.x86_64-linux.vimPlugins.lexima-vim 
  vimplugin-lf.nvim  2023-10-03    legacyPackages.x86_64-linux.vimPlugins.lf-nvim 
  vimplugin-lf.vim  2024-03-18    legacyPackages.x86_64-linux.vimPlugins.lf-vim 
  vimplugin-lh-brackets  2024-08-29    legacyPackages.x86_64-linux.vimPlugins.lh-brackets 
- vimplugin-lh-vim-lib  2025-06-20    legacyPackages.x86_64-linux.vimPlugins.lh-vim-lib 
+ vimplugin-lh-vim-lib  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.lh-vim-lib 
  vimplugin-lightline-ale  2021-06-09    legacyPackages.x86_64-linux.vimPlugins.lightline-ale 
  vimplugin-lightline-bufferline  2023-11-26    legacyPackages.x86_64-linux.vimPlugins.lightline-bufferline 
  vimplugin-lightline-gruvbox.vim  2023-04-02    legacyPackages.x86_64-linux.vimPlugins.lightline-gruvbox-vim 
@@ -97675,14 +97675,14 @@
  vimplugin-litee.nvim  2024-06-06    legacyPackages.x86_64-linux.vimPlugins.litee-nvim 
  vimplugin-live-command.nvim  2025-04-30    legacyPackages.x86_64-linux.vimPlugins.live-command-nvim 
  vimplugin-live-preview.nvim  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.live-preview-nvim 
- vimplugin-live-rename.nvim  2025-08-27    legacyPackages.x86_64-linux.vimPlugins.live-rename-nvim 
+ vimplugin-live-rename.nvim  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.live-rename-nvim 
  vimplugin-live-share.nvim  2025-05-03    legacyPackages.x86_64-linux.vimPlugins.live-share-nvim 
  vimplugin-llama.vim  2025-08-31    legacyPackages.x86_64-linux.vimPlugins.llama-vim 
  vimplugin-llm.nvim  2025-01-09    legacyPackages.x86_64-linux.vimPlugins.llm-nvim 
  vimplugin-lsp-colors.nvim  2023-02-27    legacyPackages.x86_64-linux.vimPlugins.lsp-colors-nvim 
  vimplugin-lsp-format.nvim  2025-05-08    legacyPackages.x86_64-linux.vimPlugins.lsp-format-nvim 
  vimplugin-lsp-inlayhints.nvim  2023-06-08    legacyPackages.x86_64-linux.vimPlugins.lsp-inlayhints-nvim 
- vimplugin-lsp-overloads.nvim  2025-07-03    legacyPackages.x86_64-linux.vimPlugins.lsp-overloads-nvim 
+ vimplugin-lsp-overloads.nvim  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.lsp-overloads-nvim 
  vimplugin-lsp-rooter.nvim  2021-08-13    legacyPackages.x86_64-linux.vimPlugins.lsp-rooter-nvim 
  vimplugin-lsp-status.nvim  2022-08-03    legacyPackages.x86_64-linux.vimPlugins.lsp-status-nvim 
  vimplugin-lsp-zero.nvim  2025-04-10    legacyPackages.x86_64-linux.vimPlugins.lsp-zero-nvim 
@@ -97696,9 +97696,9 @@
  vimplugin-ltex_extra.nvim  2025-03-04    legacyPackages.x86_64-linux.vimPlugins.ltex_extra-nvim 
  vimplugin-lua-async  2024-03-31    legacyPackages.x86_64-linux.vimPlugins.lua-async 
  vimplugin-luajit2.1-fidget.nvim  1.6.0-1-unstable-1.6.0-1  Extensible UI for Neovim notifications and LSP progress messages.  legacyPackages.x86_64-linux.vimPlugins.fidget-nvim 
- vimplugin-luajit2.1-fzf-lua  0.0.2185-1-unstable-0.0.2185-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.vimPlugins.fzf-lua 
+ vimplugin-luajit2.1-fzf-lua  0.0.2234-1-unstable-0.0.2234-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.vimPlugins.fzf-lua 
  vimplugin-luajit2.1-gitsigns.nvim-scm  1-unstable-scm-1  Git signs written in pure lua  legacyPackages.x86_64-linux.vimPlugins.gitsigns-nvim 
- vimplugin-luajit2.1-grug-far.nvim  1.6.46-1-unstable-1.6.46-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.vimPlugins.grug-far-nvim 
+ vimplugin-luajit2.1-grug-far.nvim  1.6.48-1-unstable-1.6.48-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.vimPlugins.grug-far-nvim 
  vimplugin-luajit2.1-haskell-tools.nvim  6.2.0-1-unstable-6.2.0-1  🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.vimPlugins.haskell-tools-nvim 
  vimplugin-luajit2.1-image.nvim  1.3.0-1-unstable-1.3.0-1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.vimPlugins.image-nvim 
  vimplugin-luajit2.1-lsp-progress.nvim  1.0.14-1-unstable-1.0.14-1  A performant lsp progress status for Neovim.  legacyPackages.x86_64-linux.vimPlugins.lsp-progress-nvim 
@@ -97718,8 +97718,8 @@
  vimplugin-luajit2.1-nvim-nio  1.10.1-1-unstable-1.10.1-1  A library for asynchronous IO in Neovim  legacyPackages.x86_64-linux.vimPlugins.nvim-nio 
  vimplugin-luajit2.1-nvim-web-devicons  0.100-1-unstable-0.100-1  Nerd Font icons for neovim  legacyPackages.x86_64-linux.vimPlugins.nvim-web-devicons 
  vimplugin-luajit2.1-oil.nvim  2.15.0-1-unstable-2.15.0-1  Neovim file explorer: edit your filesystem like a buffer  legacyPackages.x86_64-linux.vimPlugins.oil-nvim 
- vimplugin-luajit2.1-orgmode  0.7.1-1-unstable-0.7.1-1  Orgmode clone written in Lua for Neovim 0.10.0+.  legacyPackages.x86_64-linux.vimPlugins.orgmode 
- vimplugin-luajit2.1-papis.nvim  0.8.0-1-unstable-0.8.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.vimPlugins.papis-nvim 
+ vimplugin-luajit2.1-orgmode  0.7.1-1-unstable-0.7.1-1  Orgmode clone written in Lua for Neovim 0.11.0+.  legacyPackages.x86_64-linux.vimPlugins.orgmode 
+ vimplugin-luajit2.1-papis.nvim  0.9.0-1-unstable-0.9.0-1  Manage your bibliography from within your favourite editor  legacyPackages.x86_64-linux.vimPlugins.papis-nvim 
  vimplugin-luajit2.1-plenary.nvim-scm  1-unstable-scm-1  lua functions you don't want to write   legacyPackages.x86_64-linux.vimPlugins.plenary-nvim 
  vimplugin-luajit2.1-rest.nvim  3.13.0-1-unstable-3.13.0-1  A very fast, powerful, extensible and asynchronous Neovim HTTP client written in Lua.  legacyPackages.x86_64-linux.vimPlugins.rest-nvim 
  vimplugin-luajit2.1-rocks-config.nvim  3.1.1-1-unstable-3.1.1-1  Allow rocks.nvim to help configure your plugins.  legacyPackages.x86_64-linux.vimPlugins.rocks-config-nvim 
@@ -97741,7 +97741,7 @@
  vimplugin-markid  2023-10-18    legacyPackages.x86_64-linux.vimPlugins.markid 
  vimplugin-marks.nvim  2025-05-13    legacyPackages.x86_64-linux.vimPlugins.marks-nvim 
  vimplugin-markview.nvim  2025-09-01    legacyPackages.x86_64-linux.vimPlugins.markview-nvim 
- vimplugin-mason-lspconfig.nvim  2025-08-29    legacyPackages.x86_64-linux.vimPlugins.mason-lspconfig-nvim 
+ vimplugin-mason-lspconfig.nvim  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.mason-lspconfig-nvim 
  vimplugin-mason-null-ls.nvim  2024-04-09    legacyPackages.x86_64-linux.vimPlugins.mason-null-ls-nvim 
  vimplugin-mason-nvim-dap.nvim  2025-07-22    legacyPackages.x86_64-linux.vimPlugins.mason-nvim-dap-nvim 
  vimplugin-mason-tool-installer.nvim  2025-06-26    legacyPackages.x86_64-linux.vimPlugins.mason-tool-installer-nvim 
@@ -97769,9 +97769,9 @@
  vimplugin-mini.clue  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-clue 
  vimplugin-mini.colors  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-colors 
  vimplugin-mini.comment  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-comment 
- vimplugin-mini.completion  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-completion 
+ vimplugin-mini.completion  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.mini-completion 
  vimplugin-mini.cursorword  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-cursorword 
- vimplugin-mini.deps  2025-09-02    legacyPackages.x86_64-linux.vimPlugins.mini-deps 
+ vimplugin-mini.deps  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.mini-deps 
  vimplugin-mini.diff  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-diff 
  vimplugin-mini.doc  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-doc 
  vimplugin-mini.extra  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-extra 
@@ -97787,17 +97787,17 @@
  vimplugin-mini.map  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-map 
  vimplugin-mini.misc  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-misc 
  vimplugin-mini.move  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-move 
- vimplugin-mini.notify  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-notify 
- vimplugin-mini.nvim  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.mini-nvim 
+ vimplugin-mini.notify  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.mini-notify 
+ vimplugin-mini.nvim  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.mini-nvim 
  vimplugin-mini.operators  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-operators 
  vimplugin-mini.pairs  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.mini-pairs 
- vimplugin-mini.pick  2025-08-30    legacyPackages.x86_64-linux.vimPlugins.mini-pick 
+ vimplugin-mini.pick  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.mini-pick 
  vimplugin-mini.sessions  2025-08-29    legacyPackages.x86_64-linux.vimPlugins.mini-sessions 
  vimplugin-mini.snippets  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-snippets 
  vimplugin-mini.splitjoin  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-splitjoin 
- vimplugin-mini.starter  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-starter 
+ vimplugin-mini.starter  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.mini-starter 
  vimplugin-mini.statusline  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-statusline 
- vimplugin-mini.surround  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-surround 
+ vimplugin-mini.surround  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.mini-surround 
  vimplugin-mini.tabline  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-tabline 
  vimplugin-mini.trailspace  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-trailspace 
  vimplugin-mini.visits  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.mini-visits 
@@ -97815,7 +97815,7 @@
  vimplugin-moonscript-vim  2016-11-22    legacyPackages.x86_64-linux.vimPlugins.moonscript-vim 
  vimplugin-moveline-nvim  0.3.1-unstable-2023-07-06  Neovim plugin for moving lines up and down  legacyPackages.x86_64-linux.vimPlugins.moveline-nvim 
  vimplugin-mru  2024-12-29    legacyPackages.x86_64-linux.vimPlugins.mru 
- vimplugin-multicursor.nvim  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.multicursor-nvim 
+ vimplugin-multicursor.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.multicursor-nvim 
  vimplugin-multicursors.nvim  2025-02-26    legacyPackages.x86_64-linux.vimPlugins.multicursors-nvim 
  vimplugin-muren.nvim  2025-02-09    legacyPackages.x86_64-linux.vimPlugins.muren-nvim 
  vimplugin-nabla.nvim  2025-04-21    legacyPackages.x86_64-linux.vimPlugins.nabla-nvim 
@@ -97843,13 +97843,13 @@
  vimplugin-neo-tree.nvim  2025-09-02    legacyPackages.x86_64-linux.vimPlugins.neo-tree-nvim 
  vimplugin-neocomplete.vim  2023-05-18    legacyPackages.x86_64-linux.vimPlugins.neocomplete 
  vimplugin-neocomplete.vim  2023-05-18    legacyPackages.x86_64-linux.vimPlugins.neocomplete-vim 
- vimplugin-neoconf.nvim  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.neoconf-nvim 
+ vimplugin-neoconf.nvim  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.neoconf-nvim 
  vimplugin-neocord  2025-05-29    legacyPackages.x86_64-linux.vimPlugins.neocord 
  vimplugin-neodark.vim  2024-01-12    legacyPackages.x86_64-linux.vimPlugins.neodark-vim 
  vimplugin-neodev.nvim  2024-07-06    legacyPackages.x86_64-linux.vimPlugins.neodev-nvim 
  vimplugin-neoformat  2025-07-29    legacyPackages.x86_64-linux.vimPlugins.neoformat 
  vimplugin-neogen  2025-05-03    legacyPackages.x86_64-linux.vimPlugins.neogen 
- vimplugin-neogit  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.neogit 
+ vimplugin-neogit  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.neogit 
  vimplugin-neoinclude.vim  2020-09-13    legacyPackages.x86_64-linux.vimPlugins.neoinclude 
  vimplugin-neoinclude.vim  2020-09-13    legacyPackages.x86_64-linux.vimPlugins.neoinclude-vim 
  vimplugin-neomake  2023-02-20    legacyPackages.x86_64-linux.vimPlugins.neomake 
@@ -97869,16 +97869,16 @@
  vimplugin-neotest-ctest  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.neotest-ctest 
  vimplugin-neotest-dart  2025-06-03    legacyPackages.x86_64-linux.vimPlugins.neotest-dart 
  vimplugin-neotest-deno  2022-12-09    legacyPackages.x86_64-linux.vimPlugins.neotest-deno 
- vimplugin-neotest-dotnet  2025-05-30    legacyPackages.x86_64-linux.vimPlugins.neotest-dotnet 
+ vimplugin-neotest-dotnet  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.neotest-dotnet 
  vimplugin-neotest-elixir  2025-01-19    legacyPackages.x86_64-linux.vimPlugins.neotest-elixir 
  vimplugin-neotest-foundry  2025-05-28    legacyPackages.x86_64-linux.vimPlugins.neotest-foundry 
  vimplugin-neotest-go  2024-05-19    legacyPackages.x86_64-linux.vimPlugins.neotest-go 
- vimplugin-neotest-golang  2025-08-26    legacyPackages.x86_64-linux.vimPlugins.neotest-golang 
- vimplugin-neotest-gradle  2023-12-05    legacyPackages.x86_64-linux.vimPlugins.neotest-gradle 
+ vimplugin-neotest-golang  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.neotest-golang 
+ vimplugin-neotest-gradle  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.neotest-gradle 
  vimplugin-neotest-gtest  2024-09-26    legacyPackages.x86_64-linux.vimPlugins.neotest-gtest 
- vimplugin-neotest-haskell  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.neotest-haskell 
+ vimplugin-neotest-haskell  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.neotest-haskell 
  vimplugin-neotest-java  2025-08-15    legacyPackages.x86_64-linux.vimPlugins.neotest-java 
- vimplugin-neotest-jest  2025-09-02    legacyPackages.x86_64-linux.vimPlugins.neotest-jest 
+ vimplugin-neotest-jest  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.neotest-jest 
  vimplugin-neotest-minitest  2025-08-16    legacyPackages.x86_64-linux.vimPlugins.neotest-minitest 
  vimplugin-neotest-mocha  2025-08-30    legacyPackages.x86_64-linux.vimPlugins.neotest-mocha 
  vimplugin-neotest-pest  2024-02-16    legacyPackages.x86_64-linux.vimPlugins.neotest-pest 
@@ -97886,11 +97886,11 @@
  vimplugin-neotest-playwright  2024-07-08    legacyPackages.x86_64-linux.vimPlugins.neotest-playwright 
  vimplugin-neotest-plenary  2024-09-15    legacyPackages.x86_64-linux.vimPlugins.neotest-plenary 
  vimplugin-neotest-python  2025-06-23    legacyPackages.x86_64-linux.vimPlugins.neotest-python 
- vimplugin-neotest-rspec  2025-06-13    legacyPackages.x86_64-linux.vimPlugins.neotest-rspec 
+ vimplugin-neotest-rspec  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.neotest-rspec 
  vimplugin-neotest-rust  2025-08-19    legacyPackages.x86_64-linux.vimPlugins.neotest-rust 
  vimplugin-neotest-scala  2022-10-15    legacyPackages.x86_64-linux.vimPlugins.neotest-scala 
  vimplugin-neotest-testthat  2022-07-04    legacyPackages.x86_64-linux.vimPlugins.neotest-testthat 
- vimplugin-neotest-vitest  2025-04-11    legacyPackages.x86_64-linux.vimPlugins.neotest-vitest 
+ vimplugin-neotest-vitest  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.neotest-vitest 
  vimplugin-neotest-zig  2025-03-16    legacyPackages.x86_64-linux.vimPlugins.neotest-zig 
  vimplugin-neovim-ayu  2025-08-20    legacyPackages.x86_64-linux.vimPlugins.neovim-ayu 
  vimplugin-neovim-fuzzy  2023-11-25    legacyPackages.x86_64-linux.vimPlugins.neovim-fuzzy 
@@ -97903,25 +97903,25 @@
  vimplugin-nerdtree  2024-07-20    legacyPackages.x86_64-linux.vimPlugins.nerdtree 
  vimplugin-nerdtree-git-plugin  2021-08-18    legacyPackages.x86_64-linux.vimPlugins.nerdtree-git-plugin 
  vimplugin-nerdy.nvim  2025-08-04    legacyPackages.x86_64-linux.vimPlugins.nerdy-nvim 
- vimplugin-netman.nvim  2025-07-31    legacyPackages.x86_64-linux.vimPlugins.netman-nvim 
+ vimplugin-netman.nvim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.netman-nvim 
  vimplugin-netrw.nvim  2024-07-23    legacyPackages.x86_64-linux.vimPlugins.netrw-nvim 
  vimplugin-neuron.vim  2023-07-06    legacyPackages.x86_64-linux.vimPlugins.neuron-vim 
- vimplugin-nfnl  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.nfnl 
+ vimplugin-nfnl  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.nfnl 
  vimplugin-ng.nvim  2025-04-21    legacyPackages.x86_64-linux.vimPlugins.ng-nvim 
  vimplugin-nginx.vim  2023-11-26    legacyPackages.x86_64-linux.vimPlugins.nginx-vim 
  vimplugin-night-owl.nvim  2024-09-12    legacyPackages.x86_64-linux.vimPlugins.night-owl-nvim 
- vimplugin-nightfly  2025-08-03    legacyPackages.x86_64-linux.vimPlugins.nightfly 
+ vimplugin-nightfly  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.nightfly 
  vimplugin-nightfox.nvim  2025-02-09    legacyPackages.x86_64-linux.vimPlugins.nightfox-nvim 
  vimplugin-nightly.nvim  2024-03-30    legacyPackages.x86_64-linux.vimPlugins.nightly-nvim 
  vimplugin-nim.vim  2021-11-11    legacyPackages.x86_64-linux.vimPlugins.nim-vim 
  vimplugin-nix-develop.nvim  2023-07-23    legacyPackages.x86_64-linux.vimPlugins.nix-develop-nvim 
- vimplugin-nlsp-settings.nvim  2025-08-26    legacyPackages.x86_64-linux.vimPlugins.nlsp-settings-nvim 
+ vimplugin-nlsp-settings.nvim  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.nlsp-settings-nvim 
  vimplugin-nnn.vim  2023-05-23    legacyPackages.x86_64-linux.vimPlugins.nnn-vim 
  vimplugin-no-clown-fiesta.nvim  2025-01-26    legacyPackages.x86_64-linux.vimPlugins.no-clown-fiesta-nvim 
- vimplugin-no-neck-pain.nvim  2025-08-25    legacyPackages.x86_64-linux.vimPlugins.no-neck-pain-nvim 
+ vimplugin-no-neck-pain.nvim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.no-neck-pain-nvim 
  vimplugin-noctis.nvim  2022-09-30    legacyPackages.x86_64-linux.vimPlugins.noctis-nvim 
  vimplugin-noice.nvim  2025-02-11    legacyPackages.x86_64-linux.vimPlugins.noice-nvim 
- vimplugin-none-ls.nvim  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.none-ls-nvim 
+ vimplugin-none-ls.nvim  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.none-ls-nvim 
  vimplugin-nord-vim  2023-05-03    legacyPackages.x86_64-linux.vimPlugins.nord-vim 
  vimplugin-nord.nvim  2023-12-20    legacyPackages.x86_64-linux.vimPlugins.nord-nvim 
  vimplugin-nordic.nvim  2024-06-16    legacyPackages.x86_64-linux.vimPlugins.nordic-nvim 
@@ -97936,7 +97936,7 @@
  vimplugin-nvim-ale-diagnostic  2021-11-06    legacyPackages.x86_64-linux.vimPlugins.nvim-ale-diagnostic 
  vimplugin-nvim-autopairs  2025-07-01    legacyPackages.x86_64-linux.vimPlugins.nvim-autopairs 
  vimplugin-nvim-bacon  2025-01-20    legacyPackages.x86_64-linux.vimPlugins.nvim-bacon 
- vimplugin-nvim-biscuits  2024-04-20    legacyPackages.x86_64-linux.vimPlugins.nvim-biscuits 
+ vimplugin-nvim-biscuits  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.nvim-biscuits 
  vimplugin-nvim-bqf  2025-08-03    legacyPackages.x86_64-linux.vimPlugins.nvim-bqf 
  vimplugin-nvim-bufdel  2023-04-13    legacyPackages.x86_64-linux.vimPlugins.nvim-bufdel 
  vimplugin-nvim-cm-racer  2017-07-27    legacyPackages.x86_64-linux.vimPlugins.nvim-cm-racer 
@@ -97952,16 +97952,16 @@
  vimplugin-nvim-dap-cortex-debug  2025-02-13    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-cortex-debug 
  vimplugin-nvim-dap-go  2025-07-11    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-go 
  vimplugin-nvim-dap-lldb  2025-05-09    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-lldb 
- vimplugin-nvim-dap-python  2025-08-25    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-python 
+ vimplugin-nvim-dap-python  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-python 
  vimplugin-nvim-dap-rego  2025-06-18    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-rego 
  vimplugin-nvim-dap-rr  2025-03-20    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-rr 
  vimplugin-nvim-dap-ui  2025-07-09    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-ui 
- vimplugin-nvim-dap-view  2025-09-01    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-view 
+ vimplugin-nvim-dap-view  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-view 
  vimplugin-nvim-dap-virtual-text  2025-05-25    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-virtual-text 
  vimplugin-nvim-dap-vscode-js  2023-03-06    legacyPackages.x86_64-linux.vimPlugins.nvim-dap-vscode-js 
  vimplugin-nvim-dbee  0.1.9  Interactive database client for neovim  legacyPackages.x86_64-linux.vimPlugins.nvim-dbee 
  vimplugin-nvim-docs-view  2025-08-12    legacyPackages.x86_64-linux.vimPlugins.nvim-docs-view 
- vimplugin-nvim-early-retirement  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.nvim-early-retirement 
+ vimplugin-nvim-early-retirement  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.nvim-early-retirement 
  vimplugin-nvim-expand-expr  2021-08-14    legacyPackages.x86_64-linux.vimPlugins.nvim-expand-expr 
  vimplugin-nvim-fzf  2024-10-21    legacyPackages.x86_64-linux.vimPlugins.nvim-fzf 
  vimplugin-nvim-fzf-commands  2022-12-20    legacyPackages.x86_64-linux.vimPlugins.nvim-fzf-commands 
@@ -97971,7 +97971,7 @@
  vimplugin-nvim-gps  2022-07-05    legacyPackages.x86_64-linux.vimPlugins.nvim-gps 
  vimplugin-nvim-highlight-colors  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.nvim-highlight-colors 
  vimplugin-nvim-highlite  2025-09-01    legacyPackages.x86_64-linux.vimPlugins.nvim-highlite 
- vimplugin-nvim-hlslens  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.nvim-hlslens 
+ vimplugin-nvim-hlslens  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.nvim-hlslens 
  vimplugin-nvim-hs.vim  2022-01-30    legacyPackages.x86_64-linux.vimPlugins.nvim-hs-vim 
  vimplugin-nvim-impairative  2024-11-20    legacyPackages.x86_64-linux.vimPlugins.nvim-impairative 
  vimplugin-nvim-java  2025-08-06    legacyPackages.x86_64-linux.vimPlugins.nvim-java 
@@ -97979,7 +97979,7 @@
  vimplugin-nvim-java-dap  2024-07-25    legacyPackages.x86_64-linux.vimPlugins.nvim-java-dap 
  vimplugin-nvim-java-refactor  2025-01-26    legacyPackages.x86_64-linux.vimPlugins.nvim-java-refactor 
  vimplugin-nvim-java-test  2024-07-19    legacyPackages.x86_64-linux.vimPlugins.nvim-java-test 
- vimplugin-nvim-jdtls  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.nvim-jdtls 
+ vimplugin-nvim-jdtls  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.nvim-jdtls 
  vimplugin-nvim-jqx  2024-05-31    legacyPackages.x86_64-linux.vimPlugins.nvim-jqx 
  vimplugin-nvim-julia-autotest  0-unstable-2022-10-31  Automatically run Julia tests when you save runtest.jl file  legacyPackages.x86_64-linux.vimPlugins.nvim-julia-autotest 
  vimplugin-nvim-k8s-crd  2025-05-26    legacyPackages.x86_64-linux.vimPlugins.nvim-k8s-crd 
@@ -97987,11 +97987,11 @@
  vimplugin-nvim-lightbulb  2025-03-29    legacyPackages.x86_64-linux.vimPlugins.nvim-lightbulb 
  vimplugin-nvim-lightline-lsp  2022-05-30    legacyPackages.x86_64-linux.vimPlugins.nvim-lightline-lsp 
  vimplugin-nvim-lilypond-suite  2025-07-26    legacyPackages.x86_64-linux.vimPlugins.nvim-lilypond-suite 
- vimplugin-nvim-lint  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.nvim-lint 
+ vimplugin-nvim-lint  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.nvim-lint 
  vimplugin-nvim-lsp-file-operations  2024-10-24    legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-file-operations 
  vimplugin-nvim-lsp-notify  2023-12-07    legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-notify 
  vimplugin-nvim-lsp-ts-utils  2022-07-17    legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-ts-utils 
- vimplugin-nvim-lspconfig  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.nvim-lspconfig 
+ vimplugin-nvim-lspconfig  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.nvim-lspconfig 
  vimplugin-nvim-lsputils  2022-01-29    legacyPackages.x86_64-linux.vimPlugins.nvim-lsputils 
  vimplugin-nvim-lua-gf  2022-07-31    legacyPackages.x86_64-linux.vimPlugins.nvim-lua-gf 
  vimplugin-nvim-luadev  2023-03-13    legacyPackages.x86_64-linux.vimPlugins.nvim-luadev 
@@ -98005,7 +98005,7 @@
  vimplugin-nvim-notify  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.nvim-notify 
  vimplugin-nvim-nu  2024-12-10    legacyPackages.x86_64-linux.vimPlugins.nvim-nu 
  vimplugin-nvim-numbertoggle  2025-08-13    legacyPackages.x86_64-linux.vimPlugins.nvim-numbertoggle 
- vimplugin-nvim-origami  2025-08-26    legacyPackages.x86_64-linux.vimPlugins.nvim-origami 
+ vimplugin-nvim-origami  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.nvim-origami 
  vimplugin-nvim-osc52  2024-05-24    legacyPackages.x86_64-linux.vimPlugins.nvim-osc52 
  vimplugin-nvim-paredit  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.nvim-paredit 
  vimplugin-nvim-parinfer  2023-08-09    legacyPackages.x86_64-linux.vimPlugins.nvim-parinfer 
@@ -98032,7 +98032,7 @@
  vimplugin-nvim-tinygit  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.nvim-tinygit 
  vimplugin-nvim-tree.lua  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.nvim-tree-lua 
  vimplugin-nvim-treesitter  2025-05-24    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter 
- vimplugin-nvim-treesitter-context  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-context 
+ vimplugin-nvim-treesitter-context  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-context 
  vimplugin-nvim-treesitter-endwise  2025-08-15    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-endwise 
  vimplugin-nvim-treesitter-pairs  2023-07-23    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-pairs 
  vimplugin-nvim-treesitter-pyfold  2023-04-11    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-pyfold 
@@ -98041,12 +98041,12 @@
  vimplugin-nvim-treesitter-textobjects  2025-07-29    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-textobjects 
  vimplugin-nvim-treesitter-textsubjects  2025-08-14    legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-textsubjects 
  vimplugin-nvim-trevJ.lua  2025-07-21    legacyPackages.x86_64-linux.vimPlugins.nvim-trevJ-lua 
- vimplugin-nvim-ts-autotag  2025-02-18    legacyPackages.x86_64-linux.vimPlugins.nvim-ts-autotag 
+ vimplugin-nvim-ts-autotag  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.nvim-ts-autotag 
  vimplugin-nvim-ts-context-commentstring  2024-12-07    legacyPackages.x86_64-linux.vimPlugins.nvim-ts-context-commentstring 
  vimplugin-nvim-ufo  2025-08-17    legacyPackages.x86_64-linux.vimPlugins.nvim-ufo 
  vimplugin-nvim-unception  2025-04-04    legacyPackages.x86_64-linux.vimPlugins.nvim-unception 
  vimplugin-nvim-unity  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.nvim-unity 
- vimplugin-nvim-various-textobjs  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.nvim-various-textobjs 
+ vimplugin-nvim-various-textobjs  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.nvim-various-textobjs 
  vimplugin-nvim-vtsls  2025-07-16    legacyPackages.x86_64-linux.vimPlugins.nvim-vtsls 
  vimplugin-nvim-whichkey-setup.lua  2021-04-16    legacyPackages.x86_64-linux.vimPlugins.nvim-whichkey-setup-lua 
  vimplugin-nvim-window-picker  2025-02-26    legacyPackages.x86_64-linux.vimPlugins.nvim-window-picker 
@@ -98057,8 +98057,8 @@
  vimplugin-nvzone-menu  2025-06-01    legacyPackages.x86_64-linux.vimPlugins.nvzone-menu 
  vimplugin-nvzone-minty  2025-02-28    legacyPackages.x86_64-linux.vimPlugins.nvzone-minty 
  vimplugin-nvzone-typr  2025-06-12    legacyPackages.x86_64-linux.vimPlugins.nvzone-typr 
- vimplugin-nvzone-volt  2025-06-12    legacyPackages.x86_64-linux.vimPlugins.nvzone-volt 
- vimplugin-obsidian.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.obsidian-nvim 
+ vimplugin-nvzone-volt  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.nvzone-volt 
+ vimplugin-obsidian.nvim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.obsidian-nvim 
  vimplugin-oceanic-material  2023-06-22    legacyPackages.x86_64-linux.vimPlugins.oceanic-material 
  vimplugin-oceanic-next  2023-05-01    legacyPackages.x86_64-linux.vimPlugins.oceanic-next 
  vimplugin-octo.nvim  2025-08-21    legacyPackages.x86_64-linux.vimPlugins.octo-nvim 
@@ -98078,12 +98078,12 @@
  vimplugin-open-browser-github.vim  2021-03-21    legacyPackages.x86_64-linux.vimPlugins.open-browser-github-vim 
  vimplugin-open-browser.vim  2022-10-08    legacyPackages.x86_64-linux.vimPlugins.open-browser 
  vimplugin-open-browser.vim  2022-10-08    legacyPackages.x86_64-linux.vimPlugins.open-browser-vim 
- vimplugin-opencode.nvim  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.opencode-nvim 
+ vimplugin-opencode.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.opencode-nvim 
  vimplugin-openingh.nvim  2025-05-01    legacyPackages.x86_64-linux.vimPlugins.openingh-nvim 
  vimplugin-openscad.nvim  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.openscad-nvim 
- vimplugin-org-roam.nvim  2025-08-24    legacyPackages.x86_64-linux.vimPlugins.org-roam-nvim 
+ vimplugin-org-roam.nvim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.org-roam-nvim 
  vimplugin-other.nvim  2025-05-09    legacyPackages.x86_64-linux.vimPlugins.other-nvim 
- vimplugin-otter.nvim  2025-09-02    legacyPackages.x86_64-linux.vimPlugins.otter-nvim 
+ vimplugin-otter.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.otter-nvim 
  vimplugin-outline.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.outline-nvim 
  vimplugin-overseer.nvim  2025-07-01    legacyPackages.x86_64-linux.vimPlugins.overseer-nvim 
  vimplugin-oxocarbon.nvim  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.oxocarbon-nvim 
@@ -98093,7 +98093,7 @@
  vimplugin-palenightfall.nvim  2023-10-05    legacyPackages.x86_64-linux.vimPlugins.palenightfall-nvim 
  vimplugin-palette.nvim  2023-10-02    legacyPackages.x86_64-linux.vimPlugins.palette-nvim 
  vimplugin-papercolor-theme  2024-03-12    legacyPackages.x86_64-linux.vimPlugins.papercolor-theme 
- vimplugin-papercolor-theme-slim  2025-08-27    legacyPackages.x86_64-linux.vimPlugins.papercolor-theme-slim 
+ vimplugin-papercolor-theme-slim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.papercolor-theme-slim 
  vimplugin-parpar.nvim  2023-09-12    legacyPackages.x86_64-linux.vimPlugins.parpar-nvim 
  vimplugin-parrot.nvim  2025-08-21    legacyPackages.x86_64-linux.vimPlugins.parrot-nvim 
  vimplugin-patterns.nvim  2025-05-12    legacyPackages.x86_64-linux.vimPlugins.patterns-nvim 
@@ -98125,7 +98125,7 @@
  vimplugin-preto  2023-02-10    legacyPackages.x86_64-linux.vimPlugins.preto 
  vimplugin-pretty-fold.nvim  2022-07-20    legacyPackages.x86_64-linux.vimPlugins.pretty-fold-nvim 
  vimplugin-prev_indent  2014-03-08    legacyPackages.x86_64-linux.vimPlugins.prev_indent 
- vimplugin-project.nvim  2025-09-06    legacyPackages.x86_64-linux.vimPlugins.project-nvim 
+ vimplugin-project.nvim  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.project-nvim 
  vimplugin-projections.nvim  2023-06-29    legacyPackages.x86_64-linux.vimPlugins.projections-nvim 
  vimplugin-promise-async  2024-08-04    legacyPackages.x86_64-linux.vimPlugins.promise-async 
  vimplugin-psc-ide-vim  2021-05-31    legacyPackages.x86_64-linux.vimPlugins.psc-ide-vim 
@@ -98160,7 +98160,7 @@
  vimplugin-remote-nvim.nvim  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.remote-nvim-nvim 
  vimplugin-remote-sshfs.nvim  2025-08-20    legacyPackages.x86_64-linux.vimPlugins.remote-sshfs-nvim 
  vimplugin-renamer.nvim  2022-08-29    legacyPackages.x86_64-linux.vimPlugins.renamer-nvim 
- vimplugin-render-markdown.nvim  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.render-markdown-nvim 
+ vimplugin-render-markdown.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.render-markdown-nvim 
  vimplugin-replacer.nvim  2023-07-29    legacyPackages.x86_64-linux.vimPlugins.replacer-nvim 
  vimplugin-repolink.nvim  2023-12-08    legacyPackages.x86_64-linux.vimPlugins.repolink-nvim 
  vimplugin-resession.nvim  2025-06-01    legacyPackages.x86_64-linux.vimPlugins.resession-nvim 
@@ -98171,7 +98171,7 @@
  vimplugin-robotframework-vim  2017-04-14    legacyPackages.x86_64-linux.vimPlugins.robotframework-vim 
  vimplugin-ron.vim  2022-08-19    legacyPackages.x86_64-linux.vimPlugins.ron-vim 
  vimplugin-rose-pine  2025-08-24    legacyPackages.x86_64-linux.vimPlugins.rose-pine 
- vimplugin-roslyn.nvim  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.roslyn-nvim 
+ vimplugin-roslyn.nvim  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.roslyn-nvim 
  vimplugin-rspec.vim  2020-08-20    legacyPackages.x86_64-linux.vimPlugins.rspec-vim 
  vimplugin-rtorrent-syntax-file  2016-03-19    legacyPackages.x86_64-linux.vimPlugins.rtorrent-syntax-file 
  vimplugin-rust-tools.nvim  2024-01-03    legacyPackages.x86_64-linux.vimPlugins.rust-tools-nvim 
@@ -98180,11 +98180,11 @@
  vimplugin-sad.vim  2019-02-18    legacyPackages.x86_64-linux.vimPlugins.sad-vim 
  vimplugin-salt-vim  2017-07-01    legacyPackages.x86_64-linux.vimPlugins.salt-vim 
  vimplugin-samodostal-image-nvim  2024-01-07    legacyPackages.x86_64-linux.vimPlugins.samodostal-image-nvim 
- vimplugin-satellite.nvim  2025-07-25    legacyPackages.x86_64-linux.vimPlugins.satellite-nvim 
+ vimplugin-satellite.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.satellite-nvim 
  vimplugin-schema-companion.nvim  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.schema-companion-nvim 
  vimplugin-scnvim  2025-07-01    legacyPackages.x86_64-linux.vimPlugins.scnvim 
  vimplugin-scope.nvim  2025-05-08    legacyPackages.x86_64-linux.vimPlugins.scope-nvim 
- vimplugin-scretch.nvim  2025-08-21    legacyPackages.x86_64-linux.vimPlugins.scretch-nvim 
+ vimplugin-scretch.nvim  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.scretch-nvim 
  vimplugin-scrollbar.nvim  2025-03-23    legacyPackages.x86_64-linux.vimPlugins.scrollbar-nvim 
  vimplugin-scss-syntax.vim  2024-10-10    legacyPackages.x86_64-linux.vimPlugins.scss-syntax-vim 
  vimplugin-search-and-replace.nvim  2025-07-04    legacyPackages.x86_64-linux.vimPlugins.search-and-replace-nvim 
@@ -98202,12 +98202,12 @@
  vimplugin-sky-color-clock.vim  2018-11-03    legacyPackages.x86_64-linux.vimPlugins.sky-color-clock-vim 
  vimplugin-slimv  2025-04-29    legacyPackages.x86_64-linux.vimPlugins.slimv 
  vimplugin-smart-open.nvim  2025-02-18    legacyPackages.x86_64-linux.vimPlugins.smart-open-nvim 
- vimplugin-smart-splits.nvim  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.smart-splits-nvim 
+ vimplugin-smart-splits.nvim  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.smart-splits-nvim 
  vimplugin-smartcolumn.nvim  2025-07-21    legacyPackages.x86_64-linux.vimPlugins.smartcolumn-nvim 
  vimplugin-smartpairs.vim  2018-01-01    legacyPackages.x86_64-linux.vimPlugins.smartpairs-vim 
  vimplugin-smartyank.nvim  2025-04-27    legacyPackages.x86_64-linux.vimPlugins.smartyank-nvim 
  vimplugin-smear-cursor.nvim  2025-08-20    legacyPackages.x86_64-linux.vimPlugins.smear-cursor-nvim 
- vimplugin-snacks.nvim  2025-03-01    legacyPackages.x86_64-linux.vimPlugins.snacks-nvim 
+ vimplugin-snacks.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.snacks-nvim 
  vimplugin-snap  2025-03-06    legacyPackages.x86_64-linux.vimPlugins.snap 
  vimplugin-snipe.nvim  2025-08-16    legacyPackages.x86_64-linux.vimPlugins.snipe-nvim 
  vimplugin-snippets.nvim  2020-09-09    legacyPackages.x86_64-linux.vimPlugins.snippets-nvim 
@@ -98215,7 +98215,7 @@
  vimplugin-solarized-osaka.nvim  2025-04-19    legacyPackages.x86_64-linux.vimPlugins.solarized-osaka-nvim 
  vimplugin-solarized.nvim  2023-02-09    legacyPackages.x86_64-linux.vimPlugins.solarized-nvim 
  vimplugin-sonarlint.nvim  0-unstable-2025-08-02  Extensions for the built-in Language Server Protocol support in Neovim for sonarlint-language-server  legacyPackages.x86_64-linux.vimPlugins.sonarlint-nvim 
- vimplugin-sonokai  2025-08-18    legacyPackages.x86_64-linux.vimPlugins.sonokai 
+ vimplugin-sonokai  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.sonokai 
  vimplugin-sort.nvim  2025-08-25    legacyPackages.x86_64-linux.vimPlugins.sort-nvim 
  vimplugin-sourcemap.vim  2012-09-19    legacyPackages.x86_64-linux.vimPlugins.sourcemap 
  vimplugin-sourcemap.vim  2012-09-19    legacyPackages.x86_64-linux.vimPlugins.sourcemap-vim 
@@ -98332,8 +98332,8 @@
  vimplugin-timerly  2025-08-16    legacyPackages.x86_64-linux.vimPlugins.timerly 
  vimplugin-timestamp.vim  2010-11-06    legacyPackages.x86_64-linux.vimPlugins.timestamp-vim 
  vimplugin-tint.nvim  2024-11-07    legacyPackages.x86_64-linux.vimPlugins.tint-nvim 
- vimplugin-tinted-nvim  2025-08-16    legacyPackages.x86_64-linux.vimPlugins.tinted-nvim 
- vimplugin-tinted-vim  2025-08-09    legacyPackages.x86_64-linux.vimPlugins.tinted-vim 
+ vimplugin-tinted-nvim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.tinted-nvim 
+ vimplugin-tinted-vim  2025-09-13    legacyPackages.x86_64-linux.vimPlugins.tinted-vim 
  vimplugin-tiny-devicons-auto-colors.nvim  2025-01-03    legacyPackages.x86_64-linux.vimPlugins.tiny-devicons-auto-colors-nvim 
  vimplugin-tiny-glimmer.nvim  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.tiny-glimmer-nvim 
  vimplugin-tiny-inline-diagnostic.nvim  2025-08-19    legacyPackages.x86_64-linux.vimPlugins.tiny-inline-diagnostic-nvim 
@@ -98580,6 +98580,7 @@
  vimplugin-treesitter-grammar-rego      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rego 
  vimplugin-treesitter-grammar-requirements      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.requirements 
  vimplugin-treesitter-grammar-rescript      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rescript 
+ vimplugin-treesitter-grammar-rifleconf      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rifleconf 
  vimplugin-treesitter-grammar-rnoweb      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rnoweb 
  vimplugin-treesitter-grammar-robot      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.robot 
  vimplugin-treesitter-grammar-robots      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.robots 
@@ -98673,12 +98674,12 @@
  vimplugin-treesitter-grammar-zig      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.zig 
  vimplugin-treesitter-grammar-ziggy      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ziggy 
  vimplugin-treesitter-grammar-ziggy_schema      legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ziggy_schema 
- vimplugin-treesj  2025-08-31    legacyPackages.x86_64-linux.vimPlugins.treesj 
+ vimplugin-treesj  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.treesj 
  vimplugin-treewalker.nvim  2025-08-28    legacyPackages.x86_64-linux.vimPlugins.treewalker-nvim 
  vimplugin-tremor-vim  2021-09-07    legacyPackages.x86_64-linux.vimPlugins.tremor-vim 
  vimplugin-trim.nvim  2024-12-26    legacyPackages.x86_64-linux.vimPlugins.trim-nvim 
  vimplugin-triptych.nvim  2025-08-22    legacyPackages.x86_64-linux.vimPlugins.triptych-nvim 
- vimplugin-trouble.nvim  2025-02-12    legacyPackages.x86_64-linux.vimPlugins.trouble-nvim 
+ vimplugin-trouble.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.trouble-nvim 
  vimplugin-true-zen.nvim  2023-06-09    legacyPackages.x86_64-linux.vimPlugins.true-zen-nvim 
  vimplugin-trust.vim  2022-04-14    legacyPackages.x86_64-linux.vimPlugins.trust-vim 
  vimplugin-ts-autotag.nvim  2025-08-02    legacyPackages.x86_64-linux.vimPlugins.ts-autotag-nvim 
@@ -98705,7 +98706,7 @@
  vimplugin-unified.nvim  2025-06-23    legacyPackages.x86_64-linux.vimPlugins.unified-nvim 
  vimplugin-unimpaired-which-key.nvim  2024-08-16    legacyPackages.x86_64-linux.vimPlugins.unimpaired-which-key-nvim 
  vimplugin-unimpaired.nvim  2025-03-29    legacyPackages.x86_64-linux.vimPlugins.unimpaired-nvim 
- vimplugin-unison  2025-09-07    legacyPackages.x86_64-linux.vimPlugins.unison 
+ vimplugin-unison  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.unison 
  vimplugin-unite.vim  2023-05-18    legacyPackages.x86_64-linux.vimPlugins.unite 
  vimplugin-unite.vim  2023-05-18    legacyPackages.x86_64-linux.vimPlugins.unite-vim 
  vimplugin-url-open  2024-02-03    legacyPackages.x86_64-linux.vimPlugins.url-open 
@@ -98765,7 +98766,7 @@
  vimplugin-vim-astro  2023-10-21    legacyPackages.x86_64-linux.vimPlugins.vim-astro 
  vimplugin-vim-asymptote  2014-06-26    legacyPackages.x86_64-linux.vimPlugins.vim-asymptote 
  vimplugin-vim-auto-save  2022-08-08    legacyPackages.x86_64-linux.vimPlugins.vim-auto-save 
- vimplugin-vim-autoformat  2025-01-10    legacyPackages.x86_64-linux.vimPlugins.vim-autoformat 
+ vimplugin-vim-autoformat  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.vim-autoformat 
  vimplugin-vim-automkdir  2016-01-17    legacyPackages.x86_64-linux.vimPlugins.vim-automkdir 
  vimplugin-vim-autosource  2021-12-22    legacyPackages.x86_64-linux.vimPlugins.vim-autosource 
  vimplugin-vim-autoswap  2019-01-09    legacyPackages.x86_64-linux.vimPlugins.vim-autoswap 
@@ -98873,7 +98874,7 @@
  vimplugin-vim-flatbuffers  2018-10-11    legacyPackages.x86_64-linux.vimPlugins.vim-flatbuffers 
  vimplugin-vim-floaterm  2025-06-25    legacyPackages.x86_64-linux.vimPlugins.vim-floaterm 
  vimplugin-vim-flog  2025-03-19    legacyPackages.x86_64-linux.vimPlugins.vim-flog 
- vimplugin-vim-flutter  2023-06-07    legacyPackages.x86_64-linux.vimPlugins.vim-flutter 
+ vimplugin-vim-flutter  2025-09-12    legacyPackages.x86_64-linux.vimPlugins.vim-flutter 
  vimplugin-vim-fold-cycle  2020-05-11    legacyPackages.x86_64-linux.vimPlugins.vim-fold-cycle 
  vimplugin-vim-foldsearch  2024-05-15    legacyPackages.x86_64-linux.vimPlugins.vim-foldsearch 
  vimplugin-vim-ft-diff_fold  2013-02-10    legacyPackages.x86_64-linux.vimPlugins.vim-ft-diff_fold 
@@ -98903,7 +98904,7 @@
  vimplugin-vim-gruvbox8  2025-06-04    legacyPackages.x86_64-linux.vimPlugins.vim-gruvbox8 
  vimplugin-vim-gui-position  2019-06-06    legacyPackages.x86_64-linux.vimPlugins.vim-gui-position 
  vimplugin-vim-gutentags  2023-04-14    legacyPackages.x86_64-linux.vimPlugins.vim-gutentags 
- vimplugin-vim-habamax  2025-08-31    legacyPackages.x86_64-linux.vimPlugins.vim-habamax 
+ vimplugin-vim-habamax  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.vim-habamax 
  vimplugin-vim-hardtime  2022-05-06    legacyPackages.x86_64-linux.vimPlugins.vim-hardtime 
  vimplugin-vim-haskell-module-name  2020-01-20    legacyPackages.x86_64-linux.vimPlugins.vim-haskell-module-name 
  vimplugin-vim-haskellConcealPlus  2020-01-21    legacyPackages.x86_64-linux.vimPlugins.haskellConcealPlus 
@@ -99001,8 +99002,8 @@
  vimplugin-vim-molokai-delroth  2023-05-30    legacyPackages.x86_64-linux.vimPlugins.vim-molokai-delroth 
  vimplugin-vim-monokai  2025-01-26    legacyPackages.x86_64-linux.vimPlugins.vim-monokai 
  vimplugin-vim-monokai-pro  2022-06-25    legacyPackages.x86_64-linux.vimPlugins.vim-monokai-pro 
- vimplugin-vim-monokai-tasty  2025-04-22    legacyPackages.x86_64-linux.vimPlugins.vim-monokai-tasty 
- vimplugin-vim-moonfly-colors  2025-08-03    legacyPackages.x86_64-linux.vimPlugins.vim-moonfly-colors 
+ vimplugin-vim-monokai-tasty  2025-09-09    legacyPackages.x86_64-linux.vimPlugins.vim-monokai-tasty 
+ vimplugin-vim-moonfly-colors  2025-09-16    legacyPackages.x86_64-linux.vimPlugins.vim-moonfly-colors 
  vimplugin-vim-move  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.vim-move 
  vimplugin-vim-mucomplete  2025-04-05    legacyPackages.x86_64-linux.vimPlugins.vim-mucomplete 
  vimplugin-vim-multiple-cursors  2020-07-30    legacyPackages.x86_64-linux.vimPlugins.multiple-cursors 
@@ -99122,7 +99123,7 @@
  vimplugin-vim-solidity  2018-04-17    legacyPackages.x86_64-linux.vimPlugins.vim-solidity 
  vimplugin-vim-sort-motion  2021-03-07    legacyPackages.x86_64-linux.vimPlugins.vim-sort-motion 
  vimplugin-vim-speeddating  2024-08-14    legacyPackages.x86_64-linux.vimPlugins.vim-speeddating 
- vimplugin-vim-spirv  2025-09-03    legacyPackages.x86_64-linux.vimPlugins.vim-spirv 
+ vimplugin-vim-spirv  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.vim-spirv 
  vimplugin-vim-splunk  2025-08-25    legacyPackages.x86_64-linux.vimPlugins.vim-splunk 
  vimplugin-vim-startify  2023-09-20    legacyPackages.x86_64-linux.vimPlugins.vim-startify 
  vimplugin-vim-startuptime  2025-02-18    legacyPackages.x86_64-linux.vimPlugins.vim-startuptime 
@@ -99148,7 +99149,7 @@
  vimplugin-vim-terminator  2022-04-15    legacyPackages.x86_64-linux.vimPlugins.vim-terminator 
  vimplugin-vim-terraform  2025-05-24    legacyPackages.x86_64-linux.vimPlugins.vim-terraform 
  vimplugin-vim-terraform-completion  2021-04-11    legacyPackages.x86_64-linux.vimPlugins.vim-terraform-completion 
- vimplugin-vim-test  2025-09-08    legacyPackages.x86_64-linux.vimPlugins.vim-test 
+ vimplugin-vim-test  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.vim-test 
  vimplugin-vim-textobj-comment  2014-04-11    legacyPackages.x86_64-linux.vimPlugins.vim-textobj-comment 
  vimplugin-vim-textobj-entire  2018-01-19    legacyPackages.x86_64-linux.vimPlugins.vim-textobj-entire 
  vimplugin-vim-textobj-function  2014-05-03    legacyPackages.x86_64-linux.vimPlugins.vim-textobj-function 
@@ -99184,7 +99185,7 @@
  vimplugin-vim-visualstar  2015-08-27    legacyPackages.x86_64-linux.vimPlugins.vim-visualstar 
  vimplugin-vim-vp4  2024-10-11    legacyPackages.x86_64-linux.vimPlugins.vim-vp4 
  vimplugin-vim-vsnip  2025-04-08    legacyPackages.x86_64-linux.vimPlugins.vim-vsnip 
- vimplugin-vim-vsnip-integ  2024-10-18    legacyPackages.x86_64-linux.vimPlugins.vim-vsnip-integ 
+ vimplugin-vim-vsnip-integ  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.vim-vsnip-integ 
  vimplugin-vim-vue  2024-03-30    legacyPackages.x86_64-linux.vimPlugins.vim-vue 
  vimplugin-vim-vue-plugin  2023-10-05    legacyPackages.x86_64-linux.vimPlugins.vim-vue-plugin 
  vimplugin-vim-wakatime  2025-08-31    legacyPackages.x86_64-linux.vimPlugins.vim-wakatime 
@@ -99219,8 +99220,8 @@
  vimplugin-vimsence  2021-05-01  Discord rich presence for Vim  legacyPackages.x86_64-linux.vimPlugins.vimsence 
  vimplugin-vimshell.vim  2025-07-09    legacyPackages.x86_64-linux.vimPlugins.vimshell 
  vimplugin-vimshell.vim  2025-07-09    legacyPackages.x86_64-linux.vimPlugins.vimshell-vim 
- vimplugin-vimspector  2025-08-26    legacyPackages.x86_64-linux.vimPlugins.vimspector 
- vimplugin-vimtex  2025-08-23    legacyPackages.x86_64-linux.vimPlugins.vimtex 
+ vimplugin-vimspector  2025-09-10    legacyPackages.x86_64-linux.vimPlugins.vimspector 
+ vimplugin-vimtex  2025-09-14    legacyPackages.x86_64-linux.vimPlugins.vimtex 
  vimplugin-vimux  2025-07-23    legacyPackages.x86_64-linux.vimPlugins.vimux 
  vimplugin-vimwiki  2024-10-14    legacyPackages.x86_64-linux.vimPlugins.vimwiki 
  vimplugin-virt-column.nvim  2024-11-12    legacyPackages.x86_64-linux.vimPlugins.virt-column-nvim 
@@ -99240,7 +99241,7 @@
  vimplugin-whichpy.nvim  2025-05-13    legacyPackages.x86_64-linux.vimPlugins.whichpy-nvim 
  vimplugin-whitespace.nvim  2025-03-14    legacyPackages.x86_64-linux.vimPlugins.whitespace-nvim 
  vimplugin-wiki-ft.vim  2024-05-08    legacyPackages.x86_64-linux.vimPlugins.wiki-ft-vim 
- vimplugin-wiki.vim  2025-08-20    legacyPackages.x86_64-linux.vimPlugins.wiki-vim 
+ vimplugin-wiki.vim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.wiki-vim 
  vimplugin-wilder.nvim  2022-08-13    legacyPackages.x86_64-linux.vimPlugins.wilder-nvim 
  vimplugin-wildfire.vim  2023-07-22    legacyPackages.x86_64-linux.vimPlugins.wildfire-vim 
  vimplugin-winbar.nvim  2022-07-18    legacyPackages.x86_64-linux.vimPlugins.winbar-nvim 
@@ -99264,7 +99265,7 @@
  vimplugin-yaml-schema-detect.nvim  2025-07-09    legacyPackages.x86_64-linux.vimPlugins.yaml-schema-detect-nvim 
  vimplugin-yanky.nvim  2025-04-14    legacyPackages.x86_64-linux.vimPlugins.yanky-nvim 
  vimplugin-yats.vim  2025-08-17    legacyPackages.x86_64-linux.vimPlugins.yats-vim 
- vimplugin-yazi.nvim  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.yazi-nvim 
+ vimplugin-yazi.nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.yazi-nvim 
  vimplugin-yescapsquit.vim  2022-08-31    legacyPackages.x86_64-linux.vimPlugins.yescapsquit-vim 
  vimplugin-yuck.vim  2022-10-29    legacyPackages.x86_64-linux.vimPlugins.yuck-vim 
  vimplugin-zarchive-vim-fsharp  2018-11-13    legacyPackages.x86_64-linux.vimPlugins.zarchive-vim-fsharp 
@@ -99276,8 +99277,8 @@
  vimplugin-zenbones.nvim  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.zenbones-nvim 
  vimplugin-zenburn  2022-08-13    legacyPackages.x86_64-linux.vimPlugins.zenburn 
  vimplugin-zephyr-nvim  2022-12-31    legacyPackages.x86_64-linux.vimPlugins.zephyr-nvim 
- vimplugin-zig.vim  2025-09-04    legacyPackages.x86_64-linux.vimPlugins.zig-vim 
- vimplugin-zk-nvim  2025-09-05    legacyPackages.x86_64-linux.vimPlugins.zk-nvim 
+ vimplugin-zig.vim  2025-09-11    legacyPackages.x86_64-linux.vimPlugins.zig-vim 
+ vimplugin-zk-nvim  2025-09-15    legacyPackages.x86_64-linux.vimPlugins.zk-nvim 
  vimplugin-zoomwintab.vim  2023-12-05    legacyPackages.x86_64-linux.vimPlugins.zoomwintab-vim 
  vimplugin-zotcite  2025-08-05    legacyPackages.x86_64-linux.vimPlugins.zotcite 
  vimplugin-zoxide.vim  2025-08-25    legacyPackages.x86_64-linux.vimPlugins.zoxide-vim 
@@ -100383,7 +100384,7 @@
  watcher  0.13.8  Filesystem watcher. Works anywhere. Simple, efficient and friendly  legacyPackages.x86_64-linux.watcher 
  watchexec  2.3.2  Executes commands in response to file modifications  legacyPackages.x86_64-linux.watchexec 
  watchit  0.1.0.0  File change watching utility  legacyPackages.x86_64-linux.haskellPackages.watchit 
- watchlog  1.248.0  Easier monitoring of live logs  legacyPackages.x86_64-linux.watchlog 
+ watchlog  1.250.0  Easier monitoring of live logs  legacyPackages.x86_64-linux.watchlog 
  watchman  2025.04.21.00  Watches files and takes action when they change  legacyPackages.x86_64-linux.watchman 
  watchmate  0.5.3  PineTime smart watch companion app for Linux phone and desktop  legacyPackages.x86_64-linux.watchmate 
  watchyourlan  2.1.3  Lightweight network IP scanner with web GUI  legacyPackages.x86_64-linux.watchyourlan 
@@ -100481,7 +100482,7 @@
  wdt  1.27.1612021-unstable-2025-08-20  Warp speed Data Transfer  legacyPackages.x86_64-linux.wdt 
  weak  0  Weak pointer extas  legacyPackages.x86_64-linux.haskellPackages.weak 
  weak-bag  0.1.0.0  Mutable bag backed by weak pointers to each item  legacyPackages.x86_64-linux.haskellPackages.weak-bag 
- wealthfolio  1.2.1  Beautiful Private and Secure Desktop Investment Tracking Application  legacyPackages.x86_64-linux.wealthfolio 
+ wealthfolio  1.2.2  Beautiful Private and Secure Desktop Investment Tracking Application  legacyPackages.x86_64-linux.wealthfolio 
  weasis  4.6.3  Multipurpose standalone and web-based DICOM viewer with a highly modular architecture  legacyPackages.x86_64-linux.weasis 
  weather  2.5.0  Quick access to current weather conditions and forecasts  legacyPackages.x86_64-linux.weather 
  weather-api  0.4.3.3  Weather API implemented in Haskell  legacyPackages.x86_64-linux.haskellPackages.weather-api 
@@ -100905,7 +100906,7 @@
  wingpanel-indicator-notifications  7.1.1  Notifications Indicator for Wingpanel  legacyPackages.x86_64-linux.pantheon.wingpanel-indicator-notifications 
  wingpanel-indicator-power  8.0.2  Power Indicator for Wingpanel  legacyPackages.x86_64-linux.pantheon.wingpanel-indicator-power 
  wingpanel-indicator-sound  8.0.1  Sound Indicator for Wingpanel  legacyPackages.x86_64-linux.pantheon.wingpanel-indicator-sound 
- wingpanel-quick-settings  1.2.0  Quick settings menu for Wingpanel  legacyPackages.x86_64-linux.pantheon.wingpanel-quick-settings 
+ wingpanel-quick-settings  1.3.0  Quick settings menu for Wingpanel  legacyPackages.x86_64-linux.pantheon.wingpanel-quick-settings 
  wingpanel-with-indicators  8.0.3  Extensible top panel for Pantheon  legacyPackages.x86_64-linux.pantheon.wingpanel-with-indicators 
  wings  2.4.1  Subdivision modeler inspired by Nendo and Mirai from Izware  legacyPackages.x86_64-linux.wings 
  winio  0.1  I/O library for Windows  legacyPackages.x86_64-linux.haskellPackages.winio 
@@ -101698,7 +101699,7 @@
  xdg-desktop-portal-luminous  0.1.11  xdg-desktop-portal backend for wlroots based compositors, providing screenshot and screencast  legacyPackages.x86_64-linux.xdg-desktop-portal-luminous 
  xdg-desktop-portal-lxqt  1.2.0  Backend implementation for xdg-desktop-portal that is using Qt/KF5/libfm-qt  legacyPackages.x86_64-linux.lxqt.xdg-desktop-portal-lxqt 
  xdg-desktop-portal-pantheon  8.0.4  Backend implementation for xdg-desktop-portal for the Pantheon desktop environment  legacyPackages.x86_64-linux.pantheon.xdg-desktop-portal-pantheon 
- xdg-desktop-portal-shana  0.3.15  Filechooser portal backend for any desktop environment  legacyPackages.x86_64-linux.xdg-desktop-portal-shana 
+ xdg-desktop-portal-shana  0.3.16  Filechooser portal backend for any desktop environment  legacyPackages.x86_64-linux.xdg-desktop-portal-shana 
  xdg-desktop-portal-termfilechooser  1.2.1  xdg-desktop-portal backend for choosing files with your favorite file chooser  legacyPackages.x86_64-linux.xdg-desktop-portal-termfilechooser 
  xdg-desktop-portal-wlr  0.7.1  xdg-desktop-portal backend for wlroots  legacyPackages.x86_64-linux.xdg-desktop-portal-wlr 
  xdg-desktop-portal-xapp  1.1.2  Backend implementation for xdg-desktop-portal for Cinnamon, MATE, Xfce  legacyPackages.x86_64-linux.xdg-desktop-portal-xapp 
@@ -102382,7 +102383,7 @@
  xtf  0-unstable-2025-07-26  Xen Test Framework and Suite for creating microkernel-based tests  legacyPackages.x86_64-linux.xtf 
  xtitle  0.4.4  Outputs X window titles  legacyPackages.x86_64-linux.xtitle 
  xtl  0.8.0  Basic tools (containers, algorithms) used by other quantstack packages  legacyPackages.x86_64-linux.xtl 
- xtra-dispatchers  0.50.0  Hyprland extra dispatchers plugin  legacyPackages.x86_64-linux.hyprlandPlugins.xtra-dispatchers 
+ xtra-dispatchers  0.51.0  Hyprland extra dispatchers plugin  legacyPackages.x86_64-linux.hyprlandPlugins.xtra-dispatchers 
  xtrace  1.4.0  Tool to trace X11 protocol connections  legacyPackages.x86_64-linux.xtrace 
  xtrans  1.6.0  X Window System Protocols Transport layer shared code  legacyPackages.x86_64-linux.xorg.xtrans 
  xtrans  1.6.0  X Window System Protocols Transport layer shared code  legacyPackages.x86_64-linux.xtrans 
@@ -102510,9 +102511,6 @@
  yaml  0.11.11.2  Support for parsing and rendering YAML documents  legacyPackages.x86_64-linux.haskellPackages.yaml 
  yaml-combinators  1.1.2.1  YAML parsing combinators for improved validation and error reporting  legacyPackages.x86_64-linux.haskellPackages.yaml-combinators 
  yaml-config  0.4.0  Configuration management  legacyPackages.x86_64-linux.haskellPackages.yaml-config 
- yaml-cpp  0.3.0  YAML parser and emitter for C++  legacyPackages.x86_64-linux.libyamlcpp_0_3 
- yaml-cpp  0.3.0  YAML parser and emitter for C++  legacyPackages.x86_64-linux.yaml-cpp_0_3 
- yaml-cpp  0.8.0  YAML parser and emitter for C++  legacyPackages.x86_64-linux.libyamlcpp 
  yaml-cpp  0.8.0  YAML parser and emitter for C++  legacyPackages.x86_64-linux.yaml-cpp 
  yaml-filter  0.2.0  YAML document filtering for libyaml  legacyPackages.x86_64-linux.yaml-filter 
  yaml-language-server  1.18.0  Language Server for YAML Files  legacyPackages.x86_64-linux.nodePackages.yaml-language-server 
