@@ -4712,7 +4712,7 @@
   "legacyPackages.x86_64-linux.android-translation-layer": {
     "description": "Translation layer that allows running Android apps on a Linux system",
     "pname": "android-translation-layer",
-    "version": "0-unstable-2025-08-06"
+    "version": "0-unstable-2025-09-14"
   },
   "legacyPackages.x86_64-linux.android-udev-rules": {
     "description": "Android udev rules list aimed to be the most comprehensive on the net",
@@ -9777,7 +9777,7 @@
   "legacyPackages.x86_64-linux.art-standalone": {
     "description": "Art and dependencies with modifications to make it work on Linux",
     "pname": "art-standalone",
-    "version": "0-unstable-2025-07-09"
+    "version": "0-unstable-2025-09-03"
   },
   "legacyPackages.x86_64-linux.artalk": {
     "description": "Self-hosted comment system",
@@ -13822,7 +13822,7 @@
   "legacyPackages.x86_64-linux.bcache-tools": {
     "description": "User-space tools required for bcache (Linux block layer cache)",
     "pname": "bcache-tools",
-    "version": "1.0.8"
+    "version": "1.1"
   },
   "legacyPackages.x86_64-linux.bcachefs-tools": {
     "description": "Tool for managing bcachefs filesystems",
@@ -28797,7 +28797,7 @@
   "legacyPackages.x86_64-linux.crc": {
     "description": "Manage a local OpenShift 4.x cluster, Microshift or a Podman VM optimized for testing and development purposes",
     "pname": "crc",
-    "version": "2.53.0"
+    "version": "2.54.0"
   },
   "legacyPackages.x86_64-linux.crc32c": {
     "description": "CRC32C implementation with support for CPU-specific acceleration instructions",
@@ -31482,7 +31482,7 @@
   "legacyPackages.x86_64-linux.datafusion-cli": {
     "description": "CLI for Apache Arrow DataFusion",
     "pname": "datafusion-cli",
-    "version": "49.0.2"
+    "version": "50.0.0"
   },
   "legacyPackages.x86_64-linux.datalad": {
     "description": "Keep code, data, containers under control with git and git-annex",
@@ -43847,7 +43847,7 @@
   "legacyPackages.x86_64-linux.fosrl-newt": {
     "description": "Tunneling client for Pangolin",
     "pname": "newt",
-    "version": "1.4.4"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.fosrl-olm": {
     "description": "Tunneling client for Pangolin",
@@ -43857,7 +43857,7 @@
   "legacyPackages.x86_64-linux.fosrl-pangolin": {
     "description": "Tunneled reverse proxy server with identity and access control",
     "pname": "pangolin",
-    "version": "1.9.4"
+    "version": "1.10.1"
   },
   "legacyPackages.x86_64-linux.fossil": {
     "description": "Simple, high-reliability, distributed software configuration management",
@@ -154322,7 +154322,7 @@
   "legacyPackages.x86_64-linux.hmcl": {
     "description": "Minecraft Launcher which is multi-functional, cross-platform and popular",
     "pname": "hmcl",
-    "version": "3.6.16"
+    "version": "3.6.17"
   },
   "legacyPackages.x86_64-linux.hmm": {
     "description": "Small command-line note-taking app",
@@ -165227,7 +165227,7 @@
   "legacyPackages.x86_64-linux.ipxe": {
     "description": "Network boot firmware",
     "pname": "ipxe",
-    "version": "1.21.1-unstable-2025-08-29"
+    "version": "1.21.1-unstable-2025-09-18"
   },
   "legacyPackages.x86_64-linux.iqtree": {
     "description": "Efficient and versatile phylogenomic software by maximum likelihood",
@@ -165662,7 +165662,7 @@
   "legacyPackages.x86_64-linux.iw4x-launcher": {
     "description": "Official launcher for the IW4x mod",
     "pname": "iw4x-launcher",
-    "version": "1.0.2-2"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.iwd": {
     "description": "Wireless daemon for Linux",
@@ -172002,7 +172002,7 @@
   "legacyPackages.x86_64-linux.klog-rs": {
     "description": "Tool to tail logs of multiple Kubernetes pods simultaneously",
     "pname": "klog-rs",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.klog-time-tracker": {
     "description": "Command line tool for time tracking in a human-readable, plain-text file format",
@@ -174452,7 +174452,7 @@
   "legacyPackages.x86_64-linux.lazyssh": {
     "description": "Terminal-based SSH manager",
     "pname": "lazyssh",
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.lbd": {
     "description": "Detect if a domain uses DNS and/or HTTP Load-Balancing",
@@ -179212,7 +179212,7 @@
   "legacyPackages.x86_64-linux.libretro.beetle-pce-fast": {
     "description": "Port of Mednafen's PC Engine fast core to libretro",
     "pname": "libretro-mednafen-pce-fast",
-    "version": "0-unstable-2025-08-01"
+    "version": "0-unstable-2025-09-19"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-pcfx": {
     "description": "Port of Mednafen's PCFX core to libretro",
@@ -213572,7 +213572,7 @@
   "legacyPackages.x86_64-linux.marge-bot": {
     "description": "Merge bot for GitLab",
     "pname": "marge-bot",
-    "version": "0.17.0"
+    "version": "0.18.0"
   },
   "legacyPackages.x86_64-linux.mari0": {
     "description": "Crossover between Super Mario Bros. and Portal",
@@ -220817,7 +220817,7 @@
   "legacyPackages.x86_64-linux.namespace-cli": {
     "description": "Command line interface for the Namespaces platform",
     "pname": "namespace-cli",
-    "version": "0.0.438"
+    "version": "0.0.439"
   },
   "legacyPackages.x86_64-linux.namespaced-openvpn": {
     "description": "Network namespace isolation for OpenVPN tunnels",
@@ -222647,7 +222647,7 @@
   "legacyPackages.x86_64-linux.newt-go": {
     "description": "Tunneling client for Pangolin",
     "pname": "newt",
-    "version": "1.4.4"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.newtonwars": {
     "description": "Space battle game with gravity as the main theme",
@@ -229692,7 +229692,7 @@
   "legacyPackages.x86_64-linux.obs-do": {
     "description": "CLI for common OBS operations while streaming using WebSocket",
     "pname": "obs-do",
-    "version": "0.1.10"
+    "version": "0.1.11"
   },
   "legacyPackages.x86_64-linux.obs-studio": {
     "description": "Free and open source software for video recording and live streaming",
@@ -237337,17 +237337,17 @@
   "legacyPackages.x86_64-linux.ollama": {
     "description": "Get up and running with large language models locally",
     "pname": "ollama",
-    "version": "0.11.10"
+    "version": "0.12.0"
   },
   "legacyPackages.x86_64-linux.ollama-cuda": {
     "description": "Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration",
     "pname": "ollama",
-    "version": "0.11.10"
+    "version": "0.12.0"
   },
   "legacyPackages.x86_64-linux.ollama-rocm": {
     "description": "Get up and running with large language models locally, using ROCm for AMD GPU acceleration",
     "pname": "ollama",
-    "version": "0.11.10"
+    "version": "0.12.0"
   },
   "legacyPackages.x86_64-linux.olm": {
     "description": "Implements double cryptographic ratchet and Megolm ratchet",
@@ -242007,7 +242007,7 @@
   "legacyPackages.x86_64-linux.parca": {
     "description": "Continuous profiling for analysis of CPU and memory usage",
     "pname": "parca",
-    "version": "0.24.0"
+    "version": "0.24.2"
   },
   "legacyPackages.x86_64-linux.parca-agent": {
     "description": "eBPF based, always-on profiling agent",
@@ -276127,7 +276127,7 @@
   "legacyPackages.x86_64-linux.pineapple-pictures": {
     "description": "Homebrew lightweight image viewer",
     "pname": "pineapple-pictures",
-    "version": "1.1.1"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.pinecone": {
     "description": "Peer-to-peer overlay routing for the Matrix ecosystem",
@@ -276597,7 +276597,7 @@
   "legacyPackages.x86_64-linux.pkcs11-provider": {
     "description": "OpenSSL 3.x provider to access hardware or software tokens using the PKCS#11 Cryptographic Token Interface",
     "pname": "pkcs11-provider",
-    "version": "1.0"
+    "version": "1.1"
   },
   "legacyPackages.x86_64-linux.pkcs11helper": {
     "description": "Library that simplifies the interaction with PKCS#11 providers",
@@ -295907,7 +295907,7 @@
   "legacyPackages.x86_64-linux.python312Packages.elasticsearch8": {
     "description": "Official low-level client for Elasticsearch",
     "pname": "python3.12-elasticsearch8",
-    "version": "8.19.0"
+    "version": "8.19.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.elasticsearchdsl": {
     "description": "High level Python client for Elasticsearch",
@@ -331237,7 +331237,7 @@
   "legacyPackages.x86_64-linux.python312Packages.txtai": {
     "description": "Semantic search and workflows powered by language models",
     "pname": "python3.12-txtai",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.txtorcon": {
     "description": "Twisted-based Tor controller client, with state-tracking and configuration abstractions",
@@ -347927,7 +347927,7 @@
   "legacyPackages.x86_64-linux.python313Packages.elasticsearch8": {
     "description": "Official low-level client for Elasticsearch",
     "pname": "python3.13-elasticsearch8",
-    "version": "8.19.0"
+    "version": "8.19.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.elasticsearchdsl": {
     "description": "High level Python client for Elasticsearch",
@@ -383302,7 +383302,7 @@
   "legacyPackages.x86_64-linux.python313Packages.txtai": {
     "description": "Semantic search and workflows powered by language models",
     "pname": "python3.13-txtai",
-    "version": "9.0.0"
+    "version": "9.0.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.txtorcon": {
     "description": "Twisted-based Tor controller client, with state-tracking and configuration abstractions",
@@ -395387,7 +395387,7 @@
   "legacyPackages.x86_64-linux.rpiboot": {
     "description": "Utility to boot a Raspberry Pi CM/CM3/CM4/Zero over USB",
     "pname": "rpiboot",
-    "version": "20250227-132106"
+    "version": "20250908-162618-bookworm"
   },
   "legacyPackages.x86_64-linux.rpiplay": {
     "description": "Open-source implementation of an AirPlay mirroring server",
@@ -436452,7 +436452,7 @@
   "legacyPackages.x86_64-linux.stackit-cli": {
     "description": "CLI to manage STACKIT cloud services",
     "pname": "stackit-cli",
-    "version": "0.41.0"
+    "version": "0.42.0"
   },
   "legacyPackages.x86_64-linux.stackql": {
     "description": "Deploy, manage and query cloud resources and interact with APIs using SQL",
@@ -438442,7 +438442,7 @@
   "legacyPackages.x86_64-linux.swaysome": {
     "description": "Helper to make sway behave more like awesomewm",
     "pname": "swaysome",
-    "version": "2.1.2"
+    "version": "2.3.1"
   },
   "legacyPackages.x86_64-linux.swaytools": {
     "description": "Collection of simple tools for sway (and i3)",
@@ -441447,7 +441447,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
     "pname": "terraform-provider-google-beta",
-    "version": "7.1.1"
+    "version": "7.3.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.googleworkspace": {
     "description": "",
@@ -441642,7 +441642,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.newrelic": {
     "description": "",
     "pname": "terraform-provider-newrelic",
-    "version": "3.68.0"
+    "version": "3.69.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.nexus": {
     "description": "",
@@ -470667,7 +470667,7 @@
   "legacyPackages.x86_64-linux.thunderbird-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "142.0"
+    "version": "143.0"
   },
   "legacyPackages.x86_64-linux.thunderbird-esr": {
     "description": "Full-featured e-mail client",
@@ -470697,12 +470697,12 @@
   "legacyPackages.x86_64-linux.thunderbird-latest-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "142.0"
+    "version": "143.0"
   },
   "legacyPackages.x86_64-linux.thunderbird-latest-bin-unwrapped": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "142.0"
+    "version": "143.0"
   },
   "legacyPackages.x86_64-linux.thunderbird-latest-unwrapped": {
     "description": "Full-featured e-mail client",
@@ -500687,7 +500687,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.sniprun": {
     "description": "",
     "pname": "vimplugin-sniprun",
-    "version": "1.3.18"
+    "version": "1.3.19"
   },
   "legacyPackages.x86_64-linux.vimPlugins.solarized": {
     "description": "",
@@ -510877,7 +510877,7 @@
   "legacyPackages.x86_64-linux.wpsoffice-cn": {
     "description": "Office suite, formerly Kingsoft Office",
     "pname": "wpsoffice-cn",
-    "version": "12.1.0.17900"
+    "version": "12.1.2.22571"
   },
   "legacyPackages.x86_64-linux.wqy_microhei": {
     "description": "Chinese Unicode font optimized for screen display",
@@ -514332,7 +514332,7 @@
   "legacyPackages.x86_64-linux.xpra": {
     "description": "Persistent remote applications for X",
     "pname": "xpra",
-    "version": "6.3.2"
+    "version": "6.3.3"
   },
   "legacyPackages.x86_64-linux.xpra-html5": {
     "description": "HTML5 client for Xpra",
@@ -514342,7 +514342,7 @@
   "legacyPackages.x86_64-linux.xpraWithNvenc": {
     "description": "Persistent remote applications for X",
     "pname": "xpra",
-    "version": "6.3.2"
+    "version": "6.3.3"
   },
   "legacyPackages.x86_64-linux.xprintidle": {
     "description": "Utility that queries the X server for the user's idle time and prints it to stdout",
@@ -516417,7 +516417,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "0.204.3"
+    "version": "0.204.4"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
