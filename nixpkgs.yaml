@@ -10853,7 +10853,7 @@ legacyPackages.x86_64-linux.bashSnippets:
 legacyPackages.x86_64-linux.bash_unit:
   description: Bash unit testing enterprise edition framework for professionals
   pname: bash_unit
-  version: 2.3.2
+  version: 2.3.3
 legacyPackages.x86_64-linux.bashate:
   description: Style enforcement for bash programs
   pname: bashate
@@ -11869,7 +11869,7 @@ legacyPackages.x86_64-linux.benhsm-minesweeper:
 legacyPackages.x86_64-linux.benthos:
   description: Fancy stream processing made operationally mundane
   pname: benthos
-  version: 4.55.0
+  version: 4.56.0
 legacyPackages.x86_64-linux.bento:
   description: High performance and resilient stream processor
   pname: bento
@@ -13386,10 +13386,6 @@ legacyPackages.x86_64-linux.bounty:
   description: CLI tool for bountybot.dev
   pname: bounty
   version: 0.1.0-unstable-2025-02-15
-legacyPackages.x86_64-linux.bower2nix:
-  description: Generate nix expressions to fetch bower dependencies
-  pname: bower2nix
-  version: 3.2.0-unstable-2024-06-25
 legacyPackages.x86_64-linux.bowtie:
   description: Ultrafast memory-efficient short read aligner
   pname: bowtie
@@ -31501,7 +31497,7 @@ legacyPackages.x86_64-linux.etherpad-lite:
 legacyPackages.x86_64-linux.ethersync:
   description: Real-time co-editing of local text files
   pname: ethersync
-  version: 0.7.0
+  version: 0.8.0
 legacyPackages.x86_64-linux.ethq:
   description: Ethernet NIC Queue stats viewer
   pname: ethq
@@ -33805,7 +33801,7 @@ legacyPackages.x86_64-linux.firrtl:
 legacyPackages.x86_64-linux.fish:
   description: Smart and user-friendly command line shell
   pname: fish
-  version: 4.0.8
+  version: 4.1.0
 legacyPackages.x86_64-linux.fish-fillets-ng:
   description: Puzzle game
   pname: fish-fillets-ng
@@ -33821,7 +33817,7 @@ legacyPackages.x86_64-linux.fish-lsp:
 legacyPackages.x86_64-linux.fishMinimal:
   description: Smart and user-friendly command line shell
   pname: fish
-  version: 4.0.8
+  version: 4.1.0
 legacyPackages.x86_64-linux.fishPlugins.async-prompt:
   description: Make your prompt asynchronous to improve the reactivity
   pname: fishplugin-async-prompt
@@ -34352,11 +34348,11 @@ legacyPackages.x86_64-linux.flink:
   version: 2.1.0
 legacyPackages.x86_64-linux.flint:
   description: Fast Library for Number Theory
-  pname: flint3
+  pname: flint
   version: 3.3.1
 legacyPackages.x86_64-linux.flint3:
   description: Fast Library for Number Theory
-  pname: flint3
+  pname: flint
   version: 3.3.1
 legacyPackages.x86_64-linux.flintlock:
   description: Create and manage the lifecycle of MicroVMs backed by containerd
@@ -34665,7 +34661,7 @@ legacyPackages.x86_64-linux.fluxcd-operator:
 legacyPackages.x86_64-linux.fluxcd-operator-mcp:
   description: Kubernetes controller for managing the lifecycle of Flux CD
   pname: fluxcd-operator-mcp
-  version: 0.27.0
+  version: 0.29.0
 legacyPackages.x86_64-linux.flvstreamer:
   description: Command-line RTMP client
   pname: flvstreamer
@@ -36865,7 +36861,7 @@ legacyPackages.x86_64-linux.gcrane:
 legacyPackages.x86_64-linux.gcs:
   description: Stand-alone, interactive, character sheet editor for the GURPS 4th Edition roleplaying game system
   pname: gcs
-  version: 5.37.1
+  version: 5.39.0
 legacyPackages.x86_64-linux.gcsfuse:
   description: User-space file system for interacting with Google Cloud Storage
   pname: gcsfuse
@@ -37101,7 +37097,7 @@ legacyPackages.x86_64-linux.gemini-cli:
 legacyPackages.x86_64-linux.gemini-cli-bin:
   description: AI agent that brings the power of Gemini directly into your terminal
   pname: gemini-cli-bin
-  version: 0.6.0
+  version: 0.6.1
 legacyPackages.x86_64-linux.geminicommit:
   description: CLI that generates git commit messages with Google Gemini AI
   pname: geminicommit
@@ -38181,7 +38177,7 @@ legacyPackages.x86_64-linux.git-crecord:
 legacyPackages.x86_64-linux.git-credential-gopass:
   description: Manage git credentials using gopass
   pname: git-credential-gopass
-  version: 1.15.17
+  version: 1.15.18
 legacyPackages.x86_64-linux.git-credential-keepassxc:
   description: Helper that allows Git (and shell scripts) to use KeePassXC as credential store
   pname: git-credential-keepassxc
@@ -38865,7 +38861,7 @@ legacyPackages.x86_64-linux.givaro:
 legacyPackages.x86_64-linux.gixy:
   description: Nginx configuration static analyzer
   pname: gixy
-  version: 0.1.20
+  version: 0.1.21
 legacyPackages.x86_64-linux.giza:
   description: Scientific plotting library for C/Fortran
   pname: giza
@@ -44925,7 +44921,7 @@ legacyPackages.x86_64-linux.gopass:
 legacyPackages.x86_64-linux.gopass-hibp:
   description: Gopass haveibeenpwnd.com integration
   pname: gopass-hibp
-  version: 1.15.17
+  version: 1.15.18
 legacyPackages.x86_64-linux.gopass-jsonapi:
   description: Enables communication with gopass via JSON messages
   pname: gopass-jsonapi
@@ -45121,7 +45117,7 @@ legacyPackages.x86_64-linux.gotemplate:
 legacyPackages.x86_64-linux.gotenberg:
   description: Converts numerous document formats into PDF files
   pname: gotenberg
-  version: 8.23.0
+  version: 8.23.1
 legacyPackages.x86_64-linux.gotest:
   description: go test with colors
   pname: gotest
@@ -45517,11 +45513,11 @@ legacyPackages.x86_64-linux.gpxlab:
 legacyPackages.x86_64-linux.gpxsee:
   description: GPS log file viewer and analyzer
   pname: gpxsee
-  version: "13.47"
+  version: "13.48"
 legacyPackages.x86_64-linux.gpxsee-qt6:
   description: GPS log file viewer and analyzer
   pname: gpxsee
-  version: "13.47"
+  version: "13.48"
 legacyPackages.x86_64-linux.gpython:
   description: Python interpreter written in Go
   pname: gpython
@@ -133925,7 +133921,7 @@ legacyPackages.x86_64-linux.jsonschema-cli:
 legacyPackages.x86_64-linux.jsonwatch:
   description: Like watch -d but for JSON
   pname: jsonwatch
-  version: 0.9.0
+  version: 0.11.0
 legacyPackages.x86_64-linux.jspecify:
   description: Standard Annotations for Java Static Analysis
   pname: jspecify
@@ -135301,7 +135297,7 @@ legacyPackages.x86_64-linux.kdePackages.karchive:
 legacyPackages.x86_64-linux.kdePackages.karousel:
   description: Scrollable tiling Kwin script
   pname: karousel
-  version: "0.13"
+  version: "0.14"
 legacyPackages.x86_64-linux.kdePackages.kasts:
   description: Kirigami-based podcast player
   pname: kasts
@@ -135765,7 +135761,7 @@ legacyPackages.x86_64-linux.kdePackages.klettres:
 legacyPackages.x86_64-linux.kdePackages.klevernotes:
   description: A note-taking and management application using markdown.
   pname: klevernotes
-  version: 1.2.3
+  version: 1.2.4
 legacyPackages.x86_64-linux.kdePackages.klickety:
   description: Klickety is an adaptation of the Clickomania game
   pname: klickety
@@ -146537,7 +146533,7 @@ legacyPackages.x86_64-linux.linuxKernel.kernels.linux_libre:
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_lqx:
   description: Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)
   pname: linux-lqx
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rpi1:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux-rpi
@@ -153721,15 +153717,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_libre.zfs_unstable:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
-  version: 6.16.7-0.1.0-unstable-2025-04-24
+  version: 6.16.9-0.1.0-unstable-2025-04-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
-  version: 1.2.2-6.16.7
+  version: 1.2.2-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ajantv2:
   description: AJA video driver
   pname: ajantv2-module
-  version: 17.5.0-6.16.7
+  version: 17.5.0-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.akvcam:
   description: Virtual camera driver for Linux
   pname: akvcam
@@ -153745,11 +153741,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.amneziawg:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.apfs:
   description: APFS module for linux
   pname: apfs
-  version: 0.3.15-6.16.7
+  version: 0.3.15-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.asus-ec-sensors:
   description: Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller
   pname: asus-ec-sensors
-  version: 0.1.0-unstable-2025-01-10-6.16.7
+  version: 0.1.0-unstable-2025-01-10-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ax99100:
   description: ASIX AX99100 Serial and Parallel Port driver
   pname: ax99100
@@ -153757,15 +153753,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ax99100:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.batman_adv:
   description: B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2
   pname: batman-adv
-  version: 2025.3-6.16.7
+  version: 2025.3-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bbswitch:
   description: Module for powering off hybrid GPUs
   pname: bbswitch-unstable
-  version: 2021-11-29-6.16.7
+  version: 2021-11-29-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.16.7-1.31.3
+  version: 6.16.9-1.31.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -153777,7 +153773,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bpftrace:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
-  version: 6.30.223.271-57-6.16.7
+  version: 6.30.223.271-57-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.can-isotp:
   description: Kernel module for ISO-TP (ISO 15765-2)
   pname: can-isotp
@@ -153797,7 +153793,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.corefreq:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cryptodev:
   description: Device that allows access to Linux kernel cryptographic drivers
   pname: cryptodev-linux
@@ -153805,7 +153801,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cryptodev:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ddcci-driver:
   description: Kernel module driver for DDC/CI monitors
   pname: ddcci-driver
-  version: 6.16.7-0.4.5-unstable-2024-09-26
+  version: 6.16.9-0.4.5-unstable-2024-09-26
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
@@ -153837,7 +153833,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ecapture:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ena:
   description: Amazon Elastic Network Adapter (ENA) driver for Linux
   pname: ena
-  version: 2.15.0-6.16.7
+  version: 2.15.0-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.evdi:
   description: Extensible Virtual Display Interface
   pname: evdi
@@ -153845,11 +153841,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.evdi:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.facetimehd:
   description: Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam
   pname: facetimehd
-  version: 0.6.13-6.16.7
+  version: 0.6.13-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fanout:
   description: Kernel-based publish-subscribe system
   pname: fanout-unstable
-  version: 2022-10-17-6.16.7
+  version: 2022-10-17-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.framework-laptop-kmod:
   description: Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace
   pname: framework-laptop-kmod
@@ -153857,7 +153853,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.framework-laptop-kmod
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fwts-efi-runtime:
   description: Firmware Test Suite(efi-runtime kernel module)
   pname: fwts-efi-runtime
-  version: 24.09.00-6.16.7
+  version: 24.09.00-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.gasket:
   description: Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems
   pname: gasket
@@ -153885,15 +153881,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.hpuefi-mod:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.hyperv-daemons:
   description: Integration Services for running NixOS under HyperV
   pname: hyperv-daemons
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.iio-utils:
   description: Userspace tool for interacting with Linux IIO
   pname: iio-utils
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.intel-speed-select:
   description: Tool to enumerate and control the Intel Speed Select Technology features
   pname: intel-speed-select
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ipu6-drivers:
   description: IPU6 kernel driver
   pname: ipu6-drivers-unstable
@@ -153901,11 +153897,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ipu6-drivers:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.isgx:
   description: Intel SGX Linux Driver
   pname: isgx
-  version: 2.14-6.16.7
+  version: 2.14-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.it87:
   description: Patched module for IT87xx superio chip sensors support
   pname: it87-unstable
-  version: 2024-06-09-6.16.7
+  version: 2024-06-09-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ithc:
   description: Linux driver for Intel Touch Host Controller
   pname: ithc-unstable
@@ -153917,15 +153913,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ivsc-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ixgbevf:
   description: Intel 82599 Virtual Function Driver
   pname: ixgbevf
-  version: 4.6.1-6.16.7
+  version: 4.6.1-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.jool:
   description: Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules
   pname: jool
-  version: 4.1.14-6.16.7
+  version: 4.1.14-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.kernel:
   description: Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)
   pname: linux-lqx
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.kvmfr:
   description: Optional kernel module for LookingGlass
   pname: kvmfr-B7
@@ -153941,15 +153937,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.linux-gpib:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.liquidtux:
   description: Linux kernel hwmon drivers for AIO liquid coolers and other devices
   pname: liquidtux
-  version: 0.1.0-unstable-2025-01-16-6.16.7
+  version: 0.1.0-unstable-2025-01-16-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lkrg:
   description: LKRG Linux Kernel module
   pname: lkrg
-  version: 0.9.9-6.16.7
+  version: 0.9.9-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lttng-modules:
   description: Linux kernel modules for LTTng tracing
   pname: lttng-modules
-  version: 6.16.7-2.13.15
+  version: 6.16.9-2.13.15
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mba6x_bl:
   description: MacBook Air 6,1 and 6,2 (mid 2013) backlight driver
   pname: mba6x_bl-unstable
@@ -153973,11 +153969,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mstflint_access:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mwprocapture:
   description: Linux driver for the Magewell Pro Capture family
   pname: mwprocapture
-  version: 1.3.4418-6.16.7
+  version: 1.3.4418-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mxu11x0:
   description: MOXA UPort 11x0 USB to Serial Hub driver
   pname: mxu11x0
-  version: 5.1-6.16.7
+  version: 5.1-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
@@ -153985,11 +153981,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nct6687d:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
-  version: 1.63-6.16.7
+  version: 1.63-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.netatop:
   description: Network monitoring module for atop
   pname: netatop
-  version: 6.16.7-3.1
+  version: 6.16.9-3.1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.new-lg4ff:
   description: Experimental Logitech force feedback module for Linux
   pname: new-lg4ff
@@ -154001,79 +153997,79 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nullfs:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc:
   description: Data Center driver and kernel module for NVIDIA cards
   pname: nvidia-dc
-  version: 570.172.08-6.16.7
+  version: 570.172.08-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_535:
   description: Data Center driver and kernel module for NVIDIA cards
   pname: nvidia-dc
-  version: 535.154.05-6.16.7
+  version: 535.154.05-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_565:
   description: Data Center driver and kernel module for NVIDIA cards
   pname: nvidia-dc
-  version: 565.57.01-6.16.7
+  version: 565.57.01-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 340.108-6.16.7
+  version: 340.108-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy390:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 390.157-6.16.7
+  version: 390.157-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy470:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 470.256.02-6.16.7
+  version: 470.256.02-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy535:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 535.261.03-6.16.7
+  version: 535.261.03-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.123.19-6.16.7
+  version: 570.123.19-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-570.123.19
+  version: 6.16.9-570.123.19
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidiabl:
   description: Linux driver for setting the backlight brightness on laptops using NVIDIA GPU
   pname: nvidiabl
-  version: 2020-10-01-6.16.7
+  version: 2020-10-01-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nxp-pn5xx:
   description: NXP's NFC Open Source Kernel mode driver with ACPI configuration support
   pname: nxp-pn5xx
-  version: 0.4-unstable-2025-02-08-6.16.7
+  version: 0.4-unstable-2025-02-08-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.oci-seccomp-bpf-hook:
   description: 'OCI hook to trace syscalls and generate a seccomp profile '
   pname: oci-seccomp-bpf-hook
@@ -154085,19 +154081,19 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.odp-dpdk:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs:
   description: Open AFS client kernel module
   pname: openafs
-  version: 1.8.13.2-6.16.7-lqx1
+  version: 1.8.13.2-6.16.9-lqx1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs_1_8:
   description: Open AFS client kernel module
   pname: openafs
-  version: 1.8.13.2-6.16.7-lqx1
+  version: 1.8.13.2-6.16.9-lqx1
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openrazer:
   description: Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux
   pname: openrazer
-  version: 3.10.3-6.16.7
+  version: 3.10.3-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.2-6.16.7
+  version: 1.7.2-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -154125,7 +154121,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.r8125:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.r8168:
   description: Realtek r8168 driver
   pname: r8168
-  version: 6.16.7-8.055.00
+  version: 6.16.9-8.055.00
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rr-zen_workaround:
   description: Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs
   pname: rr-zen_workaround
@@ -154133,35 +154129,35 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rr-zen_workaround:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8188eus-aircrack:
   description: RealTek RTL8188eus WiFi driver with monitor mode & frame injection support
   pname: rtl8188eus-aircrack
-  version: 6.16.7-unstable-2024-09-18
+  version: 6.16.9-unstable-2024-09-18
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189es:
   description: Driver for Realtek rtl8189es
   pname: rtl8189es
-  version: 6.16.7-2025-04-29
+  version: 6.16.9-2025-04-29
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189fs:
   description: Driver for Realtek rtl8189fs
   pname: rtl8189fs
-  version: 6.16.7-2025-05-04
+  version: 6.16.9-2025-05-04
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8192eu:
   description: Realtek rtl8192eu driver
   pname: rtl8192eu
-  version: 6.16.7-4.4.1.20250504
+  version: 6.16.9-4.4.1.20250504
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8723ds:
   description: Linux driver for RTL8723DS
   pname: rtl8723ds
-  version: 6.16.7-unstable-2023-11-14
+  version: 6.16.9-unstable-2023-11-14
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8812au:
   description: Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod
   pname: rtl8812au
-  version: 6.16.7-unstable-2024-06-13
+  version: 6.16.9-unstable-2024-06-13
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8814au:
   description: Realtek 8814AU USB WiFi driver
   pname: rtl8814au
-  version: 6.16.7-unstable-2024-05-26
+  version: 6.16.9-unstable-2024-05-26
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821au:
   description: rtl8821AU and rtl8812AU chipset driver with firmware
   pname: rtl8821au
-  version: 6.16.7-unstable-2025-04-08
+  version: 6.16.9-unstable-2025-04-08
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821ce:
   description: Realtek rtl8821ce driver
   pname: rtl8821ce
@@ -154169,23 +154165,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821ce:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821cu:
   description: Realtek rtl8821cu driver
   pname: rtl8821cu
-  version: 6.16.7-unstable-2025-05-08
+  version: 6.16.9-unstable-2025-05-08
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852au:
   description: Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod
   pname: rtl8852au
-  version: 6.16.7-unstable-2024-05-06
+  version: 6.16.9-unstable-2024-05-06
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852bu:
   description: Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod
   pname: rtl8852bu
-  version: 6.16.7-unstable-2025-05-18
+  version: 6.16.9-unstable-2025-05-18
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88x2bu:
   description: Realtek rtl88x2bu driver
   pname: rtl88x2bu
-  version: 6.16.7-unstable-2024-06-09
+  version: 6.16.9-unstable-2024-06-09
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88xxau-aircrack:
   description: Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.
   pname: rtl88xxau-aircrack
-  version: 6.16.7-unstable-2024-04-09
+  version: 6.16.9-unstable-2024-04-09
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtw88:
   description: Backport of the latest Realtek RTW88 driver from wireless-next for older kernels
   pname: rtw88
@@ -154197,7 +154193,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rust-out-of-tree-modu
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ryzen-smu:
   description: Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors
   pname: ryzen-smu
-  version: 6.16.7-0.1.5-unstable-2025-06-04
+  version: 6.16.9-0.1.5-unstable-2025-06-04
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.sheep-net:
   description: ""
   pname: sheep_net
@@ -154217,15 +154213,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.sysdig:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76:
   description: System76 DKMS driver
   pname: system76-module
-  version: 1.0.17-6.16.7
+  version: 1.0.17-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-acpi:
   description: System76 ACPI Driver (DKMS)
   pname: system76-acpi-module
-  version: 1.0.2-6.16.7
+  version: 1.0.2-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-io:
   description: DKMS module for controlling System76 Io board
   pname: system76-io-module
-  version: 1.0.4-6.16.7
+  version: 1.0.4-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-power:
   description: System76 Power Management
   pname: system76-power
@@ -154241,23 +154237,23 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.systemtap:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tbs:
   description: Linux driver for TBSDTV cards
   pname: tbs
-  version: 20250510-6.16.7
+  version: 20250510-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tmon:
   description: Monitoring and Testing Tool for Linux kernel thermal subsystem
   pname: tmon
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tp_smapi:
   description: IBM ThinkPad hardware functions driver
   pname: tp_smapi
-  version: 0.45-6.16.7
+  version: 0.45-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.trelay:
   description: For relaying IP packets between two devices to build a IP bridge between them
   pname: trelay
-  version: 22.03.5-6.16.7
+  version: 22.03.5-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tsme-test:
   description: Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)
   pname: tsme-test
-  version: 6.16.7-unstable-2022-12-07
+  version: 6.16.9-unstable-2022-12-07
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tt-kmd:
   description: Tenstorrent Kernel Module
   pname: tt-kmd
@@ -154265,15 +154261,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tt-kmd:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.turbostat:
   description: Report processor frequency and idle statistics
   pname: turbostat
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tuxedo-drivers:
   description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
   pname: tuxedo-drivers
-  version: 6.16.7-4.15.4
+  version: 6.16.9-4.15.4
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tuxedo-keyboard:
   description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
   pname: tuxedo-drivers
-  version: 6.16.7-4.15.4
+  version: 6.16.9-4.15.4
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.universal-pidff:
   description: PIDFF driver with useful patches for initialization of FFB devices
   pname: universal-pidff
@@ -154281,15 +154277,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.universal-pidff:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.usbip:
   description: Allows to pass USB device from server to client over the network
   pname: usbip-linux-lqx
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v4l2loopback:
   description: Kernel module to create V4L2 loopback devices
   pname: v4l2loopback
-  version: 0.15.1-6.16.7
+  version: 0.15.1-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v86d:
   description: Daemon to run x86 code in an emulated environment
   pname: v86d
-  version: 0.1.10-6.16.7
+  version: 0.1.10-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.veikk-linux-driver:
   description: Linux driver for VEIKK-brand digitizers
   pname: veikk-linux-driver
@@ -154297,7 +154293,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.veikk-linux-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vendor-reset:
   description: Linux kernel vendor specific hardware reset module
   pname: vendor-reset-unstable
-  version: 2024-04-16-6.16.7
+  version: 2024-04-16-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vhba:
   description: Provides a Virtual (SCSI) HBA
   pname: vhba
@@ -154309,11 +154305,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtio_vmmci:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualbox:
   description: PC emulator (kernel modules)
   pname: virtualbox-modules
-  version: 7.2.0-6.16.7
+  version: 7.2.0-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualboxGuestAdditions:
   description: Guest additions for VirtualBox
   pname: VirtualBox-GuestAdditions
-  version: 7.2.0-6.16.7
+  version: 7.2.0-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vm-tools:
   description: Set of virtual memory tools
   pname: mm-tools
@@ -154325,11 +154321,11 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vmm_clock:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250728-6.16.7
+  version: 17.6.3-20250728-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
@@ -154357,15 +154353,15 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zenpower:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_2:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.2.8-6.16.7
+  version: 2.2.8-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.4-6.16.7
+  version: 2.3.4-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-rc1-6.16.7
+  version: 2.4.0-rc1-6.16.9
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -159557,15 +159553,15 @@ legacyPackages.x86_64-linux.linuxPackages_latest.zfs_unstable:
 legacyPackages.x86_64-linux.linuxPackages_lqx.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
-  version: 6.16.7-0.1.0-unstable-2025-04-24
+  version: 6.16.9-0.1.0-unstable-2025-04-24
 legacyPackages.x86_64-linux.linuxPackages_lqx.acpi_call:
   description: 'Module allowing arbitrary ACPI calls; use case: hybrid video'
   pname: acpi-call
-  version: 1.2.2-6.16.7
+  version: 1.2.2-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.ajantv2:
   description: AJA video driver
   pname: ajantv2-module
-  version: 17.5.0-6.16.7
+  version: 17.5.0-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.akvcam:
   description: Virtual camera driver for Linux
   pname: akvcam
@@ -159581,11 +159577,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.amneziawg:
 legacyPackages.x86_64-linux.linuxPackages_lqx.apfs:
   description: APFS module for linux
   pname: apfs
-  version: 0.3.15-6.16.7
+  version: 0.3.15-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.asus-ec-sensors:
   description: Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller
   pname: asus-ec-sensors
-  version: 0.1.0-unstable-2025-01-10-6.16.7
+  version: 0.1.0-unstable-2025-01-10-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.ax99100:
   description: ASIX AX99100 Serial and Parallel Port driver
   pname: ax99100
@@ -159593,15 +159589,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.ax99100:
 legacyPackages.x86_64-linux.linuxPackages_lqx.batman_adv:
   description: B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2
   pname: batman-adv
-  version: 2025.3-6.16.7
+  version: 2025.3-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.bbswitch:
   description: Module for powering off hybrid GPUs
   pname: bbswitch-unstable
-  version: 2021-11-29-6.16.7
+  version: 2021-11-29-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.16.7-1.31.3
+  version: 6.16.9-1.31.3
 legacyPackages.x86_64-linux.linuxPackages_lqx.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -159613,7 +159609,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.bpftrace:
 legacyPackages.x86_64-linux.linuxPackages_lqx.broadcom_sta:
   description: Kernel module driver for some Broadcom's wireless cards
   pname: broadcom-sta
-  version: 6.30.223.271-57-6.16.7
+  version: 6.30.223.271-57-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.can-isotp:
   description: Kernel module for ISO-TP (ISO 15765-2)
   pname: can-isotp
@@ -159633,7 +159629,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.corefreq:
 legacyPackages.x86_64-linux.linuxPackages_lqx.cpupower:
   description: Tool to examine and tune power saving features
   pname: cpupower
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.cryptodev:
   description: Device that allows access to Linux kernel cryptographic drivers
   pname: cryptodev-linux
@@ -159641,7 +159637,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.cryptodev:
 legacyPackages.x86_64-linux.linuxPackages_lqx.ddcci-driver:
   description: Kernel module driver for DDC/CI monitors
   pname: ddcci-driver
-  version: 6.16.7-0.4.5-unstable-2024-09-26
+  version: 6.16.9-0.4.5-unstable-2024-09-26
 legacyPackages.x86_64-linux.linuxPackages_lqx.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
@@ -159673,7 +159669,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.ecapture:
 legacyPackages.x86_64-linux.linuxPackages_lqx.ena:
   description: Amazon Elastic Network Adapter (ENA) driver for Linux
   pname: ena
-  version: 2.15.0-6.16.7
+  version: 2.15.0-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.evdi:
   description: Extensible Virtual Display Interface
   pname: evdi
@@ -159681,11 +159677,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.evdi:
 legacyPackages.x86_64-linux.linuxPackages_lqx.facetimehd:
   description: Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam
   pname: facetimehd
-  version: 0.6.13-6.16.7
+  version: 0.6.13-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.fanout:
   description: Kernel-based publish-subscribe system
   pname: fanout-unstable
-  version: 2022-10-17-6.16.7
+  version: 2022-10-17-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.framework-laptop-kmod:
   description: Kernel module that exposes the Framework Laptop (13, 16)'s battery charge limit and LEDs to userspace
   pname: framework-laptop-kmod
@@ -159693,7 +159689,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.framework-laptop-kmod:
 legacyPackages.x86_64-linux.linuxPackages_lqx.fwts-efi-runtime:
   description: Firmware Test Suite(efi-runtime kernel module)
   pname: fwts-efi-runtime
-  version: 24.09.00-6.16.7
+  version: 24.09.00-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.gasket:
   description: Coral Gasket Driver allows usage of the Coral EdgeTPU on Linux systems
   pname: gasket
@@ -159721,15 +159717,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.hpuefi-mod:
 legacyPackages.x86_64-linux.linuxPackages_lqx.hyperv-daemons:
   description: Integration Services for running NixOS under HyperV
   pname: hyperv-daemons
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.iio-utils:
   description: Userspace tool for interacting with Linux IIO
   pname: iio-utils
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.intel-speed-select:
   description: Tool to enumerate and control the Intel Speed Select Technology features
   pname: intel-speed-select
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.ipu6-drivers:
   description: IPU6 kernel driver
   pname: ipu6-drivers-unstable
@@ -159737,11 +159733,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.ipu6-drivers:
 legacyPackages.x86_64-linux.linuxPackages_lqx.isgx:
   description: Intel SGX Linux Driver
   pname: isgx
-  version: 2.14-6.16.7
+  version: 2.14-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.it87:
   description: Patched module for IT87xx superio chip sensors support
   pname: it87-unstable
-  version: 2024-06-09-6.16.7
+  version: 2024-06-09-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.ithc:
   description: Linux driver for Intel Touch Host Controller
   pname: ithc-unstable
@@ -159753,15 +159749,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.ivsc-driver:
 legacyPackages.x86_64-linux.linuxPackages_lqx.ixgbevf:
   description: Intel 82599 Virtual Function Driver
   pname: ixgbevf
-  version: 4.6.1-6.16.7
+  version: 4.6.1-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.jool:
   description: Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules
   pname: jool
-  version: 4.1.14-6.16.7
+  version: 4.1.14-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.kernel:
   description: Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)
   pname: linux-lqx
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.kvmfr:
   description: Optional kernel module for LookingGlass
   pname: kvmfr-B7
@@ -159777,15 +159773,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.linux-gpib:
 legacyPackages.x86_64-linux.linuxPackages_lqx.liquidtux:
   description: Linux kernel hwmon drivers for AIO liquid coolers and other devices
   pname: liquidtux
-  version: 0.1.0-unstable-2025-01-16-6.16.7
+  version: 0.1.0-unstable-2025-01-16-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.lkrg:
   description: LKRG Linux Kernel module
   pname: lkrg
-  version: 0.9.9-6.16.7
+  version: 0.9.9-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.lttng-modules:
   description: Linux kernel modules for LTTng tracing
   pname: lttng-modules
-  version: 6.16.7-2.13.15
+  version: 6.16.9-2.13.15
 legacyPackages.x86_64-linux.linuxPackages_lqx.mba6x_bl:
   description: MacBook Air 6,1 and 6,2 (mid 2013) backlight driver
   pname: mba6x_bl-unstable
@@ -159809,11 +159805,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.mstflint_access:
 legacyPackages.x86_64-linux.linuxPackages_lqx.mwprocapture:
   description: Linux driver for the Magewell Pro Capture family
   pname: mwprocapture
-  version: 1.3.4418-6.16.7
+  version: 1.3.4418-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.mxu11x0:
   description: MOXA UPort 11x0 USB to Serial Hub driver
   pname: mxu11x0
-  version: 5.1-6.16.7
+  version: 5.1-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
@@ -159821,11 +159817,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.nct6687d:
 legacyPackages.x86_64-linux.linuxPackages_lqx.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
-  version: 1.63-6.16.7
+  version: 1.63-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.netatop:
   description: Network monitoring module for atop
   pname: netatop
-  version: 6.16.7-3.1
+  version: 6.16.9-3.1
 legacyPackages.x86_64-linux.linuxPackages_lqx.new-lg4ff:
   description: Experimental Logitech force feedback module for Linux
   pname: new-lg4ff
@@ -159837,79 +159833,79 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.nullfs:
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc:
   description: Data Center driver and kernel module for NVIDIA cards
   pname: nvidia-dc
-  version: 570.172.08-6.16.7
+  version: 570.172.08-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_535:
   description: Data Center driver and kernel module for NVIDIA cards
   pname: nvidia-dc
-  version: 535.154.05-6.16.7
+  version: 535.154.05-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_565:
   description: Data Center driver and kernel module for NVIDIA cards
   pname: nvidia-dc
-  version: 565.57.01-6.16.7
+  version: 565.57.01-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_latest_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy340:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 340.108-6.16.7
+  version: 340.108-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy390:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 390.157-6.16.7
+  version: 390.157-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy470:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 470.256.02-6.16.7
+  version: 470.256.02-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy535:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 535.261.03-6.16.7
+  version: 535.261.03-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 580.82.09-6.16.7
+  version: 580.82.09-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_production_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_stable_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-580.82.09
+  version: 6.16.9-580.82.09
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta:
   description: X.org driver and kernel module for NVIDIA cards
   pname: nvidia-x11
-  version: 570.123.19-6.16.7
+  version: 570.123.19-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta_open:
   description: NVIDIA Linux Open GPU Kernel Module
   pname: nvidia-open
-  version: 6.16.7-570.123.19
+  version: 6.16.9-570.123.19
 legacyPackages.x86_64-linux.linuxPackages_lqx.nvidiabl:
   description: Linux driver for setting the backlight brightness on laptops using NVIDIA GPU
   pname: nvidiabl
-  version: 2020-10-01-6.16.7
+  version: 2020-10-01-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.nxp-pn5xx:
   description: NXP's NFC Open Source Kernel mode driver with ACPI configuration support
   pname: nxp-pn5xx
-  version: 0.4-unstable-2025-02-08-6.16.7
+  version: 0.4-unstable-2025-02-08-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.oci-seccomp-bpf-hook:
   description: 'OCI hook to trace syscalls and generate a seccomp profile '
   pname: oci-seccomp-bpf-hook
@@ -159921,19 +159917,19 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.odp-dpdk:
 legacyPackages.x86_64-linux.linuxPackages_lqx.openafs:
   description: Open AFS client kernel module
   pname: openafs
-  version: 1.8.13.2-6.16.7-lqx1
+  version: 1.8.13.2-6.16.9-lqx1
 legacyPackages.x86_64-linux.linuxPackages_lqx.openafs_1_8:
   description: Open AFS client kernel module
   pname: openafs
-  version: 1.8.13.2-6.16.7-lqx1
+  version: 1.8.13.2-6.16.9-lqx1
 legacyPackages.x86_64-linux.linuxPackages_lqx.openrazer:
   description: Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux
   pname: openrazer
-  version: 3.10.3-6.16.7
+  version: 3.10.3-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.opensnitch-ebpf:
   description: eBPF process monitor module for OpenSnitch
   pname: opensnitch_ebpf
-  version: 1.7.2-6.16.7
+  version: 1.7.2-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.perf:
   description: Linux tools to profile with performance counters
   pname: perf-linux
@@ -159961,7 +159957,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.r8125:
 legacyPackages.x86_64-linux.linuxPackages_lqx.r8168:
   description: Realtek r8168 driver
   pname: r8168
-  version: 6.16.7-8.055.00
+  version: 6.16.9-8.055.00
 legacyPackages.x86_64-linux.linuxPackages_lqx.rr-zen_workaround:
   description: Kernel module supporting the rr debugger on (some) AMD Zen-based CPUs
   pname: rr-zen_workaround
@@ -159969,35 +159965,35 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.rr-zen_workaround:
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8188eus-aircrack:
   description: RealTek RTL8188eus WiFi driver with monitor mode & frame injection support
   pname: rtl8188eus-aircrack
-  version: 6.16.7-unstable-2024-09-18
+  version: 6.16.9-unstable-2024-09-18
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189es:
   description: Driver for Realtek rtl8189es
   pname: rtl8189es
-  version: 6.16.7-2025-04-29
+  version: 6.16.9-2025-04-29
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189fs:
   description: Driver for Realtek rtl8189fs
   pname: rtl8189fs
-  version: 6.16.7-2025-05-04
+  version: 6.16.9-2025-05-04
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8192eu:
   description: Realtek rtl8192eu driver
   pname: rtl8192eu
-  version: 6.16.7-4.4.1.20250504
+  version: 6.16.9-4.4.1.20250504
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8723ds:
   description: Linux driver for RTL8723DS
   pname: rtl8723ds
-  version: 6.16.7-unstable-2023-11-14
+  version: 6.16.9-unstable-2023-11-14
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8812au:
   description: Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod
   pname: rtl8812au
-  version: 6.16.7-unstable-2024-06-13
+  version: 6.16.9-unstable-2024-06-13
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8814au:
   description: Realtek 8814AU USB WiFi driver
   pname: rtl8814au
-  version: 6.16.7-unstable-2024-05-26
+  version: 6.16.9-unstable-2024-05-26
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821au:
   description: rtl8821AU and rtl8812AU chipset driver with firmware
   pname: rtl8821au
-  version: 6.16.7-unstable-2025-04-08
+  version: 6.16.9-unstable-2025-04-08
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821ce:
   description: Realtek rtl8821ce driver
   pname: rtl8821ce
@@ -160005,23 +160001,23 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821ce:
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821cu:
   description: Realtek rtl8821cu driver
   pname: rtl8821cu
-  version: 6.16.7-unstable-2025-05-08
+  version: 6.16.9-unstable-2025-05-08
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852au:
   description: Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod
   pname: rtl8852au
-  version: 6.16.7-unstable-2024-05-06
+  version: 6.16.9-unstable-2024-05-06
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852bu:
   description: Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod
   pname: rtl8852bu
-  version: 6.16.7-unstable-2025-05-18
+  version: 6.16.9-unstable-2025-05-18
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88x2bu:
   description: Realtek rtl88x2bu driver
   pname: rtl88x2bu
-  version: 6.16.7-unstable-2024-06-09
+  version: 6.16.9-unstable-2024-06-09
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88xxau-aircrack:
   description: Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support.
   pname: rtl88xxau-aircrack
-  version: 6.16.7-unstable-2024-04-09
+  version: 6.16.9-unstable-2024-04-09
 legacyPackages.x86_64-linux.linuxPackages_lqx.rtw88:
   description: Backport of the latest Realtek RTW88 driver from wireless-next for older kernels
   pname: rtw88
@@ -160033,7 +160029,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.rust-out-of-tree-module:
 legacyPackages.x86_64-linux.linuxPackages_lqx.ryzen-smu:
   description: Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors
   pname: ryzen-smu
-  version: 6.16.7-0.1.5-unstable-2025-06-04
+  version: 6.16.9-0.1.5-unstable-2025-06-04
 legacyPackages.x86_64-linux.linuxPackages_lqx.sheep-net:
   description: ""
   pname: sheep_net
@@ -160053,15 +160049,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.sysdig:
 legacyPackages.x86_64-linux.linuxPackages_lqx.system76:
   description: System76 DKMS driver
   pname: system76-module
-  version: 1.0.17-6.16.7
+  version: 1.0.17-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.system76-acpi:
   description: System76 ACPI Driver (DKMS)
   pname: system76-acpi-module
-  version: 1.0.2-6.16.7
+  version: 1.0.2-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.system76-io:
   description: DKMS module for controlling System76 Io board
   pname: system76-io-module
-  version: 1.0.4-6.16.7
+  version: 1.0.4-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.system76-power:
   description: System76 Power Management
   pname: system76-power
@@ -160077,23 +160073,23 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.systemtap:
 legacyPackages.x86_64-linux.linuxPackages_lqx.tbs:
   description: Linux driver for TBSDTV cards
   pname: tbs
-  version: 20250510-6.16.7
+  version: 20250510-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.tmon:
   description: Monitoring and Testing Tool for Linux kernel thermal subsystem
   pname: tmon
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.tp_smapi:
   description: IBM ThinkPad hardware functions driver
   pname: tp_smapi
-  version: 0.45-6.16.7
+  version: 0.45-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.trelay:
   description: For relaying IP packets between two devices to build a IP bridge between them
   pname: trelay
-  version: 22.03.5-6.16.7
+  version: 22.03.5-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.tsme-test:
   description: Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption)
   pname: tsme-test
-  version: 6.16.7-unstable-2022-12-07
+  version: 6.16.9-unstable-2022-12-07
 legacyPackages.x86_64-linux.linuxPackages_lqx.tt-kmd:
   description: Tenstorrent Kernel Module
   pname: tt-kmd
@@ -160101,15 +160097,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.tt-kmd:
 legacyPackages.x86_64-linux.linuxPackages_lqx.turbostat:
   description: Report processor frequency and idle statistics
   pname: turbostat
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.tuxedo-drivers:
   description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
   pname: tuxedo-drivers
-  version: 6.16.7-4.15.4
+  version: 6.16.9-4.15.4
 legacyPackages.x86_64-linux.linuxPackages_lqx.tuxedo-keyboard:
   description: Keyboard and hardware I/O driver for TUXEDO Computers laptops
   pname: tuxedo-drivers
-  version: 6.16.7-4.15.4
+  version: 6.16.9-4.15.4
 legacyPackages.x86_64-linux.linuxPackages_lqx.universal-pidff:
   description: PIDFF driver with useful patches for initialization of FFB devices
   pname: universal-pidff
@@ -160117,15 +160113,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.universal-pidff:
 legacyPackages.x86_64-linux.linuxPackages_lqx.usbip:
   description: Allows to pass USB device from server to client over the network
   pname: usbip-linux-lqx
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.v4l2loopback:
   description: Kernel module to create V4L2 loopback devices
   pname: v4l2loopback
-  version: 0.15.1-6.16.7
+  version: 0.15.1-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.v86d:
   description: Daemon to run x86 code in an emulated environment
   pname: v86d
-  version: 0.1.10-6.16.7
+  version: 0.1.10-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.veikk-linux-driver:
   description: Linux driver for VEIKK-brand digitizers
   pname: veikk-linux-driver
@@ -160133,7 +160129,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.veikk-linux-driver:
 legacyPackages.x86_64-linux.linuxPackages_lqx.vendor-reset:
   description: Linux kernel vendor specific hardware reset module
   pname: vendor-reset-unstable
-  version: 2024-04-16-6.16.7
+  version: 2024-04-16-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.vhba:
   description: Provides a Virtual (SCSI) HBA
   pname: vhba
@@ -160145,11 +160141,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.virtio_vmmci:
 legacyPackages.x86_64-linux.linuxPackages_lqx.virtualbox:
   description: PC emulator (kernel modules)
   pname: virtualbox-modules
-  version: 7.2.0-6.16.7
+  version: 7.2.0-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.virtualboxGuestAdditions:
   description: Guest additions for VirtualBox
   pname: VirtualBox-GuestAdditions
-  version: 7.2.0-6.16.7
+  version: 7.2.0-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.vm-tools:
   description: Set of virtual memory tools
   pname: mm-tools
@@ -160161,11 +160157,11 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.vmm_clock:
 legacyPackages.x86_64-linux.linuxPackages_lqx.vmware:
   description: Kernel modules needed for VMware hypervisor
   pname: vmware-modules-workstation
-  version: 17.6.3-20250728-6.16.7
+  version: 17.6.3-20250728-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.x86_energy_perf_policy:
   description: Set the energy versus performance policy preference bias on recent X86 processors
   pname: x86_energy_perf_policy
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
@@ -160193,15 +160189,15 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.zenpower:
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_2:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.2.8-6.16.7
+  version: 2.2.8-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_3:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.3.4-6.16.7
+  version: 2.3.4-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-rc1-6.16.7
+  version: 2.4.0-rc1-6.16.9
 legacyPackages.x86_64-linux.linuxPackages_xanmod.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -162845,7 +162841,7 @@ legacyPackages.x86_64-linux.linux_logo:
 legacyPackages.x86_64-linux.linux_lqx:
   description: Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. (Same as linux_zen, but less aggressive release schedule and additional extra config)
   pname: linux-lqx
-  version: 6.16.7
+  version: 6.16.9
 legacyPackages.x86_64-linux.linux_rpi0:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux-rpi
@@ -180170,14 +180166,6 @@ legacyPackages.x86_64-linux.nodePackages.bitwarden-cli:
   description: Secure and free password manager for all of your devices
   pname: bitwarden-cli
   version: 2025.5.0
-legacyPackages.x86_64-linux.nodePackages.bower:
-  description: The browser package manager
-  pname: bower
-  version: 1.8.14
-legacyPackages.x86_64-linux.nodePackages.bower2nix:
-  description: Generate nix expressions to fetch bower dependencies
-  pname: bower2nix
-  version: 3.2.0-unstable-2024-06-25
 legacyPackages.x86_64-linux.nodePackages.browser-sync:
   description: Live CSS Reload & Browser Syncing
   pname: browser-sync
@@ -181418,14 +181406,6 @@ legacyPackages.x86_64-linux.nodePackages_latest.bitwarden-cli:
   description: Secure and free password manager for all of your devices
   pname: bitwarden-cli
   version: 2025.5.0
-legacyPackages.x86_64-linux.nodePackages_latest.bower:
-  description: The browser package manager
-  pname: bower
-  version: 1.8.14
-legacyPackages.x86_64-linux.nodePackages_latest.bower2nix:
-  description: Generate nix expressions to fetch bower dependencies
-  pname: bower2nix
-  version: 3.2.0-unstable-2024-06-25
 legacyPackages.x86_64-linux.nodePackages_latest.browser-sync:
   description: Live CSS Reload & Browser Syncing
   pname: browser-sync
@@ -189833,7 +189813,7 @@ legacyPackages.x86_64-linux.odig:
 legacyPackages.x86_64-linux.odin:
   description: Fast, concise, readable, pragmatic and open sourced programming language
   pname: odin-dev
-  version: 2025-08
+  version: 2025-09
 legacyPackages.x86_64-linux.odin2:
   description: Odin 2 Synthesizer Plugin
   pname: odin2
@@ -223017,7 +222997,7 @@ legacyPackages.x86_64-linux.podman-desktop:
 legacyPackages.x86_64-linux.podman-tui:
   description: Podman Terminal UI
   pname: podman-tui
-  version: 1.8.0
+  version: 1.8.1
 legacyPackages.x86_64-linux.podofo:
   description: Library to work with the PDF file format
   pname: podofo
@@ -226789,7 +226769,7 @@ legacyPackages.x86_64-linux.proton-caller:
 legacyPackages.x86_64-linux.proton-ge-bin:
   description: 'Compatibility tool for Steam Play based on Wine and additional components.  (This is intended for use in the `programs.steam.extraCompatPackages` option only.) '
   pname: proton-ge-bin-GE-Proton10
-  version: "16"
+  version: "17"
 legacyPackages.x86_64-linux.proton-pass:
   description: Desktop application for Proton Pass
   pname: proton-pass
@@ -267017,7 +266997,7 @@ legacyPackages.x86_64-linux.python312Packages.uc-micro-py:
 legacyPackages.x86_64-linux.python312Packages.ucsmsdk:
   description: Python SDK for Cisco UCS
   pname: python3.12-ucsmsdk
-  version: 0.9.22
+  version: 0.9.23
 legacyPackages.x86_64-linux.python312Packages.udatetime:
   description: Fast RFC3339 compliant Python date-time library
   pname: python3.12-udatetime
@@ -308745,7 +308725,7 @@ legacyPackages.x86_64-linux.python313Packages.uc-micro-py:
 legacyPackages.x86_64-linux.python313Packages.ucsmsdk:
   description: Python SDK for Cisco UCS
   pname: python3.13-ucsmsdk
-  version: 0.9.22
+  version: 0.9.23
 legacyPackages.x86_64-linux.python313Packages.udatetime:
   description: Fast RFC3339 compliant Python date-time library
   pname: python3.13-udatetime
@@ -313209,11 +313189,11 @@ legacyPackages.x86_64-linux.radiance:
 legacyPackages.x86_64-linux.radicale:
   description: CalDAV and CardDAV server
   pname: radicale
-  version: 3.5.6
+  version: 3.5.7
 legacyPackages.x86_64-linux.radicale3:
   description: CalDAV and CardDAV server
   pname: radicale
-  version: 3.5.6
+  version: 3.5.7
 legacyPackages.x86_64-linux.radicle-desktop:
   description: Radicle desktop app
   pname: radicle-desktop
@@ -314173,11 +314153,11 @@ legacyPackages.x86_64-linux.redoflacs:
 legacyPackages.x86_64-linux.redpanda:
   description: Redpanda client
   pname: redpanda-rpk
-  version: 25.2.4
+  version: 25.2.5
 legacyPackages.x86_64-linux.redpanda-client:
   description: Redpanda client
   pname: redpanda-rpk
-  version: 25.2.4
+  version: 25.2.5
 legacyPackages.x86_64-linux.redprl:
   description: Proof assistant for Nominal Computational Type Theory
   pname: redprl-unstable
@@ -324989,7 +324969,7 @@ legacyPackages.x86_64-linux.rzip:
 legacyPackages.x86_64-linux.rzls:
   description: Razor language server
   pname: rzls
-  version: 10.0.0-preview.25424.9
+  version: 10.0.0-preview.25464.2
 legacyPackages.x86_64-linux.s-search:
   description: Web search from the terminal
   pname: s-search
@@ -325061,7 +325041,7 @@ legacyPackages.x86_64-linux.s4cmd:
 legacyPackages.x86_64-linux.s5:
   description: Cipher/decipher text within a file
   pname: s5
-  version: 0.1.15
+  version: 0.2.0
 legacyPackages.x86_64-linux.s5cmd:
   description: Parallel S3 and local filesystem execution tool
   pname: s5cmd
@@ -345613,7 +345593,7 @@ legacyPackages.x86_64-linux.serve-d:
 legacyPackages.x86_64-linux.server-box:
   description: Server status & toolbox
   pname: server-box
-  version: 1.0.1253
+  version: 1.0.1256
 legacyPackages.x86_64-linux.serverless:
   description: Build applications on AWS Lambda and other next-gen cloud services, that auto-scale and only charge you when they run
   pname: serverless
@@ -346525,7 +346505,7 @@ legacyPackages.x86_64-linux.simde:
 legacyPackages.x86_64-linux.simdjson:
   description: Parsing gigabytes of JSON per second
   pname: simdjson
-  version: 3.13.0
+  version: 4.0.6
 legacyPackages.x86_64-linux.simdutf:
   description: Unicode routines validation and transcoding at billions of characters per second
   pname: simdutf
@@ -347157,7 +347137,7 @@ legacyPackages.x86_64-linux.slstatus:
 legacyPackages.x86_64-linux.slumber:
   description: Terminal-based HTTP/REST client
   pname: slumber
-  version: 3.4.0
+  version: 4.0.1
 legacyPackages.x86_64-linux.slurm:
   description: Simple Linux Utility for Resource Management
   pname: slurm
@@ -347397,7 +347377,7 @@ legacyPackages.x86_64-linux.smpq:
 legacyPackages.x86_64-linux.smtp4dev:
   description: Fake smtp email server for development and testing
   pname: smtp4dev
-  version: 3.10.1
+  version: 3.10.2
 legacyPackages.x86_64-linux.smtprelay:
   description: Simple Golang SMTP relay/proxy server
   pname: smtprelay
@@ -351429,7 +351409,7 @@ legacyPackages.x86_64-linux.symengine:
 legacyPackages.x86_64-linux.symfony-cli:
   description: Symfony CLI
   pname: symfony-cli
-  version: 5.13.0
+  version: 5.14.2
 legacyPackages.x86_64-linux.symfpu:
   description: Implementation of SMT-LIB / IEEE-754 operations in terms of bit-vector operations
   pname: symfpu
@@ -396517,7 +396497,7 @@ legacyPackages.x86_64-linux.vimPlugins.errormarker-vim:
 legacyPackages.x86_64-linux.vimPlugins.ethersync:
   description: Real-time co-editing of local text files
   pname: vimplugin-ethersync
-  version: 0.7.0
+  version: 0.8.0
 legacyPackages.x86_64-linux.vimPlugins.eva01-vim:
   description: ""
   pname: vimplugin-eva01.vim
@@ -403994,6 +403974,10 @@ legacyPackages.x86_64-linux.visual-hexdiff:
   description: Visual hexadecimal difference editor
   pname: visual-hexdiff
   version: 0.0.53
+legacyPackages.x86_64-linux.visual-paradigm-ce:
+  description: All-in-one UML CASE tool for software development
+  pname: visual-paradigm-ce
+  version: 17.3.20250906
 legacyPackages.x86_64-linux.visualvm:
   description: Visual interface for viewing information about Java applications
   pname: visualvm
