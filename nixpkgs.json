@@ -9132,7 +9132,7 @@
   "legacyPackages.x86_64-linux.aquamarine": {
     "description": "Very light linux rendering backend library",
     "pname": "aquamarine",
-    "version": "0.9.4"
+    "version": "0.9.5"
   },
   "legacyPackages.x86_64-linux.aquosctl": {
     "description": "Sharp Aquos television RS-232 control application",
@@ -9322,7 +9322,7 @@
   "legacyPackages.x86_64-linux.arelle": {
     "description": "Open source XBRL platform",
     "pname": "arelle",
-    "version": "2.30.25"
+    "version": "2.37.61"
   },
   "legacyPackages.x86_64-linux.arena": {
     "description": "Chess GUI for analyzing with and playing against various engines",
@@ -15692,7 +15692,7 @@
   "legacyPackages.x86_64-linux.blackmagic-desktop-video": {
     "description": "Supporting applications for Blackmagic Decklink. Doesn't include the desktop applications, only the helper required to make the driver work",
     "pname": "blackmagic-desktop-video",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.blackout": {
     "description": "Bad-ass, unholy-mother-shut-your-mouth stencil sans-serif",
@@ -34272,7 +34272,7 @@
   "legacyPackages.x86_64-linux.docker-buildx": {
     "description": "Docker CLI plugin for extended build capabilities with BuildKit",
     "pname": "docker-buildx",
-    "version": "0.28.0"
+    "version": "0.29.0"
   },
   "legacyPackages.x86_64-linux.docker-client": {
     "description": "Open source project to pack, ship and run any application as a lightweight container",
@@ -40852,7 +40852,7 @@
   "legacyPackages.x86_64-linux.favirecon": {
     "description": "Tool to detect technologies, WAF, exposed panels and known services",
     "pname": "favirecon",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "legacyPackages.x86_64-linux.fawltydeps": {
     "description": "Find undeclared and/or unused 3rd-party dependencies in your Python project",
@@ -42267,7 +42267,7 @@
   "legacyPackages.x86_64-linux.fish": {
     "description": "Smart and user-friendly command line shell",
     "pname": "fish",
-    "version": "4.1.1"
+    "version": "4.1.2"
   },
   "legacyPackages.x86_64-linux.fish-fillets-ng": {
     "description": "Puzzle game",
@@ -42287,7 +42287,7 @@
   "legacyPackages.x86_64-linux.fishMinimal": {
     "description": "Smart and user-friendly command line shell",
     "pname": "fish",
-    "version": "4.1.1"
+    "version": "4.1.2"
   },
   "legacyPackages.x86_64-linux.fishPlugins.async-prompt": {
     "description": "Make your prompt asynchronous to improve the reactivity",
@@ -43917,7 +43917,7 @@
   "legacyPackages.x86_64-linux.fosrl-olm": {
     "description": "Tunneling client for Pangolin",
     "pname": "olm",
-    "version": "1.1.2"
+    "version": "1.1.3"
   },
   "legacyPackages.x86_64-linux.fosrl-pangolin": {
     "description": "Tunneled reverse proxy server with identity and access control",
@@ -43927,7 +43927,7 @@
   "legacyPackages.x86_64-linux.fossil": {
     "description": "Simple, high-reliability, distributed software configuration management",
     "pname": "fossil",
-    "version": "2.26"
+    "version": "2.27"
   },
   "legacyPackages.x86_64-linux.foundationdb": {
     "description": "Open source, distributed, transactional key-value store",
@@ -45182,7 +45182,7 @@
   "legacyPackages.x86_64-linux.gajim": {
     "description": "Jabber client written in PyGTK",
     "pname": "gajim",
-    "version": "2.3.5"
+    "version": "2.3.6"
   },
   "legacyPackages.x86_64-linux.galah": {
     "description": "LLM-powered web honeypot using the OpenAI API",
@@ -46382,12 +46382,12 @@
   "legacyPackages.x86_64-linux.gemini-cli": {
     "description": "AI agent that brings the power of Gemini directly into your terminal",
     "pname": "gemini-cli",
-    "version": "0.7.0"
+    "version": "0.8.1"
   },
   "legacyPackages.x86_64-linux.gemini-cli-bin": {
     "description": "AI agent that brings the power of Gemini directly into your terminal",
     "pname": "gemini-cli-bin",
-    "version": "0.6.1"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.geminicommit": {
     "description": "CLI that generates git commit messages with Google Gemini AI",
@@ -50012,7 +50012,7 @@
   "legacyPackages.x86_64-linux.gnome-menus": {
     "description": "Library that implements freedesktops's Desktop Menu Specification in GNOME",
     "pname": "gnome-menus",
-    "version": "3.36.0"
+    "version": "3.38.1"
   },
   "legacyPackages.x86_64-linux.gnome-mines": {
     "description": "Clear hidden mines from a minefield",
@@ -55167,7 +55167,7 @@
   "legacyPackages.x86_64-linux.go_1_24": {
     "description": "Go Programming language",
     "pname": "go",
-    "version": "1.24.7"
+    "version": "1.24.8"
   },
   "legacyPackages.x86_64-linux.go_1_25": {
     "description": "Go Programming language",
@@ -56922,12 +56922,12 @@
   "legacyPackages.x86_64-linux.gpxsee": {
     "description": "GPS log file viewer and analyzer",
     "pname": "gpxsee",
-    "version": "13.48"
+    "version": "14.0"
   },
   "legacyPackages.x86_64-linux.gpxsee-qt6": {
     "description": "GPS log file viewer and analyzer",
     "pname": "gpxsee",
-    "version": "13.48"
+    "version": "14.0"
   },
   "legacyPackages.x86_64-linux.gpython": {
     "description": "Python interpreter written in Go",
@@ -161877,7 +161877,7 @@
   "legacyPackages.x86_64-linux.hyprshell": {
     "description": "Modern GTK4-based window switcher and application launcher for Hyprland",
     "pname": "hyprshell",
-    "version": "4.6.4"
+    "version": "4.7.1"
   },
   "legacyPackages.x86_64-linux.hyprshot": {
     "description": "Utility to easily take screenshots in Hyprland using your mouse",
@@ -166412,17 +166412,17 @@
   "legacyPackages.x86_64-linux.jetbrains.jcef": {
     "description": "Jetbrains' fork of JCEF",
     "pname": "jcef-jetbrains",
-    "version": "1014"
+    "version": "1083"
   },
   "legacyPackages.x86_64-linux.jetbrains.jdk": {
     "description": "OpenJDK fork to better support Jetbrains's products",
     "pname": "jetbrains-jdk-jcef",
-    "version": "21.0.7-b1038.58"
+    "version": "21.0.8-b1140.54"
   },
   "legacyPackages.x86_64-linux.jetbrains.jdk-no-jcef": {
     "description": "OpenJDK fork to better support Jetbrains's products",
     "pname": "jetbrains-jdk",
-    "version": "21.0.7-b1038.58"
+    "version": "21.0.8-b1140.54"
   },
   "legacyPackages.x86_64-linux.jetbrains.jdk-no-jcef-17": {
     "description": "OpenJDK fork which better supports Jetbrains's products",
@@ -166722,7 +166722,7 @@
   "legacyPackages.x86_64-linux.jj-pre-push": {
     "description": "Run pre-commit.com before `jj git push`",
     "pname": "jj-pre-push",
-    "version": "0.2.1"
+    "version": "0.2.2"
   },
   "legacyPackages.x86_64-linux.jjui": {
     "description": "TUI for Jujutsu VCS",
@@ -174957,7 +174957,7 @@
   "legacyPackages.x86_64-linux.lenovo-legion": {
     "description": "Utility to control Lenovo Legion laptop",
     "pname": "lenovo-legion-app",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.lenpaste": {
     "description": "Web service that allows you to share notes anonymously, an alternative to pastebin.com",
@@ -178092,7 +178092,7 @@
   "legacyPackages.x86_64-linux.libndctl": {
     "description": "Tools for managing the Linux Non-Volatile Memory Device sub-system",
     "pname": "libndctl",
-    "version": "82"
+    "version": "83"
   },
   "legacyPackages.x86_64-linux.libndp": {
     "description": "Library for Neighbor Discovery Protocol",
@@ -183272,7 +183272,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -183422,7 +183422,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -184077,7 +184077,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -184227,7 +184227,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -184882,7 +184882,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -185032,7 +185032,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -185687,7 +185687,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -185837,7 +185837,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -186487,7 +186487,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -186637,7 +186637,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -187292,7 +187292,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -187442,7 +187442,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -188097,7 +188097,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -188247,7 +188247,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -188902,7 +188902,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -189052,7 +189052,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -189707,7 +189707,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -189857,7 +189857,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -190507,7 +190507,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -190657,7 +190657,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -191312,7 +191312,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -191462,7 +191462,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -192117,7 +192117,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -192267,7 +192267,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -192922,7 +192922,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -193072,7 +193072,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -193727,7 +193727,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -193877,7 +193877,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -194532,7 +194532,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -194682,7 +194682,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -195337,7 +195337,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -195487,7 +195487,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxPackages.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -196147,7 +196147,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -196297,7 +196297,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -196952,7 +196952,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -197102,7 +197102,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -197757,7 +197757,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -197907,7 +197907,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -198562,7 +198562,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -198712,7 +198712,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -199367,7 +199367,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -199517,7 +199517,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -200172,7 +200172,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.decklink": {
     "description": "Kernel module for the Blackmagic Design Decklink cards",
     "pname": "decklink",
-    "version": "15.0"
+    "version": "15.1"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.digimend": {
     "description": "DIGImend graphics tablet drivers for the Linux kernel",
@@ -200322,7 +200322,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.lenovo-legion-module": {
     "description": "Linux kernel module for controlling fan and power in Lenovo Legion laptops",
     "pname": "lenovo-legion-module",
-    "version": "0.0.20-unstable-2025-04-01"
+    "version": "0.0.21-unstable-2025-07-11"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.linux-gpib": {
     "description": "Support package for GPIB (IEEE 488) hardware",
@@ -210237,7 +210237,7 @@
   "legacyPackages.x86_64-linux.mac": {
     "description": "APE codec and decompressor",
     "pname": "monkeys-audio",
-    "version": "11.53"
+    "version": "11.54"
   },
   "legacyPackages.x86_64-linux.mac-fdisk": {
     "description": "68K and PowerPC Mac disk partitioning utility, Adélie Linux version",
@@ -214847,12 +214847,12 @@
   "legacyPackages.x86_64-linux.mint-x-icons": {
     "description": "Mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza",
     "pname": "mint-x-icons",
-    "version": "1.7.3"
+    "version": "1.7.4"
   },
   "legacyPackages.x86_64-linux.mint-y-icons": {
     "description": "Mint-Y icon theme",
     "pname": "mint-y-icons",
-    "version": "1.8.6"
+    "version": "1.8.8"
   },
   "legacyPackages.x86_64-linux.minutor": {
     "description": "Easy to use mapping tool for Minecraft",
@@ -215877,7 +215877,7 @@
   "legacyPackages.x86_64-linux.monkeysAudio": {
     "description": "APE codec and decompressor",
     "pname": "monkeys-audio",
-    "version": "11.53"
+    "version": "11.54"
   },
   "legacyPackages.x86_64-linux.monkeysphere": {
     "description": "Leverage the OpenPGP web of trust for SSH and TLS authentication",
@@ -226447,7 +226447,7 @@
   "legacyPackages.x86_64-linux.nuclei-templates": {
     "description": "Templates for the nuclei engine to find security vulnerabilities",
     "pname": "nuclei-templates",
-    "version": "10.2.9"
+    "version": "10.3.0"
   },
   "legacyPackages.x86_64-linux.nucleiparser": {
     "description": "Nuclei output parser for CLI",
@@ -235154,6 +235154,11 @@
     "pname": "onioncircuits",
     "version": "0.8.2"
   },
+  "legacyPackages.x86_64-linux.onionprobe": {
+    "description": "Tooling for onion service monitoring",
+    "pname": "onionprobe",
+    "version": "1.4.0"
+  },
   "legacyPackages.x86_64-linux.onionshare": {
     "description": "Securely and anonymously send and receive files",
     "pname": "onionshare-cli",
@@ -235502,7 +235507,7 @@
   "legacyPackages.x86_64-linux.open-webui": {
     "description": "Comprehensive suite for LLMs with a user-friendly WebUI",
     "pname": "open-webui",
-    "version": "0.6.32"
+    "version": "0.6.33"
   },
   "legacyPackages.x86_64-linux.open5gs": {
     "description": "4G/5G core network components",
@@ -235752,7 +235757,7 @@
   "legacyPackages.x86_64-linux.opencode": {
     "description": "AI coding agent built for the terminal",
     "pname": "opencode",
-    "version": "0.14.5"
+    "version": "0.14.6"
   },
   "legacyPackages.x86_64-linux.opencollada": {
     "description": "Library for handling the COLLADA file format",
@@ -237092,7 +237097,7 @@
   "legacyPackages.x86_64-linux.openxcom": {
     "description": "Open source clone of UFO: Enemy Unknown",
     "pname": "openxcom",
-    "version": "1.0.0.2024.02.28"
+    "version": "1.0.0-unstable-2025-09-28"
   },
   "legacyPackages.x86_64-linux.openxr-loader": {
     "description": "Khronos OpenXR loader",
@@ -282912,7 +282917,7 @@
   "legacyPackages.x86_64-linux.python312Packages.aioshelly": {
     "description": "Python library to control Shelly",
     "pname": "python3.12-aioshelly",
-    "version": "13.11.0"
+    "version": "13.12.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.aioshutil": {
     "description": "Asynchronous version of function of shutil module",
@@ -283857,12 +283862,12 @@
   "legacyPackages.x86_64-linux.python312Packages.arelle": {
     "description": "Open source XBRL platform",
     "pname": "python3.12-arelle",
-    "version": "2.30.25"
+    "version": "2.37.61"
   },
   "legacyPackages.x86_64-linux.python312Packages.arelle-headless": {
     "description": "Open source XBRL platform",
     "pname": "python3.12-arelle-headless",
-    "version": "2.30.25"
+    "version": "2.37.61"
   },
   "legacyPackages.x86_64-linux.python312Packages.aresponses": {
     "description": "Asyncio testing server",
@@ -286717,7 +286722,7 @@
   "legacyPackages.x86_64-linux.python312Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.12-boto3-stubs",
-    "version": "1.40.46"
+    "version": "1.40.47"
   },
   "legacyPackages.x86_64-linux.python312Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -290117,7 +290122,7 @@
   "legacyPackages.x86_64-linux.python312Packages.debian-inspector": {
     "description": "Utilities to parse Debian package, copyright and control files",
     "pname": "python3.12-debian-inspector",
-    "version": "31.1.0"
+    "version": "31.1.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.debianbts": {
     "description": "Python interface to Debian's Bug Tracking System",
@@ -290202,7 +290207,7 @@
   "legacyPackages.x86_64-linux.python312Packages.deepface": {
     "description": "Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
     "pname": "python3.12-deepface",
-    "version": "0.0.94"
+    "version": "0.0.95"
   },
   "legacyPackages.x86_64-linux.python312Packages.deepl": {
     "description": "Language translation API that allows other computer programs to send texts and documents to DeepL's servers and receive high-quality translations",
@@ -292547,7 +292552,7 @@
   "legacyPackages.x86_64-linux.python312Packages.dtw-python": {
     "description": "Python port of R's Comprehensive Dynamic Time Warp algorithms package",
     "pname": "python3.12-dtw-python",
-    "version": "1.5.3"
+    "version": "1.7.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.ducc0": {
     "description": "Efficient algorithms for Fast Fourier transforms and more",
@@ -292672,7 +292677,7 @@
   "legacyPackages.x86_64-linux.python312Packages.dvc-objects": {
     "description": "Library for DVC objects",
     "pname": "python3.12-dvc-objects",
-    "version": "5.1.1"
+    "version": "5.1.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.dvc-oss": {
     "description": "Alibaba OSS plugin for dvc",
@@ -293247,7 +293252,7 @@
   "legacyPackages.x86_64-linux.python312Packages.env-canada": {
     "description": "Python library to get Environment Canada weather data",
     "pname": "python3.12-env-canada",
-    "version": "0.11.2"
+    "version": "0.11.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.environ-config": {
     "description": "Python Application Configuration With Environment Variables",
@@ -294217,7 +294222,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ffmpy": {
     "description": "Simple python interface for FFmpeg/FFprobe",
     "pname": "python3.12-ffmpy",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.fhir-py": {
     "description": "Async/sync API for FHIR resources",
@@ -296152,7 +296157,7 @@
   "legacyPackages.x86_64-linux.python312Packages.githubkit": {
     "description": "GitHub SDK for Python",
     "pname": "python3.12-githubkit",
-    "version": "0.13.3"
+    "version": "0.13.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.gitignore-parser": {
     "description": "Spec-compliant gitignore parser",
@@ -297937,7 +297942,7 @@
   "legacyPackages.x86_64-linux.python312Packages.holidays": {
     "description": "Generate and work with holidays in Python",
     "pname": "python3.12-holidays",
-    "version": "0.81"
+    "version": "0.82"
   },
   "legacyPackages.x86_64-linux.python312Packages.holistic-trace-analysis": {
     "description": "Performance analysis tool to identify bottlenecks in distributed training workloads",
@@ -298487,7 +298492,7 @@
   "legacyPackages.x86_64-linux.python312Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.12-iamdata",
-    "version": "0.1.202510071"
+    "version": "0.1.202510081"
   },
   "legacyPackages.x86_64-linux.python312Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -300657,7 +300662,7 @@
   "legacyPackages.x86_64-linux.python312Packages.kasa-crypt": {
     "description": "Fast kasa crypt",
     "pname": "python3.12-kasa-crypt",
-    "version": "0.6.3"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.kazoo": {
     "description": "Higher Level Zookeeper Client",
@@ -301587,7 +301592,7 @@
   "legacyPackages.x86_64-linux.python312Packages.lib4vex": {
     "description": "Library to ingest and generate VEX documents",
     "pname": "python3.12-lib4vex",
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.lib50": {
     "description": "CS50's own internal library used in many of its tools",
@@ -302592,7 +302597,7 @@
   "legacyPackages.x86_64-linux.python312Packages.lmcloud": {
     "description": "Library to interface with La Marzocco's cloud",
     "pname": "python3.12-pylamarzocco",
-    "version": "2.1.1"
+    "version": "2.1.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.lmdb": {
     "description": "Universal Python binding for the LMDB 'Lightning' Database",
@@ -303797,7 +303802,7 @@
   "legacyPackages.x86_64-linux.python312Packages.meshcore": {
     "description": "Python library for communicating with meshcore companion radios",
     "pname": "python3.12-meshcore",
-    "version": "2.1.7"
+    "version": "2.1.9"
   },
   "legacyPackages.x86_64-linux.python312Packages.meshio": {
     "description": "I/O for mesh files",
@@ -304107,7 +304112,7 @@
   "legacyPackages.x86_64-linux.python312Packages.minio": {
     "description": "Simple APIs to access any Amazon S3 compatible object storage server",
     "pname": "python3.12-minio",
-    "version": "7.2.17"
+    "version": "7.2.18"
   },
   "legacyPackages.x86_64-linux.python312Packages.miniupnpc": {
     "description": "MiniUPnP client",
@@ -304347,7 +304352,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mkdocs-material": {
     "description": "Material for mkdocs",
     "pname": "python3.12-mkdocs-material",
-    "version": "9.6.20"
+    "version": "9.6.21"
   },
   "legacyPackages.x86_64-linux.python312Packages.mkdocs-material-extensions": {
     "description": "Markdown extension resources for MkDocs Material",
@@ -306597,7 +306602,7 @@
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-proton": {
     "description": "Type annotations for boto3 proton",
     "pname": "python3.12-mypy-boto3-proton",
-    "version": "1.40.16"
+    "version": "1.40.47"
   },
   "legacyPackages.x86_64-linux.python312Packages.mypy-boto3-qldb": {
     "description": "Type annotations for boto3 qldb",
@@ -307777,7 +307782,7 @@
   "legacyPackages.x86_64-linux.python312Packages.nicegui-highcharts": {
     "description": "NiceGUI with support for Highcharts",
     "pname": "python3.12-nicegui-highcharts",
-    "version": "2.1.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.nidaqmx": {
     "description": "API for interacting with the NI-DAQmx driver",
@@ -312259,11 +312264,6 @@
     "pname": "python3.12-py-ecc",
     "version": "8.0.0"
   },
-  "legacyPackages.x86_64-linux.python312Packages.py-eth-sig-utils": {
-    "description": "Collection of functions to generate hashes for signing on Ethereum",
-    "pname": "python3.12-py-eth-sig-utils",
-    "version": "0.4.0"
-  },
   "legacyPackages.x86_64-linux.python312Packages.py-evm": {
     "description": "Python implementation of the Ethereum Virtual Machine",
     "pname": "python3.12-py-evm",
@@ -313667,7 +313667,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyexploitdb": {
     "description": "Library to fetch the most recent exploit-database",
     "pname": "python3.12-pyexploitdb",
-    "version": "0.2.100"
+    "version": "0.2.101"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyezvizapi": {
     "description": "Python interface for for Ezviz cameras",
@@ -314347,7 +314347,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyjson5": {
     "description": "JSON5 serializer and parser library",
     "pname": "python3.12-pyjson5",
-    "version": "1.6.9"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyjsparser": {
     "description": "Fast javascript parser (based on esprima.js)",
@@ -314487,7 +314487,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pylamarzocco": {
     "description": "Library to interface with La Marzocco's cloud",
     "pname": "python3.12-pylamarzocco",
-    "version": "2.1.1"
+    "version": "2.1.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pylance": {
     "description": "Python wrapper for Lance columnar format",
@@ -320557,7 +320557,7 @@
   "legacyPackages.x86_64-linux.python312Packages.reflex": {
     "description": "Web apps in pure Python",
     "pname": "python3.12-reflex",
-    "version": "0.8.12"
+    "version": "0.8.14"
   },
   "legacyPackages.x86_64-linux.python312Packages.reflex-chakra": {
     "description": "Chakra Implementation in Reflex",
@@ -322447,7 +322447,7 @@
   "legacyPackages.x86_64-linux.python312Packages.securityreporter": {
     "description": "Python wrapper for the Reporter API",
     "pname": "python3.12-securityreporter",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.seedir": {
     "description": "Module for for creating, editing, and reading folder tree diagrams",
@@ -324747,7 +324747,7 @@
   "legacyPackages.x86_64-linux.python312Packages.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
     "pname": "python3.12-sqlmap",
-    "version": "1.9.9"
+    "version": "1.9.10"
   },
   "legacyPackages.x86_64-linux.python312Packages.sqlmodel": {
     "description": "Module to work with SQL databases",
@@ -325512,7 +325512,7 @@
   "legacyPackages.x86_64-linux.python312Packages.svg-py": {
     "description": "Type-safe Python library to generate SVG files",
     "pname": "python3.12-svg-py",
-    "version": "1.8.0"
+    "version": "1.9.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.svg2tikz": {
     "description": "Set of tools for converting SVG graphics to TikZ/PGF code",
@@ -328127,7 +328127,7 @@
   "legacyPackages.x86_64-linux.python312Packages.trl": {
     "description": "Train transformer language models with reinforcement learning",
     "pname": "python3.12-trl",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.trlib": {
     "description": "Trust Region Subproblem Solver Library",
@@ -330542,7 +330542,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tyro": {
     "description": "CLI interfaces & config objects, from types",
     "pname": "python3.12-tyro",
-    "version": "0.9.28"
+    "version": "0.9.32"
   },
   "legacyPackages.x86_64-linux.python312Packages.tzdata": {
     "description": "Provider of IANA time zone data",
@@ -335082,7 +335082,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aioshelly": {
     "description": "Python library to control Shelly",
     "pname": "python3.13-aioshelly",
-    "version": "13.11.0"
+    "version": "13.12.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.aioshutil": {
     "description": "Asynchronous version of function of shutil module",
@@ -336027,12 +336027,12 @@
   "legacyPackages.x86_64-linux.python313Packages.arelle": {
     "description": "Open source XBRL platform",
     "pname": "python3.13-arelle",
-    "version": "2.30.25"
+    "version": "2.37.61"
   },
   "legacyPackages.x86_64-linux.python313Packages.arelle-headless": {
     "description": "Open source XBRL platform",
     "pname": "python3.13-arelle-headless",
-    "version": "2.30.25"
+    "version": "2.37.61"
   },
   "legacyPackages.x86_64-linux.python313Packages.aresponses": {
     "description": "Asyncio testing server",
@@ -338892,7 +338892,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.40.46"
+    "version": "1.40.47"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -342292,7 +342292,7 @@
   "legacyPackages.x86_64-linux.python313Packages.debian-inspector": {
     "description": "Utilities to parse Debian package, copyright and control files",
     "pname": "python3.13-debian-inspector",
-    "version": "31.1.0"
+    "version": "31.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.debianbts": {
     "description": "Python interface to Debian's Bug Tracking System",
@@ -342377,7 +342377,7 @@
   "legacyPackages.x86_64-linux.python313Packages.deepface": {
     "description": "Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
     "pname": "python3.13-deepface",
-    "version": "0.0.94"
+    "version": "0.0.95"
   },
   "legacyPackages.x86_64-linux.python313Packages.deepl": {
     "description": "Language translation API that allows other computer programs to send texts and documents to DeepL's servers and receive high-quality translations",
@@ -344722,7 +344722,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dtw-python": {
     "description": "Python port of R's Comprehensive Dynamic Time Warp algorithms package",
     "pname": "python3.13-dtw-python",
-    "version": "1.5.3"
+    "version": "1.7.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.ducc0": {
     "description": "Efficient algorithms for Fast Fourier transforms and more",
@@ -344847,7 +344847,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dvc-objects": {
     "description": "Library for DVC objects",
     "pname": "python3.13-dvc-objects",
-    "version": "5.1.1"
+    "version": "5.1.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.dvc-oss": {
     "description": "Alibaba OSS plugin for dvc",
@@ -345422,7 +345422,7 @@
   "legacyPackages.x86_64-linux.python313Packages.env-canada": {
     "description": "Python library to get Environment Canada weather data",
     "pname": "python3.13-env-canada",
-    "version": "0.11.2"
+    "version": "0.11.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.environ-config": {
     "description": "Python Application Configuration With Environment Variables",
@@ -346392,7 +346392,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ffmpy": {
     "description": "Simple python interface for FFmpeg/FFprobe",
     "pname": "python3.13-ffmpy",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.fhir-py": {
     "description": "Async/sync API for FHIR resources",
@@ -348327,7 +348327,7 @@
   "legacyPackages.x86_64-linux.python313Packages.githubkit": {
     "description": "GitHub SDK for Python",
     "pname": "python3.13-githubkit",
-    "version": "0.13.3"
+    "version": "0.13.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.gitignore-parser": {
     "description": "Spec-compliant gitignore parser",
@@ -350112,7 +350112,7 @@
   "legacyPackages.x86_64-linux.python313Packages.holidays": {
     "description": "Generate and work with holidays in Python",
     "pname": "python3.13-holidays",
-    "version": "0.81"
+    "version": "0.82"
   },
   "legacyPackages.x86_64-linux.python313Packages.holistic-trace-analysis": {
     "description": "Performance analysis tool to identify bottlenecks in distributed training workloads",
@@ -350662,7 +350662,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.13-iamdata",
-    "version": "0.1.202510071"
+    "version": "0.1.202510081"
   },
   "legacyPackages.x86_64-linux.python313Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -352832,7 +352832,7 @@
   "legacyPackages.x86_64-linux.python313Packages.kasa-crypt": {
     "description": "Fast kasa crypt",
     "pname": "python3.13-kasa-crypt",
-    "version": "0.6.3"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.kazoo": {
     "description": "Higher Level Zookeeper Client",
@@ -353762,7 +353762,7 @@
   "legacyPackages.x86_64-linux.python313Packages.lib4vex": {
     "description": "Library to ingest and generate VEX documents",
     "pname": "python3.13-lib4vex",
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.lib50": {
     "description": "CS50's own internal library used in many of its tools",
@@ -354767,7 +354767,7 @@
   "legacyPackages.x86_64-linux.python313Packages.lmcloud": {
     "description": "Library to interface with La Marzocco's cloud",
     "pname": "python3.13-pylamarzocco",
-    "version": "2.1.1"
+    "version": "2.1.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.lmdb": {
     "description": "Universal Python binding for the LMDB 'Lightning' Database",
@@ -355972,7 +355972,7 @@
   "legacyPackages.x86_64-linux.python313Packages.meshcore": {
     "description": "Python library for communicating with meshcore companion radios",
     "pname": "python3.13-meshcore",
-    "version": "2.1.7"
+    "version": "2.1.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.meshio": {
     "description": "I/O for mesh files",
@@ -356282,7 +356282,7 @@
   "legacyPackages.x86_64-linux.python313Packages.minio": {
     "description": "Simple APIs to access any Amazon S3 compatible object storage server",
     "pname": "python3.13-minio",
-    "version": "7.2.17"
+    "version": "7.2.18"
   },
   "legacyPackages.x86_64-linux.python313Packages.miniupnpc": {
     "description": "MiniUPnP client",
@@ -356522,7 +356522,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mkdocs-material": {
     "description": "Material for mkdocs",
     "pname": "python3.13-mkdocs-material",
-    "version": "9.6.20"
+    "version": "9.6.21"
   },
   "legacyPackages.x86_64-linux.python313Packages.mkdocs-material-extensions": {
     "description": "Markdown extension resources for MkDocs Material",
@@ -358772,7 +358772,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-proton": {
     "description": "Type annotations for boto3 proton",
     "pname": "python3.13-mypy-boto3-proton",
-    "version": "1.40.16"
+    "version": "1.40.47"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-qldb": {
     "description": "Type annotations for boto3 qldb",
@@ -359952,7 +359952,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nicegui-highcharts": {
     "description": "NiceGUI with support for Highcharts",
     "pname": "python3.13-nicegui-highcharts",
-    "version": "2.1.0"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.nidaqmx": {
     "description": "API for interacting with the NI-DAQmx driver",
@@ -364434,11 +364434,6 @@
     "pname": "python3.13-py-ecc",
     "version": "8.0.0"
   },
-  "legacyPackages.x86_64-linux.python313Packages.py-eth-sig-utils": {
-    "description": "Collection of functions to generate hashes for signing on Ethereum",
-    "pname": "python3.13-py-eth-sig-utils",
-    "version": "0.4.0"
-  },
   "legacyPackages.x86_64-linux.python313Packages.py-evm": {
     "description": "Python implementation of the Ethereum Virtual Machine",
     "pname": "python3.13-py-evm",
@@ -365842,7 +365837,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyexploitdb": {
     "description": "Library to fetch the most recent exploit-database",
     "pname": "python3.13-pyexploitdb",
-    "version": "0.2.100"
+    "version": "0.2.101"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyezvizapi": {
     "description": "Python interface for for Ezviz cameras",
@@ -366522,7 +366517,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyjson5": {
     "description": "JSON5 serializer and parser library",
     "pname": "python3.13-pyjson5",
-    "version": "1.6.9"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyjsparser": {
     "description": "Fast javascript parser (based on esprima.js)",
@@ -366662,7 +366657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pylamarzocco": {
     "description": "Library to interface with La Marzocco's cloud",
     "pname": "python3.13-pylamarzocco",
-    "version": "2.1.1"
+    "version": "2.1.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pylance": {
     "description": "Python wrapper for Lance columnar format",
@@ -372732,7 +372727,7 @@
   "legacyPackages.x86_64-linux.python313Packages.reflex": {
     "description": "Web apps in pure Python",
     "pname": "python3.13-reflex",
-    "version": "0.8.12"
+    "version": "0.8.14"
   },
   "legacyPackages.x86_64-linux.python313Packages.reflex-chakra": {
     "description": "Chakra Implementation in Reflex",
@@ -374622,7 +374617,7 @@
   "legacyPackages.x86_64-linux.python313Packages.securityreporter": {
     "description": "Python wrapper for the Reporter API",
     "pname": "python3.13-securityreporter",
-    "version": "1.2.0"
+    "version": "1.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.seedir": {
     "description": "Module for for creating, editing, and reading folder tree diagrams",
@@ -376922,7 +376917,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
     "pname": "python3.13-sqlmap",
-    "version": "1.9.9"
+    "version": "1.9.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.sqlmodel": {
     "description": "Module to work with SQL databases",
@@ -377732,7 +377727,7 @@
   "legacyPackages.x86_64-linux.python313Packages.svg-py": {
     "description": "Type-safe Python library to generate SVG files",
     "pname": "python3.13-svg-py",
-    "version": "1.8.0"
+    "version": "1.9.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.svg2tikz": {
     "description": "Set of tools for converting SVG graphics to TikZ/PGF code",
@@ -380347,7 +380342,7 @@
   "legacyPackages.x86_64-linux.python313Packages.trl": {
     "description": "Train transformer language models with reinforcement learning",
     "pname": "python3.13-trl",
-    "version": "0.23.0"
+    "version": "0.23.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.trlib": {
     "description": "Trust Region Subproblem Solver Library",
@@ -382762,7 +382757,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tyro": {
     "description": "CLI interfaces & config objects, from types",
     "pname": "python3.13-tyro",
-    "version": "0.9.28"
+    "version": "0.9.32"
   },
   "legacyPackages.x86_64-linux.python313Packages.tzdata": {
     "description": "Provider of IANA time zone data",
@@ -387932,7 +387927,7 @@
   "legacyPackages.x86_64-linux.quarkus": {
     "description": "Kubernetes-native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards",
     "pname": "quarkus-cli",
-    "version": "3.28.1"
+    "version": "3.28.2"
   },
   "legacyPackages.x86_64-linux.quarto": {
     "description": "Open-source scientific and technical publishing system built on Pandoc",
@@ -390722,7 +390717,7 @@
   "legacyPackages.x86_64-linux.rime-wanxiang": {
     "description": "Feature-rich pinyin schema for Rime, basic edition",
     "pname": "rime-wanxiang",
-    "version": "12.6.13"
+    "version": "13.0.6"
   },
   "legacyPackages.x86_64-linux.rime-zhwiki": {
     "description": "RIME dictionary file for entries from zh.wikipedia.org",
@@ -432367,7 +432362,7 @@
   "legacyPackages.x86_64-linux.snipe-it": {
     "description": "Free open source IT asset/license management system",
     "pname": "snipe-it",
-    "version": "8.3.2"
+    "version": "8.3.3"
   },
   "legacyPackages.x86_64-linux.snipes": {
     "description": "Modern port of the classic 1982 text-mode game Snipes",
@@ -434252,7 +434247,7 @@
   "legacyPackages.x86_64-linux.sqlmap": {
     "description": "Automatic SQL injection and database takeover tool",
     "pname": "sqlmap",
-    "version": "1.9.9"
+    "version": "1.9.10"
   },
   "legacyPackages.x86_64-linux.sqlmc": {
     "description": "Tool to check URLs of a domain for SQL injections",
@@ -434887,7 +434882,7 @@
   "legacyPackages.x86_64-linux.stalwart-mail-spam-filter": {
     "description": "Secure & modern all-in-one mail server Stalwart (spam-filter module)",
     "pname": "spam-filter",
-    "version": "2.0.3"
+    "version": "2.0.4"
   },
   "legacyPackages.x86_64-linux.stalwart-mail-webadmin": {
     "description": "Secure & modern all-in-one mail server Stalwart (webadmin module)",
@@ -436137,7 +436132,7 @@
   "legacyPackages.x86_64-linux.sundials": {
     "description": "Suite of nonlinear differential/algebraic equation solvers",
     "pname": "sundials",
-    "version": "7.4.0"
+    "version": "7.5.0"
   },
   "legacyPackages.x86_64-linux.sundtek": {
     "description": "Sundtek MediaTV driver",
@@ -469092,12 +469087,12 @@
   "legacyPackages.x86_64-linux.thunderbird-esr-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-esr-bin",
-    "version": "140.3.0esr"
+    "version": "140.3.1esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-esr-bin-unwrapped": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
     "pname": "thunderbird-bin",
-    "version": "140.3.0esr"
+    "version": "140.3.1esr"
   },
   "legacyPackages.x86_64-linux.thunderbird-esr-unwrapped": {
     "description": "Full-featured e-mail client",
@@ -490372,7 +490367,7 @@
   "legacyPackages.x86_64-linux.vault": {
     "description": "Tool for managing secrets",
     "pname": "vault",
-    "version": "1.20.3"
+    "version": "1.20.4"
   },
   "legacyPackages.x86_64-linux.vault-bin": {
     "description": "Tool for managing secrets, this binary includes the UI",
@@ -490992,7 +490987,7 @@
   "legacyPackages.x86_64-linux.vgmstream": {
     "description": "Library for playback of various streamed audio formats used in video games",
     "pname": "vgmstream",
-    "version": "2023"
+    "version": "2055"
   },
   "legacyPackages.x86_64-linux.vgmtools": {
     "description": "Collection of tools for the VGM file format",
@@ -503517,7 +503512,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion": {
     "description": "Enable Gemini CLI with direct access to your IDE workspace",
     "pname": "vscode-extension-gemini-cli-vscode-ide-companion",
-    "version": "0.7.0"
+    "version": "0.8.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.RoweWilsonFrederiskHolme.wikitext": {
     "description": "Extension that helps users view and write MediaWiki's Wikitext files",
@@ -504177,7 +504172,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.firsttris.vscode-jest-runner": {
     "description": "Simple way to run or debug a single (or multiple) tests from context-menu",
     "pname": "vscode-extension-firsttris-vscode-jest-runner",
-    "version": "0.4.82"
+    "version": "0.4.84"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.foam.foam-vscode": {
     "description": "Personal knowledge management and sharing system for VSCode ",
@@ -504257,7 +504252,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.github.copilot-chat": {
     "description": "GitHub Copilot Chat is a companion extension to GitHub Copilot that houses experimental chat features",
     "pname": "vscode-extension-github-copilot-chat",
-    "version": "0.31.3"
+    "version": "0.31.5"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.github.github-vscode-theme": {
     "description": "GitHub theme for VS Code",
@@ -504712,7 +504707,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-bicep": {
     "description": "Visual Studio Code extension for Bicep language",
     "pname": "vscode-extension-ms-azuretools-vscode-bicep",
-    "version": "0.37.4"
+    "version": "0.38.33"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-containers": {
     "description": "Container Tools Extension for Visual Studio Code ",

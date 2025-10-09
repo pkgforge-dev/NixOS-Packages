@@ -4125,7 +4125,7 @@
 | aqlprofile | 6.4.3 | AQLPROFILE library for AMD HSA runtime API extension support | legacyPackages.x86_64-linux.rocmPackages.aqlprofile |
 | aqlprofile | 6.4.3 | AQLPROFILE library for AMD HSA runtime API extension support | legacyPackages.x86_64-linux.rocmPackages.hsa-amd-aqlprofile-bin |
 | aqua | 2024.3.2 | Test automation IDE from JetBrains | legacyPackages.x86_64-linux.jetbrains.aqua |
-| aquamarine | 0.9.4 | Very light linux rendering backend library | legacyPackages.x86_64-linux.aquamarine |
+| aquamarine | 0.9.5 | Very light linux rendering backend library | legacyPackages.x86_64-linux.aquamarine |
 | aquosctl | 0-unstable-2014-04-06 | Sharp Aquos television RS-232 control application | legacyPackages.x86_64-linux.aquosctl |
 | ar-timestamp-wiper | 0.1.0 | Wipes time stamps from .a files (like ar -D) | legacyPackages.x86_64-linux.haskellPackages.ar-timestamp-wiper |
 | arabi | 1.1 | (La)TeX support for Arabic and Farsi, compliant with Babel | legacyPackages.x86_64-linux.texlivePackages.arabi |
@@ -4202,7 +4202,7 @@
 | arduino-language-server | 0.7.7 | Arduino Language Server based on Clangd to Arduino code autocompletion | legacyPackages.x86_64-linux.arduino-language-server |
 | arduino-mk | 1.6.0 | Makefile for Arduino sketches | legacyPackages.x86_64-linux.arduino-mk |
 | arduinoOTA | 1.4.1 | Tool for uploading programs to Arduino boards over a network | legacyPackages.x86_64-linux.arduinoOTA |
-| arelle | 2.30.25 | Open source XBRL platform | legacyPackages.x86_64-linux.arelle |
+| arelle | 2.37.61 | Open source XBRL platform | legacyPackages.x86_64-linux.arelle |
 | arena | 0.1 | A journaled data store | legacyPackages.x86_64-linux.haskellPackages.arena |
 | arena | 3.10-beta | Chess GUI for analyzing with and playing against various engines | legacyPackages.x86_64-linux.arena |
 | ares | 145 | Open-source multi-system emulator with a focus on accuracy and preservation | legacyPackages.x86_64-linux.ares |
@@ -6537,7 +6537,7 @@
 | blacklist-extensions | 0-unstable-2025-03-09 | Automatically remove playlist entries based on their extension | legacyPackages.x86_64-linux.mpvScripts.blacklistExtensions |
 | blacklist-extensions | 0-unstable-2025-03-09 | Automatically remove playlist entries based on their extension | legacyPackages.x86_64-linux.mpvScripts.occivink.blacklistExtensions |
 | blackmagic | 2.0.0 | In-application debugger for ARM Cortex microcontrollers | legacyPackages.x86_64-linux.blackmagic |
-| blackmagic-desktop-video | 15.0 | Supporting applications for Blackmagic Decklink. Doesn't include the desktop applications, only the helper required to make the driver work | legacyPackages.x86_64-linux.blackmagic-desktop-video |
+| blackmagic-desktop-video | 15.1 | Supporting applications for Blackmagic Decklink. Doesn't include the desktop applications, only the helper required to make the driver work | legacyPackages.x86_64-linux.blackmagic-desktop-video |
 | blackout | 2014-07-29 | Bad-ass, unholy-mother-shut-your-mouth stencil sans-serif | legacyPackages.x86_64-linux.blackout |
 | blackshades | 2.5.2-unstable-2025-03-12 | Psychic bodyguard FPS | legacyPackages.x86_64-linux.blackshades |
 | blacktip | 0.1.0.1 | Decentralized, k-ordered unique ID generator | legacyPackages.x86_64-linux.haskellPackages.blacktip |
@@ -13076,28 +13076,28 @@
 | decision-table | 0.0.4 | An easy way to create Decision Model and Notation decision tables | legacyPackages.x86_64-linux.texlivePackages.decision-table |
 | deck | 1.52.0 | Configuration management and drift detection tool for Kong | legacyPackages.x86_64-linux.deck |
 | decker | 1.60 | Multimedia platform for creating and sharing interactive documents | legacyPackages.x86_64-linux.decker |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_latest.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_lqx.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.decklink |
-| decklink | 15.0 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_zen.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_latest.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_lqx.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.decklink |
+| decklink | 15.1 | Kernel module for the Blackmagic Design Decklink cards | legacyPackages.x86_64-linux.linuxPackages_zen.decklink |
 | deckmaster | 0.9.0 | Application to control your Elgato Stream Deck on Linux | legacyPackages.x86_64-linux.deckmaster |
 | decktape |  | High-quality PDF exporter for HTML presentation frameworks | legacyPackages.x86_64-linux.decktape |
 | declarative | 0.5.4 | DIY Markov Chains | legacyPackages.x86_64-linux.haskellPackages.declarative |
@@ -13986,7 +13986,7 @@
 | docker | 28.4.0 | Open source project to pack, ship and run any application as a lightweight container | legacyPackages.x86_64-linux.docker-client |
 | docker | 28.4.0 | Open source project to pack, ship and run any application as a lightweight container | legacyPackages.x86_64-linux.docker_28 |
 | docker-build-cacher | 2.1.1 | Builds a docker image and caches all of its intermediate stages | legacyPackages.x86_64-linux.haskellPackages.docker-build-cacher |
-| docker-buildx | 0.28.0 | Docker CLI plugin for extended build capabilities with BuildKit | legacyPackages.x86_64-linux.docker-buildx |
+| docker-buildx | 0.29.0 | Docker CLI plugin for extended build capabilities with BuildKit | legacyPackages.x86_64-linux.docker-buildx |
 | docker-color-output | 2.6.1 | Add color to the Docker CLI | legacyPackages.x86_64-linux.docker-color-output |
 | docker-compose | 2.39.4 | Docker CLI plugin to define and run multi-container applications with Docker | legacyPackages.x86_64-linux.docker-compose |
 | docker-compose-language-service | 0.2.0 | Language service for Docker Compose documents | legacyPackages.x86_64-linux.docker-compose-language-service |
@@ -16718,7 +16718,7 @@
 | faustPhysicalModeling | 2.79.3 | Physical models included with faust compiled as jack standalone and lv2 instruments | legacyPackages.x86_64-linux.faustStk |
 | faustlive | 2.5.17 | Standalone just-in-time Faust compiler | legacyPackages.x86_64-linux.faustlive |
 | fava | 1.30.6 | Web interface for beancount | legacyPackages.x86_64-linux.fava |
-| favirecon | 1.0.1 | Tool to detect technologies, WAF, exposed panels and known services | legacyPackages.x86_64-linux.favirecon |
+| favirecon | 1.0.2 | Tool to detect technologies, WAF, exposed panels and known services | legacyPackages.x86_64-linux.favirecon |
 | fawltydeps | 0.20.0 | Find undeclared and/or unused 3rd-party dependencies in your Python project | legacyPackages.x86_64-linux.fawltydeps |
 | fay | 0.24.2.0 | A compiler for Fay, a Haskell subset that compiles to JavaScript | legacyPackages.x86_64-linux.haskellPackages.fay |
 | fay-base | 0.21.2.0 | The base package for Fay | legacyPackages.x86_64-linux.haskellPackages.fay-base |
@@ -17235,8 +17235,8 @@
 | first-latex-doc | 15878 | A document for absolute LaTeX beginners | legacyPackages.x86_64-linux.texlivePackages.first-latex-doc |
 | firstaid | 1.1p | First aid for external LaTeX files and packages that need updating | legacyPackages.x86_64-linux.texlivePackages.firstaid |
 | firstify | 0.1 | Defunctionalisation for Yhc Core | legacyPackages.x86_64-linux.haskellPackages.firstify |
-| fish | 4.1.1 | Smart and user-friendly command line shell | legacyPackages.x86_64-linux.fish |
-| fish | 4.1.1 | Smart and user-friendly command line shell | legacyPackages.x86_64-linux.fishMinimal |
+| fish | 4.1.2 | Smart and user-friendly command line shell | legacyPackages.x86_64-linux.fish |
+| fish | 4.1.2 | Smart and user-friendly command line shell | legacyPackages.x86_64-linux.fishMinimal |
 | fish-fillets-ng | 1.0.1 | Puzzle game | legacyPackages.x86_64-linux.fish-fillets-ng |
 | fish-irssi-unstable | 2021-04-16 |  | legacyPackages.x86_64-linux.fish-irssi |
 | fish-lsp | 1.0.10 | LSP implementation for the fish shell language | legacyPackages.x86_64-linux.fish-lsp |
@@ -17881,7 +17881,7 @@
 | foscam-directory | 0.0.8 | Foscam File format | legacyPackages.x86_64-linux.haskellPackages.foscam-directory |
 | foscam-filename | 0.0.4 | Foscam File format | legacyPackages.x86_64-linux.haskellPackages.foscam-filename |
 | foscam-sort | 0.0.3 | Foscam File format | legacyPackages.x86_64-linux.haskellPackages.foscam-sort |
-| fossil | 2.26 | Simple, high-reliability, distributed software configuration management | legacyPackages.x86_64-linux.fossil |
+| fossil | 2.27 | Simple, high-reliability, distributed software configuration management | legacyPackages.x86_64-linux.fossil |
 | foundation | 0.0.30 | Alternative prelude with batteries and no dependencies | legacyPackages.x86_64-linux.haskellPackages.foundation |
 | foundation-edge | 0.0.3 | foundation's edge with the conventional set of packages | legacyPackages.x86_64-linux.haskellPackages.foundation-edge |
 | foundationdb | 7.3.42 | Open source, distributed, transactional key-value store | legacyPackages.x86_64-linux.foundationdb |
@@ -18456,7 +18456,7 @@
 | gabutdm | 2.7.0 | Simple and fast download manager | legacyPackages.x86_64-linux.gabutdm |
 | gaceta | 1.06 | A class to typeset La Gaceta de la RSME | legacyPackages.x86_64-linux.texlivePackages.gaceta |
 | gact | 0.2 | General Alignment Clustering Tool | legacyPackages.x86_64-linux.haskellPackages.gact |
-| gajim | 2.3.5 | Jabber client written in PyGTK | legacyPackages.x86_64-linux.gajim |
+| gajim | 2.3.6 | Jabber client written in PyGTK | legacyPackages.x86_64-linux.gajim |
 | gala | 8.2.5 | Window & compositing manager based on mutter and designed by elementary for use with Pantheon | legacyPackages.x86_64-linux.pantheon.gala |
 | galah | 0-unstable-2024-04-28 | LLM-powered web honeypot using the OpenAI API | legacyPackages.x86_64-linux.galah |
 | galario | 1.2.2 | GPU Accelerated Library for Analysing Radio Interferometer Observations | legacyPackages.x86_64-linux.galario |
@@ -18813,8 +18813,8 @@
 | gema | 2.0 | General purpose text processing utility based on the concept of pattern matching | legacyPackages.x86_64-linux.gema |
 | gemcap | 0.1.0.1 | a simple Gemini capsule (server) | legacyPackages.x86_64-linux.haskellPackages.gemcap |
 | gemget | 1.9.0 | Command line downloader for the Gemini protocol | legacyPackages.x86_64-linux.gemget |
-| gemini-cli | 0.7.0 | AI agent that brings the power of Gemini directly into your terminal | legacyPackages.x86_64-linux.gemini-cli |
-| gemini-cli-bin | 0.6.1 | AI agent that brings the power of Gemini directly into your terminal | legacyPackages.x86_64-linux.gemini-cli-bin |
+| gemini-cli | 0.8.1 | AI agent that brings the power of Gemini directly into your terminal | legacyPackages.x86_64-linux.gemini-cli |
+| gemini-cli-bin | 0.8.0 | AI agent that brings the power of Gemini directly into your terminal | legacyPackages.x86_64-linux.gemini-cli-bin |
 | gemini-exports | 0.1.0.2 | Generate CSV Exports of Your Gemini Trades, Transfers, & Earn Transactions | legacyPackages.x86_64-linux.haskellPackages.gemini-exports |
 | gemini-router | 0.1.2.0 | A simple Happstack-style Gemini router | legacyPackages.x86_64-linux.haskellPackages.gemini-router |
 | gemini-server | 0.3.0.0 | A lightweight server for the Gemini protocol | legacyPackages.x86_64-linux.haskellPackages.gemini-server |
@@ -20207,7 +20207,7 @@
 | gnome-logs | 45.0 | Log viewer for the systemd journal | legacyPackages.x86_64-linux.gnome-logs |
 | gnome-mahjongg | 48.1 | Disassemble a pile of tiles by removing matching pairs | legacyPackages.x86_64-linux.gnome-mahjongg |
 | gnome-maps | 48.6 | Map application for GNOME 3 | legacyPackages.x86_64-linux.gnome-maps |
-| gnome-menus | 3.36.0 | Library that implements freedesktops's Desktop Menu Specification in GNOME | legacyPackages.x86_64-linux.gnome-menus |
+| gnome-menus | 3.38.1 | Library that implements freedesktops's Desktop Menu Specification in GNOME | legacyPackages.x86_64-linux.gnome-menus |
 | gnome-mime-data | 2.18.0 |  | legacyPackages.x86_64-linux.gnome2.gnome_mime_data |
 | gnome-mines | 48.1 | Clear hidden mines from a minefield | legacyPackages.x86_64-linux.gnome-mines |
 | gnome-monitor-config | 0-unstable-2023-09-26 | Program to help manage GNOME monitor configuration | legacyPackages.x86_64-linux.gnome-monitor-config |
@@ -21161,7 +21161,7 @@
 | gnutls | 3.8.10 | GNU Transport Layer Security Library | legacyPackages.x86_64-linux.gnutls |
 | gnvim | 0.3.1 | GUI for neovim, without any web bloat | legacyPackages.x86_64-linux.gnvim |
 | gnvim-unwrapped | 0.3.1 | GUI for neovim, without any web bloat | legacyPackages.x86_64-linux.gnvim-unwrapped |
-| go | 1.24.7 | Go Programming language | legacyPackages.x86_64-linux.go_1_24 |
+| go | 1.24.8 | Go Programming language | legacyPackages.x86_64-linux.go_1_24 |
 | go | 1.25.1 | Go Programming language | legacyPackages.x86_64-linux.go |
 | go | 1.25.1 | Go Programming language | legacyPackages.x86_64-linux.go_1_25 |
 | go | 1.25.1 | Go Programming language | legacyPackages.x86_64-linux.go_latest |
@@ -21890,8 +21890,8 @@
 | gpx-conduit | 0.1.1 | Read GPX files using conduits | legacyPackages.x86_64-linux.haskellPackages.gpx-conduit |
 | gpx-viewer | 0.5.0 | Simple tool to visualize tracks and waypoints stored in a gpx file | legacyPackages.x86_64-linux.gpx-viewer |
 | gpxlab | 0.7.0 | Program to show and manipulate GPS tracks | legacyPackages.x86_64-linux.gpxlab |
-| gpxsee | 13.48 | GPS log file viewer and analyzer | legacyPackages.x86_64-linux.gpxsee |
-| gpxsee | 13.48 | GPS log file viewer and analyzer | legacyPackages.x86_64-linux.gpxsee-qt6 |
+| gpxsee | 14.0 | GPS log file viewer and analyzer | legacyPackages.x86_64-linux.gpxsee |
+| gpxsee | 14.0 | GPS log file viewer and analyzer | legacyPackages.x86_64-linux.gpxsee-qt6 |
 | gpython | 0.2.0 | Python interpreter written in Go | legacyPackages.x86_64-linux.gpython |
 | gql | 0.41.0 | SQL like query language to perform queries on .git files | legacyPackages.x86_64-linux.gql |
 | gqlgen | 0.17.81 | go generate based graphql server library | legacyPackages.x86_64-linux.gqlgen |
@@ -26623,7 +26623,7 @@
 | hyprpolkitagent | 0.1.3 | Polkit authentication agent written in QT/QML | legacyPackages.x86_64-linux.hyprpolkitagent |
 | hyprprop | 0.1-unstable-2025-08-20 | Xprop replacement for Hyprland | legacyPackages.x86_64-linux.hyprprop |
 | hyprscrolling | 0.51.0 | Hyprland scrolling layout plugin | legacyPackages.x86_64-linux.hyprlandPlugins.hyprscrolling |
-| hyprshell | 4.6.4 | Modern GTK4-based window switcher and application launcher for Hyprland | legacyPackages.x86_64-linux.hyprshell |
+| hyprshell | 4.7.1 | Modern GTK4-based window switcher and application launcher for Hyprland | legacyPackages.x86_64-linux.hyprshell |
 | hyprshot | 1.3.0 | Utility to easily take screenshots in Hyprland using your mouse | legacyPackages.x86_64-linux.hyprshot |
 | hyprsome | 0.1.12-unstable-2024-05-20 | Awesome-like workspaces for Hyprland | legacyPackages.x86_64-linux.hyprsome |
 | hyprspace | 0-unstable-2025-09-28 | Workspace overview plugin for Hyprland | legacyPackages.x86_64-linux.hyprlandPlugins.hyprspace |
@@ -28278,7 +28278,7 @@
 | jc | 1.25.5 | This tool serializes the output of popular command line tools and filetypes to structured JSON output | legacyPackages.x86_64-linux.jc |
 | jcal | 0.5.1 | Jalali calendar is a small and portable free software library to manipulate date and time in Jalali calendar system | legacyPackages.x86_64-linux.jcal |
 | jcdecaux-vls | 0.1.0 | JCDecaux self-service bicycles API client | legacyPackages.x86_64-linux.haskellPackages.jcdecaux-vls |
-| jcef-jetbrains | 1014 | Jetbrains' fork of JCEF | legacyPackages.x86_64-linux.jetbrains.jcef |
+| jcef-jetbrains | 1083 | Jetbrains' fork of JCEF | legacyPackages.x86_64-linux.jetbrains.jcef |
 | jcli | 0.0.47 | Jenkins CLI allows you to manage your Jenkins in an easy way | legacyPackages.x86_64-linux.jcli |
 | jconvolver | 1.1.0 | JACK client and audio file convolver with reverb samples | legacyPackages.x86_64-linux.jconvolver |
 | jd-diff-patch | 2.3.0 | Commandline utility and Go library for diffing and patching JSON values | legacyPackages.x86_64-linux.jd-diff-patch |
@@ -28324,8 +28324,8 @@
 | jet-pilot | 1.35.0 | Open-source Kubernetes desktop client that focuses on less clutter, speed and good looks | legacyPackages.x86_64-linux.jet-pilot |
 | jet-stream | 1.1.0.0 | Yet another streaming library | legacyPackages.x86_64-linux.haskellPackages.jet-stream |
 | jetbrains-jdk | 17.0.15-b1381 | OpenJDK fork which better supports Jetbrains's products | legacyPackages.x86_64-linux.jetbrains.jdk-no-jcef-17 |
-| jetbrains-jdk | 21.0.7-b1038.58 | OpenJDK fork to better support Jetbrains's products | legacyPackages.x86_64-linux.jetbrains.jdk-no-jcef |
-| jetbrains-jdk-jcef | 21.0.7-b1038.58 | OpenJDK fork to better support Jetbrains's products | legacyPackages.x86_64-linux.jetbrains.jdk |
+| jetbrains-jdk | 21.0.8-b1140.54 | OpenJDK fork to better support Jetbrains's products | legacyPackages.x86_64-linux.jetbrains.jdk-no-jcef |
+| jetbrains-jdk-jcef | 21.0.8-b1140.54 | OpenJDK fork to better support Jetbrains's products | legacyPackages.x86_64-linux.jetbrains.jdk |
 | jetbrains-mono | 2.304 | Typeface made for developers | legacyPackages.x86_64-linux.jetbrains-mono |
 | jetbrains-runner | 3.0.6 | Krunner Plugin which allows you to open your recent JetBrains projects | legacyPackages.x86_64-linux.jetbrains-runner |
 | jetbrains-toolbox | 2.9.0.56191 | JetBrains Toolbox | legacyPackages.x86_64-linux.jetbrains-toolbox |
@@ -28385,7 +28385,7 @@
 | jitterentropy-rngd | 1.2.8 | Random number generator, which injects entropy to the kernel | legacyPackages.x86_64-linux.jitterentropy-rngd |
 | jj | 1.9.2 | JSON Stream Editor (command line utility) | legacyPackages.x86_64-linux.jj |
 | jj-fzf | 0.33.0 | Text UI for Jujutsu based on fzf | legacyPackages.x86_64-linux.jj-fzf |
-| jj-pre-push | 0.2.1 | Run pre-commit.com before `jj git push` | legacyPackages.x86_64-linux.jj-pre-push |
+| jj-pre-push | 0.2.2 | Run pre-commit.com before `jj git push` | legacyPackages.x86_64-linux.jj-pre-push |
 | jjui | 0.9.3 | TUI for Jujutsu VCS | legacyPackages.x86_64-linux.jjui |
 | jkmath | 0.1 | Macros for mathematics that make the code more readable | legacyPackages.x86_64-linux.texlivePackages.jkmath |
 | jknapltx | 19440 | Miscellaneous packages by Joerg Knappen | legacyPackages.x86_64-linux.texlivePackages.jknapltx |
@@ -30710,29 +30710,29 @@
 | lendingclub | 0.1.1 | Bindings for the LendingClub marketplace API | legacyPackages.x86_64-linux.haskellPackages.lendingclub |
 | lengthconvert | 1.0a | Express lengths in arbitrary units | legacyPackages.x86_64-linux.texlivePackages.lengthconvert |
 | lenmus | 6.0.1 | Program for learning music | legacyPackages.x86_64-linux.lenmus |
-| lenovo-legion-app | 0.0.20-unstable-2025-04-01 | Utility to control Lenovo Legion laptop | legacyPackages.x86_64-linux.lenovo-legion |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_latest.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_lqx.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lenovo-legion-module |
-| lenovo-legion-module | 0.0.20-unstable-2025-04-01 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_zen.lenovo-legion-module |
+| lenovo-legion-app | 0.0.21-unstable-2025-07-11 | Utility to control Lenovo Legion laptop | legacyPackages.x86_64-linux.lenovo-legion |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_16.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_latest.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_lqx.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lenovo-legion-module |
+| lenovo-legion-module | 0.0.21-unstable-2025-07-11 | Linux kernel module for controlling fan and power in Lenovo Legion laptops | legacyPackages.x86_64-linux.linuxPackages_zen.lenovo-legion-module |
 | lenpaste | 1.3 | Web service that allows you to share notes anonymously, an alternative to pastebin.com | legacyPackages.x86_64-linux.lenpaste |
 | lens | 5.3.5 | Lenses, Folds and Traversals | legacyPackages.x86_64-linux.haskellPackages.lens |
 | lens-accelerate | 0.3.0.0 | Instances to mix lens with Accelerate | legacyPackages.x86_64-linux.haskellPackages.lens-accelerate |
@@ -31589,7 +31589,7 @@
 | libnbd | 1.22.1 | Network Block Device client library in userspace | legacyPackages.x86_64-linux.ocamlPackages.nbd |
 | libnbd | 1.22.1 | Network Block Device client library in userspace | legacyPackages.x86_64-linux.python312Packages.libnbd |
 | libnbd | 1.22.1 | Network Block Device client library in userspace | legacyPackages.x86_64-linux.python313Packages.libnbd |
-| libndctl | 82 | Tools for managing the Linux Non-Volatile Memory Device sub-system | legacyPackages.x86_64-linux.libndctl |
+| libndctl | 83 | Tools for managing the Linux Non-Volatile Memory Device sub-system | legacyPackages.x86_64-linux.libndctl |
 | libndp | 1.9 | Library for Neighbor Discovery Protocol | legacyPackages.x86_64-linux.libndp |
 | libndtypes-unstable | 2019-08-01 | Dynamic types for data description and in-memory computations | legacyPackages.x86_64-linux.libndtypes |
 | libnest2d | 4.12.0 | 2D irregular bin packaging and nesting library written in modern C++ | legacyPackages.x86_64-linux.libnest2d |
@@ -36354,8 +36354,8 @@
 | mint-l-icons | 1.7.6 | Mint-L icon theme | legacyPackages.x86_64-linux.mint-l-icons |
 | mint-l-theme | 2.0.2 | Mint-L theme for the Cinnamon desktop | legacyPackages.x86_64-linux.mint-l-theme |
 | mint-themes | 2.3.2 | Mint-X and Mint-Y themes for the cinnamon desktop | legacyPackages.x86_64-linux.mint-themes |
-| mint-x-icons | 1.7.3 | Mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza | legacyPackages.x86_64-linux.mint-x-icons |
-| mint-y-icons | 1.8.6 | Mint-Y icon theme | legacyPackages.x86_64-linux.mint-y-icons |
+| mint-x-icons | 1.7.4 | Mint/metal theme based on mintified versions of Clearlooks Revamp, Elementary and Faenza | legacyPackages.x86_64-linux.mint-x-icons |
+| mint-y-icons | 1.8.8 | Mint-Y icon theme | legacyPackages.x86_64-linux.mint-y-icons |
 | minted | 3.7.0 | Highlighted source code for LaTeX | legacyPackages.x86_64-linux.texlivePackages.minted |
 | mintspirit | 64461 | LaTeX support for MintSpirit font families | legacyPackages.x86_64-linux.texlivePackages.mintspirit |
 | mintty | 0.1.4 | A reliable way to detect the presence of a MinTTY console on Windows | legacyPackages.x86_64-linux.haskellPackages.mintty |
@@ -36914,8 +36914,8 @@
 | monitorets | 0.10.1 | Simple and quick view at the usage of your computer resources | legacyPackages.x86_64-linux.monitorets |
 | monitoring-plugins | 2.4.0 | Official monitoring plugins for Nagios/Icinga/Sensu and others | legacyPackages.x86_64-linux.monitoring-plugins |
 | monitoring-plugins | 2.4.0 | Official monitoring plugins for Nagios/Icinga/Sensu and others | legacyPackages.x86_64-linux.nagiosPluginsOfficial |
-| monkeys-audio | 11.53 | APE codec and decompressor | legacyPackages.x86_64-linux.mac |
-| monkeys-audio | 11.53 | APE codec and decompressor | legacyPackages.x86_64-linux.monkeysAudio |
+| monkeys-audio | 11.54 | APE codec and decompressor | legacyPackages.x86_64-linux.mac |
+| monkeys-audio | 11.54 | APE codec and decompressor | legacyPackages.x86_64-linux.monkeysAudio |
 | monkeysphere | 0.44 | Leverage the OpenPGP web of trust for SSH and TLS authentication | legacyPackages.x86_64-linux.monkeysphere |
 | monky | 2.2.1.1 | A system state collecting library and application | legacyPackages.x86_64-linux.haskellPackages.monky |
 | mono | 6.14.1 | Cross platform, open source .NET development framework | legacyPackages.x86_64-linux.mono |
@@ -39352,7 +39352,7 @@
 | nuclear | 0.6.48 | Streaming music player that finds free music for you | legacyPackages.x86_64-linux.nuclear |
 | nucleardata | 1.1 | Provides data about atomic nuclides for documents | legacyPackages.x86_64-linux.texlivePackages.nucleardata |
 | nuclei | 3.4.10 | Tool for configurable targeted scanning | legacyPackages.x86_64-linux.nuclei |
-| nuclei-templates | 10.2.9 | Templates for the nuclei engine to find security vulnerabilities | legacyPackages.x86_64-linux.nuclei-templates |
+| nuclei-templates | 10.3.0 | Templates for the nuclei engine to find security vulnerabilities | legacyPackages.x86_64-linux.nuclei-templates |
 | nucleiparser | 0.2.1 | Nuclei output parser for CLI | legacyPackages.x86_64-linux.nucleiparser |
 | nucleus | 1 | Unofficial GNOME Periodic Table | legacyPackages.x86_64-linux.nucleus |
 | nudoku | 5.0.0 | Ncurses based sudoku game | legacyPackages.x86_64-linux.nudoku |
@@ -41710,7 +41710,7 @@
 | ollama | 0.12.3 | Get up and running with large language models locally, using ROCm for AMD GPU acceleration | legacyPackages.x86_64-linux.ollama-rocm |
 | ollama-haskell | 0.2.0.0 | Haskell client for ollama | legacyPackages.x86_64-linux.haskellPackages.ollama-haskell |
 | ollama-holes-plugin | 0.1.6.0 | A typed-hole plugin that uses LLMs to generate valid hole-fits | legacyPackages.x86_64-linux.haskellPackages.ollama-holes-plugin |
-| olm | 1.1.2 | Tunneling client for Pangolin | legacyPackages.x86_64-linux.fosrl-olm |
+| olm | 1.1.3 | Tunneling client for Pangolin | legacyPackages.x86_64-linux.fosrl-olm |
 | olm | 3.2.16 | Implements double cryptographic ratchet and Megolm ratchet | legacyPackages.x86_64-linux.olm |
 | ols | 0-unstable-2025-09-19 | Language server for the Odin programming language | legacyPackages.x86_64-linux.ols |
 | olsak-misc-Apr._2025 |  | Collection of plain TeX macros written by Petr Olsak | legacyPackages.x86_64-linux.texlivePackages.olsak-misc |
@@ -41812,6 +41812,7 @@
 | oniguruma | 6.9.10 | Regular expressions library | legacyPackages.x86_64-linux.oniguruma |
 | onionbalance | 0.2.4 | Tool for loadbalancing onion services | legacyPackages.x86_64-linux.onionbalance |
 | onioncircuits | 0.8.2 | GTK application to display Tor circuits and streams | legacyPackages.x86_64-linux.onioncircuits |
+| onionprobe | 1.4.0 | Tooling for onion service monitoring | legacyPackages.x86_64-linux.onionprobe |
 | onionshare | 2.6.3 | Securely and anonymously send and receive files | legacyPackages.x86_64-linux.onionshare-gui |
 | onionshare-cli | 2.6.3 | Securely and anonymously send and receive files | legacyPackages.x86_64-linux.onionshare |
 | oniux | 0.6.1 | Isolate Applications over Tor using Linux Namespaces | legacyPackages.x86_64-linux.oniux |
@@ -41901,7 +41902,7 @@
 | open-watcom-v2-unwrapped | 0-unstable-2025-05-07 | V2 fork of the Open Watcom suite of compilers and tools | legacyPackages.x86_64-linux.open-watcom-v2-unwrapped |
 | open-wbo | 2.0 | State-of-the-art MaxSAT and Pseudo-Boolean solver | legacyPackages.x86_64-linux.open-wbo |
 | open-web-calendar | 1.49 | Highly customizable web calendar that can be embedded into websites using ICal source links | legacyPackages.x86_64-linux.open-web-calendar |
-| open-webui | 0.6.32 | Comprehensive suite for LLMs with a user-friendly WebUI | legacyPackages.x86_64-linux.open-webui |
+| open-webui | 0.6.33 | Comprehensive suite for LLMs with a user-friendly WebUI | legacyPackages.x86_64-linux.open-webui |
 | open-witness | 0.7 | open witnesses | legacyPackages.x86_64-linux.haskellPackages.open-witness |
 | open5gs | 2.7.6 | 4G/5G core network components | legacyPackages.x86_64-linux.open5gs |
 | open5gs-webui | 2.7.6 | 4G/5G core network components | legacyPackages.x86_64-linux.open5gs-webui |
@@ -42012,7 +42013,7 @@
 | opencloud-desktop | 2.0.0 | Desktop Application for OpenCloud | legacyPackages.x86_64-linux.opencloud-desktop |
 | opencloud-desktop-shell-integration-dolphin | 1.0.0 | OpenCloud Desktop shell integration for the great KDE Dolphin in KDE Frameworks 6 | legacyPackages.x86_64-linux.opencloud-desktop-shell-integration-dolphin |
 | opencloud-desktop-shell-integration-resources | 1.0.0 | Shared assets for OpenCloud desktop shell integrations | legacyPackages.x86_64-linux.opencloud-desktop-shell-integration-resources |
-| opencode | 0.14.5 | AI coding agent built for the terminal | legacyPackages.x86_64-linux.opencode |
+| opencode | 0.14.6 | AI coding agent built for the terminal | legacyPackages.x86_64-linux.opencode |
 | opencog-atomspace | 0.1.0.8 | Haskell Bindings for the AtomSpace | legacyPackages.x86_64-linux.haskellPackages.opencog-atomspace |
 | opencollada | 0-unstable-2025-01-30 | Library for handling the COLLADA file format | legacyPackages.x86_64-linux.opencollada-blender |
 | opencollada | 1.6.68 | Library for handling the COLLADA file format | legacyPackages.x86_64-linux.opencollada |
@@ -42398,7 +42399,7 @@
 | openwebrx | 1.2.2 | Simple DSP library and command-line tool for Software Defined Radio | legacyPackages.x86_64-linux.openwebrx |
 | openwith-unstable | 2022-10-28 | Utility to specify which application bundle should open specific file extensions | legacyPackages.x86_64-linux.darwin.openwith |
 | openwsman | 2.8.1 | Open source implementation of WS-Management | legacyPackages.x86_64-linux.openwsman |
-| openxcom | 1.0.0.2024.02.28 | Open source clone of UFO: Enemy Unknown | legacyPackages.x86_64-linux.openxcom |
+| openxcom | 1.0.0-unstable-2025-09-28 | Open source clone of UFO: Enemy Unknown | legacyPackages.x86_64-linux.openxcom |
 | openxr-loader | 1.1.51 | Khronos OpenXR loader | legacyPackages.x86_64-linux.openxr-loader |
 | openxray | 2921-january-2025-rc1 | Improved version of the X-Ray Engine, the game engine used in the world-famous S.T.A.L.K.E.R. game series by GSC Game World | legacyPackages.x86_64-linux.openxray |
 | openzone-cursors | 1.2.9 | Clean and sharp X11/Wayland cursor theme | legacyPackages.x86_64-linux.openzone-cursors |
@@ -53260,7 +53261,7 @@
 | python3.12-aiosasl | 0.5.0 | Asyncio SASL library | legacyPackages.x86_64-linux.python312Packages.aiosasl |
 | python3.12-aiosenz | 1.0.0 | Python wrapper for the nVent Raychem SENZ RestAPI | legacyPackages.x86_64-linux.python312Packages.aiosenz |
 | python3.12-aioserial | 1.3.1 | Python module for async serial communication | legacyPackages.x86_64-linux.python312Packages.aioserial |
-| python3.12-aioshelly | 13.11.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python312Packages.aioshelly |
+| python3.12-aioshelly | 13.12.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python312Packages.aioshelly |
 | python3.12-aioshutil | 1.6.a1 | Asynchronous version of function of shutil module | legacyPackages.x86_64-linux.python312Packages.aioshutil |
 | python3.12-aiosignal | 1.4.0 | Python list of registered asynchronous callbacks | legacyPackages.x86_64-linux.python312Packages.aiosignal |
 | python3.12-aioskybell | 23.12.0 | API client for Skybell doorbells | legacyPackages.x86_64-linux.python312Packages.aioskybell |
@@ -53453,8 +53454,8 @@
 | python3.12-archinfo | 9.2.154 | Classes with architecture-specific information | legacyPackages.x86_64-linux.python312Packages.archinfo |
 | python3.12-archspec | 0.2.5 | Library for detecting, labeling, and reasoning about microarchitectures | legacyPackages.x86_64-linux.python312Packages.archspec |
 | python3.12-area | 1.1.1 | Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox’s geojson-area for Python | legacyPackages.x86_64-linux.python312Packages.area |
-| python3.12-arelle | 2.30.25 | Open source XBRL platform | legacyPackages.x86_64-linux.python312Packages.arelle |
-| python3.12-arelle-headless | 2.30.25 | Open source XBRL platform | legacyPackages.x86_64-linux.python312Packages.arelle-headless |
+| python3.12-arelle | 2.37.61 | Open source XBRL platform | legacyPackages.x86_64-linux.python312Packages.arelle |
+| python3.12-arelle-headless | 2.37.61 | Open source XBRL platform | legacyPackages.x86_64-linux.python312Packages.arelle-headless |
 | python3.12-aresponses | 3.0.0 | Asyncio testing server | legacyPackages.x86_64-linux.python312Packages.aresponses |
 | python3.12-argcomplete | 3.6.2 | Bash tab completion for argparse | legacyPackages.x86_64-linux.python312Packages.argcomplete |
 | python3.12-argh | 0.31.3 | Unobtrusive argparse wrapper with natural syntax | legacyPackages.x86_64-linux.python312Packages.argh |
@@ -54018,7 +54019,7 @@
 | python3.12-bot-safe-agents | 1.1 | Library for fetching a list of bot-safe user agents | legacyPackages.x86_64-linux.python312Packages.bot-safe-agents |
 | python3.12-botan3 | 3.9.0 | Python Bindings for botan3 cryptography library | legacyPackages.x86_64-linux.python312Packages.botan3 |
 | python3.12-boto3 | 1.40.18 | AWS SDK for Python | legacyPackages.x86_64-linux.python312Packages.boto3 |
-| python3.12-boto3-stubs | 1.40.46 | Type annotations for boto3 | legacyPackages.x86_64-linux.python312Packages.boto3-stubs |
+| python3.12-boto3-stubs | 1.40.47 | Type annotations for boto3 | legacyPackages.x86_64-linux.python312Packages.boto3-stubs |
 | python3.12-botocore | 1.40.18 | Low-level interface to a growing number of Amazon Web Services | legacyPackages.x86_64-linux.python312Packages.botocore |
 | python3.12-botocore-stubs | 1.40.33 | Type annotations and code completion for botocore | legacyPackages.x86_64-linux.python312Packages.botocore-stubs |
 | python3.12-botorch | 0.15.1 | Bayesian Optimization in PyTorch | legacyPackages.x86_64-linux.python312Packages.botorch |
@@ -54691,7 +54692,7 @@
 | python3.12-deal | 4.24.5 | Library for design by contract (DbC) and checking values, exceptions, and side-effects | legacyPackages.x86_64-linux.python312Packages.deal |
 | python3.12-deal-solver | 0.1.2 | Z3-powered solver (theorem prover) for deal | legacyPackages.x86_64-linux.python312Packages.deal-solver |
 | python3.12-deap | 1.4.3 | Novel evolutionary computation framework for rapid prototyping and testing of ideas | legacyPackages.x86_64-linux.python312Packages.deap |
-| python3.12-debian-inspector | 31.1.0 | Utilities to parse Debian package, copyright and control files | legacyPackages.x86_64-linux.python312Packages.debian-inspector |
+| python3.12-debian-inspector | 31.1.1 | Utilities to parse Debian package, copyright and control files | legacyPackages.x86_64-linux.python312Packages.debian-inspector |
 | python3.12-debtcollector | 3.0.0 | Collection of Python deprecation patterns and strategies that help you collect your technical debt in a non-destructive manner | legacyPackages.x86_64-linux.python312Packages.debtcollector |
 | python3.12-debts | 0.5 | Simple library and cli-tool to help you solve some debts settlement scenarios | legacyPackages.x86_64-linux.python312Packages.debts |
 | python3.12-debuglater | 1.4.4 | Module for post-mortem debugging of Python programs | legacyPackages.x86_64-linux.python312Packages.debuglater |
@@ -54707,7 +54708,7 @@
 | python3.12-deep-translator | 1.11.4 | Python tool to translate between different languages by using multiple translators | legacyPackages.x86_64-linux.python312Packages.deep-translator |
 | python3.12-deepdiff | 8.6.1 | Deep Difference and Search of any Python object/data | legacyPackages.x86_64-linux.python312Packages.deepdiff |
 | python3.12-deepdish | 0.3.7 | Flexible HDF5 saving/loading and other data science tools from the University of Chicago | legacyPackages.x86_64-linux.python312Packages.deepdish |
-| python3.12-deepface | 0.0.94 | Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python | legacyPackages.x86_64-linux.python312Packages.deepface |
+| python3.12-deepface | 0.0.95 | Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python | legacyPackages.x86_64-linux.python312Packages.deepface |
 | python3.12-deepl | 1.22.0 | Language translation API that allows other computer programs to send texts and documents to DeepL's servers and receive high-quality translations | legacyPackages.x86_64-linux.python312Packages.deepl |
 | python3.12-deepmerge | 2.0 | Toolset to deeply merge python dictionaries | legacyPackages.x86_64-linux.python312Packages.deepmerge |
 | python3.12-deepsearch-glm | 1.0.0 | Create fast graph language models from converted PDF documents for knowledge extraction and Q&A | legacyPackages.x86_64-linux.python312Packages.deepsearch-glm |
@@ -55171,7 +55172,7 @@
 | python3.12-dtfabric | 20230520 | Project to manage data types and structures, as used in the libyal projects | legacyPackages.x86_64-linux.python312Packages.dtfabric |
 | python3.12-dtlssocket | 0.2.3 | Cython wrapper for tinydtls with a Socket like interface | legacyPackages.x86_64-linux.python312Packages.dtlssocket |
 | python3.12-dtschema | 2025.08 | Tooling for devicetree validation using YAML and jsonschema | legacyPackages.x86_64-linux.python312Packages.dtschema |
-| python3.12-dtw-python | 1.5.3 | Python port of R's Comprehensive Dynamic Time Warp algorithms package | legacyPackages.x86_64-linux.python312Packages.dtw-python |
+| python3.12-dtw-python | 1.7.2 | Python port of R's Comprehensive Dynamic Time Warp algorithms package | legacyPackages.x86_64-linux.python312Packages.dtw-python |
 | python3.12-ducc0 | 0.39.0 | Efficient algorithms for Fast Fourier transforms and more | legacyPackages.x86_64-linux.python312Packages.ducc0 |
 | python3.12-duckdb | 1.3.2 | Python binding for DuckDB | legacyPackages.x86_64-linux.python312Packages.duckdb |
 | python3.12-duckdb-engine | 0.17.0 | SQLAlchemy driver for duckdb | legacyPackages.x86_64-linux.python312Packages.duckdb-engine |
@@ -55196,7 +55197,7 @@
 | python3.12-dvc-gs | 3.0.2 | gs plugin for dvc | legacyPackages.x86_64-linux.python312Packages.dvc-gs |
 | python3.12-dvc-hdfs | 3.0.0 | HDFS/WebHDFS plugin for dvc | legacyPackages.x86_64-linux.python312Packages.dvc-hdfs |
 | python3.12-dvc-http | 2.32.0 | HTTP plugin for dvc | legacyPackages.x86_64-linux.python312Packages.dvc-http |
-| python3.12-dvc-objects | 5.1.1 | Library for DVC objects | legacyPackages.x86_64-linux.python312Packages.dvc-objects |
+| python3.12-dvc-objects | 5.1.2 | Library for DVC objects | legacyPackages.x86_64-linux.python312Packages.dvc-objects |
 | python3.12-dvc-oss | 3.0.0 | Alibaba OSS plugin for dvc | legacyPackages.x86_64-linux.python312Packages.dvc-oss |
 | python3.12-dvc-render | 1.0.2 | Library for rendering DVC plots | legacyPackages.x86_64-linux.python312Packages.dvc-render |
 | python3.12-dvc-s3 | 3.2.2 | S3 plugin for dvc | legacyPackages.x86_64-linux.python312Packages.dvc-s3 |
@@ -55306,7 +55307,7 @@
 | python3.12-entrypoint2 | 1.1 | Easy to use command-line interface for python modules | legacyPackages.x86_64-linux.python312Packages.entrypoint2 |
 | python3.12-entrypoints | 0.4 | Discover and load entry points from installed packages | legacyPackages.x86_64-linux.python312Packages.entrypoints |
 | python3.12-enturclient | 0.2.4 | Python library for interacting with the Entur.org API | legacyPackages.x86_64-linux.python312Packages.enturclient |
-| python3.12-env-canada | 0.11.2 | Python library to get Environment Canada weather data | legacyPackages.x86_64-linux.python312Packages.env-canada |
+| python3.12-env-canada | 0.11.3 | Python library to get Environment Canada weather data | legacyPackages.x86_64-linux.python312Packages.env-canada |
 | python3.12-environ-config | 24.1.0 | Python Application Configuration With Environment Variables | legacyPackages.x86_64-linux.python312Packages.environ-config |
 | python3.12-environmental-override | 0.1.2 | Easily configure apps using simple environmental overrides | legacyPackages.x86_64-linux.python312Packages.environmental-override |
 | python3.12-environs | 14.3.0 | Python modle for environment variable parsing | legacyPackages.x86_64-linux.python312Packages.environs |
@@ -55497,7 +55498,7 @@
 | python3.12-ffcv | 1.0.0 | FFCV: Fast Forward Computer Vision | legacyPackages.x86_64-linux.python312Packages.ffcv |
 | python3.12-ffmpeg-progress-yield | 1.0.2 | Run an ffmpeg command with progress | legacyPackages.x86_64-linux.python312Packages.ffmpeg-progress-yield |
 | python3.12-ffmpeg-python | 0.2.0-unstable-2022-07-11 | Python bindings for FFmpeg - with complex filtering support | legacyPackages.x86_64-linux.python312Packages.ffmpeg-python |
-| python3.12-ffmpy | 0.6.1 | Simple python interface for FFmpeg/FFprobe | legacyPackages.x86_64-linux.python312Packages.ffmpy |
+| python3.12-ffmpy | 0.6.2 | Simple python interface for FFmpeg/FFprobe | legacyPackages.x86_64-linux.python312Packages.ffmpy |
 | python3.12-fhir-py | 2.1.0 | Async/sync API for FHIR resources | legacyPackages.x86_64-linux.python312Packages.fhir-py |
 | python3.12-fiblary3-fork | 0.1.12 | Fibaro Home Center API Python Library | legacyPackages.x86_64-linux.python312Packages.fiblary3-fork |
 | python3.12-fickling | 0.1.3 | Python pickling decompiler and static analyzer | legacyPackages.x86_64-linux.python312Packages.fickling |
@@ -55876,7 +55877,7 @@
 | python3.12-github-webhook | 1.0.4 | Framework for writing webhooks for GitHub | legacyPackages.x86_64-linux.python312Packages.github-webhook |
 | python3.12-github3-py | 4.0.1 | Wrapper for the GitHub API written in python | legacyPackages.x86_64-linux.python312Packages.github3-py |
 | python3.12-github3-py | 4.0.1 | Wrapper for the GitHub API written in python | legacyPackages.x86_64-linux.python312Packages.github3_py |
-| python3.12-githubkit | 0.13.3 | GitHub SDK for Python | legacyPackages.x86_64-linux.python312Packages.githubkit |
+| python3.12-githubkit | 0.13.4 | GitHub SDK for Python | legacyPackages.x86_64-linux.python312Packages.githubkit |
 | python3.12-gitignore-parser | 0.1.13 | Spec-compliant gitignore parser | legacyPackages.x86_64-linux.python312Packages.gitignore-parser |
 | python3.12-gitingest | 0.3.1 | Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase | legacyPackages.x86_64-linux.python312Packages.gitingest |
 | python3.12-gitlike-commands | 0.3.0 | Easy python module for creating git-style subcommand handling | legacyPackages.x86_64-linux.python312Packages.gitlike-commands |
@@ -56230,7 +56231,7 @@
 | python3.12-hnswlib | 0.8.0 | Header-only C++/python library for fast approximate nearest neighbors | legacyPackages.x86_64-linux.python312Packages.hnswlib |
 | python3.12-hocr-tools | 1.3.0 | Tools for manipulating and evaluating the hOCR format for representing multi-lingual OCR results by embedding them into HTML | legacyPackages.x86_64-linux.python312Packages.hocr-tools |
 | python3.12-hole | 0.9.0 | Python API for interacting with a Pihole instance | legacyPackages.x86_64-linux.python312Packages.hole |
-| python3.12-holidays | 0.81 | Generate and work with holidays in Python | legacyPackages.x86_64-linux.python312Packages.holidays |
+| python3.12-holidays | 0.82 | Generate and work with holidays in Python | legacyPackages.x86_64-linux.python312Packages.holidays |
 | python3.12-hologram | 0.0.16 | Library for automatically generating Draft 7 JSON Schemas from Python dataclasses | legacyPackages.x86_64-linux.python312Packages.hologram |
 | python3.12-holoviews | 1.21.0 | Python data analysis and visualization seamless and simple | legacyPackages.x86_64-linux.python312Packages.holoviews |
 | python3.12-home-assistant-bluetooth | 2.0.0 | Basic bluetooth models used by Home Assistant | legacyPackages.x86_64-linux.python312Packages.home-assistant-bluetooth |
@@ -56338,7 +56339,7 @@
 | python3.12-i2csense | 0.0.4 | Library to handle i2c sensors with the Raspberry Pi | legacyPackages.x86_64-linux.python312Packages.i2csense |
 | python3.12-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python312Packages.i3-py |
 | python3.12-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python312Packages.i3ipc |
-| python3.12-iamdata | 0.1.202510071 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
+| python3.12-iamdata | 0.1.202510081 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
 | python3.12-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python312Packages.iammeter |
 | python3.12-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python312Packages.iapws |
 | python3.12-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python312Packages.iaqualink |
@@ -56775,7 +56776,7 @@
 | python3.12-karton-dashboard | 1.6.0 | Web application that allows for Karton task and queue introspection | legacyPackages.x86_64-linux.python312Packages.karton-dashboard |
 | python3.12-karton-mwdb-reporter | 1.3.0 | Karton service that uploads analyzed artifacts and metadata to MWDB Core | legacyPackages.x86_64-linux.python312Packages.karton-mwdb-reporter |
 | python3.12-karton-yaramatcher | 1.3.0 | File and analysis artifacts yara matcher for the Karton framework | legacyPackages.x86_64-linux.python312Packages.karton-yaramatcher |
-| python3.12-kasa-crypt | 0.6.3 | Fast kasa crypt | legacyPackages.x86_64-linux.python312Packages.kasa-crypt |
+| python3.12-kasa-crypt | 1.1.0 | Fast kasa crypt | legacyPackages.x86_64-linux.python312Packages.kasa-crypt |
 | python3.12-kazoo | 2.10.0 | Higher Level Zookeeper Client | legacyPackages.x86_64-linux.python312Packages.kazoo |
 | python3.12-kconfiglib | 14.1.0 | Flexible Python 2/3 Kconfig implementation and library | legacyPackages.x86_64-linux.python312Packages.kconfiglib |
 | python3.12-kde-material-you-colors | 1.10.1 | Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You | legacyPackages.x86_64-linux.python312Packages.kde-material-you-colors |
@@ -56958,7 +56959,7 @@
 | python3.12-lgpio | 0.2.2 | Linux C libraries and Python modules for manipulating GPIO | legacyPackages.x86_64-linux.python312Packages.rgpio |
 | python3.12-lib4package | 0.3.3 | Utility for handling package metadata to include in Software Bill of Materials (SBOMs) | legacyPackages.x86_64-linux.python312Packages.lib4package |
 | python3.12-lib4sbom | 0.8.8 | Library to ingest and generate SBOMs | legacyPackages.x86_64-linux.python312Packages.lib4sbom |
-| python3.12-lib4vex | 0.2.0 | Library to ingest and generate VEX documents | legacyPackages.x86_64-linux.python312Packages.lib4vex |
+| python3.12-lib4vex | 0.2.1 | Library to ingest and generate VEX documents | legacyPackages.x86_64-linux.python312Packages.lib4vex |
 | python3.12-lib50 | 3.1.4 | CS50's own internal library used in many of its tools | legacyPackages.x86_64-linux.python312Packages.lib50 |
 | python3.12-libagent | 0.15.0 | Using hardware wallets as SSH/GPG agent | legacyPackages.x86_64-linux.python312Packages.libagent |
 | python3.12-libais | 0.17 | Library for decoding maritime Automatic Identification System messages | legacyPackages.x86_64-linux.python312Packages.libais |
@@ -57380,7 +57381,7 @@
 | python3.12-merkletools | 1.0.3 | Python tools for creating Merkle trees, generating Merkle proofs, and verification of Merkle proofs | legacyPackages.x86_64-linux.python312Packages.merkletools |
 | python3.12-meross-iot | 0.4.10.3 | Python library to interact with Meross devices | legacyPackages.x86_64-linux.python312Packages.meross-iot |
 | python3.12-meshcat | 0.3.2 | WebGL-based 3D visualizer for Python | legacyPackages.x86_64-linux.python312Packages.meshcat |
-| python3.12-meshcore | 2.1.7 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python312Packages.meshcore |
+| python3.12-meshcore | 2.1.9 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python312Packages.meshcore |
 | python3.12-meshio | 5.3.5 | I/O for mesh files | legacyPackages.x86_64-linux.python312Packages.meshio |
 | python3.12-meshlabxml | 2018.3 | Create and run MeshLab XML scripts with Python | legacyPackages.x86_64-linux.python312Packages.meshlabxml |
 | python3.12-meshtastic | 2.7.3 | Python API for talking to Meshtastic devices | legacyPackages.x86_64-linux.python312Packages.meshtastic |
@@ -57439,7 +57440,7 @@
 | python3.12-minikerberos-bad | 0.4.4 | Kerberos manipulation library in pure Python | legacyPackages.x86_64-linux.python312Packages.minikerberos-bad |
 | python3.12-minimal-snowplow-tracker | 0.0.2 | Minimal snowplow event tracker | legacyPackages.x86_64-linux.python312Packages.minimal-snowplow-tracker |
 | python3.12-minimock | 1.3.0 | Minimalistic mocking library | legacyPackages.x86_64-linux.python312Packages.minimock |
-| python3.12-minio | 7.2.17 | Simple APIs to access any Amazon S3 compatible object storage server | legacyPackages.x86_64-linux.python312Packages.minio |
+| python3.12-minio | 7.2.18 | Simple APIs to access any Amazon S3 compatible object storage server | legacyPackages.x86_64-linux.python312Packages.minio |
 | python3.12-miniupnpc | 2.3.3 | MiniUPnP client | legacyPackages.x86_64-linux.python312Packages.miniupnpc |
 | python3.12-mip | 1.15.0 | Collection of Python tools for the modeling and solution of Mixed-Integer Linear programs (MIPs) | legacyPackages.x86_64-linux.python312Packages.mip |
 | python3.12-mir-eval | 0.8.2 | Common metrics for common audio/music processing tasks | legacyPackages.x86_64-linux.python312Packages.mir-eval |
@@ -57487,7 +57488,7 @@
 | python3.12-mkdocs-macros-plugin | 1.3.9 | Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code | legacyPackages.x86_64-linux.python312Packages.mkdocs-macros-plugin |
 | python3.12-mkdocs-macros-test | 0.1.0 | Implementation of a (model) pluglet for mkdocs-macros | legacyPackages.x86_64-linux.python312Packages.mkdocs-macros-test |
 | python3.12-mkdocs-markmap | 2.5.2 | MkDocs plugin and extension to create mindmaps from markdown using markmap | legacyPackages.x86_64-linux.python312Packages.mkdocs-markmap |
-| python3.12-mkdocs-material | 9.6.20 | Material for mkdocs | legacyPackages.x86_64-linux.python312Packages.mkdocs-material |
+| python3.12-mkdocs-material | 9.6.21 | Material for mkdocs | legacyPackages.x86_64-linux.python312Packages.mkdocs-material |
 | python3.12-mkdocs-material-extensions | 1.3.1 | Markdown extension resources for MkDocs Material | legacyPackages.x86_64-linux.python312Packages.mkdocs-material-extensions |
 | python3.12-mkdocs-mermaid2-plugin | 1.2.2 | MkDocs plugin for including mermaid graphs in markdown sources | legacyPackages.x86_64-linux.python312Packages.mkdocs-mermaid2-plugin |
 | python3.12-mkdocs-minify-plugin | 0.7.1 | Mkdocs plugin to minify the HTML of a page before it is written to disk | legacyPackages.x86_64-linux.python312Packages.mkdocs-minify |
@@ -57934,7 +57935,7 @@
 | python3.12-mypy-boto3-polly | 1.40.13 | Type annotations for boto3 polly | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-polly |
 | python3.12-mypy-boto3-pricing | 1.40.0 | Type annotations for boto3 pricing | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-pricing |
 | python3.12-mypy-boto3-privatenetworks | 1.38.0 | Type annotations for boto3 privatenetworks | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-privatenetworks |
-| python3.12-mypy-boto3-proton | 1.40.16 | Type annotations for boto3 proton | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-proton |
+| python3.12-mypy-boto3-proton | 1.40.47 | Type annotations for boto3 proton | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-proton |
 | python3.12-mypy-boto3-qldb | 1.40.16 | Type annotations for boto3 qldb | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-qldb |
 | python3.12-mypy-boto3-qldb-session | 1.40.19 | Type annotations for boto3 qldb-session | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-qldb-session |
 | python3.12-mypy-boto3-quicksight | 1.40.46 | Type annotations for boto3 quicksight | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-quicksight |
@@ -58165,7 +58166,7 @@
 | python3.12-nibe | 2.19.0 | Library for the communication with Nibe heatpumps | legacyPackages.x86_64-linux.python312Packages.nibe |
 | python3.12-nice-go | 1.0.1 | Control various Nice access control products | legacyPackages.x86_64-linux.python312Packages.nice-go |
 | python3.12-nicegui | 2.24.2 | Module to create web-based user interfaces | legacyPackages.x86_64-linux.python312Packages.nicegui |
-| python3.12-nicegui-highcharts | 2.1.0 | NiceGUI with support for Highcharts | legacyPackages.x86_64-linux.python312Packages.nicegui-highcharts |
+| python3.12-nicegui-highcharts | 2.2.0 | NiceGUI with support for Highcharts | legacyPackages.x86_64-linux.python312Packages.nicegui-highcharts |
 | python3.12-nidaqmx | 1.2.0 | API for interacting with the NI-DAQmx driver | legacyPackages.x86_64-linux.python312Packages.nidaqmx |
 | python3.12-nifty8 | 8.5.7 | Bayesian Imaging library for high-dimensional posteriors | legacyPackages.x86_64-linux.python312Packages.nifty8 |
 | python3.12-nikola | 8.3.3 | Static website and blog generator | legacyPackages.x86_64-linux.python312Packages.nikola |
@@ -59035,7 +59036,6 @@
 | python3.12-py-dmidecode | 0.1.3 | Python library that parses the output of dmidecode | legacyPackages.x86_64-linux.python312Packages.py-dmidecode |
 | python3.12-py-dormakaba-dkey | 1.0.6 | Library to interact with a Dormakaba dkey lock | legacyPackages.x86_64-linux.python312Packages.py-dormakaba-dkey |
 | python3.12-py-ecc | 8.0.0 | ECC pairing and bn_128 and bls12_381 curve operations | legacyPackages.x86_64-linux.python312Packages.py-ecc |
-| python3.12-py-eth-sig-utils | 0.4.0 | Collection of functions to generate hashes for signing on Ethereum | legacyPackages.x86_64-linux.python312Packages.py-eth-sig-utils |
 | python3.12-py-evm | 0.12.1-beta.1 | Python implementation of the Ethereum Virtual Machine | legacyPackages.x86_64-linux.python312Packages.py-evm |
 | python3.12-py-expression-eval | 0.3.14 | Python Mathematical Expression Evaluator | legacyPackages.x86_64-linux.python312Packages.py-expression-eval |
 | python3.12-py-iam-expand | 0.2.0 | Module to expand and deobfuscate AWS IAM actions | legacyPackages.x86_64-linux.python312Packages.py-iam-expand |
@@ -59318,7 +59318,7 @@
 | python3.12-pyexcel-xls | 0.7.1 | Wrapper library to read, manipulate and write data in xls using xlrd and xlwt | legacyPackages.x86_64-linux.python312Packages.pyexcel-xls |
 | python3.12-pyexiftool | 0.5.6 | Python wrapper for exiftool | legacyPackages.x86_64-linux.python312Packages.pyexiftool |
 | python3.12-pyexpect | 1.0.22 | Minimal but very flexible implementation of the expect pattern | legacyPackages.x86_64-linux.python312Packages.pyexpect |
-| python3.12-pyexploitdb | 0.2.100 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python312Packages.pyexploitdb |
+| python3.12-pyexploitdb | 0.2.101 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python312Packages.pyexploitdb |
 | python3.12-pyezvizapi | 1.0.3.1 | Python interface for for Ezviz cameras | legacyPackages.x86_64-linux.python312Packages.pyezvizapi |
 | python3.12-pyface | 8.0.0 | Traits-capable windowing framework | legacyPackages.x86_64-linux.python312Packages.pyface |
 | python3.12-pyfaidx | 0.8.1.4 | Python classes for indexing, retrieval, and in-place modification of FASTA files using a samtools compatible index | legacyPackages.x86_64-linux.python312Packages.pyfaidx |
@@ -59453,7 +59453,7 @@
 | python3.12-pyjks | 20.0.0 | Pure-Python Java Keystore (JKS) library | legacyPackages.x86_64-linux.python312Packages.pyjks |
 | python3.12-pyjnius | 1.7.0 | Python module to access Java classes as Python classes using the Java Native Interface (JNI) | legacyPackages.x86_64-linux.python312Packages.pyjnius |
 | python3.12-pyjpegls | 1.5.1 | JPEG-LS for Python via CharLS C++ Library | legacyPackages.x86_64-linux.python312Packages.pyjpegls |
-| python3.12-pyjson5 | 1.6.9 | JSON5 serializer and parser library | legacyPackages.x86_64-linux.python312Packages.pyjson5 |
+| python3.12-pyjson5 | 2.0.0 | JSON5 serializer and parser library | legacyPackages.x86_64-linux.python312Packages.pyjson5 |
 | python3.12-pyjsparser | 2.7.1 | Fast javascript parser (based on esprima.js) | legacyPackages.x86_64-linux.python312Packages.pyjsparser |
 | python3.12-pyjvcprojector | 1.1.2 | Python library for controlling a JVC Projector over a network connection | legacyPackages.x86_64-linux.python312Packages.pyjvcprojector |
 | python3.12-pyjwkest | 1.4.2 | Implementation of JWT, JWS, JWE and JWK | legacyPackages.x86_64-linux.python312Packages.pyjwkest |
@@ -59480,8 +59480,8 @@
 | python3.12-pylacrosse | 0.4 | Python library for Jeelink LaCrosse | legacyPackages.x86_64-linux.python312Packages.pylacrosse |
 | python3.12-pylacus | 1.16.1 | Module to enqueue and query a remote Lacus instance | legacyPackages.x86_64-linux.python312Packages.pylacus |
 | python3.12-pylama | 8.4.1 | Code audit tool for python | legacyPackages.x86_64-linux.python312Packages.pylama |
-| python3.12-pylamarzocco | 2.1.1 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python312Packages.lmcloud |
-| python3.12-pylamarzocco | 2.1.1 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python312Packages.pylamarzocco |
+| python3.12-pylamarzocco | 2.1.2 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python312Packages.lmcloud |
+| python3.12-pylamarzocco | 2.1.2 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python312Packages.pylamarzocco |
 | python3.12-pylance | 0.38.1 | Python wrapper for Lance columnar format | legacyPackages.x86_64-linux.python312Packages.pylance |
 | python3.12-pylast | 6.0.0 | Python interface to last.fm (and compatibles) | legacyPackages.x86_64-linux.python312Packages.pylast |
 | python3.12-pylatex | 1.4.2 | Python library for creating LaTeX files and snippets | legacyPackages.x86_64-linux.python312Packages.pylatex |
@@ -60810,7 +60810,7 @@
 | python3.12-reedsolo | 1.7.0 | Pure-python universal errors-and-erasures Reed-Solomon Codec | legacyPackages.x86_64-linux.python312Packages.reedsolo |
 | python3.12-referencing | 0.36.2 | Cross-specification JSON referencing | legacyPackages.x86_64-linux.python312Packages.referencing |
 | python3.12-refery | 2.1.0 | Functional testing tool | legacyPackages.x86_64-linux.python312Packages.refery |
-| python3.12-reflex | 0.8.12 | Web apps in pure Python | legacyPackages.x86_64-linux.python312Packages.reflex |
+| python3.12-reflex | 0.8.14 | Web apps in pure Python | legacyPackages.x86_64-linux.python312Packages.reflex |
 | python3.12-reflex-chakra | 0.8.2 | Chakra Implementation in Reflex | legacyPackages.x86_64-linux.python312Packages.reflex-chakra |
 | python3.12-reflex-hosting-cli | 0.1.56 | Reflex Hosting CLI | legacyPackages.x86_64-linux.python312Packages.reflex-hosting-cli |
 | python3.12-reflink | 0.2.2 | Python reflink wraps around platform specific reflink implementations | legacyPackages.x86_64-linux.python312Packages.reflink |
@@ -61184,7 +61184,7 @@
 | python3.12-securestring | 0.2 | Clears the contents of strings containing cryptographic material | legacyPackages.x86_64-linux.python312Packages.securestring |
 | python3.12-securesystemslib | 1.3.1 | Cryptographic and general-purpose routines | legacyPackages.x86_64-linux.python312Packages.securesystemslib |
 | python3.12-securetar | 2025.2.1 | Module to handle tarfile backups | legacyPackages.x86_64-linux.python312Packages.securetar |
-| python3.12-securityreporter | 1.2.0 | Python wrapper for the Reporter API | legacyPackages.x86_64-linux.python312Packages.securityreporter |
+| python3.12-securityreporter | 1.3.0 | Python wrapper for the Reporter API | legacyPackages.x86_64-linux.python312Packages.securityreporter |
 | python3.12-seedir | 0.5.1 | Module for for creating, editing, and reading folder tree diagrams | legacyPackages.x86_64-linux.python312Packages.seedir |
 | python3.12-seekpath | 2.1.0 | Module to obtain and visualize band paths in the Brillouin zone of crystal structures | legacyPackages.x86_64-linux.python312Packages.seekpath |
 | python3.12-segments | 2.3.0 | Unicode Standard tokenization routines and orthography profile segmentation | legacyPackages.x86_64-linux.python312Packages.segments |
@@ -61633,7 +61633,7 @@
 | python3.12-sqlite-vec | 0.1.6 | Python bindings for sqlite-vec | legacyPackages.x86_64-linux.python312Packages.sqlite-vec |
 | python3.12-sqlitedict | 2.1.0 | Persistent, thread-safe dict | legacyPackages.x86_64-linux.python312Packages.sqlitedict |
 | python3.12-sqliteschema | 2.0.1 | Python library to dump table schema of a SQLite database file | legacyPackages.x86_64-linux.python312Packages.sqliteschema |
-| python3.12-sqlmap | 1.9.9 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python312Packages.sqlmap |
+| python3.12-sqlmap | 1.9.10 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python312Packages.sqlmap |
 | python3.12-sqlmodel | 0.0.24 | Module to work with SQL databases | legacyPackages.x86_64-linux.python312Packages.sqlmodel |
 | python3.12-sqlobject | 3.13.0 | Object Relational Manager for providing an object interface to your database | legacyPackages.x86_64-linux.python312Packages.sqlobject |
 | python3.12-sqlparse | 0.5.3 | Non-validating SQL parser for Python | legacyPackages.x86_64-linux.python312Packages.sqlparse |
@@ -61784,7 +61784,7 @@
 | python3.12-surt | 0.3.1 | Sort-friendly URI Reordering Transform (SURT) python module | legacyPackages.x86_64-linux.python312Packages.surt |
 | python3.12-survey | 5.4.2 | Simple library for creating beautiful interactive prompts | legacyPackages.x86_64-linux.python312Packages.survey |
 | python3.12-sv-ttk | 2.6.1 | Gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style | legacyPackages.x86_64-linux.python312Packages.sv-ttk |
-| python3.12-svg-py | 1.8.0 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python312Packages.svg-py |
+| python3.12-svg-py | 1.9.1 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python312Packages.svg-py |
 | python3.12-svg.path | 7.0 | SVG path objects and parser | legacyPackages.x86_64-linux.python312Packages.svg-path |
 | python3.12-svg2tikz | 3.3.2 | Set of tools for converting SVG graphics to TikZ/PGF code | legacyPackages.x86_64-linux.python312Packages.svg2tikz |
 | python3.12-svgdigitizer | 0.13.0 | Extract numerical data points from SVG files | legacyPackages.x86_64-linux.python312Packages.svgdigitizer |
@@ -62186,7 +62186,7 @@
 | python3.12-triton | 3.4.0 | Language and compiler for writing highly efficient custom Deep-Learning primitives | legacyPackages.x86_64-linux.python312Packages.triton-cuda |
 | python3.12-triton | 3.4.0 | Language and compiler for writing highly efficient custom Deep-Learning primitives | legacyPackages.x86_64-linux.python312Packages.triton-no-cuda |
 | python3.12-tritonclient | 2.54.0 | Triton Python client | legacyPackages.x86_64-linux.python312Packages.tritonclient |
-| python3.12-trl | 0.23.0 | Train transformer language models with reinforcement learning | legacyPackages.x86_64-linux.python312Packages.trl |
+| python3.12-trl | 0.23.1 | Train transformer language models with reinforcement learning | legacyPackages.x86_64-linux.python312Packages.trl |
 | python3.12-troposphere | 4.9.4 | Library to create AWS CloudFormation descriptions | legacyPackages.x86_64-linux.python312Packages.troposphere |
 | python3.12-trove-classifiers | 2025.8.26.11 | Canonical source for classifiers on PyPI | legacyPackages.x86_64-linux.python312Packages.trove-classifiers |
 | python3.12-trubar | 0.3.4 | Utility for translation of strings and f-strings in Python files | legacyPackages.x86_64-linux.python312Packages.trubar |
@@ -62668,7 +62668,7 @@
 | python3.12-typish | 1.9.3 | Python module for checking types of objects | legacyPackages.x86_64-linux.python312Packages.typish |
 | python3.12-typogrify | 2.1.0 | Filters to enhance web typography, including support for Django & Jinja templates | legacyPackages.x86_64-linux.python312Packages.typogrify |
 | python3.12-typst | 0.13.7 | Python binding to typst | legacyPackages.x86_64-linux.python312Packages.typst |
-| python3.12-tyro | 0.9.28 | CLI interfaces & config objects, from types | legacyPackages.x86_64-linux.python312Packages.tyro |
+| python3.12-tyro | 0.9.32 | CLI interfaces & config objects, from types | legacyPackages.x86_64-linux.python312Packages.tyro |
 | python3.12-tzdata | 2025.2 | Provider of IANA time zone data | legacyPackages.x86_64-linux.python312Packages.tzdata |
 | python3.12-tzlocal | 5.3.1 | Tzinfo object for the local timezone | legacyPackages.x86_64-linux.python312Packages.tzlocal |
 | python3.12-u-msgpack-python | 2.8.0 | Portable, lightweight MessagePack serializer and deserializer written in pure Python | legacyPackages.x86_64-linux.python312Packages.u-msgpack-python |
@@ -63542,7 +63542,7 @@
 | python3.13-aiosasl | 0.5.0 | Asyncio SASL library | legacyPackages.x86_64-linux.python313Packages.aiosasl |
 | python3.13-aiosenz | 1.0.0 | Python wrapper for the nVent Raychem SENZ RestAPI | legacyPackages.x86_64-linux.python313Packages.aiosenz |
 | python3.13-aioserial | 1.3.1 | Python module for async serial communication | legacyPackages.x86_64-linux.python313Packages.aioserial |
-| python3.13-aioshelly | 13.11.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python313Packages.aioshelly |
+| python3.13-aioshelly | 13.12.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python313Packages.aioshelly |
 | python3.13-aioshutil | 1.6.a1 | Asynchronous version of function of shutil module | legacyPackages.x86_64-linux.python313Packages.aioshutil |
 | python3.13-aiosignal | 1.4.0 | Python list of registered asynchronous callbacks | legacyPackages.x86_64-linux.python313Packages.aiosignal |
 | python3.13-aioskybell | 23.12.0 | API client for Skybell doorbells | legacyPackages.x86_64-linux.python313Packages.aioskybell |
@@ -63746,8 +63746,8 @@
 | python3.13-archinfo | 9.2.154 | Classes with architecture-specific information | legacyPackages.x86_64-linux.python313Packages.archinfo |
 | python3.13-archspec | 0.2.5 | Library for detecting, labeling, and reasoning about microarchitectures | legacyPackages.x86_64-linux.python313Packages.archspec |
 | python3.13-area | 1.1.1 | Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox’s geojson-area for Python | legacyPackages.x86_64-linux.python313Packages.area |
-| python3.13-arelle | 2.30.25 | Open source XBRL platform | legacyPackages.x86_64-linux.python313Packages.arelle |
-| python3.13-arelle-headless | 2.30.25 | Open source XBRL platform | legacyPackages.x86_64-linux.python313Packages.arelle-headless |
+| python3.13-arelle | 2.37.61 | Open source XBRL platform | legacyPackages.x86_64-linux.python313Packages.arelle |
+| python3.13-arelle-headless | 2.37.61 | Open source XBRL platform | legacyPackages.x86_64-linux.python313Packages.arelle-headless |
 | python3.13-aresponses | 3.0.0 | Asyncio testing server | legacyPackages.x86_64-linux.python313Packages.aresponses |
 | python3.13-argcomplete | 3.6.2 | Bash tab completion for argparse | legacyPackages.x86_64-linux.python313Packages.argcomplete |
 | python3.13-argh | 0.31.3 | Unobtrusive argparse wrapper with natural syntax | legacyPackages.x86_64-linux.python313Packages.argh |
@@ -64334,7 +64334,7 @@
 | python3.13-bot-safe-agents | 1.1 | Library for fetching a list of bot-safe user agents | legacyPackages.x86_64-linux.python313Packages.bot-safe-agents |
 | python3.13-botan3 | 3.9.0 | Python Bindings for botan3 cryptography library | legacyPackages.x86_64-linux.python313Packages.botan3 |
 | python3.13-boto3 | 1.40.18 | AWS SDK for Python | legacyPackages.x86_64-linux.python313Packages.boto3 |
-| python3.13-boto3-stubs | 1.40.46 | Type annotations for boto3 | legacyPackages.x86_64-linux.python313Packages.boto3-stubs |
+| python3.13-boto3-stubs | 1.40.47 | Type annotations for boto3 | legacyPackages.x86_64-linux.python313Packages.boto3-stubs |
 | python3.13-botocore | 1.40.18 | Low-level interface to a growing number of Amazon Web Services | legacyPackages.x86_64-linux.python313Packages.botocore |
 | python3.13-botocore-stubs | 1.40.33 | Type annotations and code completion for botocore | legacyPackages.x86_64-linux.python313Packages.botocore-stubs |
 | python3.13-botorch | 0.15.1 | Bayesian Optimization in PyTorch | legacyPackages.x86_64-linux.python313Packages.botorch |
@@ -65057,7 +65057,7 @@
 | python3.13-deal | 4.24.5 | Library for design by contract (DbC) and checking values, exceptions, and side-effects | legacyPackages.x86_64-linux.python313Packages.deal |
 | python3.13-deal-solver | 0.1.2 | Z3-powered solver (theorem prover) for deal | legacyPackages.x86_64-linux.python313Packages.deal-solver |
 | python3.13-deap | 1.4.3 | Novel evolutionary computation framework for rapid prototyping and testing of ideas | legacyPackages.x86_64-linux.python313Packages.deap |
-| python3.13-debian-inspector | 31.1.0 | Utilities to parse Debian package, copyright and control files | legacyPackages.x86_64-linux.python313Packages.debian-inspector |
+| python3.13-debian-inspector | 31.1.1 | Utilities to parse Debian package, copyright and control files | legacyPackages.x86_64-linux.python313Packages.debian-inspector |
 | python3.13-debtcollector | 3.0.0 | Collection of Python deprecation patterns and strategies that help you collect your technical debt in a non-destructive manner | legacyPackages.x86_64-linux.python313Packages.debtcollector |
 | python3.13-debts | 0.5 | Simple library and cli-tool to help you solve some debts settlement scenarios | legacyPackages.x86_64-linux.python313Packages.debts |
 | python3.13-debuglater | 1.4.4 | Module for post-mortem debugging of Python programs | legacyPackages.x86_64-linux.python313Packages.debuglater |
@@ -65073,7 +65073,7 @@
 | python3.13-deep-translator | 1.11.4 | Python tool to translate between different languages by using multiple translators | legacyPackages.x86_64-linux.python313Packages.deep-translator |
 | python3.13-deepdiff | 8.6.1 | Deep Difference and Search of any Python object/data | legacyPackages.x86_64-linux.python313Packages.deepdiff |
 | python3.13-deepdish | 0.3.7 | Flexible HDF5 saving/loading and other data science tools from the University of Chicago | legacyPackages.x86_64-linux.python313Packages.deepdish |
-| python3.13-deepface | 0.0.94 | Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python | legacyPackages.x86_64-linux.python313Packages.deepface |
+| python3.13-deepface | 0.0.95 | Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python | legacyPackages.x86_64-linux.python313Packages.deepface |
 | python3.13-deepl | 1.22.0 | Language translation API that allows other computer programs to send texts and documents to DeepL's servers and receive high-quality translations | legacyPackages.x86_64-linux.python313Packages.deepl |
 | python3.13-deepmerge | 2.0 | Toolset to deeply merge python dictionaries | legacyPackages.x86_64-linux.python313Packages.deepmerge |
 | python3.13-deepsearch-glm | 1.0.0 | Create fast graph language models from converted PDF documents for knowledge extraction and Q&A | legacyPackages.x86_64-linux.python313Packages.deepsearch-glm |
@@ -65555,7 +65555,7 @@
 | python3.13-dtlssocket | 0.2.3 | Cython wrapper for tinydtls with a Socket like interface | legacyPackages.x86_64-linux.python313Packages.dtlssocket |
 | python3.13-dtoc | 0.0.7 |  | legacyPackages.x86_64-linux.ubootPythonTools.dtoc |
 | python3.13-dtschema | 2025.08 | Tooling for devicetree validation using YAML and jsonschema | legacyPackages.x86_64-linux.python313Packages.dtschema |
-| python3.13-dtw-python | 1.5.3 | Python port of R's Comprehensive Dynamic Time Warp algorithms package | legacyPackages.x86_64-linux.python313Packages.dtw-python |
+| python3.13-dtw-python | 1.7.2 | Python port of R's Comprehensive Dynamic Time Warp algorithms package | legacyPackages.x86_64-linux.python313Packages.dtw-python |
 | python3.13-ducc0 | 0.39.0 | Efficient algorithms for Fast Fourier transforms and more | legacyPackages.x86_64-linux.python313Packages.ducc0 |
 | python3.13-duckdb | 1.3.2 | Python binding for DuckDB | legacyPackages.x86_64-linux.python313Packages.duckdb |
 | python3.13-duckdb-engine | 0.17.0 | SQLAlchemy driver for duckdb | legacyPackages.x86_64-linux.python313Packages.duckdb-engine |
@@ -65581,7 +65581,7 @@
 | python3.13-dvc-gs | 3.0.2 | gs plugin for dvc | legacyPackages.x86_64-linux.python313Packages.dvc-gs |
 | python3.13-dvc-hdfs | 3.0.0 | HDFS/WebHDFS plugin for dvc | legacyPackages.x86_64-linux.python313Packages.dvc-hdfs |
 | python3.13-dvc-http | 2.32.0 | HTTP plugin for dvc | legacyPackages.x86_64-linux.python313Packages.dvc-http |
-| python3.13-dvc-objects | 5.1.1 | Library for DVC objects | legacyPackages.x86_64-linux.python313Packages.dvc-objects |
+| python3.13-dvc-objects | 5.1.2 | Library for DVC objects | legacyPackages.x86_64-linux.python313Packages.dvc-objects |
 | python3.13-dvc-oss | 3.0.0 | Alibaba OSS plugin for dvc | legacyPackages.x86_64-linux.python313Packages.dvc-oss |
 | python3.13-dvc-render | 1.0.2 | Library for rendering DVC plots | legacyPackages.x86_64-linux.python313Packages.dvc-render |
 | python3.13-dvc-s3 | 3.2.2 | S3 plugin for dvc | legacyPackages.x86_64-linux.python313Packages.dvc-s3 |
@@ -65700,7 +65700,7 @@
 | python3.13-entrypoint2 | 1.1 | Easy to use command-line interface for python modules | legacyPackages.x86_64-linux.python313Packages.entrypoint2 |
 | python3.13-entrypoints | 0.4 | Discover and load entry points from installed packages | legacyPackages.x86_64-linux.python313Packages.entrypoints |
 | python3.13-enturclient | 0.2.4 | Python library for interacting with the Entur.org API | legacyPackages.x86_64-linux.python313Packages.enturclient |
-| python3.13-env-canada | 0.11.2 | Python library to get Environment Canada weather data | legacyPackages.x86_64-linux.python313Packages.env-canada |
+| python3.13-env-canada | 0.11.3 | Python library to get Environment Canada weather data | legacyPackages.x86_64-linux.python313Packages.env-canada |
 | python3.13-environ-config | 24.1.0 | Python Application Configuration With Environment Variables | legacyPackages.x86_64-linux.python313Packages.environ-config |
 | python3.13-environmental-override | 0.1.2 | Easily configure apps using simple environmental overrides | legacyPackages.x86_64-linux.python313Packages.environmental-override |
 | python3.13-environs | 14.3.0 | Python modle for environment variable parsing | legacyPackages.x86_64-linux.python313Packages.environs |
@@ -65895,7 +65895,7 @@
 | python3.13-ffcv | 1.0.0 | FFCV: Fast Forward Computer Vision | legacyPackages.x86_64-linux.python313Packages.ffcv |
 | python3.13-ffmpeg-progress-yield | 1.0.2 | Run an ffmpeg command with progress | legacyPackages.x86_64-linux.python313Packages.ffmpeg-progress-yield |
 | python3.13-ffmpeg-python | 0.2.0-unstable-2022-07-11 | Python bindings for FFmpeg - with complex filtering support | legacyPackages.x86_64-linux.python313Packages.ffmpeg-python |
-| python3.13-ffmpy | 0.6.1 | Simple python interface for FFmpeg/FFprobe | legacyPackages.x86_64-linux.python313Packages.ffmpy |
+| python3.13-ffmpy | 0.6.2 | Simple python interface for FFmpeg/FFprobe | legacyPackages.x86_64-linux.python313Packages.ffmpy |
 | python3.13-fhir-py | 2.1.0 | Async/sync API for FHIR resources | legacyPackages.x86_64-linux.python313Packages.fhir-py |
 | python3.13-fiblary3-fork | 0.1.12 | Fibaro Home Center API Python Library | legacyPackages.x86_64-linux.python313Packages.fiblary3-fork |
 | python3.13-fickling | 0.1.3 | Python pickling decompiler and static analyzer | legacyPackages.x86_64-linux.python313Packages.fickling |
@@ -66286,7 +66286,7 @@
 | python3.13-github-webhook | 1.0.4 | Framework for writing webhooks for GitHub | legacyPackages.x86_64-linux.python313Packages.github-webhook |
 | python3.13-github3-py | 4.0.1 | Wrapper for the GitHub API written in python | legacyPackages.x86_64-linux.python313Packages.github3-py |
 | python3.13-github3-py | 4.0.1 | Wrapper for the GitHub API written in python | legacyPackages.x86_64-linux.python313Packages.github3_py |
-| python3.13-githubkit | 0.13.3 | GitHub SDK for Python | legacyPackages.x86_64-linux.python313Packages.githubkit |
+| python3.13-githubkit | 0.13.4 | GitHub SDK for Python | legacyPackages.x86_64-linux.python313Packages.githubkit |
 | python3.13-gitignore-parser | 0.1.13 | Spec-compliant gitignore parser | legacyPackages.x86_64-linux.python313Packages.gitignore-parser |
 | python3.13-gitingest | 0.3.1 | Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase | legacyPackages.x86_64-linux.python313Packages.gitingest |
 | python3.13-gitlike-commands | 0.3.0 | Easy python module for creating git-style subcommand handling | legacyPackages.x86_64-linux.python313Packages.gitlike-commands |
@@ -66651,7 +66651,7 @@
 | python3.13-hnswlib | 0.8.0 | Header-only C++/python library for fast approximate nearest neighbors | legacyPackages.x86_64-linux.python313Packages.hnswlib |
 | python3.13-hocr-tools | 1.3.0 | Tools for manipulating and evaluating the hOCR format for representing multi-lingual OCR results by embedding them into HTML | legacyPackages.x86_64-linux.python313Packages.hocr-tools |
 | python3.13-hole | 0.9.0 | Python API for interacting with a Pihole instance | legacyPackages.x86_64-linux.python313Packages.hole |
-| python3.13-holidays | 0.81 | Generate and work with holidays in Python | legacyPackages.x86_64-linux.python313Packages.holidays |
+| python3.13-holidays | 0.82 | Generate and work with holidays in Python | legacyPackages.x86_64-linux.python313Packages.holidays |
 | python3.13-hologram | 0.0.16 | Library for automatically generating Draft 7 JSON Schemas from Python dataclasses | legacyPackages.x86_64-linux.python313Packages.hologram |
 | python3.13-holoviews | 1.21.0 | Python data analysis and visualization seamless and simple | legacyPackages.x86_64-linux.python313Packages.holoviews |
 | python3.13-home-assistant-bluetooth | 2.0.0 | Basic bluetooth models used by Home Assistant | legacyPackages.x86_64-linux.python313Packages.home-assistant-bluetooth |
@@ -66767,7 +66767,7 @@
 | python3.13-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python313Packages.i3-py |
 | python3.13-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python313Packages.i3ipc |
 | python3.13-iMicknl-nest_protect | 0.4.2b0 | Nest Protect integration for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.nest_protect |
-| python3.13-iamdata | 0.1.202510071 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
+| python3.13-iamdata | 0.1.202510081 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
 | python3.13-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python313Packages.iammeter |
 | python3.13-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python313Packages.iapws |
 | python3.13-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python313Packages.iaqualink |
@@ -67219,7 +67219,7 @@
 | python3.13-karton-dashboard | 1.6.0 | Web application that allows for Karton task and queue introspection | legacyPackages.x86_64-linux.python313Packages.karton-dashboard |
 | python3.13-karton-mwdb-reporter | 1.3.0 | Karton service that uploads analyzed artifacts and metadata to MWDB Core | legacyPackages.x86_64-linux.python313Packages.karton-mwdb-reporter |
 | python3.13-karton-yaramatcher | 1.3.0 | File and analysis artifacts yara matcher for the Karton framework | legacyPackages.x86_64-linux.python313Packages.karton-yaramatcher |
-| python3.13-kasa-crypt | 0.6.3 | Fast kasa crypt | legacyPackages.x86_64-linux.python313Packages.kasa-crypt |
+| python3.13-kasa-crypt | 1.1.0 | Fast kasa crypt | legacyPackages.x86_64-linux.python313Packages.kasa-crypt |
 | python3.13-kazoo | 2.10.0 | Higher Level Zookeeper Client | legacyPackages.x86_64-linux.python313Packages.kazoo |
 | python3.13-kconfiglib | 14.1.0 | Flexible Python 2/3 Kconfig implementation and library | legacyPackages.x86_64-linux.python313Packages.kconfiglib |
 | python3.13-kde-material-you-colors | 1.10.1 | Automatic color scheme generator from your wallpaper for KDE Plasma powered by Material You | legacyPackages.x86_64-linux.python313Packages.kde-material-you-colors |
@@ -67407,7 +67407,7 @@
 | python3.13-lgpio | 0.2.2 | Linux C libraries and Python modules for manipulating GPIO | legacyPackages.x86_64-linux.python313Packages.rgpio |
 | python3.13-lib4package | 0.3.3 | Utility for handling package metadata to include in Software Bill of Materials (SBOMs) | legacyPackages.x86_64-linux.python313Packages.lib4package |
 | python3.13-lib4sbom | 0.8.8 | Library to ingest and generate SBOMs | legacyPackages.x86_64-linux.python313Packages.lib4sbom |
-| python3.13-lib4vex | 0.2.0 | Library to ingest and generate VEX documents | legacyPackages.x86_64-linux.python313Packages.lib4vex |
+| python3.13-lib4vex | 0.2.1 | Library to ingest and generate VEX documents | legacyPackages.x86_64-linux.python313Packages.lib4vex |
 | python3.13-lib50 | 3.1.4 | CS50's own internal library used in many of its tools | legacyPackages.x86_64-linux.python313Packages.lib50 |
 | python3.13-libagent | 0.15.0 | Using hardware wallets as SSH/GPG agent | legacyPackages.x86_64-linux.python313Packages.libagent |
 | python3.13-libais | 0.17 | Library for decoding maritime Automatic Identification System messages | legacyPackages.x86_64-linux.python313Packages.libais |
@@ -67863,7 +67863,7 @@
 | python3.13-merkletools | 1.0.3 | Python tools for creating Merkle trees, generating Merkle proofs, and verification of Merkle proofs | legacyPackages.x86_64-linux.python313Packages.merkletools |
 | python3.13-meross-iot | 0.4.10.3 | Python library to interact with Meross devices | legacyPackages.x86_64-linux.python313Packages.meross-iot |
 | python3.13-meshcat | 0.3.2 | WebGL-based 3D visualizer for Python | legacyPackages.x86_64-linux.python313Packages.meshcat |
-| python3.13-meshcore | 2.1.7 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python313Packages.meshcore |
+| python3.13-meshcore | 2.1.9 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python313Packages.meshcore |
 | python3.13-meshio | 5.3.5 | I/O for mesh files | legacyPackages.x86_64-linux.python313Packages.meshio |
 | python3.13-meshlabxml | 2018.3 | Create and run MeshLab XML scripts with Python | legacyPackages.x86_64-linux.python313Packages.meshlabxml |
 | python3.13-meshtastic | 2.7.3 | Python API for talking to Meshtastic devices | legacyPackages.x86_64-linux.python313Packages.meshtastic |
@@ -67924,7 +67924,7 @@
 | python3.13-minikerberos-bad | 0.4.4 | Kerberos manipulation library in pure Python | legacyPackages.x86_64-linux.python313Packages.minikerberos-bad |
 | python3.13-minimal-snowplow-tracker | 0.0.2 | Minimal snowplow event tracker | legacyPackages.x86_64-linux.python313Packages.minimal-snowplow-tracker |
 | python3.13-minimock | 1.3.0 | Minimalistic mocking library | legacyPackages.x86_64-linux.python313Packages.minimock |
-| python3.13-minio | 7.2.17 | Simple APIs to access any Amazon S3 compatible object storage server | legacyPackages.x86_64-linux.python313Packages.minio |
+| python3.13-minio | 7.2.18 | Simple APIs to access any Amazon S3 compatible object storage server | legacyPackages.x86_64-linux.python313Packages.minio |
 | python3.13-miniupnpc | 2.3.3 | MiniUPnP client | legacyPackages.x86_64-linux.python313Packages.miniupnpc |
 | python3.13-mip | 1.15.0 | Collection of Python tools for the modeling and solution of Mixed-Integer Linear programs (MIPs) | legacyPackages.x86_64-linux.python313Packages.mip |
 | python3.13-mir-eval | 0.8.2 | Common metrics for common audio/music processing tasks | legacyPackages.x86_64-linux.python313Packages.mir-eval |
@@ -67974,7 +67974,7 @@
 | python3.13-mkdocs-macros-plugin | 1.3.9 | Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code | legacyPackages.x86_64-linux.python313Packages.mkdocs-macros-plugin |
 | python3.13-mkdocs-macros-test | 0.1.0 | Implementation of a (model) pluglet for mkdocs-macros | legacyPackages.x86_64-linux.python313Packages.mkdocs-macros-test |
 | python3.13-mkdocs-markmap | 2.5.2 | MkDocs plugin and extension to create mindmaps from markdown using markmap | legacyPackages.x86_64-linux.python313Packages.mkdocs-markmap |
-| python3.13-mkdocs-material | 9.6.20 | Material for mkdocs | legacyPackages.x86_64-linux.python313Packages.mkdocs-material |
+| python3.13-mkdocs-material | 9.6.21 | Material for mkdocs | legacyPackages.x86_64-linux.python313Packages.mkdocs-material |
 | python3.13-mkdocs-material-extensions | 1.3.1 | Markdown extension resources for MkDocs Material | legacyPackages.x86_64-linux.python313Packages.mkdocs-material-extensions |
 | python3.13-mkdocs-mermaid2-plugin | 1.2.2 | MkDocs plugin for including mermaid graphs in markdown sources | legacyPackages.x86_64-linux.python313Packages.mkdocs-mermaid2-plugin |
 | python3.13-mkdocs-minify-plugin | 0.7.1 | Mkdocs plugin to minify the HTML of a page before it is written to disk | legacyPackages.x86_64-linux.python313Packages.mkdocs-minify |
@@ -68430,7 +68430,7 @@
 | python3.13-mypy-boto3-polly | 1.40.13 | Type annotations for boto3 polly | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-polly |
 | python3.13-mypy-boto3-pricing | 1.40.0 | Type annotations for boto3 pricing | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-pricing |
 | python3.13-mypy-boto3-privatenetworks | 1.38.0 | Type annotations for boto3 privatenetworks | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-privatenetworks |
-| python3.13-mypy-boto3-proton | 1.40.16 | Type annotations for boto3 proton | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-proton |
+| python3.13-mypy-boto3-proton | 1.40.47 | Type annotations for boto3 proton | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-proton |
 | python3.13-mypy-boto3-qldb | 1.40.16 | Type annotations for boto3 qldb | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-qldb |
 | python3.13-mypy-boto3-qldb-session | 1.40.19 | Type annotations for boto3 qldb-session | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-qldb-session |
 | python3.13-mypy-boto3-quicksight | 1.40.46 | Type annotations for boto3 quicksight | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-quicksight |
@@ -68671,7 +68671,7 @@
 | python3.13-nibe | 2.19.0 | Library for the communication with Nibe heatpumps | legacyPackages.x86_64-linux.python313Packages.nibe |
 | python3.13-nice-go | 1.0.1 | Control various Nice access control products | legacyPackages.x86_64-linux.python313Packages.nice-go |
 | python3.13-nicegui | 2.24.2 | Module to create web-based user interfaces | legacyPackages.x86_64-linux.python313Packages.nicegui |
-| python3.13-nicegui-highcharts | 2.1.0 | NiceGUI with support for Highcharts | legacyPackages.x86_64-linux.python313Packages.nicegui-highcharts |
+| python3.13-nicegui-highcharts | 2.2.0 | NiceGUI with support for Highcharts | legacyPackages.x86_64-linux.python313Packages.nicegui-highcharts |
 | python3.13-nidaqmx | 1.2.0 | API for interacting with the NI-DAQmx driver | legacyPackages.x86_64-linux.python313Packages.nidaqmx |
 | python3.13-nielsfaber-alarmo | 1.10.11 | Alarm System for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.alarmo |
 | python3.13-nifty8 | 8.5.7 | Bayesian Imaging library for high-dimensional posteriors | legacyPackages.x86_64-linux.python313Packages.nifty8 |
@@ -69602,7 +69602,6 @@
 | python3.13-py-dmidecode | 0.1.3 | Python library that parses the output of dmidecode | legacyPackages.x86_64-linux.python313Packages.py-dmidecode |
 | python3.13-py-dormakaba-dkey | 1.0.6 | Library to interact with a Dormakaba dkey lock | legacyPackages.x86_64-linux.python313Packages.py-dormakaba-dkey |
 | python3.13-py-ecc | 8.0.0 | ECC pairing and bn_128 and bls12_381 curve operations | legacyPackages.x86_64-linux.python313Packages.py-ecc |
-| python3.13-py-eth-sig-utils | 0.4.0 | Collection of functions to generate hashes for signing on Ethereum | legacyPackages.x86_64-linux.python313Packages.py-eth-sig-utils |
 | python3.13-py-evm | 0.12.1-beta.1 | Python implementation of the Ethereum Virtual Machine | legacyPackages.x86_64-linux.python313Packages.py-evm |
 | python3.13-py-expression-eval | 0.3.14 | Python Mathematical Expression Evaluator | legacyPackages.x86_64-linux.python313Packages.py-expression-eval |
 | python3.13-py-iam-expand | 0.2.0 | Module to expand and deobfuscate AWS IAM actions | legacyPackages.x86_64-linux.python313Packages.py-iam-expand |
@@ -69886,7 +69885,7 @@
 | python3.13-pyexcel-xls | 0.7.1 | Wrapper library to read, manipulate and write data in xls using xlrd and xlwt | legacyPackages.x86_64-linux.python313Packages.pyexcel-xls |
 | python3.13-pyexiftool | 0.5.6 | Python wrapper for exiftool | legacyPackages.x86_64-linux.python313Packages.pyexiftool |
 | python3.13-pyexpect | 1.0.22 | Minimal but very flexible implementation of the expect pattern | legacyPackages.x86_64-linux.python313Packages.pyexpect |
-| python3.13-pyexploitdb | 0.2.100 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python313Packages.pyexploitdb |
+| python3.13-pyexploitdb | 0.2.101 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python313Packages.pyexploitdb |
 | python3.13-pyezvizapi | 1.0.3.1 | Python interface for for Ezviz cameras | legacyPackages.x86_64-linux.python313Packages.pyezvizapi |
 | python3.13-pyface | 8.0.0 | Traits-capable windowing framework | legacyPackages.x86_64-linux.python313Packages.pyface |
 | python3.13-pyfaidx | 0.8.1.4 | Python classes for indexing, retrieval, and in-place modification of FASTA files using a samtools compatible index | legacyPackages.x86_64-linux.python313Packages.pyfaidx |
@@ -70021,7 +70020,7 @@
 | python3.13-pyjks | 20.0.0 | Pure-Python Java Keystore (JKS) library | legacyPackages.x86_64-linux.python313Packages.pyjks |
 | python3.13-pyjnius | 1.7.0 | Python module to access Java classes as Python classes using the Java Native Interface (JNI) | legacyPackages.x86_64-linux.python313Packages.pyjnius |
 | python3.13-pyjpegls | 1.5.1 | JPEG-LS for Python via CharLS C++ Library | legacyPackages.x86_64-linux.python313Packages.pyjpegls |
-| python3.13-pyjson5 | 1.6.9 | JSON5 serializer and parser library | legacyPackages.x86_64-linux.python313Packages.pyjson5 |
+| python3.13-pyjson5 | 2.0.0 | JSON5 serializer and parser library | legacyPackages.x86_64-linux.python313Packages.pyjson5 |
 | python3.13-pyjsparser | 2.7.1 | Fast javascript parser (based on esprima.js) | legacyPackages.x86_64-linux.python313Packages.pyjsparser |
 | python3.13-pyjvcprojector | 1.1.2 | Python library for controlling a JVC Projector over a network connection | legacyPackages.x86_64-linux.python313Packages.pyjvcprojector |
 | python3.13-pyjwkest | 1.4.2 | Implementation of JWT, JWS, JWE and JWK | legacyPackages.x86_64-linux.python313Packages.pyjwkest |
@@ -70048,8 +70047,8 @@
 | python3.13-pylacrosse | 0.4 | Python library for Jeelink LaCrosse | legacyPackages.x86_64-linux.python313Packages.pylacrosse |
 | python3.13-pylacus | 1.16.1 | Module to enqueue and query a remote Lacus instance | legacyPackages.x86_64-linux.python313Packages.pylacus |
 | python3.13-pylama | 8.4.1 | Code audit tool for python | legacyPackages.x86_64-linux.python313Packages.pylama |
-| python3.13-pylamarzocco | 2.1.1 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python313Packages.lmcloud |
-| python3.13-pylamarzocco | 2.1.1 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python313Packages.pylamarzocco |
+| python3.13-pylamarzocco | 2.1.2 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python313Packages.lmcloud |
+| python3.13-pylamarzocco | 2.1.2 | Library to interface with La Marzocco's cloud | legacyPackages.x86_64-linux.python313Packages.pylamarzocco |
 | python3.13-pylance | 0.38.1 | Python wrapper for Lance columnar format | legacyPackages.x86_64-linux.python313Packages.pylance |
 | python3.13-pylast | 6.0.0 | Python interface to last.fm (and compatibles) | legacyPackages.x86_64-linux.python313Packages.pylast |
 | python3.13-pylatex | 1.4.2 | Python library for creating LaTeX files and snippets | legacyPackages.x86_64-linux.python313Packages.pylatex |
@@ -71390,7 +71389,7 @@
 | python3.13-reedsolo | 1.7.0 | Pure-python universal errors-and-erasures Reed-Solomon Codec | legacyPackages.x86_64-linux.python313Packages.reedsolo |
 | python3.13-referencing | 0.36.2 | Cross-specification JSON referencing | legacyPackages.x86_64-linux.python313Packages.referencing |
 | python3.13-refery | 2.1.0 | Functional testing tool | legacyPackages.x86_64-linux.python313Packages.refery |
-| python3.13-reflex | 0.8.12 | Web apps in pure Python | legacyPackages.x86_64-linux.python313Packages.reflex |
+| python3.13-reflex | 0.8.14 | Web apps in pure Python | legacyPackages.x86_64-linux.python313Packages.reflex |
 | python3.13-reflex-chakra | 0.8.2 | Chakra Implementation in Reflex | legacyPackages.x86_64-linux.python313Packages.reflex-chakra |
 | python3.13-reflex-hosting-cli | 0.1.56 | Reflex Hosting CLI | legacyPackages.x86_64-linux.python313Packages.reflex-hosting-cli |
 | python3.13-reflink | 0.2.2 | Python reflink wraps around platform specific reflink implementations | legacyPackages.x86_64-linux.python313Packages.reflink |
@@ -71782,7 +71781,7 @@
 | python3.13-securestring | 0.2 | Clears the contents of strings containing cryptographic material | legacyPackages.x86_64-linux.python313Packages.securestring |
 | python3.13-securesystemslib | 1.3.1 | Cryptographic and general-purpose routines | legacyPackages.x86_64-linux.python313Packages.securesystemslib |
 | python3.13-securetar | 2025.2.1 | Module to handle tarfile backups | legacyPackages.x86_64-linux.python313Packages.securetar |
-| python3.13-securityreporter | 1.2.0 | Python wrapper for the Reporter API | legacyPackages.x86_64-linux.python313Packages.securityreporter |
+| python3.13-securityreporter | 1.3.0 | Python wrapper for the Reporter API | legacyPackages.x86_64-linux.python313Packages.securityreporter |
 | python3.13-seedir | 0.5.1 | Module for for creating, editing, and reading folder tree diagrams | legacyPackages.x86_64-linux.python313Packages.seedir |
 | python3.13-seekpath | 2.1.0 | Module to obtain and visualize band paths in the Brillouin zone of crystal structures | legacyPackages.x86_64-linux.python313Packages.seekpath |
 | python3.13-segments | 2.3.0 | Unicode Standard tokenization routines and orthography profile segmentation | legacyPackages.x86_64-linux.python313Packages.segments |
@@ -72238,7 +72237,7 @@
 | python3.13-sqlite-vec | 0.1.6 | Python bindings for sqlite-vec | legacyPackages.x86_64-linux.python313Packages.sqlite-vec |
 | python3.13-sqlitedict | 2.1.0 | Persistent, thread-safe dict | legacyPackages.x86_64-linux.python313Packages.sqlitedict |
 | python3.13-sqliteschema | 2.0.1 | Python library to dump table schema of a SQLite database file | legacyPackages.x86_64-linux.python313Packages.sqliteschema |
-| python3.13-sqlmap | 1.9.9 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python313Packages.sqlmap |
+| python3.13-sqlmap | 1.9.10 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.python313Packages.sqlmap |
 | python3.13-sqlmodel | 0.0.24 | Module to work with SQL databases | legacyPackages.x86_64-linux.python313Packages.sqlmodel |
 | python3.13-sqlobject | 3.13.0 | Object Relational Manager for providing an object interface to your database | legacyPackages.x86_64-linux.python313Packages.sqlobject |
 | python3.13-sqlparse | 0.5.3 | Non-validating SQL parser for Python | legacyPackages.x86_64-linux.python313Packages.sqlparse |
@@ -72414,7 +72413,7 @@
 | python3.13-surt | 0.3.1 | Sort-friendly URI Reordering Transform (SURT) python module | legacyPackages.x86_64-linux.python313Packages.surt |
 | python3.13-survey | 5.4.2 | Simple library for creating beautiful interactive prompts | legacyPackages.x86_64-linux.python313Packages.survey |
 | python3.13-sv-ttk | 2.6.1 | Gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style | legacyPackages.x86_64-linux.python313Packages.sv-ttk |
-| python3.13-svg-py | 1.8.0 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python313Packages.svg-py |
+| python3.13-svg-py | 1.9.1 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python313Packages.svg-py |
 | python3.13-svg.path | 7.0 | SVG path objects and parser | legacyPackages.x86_64-linux.python313Packages.svg-path |
 | python3.13-svg2tikz | 3.3.2 | Set of tools for converting SVG graphics to TikZ/PGF code | legacyPackages.x86_64-linux.python313Packages.svg2tikz |
 | python3.13-svgdigitizer | 0.13.0 | Extract numerical data points from SVG files | legacyPackages.x86_64-linux.python313Packages.svgdigitizer |
@@ -72831,7 +72830,7 @@
 | python3.13-triton | 3.4.0 | Language and compiler for writing highly efficient custom Deep-Learning primitives | legacyPackages.x86_64-linux.python313Packages.triton-cuda |
 | python3.13-triton | 3.4.0 | Language and compiler for writing highly efficient custom Deep-Learning primitives | legacyPackages.x86_64-linux.python313Packages.triton-no-cuda |
 | python3.13-tritonclient | 2.54.0 | Triton Python client | legacyPackages.x86_64-linux.python313Packages.tritonclient |
-| python3.13-trl | 0.23.0 | Train transformer language models with reinforcement learning | legacyPackages.x86_64-linux.python313Packages.trl |
+| python3.13-trl | 0.23.1 | Train transformer language models with reinforcement learning | legacyPackages.x86_64-linux.python313Packages.trl |
 | python3.13-troposphere | 4.9.4 | Library to create AWS CloudFormation descriptions | legacyPackages.x86_64-linux.python313Packages.troposphere |
 | python3.13-trove-classifiers | 2025.8.26.11 | Canonical source for classifiers on PyPI | legacyPackages.x86_64-linux.python313Packages.trove-classifiers |
 | python3.13-trubar | 0.3.4 | Utility for translation of strings and f-strings in Python files | legacyPackages.x86_64-linux.python313Packages.trubar |
@@ -73315,7 +73314,7 @@
 | python3.13-typish | 1.9.3 | Python module for checking types of objects | legacyPackages.x86_64-linux.python313Packages.typish |
 | python3.13-typogrify | 2.1.0 | Filters to enhance web typography, including support for Django & Jinja templates | legacyPackages.x86_64-linux.python313Packages.typogrify |
 | python3.13-typst | 0.13.7 | Python binding to typst | legacyPackages.x86_64-linux.python313Packages.typst |
-| python3.13-tyro | 0.9.28 | CLI interfaces & config objects, from types | legacyPackages.x86_64-linux.python313Packages.tyro |
+| python3.13-tyro | 0.9.32 | CLI interfaces & config objects, from types | legacyPackages.x86_64-linux.python313Packages.tyro |
 | python3.13-tzdata | 2025.2 | Provider of IANA time zone data | legacyPackages.x86_64-linux.python313Packages.tzdata |
 | python3.13-tzlocal | 5.3.1 | Tzinfo object for the local timezone | legacyPackages.x86_64-linux.python313Packages.tzlocal |
 | python3.13-u-msgpack-python | 2.8.0 | Portable, lightweight MessagePack serializer and deserializer written in pure Python | legacyPackages.x86_64-linux.python313Packages.u-msgpack-python |
@@ -74683,7 +74682,7 @@
 | quark-engine | 25.6.1 | Android malware (analysis and scoring) system | legacyPackages.x86_64-linux.quark-engine |
 | quark-goldleaf | 1.0.0 | GUI tool for transfering files between a computer and a Nintendo Switch running Goldleaf | legacyPackages.x86_64-linux.quark-goldleaf |
 | quark-unstable | 2021-02-22 | Extremely small and simple HTTP GET/HEAD-only web server for static content | legacyPackages.x86_64-linux.quark |
-| quarkus-cli | 3.28.1 | Kubernetes-native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards | legacyPackages.x86_64-linux.quarkus |
+| quarkus-cli | 3.28.2 | Kubernetes-native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards | legacyPackages.x86_64-linux.quarkus |
 | quarto | 1.7.34 | Open-source scientific and technical publishing system built on Pandoc | legacyPackages.x86_64-linux.quarto |
 | quarto | 1.7.34 | Open-source scientific and technical publishing system built on Pandoc | legacyPackages.x86_64-linux.quartoMinimal |
 | quartus-prime-lite | 24.1std.0.1077 | FPGA design and simulation software | legacyPackages.x86_64-linux.quartus-prime-lite |
@@ -76120,7 +76119,7 @@
 | rime-japanese | 0-unstable-2023-08-02 | Layout for typing in Japanese with RIME | legacyPackages.x86_64-linux.rime-japanese |
 | rime-ls | 0.4.3 | Language server for Rime input method engine | legacyPackages.x86_64-linux.rime-ls |
 | rime-moegirl | 20250909 | RIME dictionary file for entries from zh.moegirl.org.cn | legacyPackages.x86_64-linux.rime-moegirl |
-| rime-wanxiang | 12.6.13 | Feature-rich pinyin schema for Rime, basic edition | legacyPackages.x86_64-linux.rime-wanxiang |
+| rime-wanxiang | 13.0.6 | Feature-rich pinyin schema for Rime, basic edition | legacyPackages.x86_64-linux.rime-wanxiang |
 | rime-zhwiki | 20250823 | RIME dictionary file for entries from zh.wikipedia.org | legacyPackages.x86_64-linux.rime-zhwiki |
 | rimgo | 1.2.6 | Alternative frontend for Imgur | legacyPackages.x86_64-linux.rimgo |
 | rimsort | 1.0.30 | Open source mod manager for the video game RimWorld | legacyPackages.x86_64-linux.rimsort |
@@ -86384,7 +86383,7 @@
 | sniglet | 2011-05-25 | Fun rounded display face that’s great for headlines | legacyPackages.x86_64-linux.sniglet |
 | snipaste | 2.10.8 | Screenshot tools | legacyPackages.x86_64-linux.snipaste |
 | snipcheck | 0.1.0.3 | Markdown tester | legacyPackages.x86_64-linux.haskellPackages.snipcheck |
-| snipe-it | 8.3.2 | Free open source IT asset/license management system | legacyPackages.x86_64-linux.snipe-it |
+| snipe-it | 8.3.3 | Free open source IT asset/license management system | legacyPackages.x86_64-linux.snipe-it |
 | snipes | 20240317 | Modern port of the classic 1982 text-mode game Snipes | legacyPackages.x86_64-linux.snipes |
 | snippet-extractor | 0.2.0 | Extracts labeled snippets of code to files | legacyPackages.x86_64-linux.haskellPackages.snippet-extractor |
 | snippetexpander | 1.0.3 | Your little expandable text snippet helper CLI | legacyPackages.x86_64-linux.snippetexpander |
@@ -86753,7 +86752,7 @@
 | spago-legacy | 0.21.1 |  | legacyPackages.x86_64-linux.spago-legacy |
 | spake2 | 0.4.3 | Implementation of the SPAKE2 Password-Authenticated Key Exchange algorithm | legacyPackages.x86_64-linux.haskellPackages.spake2 |
 | spalign | 42225 | Typeset matrices and arrays with spaces and semicolons as delimiters | legacyPackages.x86_64-linux.texlivePackages.spalign |
-| spam-filter | 2.0.3 | Secure & modern all-in-one mail server Stalwart (spam-filter module) | legacyPackages.x86_64-linux.stalwart-mail-spam-filter |
+| spam-filter | 2.0.4 | Secure & modern all-in-one mail server Stalwart (spam-filter module) | legacyPackages.x86_64-linux.stalwart-mail-spam-filter |
 | span-lite | 0.11.0 | C++20-like span for C++98, C++11 and later in a single-file header-only library | legacyPackages.x86_64-linux.span-lite |
 | spandsp | 0.0.6 | Portable and modular SIP User-Agent with audio and video support | legacyPackages.x86_64-linux.spandsp |
 | spandsp | 3.0.0 | Portable and modular SIP User-Agent with audio and video support | legacyPackages.x86_64-linux.spandsp3 |
@@ -87058,7 +87057,7 @@
 | sqlitestudio | 3.4.17 | Free, open source, multi-platform SQLite database manager | legacyPackages.x86_64-linux.sqlitestudio |
 | sqlitestudio-plugins | 3.4.17 | Official plugins for SQLiteStudio, a free, open source, multi-platform SQLite database manager | legacyPackages.x86_64-linux.sqlitestudio-plugins |
 | sqlline | 1.12.0 | Shell for issuing SQL to relational databases via JDBC | legacyPackages.x86_64-linux.sqlline |
-| sqlmap | 1.9.9 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.sqlmap |
+| sqlmap | 1.9.10 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.sqlmap |
 | sqlmc | 1.1.0 | Tool to check URLs of a domain for SQL injections | legacyPackages.x86_64-linux.sqlmc |
 | sqlpage | 0.34.0 | SQL-only webapp builder, empowering data analysts to build websites and applications quickly | legacyPackages.x86_64-linux.sqlpage |
 | sqlpkg-cli | 0.2.3 | SQLite package manager | legacyPackages.x86_64-linux.sqlpkg-cli |
@@ -87990,7 +87989,7 @@
 | sump | 0.1.0.2 | A Haskell interface to SUMP-compatible logic analyzers | legacyPackages.x86_64-linux.haskellPackages.sump |
 | sums | 0.15 | Simple GTK postfix calculator for GNOME | legacyPackages.x86_64-linux.sums |
 | sun-java-wtk | 2.5.2_01 | Sun Java Wireless Toolkit 2.5.2_01 for CLDC | legacyPackages.x86_64-linux.wtk |
-| sundials | 7.4.0 | Suite of nonlinear differential/algebraic equation solvers | legacyPackages.x86_64-linux.sundials |
+| sundials | 7.5.0 | Suite of nonlinear differential/algebraic equation solvers | legacyPackages.x86_64-linux.sundials |
 | sundown | 0.6 | Bindings to the sundown markdown library | legacyPackages.x86_64-linux.haskellPackages.sundown |
 | sundtek | 2016-01-26 | Sundtek MediaTV driver | legacyPackages.x86_64-linux.sundtek |
 | sunlight | 0.6.0.0 | Test Cabalized package against multiple dependency versions | legacyPackages.x86_64-linux.haskellPackages.sunlight |
@@ -90493,11 +90492,11 @@
 | thunderbird | 140.3.0esr | Full-featured e-mail client | legacyPackages.x86_64-linux.thunderbird-esr |
 | thunderbird | 143.0.1 | Full-featured e-mail client | legacyPackages.x86_64-linux.thunderbird |
 | thunderbird | 143.0.1 | Full-featured e-mail client | legacyPackages.x86_64-linux.thunderbird-latest |
-| thunderbird-bin | 140.3.0esr | Mozilla Thunderbird, a full-featured email client (binary package) | legacyPackages.x86_64-linux.thunderbird-esr-bin-unwrapped |
+| thunderbird-bin | 140.3.1esr | Mozilla Thunderbird, a full-featured email client (binary package) | legacyPackages.x86_64-linux.thunderbird-esr-bin-unwrapped |
 | thunderbird-bin | 143.0.1 | Mozilla Thunderbird, a full-featured email client (binary package) | legacyPackages.x86_64-linux.thunderbird-bin |
 | thunderbird-bin | 143.0.1 | Mozilla Thunderbird, a full-featured email client (binary package) | legacyPackages.x86_64-linux.thunderbird-latest-bin |
 | thunderbird-bin | 143.0.1 | Mozilla Thunderbird, a full-featured email client (binary package) | legacyPackages.x86_64-linux.thunderbird-latest-bin-unwrapped |
-| thunderbird-esr-bin | 140.3.0esr | Mozilla Thunderbird, a full-featured email client (binary package) | legacyPackages.x86_64-linux.thunderbird-esr-bin |
+| thunderbird-esr-bin | 140.3.1esr | Mozilla Thunderbird, a full-featured email client (binary package) | legacyPackages.x86_64-linux.thunderbird-esr-bin |
 | thunderbird-unwrapped | 140.3.0esr | Full-featured e-mail client | legacyPackages.x86_64-linux.thunderbird-140-unwrapped |
 | thunderbird-unwrapped | 140.3.0esr | Full-featured e-mail client | legacyPackages.x86_64-linux.thunderbird-esr-unwrapped |
 | thunderbird-unwrapped | 140.3.0esr | Full-featured e-mail client | legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-140 |
@@ -96311,7 +96310,7 @@
 | vatprism | 0.3.5 | VATSIM map and data explorer | legacyPackages.x86_64-linux.vatprism |
 | vaucanson-g | 0.4 | PSTricks macros for drawing automata | legacyPackages.x86_64-linux.texlivePackages.vaucanson-g |
 | vault | 0.3.1.5 | a persistent store for values of arbitrary types | legacyPackages.x86_64-linux.haskellPackages.vault |
-| vault | 1.20.3 | Tool for managing secrets | legacyPackages.x86_64-linux.vault |
+| vault | 1.20.4 | Tool for managing secrets | legacyPackages.x86_64-linux.vault |
 | vault-bin | 1.20.4 | Tool for managing secrets, this binary includes the UI | legacyPackages.x86_64-linux.vault-bin |
 | vault-medusa | 0.7.3 | Cli tool for importing and exporting Hashicorp Vault secrets | legacyPackages.x86_64-linux.vault-medusa |
 | vault-ssh-plus | 0.7.8 | Automatically use HashiCorp Vault SSH Client Key Signing with ssh(1) | legacyPackages.x86_64-linux.vault-ssh-plus |
@@ -96608,7 +96607,7 @@
 | vfr-waypoints | 0.1.0.2 | VFR waypoints, as published in the AIP (ERSA) | legacyPackages.x86_64-linux.haskellPackages.vfr-waypoints |
 | vgm2x | 0-unstable-2024-12-13 | VGM file extraction tools | legacyPackages.x86_64-linux.vgm2x |
 | vgmplay-libvgm | 0.51.1-unstable-2025-04-05 | New VGMPlay, based on libvgm | legacyPackages.x86_64-linux.vgmplay-libvgm |
-| vgmstream | 2023 | Library for playback of various streamed audio formats used in video games | legacyPackages.x86_64-linux.vgmstream |
+| vgmstream | 2055 | Library for playback of various streamed audio formats used in video games | legacyPackages.x86_64-linux.vgmstream |
 | vgmtools | 0.1-unstable-2025-08-20 | Collection of tools for the VGM file format | legacyPackages.x86_64-linux.vgmtools |
 | vgmtrans | 1.2 | Tool to convert proprietary, sequenced videogame music to industry-standard formats | legacyPackages.x86_64-linux.vgmtrans |
 | vgrep | 0.2.3.0 | A pager for grep | legacyPackages.x86_64-linux.haskellPackages.vgrep |
@@ -99492,7 +99491,7 @@
 | vscode-extension-file-icons-file-icons | 1.1.0 | File-specific icons in VSCode for improved visual grepping | legacyPackages.x86_64-linux.vscode-extensions.file-icons.file-icons |
 | vscode-extension-fill-labs-dependi | 0.7.15 | VSCode extension for managing dependencies and address vulnerabilities in Rust, Go, JavaScript, and Python projects | legacyPackages.x86_64-linux.vscode-extensions.fill-labs.dependi |
 | vscode-extension-firefox-devtools-vscode-firefox-debug | 2.15.0 | Visual Studio Code extension for debugging web applications and browser extensions in Firefox | legacyPackages.x86_64-linux.vscode-extensions.firefox-devtools.vscode-firefox-debug |
-| vscode-extension-firsttris-vscode-jest-runner | 0.4.82 | Simple way to run or debug a single (or multiple) tests from context-menu | legacyPackages.x86_64-linux.vscode-extensions.firsttris.vscode-jest-runner |
+| vscode-extension-firsttris-vscode-jest-runner | 0.4.84 | Simple way to run or debug a single (or multiple) tests from context-menu | legacyPackages.x86_64-linux.vscode-extensions.firsttris.vscode-jest-runner |
 | vscode-extension-foam-foam-vscode | 0.28.1 | Personal knowledge management and sharing system for VSCode  | legacyPackages.x86_64-linux.vscode-extensions.foam.foam-vscode |
 | vscode-extension-formulahendry-auto-close-tag | 0.5.15 |  | legacyPackages.x86_64-linux.vscode-extensions.formulahendry.auto-close-tag |
 | vscode-extension-formulahendry-auto-rename-tag | 0.1.10 |  | legacyPackages.x86_64-linux.vscode-extensions.formulahendry.auto-rename-tag |
@@ -99503,12 +99502,12 @@
 | vscode-extension-funkyremi-vscode-google-translate | 1.5.0 | Visual Studio Code extension using google translation to helping you quickly translate text right in your code rocket | legacyPackages.x86_64-linux.vscode-extensions.funkyremi.vscode-google-translate |
 | vscode-extension-garlicbreadcleric-pandoc-markdown-syntax | 0.0.2 | VSCode extension that adds syntax highlighting for Pandoc-flavored Markdown | legacyPackages.x86_64-linux.vscode-extensions.garlicbreadcleric.pandoc-markdown-syntax |
 | vscode-extension-geequlim-godot-tools | 2.5.1 | VS Code extension for game development with Godot Engine and GDScript | legacyPackages.x86_64-linux.vscode-extensions.geequlim.godot-tools |
-| vscode-extension-gemini-cli-vscode-ide-companion | 0.7.0 | Enable Gemini CLI with direct access to your IDE workspace | legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion |
+| vscode-extension-gemini-cli-vscode-ide-companion | 0.8.1 | Enable Gemini CLI with direct access to your IDE workspace | legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion |
 | vscode-extension-gencer-html-slim-scss-css-class-completion | 1.7.8 | VSCode extension for SCSS | legacyPackages.x86_64-linux.vscode-extensions.gencer.html-slim-scss-css-class-completion |
 | vscode-extension-genieai-chatgpt-vscode | 0.0.13 | Visual Studio Code extension to support ChatGPT, GPT-3 and Codex conversations | legacyPackages.x86_64-linux.vscode-extensions.genieai.chatgpt-vscode |
 | vscode-extension-github-codespaces | 1.17.4 | VSCode extensions that provides cloud-hosted development environments for any activity | legacyPackages.x86_64-linux.vscode-extensions.github.codespaces |
 | vscode-extension-github-copilot | 1.372.0 | GitHub Copilot uses OpenAI Codex to suggest code and entire functions in real-time right from your editor | legacyPackages.x86_64-linux.vscode-extensions.github.copilot |
-| vscode-extension-github-copilot-chat | 0.31.3 | GitHub Copilot Chat is a companion extension to GitHub Copilot that houses experimental chat features | legacyPackages.x86_64-linux.vscode-extensions.github.copilot-chat |
+| vscode-extension-github-copilot-chat | 0.31.5 | GitHub Copilot Chat is a companion extension to GitHub Copilot that houses experimental chat features | legacyPackages.x86_64-linux.vscode-extensions.github.copilot-chat |
 | vscode-extension-github-github-vscode-theme | 6.3.5 | GitHub theme for VS Code | legacyPackages.x86_64-linux.vscode-extensions.github.github-vscode-theme |
 | vscode-extension-github-vscode-github-actions | 0.27.2 | Visual Studio Code extension for GitHub Actions workflows and runs for github.com hosted repositories | legacyPackages.x86_64-linux.vscode-extensions.github.vscode-github-actions |
 | vscode-extension-github-vscode-pull-request-github | 0.118.2 |  | legacyPackages.x86_64-linux.vscode-extensions.github.vscode-pull-request-github |
@@ -99590,7 +99589,7 @@
 | vscode-extension-mkhl-shfmt | 1.5.1 | Extension uses shfmt to provide a formatter for shell script documents | legacyPackages.x86_64-linux.vscode-extensions.mkhl.shfmt |
 | vscode-extension-mongodb-mongodb-vscode | 1.14.0 | Extension for VS Code that makes it easy to work with your data in MongoDB | legacyPackages.x86_64-linux.vscode-extensions.mongodb.mongodb-vscode |
 | vscode-extension-moshfeu-compare-folders | 0.25.3 | Extension allows you to compare folders, show the diffs in a list and present diff in a splitted view side by side | legacyPackages.x86_64-linux.vscode-extensions.moshfeu.compare-folders |
-| vscode-extension-ms-azuretools-vscode-bicep | 0.37.4 | Visual Studio Code extension for Bicep language | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-bicep |
+| vscode-extension-ms-azuretools-vscode-bicep | 0.38.33 | Visual Studio Code extension for Bicep language | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-bicep |
 | vscode-extension-ms-azuretools-vscode-containers | 2.2.0 | Container Tools Extension for Visual Studio Code  | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-containers |
 | vscode-extension-ms-azuretools-vscode-docker | 2.0.0 | Docker Extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-docker |
 | vscode-extension-ms-dotnettools-csdevkit | 1.50.51 | Official Visual Studio Code extension for C# from Microsoft | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.csdevkit |
