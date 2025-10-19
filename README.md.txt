@@ -2286,7 +2286,7 @@
 | affection | 0.0.0.9 | A simple Game Engine using SDL | legacyPackages.x86_64-linux.haskellPackages.affection |
 | affilauthor | 1.0.1 | Tag author and affiliation information in a key-value style | legacyPackages.x86_64-linux.texlivePackages.affilauthor |
 | affine | 0.1.1.0 | Affine spaces (generalized) | legacyPackages.x86_64-linux.haskellPackages.affine |
-| affine | 0.24.1 | Workspace with fully merged docs, whiteboards and databases | legacyPackages.x86_64-linux.affine |
+| affine | 0.25.1 | Workspace with fully merged docs, whiteboards and databases | legacyPackages.x86_64-linux.affine |
 | affine-bin | 0.18.1 | Workspace with fully merged docs, whiteboards and databases | legacyPackages.x86_64-linux.affine-bin |
 | affine-invariant-ensemble-mcmc | 0.2.0.0 | General-purpose sampling | legacyPackages.x86_64-linux.haskellPackages.affine-invariant-ensemble-mcmc |
 | affinely-extended | 0.1.0.0 |  | legacyPackages.x86_64-linux.haskellPackages.affinely-extended |
@@ -2346,7 +2346,7 @@
 | agenda | 1.2.1 | Simple, fast, no-nonsense to-do (task) list designed for elementary OS | legacyPackages.x86_64-linux.agenda |
 | agenix-cli | 0.1.2 | Companion tool to https://github.com/ryantm/agenix | legacyPackages.x86_64-linux.agenix-cli |
 | agentx | 0.2.0.0 | AgentX protocol for write SNMP subagents | legacyPackages.x86_64-linux.haskellPackages.agentx |
-| agg | 1.5.0 | Command-line tool for generating animated GIF files from asciicast v2 files produced by asciinema terminal recorder | legacyPackages.x86_64-linux.asciinema-agg |
+| agg | 1.6.0 | Command-line tool for generating animated GIF files from asciicast v2 files produced by asciinema terminal recorder | legacyPackages.x86_64-linux.asciinema-agg |
 | agg | 2.5 | High quality rendering engine for C++ | legacyPackages.x86_64-linux.agg |
 | aggregate6 | 1.0.14 | IPv4 and IPv6 prefix aggregation tool | legacyPackages.x86_64-linux.aggregate6 |
 | agi | 3.3.1 | Android GPU Inspector | legacyPackages.x86_64-linux.agi |
@@ -3462,7 +3462,7 @@
 | ammonite | 3.0.2 | Improved Scala REPL | legacyPackages.x86_64-linux.ammonite_2_13 |
 | ammonite | 3.0.2 | Improved Scala REPL | legacyPackages.x86_64-linux.ammonite_3_3 |
 | amnestyreport | 1.2 | A LaTeX class for Amnesty International | legacyPackages.x86_64-linux.texlivePackages.amnestyreport |
-| amnezia-vpn | 4.8.10.0 | Amnezia VPN Client | legacyPackages.x86_64-linux.amnezia-vpn |
+| amnezia-vpn | 4.8.11.0 | Amnezia VPN Client | legacyPackages.x86_64-linux.amnezia-vpn |
 | amneziawg | 1.0.20251009 | Kernel module for the AmneziaWG | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.amneziawg |
 | amneziawg | 1.0.20251009 | Kernel module for the AmneziaWG | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.amneziawg |
 | amneziawg | 1.0.20251009 | Kernel module for the AmneziaWG | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_4.amneziawg |
@@ -3533,7 +3533,7 @@
 | analyze-build | 21.1.1 | run Clang static analyzer against a project with compilation database | legacyPackages.x86_64-linux.analyze-build |
 | analyze-client | 0.1.0.2 | Client for analyze service | legacyPackages.x86_64-linux.haskellPackages.analyze-client |
 | ananicy-cpp | 1.1.1 | Rewrite of ananicy in c++ for lower cpu and memory usage | legacyPackages.x86_64-linux.ananicy-cpp |
-| ananicy-rules-cachyos | 0-unstable-2025-09-09 | CachyOS' ananicy-rules meant to be used with ananicy-cpp | legacyPackages.x86_64-linux.ananicy-rules-cachyos |
+| ananicy-rules-cachyos | 0-unstable-2025-10-17 | CachyOS' ananicy-rules meant to be used with ananicy-cpp | legacyPackages.x86_64-linux.ananicy-rules-cachyos |
 | ananicy-unstable | 2023-03-21 | Another auto nice daemon, with community rules support | legacyPackages.x86_64-linux.ananicy |
 | anansi | 0.4.8 | Simple literate programming preprocessor | legacyPackages.x86_64-linux.haskellPackages.anansi |
 | anansi-hscolour | 0.1.2 | Colorized looms for Anansi | legacyPackages.x86_64-linux.haskellPackages.anansi-hscolour |
@@ -5068,7 +5068,7 @@
 | automake | 1.18.1 | GNU standard-compliant makefile generator | legacyPackages.x86_64-linux.automake118x |
 | automata | 0.1.0.0 | automata | legacyPackages.x86_64-linux.haskellPackages.automata |
 | automata | 0.3 | Finite state machines, graphs and trees in MetaPost | legacyPackages.x86_64-linux.texlivePackages.automata |
-| automatic-timezoned | 2.0.92 | Automatically update system timezone based on location | legacyPackages.x86_64-linux.automatic-timezoned |
+| automatic-timezoned | 2.0.93 | Automatically update system timezone based on location | legacyPackages.x86_64-linux.automatic-timezoned |
 | automaton | 1.5 | Effectful streams and automata in coalgebraic encoding | legacyPackages.x86_64-linux.haskellPackages.automaton |
 | automirror | 49 | Automatic Display Mirror | legacyPackages.x86_64-linux.automirror |
 | automitive-cse | 0.0.1.0 | Automotive CSE emulation | legacyPackages.x86_64-linux.haskellPackages.automitive-cse |
@@ -6875,7 +6875,7 @@
 | booster | 0.12 | Fast and secure initramfs generator | legacyPackages.x86_64-linux.booster |
 | boot | 2.7.2 | Build tooling for Clojure | legacyPackages.x86_64-linux.boot |
 | bootc | 1.6.0 | Boot and upgrade via container images | legacyPackages.x86_64-linux.bootc |
-| bootdev-cli | 1.20.4 | CLI used to complete coding challenges and lessons on Boot.dev | legacyPackages.x86_64-linux.bootdev-cli |
+| bootdev-cli | 1.20.5 | CLI used to complete coding challenges and lessons on Boot.dev | legacyPackages.x86_64-linux.bootdev-cli |
 | bootil-unstable | 2019-11-18 | Garry Newman's personal utility library | legacyPackages.x86_64-linux.bootil |
 | bootimage | 0.10.3 | Creates a bootable disk image from a Rust OS kernel | legacyPackages.x86_64-linux.cargo-bootimage |
 | bootiso | 4.2.0 | Script for securely creating a bootable USB device from one image file | legacyPackages.x86_64-linux.bootiso |
@@ -7164,14 +7164,14 @@
 | browserify | 17.0.1 | browser-side require() the node way | legacyPackages.x86_64-linux.nodePackages.browserify |
 | browserify | 17.0.1 | browser-side require() the node way | legacyPackages.x86_64-linux.nodePackages_latest.browserify |
 | browserpass | 3.1.0 | Browserpass native client app | legacyPackages.x86_64-linux.browserpass |
-| browsers | 0.7.0 | Open the right browser at the right time | legacyPackages.x86_64-linux.browsers |
+| browsers | 0.7.2 | Open the right browser at the right time | legacyPackages.x86_64-linux.browsers |
 | browsh | 1.8.3 | Fully-modern text-based browser, rendering to TTY and browsers | legacyPackages.x86_64-linux.browsh |
 | browsr | 1.22.1 | File explorer in your terminal | legacyPackages.x86_64-linux.browsr |
 | brscan4 | 0.4.10-1 | Brother brscan4 sane backend driver | legacyPackages.x86_64-linux.brscan4 |
 | brscan5 | 1.3.1-0 | Brother brscan5 sane backend driver | legacyPackages.x86_64-linux.brscan5 |
 | bruijn | 0-unstable-2025-10-09 | Purely functional programming language based on lambda calculus and de Bruijn indices | legacyPackages.x86_64-linux.bruijn |
-| bruno | 2.12.0 | Open-source IDE For exploring and testing APIs | legacyPackages.x86_64-linux.bruno |
-| bruno-cli | 2.12.0 | CLI of the open-source IDE For exploring and testing APIs | legacyPackages.x86_64-linux.bruno-cli |
+| bruno | 2.13.2 | Open-source IDE For exploring and testing APIs | legacyPackages.x86_64-linux.bruno |
+| bruno-cli | 2.13.2 | CLI of the open-source IDE For exploring and testing APIs | legacyPackages.x86_64-linux.bruno-cli |
 | brunsli | 0.1 | Lossless JPEG repacking library | legacyPackages.x86_64-linux.brunsli |
 | brush | 0.2.23 | Bash/POSIX-compatible shell implemented in Rust | legacyPackages.x86_64-linux.brush |
 | brush-splat | 0.2.0 | 3D Reconstruction for all | legacyPackages.x86_64-linux.brush-splat |
@@ -7817,7 +7817,7 @@
 | calico-pod2daemon | 3.30.3 | Cloud native networking and network security | legacyPackages.x86_64-linux.calico-pod2daemon |
 | calico-typha | 3.30.3 | Cloud native networking and network security | legacyPackages.x86_64-linux.calico-typha |
 | calicoctl | 3.30.3 | Cloud native networking and network security | legacyPackages.x86_64-linux.calicoctl |
-| caligula | 0.4.8 | User-friendly, lightweight TUI for disk imaging | legacyPackages.x86_64-linux.caligula |
+| caligula | 0.4.9 | User-friendly, lightweight TUI for disk imaging | legacyPackages.x86_64-linux.caligula |
 | calindori | 25.08.2 | Calendar for Plasma Mobile | legacyPackages.x86_64-linux.kdePackages.calindori |
 | call | 0.1.4.2 | The call game engine | legacyPackages.x86_64-linux.haskellPackages.call |
 | call-alloy | 0.6.0.2 | A simple library to call Alloy given a specification | legacyPackages.x86_64-linux.haskellPackages.call-alloy |
@@ -8039,12 +8039,12 @@
 | cargo-machete | 0.9.1 | Cargo tool that detects unused dependencies in Rust projects | legacyPackages.x86_64-linux.cargo-machete |
 | cargo-make | 0.37.24 | Rust task runner and build tool | legacyPackages.x86_64-linux.cargo-make |
 | cargo-mobile2 | 0.21.1 | Rust on mobile made easy | legacyPackages.x86_64-linux.cargo-mobile2 |
-| cargo-modules | 0.24.3 | Cargo plugin for showing a tree-like overview of a crate's modules | legacyPackages.x86_64-linux.cargo-modules |
+| cargo-modules | 0.25.0 | Cargo plugin for showing a tree-like overview of a crate's modules | legacyPackages.x86_64-linux.cargo-modules |
 | cargo-mommy | 0.3.1 | Cargo wrapper that encourages you after running commands | legacyPackages.x86_64-linux.cargo-mommy |
 | cargo-msrv | 0.18.4 | Cargo subcommand "msrv": assists with finding your minimum supported Rust version (MSRV) | legacyPackages.x86_64-linux.cargo-msrv |
 | cargo-mutants | 25.3.1 | Mutation testing tool for Rust | legacyPackages.x86_64-linux.cargo-mutants |
 | cargo-ndk | 4.1.2 | Cargo extension for building Android NDK projects | legacyPackages.x86_64-linux.cargo-ndk |
-| cargo-nextest | 0.9.105 | Next-generation test runner for Rust projects | legacyPackages.x86_64-linux.cargo-nextest |
+| cargo-nextest | 0.9.106 | Next-generation test runner for Rust projects | legacyPackages.x86_64-linux.cargo-nextest |
 | cargo-outdated | 0.17.0 | Cargo subcommand for displaying when Rust dependencies are out of date | legacyPackages.x86_64-linux.cargo-outdated |
 | cargo-pgo | 0.2.9 | Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT | legacyPackages.x86_64-linux.cargo-pgo |
 | cargo-pgrx | 0.12.0-alpha.1 | Build Postgres Extensions with Rust | legacyPackages.x86_64-linux.cargo-pgrx_0_12_0_alpha_1 |
@@ -8394,7 +8394,7 @@
 | cdktf-cli | 0.21.0 | CDK for Terraform CLI | legacyPackages.x86_64-linux.cdktf-cli |
 | cdktf-cli | 0.21.0 | CDK for Terraform CLI | legacyPackages.x86_64-linux.nodePackages.cdktf-cli |
 | cdktf-cli | 0.21.0 | CDK for Terraform CLI | legacyPackages.x86_64-linux.nodePackages_latest.cdktf-cli |
-| cdncheck | 1.2.5 | Tool to detect various technology for a given IP address | legacyPackages.x86_64-linux.cdncheck |
+| cdncheck | 1.2.6 | Tool to detect various technology for a given IP address | legacyPackages.x86_64-linux.cdncheck |
 | cdo | 2.5.1 | Collection of command line Operators to manipulate and analyse Climate and NWP model Data | legacyPackages.x86_64-linux.cdo |
 | cdogs-sdl | 2.3.2 | Open source classic overhead run-and-gun game | legacyPackages.x86_64-linux.cdogs-sdl |
 | cdp | 0.0.2.0 | A library for the Chrome Devtools Protocol | legacyPackages.x86_64-linux.haskellPackages.cdp |
@@ -8861,9 +8861,6 @@
 | check-pkg-config-wayland |  | Test whether wayland-1.24.0 exposes pkg-config modules wayland-cursor | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.wayland-cursor |
 | check-pkg-config-wayland |  | Test whether wayland-1.24.0 exposes pkg-config modules wayland-server | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.wayland-server |
 | check-pkg-config-wayland-scanner |  | Test whether wayland-scanner-1.24.0 exposes pkg-config modules wayland-scanner | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.wayland-scanner |
-| check-pkg-config-webkitgtk |  | Test whether webkitgtk-2.50.1+abi=4.0 exposes pkg-config modules javascriptcoregtk-4.0 | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.javascriptcoregtk-4.0 |
-| check-pkg-config-webkitgtk |  | Test whether webkitgtk-2.50.1+abi=4.0 exposes pkg-config modules webkit2gtk-4.0 | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.webkit2gtk-4.0 |
-| check-pkg-config-webkitgtk |  | Test whether webkitgtk-2.50.1+abi=4.0 exposes pkg-config modules webkit2gtk-web-extension-4.0 | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.webkit2gtk-web-extension-4.0 |
 | check-pkg-config-xerces-c |  | Test whether xerces-c-3.3.0 exposes pkg-config modules xerces-c | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.xerces-c |
 | check-pkg-config-xz |  | Test whether xz-5.8.1 exposes pkg-config modules liblzma | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.liblzma |
 | check-pkg-config-zeromq |  | Test whether zeromq-4.3.5 exposes pkg-config modules libzmq | legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.libzmq |
@@ -9633,7 +9630,7 @@
 | chipsec | 1.10.6 | Platform Security Assessment Framework | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.chipsec |
 | chipsec | 1.10.6 | Platform Security Assessment Framework | legacyPackages.x86_64-linux.linuxPackages_zen.chipsec |
 | chiptrack | 0.5 | Programmable cross-platform sequencer for the Game Boy Advance sound chip | legacyPackages.x86_64-linux.chiptrack |
-| chirp | 0.4.0-unstable-2025-10-09 | Free, open-source tool for programming your amateur radio | legacyPackages.x86_64-linux.chirp |
+| chirp | 0.4.0-unstable-2025-10-14 | Free, open-source tool for programming your amateur radio | legacyPackages.x86_64-linux.chirp |
 | chirpstack-concentratord | 4.5.2 | Concentrator HAL daemon for LoRa gateways | legacyPackages.x86_64-linux.chirpstack-concentratord |
 | chirpstack-fuota-server | 3.0.0-test.4-unstable-2025-08-26 | FUOTA server which can be used together with ChirpStack Application Server | legacyPackages.x86_64-linux.chirpstack-fuota-server |
 | chirpstack-gateway-bridge | 4.1.1 | Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT | legacyPackages.x86_64-linux.chirpstack-gateway-bridge |
@@ -10107,10 +10104,10 @@
 | click | 0.5.2 | Tool to build click packages, mainly used for Ubuntu Touch | legacyPackages.x86_64-linux.ubports-click |
 | click | 0.6.3 | Command Line Interactive Controller for Kubernetes | legacyPackages.x86_64-linux.click |
 | click-clack | 1.0.1 | Toy game (tetris on billiard board). Hipmunk in action. | legacyPackages.x86_64-linux.haskellPackages.click-clack |
-| clickable | 8.5.0 | Build system for Ubuntu Touch apps | legacyPackages.x86_64-linux.clickable |
+| clickable | 8.6.0 | Build system for Ubuntu Touch apps | legacyPackages.x86_64-linux.clickable |
 | clickclack | 0.2.3 | Vibration/audio feedback tool to be used with virtual keyboards | legacyPackages.x86_64-linux.clickclack |
 | clickgen | 2.2.5 | Hassle-free cursor building toolbox | legacyPackages.x86_64-linux.clickgen |
-| clickhouse | 25.8.8.26-lts | Column-oriented database management system | legacyPackages.x86_64-linux.clickhouse-lts |
+| clickhouse | 25.8.10.7-lts | Column-oriented database management system | legacyPackages.x86_64-linux.clickhouse-lts |
 | clickhouse | 25.9.2.1-stable | Column-oriented database management system | legacyPackages.x86_64-linux.clickhouse |
 | clickhouse-backup | 2.6.39 | Tool for easy ClickHouse backup and restore using object storage for backup files | legacyPackages.x86_64-linux.clickhouse-backup |
 | clickhouse-cli | 0.3.9 | Third-party client for the Clickhouse DBMS server | legacyPackages.x86_64-linux.clickhouse-cli |
@@ -10527,7 +10524,7 @@
 | cod | 0.1.0 | Tool for generating Bash/Fish/Zsh autocompletions based on `--help` output | legacyPackages.x86_64-linux.cod |
 | codd | 0.1.6 | CLI tool that applies postgres SQL migrations atomically with schema equality checks | legacyPackages.x86_64-linux.codd |
 | code | 0.2.188 | Fast, effective, mind-blowing, coding CLI | legacyPackages.x86_64-linux.code |
-| code | 1.105.0 | Wrapped variant of vscode which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications | legacyPackages.x86_64-linux.vscode-fhs |
+| code | 1.105.1 | Wrapped variant of vscode which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications | legacyPackages.x86_64-linux.vscode-fhs |
 | code-builder | 0.1.3 | Simple system for generating code | legacyPackages.x86_64-linux.haskellPackages.code-builder |
 | code-conjure | 0.7.8 | synthesize Haskell functions out of partial definitions | legacyPackages.x86_64-linux.haskellPackages.code-conjure |
 | code-generator | 0.25.4 | Kubernetes code generation | legacyPackages.x86_64-linux.kubernetes-code-generator |
@@ -10571,7 +10568,7 @@
 | codeowners | 1.2.1 | CLI and Go library for Github's CODEOWNERS file | legacyPackages.x86_64-linux.codeowners |
 | codepad | 0.1 | Submit and retrieve paste output from CodePad.org. | legacyPackages.x86_64-linux.haskellPackages.codepad |
 | codepage | 51502 | Support for variant code pages | legacyPackages.x86_64-linux.texlivePackages.codepage |
-| codeql | 2.23.0 | Semantic code analysis engine | legacyPackages.x86_64-linux.codeql |
+| codeql | 2.23.3 | Semantic code analysis engine | legacyPackages.x86_64-linux.codeql |
 | coder | 2.23.4 | Provision remote development environments via Terraform | legacyPackages.x86_64-linux.coder |
 | codesearch | 1.2.0 | Fast, indexed regexp search over large file trees | legacyPackages.x86_64-linux.codesearch |
 | codesection | 0.1 | Provides an environment that may be conditionally included | legacyPackages.x86_64-linux.texlivePackages.codesection |
@@ -10582,7 +10579,7 @@
 | codet-plugin | 0.1.0.1 | GHC type-checker plugin for solving LiftT instances from codet | legacyPackages.x86_64-linux.haskellPackages.codet-plugin |
 | codevis | 0.8.4 | Tool to take all source code in a folder and render them to one image | legacyPackages.x86_64-linux.codevis |
 | codeworld-api | 0.8.1 | Graphics library for CodeWorld | legacyPackages.x86_64-linux.haskellPackages.codeworld-api |
-| codex | 0.46.0 | Lightweight coding agent that runs in your terminal | legacyPackages.x86_64-linux.codex |
+| codex | 0.47.0 | Lightweight coding agent that runs in your terminal | legacyPackages.x86_64-linux.codex |
 | codex | 0.6.0.0 | A ctags file generator for cabal project dependencies | legacyPackages.x86_64-linux.haskellPackages.codex |
 | codicefiscaleitaliano | 1.2 | Test the consistency of the Italian personal Fiscal Code | legacyPackages.x86_64-linux.texlivePackages.codicefiscaleitaliano |
 | codipack | 3.0.0 | Fast gradient evaluation in C++ based on Expression Templates | legacyPackages.x86_64-linux.codipack |
@@ -12480,7 +12477,7 @@
 | cyclonedx-cyclonedx-php-composer | 5.2.0 | Composer plugin that facilitates the creation of a CycloneDX Software Bill of Materials (SBOM) from PHP Composer projects | legacyPackages.x86_64-linux.php83Packages.cyclonedx-php-composer |
 | cyclonedx-cyclonedx-php-composer | 5.2.0 | Composer plugin that facilitates the creation of a CycloneDX Software Bill of Materials (SBOM) from PHP Composer projects | legacyPackages.x86_64-linux.php84Packages.cyclonedx-php-composer |
 | cyclonedx-gomod | 1.9.0 | Tool to create CycloneDX Software Bill of Materials (SBOM) from Go modules | legacyPackages.x86_64-linux.cyclonedx-gomod |
-| cyclonedx-python | 7.1.0 | Creates CycloneDX Software Bill of Materials (SBOM) from Python projects | legacyPackages.x86_64-linux.cyclonedx-python |
+| cyclonedx-python | 7.2.0 | Creates CycloneDX Software Bill of Materials (SBOM) from Python projects | legacyPackages.x86_64-linux.cyclonedx-python |
 | cyclotomic | 1.1.2 | A subfield of the complex numbers for exact calculation | legacyPackages.x86_64-linux.haskellPackages.cyclotomic |
 | cyklop | 0.915 | The Cyclop typeface | legacyPackages.x86_64-linux.texlivePackages.cyklop |
 | cyme | 2.2.7 | Modern cross-platform lsusb | legacyPackages.x86_64-linux.cyme |
@@ -12847,8 +12844,8 @@
 | davinci-resolve | 20.2.1 | Professional video editing, color, effects and audio post-processing | legacyPackages.x86_64-linux.davinci-resolve |
 | davinci-resolve-studio | 20.2.1 | Professional video editing, color, effects and audio post-processing | legacyPackages.x86_64-linux.davinci-resolve-studio |
 | davis | 5.2.0 | Simple CardDav and CalDav server inspired by Baïkal | legacyPackages.x86_64-linux.davis |
-| davix | 0.8.7 | Toolkit for Http-based file management | legacyPackages.x86_64-linux.davix |
-| davix-copy | 0.8.7 | Toolkit for Http-based file management | legacyPackages.x86_64-linux.davix-copy |
+| davix | 0.8.10 | Toolkit for Http-based file management | legacyPackages.x86_64-linux.davix |
+| davix-copy | 0.8.10 | Toolkit for Http-based file management | legacyPackages.x86_64-linux.davix-copy |
 | davmail | 6.4.0 | Java application which presents a Microsoft Exchange server as local CALDAV, IMAP and SMTP servers | legacyPackages.x86_64-linux.davmail |
 | davs2 | 1.7 | Open-source decoder of AVS2-P2/IEEE1857.4 video coding standard | legacyPackages.x86_64-linux.davs2 |
 | davtest | 1.0 | Tests WebDAV servers by uploading test files, and then optionally testing for command execution or other actions directly on the target | legacyPackages.x86_64-linux.davtest |
@@ -12877,7 +12874,7 @@
 | dbd | 1.50-unstable-2016-01-04 | Netcat-clone, designed to be portable and offer strong encryption | legacyPackages.x86_64-linux.dbd |
 | dbeaver-bin | 25.2.2 | Universal SQL Client for developers, DBA and analysts. Supports MySQL, PostgreSQL, MariaDB, SQLite, and more | legacyPackages.x86_64-linux.dbeaver-bin |
 | dbf | 0.0.0.2 | Read and write XBase ".dbf" files | legacyPackages.x86_64-linux.haskellPackages.dbf |
-| dbgate | 6.6.4 | Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others | legacyPackages.x86_64-linux.dbgate |
+| dbgate | 6.6.5 | Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others | legacyPackages.x86_64-linux.dbgate |
 | dbip-asn-lite | 2025-10 | Free IP to ASN Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-asn-lite |
 | dbip-city-lite | 2025-10 | Free IP to City Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-city-lite |
 | dbip-country-lite | 2025-10 | Free IP to Country Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-country-lite |
@@ -13145,7 +13142,7 @@
 | deeptools | 3.5.6 | Tools for exploring deep DNA sequencing data | legacyPackages.x86_64-linux.deeptools |
 | deepzoom | 0.1 | A DeepZoom image slicer. Only known to work on 32bit Linux | legacyPackages.x86_64-linux.haskellPackages.deepzoom |
 | deer | 1.4 | Ranger-like file navigation for zsh | legacyPackages.x86_64-linux.deer |
-| deezer-enhanced | 1.3.0 | Unofficial application for Deezer with enhanced features | legacyPackages.x86_64-linux.deezer-enhanced |
+| deezer-enhanced | 1.4.0 | Unofficial application for Deezer with enhanced features | legacyPackages.x86_64-linux.deezer-enhanced |
 | deface | 1.5.0 | Video anonymization by face detection | legacyPackages.x86_64-linux.deface |
 | defargs | 0.3 | default arguments in haskell | legacyPackages.x86_64-linux.haskellPackages.defargs |
 | default-language-etex |  |  | legacyPackages.x86_64-linux.tests.texlive.defaultLanguage.etex |
@@ -13208,7 +13205,7 @@
 | delta-h | 0.0.3 | Online entropy-based model of lexical category acquisition | legacyPackages.x86_64-linux.haskellPackages.delta-h |
 | delta-store | 1.0.0.0 | Facilities for storing a Haskell value, using delta types | legacyPackages.x86_64-linux.haskellPackages.delta-store |
 | delta-types | 1.0.0.0 | Delta types, also known as change actions | legacyPackages.x86_64-linux.haskellPackages.delta-types |
-| deltachat-desktop | 2.20.0 | Email-based instant messaging for Desktop | legacyPackages.x86_64-linux.deltachat-desktop |
+| deltachat-desktop | 2.22.0 | Email-based instant messaging for Desktop | legacyPackages.x86_64-linux.deltachat-desktop |
 | deltachat-repl | 2.22.0 | Delta Chat CLI client | legacyPackages.x86_64-linux.deltachat-repl |
 | deltachat-rpc-server | 2.22.0 | Delta Chat RPC server exposing JSON-RPC core API over standard I/O | legacyPackages.x86_64-linux.deltachat-rpc-server |
 | deltaq | 1.0.0.0 | Framework for ∆Q System Development | legacyPackages.x86_64-linux.haskellPackages.deltaq |
@@ -14776,7 +14773,7 @@
 | e11y-otel | 0.1.0.0 | OpenTelemetry-based rendering for e11y | legacyPackages.x86_64-linux.haskellPackages.e11y-otel |
 | e16 | 1.0.31 | Enlightenment DR16 window manager | legacyPackages.x86_64-linux.e16 |
 | e17gtk | 3.22.2 | Enlightenment-like GTK theme with sharp corners | legacyPackages.x86_64-linux.e17gtk |
-| e1s | 1.0.50 | Easily Manage AWS ECS Resources in Terminal | legacyPackages.x86_64-linux.e1s |
+| e1s | 1.0.51 | Easily Manage AWS ECS Resources in Terminal | legacyPackages.x86_64-linux.e1s |
 | e2fsprogs | 1.47.3 | Tools for creating and checking ext2/ext3/ext4 filesystems | legacyPackages.x86_64-linux.e2fsprogs |
 | e2fsprogs | 1.47.3 | Tools for creating and checking ext2/ext3/ext4 filesystems | legacyPackages.x86_64-linux.fuse2fs |
 | e2tools | 0.1.2 | Utilities to read/write/manipulate files in an ext2/ext3 filesystem | legacyPackages.x86_64-linux.e2tools |
@@ -15481,9 +15478,9 @@
 | emma | 2.0.5312 | Code coverage tool for Java | legacyPackages.x86_64-linux.emma |
 | emmet-language-server | 2.8.0 | Language server for emmet.io | legacyPackages.x86_64-linux.emmet-language-server |
 | emmet-ls | 0.4.1 | Emmet support based on LSP | legacyPackages.x86_64-linux.emmet-ls |
-| emmylua_check | 0.15.0 | Comprehensive Lua static analysis tool for code quality assurance | legacyPackages.x86_64-linux.emmylua-check |
+| emmylua_check | 0.16.0 | Comprehensive Lua static analysis tool for code quality assurance | legacyPackages.x86_64-linux.emmylua-check |
 | emmylua_doc_cli | 0.16.0 | Professional documentation generator creating beautiful, searchable API docs from your Lua code and annotations. | legacyPackages.x86_64-linux.emmylua-doc-cli |
-| emmylua_ls | 0.15.0 | EmmyLua Language Server | legacyPackages.x86_64-linux.emmylua-ls |
+| emmylua_ls | 0.16.0 | EmmyLua Language Server | legacyPackages.x86_64-linux.emmylua-ls |
 | emo | 0.4 | Emoji for all (LaTeX engines) | legacyPackages.x86_64-linux.texlivePackages.emo |
 | emocli | 1.0.0 | Emoji picker for your command line | legacyPackages.x86_64-linux.emocli |
 | emoj | 4.1.0 | Find relevant emoji from text on the command-line | legacyPackages.x86_64-linux.nodePackages.emoj |
@@ -16675,8 +16672,8 @@
 | fastddsgen | 4.2.0 | Fast-DDS IDL code generator tool | legacyPackages.x86_64-linux.fastddsgen |
 | fastedit | 0.1.0.0 | find nearest neighbours by edit-distance | legacyPackages.x86_64-linux.haskellPackages.fastedit |
 | faster-megaparsec | 0.1.2.0 | Speed up Megaparsec parsing when parsing succeeds | legacyPackages.x86_64-linux.haskellPackages.faster-megaparsec |
-| fastfetch | 2.53.0 | Actively maintained, feature-rich and performance oriented, neofetch like system information tool | legacyPackages.x86_64-linux.fastfetch |
-| fastfetch | 2.53.0 | Actively maintained, feature-rich and performance oriented, neofetch like system information tool | legacyPackages.x86_64-linux.fastfetchMinimal |
+| fastfetch | 2.54.0 | Actively maintained, feature-rich and performance oriented, neofetch like system information tool | legacyPackages.x86_64-linux.fastfetch |
+| fastfetch | 2.54.0 | Actively maintained, feature-rich and performance oriented, neofetch like system information tool | legacyPackages.x86_64-linux.fastfetchMinimal |
 | fastgron | 0.7.7 | High-performance JSON to GRON (greppable, flattened JSON) converter | legacyPackages.x86_64-linux.fastgron |
 | fasthenry | 3.0.1 | Multipole-accelerated inductance analysis program | legacyPackages.x86_64-linux.fasthenry |
 | fastirc | 0.2.0 | Fast Internet Relay Chat (IRC) library | legacyPackages.x86_64-linux.haskellPackages.fastirc |
@@ -16948,7 +16945,7 @@
 | fetchgit-fetch-tags-test-salted | 0c0pnbwgj661 |  | legacyPackages.x86_64-linux.tests.fetchgit.fetchTags |
 | fetchgit-with-rootdir-salted-j45snn2x5qyv |  |  | legacyPackages.x86_64-linux.tests.fetchgit.rootDir |
 | fetchit | 0.0.1 | Tool to manage the life cycle and configuration of Podman containers | legacyPackages.x86_64-linux.fetchit |
-| fetchmail | 6.5.6 | Full-featured remote-mail retrieval and forwarding utility | legacyPackages.x86_64-linux.fetchmail |
+| fetchmail | 6.5.7 | Full-featured remote-mail retrieval and forwarding utility | legacyPackages.x86_64-linux.fetchmail |
 | fetchmail | 7.0.0-alpha11 | Full-featured remote-mail retrieval and forwarding utility | legacyPackages.x86_64-linux.fetchmail_7 |
 | fetchutils-unstable | 2021-03-16 | Collection of small shell utilities to fetch system information | legacyPackages.x86_64-linux.fetchutils |
 | fetzerch-sunandmoon-datasource | 0.3.3 | Calculates the position of Sun and Moon as well as the Moon illumination using SunCalc | legacyPackages.x86_64-linux.grafanaPlugins.fetzerch-sunandmoon-datasource |
@@ -17112,7 +17109,7 @@
 | filepather | 0.5.5 | Functions on System.FilePath | legacyPackages.x86_64-linux.haskellPackages.filepather |
 | filepattern | 0.1.3 | File path glob-like matching | legacyPackages.x86_64-linux.haskellPackages.filepattern |
 | fileplow | 0.1.0.0 | Library to process and search large files or a collection of files | legacyPackages.x86_64-linux.haskellPackages.fileplow |
-| files-cli | 2.15.111 | Files.com Command Line App for Windows, Linux, and macOS | legacyPackages.x86_64-linux.files-cli |
+| files-cli | 2.15.121 | Files.com Command Line App for Windows, Linux, and macOS | legacyPackages.x86_64-linux.files-cli |
 | files-to-prompt | 0.6 | Concatenate a directory full of files into a single prompt for use with LLMs | legacyPackages.x86_64-linux.files-to-prompt |
 | fileshare | 0.2.4 | Small HTTP Server for quickly sharing files over the network | legacyPackages.x86_64-linux.fileshare |
 | fileshelter | 6.3.0 | One-click file sharing web application | legacyPackages.x86_64-linux.fileshelter |
@@ -17645,7 +17642,7 @@
 | fn | 0.6.43 | Command-line tool for the fn project | legacyPackages.x86_64-linux.fn-cli |
 | fn-extra | 0.3.0.2 | Extras for Fn, a functional web framework | legacyPackages.x86_64-linux.haskellPackages.fn-extra |
 | fn2end | 1.1 | Convert footnotes to endnotes | legacyPackages.x86_64-linux.texlivePackages.fn2end |
-| fna3d | 25.02 | Accuracy-focused XNA4 reimplementation for open platforms | legacyPackages.x86_64-linux.fna3d |
+| fna3d | 25.10 | Accuracy-focused XNA4 reimplementation for open platforms | legacyPackages.x86_64-linux.fna3d |
 | fnbreak | 1.40 | Warn for split footnotes | legacyPackages.x86_64-linux.texlivePackages.fnbreak |
 | fnc | 0.18 | Interactive ncurses browser for Fossil repositories | legacyPackages.x86_64-linux.fnc |
 | fncychap | 1.34 | Seven predefined chapter heading styles | legacyPackages.x86_64-linux.texlivePackages.fncychap |
@@ -18125,6 +18122,7 @@
 | fregel | 1.2.0 | A functional DSL for vertex-centric large-scale graph processing | legacyPackages.x86_64-linux.haskellPackages.fregel |
 | frei | 0.4.0 | Modern replacement for free | legacyPackages.x86_64-linux.frei |
 | frei0r-plugins | 2.4.0 | Minimalist, cross-platform, shared video plugins | legacyPackages.x86_64-linux.frei0r |
+| freifunk-meshviewer | 12.6.0 |  | legacyPackages.x86_64-linux.freifunk-meshviewer |
 | french-cards | 0.1.1 | French Playing Cards | legacyPackages.x86_64-linux.haskellPackages.french-cards |
 | french-numbers | 1.2.0 | Represent numbers in French language | legacyPackages.x86_64-linux.french-numbers |
 | frenchmath | 3.1 | Typesetting mathematics according to French rules | legacyPackages.x86_64-linux.texlivePackages.frenchmath |
@@ -18608,7 +18606,7 @@
 | gato | 1.6 | GitHub Self-Hosted Runner Enumeration and Attack Tool | legacyPackages.x86_64-linux.gato |
 | gatsby-cli | 5.14.0 | Gatsby command-line interface for creating new sites and running Gatsby commands | legacyPackages.x86_64-linux.nodePackages.gatsby-cli |
 | gatsby-cli | 5.14.0 | Gatsby command-line interface for creating new sites and running Gatsby commands | legacyPackages.x86_64-linux.nodePackages_latest.gatsby-cli |
-| gatus | 5.26.0 | Automated developer-oriented status page | legacyPackages.x86_64-linux.gatus |
+| gatus | 5.27.0 | Automated developer-oriented status page | legacyPackages.x86_64-linux.gatus |
 | gau | 2.2.4 | Tool to fetch known URLs | legacyPackages.x86_64-linux.gau |
 | gauche | 0.9.15 | R7RS Scheme scripting engine | legacyPackages.x86_64-linux.gauche |
 | gauche-bootstrap | 0.9.15 | R7RS Scheme scripting engine (released version) | legacyPackages.x86_64-linux.gaucheBootstrap |
@@ -18763,7 +18761,7 @@
 | gdbuspp | 3 | GDBus++ - a glib2 D-Bus wrapper for C++ | legacyPackages.x86_64-linux.gdbuspp |
 | gdcm | 3.2.1 | Grassroots cross-platform DICOM implementation | legacyPackages.x86_64-linux.gdcm |
 | gdelt | 0.1.0.0 | GDELT V2 (Global Database of Events, Language, and Tone) | legacyPackages.x86_64-linux.haskellPackages.gdelt |
-| gdevelop | 5.5.242 | Graphical Game Development Studio | legacyPackages.x86_64-linux.gdevelop |
+| gdevelop | 5.5.243 | Graphical Game Development Studio | legacyPackages.x86_64-linux.gdevelop |
 | gdiff | 1.1 | Generic diff and patch | legacyPackages.x86_64-linux.haskellPackages.gdiff |
 | gdiff-ig | 0.1.1 | Generic diff for the instant-generics library | legacyPackages.x86_64-linux.haskellPackages.gdiff-ig |
 | gdiff-th | 0.1.0.7 | Generate gdiff GADTs and Instances | legacyPackages.x86_64-linux.haskellPackages.gdiff-th |
@@ -21588,7 +21586,7 @@
 | gokey | 0.1.3 | Vault-less password store | legacyPackages.x86_64-linux.gokey |
 | gokrazy | 0-unstable-2024-09-27 | Turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs | legacyPackages.x86_64-linux.gokrazy |
 | goku | 0.8.0 | Karabiner configurator | legacyPackages.x86_64-linux.goku |
-| gol | 1.0.2 | Command-line utility for creating and managing Geographic Object Libraries | legacyPackages.x86_64-linux.gol |
+| gol | 1.2.0 | Command-line utility for creating and managing Geographic Object Libraries | legacyPackages.x86_64-linux.gol |
 | goland | 2025.2.3 | Go IDE from JetBrains | legacyPackages.x86_64-linux.jetbrains.goland |
 | golangci-lint | 2.5.0 | Fast linters Runner for Go | legacyPackages.x86_64-linux.golangci-lint |
 | golangci-lint-langserver | 0.0.11 | Language server for golangci-lint | legacyPackages.x86_64-linux.golangci-lint-langserver |
@@ -21970,7 +21968,7 @@
 | grafana-github-datasource | 1.9.2 | Allows GitHub API data to be visually represented in Grafana dashboards | legacyPackages.x86_64-linux.grafanaPlugins.grafana-github-datasource |
 | grafana-googlesheets-datasource | 1.2.14 | Integrate JSON data into Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-googlesheets-datasource |
 | grafana-kiosk | 1.0.9 | Kiosk Utility for Grafana | legacyPackages.x86_64-linux.grafana-kiosk |
-| grafana-loki | 3.5.6 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.grafana-loki |
+| grafana-loki | 3.5.7 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.grafana-loki |
 | grafana-lokiexplore-app | 1.0.26 | Browse Loki logs without the need for writing complex queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-lokiexplore-app |
 | grafana-metricsdrilldown-app | 1.0.15 | Queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-metricsdrilldown-app |
 | grafana-mqtt-datasource | 1.1.0-beta.3 | Visualize streaming MQTT data from within Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-mqtt-datasource |
@@ -22999,7 +22997,7 @@
 | harpie-numhask | 0.1.0.2 | numhask shim for harpie | legacyPackages.x86_64-linux.haskellPackages.harpie-numhask |
 | harpoon | 1.0 | Extra harpoons, using the graphics package | legacyPackages.x86_64-linux.texlivePackages.harpoon |
 | harpy | 0.6.0.2 | Runtime code generation for x86 machine code | legacyPackages.x86_64-linux.haskellPackages.harpy |
-| harsh | 0.10.22 | CLI habit tracking for geeks | legacyPackages.x86_64-linux.harsh |
+| harsh | 0.11.3 | CLI habit tracking for geeks | legacyPackages.x86_64-linux.harsh |
 | haruna | 1.4.0 | Open source video player built with Qt/QML and libmpv | legacyPackages.x86_64-linux.haruna |
 | harvard | 2.0.5 | Harvard citation package for use with LaTeX 2e | legacyPackages.x86_64-linux.texlivePackages.harvard |
 | harvest-api | 0.1.0 | Bindings for Harvest API | legacyPackages.x86_64-linux.haskellPackages.harvest-api |
@@ -24324,1012 +24322,1012 @@
 | home-assistant-chip-wheels | 2025.7.0 | Python wheels for APIs and tools related to CHIP | legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-wheels |
 | home-assistant-client | 0.1.0.0 | Client library for the Home Assistant API | legacyPackages.x86_64-linux.haskellPackages.home-assistant-client |
 | home-manager | 0-unstable-2025-10-12 | Nix-based user environment configurator | legacyPackages.x86_64-linux.home-manager |
-| homeassistant | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant |
+| homeassistant | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant |
 | homeassistant-cli | 0.9.6 | Command-line tool for Home Assistant | legacyPackages.x86_64-linux.home-assistant-cli |
-| homeassistant-test-abode | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.abode |
-| homeassistant-test-acaia | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.acaia |
-| homeassistant-test-accuweather | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.accuweather |
-| homeassistant-test-acmeda | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.acmeda |
-| homeassistant-test-adax | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.adax |
-| homeassistant-test-adguard | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.adguard |
-| homeassistant-test-advantage_air | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.advantage_air |
-| homeassistant-test-aemet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aemet |
-| homeassistant-test-aftership | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aftership |
-| homeassistant-test-agent_dvr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.agent_dvr |
-| homeassistant-test-ai_task | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ai_task |
-| homeassistant-test-air_quality | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.air_quality |
-| homeassistant-test-airgradient | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airgradient |
-| homeassistant-test-airly | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airly |
-| homeassistant-test-airnow | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airnow |
-| homeassistant-test-airos | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airos |
-| homeassistant-test-airq | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airq |
-| homeassistant-test-airthings | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airthings |
-| homeassistant-test-airthings_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airthings_ble |
-| homeassistant-test-airtouch4 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airtouch4 |
-| homeassistant-test-airtouch5 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airtouch5 |
-| homeassistant-test-airvisual | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airvisual |
-| homeassistant-test-airvisual_pro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airvisual_pro |
-| homeassistant-test-airzone | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airzone |
-| homeassistant-test-airzone_cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airzone_cloud |
-| homeassistant-test-aladdin_connect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aladdin_connect |
-| homeassistant-test-alarm_control_panel | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alarm_control_panel |
-| homeassistant-test-alarmdecoder | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alarmdecoder |
-| homeassistant-test-alert | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alert |
-| homeassistant-test-alexa | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alexa |
-| homeassistant-test-alexa_devices | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alexa_devices |
-| homeassistant-test-altruist | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.altruist |
-| homeassistant-test-amberelectric | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.amberelectric |
-| homeassistant-test-ambient_network | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ambient_network |
-| homeassistant-test-ambient_station | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ambient_station |
-| homeassistant-test-analytics | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.analytics |
-| homeassistant-test-analytics_insights | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.analytics_insights |
-| homeassistant-test-android_ip_webcam | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.android_ip_webcam |
-| homeassistant-test-androidtv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.androidtv |
-| homeassistant-test-androidtv_remote | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.androidtv_remote |
-| homeassistant-test-anova | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.anova |
-| homeassistant-test-anthemav | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.anthemav |
-| homeassistant-test-anthropic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.anthropic |
-| homeassistant-test-aosmith | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aosmith |
-| homeassistant-test-apache_kafka | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apache_kafka |
-| homeassistant-test-apcupsd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apcupsd |
-| homeassistant-test-api | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.api |
-| homeassistant-test-apple_tv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apple_tv |
-| homeassistant-test-application_credentials | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.application_credentials |
-| homeassistant-test-apprise | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apprise |
-| homeassistant-test-aprilaire | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aprilaire |
-| homeassistant-test-aprs | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aprs |
-| homeassistant-test-apsystems | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apsystems |
-| homeassistant-test-aquacell | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aquacell |
-| homeassistant-test-aranet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aranet |
-| homeassistant-test-arcam_fmj | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.arcam_fmj |
-| homeassistant-test-arve | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.arve |
-| homeassistant-test-aseko_pool_live | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aseko_pool_live |
-| homeassistant-test-assist_pipeline | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.assist_pipeline |
-| homeassistant-test-assist_satellite | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.assist_satellite |
-| homeassistant-test-asuswrt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.asuswrt |
-| homeassistant-test-atag | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.atag |
-| homeassistant-test-august | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.august |
-| homeassistant-test-aurora | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aurora |
-| homeassistant-test-aurora_abb_powerone | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aurora_abb_powerone |
-| homeassistant-test-aussie_broadband | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aussie_broadband |
-| homeassistant-test-autarco | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.autarco |
-| homeassistant-test-auth | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.auth |
-| homeassistant-test-automation | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.automation |
-| homeassistant-test-awair | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.awair |
-| homeassistant-test-aws | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aws |
-| homeassistant-test-aws_s3 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aws_s3 |
-| homeassistant-test-axis | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.axis |
-| homeassistant-test-azure_data_explorer | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_data_explorer |
-| homeassistant-test-azure_devops | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_devops |
-| homeassistant-test-azure_event_hub | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_event_hub |
-| homeassistant-test-azure_storage | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_storage |
-| homeassistant-test-backup | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.backup |
-| homeassistant-test-baf | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.baf |
-| homeassistant-test-balboa | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.balboa |
-| homeassistant-test-bang_olufsen | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bang_olufsen |
-| homeassistant-test-bayesian | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bayesian |
-| homeassistant-test-binary_sensor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.binary_sensor |
-| homeassistant-test-blackbird | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blackbird |
-| homeassistant-test-blebox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blebox |
-| homeassistant-test-blink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blink |
-| homeassistant-test-blue_current | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blue_current |
-| homeassistant-test-bluemaestro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluemaestro |
-| homeassistant-test-blueprint | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blueprint |
-| homeassistant-test-bluesound | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluesound |
-| homeassistant-test-bluetooth | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluetooth |
-| homeassistant-test-bluetooth_adapters | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluetooth_adapters |
-| homeassistant-test-bluetooth_le_tracker | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluetooth_le_tracker |
-| homeassistant-test-bmw_connected_drive | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bmw_connected_drive |
-| homeassistant-test-bond | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bond |
-| homeassistant-test-bosch_alarm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bosch_alarm |
-| homeassistant-test-bosch_shc | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bosch_shc |
-| homeassistant-test-braviatv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.braviatv |
-| homeassistant-test-bring | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bring |
-| homeassistant-test-broadlink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.broadlink |
-| homeassistant-test-brother | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.brother |
-| homeassistant-test-brottsplatskartan | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.brottsplatskartan |
-| homeassistant-test-brunt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.brunt |
-| homeassistant-test-bryant_evolution | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bryant_evolution |
-| homeassistant-test-bsblan | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bsblan |
-| homeassistant-test-bthome | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bthome |
-| homeassistant-test-buienradar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.buienradar |
-| homeassistant-test-button | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.button |
-| homeassistant-test-caldav | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.caldav |
-| homeassistant-test-calendar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.calendar |
-| homeassistant-test-cambridge_audio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cambridge_audio |
-| homeassistant-test-camera | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.camera |
-| homeassistant-test-canary | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.canary |
-| homeassistant-test-cast | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cast |
-| homeassistant-test-ccm15 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ccm15 |
-| homeassistant-test-cert_expiry | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cert_expiry |
-| homeassistant-test-chacon_dio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.chacon_dio |
-| homeassistant-test-clicksend_tts | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.clicksend_tts |
-| homeassistant-test-climate | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.climate |
-| homeassistant-test-cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cloud |
-| homeassistant-test-cloudflare | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cloudflare |
-| homeassistant-test-co2signal | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.co2signal |
-| homeassistant-test-coinbase | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.coinbase |
-| homeassistant-test-color_extractor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.color_extractor |
-| homeassistant-test-comelit | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.comelit |
-| homeassistant-test-comfoconnect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.comfoconnect |
-| homeassistant-test-command_line | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.command_line |
-| homeassistant-test-compensation | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.compensation |
-| homeassistant-test-config | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.config |
-| homeassistant-test-configurator | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.configurator |
-| homeassistant-test-control4 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.control4 |
-| homeassistant-test-conversation | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.conversation |
-| homeassistant-test-cookidoo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cookidoo |
-| homeassistant-test-coolmaster | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.coolmaster |
-| homeassistant-test-counter | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.counter |
-| homeassistant-test-cover | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cover |
-| homeassistant-test-cpuspeed | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cpuspeed |
-| homeassistant-test-crownstone | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.crownstone |
-| homeassistant-test-cups | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cups |
-| homeassistant-test-daikin | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.daikin |
-| homeassistant-test-datadog | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.datadog |
-| homeassistant-test-date | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.date |
-| homeassistant-test-datetime | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.datetime |
-| homeassistant-test-deako | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.deako |
-| homeassistant-test-debugpy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.debugpy |
-| homeassistant-test-deconz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.deconz |
-| homeassistant-test-default_config | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.default_config |
-| homeassistant-test-deluge | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.deluge |
-| homeassistant-test-demo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.demo |
-| homeassistant-test-denonavr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.denonavr |
-| homeassistant-test-derivative | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.derivative |
-| homeassistant-test-devialet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.devialet |
-| homeassistant-test-device_automation | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.device_automation |
-| homeassistant-test-device_sun_light_trigger | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.device_sun_light_trigger |
-| homeassistant-test-device_tracker | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.device_tracker |
-| homeassistant-test-devolo_home_control | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.devolo_home_control |
-| homeassistant-test-devolo_home_network | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.devolo_home_network |
-| homeassistant-test-dexcom | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dexcom |
-| homeassistant-test-dhcp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dhcp |
-| homeassistant-test-diagnostics | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.diagnostics |
-| homeassistant-test-dialogflow | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dialogflow |
-| homeassistant-test-directv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.directv |
-| homeassistant-test-discord | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.discord |
-| homeassistant-test-discovergy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.discovergy |
-| homeassistant-test-dlib_face_detect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlib_face_detect |
-| homeassistant-test-dlib_face_identify | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlib_face_identify |
-| homeassistant-test-dlink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlink |
-| homeassistant-test-dlna_dmr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlna_dmr |
-| homeassistant-test-dlna_dms | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlna_dms |
-| homeassistant-test-dnsip | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dnsip |
-| homeassistant-test-doorbird | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.doorbird |
-| homeassistant-test-dormakaba_dkey | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dormakaba_dkey |
-| homeassistant-test-downloader | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.downloader |
-| homeassistant-test-dremel_3d_printer | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dremel_3d_printer |
-| homeassistant-test-drop_connect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.drop_connect |
-| homeassistant-test-dsmr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dsmr |
-| homeassistant-test-dsmr_reader | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dsmr_reader |
-| homeassistant-test-duckdns | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.duckdns |
-| homeassistant-test-duke_energy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.duke_energy |
-| homeassistant-test-dunehd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dunehd |
-| homeassistant-test-duotecno | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.duotecno |
-| homeassistant-test-dwd_weather_warnings | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dwd_weather_warnings |
-| homeassistant-test-dynalite | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dynalite |
-| homeassistant-test-eafm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eafm |
-| homeassistant-test-easyenergy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.easyenergy |
-| homeassistant-test-ecobee | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecobee |
-| homeassistant-test-ecoforest | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecoforest |
-| homeassistant-test-econet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.econet |
-| homeassistant-test-ecovacs | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecovacs |
-| homeassistant-test-ecowitt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecowitt |
-| homeassistant-test-eddystone_temperature | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eddystone_temperature |
-| homeassistant-test-edl21 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.edl21 |
-| homeassistant-test-efergy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.efergy |
-| homeassistant-test-eheimdigital | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eheimdigital |
-| homeassistant-test-eight_sleep | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eight_sleep |
-| homeassistant-test-electrasmart | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.electrasmart |
-| homeassistant-test-electric_kiwi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.electric_kiwi |
-| homeassistant-test-elevenlabs | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elevenlabs |
-| homeassistant-test-elgato | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elgato |
-| homeassistant-test-elkm1 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elkm1 |
-| homeassistant-test-elmax | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elmax |
-| homeassistant-test-elvia | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elvia |
-| homeassistant-test-emoncms | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emoncms |
-| homeassistant-test-emoncms_history | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emoncms_history |
-| homeassistant-test-emonitor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emonitor |
-| homeassistant-test-emulated_hue | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emulated_hue |
-| homeassistant-test-emulated_kasa | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emulated_kasa |
-| homeassistant-test-emulated_roku | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emulated_roku |
-| homeassistant-test-energenie_power_sockets | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.energenie_power_sockets |
-| homeassistant-test-energy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.energy |
-| homeassistant-test-energyzero | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.energyzero |
-| homeassistant-test-enigma2 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.enigma2 |
-| homeassistant-test-enocean | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.enocean |
-| homeassistant-test-enphase_envoy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.enphase_envoy |
-| homeassistant-test-environment_canada | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.environment_canada |
-| homeassistant-test-epic_games_store | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.epic_games_store |
-| homeassistant-test-epion | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.epion |
-| homeassistant-test-epson | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.epson |
-| homeassistant-test-eq3btsmart | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eq3btsmart |
-| homeassistant-test-escea | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.escea |
-| homeassistant-test-esphome | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.esphome |
-| homeassistant-test-eufylife_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eufylife_ble |
-| homeassistant-test-event | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.event |
-| homeassistant-test-everlights | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.everlights |
-| homeassistant-test-evil_genius_labs | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.evil_genius_labs |
-| homeassistant-test-evohome | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.evohome |
-| homeassistant-test-ezviz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ezviz |
-| homeassistant-test-faa_delays | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.faa_delays |
-| homeassistant-test-facebook | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.facebook |
-| homeassistant-test-fail2ban | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fail2ban |
-| homeassistant-test-fan | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fan |
-| homeassistant-test-fastdotcom | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fastdotcom |
-| homeassistant-test-feedreader | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.feedreader |
-| homeassistant-test-ffmpeg | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ffmpeg |
-| homeassistant-test-fibaro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fibaro |
-| homeassistant-test-fido | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fido |
-| homeassistant-test-file | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.file |
-| homeassistant-test-file_upload | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.file_upload |
-| homeassistant-test-filesize | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.filesize |
-| homeassistant-test-filter | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.filter |
-| homeassistant-test-fints | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fints |
-| homeassistant-test-fireservicerota | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fireservicerota |
-| homeassistant-test-firmata | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.firmata |
-| homeassistant-test-fitbit | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fitbit |
-| homeassistant-test-fivem | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fivem |
-| homeassistant-test-fjaraskupan | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fjaraskupan |
-| homeassistant-test-flexit_bacnet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flexit_bacnet |
-| homeassistant-test-flic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flic |
-| homeassistant-test-flick_electric | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flick_electric |
-| homeassistant-test-flipr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flipr |
-| homeassistant-test-flo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flo |
-| homeassistant-test-flume | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flume |
-| homeassistant-test-flux | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flux |
-| homeassistant-test-flux_led | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flux_led |
-| homeassistant-test-folder | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.folder |
-| homeassistant-test-folder_watcher | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.folder_watcher |
-| homeassistant-test-foobot | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.foobot |
-| homeassistant-test-forecast_solar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.forecast_solar |
-| homeassistant-test-forked_daapd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.forked_daapd |
-| homeassistant-test-foscam | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.foscam |
-| homeassistant-test-freebox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.freebox |
-| homeassistant-test-freedns | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.freedns |
-| homeassistant-test-freedompro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.freedompro |
-| homeassistant-test-fritz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fritz |
-| homeassistant-test-fritzbox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fritzbox |
-| homeassistant-test-fritzbox_callmonitor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fritzbox_callmonitor |
-| homeassistant-test-fronius | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fronius |
-| homeassistant-test-frontend | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.frontend |
-| homeassistant-test-frontier_silicon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.frontier_silicon |
-| homeassistant-test-fujitsu_fglair | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fujitsu_fglair |
-| homeassistant-test-fully_kiosk | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fully_kiosk |
-| homeassistant-test-fyta | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fyta |
-| homeassistant-test-garages_amsterdam | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.garages_amsterdam |
-| homeassistant-test-gardena_bluetooth | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gardena_bluetooth |
-| homeassistant-test-gdacs | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gdacs |
-| homeassistant-test-generic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.generic |
-| homeassistant-test-generic_hygrostat | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.generic_hygrostat |
-| homeassistant-test-generic_thermostat | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.generic_thermostat |
-| homeassistant-test-geniushub | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geniushub |
-| homeassistant-test-geo_json_events | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geo_json_events |
-| homeassistant-test-geo_location | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geo_location |
-| homeassistant-test-geo_rss_events | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geo_rss_events |
-| homeassistant-test-geocaching | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geocaching |
-| homeassistant-test-geofency | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geofency |
-| homeassistant-test-geonetnz_quakes | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geonetnz_quakes |
-| homeassistant-test-geonetnz_volcano | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geonetnz_volcano |
-| homeassistant-test-gios | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gios |
-| homeassistant-test-github | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.github |
-| homeassistant-test-glances | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.glances |
-| homeassistant-test-go2rtc | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.go2rtc |
-| homeassistant-test-goalzero | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.goalzero |
-| homeassistant-test-gogogate2 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gogogate2 |
-| homeassistant-test-goodwe | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.goodwe |
-| homeassistant-test-google | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google |
-| homeassistant-test-google_assistant | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_assistant |
-| homeassistant-test-google_assistant_sdk | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_assistant_sdk |
-| homeassistant-test-google_cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_cloud |
-| homeassistant-test-google_drive | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_drive |
-| homeassistant-test-google_generative_ai_conversation | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_generative_ai_conversation |
-| homeassistant-test-google_mail | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_mail |
-| homeassistant-test-google_photos | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_photos |
-| homeassistant-test-google_pubsub | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_pubsub |
-| homeassistant-test-google_sheets | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_sheets |
-| homeassistant-test-google_tasks | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_tasks |
-| homeassistant-test-google_translate | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_translate |
-| homeassistant-test-google_travel_time | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_travel_time |
-| homeassistant-test-google_wifi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_wifi |
-| homeassistant-test-govee_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.govee_ble |
-| homeassistant-test-govee_light_local | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.govee_light_local |
-| homeassistant-test-gpsd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gpsd |
-| homeassistant-test-gpslogger | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gpslogger |
-| homeassistant-test-graphite | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.graphite |
-| homeassistant-test-gree | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gree |
-| homeassistant-test-greeneye_monitor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.greeneye_monitor |
-| homeassistant-test-group | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.group |
-| homeassistant-test-growatt_server | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.growatt_server |
-| homeassistant-test-guardian | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.guardian |
-| homeassistant-test-habitica | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.habitica |
-| homeassistant-test-hardkernel | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hardkernel |
-| homeassistant-test-hardware | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hardware |
-| homeassistant-test-harmony | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.harmony |
-| homeassistant-test-hassio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hassio |
-| homeassistant-test-hddtemp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hddtemp |
-| homeassistant-test-hdmi_cec | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hdmi_cec |
-| homeassistant-test-heos | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.heos |
-| homeassistant-test-here_travel_time | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.here_travel_time |
-| homeassistant-test-hisense_aehw4a1 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hisense_aehw4a1 |
-| homeassistant-test-history | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.history |
-| homeassistant-test-history_stats | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.history_stats |
-| homeassistant-test-hive | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hive |
-| homeassistant-test-hko | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hko |
-| homeassistant-test-hlk_sw16 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hlk_sw16 |
-| homeassistant-test-holiday | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.holiday |
-| homeassistant-test-home_connect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.home_connect |
-| homeassistant-test-homeassistant | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant |
-| homeassistant-test-homeassistant_alerts | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_alerts |
-| homeassistant-test-homeassistant_connect_zbt2 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_connect_zbt2 |
-| homeassistant-test-homeassistant_green | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_green |
-| homeassistant-test-homeassistant_hardware | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_hardware |
-| homeassistant-test-homeassistant_sky_connect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_sky_connect |
-| homeassistant-test-homeassistant_yellow | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_yellow |
-| homeassistant-test-homee | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homee |
-| homeassistant-test-homekit | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homekit |
-| homeassistant-test-homekit_controller | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homekit_controller |
-| homeassistant-test-homematic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homematic |
-| homeassistant-test-homematicip_cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homematicip_cloud |
-| homeassistant-test-homewizard | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homewizard |
-| homeassistant-test-homeworks | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeworks |
-| homeassistant-test-honeywell | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.honeywell |
-| homeassistant-test-html5 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.html5 |
-| homeassistant-test-http | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.http |
-| homeassistant-test-huawei_lte | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.huawei_lte |
-| homeassistant-test-hue | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hue |
-| homeassistant-test-huisbaasje | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.huisbaasje |
-| homeassistant-test-humidifier | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.humidifier |
-| homeassistant-test-hunterdouglas_powerview | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hunterdouglas_powerview |
-| homeassistant-test-husqvarna_automower | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.husqvarna_automower |
-| homeassistant-test-husqvarna_automower_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.husqvarna_automower_ble |
-| homeassistant-test-huum | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.huum |
-| homeassistant-test-hvv_departures | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hvv_departures |
-| homeassistant-test-hydrawise | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hydrawise |
-| homeassistant-test-hyperion | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hyperion |
-| homeassistant-test-ialarm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ialarm |
-| homeassistant-test-iaqualink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iaqualink |
-| homeassistant-test-ibeacon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ibeacon |
-| homeassistant-test-icloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.icloud |
-| homeassistant-test-idasen_desk | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.idasen_desk |
-| homeassistant-test-ifttt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ifttt |
-| homeassistant-test-igloohome | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.igloohome |
-| homeassistant-test-ign_sismologia | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ign_sismologia |
-| homeassistant-test-image | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.image |
-| homeassistant-test-image_processing | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.image_processing |
-| homeassistant-test-image_upload | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.image_upload |
-| homeassistant-test-imap | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.imap |
-| homeassistant-test-imeon_inverter | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.imeon_inverter |
-| homeassistant-test-imgw_pib | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.imgw_pib |
-| homeassistant-test-immich | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.immich |
-| homeassistant-test-improv_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.improv_ble |
-| homeassistant-test-incomfort | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.incomfort |
-| homeassistant-test-influxdb | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.influxdb |
-| homeassistant-test-inkbird | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.inkbird |
-| homeassistant-test-input_boolean | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_boolean |
-| homeassistant-test-input_button | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_button |
-| homeassistant-test-input_datetime | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_datetime |
-| homeassistant-test-input_number | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_number |
-| homeassistant-test-input_select | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_select |
-| homeassistant-test-input_text | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_text |
-| homeassistant-test-insteon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.insteon |
-| homeassistant-test-integration | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.integration |
-| homeassistant-test-intellifire | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.intellifire |
-| homeassistant-test-intent | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.intent |
-| homeassistant-test-intent_script | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.intent_script |
-| homeassistant-test-iometer | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iometer |
-| homeassistant-test-ios | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ios |
-| homeassistant-test-iotawatt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iotawatt |
-| homeassistant-test-iotty | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iotty |
-| homeassistant-test-ipma | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ipma |
-| homeassistant-test-ipp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ipp |
-| homeassistant-test-iqvia | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iqvia |
-| homeassistant-test-irm_kmi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.irm_kmi |
-| homeassistant-test-iron_os | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iron_os |
-| homeassistant-test-isal | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.isal |
-| homeassistant-test-iskra | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iskra |
-| homeassistant-test-islamic_prayer_times | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.islamic_prayer_times |
-| homeassistant-test-israel_rail | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.israel_rail |
-| homeassistant-test-iss | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iss |
-| homeassistant-test-ista_ecotrend | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ista_ecotrend |
-| homeassistant-test-isy994 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.isy994 |
-| homeassistant-test-ituran | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ituran |
-| homeassistant-test-izone | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.izone |
-| homeassistant-test-jellyfin | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.jellyfin |
-| homeassistant-test-jewish_calendar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.jewish_calendar |
-| homeassistant-test-juicenet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.juicenet |
-| homeassistant-test-justnimbus | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.justnimbus |
-| homeassistant-test-jvc_projector | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.jvc_projector |
-| homeassistant-test-kaleidescape | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kaleidescape |
-| homeassistant-test-keenetic_ndms2 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.keenetic_ndms2 |
-| homeassistant-test-kegtron | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kegtron |
-| homeassistant-test-keymitt_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.keymitt_ble |
-| homeassistant-test-kira | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kira |
-| homeassistant-test-kitchen_sink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kitchen_sink |
-| homeassistant-test-kmtronic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kmtronic |
-| homeassistant-test-knocki | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.knocki |
-| homeassistant-test-knx | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.knx |
-| homeassistant-test-kodi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kodi |
-| homeassistant-test-konnected | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.konnected |
-| homeassistant-test-kostal_plenticore | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kostal_plenticore |
-| homeassistant-test-kraken | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kraken |
-| homeassistant-test-kulersky | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kulersky |
-| homeassistant-test-lacrosse_view | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lacrosse_view |
-| homeassistant-test-lamarzocco | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lamarzocco |
-| homeassistant-test-lametric | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lametric |
-| homeassistant-test-landisgyr_heat_meter | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.landisgyr_heat_meter |
-| homeassistant-test-lastfm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lastfm |
-| homeassistant-test-launch_library | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.launch_library |
-| homeassistant-test-laundrify | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.laundrify |
-| homeassistant-test-lawn_mower | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lawn_mower |
-| homeassistant-test-lcn | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lcn |
-| homeassistant-test-ld2410_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ld2410_ble |
-| homeassistant-test-leaone | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.leaone |
-| homeassistant-test-led_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.led_ble |
-| homeassistant-test-lektrico | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lektrico |
-| homeassistant-test-letpot | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.letpot |
-| homeassistant-test-lg_netcast | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lg_netcast |
-| homeassistant-test-lg_soundbar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lg_soundbar |
-| homeassistant-test-lg_thinq | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lg_thinq |
-| homeassistant-test-lidarr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lidarr |
-| homeassistant-test-life360 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.life360 |
-| homeassistant-test-lifx | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lifx |
-| homeassistant-test-light | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.light |
-| homeassistant-test-linkplay | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.linkplay |
-| homeassistant-test-litejet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.litejet |
-| homeassistant-test-litterrobot | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.litterrobot |
-| homeassistant-test-livisi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.livisi |
-| homeassistant-test-local_calendar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_calendar |
-| homeassistant-test-local_file | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_file |
-| homeassistant-test-local_ip | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_ip |
-| homeassistant-test-local_todo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_todo |
-| homeassistant-test-locative | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.locative |
-| homeassistant-test-lock | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lock |
-| homeassistant-test-logbook | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.logbook |
-| homeassistant-test-logentries | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.logentries |
-| homeassistant-test-logger | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.logger |
-| homeassistant-test-london_air | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.london_air |
-| homeassistant-test-london_underground | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.london_underground |
-| homeassistant-test-lookin | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lookin |
-| homeassistant-test-loqed | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.loqed |
-| homeassistant-test-lovelace | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lovelace |
-| homeassistant-test-luftdaten | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.luftdaten |
-| homeassistant-test-lupusec | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lupusec |
-| homeassistant-test-lutron | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lutron |
-| homeassistant-test-lutron_caseta | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lutron_caseta |
-| homeassistant-test-lyric | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lyric |
-| homeassistant-test-madvr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.madvr |
-| homeassistant-test-mailgun | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mailgun |
-| homeassistant-test-manual | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.manual |
-| homeassistant-test-manual_mqtt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.manual_mqtt |
-| homeassistant-test-marytts | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.marytts |
-| homeassistant-test-mastodon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mastodon |
-| homeassistant-test-matrix | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.matrix |
-| homeassistant-test-matter | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.matter |
-| homeassistant-test-maxcube | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.maxcube |
-| homeassistant-test-mazda | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mazda |
-| homeassistant-test-mcp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mcp |
-| homeassistant-test-mcp_server | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mcp_server |
-| homeassistant-test-mealie | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mealie |
-| homeassistant-test-meater | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meater |
-| homeassistant-test-medcom_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.medcom_ble |
-| homeassistant-test-media_extractor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.media_extractor |
-| homeassistant-test-media_player | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.media_player |
-| homeassistant-test-media_source | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.media_source |
-| homeassistant-test-melcloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.melcloud |
-| homeassistant-test-melissa | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.melissa |
-| homeassistant-test-melnor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.melnor |
-| homeassistant-test-meraki | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meraki |
-| homeassistant-test-met | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.met |
-| homeassistant-test-met_eireann | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.met_eireann |
-| homeassistant-test-meteo_france | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meteo_france |
-| homeassistant-test-meteoclimatic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meteoclimatic |
-| homeassistant-test-metoffice | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.metoffice |
-| homeassistant-test-mfi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mfi |
-| homeassistant-test-microbees | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microbees |
-| homeassistant-test-microsoft | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft |
-| homeassistant-test-microsoft_face | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft_face |
-| homeassistant-test-microsoft_face_detect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft_face_detect |
-| homeassistant-test-microsoft_face_identify | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft_face_identify |
-| homeassistant-test-miele | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.miele |
-| homeassistant-test-mikrotik | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mikrotik |
-| homeassistant-test-mill | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mill |
-| homeassistant-test-min_max | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.min_max |
-| homeassistant-test-minecraft_server | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.minecraft_server |
-| homeassistant-test-minio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.minio |
-| homeassistant-test-mjpeg | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mjpeg |
-| homeassistant-test-moat | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.moat |
-| homeassistant-test-mobile_app | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mobile_app |
-| homeassistant-test-mochad | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mochad |
-| homeassistant-test-modbus | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.modbus |
-| homeassistant-test-modem_callerid | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.modem_callerid |
-| homeassistant-test-modern_forms | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.modern_forms |
-| homeassistant-test-moehlenhoff_alpha2 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.moehlenhoff_alpha2 |
-| homeassistant-test-mold_indicator | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mold_indicator |
-| homeassistant-test-monarch_money | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.monarch_money |
-| homeassistant-test-monoprice | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.monoprice |
-| homeassistant-test-monzo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.monzo |
-| homeassistant-test-moon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.moon |
-| homeassistant-test-mopeka | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mopeka |
-| homeassistant-test-motion_blinds | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motion_blinds |
-| homeassistant-test-motionblinds_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motionblinds_ble |
-| homeassistant-test-motioneye | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motioneye |
-| homeassistant-test-motionmount | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motionmount |
-| homeassistant-test-mpd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mpd |
-| homeassistant-test-mqtt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt |
-| homeassistant-test-mqtt_eventstream | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_eventstream |
-| homeassistant-test-mqtt_json | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_json |
-| homeassistant-test-mqtt_room | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_room |
-| homeassistant-test-mqtt_statestream | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_statestream |
-| homeassistant-test-mullvad | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mullvad |
-| homeassistant-test-music_assistant | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.music_assistant |
-| homeassistant-test-mutesync | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mutesync |
-| homeassistant-test-my | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.my |
-| homeassistant-test-myq | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.myq |
-| homeassistant-test-mysensors | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mysensors |
-| homeassistant-test-mystrom | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mystrom |
-| homeassistant-test-mythicbeastsdns | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mythicbeastsdns |
-| homeassistant-test-myuplink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.myuplink |
-| homeassistant-test-nam | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nam |
-| homeassistant-test-namecheapdns | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.namecheapdns |
-| homeassistant-test-nanoleaf | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nanoleaf |
-| homeassistant-test-nasweb | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nasweb |
-| homeassistant-test-neato | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.neato |
-| homeassistant-test-nederlandse_spoorwegen | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nederlandse_spoorwegen |
-| homeassistant-test-ness_alarm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ness_alarm |
-| homeassistant-test-nest | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nest |
-| homeassistant-test-netatmo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.netatmo |
-| homeassistant-test-netgear | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.netgear |
-| homeassistant-test-netgear_lte | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.netgear_lte |
-| homeassistant-test-network | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.network |
-| homeassistant-test-nexia | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nexia |
-| homeassistant-test-nextbus | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nextbus |
-| homeassistant-test-nextcloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nextcloud |
-| homeassistant-test-nextdns | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nextdns |
-| homeassistant-test-nfandroidtv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nfandroidtv |
-| homeassistant-test-nibe_heatpump | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nibe_heatpump |
-| homeassistant-test-nice_go | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nice_go |
-| homeassistant-test-nightscout | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nightscout |
-| homeassistant-test-niko_home_control | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.niko_home_control |
-| homeassistant-test-nina | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nina |
-| homeassistant-test-nmap_tracker | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nmap_tracker |
-| homeassistant-test-nmbs | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nmbs |
-| homeassistant-test-no_ip | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.no_ip |
-| homeassistant-test-nobo_hub | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nobo_hub |
-| homeassistant-test-nordpool | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nordpool |
-| homeassistant-test-notify | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.notify |
-| homeassistant-test-notify_events | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.notify_events |
-| homeassistant-test-notion | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.notion |
-| homeassistant-test-nsw_fuel_station | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nsw_fuel_station |
-| homeassistant-test-nsw_rural_fire_service_feed | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nsw_rural_fire_service_feed |
-| homeassistant-test-ntfy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ntfy |
-| homeassistant-test-nuheat | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nuheat |
-| homeassistant-test-nuki | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nuki |
-| homeassistant-test-numato | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.numato |
-| homeassistant-test-number | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.number |
-| homeassistant-test-nut | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nut |
-| homeassistant-test-nws | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nws |
-| homeassistant-test-nx584 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nx584 |
-| homeassistant-test-nyt_games | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nyt_games |
-| homeassistant-test-nzbget | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nzbget |
-| homeassistant-test-obihai | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.obihai |
-| homeassistant-test-octoprint | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.octoprint |
-| homeassistant-test-ohme | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ohme |
-| homeassistant-test-ollama | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ollama |
-| homeassistant-test-omnilogic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.omnilogic |
-| homeassistant-test-onboarding | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onboarding |
-| homeassistant-test-oncue | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.oncue |
-| homeassistant-test-ondilo_ico | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ondilo_ico |
-| homeassistant-test-onedrive | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onedrive |
-| homeassistant-test-onewire | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onewire |
-| homeassistant-test-onkyo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onkyo |
-| homeassistant-test-onvif | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onvif |
-| homeassistant-test-open_meteo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.open_meteo |
-| homeassistant-test-open_router | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.open_router |
-| homeassistant-test-openai_conversation | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openai_conversation |
-| homeassistant-test-openalpr_cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openalpr_cloud |
-| homeassistant-test-openerz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openerz |
-| homeassistant-test-openexchangerates | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openexchangerates |
-| homeassistant-test-opengarage | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opengarage |
-| homeassistant-test-openhardwaremonitor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openhardwaremonitor |
-| homeassistant-test-openhome | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openhome |
-| homeassistant-test-opensky | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opensky |
-| homeassistant-test-opentherm_gw | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opentherm_gw |
-| homeassistant-test-openuv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openuv |
-| homeassistant-test-openweathermap | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openweathermap |
-| homeassistant-test-opnsense | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opnsense |
-| homeassistant-test-opower | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opower |
-| homeassistant-test-oralb | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.oralb |
-| homeassistant-test-osoenergy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.osoenergy |
-| homeassistant-test-otbr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.otbr |
-| homeassistant-test-otp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.otp |
-| homeassistant-test-ourgroceries | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ourgroceries |
-| homeassistant-test-overkiz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.overkiz |
-| homeassistant-test-overseerr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.overseerr |
-| homeassistant-test-ovo_energy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ovo_energy |
-| homeassistant-test-owntracks | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.owntracks |
-| homeassistant-test-p1_monitor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.p1_monitor |
-| homeassistant-test-palazzetti | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.palazzetti |
-| homeassistant-test-panasonic_viera | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.panasonic_viera |
-| homeassistant-test-pandora | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pandora |
-| homeassistant-test-panel_custom | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.panel_custom |
-| homeassistant-test-paperless_ngx | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.paperless_ngx |
-| homeassistant-test-peblar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.peblar |
-| homeassistant-test-peco | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.peco |
-| homeassistant-test-pegel_online | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pegel_online |
-| homeassistant-test-permobil | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.permobil |
-| homeassistant-test-persistent_notification | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.persistent_notification |
-| homeassistant-test-person | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.person |
-| homeassistant-test-pglab | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pglab |
-| homeassistant-test-philips_js | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.philips_js |
-| homeassistant-test-pi_hole | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pi_hole |
-| homeassistant-test-picnic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.picnic |
-| homeassistant-test-pilight | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pilight |
-| homeassistant-test-ping | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ping |
-| homeassistant-test-pjlink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pjlink |
-| homeassistant-test-plaato | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plaato |
-| homeassistant-test-plant | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plant |
-| homeassistant-test-playstation_network | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.playstation_network |
-| homeassistant-test-plex | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plex |
-| homeassistant-test-plugwise | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plugwise |
-| homeassistant-test-plum_lightpad | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plum_lightpad |
-| homeassistant-test-point | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.point |
-| homeassistant-test-pooldose | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pooldose |
-| homeassistant-test-poolsense | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.poolsense |
-| homeassistant-test-portainer | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.portainer |
-| homeassistant-test-powerfox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.powerfox |
-| homeassistant-test-powerwall | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.powerwall |
-| homeassistant-test-private_ble_device | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.private_ble_device |
-| homeassistant-test-probe_plus | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.probe_plus |
-| homeassistant-test-profiler | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.profiler |
-| homeassistant-test-progettihwsw | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.progettihwsw |
-| homeassistant-test-prometheus | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.prometheus |
-| homeassistant-test-prosegur | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.prosegur |
-| homeassistant-test-proximity | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.proximity |
-| homeassistant-test-prusalink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.prusalink |
-| homeassistant-test-ps4 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ps4 |
-| homeassistant-test-pterodactyl | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pterodactyl |
-| homeassistant-test-pure_energie | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pure_energie |
-| homeassistant-test-purpleair | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.purpleair |
-| homeassistant-test-push | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.push |
-| homeassistant-test-pushbullet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pushbullet |
-| homeassistant-test-pushover | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pushover |
-| homeassistant-test-pvoutput | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pvoutput |
-| homeassistant-test-pvpc_hourly_pricing | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pvpc_hourly_pricing |
-| homeassistant-test-pyload | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pyload |
-| homeassistant-test-python_script | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.python_script |
-| homeassistant-test-qbittorrent | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qbittorrent |
-| homeassistant-test-qbus | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qbus |
-| homeassistant-test-qingping | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qingping |
-| homeassistant-test-qld_bushfire | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qld_bushfire |
-| homeassistant-test-qnap | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qnap |
-| homeassistant-test-qnap_qsw | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qnap_qsw |
-| homeassistant-test-quantum_gateway | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.quantum_gateway |
-| homeassistant-test-qwikswitch | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qwikswitch |
-| homeassistant-test-rabbitair | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rabbitair |
-| homeassistant-test-rachio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rachio |
-| homeassistant-test-radarr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.radarr |
-| homeassistant-test-radio_browser | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.radio_browser |
-| homeassistant-test-radiotherm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.radiotherm |
-| homeassistant-test-rainbird | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainbird |
-| homeassistant-test-rainforest_eagle | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainforest_eagle |
-| homeassistant-test-rainforest_raven | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainforest_raven |
-| homeassistant-test-rainmachine | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainmachine |
-| homeassistant-test-random | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.random |
-| homeassistant-test-rapt_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rapt_ble |
-| homeassistant-test-raspberry_pi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.raspberry_pi |
-| homeassistant-test-rdw | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rdw |
-| homeassistant-test-recollect_waste | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.recollect_waste |
-| homeassistant-test-recorder | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.recorder |
-| homeassistant-test-recovery_mode | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.recovery_mode |
-| homeassistant-test-reddit | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.reddit |
-| homeassistant-test-refoss | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.refoss |
-| homeassistant-test-rehlko | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rehlko |
-| homeassistant-test-remember_the_milk | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.remember_the_milk |
-| homeassistant-test-remote | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.remote |
-| homeassistant-test-remote_calendar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.remote_calendar |
-| homeassistant-test-renault | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.renault |
-| homeassistant-test-renson | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.renson |
-| homeassistant-test-reolink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.reolink |
-| homeassistant-test-repairs | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.repairs |
-| homeassistant-test-rest | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rest |
-| homeassistant-test-rest_command | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rest_command |
-| homeassistant-test-rflink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rflink |
-| homeassistant-test-rfxtrx | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rfxtrx |
-| homeassistant-test-rhasspy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rhasspy |
-| homeassistant-test-ridwell | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ridwell |
-| homeassistant-test-ring | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ring |
-| homeassistant-test-risco | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.risco |
-| homeassistant-test-rituals_perfume_genie | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rituals_perfume_genie |
-| homeassistant-test-rmvtransport | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rmvtransport |
-| homeassistant-test-roborock | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roborock |
-| homeassistant-test-roku | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roku |
-| homeassistant-test-romy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.romy |
-| homeassistant-test-roomba | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roomba |
-| homeassistant-test-roon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roon |
-| homeassistant-test-route_b_smart_meter | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.route_b_smart_meter |
-| homeassistant-test-rova | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rova |
-| homeassistant-test-rpi_power | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rpi_power |
-| homeassistant-test-rss_feed_template | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rss_feed_template |
-| homeassistant-test-ruckus_unleashed | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ruckus_unleashed |
-| homeassistant-test-russound_rio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.russound_rio |
-| homeassistant-test-ruuvi_gateway | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ruuvi_gateway |
-| homeassistant-test-ruuvitag_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ruuvitag_ble |
-| homeassistant-test-rympro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rympro |
-| homeassistant-test-sabnzbd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sabnzbd |
-| homeassistant-test-samsungtv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.samsungtv |
-| homeassistant-test-sanix | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sanix |
-| homeassistant-test-satel_integra | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.satel_integra |
-| homeassistant-test-scene | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.scene |
-| homeassistant-test-schedule | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.schedule |
-| homeassistant-test-schlage | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.schlage |
-| homeassistant-test-scrape | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.scrape |
-| homeassistant-test-screenlogic | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.screenlogic |
-| homeassistant-test-script | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.script |
-| homeassistant-test-search | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.search |
-| homeassistant-test-season | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.season |
-| homeassistant-test-select | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.select |
-| homeassistant-test-sense | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sense |
-| homeassistant-test-sensibo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensibo |
-| homeassistant-test-sensirion_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensirion_ble |
-| homeassistant-test-sensor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensor |
-| homeassistant-test-sensorpro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensorpro |
-| homeassistant-test-sensorpush | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensorpush |
-| homeassistant-test-sensorpush_cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensorpush_cloud |
-| homeassistant-test-sensoterra | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensoterra |
-| homeassistant-test-sentry | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sentry |
-| homeassistant-test-senz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.senz |
-| homeassistant-test-seventeentrack | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.seventeentrack |
-| homeassistant-test-sfr_box | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sfr_box |
-| homeassistant-test-sftp_storage | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sftp_storage |
-| homeassistant-test-sharkiq | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sharkiq |
-| homeassistant-test-shell_command | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.shell_command |
-| homeassistant-test-shelly | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.shelly |
-| homeassistant-test-shopping_list | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.shopping_list |
-| homeassistant-test-sia | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sia |
-| homeassistant-test-sigfox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sigfox |
-| homeassistant-test-sighthound | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sighthound |
-| homeassistant-test-signal_messenger | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.signal_messenger |
-| homeassistant-test-simplefin | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.simplefin |
-| homeassistant-test-simplepush | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.simplepush |
-| homeassistant-test-simplisafe | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.simplisafe |
-| homeassistant-test-siren | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.siren |
-| homeassistant-test-sky_remote | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sky_remote |
-| homeassistant-test-skybell | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.skybell |
-| homeassistant-test-slack | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.slack |
-| homeassistant-test-sleep_as_android | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sleep_as_android |
-| homeassistant-test-sleepiq | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sleepiq |
-| homeassistant-test-slide_local | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.slide_local |
-| homeassistant-test-slimproto | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.slimproto |
-| homeassistant-test-sma | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sma |
-| homeassistant-test-smappee | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smappee |
-| homeassistant-test-smarla | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smarla |
-| homeassistant-test-smart_meter_texas | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smart_meter_texas |
-| homeassistant-test-smartthings | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smartthings |
-| homeassistant-test-smarttub | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smarttub |
-| homeassistant-test-smarty | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smarty |
-| homeassistant-test-smhi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smhi |
-| homeassistant-test-smlight | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smlight |
-| homeassistant-test-sms | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sms |
-| homeassistant-test-smtp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smtp |
-| homeassistant-test-snapcast | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snapcast |
-| homeassistant-test-snips | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snips |
-| homeassistant-test-snmp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snmp |
-| homeassistant-test-snoo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snoo |
-| homeassistant-test-snooz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snooz |
-| homeassistant-test-solaredge | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.solaredge |
-| homeassistant-test-solarlog | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.solarlog |
-| homeassistant-test-solax | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.solax |
-| homeassistant-test-soma | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.soma |
-| homeassistant-test-somfy_mylink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.somfy_mylink |
-| homeassistant-test-sonarr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sonarr |
-| homeassistant-test-songpal | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.songpal |
-| homeassistant-test-sonos | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sonos |
-| homeassistant-test-soundtouch | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.soundtouch |
-| homeassistant-test-spaceapi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spaceapi |
-| homeassistant-test-spc | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spc |
-| homeassistant-test-speedtestdotnet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.speedtestdotnet |
-| homeassistant-test-spider | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spider |
-| homeassistant-test-spotify | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spotify |
-| homeassistant-test-sql | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sql |
-| homeassistant-test-squeezebox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.squeezebox |
-| homeassistant-test-srp_energy | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.srp_energy |
-| homeassistant-test-ssdp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ssdp |
-| homeassistant-test-starline | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.starline |
-| homeassistant-test-starlink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.starlink |
-| homeassistant-test-startca | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.startca |
-| homeassistant-test-statistics | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.statistics |
-| homeassistant-test-statsd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.statsd |
-| homeassistant-test-steam_online | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.steam_online |
-| homeassistant-test-steamist | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.steamist |
-| homeassistant-test-stiebel_eltron | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stiebel_eltron |
-| homeassistant-test-stookwijzer | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stookwijzer |
-| homeassistant-test-stream | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stream |
-| homeassistant-test-streamlabswater | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.streamlabswater |
-| homeassistant-test-stt | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stt |
-| homeassistant-test-subaru | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.subaru |
-| homeassistant-test-suez_water | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.suez_water |
-| homeassistant-test-sun | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sun |
-| homeassistant-test-sunweg | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sunweg |
-| homeassistant-test-surepetcare | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.surepetcare |
-| homeassistant-test-swiss_public_transport | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.swiss_public_transport |
-| homeassistant-test-switch | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switch |
-| homeassistant-test-switch_as_x | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switch_as_x |
-| homeassistant-test-switchbee | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switchbee |
-| homeassistant-test-switchbot | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switchbot |
-| homeassistant-test-switchbot_cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switchbot_cloud |
-| homeassistant-test-switcher_kis | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switcher_kis |
-| homeassistant-test-syncthing | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.syncthing |
-| homeassistant-test-syncthru | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.syncthru |
-| homeassistant-test-synology_dsm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.synology_dsm |
-| homeassistant-test-system_bridge | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.system_bridge |
-| homeassistant-test-system_health | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.system_health |
-| homeassistant-test-system_log | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.system_log |
-| homeassistant-test-systemmonitor | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.systemmonitor |
-| homeassistant-test-tado | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tado |
-| homeassistant-test-tag | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tag |
-| homeassistant-test-tailscale | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tailscale |
-| homeassistant-test-tailwind | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tailwind |
-| homeassistant-test-tami4 | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tami4 |
-| homeassistant-test-tankerkoenig | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tankerkoenig |
-| homeassistant-test-tasmota | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tasmota |
-| homeassistant-test-tautulli | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tautulli |
-| homeassistant-test-tcp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tcp |
-| homeassistant-test-technove | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.technove |
-| homeassistant-test-tedee | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tedee |
-| homeassistant-test-telegram | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.telegram |
-| homeassistant-test-telegram_bot | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.telegram_bot |
-| homeassistant-test-tellduslive | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tellduslive |
-| homeassistant-test-temper | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.temper |
-| homeassistant-test-template | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.template |
-| homeassistant-test-tesla_fleet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tesla_fleet |
-| homeassistant-test-tesla_wall_connector | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tesla_wall_connector |
-| homeassistant-test-teslemetry | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.teslemetry |
-| homeassistant-test-tessie | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tessie |
-| homeassistant-test-text | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.text |
-| homeassistant-test-thermobeacon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thermobeacon |
-| homeassistant-test-thermopro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thermopro |
-| homeassistant-test-thethingsnetwork | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thethingsnetwork |
-| homeassistant-test-thread | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thread |
-| homeassistant-test-threshold | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.threshold |
-| homeassistant-test-tibber | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tibber |
-| homeassistant-test-tile | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tile |
-| homeassistant-test-tilt_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tilt_ble |
-| homeassistant-test-tilt_pi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tilt_pi |
-| homeassistant-test-time | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.time |
-| homeassistant-test-time_date | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.time_date |
-| homeassistant-test-timer | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.timer |
-| homeassistant-test-tod | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tod |
-| homeassistant-test-todo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.todo |
-| homeassistant-test-todoist | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.todoist |
-| homeassistant-test-tolo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tolo |
-| homeassistant-test-tomato | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tomato |
-| homeassistant-test-tomorrowio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tomorrowio |
-| homeassistant-test-toon | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.toon |
-| homeassistant-test-totalconnect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.totalconnect |
-| homeassistant-test-touchline_sl | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.touchline_sl |
-| homeassistant-test-tplink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tplink |
-| homeassistant-test-tplink_omada | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tplink_omada |
-| homeassistant-test-traccar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.traccar |
-| homeassistant-test-traccar_server | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.traccar_server |
-| homeassistant-test-trace | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trace |
-| homeassistant-test-tractive | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tractive |
-| homeassistant-test-tradfri | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tradfri |
-| homeassistant-test-trafikverket_camera | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_camera |
-| homeassistant-test-trafikverket_ferry | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_ferry |
-| homeassistant-test-trafikverket_train | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_train |
-| homeassistant-test-trafikverket_weatherstation | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_weatherstation |
-| homeassistant-test-transmission | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.transmission |
-| homeassistant-test-transport_nsw | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.transport_nsw |
-| homeassistant-test-trend | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trend |
-| homeassistant-test-triggercmd | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.triggercmd |
-| homeassistant-test-tts | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tts |
-| homeassistant-test-tuya | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tuya |
-| homeassistant-test-twentemilieu | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twentemilieu |
-| homeassistant-test-twilio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twilio |
-| homeassistant-test-twinkly | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twinkly |
-| homeassistant-test-twitch | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twitch |
-| homeassistant-test-uk_transport | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uk_transport |
-| homeassistant-test-ukraine_alarm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ukraine_alarm |
-| homeassistant-test-unifi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.unifi |
-| homeassistant-test-unifiprotect | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.unifiprotect |
-| homeassistant-test-universal | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.universal |
-| homeassistant-test-upb | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.upb |
-| homeassistant-test-upcloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.upcloud |
-| homeassistant-test-update | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.update |
-| homeassistant-test-upnp | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.upnp |
-| homeassistant-test-uptime | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uptime |
-| homeassistant-test-uptime_kuma | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uptime_kuma |
-| homeassistant-test-uptimerobot | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uptimerobot |
-| homeassistant-test-usage_prediction | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.usage_prediction |
-| homeassistant-test-usb | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.usb |
-| homeassistant-test-usgs_earthquakes_feed | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.usgs_earthquakes_feed |
-| homeassistant-test-utility_meter | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.utility_meter |
-| homeassistant-test-uvc | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uvc |
-| homeassistant-test-v2c | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.v2c |
-| homeassistant-test-vacuum | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vacuum |
-| homeassistant-test-vallox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vallox |
-| homeassistant-test-valve | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.valve |
-| homeassistant-test-vegehub | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vegehub |
-| homeassistant-test-velbus | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.velbus |
-| homeassistant-test-velux | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.velux |
-| homeassistant-test-venstar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.venstar |
-| homeassistant-test-vera | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vera |
-| homeassistant-test-verisure | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.verisure |
-| homeassistant-test-version | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.version |
-| homeassistant-test-vesync | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vesync |
-| homeassistant-test-vicare | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vicare |
-| homeassistant-test-vilfo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vilfo |
-| homeassistant-test-vizio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vizio |
-| homeassistant-test-vlc_telnet | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vlc_telnet |
-| homeassistant-test-vodafone_station | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vodafone_station |
-| homeassistant-test-voicerss | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.voicerss |
-| homeassistant-test-voip | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.voip |
-| homeassistant-test-volumio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volumio |
-| homeassistant-test-volvo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volvo |
-| homeassistant-test-volvooncall | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volvooncall |
-| homeassistant-test-vultr | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vultr |
-| homeassistant-test-wake_on_lan | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wake_on_lan |
-| homeassistant-test-wake_word | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wake_word |
-| homeassistant-test-wallbox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wallbox |
-| homeassistant-test-waqi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.waqi |
-| homeassistant-test-water_heater | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.water_heater |
-| homeassistant-test-watergate | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.watergate |
-| homeassistant-test-watttime | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.watttime |
-| homeassistant-test-waze_travel_time | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.waze_travel_time |
-| homeassistant-test-weather | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weather |
-| homeassistant-test-weatherflow | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weatherflow |
-| homeassistant-test-weatherflow_cloud | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weatherflow_cloud |
-| homeassistant-test-weatherkit | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weatherkit |
-| homeassistant-test-webdav | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webdav |
-| homeassistant-test-webhook | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webhook |
-| homeassistant-test-webmin | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webmin |
-| homeassistant-test-webostv | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webostv |
-| homeassistant-test-websocket_api | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.websocket_api |
-| homeassistant-test-weheat | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weheat |
-| homeassistant-test-wemo | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wemo |
-| homeassistant-test-whirlpool | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.whirlpool |
-| homeassistant-test-whois | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.whois |
-| homeassistant-test-wiffi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wiffi |
-| homeassistant-test-wilight | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wilight |
-| homeassistant-test-withings | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.withings |
-| homeassistant-test-wiz | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wiz |
-| homeassistant-test-wled | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wled |
-| homeassistant-test-wmspro | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wmspro |
-| homeassistant-test-wolflink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wolflink |
-| homeassistant-test-workday | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.workday |
-| homeassistant-test-worldclock | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.worldclock |
-| homeassistant-test-ws66i | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ws66i |
-| homeassistant-test-wsdot | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wsdot |
-| homeassistant-test-wyoming | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wyoming |
-| homeassistant-test-xbox | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xbox |
-| homeassistant-test-xiaomi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi |
-| homeassistant-test-xiaomi_aqara | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi_aqara |
-| homeassistant-test-xiaomi_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi_ble |
-| homeassistant-test-xiaomi_miio | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi_miio |
-| homeassistant-test-yale | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yale |
-| homeassistant-test-yale_smart_alarm | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yale_smart_alarm |
-| homeassistant-test-yalexs_ble | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yalexs_ble |
-| homeassistant-test-yamaha | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yamaha |
-| homeassistant-test-yamaha_musiccast | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yamaha_musiccast |
-| homeassistant-test-yandex_transport | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yandex_transport |
-| homeassistant-test-yandextts | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yandextts |
-| homeassistant-test-yardian | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yardian |
-| homeassistant-test-yeelight | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yeelight |
-| homeassistant-test-yolink | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yolink |
-| homeassistant-test-youless | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.youless |
-| homeassistant-test-youtube | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.youtube |
-| homeassistant-test-zamg | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zamg |
-| homeassistant-test-zeroconf | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zeroconf |
-| homeassistant-test-zerproc | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zerproc |
-| homeassistant-test-zeversolar | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zeversolar |
-| homeassistant-test-zha | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zha |
-| homeassistant-test-zimi | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zimi |
-| homeassistant-test-zodiac | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zodiac |
-| homeassistant-test-zone | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zone |
-| homeassistant-test-zwave_js | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zwave_js |
-| homeassistant-test-zwave_me | 2025.10.2 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zwave_me |
+| homeassistant-test-abode | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.abode |
+| homeassistant-test-acaia | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.acaia |
+| homeassistant-test-accuweather | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.accuweather |
+| homeassistant-test-acmeda | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.acmeda |
+| homeassistant-test-adax | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.adax |
+| homeassistant-test-adguard | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.adguard |
+| homeassistant-test-advantage_air | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.advantage_air |
+| homeassistant-test-aemet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aemet |
+| homeassistant-test-aftership | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aftership |
+| homeassistant-test-agent_dvr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.agent_dvr |
+| homeassistant-test-ai_task | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ai_task |
+| homeassistant-test-air_quality | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.air_quality |
+| homeassistant-test-airgradient | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airgradient |
+| homeassistant-test-airly | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airly |
+| homeassistant-test-airnow | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airnow |
+| homeassistant-test-airos | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airos |
+| homeassistant-test-airq | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airq |
+| homeassistant-test-airthings | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airthings |
+| homeassistant-test-airthings_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airthings_ble |
+| homeassistant-test-airtouch4 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airtouch4 |
+| homeassistant-test-airtouch5 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airtouch5 |
+| homeassistant-test-airvisual | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airvisual |
+| homeassistant-test-airvisual_pro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airvisual_pro |
+| homeassistant-test-airzone | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airzone |
+| homeassistant-test-airzone_cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.airzone_cloud |
+| homeassistant-test-aladdin_connect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aladdin_connect |
+| homeassistant-test-alarm_control_panel | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alarm_control_panel |
+| homeassistant-test-alarmdecoder | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alarmdecoder |
+| homeassistant-test-alert | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alert |
+| homeassistant-test-alexa | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alexa |
+| homeassistant-test-alexa_devices | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.alexa_devices |
+| homeassistant-test-altruist | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.altruist |
+| homeassistant-test-amberelectric | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.amberelectric |
+| homeassistant-test-ambient_network | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ambient_network |
+| homeassistant-test-ambient_station | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ambient_station |
+| homeassistant-test-analytics | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.analytics |
+| homeassistant-test-analytics_insights | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.analytics_insights |
+| homeassistant-test-android_ip_webcam | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.android_ip_webcam |
+| homeassistant-test-androidtv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.androidtv |
+| homeassistant-test-androidtv_remote | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.androidtv_remote |
+| homeassistant-test-anova | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.anova |
+| homeassistant-test-anthemav | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.anthemav |
+| homeassistant-test-anthropic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.anthropic |
+| homeassistant-test-aosmith | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aosmith |
+| homeassistant-test-apache_kafka | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apache_kafka |
+| homeassistant-test-apcupsd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apcupsd |
+| homeassistant-test-api | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.api |
+| homeassistant-test-apple_tv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apple_tv |
+| homeassistant-test-application_credentials | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.application_credentials |
+| homeassistant-test-apprise | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apprise |
+| homeassistant-test-aprilaire | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aprilaire |
+| homeassistant-test-aprs | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aprs |
+| homeassistant-test-apsystems | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.apsystems |
+| homeassistant-test-aquacell | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aquacell |
+| homeassistant-test-aranet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aranet |
+| homeassistant-test-arcam_fmj | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.arcam_fmj |
+| homeassistant-test-arve | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.arve |
+| homeassistant-test-aseko_pool_live | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aseko_pool_live |
+| homeassistant-test-assist_pipeline | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.assist_pipeline |
+| homeassistant-test-assist_satellite | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.assist_satellite |
+| homeassistant-test-asuswrt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.asuswrt |
+| homeassistant-test-atag | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.atag |
+| homeassistant-test-august | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.august |
+| homeassistant-test-aurora | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aurora |
+| homeassistant-test-aurora_abb_powerone | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aurora_abb_powerone |
+| homeassistant-test-aussie_broadband | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aussie_broadband |
+| homeassistant-test-autarco | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.autarco |
+| homeassistant-test-auth | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.auth |
+| homeassistant-test-automation | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.automation |
+| homeassistant-test-awair | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.awair |
+| homeassistant-test-aws | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aws |
+| homeassistant-test-aws_s3 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.aws_s3 |
+| homeassistant-test-axis | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.axis |
+| homeassistant-test-azure_data_explorer | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_data_explorer |
+| homeassistant-test-azure_devops | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_devops |
+| homeassistant-test-azure_event_hub | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_event_hub |
+| homeassistant-test-azure_storage | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.azure_storage |
+| homeassistant-test-backup | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.backup |
+| homeassistant-test-baf | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.baf |
+| homeassistant-test-balboa | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.balboa |
+| homeassistant-test-bang_olufsen | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bang_olufsen |
+| homeassistant-test-bayesian | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bayesian |
+| homeassistant-test-binary_sensor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.binary_sensor |
+| homeassistant-test-blackbird | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blackbird |
+| homeassistant-test-blebox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blebox |
+| homeassistant-test-blink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blink |
+| homeassistant-test-blue_current | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blue_current |
+| homeassistant-test-bluemaestro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluemaestro |
+| homeassistant-test-blueprint | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.blueprint |
+| homeassistant-test-bluesound | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluesound |
+| homeassistant-test-bluetooth | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluetooth |
+| homeassistant-test-bluetooth_adapters | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluetooth_adapters |
+| homeassistant-test-bluetooth_le_tracker | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bluetooth_le_tracker |
+| homeassistant-test-bmw_connected_drive | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bmw_connected_drive |
+| homeassistant-test-bond | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bond |
+| homeassistant-test-bosch_alarm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bosch_alarm |
+| homeassistant-test-bosch_shc | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bosch_shc |
+| homeassistant-test-braviatv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.braviatv |
+| homeassistant-test-bring | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bring |
+| homeassistant-test-broadlink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.broadlink |
+| homeassistant-test-brother | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.brother |
+| homeassistant-test-brottsplatskartan | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.brottsplatskartan |
+| homeassistant-test-brunt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.brunt |
+| homeassistant-test-bryant_evolution | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bryant_evolution |
+| homeassistant-test-bsblan | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bsblan |
+| homeassistant-test-bthome | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.bthome |
+| homeassistant-test-buienradar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.buienradar |
+| homeassistant-test-button | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.button |
+| homeassistant-test-caldav | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.caldav |
+| homeassistant-test-calendar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.calendar |
+| homeassistant-test-cambridge_audio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cambridge_audio |
+| homeassistant-test-camera | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.camera |
+| homeassistant-test-canary | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.canary |
+| homeassistant-test-cast | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cast |
+| homeassistant-test-ccm15 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ccm15 |
+| homeassistant-test-cert_expiry | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cert_expiry |
+| homeassistant-test-chacon_dio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.chacon_dio |
+| homeassistant-test-clicksend_tts | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.clicksend_tts |
+| homeassistant-test-climate | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.climate |
+| homeassistant-test-cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cloud |
+| homeassistant-test-cloudflare | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cloudflare |
+| homeassistant-test-co2signal | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.co2signal |
+| homeassistant-test-coinbase | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.coinbase |
+| homeassistant-test-color_extractor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.color_extractor |
+| homeassistant-test-comelit | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.comelit |
+| homeassistant-test-comfoconnect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.comfoconnect |
+| homeassistant-test-command_line | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.command_line |
+| homeassistant-test-compensation | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.compensation |
+| homeassistant-test-config | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.config |
+| homeassistant-test-configurator | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.configurator |
+| homeassistant-test-control4 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.control4 |
+| homeassistant-test-conversation | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.conversation |
+| homeassistant-test-cookidoo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cookidoo |
+| homeassistant-test-coolmaster | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.coolmaster |
+| homeassistant-test-counter | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.counter |
+| homeassistant-test-cover | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cover |
+| homeassistant-test-cpuspeed | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cpuspeed |
+| homeassistant-test-crownstone | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.crownstone |
+| homeassistant-test-cups | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.cups |
+| homeassistant-test-daikin | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.daikin |
+| homeassistant-test-datadog | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.datadog |
+| homeassistant-test-date | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.date |
+| homeassistant-test-datetime | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.datetime |
+| homeassistant-test-deako | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.deako |
+| homeassistant-test-debugpy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.debugpy |
+| homeassistant-test-deconz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.deconz |
+| homeassistant-test-default_config | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.default_config |
+| homeassistant-test-deluge | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.deluge |
+| homeassistant-test-demo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.demo |
+| homeassistant-test-denonavr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.denonavr |
+| homeassistant-test-derivative | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.derivative |
+| homeassistant-test-devialet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.devialet |
+| homeassistant-test-device_automation | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.device_automation |
+| homeassistant-test-device_sun_light_trigger | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.device_sun_light_trigger |
+| homeassistant-test-device_tracker | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.device_tracker |
+| homeassistant-test-devolo_home_control | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.devolo_home_control |
+| homeassistant-test-devolo_home_network | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.devolo_home_network |
+| homeassistant-test-dexcom | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dexcom |
+| homeassistant-test-dhcp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dhcp |
+| homeassistant-test-diagnostics | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.diagnostics |
+| homeassistant-test-dialogflow | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dialogflow |
+| homeassistant-test-directv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.directv |
+| homeassistant-test-discord | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.discord |
+| homeassistant-test-discovergy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.discovergy |
+| homeassistant-test-dlib_face_detect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlib_face_detect |
+| homeassistant-test-dlib_face_identify | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlib_face_identify |
+| homeassistant-test-dlink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlink |
+| homeassistant-test-dlna_dmr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlna_dmr |
+| homeassistant-test-dlna_dms | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dlna_dms |
+| homeassistant-test-dnsip | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dnsip |
+| homeassistant-test-doorbird | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.doorbird |
+| homeassistant-test-dormakaba_dkey | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dormakaba_dkey |
+| homeassistant-test-downloader | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.downloader |
+| homeassistant-test-dremel_3d_printer | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dremel_3d_printer |
+| homeassistant-test-drop_connect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.drop_connect |
+| homeassistant-test-dsmr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dsmr |
+| homeassistant-test-dsmr_reader | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dsmr_reader |
+| homeassistant-test-duckdns | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.duckdns |
+| homeassistant-test-duke_energy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.duke_energy |
+| homeassistant-test-dunehd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dunehd |
+| homeassistant-test-duotecno | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.duotecno |
+| homeassistant-test-dwd_weather_warnings | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dwd_weather_warnings |
+| homeassistant-test-dynalite | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.dynalite |
+| homeassistant-test-eafm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eafm |
+| homeassistant-test-easyenergy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.easyenergy |
+| homeassistant-test-ecobee | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecobee |
+| homeassistant-test-ecoforest | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecoforest |
+| homeassistant-test-econet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.econet |
+| homeassistant-test-ecovacs | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecovacs |
+| homeassistant-test-ecowitt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ecowitt |
+| homeassistant-test-eddystone_temperature | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eddystone_temperature |
+| homeassistant-test-edl21 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.edl21 |
+| homeassistant-test-efergy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.efergy |
+| homeassistant-test-eheimdigital | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eheimdigital |
+| homeassistant-test-eight_sleep | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eight_sleep |
+| homeassistant-test-electrasmart | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.electrasmart |
+| homeassistant-test-electric_kiwi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.electric_kiwi |
+| homeassistant-test-elevenlabs | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elevenlabs |
+| homeassistant-test-elgato | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elgato |
+| homeassistant-test-elkm1 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elkm1 |
+| homeassistant-test-elmax | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elmax |
+| homeassistant-test-elvia | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.elvia |
+| homeassistant-test-emoncms | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emoncms |
+| homeassistant-test-emoncms_history | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emoncms_history |
+| homeassistant-test-emonitor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emonitor |
+| homeassistant-test-emulated_hue | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emulated_hue |
+| homeassistant-test-emulated_kasa | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emulated_kasa |
+| homeassistant-test-emulated_roku | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.emulated_roku |
+| homeassistant-test-energenie_power_sockets | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.energenie_power_sockets |
+| homeassistant-test-energy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.energy |
+| homeassistant-test-energyzero | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.energyzero |
+| homeassistant-test-enigma2 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.enigma2 |
+| homeassistant-test-enocean | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.enocean |
+| homeassistant-test-enphase_envoy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.enphase_envoy |
+| homeassistant-test-environment_canada | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.environment_canada |
+| homeassistant-test-epic_games_store | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.epic_games_store |
+| homeassistant-test-epion | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.epion |
+| homeassistant-test-epson | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.epson |
+| homeassistant-test-eq3btsmart | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eq3btsmart |
+| homeassistant-test-escea | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.escea |
+| homeassistant-test-esphome | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.esphome |
+| homeassistant-test-eufylife_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.eufylife_ble |
+| homeassistant-test-event | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.event |
+| homeassistant-test-everlights | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.everlights |
+| homeassistant-test-evil_genius_labs | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.evil_genius_labs |
+| homeassistant-test-evohome | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.evohome |
+| homeassistant-test-ezviz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ezviz |
+| homeassistant-test-faa_delays | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.faa_delays |
+| homeassistant-test-facebook | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.facebook |
+| homeassistant-test-fail2ban | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fail2ban |
+| homeassistant-test-fan | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fan |
+| homeassistant-test-fastdotcom | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fastdotcom |
+| homeassistant-test-feedreader | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.feedreader |
+| homeassistant-test-ffmpeg | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ffmpeg |
+| homeassistant-test-fibaro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fibaro |
+| homeassistant-test-fido | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fido |
+| homeassistant-test-file | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.file |
+| homeassistant-test-file_upload | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.file_upload |
+| homeassistant-test-filesize | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.filesize |
+| homeassistant-test-filter | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.filter |
+| homeassistant-test-fints | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fints |
+| homeassistant-test-fireservicerota | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fireservicerota |
+| homeassistant-test-firmata | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.firmata |
+| homeassistant-test-fitbit | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fitbit |
+| homeassistant-test-fivem | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fivem |
+| homeassistant-test-fjaraskupan | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fjaraskupan |
+| homeassistant-test-flexit_bacnet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flexit_bacnet |
+| homeassistant-test-flic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flic |
+| homeassistant-test-flick_electric | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flick_electric |
+| homeassistant-test-flipr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flipr |
+| homeassistant-test-flo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flo |
+| homeassistant-test-flume | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flume |
+| homeassistant-test-flux | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flux |
+| homeassistant-test-flux_led | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.flux_led |
+| homeassistant-test-folder | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.folder |
+| homeassistant-test-folder_watcher | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.folder_watcher |
+| homeassistant-test-foobot | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.foobot |
+| homeassistant-test-forecast_solar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.forecast_solar |
+| homeassistant-test-forked_daapd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.forked_daapd |
+| homeassistant-test-foscam | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.foscam |
+| homeassistant-test-freebox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.freebox |
+| homeassistant-test-freedns | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.freedns |
+| homeassistant-test-freedompro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.freedompro |
+| homeassistant-test-fritz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fritz |
+| homeassistant-test-fritzbox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fritzbox |
+| homeassistant-test-fritzbox_callmonitor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fritzbox_callmonitor |
+| homeassistant-test-fronius | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fronius |
+| homeassistant-test-frontend | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.frontend |
+| homeassistant-test-frontier_silicon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.frontier_silicon |
+| homeassistant-test-fujitsu_fglair | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fujitsu_fglair |
+| homeassistant-test-fully_kiosk | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fully_kiosk |
+| homeassistant-test-fyta | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.fyta |
+| homeassistant-test-garages_amsterdam | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.garages_amsterdam |
+| homeassistant-test-gardena_bluetooth | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gardena_bluetooth |
+| homeassistant-test-gdacs | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gdacs |
+| homeassistant-test-generic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.generic |
+| homeassistant-test-generic_hygrostat | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.generic_hygrostat |
+| homeassistant-test-generic_thermostat | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.generic_thermostat |
+| homeassistant-test-geniushub | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geniushub |
+| homeassistant-test-geo_json_events | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geo_json_events |
+| homeassistant-test-geo_location | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geo_location |
+| homeassistant-test-geo_rss_events | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geo_rss_events |
+| homeassistant-test-geocaching | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geocaching |
+| homeassistant-test-geofency | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geofency |
+| homeassistant-test-geonetnz_quakes | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geonetnz_quakes |
+| homeassistant-test-geonetnz_volcano | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.geonetnz_volcano |
+| homeassistant-test-gios | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gios |
+| homeassistant-test-github | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.github |
+| homeassistant-test-glances | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.glances |
+| homeassistant-test-go2rtc | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.go2rtc |
+| homeassistant-test-goalzero | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.goalzero |
+| homeassistant-test-gogogate2 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gogogate2 |
+| homeassistant-test-goodwe | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.goodwe |
+| homeassistant-test-google | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google |
+| homeassistant-test-google_assistant | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_assistant |
+| homeassistant-test-google_assistant_sdk | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_assistant_sdk |
+| homeassistant-test-google_cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_cloud |
+| homeassistant-test-google_drive | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_drive |
+| homeassistant-test-google_generative_ai_conversation | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_generative_ai_conversation |
+| homeassistant-test-google_mail | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_mail |
+| homeassistant-test-google_photos | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_photos |
+| homeassistant-test-google_pubsub | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_pubsub |
+| homeassistant-test-google_sheets | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_sheets |
+| homeassistant-test-google_tasks | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_tasks |
+| homeassistant-test-google_translate | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_translate |
+| homeassistant-test-google_travel_time | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_travel_time |
+| homeassistant-test-google_wifi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.google_wifi |
+| homeassistant-test-govee_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.govee_ble |
+| homeassistant-test-govee_light_local | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.govee_light_local |
+| homeassistant-test-gpsd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gpsd |
+| homeassistant-test-gpslogger | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gpslogger |
+| homeassistant-test-graphite | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.graphite |
+| homeassistant-test-gree | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.gree |
+| homeassistant-test-greeneye_monitor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.greeneye_monitor |
+| homeassistant-test-group | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.group |
+| homeassistant-test-growatt_server | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.growatt_server |
+| homeassistant-test-guardian | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.guardian |
+| homeassistant-test-habitica | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.habitica |
+| homeassistant-test-hardkernel | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hardkernel |
+| homeassistant-test-hardware | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hardware |
+| homeassistant-test-harmony | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.harmony |
+| homeassistant-test-hassio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hassio |
+| homeassistant-test-hddtemp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hddtemp |
+| homeassistant-test-hdmi_cec | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hdmi_cec |
+| homeassistant-test-heos | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.heos |
+| homeassistant-test-here_travel_time | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.here_travel_time |
+| homeassistant-test-hisense_aehw4a1 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hisense_aehw4a1 |
+| homeassistant-test-history | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.history |
+| homeassistant-test-history_stats | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.history_stats |
+| homeassistant-test-hive | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hive |
+| homeassistant-test-hko | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hko |
+| homeassistant-test-hlk_sw16 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hlk_sw16 |
+| homeassistant-test-holiday | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.holiday |
+| homeassistant-test-home_connect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.home_connect |
+| homeassistant-test-homeassistant | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant |
+| homeassistant-test-homeassistant_alerts | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_alerts |
+| homeassistant-test-homeassistant_connect_zbt2 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_connect_zbt2 |
+| homeassistant-test-homeassistant_green | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_green |
+| homeassistant-test-homeassistant_hardware | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_hardware |
+| homeassistant-test-homeassistant_sky_connect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_sky_connect |
+| homeassistant-test-homeassistant_yellow | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeassistant_yellow |
+| homeassistant-test-homee | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homee |
+| homeassistant-test-homekit | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homekit |
+| homeassistant-test-homekit_controller | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homekit_controller |
+| homeassistant-test-homematic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homematic |
+| homeassistant-test-homematicip_cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homematicip_cloud |
+| homeassistant-test-homewizard | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homewizard |
+| homeassistant-test-homeworks | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.homeworks |
+| homeassistant-test-honeywell | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.honeywell |
+| homeassistant-test-html5 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.html5 |
+| homeassistant-test-http | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.http |
+| homeassistant-test-huawei_lte | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.huawei_lte |
+| homeassistant-test-hue | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hue |
+| homeassistant-test-huisbaasje | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.huisbaasje |
+| homeassistant-test-humidifier | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.humidifier |
+| homeassistant-test-hunterdouglas_powerview | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hunterdouglas_powerview |
+| homeassistant-test-husqvarna_automower | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.husqvarna_automower |
+| homeassistant-test-husqvarna_automower_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.husqvarna_automower_ble |
+| homeassistant-test-huum | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.huum |
+| homeassistant-test-hvv_departures | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hvv_departures |
+| homeassistant-test-hydrawise | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hydrawise |
+| homeassistant-test-hyperion | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.hyperion |
+| homeassistant-test-ialarm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ialarm |
+| homeassistant-test-iaqualink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iaqualink |
+| homeassistant-test-ibeacon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ibeacon |
+| homeassistant-test-icloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.icloud |
+| homeassistant-test-idasen_desk | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.idasen_desk |
+| homeassistant-test-ifttt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ifttt |
+| homeassistant-test-igloohome | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.igloohome |
+| homeassistant-test-ign_sismologia | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ign_sismologia |
+| homeassistant-test-image | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.image |
+| homeassistant-test-image_processing | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.image_processing |
+| homeassistant-test-image_upload | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.image_upload |
+| homeassistant-test-imap | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.imap |
+| homeassistant-test-imeon_inverter | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.imeon_inverter |
+| homeassistant-test-imgw_pib | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.imgw_pib |
+| homeassistant-test-immich | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.immich |
+| homeassistant-test-improv_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.improv_ble |
+| homeassistant-test-incomfort | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.incomfort |
+| homeassistant-test-influxdb | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.influxdb |
+| homeassistant-test-inkbird | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.inkbird |
+| homeassistant-test-input_boolean | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_boolean |
+| homeassistant-test-input_button | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_button |
+| homeassistant-test-input_datetime | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_datetime |
+| homeassistant-test-input_number | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_number |
+| homeassistant-test-input_select | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_select |
+| homeassistant-test-input_text | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.input_text |
+| homeassistant-test-insteon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.insteon |
+| homeassistant-test-integration | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.integration |
+| homeassistant-test-intellifire | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.intellifire |
+| homeassistant-test-intent | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.intent |
+| homeassistant-test-intent_script | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.intent_script |
+| homeassistant-test-iometer | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iometer |
+| homeassistant-test-ios | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ios |
+| homeassistant-test-iotawatt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iotawatt |
+| homeassistant-test-iotty | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iotty |
+| homeassistant-test-ipma | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ipma |
+| homeassistant-test-ipp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ipp |
+| homeassistant-test-iqvia | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iqvia |
+| homeassistant-test-irm_kmi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.irm_kmi |
+| homeassistant-test-iron_os | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iron_os |
+| homeassistant-test-isal | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.isal |
+| homeassistant-test-iskra | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iskra |
+| homeassistant-test-islamic_prayer_times | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.islamic_prayer_times |
+| homeassistant-test-israel_rail | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.israel_rail |
+| homeassistant-test-iss | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.iss |
+| homeassistant-test-ista_ecotrend | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ista_ecotrend |
+| homeassistant-test-isy994 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.isy994 |
+| homeassistant-test-ituran | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ituran |
+| homeassistant-test-izone | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.izone |
+| homeassistant-test-jellyfin | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.jellyfin |
+| homeassistant-test-jewish_calendar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.jewish_calendar |
+| homeassistant-test-juicenet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.juicenet |
+| homeassistant-test-justnimbus | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.justnimbus |
+| homeassistant-test-jvc_projector | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.jvc_projector |
+| homeassistant-test-kaleidescape | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kaleidescape |
+| homeassistant-test-keenetic_ndms2 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.keenetic_ndms2 |
+| homeassistant-test-kegtron | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kegtron |
+| homeassistant-test-keymitt_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.keymitt_ble |
+| homeassistant-test-kira | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kira |
+| homeassistant-test-kitchen_sink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kitchen_sink |
+| homeassistant-test-kmtronic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kmtronic |
+| homeassistant-test-knocki | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.knocki |
+| homeassistant-test-knx | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.knx |
+| homeassistant-test-kodi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kodi |
+| homeassistant-test-konnected | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.konnected |
+| homeassistant-test-kostal_plenticore | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kostal_plenticore |
+| homeassistant-test-kraken | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kraken |
+| homeassistant-test-kulersky | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.kulersky |
+| homeassistant-test-lacrosse_view | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lacrosse_view |
+| homeassistant-test-lamarzocco | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lamarzocco |
+| homeassistant-test-lametric | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lametric |
+| homeassistant-test-landisgyr_heat_meter | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.landisgyr_heat_meter |
+| homeassistant-test-lastfm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lastfm |
+| homeassistant-test-launch_library | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.launch_library |
+| homeassistant-test-laundrify | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.laundrify |
+| homeassistant-test-lawn_mower | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lawn_mower |
+| homeassistant-test-lcn | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lcn |
+| homeassistant-test-ld2410_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ld2410_ble |
+| homeassistant-test-leaone | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.leaone |
+| homeassistant-test-led_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.led_ble |
+| homeassistant-test-lektrico | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lektrico |
+| homeassistant-test-letpot | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.letpot |
+| homeassistant-test-lg_netcast | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lg_netcast |
+| homeassistant-test-lg_soundbar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lg_soundbar |
+| homeassistant-test-lg_thinq | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lg_thinq |
+| homeassistant-test-lidarr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lidarr |
+| homeassistant-test-life360 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.life360 |
+| homeassistant-test-lifx | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lifx |
+| homeassistant-test-light | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.light |
+| homeassistant-test-linkplay | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.linkplay |
+| homeassistant-test-litejet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.litejet |
+| homeassistant-test-litterrobot | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.litterrobot |
+| homeassistant-test-livisi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.livisi |
+| homeassistant-test-local_calendar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_calendar |
+| homeassistant-test-local_file | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_file |
+| homeassistant-test-local_ip | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_ip |
+| homeassistant-test-local_todo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.local_todo |
+| homeassistant-test-locative | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.locative |
+| homeassistant-test-lock | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lock |
+| homeassistant-test-logbook | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.logbook |
+| homeassistant-test-logentries | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.logentries |
+| homeassistant-test-logger | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.logger |
+| homeassistant-test-london_air | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.london_air |
+| homeassistant-test-london_underground | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.london_underground |
+| homeassistant-test-lookin | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lookin |
+| homeassistant-test-loqed | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.loqed |
+| homeassistant-test-lovelace | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lovelace |
+| homeassistant-test-luftdaten | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.luftdaten |
+| homeassistant-test-lupusec | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lupusec |
+| homeassistant-test-lutron | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lutron |
+| homeassistant-test-lutron_caseta | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lutron_caseta |
+| homeassistant-test-lyric | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.lyric |
+| homeassistant-test-madvr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.madvr |
+| homeassistant-test-mailgun | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mailgun |
+| homeassistant-test-manual | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.manual |
+| homeassistant-test-manual_mqtt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.manual_mqtt |
+| homeassistant-test-marytts | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.marytts |
+| homeassistant-test-mastodon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mastodon |
+| homeassistant-test-matrix | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.matrix |
+| homeassistant-test-matter | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.matter |
+| homeassistant-test-maxcube | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.maxcube |
+| homeassistant-test-mazda | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mazda |
+| homeassistant-test-mcp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mcp |
+| homeassistant-test-mcp_server | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mcp_server |
+| homeassistant-test-mealie | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mealie |
+| homeassistant-test-meater | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meater |
+| homeassistant-test-medcom_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.medcom_ble |
+| homeassistant-test-media_extractor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.media_extractor |
+| homeassistant-test-media_player | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.media_player |
+| homeassistant-test-media_source | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.media_source |
+| homeassistant-test-melcloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.melcloud |
+| homeassistant-test-melissa | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.melissa |
+| homeassistant-test-melnor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.melnor |
+| homeassistant-test-meraki | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meraki |
+| homeassistant-test-met | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.met |
+| homeassistant-test-met_eireann | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.met_eireann |
+| homeassistant-test-meteo_france | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meteo_france |
+| homeassistant-test-meteoclimatic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.meteoclimatic |
+| homeassistant-test-metoffice | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.metoffice |
+| homeassistant-test-mfi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mfi |
+| homeassistant-test-microbees | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microbees |
+| homeassistant-test-microsoft | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft |
+| homeassistant-test-microsoft_face | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft_face |
+| homeassistant-test-microsoft_face_detect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft_face_detect |
+| homeassistant-test-microsoft_face_identify | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.microsoft_face_identify |
+| homeassistant-test-miele | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.miele |
+| homeassistant-test-mikrotik | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mikrotik |
+| homeassistant-test-mill | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mill |
+| homeassistant-test-min_max | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.min_max |
+| homeassistant-test-minecraft_server | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.minecraft_server |
+| homeassistant-test-minio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.minio |
+| homeassistant-test-mjpeg | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mjpeg |
+| homeassistant-test-moat | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.moat |
+| homeassistant-test-mobile_app | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mobile_app |
+| homeassistant-test-mochad | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mochad |
+| homeassistant-test-modbus | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.modbus |
+| homeassistant-test-modem_callerid | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.modem_callerid |
+| homeassistant-test-modern_forms | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.modern_forms |
+| homeassistant-test-moehlenhoff_alpha2 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.moehlenhoff_alpha2 |
+| homeassistant-test-mold_indicator | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mold_indicator |
+| homeassistant-test-monarch_money | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.monarch_money |
+| homeassistant-test-monoprice | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.monoprice |
+| homeassistant-test-monzo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.monzo |
+| homeassistant-test-moon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.moon |
+| homeassistant-test-mopeka | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mopeka |
+| homeassistant-test-motion_blinds | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motion_blinds |
+| homeassistant-test-motionblinds_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motionblinds_ble |
+| homeassistant-test-motioneye | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motioneye |
+| homeassistant-test-motionmount | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.motionmount |
+| homeassistant-test-mpd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mpd |
+| homeassistant-test-mqtt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt |
+| homeassistant-test-mqtt_eventstream | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_eventstream |
+| homeassistant-test-mqtt_json | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_json |
+| homeassistant-test-mqtt_room | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_room |
+| homeassistant-test-mqtt_statestream | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mqtt_statestream |
+| homeassistant-test-mullvad | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mullvad |
+| homeassistant-test-music_assistant | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.music_assistant |
+| homeassistant-test-mutesync | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mutesync |
+| homeassistant-test-my | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.my |
+| homeassistant-test-myq | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.myq |
+| homeassistant-test-mysensors | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mysensors |
+| homeassistant-test-mystrom | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mystrom |
+| homeassistant-test-mythicbeastsdns | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.mythicbeastsdns |
+| homeassistant-test-myuplink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.myuplink |
+| homeassistant-test-nam | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nam |
+| homeassistant-test-namecheapdns | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.namecheapdns |
+| homeassistant-test-nanoleaf | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nanoleaf |
+| homeassistant-test-nasweb | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nasweb |
+| homeassistant-test-neato | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.neato |
+| homeassistant-test-nederlandse_spoorwegen | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nederlandse_spoorwegen |
+| homeassistant-test-ness_alarm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ness_alarm |
+| homeassistant-test-nest | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nest |
+| homeassistant-test-netatmo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.netatmo |
+| homeassistant-test-netgear | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.netgear |
+| homeassistant-test-netgear_lte | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.netgear_lte |
+| homeassistant-test-network | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.network |
+| homeassistant-test-nexia | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nexia |
+| homeassistant-test-nextbus | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nextbus |
+| homeassistant-test-nextcloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nextcloud |
+| homeassistant-test-nextdns | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nextdns |
+| homeassistant-test-nfandroidtv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nfandroidtv |
+| homeassistant-test-nibe_heatpump | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nibe_heatpump |
+| homeassistant-test-nice_go | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nice_go |
+| homeassistant-test-nightscout | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nightscout |
+| homeassistant-test-niko_home_control | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.niko_home_control |
+| homeassistant-test-nina | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nina |
+| homeassistant-test-nmap_tracker | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nmap_tracker |
+| homeassistant-test-nmbs | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nmbs |
+| homeassistant-test-no_ip | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.no_ip |
+| homeassistant-test-nobo_hub | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nobo_hub |
+| homeassistant-test-nordpool | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nordpool |
+| homeassistant-test-notify | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.notify |
+| homeassistant-test-notify_events | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.notify_events |
+| homeassistant-test-notion | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.notion |
+| homeassistant-test-nsw_fuel_station | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nsw_fuel_station |
+| homeassistant-test-nsw_rural_fire_service_feed | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nsw_rural_fire_service_feed |
+| homeassistant-test-ntfy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ntfy |
+| homeassistant-test-nuheat | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nuheat |
+| homeassistant-test-nuki | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nuki |
+| homeassistant-test-numato | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.numato |
+| homeassistant-test-number | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.number |
+| homeassistant-test-nut | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nut |
+| homeassistant-test-nws | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nws |
+| homeassistant-test-nx584 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nx584 |
+| homeassistant-test-nyt_games | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nyt_games |
+| homeassistant-test-nzbget | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.nzbget |
+| homeassistant-test-obihai | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.obihai |
+| homeassistant-test-octoprint | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.octoprint |
+| homeassistant-test-ohme | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ohme |
+| homeassistant-test-ollama | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ollama |
+| homeassistant-test-omnilogic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.omnilogic |
+| homeassistant-test-onboarding | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onboarding |
+| homeassistant-test-oncue | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.oncue |
+| homeassistant-test-ondilo_ico | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ondilo_ico |
+| homeassistant-test-onedrive | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onedrive |
+| homeassistant-test-onewire | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onewire |
+| homeassistant-test-onkyo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onkyo |
+| homeassistant-test-onvif | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.onvif |
+| homeassistant-test-open_meteo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.open_meteo |
+| homeassistant-test-open_router | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.open_router |
+| homeassistant-test-openai_conversation | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openai_conversation |
+| homeassistant-test-openalpr_cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openalpr_cloud |
+| homeassistant-test-openerz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openerz |
+| homeassistant-test-openexchangerates | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openexchangerates |
+| homeassistant-test-opengarage | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opengarage |
+| homeassistant-test-openhardwaremonitor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openhardwaremonitor |
+| homeassistant-test-openhome | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openhome |
+| homeassistant-test-opensky | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opensky |
+| homeassistant-test-opentherm_gw | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opentherm_gw |
+| homeassistant-test-openuv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openuv |
+| homeassistant-test-openweathermap | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.openweathermap |
+| homeassistant-test-opnsense | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opnsense |
+| homeassistant-test-opower | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.opower |
+| homeassistant-test-oralb | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.oralb |
+| homeassistant-test-osoenergy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.osoenergy |
+| homeassistant-test-otbr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.otbr |
+| homeassistant-test-otp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.otp |
+| homeassistant-test-ourgroceries | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ourgroceries |
+| homeassistant-test-overkiz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.overkiz |
+| homeassistant-test-overseerr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.overseerr |
+| homeassistant-test-ovo_energy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ovo_energy |
+| homeassistant-test-owntracks | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.owntracks |
+| homeassistant-test-p1_monitor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.p1_monitor |
+| homeassistant-test-palazzetti | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.palazzetti |
+| homeassistant-test-panasonic_viera | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.panasonic_viera |
+| homeassistant-test-pandora | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pandora |
+| homeassistant-test-panel_custom | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.panel_custom |
+| homeassistant-test-paperless_ngx | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.paperless_ngx |
+| homeassistant-test-peblar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.peblar |
+| homeassistant-test-peco | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.peco |
+| homeassistant-test-pegel_online | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pegel_online |
+| homeassistant-test-permobil | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.permobil |
+| homeassistant-test-persistent_notification | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.persistent_notification |
+| homeassistant-test-person | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.person |
+| homeassistant-test-pglab | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pglab |
+| homeassistant-test-philips_js | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.philips_js |
+| homeassistant-test-pi_hole | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pi_hole |
+| homeassistant-test-picnic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.picnic |
+| homeassistant-test-pilight | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pilight |
+| homeassistant-test-ping | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ping |
+| homeassistant-test-pjlink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pjlink |
+| homeassistant-test-plaato | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plaato |
+| homeassistant-test-plant | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plant |
+| homeassistant-test-playstation_network | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.playstation_network |
+| homeassistant-test-plex | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plex |
+| homeassistant-test-plugwise | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plugwise |
+| homeassistant-test-plum_lightpad | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.plum_lightpad |
+| homeassistant-test-point | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.point |
+| homeassistant-test-pooldose | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pooldose |
+| homeassistant-test-poolsense | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.poolsense |
+| homeassistant-test-portainer | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.portainer |
+| homeassistant-test-powerfox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.powerfox |
+| homeassistant-test-powerwall | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.powerwall |
+| homeassistant-test-private_ble_device | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.private_ble_device |
+| homeassistant-test-probe_plus | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.probe_plus |
+| homeassistant-test-profiler | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.profiler |
+| homeassistant-test-progettihwsw | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.progettihwsw |
+| homeassistant-test-prometheus | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.prometheus |
+| homeassistant-test-prosegur | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.prosegur |
+| homeassistant-test-proximity | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.proximity |
+| homeassistant-test-prusalink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.prusalink |
+| homeassistant-test-ps4 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ps4 |
+| homeassistant-test-pterodactyl | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pterodactyl |
+| homeassistant-test-pure_energie | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pure_energie |
+| homeassistant-test-purpleair | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.purpleair |
+| homeassistant-test-push | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.push |
+| homeassistant-test-pushbullet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pushbullet |
+| homeassistant-test-pushover | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pushover |
+| homeassistant-test-pvoutput | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pvoutput |
+| homeassistant-test-pvpc_hourly_pricing | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pvpc_hourly_pricing |
+| homeassistant-test-pyload | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.pyload |
+| homeassistant-test-python_script | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.python_script |
+| homeassistant-test-qbittorrent | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qbittorrent |
+| homeassistant-test-qbus | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qbus |
+| homeassistant-test-qingping | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qingping |
+| homeassistant-test-qld_bushfire | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qld_bushfire |
+| homeassistant-test-qnap | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qnap |
+| homeassistant-test-qnap_qsw | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qnap_qsw |
+| homeassistant-test-quantum_gateway | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.quantum_gateway |
+| homeassistant-test-qwikswitch | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.qwikswitch |
+| homeassistant-test-rabbitair | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rabbitair |
+| homeassistant-test-rachio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rachio |
+| homeassistant-test-radarr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.radarr |
+| homeassistant-test-radio_browser | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.radio_browser |
+| homeassistant-test-radiotherm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.radiotherm |
+| homeassistant-test-rainbird | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainbird |
+| homeassistant-test-rainforest_eagle | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainforest_eagle |
+| homeassistant-test-rainforest_raven | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainforest_raven |
+| homeassistant-test-rainmachine | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rainmachine |
+| homeassistant-test-random | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.random |
+| homeassistant-test-rapt_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rapt_ble |
+| homeassistant-test-raspberry_pi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.raspberry_pi |
+| homeassistant-test-rdw | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rdw |
+| homeassistant-test-recollect_waste | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.recollect_waste |
+| homeassistant-test-recorder | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.recorder |
+| homeassistant-test-recovery_mode | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.recovery_mode |
+| homeassistant-test-reddit | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.reddit |
+| homeassistant-test-refoss | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.refoss |
+| homeassistant-test-rehlko | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rehlko |
+| homeassistant-test-remember_the_milk | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.remember_the_milk |
+| homeassistant-test-remote | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.remote |
+| homeassistant-test-remote_calendar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.remote_calendar |
+| homeassistant-test-renault | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.renault |
+| homeassistant-test-renson | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.renson |
+| homeassistant-test-reolink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.reolink |
+| homeassistant-test-repairs | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.repairs |
+| homeassistant-test-rest | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rest |
+| homeassistant-test-rest_command | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rest_command |
+| homeassistant-test-rflink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rflink |
+| homeassistant-test-rfxtrx | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rfxtrx |
+| homeassistant-test-rhasspy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rhasspy |
+| homeassistant-test-ridwell | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ridwell |
+| homeassistant-test-ring | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ring |
+| homeassistant-test-risco | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.risco |
+| homeassistant-test-rituals_perfume_genie | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rituals_perfume_genie |
+| homeassistant-test-rmvtransport | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rmvtransport |
+| homeassistant-test-roborock | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roborock |
+| homeassistant-test-roku | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roku |
+| homeassistant-test-romy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.romy |
+| homeassistant-test-roomba | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roomba |
+| homeassistant-test-roon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.roon |
+| homeassistant-test-route_b_smart_meter | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.route_b_smart_meter |
+| homeassistant-test-rova | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rova |
+| homeassistant-test-rpi_power | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rpi_power |
+| homeassistant-test-rss_feed_template | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rss_feed_template |
+| homeassistant-test-ruckus_unleashed | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ruckus_unleashed |
+| homeassistant-test-russound_rio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.russound_rio |
+| homeassistant-test-ruuvi_gateway | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ruuvi_gateway |
+| homeassistant-test-ruuvitag_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ruuvitag_ble |
+| homeassistant-test-rympro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.rympro |
+| homeassistant-test-sabnzbd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sabnzbd |
+| homeassistant-test-samsungtv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.samsungtv |
+| homeassistant-test-sanix | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sanix |
+| homeassistant-test-satel_integra | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.satel_integra |
+| homeassistant-test-scene | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.scene |
+| homeassistant-test-schedule | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.schedule |
+| homeassistant-test-schlage | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.schlage |
+| homeassistant-test-scrape | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.scrape |
+| homeassistant-test-screenlogic | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.screenlogic |
+| homeassistant-test-script | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.script |
+| homeassistant-test-search | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.search |
+| homeassistant-test-season | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.season |
+| homeassistant-test-select | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.select |
+| homeassistant-test-sense | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sense |
+| homeassistant-test-sensibo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensibo |
+| homeassistant-test-sensirion_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensirion_ble |
+| homeassistant-test-sensor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensor |
+| homeassistant-test-sensorpro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensorpro |
+| homeassistant-test-sensorpush | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensorpush |
+| homeassistant-test-sensorpush_cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensorpush_cloud |
+| homeassistant-test-sensoterra | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sensoterra |
+| homeassistant-test-sentry | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sentry |
+| homeassistant-test-senz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.senz |
+| homeassistant-test-seventeentrack | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.seventeentrack |
+| homeassistant-test-sfr_box | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sfr_box |
+| homeassistant-test-sftp_storage | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sftp_storage |
+| homeassistant-test-sharkiq | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sharkiq |
+| homeassistant-test-shell_command | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.shell_command |
+| homeassistant-test-shelly | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.shelly |
+| homeassistant-test-shopping_list | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.shopping_list |
+| homeassistant-test-sia | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sia |
+| homeassistant-test-sigfox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sigfox |
+| homeassistant-test-sighthound | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sighthound |
+| homeassistant-test-signal_messenger | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.signal_messenger |
+| homeassistant-test-simplefin | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.simplefin |
+| homeassistant-test-simplepush | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.simplepush |
+| homeassistant-test-simplisafe | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.simplisafe |
+| homeassistant-test-siren | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.siren |
+| homeassistant-test-sky_remote | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sky_remote |
+| homeassistant-test-skybell | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.skybell |
+| homeassistant-test-slack | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.slack |
+| homeassistant-test-sleep_as_android | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sleep_as_android |
+| homeassistant-test-sleepiq | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sleepiq |
+| homeassistant-test-slide_local | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.slide_local |
+| homeassistant-test-slimproto | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.slimproto |
+| homeassistant-test-sma | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sma |
+| homeassistant-test-smappee | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smappee |
+| homeassistant-test-smarla | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smarla |
+| homeassistant-test-smart_meter_texas | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smart_meter_texas |
+| homeassistant-test-smartthings | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smartthings |
+| homeassistant-test-smarttub | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smarttub |
+| homeassistant-test-smarty | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smarty |
+| homeassistant-test-smhi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smhi |
+| homeassistant-test-smlight | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smlight |
+| homeassistant-test-sms | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sms |
+| homeassistant-test-smtp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.smtp |
+| homeassistant-test-snapcast | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snapcast |
+| homeassistant-test-snips | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snips |
+| homeassistant-test-snmp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snmp |
+| homeassistant-test-snoo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snoo |
+| homeassistant-test-snooz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.snooz |
+| homeassistant-test-solaredge | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.solaredge |
+| homeassistant-test-solarlog | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.solarlog |
+| homeassistant-test-solax | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.solax |
+| homeassistant-test-soma | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.soma |
+| homeassistant-test-somfy_mylink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.somfy_mylink |
+| homeassistant-test-sonarr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sonarr |
+| homeassistant-test-songpal | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.songpal |
+| homeassistant-test-sonos | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sonos |
+| homeassistant-test-soundtouch | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.soundtouch |
+| homeassistant-test-spaceapi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spaceapi |
+| homeassistant-test-spc | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spc |
+| homeassistant-test-speedtestdotnet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.speedtestdotnet |
+| homeassistant-test-spider | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spider |
+| homeassistant-test-spotify | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.spotify |
+| homeassistant-test-sql | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sql |
+| homeassistant-test-squeezebox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.squeezebox |
+| homeassistant-test-srp_energy | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.srp_energy |
+| homeassistant-test-ssdp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ssdp |
+| homeassistant-test-starline | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.starline |
+| homeassistant-test-starlink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.starlink |
+| homeassistant-test-startca | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.startca |
+| homeassistant-test-statistics | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.statistics |
+| homeassistant-test-statsd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.statsd |
+| homeassistant-test-steam_online | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.steam_online |
+| homeassistant-test-steamist | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.steamist |
+| homeassistant-test-stiebel_eltron | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stiebel_eltron |
+| homeassistant-test-stookwijzer | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stookwijzer |
+| homeassistant-test-stream | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stream |
+| homeassistant-test-streamlabswater | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.streamlabswater |
+| homeassistant-test-stt | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.stt |
+| homeassistant-test-subaru | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.subaru |
+| homeassistant-test-suez_water | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.suez_water |
+| homeassistant-test-sun | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sun |
+| homeassistant-test-sunweg | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.sunweg |
+| homeassistant-test-surepetcare | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.surepetcare |
+| homeassistant-test-swiss_public_transport | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.swiss_public_transport |
+| homeassistant-test-switch | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switch |
+| homeassistant-test-switch_as_x | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switch_as_x |
+| homeassistant-test-switchbee | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switchbee |
+| homeassistant-test-switchbot | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switchbot |
+| homeassistant-test-switchbot_cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switchbot_cloud |
+| homeassistant-test-switcher_kis | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.switcher_kis |
+| homeassistant-test-syncthing | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.syncthing |
+| homeassistant-test-syncthru | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.syncthru |
+| homeassistant-test-synology_dsm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.synology_dsm |
+| homeassistant-test-system_bridge | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.system_bridge |
+| homeassistant-test-system_health | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.system_health |
+| homeassistant-test-system_log | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.system_log |
+| homeassistant-test-systemmonitor | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.systemmonitor |
+| homeassistant-test-tado | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tado |
+| homeassistant-test-tag | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tag |
+| homeassistant-test-tailscale | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tailscale |
+| homeassistant-test-tailwind | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tailwind |
+| homeassistant-test-tami4 | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tami4 |
+| homeassistant-test-tankerkoenig | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tankerkoenig |
+| homeassistant-test-tasmota | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tasmota |
+| homeassistant-test-tautulli | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tautulli |
+| homeassistant-test-tcp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tcp |
+| homeassistant-test-technove | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.technove |
+| homeassistant-test-tedee | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tedee |
+| homeassistant-test-telegram | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.telegram |
+| homeassistant-test-telegram_bot | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.telegram_bot |
+| homeassistant-test-tellduslive | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tellduslive |
+| homeassistant-test-temper | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.temper |
+| homeassistant-test-template | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.template |
+| homeassistant-test-tesla_fleet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tesla_fleet |
+| homeassistant-test-tesla_wall_connector | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tesla_wall_connector |
+| homeassistant-test-teslemetry | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.teslemetry |
+| homeassistant-test-tessie | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tessie |
+| homeassistant-test-text | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.text |
+| homeassistant-test-thermobeacon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thermobeacon |
+| homeassistant-test-thermopro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thermopro |
+| homeassistant-test-thethingsnetwork | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thethingsnetwork |
+| homeassistant-test-thread | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.thread |
+| homeassistant-test-threshold | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.threshold |
+| homeassistant-test-tibber | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tibber |
+| homeassistant-test-tile | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tile |
+| homeassistant-test-tilt_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tilt_ble |
+| homeassistant-test-tilt_pi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tilt_pi |
+| homeassistant-test-time | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.time |
+| homeassistant-test-time_date | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.time_date |
+| homeassistant-test-timer | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.timer |
+| homeassistant-test-tod | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tod |
+| homeassistant-test-todo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.todo |
+| homeassistant-test-todoist | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.todoist |
+| homeassistant-test-tolo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tolo |
+| homeassistant-test-tomato | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tomato |
+| homeassistant-test-tomorrowio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tomorrowio |
+| homeassistant-test-toon | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.toon |
+| homeassistant-test-totalconnect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.totalconnect |
+| homeassistant-test-touchline_sl | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.touchline_sl |
+| homeassistant-test-tplink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tplink |
+| homeassistant-test-tplink_omada | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tplink_omada |
+| homeassistant-test-traccar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.traccar |
+| homeassistant-test-traccar_server | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.traccar_server |
+| homeassistant-test-trace | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trace |
+| homeassistant-test-tractive | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tractive |
+| homeassistant-test-tradfri | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tradfri |
+| homeassistant-test-trafikverket_camera | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_camera |
+| homeassistant-test-trafikverket_ferry | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_ferry |
+| homeassistant-test-trafikverket_train | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_train |
+| homeassistant-test-trafikverket_weatherstation | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trafikverket_weatherstation |
+| homeassistant-test-transmission | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.transmission |
+| homeassistant-test-transport_nsw | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.transport_nsw |
+| homeassistant-test-trend | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.trend |
+| homeassistant-test-triggercmd | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.triggercmd |
+| homeassistant-test-tts | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tts |
+| homeassistant-test-tuya | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.tuya |
+| homeassistant-test-twentemilieu | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twentemilieu |
+| homeassistant-test-twilio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twilio |
+| homeassistant-test-twinkly | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twinkly |
+| homeassistant-test-twitch | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.twitch |
+| homeassistant-test-uk_transport | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uk_transport |
+| homeassistant-test-ukraine_alarm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ukraine_alarm |
+| homeassistant-test-unifi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.unifi |
+| homeassistant-test-unifiprotect | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.unifiprotect |
+| homeassistant-test-universal | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.universal |
+| homeassistant-test-upb | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.upb |
+| homeassistant-test-upcloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.upcloud |
+| homeassistant-test-update | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.update |
+| homeassistant-test-upnp | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.upnp |
+| homeassistant-test-uptime | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uptime |
+| homeassistant-test-uptime_kuma | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uptime_kuma |
+| homeassistant-test-uptimerobot | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uptimerobot |
+| homeassistant-test-usage_prediction | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.usage_prediction |
+| homeassistant-test-usb | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.usb |
+| homeassistant-test-usgs_earthquakes_feed | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.usgs_earthquakes_feed |
+| homeassistant-test-utility_meter | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.utility_meter |
+| homeassistant-test-uvc | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.uvc |
+| homeassistant-test-v2c | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.v2c |
+| homeassistant-test-vacuum | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vacuum |
+| homeassistant-test-vallox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vallox |
+| homeassistant-test-valve | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.valve |
+| homeassistant-test-vegehub | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vegehub |
+| homeassistant-test-velbus | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.velbus |
+| homeassistant-test-velux | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.velux |
+| homeassistant-test-venstar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.venstar |
+| homeassistant-test-vera | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vera |
+| homeassistant-test-verisure | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.verisure |
+| homeassistant-test-version | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.version |
+| homeassistant-test-vesync | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vesync |
+| homeassistant-test-vicare | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vicare |
+| homeassistant-test-vilfo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vilfo |
+| homeassistant-test-vizio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vizio |
+| homeassistant-test-vlc_telnet | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vlc_telnet |
+| homeassistant-test-vodafone_station | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vodafone_station |
+| homeassistant-test-voicerss | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.voicerss |
+| homeassistant-test-voip | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.voip |
+| homeassistant-test-volumio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volumio |
+| homeassistant-test-volvo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volvo |
+| homeassistant-test-volvooncall | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.volvooncall |
+| homeassistant-test-vultr | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.vultr |
+| homeassistant-test-wake_on_lan | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wake_on_lan |
+| homeassistant-test-wake_word | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wake_word |
+| homeassistant-test-wallbox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wallbox |
+| homeassistant-test-waqi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.waqi |
+| homeassistant-test-water_heater | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.water_heater |
+| homeassistant-test-watergate | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.watergate |
+| homeassistant-test-watttime | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.watttime |
+| homeassistant-test-waze_travel_time | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.waze_travel_time |
+| homeassistant-test-weather | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weather |
+| homeassistant-test-weatherflow | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weatherflow |
+| homeassistant-test-weatherflow_cloud | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weatherflow_cloud |
+| homeassistant-test-weatherkit | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weatherkit |
+| homeassistant-test-webdav | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webdav |
+| homeassistant-test-webhook | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webhook |
+| homeassistant-test-webmin | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webmin |
+| homeassistant-test-webostv | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.webostv |
+| homeassistant-test-websocket_api | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.websocket_api |
+| homeassistant-test-weheat | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.weheat |
+| homeassistant-test-wemo | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wemo |
+| homeassistant-test-whirlpool | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.whirlpool |
+| homeassistant-test-whois | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.whois |
+| homeassistant-test-wiffi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wiffi |
+| homeassistant-test-wilight | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wilight |
+| homeassistant-test-withings | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.withings |
+| homeassistant-test-wiz | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wiz |
+| homeassistant-test-wled | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wled |
+| homeassistant-test-wmspro | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wmspro |
+| homeassistant-test-wolflink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wolflink |
+| homeassistant-test-workday | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.workday |
+| homeassistant-test-worldclock | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.worldclock |
+| homeassistant-test-ws66i | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.ws66i |
+| homeassistant-test-wsdot | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wsdot |
+| homeassistant-test-wyoming | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.wyoming |
+| homeassistant-test-xbox | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xbox |
+| homeassistant-test-xiaomi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi |
+| homeassistant-test-xiaomi_aqara | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi_aqara |
+| homeassistant-test-xiaomi_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi_ble |
+| homeassistant-test-xiaomi_miio | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.xiaomi_miio |
+| homeassistant-test-yale | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yale |
+| homeassistant-test-yale_smart_alarm | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yale_smart_alarm |
+| homeassistant-test-yalexs_ble | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yalexs_ble |
+| homeassistant-test-yamaha | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yamaha |
+| homeassistant-test-yamaha_musiccast | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yamaha_musiccast |
+| homeassistant-test-yandex_transport | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yandex_transport |
+| homeassistant-test-yandextts | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yandextts |
+| homeassistant-test-yardian | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yardian |
+| homeassistant-test-yeelight | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yeelight |
+| homeassistant-test-yolink | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.yolink |
+| homeassistant-test-youless | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.youless |
+| homeassistant-test-youtube | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.youtube |
+| homeassistant-test-zamg | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zamg |
+| homeassistant-test-zeroconf | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zeroconf |
+| homeassistant-test-zerproc | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zerproc |
+| homeassistant-test-zeversolar | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zeversolar |
+| homeassistant-test-zha | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zha |
+| homeassistant-test-zimi | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zimi |
+| homeassistant-test-zodiac | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zodiac |
+| homeassistant-test-zone | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zone |
+| homeassistant-test-zwave_js | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zwave_js |
+| homeassistant-test-zwave_me | 2025.10.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.zwave_me |
 | homebank | 5.9.5 | Free, easy, personal accounting for everyone | legacyPackages.x86_64-linux.homebank |
 | homebox | 0.21.0 | Inventory and organization system built for the Home User | legacyPackages.x86_64-linux.homebox |
 | homebridge | 1.11.0 | Lightweight emulator of iOS HomeKit API | legacyPackages.x86_64-linux.homebridge |
@@ -26651,8 +26649,8 @@
 | hyprsunset | 0.3.3 | Application to enable a blue-light filter on Hyprland | legacyPackages.x86_64-linux.hyprsunset |
 | hyprsysteminfo | 0.1.3 | Tiny qt6/qml application to display information about the running system | legacyPackages.x86_64-linux.hyprsysteminfo |
 | hyprtrails | 0.51.0 | Hyprland smooth trails behind moving windows plugin | legacyPackages.x86_64-linux.hyprlandPlugins.hyprtrails |
-| hyprutils | 0.9.0 | Small C++ library for utilities used across the Hypr* ecosystem | legacyPackages.x86_64-linux.hyprutils |
-| hyprviz | 0.7.0 | GUI for configuring Hyprland | legacyPackages.x86_64-linux.hyprviz |
+| hyprutils | 0.10.0 | Small C++ library for utilities used across the Hypr* ecosystem | legacyPackages.x86_64-linux.hyprutils |
+| hyprviz | 0.7.1 | GUI for configuring Hyprland | legacyPackages.x86_64-linux.hyprviz |
 | hyprwayland-scanner | 0.4.5 | Hyprland version of wayland-scanner in and for C++ | legacyPackages.x86_64-linux.hyprwayland-scanner |
 | hyprwinwrap | 0.51.0 | Hyprland xwinwrap-like plugin | legacyPackages.x86_64-linux.hyprlandPlugins.hyprwinwrap |
 | hypseus-singe | 2.11.6 | Laserdisc game emulator, the SDL2 version of Daphne and Singe | legacyPackages.x86_64-linux.hypseus-singe |
@@ -28215,7 +28213,7 @@
 | jadx | 1.5.0 | Dex to Java decompiler | legacyPackages.x86_64-linux.jadx |
 | jaeger-flamegraph | 1.3.2 | Generate flamegraphs from Jaeger .json dumps. | legacyPackages.x86_64-linux.haskellPackages.jaeger-flamegraph |
 | jaeles | 0.17.1 | Tool for automated Web application testing | legacyPackages.x86_64-linux.jaeles |
-| jai | 0.2.017 | Powerful language to write efficient reliable software in simple ways | legacyPackages.x86_64-linux.jai |
+| jai | 0.2.018 | Powerful language to write efficient reliable software in simple ways | legacyPackages.x86_64-linux.jai |
 | jail | 0.0.1.1 | Jailed IO monad | legacyPackages.x86_64-linux.haskellPackages.jail |
 | jailbreak-cabal | 1.4.1 | Strip version restrictions from Cabal files | legacyPackages.x86_64-linux.haskellPackages.jailbreak-cabal |
 | jailer | 16.9.3 | Tool for database subsetting and relational data browsing | legacyPackages.x86_64-linux.jailer |
@@ -28408,7 +28406,7 @@
 | jitterentropy-rngd | 1.2.8 | Random number generator, which injects entropy to the kernel | legacyPackages.x86_64-linux.jitterentropy-rngd |
 | jj | 1.9.2 | JSON Stream Editor (command line utility) | legacyPackages.x86_64-linux.jj |
 | jj-fzf | 0.33.0 | Text UI for Jujutsu based on fzf | legacyPackages.x86_64-linux.jj-fzf |
-| jj-pre-push | 0.2.2 | Run pre-commit.com before `jj git push` | legacyPackages.x86_64-linux.jj-pre-push |
+| jj-pre-push | 0.3.0 | Run pre-commit.com before `jj git push` | legacyPackages.x86_64-linux.jj-pre-push |
 | jjui | 0.9.4 | TUI for Jujutsu VCS | legacyPackages.x86_64-linux.jjui |
 | jkmath | 0.1 | Macros for mathematics that make the code more readable | legacyPackages.x86_64-linux.texlivePackages.jkmath |
 | jknapltx | 19440 | Miscellaneous packages by Joerg Knappen | legacyPackages.x86_64-linux.texlivePackages.jknapltx |
@@ -28823,6 +28821,7 @@
 | k3s | 1.32.9+k3s1 | Lightweight Kubernetes distribution | legacyPackages.x86_64-linux.k3s_1_32 |
 | k3s | 1.33.5+k3s1 | Lightweight Kubernetes distribution | legacyPackages.x86_64-linux.k3s |
 | k3s | 1.33.5+k3s1 | Lightweight Kubernetes distribution | legacyPackages.x86_64-linux.k3s_1_33 |
+| k3s | 1.34.1+k3s1 | Lightweight Kubernetes distribution | legacyPackages.x86_64-linux.k3s_1_34 |
 | k3sup | 0.13.11 | Bootstrap Kubernetes with k3s over SSH | legacyPackages.x86_64-linux.k3sup |
 | k40-whisperer | 0.68 | Control software for the stock K40 Laser controller  | legacyPackages.x86_64-linux.k40-whisperer |
 | k4dirstat | 3.4.3 | Small utility program that sums up disk usage for directory trees | legacyPackages.x86_64-linux.k4dirstat |
@@ -29312,7 +29311,7 @@
 | keycard-cli | 0.8.2 | Command line tool and shell to manage keycards | legacyPackages.x86_64-linux.keycard-cli |
 | keycastr | 0.10.3 | Open-source keystroke visualizer | legacyPackages.x86_64-linux.keycastr |
 | keychain | 2.9.6 | Manage SSH and GPG keys in a convenient and secure manner | legacyPackages.x86_64-linux.keychain |
-| keycloak | 26.4.0 | Identity and access management for modern applications and services | legacyPackages.x86_64-linux.keycloak |
+| keycloak | 26.4.1 | Identity and access management for modern applications and services | legacyPackages.x86_64-linux.keycloak |
 | keycloak-hs | 3.0.2 |  | legacyPackages.x86_64-linux.haskellPackages.keycloak-hs |
 | keycode | 0.2.3 | Maps web browser keycodes to their corresponding keyboard keys | legacyPackages.x86_64-linux.haskellPackages.keycode |
 | keycommand | 3.1415 | Simple creation of commands with key-value arguments | legacyPackages.x86_64-linux.texlivePackages.keycommand |
@@ -31605,7 +31604,7 @@
 | libmysqlconnectorcpp | 9.4.0 | C++ library for connecting to mysql servers | legacyPackages.x86_64-linux.libmysqlconnectorcpp |
 | libnabo | 1.1.2 | Fast K Nearest Neighbor library for low-dimensional spaces | legacyPackages.x86_64-linux.libnabo |
 | libnatpmp | 20230423 | NAT-PMP client | legacyPackages.x86_64-linux.libnatpmp |
-| libnats | 3.10.1 | C API for the NATS messaging system | legacyPackages.x86_64-linux.libnats-c |
+| libnats | 3.11.0 | C API for the NATS messaging system | legacyPackages.x86_64-linux.libnats-c |
 | libnatspec | 0.3.0 | Library intended to smooth national specificities in using of programs | legacyPackages.x86_64-linux.libnatspec |
 | libnbd | 1.22.1 | Network Block Device client library in userspace | legacyPackages.x86_64-linux.libnbd |
 | libnbd | 1.22.1 | Network Block Device client library in userspace | legacyPackages.x86_64-linux.ocamlPackages.nbd |
@@ -31910,7 +31909,7 @@
 | libretro-atari800 | 0-unstable-2024-10-31 | Port of Atari800 to libretro | legacyPackages.x86_64-linux.libretro.atari800 |
 | libretro-blastem | 0-unstable-2022-07-26 | Port of BlastEm to libretro | legacyPackages.x86_64-linux.libretro.blastem |
 | libretro-bluemsx | 0-unstable-2025-09-27 | Port of BlueMSX to libretro | legacyPackages.x86_64-linux.libretro.bluemsx |
-| libretro-bsnes | 0-unstable-2025-10-03 | Port of bsnes to libretro | legacyPackages.x86_64-linux.libretro.bsnes |
+| libretro-bsnes | 0-unstable-2025-10-10 | Port of bsnes to libretro | legacyPackages.x86_64-linux.libretro.bsnes |
 | libretro-bsnes-hd-beta | 0-unstable-2024-10-21 | Port of bsnes-hd to libretro | legacyPackages.x86_64-linux.libretro.bsnes-hd |
 | libretro-bsnes-mercury-accuracy | 0-unstable-2024-10-21 | Fork of bsnes with HLE DSP emulation restored (accuracy profile) | legacyPackages.x86_64-linux.libretro.bsnes-mercury |
 | libretro-bsnes-mercury-balanced | 0-unstable-2024-10-21 | Fork of bsnes with HLE DSP emulation restored (balanced profile) | legacyPackages.x86_64-linux.libretro.bsnes-mercury-balanced |
@@ -31926,12 +31925,12 @@
 | libretro-fbalpha2012 | 0-unstable-2024-10-21 | Port of Final Burn Alpha ~2012 to libretro | legacyPackages.x86_64-linux.libretro.fbalpha2012 |
 | libretro-fbneo | 0-unstable-2025-09-30 | Port of FBNeo to libretro | legacyPackages.x86_64-linux.libretro.fbneo |
 | libretro-fceumm | 0-unstable-2025-09-13 | FCEUmm libretro port | legacyPackages.x86_64-linux.libretro.fceumm |
-| libretro-flycast | 0-unstable-2025-10-03 | Flycast libretro port | legacyPackages.x86_64-linux.libretro.flycast |
+| libretro-flycast | 0-unstable-2025-10-18 | Flycast libretro port | legacyPackages.x86_64-linux.libretro.flycast |
 | libretro-fmsx | 0-unstable-2025-07-31 | FMSX libretro port | legacyPackages.x86_64-linux.libretro.fmsx |
 | libretro-freeintv | 0-unstable-2025-03-05 | FreeIntv libretro port | legacyPackages.x86_64-linux.libretro.freeintv |
 | libretro-fuse | 0-unstable-2024-11-24 | Port of the Fuse Unix Spectrum Emulator to libretro | legacyPackages.x86_64-linux.libretro.fuse |
 | libretro-gambatte | 0-unstable-2025-09-18 | Gambatte libretro port | legacyPackages.x86_64-linux.libretro.gambatte |
-| libretro-genesis-plus-gx | 0-unstable-2025-10-06 | Enhanced Genesis Plus libretro port | legacyPackages.x86_64-linux.libretro.genesis-plus-gx |
+| libretro-genesis-plus-gx | 0-unstable-2025-10-17 | Enhanced Genesis Plus libretro port | legacyPackages.x86_64-linux.libretro.genesis-plus-gx |
 | libretro-gpsp | 0-unstable-2025-10-07 | Port of gpSP to libretro | legacyPackages.x86_64-linux.libretro.gpsp |
 | libretro-gw | 0-unstable-2024-10-21 | Port of Game and Watch to libretro | legacyPackages.x86_64-linux.libretro.gw |
 | libretro-handy | 0-unstable-2025-06-16 | Port of Handy to libretro | legacyPackages.x86_64-linux.libretro.handy |
@@ -32188,7 +32187,7 @@
 | libudfread | 1.1.2 | UDF reader | legacyPackages.x86_64-linux.libudfread |
 | libuecc | 7 | Very small Elliptic Curve Cryptography library | legacyPackages.x86_64-linux.libuecc |
 | libuev | 2.4.1 | Lightweight event loop library for Linux epoll() family APIs | legacyPackages.x86_64-linux.libuev |
-| libui | 4.1a | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports | legacyPackages.x86_64-linux.libui |
+| libui | 4.1a-unstable-2021-01-02 | Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports | legacyPackages.x86_64-linux.libui |
 | libui-ng | 4.1-unstable-2025-03-15 | Portable GUI library for C | legacyPackages.x86_64-linux.libui-ng |
 | libuinputplus | 2021-04-02 | Easy-to-use uinput library in C++ | legacyPackages.x86_64-linux.libuinputplus |
 | libuiohook | 1.2.2 | C library to provide global keyboard and mouse hooks from userland | legacyPackages.x86_64-linux.libuiohook |
@@ -32954,9 +32953,9 @@
 | lksctp-tools | 1.0.21 | Linux Kernel Stream Control Transmission Protocol Tools | legacyPackages.x86_64-linux.lksctp-tools |
 | ll-picosat | 0.1.0.0 |  | legacyPackages.x86_64-linux.haskellPackages.ll-picosat |
 | lla | 0.4.2 | Blazing-fast `ls` replacement with superpowers | legacyPackages.x86_64-linux.lla |
-| llama-cpp | 6729 | Inference of Meta's LLaMA model (and others) in pure C/C++ | legacyPackages.x86_64-linux.llama-cpp |
-| llama-cpp | 6729 | Inference of Meta's LLaMA model (and others) in pure C/C++ | legacyPackages.x86_64-linux.llama-cpp-rocm |
-| llama-cpp | 6729 | Inference of Meta's LLaMA model (and others) in pure C/C++ | legacyPackages.x86_64-linux.llama-cpp-vulkan |
+| llama-cpp | 6782 | Inference of Meta's LLaMA model (and others) in pure C/C++ | legacyPackages.x86_64-linux.llama-cpp |
+| llama-cpp | 6782 | Inference of Meta's LLaMA model (and others) in pure C/C++ | legacyPackages.x86_64-linux.llama-cpp-rocm |
+| llama-cpp | 6782 | Inference of Meta's LLaMA model (and others) in pure C/C++ | legacyPackages.x86_64-linux.llama-cpp-vulkan |
 | llama-cpp-haskell | 0.2.1 | Haskell bindings for the llama.cpp llama-server and a simple CLI | legacyPackages.x86_64-linux.haskellPackages.llama-cpp-haskell |
 | llama-cpp-hs | 0.1.0.0 | Haskell FFI bindings to the llama.cpp LLM inference library | legacyPackages.x86_64-linux.haskellPackages.llama-cpp-hs |
 | llama-swap | 165 | Model swapping for llama.cpp (or any local OpenAPI compatible server) | legacyPackages.x86_64-linux.llama-swap |
@@ -34747,13 +34746,13 @@
 | luwen | 0.7.13 | Tenstorrent system interface tools | legacyPackages.x86_64-linux.luwen |
 | luwiantype | 1.3 | Typesetting package for Hieroglyphic Luwian | legacyPackages.x86_64-linux.texlivePackages.luwiantype |
 | lux | 0.24.1 | Fast and simple video download library and CLI tool written in Go | legacyPackages.x86_64-linux.lux |
-| lux-cli | 0.18.2 | Luxurious package manager for Lua | legacyPackages.x86_64-linux.lux-cli |
-| lux-lua | 0.18.2 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua51Packages.lux-lua |
-| lux-lua | 0.18.2 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua52Packages.lux-lua |
-| lux-lua | 0.18.2 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua53Packages.lux-lua |
-| lux-lua | 0.18.2 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua54Packages.lux-lua |
-| lux-lua | 0.18.2 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.luaPackages.lux-lua |
-| lux-lua | 0.18.2 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.luajitPackages.lux-lua |
+| lux-cli | 0.18.5 | Luxurious package manager for Lua | legacyPackages.x86_64-linux.lux-cli |
+| lux-lua | 0.18.5 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua51Packages.lux-lua |
+| lux-lua | 0.18.5 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua52Packages.lux-lua |
+| lux-lua | 0.18.5 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua53Packages.lux-lua |
+| lux-lua | 0.18.5 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.lua54Packages.lux-lua |
+| lux-lua | 0.18.5 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.luaPackages.lux-lua |
+| lux-lua | 0.18.5 | Lua API for the Lux package manager | legacyPackages.x86_64-linux.luajitPackages.lux-lua |
 | lv | 4.51-unstable-2020-08-03 | Powerful multi-lingual file viewer / grep | legacyPackages.x86_64-linux.lv |
 | lv2 | 1.18.10 | Plugin standard for audio systems | legacyPackages.x86_64-linux.lv2 |
 | lv2-cpp-tools | 1.0.5 | Tools and libraries that may come in handy when writing LV2 plugins in C++ | legacyPackages.x86_64-linux.lv2-cpp-tools |
@@ -34857,7 +34856,7 @@
 | lzo | 2.10 | Real-time data (de)compression library | legacyPackages.x86_64-linux.lzo |
 | lzop | 1.04 | Fast file compressor | legacyPackages.x86_64-linux.lzop |
 | lzsa | 1.4.1 | Byte-aligned, efficient lossless packer that is optimized for fast decompression on 8-bit micros | legacyPackages.x86_64-linux.lzsa |
-| m-cli | 0.3.0 | Swiss Army Knife for macOS | legacyPackages.x86_64-linux.m-cli |
+| m-cli | 2.0.5 | Swiss Army Knife for macOS | legacyPackages.x86_64-linux.m-cli |
 | m-tx | 0.63d | A preprocessor for pmx | legacyPackages.x86_64-linux.texlivePackages.m-tx |
 | m17-cxx-demod | 2.3 | M17 Demodulator in C++ | legacyPackages.x86_64-linux.m17-cxx-demod |
 | m17n-db | 1.8.10 | Multilingual text processing library (database) | legacyPackages.x86_64-linux.m17n_db |
@@ -35557,7 +35556,7 @@
 | mba6x_bl-unstable | 2017-12-30 | MacBook Air 6,1 and 6,2 (mid 2013) backlight driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mba6x_bl |
 | mba6x_bl-unstable | 2017-12-30 | MacBook Air 6,1 and 6,2 (mid 2013) backlight driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mba6x_bl |
 | mba6x_bl-unstable | 2017-12-30 | MacBook Air 6,1 and 6,2 (mid 2013) backlight driver | legacyPackages.x86_64-linux.linuxPackages_zen.mba6x_bl |
-| mbake | 1.4.1.pre | Makefile formatter and linter | legacyPackages.x86_64-linux.mbake |
+| mbake | 1.4.2.post1 | Makefile formatter and linter | legacyPackages.x86_64-linux.mbake |
 | mbed-cli | 1.10.5 | Arm Mbed Command Line Interface | legacyPackages.x86_64-linux.mbed-cli |
 | mbedtls | 2.28.10 | Portable cryptographic and TLS library, formerly known as PolarSSL | legacyPackages.x86_64-linux.mbedtls_2 |
 | mbedtls | 3.6.1-unstable-2025-08-11 | Portable cryptographic and TLS library, formerly known as PolarSSL (Linphone fork) | legacyPackages.x86_64-linux.linphonePackages.bc-mbedtls |
@@ -35861,7 +35860,7 @@
 | memorypool | 0.1.0.0 | basic memory pool outside of haskell heap/GC | legacyPackages.x86_64-linux.haskellPackages.memorypool |
 | memos | 0.25.1 | Lightweight, self-hosted memo hub | legacyPackages.x86_64-linux.memos |
 | mempack | 0.1.2.0 | Short description | legacyPackages.x86_64-linux.haskellPackages.mempack |
-| memray | 1.19.0 | Memory profiler for Python | legacyPackages.x86_64-linux.memray |
+| memray | 1.19.1 | Memory profiler for Python | legacyPackages.x86_64-linux.memray |
 | memscript | 0.1.0.0 | Command line utility for memorizing scriptures or any other text | legacyPackages.x86_64-linux.haskellPackages.memscript |
 | memtest86+ | 7.20 | Tool to detect memory errors | legacyPackages.x86_64-linux.memtest86plus |
 | memtest86-efi | 9.3.1000 | Tool to detect memory errors, to be run from a bootloader | legacyPackages.x86_64-linux.memtest86-efi |
@@ -36462,7 +36461,7 @@
 | mkalias | 1.1.0 | Quick'n'dirty tool to make APFS aliases | legacyPackages.x86_64-linux.mkalias |
 | mkbndl | 0.2.1 | Makes an OS X .app bundle from a binary. | legacyPackages.x86_64-linux.haskellPackages.mkbndl |
 | mkbootimage | 2.3-unstable-2022-05-26 | Open source replacement of the Xilinx bootgen application | legacyPackages.x86_64-linux.mkbootimage |
-| mkbrr | 1.16.0 | Tool to create, modify and inspect torrent files | legacyPackages.x86_64-linux.mkbrr |
+| mkbrr | 1.17.0 | Tool to create, modify and inspect torrent files | legacyPackages.x86_64-linux.mkbrr |
 | mkcabal | 1.0.0 | Generate cabal files for a Haskell project | legacyPackages.x86_64-linux.haskellPackages.mkcabal |
 | mkcal | 0.7.28 | Mobile version of the original KCAL from KDE | legacyPackages.x86_64-linux.mkcal |
 | mkcert | 1.4.4 | Simple tool for making locally-trusted development certificates | legacyPackages.x86_64-linux.mkcert |
@@ -37633,7 +37632,7 @@
 | muse-sounds-manager | 2.0.4.872 | Manage Muse Sounds (Muse Hub) libraries for MuseScore | legacyPackages.x86_64-linux.muse-sounds-manager |
 | museeks | 0.23.1 | Simple, clean and cross-platform music player | legacyPackages.x86_64-linux.museeks |
 | musescore | 4.6.2 | Music notation and composition software | legacyPackages.x86_64-linux.musescore |
-| museum | 1.2.8 | API server for ente.io | legacyPackages.x86_64-linux.museum |
+| museum | 1.2.11 | API server for ente.io | legacyPackages.x86_64-linux.museum |
 | mushroom | 5.0.8 | Mushroom Cards - Build a beautiful dashboard easily | legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.mushroom |
 | mushu | 0.1.1 | Minimalist MPD client | legacyPackages.x86_64-linux.haskellPackages.mushu |
 | music-articulation | 1.9.0 | Abstract representation of musical articulation | legacyPackages.x86_64-linux.haskellPackages.music-articulation |
@@ -37880,7 +37879,7 @@
 | nahid-fonts | 0.3.0 | Persian (Farsi) Font - قلم (فونت) فارسی ناهید | legacyPackages.x86_64-linux.nahid-fonts |
 | nailgun | 1.0.0 | Client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead | legacyPackages.x86_64-linux.nailgun |
 | naive-ebnf | 0.0.18 | EBNF in plain text | legacyPackages.x86_64-linux.texlivePackages.naive-ebnf |
-| naja | 0.2.2 | Structural Netlist API (and more) for EDA post synthesis flow development | legacyPackages.x86_64-linux.naja |
+| naja | 0.2.12 | Structural Netlist API (and more) for EDA post synthesis flow development | legacyPackages.x86_64-linux.naja |
 | nak | 0.16.2 | Command-line tool for Nostr things | legacyPackages.x86_64-linux.nak |
 | nakadi-client | 0.7.0.0 | Client library for the Nakadi Event Broker | legacyPackages.x86_64-linux.haskellPackages.nakadi-client |
 | nakama | 3.32.1 | Distributed server for social and realtime games and apps | legacyPackages.x86_64-linux.nakama |
@@ -38336,7 +38335,7 @@
 | netatop | 6.17.3-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.netatop |
 | netatop | 6.6.112-3.1 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.netatop |
 | netavark | 1.16.1 | Rust based network stack for containers | legacyPackages.x86_64-linux.netavark |
-| netbeans | 24 | Integrated development environment for Java, C, C++ and PHP | legacyPackages.x86_64-linux.netbeans |
+| netbeans | 27 | Integrated development environment for Java, C, C++ and PHP | legacyPackages.x86_64-linux.netbeans |
 | netbird-client | 0.59.5 | Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls | legacyPackages.x86_64-linux.netbird |
 | netbird-dashboard | 2.19.2 | NetBird Management Service Web UI Panel | legacyPackages.x86_64-linux.netbird-dashboard |
 | netbird-management | 0.59.5 | Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls | legacyPackages.x86_64-linux.netbird-management |
@@ -38777,8 +38776,8 @@
 | nix | 2.31.2 | Nix package manager | legacyPackages.x86_64-linux.nixStable |
 | nix | 2.31.2 | Nix package manager | legacyPackages.x86_64-linux.nixVersions.nix_2_31 |
 | nix | 2.31.2 | Nix package manager | legacyPackages.x86_64-linux.nixVersions.stable |
-| nix | 2.32.0 | Nix package manager | legacyPackages.x86_64-linux.nixVersions.latest |
-| nix | 2.32.0 | Nix package manager | legacyPackages.x86_64-linux.nixVersions.nix_2_32 |
+| nix | 2.32.1 | Nix package manager | legacyPackages.x86_64-linux.nixVersions.latest |
+| nix | 2.32.1 | Nix package manager | legacyPackages.x86_64-linux.nixVersions.nix_2_32 |
 | nix | 2.32pre20250919_07b96c1d | Nix package manager | legacyPackages.x86_64-linux.nixVersions.git |
 | nix-bash-completions | 0.6.8 | Bash completions for Nix, NixOS, and NixOps | legacyPackages.x86_64-linux.nix-bash-completions |
 | nix-binary-cache | 2014-06-29-1 | Set of scripts to serve the Nix store as a binary cache | legacyPackages.x86_64-linux.nix-binary-cache |
@@ -39507,7 +39506,7 @@
 | nv-codec-headers | 12.1.14.0 | FFmpeg version of headers for NVENC - major version 12.1.14.0 | legacyPackages.x86_64-linux.nv-codec-headers-12 |
 | nv-codec-headers | 9.1.23.1 | FFmpeg version of headers for NVENC - major version 9.1.23.1 | legacyPackages.x86_64-linux.nv-codec-headers |
 | nv-codec-headers | 9.1.23.1 | FFmpeg version of headers for NVENC - major version 9.1.23.1 | legacyPackages.x86_64-linux.nv-codec-headers-9 |
-| nvc | 1.18.0 | VHDL compiler and simulator | legacyPackages.x86_64-linux.nvc |
+| nvc | 1.18.1 | VHDL compiler and simulator | legacyPackages.x86_64-linux.nvc |
 | nvchecker | 2.19 | New version checker for software | legacyPackages.x86_64-linux.nvchecker |
 | nvd | 0.2.4 | Nix/NixOS package version diff tool | legacyPackages.x86_64-linux.nvd |
 | nvdtools | 0.1.5 | Tools to work with the feeds (vulnerabilities, CPE dictionary etc.) distributed by National Vulnerability Database | legacyPackages.x86_64-linux.nvdtools |
@@ -40409,18 +40408,18 @@
 | ocaml5.3.0-dir | 0.0.1-unstable-2024-05-07 | Library that provides a consistent API for common system, user and application directories consistently on all platforms | legacyPackages.x86_64-linux.ocamlPackages.reason-native.dir |
 | ocaml5.3.0-directories | 0.6 | OCaml library that provides configuration, cache and data paths (and more!) following the suitable conventions on Linux, macOS and Windows | legacyPackages.x86_64-linux.ocamlPackages.directories |
 | ocaml5.3.0-dispatch | 0.5.0 | Path-based dispatching for client- and server-side applications | legacyPackages.x86_64-linux.ocamlPackages.dispatch |
-| ocaml5.3.0-dns | 10.1.0 | Domain Name System (DNS) library | legacyPackages.x86_64-linux.ocamlPackages.dns |
-| ocaml5.3.0-dns-certify | 10.1.0 | MirageOS let's encrypt certificate retrieval | legacyPackages.x86_64-linux.ocamlPackages.dns-certify |
-| ocaml5.3.0-dns-cli | 10.1.0 | Unix command line utilities using uDNS | legacyPackages.x86_64-linux.ocamlPackages.dns-cli |
-| ocaml5.3.0-dns-client | 10.1.0 | Pure DNS resolver API | legacyPackages.x86_64-linux.ocamlPackages.dns-client |
-| ocaml5.3.0-dns-client-lwt | 10.1.0 | Pure DNS resolver API | legacyPackages.x86_64-linux.ocamlPackages.dns-client-lwt |
-| ocaml5.3.0-dns-client-mirage | 10.1.0 | Pure DNS resolver API | legacyPackages.x86_64-linux.ocamlPackages.dns-client-mirage |
-| ocaml5.3.0-dns-mirage | 10.1.0 | Opinionated Domain Name System (DNS) library | legacyPackages.x86_64-linux.ocamlPackages.dns-mirage |
-| ocaml5.3.0-dns-resolver | 10.1.0 | DNS resolver business logic | legacyPackages.x86_64-linux.ocamlPackages.dns-resolver |
-| ocaml5.3.0-dns-server | 10.1.0 | DNS server, primary and secondary | legacyPackages.x86_64-linux.ocamlPackages.dns-server |
-| ocaml5.3.0-dns-stub | 10.1.0 | DNS stub resolver | legacyPackages.x86_64-linux.ocamlPackages.dns-stub |
-| ocaml5.3.0-dns-tsig | 10.1.0 | TSIG support for DNS | legacyPackages.x86_64-linux.ocamlPackages.dns-tsig |
-| ocaml5.3.0-dnssec | 10.1.0 | DNSSec support for OCaml-DNS | legacyPackages.x86_64-linux.ocamlPackages.dnssec |
+| ocaml5.3.0-dns | 10.2.1 | Domain Name System (DNS) library | legacyPackages.x86_64-linux.ocamlPackages.dns |
+| ocaml5.3.0-dns-certify | 10.2.1 | MirageOS let's encrypt certificate retrieval | legacyPackages.x86_64-linux.ocamlPackages.dns-certify |
+| ocaml5.3.0-dns-cli | 10.2.1 | Unix command line utilities using uDNS | legacyPackages.x86_64-linux.ocamlPackages.dns-cli |
+| ocaml5.3.0-dns-client | 10.2.1 | Pure DNS resolver API | legacyPackages.x86_64-linux.ocamlPackages.dns-client |
+| ocaml5.3.0-dns-client-lwt | 10.2.1 | Pure DNS resolver API | legacyPackages.x86_64-linux.ocamlPackages.dns-client-lwt |
+| ocaml5.3.0-dns-client-mirage | 10.2.1 | Pure DNS resolver API | legacyPackages.x86_64-linux.ocamlPackages.dns-client-mirage |
+| ocaml5.3.0-dns-mirage | 10.2.1 | Opinionated Domain Name System (DNS) library | legacyPackages.x86_64-linux.ocamlPackages.dns-mirage |
+| ocaml5.3.0-dns-resolver | 10.2.1 | DNS resolver business logic | legacyPackages.x86_64-linux.ocamlPackages.dns-resolver |
+| ocaml5.3.0-dns-server | 10.2.1 | DNS server, primary and secondary | legacyPackages.x86_64-linux.ocamlPackages.dns-server |
+| ocaml5.3.0-dns-stub | 10.2.1 | DNS stub resolver | legacyPackages.x86_64-linux.ocamlPackages.dns-stub |
+| ocaml5.3.0-dns-tsig | 10.2.1 | TSIG support for DNS | legacyPackages.x86_64-linux.ocamlPackages.dns-tsig |
+| ocaml5.3.0-dnssec | 10.2.1 | DNSSec support for OCaml-DNS | legacyPackages.x86_64-linux.ocamlPackages.dnssec |
 | ocaml5.3.0-docfd | 12.0.0 | TUI multiline fuzzy document finder | legacyPackages.x86_64-linux.docfd |
 | ocaml5.3.0-dockerfile | 8.3.2 | Interface for creating Dockerfiles | legacyPackages.x86_64-linux.ocamlPackages.dockerfile |
 | ocaml5.3.0-dolmen | 0.10 | OCaml library providing clean and flexible parsers for input languages | legacyPackages.x86_64-linux.ocamlPackages.dolmen |
@@ -42041,7 +42040,7 @@
 | opencloud-desktop | 2.0.0 | Desktop Application for OpenCloud | legacyPackages.x86_64-linux.opencloud-desktop |
 | opencloud-desktop-shell-integration-dolphin | 1.0.0 | OpenCloud Desktop shell integration for the great KDE Dolphin in KDE Frameworks 6 | legacyPackages.x86_64-linux.opencloud-desktop-shell-integration-dolphin |
 | opencloud-desktop-shell-integration-resources | 1.0.0 | Shared assets for OpenCloud desktop shell integrations | legacyPackages.x86_64-linux.opencloud-desktop-shell-integration-resources |
-| opencode | 0.15.4 | AI coding agent built for the terminal | legacyPackages.x86_64-linux.opencode |
+| opencode | 0.15.8 | AI coding agent built for the terminal | legacyPackages.x86_64-linux.opencode |
 | opencog-atomspace | 0.1.0.8 | Haskell Bindings for the AtomSpace | legacyPackages.x86_64-linux.haskellPackages.opencog-atomspace |
 | opencollada | 0-unstable-2025-01-30 | Library for handling the COLLADA file format | legacyPackages.x86_64-linux.opencollada-blender |
 | opencollada | 1.6.68 | Library for handling the COLLADA file format | legacyPackages.x86_64-linux.opencollada |
@@ -43125,9 +43124,10 @@
 | papermc | 1.21.5-114 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermcServers.papermc-1_21_5 |
 | papermc | 1.21.6-48 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermcServers.papermc-1_21_6 |
 | papermc | 1.21.7-32 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermcServers.papermc-1_21_7 |
-| papermc | 1.21.8-60 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermc |
-| papermc | 1.21.8-60 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermcServers.papermc |
 | papermc | 1.21.8-60 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermcServers.papermc-1_21_8 |
+| papermc | 1.21.9-41 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermc |
+| papermc | 1.21.9-41 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermcServers.papermc |
+| papermc | 1.21.9-41 | High-performance Minecraft Server | legacyPackages.x86_64-linux.papermcServers.papermc-1_21_9 |
 | papers | 48.5 | GNOME's document viewer | legacyPackages.x86_64-linux.papers |
 | papertex | 1.2b | Class for newspapers, etc | legacyPackages.x86_64-linux.texlivePackages.papertex |
 | papertrail | 0.11.2 | Command-line client for Papertrail log management service | legacyPackages.x86_64-linux.papertrail |
@@ -43757,11 +43757,11 @@
 | percona-server | 8.4.6-6 | A free, fully compatible, enhanced, open source drop-in replacement for MySQL® that provides superior performance, scalability and instrumentation. Long-term support release.  | legacyPackages.x86_64-linux.percona-server_8_4 |
 | percona-server | 8.4.6-6 | A free, fully compatible, enhanced, open source drop-in replacement for MySQL® that provides superior performance, scalability and instrumentation. Long-term support release.  | legacyPackages.x86_64-linux.percona-server_innovation |
 | percona-server | 8.4.6-6 | A free, fully compatible, enhanced, open source drop-in replacement for MySQL® that provides superior performance, scalability and instrumentation. Long-term support release.  | legacyPackages.x86_64-linux.percona-server_lts |
-| percona-xtrabackup | 8.0.35-32 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_8_0 |
-| percona-xtrabackup | 8.4.0-2 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup |
-| percona-xtrabackup | 8.4.0-2 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_8_4 |
-| percona-xtrabackup | 8.4.0-2 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_innovation |
-| percona-xtrabackup | 8.4.0-2 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_lts |
+| percona-xtrabackup | 8.0.35-34 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_8_0 |
+| percona-xtrabackup | 8.4.0-4 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup |
+| percona-xtrabackup | 8.4.0-4 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_8_4 |
+| percona-xtrabackup | 8.4.0-4 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_innovation |
+| percona-xtrabackup | 8.4.0-4 | Non-blocking backup tool for MySQL | legacyPackages.x86_64-linux.percona-xtrabackup_lts |
 | perdure | 0.2.1 | Robust persistence for acyclic immutable data | legacyPackages.x86_64-linux.haskellPackages.perdure |
 | peregrin | 0.4.2 | Database migration support for use in other libraries | legacyPackages.x86_64-linux.haskellPackages.peregrin |
 | perf | 0.14.0.3 | Performance methods and monad | legacyPackages.x86_64-linux.haskellPackages.perf |
@@ -49806,7 +49806,7 @@
 | pfetch | 1.9.4 | Pretty system information tool written in POSIX sh | legacyPackages.x86_64-linux.pfetch |
 | pfetch-rs | 2.11.1 | Rewrite of the pfetch system information tool in Rust | legacyPackages.x86_64-linux.pfetch-rs |
 | pff-tools | 0-unstable-2025-07-22 | Command-line tools to process PFF files | legacyPackages.x86_64-linux.pff-tool |
-| pffft | 0-unstable-2022-04-10 | Pretty Fast FFT (PFFFT) library | legacyPackages.x86_64-linux.pffft |
+| pffft | 0-unstable-2025-06-09 | Pretty Fast FFT (PFFFT) library | legacyPackages.x86_64-linux.pffft |
 | pfft-double | 1.0.8-alpha | Parallel fast Fourier transforms | legacyPackages.x86_64-linux.pfft |
 | pfile | 0.1.0.1 | CLI program for profiles management | legacyPackages.x86_64-linux.haskellPackages.pfile |
 | pfixtools | 0.9 | Collection of postfix-related tools | legacyPackages.x86_64-linux.pfixtools |
@@ -50016,7 +50016,7 @@
 | pgaudit | 17.1 | Open Source PostgreSQL Audit Logging | legacyPackages.x86_64-linux.postgresql17Packages.pgaudit |
 | pgaudit | 17.1 | Open Source PostgreSQL Audit Logging | legacyPackages.x86_64-linux.postgresqlPackages.pgaudit |
 | pgaudit- |  | Open Source PostgreSQL Audit Logging | legacyPackages.x86_64-linux.postgresql18Packages.pgaudit |
-| pgbackrest | 2.56.0 | Reliable PostgreSQL backup & restore | legacyPackages.x86_64-linux.pgbackrest |
+| pgbackrest | 2.57.0 | Reliable PostgreSQL backup & restore | legacyPackages.x86_64-linux.pgbackrest |
 | pgbouncer | 1.24.1 | Lightweight connection pooler for PostgreSQL | legacyPackages.x86_64-linux.pgbouncer |
 | pgbouncer-exporter | 0.11.0 | Prometheus exporter for PgBouncer | legacyPackages.x86_64-linux.prometheus-pgbouncer-exporter |
 | pgcat | 1.2.0 | PostgreSQL pooler with sharding, load balancing and failover support | legacyPackages.x86_64-linux.pgcat |
@@ -50624,7 +50624,7 @@
 | php-zstd | 0.15.2 | Zstd Extension for PHP | legacyPackages.x86_64-linux.php82Extensions.zstd |
 | php-zstd | 0.15.2 | Zstd Extension for PHP | legacyPackages.x86_64-linux.php83Extensions.zstd |
 | php-zstd | 0.15.2 | Zstd Extension for PHP | legacyPackages.x86_64-linux.php84Extensions.zstd |
-| phpactor | 2025.07.25.0 | Mainly a PHP Language Server | legacyPackages.x86_64-linux.phpactor |
+| phpactor | 2025.10.17.0 | Mainly a PHP Language Server | legacyPackages.x86_64-linux.phpactor |
 | phpdocumentor | 3.8.1 | PHP documentation generator | legacyPackages.x86_64-linux.phpdocumentor |
 | phpinsights | 2.12.0 | Instant PHP quality checks from your console | legacyPackages.x86_64-linux.php82Packages.phpinsights |
 | phpinsights | 2.12.0 | Instant PHP quality checks from your console | legacyPackages.x86_64-linux.php83Packages.phpinsights |
@@ -50737,7 +50737,7 @@
 | piet | 0.1 | A Piet interpreter | legacyPackages.x86_64-linux.haskellPackages.piet |
 | pietrasanta-traceroute | 0.0.5-unstable-2024-09-06 | ECN-aware version of traceroute | legacyPackages.x86_64-linux.pietrasanta-traceroute |
 | piff | 21894 | Macro tools by Mike Piff | legacyPackages.x86_64-linux.texlivePackages.piff |
-| pifpaf | 3.3.0 | Suite of tools and fixtures to manage daemons for testing | legacyPackages.x86_64-linux.pifpaf |
+| pifpaf | 3.4.0 | Suite of tools and fixtures to manage daemons for testing | legacyPackages.x86_64-linux.pifpaf |
 | pig | 0.0.1 | dice game | legacyPackages.x86_64-linux.haskellPackages.pig |
 | pig | 0.17.0 | High-level language for Apache Hadoop | legacyPackages.x86_64-linux.pig |
 | pigeon | 1.3.0 | PEG parser generator for Go | legacyPackages.x86_64-linux.pigeon |
@@ -50767,7 +50767,7 @@
 | pim-sieve-editor | 25.08.2 | Application to assist with editing IMAP Sieve filters | legacyPackages.x86_64-linux.kdePackages.pim-sieve-editor |
 | pim6sd | 0-unstable-2024-12-14 | PIM for IPv6 sparse mode daemon | legacyPackages.x86_64-linux.pim6sd |
 | pimcommon | 25.08.2 | Common library components for KDE PIM | legacyPackages.x86_64-linux.kdePackages.pimcommon |
-| pimsync | 0.4.4 | Synchronise calendars and contacts | legacyPackages.x86_64-linux.pimsync |
+| pimsync | 0.5.4 | Synchronise calendars and contacts | legacyPackages.x86_64-linux.pimsync |
 | pinact | 3.4.2 | Pin GitHub Actions versions | legacyPackages.x86_64-linux.pinact |
 | pinball | 0.3.20201218-unstable-2024-11-14 | Emilia Pinball simulator | legacyPackages.x86_64-linux.pinball |
 | pinboard | 0.10.3.0 | Access to the Pinboard API | legacyPackages.x86_64-linux.haskellPackages.pinboard |
@@ -51048,7 +51048,7 @@
 | plan-exporter | 0.0.6 | Query plan exporter for psql | legacyPackages.x86_64-linux.plan-exporter |
 | plan9port | 2025-01-29 | Plan 9 from User Space | legacyPackages.x86_64-linux.plan9port |
 | planar-graph | 1.0.0.0 | A representation of planar graphs | legacyPackages.x86_64-linux.haskellPackages.planar-graph |
-| planarity | 4.0.0.0 | Library for implementing graph algorithms | legacyPackages.x86_64-linux.planarity |
+| planarity | 4.0.1.0 | Library for implementing graph algorithms | legacyPackages.x86_64-linux.planarity |
 | planb-token-introspection | 0.1.4.0 | Token Introspection for PlanB | legacyPackages.x86_64-linux.haskellPackages.planb-token-introspection |
 | plandex | 2.1.2 | AI driven development in your terminal. Designed for large, real-world tasks. The cli part | legacyPackages.x86_64-linux.plandex |
 | plandex-server | 1.1.1 | AI driven development in your terminal. Designed for large, real-world tasks. The server part | legacyPackages.x86_64-linux.plandex-server |
@@ -51641,7 +51641,7 @@
 | positive | 0.4.1 | Positive integers | legacyPackages.x86_64-linux.haskellPackages.positive |
 | positive-integer | 0.1.2.0 | Type of positive integers | legacyPackages.x86_64-linux.haskellPackages.positive-integer |
 | positron | 0.1.0.0 | Experiment | legacyPackages.x86_64-linux.haskellPackages.positron |
-| positron-bin | 2025.10.0-199 | Positron, a next-generation data science IDE | legacyPackages.x86_64-linux.positron-bin |
+| positron-bin | 2025.10.1-4 | Positron, a next-generation data science IDE | legacyPackages.x86_64-linux.positron-bin |
 | posix-acl | 0.2.0.1 | Support for Posix ACL | legacyPackages.x86_64-linux.haskellPackages.posix-acl |
 | posix-api | 0.7.3.0 | posix bindings | legacyPackages.x86_64-linux.haskellPackages.posix-api |
 | posix-error-codes | 0.1.0.0 | POSIX error codes | legacyPackages.x86_64-linux.haskellPackages.posix-error-codes |
@@ -52279,7 +52279,7 @@
 | prolude | 0.0.0.30 | ACI Learning's custom prelude | legacyPackages.x86_64-linux.haskellPackages.prolude |
 | prom2json | 1.5.0 | Tool to scrape a Prometheus client and dump the result as JSON | legacyPackages.x86_64-linux.prom2json |
 | prometheus | 2.3.0 | Prometheus Haskell Client | legacyPackages.x86_64-linux.haskellPackages.prometheus |
-| prometheus | 3.6.0 | Service monitoring system and time series database | legacyPackages.x86_64-linux.prometheus |
+| prometheus | 3.7.1 | Service monitoring system and time series database | legacyPackages.x86_64-linux.prometheus |
 | prometheus-aruba-exporter | 0-unstable-2023-01-18 | Prometheus exporter for metrics from Aruba devices including ArubaSwitchOS, ArubaOS-CX, ArubaOS (Instant AP and controllers/gateways) | legacyPackages.x86_64-linux.prometheus-aruba-exporter |
 | prometheus-borgmatic-exporter | 0.3.0 | Prometheus exporter for Borgmatic | legacyPackages.x86_64-linux.prometheus-borgmatic-exporter |
 | prometheus-chrony-exporter | 0.12.2 | Prometheus exporter for the chrony NTP service | legacyPackages.x86_64-linux.prometheus-chrony-exporter |
@@ -52321,7 +52321,7 @@
 | promptfoo | 0.118.11 | Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality | legacyPackages.x86_64-linux.promptfoo |
 | promql-cli | 0.3.0 | Command-line tool to query a Prometheus server with PromQL and visualize the output | legacyPackages.x86_64-linux.promql-cli |
 | promscale | 0.17.0 | Open-source analytical platform for Prometheus metrics | legacyPackages.x86_64-linux.promscale |
-| promtail | 3.5.6 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.promtail |
+| promtail | 3.5.7 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.promtail |
 | pronounce | 1.2.0.0 | A library for interfacing with the CMU Pronouncing Dictionary | legacyPackages.x86_64-linux.haskellPackages.pronounce |
 | pronunciation | 1.0.2 | American English Pronunciation | legacyPackages.x86_64-linux.texlivePackages.pronunciation |
 | proof-assistant-bot | 0.2.2 | Telegram bot for proof assistants | legacyPackages.x86_64-linux.haskellPackages.proof-assistant-bot |
@@ -52437,7 +52437,7 @@
 | proton | 0.0.4 |  | legacyPackages.x86_64-linux.haskellPackages.proton |
 | proton | 1.0.1 |  | legacyPackages.x86_64-linux.wordpressPackages.themes.proton |
 | proton-authenticator | 1.1.4 | Two-factor authentication manager with optional sync | legacyPackages.x86_64-linux.proton-authenticator |
-| proton-ge-bin-GE-Proton10 | 19 | Compatibility tool for Steam Play based on Wine and additional components.  (This is intended for use in the `programs.steam.extraCompatPackages` option only.)  | legacyPackages.x86_64-linux.proton-ge-bin |
+| proton-ge-bin-GE-Proton10 | 20 | Compatibility tool for Steam Play based on Wine and additional components.  (This is intended for use in the `programs.steam.extraCompatPackages` option only.)  | legacyPackages.x86_64-linux.proton-ge-bin |
 | proton-haskell | 0.7 | Simple XML templating library | legacyPackages.x86_64-linux.haskellPackages.proton-haskell |
 | proton-pass | 1.32.6 | Desktop application for Proton Pass | legacyPackages.x86_64-linux.proton-pass |
 | proton-vpn-local-agent | 1.4.8 | Proton VPN local agent written in Rust with Python bindings | legacyPackages.x86_64-linux.proton-vpn-local-agent |
@@ -52865,7 +52865,7 @@
 | puyotikz | 1.0.1 | Quickly typeset board states of Puyo Puyo games | legacyPackages.x86_64-linux.texlivePackages.puyotikz |
 | puzzle-draw | 0.3.0.0 | Creating graphics for pencil puzzles | legacyPackages.x86_64-linux.haskellPackages.puzzle-draw |
 | puzzle-draw-cmdline | 0.1.0.4 | Creating graphics for pencil puzzles, command line tools | legacyPackages.x86_64-linux.haskellPackages.puzzle-draw-cmdline |
-| pv | 1.9.42 | Tool for monitoring the progress of data through a pipeline | legacyPackages.x86_64-linux.pv |
+| pv | 1.9.44 | Tool for monitoring the progress of data through a pipeline | legacyPackages.x86_64-linux.pv |
 | pv-migrate | 2.2.1 | CLI tool to easily migrate Kubernetes persistent volumes | legacyPackages.x86_64-linux.pv-migrate |
 | pvar | 1.0.0.0 | Mutable variable with primitive values | legacyPackages.x86_64-linux.haskellPackages.pvar |
 | pvd | 1.1.1 | A photo viewer daemon application with remote controlling abilities | legacyPackages.x86_64-linux.haskellPackages.pvd |
@@ -53179,7 +53179,7 @@
 | python3.12-aioapns | 4.0 | Efficient APNs Client Library | legacyPackages.x86_64-linux.python312Packages.aioapns |
 | python3.12-aioaquacell | 0.2.0 | Asynchronous library to retrieve details of your Aquacell water softener device | legacyPackages.x86_64-linux.python312Packages.aioaquacell |
 | python3.12-aioaseko | 1.0.0 | Module to interact with the Aseko Pool Live API | legacyPackages.x86_64-linux.python312Packages.aioaseko |
-| python3.12-aioasuswrt | 1.4.0 | Python module for Asuswrt | legacyPackages.x86_64-linux.python312Packages.aioasuswrt |
+| python3.12-aioasuswrt | 1.5.1 | Python module for Asuswrt | legacyPackages.x86_64-linux.python312Packages.aioasuswrt |
 | python3.12-aioaudiobookshelf | 0.1.7 | Async python library to interact with Audiobookshelf | legacyPackages.x86_64-linux.python312Packages.aioaudiobookshelf |
 | python3.12-aioautomower | 2.2.2 | Module to communicate with the Automower Connect API | legacyPackages.x86_64-linux.python312Packages.aioautomower |
 | python3.12-aioazuredevops | 2.2.2 | Get data from the Azure DevOps API | legacyPackages.x86_64-linux.python312Packages.aioazuredevops |
@@ -53194,7 +53194,7 @@
 | python3.12-aiocache | 0.12.3 | Asyncio cache supporting multiple backends (memory, redis, memcached, etc.) | legacyPackages.x86_64-linux.python312Packages.aiocache |
 | python3.12-aiocmd |  | Asyncio-based automatic CLI creation tool using prompt-toolkit | legacyPackages.x86_64-linux.python312Packages.aiocmd |
 | python3.12-aiocoap | 0.4.15 | Python CoAP library | legacyPackages.x86_64-linux.python312Packages.aiocoap |
-| python3.12-aiocomelit | 1.1.1 | Library to control Comelit Simplehome | legacyPackages.x86_64-linux.python312Packages.aiocomelit |
+| python3.12-aiocomelit | 1.1.2 | Library to control Comelit Simplehome | legacyPackages.x86_64-linux.python312Packages.aiocomelit |
 | python3.12-aioconsole | 0.8.1 | Asynchronous console and interfaces for asyncio | legacyPackages.x86_64-linux.python312Packages.aioconsole |
 | python3.12-aiocontextvars | 0.2.2 | Asyncio support for PEP-567 contextvars backport | legacyPackages.x86_64-linux.python312Packages.aiocontextvars |
 | python3.12-aiocron | 2.1 | Crontabs for asyncio | legacyPackages.x86_64-linux.python312Packages.aiocron |
@@ -53329,9 +53329,9 @@
 | python3.12-aiosqlite | 0.21.0 | Asyncio bridge to the standard sqlite3 module | legacyPackages.x86_64-linux.python312Packages.aiosqlite |
 | python3.12-aiosseclient | 0.1.8 | Asynchronous Server Side Events (SSE) client | legacyPackages.x86_64-linux.python312Packages.aiosseclient |
 | python3.12-aiosteamist | 1.0.1 | Module to control Steamist steam systems | legacyPackages.x86_64-linux.python312Packages.aiosteamist |
-| python3.12-aiostream | 0.7.0 | Generator-based operators for asynchronous iteration | legacyPackages.x86_64-linux.python312Packages.aiostream |
+| python3.12-aiostream | 0.7.1 | Generator-based operators for asynchronous iteration | legacyPackages.x86_64-linux.python312Packages.aiostream |
 | python3.12-aiostreammagic | 2.11.0 | Module for interfacing with Cambridge Audio/Stream Magic compatible streamers | legacyPackages.x86_64-linux.python312Packages.aiostreammagic |
-| python3.12-aioswitcher | 6.0.2 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python312Packages.aioswitcher |
+| python3.12-aioswitcher | 6.0.3 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python312Packages.aioswitcher |
 | python3.12-aiosyncthing | 0.6.3 | Python client for the Syncthing REST API | legacyPackages.x86_64-linux.python312Packages.aiosyncthing |
 | python3.12-aiotankerkoenig | 0.5.0 | Python module for interacting with tankerkoenig.de | legacyPackages.x86_64-linux.python312Packages.aiotankerkoenig |
 | python3.12-aiotarfile | 0.5.1 | Stream-based, asynchronous tarball processing | legacyPackages.x86_64-linux.python312Packages.aiotarfile |
@@ -53609,8 +53609,8 @@
 | python3.12-asyncio-throttle | 1.0.2 | Simple, easy-to-use throttler for asyncio | legacyPackages.x86_64-linux.python312Packages.asyncio-throttle |
 | python3.12-asyncmy | 0.2.10 | Python module to interact with MySQL/mariaDB | legacyPackages.x86_64-linux.python312Packages.asyncmy |
 | python3.12-asyncpg | 0.30.0 | Asyncio PosgtreSQL driver | legacyPackages.x86_64-linux.python312Packages.asyncpg |
-| python3.12-asyncpraw | 7.8.1 | Asynchronous Python Reddit API Wrapper | legacyPackages.x86_64-linux.python312Packages.asyncpraw |
-| python3.12-asyncprawcore | 2.4.0 | Low-level asynchronous communication layer for Async PRAW | legacyPackages.x86_64-linux.python312Packages.asyncprawcore |
+| python3.12-asyncpraw | 7.8.1-unstable-2025-10-08 | Asynchronous Python Reddit API Wrapper | legacyPackages.x86_64-linux.python312Packages.asyncpraw |
+| python3.12-asyncprawcore | 3.0.2 | Low-level asynchronous communication layer for Async PRAW | legacyPackages.x86_64-linux.python312Packages.asyncprawcore |
 | python3.12-asyncpysupla | 0.0.5 | Simple Supla's OpenAPI async wrapper | legacyPackages.x86_64-linux.python312Packages.asyncpysupla |
 | python3.12-asyncserial | 1.0 | asyncio support for pyserial | legacyPackages.x86_64-linux.python312Packages.asyncserial |
 | python3.12-asyncsleepiq | 1.6.0 | Async interface to SleepIQ API | legacyPackages.x86_64-linux.python312Packages.asyncsleepiq |
@@ -53975,7 +53975,7 @@
 | python3.12-bincopy | 20.1.0 | Mangling of various file formats that conveys binary information (Motorola S-Record, Intel HEX, TI-TXT, ELF and binary files) | legacyPackages.x86_64-linux.python312Packages.bincopy |
 | python3.12-bindep | 2.13.0 | Bindep is a tool for checking the presence of binary packages needed to use an application / library | legacyPackages.x86_64-linux.python312Packages.bindep |
 | python3.12-binho-host-adapter | 0.1.6 | Python library for Binho Multi-Protocol USB Host Adapters | legacyPackages.x86_64-linux.python312Packages.binho-host-adapter |
-| python3.12-binsync | 5.7.10 | Reversing plugin for cross-decompiler collaboration, built on git | legacyPackages.x86_64-linux.python312Packages.binsync |
+| python3.12-binsync | 5.7.11 | Reversing plugin for cross-decompiler collaboration, built on git | legacyPackages.x86_64-linux.python312Packages.binsync |
 | python3.12-biocframe | 0.6.3 | Bioconductor-like data frames | legacyPackages.x86_64-linux.python312Packages.biocframe |
 | python3.12-biocutils | 0.2.3 | Miscellaneous utilities for BiocPy, mostly to mimic base functionality in R | legacyPackages.x86_64-linux.python312Packages.biocutils |
 | python3.12-biom-format | 2.1.17 | Biological Observation Matrix (BIOM) format | legacyPackages.x86_64-linux.python312Packages.biom-format |
@@ -54198,7 +54198,7 @@
 | python3.12-cashaddress | 1.0.6-unstable-2019-05-15 | Python tool for convert bitcoin cash legacy addresses | legacyPackages.x86_64-linux.python312Packages.cashaddress |
 | python3.12-cashews | 7.4.3 | Cache tools with async power | legacyPackages.x86_64-linux.python312Packages.cashews |
 | python3.12-cassandra-driver | 3.29.2 | Python client driver for Apache Cassandra | legacyPackages.x86_64-linux.python312Packages.cassandra-driver |
-| python3.12-castepxbin | 0.3.0 | Collection of readers for CASTEP binary outputs | legacyPackages.x86_64-linux.python312Packages.castepxbin |
+| python3.12-castepxbin | 0.3.1 | Collection of readers for CASTEP binary outputs | legacyPackages.x86_64-linux.python312Packages.castepxbin |
 | python3.12-casttube | 0.2.1 | Interact with the Youtube Chromecast api | legacyPackages.x86_64-linux.python312Packages.casttube |
 | python3.12-catalogue | 2.0.10 | Tiny library for adding function or object registries | legacyPackages.x86_64-linux.python312Packages.catalogue |
 | python3.12-catboost | 1.2.7 | High-performance library for gradient boosting on decision trees | legacyPackages.x86_64-linux.python312Packages.catboost |
@@ -55227,7 +55227,7 @@
 | python3.12-dtlssocket | 0.2.3 | Cython wrapper for tinydtls with a Socket like interface | legacyPackages.x86_64-linux.python312Packages.dtlssocket |
 | python3.12-dtschema | 2025.08 | Tooling for devicetree validation using YAML and jsonschema | legacyPackages.x86_64-linux.python312Packages.dtschema |
 | python3.12-dtw-python | 1.7.2 | Python port of R's Comprehensive Dynamic Time Warp algorithms package | legacyPackages.x86_64-linux.python312Packages.dtw-python |
-| python3.12-ducc0 | 0.39.0 | Efficient algorithms for Fast Fourier transforms and more | legacyPackages.x86_64-linux.python312Packages.ducc0 |
+| python3.12-ducc0 | 0.39.1 | Efficient algorithms for Fast Fourier transforms and more | legacyPackages.x86_64-linux.python312Packages.ducc0 |
 | python3.12-duckdb | 1.3.2 | Python binding for DuckDB | legacyPackages.x86_64-linux.python312Packages.duckdb |
 | python3.12-duckdb-engine | 0.17.0 | SQLAlchemy driver for duckdb | legacyPackages.x86_64-linux.python312Packages.duckdb-engine |
 | python3.12-duckduckgo-search | 9.5.5 | Python CLI and library for searching for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine | legacyPackages.x86_64-linux.python312Packages.duckduckgo-search |
@@ -56186,7 +56186,7 @@
 | python3.12-ha-philipsjs | 3.3.4 | Library to interact with Philips TVs with jointSPACE API | legacyPackages.x86_64-linux.python312Packages.ha-philipsjs |
 | python3.12-ha-silabs-firmware-client | 0.2.0 | Home Assistant client for firmwares released with silabs-firmware-builder | legacyPackages.x86_64-linux.python312Packages.ha-silabs-firmware-client |
 | python3.12-habanero | 2.3.0 | Python interface to Library Genesis | legacyPackages.x86_64-linux.python312Packages.habanero |
-| python3.12-habiticalib | 0.4.5 | Library for the Habitica API | legacyPackages.x86_64-linux.python312Packages.habiticalib |
+| python3.12-habiticalib | 0.4.6 | Library for the Habitica API | legacyPackages.x86_64-linux.python312Packages.habiticalib |
 | python3.12-habitipy | 0.3.3 | Tools and library for Habitica restful API | legacyPackages.x86_64-linux.python312Packages.habitipy |
 | python3.12-habluetooth | 5.7.0 | Library for high availability Bluetooth | legacyPackages.x86_64-linux.python312Packages.habluetooth |
 | python3.12-hachoir | 3.3.0 | Python library to view and edit a binary stream | legacyPackages.x86_64-linux.python312Packages.hachoir |
@@ -56293,7 +56293,7 @@
 | python3.12-home-assistant-chip-clusters | 2025.7.0 | Python-base APIs and tools for CHIP | legacyPackages.x86_64-linux.python312Packages.home-assistant-chip-clusters |
 | python3.12-home-assistant-chip-core | 2025.7.0 | Python-base APIs and tools for CHIP | legacyPackages.x86_64-linux.python312Packages.home-assistant-chip-core |
 | python3.12-home-connect-async | 0.8.2 | Async SDK for BSH Home Connect API | legacyPackages.x86_64-linux.python312Packages.home-connect-async |
-| python3.12-homeassistant-stubs | 2025.10.2 | Typing stubs for Home Assistant Core | legacyPackages.x86_64-linux.python312Packages.homeassistant-stubs |
+| python3.12-homeassistant-stubs | 2025.10.3 | Typing stubs for Home Assistant Core | legacyPackages.x86_64-linux.python312Packages.homeassistant-stubs |
 | python3.12-homeconnect | 0.8.0 | Python client for the BSH Home Connect REST API | legacyPackages.x86_64-linux.python312Packages.homeconnect |
 | python3.12-homematicip | 2.3.0 | Module for the homematicIP REST API | legacyPackages.x86_64-linux.python312Packages.homematicip |
 | python3.12-homepluscontrol | 0.1 | Python API to interact with the Legrand Eliot Home and Control | legacyPackages.x86_64-linux.python312Packages.homepluscontrol |
@@ -56394,13 +56394,13 @@
 | python3.12-i2csense | 0.0.4 | Library to handle i2c sensors with the Raspberry Pi | legacyPackages.x86_64-linux.python312Packages.i2csense |
 | python3.12-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python312Packages.i3-py |
 | python3.12-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python312Packages.i3ipc |
-| python3.12-iamdata | 0.1.202510181 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
+| python3.12-iamdata | 0.1.202510191 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
 | python3.12-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python312Packages.iammeter |
 | python3.12-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python312Packages.iapws |
 | python3.12-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python312Packages.iaqualink |
 | python3.12-ibeacon-ble | 1.2.0 | Library for iBeacon BLE devices | legacyPackages.x86_64-linux.python312Packages.ibeacon-ble |
 | python3.12-ibis | 3.3.0 | Lightweight template engine | legacyPackages.x86_64-linux.python312Packages.ibis |
-| python3.12-ibis-framework | 10.8.0 | Productivity-centric Python Big Data Framework | legacyPackages.x86_64-linux.python312Packages.ibis-framework |
+| python3.12-ibis-framework | 11.0.0 | Productivity-centric Python Big Data Framework | legacyPackages.x86_64-linux.python312Packages.ibis-framework |
 | python3.12-ibm-cloud-sdk-core | 3.24.2 | Client library for the IBM Cloud services | legacyPackages.x86_64-linux.python312Packages.ibm-cloud-sdk-core |
 | python3.12-ibm-watson | 11.0.0 | Client library to use the IBM Watson Services | legacyPackages.x86_64-linux.python312Packages.ibm-watson |
 | python3.12-ibmiotf | 0.4.0 | Python Client for IBM Watson IoT Platform | legacyPackages.x86_64-linux.python312Packages.ibmiotf |
@@ -56785,7 +56785,7 @@
 | python3.12-jupyter-themes | 0.20.0 | Theme-ify your Jupyter Notebooks! | legacyPackages.x86_64-linux.python312Packages.jupyter-themes |
 | python3.12-jupyter-ui-poll | 1.0.0 | Block jupyter cell execution while interacting with widgets | legacyPackages.x86_64-linux.python312Packages.jupyter-ui-poll |
 | python3.12-jupyter-ydoc | 3.1.0 | Document structures for collaborative editing using Ypy | legacyPackages.x86_64-linux.python312Packages.jupyter-ydoc |
-| python3.12-jupyterhub | 5.4.0 | Serves multiple Jupyter notebook instances | legacyPackages.x86_64-linux.python312Packages.jupyterhub |
+| python3.12-jupyterhub | 5.4.1 | Serves multiple Jupyter notebook instances | legacyPackages.x86_64-linux.python312Packages.jupyterhub |
 | python3.12-jupyterhub-ldapauthenticator | 2.0.2 | Simple LDAP Authenticator Plugin for JupyterHub | legacyPackages.x86_64-linux.python312Packages.jupyterhub-ldapauthenticator |
 | python3.12-jupyterhub-systemdspawner | 1.0.2 | JupyterHub Spawner using systemd for resource isolation | legacyPackages.x86_64-linux.python312Packages.jupyterhub-systemdspawner |
 | python3.12-jupyterhub-tmpauthenticator | 1.0.0 | Simple Jupyterhub authenticator that allows anyone to log in | legacyPackages.x86_64-linux.python312Packages.jupyterhub-tmpauthenticator |
@@ -57390,7 +57390,7 @@
 | python3.12-mdformat | 0.7.22 | CommonMark compliant Markdown formatter | legacyPackages.x86_64-linux.python312Packages.mdformat |
 | python3.12-mdformat-admon | 2.1.1 | Mdformat plugin for admonitions | legacyPackages.x86_64-linux.python312Packages.mdformat-admon |
 | python3.12-mdformat-beautysh | 0.1.1 | Mdformat plugin to beautify Bash scripts | legacyPackages.x86_64-linux.python312Packages.mdformat-beautysh |
-| python3.12-mdformat-footnote | 0.1.1 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python312Packages.mdformat-footnote |
+| python3.12-mdformat-footnote | 0.1.2 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python312Packages.mdformat-footnote |
 | python3.12-mdformat-frontmatter | 2.0.8 | Mdformat plugin to ensure frontmatter is respected | legacyPackages.x86_64-linux.python312Packages.mdformat-frontmatter |
 | python3.12-mdformat-gfm | 0.3.6 | Mdformat plugin for GitHub Flavored Markdown compatibility | legacyPackages.x86_64-linux.python312Packages.mdformat-gfm |
 | python3.12-mdformat-gfm-alerts | 2.0.0 | Format 'GitHub Markdown Alerts', which use blockquotes to render admonitions | legacyPackages.x86_64-linux.python312Packages.mdformat-gfm-alerts |
@@ -58496,7 +58496,7 @@
 | python3.12-openwebifpy | 4.3.1 | Provides a python interface to interact with a device running OpenWebIf | legacyPackages.x86_64-linux.python312Packages.openwebifpy |
 | python3.12-openwrt-luci-rpc | 1.1.17 | Python module for interacting with the OpenWrt Luci RPC interface | legacyPackages.x86_64-linux.python312Packages.openwrt-luci-rpc |
 | python3.12-openwrt-ubus-rpc | 0.0.3 | Python API for OpenWrt ubus RPC | legacyPackages.x86_64-linux.python312Packages.openwrt-ubus-rpc |
-| python3.12-opower | 0.15.6 | Module for getting historical and forecasted usage/cost from utilities that use opower.com | legacyPackages.x86_64-linux.python312Packages.opower |
+| python3.12-opower | 0.15.7 | Module for getting historical and forecasted usage/cost from utilities that use opower.com | legacyPackages.x86_64-linux.python312Packages.opower |
 | python3.12-opsdroid-get-image-size | 0.2.2 | Get image width and height given a file path using minimal dependencies | legacyPackages.x86_64-linux.python312Packages.opsdroid-get-image-size |
 | python3.12-opsdroid-get-image-size | 0.2.2 | Get image width and height given a file path using minimal dependencies | legacyPackages.x86_64-linux.python312Packages.opsdroid_get_image_size |
 | python3.12-opt-einsum | 3.4.0 | Optimizing NumPy's einsum function with order optimization and GPU support | legacyPackages.x86_64-linux.python312Packages.opt-einsum |
@@ -58959,7 +58959,7 @@
 | python3.12-prayer-times-calculator-offline | 1.0.3 | Prayer Times Calculator - Offline | legacyPackages.x86_64-linux.python312Packages.prayer-times-calculator-offline |
 | python3.12-pre-commit-hooks | 6.0.0 | Some out-of-the-box hooks for pre-commit | legacyPackages.x86_64-linux.python312Packages.pre-commit-hooks |
 | python3.12-pre-commit-po-hooks | 1.7.3 | Hooks for pre-commit useful working with PO files | legacyPackages.x86_64-linux.python312Packages.pre-commit-po-hooks |
-| python3.12-precis-i18n | 1.1.1 | Internationalized usernames and passwords | legacyPackages.x86_64-linux.python312Packages.precis-i18n |
+| python3.12-precis-i18n | 1.1.2 | Internationalized usernames and passwords | legacyPackages.x86_64-linux.python312Packages.precis-i18n |
 | python3.12-precisely | 0.1.9 | Matcher library for Python | legacyPackages.x86_64-linux.python312Packages.precisely |
 | python3.12-prefixed | 0.9.0 | Prefixed alternative numeric library | legacyPackages.x86_64-linux.python312Packages.prefixed |
 | python3.12-preggy | 1.4.4 | Assertion library for Python | legacyPackages.x86_64-linux.python312Packages.preggy |
@@ -59252,7 +59252,7 @@
 | python3.12-pyclimacell | 0.18.2 | Python client for ClimaCell API | legacyPackages.x86_64-linux.python312Packages.pyclimacell |
 | python3.12-pyclip | 0.7.0 | Cross-platform clipboard utilities supporting both binary and text data | legacyPackages.x86_64-linux.python312Packages.pyclip |
 | python3.12-pyclipper | 1.3.0.post6 | Cython wrapper for clipper library | legacyPackages.x86_64-linux.python312Packages.pyclipper |
-| python3.12-pycm | 4.4 | Multiclass confusion matrix library | legacyPackages.x86_64-linux.python312Packages.pycm |
+| python3.12-pycm | 4.5 | Multiclass confusion matrix library | legacyPackages.x86_64-linux.python312Packages.pycm |
 | python3.12-pycmarkgfm | 1.2.1 | Bindings to GitHub's Flavored Markdown (cmark-gfm), with enhanced support for task lists | legacyPackages.x86_64-linux.python312Packages.pycmarkgfm |
 | python3.12-pycmus | 0.1.1 | Python library for sending commands to the cmus music player | legacyPackages.x86_64-linux.python312Packages.pycmus |
 | python3.12-pycobertura | 4.1.0 | Cobertura coverage parser that can diff reports and show coverage progress | legacyPackages.x86_64-linux.python312Packages.pycobertura |
@@ -59386,7 +59386,7 @@
 | python3.12-pyexcel-xls | 0.7.1 | Wrapper library to read, manipulate and write data in xls using xlrd and xlwt | legacyPackages.x86_64-linux.python312Packages.pyexcel-xls |
 | python3.12-pyexiftool | 0.5.6 | Python wrapper for exiftool | legacyPackages.x86_64-linux.python312Packages.pyexiftool |
 | python3.12-pyexpect | 1.0.22 | Minimal but very flexible implementation of the expect pattern | legacyPackages.x86_64-linux.python312Packages.pyexpect |
-| python3.12-pyexploitdb | 0.2.102 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python312Packages.pyexploitdb |
+| python3.12-pyexploitdb | 0.2.103 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python312Packages.pyexploitdb |
 | python3.12-pyezvizapi | 1.0.3.6 | Python interface for for Ezviz cameras | legacyPackages.x86_64-linux.python312Packages.pyezvizapi |
 | python3.12-pyface | 8.0.0 | Traits-capable windowing framework | legacyPackages.x86_64-linux.python312Packages.pyface |
 | python3.12-pyfaidx | 0.8.1.4 | Python classes for indexing, retrieval, and in-place modification of FASTA files using a samtools compatible index | legacyPackages.x86_64-linux.python312Packages.pyfaidx |
@@ -59622,8 +59622,8 @@
 | python3.12-pymaven-patch | 0.3.2 | Python access to maven | legacyPackages.x86_64-linux.python312Packages.pymaven-patch |
 | python3.12-pymavlink | 2.4.49 | Python MAVLink interface and utilities | legacyPackages.x86_64-linux.python312Packages.pymavlink |
 | python3.12-pymbolic | 2025.1 | Package for symbolic computation | legacyPackages.x86_64-linux.python312Packages.pymbolic |
-| python3.12-pymc | 5.26.0 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python312Packages.pymc |
-| python3.12-pymc | 5.26.0 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python312Packages.pymc3 |
+| python3.12-pymc | 5.26.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python312Packages.pymc |
+| python3.12-pymc | 5.26.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python312Packages.pymc3 |
 | python3.12-pymdown-extensions | 10.16.1 | Extensions for Python Markdown | legacyPackages.x86_64-linux.python312Packages.pymdown-extensions |
 | python3.12-pymdstat | 0.4.3 | Pythonic library to parse Linux /proc/mdstat file | legacyPackages.x86_64-linux.python312Packages.pymdstat |
 | python3.12-pymediainfo | 7.0.1 | Python wrapper for the mediainfo library | legacyPackages.x86_64-linux.python312Packages.pymediainfo |
@@ -59802,7 +59802,7 @@
 | python3.12-pypresence | 4.3.0-unstable-2025-03-27 | Discord RPC client written in Python | legacyPackages.x86_64-linux.python312Packages.pypresence |
 | python3.12-pyprind | 2.11.3 | Python Progress Bar and Percent Indicator Utility | legacyPackages.x86_64-linux.python312Packages.pyprind |
 | python3.12-pyprobables | 0.6.1 | Probabilistic data structures | legacyPackages.x86_64-linux.python312Packages.pyprobables |
-| python3.12-pyprobeplus | 1.0.1 | Generic library to interact with a Probe Plus BLE device | legacyPackages.x86_64-linux.python312Packages.pyprobeplus |
+| python3.12-pyprobeplus | 1.1.1 | Generic library to interact with a Probe Plus BLE device | legacyPackages.x86_64-linux.python312Packages.pyprobeplus |
 | python3.12-pyprof2calltree | 1.4.5 | Help visualize profiling data from cProfile with kcachegrind and qcachegrind | legacyPackages.x86_64-linux.python312Packages.pyprof2calltree |
 | python3.12-pyproj | 3.7.2 | Python interface to PROJ library | legacyPackages.x86_64-linux.python312Packages.pyproj |
 | python3.12-pyproject-api | 1.9.1 | API to interact with the python pyproject.toml based projects | legacyPackages.x86_64-linux.python312Packages.pyproject-api |
@@ -60013,7 +60013,7 @@
 | python3.12-pyspx | 0.5.2 | Python bindings for SPHINCS | legacyPackages.x86_64-linux.python312Packages.pyspx |
 | python3.12-pysqlcipher3 | 1.2.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python312Packages.pysqlcipher3 |
 | python3.12-pysqlitecipher | 0.22 | Lightweight and easy to use sqlite wrapper with built-in encryption system | legacyPackages.x86_64-linux.python312Packages.pysqlitecipher |
-| python3.12-pysqueezebox | 0.12.1 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python312Packages.pysqueezebox |
+| python3.12-pysqueezebox | 0.13.0 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python312Packages.pysqueezebox |
 | python3.12-pysrim | 0.5.10 | Srim Automation of Tasks via Python | legacyPackages.x86_64-linux.python312Packages.pysrim |
 | python3.12-pysrt | 1.1.2 | Python library used to edit or create SubRip files | legacyPackages.x86_64-linux.python312Packages.pysrt |
 | python3.12-pyssim | 0.7.1 | Module for computing Structured Similarity Image Metric (SSIM) in Python | legacyPackages.x86_64-linux.python312Packages.pyssim |
@@ -60842,7 +60842,7 @@
 | python3.12-raven | 6.10.0 | Legacy Python client for Sentry (getsentry.com) — replaced by sentry-python | legacyPackages.x86_64-linux.python312Packages.raven |
 | python3.12-rawkit | 0.6.0 | CTypes based LibRaw bindings for Python | legacyPackages.x86_64-linux.python312Packages.rawkit |
 | python3.12-rawpy | 0.25.1 | RAW image processing for Python, a wrapper for libraw | legacyPackages.x86_64-linux.python312Packages.rawpy |
-| python3.12-ray | 2.50.0 | Unified framework for scaling AI and Python applications | legacyPackages.x86_64-linux.python312Packages.ray |
+| python3.12-ray | 2.50.1 | Unified framework for scaling AI and Python applications | legacyPackages.x86_64-linux.python312Packages.ray |
 | python3.12-raylib-python-cffi | 5.5.0.3 | Python CFFI bindings for Raylib | legacyPackages.x86_64-linux.python312Packages.raylib-python-cffi |
 | python3.12-razdel | 0.5.0 | Rule-based system for Russian sentence and word tokenization | legacyPackages.x86_64-linux.python312Packages.razdel |
 | python3.12-rbtools | 5.2.1 | RBTools is a set of command line tools for working with Review Board and RBCommons | legacyPackages.x86_64-linux.python312Packages.rbtools |
@@ -60888,7 +60888,7 @@
 | python3.12-refery | 2.1.0 | Functional testing tool | legacyPackages.x86_64-linux.python312Packages.refery |
 | python3.12-reflex | 0.8.14 | Web apps in pure Python | legacyPackages.x86_64-linux.python312Packages.reflex |
 | python3.12-reflex-chakra | 0.8.2 | Chakra Implementation in Reflex | legacyPackages.x86_64-linux.python312Packages.reflex-chakra |
-| python3.12-reflex-hosting-cli | 0.1.56 | Reflex Hosting CLI | legacyPackages.x86_64-linux.python312Packages.reflex-hosting-cli |
+| python3.12-reflex-hosting-cli | 0.1.57 | Reflex Hosting CLI | legacyPackages.x86_64-linux.python312Packages.reflex-hosting-cli |
 | python3.12-reflink | 0.2.2 | Python reflink wraps around platform specific reflink implementations | legacyPackages.x86_64-linux.python312Packages.reflink |
 | python3.12-refoss-ha | 1.2.5 | Refoss support for Home Assistant | legacyPackages.x86_64-linux.python312Packages.refoss-ha |
 | python3.12-regenmaschine | 2024.03.0 | Python library for interacting with RainMachine smart sprinkler controllers | legacyPackages.x86_64-linux.python312Packages.regenmaschine |
@@ -60961,7 +60961,7 @@
 | python3.12-reretry | 0.11.8 | Easy to use retry decorator | legacyPackages.x86_64-linux.python312Packages.reretry |
 | python3.12-rerun-sdk | 0.26.0 | Python bindings for `rerun` (an interactive visualization tool for stream data) | legacyPackages.x86_64-linux.python312Packages.rerun-sdk |
 | python3.12-resampy | 0.4.3 | Efficient signal resampling | legacyPackages.x86_64-linux.python312Packages.resampy |
-| python3.12-resend | 2.16.0 | SDK for Resend | legacyPackages.x86_64-linux.python312Packages.resend |
+| python3.12-resend | 2.17.0 | SDK for Resend | legacyPackages.x86_64-linux.python312Packages.resend |
 | python3.12-resize-right | 0.0.2 | Correct way to resize images or tensors. For Numpy or Pytorch (differentiable | legacyPackages.x86_64-linux.python312Packages.resize-right |
 | python3.12-resolvelib | 1.2.0 | Resolve abstract dependencies into concrete ones | legacyPackages.x86_64-linux.python312Packages.resolvelib |
 | python3.12-responses | 0.25.7 | Python module for mocking out the requests Python library | legacyPackages.x86_64-linux.python312Packages.responses |
@@ -61731,7 +61731,7 @@
 | python3.12-sseclient | 0.0.27 | Client library for reading Server Sent Event streams | legacyPackages.x86_64-linux.python312Packages.sseclient |
 | python3.12-sseclient-py | 1.8.0 | Pure-Python Server Side Events (SSE) client | legacyPackages.x86_64-linux.python312Packages.sseclient-py |
 | python3.12-ssg | 0.0.8 | TCRF syllable segmenter for Thai | legacyPackages.x86_64-linux.python312Packages.ssg |
-| python3.12-ssh-python | 1.1.1 | Python bindings for libssh C library | legacyPackages.x86_64-linux.python312Packages.ssh-python |
+| python3.12-ssh-python | 1.2.0.post1 | Python bindings for libssh C library | legacyPackages.x86_64-linux.python312Packages.ssh-python |
 | python3.12-ssh2-python | 1.1.2.post1 | Python bindings for libssh2 C library | legacyPackages.x86_64-linux.python312Packages.ssh2-python |
 | python3.12-sshfs | 2025.2.0 | SSH/SFTP implementation for fsspec | legacyPackages.x86_64-linux.python312Packages.sshfs |
 | python3.12-sshpubkeys | 3.3.1 | OpenSSH Public Key Parser for Python | legacyPackages.x86_64-linux.python312Packages.sshpubkeys |
@@ -61862,7 +61862,7 @@
 | python3.12-surt | 0.3.1 | Sort-friendly URI Reordering Transform (SURT) python module | legacyPackages.x86_64-linux.python312Packages.surt |
 | python3.12-survey | 5.4.2 | Simple library for creating beautiful interactive prompts | legacyPackages.x86_64-linux.python312Packages.survey |
 | python3.12-sv-ttk | 2.6.1 | Gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style | legacyPackages.x86_64-linux.python312Packages.sv-ttk |
-| python3.12-svg-py | 1.9.1 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python312Packages.svg-py |
+| python3.12-svg-py | 1.9.2 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python312Packages.svg-py |
 | python3.12-svg.path | 7.0 | SVG path objects and parser | legacyPackages.x86_64-linux.python312Packages.svg-path |
 | python3.12-svg2tikz | 3.3.3 | Set of tools for converting SVG graphics to TikZ/PGF code | legacyPackages.x86_64-linux.python312Packages.svg2tikz |
 | python3.12-svgdigitizer | 0.13.0 | Extract numerical data points from SVG files | legacyPackages.x86_64-linux.python312Packages.svgdigitizer |
@@ -62775,6 +62775,7 @@
 | python3.12-ufonormalizer | 0.6.2 | Script to normalize the XML and other data inside of a UFO | legacyPackages.x86_64-linux.python312Packages.ufonormalizer |
 | python3.12-ufoprocessor | 1.13.3 | Read, write and generate UFOs with designspace data | legacyPackages.x86_64-linux.python312Packages.ufoprocessor |
 | python3.12-uharfbuzz | 0.51.1 | Streamlined Cython bindings for the harfbuzz shaping engine | legacyPackages.x86_64-linux.python312Packages.uharfbuzz |
+| python3.12-uhashring | 2.4 | Full featured consistent hashing python library compatible with ketama | legacyPackages.x86_64-linux.python312Packages.uhashring |
 | python3.12-uhi | 0.5.0 | Universal Histogram Interface | legacyPackages.x86_64-linux.python312Packages.uhi |
 | python3.12-uiprotect | 7.22.0 | Python API for UniFi Protect (Unofficial) | legacyPackages.x86_64-linux.python312Packages.uiprotect |
 | python3.12-ujson | 5.10.0 | Ultra fast JSON encoder and decoder | legacyPackages.x86_64-linux.python312Packages.ujson |
@@ -63087,7 +63088,7 @@
 | python3.12-whey | 0.1.1 | Simple Python wheel builder for simple projects | legacyPackages.x86_64-linux.python312Packages.whey |
 | python3.12-whey-pth | 0.0.6 | Extension to whey to support .pth files | legacyPackages.x86_64-linux.python312Packages.whey-pth |
 | python3.12-whichcraft | 0.6.1 | Cross-platform cross-python shutil.which functionality | legacyPackages.x86_64-linux.python312Packages.whichcraft |
-| python3.12-whirlpool-sixth-sense | 0.21.3 | Python library for Whirlpool 6th Sense appliances | legacyPackages.x86_64-linux.python312Packages.whirlpool-sixth-sense |
+| python3.12-whirlpool-sixth-sense | 1.0.2 | Python library for Whirlpool 6th Sense appliances | legacyPackages.x86_64-linux.python312Packages.whirlpool-sixth-sense |
 | python3.12-whisper | 1.1.10 | Fixed size round-robin style database | legacyPackages.x86_64-linux.python312Packages.whisper |
 | python3.12-whisper | 20250625 | General-purpose speech recognition model | legacyPackages.x86_64-linux.python312Packages.openai-whisper |
 | python3.12-whispers | 2.4.0 | Tool to identify hardcoded secrets in static structured text | legacyPackages.x86_64-linux.python312Packages.whispers |
@@ -63153,7 +63154,7 @@
 | python3.12-wxpython | 4.2.3 | Cross platform GUI toolkit for Python, Phoenix version | legacyPackages.x86_64-linux.python312Packages.wxPython_4_2 |
 | python3.12-wxpython | 4.2.3 | Cross platform GUI toolkit for Python, Phoenix version | legacyPackages.x86_64-linux.python312Packages.wxpython |
 | python3.12-wyoming | 1.8.0 | Protocol for Rhasspy Voice Assistant | legacyPackages.x86_64-linux.python312Packages.wyoming |
-| python3.12-x-transformers | 2.8.4 | Concise but fully-featured transformer | legacyPackages.x86_64-linux.python312Packages.x-transformers |
+| python3.12-x-transformers | 2.9.2 | Concise but fully-featured transformer | legacyPackages.x86_64-linux.python312Packages.x-transformers |
 | python3.12-x-wr-timezone | 2.0.1 | Convert calendars using X-WR-TIMEZONE to standard ones | legacyPackages.x86_64-linux.python312Packages.x-wr-timezone |
 | python3.12-x11-hash | 1.4 | Binding for X11 proof of work hashing | legacyPackages.x86_64-linux.python312Packages.x11-hash |
 | python3.12-x11-hash | 1.4 | Binding for X11 proof of work hashing | legacyPackages.x86_64-linux.python312Packages.x11_hash |
@@ -63487,7 +63488,7 @@
 | python3.13-aioapns | 4.0 | Efficient APNs Client Library | legacyPackages.x86_64-linux.python313Packages.aioapns |
 | python3.13-aioaquacell | 0.2.0 | Asynchronous library to retrieve details of your Aquacell water softener device | legacyPackages.x86_64-linux.python313Packages.aioaquacell |
 | python3.13-aioaseko | 1.0.0 | Module to interact with the Aseko Pool Live API | legacyPackages.x86_64-linux.python313Packages.aioaseko |
-| python3.13-aioasuswrt | 1.4.0 | Python module for Asuswrt | legacyPackages.x86_64-linux.python313Packages.aioasuswrt |
+| python3.13-aioasuswrt | 1.5.1 | Python module for Asuswrt | legacyPackages.x86_64-linux.python313Packages.aioasuswrt |
 | python3.13-aioaudiobookshelf | 0.1.7 | Async python library to interact with Audiobookshelf | legacyPackages.x86_64-linux.python313Packages.aioaudiobookshelf |
 | python3.13-aioautomower | 2.2.2 | Module to communicate with the Automower Connect API | legacyPackages.x86_64-linux.python313Packages.aioautomower |
 | python3.13-aioazuredevops | 2.2.2 | Get data from the Azure DevOps API | legacyPackages.x86_64-linux.python313Packages.aioazuredevops |
@@ -63502,7 +63503,7 @@
 | python3.13-aiocache | 0.12.3 | Asyncio cache supporting multiple backends (memory, redis, memcached, etc.) | legacyPackages.x86_64-linux.python313Packages.aiocache |
 | python3.13-aiocmd |  | Asyncio-based automatic CLI creation tool using prompt-toolkit | legacyPackages.x86_64-linux.python313Packages.aiocmd |
 | python3.13-aiocoap | 0.4.15 | Python CoAP library | legacyPackages.x86_64-linux.python313Packages.aiocoap |
-| python3.13-aiocomelit | 1.1.1 | Library to control Comelit Simplehome | legacyPackages.x86_64-linux.python313Packages.aiocomelit |
+| python3.13-aiocomelit | 1.1.2 | Library to control Comelit Simplehome | legacyPackages.x86_64-linux.python313Packages.aiocomelit |
 | python3.13-aioconsole | 0.8.1 | Asynchronous console and interfaces for asyncio | legacyPackages.x86_64-linux.python313Packages.aioconsole |
 | python3.13-aiocontextvars | 0.2.2 | Asyncio support for PEP-567 contextvars backport | legacyPackages.x86_64-linux.python313Packages.aiocontextvars |
 | python3.13-aiocron | 2.1 | Crontabs for asyncio | legacyPackages.x86_64-linux.python313Packages.aiocron |
@@ -63637,9 +63638,9 @@
 | python3.13-aiosqlite | 0.21.0 | Asyncio bridge to the standard sqlite3 module | legacyPackages.x86_64-linux.python313Packages.aiosqlite |
 | python3.13-aiosseclient | 0.1.8 | Asynchronous Server Side Events (SSE) client | legacyPackages.x86_64-linux.python313Packages.aiosseclient |
 | python3.13-aiosteamist | 1.0.1 | Module to control Steamist steam systems | legacyPackages.x86_64-linux.python313Packages.aiosteamist |
-| python3.13-aiostream | 0.7.0 | Generator-based operators for asynchronous iteration | legacyPackages.x86_64-linux.python313Packages.aiostream |
+| python3.13-aiostream | 0.7.1 | Generator-based operators for asynchronous iteration | legacyPackages.x86_64-linux.python313Packages.aiostream |
 | python3.13-aiostreammagic | 2.11.0 | Module for interfacing with Cambridge Audio/Stream Magic compatible streamers | legacyPackages.x86_64-linux.python313Packages.aiostreammagic |
-| python3.13-aioswitcher | 6.0.2 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python313Packages.aioswitcher |
+| python3.13-aioswitcher | 6.0.3 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python313Packages.aioswitcher |
 | python3.13-aiosyncthing | 0.6.3 | Python client for the Syncthing REST API | legacyPackages.x86_64-linux.python313Packages.aiosyncthing |
 | python3.13-aiotankerkoenig | 0.5.0 | Python module for interacting with tankerkoenig.de | legacyPackages.x86_64-linux.python313Packages.aiotankerkoenig |
 | python3.13-aiotarfile | 0.5.1 | Stream-based, asynchronous tarball processing | legacyPackages.x86_64-linux.python313Packages.aiotarfile |
@@ -63930,8 +63931,8 @@
 | python3.13-asyncio-throttle | 1.0.2 | Simple, easy-to-use throttler for asyncio | legacyPackages.x86_64-linux.python313Packages.asyncio-throttle |
 | python3.13-asyncmy | 0.2.10 | Python module to interact with MySQL/mariaDB | legacyPackages.x86_64-linux.python313Packages.asyncmy |
 | python3.13-asyncpg | 0.30.0 | Asyncio PosgtreSQL driver | legacyPackages.x86_64-linux.python313Packages.asyncpg |
-| python3.13-asyncpraw | 7.8.1 | Asynchronous Python Reddit API Wrapper | legacyPackages.x86_64-linux.python313Packages.asyncpraw |
-| python3.13-asyncprawcore | 2.4.0 | Low-level asynchronous communication layer for Async PRAW | legacyPackages.x86_64-linux.python313Packages.asyncprawcore |
+| python3.13-asyncpraw | 7.8.1-unstable-2025-10-08 | Asynchronous Python Reddit API Wrapper | legacyPackages.x86_64-linux.python313Packages.asyncpraw |
+| python3.13-asyncprawcore | 3.0.2 | Low-level asynchronous communication layer for Async PRAW | legacyPackages.x86_64-linux.python313Packages.asyncprawcore |
 | python3.13-asyncpysupla | 0.0.5 | Simple Supla's OpenAPI async wrapper | legacyPackages.x86_64-linux.python313Packages.asyncpysupla |
 | python3.13-asyncserial | 1.0 | asyncio support for pyserial | legacyPackages.x86_64-linux.python313Packages.asyncserial |
 | python3.13-asyncsleepiq | 1.6.0 | Async interface to SleepIQ API | legacyPackages.x86_64-linux.python313Packages.asyncsleepiq |
@@ -64313,7 +64314,7 @@
 | python3.13-bincopy | 20.1.0 | Mangling of various file formats that conveys binary information (Motorola S-Record, Intel HEX, TI-TXT, ELF and binary files) | legacyPackages.x86_64-linux.python313Packages.bincopy |
 | python3.13-bindep | 2.13.0 | Bindep is a tool for checking the presence of binary packages needed to use an application / library | legacyPackages.x86_64-linux.python313Packages.bindep |
 | python3.13-binho-host-adapter | 0.1.6 | Python library for Binho Multi-Protocol USB Host Adapters | legacyPackages.x86_64-linux.python313Packages.binho-host-adapter |
-| python3.13-binsync | 5.7.10 | Reversing plugin for cross-decompiler collaboration, built on git | legacyPackages.x86_64-linux.python313Packages.binsync |
+| python3.13-binsync | 5.7.11 | Reversing plugin for cross-decompiler collaboration, built on git | legacyPackages.x86_64-linux.python313Packages.binsync |
 | python3.13-biocframe | 0.6.3 | Bioconductor-like data frames | legacyPackages.x86_64-linux.python313Packages.biocframe |
 | python3.13-biocutils | 0.2.3 | Miscellaneous utilities for BiocPy, mostly to mimic base functionality in R | legacyPackages.x86_64-linux.python313Packages.biocutils |
 | python3.13-biom-format | 2.1.17 | Biological Observation Matrix (BIOM) format | legacyPackages.x86_64-linux.python313Packages.biom-format |
@@ -64561,7 +64562,7 @@
 | python3.13-cashaddress | 1.0.6-unstable-2019-05-15 | Python tool for convert bitcoin cash legacy addresses | legacyPackages.x86_64-linux.python313Packages.cashaddress |
 | python3.13-cashews | 7.4.3 | Cache tools with async power | legacyPackages.x86_64-linux.python313Packages.cashews |
 | python3.13-cassandra-driver | 3.29.2 | Python client driver for Apache Cassandra | legacyPackages.x86_64-linux.python313Packages.cassandra-driver |
-| python3.13-castepxbin | 0.3.0 | Collection of readers for CASTEP binary outputs | legacyPackages.x86_64-linux.python313Packages.castepxbin |
+| python3.13-castepxbin | 0.3.1 | Collection of readers for CASTEP binary outputs | legacyPackages.x86_64-linux.python313Packages.castepxbin |
 | python3.13-casttube | 0.2.1 | Interact with the Youtube Chromecast api | legacyPackages.x86_64-linux.python313Packages.casttube |
 | python3.13-catalogue | 2.0.10 | Tiny library for adding function or object registries | legacyPackages.x86_64-linux.python313Packages.catalogue |
 | python3.13-catboost | 1.2.7 | High-performance library for gradient boosting on decision trees | legacyPackages.x86_64-linux.python313Packages.catboost |
@@ -65637,7 +65638,7 @@
 | python3.13-dtoc | 0.0.7 |  | legacyPackages.x86_64-linux.ubootPythonTools.dtoc |
 | python3.13-dtschema | 2025.08 | Tooling for devicetree validation using YAML and jsonschema | legacyPackages.x86_64-linux.python313Packages.dtschema |
 | python3.13-dtw-python | 1.7.2 | Python port of R's Comprehensive Dynamic Time Warp algorithms package | legacyPackages.x86_64-linux.python313Packages.dtw-python |
-| python3.13-ducc0 | 0.39.0 | Efficient algorithms for Fast Fourier transforms and more | legacyPackages.x86_64-linux.python313Packages.ducc0 |
+| python3.13-ducc0 | 0.39.1 | Efficient algorithms for Fast Fourier transforms and more | legacyPackages.x86_64-linux.python313Packages.ducc0 |
 | python3.13-duckdb | 1.3.2 | Python binding for DuckDB | legacyPackages.x86_64-linux.python313Packages.duckdb |
 | python3.13-duckdb-engine | 0.17.0 | SQLAlchemy driver for duckdb | legacyPackages.x86_64-linux.python313Packages.duckdb-engine |
 | python3.13-duckduckgo-search | 9.5.5 | Python CLI and library for searching for words, documents, images, videos, news, maps and text translation using the DuckDuckGo.com search engine | legacyPackages.x86_64-linux.python313Packages.duckduckgo-search |
@@ -66626,7 +66627,7 @@
 | python3.13-ha-philipsjs | 3.3.4 | Library to interact with Philips TVs with jointSPACE API | legacyPackages.x86_64-linux.python313Packages.ha-philipsjs |
 | python3.13-ha-silabs-firmware-client | 0.2.0 | Home Assistant client for firmwares released with silabs-firmware-builder | legacyPackages.x86_64-linux.python313Packages.ha-silabs-firmware-client |
 | python3.13-habanero | 2.3.0 | Python interface to Library Genesis | legacyPackages.x86_64-linux.python313Packages.habanero |
-| python3.13-habiticalib | 0.4.5 | Library for the Habitica API | legacyPackages.x86_64-linux.python313Packages.habiticalib |
+| python3.13-habiticalib | 0.4.6 | Library for the Habitica API | legacyPackages.x86_64-linux.python313Packages.habiticalib |
 | python3.13-habitipy | 0.3.3 | Tools and library for Habitica restful API | legacyPackages.x86_64-linux.python313Packages.habitipy |
 | python3.13-habluetooth | 5.7.0 | Library for high availability Bluetooth | legacyPackages.x86_64-linux.python313Packages.habluetooth |
 | python3.13-hachoir | 3.3.0 | Python library to view and edit a binary stream | legacyPackages.x86_64-linux.python313Packages.hachoir |
@@ -66740,7 +66741,7 @@
 | python3.13-home-assistant-chip-clusters | 2025.7.0 | Python-base APIs and tools for CHIP | legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-clusters |
 | python3.13-home-assistant-chip-core | 2025.7.0 | Python-base APIs and tools for CHIP | legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-core |
 | python3.13-home-connect-async | 0.8.2 | Async SDK for BSH Home Connect API | legacyPackages.x86_64-linux.python313Packages.home-connect-async |
-| python3.13-homeassistant-stubs | 2025.10.2 | Typing stubs for Home Assistant Core | legacyPackages.x86_64-linux.python313Packages.homeassistant-stubs |
+| python3.13-homeassistant-stubs | 2025.10.3 | Typing stubs for Home Assistant Core | legacyPackages.x86_64-linux.python313Packages.homeassistant-stubs |
 | python3.13-homeconnect | 0.8.0 | Python client for the BSH Home Connect REST API | legacyPackages.x86_64-linux.python313Packages.homeconnect |
 | python3.13-homematicip | 2.3.0 | Module for the homematicIP REST API | legacyPackages.x86_64-linux.python313Packages.homematicip |
 | python3.13-homepluscontrol | 0.1 | Python API to interact with the Legrand Eliot Home and Control | legacyPackages.x86_64-linux.python313Packages.homepluscontrol |
@@ -66849,13 +66850,13 @@
 | python3.13-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python313Packages.i3-py |
 | python3.13-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python313Packages.i3ipc |
 | python3.13-iMicknl-nest_protect | 0.4.2b0 | Nest Protect integration for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.nest_protect |
-| python3.13-iamdata | 0.1.202510181 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
+| python3.13-iamdata | 0.1.202510191 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
 | python3.13-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python313Packages.iammeter |
 | python3.13-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python313Packages.iapws |
 | python3.13-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python313Packages.iaqualink |
 | python3.13-ibeacon-ble | 1.2.0 | Library for iBeacon BLE devices | legacyPackages.x86_64-linux.python313Packages.ibeacon-ble |
 | python3.13-ibis | 3.3.0 | Lightweight template engine | legacyPackages.x86_64-linux.python313Packages.ibis |
-| python3.13-ibis-framework | 10.8.0 | Productivity-centric Python Big Data Framework | legacyPackages.x86_64-linux.python313Packages.ibis-framework |
+| python3.13-ibis-framework | 11.0.0 | Productivity-centric Python Big Data Framework | legacyPackages.x86_64-linux.python313Packages.ibis-framework |
 | python3.13-ibm-cloud-sdk-core | 3.24.2 | Client library for the IBM Cloud services | legacyPackages.x86_64-linux.python313Packages.ibm-cloud-sdk-core |
 | python3.13-ibm-watson | 11.0.0 | Client library to use the IBM Watson Services | legacyPackages.x86_64-linux.python313Packages.ibm-watson |
 | python3.13-ibmiotf | 0.4.0 | Python Client for IBM Watson IoT Platform | legacyPackages.x86_64-linux.python313Packages.ibmiotf |
@@ -67252,7 +67253,7 @@
 | python3.13-jupyter-themes | 0.20.0 | Theme-ify your Jupyter Notebooks! | legacyPackages.x86_64-linux.python313Packages.jupyter-themes |
 | python3.13-jupyter-ui-poll | 1.0.0 | Block jupyter cell execution while interacting with widgets | legacyPackages.x86_64-linux.python313Packages.jupyter-ui-poll |
 | python3.13-jupyter-ydoc | 3.1.0 | Document structures for collaborative editing using Ypy | legacyPackages.x86_64-linux.python313Packages.jupyter-ydoc |
-| python3.13-jupyterhub | 5.4.0 | Serves multiple Jupyter notebook instances | legacyPackages.x86_64-linux.python313Packages.jupyterhub |
+| python3.13-jupyterhub | 5.4.1 | Serves multiple Jupyter notebook instances | legacyPackages.x86_64-linux.python313Packages.jupyterhub |
 | python3.13-jupyterhub-ldapauthenticator | 2.0.2 | Simple LDAP Authenticator Plugin for JupyterHub | legacyPackages.x86_64-linux.python313Packages.jupyterhub-ldapauthenticator |
 | python3.13-jupyterhub-systemdspawner | 1.0.2 | JupyterHub Spawner using systemd for resource isolation | legacyPackages.x86_64-linux.python313Packages.jupyterhub-systemdspawner |
 | python3.13-jupyterhub-tmpauthenticator | 1.0.0 | Simple Jupyterhub authenticator that allows anyone to log in | legacyPackages.x86_64-linux.python313Packages.jupyterhub-tmpauthenticator |
@@ -67895,7 +67896,7 @@
 | python3.13-mdformat | 0.7.22 | CommonMark compliant Markdown formatter | legacyPackages.x86_64-linux.python313Packages.mdformat |
 | python3.13-mdformat-admon | 2.1.1 | Mdformat plugin for admonitions | legacyPackages.x86_64-linux.python313Packages.mdformat-admon |
 | python3.13-mdformat-beautysh | 0.1.1 | Mdformat plugin to beautify Bash scripts | legacyPackages.x86_64-linux.python313Packages.mdformat-beautysh |
-| python3.13-mdformat-footnote | 0.1.1 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python313Packages.mdformat-footnote |
+| python3.13-mdformat-footnote | 0.1.2 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python313Packages.mdformat-footnote |
 | python3.13-mdformat-frontmatter | 2.0.8 | Mdformat plugin to ensure frontmatter is respected | legacyPackages.x86_64-linux.python313Packages.mdformat-frontmatter |
 | python3.13-mdformat-gfm | 0.3.6 | Mdformat plugin for GitHub Flavored Markdown compatibility | legacyPackages.x86_64-linux.python313Packages.mdformat-gfm |
 | python3.13-mdformat-gfm-alerts | 2.0.0 | Format 'GitHub Markdown Alerts', which use blockquotes to render admonitions | legacyPackages.x86_64-linux.python313Packages.mdformat-gfm-alerts |
@@ -69054,7 +69055,7 @@
 | python3.13-openwebifpy | 4.3.1 | Provides a python interface to interact with a device running OpenWebIf | legacyPackages.x86_64-linux.python313Packages.openwebifpy |
 | python3.13-openwrt-luci-rpc | 1.1.17 | Python module for interacting with the OpenWrt Luci RPC interface | legacyPackages.x86_64-linux.python313Packages.openwrt-luci-rpc |
 | python3.13-openwrt-ubus-rpc | 0.0.3 | Python API for OpenWrt ubus RPC | legacyPackages.x86_64-linux.python313Packages.openwrt-ubus-rpc |
-| python3.13-opower | 0.15.6 | Module for getting historical and forecasted usage/cost from utilities that use opower.com | legacyPackages.x86_64-linux.python313Packages.opower |
+| python3.13-opower | 0.15.7 | Module for getting historical and forecasted usage/cost from utilities that use opower.com | legacyPackages.x86_64-linux.python313Packages.opower |
 | python3.13-opsdroid | 0.30.0 | Open source chat-ops bot framework | legacyPackages.x86_64-linux.opsdroid |
 | python3.13-opsdroid-get-image-size | 0.2.2 | Get image width and height given a file path using minimal dependencies | legacyPackages.x86_64-linux.python313Packages.opsdroid-get-image-size |
 | python3.13-opsdroid-get-image-size | 0.2.2 | Get image width and height given a file path using minimal dependencies | legacyPackages.x86_64-linux.python313Packages.opsdroid_get_image_size |
@@ -69537,7 +69538,7 @@
 | python3.13-prayer-times-calculator-offline | 1.0.3 | Prayer Times Calculator - Offline | legacyPackages.x86_64-linux.python313Packages.prayer-times-calculator-offline |
 | python3.13-pre-commit-hooks | 6.0.0 | Some out-of-the-box hooks for pre-commit | legacyPackages.x86_64-linux.python313Packages.pre-commit-hooks |
 | python3.13-pre-commit-po-hooks | 1.7.3 | Hooks for pre-commit useful working with PO files | legacyPackages.x86_64-linux.python313Packages.pre-commit-po-hooks |
-| python3.13-precis-i18n | 1.1.1 | Internationalized usernames and passwords | legacyPackages.x86_64-linux.python313Packages.precis-i18n |
+| python3.13-precis-i18n | 1.1.2 | Internationalized usernames and passwords | legacyPackages.x86_64-linux.python313Packages.precis-i18n |
 | python3.13-precisely | 0.1.9 | Matcher library for Python | legacyPackages.x86_64-linux.python313Packages.precisely |
 | python3.13-prefixed | 0.9.0 | Prefixed alternative numeric library | legacyPackages.x86_64-linux.python313Packages.prefixed |
 | python3.13-preggy | 1.4.4 | Assertion library for Python | legacyPackages.x86_64-linux.python313Packages.preggy |
@@ -69844,7 +69845,7 @@
 | python3.13-pyclimacell | 0.18.2 | Python client for ClimaCell API | legacyPackages.x86_64-linux.python313Packages.pyclimacell |
 | python3.13-pyclip | 0.7.0 | Cross-platform clipboard utilities supporting both binary and text data | legacyPackages.x86_64-linux.python313Packages.pyclip |
 | python3.13-pyclipper | 1.3.0.post6 | Cython wrapper for clipper library | legacyPackages.x86_64-linux.python313Packages.pyclipper |
-| python3.13-pycm | 4.4 | Multiclass confusion matrix library | legacyPackages.x86_64-linux.python313Packages.pycm |
+| python3.13-pycm | 4.5 | Multiclass confusion matrix library | legacyPackages.x86_64-linux.python313Packages.pycm |
 | python3.13-pycmarkgfm | 1.2.1 | Bindings to GitHub's Flavored Markdown (cmark-gfm), with enhanced support for task lists | legacyPackages.x86_64-linux.python313Packages.pycmarkgfm |
 | python3.13-pycmus | 0.1.1 | Python library for sending commands to the cmus music player | legacyPackages.x86_64-linux.python313Packages.pycmus |
 | python3.13-pycobertura | 4.1.0 | Cobertura coverage parser that can diff reports and show coverage progress | legacyPackages.x86_64-linux.python313Packages.pycobertura |
@@ -69979,7 +69980,7 @@
 | python3.13-pyexcel-xls | 0.7.1 | Wrapper library to read, manipulate and write data in xls using xlrd and xlwt | legacyPackages.x86_64-linux.python313Packages.pyexcel-xls |
 | python3.13-pyexiftool | 0.5.6 | Python wrapper for exiftool | legacyPackages.x86_64-linux.python313Packages.pyexiftool |
 | python3.13-pyexpect | 1.0.22 | Minimal but very flexible implementation of the expect pattern | legacyPackages.x86_64-linux.python313Packages.pyexpect |
-| python3.13-pyexploitdb | 0.2.102 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python313Packages.pyexploitdb |
+| python3.13-pyexploitdb | 0.2.103 | Library to fetch the most recent exploit-database | legacyPackages.x86_64-linux.python313Packages.pyexploitdb |
 | python3.13-pyezvizapi | 1.0.3.6 | Python interface for for Ezviz cameras | legacyPackages.x86_64-linux.python313Packages.pyezvizapi |
 | python3.13-pyface | 8.0.0 | Traits-capable windowing framework | legacyPackages.x86_64-linux.python313Packages.pyface |
 | python3.13-pyfaidx | 0.8.1.4 | Python classes for indexing, retrieval, and in-place modification of FASTA files using a samtools compatible index | legacyPackages.x86_64-linux.python313Packages.pyfaidx |
@@ -70215,8 +70216,8 @@
 | python3.13-pymaven-patch | 0.3.2 | Python access to maven | legacyPackages.x86_64-linux.python313Packages.pymaven-patch |
 | python3.13-pymavlink | 2.4.49 | Python MAVLink interface and utilities | legacyPackages.x86_64-linux.python313Packages.pymavlink |
 | python3.13-pymbolic | 2025.1 | Package for symbolic computation | legacyPackages.x86_64-linux.python313Packages.pymbolic |
-| python3.13-pymc | 5.26.0 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python313Packages.pymc |
-| python3.13-pymc | 5.26.0 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python313Packages.pymc3 |
+| python3.13-pymc | 5.26.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python313Packages.pymc |
+| python3.13-pymc | 5.26.1 | Bayesian estimation, particularly using Markov chain Monte Carlo (MCMC) | legacyPackages.x86_64-linux.python313Packages.pymc3 |
 | python3.13-pymdown-extensions | 10.16.1 | Extensions for Python Markdown | legacyPackages.x86_64-linux.python313Packages.pymdown-extensions |
 | python3.13-pymdstat | 0.4.3 | Pythonic library to parse Linux /proc/mdstat file | legacyPackages.x86_64-linux.python313Packages.pymdstat |
 | python3.13-pymediainfo | 7.0.1 | Python wrapper for the mediainfo library | legacyPackages.x86_64-linux.python313Packages.pymediainfo |
@@ -70397,7 +70398,7 @@
 | python3.13-pypresence | 4.3.0-unstable-2025-03-27 | Discord RPC client written in Python | legacyPackages.x86_64-linux.python313Packages.pypresence |
 | python3.13-pyprind | 2.11.3 | Python Progress Bar and Percent Indicator Utility | legacyPackages.x86_64-linux.python313Packages.pyprind |
 | python3.13-pyprobables | 0.6.1 | Probabilistic data structures | legacyPackages.x86_64-linux.python313Packages.pyprobables |
-| python3.13-pyprobeplus | 1.0.1 | Generic library to interact with a Probe Plus BLE device | legacyPackages.x86_64-linux.python313Packages.pyprobeplus |
+| python3.13-pyprobeplus | 1.1.1 | Generic library to interact with a Probe Plus BLE device | legacyPackages.x86_64-linux.python313Packages.pyprobeplus |
 | python3.13-pyprof2calltree | 1.4.5 | Help visualize profiling data from cProfile with kcachegrind and qcachegrind | legacyPackages.x86_64-linux.python313Packages.pyprof2calltree |
 | python3.13-pyproj | 3.7.2 | Python interface to PROJ library | legacyPackages.x86_64-linux.python313Packages.pyproj |
 | python3.13-pyproject-api | 1.9.1 | API to interact with the python pyproject.toml based projects | legacyPackages.x86_64-linux.python313Packages.pyproject-api |
@@ -70608,7 +70609,7 @@
 | python3.13-pyspx | 0.5.2 | Python bindings for SPHINCS | legacyPackages.x86_64-linux.python313Packages.pyspx |
 | python3.13-pysqlcipher3 | 1.2.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python313Packages.pysqlcipher3 |
 | python3.13-pysqlitecipher | 0.22 | Lightweight and easy to use sqlite wrapper with built-in encryption system | legacyPackages.x86_64-linux.python313Packages.pysqlitecipher |
-| python3.13-pysqueezebox | 0.12.1 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python313Packages.pysqueezebox |
+| python3.13-pysqueezebox | 0.13.0 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python313Packages.pysqueezebox |
 | python3.13-pysrim | 0.5.10 | Srim Automation of Tasks via Python | legacyPackages.x86_64-linux.python313Packages.pysrim |
 | python3.13-pysrt | 1.1.2 | Python library used to edit or create SubRip files | legacyPackages.x86_64-linux.python313Packages.pysrt |
 | python3.13-pyssim | 0.7.1 | Module for computing Structured Similarity Image Metric (SSIM) in Python | legacyPackages.x86_64-linux.python313Packages.pyssim |
@@ -71445,7 +71446,7 @@
 | python3.13-raven | 6.10.0 | Legacy Python client for Sentry (getsentry.com) — replaced by sentry-python | legacyPackages.x86_64-linux.python313Packages.raven |
 | python3.13-rawkit | 0.6.0 | CTypes based LibRaw bindings for Python | legacyPackages.x86_64-linux.python313Packages.rawkit |
 | python3.13-rawpy | 0.25.1 | RAW image processing for Python, a wrapper for libraw | legacyPackages.x86_64-linux.python313Packages.rawpy |
-| python3.13-ray | 2.50.0 | Unified framework for scaling AI and Python applications | legacyPackages.x86_64-linux.python313Packages.ray |
+| python3.13-ray | 2.50.1 | Unified framework for scaling AI and Python applications | legacyPackages.x86_64-linux.python313Packages.ray |
 | python3.13-raylib-python-cffi | 5.5.0.3 | Python CFFI bindings for Raylib | legacyPackages.x86_64-linux.python313Packages.raylib-python-cffi |
 | python3.13-razdel | 0.5.0 | Rule-based system for Russian sentence and word tokenization | legacyPackages.x86_64-linux.python313Packages.razdel |
 | python3.13-rbtools | 5.2.1 | RBTools is a set of command line tools for working with Review Board and RBCommons | legacyPackages.x86_64-linux.python313Packages.rbtools |
@@ -71493,7 +71494,7 @@
 | python3.13-refery | 2.1.0 | Functional testing tool | legacyPackages.x86_64-linux.python313Packages.refery |
 | python3.13-reflex | 0.8.14 | Web apps in pure Python | legacyPackages.x86_64-linux.python313Packages.reflex |
 | python3.13-reflex-chakra | 0.8.2 | Chakra Implementation in Reflex | legacyPackages.x86_64-linux.python313Packages.reflex-chakra |
-| python3.13-reflex-hosting-cli | 0.1.56 | Reflex Hosting CLI | legacyPackages.x86_64-linux.python313Packages.reflex-hosting-cli |
+| python3.13-reflex-hosting-cli | 0.1.57 | Reflex Hosting CLI | legacyPackages.x86_64-linux.python313Packages.reflex-hosting-cli |
 | python3.13-reflink | 0.2.2 | Python reflink wraps around platform specific reflink implementations | legacyPackages.x86_64-linux.python313Packages.reflink |
 | python3.13-refoss-ha | 1.2.5 | Refoss support for Home Assistant | legacyPackages.x86_64-linux.python313Packages.refoss-ha |
 | python3.13-regenmaschine | 2024.03.0 | Python library for interacting with RainMachine smart sprinkler controllers | legacyPackages.x86_64-linux.python313Packages.regenmaschine |
@@ -71566,7 +71567,7 @@
 | python3.13-reretry | 0.11.8 | Easy to use retry decorator | legacyPackages.x86_64-linux.python313Packages.reretry |
 | python3.13-rerun-sdk | 0.26.0 | Python bindings for `rerun` (an interactive visualization tool for stream data) | legacyPackages.x86_64-linux.python313Packages.rerun-sdk |
 | python3.13-resampy | 0.4.3 | Efficient signal resampling | legacyPackages.x86_64-linux.python313Packages.resampy |
-| python3.13-resend | 2.16.0 | SDK for Resend | legacyPackages.x86_64-linux.python313Packages.resend |
+| python3.13-resend | 2.17.0 | SDK for Resend | legacyPackages.x86_64-linux.python313Packages.resend |
 | python3.13-reservation | 0.3.1 | Microsoft Azure Command-Line Tools Reservation Extension | legacyPackages.x86_64-linux.azure-cli-extensions.reservation |
 | python3.13-resize-right | 0.0.2 | Correct way to resize images or tensors. For Numpy or Pytorch (differentiable | legacyPackages.x86_64-linux.python313Packages.resize-right |
 | python3.13-resolvelib | 1.2.0 | Resolve abstract dependencies into concrete ones | legacyPackages.x86_64-linux.python313Packages.resolvelib |
@@ -72365,7 +72366,7 @@
 | python3.13-sseclient-py | 1.8.0 | Pure-Python Server Side Events (SSE) client | legacyPackages.x86_64-linux.python313Packages.sseclient-py |
 | python3.13-ssg | 0.0.8 | TCRF syllable segmenter for Thai | legacyPackages.x86_64-linux.python313Packages.ssg |
 | python3.13-ssh | 2.0.6 | SSH into Azure VMs using RBAC and AAD OpenSSH Certificates | legacyPackages.x86_64-linux.azure-cli-extensions.ssh |
-| python3.13-ssh-python | 1.1.1 | Python bindings for libssh C library | legacyPackages.x86_64-linux.python313Packages.ssh-python |
+| python3.13-ssh-python | 1.2.0.post1 | Python bindings for libssh C library | legacyPackages.x86_64-linux.python313Packages.ssh-python |
 | python3.13-ssh2-python | 1.1.2.post1 | Python bindings for libssh2 C library | legacyPackages.x86_64-linux.python313Packages.ssh2-python |
 | python3.13-sshfs | 2025.2.0 | SSH/SFTP implementation for fsspec | legacyPackages.x86_64-linux.python313Packages.sshfs |
 | python3.13-sshpubkeys | 3.3.1 | OpenSSH Public Key Parser for Python | legacyPackages.x86_64-linux.python313Packages.sshpubkeys |
@@ -72520,7 +72521,7 @@
 | python3.13-surt | 0.3.1 | Sort-friendly URI Reordering Transform (SURT) python module | legacyPackages.x86_64-linux.python313Packages.surt |
 | python3.13-survey | 5.4.2 | Simple library for creating beautiful interactive prompts | legacyPackages.x86_64-linux.python313Packages.survey |
 | python3.13-sv-ttk | 2.6.1 | Gorgeous theme for Tkinter/ttk, based on the Sun Valley visual style | legacyPackages.x86_64-linux.python313Packages.sv-ttk |
-| python3.13-svg-py | 1.9.1 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python313Packages.svg-py |
+| python3.13-svg-py | 1.9.2 | Type-safe Python library to generate SVG files | legacyPackages.x86_64-linux.python313Packages.svg-py |
 | python3.13-svg.path | 7.0 | SVG path objects and parser | legacyPackages.x86_64-linux.python313Packages.svg-path |
 | python3.13-svg2tikz | 3.3.3 | Set of tools for converting SVG graphics to TikZ/PGF code | legacyPackages.x86_64-linux.python313Packages.svg2tikz |
 | python3.13-svgdigitizer | 0.13.0 | Extract numerical data points from SVG files | legacyPackages.x86_64-linux.python313Packages.svgdigitizer |
@@ -73451,6 +73452,7 @@
 | python3.13-ufonormalizer | 0.6.2 | Script to normalize the XML and other data inside of a UFO | legacyPackages.x86_64-linux.python313Packages.ufonormalizer |
 | python3.13-ufoprocessor | 1.13.3 | Read, write and generate UFOs with designspace data | legacyPackages.x86_64-linux.python313Packages.ufoprocessor |
 | python3.13-uharfbuzz | 0.51.1 | Streamlined Cython bindings for the harfbuzz shaping engine | legacyPackages.x86_64-linux.python313Packages.uharfbuzz |
+| python3.13-uhashring | 2.4 | Full featured consistent hashing python library compatible with ketama | legacyPackages.x86_64-linux.python313Packages.uhashring |
 | python3.13-uhi | 0.5.0 | Universal Histogram Interface | legacyPackages.x86_64-linux.python313Packages.uhi |
 | python3.13-uiprotect | 7.22.0 | Python API for UniFi Protect (Unofficial) | legacyPackages.x86_64-linux.python313Packages.uiprotect |
 | python3.13-ujson | 5.10.0 | Ultra fast JSON encoder and decoder | legacyPackages.x86_64-linux.python313Packages.ujson |
@@ -73776,7 +73778,7 @@
 | python3.13-whey | 0.1.1 | Simple Python wheel builder for simple projects | legacyPackages.x86_64-linux.python313Packages.whey |
 | python3.13-whey-pth | 0.0.6 | Extension to whey to support .pth files | legacyPackages.x86_64-linux.python313Packages.whey-pth |
 | python3.13-whichcraft | 0.6.1 | Cross-platform cross-python shutil.which functionality | legacyPackages.x86_64-linux.python313Packages.whichcraft |
-| python3.13-whirlpool-sixth-sense | 0.21.3 | Python library for Whirlpool 6th Sense appliances | legacyPackages.x86_64-linux.python313Packages.whirlpool-sixth-sense |
+| python3.13-whirlpool-sixth-sense | 1.0.2 | Python library for Whirlpool 6th Sense appliances | legacyPackages.x86_64-linux.python313Packages.whirlpool-sixth-sense |
 | python3.13-whisper | 1.1.10 | Fixed size round-robin style database | legacyPackages.x86_64-linux.python313Packages.whisper |
 | python3.13-whisper | 20250625 | General-purpose speech recognition model | legacyPackages.x86_64-linux.python313Packages.openai-whisper |
 | python3.13-whispers | 2.4.0 | Tool to identify hardcoded secrets in static structured text | legacyPackages.x86_64-linux.python313Packages.whispers |
@@ -73850,7 +73852,7 @@
 | python3.13-wxpython | 4.2.3 | Cross platform GUI toolkit for Python, Phoenix version | legacyPackages.x86_64-linux.python313Packages.wxPython_4_2 |
 | python3.13-wxpython | 4.2.3 | Cross platform GUI toolkit for Python, Phoenix version | legacyPackages.x86_64-linux.python313Packages.wxpython |
 | python3.13-wyoming | 1.8.0 | Protocol for Rhasspy Voice Assistant | legacyPackages.x86_64-linux.python313Packages.wyoming |
-| python3.13-x-transformers | 2.8.4 | Concise but fully-featured transformer | legacyPackages.x86_64-linux.python313Packages.x-transformers |
+| python3.13-x-transformers | 2.9.2 | Concise but fully-featured transformer | legacyPackages.x86_64-linux.python313Packages.x-transformers |
 | python3.13-x-wr-timezone | 2.0.1 | Convert calendars using X-WR-TIMEZONE to standard ones | legacyPackages.x86_64-linux.python313Packages.x-wr-timezone |
 | python3.13-x11-hash | 1.4 | Binding for X11 proof of work hashing | legacyPackages.x86_64-linux.python313Packages.x11-hash |
 | python3.13-x11-hash | 1.4 | Binding for X11 proof of work hashing | legacyPackages.x86_64-linux.python313Packages.x11_hash |
@@ -74266,8 +74268,8 @@
 | qoauth | 2.0.0 | Qt library for OAuth authentication | legacyPackages.x86_64-linux.libsForQt5.qoauth |
 | qoauth | 2.0.0 | Qt library for OAuth authentication | legacyPackages.x86_64-linux.plasma5Packages.qoauth |
 | qobitree | 15878 | LaTeX macros for typesetting trees | legacyPackages.x86_64-linux.texlivePackages.qobitree |
-| qodeassist-plugin | 0.7.0 | AI-powered coding assistant plugin for Qt Creator | legacyPackages.x86_64-linux.kdePackages.qodeassist-plugin |
-| qodeassist-plugin | 0.7.0 | AI-powered coding assistant plugin for Qt Creator | legacyPackages.x86_64-linux.qt6Packages.qodeassist-plugin |
+| qodeassist-plugin | 0.7.1 | AI-powered coding assistant plugin for Qt Creator | legacyPackages.x86_64-linux.kdePackages.qodeassist-plugin |
+| qodeassist-plugin | 0.7.1 | AI-powered coding assistant plugin for Qt Creator | legacyPackages.x86_64-linux.qt6Packages.qodeassist-plugin |
 | qodem | 1.0.1-unstable-2022-02-12 | Re-implementation of the DOS-era Qmodem serial communications package | legacyPackages.x86_64-linux.qodem |
 | qogir-icon-theme | 2025-02-15 | Flat colorful design icon theme | legacyPackages.x86_64-linux.qogir-icon-theme |
 | qogir-kde | 0-unstable-2024-12-21 | Flat Design theme for KDE Plasma desktop | legacyPackages.x86_64-linux.qogir-kde |
@@ -75211,7 +75213,7 @@
 | rapid | 0.1.5.3 | Hot reload and reload-surviving values with GHCi | legacyPackages.x86_64-linux.haskellPackages.rapid |
 | rapid-photo-downloader | 0.9.36 | Photo and video importer for cameras, phones, and memory cards | legacyPackages.x86_64-linux.rapid-photo-downloader |
 | rapid-term | 0.1.2.1 | External terminal support for rapid | legacyPackages.x86_64-linux.haskellPackages.rapid-term |
-| rapidapi | 4.2.8-4002008002 | Full-featured HTTP client that lets you test and describe the APIs you build or consume | legacyPackages.x86_64-linux.rapidapi |
+| rapidapi | 4.4.3-4004003001 | Full-featured HTTP client that lets you test and describe the APIs you build or consume | legacyPackages.x86_64-linux.rapidapi |
 | rapidcheck | 0-unstable-2023-12-14 | C++ framework for property based testing inspired by QuickCheck | legacyPackages.x86_64-linux.rapidcheck |
 | rapidcsv | 8.89 | C++ CSV parser library | legacyPackages.x86_64-linux.rapidcsv |
 | rapidfuzz-cpp | 3.3.3 | Rapid fuzzy string matching in C++ using the Levenshtein Distance | legacyPackages.x86_64-linux.rapidfuzz-cpp |
@@ -75315,7 +75317,7 @@
 | rblake3sum | 0.4.0 | Recursive blake3 digest (hash) of a file-system path | legacyPackages.x86_64-linux.rblake3sum |
 | rbpcp-api | 0.2.0.0 | RESTful Bitcoin Payment Channel Protocol Servant API description | legacyPackages.x86_64-linux.haskellPackages.rbpcp-api |
 | rbr | 0.8.6 | Mask nucleotide (EST) sequences in Fasta format | legacyPackages.x86_64-linux.haskellPackages.rbr |
-| rbspy | 0.34.0 | Sampling CPU Profiler for Ruby | legacyPackages.x86_64-linux.rbspy |
+| rbspy | 0.38.0 | Sampling CPU Profiler for Ruby | legacyPackages.x86_64-linux.rbspy |
 | rbst | 0.0.0.1 | Randomized Binary Search Trees | legacyPackages.x86_64-linux.haskellPackages.rbst |
 | rbt-mathnotes | 1.0.2 | Rebecca Turner's personal macros and styles for typesetting mathematics notes | legacyPackages.x86_64-linux.texlivePackages.rbt-mathnotes |
 | rbw | 1.14.1 | Unofficial command line client for Bitwarden | legacyPackages.x86_64-linux.rbw |
@@ -76049,7 +76051,7 @@
 | rest-types | 1.14.1.2 | Silk Rest Framework Types | legacyPackages.x86_64-linux.haskellPackages.rest-types |
 | rest-wai | 0.2.0.1 | Rest driver for WAI applications | legacyPackages.x86_64-linux.haskellPackages.rest-wai |
 | restartable | 0.3.0.0 | Minimal live coding library for model-view-event-update applications | legacyPackages.x86_64-linux.haskellPackages.restartable |
-| restate | 1.5.1 | Platform for developing distributed fault-tolerant applications | legacyPackages.x86_64-linux.restate |
+| restate | 1.5.2 | Platform for developing distributed fault-tolerant applications | legacyPackages.x86_64-linux.restate |
 | restful-snap | 0.4.2 |  | legacyPackages.x86_64-linux.haskellPackages.restful-snap |
 | restic | 0.18.1 | Backup program that is fast, efficient and secure | legacyPackages.x86_64-linux.restic |
 | restic-browser | 0.3.3 | GUI to browse and restore restic backup repositories | legacyPackages.x86_64-linux.restic-browser |
@@ -78581,7 +78583,7 @@
 | rucredstash | 0.9.2 | Utility for managing credentials securely in AWS cloud | legacyPackages.x86_64-linux.rucredstash |
 | ruff | 0.14.0 | Extremely fast Python linter and code formatter | legacyPackages.x86_64-linux.ruff |
 | ruff | 0.4.0.1 | relatively useful fractal functions | legacyPackages.x86_64-linux.haskellPackages.ruff |
-| ruffle | 0.2.0-nightly-2025-10-12 | Cross platform Adobe Flash Player emulator | legacyPackages.x86_64-linux.ruffle |
+| ruffle | 0.2.0-nightly-2025-10-18 | Cross platform Adobe Flash Player emulator | legacyPackages.x86_64-linux.ruffle |
 | rufo | 0.18.1 | Ruby formatter | legacyPackages.x86_64-linux.rufo |
 | ruhyphen | 1.6 | Russian hyphenation | legacyPackages.x86_64-linux.texlivePackages.ruhyphen |
 | ruin | 0.1.0.1 | Pliable records | legacyPackages.x86_64-linux.haskellPackages.ruin |
@@ -83847,7 +83849,7 @@
 | sbcl-zstd | 20230618-git |  | legacyPackages.x86_64-linux.sbclPackages.zstd |
 | sbcl-zstd-tests | 20230618-git |  | legacyPackages.x86_64-linux.sbclPackages.zstd-tests |
 | sbcl-zyre | 20200925-git |  | legacyPackages.x86_64-linux.sbclPackages.zyre |
-| sbctl | 0.17 | Secure Boot key manager | legacyPackages.x86_64-linux.sbctl |
+| sbctl | 0.18 | Secure Boot key manager | legacyPackages.x86_64-linux.sbctl |
 | sblast | 0.7.2 | Blast your Linux audio to DLNA receivers | legacyPackages.x86_64-linux.sblast |
 | sblim-sfcc | 2.2.8-unstable-2023-06-26 | Small Footprint CIM Client Library | legacyPackages.x86_64-linux.sblim-sfcc |
 | sbom-tool | 4.1.3 | Highly scalable and enterprise ready tool to create SPDX 2.2 and SPDX 3.0 compatible SBOMs for any variety of artifacts | legacyPackages.x86_64-linux.sbom-tool |
@@ -86037,7 +86039,7 @@
 | source-han-serif-vf-otf | 2.003 | Open source Pan-CJK Serif typeface | legacyPackages.x86_64-linux.source-han-serif-vf-otf |
 | source-han-serif-vf-ttf | 2.003 | Open source Pan-CJK Serif typeface | legacyPackages.x86_64-linux.source-han-serif-vf-ttf |
 | source-highlight | 3.1.9 | Source code renderer with syntax highlighting | legacyPackages.x86_64-linux.sourceHighlight |
-| source-meta-json-schema | 11.9.0 | CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines  | legacyPackages.x86_64-linux.source-meta-json-schema |
+| source-meta-json-schema | 11.11.1 | CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines  | legacyPackages.x86_64-linux.source-meta-json-schema |
 | source-salted | 0f1hs84kw7ix | An open source short film to show off open source technologies. | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit |
 | source-salted | 0f1hs84kw7ix | An open source short film to show off open source technologies. | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit-flattened |
 | source-salted | 2xvz1ir885p5 | An open source short film to show off open source technologies. | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit-unflattened |
@@ -87235,7 +87237,7 @@
 | stumpwm | 24.11 | Tiling, keyboard driven window manager | legacyPackages.x86_64-linux.stumpwm |
 | stun | 0.97 | Stun server and test client | legacyPackages.x86_64-linux.stun |
 | stunclient | 0.1.0.1 | RFC 5389: Session Traversal Utilities for NAT (STUN) client | legacyPackages.x86_64-linux.haskellPackages.stunclient |
-| stunnel | 5.75 | Universal tls/ssl wrapper | legacyPackages.x86_64-linux.stunnel |
+| stunnel | 5.76 | Universal tls/ssl wrapper | legacyPackages.x86_64-linux.stunnel |
 | stunner | 0.0.12 | Detect your NAT quickly and easily, and that's the bottom line | legacyPackages.x86_64-linux.stunner |
 | stunner | 0.5.8 | Test and exploit STUN, TURN and TURN over TCP servers | legacyPackages.x86_64-linux.stunner-webrtc |
 | stuntman | 1.2.16 | Open source STUN server and client | legacyPackages.x86_64-linux.stuntman |
@@ -87806,11 +87808,11 @@
 | syncstorage-rs | 0.21.0 | Mozilla Sync Storage built with Rust | legacyPackages.x86_64-linux.syncstorage-rs |
 | syncterm | 1.6 | BBS terminal emulator | legacyPackages.x86_64-linux.syncterm |
 | synctex | 66203 | engine-level feature synchronizing output and source | legacyPackages.x86_64-linux.texlivePackages.synctex |
-| syncthing | 2.0.8 | Open Source Continuous File Synchronization | legacyPackages.x86_64-linux.syncthing |
-| syncthing-discovery | 2.0.8 | Open Source Continuous File Synchronization | legacyPackages.x86_64-linux.syncthing-discovery |
+| syncthing | 2.0.10 | Open Source Continuous File Synchronization | legacyPackages.x86_64-linux.syncthing |
+| syncthing-discovery | 2.0.10 | Open Source Continuous File Synchronization | legacyPackages.x86_64-linux.syncthing-discovery |
 | syncthing-hs | 0.3.0.0 | Haskell bindings for the Syncthing REST API | legacyPackages.x86_64-linux.haskellPackages.syncthing-hs |
 | syncthing-macos | 1.30.0-1 | Official frugal and native macOS Syncthing application bundle | legacyPackages.x86_64-linux.syncthing-macos |
-| syncthing-relay | 2.0.8 | Open Source Continuous File Synchronization | legacyPackages.x86_64-linux.syncthing-relay |
+| syncthing-relay | 2.0.10 | Open Source Continuous File Synchronization | legacyPackages.x86_64-linux.syncthing-relay |
 | syncthingtray | 2.0.2 | Tray application and Dolphin/Plasma integration for Syncthing | legacyPackages.x86_64-linux.syncthingtray |
 | syncthingtray | 2.0.2 | Tray application and Dolphin/Plasma integration for Syncthing | legacyPackages.x86_64-linux.syncthingtray-minimal |
 | syncthingtray | 2.0.2 | Tray application and Dolphin/Plasma integration for Syncthing | legacyPackages.x86_64-linux.syncthingtray-qt6 |
@@ -88332,7 +88334,7 @@
 | taplo | 0.10.0 | TOML toolkit written in Rust | legacyPackages.x86_64-linux.taplo-lsp |
 | taproot-assets | 0.6.1 | Daemon for the Taproot Assets protocol specification | legacyPackages.x86_64-linux.taproot-assets |
 | taproot-assets | 0.6.1 | Daemon for the Taproot Assets protocol specification | legacyPackages.x86_64-linux.taro |
-| tapview | 1.1 | Minimalist pure consumer for TAP (Test Anything Protocol) | legacyPackages.x86_64-linux.tapview |
+| tapview | 1.15 | Minimalist pure consumer for TAP (Test Anything Protocol) | legacyPackages.x86_64-linux.tapview |
 | tar | 0.6.0.0 | Reading, writing and manipulating ".tar" archive files. | legacyPackages.x86_64-linux.haskellPackages.tar_0_6_0_0 |
 | tar | 0.6.3.0 | Reading, writing and manipulating ".tar" archive files. | legacyPackages.x86_64-linux.haskellPackages.tar_0_6_3_0 |
 | tar | 0.6.4.0 | Reading, writing and manipulating ".tar" archive files. | legacyPackages.x86_64-linux.haskellPackages.tar |
@@ -88575,7 +88577,7 @@
 | tds_fdw | 2.0.5 | PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server) | legacyPackages.x86_64-linux.postgresql18Packages.tds_fdw |
 | tds_fdw | 2.0.5 | PostgreSQL foreign data wrapper to connect to TDS databases (Sybase and Microsoft SQL Server) | legacyPackages.x86_64-linux.postgresqlPackages.tds_fdw |
 | tdsfrmath | 1.3 | Macros for French teachers of mathematics | legacyPackages.x86_64-linux.texlivePackages.tdsfrmath |
-| tea | 0.11.0 | Gitea official CLI client | legacyPackages.x86_64-linux.tea |
+| tea | 0.11.1 | Gitea official CLI client | legacyPackages.x86_64-linux.tea |
 | tealdeer | 1.8.0 | Very fast implementation of tldr in Rust | legacyPackages.x86_64-linux.tealdeer |
 | teamocil | 1.4.2 | Simple tool used to automatically create windows and panes in tmux with YAML files | legacyPackages.x86_64-linux.teamocil |
 | teams | 0.0.2.3 | Graphical modeling tools for sequential teams | legacyPackages.x86_64-linux.haskellPackages.teams |
@@ -90046,9 +90048,9 @@
 | thumbs | 0.8.0 | Lightning fast version of tmux-fingers written in Rust, copy/pasting tmux like vimium/vimperator | legacyPackages.x86_64-linux.thumbs |
 | thumbs | 1.0q | Create thumb indexes | legacyPackages.x86_64-linux.texlivePackages.thumbs |
 | thumby | 0.1 | Create thumb indexes for printed books | legacyPackages.x86_64-linux.texlivePackages.thumby |
-| thunar | 4.20.5 | Xfce file manager | legacyPackages.x86_64-linux.xfce.thunar |
-| thunar | 4.20.5 | Xfce file manager | legacyPackages.x86_64-linux.xfce.thunar-bare |
-| thunar | 4.20.5 | Xfce file manager | legacyPackages.x86_64-linux.xfce.thunar-unwrapped |
+| thunar | 4.20.6 | Xfce file manager | legacyPackages.x86_64-linux.xfce.thunar |
+| thunar | 4.20.6 | Xfce file manager | legacyPackages.x86_64-linux.xfce.thunar-bare |
+| thunar | 4.20.6 | Xfce file manager | legacyPackages.x86_64-linux.xfce.thunar-unwrapped |
 | thunar-archive-plugin | 0.6.0 | Thunar plugin providing file context menus for archives | legacyPackages.x86_64-linux.xfce.thunar-archive-plugin |
 | thunar-dropbox | 0.3.2 | Plugin that adds context-menu items for Dropbox to Thunar | legacyPackages.x86_64-linux.xfce.thunar-dropbox-plugin |
 | thunar-media-tags-plugin | 0.6.0 | Thunar plugin providing tagging and renaming features for media files | legacyPackages.x86_64-linux.xfce.thunar-media-tags-plugin |
@@ -91197,8 +91199,8 @@
 | treebank | 0-unstable-2024-07-29 | NLTK Data | legacyPackages.x86_64-linux.nltk-data.treebank |
 | treecat | 1.0.2-unstable-2023-11-28 | Serialize a directory to a tree diagram, and vice versa | legacyPackages.x86_64-linux.treecat |
 | treedome | 0.6.1 | Local-first, encrypted, note taking application organized in tree-like structures | legacyPackages.x86_64-linux.treedome |
-| treefmt | 2.3.1 | One CLI to format the code tree | legacyPackages.x86_64-linux.treefmt |
-| treefmt | 2.3.1 | One CLI to format the code tree | legacyPackages.x86_64-linux.treefmt2 |
+| treefmt | 2.4.0 | One CLI to format the code tree | legacyPackages.x86_64-linux.treefmt |
+| treefmt | 2.4.0 | One CLI to format the code tree | legacyPackages.x86_64-linux.treefmt2 |
 | treefold | 0.2.0.0 | Provides folds which try to combine elements in a balanced way | legacyPackages.x86_64-linux.haskellPackages.treefold |
 | treegen | 1.1.0 | ASCII Tree Directory and File Structure Generator | legacyPackages.x86_64-linux.treegen |
 | treemap | 2.4.0.20180213 | A tree of Data.Map. | legacyPackages.x86_64-linux.haskellPackages.treemap |
@@ -91239,7 +91241,7 @@
 | trelay | 22.03.5-6.6.112 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.trelay |
 | trelby | 2.4.15 | Free, multiplatform, feature-rich screenwriting program | legacyPackages.x86_64-linux.trelby |
 | trellis-unstable | 2022-09-14 | Documentation and bitstream tools for Lattice ECP5 FPGAs | legacyPackages.x86_64-linux.trellis |
-| tremc | 0.9.3 | Curses interface for transmission | legacyPackages.x86_64-linux.tremc |
+| tremc | 0.9.5 | Curses interface for transmission | legacyPackages.x86_64-linux.tremc |
 | tremor | 0.13.0-rc.33 | Early stage event processing system for unstructured data with rich support for structural pattern matching, filtering and transformation  | legacyPackages.x86_64-linux.tremor-rs |
 | tremor-language-server | 0.13.0-rc.11 | Tremor Language Server (Trill) | legacyPackages.x86_64-linux.tremor-language-server |
 | tremor-unstable | 2018-03-16 | Fixed-point version of the Ogg Vorbis decoder | legacyPackages.x86_64-linux.tremor |
@@ -96572,7 +96574,7 @@
 | vectorchord | 0.5.3 | Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs | legacyPackages.x86_64-linux.postgresql17Packages.vectorchord |
 | vectorchord | 0.5.3 | Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs | legacyPackages.x86_64-linux.postgresql18Packages.vectorchord |
 | vectorchord | 0.5.3 | Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs | legacyPackages.x86_64-linux.postgresqlPackages.vectorchord |
-| vectorcode | 0.7.15 | Code repository indexing tool to supercharge your LLM experience | legacyPackages.x86_64-linux.vectorcode |
+| vectorcode | 0.7.18 | Code repository indexing tool to supercharge your LLM experience | legacyPackages.x86_64-linux.vectorcode |
 | vectorlogos | 0.1.3 | Vectorial logos (GeoGebra, Emacs, Scratch, ...) with 'inline' support | legacyPackages.x86_64-linux.texlivePackages.vectorlogos |
 | vectoroids | 1.1.2 | Clone of the classic arcade game Asteroids by Atari | legacyPackages.x86_64-linux.vectoroids |
 | vectorscan | 5.4.12 | Portable fork of the high-performance regular expression matching library | legacyPackages.x86_64-linux.vectorscan |
@@ -96610,7 +96612,7 @@
 | veilid | 0.4.8 | Open-source, peer-to-peer, mobile-first, networked application framework | legacyPackages.x86_64-linux.veilid |
 | velero | 1.17.0 | Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes | legacyPackages.x86_64-linux.velero |
 | velma | 0.2022.2.13 | Automatically add files to exposed-modules and other-modules | legacyPackages.x86_64-linux.haskellPackages.velma |
-| velocity | 3.4.0-unstable-2025-10-11 | Modern, next-generation Minecraft server proxy | legacyPackages.x86_64-linux.velocity |
+| velocity | 3.4.0-unstable-2025-10-16 | Modern, next-generation Minecraft server proxy | legacyPackages.x86_64-linux.velocity |
 | veloren | 0.17.0 | Open world, open source voxel RPG | legacyPackages.x86_64-linux.veloren |
 | velthuis | 2.17.1 | Typeset Devanagari | legacyPackages.x86_64-linux.texlivePackages.velthuis |
 | vencord | 1.13.4 | Cutest Discord client mod | legacyPackages.x86_64-linux.vencord |
@@ -96940,7 +96942,7 @@
 | vimplugin-autolist.nvim | 2023-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.autolist-nvim |
 | vimplugin-autoload_cscope.vim | 2011-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.autoload_cscope-vim |
 | vimplugin-autosave.nvim | 2022-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.autosave-nvim |
-| vimplugin-avante.nvim | 0.0.27-unstable-2025-10-12 | Neovim plugin designed to emulate the behaviour of the Cursor AI IDE | legacyPackages.x86_64-linux.vimPlugins.avante-nvim |
+| vimplugin-avante.nvim | 0.0.27-unstable-2025-10-18 | Neovim plugin designed to emulate the behaviour of the Cursor AI IDE | legacyPackages.x86_64-linux.vimPlugins.avante-nvim |
 | vimplugin-aw-watcher-vim | 2023-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.aw-watcher-vim |
 | vimplugin-aw-watcher.nvim | 2025-07-28 |  | legacyPackages.x86_64-linux.vimPlugins.aw-watcher-nvim |
 | vimplugin-awesome-vim-colorschemes | 2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.awesome-vim-colorschemes |
@@ -97947,7 +97949,7 @@
 | vimplugin-pest.vim | 2024-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.pest-vim |
 | vimplugin-pgsql.vim | 2021-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.pgsql-vim |
 | vimplugin-phha-zenburn | 2024-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.phha-zenburn |
-| vimplugin-phpactor | 2025.07.25.0 | Mainly a PHP Language Server | legacyPackages.x86_64-linux.vimPlugins.phpactor |
+| vimplugin-phpactor | 2025.10.17.0 | Mainly a PHP Language Server | legacyPackages.x86_64-linux.vimPlugins.phpactor |
 | vimplugin-pig.vim | 2017-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.pig-vim |
 | vimplugin-plantuml-previewer.vim | 2024-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-previewer-vim |
 | vimplugin-plantuml-syntax | 2024-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-syntax |
@@ -98558,7 +98560,7 @@
 | vimplugin-vCoolor.vim | 2020-10-14 | Simple color selector/picker plugin | legacyPackages.x86_64-linux.vimPlugins.vCoolor-vim |
 | vimplugin-vader.vim | 2024-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.vader-vim |
 | vimplugin-vague.nvim | 2025-10-12 |  | legacyPackages.x86_64-linux.vimPlugins.vague-nvim |
-| vimplugin-vectorcode.nvim | 0.7.15 | Index and navigate your code repository using vectorcode | legacyPackages.x86_64-linux.vimPlugins.vectorcode-nvim |
+| vimplugin-vectorcode.nvim | 0.7.18 | Index and navigate your code repository using vectorcode | legacyPackages.x86_64-linux.vimPlugins.vectorcode-nvim |
 | vimplugin-venn.nvim | 2024-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.venn-nvim |
 | vimplugin-verilog_systemverilog.vim | 2024-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.verilog_systemverilog-vim |
 | vimplugin-vifm.vim | 2025-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.vifm-vim |
@@ -99347,7 +99349,7 @@
 | vncdo | 1.2.0 | Command line VNC client and Python library | legacyPackages.x86_64-linux.vncdo |
 | vncrec | 0.2 | VNC recorder | legacyPackages.x86_64-linux.vncrec |
 | vndr | 0.1.2-unstable-2022-12-29 | Stupid golang vendoring tool, inspired by docker vendor script | legacyPackages.x86_64-linux.vndr |
-| vnote | 3.19.2 | Pleasant note-taking platform | legacyPackages.x86_64-linux.vnote |
+| vnote | 3.19.2-unstable-2025-10-12 | Pleasant note-taking platform | legacyPackages.x86_64-linux.vnote |
 | vnstat | 2.13 | Console-based network statistics utility for Linux | legacyPackages.x86_64-linux.vnstat |
 | vntex | 3.2.2 | Support for Vietnamese | legacyPackages.x86_64-linux.texlivePackages.vntex |
 | vo-aacenc | 0.1.3 | VisualOn AAC encoder library | legacyPackages.x86_64-linux.vo-aacenc |
@@ -99430,7 +99432,7 @@
 | vsc-leetcode-cli-unstable | 2021-04-11 | CLI tool for leetcode.com | legacyPackages.x86_64-linux.nodePackages_latest.vsc-leetcode-cli |
 | vsc-leetcode-cli-unstable | 2021-04-11 | CLI tool for leetcode.com | legacyPackages.x86_64-linux.vsc-leetcode-cli |
 | vsce | 3.6.2 | Visual Studio Code Extension Manager | legacyPackages.x86_64-linux.vsce |
-| vscode | 1.105.0 | Code editor developed by Microsoft | legacyPackages.x86_64-linux.vscode |
+| vscode | 1.105.1 | Code editor developed by Microsoft | legacyPackages.x86_64-linux.vscode |
 | vscode-css-languageserver | 1.105.0 | CSS language server | legacyPackages.x86_64-linux.vscode-css-languageserver |
 | vscode-extension | 13xforever-language-x86-64-assembly-3.1.5 | Cutting edge x86 and x86_64 assembly syntax highlighting | legacyPackages.x86_64-linux.vscode-extensions.13xforever.language-x86-64-assembly |
 | vscode-extension | 1Password-op-vscode-1.0.5 | VSCode extension that integrates your development workflow with 1Password service | legacyPackages.x86_64-linux.vscode-extensions.1Password.op-vscode |
@@ -99907,7 +99909,7 @@
 | vscode-langservers-extracted | 4.10.0 | HTML/CSS/JSON/ESLint language servers extracted from vscode | legacyPackages.x86_64-linux.nodePackages_latest.vscode-langservers-extracted |
 | vscode-langservers-extracted | 4.10.0 | HTML/CSS/JSON/ESLint language servers extracted from vscode | legacyPackages.x86_64-linux.vscode-langservers-extracted |
 | vscode-runner | 1.8.1 | KRunner plugin for quickly opening recent VSCode workspaces | legacyPackages.x86_64-linux.vscode-runner |
-| vscode-with-extensions | 1.105.0 | Code editor developed by Microsoft | legacyPackages.x86_64-linux.vscode-with-extensions |
+| vscode-with-extensions | 1.105.1 | Code editor developed by Microsoft | legacyPackages.x86_64-linux.vscode-with-extensions |
 | vscodium | 1.105.16954 | Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing)  | legacyPackages.x86_64-linux.vscodium |
 | vsftpd | 3.0.5 | Very secure FTP daemon | legacyPackages.x86_64-linux.vsftpd |
 | vsh | 0.14.0 | HashiCorp Vault interactive shell | legacyPackages.x86_64-linux.vsh |
@@ -100175,15 +100177,13 @@
 | warp-quic | 0.0.3 | Warp based on QUIC | legacyPackages.x86_64-linux.haskellPackages.warp-quic |
 | warp-static | 2.0.1.1 | Static file server based on Warp and wai-app-static (deprecated) | legacyPackages.x86_64-linux.haskellPackages.warp-static |
 | warp-systemd | 0.3.0.0 | Socket activation and other systemd integration for the Warp web server (WAI) | legacyPackages.x86_64-linux.haskellPackages.warp-systemd |
-| warp-terminal | 0.2025.10.08.08.12.stable_03 | Rust-based terminal | legacyPackages.x86_64-linux.warp-terminal |
+| warp-terminal | 0.2025.10.15.08.12.stable_01 | Rust-based terminal | legacyPackages.x86_64-linux.warp-terminal |
 | warp-tls | 3.4.13 | HTTP over TLS support for Warp via the TLS package | legacyPackages.x86_64-linux.haskellPackages.warp-tls |
 | warp-tls-uid | 0.2.0.6 | set group and user id before running server | legacyPackages.x86_64-linux.haskellPackages.warp-tls-uid |
 | warpcol | 1.0c | Relative alignment of rows in numeric columns in tabulars | legacyPackages.x86_64-linux.texlivePackages.warpcol |
 | warpd | 1.3.5 | Modal keyboard driven interface for mouse manipulation | legacyPackages.x86_64-linux.warpd |
 | warped | 0.0.8 | Warp and Wai Library | legacyPackages.x86_64-linux.haskellPackages.warped |
 | warpinator | 1.8.10 | Share files across the LAN | legacyPackages.x86_64-linux.warpinator |
-| warsow | 2.1.2 | Multiplayer FPS game designed for competitive gaming | legacyPackages.x86_64-linux.warsow |
-| warsow-engine | 2.1.0 | Multiplayer FPS game designed for competitive gaming (engine only) | legacyPackages.x86_64-linux.warsow-engine |
 | warzone2100 | 4.6.1 | Free RTS game, originally developed by Pumpkin Studios | legacyPackages.x86_64-linux.warzone2100 |
 | was | 64691 | A collection of small packages by Walter Schmidt | legacyPackages.x86_64-linux.texlivePackages.was |
 | wasabibackend | 2.3.1 | Backend for the Wasabi Wallet | legacyPackages.x86_64-linux.wasabibackend |
@@ -100432,9 +100432,7 @@
 | webify | 0.1.10.0 | webfont generator | legacyPackages.x86_64-linux.haskellPackages.webify |
 | webkit | 0.14.2.1 | Binding to the Webkit library | legacyPackages.x86_64-linux.haskellPackages.webkit |
 | webkit-javascriptcore | 0.14.2.1 | JavaScriptCore FFI from webkitgtk | legacyPackages.x86_64-linux.haskellPackages.webkit-javascriptcore |
-| webkit2-sharp-a59fd76dd730432c76b12ee6347ea66567107ab9 |  | C# bindings for WebKit 2 with GTK+ 3 | legacyPackages.x86_64-linux.webkit2-sharp |
 | webkit2gtk3-javascriptcore | 0.14.4.6 | JavaScriptCore FFI from webkitgtk | legacyPackages.x86_64-linux.haskellPackages.webkit2gtk3-javascriptcore |
-| webkitgtk | 2.50.1+abi=4.0 | Web content rendering engine, GTK port | legacyPackages.x86_64-linux.webkitgtk_4_0 |
 | webkitgtk | 2.50.1+abi=4.1 | Web content rendering engine, GTK port | legacyPackages.x86_64-linux.webkitgtk_4_1 |
 | webkitgtk | 2.50.1+abi=6.0 | Web content rendering engine, GTK port | legacyPackages.x86_64-linux.webkitgtk_6_0 |
 | webkitgtk3 | 0.14.2.1 | Binding to the Webkit library | legacyPackages.x86_64-linux.haskellPackages.webkitgtk3 |
@@ -100524,6 +100522,7 @@
 | werf | 2.49.0 | GitOps delivery tool | legacyPackages.x86_64-linux.werf |
 | wesher | 0.2.6 | Wireguard overlay mesh network manager | legacyPackages.x86_64-linux.wesher |
 | wesnoth | 1.18.5 | Battle for Wesnoth, a free, turn-based strategy game with a fantasy theme | legacyPackages.x86_64-linux.wesnoth |
+| wesnoth-devel | 1.19.16.1 | Battle for Wesnoth, a free, turn-based strategy game with a fantasy theme | legacyPackages.x86_64-linux.wesnoth-devel |
 | weston | 14.0.1 | Lightweight and functional Wayland compositor | legacyPackages.x86_64-linux.weston |
 | weston | 14.0.1 | Lightweight and functional Wayland compositor | legacyPackages.x86_64-linux.westonLite |
 | wev | 1.1.0 | Wayland event viewer | legacyPackages.x86_64-linux.wev |
