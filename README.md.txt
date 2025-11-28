@@ -1634,16 +1634,16 @@
 | VirtualBox-GuestAdditions | 7.2.4-6.12.59 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.12.59 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.12.59 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_xanmod.virtualboxGuestAdditions |
-| VirtualBox-GuestAdditions | 7.2.4-6.17.8 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions |
-| VirtualBox-GuestAdditions | 7.2.4-6.17.8 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.virtualboxGuestAdditions |
+| VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_latest.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_lqx.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualboxGuestAdditions |
+| VirtualBox-GuestAdditions | 7.2.4-6.17.9 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.6.117 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualboxGuestAdditions |
 | Vis | 1.0.0 | Painless 3D graphics, no affiliation with gloss | legacyPackages.x86_64-linux.haskellPackages.Vis |
 | VoiceOfFaust | 1.1.7 | Turn your voice into a synthesizer | legacyPackages.x86_64-linux.magnetophonDSP.VoiceOfFaust |
@@ -1845,7 +1845,7 @@
 | abcde | 2.9.3 | Command-line audio CD ripper | legacyPackages.x86_64-linux.abcde |
 | abcl | 1.9.3 | JVM-based Common Lisp implementation | legacyPackages.x86_64-linux.abcl |
 | abcm2ps | 8.14.17 | Command line program which converts ABC to music sheet in PostScript or SVG format | legacyPackages.x86_64-linux.abcm2ps |
-| abcmidi | 2025.06.27 | Utilities for converting between abc and MIDI | legacyPackages.x86_64-linux.abcmidi |
+| abcmidi | 2025.11.26 | Utilities for converting between abc and MIDI | legacyPackages.x86_64-linux.abcmidi |
 | abcnotation | 1.9.0 | Haskell representation and parser for ABC notation | legacyPackages.x86_64-linux.haskellPackages.abcnotation |
 | abctl | 0.29.0 | Airbyte's CLI for managing local Airbyte installations | legacyPackages.x86_64-linux.abctl |
 | abduco | 0.6.0-unstable-2020-04-30 | Allows programs to be run independently from its controlling terminal | legacyPackages.x86_64-linux.abduco |
@@ -1951,16 +1951,16 @@
 | acer-wmi-battery | 6.12.59-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.acer-wmi-battery |
 | acer-wmi-battery | 6.12.59-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages.acer-wmi-battery |
 | acer-wmi-battery | 6.12.59-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_xanmod.acer-wmi-battery |
-| acer-wmi-battery | 6.17.8-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery |
-| acer-wmi-battery | 6.17.8-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.acer-wmi-battery |
+| acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_latest.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_lqx.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.acer-wmi-battery |
 | acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acer-wmi-battery |
+| acer-wmi-battery | 6.17.9-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.6.117-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acer-wmi-battery |
 | aces-container | 1.0.2 | Reference Implementation of SMPTE ST2065-4 | legacyPackages.x86_64-linux.aces-container |
 | acgtk | 2.1.0 | Toolkit for developing ACG signatures and lexicon | legacyPackages.x86_64-linux.acgtk |
@@ -2038,16 +2038,16 @@
 | acpi-call | 1.2.2-6.12.59 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.acpi_call |
 | acpi-call | 1.2.2-6.12.59 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages.acpi_call |
 | acpi-call | 1.2.2-6.12.59 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_xanmod.acpi_call |
-| acpi-call | 1.2.2-6.17.8 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call |
-| acpi-call | 1.2.2-6.17.8 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.acpi_call |
+| acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_latest.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_lqx.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.acpi_call |
 | acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acpi_call |
+| acpi-call | 1.2.2-6.17.9 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call |
 | acpi-call | 1.2.2-6.6.117 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acpi_call |
 | acpic | 1.0.0 | Daemon extending acpid event handling capabilities | legacyPackages.x86_64-linux.acpic |
 | acpica-tools | 20250807 | ACPICA Tools | legacyPackages.x86_64-linux.acpica-tools |
@@ -2435,16 +2435,16 @@
 | ajantv2-module | 17.5.0-6.12.59 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ajantv2 |
 | ajantv2-module | 17.5.0-6.12.59 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages.ajantv2 |
 | ajantv2-module | 17.5.0-6.12.59 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.ajantv2 |
-| ajantv2-module | 17.5.0-6.17.8 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ajantv2 |
-| ajantv2-module | 17.5.0-6.17.8 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ajantv2 |
+| ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_latest.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_lqx.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ajantv2 |
+| ajantv2-module | 17.5.0-6.17.9 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.6.117 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ajantv2 |
 | ajhc | 0.8.0.10 | Haskell compiler that produce binary through C language | legacyPackages.x86_64-linux.haskellPackages.ajhc |
 | ajl | 34016 | BibTeX style for AJL | legacyPackages.x86_64-linux.texlivePackages.ajl |
@@ -2453,7 +2453,7 @@
 | akkoma | 3.15.2 | ActivityPub microblogging server | legacyPackages.x86_64-linux.akkoma |
 | akkoma-fe | 3.15.0 | Frontend for Akkoma | legacyPackages.x86_64-linux.akkoma-fe |
 | akktex | 0.3.2 | A collection of packages and classes | legacyPackages.x86_64-linux.texlivePackages.akktex |
-| akku | 1.1.0-unstable-2024-03-03 | Language package manager for Scheme | legacyPackages.x86_64-linux.akku |
+| akku | 1.1.0-unstable-2025-11-08 | Language package manager for Scheme | legacyPackages.x86_64-linux.akku |
 | akku-TerribleTLS | 1.0.0 | Inadvisible pure-Scheme TLS 1.2 client | legacyPackages.x86_64-linux.akkuPackages.TerribleTLS |
 | akku-ac-d-bus | 1.0.0-beta.0 | AC/D-Bus - D-Bus wire protocol | legacyPackages.x86_64-linux.akkuPackages.ac-d-bus |
 | akku-adios | 0.1.0 | A simple prototype-based object system for Chez Scheme that supports single inheritance | legacyPackages.x86_64-linux.akkuPackages.adios |
@@ -2535,6 +2535,7 @@
 | akku-chrisoei-test | 0.0.1 | Additional testing utilities | legacyPackages.x86_64-linux.akkuPackages.chrisoei-test |
 | akku-comparators | 1.0.0 | SRFI 128: Comparators (reduced) reference implementation | legacyPackages.x86_64-linux.akkuPackages.comparators |
 | akku-compression | 0.1.2 | Decompresses zlib, xz, gzip, lzma, lzma2; extracts tar, zip | legacyPackages.x86_64-linux.akkuPackages.compression |
+| akku-conbot | 0.1.0 | library to script/automate console applications | legacyPackages.x86_64-linux.akkuPackages.conbot |
 | akku-conjure | 0.1.0-akku.84.19f3aae | Scheme make(1) replacement | legacyPackages.x86_64-linux.akkuPackages.conjure |
 | akku-cyclone-iset | 1.0.0 |  | legacyPackages.x86_64-linux.akkuPackages.cyclone-iset |
 | akku-cyclone-iset-base | 1.0.0 |  | legacyPackages.x86_64-linux.akkuPackages.cyclone-iset-base |
@@ -2549,13 +2550,14 @@
 | akku-edn | 0.2.0 | EDN is a data format from the Clojure ecosystem | legacyPackages.x86_64-linux.akkuPackages.edn |
 | akku-fectors | 0.1.1-akku.v0.1-5-g6c05617 | Functional Vectors for Scheme | legacyPackages.x86_64-linux.akkuPackages.fectors |
 | akku-fisherro-pipe | 1.0.0 | Pipelining syntax | legacyPackages.x86_64-linux.akkuPackages.fisherro-pipe |
+| akku-foreign-c | 0.11.0 | Portable foreign function interface for R7RS Schemes | legacyPackages.x86_64-linux.akkuPackages.foreign-c |
 | akku-fs-fatfs | 0.1.0 | FAT filesystem library | legacyPackages.x86_64-linux.akkuPackages.fs-fatfs |
-| akku-fs-partitions | 1.0.1 | Disk partition table reader/writer (MBR/GPT) | legacyPackages.x86_64-linux.akkuPackages.fs-partitions |
+| akku-fs-partitions | 1.0.2 | Disk partition table reader/writer (MBR/GPT) | legacyPackages.x86_64-linux.akkuPackages.fs-partitions |
 | akku-generators | 1.0.2 | SRFI 121: Generators reference implementation | legacyPackages.x86_64-linux.akkuPackages.generators |
 | akku-gnuplot-pipe | 0.4.0 | Port of gnuplot-pipe egg for Chicken Scheme to Chez Scheme. | legacyPackages.x86_64-linux.akkuPackages.gnuplot-pipe |
 | akku-guile-lib | 0.2.6 | Useful code written in Guile Scheme | legacyPackages.x86_64-linux.akkuPackages.guile-lib |
 | akku-hashing | 1.3.0 | CRC, HMAC, MD5, SHA-1, SHA-2, xxHash | legacyPackages.x86_64-linux.akkuPackages.hashing |
-| akku-http-pixiu | 1.0.2 | A http server based on scheme | legacyPackages.x86_64-linux.akkuPackages.http-pixiu |
+| akku-http-pixiu | 1.0.3 | A http server based on scheme | legacyPackages.x86_64-linux.akkuPackages.http-pixiu |
 | akku-ijputils | 0.0.0-akku.42.1370c75 | A bunch of scheme junk :) | legacyPackages.x86_64-linux.akkuPackages.ijputils |
 | akku-image-formats | 0.1.0 | Library for reading/writing various image formats | legacyPackages.x86_64-linux.akkuPackages.image-formats |
 | akku-in-progress-hash-bimaps | 0.0.3 | Bimaps (HashTablesCowan) | legacyPackages.x86_64-linux.akkuPackages.in-progress-hash-bimaps |
@@ -2589,6 +2591,7 @@
 | akku-ocelotl | 0.0.0-akku.42.0c6aada | Library collection centered around HTTP | legacyPackages.x86_64-linux.akkuPackages.ocelotl |
 | akku-okmij-ssax | 5.4.0 | Functional XML parsing framework | legacyPackages.x86_64-linux.akkuPackages.okmij-ssax |
 | akku-oleg | 0.0.0-akku.2.c682687 | Libraries written by Oleg ported to Chez Scheme | legacyPackages.x86_64-linux.akkuPackages.oleg |
+| akku-onie-info | 0.1.0 | ONIE info reader/writer | legacyPackages.x86_64-linux.akkuPackages.onie-info |
 | akku-packrat | 0.1.1 | Packrat parser library | legacyPackages.x86_64-linux.akkuPackages.packrat |
 | akku-pfds | 0.3.0 | Purely Functional Data Structures | legacyPackages.x86_64-linux.akkuPackages.pfds |
 | akku-pfds-alist | 1.0.0 | Convenience functions for working with association lists | legacyPackages.x86_64-linux.akkuPackages.pfds-alist |
@@ -2617,6 +2620,7 @@
 | akku-r6rs-clos | 1.0.0 | Tiny CLOS | legacyPackages.x86_64-linux.akkuPackages.r6rs-clos |
 | akku-r6rs-coap | 0.1.1 | Constrained Application Protocol (CoAP) | legacyPackages.x86_64-linux.akkuPackages.r6rs-coap |
 | akku-r6rs-control | 0.0.1 | Port of (rnrs control) to R7RS | legacyPackages.x86_64-linux.akkuPackages.r6rs-control |
+| akku-r6rs-elf | 0.1.0 | ELF reader and parser in R6RS Scheme | legacyPackages.x86_64-linux.akkuPackages.r6rs-elf |
 | akku-r6rs-enums | 0.0.1 | Port of (rnrs enums) to R7RS | legacyPackages.x86_64-linux.akkuPackages.r6rs-enums |
 | akku-r6rs-eval | 0.0.1 | Port of (rnrs eval) to R7RS | legacyPackages.x86_64-linux.akkuPackages.r6rs-eval |
 | akku-r6rs-exceptions | 0.0.1 | Port of (rnrs exceptions) to R7RS | legacyPackages.x86_64-linux.akkuPackages.r6rs-exceptions |
@@ -2676,7 +2680,13 @@
 | akku-rebottled-pregexp | 0.0.20050502 | Dorai Sitaram's portable regular expressions | legacyPackages.x86_64-linux.akkuPackages.rebottled-pregexp |
 | akku-rebottled-pstk | 1.7.0 | Portable Scheme Interface to the Tk GUI Toolkit | legacyPackages.x86_64-linux.akkuPackages.rebottled-pstk |
 | akku-rebottled-schelog | 0.0.20150602 | Dorai Sitaram's Schelog: logic programming in Scheme | legacyPackages.x86_64-linux.akkuPackages.rebottled-schelog |
+| akku-retropikzel-cgi | 1.0.1 |  | legacyPackages.x86_64-linux.akkuPackages.retropikzel-cgi |
+| akku-retropikzel-gtk-server | 0.1.1 | Library for using gtk-server | legacyPackages.x86_64-linux.akkuPackages.retropikzel-gtk-server |
+| akku-retropikzel-hello | 1.2.3 |  | legacyPackages.x86_64-linux.akkuPackages.retropikzel-hello |
+| akku-retropikzel-named-pipes | 0.1.3 | Library for using named pipes | legacyPackages.x86_64-linux.akkuPackages.retropikzel-named-pipes |
+| akku-retropikzel-requests | 0.10.2 | Library for making HTTP Requests | legacyPackages.x86_64-linux.akkuPackages.retropikzel-requests |
 | akku-retropikzel-scgi | 0.3.0 |  | legacyPackages.x86_64-linux.akkuPackages.retropikzel-scgi |
+| akku-retropikzel-system | 1.1.2 | Library for running shell commands | legacyPackages.x86_64-linux.akkuPackages.retropikzel-system |
 | akku-riastradh | 0.0.0-akku.16.9714b5c | Libraries by Taylor Campbell ported to Chez Scheme | legacyPackages.x86_64-linux.akkuPackages.riastradh |
 | akku-robin-abbrev | 1.0.0 | Create unique abbreviations for a list of strings | legacyPackages.x86_64-linux.akkuPackages.robin-abbrev |
 | akku-robin-directory | 1.0.0 | Some useful directory functions | legacyPackages.x86_64-linux.akkuPackages.robin-directory |
@@ -2685,7 +2695,7 @@
 | akku-robin-statistics | 1.0.0 | A library of functions to compute statistical or other information about sets of data | legacyPackages.x86_64-linux.akkuPackages.robin-statistics |
 | akku-robin-text | 1.0.0 | A collection of functions for working with strings or text documents, including similarity measures, a stemmer and layout | legacyPackages.x86_64-linux.akkuPackages.robin-text |
 | akku-scheme-bytestructures | 1.0.6-akku.0 | Structured access to bytevector contents | legacyPackages.x86_64-linux.akkuPackages.scheme-bytestructures |
-| akku-scheme-langserver | 1.2.8 | This package is a language server protocol implementation helping scheme programming. | legacyPackages.x86_64-linux.akkuPackages.scheme-langserver |
+| akku-scheme-langserver | 2.0.3 | This package is a language server protocol implementation helping scheme programming. | legacyPackages.x86_64-linux.akkuPackages.scheme-langserver |
 | akku-scheme-specs | 0.0.3 | Ruby-style spec testing library | legacyPackages.x86_64-linux.akkuPackages.scheme-specs |
 | akku-sdl2 | 1.0.4 | Bindings for SDL2 | legacyPackages.x86_64-linux.akkuPackages.sdl2 |
 | akku-sdl2-image | 1.0.1 | Bindings for SDL2_image | legacyPackages.x86_64-linux.akkuPackages.sdl2-image |
@@ -2748,26 +2758,32 @@
 | akku-slib-xml-parse | 3.1.5 | XML parsing and conversion to SXML | legacyPackages.x86_64-linux.akkuPackages.slib-xml-parse |
 | akku-spdx | 1.0.0 | SPDX license expressions and such | legacyPackages.x86_64-linux.akkuPackages.spdx |
 | akku-spells | 0.0.0-akku.509.1bfe3b8 | Portability and utility library | legacyPackages.x86_64-linux.akkuPackages.spells |
+| akku-srfi | 11-2025.8.27 | SRFI-11 | legacyPackages.x86_64-linux.akkuPackages.srfi-11 |
 | akku-srfi | 156-1.0.0 | Reference implementation of SRFI-156: Syntactic combiners for binary predicates | legacyPackages.x86_64-linux.akkuPackages.srfi-156 |
 | akku-srfi | 166-0.8.0 |  | legacyPackages.x86_64-linux.akkuPackages.srfi-166 |
+| akku-srfi | 170-0.1.1 | SRFI 170: POSIX | legacyPackages.x86_64-linux.akkuPackages.srfi-170 |
 | akku-srfi | 175-1.1.0 | SRFI 175: ASCII character library | legacyPackages.x86_64-linux.akkuPackages.srfi-175 |
 | akku-srfi | 179-0.10.0 |  | legacyPackages.x86_64-linux.akkuPackages.srfi-179 |
 | akku-srfi | 180-1.0.0-alpha.0 | SRFI-180, a JSON library | legacyPackages.x86_64-linux.akkuPackages.srfi-180 |
 | akku-srfi | 19-1.0.1 | Implementation of SRFI 19 'Time Data Types and Procedures' | legacyPackages.x86_64-linux.akkuPackages.srfi-19 |
 | akku-srfi | 197-1.3.0 | SRFI 197: Pipeline Operators | legacyPackages.x86_64-linux.akkuPackages.srfi-197 |
+| akku-srfi | 2-2025.8.27 | SRFI-2 | legacyPackages.x86_64-linux.akkuPackages.srfi-2 |
 | akku-srfi | 235-1.0.0 | SRFI 235: Combinators | legacyPackages.x86_64-linux.akkuPackages.srfi-235 |
 | akku-srfi | 28-0.9.0 | SRFI 28: Basic Format Strings | legacyPackages.x86_64-linux.akkuPackages.srfi-28 |
+| akku-srfi | 39-2025.8.27 | SRFI-39 | legacyPackages.x86_64-linux.akkuPackages.srfi-39 |
 | akku-srfi | 42-0.1.0 |  | legacyPackages.x86_64-linux.akkuPackages.srfi-42 |
-| akku-srfi | 60-1.0.0 | Bit access and operations | legacyPackages.x86_64-linux.akkuPackages.srfi-60 |
+| akku-srfi | 60-2025.8.27 | SRFI-60 | legacyPackages.x86_64-linux.akkuPackages.srfi-60 |
 | akku-srfi | 63-1.0.0 | Homogeneous and Heterogeneous Arrays | legacyPackages.x86_64-linux.akkuPackages.srfi-63 |
-| akku-srfi | 64-0.1.0 | Reference implementation of SRFI-54: A Scheme API for test suites | legacyPackages.x86_64-linux.akkuPackages.srfi-64 |
+| akku-srfi | 64-2025.8.27 | SRFI-64 | legacyPackages.x86_64-linux.akkuPackages.srfi-64 |
+| akku-srfi | 69-2025.8.27 | SRFI-69 | legacyPackages.x86_64-linux.akkuPackages.srfi-69 |
 | akku-srfi | 78-0.1.0 |  | legacyPackages.x86_64-linux.akkuPackages.srfi-78 |
+| akku-srfi | 8-2025.8.27 | SRFI-8 | legacyPackages.x86_64-linux.akkuPackages.srfi-8 |
 | akku-string-inflection | 0.1.1 | lisp-case under_score CapsUpper capsLower | legacyPackages.x86_64-linux.akkuPackages.string-inflection |
 | akku-struct-pack | 1.1.1 | Pack/unpack syntax for byte structures | legacyPackages.x86_64-linux.akkuPackages.struct-pack |
 | akku-surfage | 0.0.0-akku.12.895f16a | SRFI collection: (surfage s1 lists), etc | legacyPackages.x86_64-linux.akkuPackages.surfage |
 | akku-swish | 0.0.0-akku.259.842f51f | Swish Concurrency Engine (like Erlang/Node) | legacyPackages.x86_64-linux.akkuPackages.swish |
 | akku-tex-parser | 0.1.0 |  | legacyPackages.x86_64-linux.akkuPackages.tex-parser |
-| akku-text-mode | 1.0.0 | Text-mode console library (like curses) | legacyPackages.x86_64-linux.akkuPackages.text-mode |
+| akku-text-mode | 1.1.0 | Text-mode console library (like curses) | legacyPackages.x86_64-linux.akkuPackages.text-mode |
 | akku-thunderchez | 0.0.0-akku.121.9d6344a | Monorepo of various libraries for Chez Scheme | legacyPackages.x86_64-linux.akkuPackages.thunderchez |
 | akku-thunknyc-expand-braces | 0.1.1 | Expand UNIX-shell style brace expressions | legacyPackages.x86_64-linux.akkuPackages.thunknyc-expand-braces |
 | akku-thunknyc-json | 0.1.3 | Simple JSON parsing library | legacyPackages.x86_64-linux.akkuPackages.thunknyc-json |
@@ -2775,12 +2791,13 @@
 | akku-ufo-coroutines | 1.0.3 | This package is a dependable coroutine package for chez scheme. | legacyPackages.x86_64-linux.akkuPackages.ufo-coroutines |
 | akku-ufo-match | 1.0.0 | This package is a dependable match macro library for chez scheme. | legacyPackages.x86_64-linux.akkuPackages.ufo-match |
 | akku-ufo-socket | 1.0.0 | I did not edit Akku.manifest | legacyPackages.x86_64-linux.akkuPackages.ufo-socket |
-| akku-ufo-thread-pool | 1.0.3 | This package is a dependable thread pool package for chez scheme. | legacyPackages.x86_64-linux.akkuPackages.ufo-thread-pool |
-| akku-ufo-threaded-function | 1.0.4 | This package contains threaded-map, threaded-vector-map and such threaded functions for chez scheme. | legacyPackages.x86_64-linux.akkuPackages.ufo-threaded-function |
+| akku-ufo-thread-pool | 1.0.4 | This package is a dependable thread pool package for chez scheme. | legacyPackages.x86_64-linux.akkuPackages.ufo-thread-pool |
+| akku-ufo-threaded-function | 1.0.5 | This package contains threaded-map, threaded-vector-map and such threaded functions for chez scheme. | legacyPackages.x86_64-linux.akkuPackages.ufo-threaded-function |
 | akku-ufo-timer | 1.0.0 | This repository is a timer implementation based on Chez Scheme's thread mechanism. | legacyPackages.x86_64-linux.akkuPackages.ufo-timer |
 | akku-ufo-try | 1.0.0 | try-except to handle potential exception | legacyPackages.x86_64-linux.akkuPackages.ufo-try |
 | akku-unpack-assoc | 0.1.0 | Alist/hash-table destructuring case macros | legacyPackages.x86_64-linux.akkuPackages.unpack-assoc |
 | akku-uuid | 1.0.0-beta.0 | Generate and analyze UUIDs | legacyPackages.x86_64-linux.akkuPackages.uuid |
+| akku-vterm | 0.2.0 | VTerm parsing, and handling library | legacyPackages.x86_64-linux.akkuPackages.vterm |
 | akku-wak-common | 0.1.0-akku.15.6d495fc | Common infrastructure for the Wak ports | legacyPackages.x86_64-linux.akkuPackages.wak-common |
 | akku-wak-fmt | 0.8.0-akku.10.d5b2a5a | Combinator Formatting Library | legacyPackages.x86_64-linux.akkuPackages.wak-fmt |
 | akku-wak-foof-loop | 0.0.0-akku.4.a7b9cd8 | Extensible looping library | legacyPackages.x86_64-linux.akkuPackages.wak-foof-loop |
@@ -2952,7 +2969,7 @@
 | all-languages-etex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.etex |
 | all-languages-latex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.latex |
 | all-languages-luatex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.luatex |
-| all-the-package-names | 2.0.2270 | List of all the public package names on npm | legacyPackages.x86_64-linux.all-the-package-names |
+| all-the-package-names | 2.0.2277 | List of all the public package names on npm | legacyPackages.x86_64-linux.all-the-package-names |
 | allegro | 4.4.3.1 | Game programming library | legacyPackages.x86_64-linux.allegro |
 | allegro | 4.4.3.1 | Game programming library | legacyPackages.x86_64-linux.allegro4 |
 | allegro | 5.2.10.1 | Game programming library | legacyPackages.x86_64-linux.allegro5 |
@@ -3782,8 +3799,8 @@
 | antidote | 1.9.10 | Zsh plugin manager made from the ground up thinking about performance | legacyPackages.x86_64-linux.antidote |
 | antigate | 2.0.2 | Interface for antigate.com captcha recognition API | legacyPackages.x86_64-linux.haskellPackages.antigate |
 | antigen | 2.2.3 | Plugin manager for zsh | legacyPackages.x86_64-linux.antigen |
-| antigravity | 1.11.5 | Agentic development platform, evolving the IDE into the agent-first era | legacyPackages.x86_64-linux.antigravity |
-| antigravity | 1.11.5 | Wrapped variant of antigravity which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications | legacyPackages.x86_64-linux.antigravity-fhs |
+| antigravity | 1.11.9 | Agentic development platform, evolving the IDE into the agent-first era | legacyPackages.x86_64-linux.antigravity |
+| antigravity | 1.11.9 | Wrapped variant of antigravity which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications | legacyPackages.x86_64-linux.antigravity-fhs |
 | antikythera | 0.1.0.0 | Simple job/task/event scheduler/cronjob | legacyPackages.x86_64-linux.haskellPackages.antikythera |
 | antimatter-dimensions | 0-unstable-2025-11-20 | Idle incremental game with multiple prestige layers | legacyPackages.x86_64-linux.antimatter-dimensions |
 | antimicrox | 3.5.1 | GUI for mapping keyboard and mouse controls to a gamepad | legacyPackages.x86_64-linux.antimicrox |
@@ -3931,16 +3948,16 @@
 | apfs | 0.3.16-6.12.59 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.apfs |
 | apfs | 0.3.16-6.12.59 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages.apfs |
 | apfs | 0.3.16-6.12.59 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_xanmod.apfs |
-| apfs | 0.3.16-6.17.8 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.apfs |
-| apfs | 0.3.16-6.17.8 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_zen.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.apfs |
+| apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_latest.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_lqx.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.apfs |
 | apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.apfs |
+| apfs | 0.3.16-6.17.9 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_zen.apfs |
 | apfs | 0.3.16-6.6.117 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.apfs |
 | apfs-fuse | 0-unstable-2023-03-12 | FUSE driver for APFS (Apple File System) | legacyPackages.x86_64-linux.apfs-fuse |
 | apfsprogs | 0.2.1 | Experimental APFS tools for linux | legacyPackages.x86_64-linux.apfsprogs |
@@ -4106,7 +4123,7 @@
 | aqlprofile | 6.4.3 | AQLPROFILE library for AMD HSA runtime API extension support | legacyPackages.x86_64-linux.rocmPackages.aqlprofile |
 | aqlprofile | 6.4.3 | AQLPROFILE library for AMD HSA runtime API extension support | legacyPackages.x86_64-linux.rocmPackages.hsa-amd-aqlprofile-bin |
 | aqua | 2024.3.2 | Test automation IDE from JetBrains | legacyPackages.x86_64-linux.jetbrains.aqua |
-| aquamarine | 0.9.5 | Very light linux rendering backend library | legacyPackages.x86_64-linux.aquamarine |
+| aquamarine | 0.10.0 | Very light linux rendering backend library | legacyPackages.x86_64-linux.aquamarine |
 | aquosctl | 0-unstable-2014-04-06 | Sharp Aquos television RS-232 control application | legacyPackages.x86_64-linux.aquosctl |
 | ar-timestamp-wiper | 0.1.0 | Wipes time stamps from .a files (like ar -D) | legacyPackages.x86_64-linux.haskellPackages.ar-timestamp-wiper |
 | arabi | 1.1 | (La)TeX support for Arabic and Farsi, compliant with Babel | legacyPackages.x86_64-linux.texlivePackages.arabi |
@@ -4755,16 +4772,16 @@
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.12.59 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.12.59 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.12.59 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_xanmod.asus-ec-sensors |
-| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.8 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors |
-| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.8 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.asus-ec-sensors |
+| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_latest.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_lqx.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.asus-ec-sensors |
+| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.9 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.6.117 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.asus-ec-sensors |
 | asus-wmi-screenpad-ctl | 1.0.0 | Brightness control program for the asus-wmi-screenpad kernel module | legacyPackages.x86_64-linux.asus-wmi-screenpad-ctl |
 | asusctl | 6.1.17 | Control daemon, CLI tools, and a collection of crates for interacting with ASUS ROG laptops | legacyPackages.x86_64-linux.asusctl |
@@ -5092,7 +5109,7 @@
 | avahi | 0.8 | mDNS/DNS-SD implementation | legacyPackages.x86_64-linux.python312Packages.avahi |
 | avahi | 0.8 | mDNS/DNS-SD implementation | legacyPackages.x86_64-linux.python313Packages.avahi |
 | avahi-compat | 0.8 | mDNS/DNS-SD implementation | legacyPackages.x86_64-linux.avahi-compat |
-| avalanche-cli | 1.9.4 | Command line tool that gives developers access to everything Avalanche | legacyPackages.x86_64-linux.avalanche-cli |
+| avalanche-cli | 1.9.5 | Command line tool that gives developers access to everything Avalanche | legacyPackages.x86_64-linux.avalanche-cli |
 | avalanchego | 1.13.2 | Go implementation of an Avalanche node | legacyPackages.x86_64-linux.avalanchego |
 | avalonia-ilspy | 7.2-rc | .NET assembly browser and decompiler | legacyPackages.x86_64-linux.avalonia-ilspy |
 | avantgar | 61983 | URW 'Base 35' font pack for LaTeX | legacyPackages.x86_64-linux.texlivePackages.avantgar |
@@ -5662,16 +5679,16 @@
 | batman-adv | 2025.4-6.12.59 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.batman_adv |
 | batman-adv | 2025.4-6.12.59 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages.batman_adv |
 | batman-adv | 2025.4-6.12.59 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_xanmod.batman_adv |
-| batman-adv | 2025.4-6.17.8 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.batman_adv |
-| batman-adv | 2025.4-6.17.8 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_zen.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.batman_adv |
+| batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_latest.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_lqx.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.batman_adv |
 | batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.batman_adv |
+| batman-adv | 2025.4-6.17.9 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_zen.batman_adv |
 | batman-adv | 2025.4-6.6.117 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.batman_adv |
 | batmon | 0.0.1 | Interactive batteries viewer | legacyPackages.x86_64-linux.batmon |
 | bato | 0.2.1 | Small program to send battery notifications | legacyPackages.x86_64-linux.bato |
@@ -5730,16 +5747,16 @@
 | bbswitch-unstable | 2021-11-29-6.12.59 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.12.59 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.12.59 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_xanmod.bbswitch |
-| bbswitch-unstable | 2021-11-29-6.17.8 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch |
-| bbswitch-unstable | 2021-11-29-6.17.8 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bbswitch |
+| bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_latest.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_lqx.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bbswitch |
+| bbswitch-unstable | 2021-11-29-6.17.9 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.6.117 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bbswitch |
 | bc | 1.08.2 | GNU software calculator | legacyPackages.x86_64-linux.bc |
 | bc-decaf | 1.0.2-unstable-2025-06-25 | Elliptic curve library supporting Ed448-Goldilocks and Curve25519. Belledonne Communications' fork for Linphone | legacyPackages.x86_64-linux.linphonePackages.bc-decaf |
@@ -5756,16 +5773,16 @@
 | bcachefs | 6.12.59-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcachefs |
 | bcachefs | 6.12.59-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages.bcachefs |
 | bcachefs | 6.12.59-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.bcachefs |
-| bcachefs | 6.17.8-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcachefs |
-| bcachefs | 6.17.8-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcachefs |
+| bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcachefs |
 | bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcachefs |
+| bcachefs | 6.17.9-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.bcachefs |
 | bcachefs | 6.6.117-1.32.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcachefs |
 | bcachefs-tools | 1.32.1 | Tool for managing bcachefs filesystems | legacyPackages.x86_64-linux.bcachefs-tools |
 | bcal | 2.4 | Storage conversion and expression calculator | legacyPackages.x86_64-linux.bcal |
@@ -6624,6 +6641,7 @@
 | bloodhound | 0.26.0.0 | Elasticsearch client library for Haskell | legacyPackages.x86_64-linux.haskellPackages.bloodhound_0_26_0_0 |
 | bloodhound | 4.3.1 | Active Directory reconnaissance and attack path management tool | legacyPackages.x86_64-linux.bloodhound |
 | bloodhound-amazonka-auth | 0.1.2.1 | Adds convenient Amazon ElasticSearch Service authentication to Bloodhound | legacyPackages.x86_64-linux.haskellPackages.bloodhound-amazonka-auth |
+| bloodhound-ce | 8.3.1 | Six Degrees of Domain Admin | legacyPackages.x86_64-linux.bloodhound-ce |
 | bloodhound-py | 1.8.0 | Python based ingestor for BloodHound, based on Impacket | legacyPackages.x86_64-linux.bloodhound-py |
 | bloodspilot-client | 1.5.0 | Multiplayer space combat game (client part) | legacyPackages.x86_64-linux.bloodspilot-client |
 | bloodspilot-xpilot-fxi-server | 1.4.6 | Multiplayer X11 space combat game (server part) | legacyPackages.x86_64-linux.bloodspilot-server |
@@ -6791,7 +6809,7 @@
 | bookmark | 1.31 | A new bookmark (outline) organization for hyperref | legacyPackages.x86_64-linux.texlivePackages.bookmark |
 | bookmarks.yazi | 0.2.5-unstable-2025-07-09 | Yazi plugin that adds the basic functionality of vi-like marks | legacyPackages.x86_64-linux.yaziPlugins.bookmarks |
 | bookshelf | 1.2 | Create a nice image from a BibTeX file | legacyPackages.x86_64-linux.texlivePackages.bookshelf |
-| bookstack | 25.11.2 | Platform to create documentation/wiki content built with PHP & Laravel | legacyPackages.x86_64-linux.bookstack |
+| bookstack | 25.11.4 | Platform to create documentation/wiki content built with PHP & Laravel | legacyPackages.x86_64-linux.bookstack |
 | booktabs | 1.61803398 | Publication quality tables in LaTeX | legacyPackages.x86_64-linux.texlivePackages.booktabs |
 | booktabs-de | 1.61803 | German version of booktabs | legacyPackages.x86_64-linux.texlivePackages.booktabs-de |
 | booktabs-fr | 1.00 | French translation of booktabs documentation | legacyPackages.x86_64-linux.texlivePackages.booktabs-fr |
@@ -7085,16 +7103,16 @@
 | broadcom-sta | 6.30.223.271-59-6.12.59 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.12.59 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.12.59 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.broadcom_sta |
-| broadcom-sta | 6.30.223.271-59-6.17.8 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta |
-| broadcom-sta | 6.30.223.271-59-6.17.8 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.broadcom_sta |
+| broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_latest.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_lqx.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.broadcom_sta |
+| broadcom-sta | 6.30.223.271-59-6.17.9 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.6.117 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.broadcom_sta |
 | broadlink-cli | 0.19.0 | Tools for interfacing with Broadlink RM2/3 (Pro) remote controls, A1 sensor platforms and SP2/3 smartplugs | legacyPackages.x86_64-linux.broadlink-cli |
 | broccoli | 0.4.1.0 | Small library for interactive functional programs | legacyPackages.x86_64-linux.haskellPackages.broccoli |
@@ -8069,7 +8087,7 @@
 | carray | 0.1.6.8 | A C-compatible array library | legacyPackages.x86_64-linux.haskellPackages.carray |
 | carte | 0.1.0.0 | Carte: A commandline pastebin server | legacyPackages.x86_64-linux.haskellPackages.carte |
 | cartel | 0.18.0.2 | Specify Cabal files in Haskell | legacyPackages.x86_64-linux.haskellPackages.cartel |
-| cartero | 0.2.2 | Make HTTP requests and test APIs | legacyPackages.x86_64-linux.cartero |
+| cartero | 0.2.4 | Make HTTP requests and test APIs | legacyPackages.x86_64-linux.cartero |
 | carto | 1.2.0 | Mapnik stylesheet compiler | legacyPackages.x86_64-linux.carto |
 | carto | 1.2.0 | Mapnik stylesheet compiler | legacyPackages.x86_64-linux.nodePackages.carto |
 | carto | 1.2.0 | Mapnik stylesheet compiler | legacyPackages.x86_64-linux.nodePackages_latest.carto |
@@ -8442,7 +8460,7 @@
 | certigo | 1.17.1 | Utility to examine and validate certificates in a variety of formats | legacyPackages.x86_64-linux.certigo |
 | certinfo | 1.0.39 | Print x509 certificate info | legacyPackages.x86_64-linux.certinfo |
 | certinfo-go | 0.1.47 | Tool to analyze and troubleshoot x.509 & ssh certificates, encoded keys | legacyPackages.x86_64-linux.certinfo-go |
-| certipy-ad | 5.0.3 | Library and CLI tool to enumerate and abuse misconfigurations in Active Directory Certificate Services | legacyPackages.x86_64-linux.certipy |
+| certipy-ad | 5.0.4 | Library and CLI tool to enumerate and abuse misconfigurations in Active Directory Certificate Services | legacyPackages.x86_64-linux.certipy |
 | certmgr | 3.0.3 | Cloudflare's automated certificate management using a CFSSL CA | legacyPackages.x86_64-linux.certmgr |
 | certmitm | 0-unstable-2025-05-14 | Tool for testing for certificate validation vulnerabilities of TLS connections | legacyPackages.x86_64-linux.certmitm |
 | certspotter | 0.21.0 | Certificate Transparency Log Monitor | legacyPackages.x86_64-linux.certspotter |
@@ -9970,7 +9988,7 @@
 | classyplate | 0.3.2.0 | Fuseable type-class based generics | legacyPackages.x86_64-linux.haskellPackages.classyplate |
 | clatd | 2.1.0 | 464XLAT CLAT implementation for Linux | legacyPackages.x86_64-linux.clatd |
 | claude-code | 2.0.54 | Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster | legacyPackages.x86_64-linux.claude-code |
-| claude-code-acp | 0.10.6 | ACP-compatible coding agent powered by the Claude Code SDK | legacyPackages.x86_64-linux.claude-code-acp |
+| claude-code-acp | 0.10.8 | ACP-compatible coding agent powered by the Claude Code SDK | legacyPackages.x86_64-linux.claude-code-acp |
 | claude-code-router | 1.0.64 | Tool to route Claude Code requests to different models and customize any request | legacyPackages.x86_64-linux.claude-code-router |
 | claude-monitor | 3.1.0 | Real-time Claude Code usage monitor | legacyPackages.x86_64-linux.claude-monitor |
 | claws | 0.4.1 | Interactive command line client for testing websocket servers | legacyPackages.x86_64-linux.claws |
@@ -10103,9 +10121,9 @@
 | clist | 0.3.0.1 | Counted list | legacyPackages.x86_64-linux.haskellPackages.clist |
 | clistmap | 1.2 | Map and iterate over LaTeX3 clists | legacyPackages.x86_64-linux.texlivePackages.clistmap |
 | clit | 0.4.0.6 | Post tweets from stdin | legacyPackages.x86_64-linux.haskellPackages.clit |
-| clive | 0.12.12 | Automates terminal operations | legacyPackages.x86_64-linux.clive |
+| clive | 0.12.15 | Automates terminal operations | legacyPackages.x86_64-linux.clive |
 | clj-kondo | 2025.09.22 | Linter for Clojure code that sparks joy | legacyPackages.x86_64-linux.clj-kondo |
-| cljfmt | 0.15.3 | Tool for formatting Clojure code | legacyPackages.x86_64-linux.cljfmt |
+| cljfmt | 0.15.6 | Tool for formatting Clojure code | legacyPackages.x86_64-linux.cljfmt |
 | cljstyle | 0.17.642 | Tool for formatting Clojure code | legacyPackages.x86_64-linux.cljstyle |
 | clmagma | 1.3.0 | Matrix Algebra on GPU and Multicore Architectures, OpenCL port | legacyPackages.x86_64-linux.clmagma |
 | cln | 1.3.7 | C/C++ library for numbers, a part of GiNaC | legacyPackages.x86_64-linux.cln |
@@ -11585,6 +11603,7 @@
 | coroot | 1.11.4 | Open-source APM & Observability tool | legacyPackages.x86_64-linux.coroot |
 | coroot-node-agent | 1.27.0 | Prometheus exporter based on eBPF | legacyPackages.x86_64-linux.coroot-node-agent |
 | corosync | 3.1.9 | Group Communication System with features for implementing high availability within applications | legacyPackages.x86_64-linux.corosync |
+| corosync-qdevice | 3.0.4 | Corosync Cluster Engine Qdevice | legacyPackages.x86_64-linux.corosync-qdevice |
 | coroutine-enumerator | 0.1.1 | Bridge between the monad-coroutine and enumerator packages | legacyPackages.x86_64-linux.haskellPackages.coroutine-enumerator |
 | coroutine-iteratee | 0.1.1 | Bridge between the monad-coroutine and iteratee packages | legacyPackages.x86_64-linux.haskellPackages.coroutine-iteratee |
 | coroutine-object | 0.3.0 | Object-oriented programming realization using coroutine | legacyPackages.x86_64-linux.haskellPackages.coroutine-object |
@@ -11618,7 +11637,7 @@
 | cosmic-ext-applet-external-monitor-brightness | 0.0.1-unstable-2025-09-17 | Applet to control the brightness of external monitors | legacyPackages.x86_64-linux.cosmic-ext-applet-external-monitor-brightness |
 | cosmic-ext-applet-minimon | 0.9.0 | COSMIC applet for displaying CPU/Memory/Network/Disk/GPU usage in the Panel or Dock | legacyPackages.x86_64-linux.cosmic-ext-applet-minimon |
 | cosmic-ext-applet-privacy-indicator | 0.1.2 | Privacy indicator applet for the COSMIC Desktop Environment | legacyPackages.x86_64-linux.cosmic-ext-applet-privacy-indicator |
-| cosmic-ext-calculator | 0.1.1 | Calculator for the COSMIC Desktop Environment | legacyPackages.x86_64-linux.cosmic-ext-calculator |
+| cosmic-ext-calculator | 0.2.0 | Calculator for the COSMIC Desktop Environment | legacyPackages.x86_64-linux.cosmic-ext-calculator |
 | cosmic-ext-ctl | 1.5.0 | CLI for COSMIC Desktop configuration management | legacyPackages.x86_64-linux.cosmic-ext-ctl |
 | cosmic-ext-tweaks | 0.2.0 | Tweaking tool for the COSMIC Desktop Environment | legacyPackages.x86_64-linux.cosmic-ext-tweaks |
 | cosmic-files | 1.0.0-beta.7 | File Manager for the COSMIC Desktop Environment | legacyPackages.x86_64-linux.cosmic-files |
@@ -11773,16 +11792,16 @@
 | cpupower | 6.12.59 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.cpupower |
 | cpupower | 6.12.59 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages.cpupower |
 | cpupower | 6.12.59 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_xanmod.cpupower |
-| cpupower | 6.17.8 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower |
-| cpupower | 6.17.8 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_zen.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.cpupower |
+| cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_latest.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_lqx.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.cpupower |
 | cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.cpupower |
+| cpupower | 6.17.9 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_zen.cpupower |
 | cpupower | 6.6.117 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.cpupower |
 | cpupower-gui | 1.0.0 | Change the frequency limits of your cpu and its governor | legacyPackages.x86_64-linux.cpupower-gui |
 | cpuset | 1.6.2 | Python application that forms a wrapper around the standard Linux filesystem calls, to make using the cpusets facilities in the Linux kernel easier | legacyPackages.x86_64-linux.cpuset |
@@ -11965,7 +11984,7 @@
 | cruncher-types | 1.1.0 | Request and Response types for Eval.so's API | legacyPackages.x86_64-linux.haskellPackages.cruncher-types |
 | crunghc | 0.1.1.1 | A runghc replacement with transparent caching | legacyPackages.x86_64-linux.haskellPackages.crunghc |
 | crusader | 0.3.2 | Network throughput and latency tester | legacyPackages.x86_64-linux.crusader |
-| crush | 0.18.3 | Glamourous AI coding agent for your favourite terminal | legacyPackages.x86_64-linux.crush |
+| crush | 0.18.6 | Glamourous AI coding agent for your favourite terminal | legacyPackages.x86_64-linux.crush |
 | crux | 0.7.2 | Simple top-level library for Crucible Simulation | legacyPackages.x86_64-linux.haskellPackages.crux |
 | crux-llvm | 0.10 | A verification tool for C programs | legacyPackages.x86_64-linux.haskellPackages.crux-llvm |
 | cryfs | 1.0.1 | Cryptographic filesystem for the cloud | legacyPackages.x86_64-linux.cryfs |
@@ -12978,16 +12997,16 @@
 | ddcci-driver | 6.12.59-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ddcci-driver |
 | ddcci-driver | 6.12.59-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages.ddcci-driver |
 | ddcci-driver | 6.12.59-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_xanmod.ddcci-driver |
-| ddcci-driver | 6.17.8-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver |
-| ddcci-driver | 6.17.8-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ddcci-driver |
+| ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_latest.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_lqx.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ddcci-driver |
 | ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ddcci-driver |
+| ddcci-driver | 6.17.9-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver |
 | ddcci-driver | 6.6.117-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ddcci-driver |
 | ddccontrol | 1.0.3 | Program used to control monitor parameters by software | legacyPackages.x86_64-linux.ddccontrol |
 | ddccontrol-db | 20251102 | Monitor database for DDCcontrol | legacyPackages.x86_64-linux.ddccontrol-db |
@@ -13703,7 +13722,7 @@
 | discogs-haskell | 0.0.5.0 | Client for Discogs REST API | legacyPackages.x86_64-linux.haskellPackages.discogs-haskell |
 | discokitty | 0.1.0 | DisCoCat implementation | legacyPackages.x86_64-linux.haskellPackages.discokitty |
 | discord | 0.0.115 | All-in-one cross-platform voice and text chat for gamers | legacyPackages.x86_64-linux.discord |
-| discord-canary | 0.0.811 | All-in-one cross-platform voice and text chat for gamers | legacyPackages.x86_64-linux.discord-canary |
+| discord-canary | 0.0.812 | All-in-one cross-platform voice and text chat for gamers | legacyPackages.x86_64-linux.discord-canary |
 | discord-development | 0.0.92 | All-in-one cross-platform voice and text chat for gamers | legacyPackages.x86_64-linux.discord-development |
 | discord-gamesdk | 3.2.1 | Library to allow other programs to interact with the Discord desktop application | legacyPackages.x86_64-linux.discord-gamesdk |
 | discord-gateway | 0.2.2 | An API wrapper for Discord in Haskell | legacyPackages.x86_64-linux.haskellPackages.discord-gateway |
@@ -14487,7 +14506,7 @@
 | ds-kanren | 0.2.0.1 | A subset of the miniKanren language | legacyPackages.x86_64-linux.haskellPackages.ds-kanren |
 | dsc | 0.2.0 | Helper functions for setting up Double Submit Cookie defense for forms | legacyPackages.x86_64-linux.haskellPackages.dsc |
 | dscanner | 0.15.2 | Swiss-army knife for D source code | legacyPackages.x86_64-linux.dscanner |
-| dsda-doom | 0.29.3 | Advanced Doom source port with a focus on speedrunning, successor of PrBoom+ | legacyPackages.x86_64-linux.dsda-doom |
+| dsda-doom | 0.29.4 | Advanced Doom source port with a focus on speedrunning, successor of PrBoom+ | legacyPackages.x86_64-linux.dsda-doom |
 | dsda-launcher | 1.4 | Launcher GUI for the dsda-doom source port | legacyPackages.x86_64-linux.dsda-launcher |
 | dsdcc | 1.9.6 | Digital Speech Decoder (DSD) rewritten as a C++ library | legacyPackages.x86_64-linux.dsdcc |
 | dsf2flac | 0-unstable-2025-01-31 | DSD to FLAC transcoding tool | legacyPackages.x86_64-linux.dsf2flac |
@@ -14694,7 +14713,7 @@
 | dwl | 0.7 | Dynamic window manager for Wayland | legacyPackages.x86_64-linux.dwl |
 | dwlb | 0-unstable-2025-05-20 | Fast, feature-complete bar for dwl | legacyPackages.x86_64-linux.dwlb |
 | dwm | 6.6 | Extremely fast, small, and dynamic window manager for X | legacyPackages.x86_64-linux.dwm |
-| dwm-status | 1.10.0 | Highly performant and configurable DWM status service | legacyPackages.x86_64-linux.dwm-status |
+| dwm-status | 1.11.0 | Highly performant and configurable DWM status service | legacyPackages.x86_64-linux.dwm-status |
 | dwmbar | 0-unstable-2021-12-22 | Modular Status Bar for dwm | legacyPackages.x86_64-linux.dwmbar |
 | dwmblocks | 0-unstable-2024-08-24 | Modular status bar for dwm written in c | legacyPackages.x86_64-linux.dwmblocks |
 | dwt1-shell-color-scripts-unstable | 2023-03-27 | Collection of shell color scripts collected by dt (Derek Taylor) | legacyPackages.x86_64-linux.dwt1-shell-color-scripts |
@@ -14795,7 +14814,7 @@
 | easel | 0.49 | Sequence analysis library used by Eddy/Rivas lab code | legacyPackages.x86_64-linux.easel |
 | easeprobe | 2.3.0 | Simple, standalone, and lightweight tool that can do health/status checking, written in Go | legacyPackages.x86_64-linux.easeprobe |
 | easing | 0.1 | easing functions for pgfmath | legacyPackages.x86_64-linux.texlivePackages.easing |
-| eask-cli | 0.11.8 | CLI for building, runing, testing, and managing your Emacs Lisp dependencies | legacyPackages.x86_64-linux.eask-cli |
+| eask-cli | 0.11.9 | CLI for building, runing, testing, and managing your Emacs Lisp dependencies | legacyPackages.x86_64-linux.eask-cli |
 | easy | 0.99 | A collection of easy-to-use macros | legacyPackages.x86_64-linux.texlivePackages.easy |
 | easy-api | 0.1.0.0 | Utility code for building HTTP API bindings more quickly | legacyPackages.x86_64-linux.haskellPackages.easy-api |
 | easy-args | 0.1.0.1 | Parses command line arguments | legacyPackages.x86_64-linux.haskellPackages.easy-args |
@@ -15227,7 +15246,7 @@
 | elementary-dock | 8.3.0 | Elegant, simple, clean dock | legacyPackages.x86_64-linux.pantheon.elementary-dock |
 | elementary-feedback | 8.1.0 | GitHub Issue Reporter designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-feedback |
 | elementary-files | 7.1.6 | File browser designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-files |
-| elementary-greeter | 8.1.0 | LightDM Greeter for Pantheon | legacyPackages.x86_64-linux.pantheon.elementary-greeter |
+| elementary-greeter | 8.1.1 | LightDM Greeter for Pantheon | legacyPackages.x86_64-linux.pantheon.elementary-greeter |
 | elementary-gsettings-desktop-schemas |  |  | legacyPackages.x86_64-linux.pantheon.elementary-gsettings-schemas |
 | elementary-gtk-theme | 8.2.1 | GTK theme designed to be smooth, attractive, fast, and usable | legacyPackages.x86_64-linux.pantheon.elementary-gtk-theme |
 | elementary-icon-theme | 8.2.0 | Named, vector icons for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-icon-theme |
@@ -15237,14 +15256,14 @@
 | elementary-monitor | 8.0.0 | Manage processes and monitor system resources | legacyPackages.x86_64-linux.monitor |
 | elementary-monitor | 8.0.0 | Manage processes and monitor system resources | legacyPackages.x86_64-linux.pantheon.elementary-monitor |
 | elementary-music | 8.1.0 | Music player and library designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-music |
-| elementary-notifications | 8.1.1 | GTK notification server for Pantheon | legacyPackages.x86_64-linux.pantheon.elementary-notifications |
-| elementary-onboarding | 8.0.3 | Onboarding app for new users designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-onboarding |
+| elementary-notifications | 8.1.2 | GTK notification server for Pantheon | legacyPackages.x86_64-linux.pantheon.elementary-notifications |
+| elementary-onboarding | 8.0.4 | Onboarding app for new users designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-onboarding |
 | elementary-photos | 8.0.1 | Photo viewer and organizer designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-photos |
 | elementary-print-shim | 0.1.3 | Simple shim for printing support via Contractor | legacyPackages.x86_64-linux.pantheon.elementary-print-shim |
 | elementary-redacted-script | 5.1.0 | Font for concealing text | legacyPackages.x86_64-linux.pantheon.elementary-redacted-script |
 | elementary-screenshot | 8.0.3 | Screenshot tool designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-screenshot |
 | elementary-session-settings | 8.1.0 | Session settings for elementary | legacyPackages.x86_64-linux.pantheon.elementary-session-settings |
-| elementary-settings-daemon | 8.3.1 | Settings daemon for Pantheon | legacyPackages.x86_64-linux.pantheon.elementary-settings-daemon |
+| elementary-settings-daemon | 8.4.0 | Settings daemon for Pantheon | legacyPackages.x86_64-linux.pantheon.elementary-settings-daemon |
 | elementary-shortcut-overlay | 8.1.0 | Native OS-wide shortcut overlay to be launched by Gala | legacyPackages.x86_64-linux.pantheon.elementary-shortcut-overlay |
 | elementary-sound-theme | 1.1.0 | Set of system sounds for elementary | legacyPackages.x86_64-linux.pantheon.elementary-sound-theme |
 | elementary-tasks | 6.3.3 | Synced tasks and reminders on elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-tasks |
@@ -15321,7 +15340,7 @@
 | elixir-ls | 0.30.0 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"  | legacyPackages.x86_64-linux.beamMinimal27Packages.elixir-ls |
 | elixir-ls | 0.30.0 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"  | legacyPackages.x86_64-linux.beamMinimal28Packages.elixir-ls |
 | elixir-ls | 0.30.0 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"  | legacyPackages.x86_64-linux.elixir-ls |
-| eliza | 0-unstable-2025-10-28 | C++ simulation of Joseph Weizenbaum’s 1966 ELIZA | legacyPackages.x86_64-linux.eliza |
+| eliza | 0-unstable-2025-11-26 | C++ simulation of Joseph Weizenbaum’s 1966 ELIZA | legacyPackages.x86_64-linux.eliza |
 | elkhound | 0-unstable-2020-04-13 | Parser generator which emits GLR parsers, either in OCaml or C++ | legacyPackages.x86_64-linux.elkhound |
 | ell | 0.80 | Embedded Linux Library | legacyPackages.x86_64-linux.ell |
 | ellipse | 1.0 | Draw ellipses and elliptical arcs using the standard LaTeX2e picture environment | legacyPackages.x86_64-linux.texlivePackages.ellipse |
@@ -15563,16 +15582,16 @@
 | ena | 2.16.0-6.12.59 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ena |
 | ena | 2.16.0-6.12.59 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages.ena |
 | ena | 2.16.0-6.12.59 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod.ena |
-| ena | 2.16.0-6.17.8 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ena |
-| ena | 2.16.0-6.17.8 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_zen.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ena |
+| ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_latest.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_lqx.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ena |
 | ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ena |
+| ena | 2.16.0-6.17.9 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_zen.ena |
 | ena | 2.16.0-6.6.117 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ena |
 | enable-gcov-instrumentation-hook |  |  | legacyPackages.x86_64-linux.enableGCOVInstrumentation |
 | enblend-enfuse-unstable | 2022-03-06 | Blends away the seams in a panoramic image mosaic using a multiresolution spline | legacyPackages.x86_64-linux.enblend-enfuse |
@@ -16448,16 +16467,16 @@
 | facetimehd | 0.6.13-6.12.59 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.facetimehd |
 | facetimehd | 0.6.13-6.12.59 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages.facetimehd |
 | facetimehd | 0.6.13-6.12.59 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_xanmod.facetimehd |
-| facetimehd | 0.6.13-6.17.8 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd |
-| facetimehd | 0.6.13-6.17.8 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.facetimehd |
+| facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_latest.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_lqx.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.facetimehd |
 | facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.facetimehd |
+| facetimehd | 0.6.13-6.17.9 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd |
 | facetimehd | 0.6.13-6.6.117 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.facetimehd |
 | facetimehd-calibration | 5.1.5769 | facetimehd calibration | legacyPackages.x86_64-linux.facetimehd-calibration |
 | facetimehd-firmware | 1.43_5 | facetimehd firmware | legacyPackages.x86_64-linux.facetimehd-firmware |
@@ -16601,16 +16620,16 @@
 | fanout-unstable | 2022-10-17-6.12.59 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.fanout |
 | fanout-unstable | 2022-10-17-6.12.59 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages.fanout |
 | fanout-unstable | 2022-10-17-6.12.59 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_xanmod.fanout |
-| fanout-unstable | 2022-10-17-6.17.8 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fanout |
-| fanout-unstable | 2022-10-17-6.17.8 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_zen.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.fanout |
+| fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_latest.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_lqx.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.fanout |
 | fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.fanout |
+| fanout-unstable | 2022-10-17-6.17.9 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_zen.fanout |
 | fanout-unstable | 2022-10-17-6.6.117 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.fanout |
 | fantasque-sans-mono | 1.8.0 | Font family with a great monospaced variant for programmers | legacyPackages.x86_64-linux.fantasque-sans-mono |
 | fantomas | 7.0.3 | F# source code formatter | legacyPackages.x86_64-linux.fantomas |
@@ -17148,6 +17167,7 @@
 | findex | 0.8.3 | Highly customizable application finder written in Rust and uses Gtk3 | legacyPackages.x86_64-linux.findex |
 | findhttp | 0.1.1 | List http/html files | legacyPackages.x86_64-linux.haskellPackages.findhttp |
 | findhyph | 3.4 | Find hyphenated words in a document | legacyPackages.x86_64-linux.texlivePackages.findhyph |
+| findimagedupes | 2.20.1 | Finds visually similar or duplicate images | legacyPackages.x86_64-linux.findimagedupes |
 | findnewest | 0.3 | Recursively find newest file in a hierarchy and print its timestamp | legacyPackages.x86_64-linux.findnewest |
 | findomain | 10.0.1 | Fastest and cross-platform subdomain enumerator | legacyPackages.x86_64-linux.findomain |
 | findup | 2.0.0 | Search parent directories for sentinel files | legacyPackages.x86_64-linux.findup |
@@ -17557,8 +17577,8 @@
 | fluentd | 1.18.0 | Data collector | legacyPackages.x86_64-linux.fluentd |
 | fluffy | 0.1.0.71 | A simple web application as a online practice website for XDU SE 2017 fall SPM | legacyPackages.x86_64-linux.haskellPackages.fluffy |
 | fluffy-parser | 0.1.0.50 | The parser for fluffy to parsec the question bank in .docx type | legacyPackages.x86_64-linux.haskellPackages.fluffy-parser |
-| fluffychat-linux | 2.2.0 | Chat with your friends (matrix client) | legacyPackages.x86_64-linux.fluffychat |
-| fluffychat-web | 2.2.0 | Chat with your friends (matrix client) | legacyPackages.x86_64-linux.fluffychat-web |
+| fluffychat-linux | 2.3.1 | Chat with your friends (matrix client) | legacyPackages.x86_64-linux.fluffychat |
+| fluffychat-web | 2.3.1 | Chat with your friends (matrix client) | legacyPackages.x86_64-linux.fluffychat-web |
 | fluid-idl | 0.0.6 | Code-generated, Auto-versioned, & Smart Web APIs | legacyPackages.x86_64-linux.haskellPackages.fluid-idl |
 | fluid-idl-http-client | 0.0.0 | Http Client addon for Fluid | legacyPackages.x86_64-linux.haskellPackages.fluid-idl-http-client |
 | fluid-idl-scotty | 0.0.0 | Scotty server add-on for Fluid | legacyPackages.x86_64-linux.haskellPackages.fluid-idl-scotty |
@@ -18406,16 +18426,16 @@
 | fwts-efi-runtime | 25.09.00-6.12.59 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.12.59 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.12.59 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_xanmod.fwts-efi-runtime |
-| fwts-efi-runtime | 25.09.00-6.17.8 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fwts-efi-runtime |
-| fwts-efi-runtime | 25.09.00-6.17.8 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.fwts-efi-runtime |
+| fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_latest.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_lqx.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.fwts-efi-runtime |
+| fwts-efi-runtime | 25.09.00-6.17.9 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.6.117 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.fwts-efi-runtime |
 | fwup | 1.13.2 | Configurable embedded Linux firmware update creator and runner | legacyPackages.x86_64-linux.fwup |
 | fwupd | 2.0.16 |  | legacyPackages.x86_64-linux.fwupd |
@@ -18587,7 +18607,7 @@
 | gasp | 1.4.0.0 | A framework of algebraic classes | legacyPackages.x86_64-linux.haskellPackages.gasp |
 | gastex | 3.1 | Graphs and Automata Simplified in TeX | legacyPackages.x86_64-linux.texlivePackages.gastex |
 | gat | 0.25.6 | Cat alternative written in Go | legacyPackages.x86_64-linux.gat |
-| gate | 0.58.1 | High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy | legacyPackages.x86_64-linux.gate |
+| gate | 0.59.0 | High-Performance, Low-Memory, Lightweight, Extensible Minecraft Reverse Proxy | legacyPackages.x86_64-linux.gate |
 | gatekeeper | 3.21.0 | Policy Controller for Kubernetes | legacyPackages.x86_64-linux.gatekeeper |
 | gates | 0.2 | Support for writing modular and customisable code | legacyPackages.x86_64-linux.texlivePackages.gates |
 | gateway | 2025.2.4 | Remote development for JetBrains products | legacyPackages.x86_64-linux.jetbrains.gateway |
@@ -18600,6 +18620,7 @@
 | gatsby-cli | 5.15.0 | The Gatsby command line interface | legacyPackages.x86_64-linux.nodePackages.gatsby-cli |
 | gatsby-cli | 5.15.0 | The Gatsby command line interface | legacyPackages.x86_64-linux.nodePackages_latest.gatsby-cli |
 | gatus | 5.31.0 | Automated developer-oriented status page | legacyPackages.x86_64-linux.gatus |
+| gatus-cli | 1.0.0 | Client for Gatus, an automated developer-oriented status page | legacyPackages.x86_64-linux.gatus-cli |
 | gau | 2.2.4 | Tool to fetch known URLs | legacyPackages.x86_64-linux.gau |
 | gauche | 0.9.15 | R7RS Scheme scripting engine | legacyPackages.x86_64-linux.gauche |
 | gauche-bootstrap | 0.9.15 | R7RS Scheme scripting engine (released version) | legacyPackages.x86_64-linux.gaucheBootstrap |
@@ -19787,7 +19808,7 @@
 | gitlab-haskell | 1.1.0.0 | A Haskell library for the GitLab web API | legacyPackages.x86_64-linux.haskellPackages.gitlab-haskell |
 | gitlab-pages | 18.6.0 | Daemon used to serve static websites for GitLab users | legacyPackages.x86_64-linux.gitlab-pages |
 | gitlab-release-cli | 0.24.0 | Toolset to create, retrieve and update releases on GitLab | legacyPackages.x86_64-linux.gitlab-release-cli |
-| gitlab-runner | 18.6.0 | GitLab Runner the continuous integration executor of GitLab | legacyPackages.x86_64-linux.gitlab-runner |
+| gitlab-runner | 18.5.0 | GitLab Runner the continuous integration executor of GitLab | legacyPackages.x86_64-linux.gitlab-runner |
 | gitlab-shell | 14.45.3 | SSH access and repository management app for GitLab | legacyPackages.x86_64-linux.gitlab-shell |
 | gitlab-timelogs | 0.6.0 | CLI utility to support you with your time logs in GitLab | legacyPackages.x86_64-linux.gitlab-timelogs |
 | gitlab-triage | 1.44.5 | GitLab's issues and merge requests triage, automated | legacyPackages.x86_64-linux.gitlab-triage |
@@ -21324,7 +21345,7 @@
 | go2tv-lite | 1.19.0 | Cast media files to UPnP/DLNA Media Renderers and Smart TVs | legacyPackages.x86_64-linux.go2tv-lite |
 | go365 | 2.0 | Office 365 enumeration tool | legacyPackages.x86_64-linux.go365 |
 | go9p | 0.25.0 | Implementation of the 9p2000 protocol in Go | legacyPackages.x86_64-linux.go9p |
-| goa | 3.22.6 | Design-based APIs and microservices in Go | legacyPackages.x86_64-linux.goa |
+| goa | 3.23.0 | Design-based APIs and microservices in Go | legacyPackages.x86_64-linux.goa |
 | goa | 3.3 | GHCi bindings to lambdabot | legacyPackages.x86_64-linux.haskellPackages.goa |
 | goaccess | 1.9.4 | Real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems | legacyPackages.x86_64-linux.goaccess |
 | goal-core | 0.20 | Common, non-geometric tools for use with Goal | legacyPackages.x86_64-linux.haskellPackages.goal-core |
@@ -21667,7 +21688,7 @@
 | golines | 0.13.0 | Golang formatter that fixes long lines | legacyPackages.x86_64-linux.golines |
 | golink | 1.0.0 | Private shortlink service for tailnets | legacyPackages.x86_64-linux.golink |
 | golint-unstable | 2020-12-08 | Linter for Go source code | legacyPackages.x86_64-linux.golint |
-| gollama-v1.37.3 |  | Go manage your Ollama models | legacyPackages.x86_64-linux.gollama |
+| gollama-v1.37.5 |  | Go manage your Ollama models | legacyPackages.x86_64-linux.gollama |
 | gollum | 6.1.0 | Simple, Git-powered wiki with a sweet API and local frontend | legacyPackages.x86_64-linux.gollum |
 | golly | 5.0 | Cellular automata simulation program | legacyPackages.x86_64-linux.golly |
 | gom | 0.5.5 | GObject to SQLite object mapper | legacyPackages.x86_64-linux.gom |
@@ -22035,7 +22056,7 @@
 | grafana-lokiexplore-app | 1.0.31 | Browse Loki logs without the need for writing complex queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-lokiexplore-app |
 | grafana-metricsdrilldown-app | 1.0.23 | Queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-metricsdrilldown-app |
 | grafana-mqtt-datasource | 1.1.0-beta.3 | Visualize streaming MQTT data from within Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-mqtt-datasource |
-| grafana-oncall-app | 1.16.6 | Developer-friendly incident response for Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-oncall-app |
+| grafana-oncall-app | 1.16.7 | Developer-friendly incident response for Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-oncall-app |
 | grafana-opensearch-datasource | 2.24.0 | Empowers you to seamlessly integrate JSON data into Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-opensearch-datasource |
 | grafana-piechart-panel | 1.6.4 | Pie chart panel for Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-piechart-panel |
 | grafana-polystat-panel | 2.1.15 | Hexagonal multi-stat panel for Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-polystat-panel |
@@ -22918,7 +22939,7 @@
 | hamnosys | 1.0.3 | A font for sign languages | legacyPackages.x86_64-linux.texlivePackages.hamnosys |
 | hampp | 0.2.1 | Haskell macro preprocessor | legacyPackages.x86_64-linux.haskellPackages.hampp |
 | hamrs | 1.0.7 | Simple, portable logger tailored for activities like Parks on the Air, Field Day, and more | legacyPackages.x86_64-linux.hamrs |
-| hamrs-pro | 2.44.0 | Simple, portable logger tailored for activities like Parks on the Air, Field Day, and more | legacyPackages.x86_64-linux.hamrs-pro |
+| hamrs-pro | 2.45.0 | Simple, portable logger tailored for activities like Parks on the Air, Field Day, and more | legacyPackages.x86_64-linux.hamrs-pro |
 | hamsket | 0.6.5 | Free and open source messaging and emailing app that combines common web applications into one | legacyPackages.x86_64-linux.hamsket |
 | hamsql | 0.9.0.0 | Interpreter for SQL-structure definitions in YAML (YamSql) | legacyPackages.x86_64-linux.haskellPackages.hamsql |
 | hamster | 3.0.3 | Time tracking application | legacyPackages.x86_64-linux.hamster |
@@ -26088,7 +26109,6 @@
 | http-pony-transformer-case-insensitive | 0.1.0.2 | Tag http headers as case insensitive | legacyPackages.x86_64-linux.haskellPackages.http-pony-transformer-case-insensitive |
 | http-pony-transformer-http | 0.1.0.3 | Transform raw TCP stream to a basic HTTP type | legacyPackages.x86_64-linux.haskellPackages.http-pony-transformer-http |
 | http-pony-transformer-startline | 0.1.0.1 | transform HTTP startlines to tuples | legacyPackages.x86_64-linux.haskellPackages.http-pony-transformer-startline |
-| http-prompt | 2.1.0 | Interactive command-line HTTP client featuring autocomplete and syntax highlighting | legacyPackages.x86_64-linux.http-prompt |
 | http-proxy | 0.1.2.0 | A library for writing HTTP and HTTPS proxies | legacyPackages.x86_64-linux.haskellPackages.http-proxy |
 | http-query | 0.1.3 | Simple http queries | legacyPackages.x86_64-linux.haskellPackages.http-query |
 | http-querystring | 1.0 | The HTTP query builder | legacyPackages.x86_64-linux.haskellPackages.http-querystring |
@@ -26565,16 +26585,16 @@
 | hyperv-daemons | 6.12.59 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.hyperv-daemons |
 | hyperv-daemons | 6.12.59 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages.hyperv-daemons |
 | hyperv-daemons | 6.12.59 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_xanmod.hyperv-daemons |
-| hyperv-daemons | 6.17.8 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hyperv-daemons |
-| hyperv-daemons | 6.17.8 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_zen.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.hyperv-daemons |
+| hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_latest.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_lqx.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.hyperv-daemons |
 | hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.hyperv-daemons |
+| hyperv-daemons | 6.17.9 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_zen.hyperv-daemons |
 | hyperv-daemons | 6.6.117 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.hyperv-daemons |
 | hyperxmp | 5.13 | Embed XMP metadata within a LaTeX document | legacyPackages.x86_64-linux.texlivePackages.hyperxmp |
 | hyph-utf8 | 74823 | Hyphenation patterns expressed in UTF-8 | legacyPackages.x86_64-linux.texlivePackages.hyph-utf8 |
@@ -26715,7 +26735,7 @@
 | hyprsysteminfo | 0.1.3 | Tiny qt6/qml application to display information about the running system | legacyPackages.x86_64-linux.hyprsysteminfo |
 | hyprtoolkit | 0.3.0 | A modern C++ Wayland-native GUI toolkit | legacyPackages.x86_64-linux.hyprtoolkit |
 | hyprtrails | 0.52.0 | Hyprland smooth trails behind moving windows plugin | legacyPackages.x86_64-linux.hyprlandPlugins.hyprtrails |
-| hyprutils | 0.10.2 | Small C++ library for utilities used across the Hypr* ecosystem | legacyPackages.x86_64-linux.hyprutils |
+| hyprutils | 0.10.3 | Small C++ library for utilities used across the Hypr* ecosystem | legacyPackages.x86_64-linux.hyprutils |
 | hyprviz | 0.7.1 | GUI for configuring Hyprland | legacyPackages.x86_64-linux.hyprviz |
 | hyprwayland-scanner | 0.4.5 | Hyprland version of wayland-scanner in and for C++ | legacyPackages.x86_64-linux.hyprwayland-scanner |
 | hyprwinwrap | 0.52.0 | Hyprland xwinwrap-like plugin | legacyPackages.x86_64-linux.hyprlandPlugins.hyprwinwrap |
@@ -27136,16 +27156,16 @@
 | iio-utils | 6.12.59 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.iio-utils |
 | iio-utils | 6.12.59 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages.iio-utils |
 | iio-utils | 6.12.59 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_xanmod.iio-utils |
-| iio-utils | 6.17.8 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.iio-utils |
-| iio-utils | 6.17.8 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_zen.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.iio-utils |
+| iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_latest.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_lqx.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.iio-utils |
 | iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.iio-utils |
+| iio-utils | 6.17.9 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_zen.iio-utils |
 | iio-utils | 6.6.117 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.iio-utils |
 | iir1 | 1.10.0 | DSP IIR realtime filter library written in C++ | legacyPackages.x86_64-linux.iir1 |
 | iitem | 1.0 | Multiple level of lists in one list-like environment | legacyPackages.x86_64-linux.texlivePackages.iitem |
@@ -27248,7 +27268,7 @@
 | immich-go | 0.31.0 | Immich client tool for bulk-uploads | legacyPackages.x86_64-linux.immich-go |
 | immich-kiosk | 0.26.1 | Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source | legacyPackages.x86_64-linux.immich-kiosk |
 | immich-machine-learning | 2.3.1 | Self-hosted photo and video backup solution (machine learning component) | legacyPackages.x86_64-linux.immich-machine-learning |
-| immich-public-proxy | 1.14.1 | Share your Immich photos and albums in a safe way without exposing your Immich instance to the public | legacyPackages.x86_64-linux.immich-public-proxy |
+| immich-public-proxy | 1.14.2 | Share your Immich photos and albums in a safe way without exposing your Immich instance to the public | legacyPackages.x86_64-linux.immich-public-proxy |
 | immortal | 0.3 | Spawn threads that never die (unless told to do so) | legacyPackages.x86_64-linux.haskellPackages.immortal |
 | immortal-queue | 0.1.0.1 | Build a pool of queue-processing worker threads | legacyPackages.x86_64-linux.haskellPackages.immortal-queue |
 | immortal-worker | 0.1.0.0 | Create worker threads that logs exceptions and restarts | legacyPackages.x86_64-linux.haskellPackages.immortal-worker |
@@ -27432,7 +27452,7 @@
 | infer-license | 0.2.0 | Infer software license from a given license file | legacyPackages.x86_64-linux.haskellPackages.infer-license |
 | infer-upstream | 0.1.1.0 | Find the repository from where a given repo was forked | legacyPackages.x86_64-linux.haskellPackages.infer-upstream |
 | infernal | 0.7.0 | The Infernal Machine - An AWS Lambda Custom Runtime for Haskell | legacyPackages.x86_64-linux.haskellPackages.infernal |
-| inferno | 0.12.3 | Port of parts of the flamegraph toolkit to Rust | legacyPackages.x86_64-linux.inferno |
+| inferno | 0.12.4 | Port of parts of the flamegraph toolkit to Rust | legacyPackages.x86_64-linux.inferno |
 | inferno-core | 0.1.0.0 | A statically-typed functional scripting language | legacyPackages.x86_64-linux.haskellPackages.inferno-core |
 | inferno-lsp | 0.1.0 | LSP for Inferno | legacyPackages.x86_64-linux.haskellPackages.inferno-lsp |
 | inferno-types | 0.1.0.0 | Core types for Inferno | legacyPackages.x86_64-linux.haskellPackages.inferno-types |
@@ -27617,6 +27637,7 @@
 | intel-media-driver | 25.3.4 | Intel Media Driver for VAAPI — Broadwell+ iGPUs | legacyPackages.x86_64-linux.driversi686Linux.intel-media-driver |
 | intel-media-driver | 25.3.4 | Intel Media Driver for VAAPI — Broadwell+ iGPUs | legacyPackages.x86_64-linux.intel-media-driver |
 | intel-media-sdk | 23.2.2 | Intel Media SDK | legacyPackages.x86_64-linux.intel-media-sdk |
+| intel-npu-driver | 1.26.0 | Intel NPU (Neural Processing Unit) Standalone Driver | legacyPackages.x86_64-linux.intel-npu-driver |
 | intel-ocl | 5.0-63503 | Official OpenCL runtime for Intel CPUs | legacyPackages.x86_64-linux.intel-ocl |
 | intel-one-mono | 1.4.0 | Intel One Mono, an expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind | legacyPackages.x86_64-linux.intel-one-mono |
 | intel-powermon | 0.0.1 | Poll modern Intel/AMD CPU power consumption on Linux via RAPL | legacyPackages.x86_64-linux.haskellPackages.intel-powermon |
@@ -27629,16 +27650,16 @@
 | intel-speed-select | 6.12.59 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.intel-speed-select |
 | intel-speed-select | 6.12.59 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages.intel-speed-select |
 | intel-speed-select | 6.12.59 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_xanmod.intel-speed-select |
-| intel-speed-select | 6.17.8 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.intel-speed-select |
-| intel-speed-select | 6.17.8 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_zen.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.intel-speed-select |
+| intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_latest.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_lqx.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.intel-speed-select |
 | intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.intel-speed-select |
+| intel-speed-select | 6.17.9 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_zen.intel-speed-select |
 | intel-speed-select | 6.6.117 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.intel-speed-select |
 | intel-undervolt | 1.7 | Intel CPU undervolting and throttling configuration tool | legacyPackages.x86_64-linux.intel-undervolt |
 | intel-vaapi-driver | 2.4.1-unstable-2024-10-29 | VA-API user mode driver for Intel GEN Graphics family | legacyPackages.x86_64-linux.driversi686Linux.intel-vaapi-driver |
@@ -27984,16 +28005,16 @@
 | isgx | 2.14-6.12.59 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.isgx |
 | isgx | 2.14-6.12.59 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages.isgx |
 | isgx | 2.14-6.12.59 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.isgx |
-| isgx | 2.14-6.17.8 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.isgx |
-| isgx | 2.14-6.17.8 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_zen.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.isgx |
+| isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_latest.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_lqx.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.isgx |
 | isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.isgx |
+| isgx | 2.14-6.17.9 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_zen.isgx |
 | isgx | 2.14-6.6.117 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.isgx |
 | isisdl | 1.3.21 | Downloader for ISIS of TU-Berlin | legacyPackages.x86_64-linux.isisdl |
 | isiz | 0.0.1 | A program to show the size of image and whether suitable for wallpaper | legacyPackages.x86_64-linux.haskellPackages.isiz |
@@ -28059,16 +28080,16 @@
 | it87-unstable | 2024-06-09-6.12.59 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.it87 |
 | it87-unstable | 2024-06-09-6.12.59 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages.it87 |
 | it87-unstable | 2024-06-09-6.12.59 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_xanmod.it87 |
-| it87-unstable | 2024-06-09-6.17.8 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.it87 |
-| it87-unstable | 2024-06-09-6.17.8 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_zen.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.it87 |
+| it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_latest.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_lqx.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.it87 |
 | it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.it87 |
+| it87-unstable | 2024-06-09-6.17.9 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_zen.it87 |
 | it87-unstable | 2024-06-09-6.6.117 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.it87 |
 | itamae | 1.14.1 | Simple and lightweight configuration management tool inspired by Chef | legacyPackages.x86_64-linux.itamae |
 | itanium-abi | 0.1.3 | An implementation of name mangling/demangling for the Itanium ABI | legacyPackages.x86_64-linux.haskellPackages.itanium-abi |
@@ -28196,16 +28217,16 @@
 | ixgbevf | 4.6.1-6.12.59 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ixgbevf |
 | ixgbevf | 4.6.1-6.12.59 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages.ixgbevf |
 | ixgbevf | 4.6.1-6.12.59 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.ixgbevf |
-| ixgbevf | 4.6.1-6.17.8 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ixgbevf |
-| ixgbevf | 4.6.1-6.17.8 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ixgbevf |
+| ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_latest.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_lqx.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ixgbevf |
 | ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ixgbevf |
+| ixgbevf | 4.6.1-6.17.9 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.6.117 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ixgbevf |
 | ixmonad | 0.57 | Embeds effect systems into Haskell using parameteric effect monads | legacyPackages.x86_64-linux.haskellPackages.ixmonad |
 | ixset | 1.1.1.2 | Efficient relational queries on Haskell sets | legacyPackages.x86_64-linux.haskellPackages.ixset |
@@ -28525,16 +28546,16 @@
 | jool | 4.1.14-6.12.59 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.jool |
 | jool | 4.1.14-6.12.59 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages.jool |
 | jool | 4.1.14-6.12.59 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_xanmod.jool |
-| jool | 4.1.14-6.17.8 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.jool |
-| jool | 4.1.14-6.17.8 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_zen.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.jool |
+| jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_latest.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_lqx.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.jool |
 | jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.jool |
+| jool | 4.1.14-6.17.9 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_zen.jool |
 | jool | 4.1.14-6.6.117 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.jool |
 | jool-cli | 4.1.14 | Fairly compliant SIIT and Stateful NAT64 for Linux - CLI tools | legacyPackages.x86_64-linux.jool-cli |
 | joomscan-unstable | 2021-06-08 | Joomla Vulnerability Scanner | legacyPackages.x86_64-linux.joomscan |
@@ -28785,7 +28806,7 @@
 | juicity | 0.5.0 | Quic-based proxy protocol | legacyPackages.x86_64-linux.juicity |
 | juicy-draw | 0.2.0.0 | Draw and fill lines, rectangles and polygons | legacyPackages.x86_64-linux.haskellPackages.juicy-draw |
 | juicy-gcode | 1.0.0.0 | SVG to G-Code converter | legacyPackages.x86_64-linux.haskellPackages.juicy-gcode |
-| juju | 3.6.11 | Open source modelling tool for operating software in the cloud | legacyPackages.x86_64-linux.juju |
+| juju | 3.6.12 | Open source modelling tool for operating software in the cloud | legacyPackages.x86_64-linux.juju |
 | jujutsu | 0.35.0 | Git-compatible DVCS that is both simple and powerful | legacyPackages.x86_64-linux.jujutsu |
 | jujuutils | 0.2 | Utilities around FireWire devices connected to a Linux computer | legacyPackages.x86_64-linux.jujuutils |
 | juk | 25.08.3 | Audio jukebox app, supporting collections of MP3, Ogg Vorbis and FLAC audio files | legacyPackages.x86_64-linux.kdePackages.juk |
@@ -29101,7 +29122,7 @@
 | kauth | 5.116.0 |  | legacyPackages.x86_64-linux.libsForQt5.kauth |
 | kauth | 5.116.0 |  | legacyPackages.x86_64-linux.plasma5Packages.kauth |
 | kauth | 6.20.0 | KAuth | legacyPackages.x86_64-linux.kdePackages.kauth |
-| kavita | 0.8.7 | Fast, feature rich, cross platform reading server | legacyPackages.x86_64-linux.kavita |
+| kavita | 0.8.8.3 | Fast, feature rich, cross platform reading server | legacyPackages.x86_64-linux.kavita |
 | kawa | 0.1.0.0 | Key-value store in single files | legacyPackages.x86_64-linux.haskellPackages.kawa |
 | kawa | 3.1.1 | Scheme implementation running on the Java platform | legacyPackages.x86_64-linux.kawa |
 | kawaii | 0.0.1.1 | Utilities for serving static sites and blogs with Wai/Warp | legacyPackages.x86_64-linux.haskellPackages.kawaii |
@@ -29843,8 +29864,8 @@
 | kooha | 2.3.0 | Elegantly record your screen | legacyPackages.x86_64-linux.kooha |
 | kool | 3.5.2 | From local development to the cloud: development workflow made easy | legacyPackages.x86_64-linux.kool |
 | kopeninghours | 25.08.3 | Library for parsing and evaluating OSM opening hours expressions. | legacyPackages.x86_64-linux.kdePackages.kopeninghours |
-| kopia | 0.22.0 | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication | legacyPackages.x86_64-linux.kopia |
-| kopia-ui | 0.22.0 | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication | legacyPackages.x86_64-linux.kopia-ui |
+| kopia | 0.22.2 | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication | legacyPackages.x86_64-linux.kopia |
+| kopia-ui | 0.22.2 | Cross-platform backup tool with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication | legacyPackages.x86_64-linux.kopia-ui |
 | kops | 1.31.0 | Easiest way to get a production Kubernetes up and running | legacyPackages.x86_64-linux.kops_1_31 |
 | kops | 1.32.1 | Easiest way to get a production Kubernetes up and running | legacyPackages.x86_64-linux.kops_1_32 |
 | kops | 1.33.0 | Easiest way to get a production Kubernetes up and running | legacyPackages.x86_64-linux.kops |
@@ -29933,6 +29954,7 @@
 | krep | 1.1.2 | Blazingly fast string search utility designed for performance-critical applications | legacyPackages.x86_64-linux.krep |
 | kreversi | 25.08.3 | KReversi is is a simple one player strategy game played against the computer | legacyPackages.x86_64-linux.kdePackages.kreversi |
 | krew | 0.4.5 | Package manager for kubectl plugins | legacyPackages.x86_64-linux.krew |
+| kreya | 1.18.0 | Kreya is a GUI client for gRPC and REST APIs | legacyPackages.x86_64-linux.kreya |
 | krfb | 25.08.3 | Desktop Sharing | legacyPackages.x86_64-linux.kdePackages.krfb |
 | krill | 0.15.0 | RPKI Certificate Authority and Publication Server written in Rust | legacyPackages.x86_64-linux.krill |
 | krillinai | 1.4.0 | Video translation and dubbing tool | legacyPackages.x86_64-linux.krillinai |
@@ -30086,7 +30108,7 @@
 | kubernetes-webhook-haskell | 0.2.0.3 | Create Kubernetes Admission Webhooks in Haskell | legacyPackages.x86_64-linux.haskellPackages.kubernetes-webhook-haskell |
 | kubernix | 0.2.0-unstable-2021-11-16 | Single dependency Kubernetes clusters for local testing, experimenting and development | legacyPackages.x86_64-linux.kubernix |
 | kubescape | 3.0.45 | Tool for testing if Kubernetes is deployed securely | legacyPackages.x86_64-linux.kubescape |
-| kubeseal | 0.32.2 | Kubernetes controller and tool for one-way encrypted Secrets | legacyPackages.x86_64-linux.kubeseal |
+| kubeseal | 0.33.1 | Kubernetes controller and tool for one-way encrypted Secrets | legacyPackages.x86_64-linux.kubeseal |
 | kubesec | 2.14.2 | Security risk analysis tool for Kubernetes resources | legacyPackages.x86_64-linux.kubesec |
 | kubeshark | 52.9.0 | API Traffic Viewer for Kubernetes | legacyPackages.x86_64-linux.kubeshark |
 | kubespy | 0.6.3 | Tool to observe Kubernetes resources in real time | legacyPackages.x86_64-linux.kubespy |
@@ -31846,7 +31868,7 @@
 | librecad | 2.2.1.2 | 2D CAD package based on Qt | legacyPackages.x86_64-linux.librecad |
 | librecaslon | 64432 | Libre Caslon fonts, with LaTeX support | legacyPackages.x86_64-linux.texlivePackages.librecaslon |
 | librecast | 0.11.2 | IPv6 multicast library | legacyPackages.x86_64-linux.librecast |
-| librechat | 0.7.8 | Open-source app for all your AI conversations, fully customizable and compatible with any AI provider | legacyPackages.x86_64-linux.librechat |
+| librechat | 0.8.0 | Open-source app for all your AI conversations, fully customizable and compatible with any AI provider | legacyPackages.x86_64-linux.librechat |
 | libredirect | 0 | LD_PRELOAD library to intercept and rewrite the paths in glibc calls | legacyPackages.x86_64-linux.libredirect |
 | libredwg | 0.13.3 | Free implementation of the DWG file format | legacyPackages.x86_64-linux.libredwg |
 | libredwg | 0.13.3 | Free implementation of the DWG file format | legacyPackages.x86_64-linux.python312Packages.libredwg |
@@ -32160,7 +32182,7 @@
 | libtorch | 2.9.0 | C++ API of the PyTorch machine learning framework | legacyPackages.x86_64-linux.libtorch-bin |
 | libtorch-ffi | 2.0.1.9 | Haskell bindings for PyTorch | legacyPackages.x86_64-linux.haskellPackages.libtorch-ffi |
 | libtorch-ffi-helper | 2.0.0.2 | Helpers for integrating libtorch-ffi with Hasktorch | legacyPackages.x86_64-linux.haskellPackages.libtorch-ffi-helper |
-| libtorrent-rakshasa | 0.16.2 | BitTorrent library written in C++ for *nix, with focus on high performance and good code | legacyPackages.x86_64-linux.libtorrent-rakshasa |
+| libtorrent-rakshasa | 0.16.4 | BitTorrent library written in C++ for *nix, with focus on high performance and good code | legacyPackages.x86_64-linux.libtorrent-rakshasa |
 | libtorrent-rasterbar | 1.2.19 | C++ BitTorrent implementation focusing on efficiency and scalability | legacyPackages.x86_64-linux.libtorrent-rasterbar-1_2_x |
 | libtorrent-rasterbar | 2.0.11 | Efficient feature complete C++ bittorrent implementation | legacyPackages.x86_64-linux.libtorrent-rasterbar |
 | libtorrent-rasterbar | 2.0.11 | Efficient feature complete C++ bittorrent implementation | legacyPackages.x86_64-linux.libtorrent-rasterbar-2_0_x |
@@ -32261,8 +32283,8 @@
 | libvpx | 1.15.2 | WebM VP8/VP9 codec SDK | legacyPackages.x86_64-linux.libvpx |
 | libvterm | 0.99.7 | Terminal emulator library to mimic both vt100 and rxvt | legacyPackages.x86_64-linux.libvterm |
 | libvterm-neovim | 0.3.3 | VT220/xterm/ECMA-48 terminal emulator library | legacyPackages.x86_64-linux.libvterm-neovim |
-| libwacom | 2.16.1 | Libraries, configuration, and diagnostic tools for Wacom tablets running under Linux | legacyPackages.x86_64-linux.libwacom |
-| libwacom-surface | 2.16.1 | Libraries, configuration, and diagnostic tools for Wacom tablets running under Linux | legacyPackages.x86_64-linux.libwacom-surface |
+| libwacom | 2.17.0 | Libraries, configuration, and diagnostic tools for Wacom tablets running under Linux | legacyPackages.x86_64-linux.libwacom |
+| libwacom-surface | 2.17.0 | Libraries, configuration, and diagnostic tools for Wacom tablets running under Linux | legacyPackages.x86_64-linux.libwacom-surface |
 | libwapcaplet | 0.4.3 | String internment library for netsurf browser | legacyPackages.x86_64-linux.libwapcaplet |
 | libwbxml | 0.11.10 | WBXML Library (aka libwbxml) contains a library and its associated tools to Parse, Encode and Handle WBXML documents | legacyPackages.x86_64-linux.libwbxml |
 | libwebcam | 0.2.5 | Webcam-tools package | legacyPackages.x86_64-linux.libwebcam |
@@ -32744,10 +32766,10 @@
 | linux-xanmod | 6.17.9 | Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience | legacyPackages.x86_64-linux.linux_xanmod_latest |
 | linux-xanmod | 6.17.9 | Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience | legacyPackages.x86_64-linux.linux_xanmod_stable |
 | linux-xattr | 0.1.1.0 | Read, set and list extended attributes | legacyPackages.x86_64-linux.haskellPackages.linux-xattr |
-| linux-zen | 6.17.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.kernels.linux_zen |
-| linux-zen | 6.17.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kernel |
-| linux-zen | 6.17.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxPackages_zen.kernel |
-| linux-zen | 6.17.8 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linux_zen |
+| linux-zen | 6.17.9 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.kernels.linux_zen |
+| linux-zen | 6.17.9 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kernel |
+| linux-zen | 6.17.9 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxPackages_zen.kernel |
+| linux-zen | 6.17.9 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linux_zen |
 | linux_logo | 6.01 | Prints an ASCII logo and some system info | legacyPackages.x86_64-linux.linux_logo |
 | linuxconsoletools | 1.8.1 | Set of tools for joysticks and serial peripherals | legacyPackages.x86_64-linux.linuxConsoleTools |
 | linuxdoc-tools | 0.9.86 | Toolset for processing LinuxDoc DTD SGML files | legacyPackages.x86_64-linux.linuxdoc-tools |
@@ -32806,16 +32828,16 @@
 | liquidtux | 0.1.0-unstable-2025-01-16-6.12.59 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.12.59 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.12.59 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_xanmod.liquidtux |
-| liquidtux | 0.1.0-unstable-2025-01-16-6.17.8 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.liquidtux |
-| liquidtux | 0.1.0-unstable-2025-01-16-6.17.8 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.liquidtux |
+| liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_latest.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_lqx.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.liquidtux |
+| liquidtux | 0.1.0-unstable-2025-01-16-6.17.9 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.6.117 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.liquidtux |
 | liquidwar5 | 5.6.6 | Classic version of a quick tactics game LiquidWar | legacyPackages.x86_64-linux.liquidwar5 |
 | liquidwar6 | 0.6.3902 | Quick tactics game | legacyPackages.x86_64-linux.liquidwar |
@@ -32944,16 +32966,16 @@
 | lkrg | 1.0.0-6.12.59 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.lkrg |
 | lkrg | 1.0.0-6.12.59 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages.lkrg |
 | lkrg | 1.0.0-6.12.59 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.lkrg |
-| lkrg | 1.0.0-6.17.8 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lkrg |
-| lkrg | 1.0.0-6.17.8 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.lkrg |
+| lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.lkrg |
 | lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lkrg |
+| lkrg | 1.0.0-6.17.9 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.lkrg |
 | lkrg | 1.0.0-6.6.117 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lkrg |
 | lksctp-tools | 1.0.21 | Linux Kernel Stream Control Transmission Protocol Tools | legacyPackages.x86_64-linux.lksctp-tools |
 | ll-picosat | 0.1.0.0 |  | legacyPackages.x86_64-linux.haskellPackages.ll-picosat |
@@ -33486,16 +33508,16 @@
 | lttng-modules | 6.12.59-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.lttng-modules |
 | lttng-modules | 6.12.59-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages.lttng-modules |
 | lttng-modules | 6.12.59-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_xanmod.lttng-modules |
-| lttng-modules | 6.17.8-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lttng-modules |
-| lttng-modules | 6.17.8-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_zen.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.lttng-modules |
+| lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_latest.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_lqx.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.lttng-modules |
 | lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lttng-modules |
+| lttng-modules | 6.17.9-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_zen.lttng-modules |
 | lttng-modules | 6.6.117-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lttng-modules |
 | lttng-tools | 2.14.0 | Tracing tools (kernel + user space) for Linux | legacyPackages.x86_64-linux.lttng-tools |
 | lttng-ust | 2.12.2 | LTTng Userspace Tracer libraries | legacyPackages.x86_64-linux.lttng-ust_2_12 |
@@ -34715,7 +34737,7 @@
 | luminous-ttv | 0.5.11 | Rust server to retrieve and relay a playlist for Twitch livestreams/VODs | legacyPackages.x86_64-linux.luminous-ttv |
 | lunacy | 11.6 | Free design software that keeps your flow with AI tools and built-in graphics | legacyPackages.x86_64-linux.lunacy |
 | lunar | 6.9.5 | Defacto app for controlling monitors | legacyPackages.x86_64-linux.lunar |
-| lunarclient | 3.5.7 | Free Minecraft client with mods, cosmetics, and performance boost | legacyPackages.x86_64-linux.lunar-client |
+| lunarclient | 3.5.9 | Free Minecraft client with mods, cosmetics, and performance boost | legacyPackages.x86_64-linux.lunar-client |
 | lunarml | 0.3.0 | Standard ML compiler that produces Lua/JavaScript | legacyPackages.x86_64-linux.lunarml |
 | lunarvim | 1.4.0 | IDE layer for Neovim | legacyPackages.x86_64-linux.lunarvim |
 | lunasvg | 3.5.0 | SVG rendering and manipulation library in C++ | legacyPackages.x86_64-linux.lunasvg |
@@ -35430,7 +35452,7 @@
 | matrices | 0.5.0 | native matrix based on vector | legacyPackages.x86_64-linux.haskellPackages.matrices |
 | matrix | 0.3.6.4 | A native implementation of matrix operations | legacyPackages.x86_64-linux.haskellPackages.matrix |
 | matrix-alertmanager | 0.9.0 | Bot to receive Alertmanager webhook events and forward them to chosen rooms | legacyPackages.x86_64-linux.matrix-alertmanager |
-| matrix-alertmanager-receiver | 2025.11.12 | Alertmanager client that forwards alerts to a Matrix room | legacyPackages.x86_64-linux.matrix-alertmanager-receiver |
+| matrix-alertmanager-receiver | 2025.11.26 | Alertmanager client that forwards alerts to a Matrix room | legacyPackages.x86_64-linux.matrix-alertmanager-receiver |
 | matrix-appservice-discord | 4.0.0 | Bridge between Matrix and Discord | legacyPackages.x86_64-linux.matrix-appservice-discord |
 | matrix-appservice-irc | 4.0.0 | Node.js IRC bridge for Matrix | legacyPackages.x86_64-linux.matrix-appservice-irc |
 | matrix-as-xyz | 0.1.2.2 | Read and Display Jones-Faithful notation for spacegroup and planegroup | legacyPackages.x86_64-linux.haskellPackages.matrix-as-xyz |
@@ -35685,16 +35707,16 @@
 | mdio-netlink | 1.3.1-6.12.59 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.mdio-netlink |
 | mdio-netlink | 1.3.1-6.12.59 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages.mdio-netlink |
 | mdio-netlink | 1.3.1-6.12.59 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_xanmod.mdio-netlink |
-| mdio-netlink | 1.3.1-6.17.8 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mdio-netlink |
-| mdio-netlink | 1.3.1-6.17.8 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_zen.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.mdio-netlink |
+| mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_latest.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_lqx.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mdio-netlink |
+| mdio-netlink | 1.3.1-6.17.9 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_zen.mdio-netlink |
 | mdio-netlink | 1.3.1-6.6.117 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mdio-netlink |
 | mdio-tools | 1.3.1 | Low-level debug tools for MDIO devices | legacyPackages.x86_64-linux.mdio-tools |
 | mdk-sdk | 0.35.0 | Multimedia development kit | legacyPackages.x86_64-linux.mdk-sdk |
@@ -35973,7 +35995,7 @@
 | metal-cli | 0.26.1 | Official Equinix Metal CLI | legacyPackages.x86_64-linux.metal-cli |
 | metalogo | 0.12 | Extended TeX logo macros | legacyPackages.x86_64-linux.texlivePackages.metalogo |
 | metalogox | 1.07 | Adjust TeX logos, with font detection | legacyPackages.x86_64-linux.texlivePackages.metalogox |
-| metals | 1.6.3 | Language server for Scala | legacyPackages.x86_64-linux.metals |
+| metals | 1.6.4 | Language server for Scala | legacyPackages.x86_64-linux.metals |
 | metamath | 0.198 | Interpreter for the metamath proof language | legacyPackages.x86_64-linux.metamath |
 | metamorphic | 0.1.2.3 | metamorphisms: ana . cata or understanding folds and unfolds | legacyPackages.x86_64-linux.haskellPackages.metamorphic |
 | metamorphose2 | 0.10.0beta | Graphical mass renaming program for files and folders | legacyPackages.x86_64-linux.metamorphose2 |
@@ -36021,7 +36043,7 @@
 | metronome | 0.1.1 | Time Synchronized execution | legacyPackages.x86_64-linux.haskellPackages.metronome |
 | metronome | 1.3.0 | Keep the tempo | legacyPackages.x86_64-linux.metronome |
 | metsymb | 1.2.0 | The package provides dedicated TeX commands to generate (vectorial) meteorological symbols | legacyPackages.x86_64-linux.texlivePackages.metsymb |
-| mev-boost | 1.9 | Ethereum block-building middleware | legacyPackages.x86_64-linux.mev-boost |
+| mev-boost | 1.10.1 | Ethereum block-building middleware | legacyPackages.x86_64-linux.mev-boost |
 | mew | 1.0-unstable-2025-06-20 | Efficient dynamic menu for Wayland, an effective port of dmenu to Wayland | legacyPackages.x86_64-linux.mew |
 | mex | 1.05a | Polish formats for TeX | legacyPackages.x86_64-linux.texlivePackages.mex |
 | mezzo | 0.0.m8 | Programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory | legacyPackages.x86_64-linux.ocamlPackages.mezzo |
@@ -37743,16 +37765,16 @@
 | mwprocapture | 1.3.4418-6.12.59 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.mwprocapture |
 | mwprocapture | 1.3.4418-6.12.59 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages.mwprocapture |
 | mwprocapture | 1.3.4418-6.12.59 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_xanmod.mwprocapture |
-| mwprocapture | 1.3.4418-6.17.8 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mwprocapture |
-| mwprocapture | 1.3.4418-6.17.8 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.mwprocapture |
+| mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_latest.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_lqx.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mwprocapture |
+| mwprocapture | 1.3.4418-6.17.9 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.6.117 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mwprocapture |
 | mx-state-codes | 1.0.0.0 | ISO 3166-2:MX State Codes and Names | legacyPackages.x86_64-linux.haskellPackages.mx-state-codes |
 | mx-takeover | 0.1.1 | Tool to work with DNS MX records | legacyPackages.x86_64-linux.mx-takeover |
@@ -37774,16 +37796,16 @@
 | mxu11x0 | 5.1-6.12.59 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.mxu11x0 |
 | mxu11x0 | 5.1-6.12.59 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages.mxu11x0 |
 | mxu11x0 | 5.1-6.12.59 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.mxu11x0 |
-| mxu11x0 | 5.1-6.17.8 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0 |
-| mxu11x0 | 5.1-6.17.8 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.mxu11x0 |
+| mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_latest.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_lqx.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mxu11x0 |
 | mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mxu11x0 |
+| mxu11x0 | 5.1-6.17.9 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.6.117 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mxu11x0 |
 | my-package-testing | 1.0.6 | spam | legacyPackages.x86_64-linux.haskellPackages.my-package-testing |
 | my-test-docs | 1.0.12 | spam | legacyPackages.x86_64-linux.haskellPackages.my-test-docs |
@@ -37869,7 +37891,7 @@
 | n2o-protocols | 0.11.2 | N2O Protocols Starter Pack | legacyPackages.x86_64-linux.haskellPackages.n2o-protocols |
 | n2o-web | 0.11.2 | N2O adapter for WebSockets | legacyPackages.x86_64-linux.haskellPackages.n2o-web |
 | n64recomp | 0-unstable-2025-11-24 | Tool to statically recompile N64 games into native executables | legacyPackages.x86_64-linux.n64recomp |
-| n8n | 1.119.2 | Free and source-available fair-code licensed workflow automation tool | legacyPackages.x86_64-linux.n8n |
+| n8n | 1.120.4 | Free and source-available fair-code licensed workflow automation tool | legacyPackages.x86_64-linux.n8n |
 | n98-magerun2 | 9.1.0 | Swiss army knife for Magento2 developers | legacyPackages.x86_64-linux.n98-magerun2 |
 | na-box | 1.0 | Arabic-aware version of pas-cours package | legacyPackages.x86_64-linux.texlivePackages.na-box |
 | na-position | 1.2 | Tables of relative positions of curves and asymptotes or tangents in Arabic documents | legacyPackages.x86_64-linux.texlivePackages.na-position |
@@ -38101,16 +38123,16 @@
 | ndiswrapper | 1.63-6.12.59 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ndiswrapper |
 | ndiswrapper | 1.63-6.12.59 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages.ndiswrapper |
 | ndiswrapper | 1.63-6.12.59 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_xanmod.ndiswrapper |
-| ndiswrapper | 1.63-6.17.8 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper |
-| ndiswrapper | 1.63-6.17.8 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ndiswrapper |
+| ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_latest.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_lqx.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ndiswrapper |
 | ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ndiswrapper |
+| ndiswrapper | 1.63-6.17.9 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.6.117 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ndiswrapper |
 | ndjbdns | 1.06 | Brand new release of the Djbdns | legacyPackages.x86_64-linux.ndjbdns |
 | ndjson-conduit | 0.1.0.5 | Conduit-based parsing and serialization for newline delimited JSON | legacyPackages.x86_64-linux.haskellPackages.ndjson-conduit |
@@ -38319,16 +38341,16 @@
 | netatop | 6.12.59-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.netatop |
 | netatop | 6.12.59-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages.netatop |
 | netatop | 6.12.59-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod.netatop |
-| netatop | 6.17.8-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.netatop |
-| netatop | 6.17.8-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_zen.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.netatop |
+| netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_latest.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_lqx.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.netatop |
 | netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.netatop |
+| netatop | 6.17.9-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_zen.netatop |
 | netatop | 6.6.117-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.netatop |
 | netavark | 1.17.0 | Rust based network stack for containers | legacyPackages.x86_64-linux.netavark |
 | netbeans | 28 | Integrated development environment for Java, C, C++ and PHP | legacyPackages.x86_64-linux.netbeans |
@@ -38665,8 +38687,8 @@
 | ngrok | 3.31.0 | Allows you to expose a web server running on your local machine to the internet | legacyPackages.x86_64-linux.ngrok |
 | ngrrram | 1.0.3 | TUI tool to help you type faster and learn new layouts. Includes a free cat | legacyPackages.x86_64-linux.ngrrram |
 | ngspice | 45 | Next Generation Spice (Electronic Circuit Simulator) | legacyPackages.x86_64-linux.ngspice |
-| ngtcp2 | 1.17.0 | Effort to implement RFC9000 QUIC protocol | legacyPackages.x86_64-linux.ngtcp2-gnutls |
 | ngtcp2 | 1.17.0 | Implementation of the QUIC protocol (RFC9000) | legacyPackages.x86_64-linux.ngtcp2 |
+| ngtcp2 | 1.18.0 | Effort to implement RFC9000 QUIC protocol | legacyPackages.x86_64-linux.ngtcp2-gnutls |
 | ngx-export | 1.7.10.1 | Helper module for Nginx Haskell module | legacyPackages.x86_64-linux.haskellPackages.ngx-export |
 | ngx-export-distribution | 0.6.0.1 | Build custom libraries for Nginx Haskell module | legacyPackages.x86_64-linux.haskellPackages.ngx-export-distribution |
 | ngx-export-healthcheck | 1.6.3 | Active health checks and monitoring of Nginx upstreams | legacyPackages.x86_64-linux.haskellPackages.ngx-export-healthcheck |
@@ -39531,16 +39553,16 @@
 | nvidia-dc | 535.154.05-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_dc_535 |
-| nvidia-dc | 535.154.05-6.17.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_535 |
-| nvidia-dc | 535.154.05-6.17.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_dc_535 |
+| nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc_535 |
+| nvidia-dc | 535.154.05-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.6.117 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc_535 |
 | nvidia-dc | 565.57.01-5.10.246 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-5.15.196 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_dc_565 |
@@ -39551,16 +39573,16 @@
 | nvidia-dc | 565.57.01-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_dc_565 |
-| nvidia-dc | 565.57.01-6.17.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565 |
-| nvidia-dc | 565.57.01-6.17.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_dc_565 |
+| nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc_565 |
+| nvidia-dc | 565.57.01-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.6.117 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc_565 |
 | nvidia-dc | 570.172.08-5.10.246 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_dc |
 | nvidia-dc | 570.172.08-5.15.196 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_dc |
@@ -39571,16 +39593,16 @@
 | nvidia-dc | 570.172.08-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_dc |
 | nvidia-dc | 570.172.08-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_dc |
 | nvidia-dc | 570.172.08-6.12.59 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_dc |
-| nvidia-dc | 570.172.08-6.17.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc |
-| nvidia-dc | 570.172.08-6.17.8 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_dc |
+| nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc |
+| nvidia-dc | 570.172.08-6.17.9 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.6.117 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc |
 | nvidia-docker |  | NVIDIA container runtime for Docker | legacyPackages.x86_64-linux.nvidia-docker |
 | nvidia-docker |  | NVIDIA container runtime for Docker | legacyPackages.x86_64-linux.nvidiaCtkPackages.nvidia-docker |
@@ -39632,16 +39654,6 @@
 | nvidia-open | 6.12.59-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.12.59-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.12.59-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_vulkan_beta_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open |
-| nvidia-open | 6.17.8-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open |
-| nvidia-open | 6.17.8-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open |
-| nvidia-open | 6.17.8-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_beta_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_latest_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_production_open |
@@ -39658,6 +39670,10 @@
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_latest_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_production_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_stable_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production_open |
@@ -39674,14 +39690,20 @@
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_production_open |
 | nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_stable_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open |
+| nvidia-open | 6.17.9-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_vulkan_beta_open |
+| nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta_open |
+| nvidia-open | 6.17.9-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.6.117-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta_open |
 | nvidia-open | 6.6.117-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest_open |
 | nvidia-open | 6.6.117-580.105.08 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production_open |
@@ -39700,16 +39722,16 @@
 | nvidia-x11 | 340.108-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy340 |
-| nvidia-x11 | 340.108-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340 |
-| nvidia-x11 | 340.108-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_legacy340 |
+| nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy340 |
+| nvidia-x11 | 340.108-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy340 |
 | nvidia-x11 | 390.157-5.10.246 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-5.15.196 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy390 |
@@ -39720,16 +39742,16 @@
 | nvidia-x11 | 390.157-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy390 |
-| nvidia-x11 | 390.157-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy390 |
-| nvidia-x11 | 390.157-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_legacy390 |
+| nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy390 |
+| nvidia-x11 | 390.157-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy390 |
 | nvidia-x11 | 470.256.02-5.10.246 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-5.15.196 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy470 |
@@ -39740,16 +39762,16 @@
 | nvidia-x11 | 470.256.02-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy470 |
-| nvidia-x11 | 470.256.02-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy470 |
-| nvidia-x11 | 470.256.02-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_legacy470 |
+| nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy470 |
+| nvidia-x11 | 470.256.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy470 |
 | nvidia-x11 | 535.274.02-5.10.246 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-5.15.196 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy535 |
@@ -39760,16 +39782,16 @@
 | nvidia-x11 | 535.274.02-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_legacy535 |
-| nvidia-x11 | 535.274.02-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535 |
-| nvidia-x11 | 535.274.02-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_legacy535 |
+| nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy535 |
+| nvidia-x11 | 535.274.02-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy535 |
 | nvidia-x11 | 580.105.08-5.10.246 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11 |
 | nvidia-x11 | 580.105.08-5.10.246 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_beta |
@@ -39807,14 +39829,6 @@
 | nvidia-x11 | 580.105.08-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_beta |
 | nvidia-x11 | 580.105.08-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_latest |
 | nvidia-x11 | 580.105.08-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_production |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11 |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11 |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest |
-| nvidia-x11 | 580.105.08-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11 |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_beta |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_latest |
@@ -39831,6 +39845,10 @@
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_beta |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_latest |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_production |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11 |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11 |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest |
@@ -39847,6 +39865,10 @@
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest |
 | nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_production |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11 |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest |
+| nvidia-x11 | 580.105.08-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production |
 | nvidia-x11 | 580.105.08-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11 |
 | nvidia-x11 | 580.105.08-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta |
 | nvidia-x11 | 580.105.08-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest |
@@ -39860,16 +39882,16 @@
 | nvidia-x11 | 580.94.11-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.12.59 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidia_x11_vulkan_beta |
-| nvidia-x11 | 580.94.11-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta |
-| nvidia-x11 | 580.94.11-6.17.8 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidia_x11_vulkan_beta |
+| nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta |
+| nvidia-x11 | 580.94.11-6.17.9 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.6.117 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta |
 | nvidia_oc | 0.1.21 | Simple command line tool to overclock Nvidia GPUs using the NVML library on Linux | legacyPackages.x86_64-linux.nvidia_oc |
 | nvidiabl | 2020-10-01-5.10.246 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidiabl |
@@ -39881,16 +39903,16 @@
 | nvidiabl | 2020-10-01-6.12.59 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nvidiabl |
 | nvidiabl | 2020-10-01-6.12.59 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages.nvidiabl |
 | nvidiabl | 2020-10-01-6.12.59 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_xanmod.nvidiabl |
-| nvidiabl | 2020-10-01-6.17.8 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl |
-| nvidiabl | 2020-10-01-6.17.8 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nvidiabl |
+| nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_latest.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidiabl |
+| nvidiabl | 2020-10-01-6.17.9 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.6.117 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidiabl |
 | nvim-hs | 2.3.2.4 | Haskell plugin backend for neovim | legacyPackages.x86_64-linux.haskellPackages.nvim-hs |
 | nvim-hs-contrib | 2.0.0.2 | Haskell plugin backend for neovim | legacyPackages.x86_64-linux.haskellPackages.nvim-hs-contrib |
@@ -39947,16 +39969,16 @@
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.12.59 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.12.59 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.12.59 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_xanmod.nxp-pn5xx |
-| nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.8 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nxp-pn5xx |
-| nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.8 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nxp-pn5xx |
+| nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_latest.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_lqx.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nxp-pn5xx |
+| nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.9 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.6.117 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nxp-pn5xx |
 | nxpmicro-mfgtools | 1.5.139 | Freescale/NXP I.MX chip image deploy tools | legacyPackages.x86_64-linux.nxpmicro-mfgtools |
 | nxuthesis | 2.0.0 | Thesis template for Ningxia University | legacyPackages.x86_64-linux.texlivePackages.nxuthesis |
@@ -40074,7 +40096,7 @@
 | obs-websocket | 4.9.1-compat | Legacy websocket 4.9.1 protocol support for OBS Studio 28 or above | legacyPackages.x86_64-linux.obs-studio-plugins.obs-websocket |
 | observable | 0.1.5 | Continuation patterns | legacyPackages.x86_64-linux.haskellPackages.observable |
 | observable-sharing | 0.2.5 | Simple observable sharing | legacyPackages.x86_64-linux.haskellPackages.observable-sharing |
-| obsidian | 1.10.3 | Powerful knowledge base that works on top of a local folder of plain text Markdown files | legacyPackages.x86_64-linux.obsidian |
+| obsidian | 1.10.6 | Powerful knowledge base that works on top of a local folder of plain text Markdown files | legacyPackages.x86_64-linux.obsidian |
 | obsidian-export | 25.3.0 | Rust library and CLI to export an Obsidian vault to regular Markdown | legacyPackages.x86_64-linux.obsidian-export |
 | obsidian-theme | 47.05 |  | legacyPackages.x86_64-linux.dwarf-fortress-packages.themes.obsidian |
 | obuild | 0.1.11 | Simple package build system for OCaml | legacyPackages.x86_64-linux.obuild |
@@ -40713,7 +40735,7 @@
 | ocaml5.3.0-linol-eio | 0.10 | LSP server library (with Eio for concurrency) | legacyPackages.x86_64-linux.ocamlPackages.linol-eio |
 | ocaml5.3.0-linol-lwt | 0.10 | LSP server library (with Lwt for concurrency) | legacyPackages.x86_64-linux.ocamlPackages.linol-lwt |
 | ocaml5.3.0-lo | 0.2.0 | Bindings for LO library | legacyPackages.x86_64-linux.ocamlPackages.lo |
-| ocaml5.3.0-logs | 0.9.0 | Logging infrastructure for OCaml | legacyPackages.x86_64-linux.ocamlPackages.logs |
+| ocaml5.3.0-logs | 0.10.0 | Logging infrastructure for OCaml | legacyPackages.x86_64-linux.ocamlPackages.logs |
 | ocaml5.3.0-logs-syslog | 0.5.0 | Logs reporter to syslog (UDP/TCP/TLS) | legacyPackages.x86_64-linux.ocamlPackages.logs-syslog |
 | ocaml5.3.0-lru | 0.3.1 | Scalable LRU caches for OCaml | legacyPackages.x86_64-linux.ocamlPackages.lru |
 | ocaml5.3.0-lsp | 1.23.1 | LSP protocol implementation in OCaml | legacyPackages.x86_64-linux.ocamlPackages.lsp |
@@ -41701,7 +41723,7 @@
 | oh-my-fish-unstable | 2022-03-27 | Fish Shell Framework | legacyPackages.x86_64-linux.oh-my-fish |
 | oh-my-git | 0.6.5 | Interactive Git learning game | legacyPackages.x86_64-linux.oh-my-git |
 | oh-my-posh | 26.23.6 | Prompt theme engine for any shell | legacyPackages.x86_64-linux.oh-my-posh |
-| oh-my-zsh | 2025-11-09 | Framework for managing your zsh configuration | legacyPackages.x86_64-linux.oh-my-zsh |
+| oh-my-zsh | 2025-11-23 | Framework for managing your zsh configuration | legacyPackages.x86_64-linux.oh-my-zsh |
 | oha | 1.11.0 | HTTP load generator inspired by rakyll/hey with tui animation | legacyPackages.x86_64-linux.oha |
 | ohhecs | 0.0.2 | An Entity-Component-Systems engine core | legacyPackages.x86_64-linux.haskellPackages.ohhecs |
 | ohloh-hs | 0.0.2 | Interface to the Ohloh API | legacyPackages.x86_64-linux.haskellPackages.ohloh-hs |
@@ -41833,7 +41855,7 @@
 | oneanime | 1.4.3 | Anime1 third-party client with bullet screen | legacyPackages.x86_64-linux.oneanime |
 | onedown | 1.7 | Typeset Bridge Diagrams | legacyPackages.x86_64-linux.texlivePackages.onedown |
 | onedrive | 2.5.9 | Complete tool to interact with OneDrive on Linux | legacyPackages.x86_64-linux.onedrive |
-| onedrivegui | 1.2.2 | Simple GUI for Linux OneDrive Client, with multi-account support | legacyPackages.x86_64-linux.onedrivegui |
+| onedrivegui | 1.3.0 | Simple GUI for Linux OneDrive Client, with multi-account support | legacyPackages.x86_64-linux.onedrivegui |
 | onedriver | 0.14.1 | Network filesystem for Linux | legacyPackages.x86_64-linux.onedriver |
 | onefetch | 2.25.0 | Git repository summary on your terminal | legacyPackages.x86_64-linux.onefetch |
 | oneko | 1.2.6 | Creates a cute cat chasing around your mouse cursor | legacyPackages.x86_64-linux.oneko |
@@ -41938,53 +41960,53 @@
 | open-watcom-v2-unwrapped | 0-unstable-2025-11-15 | V2 fork of the Open Watcom suite of compilers and tools | legacyPackages.x86_64-linux.open-watcom-v2-unwrapped |
 | open-wbo | 2.0 | State-of-the-art MaxSAT and Pseudo-Boolean solver | legacyPackages.x86_64-linux.open-wbo |
 | open-web-calendar | 1.49 | Highly customizable web calendar that can be embedded into websites using ICal source links | legacyPackages.x86_64-linux.open-web-calendar |
-| open-webui | 0.6.38 | Comprehensive suite for LLMs with a user-friendly WebUI | legacyPackages.x86_64-linux.open-webui |
+| open-webui | 0.6.40 | Comprehensive suite for LLMs with a user-friendly WebUI | legacyPackages.x86_64-linux.open-webui |
 | open-witness | 0.7 | open witnesses | legacyPackages.x86_64-linux.haskellPackages.open-witness |
 | open5gs | 2.7.6 | 4G/5G core network components | legacyPackages.x86_64-linux.open5gs |
 | open5gs-webui | 2.7.6 | 4G/5G core network components | legacyPackages.x86_64-linux.open5gs-webui |
 | open62541 | 1.4.14 | Open source implementation of OPC UA | legacyPackages.x86_64-linux.open62541 |
 | open62541pp | 0.20.0 | C++ wrapper of the open62541 OPC UA library | legacyPackages.x86_64-linux.open62541pp |
-| openafs | 1.8.13.2 | Open AFS client | legacyPackages.x86_64-linux.openafs |
-| openafs | 1.8.13.2-5.10.246 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.openafs |
-| openafs | 1.8.13.2-5.10.246 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.openafs_1_8 |
-| openafs | 1.8.13.2-5.15.196 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.openafs |
-| openafs | 1.8.13.2-5.15.196 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.openafs_1_8 |
-| openafs | 1.8.13.2-6.1.158 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.openafs |
-| openafs | 1.8.13.2-6.1.158 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.openafs_1_8 |
-| openafs | 1.8.13.2-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.openafs |
-| openafs | 1.8.13.2-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.openafs_1_8 |
-| openafs | 1.8.13.2-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.openafs |
-| openafs | 1.8.13.2-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.openafs_1_8 |
-| openafs | 1.8.13.2-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.openafs |
-| openafs | 1.8.13.2-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.openafs_1_8 |
-| openafs | 1.8.13.2-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages.openafs |
-| openafs | 1.8.13.2-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages.openafs_1_8 |
-| openafs | 1.8.13.2-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openafs |
-| openafs | 1.8.13.2-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openafs_1_8 |
-| openafs | 1.8.13.2-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.openafs |
-| openafs | 1.8.13.2-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs |
-| openafs | 1.8.13.2-6.17.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs |
-| openafs | 1.8.13.2-6.17.8-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.openafs |
-| openafs | 1.8.13.2-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.openafs |
-| openafs | 1.8.13.2-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs |
-| openafs | 1.8.13.2-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.openafs |
-| openafs | 1.8.13.2-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openafs |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.openafs |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openafs |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openafs_1_8 |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openafs |
-| openafs | 1.8.13.2-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openafs_1_8 |
-| openafs | 1.8.13.2-6.6.117 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs |
-| openafs | 1.8.13.2-6.6.117 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs_1_8 |
+| openafs | 1.8.14 | Open AFS client | legacyPackages.x86_64-linux.openafs |
+| openafs | 1.8.14-5.10.246 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.openafs |
+| openafs | 1.8.14-5.10.246 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.openafs_1_8 |
+| openafs | 1.8.14-5.15.196 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.openafs |
+| openafs | 1.8.14-5.15.196 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.openafs_1_8 |
+| openafs | 1.8.14-6.1.158 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.openafs |
+| openafs | 1.8.14-6.1.158 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.openafs_1_8 |
+| openafs | 1.8.14-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.openafs |
+| openafs | 1.8.14-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.openafs_1_8 |
+| openafs | 1.8.14-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.openafs |
+| openafs | 1.8.14-6.12.56-hardened1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.openafs_1_8 |
+| openafs | 1.8.14-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.openafs |
+| openafs | 1.8.14-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.openafs_1_8 |
+| openafs | 1.8.14-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages.openafs |
+| openafs | 1.8.14-6.12.59 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages.openafs_1_8 |
+| openafs | 1.8.14-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openafs |
+| openafs | 1.8.14-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openafs_1_8 |
+| openafs | 1.8.14-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.openafs |
+| openafs | 1.8.14-6.12.59-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod.openafs_1_8 |
+| openafs | 1.8.14-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.openafs |
+| openafs | 1.8.14-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.openafs_1_8 |
+| openafs | 1.8.14-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.openafs |
+| openafs | 1.8.14-6.17.9 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs |
+| openafs | 1.8.14-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.openafs |
+| openafs | 1.8.14-6.17.9-lqx1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openafs |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.openafs |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openafs |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openafs |
+| openafs | 1.8.14-6.17.9-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs |
+| openafs | 1.8.14-6.17.9-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs_1_8 |
+| openafs | 1.8.14-6.17.9-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs |
+| openafs | 1.8.14-6.17.9-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs_1_8 |
+| openafs | 1.8.14-6.6.117 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs |
+| openafs | 1.8.14-6.6.117 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs_1_8 |
 | openai | 2.1.0 | Servant bindings to OpenAI | legacyPackages.x86_64-linux.haskellPackages.openai |
 | openai | 2.7.2 | Python client library for the OpenAI API | legacyPackages.x86_64-linux.openai |
 | openai-hs | 0.3.0.1 | Unofficial OpenAI client | legacyPackages.x86_64-linux.haskellPackages.openai-hs |
@@ -42260,16 +42282,16 @@
 | openrazer | 3.10.3-6.12.59 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.openrazer |
 | openrazer | 3.10.3-6.12.59 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages.openrazer |
 | openrazer | 3.10.3-6.12.59 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod.openrazer |
-| openrazer | 3.10.3-6.17.8 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer |
-| openrazer | 3.10.3-6.17.8 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_zen.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.openrazer |
+| openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_latest.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_lqx.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openrazer |
 | openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openrazer |
+| openrazer | 3.10.3-6.17.9 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_zen.openrazer |
 | openrazer | 3.10.3-6.6.117 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openrazer |
 | openrazer-daemon | 3.10.3 | Entirely open source user-space daemon that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.openrazer-daemon |
 | openrct2 | 0.4.29 | Open source re-implementation of RollerCoaster Tycoon 2 (original game required) | legacyPackages.x86_64-linux.openrct2 |
@@ -42328,16 +42350,16 @@
 | opensnitch_ebpf | 1.7.2-6.12.59 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.12.59 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.12.59 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_xanmod.opensnitch-ebpf |
-| opensnitch_ebpf | 1.7.2-6.17.8 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf |
-| opensnitch_ebpf | 1.7.2-6.17.8 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.opensnitch-ebpf |
+| opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_latest.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_lqx.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.opensnitch-ebpf |
+| opensnitch_ebpf | 1.7.2-6.17.9 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.6.117 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.opensnitch-ebpf |
 | opensoldat-unstable | 2025-10-21 | Unique 2D (side-view) multiplayer action game | legacyPackages.x86_64-linux.opensoldat |
 | opensoundcontrol-ht | 0.3 | Haskell OpenSoundControl utilities | legacyPackages.x86_64-linux.haskellPackages.opensoundcontrol-ht |
@@ -42647,7 +42669,7 @@
 | ory-hydra-client | 2.1.2.1 | Auto-generated ory-hydra API Client | legacyPackages.x86_64-linux.haskellPackages.ory-hydra-client |
 | ory-kratos | 0.0.10.0 | API bindings for Ory Kratos | legacyPackages.x86_64-linux.haskellPackages.ory-kratos |
 | orz | 1.6.2-unstable-2024-11-08 | High performance, general purpose data compressor written in rust | legacyPackages.x86_64-linux.orz |
-| os-agent | 1.7.2 | Daemon allowing to control OS features through D-Bus | legacyPackages.x86_64-linux.os-agent |
+| os-agent | 1.8.0 | Daemon allowing to control OS features through D-Bus | legacyPackages.x86_64-linux.os-agent |
 | os-prober | 1.83 | Utility to detect other OSs on a set of drives | legacyPackages.x86_64-linux.os-prober |
 | os-release | 1.0.2.1 | /etc/os-release helpers | legacyPackages.x86_64-linux.haskellPackages.os-release |
 | os-string | 2.0.8 | Library for manipulating Operating system strings | legacyPackages.x86_64-linux.haskellPackages.os-string_2_0_8 |
@@ -43067,7 +43089,7 @@
 | pantry | 0.10.1 | Content addressable Haskell package management | legacyPackages.x86_64-linux.haskellPackages.pantry |
 | pantry | 0.11.2 | Content addressable Haskell package management | legacyPackages.x86_64-linux.haskellPackages.pantry_0_11_2 |
 | pantry-tmp | 0.1.0.0 | Content addressable Haskell package management | legacyPackages.x86_64-linux.haskellPackages.pantry-tmp |
-| pantum-driver | 1.1.123 | Pantum universal driver | legacyPackages.x86_64-linux.pantum-driver |
+| pantum-driver | 1.1.167 | Pantum universal driver | legacyPackages.x86_64-linux.pantum-driver |
 | panvimdoc | 4.0.1 | Write documentation in pandoc markdown. Generate documentation in vimdoc | legacyPackages.x86_64-linux.panvimdoc |
 | papa | 0.3.1 | Reasonable default import | legacyPackages.x86_64-linux.haskellPackages.papa |
 | papa-base | 0.3.1 | Prelude with only useful functions | legacyPackages.x86_64-linux.haskellPackages.papa-base |
@@ -43157,6 +43179,7 @@
 | paq | 1.3.0 | Hash file or directory recursively | legacyPackages.x86_64-linux.paq |
 | par | 1.53.0 | Paragraph reflow for email | legacyPackages.x86_64-linux.par |
 | par-dual | 0.1.0.0 | ParDual class for Parallel <-> Sequential | legacyPackages.x86_64-linux.haskellPackages.par-dual |
+| par-lang | 0-unstable-2025-11-20 | Experimental concurrent programming language | legacyPackages.x86_64-linux.par-lang |
 | par-traverse | 0.2.1.0 | Traverse a directory in parallel | legacyPackages.x86_64-linux.haskellPackages.par-traverse |
 | par2cmdline | 0.8.1 | PAR 2.0 compatible file verification and repair tool | legacyPackages.x86_64-linux.par2cmdline |
 | par2cmdline-turbo | 1.3.0 | par2cmdline × ParPar: speed focused par2cmdline fork | legacyPackages.x86_64-linux.par2cmdline-turbo |
@@ -51365,9 +51388,9 @@
 | plzwrk | 0.0.0.10 | A front-end framework | legacyPackages.x86_64-linux.haskellPackages.plzwrk |
 | pm-isomath | 1.2.00 | Poor man ISO math for pdfLaTeX users | legacyPackages.x86_64-linux.texlivePackages.pm-isomath |
 | pm-utils | 1.4.1 | Small collection of scripts that handle suspend and resume on behalf of HAL | legacyPackages.x86_64-linux.pmutils |
-| pm2 | 6.0.13 | Node.js production process manager with a built-in load balancer | legacyPackages.x86_64-linux.nodePackages.pm2 |
-| pm2 | 6.0.13 | Node.js production process manager with a built-in load balancer | legacyPackages.x86_64-linux.nodePackages_latest.pm2 |
-| pm2 | 6.0.13 | Node.js production process manager with a built-in load balancer | legacyPackages.x86_64-linux.pm2 |
+| pm2 | 6.0.14 | Node.js production process manager with a built-in load balancer | legacyPackages.x86_64-linux.nodePackages.pm2 |
+| pm2 | 6.0.14 | Node.js production process manager with a built-in load balancer | legacyPackages.x86_64-linux.nodePackages_latest.pm2 |
+| pm2 | 6.0.14 | Node.js production process manager with a built-in load balancer | legacyPackages.x86_64-linux.pm2 |
 | pmacct | 1.7.9 | Small set of multi-purpose passive network monitoring tools | legacyPackages.x86_64-linux.pmacct |
 | pmars | 0.9.4 | Official Core War simulator | legacyPackages.x86_64-linux.pmars |
 | pmars | 0.9.4 | Official Core War simulator | legacyPackages.x86_64-linux.pmars-x11 |
@@ -51429,7 +51452,7 @@
 | pocket-casts | 0.11.0 | Pocket Casts webapp, packaged for the Linux Desktop | legacyPackages.x86_64-linux.pocket-casts |
 | pocket-dns | 0.1.1 | Multi-backend (zookeeper and sqlite) DNS Server using persistent-library | legacyPackages.x86_64-linux.haskellPackages.pocket-dns |
 | pocket-id | 1.15.0 | OIDC provider with passkeys support | legacyPackages.x86_64-linux.pocket-id |
-| pocketbase | 0.33.0 | Open Source realtime backend in 1 file | legacyPackages.x86_64-linux.pocketbase |
+| pocketbase | 0.34.0 | Open Source realtime backend in 1 file | legacyPackages.x86_64-linux.pocketbase |
 | pocketsphinx | 5.0.4 | Small speech recognizer | legacyPackages.x86_64-linux.pocketsphinx |
 | pocl | 7.1 | Portable open source (MIT-licensed) implementation of the OpenCL standard | legacyPackages.x86_64-linux.pocl |
 | poco | 1.14.2 | Cross-platform C++ libraries with a network/internet focus | legacyPackages.x86_64-linux.poco |
@@ -51731,7 +51754,7 @@
 | postcss | 8.5.3 | Tool for transforming styles with JS plugins | legacyPackages.x86_64-linux.nodePackages_latest.postcss |
 | posteid-seed-extractor | 0-unstable-2022-02-23 | Extract OTP seed instead of using PosteID app | legacyPackages.x86_64-linux.posteid-seed-extractor |
 | poster-mac | 1.1 | Make posters and banners with TeX | legacyPackages.x86_64-linux.texlivePackages.poster-mac |
-| postfix | 3.10.5 | Fast, easy to administer, and secure mail server | legacyPackages.x86_64-linux.postfix |
+| postfix | 3.10.6 | Fast, easy to administer, and secure mail server | legacyPackages.x86_64-linux.postfix |
 | postfix-tlspol | 1.8.22 | Lightweight MTA-STS + DANE/TLSA resolver and TLS policy server for Postfix, prioritizing DANE | legacyPackages.x86_64-linux.postfix-tlspol |
 | postfix_exporter | 0.17.0 | Prometheus exporter for Postfix | legacyPackages.x86_64-linux.prometheus-postfix-exporter |
 | postfixadmin | 4.0.1 | Web based virtual user administration interface for Postfix mail servers | legacyPackages.x86_64-linux.postfixadmin |
@@ -52479,7 +52502,7 @@
 | protoc-gen-swift | 1.33.3 | Protobuf plugin for generating Swift code | legacyPackages.x86_64-linux.protoc-gen-swift |
 | protoc-gen-tonic | 0.4.1 | Protoc plugin that generates Tonic gRPC server and client code using the Prost code generation engine | legacyPackages.x86_64-linux.protoc-gen-tonic |
 | protoc-gen-twirp | 8.1.3 | Simple RPC framework with protobuf service definitions | legacyPackages.x86_64-linux.protoc-gen-twirp |
-| protoc-gen-twirp_php | 0.14.0 | PHP port of Twitch's Twirp RPC framework | legacyPackages.x86_64-linux.protoc-gen-twirp_php |
+| protoc-gen-twirp_php | 0.15.0 | PHP port of Twitch's Twirp RPC framework | legacyPackages.x86_64-linux.protoc-gen-twirp_php |
 | protoc-gen-twirp_swagger | 0-unstable-2021-03-29 | Swagger generator for twirp | legacyPackages.x86_64-linux.protoc-gen-twirp_swagger |
 | protoc-gen-twirp_typescript | 0-unstable-2022-08-14 | Protobuf Plugin for Generating a Twirp Typescript Client | legacyPackages.x86_64-linux.protoc-gen-twirp_typescript |
 | protoc-gen-validate | 1.2.1 | Protobuf plugin for generating polyglot message validators | legacyPackages.x86_64-linux.protoc-gen-validate |
@@ -52579,7 +52602,7 @@
 | psbao | 1.0 | Draw Bao diagrams | legacyPackages.x86_64-linux.texlivePackages.psbao |
 | psc-ide | 0.6.1 | Language support for the PureScript programming language | legacyPackages.x86_64-linux.haskellPackages.psc-ide |
 | psc-package-simple | 0.6.2 | Package manager for PureScript based on package sets | legacyPackages.x86_64-linux.psc-package |
-| pscale | 0.261.0 | CLI for PlanetScale Database | legacyPackages.x86_64-linux.pscale |
+| pscale | 0.262.0 | CLI for PlanetScale Database | legacyPackages.x86_64-linux.pscale |
 | pscid | 2.11.0 | A lightweight editor experience for PureScript development | legacyPackages.x86_64-linux.nodePackages.pscid |
 | pscid | 2.11.0 | A lightweight editor experience for PureScript development | legacyPackages.x86_64-linux.nodePackages_latest.pscid |
 | pscid | 2.11.0 | A lightweight editor experience for PureScript development | legacyPackages.x86_64-linux.pscid |
@@ -53266,7 +53289,7 @@
 | python3.12-aioecowitt | 2025.9.2 | Wrapper for the EcoWitt protocol | legacyPackages.x86_64-linux.python312Packages.aioecowitt |
 | python3.12-aioelectricitymaps | 1.1.1 | Module for interacting with Electricity maps | legacyPackages.x86_64-linux.python312Packages.aioelectricitymaps |
 | python3.12-aioemonitor | 1.0.5 | Python client for SiteSage Emonitor | legacyPackages.x86_64-linux.python312Packages.aioemonitor |
-| python3.12-aioesphomeapi | 42.7.0 | Python Client for ESPHome native API | legacyPackages.x86_64-linux.python312Packages.aioesphomeapi |
+| python3.12-aioesphomeapi | 42.8.0 | Python Client for ESPHome native API | legacyPackages.x86_64-linux.python312Packages.aioesphomeapi |
 | python3.12-aioextensions | 21.7.2261349 | High performance functions to work with the async IO | legacyPackages.x86_64-linux.python312Packages.aioextensions |
 | python3.12-aiofile | 3.8.6 | File operations with asyncio support | legacyPackages.x86_64-linux.python312Packages.aiofile |
 | python3.12-aiofiles | 24.1.0 | File support for asyncio | legacyPackages.x86_64-linux.python312Packages.aiofiles |
@@ -53372,7 +53395,7 @@
 | python3.12-aiosasl | 0.5.0 | Asyncio SASL library | legacyPackages.x86_64-linux.python312Packages.aiosasl |
 | python3.12-aiosenz | 1.0.0 | Python wrapper for the nVent Raychem SENZ RestAPI | legacyPackages.x86_64-linux.python312Packages.aiosenz |
 | python3.12-aioserial | 1.3.1 | Python module for async serial communication | legacyPackages.x86_64-linux.python312Packages.aioserial |
-| python3.12-aioshelly | 13.17.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python312Packages.aioshelly |
+| python3.12-aioshelly | 13.21.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python312Packages.aioshelly |
 | python3.12-aioshutil | 1.6 | Asynchronous version of function of shutil module | legacyPackages.x86_64-linux.python312Packages.aioshutil |
 | python3.12-aiosignal | 1.4.0 | Python list of registered asynchronous callbacks | legacyPackages.x86_64-linux.python312Packages.aiosignal |
 | python3.12-aioskybell | 23.12.0 | API client for Skybell doorbells | legacyPackages.x86_64-linux.python312Packages.aioskybell |
@@ -53635,7 +53658,7 @@
 | python3.12-astropy-healpix | 1.1.2 | BSD-licensed HEALPix for Astropy | legacyPackages.x86_64-linux.python312Packages.astropy-healpix |
 | python3.12-astropy-helpers | 4.0.1 | Utilities for building and installing Astropy, Astropy affiliated packages, and their respective documentation | legacyPackages.x86_64-linux.python312Packages.astropy-helpers |
 | python3.12-astropy-iers-data | 0.2025.8.4.0.42.59 | IERS data maintained by @astrofrog and astropy.utils.iers maintainers | legacyPackages.x86_64-linux.python312Packages.astropy-iers-data |
-| python3.12-astroquery | 0.4.10 | Functions and classes to access online data resources | legacyPackages.x86_64-linux.python312Packages.astroquery |
+| python3.12-astroquery | 0.4.11 | Functions and classes to access online data resources | legacyPackages.x86_64-linux.python312Packages.astroquery |
 | python3.12-asttokens | 3.0.0 | Annotate Python AST trees with source text and token information | legacyPackages.x86_64-linux.python312Packages.asttokens |
 | python3.12-astunparse | 1.6.3 | This is a factored out version of unparse found in the Python source distribution | legacyPackages.x86_64-linux.python312Packages.astunparse |
 | python3.12-asusrouter | 1.21.0 | API wrapper for communication with ASUSWRT-powered routers using HTTP protocol | legacyPackages.x86_64-linux.python312Packages.asusrouter |
@@ -54289,7 +54312,7 @@
 | python3.12-certbot-nginx | 5.1.0 | Nginx plugin for Certbot | legacyPackages.x86_64-linux.python312Packages.certbot-nginx |
 | python3.12-certifi | 2025.07.14 | Python package for providing Mozilla's CA Bundle | legacyPackages.x86_64-linux.python312Packages.certifi |
 | python3.12-certipy | 0.2.2 | Utility to create and sign CAs and certificates | legacyPackages.x86_64-linux.python312Packages.certipy |
-| python3.12-certipy-ad | 5.0.3 | Library and CLI tool to enumerate and abuse misconfigurations in Active Directory Certificate Services | legacyPackages.x86_64-linux.python312Packages.certipy-ad |
+| python3.12-certipy-ad | 5.0.4 | Library and CLI tool to enumerate and abuse misconfigurations in Active Directory Certificate Services | legacyPackages.x86_64-linux.python312Packages.certipy-ad |
 | python3.12-certomancer | 0.13.0 | Quickly construct, mock & deploy PKI test configurations using simple declarative configuration | legacyPackages.x86_64-linux.python312Packages.certomancer |
 | python3.12-certvalidator | 0.11.1 | Validates X.509 certificates and paths | legacyPackages.x86_64-linux.python312Packages.certvalidator |
 | python3.12-cexprtk | 0.4.1 | Mathematical expression parser, cython wrapper | legacyPackages.x86_64-linux.python312Packages.cexprtk |
@@ -54466,16 +54489,22 @@
 | python3.12-colcon-cargo | 0.1.3 | Extension for colcon-core to support Rust packages built with Cargo | legacyPackages.x86_64-linux.python312Packages.colcon-cargo |
 | python3.12-colcon-cd | 0.2.1 | A shell function for colcon-core to change the current working directory. | legacyPackages.x86_64-linux.python312Packages.colcon-cd |
 | python3.12-colcon-core | 0.19.0 | Command line tool to build sets of software packages | legacyPackages.x86_64-linux.python312Packages.colcon |
+| python3.12-colcon-coveragepy-result | 0.0.8 | Colcon extension for collecting coverage.py results | legacyPackages.x86_64-linux.python312Packages.colcon-coveragepy-result |
 | python3.12-colcon-defaults | 0.2.9 | Extension for colcon to read defaults from a config file | legacyPackages.x86_64-linux.python312Packages.colcon-defaults |
+| python3.12-colcon-devtools | 0.3.0 | Extension for colcon to provide information about all extension points and extensions | legacyPackages.x86_64-linux.python312Packages.colcon-devtools |
 | python3.12-colcon-installed-package-information | 0.2.1 | Extensions for colcon to inspect packages which have already been installed | legacyPackages.x86_64-linux.python312Packages.colcon-installed-package-information |
 | python3.12-colcon-library-path | 0.2.1 | Extension for colcon to set the library path environment variable | legacyPackages.x86_64-linux.python312Packages.colcon-library-path |
+| python3.12-colcon-metadata | 0.2.5 | Extension for colcon-core to read package metadata from files | legacyPackages.x86_64-linux.python312Packages.colcon-metadata |
 | python3.12-colcon-mixin | 0.2.3 | Extension for colcon-core to provide mixin functionality | legacyPackages.x86_64-linux.python312Packages.colcon-mixin |
 | python3.12-colcon-notification | 0.3.0 | Extension for colcon-core to provide status notifications | legacyPackages.x86_64-linux.python312Packages.colcon-notification |
 | python3.12-colcon-output | 0.2.13 | Extension for colcon-core to customize the output in various ways | legacyPackages.x86_64-linux.python312Packages.colcon-output |
 | python3.12-colcon-package-information | 0.4.0 | Extension for colcon-core to output package information | legacyPackages.x86_64-linux.python312Packages.colcon-package-information |
+| python3.12-colcon-package-selection | 0.2.10 | Extension for colcon to select the packages to process | legacyPackages.x86_64-linux.python312Packages.colcon-package-selection |
 | python3.12-colcon-parallel-executor | 0.4.0 | Extension for colcon-core to process packages in parallel | legacyPackages.x86_64-linux.python312Packages.colcon-parallel-executor |
+| python3.12-colcon-python-setup-py | 0.2.9 | Extension for colcon-core to support Python packages with the metadata in the setup.py file | legacyPackages.x86_64-linux.python312Packages.colcon-python-setup-py |
 | python3.12-colcon-recursive-crawl | 0.2.3 | Extension for colcon to recursively crawl for packages | legacyPackages.x86_64-linux.python312Packages.colcon-recursive-crawl |
 | python3.12-colcon-ros-domain-id-coordinator | 0.2.4 | Extension for colcon-core to coordinate ROS_DOMAIN_ID values across multiple terminals | legacyPackages.x86_64-linux.python312Packages.colcon-ros-domain-id-coordinator |
+| python3.12-colcon-zsh | 0.5.0 | Extension for colcon-core to provide Z shell scripts | legacyPackages.x86_64-linux.python312Packages.colcon-zsh |
 | python3.12-collections-extended | 2.0.2 | Extra Python Collections - bags (multisets), setlists (unique list/indexed set), RangeMap and IndexedDict | legacyPackages.x86_64-linux.python312Packages.collections-extended |
 | python3.12-collidoscope | 0.6.5 | Python library to detect glyph collisions in fonts | legacyPackages.x86_64-linux.python312Packages.collidoscope |
 | python3.12-color-matcher | 0.6.0 | Package enabling color transfer across images | legacyPackages.x86_64-linux.python312Packages.color-matcher |
@@ -54499,7 +54528,7 @@
 | python3.12-colour | 0.1.5 | Converts and manipulates common color representation (RGB, HSV, web, ...) | legacyPackages.x86_64-linux.python312Packages.colour |
 | python3.12-colout | 1.1 | Color Up Arbitrary Command Output | legacyPackages.x86_64-linux.python312Packages.colout |
 | python3.12-columnize | 0.3.11 | Python module to align a simple (not nested) list in columns | legacyPackages.x86_64-linux.python312Packages.columnize |
-| python3.12-comet-ml | 3.54.1 | Platform designed to help machine learning teams track, compare, explain, and optimize their models | legacyPackages.x86_64-linux.python312Packages.comet-ml |
+| python3.12-comet-ml | 3.54.2 | Platform designed to help machine learning teams track, compare, explain, and optimize their models | legacyPackages.x86_64-linux.python312Packages.comet-ml |
 | python3.12-cometblue-lite | 0.7.0 | Module for Eurotronic Comet Blue thermostats | legacyPackages.x86_64-linux.python312Packages.cometblue-lite |
 | python3.12-cometx | 3.1.0 | Open source extensions for the Comet SDK | legacyPackages.x86_64-linux.python312Packages.cometx |
 | python3.12-comicapi | 3.2.0 | Comic archive (cbr/cbz/cbt) and metadata utilities | legacyPackages.x86_64-linux.python312Packages.comicapi |
@@ -54673,7 +54702,7 @@
 | python3.12-cvelib | 1.8.0 | Library and a command line interface for the CVE Services API | legacyPackages.x86_64-linux.python312Packages.cvelib |
 | python3.12-cvss | 3.6 | Library for CVSS2/3/4 | legacyPackages.x86_64-linux.python312Packages.cvss |
 | python3.12-cvxopt | 1.3.2 | Python Software for Convex Optimization | legacyPackages.x86_64-linux.python312Packages.cvxopt |
-| python3.12-cvxpy | 1.7.3 | Domain-specific language for modeling convex optimization problems in Python | legacyPackages.x86_64-linux.python312Packages.cvxpy |
+| python3.12-cvxpy | 1.7.4 | Domain-specific language for modeling convex optimization problems in Python | legacyPackages.x86_64-linux.python312Packages.cvxpy |
 | python3.12-cwcwidth | 0.1.12 | Python bindings for wc(s)width | legacyPackages.x86_64-linux.python312Packages.cwcwidth |
 | python3.12-cwl-upgrader | 1.2.12 | Library to upgrade CWL syntax to a newer version | legacyPackages.x86_64-linux.python312Packages.cwl-upgrader |
 | python3.12-cwl-utils | 0.40 | Utilities for CWL | legacyPackages.x86_64-linux.python312Packages.cwl-utils |
@@ -54789,7 +54818,7 @@
 | python3.12-dbt-snowflake | 1.10.2 | Plugin enabling dbt to work with Snowflake | legacyPackages.x86_64-linux.python312Packages.dbt-snowflake |
 | python3.12-dbus-client-gen | 0.5.1 | Python Library for Generating D-Bus Client Code | legacyPackages.x86_64-linux.python312Packages.dbus-client-gen |
 | python3.12-dbus-deviation | 0.6.1 | Project for parsing D-Bus introspection XML and processing it in various ways | legacyPackages.x86_64-linux.python312Packages.dbus-deviation |
-| python3.12-dbus-fast | 2.46.3 | Faster version of dbus-next | legacyPackages.x86_64-linux.python312Packages.dbus-fast |
+| python3.12-dbus-fast | 3.1.2 | Faster version of dbus-next | legacyPackages.x86_64-linux.python312Packages.dbus-fast |
 | python3.12-dbus-next | 0.2.3 | Zero-dependency DBus library for Python with asyncio support | legacyPackages.x86_64-linux.python312Packages.dbus-next |
 | python3.12-dbus-python | 1.4.0 | Python DBus bindings | legacyPackages.x86_64-linux.python312Packages.dbus-python |
 | python3.12-dbus-python-client-gen | 0.8.3 | Python library for generating dbus-python client code | legacyPackages.x86_64-linux.python312Packages.dbus-python-client-gen |
@@ -54815,7 +54844,7 @@
 | python3.12-dedupe | 3.0.3 | Library for accurate and scalable fuzzy matching, deduplication and entity resolution | legacyPackages.x86_64-linux.python312Packages.dedupe |
 | python3.12-dedupe-levenshtein-search | 1.4.5 | Search through documents for approximately matching strings using Levenshtein distance | legacyPackages.x86_64-linux.python312Packages.dedupe-levenshtein-search |
 | python3.12-dedupe-pylbfgs | 0.2.0.16 | Python wrapper for L-BFGS and OWL-QN optimization algorithms | legacyPackages.x86_64-linux.python312Packages.dedupe-pylbfgs |
-| python3.12-deebot-client | 16.3.0 | Deebot client library | legacyPackages.x86_64-linux.python312Packages.deebot-client |
+| python3.12-deebot-client | 16.4.0 | Deebot client library | legacyPackages.x86_64-linux.python312Packages.deebot-client |
 | python3.12-deemix | 3.6.6 | Deezer downloader built from the ashes of Deezloader Remix | legacyPackages.x86_64-linux.python312Packages.deemix |
 | python3.12-deep-chainmap | 0.1.3 | Recursive subclass of ChainMap | legacyPackages.x86_64-linux.python312Packages.deep-chainmap |
 | python3.12-deep-translator | 1.11.4 | Python tool to translate between different languages by using multiple translators | legacyPackages.x86_64-linux.python312Packages.deep-translator |
@@ -54928,7 +54957,7 @@
 | python3.12-dissect-eventlog | 3.10 | Dissect module implementing parsers for the Windows EVT, EVTX and WEVT log file formats | legacyPackages.x86_64-linux.python312Packages.dissect-eventlog |
 | python3.12-dissect-evidence | 3.12 | Dissect module implementing a parsers for various forensic evidence file containers | legacyPackages.x86_64-linux.python312Packages.dissect-evidence |
 | python3.12-dissect-executable | 1.8 | Dissect module implementing a parser for various executable formats such as PE, ELF and Macho-O | legacyPackages.x86_64-linux.python312Packages.dissect-executable |
-| python3.12-dissect-extfs | 3.14 | Dissect module implementing a parser for the ExtFS file system | legacyPackages.x86_64-linux.python312Packages.dissect-extfs |
+| python3.12-dissect-extfs | 3.15 | Dissect module implementing a parser for the ExtFS file system | legacyPackages.x86_64-linux.python312Packages.dissect-extfs |
 | python3.12-dissect-fat | 3.13 | Dissect module implementing a parser for the FAT file system | legacyPackages.x86_64-linux.python312Packages.dissect-fat |
 | python3.12-dissect-ffs | 3.12 | Dissect module implementing a parser for the FFS file system | legacyPackages.x86_64-linux.python312Packages.dissect-ffs |
 | python3.12-dissect-fve | 4.2 | Dissect module implementing parsers for full volume encryption implementations | legacyPackages.x86_64-linux.python312Packages.dissect-fve |
@@ -54939,7 +54968,7 @@
 | python3.12-dissect-qnxfs | 1.2 | Dissect module implementing a parser for the QNX4 and QNX6 file systems | legacyPackages.x86_64-linux.python312Packages.dissect-qnxfs |
 | python3.12-dissect-regf | 3.14 | Dissect module implementing a parser for Windows registry file format | legacyPackages.x86_64-linux.python312Packages.dissect-regf |
 | python3.12-dissect-shellitem | 3.12 | Dissect module implementing a parser for the Shellitem structures | legacyPackages.x86_64-linux.python312Packages.dissect-shellitem |
-| python3.12-dissect-sql | 3.12 | Dissect module implementing a parsers for the SQLite database file format | legacyPackages.x86_64-linux.python312Packages.dissect-sql |
+| python3.12-dissect-sql | 3.13 | Dissect module implementing a parsers for the SQLite database file format | legacyPackages.x86_64-linux.python312Packages.dissect-sql |
 | python3.12-dissect-squashfs | 1.10 | Dissect module implementing a parser for the SquashFS file system | legacyPackages.x86_64-linux.python312Packages.dissect-squashfs |
 | python3.12-dissect-target | 3.23.1 | Dissect module that provides a programming API and command line tools | legacyPackages.x86_64-linux.python312Packages.dissect-target |
 | python3.12-dissect-thumbcache | 1.10 | Dissect module implementing a parser for the Windows thumbcache | legacyPackages.x86_64-linux.python312Packages.dissect-thumbcache |
@@ -55372,7 +55401,7 @@
 | python3.12-elgato | 5.1.2 | Python client for Elgato Key Lights | legacyPackages.x86_64-linux.python312Packages.elgato |
 | python3.12-eliot | 1.17.5 | Logging library that tells you why it happened | legacyPackages.x86_64-linux.python312Packages.eliot |
 | python3.12-eliqonline | 1.2.2 | Python client to the Eliq Online API | legacyPackages.x86_64-linux.python312Packages.eliqonline |
-| python3.12-elkm1-lib | 2.2.12 | Python module for interacting with ElkM1 alarm/automation panel | legacyPackages.x86_64-linux.python312Packages.elkm1-lib |
+| python3.12-elkm1-lib | 2.2.13 | Python module for interacting with ElkM1 alarm/automation panel | legacyPackages.x86_64-linux.python312Packages.elkm1-lib |
 | python3.12-elkoep-aio-mqtt | 0.1.0.beta.4 | Python library for iNELS mqtt protocol | legacyPackages.x86_64-linux.python312Packages.elkoep-aio-mqtt |
 | python3.12-elmax | 0.1.5 | Python API client for the Elmax Cloud services | legacyPackages.x86_64-linux.python312Packages.elmax |
 | python3.12-elmax-api | 0.0.6.4rc0 | Python library for interacting with the Elmax cloud | legacyPackages.x86_64-linux.python312Packages.elmax-api |
@@ -56401,7 +56430,7 @@
 | python3.12-i2csense | 0.0.4 | Library to handle i2c sensors with the Raspberry Pi | legacyPackages.x86_64-linux.python312Packages.i2csense |
 | python3.12-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python312Packages.i3-py |
 | python3.12-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python312Packages.i3ipc |
-| python3.12-iamdata | 0.1.202511251 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
+| python3.12-iamdata | 0.1.202511261 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
 | python3.12-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python312Packages.iammeter |
 | python3.12-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python312Packages.iapws |
 | python3.12-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python312Packages.iaqualink |
@@ -56465,12 +56494,12 @@
 | python3.12-imgcat | 0.6.0 | Imgcat in Python | legacyPackages.x86_64-linux.python312Packages.imgcat |
 | python3.12-imgdiff | 1.8.0 | Compare two images side-by-side | legacyPackages.x86_64-linux.python312Packages.imgdiff |
 | python3.12-imgsize | 4.0.1 | Pure Python image size library | legacyPackages.x86_64-linux.python312Packages.imgsize |
-| python3.12-imgw-pib | 1.5.6 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python312Packages.imgw-pib |
+| python3.12-imgw-pib | 1.6.1 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python312Packages.imgw-pib |
 | python3.12-imia | 0.5.3 | Authentication library for Starlette and FastAPI | legacyPackages.x86_64-linux.python312Packages.imia |
 | python3.12-iminuit | 2.32.0 | Python interface for the Minuit2 C++ library | legacyPackages.x86_64-linux.python312Packages.iminuit |
 | python3.12-immutabledict | 4.2.2 | Fork of frozendict, an immutable wrapper around dictionaries | legacyPackages.x86_64-linux.python312Packages.immutabledict |
 | python3.12-immutables | 0.21 | Immutable mapping type | legacyPackages.x86_64-linux.python312Packages.immutables |
-| python3.12-impacket | 0.12.0 | Network protocols Constructors and Dissectors | legacyPackages.x86_64-linux.python312Packages.impacket |
+| python3.12-impacket | 0.13.0 | Network protocols Constructors and Dissectors | legacyPackages.x86_64-linux.python312Packages.impacket |
 | python3.12-import-expression | 2.2.1.post1 | Transpiles a superset of python to allow easy inline imports | legacyPackages.x86_64-linux.python312Packages.import-expression |
 | python3.12-importlab | 0.8.1 | Library that automatically infers dependencies for Python files | legacyPackages.x86_64-linux.python312Packages.importlab |
 | python3.12-importlib-metadata | 8.7.0 | Read metadata from Python packages | legacyPackages.x86_64-linux.python312Packages.importlib-metadata |
@@ -56925,7 +56954,7 @@
 | python3.12-langcodes | 3.5.0 | Python toolkit for working with and comparing the standardized codes for languages | legacyPackages.x86_64-linux.python312Packages.langcodes |
 | python3.12-langdetect | 1.0.9 | Python port of Google's language-detection library | legacyPackages.x86_64-linux.python312Packages.langdetect |
 | python3.12-langfuse | 3.8.1 | Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability | legacyPackages.x86_64-linux.python312Packages.langfuse |
-| python3.12-langgraph | 1.0.1 | Build resilient language agents as graphs | legacyPackages.x86_64-linux.python312Packages.langgraph |
+| python3.12-langgraph | 1.0.4 | Build resilient language agents as graphs | legacyPackages.x86_64-linux.python312Packages.langgraph |
 | python3.12-langgraph-checkpoint | 3.0.1 | Library with base interfaces for LangGraph checkpoint savers | legacyPackages.x86_64-linux.python312Packages.langgraph-checkpoint |
 | python3.12-langgraph-checkpoint-mongodb | 0.3.0 | Integrations between MongoDB, Atlas, LangChain, and LangGraph | legacyPackages.x86_64-linux.python312Packages.langgraph-checkpoint-mongodb |
 | python3.12-langgraph-checkpoint-postgres | 3.0.1 | Library with a Postgres implementation of LangGraph checkpoint saver | legacyPackages.x86_64-linux.python312Packages.langgraph-checkpoint-postgres |
@@ -57483,7 +57512,7 @@
 | python3.12-miss-hit | 0.9.44 | Static analysis and other utilities for programs written in the MATLAB/Simulink and Octave languages | legacyPackages.x86_64-linux.python312Packages.miss-hit |
 | python3.12-miss-hit-core | 0.9.44 | Code formatting and code metrics for programs written in the MATLAB/Simulink and Octave languages | legacyPackages.x86_64-linux.python312Packages.miss-hit-core |
 | python3.12-mistletoe | 1.4.0 | Fast and extensible Markdown parser | legacyPackages.x86_64-linux.python312Packages.mistletoe |
-| python3.12-mistral-common | 1.8.4 | Tools to help you work with Mistral models | legacyPackages.x86_64-linux.python312Packages.mistral-common |
+| python3.12-mistral-common | 1.8.5 | Tools to help you work with Mistral models | legacyPackages.x86_64-linux.python312Packages.mistral-common |
 | python3.12-mistune | 3.1.4 | Sane Markdown parser with useful plugins and renderers | legacyPackages.x86_64-linux.python312Packages.mistune |
 | python3.12-mitmproxy | 12.2.0 | Man-in-the-middle proxy | legacyPackages.x86_64-linux.python312Packages.mitmproxy |
 | python3.12-mitmproxy-linux | 0.12.7 | Linux Rust bits in mitmproxy | legacyPackages.x86_64-linux.python312Packages.mitmproxy-linux |
@@ -59916,7 +59945,7 @@
 | python3.12-pysmart | 1.4.2 | Wrapper for smartctl (smartmontools) | legacyPackages.x86_64-linux.python312Packages.pysmart |
 | python3.12-pysmartapp | 0.3.5 | Python implementation to work with SmartApp lifecycle events | legacyPackages.x86_64-linux.python312Packages.pysmartapp |
 | python3.12-pysmartdl | 1.3.4 | Smart Download Manager for Python | legacyPackages.x86_64-linux.python312Packages.pysmartdl |
-| python3.12-pysmartthings | 3.3.4 | Python library for interacting with the SmartThings cloud API | legacyPackages.x86_64-linux.python312Packages.pysmartthings |
+| python3.12-pysmartthings | 3.5.0 | Python library for interacting with the SmartThings cloud API | legacyPackages.x86_64-linux.python312Packages.pysmartthings |
 | python3.12-pysmarty2 | 0.10.3 | Python API for Salda Smarty Modbus TCP | legacyPackages.x86_64-linux.python312Packages.pysmarty2 |
 | python3.12-pysmb | 1.2.13 | Experimental SMB/CIFS library to support file sharing between Windows and Linux machines | legacyPackages.x86_64-linux.python312Packages.pysmb |
 | python3.12-pysmbc | 1.0.25.1 | Libsmbclient binding for Python | legacyPackages.x86_64-linux.python312Packages.pysmbc |
@@ -59957,7 +59986,7 @@
 | python3.12-pysqlcipher3 | 1.2.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python312Packages.pysqlcipher3 |
 | python3.12-pysqlitecipher | 0.22 | Lightweight and easy to use sqlite wrapper with built-in encryption system | legacyPackages.x86_64-linux.python312Packages.pysqlitecipher |
 | python3.12-pysqueezebox | 0.13.0 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python312Packages.pysqueezebox |
-| python3.12-pysrdaligateway | 0.17.0 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python312Packages.pysrdaligateway |
+| python3.12-pysrdaligateway | 0.17.1 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python312Packages.pysrdaligateway |
 | python3.12-pysrim | 0.5.10 | Srim Automation of Tasks via Python | legacyPackages.x86_64-linux.python312Packages.pysrim |
 | python3.12-pysrt | 1.1.2 | Python library used to edit or create SubRip files | legacyPackages.x86_64-linux.python312Packages.pysrt |
 | python3.12-pyssim | 0.7.1 | Module for computing Structured Similarity Image Metric (SSIM) in Python | legacyPackages.x86_64-linux.python312Packages.pyssim |
@@ -60608,7 +60637,7 @@
 | python3.12-pywaterkotte | 0.1.2 | Library to communicate with Waterkotte heatpumps | legacyPackages.x86_64-linux.python312Packages.pywaterkotte |
 | python3.12-pywavelets | 1.9.0 | Wavelet transform module | legacyPackages.x86_64-linux.python312Packages.pywavelets |
 | python3.12-pywayland | 0.4.18 | Python bindings to wayland using cffi | legacyPackages.x86_64-linux.python312Packages.pywayland |
-| python3.12-pywaze | 1.1.0 | Module for calculating WAZE routes and travel times | legacyPackages.x86_64-linux.python312Packages.pywaze |
+| python3.12-pywaze | 1.1.1 | Module for calculating WAZE routes and travel times | legacyPackages.x86_64-linux.python312Packages.pywaze |
 | python3.12-pywbem | 1.7.3 | Support for the WBEM standard for systems management | legacyPackages.x86_64-linux.python312Packages.pywbem |
 | python3.12-pyweatherflowrest | 1.0.11 | Python module to get data from WeatherFlow Weather Stations | legacyPackages.x86_64-linux.python312Packages.pyweatherflowrest |
 | python3.12-pyweatherflowudp | 1.4.5 | Library to receive UDP Packets from Weatherflow Weatherstations | legacyPackages.x86_64-linux.python312Packages.pyweatherflowudp |
@@ -61565,7 +61594,7 @@
 | python3.12-spsdk-mcu-link | 0.6.6 | Debugger probe plugin for SPSDK supporting LPC-Link/MCU-Link from NXP | legacyPackages.x86_64-linux.python312Packages.spsdk-mcu-link |
 | python3.12-spsdk-pyocd | 0.3.3 | Debugger probe plugin for SPSDK | legacyPackages.x86_64-linux.python312Packages.spsdk-pyocd |
 | python3.12-spur | 0.3.23 | Python module to run commands and manipulate files locally or over SSH | legacyPackages.x86_64-linux.python312Packages.spur |
-| python3.12-spyder | 6.1.0 | Scientific python development environment | legacyPackages.x86_64-linux.python312Packages.spyder |
+| python3.12-spyder | 6.1.1 | Scientific python development environment | legacyPackages.x86_64-linux.python312Packages.spyder |
 | python3.12-spyder-kernels | 3.1.1 | Jupyter kernels for Spyder's console | legacyPackages.x86_64-linux.python312Packages.spyder-kernels |
 | python3.12-spylls | 0.1.7 | Pure Python spell-checker, (almost) full port of Hunspell | legacyPackages.x86_64-linux.python312Packages.spylls |
 | python3.12-spyse-python | 2.2.3 | Python module for spyse.com API | legacyPackages.x86_64-linux.python312Packages.spyse-python |
@@ -61854,7 +61883,7 @@
 | python3.12-temporalio | 1.19.0 | Temporal Python SDK | legacyPackages.x86_64-linux.python312Packages.temporalio |
 | python3.12-tenacity | 9.1.2 | Retrying library for Python | legacyPackages.x86_64-linux.python312Packages.tenacity |
 | python3.12-tenant-schemas-celery | 4.0.3 | Celery application implementation that allows celery tasks to cooperate with multi-tenancy provided by django-tenant-schemas and django-tenants packages | legacyPackages.x86_64-linux.python312Packages.tenant-schemas-celery |
-| python3.12-tencentcloud-sdk-python | 3.1.2 | Tencent Cloud API 3.0 SDK for Python | legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python |
+| python3.12-tencentcloud-sdk-python | 3.1.3 | Tencent Cloud API 3.0 SDK for Python | legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python |
 | python3.12-tendo | 0.4.0 | Adds basic functionality that is not provided by Python | legacyPackages.x86_64-linux.python312Packages.tendo |
 | python3.12-tensorboard | 2.20.0 | TensorFlow's Visualization Toolkit | legacyPackages.x86_64-linux.python312Packages.tensorboard |
 | python3.12-tensorboard-data-server | 0.7.2 | Fast data loading for TensorBoard | legacyPackages.x86_64-linux.python312Packages.tensorboard-data-server |
@@ -62747,7 +62776,7 @@
 | python3.12-utils | 1.0.1 | Python set of utility functions and objects | legacyPackages.x86_64-linux.python312Packages.utils |
 | python3.12-utitools | 0.4.0 | Utilities for working with Uniform Type Identifiers | legacyPackages.x86_64-linux.python312Packages.utitools |
 | python3.12-uuid6 | 2025.0.1 | New time-based UUID formats which are suited for use as a database key | legacyPackages.x86_64-linux.python312Packages.uuid6 |
-| python3.12-uv | 0.9.9 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.python312Packages.uv |
+| python3.12-uv | 0.9.12 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.python312Packages.uv |
 | python3.12-uv-build | 0.9.7 | Minimal build backend for uv | legacyPackages.x86_64-linux.python312Packages.uv-build |
 | python3.12-uv-dynamic-versioning | 0.11.2 | Dynamic versioning based on VCS tags for uv/hatch project | legacyPackages.x86_64-linux.python312Packages.uv-dynamic-versioning |
 | python3.12-uvcclient | 0.12.2 | Client for Ubiquiti's Unifi Camera NVR | legacyPackages.x86_64-linux.python312Packages.uvcclient |
@@ -62904,7 +62933,7 @@
 | python3.12-weasel | 0.4.3 | Small and easy workflow system | legacyPackages.x86_64-linux.python312Packages.weasel |
 | python3.12-weasyprint | 66.0 | Converts web documents to PDF | legacyPackages.x86_64-linux.python312Packages.weasyprint |
 | python3.12-weatherflow4py | 1.4.1 | Module to interact with the WeatherFlow REST API | legacyPackages.x86_64-linux.python312Packages.weatherflow4py |
-| python3.12-weaviate-client | 4.18.0 | Python native client for easy interaction with a Weaviate instance | legacyPackages.x86_64-linux.python312Packages.weaviate-client |
+| python3.12-weaviate-client | 4.18.1 | Python native client for easy interaction with a Weaviate instance | legacyPackages.x86_64-linux.python312Packages.weaviate-client |
 | python3.12-web-cache | 1.1.0 | Simple Python key-value storage backed up by sqlite3 database | legacyPackages.x86_64-linux.python312Packages.web-cache |
 | python3.12-web.py | 0.62 | Makes web apps | legacyPackages.x86_64-linux.python312Packages.web |
 | python3.12-web3 | 7.14.0 | Python interface for interacting with the Ethereum blockchain and ecosystem | legacyPackages.x86_64-linux.python312Packages.web3 |
@@ -63139,7 +63168,7 @@
 | python3.12-yt-dlp-dearrow | 2023.01.01-unstable-2024-01-13 | Post-processor plugin to use DeArrow video titles in YT-DLP | legacyPackages.x86_64-linux.python312Packages.yt-dlp-dearrow |
 | python3.12-yt-dlp-ejs | 0.3.1 | External JavaScript for yt-dlp supporting many runtimes | legacyPackages.x86_64-linux.python312Packages.yt-dlp-ejs |
 | python3.12-yte | 1.9.0 | YAML template engine with Python expressions | legacyPackages.x86_64-linux.python312Packages.yte |
-| python3.12-ytmusicapi | 1.11.1 | Python API for YouTube Music | legacyPackages.x86_64-linux.python312Packages.ytmusicapi |
+| python3.12-ytmusicapi | 1.11.2 | Python API for YouTube Music | legacyPackages.x86_64-linux.python312Packages.ytmusicapi |
 | python3.12-yubico-client | 1.13.0 | Verifying Yubico OTPs based on the validation protocol version 2.0 | legacyPackages.x86_64-linux.python312Packages.yubico-client |
 | python3.12-z3c-checkversions | 3.0 | Find newer package versions on PyPI | legacyPackages.x86_64-linux.python312Packages.z3c-checkversions |
 | python3.12-zabbix-utils | 2.0.3 | Library for zabbix | legacyPackages.x86_64-linux.python312Packages.zabbix-utils |
@@ -63369,7 +63398,7 @@
 | python3.13-aioecowitt | 2025.9.2 | Wrapper for the EcoWitt protocol | legacyPackages.x86_64-linux.python313Packages.aioecowitt |
 | python3.13-aioelectricitymaps | 1.1.1 | Module for interacting with Electricity maps | legacyPackages.x86_64-linux.python313Packages.aioelectricitymaps |
 | python3.13-aioemonitor | 1.0.5 | Python client for SiteSage Emonitor | legacyPackages.x86_64-linux.python313Packages.aioemonitor |
-| python3.13-aioesphomeapi | 42.7.0 | Python Client for ESPHome native API | legacyPackages.x86_64-linux.python313Packages.aioesphomeapi |
+| python3.13-aioesphomeapi | 42.8.0 | Python Client for ESPHome native API | legacyPackages.x86_64-linux.python313Packages.aioesphomeapi |
 | python3.13-aioextensions | 21.7.2261349 | High performance functions to work with the async IO | legacyPackages.x86_64-linux.python313Packages.aioextensions |
 | python3.13-aiofile | 3.8.6 | File operations with asyncio support | legacyPackages.x86_64-linux.python313Packages.aiofile |
 | python3.13-aiofiles | 24.1.0 | File support for asyncio | legacyPackages.x86_64-linux.python313Packages.aiofiles |
@@ -63475,7 +63504,7 @@
 | python3.13-aiosasl | 0.5.0 | Asyncio SASL library | legacyPackages.x86_64-linux.python313Packages.aiosasl |
 | python3.13-aiosenz | 1.0.0 | Python wrapper for the nVent Raychem SENZ RestAPI | legacyPackages.x86_64-linux.python313Packages.aiosenz |
 | python3.13-aioserial | 1.3.1 | Python module for async serial communication | legacyPackages.x86_64-linux.python313Packages.aioserial |
-| python3.13-aioshelly | 13.17.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python313Packages.aioshelly |
+| python3.13-aioshelly | 13.21.0 | Python library to control Shelly | legacyPackages.x86_64-linux.python313Packages.aioshelly |
 | python3.13-aioshutil | 1.6 | Asynchronous version of function of shutil module | legacyPackages.x86_64-linux.python313Packages.aioshutil |
 | python3.13-aiosignal | 1.4.0 | Python list of registered asynchronous callbacks | legacyPackages.x86_64-linux.python313Packages.aiosignal |
 | python3.13-aioskybell | 23.12.0 | API client for Skybell doorbells | legacyPackages.x86_64-linux.python313Packages.aioskybell |
@@ -63756,7 +63785,7 @@
 | python3.13-astropy-healpix | 1.1.2 | BSD-licensed HEALPix for Astropy | legacyPackages.x86_64-linux.python313Packages.astropy-healpix |
 | python3.13-astropy-helpers | 4.0.1 | Utilities for building and installing Astropy, Astropy affiliated packages, and their respective documentation | legacyPackages.x86_64-linux.python313Packages.astropy-helpers |
 | python3.13-astropy-iers-data | 0.2025.8.4.0.42.59 | IERS data maintained by @astrofrog and astropy.utils.iers maintainers | legacyPackages.x86_64-linux.python313Packages.astropy-iers-data |
-| python3.13-astroquery | 0.4.10 | Functions and classes to access online data resources | legacyPackages.x86_64-linux.python313Packages.astroquery |
+| python3.13-astroquery | 0.4.11 | Functions and classes to access online data resources | legacyPackages.x86_64-linux.python313Packages.astroquery |
 | python3.13-asttokens | 3.0.0 | Annotate Python AST trees with source text and token information | legacyPackages.x86_64-linux.python313Packages.asttokens |
 | python3.13-astunparse | 1.6.3 | This is a factored out version of unparse found in the Python source distribution | legacyPackages.x86_64-linux.python313Packages.astunparse |
 | python3.13-asusrouter | 1.21.0 | API wrapper for communication with ASUSWRT-powered routers using HTTP protocol | legacyPackages.x86_64-linux.python313Packages.asusrouter |
@@ -64453,7 +64482,7 @@
 | python3.13-certbot-nginx | 5.1.0 | Nginx plugin for Certbot | legacyPackages.x86_64-linux.python313Packages.certbot-nginx |
 | python3.13-certifi | 2025.07.14 | Python package for providing Mozilla's CA Bundle | legacyPackages.x86_64-linux.python313Packages.certifi |
 | python3.13-certipy | 0.2.2 | Utility to create and sign CAs and certificates | legacyPackages.x86_64-linux.python313Packages.certipy |
-| python3.13-certipy-ad | 5.0.3 | Library and CLI tool to enumerate and abuse misconfigurations in Active Directory Certificate Services | legacyPackages.x86_64-linux.python313Packages.certipy-ad |
+| python3.13-certipy-ad | 5.0.4 | Library and CLI tool to enumerate and abuse misconfigurations in Active Directory Certificate Services | legacyPackages.x86_64-linux.python313Packages.certipy-ad |
 | python3.13-certomancer | 0.13.0 | Quickly construct, mock & deploy PKI test configurations using simple declarative configuration | legacyPackages.x86_64-linux.python313Packages.certomancer |
 | python3.13-certvalidator | 0.11.1 | Validates X.509 certificates and paths | legacyPackages.x86_64-linux.python313Packages.certvalidator |
 | python3.13-cexprtk | 0.4.1 | Mathematical expression parser, cython wrapper | legacyPackages.x86_64-linux.python313Packages.cexprtk |
@@ -64636,16 +64665,22 @@
 | python3.13-colcon-cargo | 0.1.3 | Extension for colcon-core to support Rust packages built with Cargo | legacyPackages.x86_64-linux.python313Packages.colcon-cargo |
 | python3.13-colcon-cd | 0.2.1 | A shell function for colcon-core to change the current working directory. | legacyPackages.x86_64-linux.python313Packages.colcon-cd |
 | python3.13-colcon-core | 0.19.0 | Command line tool to build sets of software packages | legacyPackages.x86_64-linux.python313Packages.colcon |
+| python3.13-colcon-coveragepy-result | 0.0.8 | Colcon extension for collecting coverage.py results | legacyPackages.x86_64-linux.python313Packages.colcon-coveragepy-result |
 | python3.13-colcon-defaults | 0.2.9 | Extension for colcon to read defaults from a config file | legacyPackages.x86_64-linux.python313Packages.colcon-defaults |
+| python3.13-colcon-devtools | 0.3.0 | Extension for colcon to provide information about all extension points and extensions | legacyPackages.x86_64-linux.python313Packages.colcon-devtools |
 | python3.13-colcon-installed-package-information | 0.2.1 | Extensions for colcon to inspect packages which have already been installed | legacyPackages.x86_64-linux.python313Packages.colcon-installed-package-information |
 | python3.13-colcon-library-path | 0.2.1 | Extension for colcon to set the library path environment variable | legacyPackages.x86_64-linux.python313Packages.colcon-library-path |
+| python3.13-colcon-metadata | 0.2.5 | Extension for colcon-core to read package metadata from files | legacyPackages.x86_64-linux.python313Packages.colcon-metadata |
 | python3.13-colcon-mixin | 0.2.3 | Extension for colcon-core to provide mixin functionality | legacyPackages.x86_64-linux.python313Packages.colcon-mixin |
 | python3.13-colcon-notification | 0.3.0 | Extension for colcon-core to provide status notifications | legacyPackages.x86_64-linux.python313Packages.colcon-notification |
 | python3.13-colcon-output | 0.2.13 | Extension for colcon-core to customize the output in various ways | legacyPackages.x86_64-linux.python313Packages.colcon-output |
 | python3.13-colcon-package-information | 0.4.0 | Extension for colcon-core to output package information | legacyPackages.x86_64-linux.python313Packages.colcon-package-information |
+| python3.13-colcon-package-selection | 0.2.10 | Extension for colcon to select the packages to process | legacyPackages.x86_64-linux.python313Packages.colcon-package-selection |
 | python3.13-colcon-parallel-executor | 0.4.0 | Extension for colcon-core to process packages in parallel | legacyPackages.x86_64-linux.python313Packages.colcon-parallel-executor |
+| python3.13-colcon-python-setup-py | 0.2.9 | Extension for colcon-core to support Python packages with the metadata in the setup.py file | legacyPackages.x86_64-linux.python313Packages.colcon-python-setup-py |
 | python3.13-colcon-recursive-crawl | 0.2.3 | Extension for colcon to recursively crawl for packages | legacyPackages.x86_64-linux.python313Packages.colcon-recursive-crawl |
 | python3.13-colcon-ros-domain-id-coordinator | 0.2.4 | Extension for colcon-core to coordinate ROS_DOMAIN_ID values across multiple terminals | legacyPackages.x86_64-linux.python313Packages.colcon-ros-domain-id-coordinator |
+| python3.13-colcon-zsh | 0.5.0 | Extension for colcon-core to provide Z shell scripts | legacyPackages.x86_64-linux.python313Packages.colcon-zsh |
 | python3.13-collections-extended | 2.0.2 | Extra Python Collections - bags (multisets), setlists (unique list/indexed set), RangeMap and IndexedDict | legacyPackages.x86_64-linux.python313Packages.collections-extended |
 | python3.13-collidoscope | 0.6.5 | Python library to detect glyph collisions in fonts | legacyPackages.x86_64-linux.python313Packages.collidoscope |
 | python3.13-color-matcher | 0.6.0 | Package enabling color transfer across images | legacyPackages.x86_64-linux.python313Packages.color-matcher |
@@ -64669,7 +64704,7 @@
 | python3.13-colour | 0.1.5 | Converts and manipulates common color representation (RGB, HSV, web, ...) | legacyPackages.x86_64-linux.python313Packages.colour |
 | python3.13-colout | 1.1 | Color Up Arbitrary Command Output | legacyPackages.x86_64-linux.python313Packages.colout |
 | python3.13-columnize | 0.3.11 | Python module to align a simple (not nested) list in columns | legacyPackages.x86_64-linux.python313Packages.columnize |
-| python3.13-comet-ml | 3.54.1 | Platform designed to help machine learning teams track, compare, explain, and optimize their models | legacyPackages.x86_64-linux.python313Packages.comet-ml |
+| python3.13-comet-ml | 3.54.2 | Platform designed to help machine learning teams track, compare, explain, and optimize their models | legacyPackages.x86_64-linux.python313Packages.comet-ml |
 | python3.13-cometblue-lite | 0.7.0 | Module for Eurotronic Comet Blue thermostats | legacyPackages.x86_64-linux.python313Packages.cometblue-lite |
 | python3.13-cometx | 3.1.0 | Open source extensions for the Comet SDK | legacyPackages.x86_64-linux.python313Packages.cometx |
 | python3.13-comicapi | 3.2.0 | Comic archive (cbr/cbz/cbt) and metadata utilities | legacyPackages.x86_64-linux.python313Packages.comicapi |
@@ -64856,7 +64891,7 @@
 | python3.13-cvelib | 1.8.0 | Library and a command line interface for the CVE Services API | legacyPackages.x86_64-linux.python313Packages.cvelib |
 | python3.13-cvss | 3.6 | Library for CVSS2/3/4 | legacyPackages.x86_64-linux.python313Packages.cvss |
 | python3.13-cvxopt | 1.3.2 | Python Software for Convex Optimization | legacyPackages.x86_64-linux.python313Packages.cvxopt |
-| python3.13-cvxpy | 1.7.3 | Domain-specific language for modeling convex optimization problems in Python | legacyPackages.x86_64-linux.python313Packages.cvxpy |
+| python3.13-cvxpy | 1.7.4 | Domain-specific language for modeling convex optimization problems in Python | legacyPackages.x86_64-linux.python313Packages.cvxpy |
 | python3.13-cwcwidth | 0.1.12 | Python bindings for wc(s)width | legacyPackages.x86_64-linux.python313Packages.cwcwidth |
 | python3.13-cwl-upgrader | 1.2.12 | Library to upgrade CWL syntax to a newer version | legacyPackages.x86_64-linux.python313Packages.cwl-upgrader |
 | python3.13-cwl-utils | 0.40 | Utilities for CWL | legacyPackages.x86_64-linux.python313Packages.cwl-utils |
@@ -64983,7 +65018,7 @@
 | python3.13-dbt-snowflake | 1.10.2 | Plugin enabling dbt to work with Snowflake | legacyPackages.x86_64-linux.python313Packages.dbt-snowflake |
 | python3.13-dbus-client-gen | 0.5.1 | Python Library for Generating D-Bus Client Code | legacyPackages.x86_64-linux.python313Packages.dbus-client-gen |
 | python3.13-dbus-deviation | 0.6.1 | Project for parsing D-Bus introspection XML and processing it in various ways | legacyPackages.x86_64-linux.python313Packages.dbus-deviation |
-| python3.13-dbus-fast | 2.46.3 | Faster version of dbus-next | legacyPackages.x86_64-linux.python313Packages.dbus-fast |
+| python3.13-dbus-fast | 3.1.2 | Faster version of dbus-next | legacyPackages.x86_64-linux.python313Packages.dbus-fast |
 | python3.13-dbus-next | 0.2.3 | Zero-dependency DBus library for Python with asyncio support | legacyPackages.x86_64-linux.python313Packages.dbus-next |
 | python3.13-dbus-python | 1.4.0 | Python DBus bindings | legacyPackages.x86_64-linux.python313Packages.dbus-python |
 | python3.13-dbus-python-client-gen | 0.8.3 | Python library for generating dbus-python client code | legacyPackages.x86_64-linux.python313Packages.dbus-python-client-gen |
@@ -65010,7 +65045,7 @@
 | python3.13-dedupe | 3.0.3 | Library for accurate and scalable fuzzy matching, deduplication and entity resolution | legacyPackages.x86_64-linux.python313Packages.dedupe |
 | python3.13-dedupe-levenshtein-search | 1.4.5 | Search through documents for approximately matching strings using Levenshtein distance | legacyPackages.x86_64-linux.python313Packages.dedupe-levenshtein-search |
 | python3.13-dedupe-pylbfgs | 0.2.0.16 | Python wrapper for L-BFGS and OWL-QN optimization algorithms | legacyPackages.x86_64-linux.python313Packages.dedupe-pylbfgs |
-| python3.13-deebot-client | 16.3.0 | Deebot client library | legacyPackages.x86_64-linux.python313Packages.deebot-client |
+| python3.13-deebot-client | 16.4.0 | Deebot client library | legacyPackages.x86_64-linux.python313Packages.deebot-client |
 | python3.13-deemix | 3.6.6 | Deezer downloader built from the ashes of Deezloader Remix | legacyPackages.x86_64-linux.python313Packages.deemix |
 | python3.13-deep-chainmap | 0.1.3 | Recursive subclass of ChainMap | legacyPackages.x86_64-linux.python313Packages.deep-chainmap |
 | python3.13-deep-translator | 1.11.4 | Python tool to translate between different languages by using multiple translators | legacyPackages.x86_64-linux.python313Packages.deep-translator |
@@ -65136,7 +65171,7 @@
 | python3.13-dissect-eventlog | 3.10 | Dissect module implementing parsers for the Windows EVT, EVTX and WEVT log file formats | legacyPackages.x86_64-linux.python313Packages.dissect-eventlog |
 | python3.13-dissect-evidence | 3.12 | Dissect module implementing a parsers for various forensic evidence file containers | legacyPackages.x86_64-linux.python313Packages.dissect-evidence |
 | python3.13-dissect-executable | 1.8 | Dissect module implementing a parser for various executable formats such as PE, ELF and Macho-O | legacyPackages.x86_64-linux.python313Packages.dissect-executable |
-| python3.13-dissect-extfs | 3.14 | Dissect module implementing a parser for the ExtFS file system | legacyPackages.x86_64-linux.python313Packages.dissect-extfs |
+| python3.13-dissect-extfs | 3.15 | Dissect module implementing a parser for the ExtFS file system | legacyPackages.x86_64-linux.python313Packages.dissect-extfs |
 | python3.13-dissect-fat | 3.13 | Dissect module implementing a parser for the FAT file system | legacyPackages.x86_64-linux.python313Packages.dissect-fat |
 | python3.13-dissect-ffs | 3.12 | Dissect module implementing a parser for the FFS file system | legacyPackages.x86_64-linux.python313Packages.dissect-ffs |
 | python3.13-dissect-fve | 4.2 | Dissect module implementing parsers for full volume encryption implementations | legacyPackages.x86_64-linux.python313Packages.dissect-fve |
@@ -65147,7 +65182,7 @@
 | python3.13-dissect-qnxfs | 1.2 | Dissect module implementing a parser for the QNX4 and QNX6 file systems | legacyPackages.x86_64-linux.python313Packages.dissect-qnxfs |
 | python3.13-dissect-regf | 3.14 | Dissect module implementing a parser for Windows registry file format | legacyPackages.x86_64-linux.python313Packages.dissect-regf |
 | python3.13-dissect-shellitem | 3.12 | Dissect module implementing a parser for the Shellitem structures | legacyPackages.x86_64-linux.python313Packages.dissect-shellitem |
-| python3.13-dissect-sql | 3.12 | Dissect module implementing a parsers for the SQLite database file format | legacyPackages.x86_64-linux.python313Packages.dissect-sql |
+| python3.13-dissect-sql | 3.13 | Dissect module implementing a parsers for the SQLite database file format | legacyPackages.x86_64-linux.python313Packages.dissect-sql |
 | python3.13-dissect-squashfs | 1.10 | Dissect module implementing a parser for the SquashFS file system | legacyPackages.x86_64-linux.python313Packages.dissect-squashfs |
 | python3.13-dissect-target | 3.23.1 | Dissect module that provides a programming API and command line tools | legacyPackages.x86_64-linux.python313Packages.dissect-target |
 | python3.13-dissect-thumbcache | 1.10 | Dissect module implementing a parser for the Windows thumbcache | legacyPackages.x86_64-linux.python313Packages.dissect-thumbcache |
@@ -65594,7 +65629,7 @@
 | python3.13-elgato | 5.1.2 | Python client for Elgato Key Lights | legacyPackages.x86_64-linux.python313Packages.elgato |
 | python3.13-eliot | 1.17.5 | Logging library that tells you why it happened | legacyPackages.x86_64-linux.python313Packages.eliot |
 | python3.13-eliqonline | 1.2.2 | Python client to the Eliq Online API | legacyPackages.x86_64-linux.python313Packages.eliqonline |
-| python3.13-elkm1-lib | 2.2.12 | Python module for interacting with ElkM1 alarm/automation panel | legacyPackages.x86_64-linux.python313Packages.elkm1-lib |
+| python3.13-elkm1-lib | 2.2.13 | Python module for interacting with ElkM1 alarm/automation panel | legacyPackages.x86_64-linux.python313Packages.elkm1-lib |
 | python3.13-elkoep-aio-mqtt | 0.1.0.beta.4 | Python library for iNELS mqtt protocol | legacyPackages.x86_64-linux.python313Packages.elkoep-aio-mqtt |
 | python3.13-elmax | 0.1.5 | Python API client for the Elmax Cloud services | legacyPackages.x86_64-linux.python313Packages.elmax |
 | python3.13-elmax-api | 0.0.6.4rc0 | Python library for interacting with the Elmax cloud | legacyPackages.x86_64-linux.python313Packages.elmax-api |
@@ -66659,7 +66694,7 @@
 | python3.13-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python313Packages.i3-py |
 | python3.13-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python313Packages.i3ipc |
 | python3.13-iMicknl-nest_protect | 0.4.2b0 | Nest Protect integration for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.nest_protect |
-| python3.13-iamdata | 0.1.202511251 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
+| python3.13-iamdata | 0.1.202511261 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
 | python3.13-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python313Packages.iammeter |
 | python3.13-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python313Packages.iapws |
 | python3.13-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python313Packages.iaqualink |
@@ -66725,12 +66760,12 @@
 | python3.13-imgcat | 0.6.0 | Imgcat in Python | legacyPackages.x86_64-linux.python313Packages.imgcat |
 | python3.13-imgdiff | 1.8.0 | Compare two images side-by-side | legacyPackages.x86_64-linux.python313Packages.imgdiff |
 | python3.13-imgsize | 4.0.1 | Pure Python image size library | legacyPackages.x86_64-linux.python313Packages.imgsize |
-| python3.13-imgw-pib | 1.5.6 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python313Packages.imgw-pib |
+| python3.13-imgw-pib | 1.6.1 | Python async wrapper for IMGW-PIB API | legacyPackages.x86_64-linux.python313Packages.imgw-pib |
 | python3.13-imia | 0.5.3 | Authentication library for Starlette and FastAPI | legacyPackages.x86_64-linux.python313Packages.imia |
 | python3.13-iminuit | 2.32.0 | Python interface for the Minuit2 C++ library | legacyPackages.x86_64-linux.python313Packages.iminuit |
 | python3.13-immutabledict | 4.2.2 | Fork of frozendict, an immutable wrapper around dictionaries | legacyPackages.x86_64-linux.python313Packages.immutabledict |
 | python3.13-immutables | 0.21 | Immutable mapping type | legacyPackages.x86_64-linux.python313Packages.immutables |
-| python3.13-impacket | 0.12.0 | Network protocols Constructors and Dissectors | legacyPackages.x86_64-linux.python313Packages.impacket |
+| python3.13-impacket | 0.13.0 | Network protocols Constructors and Dissectors | legacyPackages.x86_64-linux.python313Packages.impacket |
 | python3.13-import-export | 1.0.0b1 | Microsoft Azure Command-Line Tools StorageImportExport Extension | legacyPackages.x86_64-linux.azure-cli-extensions.import-export |
 | python3.13-import-expression | 2.2.1.post1 | Transpiles a superset of python to allow easy inline imports | legacyPackages.x86_64-linux.python313Packages.import-expression |
 | python3.13-importlab | 0.8.1 | Library that automatically infers dependencies for Python files | legacyPackages.x86_64-linux.python313Packages.importlab |
@@ -67204,7 +67239,7 @@
 | python3.13-langcodes | 3.5.0 | Python toolkit for working with and comparing the standardized codes for languages | legacyPackages.x86_64-linux.python313Packages.langcodes |
 | python3.13-langdetect | 1.0.9 | Python port of Google's language-detection library | legacyPackages.x86_64-linux.python313Packages.langdetect |
 | python3.13-langfuse | 3.8.1 | Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability | legacyPackages.x86_64-linux.python313Packages.langfuse |
-| python3.13-langgraph | 1.0.1 | Build resilient language agents as graphs | legacyPackages.x86_64-linux.python313Packages.langgraph |
+| python3.13-langgraph | 1.0.4 | Build resilient language agents as graphs | legacyPackages.x86_64-linux.python313Packages.langgraph |
 | python3.13-langgraph-checkpoint | 3.0.1 | Library with base interfaces for LangGraph checkpoint savers | legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint |
 | python3.13-langgraph-checkpoint-mongodb | 0.3.0 | Integrations between MongoDB, Atlas, LangChain, and LangGraph | legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint-mongodb |
 | python3.13-langgraph-checkpoint-postgres | 3.0.1 | Library with a Postgres implementation of LangGraph checkpoint saver | legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint-postgres |
@@ -67801,7 +67836,7 @@
 | python3.13-miss-hit | 0.9.44 | Static analysis and other utilities for programs written in the MATLAB/Simulink and Octave languages | legacyPackages.x86_64-linux.python313Packages.miss-hit |
 | python3.13-miss-hit-core | 0.9.44 | Code formatting and code metrics for programs written in the MATLAB/Simulink and Octave languages | legacyPackages.x86_64-linux.python313Packages.miss-hit-core |
 | python3.13-mistletoe | 1.4.0 | Fast and extensible Markdown parser | legacyPackages.x86_64-linux.python313Packages.mistletoe |
-| python3.13-mistral-common | 1.8.4 | Tools to help you work with Mistral models | legacyPackages.x86_64-linux.python313Packages.mistral-common |
+| python3.13-mistral-common | 1.8.5 | Tools to help you work with Mistral models | legacyPackages.x86_64-linux.python313Packages.mistral-common |
 | python3.13-mistune | 3.1.4 | Sane Markdown parser with useful plugins and renderers | legacyPackages.x86_64-linux.python313Packages.mistune |
 | python3.13-mitch-dc-volkswagen_we-connect_id | 0.2.6 | Statistics from the Volkswagen ID API | legacyPackages.x86_64-linux.home-assistant-custom-components.volkswagen_we_connect_id |
 | python3.13-mitmproxy | 12.2.0 | Man-in-the-middle proxy | legacyPackages.x86_64-linux.python313Packages.mitmproxy |
@@ -70318,7 +70353,7 @@
 | python3.13-pysmart | 1.4.2 | Wrapper for smartctl (smartmontools) | legacyPackages.x86_64-linux.python313Packages.pysmart |
 | python3.13-pysmartapp | 0.3.5 | Python implementation to work with SmartApp lifecycle events | legacyPackages.x86_64-linux.python313Packages.pysmartapp |
 | python3.13-pysmartdl | 1.3.4 | Smart Download Manager for Python | legacyPackages.x86_64-linux.python313Packages.pysmartdl |
-| python3.13-pysmartthings | 3.3.4 | Python library for interacting with the SmartThings cloud API | legacyPackages.x86_64-linux.python313Packages.pysmartthings |
+| python3.13-pysmartthings | 3.5.0 | Python library for interacting with the SmartThings cloud API | legacyPackages.x86_64-linux.python313Packages.pysmartthings |
 | python3.13-pysmarty2 | 0.10.3 | Python API for Salda Smarty Modbus TCP | legacyPackages.x86_64-linux.python313Packages.pysmarty2 |
 | python3.13-pysmb | 1.2.13 | Experimental SMB/CIFS library to support file sharing between Windows and Linux machines | legacyPackages.x86_64-linux.python313Packages.pysmb |
 | python3.13-pysmbc | 1.0.25.1 | Libsmbclient binding for Python | legacyPackages.x86_64-linux.python313Packages.pysmbc |
@@ -70359,7 +70394,7 @@
 | python3.13-pysqlcipher3 | 1.2.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python313Packages.pysqlcipher3 |
 | python3.13-pysqlitecipher | 0.22 | Lightweight and easy to use sqlite wrapper with built-in encryption system | legacyPackages.x86_64-linux.python313Packages.pysqlitecipher |
 | python3.13-pysqueezebox | 0.13.0 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python313Packages.pysqueezebox |
-| python3.13-pysrdaligateway | 0.17.0 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python313Packages.pysrdaligateway |
+| python3.13-pysrdaligateway | 0.17.1 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python313Packages.pysrdaligateway |
 | python3.13-pysrim | 0.5.10 | Srim Automation of Tasks via Python | legacyPackages.x86_64-linux.python313Packages.pysrim |
 | python3.13-pysrt | 1.1.2 | Python library used to edit or create SubRip files | legacyPackages.x86_64-linux.python313Packages.pysrt |
 | python3.13-pyssim | 0.7.1 | Module for computing Structured Similarity Image Metric (SSIM) in Python | legacyPackages.x86_64-linux.python313Packages.pyssim |
@@ -71011,7 +71046,7 @@
 | python3.13-pywaterkotte | 0.1.2 | Library to communicate with Waterkotte heatpumps | legacyPackages.x86_64-linux.python313Packages.pywaterkotte |
 | python3.13-pywavelets | 1.9.0 | Wavelet transform module | legacyPackages.x86_64-linux.python313Packages.pywavelets |
 | python3.13-pywayland | 0.4.18 | Python bindings to wayland using cffi | legacyPackages.x86_64-linux.python313Packages.pywayland |
-| python3.13-pywaze | 1.1.0 | Module for calculating WAZE routes and travel times | legacyPackages.x86_64-linux.python313Packages.pywaze |
+| python3.13-pywaze | 1.1.1 | Module for calculating WAZE routes and travel times | legacyPackages.x86_64-linux.python313Packages.pywaze |
 | python3.13-pywbem | 1.7.3 | Support for the WBEM standard for systems management | legacyPackages.x86_64-linux.python313Packages.pywbem |
 | python3.13-pyweatherflowrest | 1.0.11 | Python module to get data from WeatherFlow Weather Stations | legacyPackages.x86_64-linux.python313Packages.pyweatherflowrest |
 | python3.13-pyweatherflowudp | 1.4.5 | Library to receive UDP Packets from Weatherflow Weatherstations | legacyPackages.x86_64-linux.python313Packages.pyweatherflowudp |
@@ -72005,7 +72040,7 @@
 | python3.13-spsdk-mcu-link | 0.6.6 | Debugger probe plugin for SPSDK supporting LPC-Link/MCU-Link from NXP | legacyPackages.x86_64-linux.python313Packages.spsdk-mcu-link |
 | python3.13-spsdk-pyocd | 0.3.3 | Debugger probe plugin for SPSDK | legacyPackages.x86_64-linux.python313Packages.spsdk-pyocd |
 | python3.13-spur | 0.3.23 | Python module to run commands and manipulate files locally or over SSH | legacyPackages.x86_64-linux.python313Packages.spur |
-| python3.13-spyder | 6.1.0 | Scientific python development environment | legacyPackages.x86_64-linux.python313Packages.spyder |
+| python3.13-spyder | 6.1.1 | Scientific python development environment | legacyPackages.x86_64-linux.python313Packages.spyder |
 | python3.13-spyder-kernels | 3.1.1 | Jupyter kernels for Spyder's console | legacyPackages.x86_64-linux.python313Packages.spyder-kernels |
 | python3.13-spylls | 0.1.7 | Pure Python spell-checker, (almost) full port of Hunspell | legacyPackages.x86_64-linux.python313Packages.spylls |
 | python3.13-spyse-python | 2.2.3 | Python module for spyse.com API | legacyPackages.x86_64-linux.python313Packages.spyse-python |
@@ -72324,7 +72359,7 @@
 | python3.13-temporalio | 1.19.0 | Temporal Python SDK | legacyPackages.x86_64-linux.python313Packages.temporalio |
 | python3.13-tenacity | 9.1.2 | Retrying library for Python | legacyPackages.x86_64-linux.python313Packages.tenacity |
 | python3.13-tenant-schemas-celery | 4.0.3 | Celery application implementation that allows celery tasks to cooperate with multi-tenancy provided by django-tenant-schemas and django-tenants packages | legacyPackages.x86_64-linux.python313Packages.tenant-schemas-celery |
-| python3.13-tencentcloud-sdk-python | 3.1.2 | Tencent Cloud API 3.0 SDK for Python | legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python |
+| python3.13-tencentcloud-sdk-python | 3.1.3 | Tencent Cloud API 3.0 SDK for Python | legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python |
 | python3.13-tendo | 0.4.0 | Adds basic functionality that is not provided by Python | legacyPackages.x86_64-linux.python313Packages.tendo |
 | python3.13-tensile | 6.4-unstable-2025-06-12 | GEMMs and tensor contractions | legacyPackages.x86_64-linux.rocmPackages.tensile |
 | python3.13-tensorboard | 2.20.0 | TensorFlow's Visualization Toolkit | legacyPackages.x86_64-linux.python313Packages.tensorboard |
@@ -73232,7 +73267,7 @@
 | python3.13-utils | 1.0.1 | Python set of utility functions and objects | legacyPackages.x86_64-linux.python313Packages.utils |
 | python3.13-utitools | 0.4.0 | Utilities for working with Uniform Type Identifiers | legacyPackages.x86_64-linux.python313Packages.utitools |
 | python3.13-uuid6 | 2025.0.1 | New time-based UUID formats which are suited for use as a database key | legacyPackages.x86_64-linux.python313Packages.uuid6 |
-| python3.13-uv | 0.9.9 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.python313Packages.uv |
+| python3.13-uv | 0.9.12 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.python313Packages.uv |
 | python3.13-uv-build | 0.9.7 | Minimal build backend for uv | legacyPackages.x86_64-linux.python313Packages.uv-build |
 | python3.13-uv-dynamic-versioning | 0.11.2 | Dynamic versioning based on VCS tags for uv/hatch project | legacyPackages.x86_64-linux.python313Packages.uv-dynamic-versioning |
 | python3.13-uvcclient | 0.12.2 | Client for Ubiquiti's Unifi Camera NVR | legacyPackages.x86_64-linux.python313Packages.uvcclient |
@@ -73396,7 +73431,7 @@
 | python3.13-weasel | 0.4.3 | Small and easy workflow system | legacyPackages.x86_64-linux.python313Packages.weasel |
 | python3.13-weasyprint | 66.0 | Converts web documents to PDF | legacyPackages.x86_64-linux.python313Packages.weasyprint |
 | python3.13-weatherflow4py | 1.4.1 | Module to interact with the WeatherFlow REST API | legacyPackages.x86_64-linux.python313Packages.weatherflow4py |
-| python3.13-weaviate-client | 4.18.0 | Python native client for easy interaction with a Weaviate instance | legacyPackages.x86_64-linux.python313Packages.weaviate-client |
+| python3.13-weaviate-client | 4.18.1 | Python native client for easy interaction with a Weaviate instance | legacyPackages.x86_64-linux.python313Packages.weaviate-client |
 | python3.13-web-cache | 1.1.0 | Simple Python key-value storage backed up by sqlite3 database | legacyPackages.x86_64-linux.python313Packages.web-cache |
 | python3.13-web.py | 0.62 | Makes web apps | legacyPackages.x86_64-linux.python313Packages.web |
 | python3.13-web3 | 7.14.0 | Python interface for interacting with the Ethereum blockchain and ecosystem | legacyPackages.x86_64-linux.python313Packages.web3 |
@@ -73646,7 +73681,7 @@
 | python3.13-yt-dlp-dearrow | 2023.01.01-unstable-2024-01-13 | Post-processor plugin to use DeArrow video titles in YT-DLP | legacyPackages.x86_64-linux.python313Packages.yt-dlp-dearrow |
 | python3.13-yt-dlp-ejs | 0.3.1 | External JavaScript for yt-dlp supporting many runtimes | legacyPackages.x86_64-linux.python313Packages.yt-dlp-ejs |
 | python3.13-yte | 1.9.0 | YAML template engine with Python expressions | legacyPackages.x86_64-linux.python313Packages.yte |
-| python3.13-ytmusicapi | 1.11.1 | Python API for YouTube Music | legacyPackages.x86_64-linux.python313Packages.ytmusicapi |
+| python3.13-ytmusicapi | 1.11.2 | Python API for YouTube Music | legacyPackages.x86_64-linux.python313Packages.ytmusicapi |
 | python3.13-yubico-client | 1.13.0 | Verifying Yubico OTPs based on the validation protocol version 2.0 | legacyPackages.x86_64-linux.python313Packages.yubico-client |
 | python3.13-yubikey-manager | 5.8.0 | Command line tool for configuring any YubiKey over all USB transports | legacyPackages.x86_64-linux.yubikey-manager |
 | python3.13-z3c-checkversions | 3.0 | Find newer package versions on PyPI | legacyPackages.x86_64-linux.python313Packages.z3c-checkversions |
@@ -73982,8 +74017,8 @@
 | qstest | 73069 | Bundle for unit tests and pattern matching | legacyPackages.x86_64-linux.texlivePackages.qstest |
 | qstopmotion | 2.5.2 | Create stopmotion animation with a (web)camera | legacyPackages.x86_64-linux.qstopmotion |
 | qsudo | 2020.03.27 | Graphical sudo utility from Project Trident | legacyPackages.x86_64-linux.qsudo |
-| qsv | 9.1.0 | CSVs sliced, diced & analyzed | legacyPackages.x86_64-linux.qsv |
-| qsv | 9.1.0 | CSVs sliced, diced & analyzed | legacyPackages.x86_64-linux.qsvlite |
+| qsv | 10.0.0 | CSVs sliced, diced & analyzed | legacyPackages.x86_64-linux.qsv |
+| qsv | 10.0.0 | CSVs sliced, diced & analyzed | legacyPackages.x86_64-linux.qsvlite |
 | qsymbols | 15878 | Maths symbol abbreviations | legacyPackages.x86_64-linux.texlivePackages.qsymbols |
 | qsyncthingtray | 0.5.8 | Traybar Application for Syncthing written in C++ | legacyPackages.x86_64-linux.qsyncthingtray |
 | qsynth | 1.0.3 | Fluidsynth GUI | legacyPackages.x86_64-linux.qsynth |
@@ -74608,7 +74643,7 @@
 | qux | 0.2.0.0 | Command line binary for working with the Qux language | legacyPackages.x86_64-linux.haskellPackages.qux |
 | qvge | 0.7.0 | Qt Visual Graph Editor | legacyPackages.x86_64-linux.qvge |
 | qview | 7.1 | Practical and minimal image viewer | legacyPackages.x86_64-linux.qview |
-| qwen-code | 0.2.2 | Coding agent that lives in digital world | legacyPackages.x86_64-linux.qwen-code |
+| qwen-code | 0.2.3 | Coding agent that lives in digital world | legacyPackages.x86_64-linux.qwen-code |
 | qwertone | 0.5.0 | Simple music synthesizer app based on usual qwerty-keyboard for input | legacyPackages.x86_64-linux.qwertone |
 | qwerty-fr | 0.7.3 | Qwerty keyboard layout with French accents | legacyPackages.x86_64-linux.qwerty-fr |
 | qwlroots | 0.5.3 | Qt and QML bindings for wlroots | legacyPackages.x86_64-linux.kdePackages.qwlroots |
@@ -74672,16 +74707,16 @@
 | r8168 | 6.12.59-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.r8168 |
 | r8168 | 6.12.59-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages.r8168 |
 | r8168 | 6.12.59-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.r8168 |
-| r8168 | 6.17.8-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.r8168 |
-| r8168 | 6.17.8-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_zen.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.r8168 |
+| r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_latest.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_lqx.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.r8168 |
 | r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.r8168 |
+| r8168 | 6.17.9-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_zen.r8168 |
 | r8168 | 6.6.117-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.r8168 |
 | rHttp | 0-unstable-2024-04-28 | Go REPL for HTTP | legacyPackages.x86_64-linux.rHttp |
 | r_und_s | 1.3i | Chemical hazard codes | legacyPackages.x86_64-linux.texlivePackages.r_und_s |
@@ -75268,7 +75303,7 @@
 | references | 0.3.3.1 | Selectors for reading and updating data | legacyPackages.x86_64-linux.haskellPackages.references |
 | refh | 0.1.1 | A command-line tool for pasting to https://www.refheap.com | legacyPackages.x86_64-linux.haskellPackages.refh |
 | refind | 0.14.2 | Graphical {,U}EFI boot manager | legacyPackages.x86_64-linux.refind |
-| refine | 0.6.0 | Tweak various aspects of GNOME | legacyPackages.x86_64-linux.refine |
+| refine | 0.6.3 | Tweak various aspects of GNOME | legacyPackages.x86_64-linux.refine |
 | refined | 0.8.2 | Refinement types with static and runtime checking | legacyPackages.x86_64-linux.haskellPackages.refined |
 | refined-containers | 0.1.2.0 | Type-checked proof that a key exists in a container and can be safely indexed | legacyPackages.x86_64-linux.haskellPackages.refined-containers |
 | refined-http-api-data | 0.1.0.0 | http-api-data instances for refined types | legacyPackages.x86_64-linux.haskellPackages.refined-http-api-data |
@@ -75433,7 +75468,7 @@
 | rei | 0.4.0.3 | Process lists easily | legacyPackages.x86_64-linux.haskellPackages.rei |
 | reified-records | 0.2.2 | Reify records to Maps and back again | legacyPackages.x86_64-linux.haskellPackages.reified-records |
 | reify | 0.1.1 | Serialize data | legacyPackages.x86_64-linux.haskellPackages.reify |
-| reindeer | 2025.11.17.00 | Generate Buck build rules from Rust Cargo dependencies | legacyPackages.x86_64-linux.reindeer |
+| reindeer | 2025.11.24.00 | Generate Buck build rules from Rust Cargo dependencies | legacyPackages.x86_64-linux.reindeer |
 | reinterpret-cast | 0.1.0 | Memory reinterpretation casts for Float/Double and Word32/Word64 | legacyPackages.x86_64-linux.haskellPackages.reinterpret-cast |
 | reiser4progs | 2.0.5 | Reiser4 utilities | legacyPackages.x86_64-linux.reiser4progs |
 | reiserfsprogs | 3.6.27 | ReiserFS utilities | legacyPackages.x86_64-linux.reiserfsprogs |
@@ -75720,11 +75755,11 @@
 | retrie | 1.2.3 | A powerful, easy-to-use codemodding tool for Haskell | legacyPackages.x86_64-linux.haskellPackages.retrie |
 | retro-gtk | 1.0.2 | GTK Libretro frontend framework | legacyPackages.x86_64-linux.retro-gtk |
 | retroarch-assets | 1.22.0-unstable-2025-11-10 | Assets needed for RetroArch | legacyPackages.x86_64-linux.retroarch-assets |
-| retroarch-bare | 1.21.0 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch-bare |
+| retroarch-bare | 1.22.2 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch-bare |
 | retroarch-joypad-autoconfig | 1.22.0 | Joypad autoconfig files | legacyPackages.x86_64-linux.retroarch-joypad-autoconfig |
-| retroarch-with-cores | 1.21.0 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch |
-| retroarch-with-cores | 1.21.0 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch-free |
-| retroarch-with-cores | 1.21.0 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch-full |
+| retroarch-with-cores | 1.22.2 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch |
+| retroarch-with-cores | 1.22.2 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch-free |
+| retroarch-with-cores | 1.22.2 | Multi-platform emulator frontend for libretro cores | legacyPackages.x86_64-linux.retroarch-full |
 | retroclash-lib | 0.1.2.3 | Code shared across the code samples in the book "Retrocomputing with Clash" | legacyPackages.x86_64-linux.haskellPackages.retroclash-lib |
 | retroclash-sim | 0.1.2 | High-level simulators from the book "Retrocomputing with Clash" | legacyPackages.x86_64-linux.haskellPackages.retroclash-sim |
 | retrofe | 0.10.31 | Frontend for arcade cabinets and media PCs | legacyPackages.x86_64-linux.retrofe |
@@ -76404,16 +76439,16 @@
 | rtl8188eus-aircrack | 6.12.59-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.12.59-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.12.59-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8188eus-aircrack |
-| rtl8188eus-aircrack | 6.17.8-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8188eus-aircrack |
-| rtl8188eus-aircrack | 6.17.8-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8188eus-aircrack |
+| rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8188eus-aircrack |
+| rtl8188eus-aircrack | 6.17.9-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.6.117-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8188eus-aircrack |
 | rtl8189es | 5.10.246-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8189es |
 | rtl8189es | 5.15.196-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8189es |
@@ -76424,16 +76459,16 @@
 | rtl8189es | 6.12.59-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8189es |
 | rtl8189es | 6.12.59-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages.rtl8189es |
 | rtl8189es | 6.12.59-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8189es |
-| rtl8189es | 6.17.8-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189es |
-| rtl8189es | 6.17.8-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8189es |
+| rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8189es |
 | rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8189es |
+| rtl8189es | 6.17.9-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189es |
 | rtl8189es | 6.6.117-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8189es |
 | rtl8189fs | 5.10.246-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8189fs |
 | rtl8189fs | 5.15.196-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8189fs |
@@ -76444,16 +76479,16 @@
 | rtl8189fs | 6.12.59-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8189fs |
 | rtl8189fs | 6.12.59-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages.rtl8189fs |
 | rtl8189fs | 6.12.59-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8189fs |
-| rtl8189fs | 6.17.8-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189fs |
-| rtl8189fs | 6.17.8-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8189fs |
+| rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8189fs |
 | rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8189fs |
+| rtl8189fs | 6.17.9-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189fs |
 | rtl8189fs | 6.6.117-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8189fs |
 | rtl8192eu | 5.10.246-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8192eu |
 | rtl8192eu | 5.15.196-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8192eu |
@@ -76464,16 +76499,16 @@
 | rtl8192eu | 6.12.59-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8192eu |
 | rtl8192eu | 6.12.59-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages.rtl8192eu |
 | rtl8192eu | 6.12.59-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8192eu |
-| rtl8192eu | 6.17.8-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8192eu |
-| rtl8192eu | 6.17.8-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8192eu |
+| rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8192eu |
 | rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8192eu |
+| rtl8192eu | 6.17.9-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8192eu |
 | rtl8192eu | 6.6.117-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8192eu |
 | rtl8192su-firmware | 0-unstable-2016-10-05 | Firmware for Realtek RTL8188SU/RTL8191SU/RTL8192SU | legacyPackages.x86_64-linux.rtl8192su-firmware |
 | rtl8723ds | 5.10.246-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8723ds |
@@ -76485,16 +76520,16 @@
 | rtl8723ds | 6.12.59-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8723ds |
 | rtl8723ds | 6.12.59-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages.rtl8723ds |
 | rtl8723ds | 6.12.59-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8723ds |
-| rtl8723ds | 6.17.8-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8723ds |
-| rtl8723ds | 6.17.8-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8723ds |
+| rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8723ds |
 | rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8723ds |
+| rtl8723ds | 6.17.9-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8723ds |
 | rtl8723ds | 6.6.117-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8723ds |
 | rtl8761b-firmware-rtk1395 |  | Firmware for Realtek RTL8761b | legacyPackages.x86_64-linux.rtl8761b-firmware |
 | rtl8812au | 5.10.246-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8812au |
@@ -76506,16 +76541,16 @@
 | rtl8812au | 6.12.59-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8812au |
 | rtl8812au | 6.12.59-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages.rtl8812au |
 | rtl8812au | 6.12.59-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8812au |
-| rtl8812au | 6.17.8-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8812au |
-| rtl8812au | 6.17.8-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8812au |
+| rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8812au |
 | rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8812au |
+| rtl8812au | 6.17.9-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8812au |
 | rtl8812au | 6.6.117-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8812au |
 | rtl8814au | 5.10.246-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8814au |
 | rtl8814au | 5.15.196-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8814au |
@@ -76526,16 +76561,16 @@
 | rtl8814au | 6.12.59-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8814au |
 | rtl8814au | 6.12.59-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages.rtl8814au |
 | rtl8814au | 6.12.59-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8814au |
-| rtl8814au | 6.17.8-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8814au |
-| rtl8814au | 6.17.8-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8814au |
+| rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8814au |
 | rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8814au |
+| rtl8814au | 6.17.9-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8814au |
 | rtl8814au | 6.6.117-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8814au |
 | rtl8821au | 5.10.246-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8821au |
 | rtl8821au | 5.15.196-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8821au |
@@ -76546,16 +76581,16 @@
 | rtl8821au | 6.12.59-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8821au |
 | rtl8821au | 6.12.59-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages.rtl8821au |
 | rtl8821au | 6.12.59-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8821au |
-| rtl8821au | 6.17.8-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821au |
-| rtl8821au | 6.17.8-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8821au |
+| rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8821au |
 | rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8821au |
+| rtl8821au | 6.17.9-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821au |
 | rtl8821au | 6.6.117-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8821au |
 | rtl8821ce | 0-unstable-2025-10-13 | Realtek rtl8821ce driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8821ce |
 | rtl8821ce | 0-unstable-2025-10-13 | Realtek rtl8821ce driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8821ce |
@@ -76586,16 +76621,16 @@
 | rtl8821cu | 6.12.59-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8821cu |
 | rtl8821cu | 6.12.59-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages.rtl8821cu |
 | rtl8821cu | 6.12.59-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8821cu |
-| rtl8821cu | 6.17.8-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821cu |
-| rtl8821cu | 6.17.8-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8821cu |
+| rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8821cu |
 | rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8821cu |
+| rtl8821cu | 6.17.9-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821cu |
 | rtl8821cu | 6.6.117-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8821cu |
 | rtl8852au | 5.10.246-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8852au |
 | rtl8852au | 5.15.196-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8852au |
@@ -76606,16 +76641,16 @@
 | rtl8852au | 6.12.59-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8852au |
 | rtl8852au | 6.12.59-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages.rtl8852au |
 | rtl8852au | 6.12.59-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8852au |
-| rtl8852au | 6.17.8-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852au |
-| rtl8852au | 6.17.8-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8852au |
+| rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8852au |
 | rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8852au |
+| rtl8852au | 6.17.9-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852au |
 | rtl8852au | 6.6.117-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8852au |
 | rtl8852bu | 5.10.246-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8852bu |
 | rtl8852bu | 5.15.196-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8852bu |
@@ -76626,16 +76661,16 @@
 | rtl8852bu | 6.12.59-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl8852bu |
 | rtl8852bu | 6.12.59-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages.rtl8852bu |
 | rtl8852bu | 6.12.59-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl8852bu |
-| rtl8852bu | 6.17.8-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852bu |
-| rtl8852bu | 6.17.8-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl8852bu |
+| rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8852bu |
 | rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8852bu |
+| rtl8852bu | 6.17.9-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852bu |
 | rtl8852bu | 6.6.117-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8852bu |
 | rtl88x2bu | 5.10.246-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl88x2bu |
 | rtl88x2bu | 5.15.196-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl88x2bu |
@@ -76646,16 +76681,16 @@
 | rtl88x2bu | 6.12.59-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl88x2bu |
 | rtl88x2bu | 6.12.59-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages.rtl88x2bu |
 | rtl88x2bu | 6.12.59-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl88x2bu |
-| rtl88x2bu | 6.17.8-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88x2bu |
-| rtl88x2bu | 6.17.8-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl88x2bu |
+| rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl88x2bu |
 | rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl88x2bu |
+| rtl88x2bu | 6.17.9-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88x2bu |
 | rtl88x2bu | 6.6.117-unstable-2025-05-29 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl88x2bu |
 | rtl88xxau-aircrack | 5.10.246-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 5.15.196-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl88xxau-aircrack |
@@ -76666,16 +76701,16 @@
 | rtl88xxau-aircrack | 6.12.59-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.12.59-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.12.59-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_xanmod.rtl88xxau-aircrack |
-| rtl88xxau-aircrack | 6.17.8-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88xxau-aircrack |
-| rtl88xxau-aircrack | 6.17.8-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.rtl88xxau-aircrack |
+| rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_latest.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl88xxau-aircrack |
+| rtl88xxau-aircrack | 6.17.9-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.6.117-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl88xxau-aircrack |
 | rtl_433 | 25.02 | Decode traffic from devices that broadcast on 433.9 MHz, 868 MHz, 315 MHz, 345 MHz and 915 MHz | legacyPackages.x86_64-linux.rtl_433 |
 | rtl_433-exporter | 0.1 | Prometheus time-series DB exporter for rtl_433 433MHz radio packet decoder | legacyPackages.x86_64-linux.prometheus-rtl_433-exporter |
@@ -76690,7 +76725,7 @@
 | rtmpdump | 2.6 | Toolkit for RTMP streams | legacyPackages.x86_64-linux.rtmpdump |
 | rtmpdump | 2.6 | Toolkit for RTMP streams | legacyPackages.x86_64-linux.rtmpdump_gnutls |
 | rtnetlink | 0.2.0.1 | Manipulate network devices, addresses, and routes on Linux | legacyPackages.x86_64-linux.haskellPackages.rtnetlink |
-| rtorrent | 0.16.2 | Ncurses client for libtorrent, ideal for use with screen, tmux, or dtach | legacyPackages.x86_64-linux.rtorrent |
+| rtorrent | 0.16.4 | Ncurses client for libtorrent, ideal for use with screen, tmux, or dtach | legacyPackages.x86_64-linux.rtorrent |
 | rtorrent-rpc | 0.3.0.0 | A library for communicating with RTorrent over its JSON-RPC interface | legacyPackages.x86_64-linux.haskellPackages.rtorrent-rpc |
 | rtorrent-state | 0.1.0.1 | Parsing and manipulation of rtorrent state file contents | legacyPackages.x86_64-linux.haskellPackages.rtorrent-state |
 | rtptools | 1.22 | Number of small applications that can be used for processing RTP data | legacyPackages.x86_64-linux.rtptools |
@@ -78684,16 +78719,16 @@
 | ryzen-smu | 6.12.59-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ryzen-smu |
 | ryzen-smu | 6.12.59-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages.ryzen-smu |
 | ryzen-smu | 6.12.59-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_xanmod.ryzen-smu |
-| ryzen-smu | 6.17.8-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu |
-| ryzen-smu | 6.17.8-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ryzen-smu |
+| ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_latest.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_lqx.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ryzen-smu |
 | ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ryzen-smu |
+| ryzen-smu | 6.17.9-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu |
 | ryzen-smu | 6.6.117-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ryzen-smu |
 | ryzenadj | 0.17.0 | Adjust power management settings for Ryzen Mobile Processors | legacyPackages.x86_64-linux.ryzenadj |
 | rz-ghidra | 0.8.0 | Deep ghidra decompiler and sleigh disassembler integration for rizin | legacyPackages.x86_64-linux.cutterPlugins.rz-ghidra |
@@ -85235,7 +85270,7 @@
 | sixfiguregroup | 0.0.1 | A six figure group of time | legacyPackages.x86_64-linux.haskellPackages.sixfiguregroup |
 | sixpair-unstable | 2007-04-18 | Pair with SIXAXIS controllers over USB | legacyPackages.x86_64-linux.sixpair |
 | sixty-five-oh-two | 1.2.0.0 | An eDSL for writing 65(C)02 bytecode | legacyPackages.x86_64-linux.haskellPackages.sixty-five-oh-two |
-| siyuan | 3.4.0 | Privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync | legacyPackages.x86_64-linux.siyuan |
+| siyuan | 3.4.1 | Privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync | legacyPackages.x86_64-linux.siyuan |
 | size-based | 0.1.3.3 | Sized functors, for size-based enumerations | legacyPackages.x86_64-linux.haskellPackages.size-based |
 | sized | 1.1.0.2 | Sized sequence data-types | legacyPackages.x86_64-linux.haskellPackages.sized |
 | sized-grid | 0.2.0.1 | Multidimensional grids with sized specified at compile time | legacyPackages.x86_64-linux.haskellPackages.sized-grid |
@@ -86286,7 +86321,7 @@
 | sptlrx | 1.2.2 | Spotify lyrics in your terminal | legacyPackages.x86_64-linux.sptlrx |
 | spverbatim | 1.0 | Allow line breaks within \verb and verbatim output | legacyPackages.x86_64-linux.texlivePackages.spverbatim |
 | spy | 0.14 | A compact file system watcher for Mac OS X, Linux and Windows | legacyPackages.x86_64-linux.haskellPackages.spy |
-| spyder | 6.1.0 | Scientific python development environment | legacyPackages.x86_64-linux.spyder |
+| spyder | 6.1.1 | Scientific python development environment | legacyPackages.x86_64-linux.spyder |
 | spyre | 1.2.5 | YARA-based IOC scanner | legacyPackages.x86_64-linux.spyre |
 | spytrap-adb | 0.3.5 | Test a phone for stalkerware using adb and usb debugging to scan for suspicious apps and configuration | legacyPackages.x86_64-linux.spytrap-adb |
 | sq | 0.0.2 | High-level SQLite client | legacyPackages.x86_64-linux.haskellPackages.sq |
@@ -86427,7 +86462,7 @@
 | srv | 0.1.0.0 | A simple web server for local usage | legacyPackages.x86_64-linux.haskellPackages.srv |
 | sscan | 0.2 | text UI for scanning with SANE | legacyPackages.x86_64-linux.haskellPackages.sscan |
 | sscep | 0.10.0 | Client-only implementation of the SCEP (Cisco System's Simple Certificate Enrollment Protocol) | legacyPackages.x86_64-linux.sscep |
-| sscg | 4.0.0 | Simple Signed Certificate Generator | legacyPackages.x86_64-linux.sscg |
+| sscg | 4.0.1 | Simple Signed Certificate Generator | legacyPackages.x86_64-linux.sscg |
 | sscgi | 0.3.1 | Simple SCGI Library | legacyPackages.x86_64-linux.haskellPackages.sscgi |
 | sscript | 0.1.0.2 | Formats Strings with subscript or superscript characters | legacyPackages.x86_64-linux.haskellPackages.sscript |
 | ssdeep | 2.14.1 | Program for calculating fuzzy hashes | legacyPackages.x86_64-linux.ssdeep |
@@ -87297,7 +87332,7 @@
 | sunvox | 2.1.3 | Small, fast and powerful modular synthesizer with pattern-based sequencer | legacyPackages.x86_64-linux.sunvox |
 | sunwait | 0.9.1 | Calculates sunrise or sunset times with civil, nautical, astronomical and custom twilights | legacyPackages.x86_64-linux.sunwait |
 | sunxi-tools | 0-unstable-2025-03-29 | Tools for Allwinner SoC devices | legacyPackages.x86_64-linux.sunxi-tools |
-| supabase-cli | 2.60.0 | CLI for interacting with supabase | legacyPackages.x86_64-linux.supabase-cli |
+| supabase-cli | 2.62.10 | CLI for interacting with supabase | legacyPackages.x86_64-linux.supabase-cli |
 | super-productivity | 16.3.6 | To Do List / Time Tracker with Jira Integration | legacyPackages.x86_64-linux.super-productivity |
 | super-slicer | 2.5.59.13 | PrusaSlicer fork with more features and faster development cycle | legacyPackages.x86_64-linux.super-slicer |
 | super-slicer | 2.5.59.13 | PrusaSlicer fork with more features and faster development cycle | legacyPackages.x86_64-linux.super-slicer-latest |
@@ -87826,16 +87861,16 @@
 | system76-acpi-module | 1.0.2-6.12.59 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.system76-acpi |
 | system76-acpi-module | 1.0.2-6.12.59 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages.system76-acpi |
 | system76-acpi-module | 1.0.2-6.12.59 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_xanmod.system76-acpi |
-| system76-acpi-module | 1.0.2-6.17.8 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-acpi |
-| system76-acpi-module | 1.0.2-6.17.8 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.system76-acpi |
+| system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_latest.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_lqx.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-acpi |
+| system76-acpi-module | 1.0.2-6.17.9 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.6.117 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-acpi |
 | system76-firmware | 1.0.74 | Tools for managing firmware updates for system76 devices | legacyPackages.x86_64-linux.system76-firmware |
 | system76-io-module | 1.0.4-5.10.246 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76-io |
@@ -87847,16 +87882,16 @@
 | system76-io-module | 1.0.4-6.12.59 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.system76-io |
 | system76-io-module | 1.0.4-6.12.59 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages.system76-io |
 | system76-io-module | 1.0.4-6.12.59 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_xanmod.system76-io |
-| system76-io-module | 1.0.4-6.17.8 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-io |
-| system76-io-module | 1.0.4-6.17.8 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_zen.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.system76-io |
+| system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_latest.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_lqx.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76-io |
 | system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-io |
+| system76-io-module | 1.0.4-6.17.9 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_zen.system76-io |
 | system76-io-module | 1.0.4-6.6.117 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-io |
 | system76-keyboard-configurator | 1.3.12 | Keyboard configuration application for System76 keyboards and laptops | legacyPackages.x86_64-linux.system76-keyboard-configurator |
 | system76-module | 1.0.17-5.10.246 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76 |
@@ -87868,16 +87903,16 @@
 | system76-module | 1.0.17-6.12.59 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.system76 |
 | system76-module | 1.0.17-6.12.59 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages.system76 |
 | system76-module | 1.0.17-6.12.59 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.system76 |
-| system76-module | 1.0.17-6.17.8 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76 |
-| system76-module | 1.0.17-6.17.8 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_zen.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.system76 |
+| system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_latest.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_lqx.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76 |
 | system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76 |
+| system76-module | 1.0.17-6.17.9 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_zen.system76 |
 | system76-module | 1.0.17-6.6.117 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76 |
 | system76-power | 1.2.7 | System76 Power Management | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76-power |
 | system76-power | 1.2.7 | System76 Power Management | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.system76-power |
@@ -88344,16 +88379,16 @@
 | tbs | 20250510-6.12.59 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.tbs |
 | tbs | 20250510-6.12.59 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages.tbs |
 | tbs | 20250510-6.12.59 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_xanmod.tbs |
-| tbs | 20250510-6.17.8 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tbs |
-| tbs | 20250510-6.17.8 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_zen.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.tbs |
+| tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_latest.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_lqx.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tbs |
 | tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tbs |
+| tbs | 20250510-6.17.9 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_zen.tbs |
 | tbs | 20250510-6.6.117 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tbs |
 | tbtools | 0.7.0 | Thunderbolt/USB4 debugging tools | legacyPackages.x86_64-linux.tbtools |
 | tbump | 6.11.0 | Bump software releases | legacyPackages.x86_64-linux.tbump |
@@ -88732,8 +88767,8 @@
 | terraform-provider-aiven | 4.47.0 |  | legacyPackages.x86_64-linux.terraform-providers.aiven_aiven |
 | terraform-provider-akamai | 9.2.0 |  | legacyPackages.x86_64-linux.terraform-providers.akamai |
 | terraform-provider-akamai | 9.2.0 |  | legacyPackages.x86_64-linux.terraform-providers.akamai_akamai |
-| terraform-provider-alicloud | 1.262.1 |  | legacyPackages.x86_64-linux.terraform-providers.alicloud |
-| terraform-provider-alicloud | 1.262.1 |  | legacyPackages.x86_64-linux.terraform-providers.aliyun_alicloud |
+| terraform-provider-alicloud | 1.263.0 |  | legacyPackages.x86_64-linux.terraform-providers.alicloud |
+| terraform-provider-alicloud | 1.263.0 |  | legacyPackages.x86_64-linux.terraform-providers.aliyun_alicloud |
 | terraform-provider-ansible | 1.0.4 |  | legacyPackages.x86_64-linux.terraform-providers.ansible |
 | terraform-provider-ansible | 1.0.4 |  | legacyPackages.x86_64-linux.terraform-providers.nbering_ansible |
 | terraform-provider-archive | 2.7.1 |  | legacyPackages.x86_64-linux.terraform-providers.archive |
@@ -88995,8 +89030,8 @@
 | terraform-provider-snowflake | 1.0.5 |  | legacyPackages.x86_64-linux.terraform-providers.snowflake-labs_snowflake |
 | terraform-provider-sops | 1.3.0 |  | legacyPackages.x86_64-linux.terraform-providers.carlpett_sops |
 | terraform-provider-sops | 1.3.0 |  | legacyPackages.x86_64-linux.terraform-providers.sops |
-| terraform-provider-spacelift | 1.38.0 |  | legacyPackages.x86_64-linux.terraform-providers.spacelift |
-| terraform-provider-spacelift | 1.38.0 |  | legacyPackages.x86_64-linux.terraform-providers.spacelift-io_spacelift |
+| terraform-provider-spacelift | 1.40.0 |  | legacyPackages.x86_64-linux.terraform-providers.spacelift |
+| terraform-provider-spacelift | 1.40.0 |  | legacyPackages.x86_64-linux.terraform-providers.spacelift-io_spacelift |
 | terraform-provider-spotinst | 1.230.0 |  | legacyPackages.x86_64-linux.terraform-providers.spotinst |
 | terraform-provider-spotinst | 1.230.0 |  | legacyPackages.x86_64-linux.terraform-providers.spotinst_spotinst |
 | terraform-provider-ssh | 2.7.0 |  | legacyPackages.x86_64-linux.terraform-providers.loafoe_ssh |
@@ -90438,16 +90473,16 @@
 | tmon | 6.12.59 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.tmon |
 | tmon | 6.12.59 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages.tmon |
 | tmon | 6.12.59 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_xanmod.tmon |
-| tmon | 6.17.8 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tmon |
-| tmon | 6.17.8 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_zen.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.tmon |
+| tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_latest.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_lqx.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tmon |
 | tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tmon |
+| tmon | 6.17.9 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_zen.tmon |
 | tmon | 6.6.117 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tmon |
 | tmp-postgres | 1.34.1.0 | Start and stop a temporary postgres | legacyPackages.x86_64-linux.haskellPackages.tmp-postgres |
 | tmp-proc | 0.7.2.2 | Run 'tmp' processes in integration tests | legacyPackages.x86_64-linux.haskellPackages.tmp-proc |
@@ -90665,7 +90700,7 @@
 | topfew-rs | 0.2.3 | Rust implementation of Tim Bray's topfew tool | legacyPackages.x86_64-linux.topfew-rs |
 | topfloat | 19084 | Move floats to the top of the page | legacyPackages.x86_64-linux.texlivePackages.topfloat |
 | topgit | 0.19.14 | TopGit manages large amount of interdependent topic branches | legacyPackages.x86_64-linux.top-git |
-| topgrade | 16.4.2 | Upgrade all the things | legacyPackages.x86_64-linux.topgrade |
+| topgrade | 16.5.0 | Upgrade all the things | legacyPackages.x86_64-linux.topgrade |
 | tophat | 1.0.8.0 | Template-to-Haskell preprocessor, and templating language | legacyPackages.x86_64-linux.haskellPackages.tophat |
 | topiary | 0.7.1 | Uniform formatter for simple languages, as part of the Tree-sitter ecosystem | legacyPackages.x86_64-linux.topiary |
 | topicctl | 1.22.0 | Tool for easy, declarative management of Kafka topics | legacyPackages.x86_64-linux.topicctl |
@@ -90728,16 +90763,16 @@
 | tp_smapi | 0.45-6.12.59 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.tp_smapi |
 | tp_smapi | 0.45-6.12.59 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages.tp_smapi |
 | tp_smapi | 0.45-6.12.59 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_xanmod.tp_smapi |
-| tp_smapi | 0.45-6.17.8 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi |
-| tp_smapi | 0.45-6.17.8 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.tp_smapi |
+| tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_latest.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_lqx.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tp_smapi |
 | tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tp_smapi |
+| tp_smapi | 0.45-6.17.9 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi |
 | tp_smapi | 0.45-6.6.117 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tp_smapi |
 | tpacpi-bat | 3.2 | Tool to set battery charging thresholds on Lenovo Thinkpad | legacyPackages.x86_64-linux.tpacpi-bat |
 | tpar | 0.1.0.0 | simple, parallel job scheduling | legacyPackages.x86_64-linux.haskellPackages.tpar |
@@ -91130,16 +91165,16 @@
 | trelay | 22.03.5-6.12.59 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.trelay |
 | trelay | 22.03.5-6.12.59 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages.trelay |
 | trelay | 22.03.5-6.12.59 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_xanmod.trelay |
-| trelay | 22.03.5-6.17.8 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay |
-| trelay | 22.03.5-6.17.8 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_zen.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.trelay |
+| trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_latest.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_lqx.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.trelay |
 | trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.trelay |
+| trelay | 22.03.5-6.17.9 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_zen.trelay |
 | trelay | 22.03.5-6.6.117 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.trelay |
 | trelby | 2.4.16.2 | Free, multiplatform, feature-rich screenwriting program | legacyPackages.x86_64-linux.trelby |
 | trellis-unstable | 2022-09-14 | Documentation and bitstream tools for Lattice ECP5 FPGAs | legacyPackages.x86_64-linux.trellis |
@@ -91279,16 +91314,16 @@
 | tsme-test | 6.12.59-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.tsme-test |
 | tsme-test | 6.12.59-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages.tsme-test |
 | tsme-test | 6.12.59-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_xanmod.tsme-test |
-| tsme-test | 6.17.8-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tsme-test |
-| tsme-test | 6.17.8-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_zen.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.tsme-test |
+| tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_latest.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_lqx.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tsme-test |
 | tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tsme-test |
+| tsme-test | 6.17.9-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_zen.tsme-test |
 | tsme-test | 6.6.117-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tsme-test |
 | tsne | 1.3.0 | t-SNE | legacyPackages.x86_64-linux.haskellPackages.tsne |
 | tsocks | 1.8beta5 | Transparent SOCKS v4 proxying library | legacyPackages.x86_64-linux.tsocks |
@@ -91447,16 +91482,16 @@
 | turbostat | 6.12.59 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.turbostat |
 | turbostat | 6.12.59 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages.turbostat |
 | turbostat | 6.12.59 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_xanmod.turbostat |
-| turbostat | 6.17.8 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.turbostat |
-| turbostat | 6.17.8 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_zen.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.turbostat |
+| turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_latest.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_lqx.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.turbostat |
 | turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.turbostat |
+| turbostat | 6.17.9 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_zen.turbostat |
 | turbostat | 6.6.117 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.turbostat |
 | turbovnc | 3.2.1 | High-speed version of VNC derived from TightVNC | legacyPackages.x86_64-linux.turbovnc |
 | turing | 0.1.1 | A simple simulator for Turing machines | legacyPackages.x86_64-linux.haskellPackages.turing |
@@ -91509,10 +91544,6 @@
 | tuxedo-drivers | 6.12.59-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages.tuxedo-keyboard |
 | tuxedo-drivers | 6.12.59-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod.tuxedo-drivers |
 | tuxedo-drivers | 6.12.59-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod.tuxedo-keyboard |
-| tuxedo-drivers | 6.17.8-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-drivers |
-| tuxedo-drivers | 6.17.8-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-keyboard |
-| tuxedo-drivers | 6.17.8-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-drivers |
-| tuxedo-drivers | 6.17.8-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.tuxedo-drivers |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.tuxedo-keyboard |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.tuxedo-drivers |
@@ -91521,6 +91552,8 @@
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.tuxedo-keyboard |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.tuxedo-drivers |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.tuxedo-keyboard |
+| tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-drivers |
+| tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest.tuxedo-drivers |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest.tuxedo-keyboard |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_lqx.tuxedo-drivers |
@@ -91529,6 +91562,8 @@
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tuxedo-keyboard |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tuxedo-drivers |
 | tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tuxedo-keyboard |
+| tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-drivers |
+| tuxedo-drivers | 6.17.9-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.6.117-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tuxedo-drivers |
 | tuxedo-drivers | 6.6.117-4.18.0 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tuxedo-keyboard |
 | tuxedo-rs | 0.3.1 | Rust utilities for interacting with hardware from TUXEDO Computers | legacyPackages.x86_64-linux.tuxedo-rs |
@@ -91623,7 +91658,7 @@
 | txt2rtf | 1.0.1 | Filter to convert plain text files to RTF | legacyPackages.x86_64-linux.haskellPackages.txt2rtf |
 | txt2tags | 3.9 | Convert between markup languages | legacyPackages.x86_64-linux.txt2tags |
 | txtblk | 0.2.0.1 | Deprecated in favor of eros | legacyPackages.x86_64-linux.haskellPackages.txtblk |
-| txtpbfmt | 0-unstable-2025-10-16 | Formatter for text proto files | legacyPackages.x86_64-linux.txtpbfmt |
+| txtpbfmt | 0-unstable-2025-11-24 | Formatter for text proto files | legacyPackages.x86_64-linux.txtpbfmt |
 | txtw | 0.4 | Compute text widths | legacyPackages.x86_64-linux.txtw |
 | txuprcal | 1.00 | Upright calligraphic font based on TX calligraphic | legacyPackages.x86_64-linux.texlivePackages.txuprcal |
 | ty | 0.0.1-alpha.27 | Extremely fast Python type checker and language server, written in Rust | legacyPackages.x86_64-linux.ty |
@@ -91751,7 +91786,7 @@
 | typescript-language-server | 5.1.3 | Language Server Protocol implementation for TypeScript using tsserver | legacyPackages.x86_64-linux.nodePackages_latest.typescript-language-server |
 | typescript-language-server | 5.1.3 | Language Server Protocol implementation for TypeScript using tsserver | legacyPackages.x86_64-linux.typescript-language-server |
 | typesense | 29.0 | Fast, typo-tolerant search engine for building delightful search experiences | legacyPackages.x86_64-linux.typesense |
-| typesetter | 0.5.1 | Minimalist, local-first Typst editor | legacyPackages.x86_64-linux.typesetter |
+| typesetter | 0.6.0 | Minimalist, local-first Typst editor | legacyPackages.x86_64-linux.typesetter |
 | typeshare | 1.13.3 | Command Line Tool for generating language files with typeshare | legacyPackages.x86_64-linux.typeshare |
 | typespec | 1.4.0 | Language for defining cloud service APIs and shapes | legacyPackages.x86_64-linux.typespec |
 | typespeed | 0.6.5 | Curses based typing game | legacyPackages.x86_64-linux.typespeed |
@@ -91769,7 +91804,7 @@
 | typograffiti | 0.2.0.1 | Just let me draw nice text already | legacyPackages.x86_64-linux.haskellPackages.typograffiti |
 | typography-geometry | 1.0.1.0 | Drawings for printed text documents | legacyPackages.x86_64-linux.haskellPackages.typography-geometry |
 | typogrid | 0.21 | Print a typographic grid | legacyPackages.x86_64-linux.texlivePackages.typogrid |
-| typora | 1.12.3 | A minimal Markdown editor and reader. | legacyPackages.x86_64-linux.typora |
+| typora | 1.12.4 | A minimal Markdown editor and reader. | legacyPackages.x86_64-linux.typora |
 | typos | 1.39.2 | Source code spell checker | legacyPackages.x86_64-linux.typos |
 | typos-lsp | 0.1.45 | Source code spell checker | legacyPackages.x86_64-linux.typos-lsp |
 | typr | 1.0.1.21 | Your Personal Typing Tutor | legacyPackages.x86_64-linux.typr |
@@ -91787,13 +91822,17 @@
 | typst-package-abbr | 0.1.1 | An Abbreviations package | legacyPackages.x86_64-linux.typstPackages.abbr_0_1_1 |
 | typst-package-abbr | 0.2.1 | An Abbreviations package | legacyPackages.x86_64-linux.typstPackages.abbr_0_2_1 |
 | typst-package-abbr | 0.2.2 | An Abbreviations package | legacyPackages.x86_64-linux.typstPackages.abbr_0_2_2 |
-| typst-package-abbr | 0.2.3 | An Abbreviations package | legacyPackages.x86_64-linux.typstPackages.abbr |
 | typst-package-abbr | 0.2.3 | An Abbreviations package | legacyPackages.x86_64-linux.typstPackages.abbr_0_2_3 |
+| typst-package-abbr | 0.3.0 | An Abbreviations package | legacyPackages.x86_64-linux.typstPackages.abbr |
+| typst-package-abbr | 0.3.0 | An Abbreviations package | legacyPackages.x86_64-linux.typstPackages.abbr_0_3_0 |
 | typst-package-abiding-ifacconf | 0.1.0 | An IFAC-style paper template to publish at conferences for International Federation of Automatic Control | legacyPackages.x86_64-linux.typstPackages.abiding-ifacconf_0_1_0 |
-| typst-package-abiding-ifacconf | 0.2.0 | An IFAC-style paper template to publish at conferences for International Federation of Automatic Control | legacyPackages.x86_64-linux.typstPackages.abiding-ifacconf |
 | typst-package-abiding-ifacconf | 0.2.0 | An IFAC-style paper template to publish at conferences for International Federation of Automatic Control | legacyPackages.x86_64-linux.typstPackages.abiding-ifacconf_0_2_0 |
+| typst-package-abiding-ifacconf | 0.2.1 | An IFAC-style paper template to publish at conferences for International Federation of Automatic Control | legacyPackages.x86_64-linux.typstPackages.abiding-ifacconf |
+| typst-package-abiding-ifacconf | 0.2.1 | An IFAC-style paper template to publish at conferences for International Federation of Automatic Control | legacyPackages.x86_64-linux.typstPackages.abiding-ifacconf_0_2_1 |
 | typst-package-abyss-book | 0.2.9 | A dark-themed typst template | legacyPackages.x86_64-linux.typstPackages.abyss-book |
 | typst-package-abyss-book | 0.2.9 | A dark-themed typst template | legacyPackages.x86_64-linux.typstPackages.abyss-book_0_2_9 |
+| typst-package-academic-alt | 0.1.0 | A flexible template for university assignments, labs, and homework with customizable details | legacyPackages.x86_64-linux.typstPackages.academic-alt |
+| typst-package-academic-alt | 0.1.0 | A flexible template for university assignments, labs, and homework with customizable details | legacyPackages.x86_64-linux.typstPackages.academic-alt_0_1_0 |
 | typst-package-academic-conf-pre | 0.1.0 | Slide Theme for Acadmic Presentations in Australia | legacyPackages.x86_64-linux.typstPackages.academic-conf-pre |
 | typst-package-academic-conf-pre | 0.1.0 | Slide Theme for Acadmic Presentations in Australia | legacyPackages.x86_64-linux.typstPackages.academic-conf-pre_0_1_0 |
 | typst-package-academicv | 1.0.0 | A clean, flexible curriculum vitae (CV) template using Typst and YAML | legacyPackages.x86_64-linux.typstPackages.academicv_1_0_0 |
@@ -91803,8 +91842,9 @@
 | typst-package-accelerated-jacow | 0.1.1 | Paper template for conference proceedings in accelerator physics | legacyPackages.x86_64-linux.typstPackages.accelerated-jacow_0_1_1 |
 | typst-package-accelerated-jacow | 0.1.2 | Paper template for conference proceedings in accelerator physics | legacyPackages.x86_64-linux.typstPackages.accelerated-jacow_0_1_2 |
 | typst-package-accelerated-jacow | 0.1.3 | Paper template for conference proceedings in accelerator physics | legacyPackages.x86_64-linux.typstPackages.accelerated-jacow_0_1_3 |
-| typst-package-accelerated-jacow | 0.1.4 | Paper template for conference proceedings in accelerator physics | legacyPackages.x86_64-linux.typstPackages.accelerated-jacow |
 | typst-package-accelerated-jacow | 0.1.4 | Paper template for conference proceedings in accelerator physics | legacyPackages.x86_64-linux.typstPackages.accelerated-jacow_0_1_4 |
+| typst-package-accelerated-jacow | 0.14.0 | Paper template for conference proceedings in accelerator physics | legacyPackages.x86_64-linux.typstPackages.accelerated-jacow |
+| typst-package-accelerated-jacow | 0.14.0 | Paper template for conference proceedings in accelerator physics | legacyPackages.x86_64-linux.typstPackages.accelerated-jacow_0_14_0 |
 | typst-package-acrostiche | 0.1.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_1_0 |
 | typst-package-acrostiche | 0.2.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_2_0 |
 | typst-package-acrostiche | 0.3.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_3_0 |
@@ -91818,8 +91858,9 @@
 | typst-package-acrostiche | 0.5.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_5_0 |
 | typst-package-acrostiche | 0.5.1 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_5_1 |
 | typst-package-acrostiche | 0.5.2 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_5_2 |
-| typst-package-acrostiche | 0.6.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche |
 | typst-package-acrostiche | 0.6.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_6_0 |
+| typst-package-acrostiche | 0.7.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche |
+| typst-package-acrostiche | 0.7.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrostiche_0_7_0 |
 | typst-package-acrotastic | 0.1.0 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrotastic_0_1_0 |
 | typst-package-acrotastic | 0.1.1 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrotastic |
 | typst-package-acrotastic | 0.1.1 | Manage acronyms and their definitions in Typst | legacyPackages.x86_64-linux.typstPackages.acrotastic_0_1_1 |
@@ -91838,8 +91879,9 @@
 | typst-package-ailab-isetbz | 0.1.0 | Typst template for lab reports tailored for engineering students at ISET Bizerte | legacyPackages.x86_64-linux.typstPackages.ailab-isetbz_0_1_0 |
 | typst-package-aio-studi-and-thesis | 0.1.0 | All-in-one template for students and theses | legacyPackages.x86_64-linux.typstPackages.aio-studi-and-thesis_0_1_0 |
 | typst-package-aio-studi-and-thesis | 0.1.1 | All-in-one template for students and theses | legacyPackages.x86_64-linux.typstPackages.aio-studi-and-thesis_0_1_1 |
-| typst-package-aio-studi-and-thesis | 0.1.2 | All-in-one template for students and theses | legacyPackages.x86_64-linux.typstPackages.aio-studi-and-thesis |
 | typst-package-aio-studi-and-thesis | 0.1.2 | All-in-one template for students and theses | legacyPackages.x86_64-linux.typstPackages.aio-studi-and-thesis_0_1_2 |
+| typst-package-aio-studi-and-thesis | 0.1.3 | All-in-one template for students and theses | legacyPackages.x86_64-linux.typstPackages.aio-studi-and-thesis |
+| typst-package-aio-studi-and-thesis | 0.1.3 | All-in-one template for students and theses | legacyPackages.x86_64-linux.typstPackages.aio-studi-and-thesis_0_1_3 |
 | typst-package-alchemist | 0.1.0 | A package to render skeletal formulas using cetz | legacyPackages.x86_64-linux.typstPackages.alchemist_0_1_0 |
 | typst-package-alchemist | 0.1.1 | A package to render skeletal formulas using cetz | legacyPackages.x86_64-linux.typstPackages.alchemist_0_1_1 |
 | typst-package-alchemist | 0.1.2 | A package to render skeletal formulas using cetz | legacyPackages.x86_64-linux.typstPackages.alchemist_0_1_2 |
@@ -91870,10 +91912,15 @@
 | typst-package-algorithmic | 1.0.2 | Algorithm pseudocode typesetting for Typst, inspired by algorithmicx in LaTeX | legacyPackages.x86_64-linux.typstPackages.algorithmic_1_0_2 |
 | typst-package-algorithmic | 1.0.3 | Algorithm pseudocode typesetting for Typst, inspired by algorithmicx in LaTeX | legacyPackages.x86_64-linux.typstPackages.algorithmic_1_0_3 |
 | typst-package-algorithmic | 1.0.4 | Algorithm pseudocode typesetting for Typst, inspired by algorithmicx in LaTeX | legacyPackages.x86_64-linux.typstPackages.algorithmic_1_0_4 |
-| typst-package-algorithmic | 1.0.5 | Algorithm pseudocode typesetting for Typst, inspired by algorithmicx in LaTeX | legacyPackages.x86_64-linux.typstPackages.algorithmic |
 | typst-package-algorithmic | 1.0.5 | Algorithm pseudocode typesetting for Typst, inspired by algorithmicx in LaTeX | legacyPackages.x86_64-linux.typstPackages.algorithmic_1_0_5 |
+| typst-package-algorithmic | 1.0.6 | Algorithm pseudocode typesetting for Typst, inspired by algorithmicx in LaTeX | legacyPackages.x86_64-linux.typstPackages.algorithmic |
+| typst-package-algorithmic | 1.0.6 | Algorithm pseudocode typesetting for Typst, inspired by algorithmicx in LaTeX | legacyPackages.x86_64-linux.typstPackages.algorithmic_1_0_6 |
+| typst-package-almost-tud-letter | 0.1.0 | A template that (almost!) replicates the TUDelft letter | legacyPackages.x86_64-linux.typstPackages.almost-tud-letter |
+| typst-package-almost-tud-letter | 0.1.0 | A template that (almost!) replicates the TUDelft letter | legacyPackages.x86_64-linux.typstPackages.almost-tud-letter_0_1_0 |
 | typst-package-aloecius-aip | 0.0.1 | Typst template for reproducing AIP - Journal of Chemical Physics paper (draft | legacyPackages.x86_64-linux.typstPackages.aloecius-aip |
 | typst-package-aloecius-aip | 0.0.1 | Typst template for reproducing AIP - Journal of Chemical Physics paper (draft | legacyPackages.x86_64-linux.typstPackages.aloecius-aip_0_0_1 |
+| typst-package-alterlang | 1.0.0 | Translate math operators | legacyPackages.x86_64-linux.typstPackages.alterlang |
+| typst-package-alterlang | 1.0.0 | Translate math operators | legacyPackages.x86_64-linux.typstPackages.alterlang_1_0_0 |
 | typst-package-amlos | 0.1.0 | Amlos makes list of symbols | legacyPackages.x86_64-linux.typstPackages.amlos_0_1_0 |
 | typst-package-amlos | 0.2.0 | Amlos makes list of symbols | legacyPackages.x86_64-linux.typstPackages.amlos_0_2_0 |
 | typst-package-amlos | 0.2.1 | Amlos makes list of symbols | legacyPackages.x86_64-linux.typstPackages.amlos |
@@ -91904,29 +91951,35 @@
 | typst-package-anti-matter | 0.1.0 | Simple page numbering of front and back matter | legacyPackages.x86_64-linux.typstPackages.anti-matter_0_1_0 |
 | typst-package-anti-matter | 0.1.1 | Simple page numbering of front and back matter | legacyPackages.x86_64-linux.typstPackages.anti-matter |
 | typst-package-anti-matter | 0.1.1 | Simple page numbering of front and back matter | legacyPackages.x86_64-linux.typstPackages.anti-matter_0_1_1 |
+| typst-package-aoran | 0.1.0 | Helper to determine proper articles, like 'a or an | legacyPackages.x86_64-linux.typstPackages.aoran |
+| typst-package-aoran | 0.1.0 | Helper to determine proper articles, like 'a or an | legacyPackages.x86_64-linux.typstPackages.aoran_0_1_0 |
 | typst-package-apa7-ish | 0.1.0 | Typst Template that (mostly) complies with APA7 Style (Work in Progress | legacyPackages.x86_64-linux.typstPackages.apa7-ish_0_1_0 |
 | typst-package-apa7-ish | 0.2.0 | Typst Template that (mostly) complies with APA7 Style (Work in Progress | legacyPackages.x86_64-linux.typstPackages.apa7-ish_0_2_0 |
 | typst-package-apa7-ish | 0.2.1 | Typst Template that (mostly) complies with APA7 Style (Work in Progress | legacyPackages.x86_64-linux.typstPackages.apa7-ish_0_2_1 |
-| typst-package-apa7-ish | 0.2.2 | Manuscript template that (mostly) complies with APA7 Style (Work in Progress | legacyPackages.x86_64-linux.typstPackages.apa7-ish |
 | typst-package-apa7-ish | 0.2.2 | Manuscript template that (mostly) complies with APA7 Style (Work in Progress | legacyPackages.x86_64-linux.typstPackages.apa7-ish_0_2_2 |
+| typst-package-apa7-ish | 0.3.0 | Manuscript template that (mostly) complies with APA7 Style (Work in Progress | legacyPackages.x86_64-linux.typstPackages.apa7-ish |
+| typst-package-apa7-ish | 0.3.0 | Manuscript template that (mostly) complies with APA7 Style (Work in Progress | legacyPackages.x86_64-linux.typstPackages.apa7-ish_0_3_0 |
 | typst-package-ape | 0.1.0 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_1_0 |
 | typst-package-ape | 0.2.0 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_2_0 |
 | typst-package-ape | 0.3.0 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_3_0 |
 | typst-package-ape | 0.3.1 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_3_1 |
 | typst-package-ape | 0.3.2 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_3_2 |
 | typst-package-ape | 0.4.0 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_4_0 |
-| typst-package-ape | 0.4.1 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape |
 | typst-package-ape | 0.4.1 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_4_1 |
+| typst-package-ape | 0.4.2 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape |
+| typst-package-ape | 0.4.2 | Stop monkeying around with your layouts! Get sophisticated with Ape for Typst | legacyPackages.x86_64-linux.typstPackages.ape_0_4_2 |
 | typst-package-appreciated-letter | 0.1.0 | Correspond with business associates and your friends via mail | legacyPackages.x86_64-linux.typstPackages.appreciated-letter |
 | typst-package-appreciated-letter | 0.1.0 | Correspond with business associates and your friends via mail | legacyPackages.x86_64-linux.typstPackages.appreciated-letter_0_1_0 |
 | typst-package-arborly | 0.1.0 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly_0_1_0 |
 | typst-package-arborly | 0.1.1 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly_0_1_1 |
 | typst-package-arborly | 0.2.0 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly_0_2_0 |
 | typst-package-arborly | 0.3.0 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly_0_3_0 |
-| typst-package-arborly | 0.3.1 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly |
 | typst-package-arborly | 0.3.1 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly_0_3_1 |
-| typst-package-arkheion | 0.1.0 | A simple template reproducing popular arXiv templates | legacyPackages.x86_64-linux.typstPackages.arkheion |
+| typst-package-arborly | 0.3.2 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly |
+| typst-package-arborly | 0.3.2 | A library for producing beautiful syntax tree graphs | legacyPackages.x86_64-linux.typstPackages.arborly_0_3_2 |
 | typst-package-arkheion | 0.1.0 | A simple template reproducing popular arXiv templates | legacyPackages.x86_64-linux.typstPackages.arkheion_0_1_0 |
+| typst-package-arkheion | 0.1.1 | A simple template reproducing popular arXiv templates | legacyPackages.x86_64-linux.typstPackages.arkheion |
+| typst-package-arkheion | 0.1.1 | A simple template reproducing popular arXiv templates | legacyPackages.x86_64-linux.typstPackages.arkheion_0_1_1 |
 | typst-package-articulate-coderscompass | 0.1.7 |  | legacyPackages.x86_64-linux.typstPackages.articulate-coderscompass |
 | typst-package-articulate-coderscompass | 0.1.7 |  | legacyPackages.x86_64-linux.typstPackages.articulate-coderscompass_0_1_7 |
 | typst-package-ascii-ipa | 1.0.0 | Converter for ASCII representations of the International Phonetic Alphabet (IPA | legacyPackages.x86_64-linux.typstPackages.ascii-ipa_1_0_0 |
@@ -91936,6 +91989,8 @@
 | typst-package-ascii-ipa | 2.0.0 | Converter for ASCII representations of the International Phonetic Alphabet (IPA | legacyPackages.x86_64-linux.typstPackages.ascii-ipa_2_0_0 |
 | typst-package-asciim | 0.1.0 | Displaying ASCII tables with a 16x16 grid and overlays on elements | legacyPackages.x86_64-linux.typstPackages.asciim |
 | typst-package-asciim | 0.1.0 | Displaying ASCII tables with a 16x16 grid and overlays on elements | legacyPackages.x86_64-linux.typstPackages.asciim_0_1_0 |
+| typst-package-aspirationally | 0.1.0 | A clean and minimal template for academic cover letters, teaching statements, or research statements | legacyPackages.x86_64-linux.typstPackages.aspirationally |
+| typst-package-aspirationally | 0.1.0 | A clean and minimal template for academic cover letters, teaching statements, or research statements | legacyPackages.x86_64-linux.typstPackages.aspirationally_0_1_0 |
 | typst-package-athena-tu-darmstadt-exercise | 0.1.0 | Exercise template for TU Darmstadt (Technische Universität Darmstadt | legacyPackages.x86_64-linux.typstPackages.athena-tu-darmstadt-exercise_0_1_0 |
 | typst-package-athena-tu-darmstadt-exercise | 0.2.0 | Exercise template for TU Darmstadt (Technische Universität Darmstadt | legacyPackages.x86_64-linux.typstPackages.athena-tu-darmstadt-exercise |
 | typst-package-athena-tu-darmstadt-exercise | 0.2.0 | Exercise template for TU Darmstadt (Technische Universität Darmstadt | legacyPackages.x86_64-linux.typstPackages.athena-tu-darmstadt-exercise_0_2_0 |
@@ -91944,6 +91999,11 @@
 | typst-package-athena-tu-darmstadt-thesis | 0.1.1 | Thesis template for TU Darmstadt (Technische Universität Darmstadt | legacyPackages.x86_64-linux.typstPackages.athena-tu-darmstadt-thesis_0_1_1 |
 | typst-package-atomic | 1.0.0 | Draw Atoms, their electron configurations, shells and orbitals in Typst | legacyPackages.x86_64-linux.typstPackages.atomic |
 | typst-package-atomic | 1.0.0 | Draw Atoms, their electron configurations, shells and orbitals in Typst | legacyPackages.x86_64-linux.typstPackages.atomic_1_0_0 |
+| typst-package-ats-friendly-resume | 0.1.0 | A simple ats friendly resume built for developers | legacyPackages.x86_64-linux.typstPackages.ats-friendly-resume_0_1_0 |
+| typst-package-ats-friendly-resume | 0.1.1 | A simple ats friendly resume built for developers | legacyPackages.x86_64-linux.typstPackages.ats-friendly-resume |
+| typst-package-ats-friendly-resume | 0.1.1 | A simple ats friendly resume built for developers | legacyPackages.x86_64-linux.typstPackages.ats-friendly-resume_0_1_1 |
+| typst-package-auto-div | 0.1.0 | Automatic polynomial division | legacyPackages.x86_64-linux.typstPackages.auto-div |
+| typst-package-auto-div | 0.1.0 | Automatic polynomial division | legacyPackages.x86_64-linux.typstPackages.auto-div_0_1_0 |
 | typst-package-autofletcher | 0.1.0 | Easier diagrams with fletcher | legacyPackages.x86_64-linux.typstPackages.autofletcher_0_1_0 |
 | typst-package-autofletcher | 0.1.1 | Easier diagrams with fletcher | legacyPackages.x86_64-linux.typstPackages.autofletcher |
 | typst-package-autofletcher | 0.1.1 | Easier diagrams with fletcher | legacyPackages.x86_64-linux.typstPackages.autofletcher_0_1_1 |
@@ -91966,14 +92026,19 @@
 | typst-package-bamdone-ieeeconf | 0.1.1 | An IEEE-style paper template to publish at conferences and journals for Electrical Engineering, Computer Science, and Computer Engineering | legacyPackages.x86_64-linux.typstPackages.bamdone-ieeeconf |
 | typst-package-bamdone-ieeeconf | 0.1.1 | An IEEE-style paper template to publish at conferences and journals for Electrical Engineering, Computer Science, and Computer Engineering | legacyPackages.x86_64-linux.typstPackages.bamdone-ieeeconf_0_1_1 |
 | typst-package-bamdone-rebuttal | 0.1.0 | Rebuttal/response letter template that allows authors to respond to feedback given by reviewers in a peer-review process on a point-by-point basis | legacyPackages.x86_64-linux.typstPackages.bamdone-rebuttal_0_1_0 |
-| typst-package-bamdone-rebuttal | 0.1.1 | Rebuttal/response letter template that allows authors to respond to feedback given by reviewers in a peer-review process on a point-by-point basis | legacyPackages.x86_64-linux.typstPackages.bamdone-rebuttal |
 | typst-package-bamdone-rebuttal | 0.1.1 | Rebuttal/response letter template that allows authors to respond to feedback given by reviewers in a peer-review process on a point-by-point basis | legacyPackages.x86_64-linux.typstPackages.bamdone-rebuttal_0_1_1 |
+| typst-package-bamdone-rebuttal | 0.1.2 | Rebuttal/response letter template that allows authors to respond to feedback given by reviewers in a peer-review process on a point-by-point basis | legacyPackages.x86_64-linux.typstPackages.bamdone-rebuttal |
+| typst-package-bamdone-rebuttal | 0.1.2 | Rebuttal/response letter template that allows authors to respond to feedback given by reviewers in a peer-review process on a point-by-point basis | legacyPackages.x86_64-linux.typstPackages.bamdone-rebuttal_0_1_2 |
+| typst-package-bananote | 0.1.0 | Nice template for research notes with splashes of yellow | legacyPackages.x86_64-linux.typstPackages.bananote |
+| typst-package-bananote | 0.1.0 | Nice template for research notes with splashes of yellow | legacyPackages.x86_64-linux.typstPackages.bananote_0_1_0 |
 | typst-package-barcala | 0.1.0 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala_0_1_0 |
 | typst-package-barcala | 0.1.1 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala_0_1_1 |
 | typst-package-barcala | 0.1.2 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala_0_1_2 |
 | typst-package-barcala | 0.1.3 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala_0_1_3 |
-| typst-package-barcala | 0.1.4 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala |
 | typst-package-barcala | 0.1.4 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala_0_1_4 |
+| typst-package-barcala | 0.1.5 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala_0_1_5 |
+| typst-package-barcala | 0.2.0 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala |
+| typst-package-barcala | 0.2.0 | A report template for UNLP students, specially for engineering | legacyPackages.x86_64-linux.typstPackages.barcala_0_2_0 |
 | typst-package-basalt-backlinks | 0.1.0 | Generate and get backlinks | legacyPackages.x86_64-linux.typstPackages.basalt-backlinks_0_1_0 |
 | typst-package-basalt-backlinks | 0.1.1 | Generate and get backlinks | legacyPackages.x86_64-linux.typstPackages.basalt-backlinks |
 | typst-package-basalt-backlinks | 0.1.1 | Generate and get backlinks | legacyPackages.x86_64-linux.typstPackages.basalt-backlinks_0_1_1 |
@@ -92004,13 +92069,17 @@
 | typst-package-basic-resume | 0.2.3 | A simple, standard resume, designed to work well with ATS | legacyPackages.x86_64-linux.typstPackages.basic-resume_0_2_3 |
 | typst-package-basic-resume | 0.2.4 | A simple, standard resume, designed to work well with ATS | legacyPackages.x86_64-linux.typstPackages.basic-resume_0_2_4 |
 | typst-package-basic-resume | 0.2.7 | A simple, standard resume, designed to work well with ATS | legacyPackages.x86_64-linux.typstPackages.basic-resume_0_2_7 |
-| typst-package-basic-resume | 0.2.8 | A simple, standard resume, designed to work well with ATS | legacyPackages.x86_64-linux.typstPackages.basic-resume |
 | typst-package-basic-resume | 0.2.8 | A simple, standard resume, designed to work well with ATS | legacyPackages.x86_64-linux.typstPackages.basic-resume_0_2_8 |
+| typst-package-basic-resume | 0.2.9 | A simple, standard resume, designed to work well with ATS | legacyPackages.x86_64-linux.typstPackages.basic-resume |
+| typst-package-basic-resume | 0.2.9 | A simple, standard resume, designed to work well with ATS | legacyPackages.x86_64-linux.typstPackages.basic-resume_0_2_9 |
+| typst-package-bean-upm | 0.1.0 | Universidad Politécnica de Madrid thesis/report template | legacyPackages.x86_64-linux.typstPackages.bean-upm |
+| typst-package-bean-upm | 0.1.0 | Universidad Politécnica de Madrid thesis/report template | legacyPackages.x86_64-linux.typstPackages.bean-upm_0_1_0 |
 | typst-package-beautiful-abs | 0.1.0 | A package for creating beautiful standard abbreviations like i.e. or e.g | legacyPackages.x86_64-linux.typstPackages.beautiful-abs |
 | typst-package-beautiful-abs | 0.1.0 | A package for creating beautiful standard abbreviations like i.e. or e.g | legacyPackages.x86_64-linux.typstPackages.beautiful-abs_0_1_0 |
 | typst-package-bei-report | 0.1.0 | An unofficial Typst template for ENSIMAG internship report | legacyPackages.x86_64-linux.typstPackages.bei-report_0_1_0 |
-| typst-package-bei-report | 0.1.1 | An unofficial Typst template for ENSIMAG internship report | legacyPackages.x86_64-linux.typstPackages.bei-report |
 | typst-package-bei-report | 0.1.1 | An unofficial Typst template for ENSIMAG internship report | legacyPackages.x86_64-linux.typstPackages.bei-report_0_1_1 |
+| typst-package-bei-report | 0.1.2 | An unofficial Typst template for ENSIMAG internship report | legacyPackages.x86_64-linux.typstPackages.bei-report |
+| typst-package-bei-report | 0.1.2 | An unofficial Typst template for ENSIMAG internship report | legacyPackages.x86_64-linux.typstPackages.bei-report_0_1_2 |
 | typst-package-bellbird-udesc-paper | 0.0.1 | An Udesc-style academic paper template | legacyPackages.x86_64-linux.typstPackages.bellbird-udesc-paper |
 | typst-package-bellbird-udesc-paper | 0.0.1 | An Udesc-style academic paper template | legacyPackages.x86_64-linux.typstPackages.bellbird-udesc-paper_0_0_1 |
 | typst-package-biceps | 0.0.1 | Layout algorithm for CSS-style flex-wrap behavior. 💪 | legacyPackages.x86_64-linux.typstPackages.biceps |
@@ -92038,8 +92107,9 @@
 | typst-package-board-n-pieces | 0.3.0 | Display chessboards in Typst | legacyPackages.x86_64-linux.typstPackages.board-n-pieces_0_3_0 |
 | typst-package-board-n-pieces | 0.4.0 | Display chessboards | legacyPackages.x86_64-linux.typstPackages.board-n-pieces_0_4_0 |
 | typst-package-board-n-pieces | 0.5.0 | Display chessboards | legacyPackages.x86_64-linux.typstPackages.board-n-pieces_0_5_0 |
-| typst-package-board-n-pieces | 0.6.0 | Display chessboards | legacyPackages.x86_64-linux.typstPackages.board-n-pieces |
 | typst-package-board-n-pieces | 0.6.0 | Display chessboards | legacyPackages.x86_64-linux.typstPackages.board-n-pieces_0_6_0 |
+| typst-package-board-n-pieces | 0.7.0 | Display chessboards | legacyPackages.x86_64-linux.typstPackages.board-n-pieces |
+| typst-package-board-n-pieces | 0.7.0 | Display chessboards | legacyPackages.x86_64-linux.typstPackages.board-n-pieces_0_7_0 |
 | typst-package-bob-draw | 0.1.0 | svgbob for typst, powered by wasm | legacyPackages.x86_64-linux.typstPackages.bob-draw_0_1_0 |
 | typst-package-bob-draw | 0.1.1 | svgbob for typst, powered by wasm | legacyPackages.x86_64-linux.typstPackages.bob-draw |
 | typst-package-bob-draw | 0.1.1 | svgbob for typst, powered by wasm | legacyPackages.x86_64-linux.typstPackages.bob-draw_0_1_1 |
@@ -92050,27 +92120,36 @@
 | typst-package-bone-resume | 0.3.1 | A colorful resume template for chinese | legacyPackages.x86_64-linux.typstPackages.bone-resume_0_3_1 |
 | typst-package-bookletic | 0.1.0 | Create beautiful booklets with ease | legacyPackages.x86_64-linux.typstPackages.bookletic_0_1_0 |
 | typst-package-bookletic | 0.2.0 | Create beautiful booklets with ease | legacyPackages.x86_64-linux.typstPackages.bookletic_0_2_0 |
-| typst-package-bookletic | 0.3.0 | Create beautiful booklets with ease | legacyPackages.x86_64-linux.typstPackages.bookletic |
 | typst-package-bookletic | 0.3.0 | Create beautiful booklets with ease | legacyPackages.x86_64-linux.typstPackages.bookletic_0_3_0 |
+| typst-package-bookletic | 0.3.2 | Create beautiful booklets with ease | legacyPackages.x86_64-linux.typstPackages.bookletic |
+| typst-package-bookletic | 0.3.2 | Create beautiful booklets with ease | legacyPackages.x86_64-linux.typstPackages.bookletic_0_3_2 |
+| typst-package-bookly | 0.1.0 | Book template for Typst | legacyPackages.x86_64-linux.typstPackages.bookly_0_1_0 |
+| typst-package-bookly | 1.0.0 | Book template for Typst | legacyPackages.x86_64-linux.typstPackages.bookly_1_0_0 |
+| typst-package-bookly | 1.1.0 | Book template for Typst | legacyPackages.x86_64-linux.typstPackages.bookly |
+| typst-package-bookly | 1.1.0 | Book template for Typst | legacyPackages.x86_64-linux.typstPackages.bookly_1_1_0 |
 | typst-package-booktabs | 0.0.1 | Table styling, inspired by LaTeX's Booktabs package | legacyPackages.x86_64-linux.typstPackages.booktabs_0_0_1 |
 | typst-package-booktabs | 0.0.2 | Table styling, inspired by LaTeX's Booktabs package | legacyPackages.x86_64-linux.typstPackages.booktabs_0_0_2 |
 | typst-package-booktabs | 0.0.3 | Table styling, inspired by LaTeX's Booktabs package | legacyPackages.x86_64-linux.typstPackages.booktabs_0_0_3 |
 | typst-package-booktabs | 0.0.4 | Table styling, inspired by LaTeX's Booktabs package | legacyPackages.x86_64-linux.typstPackages.booktabs |
 | typst-package-booktabs | 0.0.4 | Table styling, inspired by LaTeX's Booktabs package | legacyPackages.x86_64-linux.typstPackages.booktabs_0_0_4 |
-| typst-package-boxed-sheet | 0.1.0 | A automatical colored and well organised cheatsheet template for writing daily notes with colored bounding box and line titles | legacyPackages.x86_64-linux.typstPackages.boxed-sheet |
 | typst-package-boxed-sheet | 0.1.0 | A automatical colored and well organised cheatsheet template for writing daily notes with colored bounding box and line titles | legacyPackages.x86_64-linux.typstPackages.boxed-sheet_0_1_0 |
+| typst-package-boxed-sheet | 0.1.1 | A automatical colored and well organised cheatsheet template for writing daily notes with colored bounding box and line titles | legacyPackages.x86_64-linux.typstPackages.boxed-sheet |
+| typst-package-boxed-sheet | 0.1.1 | A automatical colored and well organised cheatsheet template for writing daily notes with colored bounding box and line titles | legacyPackages.x86_64-linux.typstPackages.boxed-sheet_0_1_1 |
 | typst-package-boxr | 0.1.0 | A modular, and easy to use, package for creating cardboard cutouts in Typst | legacyPackages.x86_64-linux.typstPackages.boxr |
 | typst-package-boxr | 0.1.0 | A modular, and easy to use, package for creating cardboard cutouts in Typst | legacyPackages.x86_64-linux.typstPackages.boxr_0_1_0 |
 | typst-package-brain-transplant | 0.1.0 | Transpile Brainfuck code to Typst | legacyPackages.x86_64-linux.typstPackages.brain-transplant |
 | typst-package-brain-transplant | 0.1.0 | Transpile Brainfuck code to Typst | legacyPackages.x86_64-linux.typstPackages.brain-transplant_0_1_0 |
+| typst-package-briefs | 0.1.0 | A simple Typst template for letters | legacyPackages.x86_64-linux.typstPackages.briefs |
+| typst-package-briefs | 0.1.0 | A simple Typst template for letters | legacyPackages.x86_64-linux.typstPackages.briefs_0_1_0 |
 | typst-package-brilliant-cv | 2.0.0 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_0 |
 | typst-package-brilliant-cv | 2.0.1 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_1 |
 | typst-package-brilliant-cv | 2.0.2 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_2 |
 | typst-package-brilliant-cv | 2.0.3 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_3 |
 | typst-package-brilliant-cv | 2.0.4 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_4 |
 | typst-package-brilliant-cv | 2.0.5 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_5 |
-| typst-package-brilliant-cv | 2.0.6 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv |
 | typst-package-brilliant-cv | 2.0.6 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_6 |
+| typst-package-brilliant-cv | 2.0.7 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv |
+| typst-package-brilliant-cv | 2.0.7 | 💼 another CV template for your job application, yet powered by Typst and more | legacyPackages.x86_64-linux.typstPackages.brilliant-cv_2_0_7 |
 | typst-package-bubble | 0.1.0 | Simple and colorful template for Typst | legacyPackages.x86_64-linux.typstPackages.bubble_0_1_0 |
 | typst-package-bubble | 0.2.0 | Simple and colorful template for Typst | legacyPackages.x86_64-linux.typstPackages.bubble_0_2_0 |
 | typst-package-bubble | 0.2.1 | Simple and colorful template for Typst | legacyPackages.x86_64-linux.typstPackages.bubble_0_2_1 |
@@ -92083,8 +92162,9 @@
 | typst-package-burik | 0.1.0 | Visualization of 3x3 Rubik's Cube Algorithms for easier tutorials edition | legacyPackages.x86_64-linux.typstPackages.burik |
 | typst-package-burik | 0.1.0 | Visualization of 3x3 Rubik's Cube Algorithms for easier tutorials edition | legacyPackages.x86_64-linux.typstPackages.burik_0_1_0 |
 | typst-package-bye-ubc | 0.2.1 | A template for theses at the University of British Columbia | legacyPackages.x86_64-linux.typstPackages.bye-ubc_0_2_1 |
-| typst-package-bye-ubc | 0.2.2 | A template for theses at the University of British Columbia | legacyPackages.x86_64-linux.typstPackages.bye-ubc |
 | typst-package-bye-ubc | 0.2.2 | A template for theses at the University of British Columbia | legacyPackages.x86_64-linux.typstPackages.bye-ubc_0_2_2 |
+| typst-package-bye-ubc | 0.2.3 | A template for theses at the University of British Columbia | legacyPackages.x86_64-linux.typstPackages.bye-ubc |
+| typst-package-bye-ubc | 0.2.3 | A template for theses at the University of British Columbia | legacyPackages.x86_64-linux.typstPackages.bye-ubc_0_2_3 |
 | typst-package-bytefield | 0.0.1 | A package to create network protocol headers | legacyPackages.x86_64-linux.typstPackages.bytefield_0_0_1 |
 | typst-package-bytefield | 0.0.2 | A package to create network protocol headers | legacyPackages.x86_64-linux.typstPackages.bytefield_0_0_2 |
 | typst-package-bytefield | 0.0.3 | A package to create network protocol headers | legacyPackages.x86_64-linux.typstPackages.bytefield_0_0_3 |
@@ -92094,8 +92174,9 @@
 | typst-package-bytefield | 0.0.7 | A package to create network protocol headers, memory map, register definitions and more | legacyPackages.x86_64-linux.typstPackages.bytefield |
 | typst-package-bytefield | 0.0.7 | A package to create network protocol headers, memory map, register definitions and more | legacyPackages.x86_64-linux.typstPackages.bytefield_0_0_7 |
 | typst-package-cades | 0.2.0 | Generate QR codes in typst | legacyPackages.x86_64-linux.typstPackages.cades_0_2_0 |
-| typst-package-cades | 0.3.0 | Generate QR codes in typst | legacyPackages.x86_64-linux.typstPackages.cades |
 | typst-package-cades | 0.3.0 | Generate QR codes in typst | legacyPackages.x86_64-linux.typstPackages.cades_0_3_0 |
+| typst-package-cades | 0.3.1 | Generate QR codes in typst | legacyPackages.x86_64-linux.typstPackages.cades |
+| typst-package-cades | 0.3.1 | Generate QR codes in typst | legacyPackages.x86_64-linux.typstPackages.cades_0_3_1 |
 | typst-package-caidan | 0.1.0 | A clean and minimal food menu template | legacyPackages.x86_64-linux.typstPackages.caidan |
 | typst-package-caidan | 0.1.0 | A clean and minimal food menu template | legacyPackages.x86_64-linux.typstPackages.caidan_0_1_0 |
 | typst-package-callisto | 0.1.0 | Import Jupyter notebooks | legacyPackages.x86_64-linux.typstPackages.callisto_0_1_0 |
@@ -92114,13 +92195,15 @@
 | typst-package-casson-uom-thesis | 0.1.1 | Typst template based upon The University of Manchester Presentation of Theses Policy which relates to the examination of doctoral and MPhil degrees at The University of Manchester and applies to full-time and part-time postgraduate research students of the following degrees: Doctoral degrees: Doctor of Philosophy (PhD); Doctor of Medicine (MD) Doctor of Business Administration (DBA); Professional, Engineering and Enterprise Doctorates; Master of Philosophy (MPhil). This template has been checked to be compliant with the 2024 requirements. Responsibility for ensuring compliance with the University of Manchester Presentation of Theses Policy remains with the candidate | legacyPackages.x86_64-linux.typstPackages.casson-uom-thesis_0_1_1 |
 | typst-package-casual-szu-report | 0.1.0 | A template for SZU course reports | legacyPackages.x86_64-linux.typstPackages.casual-szu-report |
 | typst-package-casual-szu-report | 0.1.0 | A template for SZU course reports | legacyPackages.x86_64-linux.typstPackages.casual-szu-report_0_1_0 |
-| typst-package-catppuccin | 1.0.0 | 🪶 Soothing pastel theme for Typst | legacyPackages.x86_64-linux.typstPackages.catppuccin |
 | typst-package-catppuccin | 1.0.0 | 🪶 Soothing pastel theme for Typst | legacyPackages.x86_64-linux.typstPackages.catppuccin_1_0_0 |
+| typst-package-catppuccin | 1.0.1 | 🪶 Soothing pastel theme for Typst | legacyPackages.x86_64-linux.typstPackages.catppuccin |
+| typst-package-catppuccin | 1.0.1 | 🪶 Soothing pastel theme for Typst | legacyPackages.x86_64-linux.typstPackages.catppuccin_1_0_1 |
 | typst-package-ccicons | 1.0.0 | A port of the ccicon LaTeX package for Typst | legacyPackages.x86_64-linux.typstPackages.ccicons_1_0_0 |
 | typst-package-ccicons | 1.0.1 | A port of the ccicon LaTeX package for Typst | legacyPackages.x86_64-linux.typstPackages.ccicons |
 | typst-package-ccicons | 1.0.1 | A port of the ccicon LaTeX package for Typst | legacyPackages.x86_64-linux.typstPackages.ccicons_1_0_1 |
-| typst-package-cellpress-unofficial | 0.1.0 | Unofficial Cell Press styles for Typst | legacyPackages.x86_64-linux.typstPackages.cellpress-unofficial |
 | typst-package-cellpress-unofficial | 0.1.0 | Unofficial Cell Press styles for Typst | legacyPackages.x86_64-linux.typstPackages.cellpress-unofficial_0_1_0 |
+| typst-package-cellpress-unofficial | 0.1.1 | Unofficial Cell Press template for Typst | legacyPackages.x86_64-linux.typstPackages.cellpress-unofficial |
+| typst-package-cellpress-unofficial | 0.1.1 | Unofficial Cell Press template for Typst | legacyPackages.x86_64-linux.typstPackages.cellpress-unofficial_0_1_1 |
 | typst-package-celluloid | 0.1.0 | A template for writting screenplays based on AMPAS guidelines | legacyPackages.x86_64-linux.typstPackages.celluloid |
 | typst-package-celluloid | 0.1.0 | A template for writting screenplays based on AMPAS guidelines | legacyPackages.x86_64-linux.typstPackages.celluloid_0_1_0 |
 | typst-package-cereal-words | 0.1.0 | Time to kill? Search for words in a box of letters | legacyPackages.x86_64-linux.typstPackages.cereal-words |
@@ -92146,8 +92229,9 @@
 | typst-package-cetz | 0.4.2 | Drawing with Typst made easy, providing an API inspired by TikZ and Processing. Includes modules for plotting, charts and tree layout | legacyPackages.x86_64-linux.typstPackages.cetz_0_4_2 |
 | typst-package-cetz-plot | 0.1.0 | Plotting module for CeTZ | legacyPackages.x86_64-linux.typstPackages.cetz-plot_0_1_0 |
 | typst-package-cetz-plot | 0.1.1 | Plotting module for CeTZ | legacyPackages.x86_64-linux.typstPackages.cetz-plot_0_1_1 |
-| typst-package-cetz-plot | 0.1.2 | Plotting module for CeTZ | legacyPackages.x86_64-linux.typstPackages.cetz-plot |
 | typst-package-cetz-plot | 0.1.2 | Plotting module for CeTZ | legacyPackages.x86_64-linux.typstPackages.cetz-plot_0_1_2 |
+| typst-package-cetz-plot | 0.1.3 | Plotting module for CeTZ | legacyPackages.x86_64-linux.typstPackages.cetz-plot |
+| typst-package-cetz-plot | 0.1.3 | Plotting module for CeTZ | legacyPackages.x86_64-linux.typstPackages.cetz-plot_0_1_3 |
 | typst-package-cetz-venn | 0.1.0 | CeTZ library for drawing venn diagrams for two or three sets | legacyPackages.x86_64-linux.typstPackages.cetz-venn_0_1_0 |
 | typst-package-cetz-venn | 0.1.1 | CeTZ library for drawing venn diagrams for two or three sets | legacyPackages.x86_64-linux.typstPackages.cetz-venn_0_1_1 |
 | typst-package-cetz-venn | 0.1.2 | CeTZ library for drawing venn diagrams for two or three sets | legacyPackages.x86_64-linux.typstPackages.cetz-venn_0_1_2 |
@@ -92160,6 +92244,8 @@
 | typst-package-charged-ieee | 0.1.3 | An IEEE-style paper template to publish at conferences and journals for Electrical Engineering, Computer Science, and Computer Engineering | legacyPackages.x86_64-linux.typstPackages.charged-ieee_0_1_3 |
 | typst-package-charged-ieee | 0.1.4 | An IEEE-style paper template to publish at conferences and journals for Electrical Engineering, Computer Science, and Computer Engineering | legacyPackages.x86_64-linux.typstPackages.charged-ieee |
 | typst-package-charged-ieee | 0.1.4 | An IEEE-style paper template to publish at conferences and journals for Electrical Engineering, Computer Science, and Computer Engineering | legacyPackages.x86_64-linux.typstPackages.charged-ieee_0_1_4 |
+| typst-package-charged-vde | 1.0.0 | An inofficial VDE-style paper template to publish at VDE Conferences | legacyPackages.x86_64-linux.typstPackages.charged-vde |
+| typst-package-charged-vde | 1.0.0 | An inofficial VDE-style paper template to publish at VDE Conferences | legacyPackages.x86_64-linux.typstPackages.charged-vde_1_0_0 |
 | typst-package-chatter | 0.1.0 | Write dialog between any number of characters quickly and cleanly. Great for translations or short assignments | legacyPackages.x86_64-linux.typstPackages.chatter |
 | typst-package-chatter | 0.1.0 | Write dialog between any number of characters quickly and cleanly. Great for translations or short assignments | legacyPackages.x86_64-linux.typstPackages.chatter_0_1_0 |
 | typst-package-cheda-seu-thesis | 0.2.0 | 东南大学本科毕设与研究生学位论文模板。UNOFFICIAL Southeast University Thesis | legacyPackages.x86_64-linux.typstPackages.cheda-seu-thesis_0_2_0 |
@@ -92173,6 +92259,8 @@
 | typst-package-cheda-seu-thesis | 0.3.4 | 东南大学本科毕设与研究生学位论文模板。UNOFFICIAL Southeast University Thesis Template | legacyPackages.x86_64-linux.typstPackages.cheda-seu-thesis_0_3_4 |
 | typst-package-chem-par | 0.0.1 | Display chemical formulae and IUPAC nomenclature with ease | legacyPackages.x86_64-linux.typstPackages.chem-par |
 | typst-package-chem-par | 0.0.1 | Display chemical formulae and IUPAC nomenclature with ease | legacyPackages.x86_64-linux.typstPackages.chem-par_0_0_1 |
+| typst-package-chemformula | 0.1.0 | Extensible chemical formula formatter | legacyPackages.x86_64-linux.typstPackages.chemformula |
+| typst-package-chemformula | 0.1.0 | Extensible chemical formula formatter | legacyPackages.x86_64-linux.typstPackages.chemformula_0_1_0 |
 | typst-package-chemicoms-paper | 0.1.0 | An RSC-style paper template to publish at conferences and journals | legacyPackages.x86_64-linux.typstPackages.chemicoms-paper |
 | typst-package-chemicoms-paper | 0.1.0 | An RSC-style paper template to publish at conferences and journals | legacyPackages.x86_64-linux.typstPackages.chemicoms-paper_0_1_0 |
 | typst-package-cheq | 0.1.0 | Write markdown-like checklist easily | legacyPackages.x86_64-linux.typstPackages.cheq_0_1_0 |
@@ -92182,6 +92270,8 @@
 | typst-package-cheq | 0.2.3 | Write markdown-like checklist easily | legacyPackages.x86_64-linux.typstPackages.cheq_0_2_3 |
 | typst-package-cheq | 0.3.0 | Write markdown-like checklist easily | legacyPackages.x86_64-linux.typstPackages.cheq |
 | typst-package-cheq | 0.3.0 | Write markdown-like checklist easily | legacyPackages.x86_64-linux.typstPackages.cheq_0_3_0 |
+| typst-package-chiandiau | 0.1.0 | Display tone-based jumpy pronunciations | legacyPackages.x86_64-linux.typstPackages.chiandiau |
+| typst-package-chiandiau | 0.1.0 | Display tone-based jumpy pronunciations | legacyPackages.x86_64-linux.typstPackages.chiandiau_0_1_0 |
 | typst-package-chic-hdr | 0.1.0 | Typst package for creating elegant headers and footers | legacyPackages.x86_64-linux.typstPackages.chic-hdr_0_1_0 |
 | typst-package-chic-hdr | 0.2.0 | Typst package for creating elegant headers and footers | legacyPackages.x86_64-linux.typstPackages.chic-hdr_0_2_0 |
 | typst-package-chic-hdr | 0.3.0 | Typst package for creating elegant headers and footers | legacyPackages.x86_64-linux.typstPackages.chic-hdr_0_3_0 |
@@ -92198,10 +92288,12 @@
 | typst-package-chordx | 0.3.0 | A package to write song lyrics with chord diagrams in Typst | legacyPackages.x86_64-linux.typstPackages.chordx_0_3_0 |
 | typst-package-chordx | 0.4.0 | A package to write song lyrics with chord diagrams in Typst | legacyPackages.x86_64-linux.typstPackages.chordx_0_4_0 |
 | typst-package-chordx | 0.5.0 | A package to write song lyrics with chord diagrams in Typst | legacyPackages.x86_64-linux.typstPackages.chordx_0_5_0 |
-| typst-package-chordx | 0.6.0 | A package to write song lyrics with chord diagrams in Typst | legacyPackages.x86_64-linux.typstPackages.chordx |
 | typst-package-chordx | 0.6.0 | A package to write song lyrics with chord diagrams in Typst | legacyPackages.x86_64-linux.typstPackages.chordx_0_6_0 |
-| typst-package-chribel | 1.0.0 | A compact summary template with custom callouts | legacyPackages.x86_64-linux.typstPackages.chribel |
+| typst-package-chordx | 0.6.1 | A package to write song lyrics with chord diagrams in Typst | legacyPackages.x86_64-linux.typstPackages.chordx |
+| typst-package-chordx | 0.6.1 | A package to write song lyrics with chord diagrams in Typst | legacyPackages.x86_64-linux.typstPackages.chordx_0_6_1 |
 | typst-package-chribel | 1.0.0 | A compact summary template with custom callouts | legacyPackages.x86_64-linux.typstPackages.chribel_1_0_0 |
+| typst-package-chribel | 1.1.0 | A compact summary template with custom callouts | legacyPackages.x86_64-linux.typstPackages.chribel |
+| typst-package-chribel | 1.1.0 | A compact summary template with custom callouts | legacyPackages.x86_64-linux.typstPackages.chribel_1_1_0 |
 | typst-package-chromo | 0.1.0 | Generate printer tests (likely CMYK) in typst | legacyPackages.x86_64-linux.typstPackages.chromo |
 | typst-package-chromo | 0.1.0 | Generate printer tests (likely CMYK) in typst | legacyPackages.x86_64-linux.typstPackages.chromo_0_1_0 |
 | typst-package-chronos | 0.1.0 | A package to draw sequence diagrams with CeTZ | legacyPackages.x86_64-linux.typstPackages.chronos_0_1_0 |
@@ -92225,8 +92317,9 @@
 | typst-package-citegeist | 0.2.0 | Makes a Bibtex bibliography available as a Typst dictionary | legacyPackages.x86_64-linux.typstPackages.citegeist_0_2_0 |
 | typst-package-cjk-unbreak | 0.1.0 | Remove spaces caused by line breaks around CJK | legacyPackages.x86_64-linux.typstPackages.cjk-unbreak_0_1_0 |
 | typst-package-cjk-unbreak | 0.1.1 | Remove spaces caused by line breaks around CJK | legacyPackages.x86_64-linux.typstPackages.cjk-unbreak_0_1_1 |
-| typst-package-cjk-unbreak | 0.2.0 | Remove spaces caused by line breaks around CJK | legacyPackages.x86_64-linux.typstPackages.cjk-unbreak |
 | typst-package-cjk-unbreak | 0.2.0 | Remove spaces caused by line breaks around CJK | legacyPackages.x86_64-linux.typstPackages.cjk-unbreak_0_2_0 |
+| typst-package-cjk-unbreak | 0.2.1 | Remove spaces caused by line breaks around CJK | legacyPackages.x86_64-linux.typstPackages.cjk-unbreak |
+| typst-package-cjk-unbreak | 0.2.1 | Remove spaces caused by line breaks around CJK | legacyPackages.x86_64-linux.typstPackages.cjk-unbreak_0_2_1 |
 | typst-package-classic-aau-report | 0.1.0 | An example package | legacyPackages.x86_64-linux.typstPackages.classic-aau-report_0_1_0 |
 | typst-package-classic-aau-report | 0.1.1 | A report template for students at Aalborg University (AAU | legacyPackages.x86_64-linux.typstPackages.classic-aau-report_0_1_1 |
 | typst-package-classic-aau-report | 0.2.0 | A report template for students at Aalborg University (AAU | legacyPackages.x86_64-linux.typstPackages.classic-aau-report_0_2_0 |
@@ -92236,24 +92329,33 @@
 | typst-package-classic-aau-report | 0.3.1 | A report template for students at Aalborg University (AAU | legacyPackages.x86_64-linux.typstPackages.classic-aau-report_0_3_1 |
 | typst-package-classic-jmlr | 0.4.0 | Paper template for submission to Journal of Machine Learning Research (JMLR | legacyPackages.x86_64-linux.typstPackages.classic-jmlr |
 | typst-package-classic-jmlr | 0.4.0 | Paper template for submission to Journal of Machine Learning Research (JMLR | legacyPackages.x86_64-linux.typstPackages.classic-jmlr_0_4_0 |
+| typst-package-classic-tud-math-thesis | 0.1.0 | Unofficial template for writing a thesis at the Faculty of Mathematics at TUD | legacyPackages.x86_64-linux.typstPackages.classic-tud-math-thesis |
+| typst-package-classic-tud-math-thesis | 0.1.0 | Unofficial template for writing a thesis at the Faculty of Mathematics at TUD | legacyPackages.x86_64-linux.typstPackages.classic-tud-math-thesis_0_1_0 |
 | typst-package-classy-german-invoice | 0.2.0 | Minimalistic invoice for germany based freelancers | legacyPackages.x86_64-linux.typstPackages.classy-german-invoice_0_2_0 |
 | typst-package-classy-german-invoice | 0.3.0 | Minimalistic invoice for germany based freelancers | legacyPackages.x86_64-linux.typstPackages.classy-german-invoice_0_3_0 |
 | typst-package-classy-german-invoice | 0.3.1 | Minimalistic invoice for germany based freelancers | legacyPackages.x86_64-linux.typstPackages.classy-german-invoice |
 | typst-package-classy-german-invoice | 0.3.1 | Minimalistic invoice for germany based freelancers | legacyPackages.x86_64-linux.typstPackages.classy-german-invoice_0_3_1 |
+| typst-package-classy-tudelft-thesis | 0.1.0 | A classy thesis report in TU Delft style | legacyPackages.x86_64-linux.typstPackages.classy-tudelft-thesis |
+| typst-package-classy-tudelft-thesis | 0.1.0 | A classy thesis report in TU Delft style | legacyPackages.x86_64-linux.typstPackages.classy-tudelft-thesis_0_1_0 |
 | typst-package-clatter | 0.1.0 | Just the PDF417 generator from rxing | legacyPackages.x86_64-linux.typstPackages.clatter |
 | typst-package-clatter | 0.1.0 | Just the PDF417 generator from rxing | legacyPackages.x86_64-linux.typstPackages.clatter_0_1_0 |
 | typst-package-clean-acmart | 0.0.1 | Simple and clean Typst paper template for ACM conferences following the original acmart style | legacyPackages.x86_64-linux.typstPackages.clean-acmart |
 | typst-package-clean-acmart | 0.0.1 | Simple and clean Typst paper template for ACM conferences following the original acmart style | legacyPackages.x86_64-linux.typstPackages.clean-acmart_0_0_1 |
 | typst-package-clean-agh-thesis | 0.1.0 | AGH-compliant thesis template | legacyPackages.x86_64-linux.typstPackages.clean-agh-thesis |
 | typst-package-clean-agh-thesis | 0.1.0 | AGH-compliant thesis template | legacyPackages.x86_64-linux.typstPackages.clean-agh-thesis_0_1_0 |
+| typst-package-clean-cnam-template | 1.0.0 | A modular and organized TYPST template for creating professional documents using CNAM branding and styling | legacyPackages.x86_64-linux.typstPackages.clean-cnam-template_1_0_0 |
+| typst-package-clean-cnam-template | 1.1.0 | A modular and organized template for creating professional documents using CNAM branding and styling | legacyPackages.x86_64-linux.typstPackages.clean-cnam-template_1_1_0 |
+| typst-package-clean-cnam-template | 1.2.0 | A modular and organized template for creating professional documents using CNAM branding and styling | legacyPackages.x86_64-linux.typstPackages.clean-cnam-template |
+| typst-package-clean-cnam-template | 1.2.0 | A modular and organized template for creating professional documents using CNAM branding and styling | legacyPackages.x86_64-linux.typstPackages.clean-cnam-template_1_2_0 |
 | typst-package-clean-dhbw | 0.1.0 | A Typst Template for DHBW | legacyPackages.x86_64-linux.typstPackages.clean-dhbw_0_1_0 |
 | typst-package-clean-dhbw | 0.1.1 | A Typst Template for DHBW | legacyPackages.x86_64-linux.typstPackages.clean-dhbw_0_1_1 |
 | typst-package-clean-dhbw | 0.2.1 | A Typst Template for DHBW | legacyPackages.x86_64-linux.typstPackages.clean-dhbw_0_2_1 |
 | typst-package-clean-dhbw | 0.3.0 | A Typst Template for DHBW | legacyPackages.x86_64-linux.typstPackages.clean-dhbw_0_3_0 |
 | typst-package-clean-dhbw | 0.3.1 | A Typst Template for DHBW | legacyPackages.x86_64-linux.typstPackages.clean-dhbw |
 | typst-package-clean-dhbw | 0.3.1 | A Typst Template for DHBW | legacyPackages.x86_64-linux.typstPackages.clean-dhbw_0_3_1 |
-| typst-package-clean-hda | 0.1.0 | Computer Science Thesis for Hochschule Darmstadt (h_da | legacyPackages.x86_64-linux.typstPackages.clean-hda |
 | typst-package-clean-hda | 0.1.0 | Computer Science Thesis for Hochschule Darmstadt (h_da | legacyPackages.x86_64-linux.typstPackages.clean-hda_0_1_0 |
+| typst-package-clean-hda | 0.2.0 | Computer Science Thesis for Hochschule Darmstadt (h_da | legacyPackages.x86_64-linux.typstPackages.clean-hda |
+| typst-package-clean-hda | 0.2.0 | Computer Science Thesis for Hochschule Darmstadt (h_da | legacyPackages.x86_64-linux.typstPackages.clean-hda_0_2_0 |
 | typst-package-clean-hwr | 0.1.0 | A simple and good looking template for the Berlin School for Economics and Law | legacyPackages.x86_64-linux.typstPackages.clean-hwr_0_1_0 |
 | typst-package-clean-hwr | 0.1.1 | A simple and good looking template for the Berlin School for Economics and Law | legacyPackages.x86_64-linux.typstPackages.clean-hwr_0_1_1 |
 | typst-package-clean-hwr | 0.1.2 | A simple and good looking template for the Berlin School for Economics and Law | legacyPackages.x86_64-linux.typstPackages.clean-hwr_0_1_2 |
@@ -92266,8 +92368,9 @@
 | typst-package-clean-math-paper | 0.2.1 | A simple and good looking template for mathematical papers | legacyPackages.x86_64-linux.typstPackages.clean-math-paper_0_2_1 |
 | typst-package-clean-math-paper | 0.2.2 | A simple and good looking template for mathematical papers | legacyPackages.x86_64-linux.typstPackages.clean-math-paper_0_2_2 |
 | typst-package-clean-math-paper | 0.2.3 | A simple and good looking template for mathematical papers | legacyPackages.x86_64-linux.typstPackages.clean-math-paper_0_2_3 |
-| typst-package-clean-math-paper | 0.2.4 | A simple and good looking template for mathematical papers | legacyPackages.x86_64-linux.typstPackages.clean-math-paper |
 | typst-package-clean-math-paper | 0.2.4 | A simple and good looking template for mathematical papers | legacyPackages.x86_64-linux.typstPackages.clean-math-paper_0_2_4 |
+| typst-package-clean-math-paper | 0.2.5 | A simple and good looking template for mathematical papers | legacyPackages.x86_64-linux.typstPackages.clean-math-paper |
+| typst-package-clean-math-paper | 0.2.5 | A simple and good looking template for mathematical papers | legacyPackages.x86_64-linux.typstPackages.clean-math-paper_0_2_5 |
 | typst-package-clean-math-presentation | 0.1.0 | A simple and good looking template for mathematical presentations | legacyPackages.x86_64-linux.typstPackages.clean-math-presentation_0_1_0 |
 | typst-package-clean-math-presentation | 0.1.1 | A simple and good looking template for mathematical presentations | legacyPackages.x86_64-linux.typstPackages.clean-math-presentation |
 | typst-package-clean-math-presentation | 0.1.1 | A simple and good looking template for mathematical presentations | legacyPackages.x86_64-linux.typstPackages.clean-math-presentation_0_1_1 |
@@ -92290,18 +92393,23 @@
 | typst-package-clickworthy-resume | 1.0.0 | A simple, flexible, responsive, ATS-friendly, and click-worthy resume. Extra cover letter and extendable to a CV | legacyPackages.x86_64-linux.typstPackages.clickworthy-resume_1_0_0 |
 | typst-package-clickworthy-resume | 1.0.1 | A simple, flexible, responsive, ATS-friendly, and click-worthy resume. Extra cover letter and extendable to a CV | legacyPackages.x86_64-linux.typstPackages.clickworthy-resume |
 | typst-package-clickworthy-resume | 1.0.1 | A simple, flexible, responsive, ATS-friendly, and click-worthy resume. Extra cover letter and extendable to a CV | legacyPackages.x86_64-linux.typstPackages.clickworthy-resume_1_0_1 |
+| typst-package-cloudy | 0.1.1 | Create clouds of words | legacyPackages.x86_64-linux.typstPackages.cloudy |
+| typst-package-cloudy | 0.1.1 | Create clouds of words | legacyPackages.x86_64-linux.typstPackages.cloudy_0_1_1 |
 | typst-package-cmarker | 0.1.0 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_0 |
 | typst-package-cmarker | 0.1.1 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_1 |
 | typst-package-cmarker | 0.1.2 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_2 |
 | typst-package-cmarker | 0.1.3 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_3 |
 | typst-package-cmarker | 0.1.4 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_4 |
 | typst-package-cmarker | 0.1.5 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_5 |
-| typst-package-cmarker | 0.1.6 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker |
 | typst-package-cmarker | 0.1.6 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_6 |
-| typst-package-cob-unofficial | 0.1.0 | Unofficial CoB (The Company of Biologists) template for Typst | legacyPackages.x86_64-linux.typstPackages.cob-unofficial |
+| typst-package-cmarker | 0.1.7 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker |
+| typst-package-cmarker | 0.1.7 | Transpile CommonMark Markdown to Typst, from within Typst | legacyPackages.x86_64-linux.typstPackages.cmarker_0_1_7 |
 | typst-package-cob-unofficial | 0.1.0 | Unofficial CoB (The Company of Biologists) template for Typst | legacyPackages.x86_64-linux.typstPackages.cob-unofficial_0_1_0 |
-| typst-package-codedis | 0.1.0 | A simple package for displaying code | legacyPackages.x86_64-linux.typstPackages.codedis |
+| typst-package-cob-unofficial | 0.1.1 | Unofficial CoB (The Company of Biologists) template for Typst | legacyPackages.x86_64-linux.typstPackages.cob-unofficial |
+| typst-package-cob-unofficial | 0.1.1 | Unofficial CoB (The Company of Biologists) template for Typst | legacyPackages.x86_64-linux.typstPackages.cob-unofficial_0_1_1 |
 | typst-package-codedis | 0.1.0 | A simple package for displaying code | legacyPackages.x86_64-linux.typstPackages.codedis_0_1_0 |
+| typst-package-codedis | 0.2.0 | A simple package for displaying code | legacyPackages.x86_64-linux.typstPackages.codedis |
+| typst-package-codedis | 0.2.0 | A simple package for displaying code | legacyPackages.x86_64-linux.typstPackages.codedis_0_2_0 |
 | typst-package-codelst | 0.0.3 | A typst package to render sourcecode | legacyPackages.x86_64-linux.typstPackages.codelst_0_0_3 |
 | typst-package-codelst | 1.0.0 | A typst package to render sourcecode | legacyPackages.x86_64-linux.typstPackages.codelst_1_0_0 |
 | typst-package-codelst | 2.0.0 | A typst package to render sourcecode | legacyPackages.x86_64-linux.typstPackages.codelst_2_0_0 |
@@ -92326,16 +92434,21 @@
 | typst-package-codly | 1.3.0 | Codly is a beautiful code presentation template with many features like smart indentation, line numbering, highlighting, etc | legacyPackages.x86_64-linux.typstPackages.codly_1_3_0 |
 | typst-package-codly-languages | 0.1.0 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_0 |
 | typst-package-codly-languages | 0.1.1 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_1 |
+| typst-package-codly-languages | 0.1.10 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_10 |
 | typst-package-codly-languages | 0.1.2 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_2 |
 | typst-package-codly-languages | 0.1.3 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_3 |
 | typst-package-codly-languages | 0.1.4 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_4 |
 | typst-package-codly-languages | 0.1.5 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_5 |
 | typst-package-codly-languages | 0.1.6 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_6 |
 | typst-package-codly-languages | 0.1.7 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_7 |
-| typst-package-codly-languages | 0.1.8 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages |
 | typst-package-codly-languages | 0.1.8 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_8 |
-| typst-package-color-my-agda | 0.1.0 | Syntax highlight for Agda on Typst | legacyPackages.x86_64-linux.typstPackages.color-my-agda |
+| typst-package-codly-languages | 0.1.9 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages |
+| typst-package-codly-languages | 0.1.9 | A set of language configurations for use with codly | legacyPackages.x86_64-linux.typstPackages.codly-languages_0_1_9 |
+| typst-package-cogsci-conference | 0.1.0 | CogSci template for submissions to the Annual Conference of the Cognitive Science Society | legacyPackages.x86_64-linux.typstPackages.cogsci-conference |
+| typst-package-cogsci-conference | 0.1.0 | CogSci template for submissions to the Annual Conference of the Cognitive Science Society | legacyPackages.x86_64-linux.typstPackages.cogsci-conference_0_1_0 |
 | typst-package-color-my-agda | 0.1.0 | Syntax highlight for Agda on Typst | legacyPackages.x86_64-linux.typstPackages.color-my-agda_0_1_0 |
+| typst-package-color-my-agda | 0.2.0 | Syntax highlight for Agda on Typst | legacyPackages.x86_64-linux.typstPackages.color-my-agda |
+| typst-package-color-my-agda | 0.2.0 | Syntax highlight for Agda on Typst | legacyPackages.x86_64-linux.typstPackages.color-my-agda_0_2_0 |
 | typst-package-colorful-boxes | 1.0.0 | Predefined colorful boxes | legacyPackages.x86_64-linux.typstPackages.colorful-boxes_1_0_0 |
 | typst-package-colorful-boxes | 1.1.0 | Predefined colorful boxes | legacyPackages.x86_64-linux.typstPackages.colorful-boxes_1_1_0 |
 | typst-package-colorful-boxes | 1.2.0 | Predefined colorful boxes | legacyPackages.x86_64-linux.typstPackages.colorful-boxes_1_2_0 |
@@ -92345,6 +92458,10 @@
 | typst-package-colorful-boxes | 1.4.2 | Predefined colorful boxes to spice up your document | legacyPackages.x86_64-linux.typstPackages.colorful-boxes_1_4_2 |
 | typst-package-colorful-boxes | 1.4.3 | Predefined colorful boxes to spice up your document | legacyPackages.x86_64-linux.typstPackages.colorful-boxes |
 | typst-package-colorful-boxes | 1.4.3 | Predefined colorful boxes to spice up your document | legacyPackages.x86_64-linux.typstPackages.colorful-boxes_1_4_3 |
+| typst-package-combo | 0.1.0 | An importable library for common combinatorial operations | legacyPackages.x86_64-linux.typstPackages.combo |
+| typst-package-combo | 0.1.0 | An importable library for common combinatorial operations | legacyPackages.x86_64-linux.typstPackages.combo_0_1_0 |
+| typst-package-community-ostfalia-thesis | 0.1.0 | A thesis template for a bachelors thesis at the Ostfalia University of Applied Sciences, faculty informatics | legacyPackages.x86_64-linux.typstPackages.community-ostfalia-thesis |
+| typst-package-community-ostfalia-thesis | 0.1.0 | A thesis template for a bachelors thesis at the Ostfalia University of Applied Sciences, faculty informatics | legacyPackages.x86_64-linux.typstPackages.community-ostfalia-thesis_0_1_0 |
 | typst-package-commute | 0.1.0 | A proof of concept library for commutative diagrams | legacyPackages.x86_64-linux.typstPackages.commute_0_1_0 |
 | typst-package-commute | 0.2.0 | A proof of concept library for commutative diagrams | legacyPackages.x86_64-linux.typstPackages.commute_0_2_0 |
 | typst-package-commute | 0.3.0 | A proof of concept library for commutative diagrams | legacyPackages.x86_64-linux.typstPackages.commute |
@@ -92355,6 +92472,8 @@
 | typst-package-conchord | 0.3.0 | Easily write lyrics with chords, generate chord diagrams by chord names and draw tabs | legacyPackages.x86_64-linux.typstPackages.conchord_0_3_0 |
 | typst-package-conchord | 0.4.0 | Easily write lyrics with chords, generate chord diagrams by chord names and draw tabs | legacyPackages.x86_64-linux.typstPackages.conchord |
 | typst-package-conchord | 0.4.0 | Easily write lyrics with chords, generate chord diagrams by chord names and draw tabs | legacyPackages.x86_64-linux.typstPackages.conchord_0_4_0 |
+| typst-package-confy | 0.1.0 | Reusable confusion matrix renderer built on CeTZ | legacyPackages.x86_64-linux.typstPackages.confy |
+| typst-package-confy | 0.1.0 | Reusable confusion matrix renderer built on CeTZ | legacyPackages.x86_64-linux.typstPackages.confy_0_1_0 |
 | typst-package-conjak | 0.2.3 | Format numbers in ConJaK conventions | legacyPackages.x86_64-linux.typstPackages.conjak |
 | typst-package-conjak | 0.2.3 | Format numbers in ConJaK conventions | legacyPackages.x86_64-linux.typstPackages.conjak_0_2_3 |
 | typst-package-consketcher | 0.1.0 | Draws control blocks using fletcher and CeTZ | legacyPackages.x86_64-linux.typstPackages.consketcher |
@@ -92364,6 +92483,8 @@
 | typst-package-cram-snap | 0.2.1 | Typst template for creating cheatsheets | legacyPackages.x86_64-linux.typstPackages.cram-snap_0_2_1 |
 | typst-package-cram-snap | 0.2.2 | Typst template for creating cheatsheets | legacyPackages.x86_64-linux.typstPackages.cram-snap |
 | typst-package-cram-snap | 0.2.2 | Typst template for creating cheatsheets | legacyPackages.x86_64-linux.typstPackages.cram-snap_0_2_2 |
+| typst-package-cross-circle | 1.0.0 | A rather convoluted implementation of cross'n'circle (aka. tic tac toe). Customize it to your hearts content | legacyPackages.x86_64-linux.typstPackages.cross-circle |
+| typst-package-cross-circle | 1.0.0 | A rather convoluted implementation of cross'n'circle (aka. tic tac toe). Customize it to your hearts content | legacyPackages.x86_64-linux.typstPackages.cross-circle_1_0_0 |
 | typst-package-crossregex | 0.1.0 | A crossword-like regex game written in Typst | legacyPackages.x86_64-linux.typstPackages.crossregex_0_1_0 |
 | typst-package-crossregex | 0.2.0 | A crossword-like regex game written in Typst | legacyPackages.x86_64-linux.typstPackages.crossregex |
 | typst-package-crossregex | 0.2.0 | A crossword-like regex game written in Typst | legacyPackages.x86_64-linux.typstPackages.crossregex_0_2_0 |
@@ -92381,12 +92502,14 @@
 | typst-package-ctxjs | 0.1.1 | Run javascript in contexts | legacyPackages.x86_64-linux.typstPackages.ctxjs_0_1_1 |
 | typst-package-ctxjs | 0.2.0 | Run javascript in contexts | legacyPackages.x86_64-linux.typstPackages.ctxjs_0_2_0 |
 | typst-package-ctxjs | 0.3.0 | Run javascript in contexts | legacyPackages.x86_64-linux.typstPackages.ctxjs_0_3_0 |
-| typst-package-ctxjs | 0.3.1 | Run javascript in contexts | legacyPackages.x86_64-linux.typstPackages.ctxjs |
 | typst-package-ctxjs | 0.3.1 | Run javascript in contexts | legacyPackages.x86_64-linux.typstPackages.ctxjs_0_3_1 |
+| typst-package-ctxjs | 0.3.2 | Run javascript in contexts | legacyPackages.x86_64-linux.typstPackages.ctxjs |
+| typst-package-ctxjs | 0.3.2 | Run javascript in contexts | legacyPackages.x86_64-linux.typstPackages.ctxjs_0_3_2 |
 | typst-package-ctyp | 0.1.0 | A Typst package for Chinese typography | legacyPackages.x86_64-linux.typstPackages.ctyp_0_1_0 |
 | typst-package-ctyp | 0.1.1 | A Typst package for Chinese typography | legacyPackages.x86_64-linux.typstPackages.ctyp_0_1_1 |
-| typst-package-ctyp | 0.2.0 | A Typst package for Chinese typography | legacyPackages.x86_64-linux.typstPackages.ctyp |
 | typst-package-ctyp | 0.2.0 | A Typst package for Chinese typography | legacyPackages.x86_64-linux.typstPackages.ctyp_0_2_0 |
+| typst-package-ctyp | 0.3.0 | A Typst package for Chinese typography | legacyPackages.x86_64-linux.typstPackages.ctyp |
+| typst-package-ctyp | 0.3.0 | A Typst package for Chinese typography | legacyPackages.x86_64-linux.typstPackages.ctyp_0_3_0 |
 | typst-package-cumcm-muban | 0.1.0 | 为高教社杯全国大学生数学建模竞赛设计的 Typst 模板 | legacyPackages.x86_64-linux.typstPackages.cumcm-muban_0_1_0 |
 | typst-package-cumcm-muban | 0.2.0 | 为高教社杯全国大学生数学建模竞赛设计的 Typst 模板 | legacyPackages.x86_64-linux.typstPackages.cumcm-muban_0_2_0 |
 | typst-package-cumcm-muban | 0.3.0 | 为高教社杯全国大学生数学建模竞赛设计的 Typst 模板 | legacyPackages.x86_64-linux.typstPackages.cumcm-muban_0_3_0 |
@@ -92402,20 +92525,24 @@
 | typst-package-curryst | 0.3.0 | Typeset trees of inference rules | legacyPackages.x86_64-linux.typstPackages.curryst_0_3_0 |
 | typst-package-curryst | 0.4.0 | Typeset trees of inference rules | legacyPackages.x86_64-linux.typstPackages.curryst_0_4_0 |
 | typst-package-curryst | 0.5.0 | Typeset trees of inference rules | legacyPackages.x86_64-linux.typstPackages.curryst_0_5_0 |
-| typst-package-curryst | 0.5.1 | Typeset trees of inference rules | legacyPackages.x86_64-linux.typstPackages.curryst |
 | typst-package-curryst | 0.5.1 | Typeset trees of inference rules | legacyPackages.x86_64-linux.typstPackages.curryst_0_5_1 |
+| typst-package-curryst | 0.6.0 | Typeset trees of inference rules | legacyPackages.x86_64-linux.typstPackages.curryst |
+| typst-package-curryst | 0.6.0 | Typeset trees of inference rules | legacyPackages.x86_64-linux.typstPackages.curryst_0_6_0 |
 | typst-package-curvly | 0.1.0 | Typst package for curving text on an arc or circle | legacyPackages.x86_64-linux.typstPackages.curvly |
 | typst-package-curvly | 0.1.0 | Typst package for curving text on an arc or circle | legacyPackages.x86_64-linux.typstPackages.curvly_0_1_0 |
 | typst-package-cuti | 0.1.0 | Easily simulate (fake) bold characters | legacyPackages.x86_64-linux.typstPackages.cuti_0_1_0 |
 | typst-package-cuti | 0.2.0 | Easily simulate (fake) bold and italic characters | legacyPackages.x86_64-linux.typstPackages.cuti_0_2_0 |
 | typst-package-cuti | 0.2.1 | Easily simulate (fake) bold and italic characters | legacyPackages.x86_64-linux.typstPackages.cuti_0_2_1 |
-| typst-package-cuti | 0.3.0 | Easily simulate (fake) bold, italic and small capital characters | legacyPackages.x86_64-linux.typstPackages.cuti |
 | typst-package-cuti | 0.3.0 | Easily simulate (fake) bold, italic and small capital characters | legacyPackages.x86_64-linux.typstPackages.cuti_0_3_0 |
+| typst-package-cuti | 0.4.0 | Easily simulate (fake) bold, italic and small capital characters | legacyPackages.x86_64-linux.typstPackages.cuti |
+| typst-package-cuti | 0.4.0 | Easily simulate (fake) bold, italic and small capital characters | legacyPackages.x86_64-linux.typstPackages.cuti_0_4_0 |
 | typst-package-cv-soft-and-hard | 0.1.0 | Clean CV Template | legacyPackages.x86_64-linux.typstPackages.cv-soft-and-hard |
 | typst-package-cv-soft-and-hard | 0.1.0 | Clean CV Template | legacyPackages.x86_64-linux.typstPackages.cv-soft-and-hard_0_1_0 |
 | typst-package-cvssc | 0.1.0 | Common Vulnerability Scoring System Calculator | legacyPackages.x86_64-linux.typstPackages.cvssc_0_1_0 |
-| typst-package-cvssc | 0.1.1 | Common Vulnerability Scoring System Calculator | legacyPackages.x86_64-linux.typstPackages.cvssc |
 | typst-package-cvssc | 0.1.1 | Common Vulnerability Scoring System Calculator | legacyPackages.x86_64-linux.typstPackages.cvssc_0_1_1 |
+| typst-package-cvssc | 0.2.0 | Common Vulnerability Scoring System (CVSS) calculator library for Typst. Supports CVSS 2.0, 3.0, 3.1, and 4.0 | legacyPackages.x86_64-linux.typstPackages.cvssc_0_2_0 |
+| typst-package-cvssc | 0.2.1 | Common Vulnerability Scoring System (CVSS) calculator library for Typst. Supports CVSS 2.0, 3.0, 3.1, and 4.0 | legacyPackages.x86_64-linux.typstPackages.cvssc |
+| typst-package-cvssc | 0.2.1 | Common Vulnerability Scoring System (CVSS) calculator library for Typst. Supports CVSS 2.0, 3.0, 3.1, and 4.0 | legacyPackages.x86_64-linux.typstPackages.cvssc_0_2_1 |
 | typst-package-cyberschool-errorteaplate | 0.1.10 | This is a template originaly made for the Cyberschool of Rennes, a Cybersecurity school | legacyPackages.x86_64-linux.typstPackages.cyberschool-errorteaplate_0_1_10 |
 | typst-package-cyberschool-errorteaplate | 0.1.11 | This is a template originaly made for the Cyberschool of Rennes, a Cybersecurity school | legacyPackages.x86_64-linux.typstPackages.cyberschool-errorteaplate_0_1_11 |
 | typst-package-cyberschool-errorteaplate | 0.1.12 | This is a template originaly made for the Cyberschool of Rennes, a Cybersecurity school | legacyPackages.x86_64-linux.typstPackages.cyberschool-errorteaplate_0_1_12 |
@@ -92435,8 +92562,9 @@
 | typst-package-dashy-todo | 0.0.3 | A method to display TODOs at the side of the page | legacyPackages.x86_64-linux.typstPackages.dashy-todo_0_0_3 |
 | typst-package-dashy-todo | 0.1.0 | A method to display TODOs at the side of the page | legacyPackages.x86_64-linux.typstPackages.dashy-todo_0_1_0 |
 | typst-package-dashy-todo | 0.1.1 | A method to display TODOs at the side of the page | legacyPackages.x86_64-linux.typstPackages.dashy-todo_0_1_1 |
-| typst-package-dashy-todo | 0.1.2 | A method to display TODOs at the side of the page | legacyPackages.x86_64-linux.typstPackages.dashy-todo |
 | typst-package-dashy-todo | 0.1.2 | A method to display TODOs at the side of the page | legacyPackages.x86_64-linux.typstPackages.dashy-todo_0_1_2 |
+| typst-package-dashy-todo | 0.1.3 | A method to display TODOs at the side of the page | legacyPackages.x86_64-linux.typstPackages.dashy-todo |
+| typst-package-dashy-todo | 0.1.3 | A method to display TODOs at the side of the page | legacyPackages.x86_64-linux.typstPackages.dashy-todo_0_1_3 |
 | typst-package-datify | 0.1.1 | Datify is a simple date package that allows users to format dates in new ways and addresses the issue of lacking date formats in different languages | legacyPackages.x86_64-linux.typstPackages.datify_0_1_1 |
 | typst-package-datify | 0.1.2 | Datify is a simple date package that allows users to format dates in new ways and addresses the issue of lacking date formats in different languages | legacyPackages.x86_64-linux.typstPackages.datify_0_1_2 |
 | typst-package-datify | 0.1.3 | Datify is a simple date package that allows users to format dates in new ways and addresses the issue of lacking date formats in different languages | legacyPackages.x86_64-linux.typstPackages.datify_0_1_3 |
@@ -92445,7 +92573,13 @@
 | typst-package-datify | 1.0.0 | Datify is a Typst package for flexible, locale-aware date formatting. It leverages datify-core for internationalization and supports CLDR-style date patterns | legacyPackages.x86_64-linux.typstPackages.datify_1_0_0 |
 | typst-package-datify-core | 1.0.0 | Localization data and date formatting patterns for Typst, powered by CLDR. Backend for Datify, reusable in any Typst project | legacyPackages.x86_64-linux.typstPackages.datify-core |
 | typst-package-datify-core | 1.0.0 | Localization data and date formatting patterns for Typst, powered by CLDR. Backend for Datify, reusable in any Typst project | legacyPackages.x86_64-linux.typstPackages.datify-core_1_0_0 |
+| typst-package-deal-us-tfc-template | 1.0.0 | Template for TFCs at ETSII directed by the DEAL group | legacyPackages.x86_64-linux.typstPackages.deal-us-tfc-template |
+| typst-package-deal-us-tfc-template | 1.0.0 | Template for TFCs at ETSII directed by the DEAL group | legacyPackages.x86_64-linux.typstPackages.deal-us-tfc-template_1_0_0 |
 | typst-package-decasify | 0.10.1 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify_0_10_1 |
+| typst-package-decasify | 0.10.2 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify_0_10_2 |
+| typst-package-decasify | 0.11.0 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify_0_11_0 |
+| typst-package-decasify | 0.11.1 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify_0_11_1 |
+| typst-package-decasify | 0.11.2 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify_0_11_2 |
 | typst-package-decasify | 0.9.0 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify_0_9_0 |
 | typst-package-decasify | 0.9.1 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify |
 | typst-package-decasify | 0.9.1 | Locale and style-guide aware text casing functions for natural language prose | legacyPackages.x86_64-linux.typstPackages.decasify_0_9_1 |
@@ -92468,15 +92602,18 @@
 | typst-package-definitely-not-tuw-thesis | 0.2.0 | An unofficial template for a thesis at the TU Wien informatics institute | legacyPackages.x86_64-linux.typstPackages.definitely-not-tuw-thesis_0_2_0 |
 | typst-package-delegis | 0.1.0 | A package and template for drafting legislative content in a German-style structuring, such as for bylaws, etc | legacyPackages.x86_64-linux.typstPackages.delegis_0_1_0 |
 | typst-package-delegis | 0.2.0 | A package and template for drafting legislative content in a German-style structuring, such as for bylaws, etc | legacyPackages.x86_64-linux.typstPackages.delegis_0_2_0 |
-| typst-package-delegis | 0.3.0 | A package and template for drafting legislative content in a German-style structuring, such as for bylaws, etc | legacyPackages.x86_64-linux.typstPackages.delegis |
 | typst-package-delegis | 0.3.0 | A package and template for drafting legislative content in a German-style structuring, such as for bylaws, etc | legacyPackages.x86_64-linux.typstPackages.delegis_0_3_0 |
+| typst-package-delegis | 0.4.0 | A package and template for drafting legislative content in a German-style structuring, such as for bylaws, etc | legacyPackages.x86_64-linux.typstPackages.delegis |
+| typst-package-delegis | 0.4.0 | A package and template for drafting legislative content in a German-style structuring, such as for bylaws, etc | legacyPackages.x86_64-linux.typstPackages.delegis_0_4_0 |
 | typst-package-delimitizer | 0.1.0 | Customize the size of delimiters. Like \big, \Big, \bigg, \Bigg in LaTeX | legacyPackages.x86_64-linux.typstPackages.delimitizer |
 | typst-package-delimitizer | 0.1.0 | Customize the size of delimiters. Like \big, \Big, \bigg, \Bigg in LaTeX | legacyPackages.x86_64-linux.typstPackages.delimitizer_0_1_0 |
 | typst-package-derive-it | 0.1.0 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it_0_1_0 |
 | typst-package-derive-it | 0.1.1 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it_0_1_1 |
 | typst-package-derive-it | 0.1.2 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it_0_1_2 |
-| typst-package-derive-it | 0.1.3 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it |
 | typst-package-derive-it | 0.1.3 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it_0_1_3 |
+| typst-package-derive-it | 1.0.0 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it_1_0_0 |
+| typst-package-derive-it | 1.1.0 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it |
+| typst-package-derive-it | 1.1.0 | Simple functions for creating fitch-style natural deduction proofs and derivations | legacyPackages.x86_64-linux.typstPackages.derive-it_1_1_0 |
 | typst-package-diagraph | 0.1.0 | Graphviz bindings for typst | legacyPackages.x86_64-linux.typstPackages.diagraph_0_1_0 |
 | typst-package-diagraph | 0.1.1 | Graphviz bindings for typst | legacyPackages.x86_64-linux.typstPackages.diagraph_0_1_1 |
 | typst-package-diagraph | 0.1.2 | Graphviz bindings for typst | legacyPackages.x86_64-linux.typstPackages.diagraph_0_1_2 |
@@ -92503,8 +92640,9 @@
 | typst-package-diatypst | 0.5.0 | easy slides in typst - sensible defaults, easy syntax, well styled | legacyPackages.x86_64-linux.typstPackages.diatypst_0_5_0 |
 | typst-package-diatypst | 0.6.0 | easy slides in typst - sensible defaults, easy syntax, well styled | legacyPackages.x86_64-linux.typstPackages.diatypst_0_6_0 |
 | typst-package-diatypst | 0.7.0 | easy slides in typst - sensible defaults, easy syntax, well styled | legacyPackages.x86_64-linux.typstPackages.diatypst_0_7_0 |
-| typst-package-diatypst | 0.7.1 | easy slides in typst - sensible defaults, easy syntax, well styled | legacyPackages.x86_64-linux.typstPackages.diatypst |
 | typst-package-diatypst | 0.7.1 | easy slides in typst - sensible defaults, easy syntax, well styled | legacyPackages.x86_64-linux.typstPackages.diatypst_0_7_1 |
+| typst-package-diatypst | 0.8.0 | easy slides in typst - sensible defaults, easy syntax, well styled | legacyPackages.x86_64-linux.typstPackages.diatypst |
+| typst-package-diatypst | 0.8.0 | easy slides in typst - sensible defaults, easy syntax, well styled | legacyPackages.x86_64-linux.typstPackages.diatypst_0_8_0 |
 | typst-package-dice | 1.0.0 | A versatile random number toolkit for Typst | legacyPackages.x86_64-linux.typstPackages.dice |
 | typst-package-dice | 1.0.0 | A versatile random number toolkit for Typst | legacyPackages.x86_64-linux.typstPackages.dice_1_0_0 |
 | typst-package-digestify | 0.1.0 | A blazing fast cryptographic hash package for Typst, powered by WebAssembly | legacyPackages.x86_64-linux.typstPackages.digestify |
@@ -92549,8 +92687,11 @@
 | typst-package-echarm | 0.1.1 | Run echarts in typst with the use of CtxJS | legacyPackages.x86_64-linux.typstPackages.echarm_0_1_1 |
 | typst-package-echarm | 0.2.0 | Run echarts in typst with the use of CtxJS | legacyPackages.x86_64-linux.typstPackages.echarm_0_2_0 |
 | typst-package-echarm | 0.2.1 | Run echarts in typst with the use of CtxJS | legacyPackages.x86_64-linux.typstPackages.echarm_0_2_1 |
-| typst-package-echarm | 0.3.0 | Run echarts in typst with the use of CtxJS | legacyPackages.x86_64-linux.typstPackages.echarm |
 | typst-package-echarm | 0.3.0 | Run echarts in typst with the use of CtxJS | legacyPackages.x86_64-linux.typstPackages.echarm_0_3_0 |
+| typst-package-echarm | 0.3.1 | Run echarts in typst with the use of CtxJS | legacyPackages.x86_64-linux.typstPackages.echarm |
+| typst-package-echarm | 0.3.1 | Run echarts in typst with the use of CtxJS | legacyPackages.x86_64-linux.typstPackages.echarm_0_3_1 |
+| typst-package-ecnu-math-hwk | 0.1.0 | ECNU 作业解答模板 推荐是 Problem-Solution/Proof 的形式 | legacyPackages.x86_64-linux.typstPackages.ecnu-math-hwk |
+| typst-package-ecnu-math-hwk | 0.1.0 | ECNU 作业解答模板 推荐是 Problem-Solution/Proof 的形式 | legacyPackages.x86_64-linux.typstPackages.ecnu-math-hwk_0_1_0 |
 | typst-package-edgeframe | 0.1.0 | For quick paper setups | legacyPackages.x86_64-linux.typstPackages.edgeframe |
 | typst-package-edgeframe | 0.1.0 | For quick paper setups | legacyPackages.x86_64-linux.typstPackages.edgeframe_0_1_0 |
 | typst-package-eeaabb | 0.1.0 | Extract element AABBs and inspect sizes | legacyPackages.x86_64-linux.typstPackages.eeaabb |
@@ -92561,10 +92702,13 @@
 | typst-package-efilrst | 0.3.1 | A simple referenceable list library for typst | legacyPackages.x86_64-linux.typstPackages.efilrst_0_3_1 |
 | typst-package-efilrst | 0.3.2 | A simple referenceable list library for typst | legacyPackages.x86_64-linux.typstPackages.efilrst |
 | typst-package-efilrst | 0.3.2 | A simple referenceable list library for typst | legacyPackages.x86_64-linux.typstPackages.efilrst_0_3_2 |
-| typst-package-efter-plugget | 0.1.0 | Lab report, essay and exam template for Typst | legacyPackages.x86_64-linux.typstPackages.efter-plugget |
 | typst-package-efter-plugget | 0.1.0 | Lab report, essay and exam template for Typst | legacyPackages.x86_64-linux.typstPackages.efter-plugget_0_1_0 |
-| typst-package-eggs | 0.1.0 | Linguistic examples with minimalist syntax | legacyPackages.x86_64-linux.typstPackages.eggs |
+| typst-package-efter-plugget | 0.1.1 | Lab report, essay and exam template for Typst | legacyPackages.x86_64-linux.typstPackages.efter-plugget |
+| typst-package-efter-plugget | 0.1.1 | Lab report, essay and exam template for Typst | legacyPackages.x86_64-linux.typstPackages.efter-plugget_0_1_1 |
 | typst-package-eggs | 0.1.0 | Linguistic examples with minimalist syntax | legacyPackages.x86_64-linux.typstPackages.eggs_0_1_0 |
+| typst-package-eggs | 0.2.0 | Linguistic examples with minimalist syntax | legacyPackages.x86_64-linux.typstPackages.eggs_0_2_0 |
+| typst-package-eggs | 0.3.0 | Linguistic examples with minimalist syntax | legacyPackages.x86_64-linux.typstPackages.eggs |
+| typst-package-eggs | 0.3.0 | Linguistic examples with minimalist syntax | legacyPackages.x86_64-linux.typstPackages.eggs_0_3_0 |
 | typst-package-electify | 0.1.0 | A German Election Ballot Paper helping visualize the dual-voting system (Erststimme & Zweitstimme | legacyPackages.x86_64-linux.typstPackages.electify_0_1_0 |
 | typst-package-electify | 0.1.1 | A German Election Ballot Paper helping visualize the dual-voting system (Erststimme & Zweitstimme | legacyPackages.x86_64-linux.typstPackages.electify |
 | typst-package-electify | 0.1.1 | A German Election Ballot Paper helping visualize the dual-voting system (Erststimme & Zweitstimme | legacyPackages.x86_64-linux.typstPackages.electify_0_1_1 |
@@ -92585,18 +92729,23 @@
 | typst-package-elsearticle | 0.4.1 | Conversion of the LaTeX elsearticle.cls | legacyPackages.x86_64-linux.typstPackages.elsearticle_0_4_1 |
 | typst-package-elsearticle | 0.4.2 | Conversion of the LaTeX elsearticle.cls | legacyPackages.x86_64-linux.typstPackages.elsearticle_0_4_2 |
 | typst-package-elsearticle | 0.4.3 | Conversion of the LaTeX elsearticle.cls | legacyPackages.x86_64-linux.typstPackages.elsearticle_0_4_3 |
-| typst-package-elsearticle | 1.0.0 | Conversion of the LaTeX elsearticle.cls | legacyPackages.x86_64-linux.typstPackages.elsearticle |
 | typst-package-elsearticle | 1.0.0 | Conversion of the LaTeX elsearticle.cls | legacyPackages.x86_64-linux.typstPackages.elsearticle_1_0_0 |
+| typst-package-elsearticle | 1.1.0 | Conversion of the LaTeX elsearticle.cls | legacyPackages.x86_64-linux.typstPackages.elsearticle |
+| typst-package-elsearticle | 1.1.0 | Conversion of the LaTeX elsearticle.cls | legacyPackages.x86_64-linux.typstPackages.elsearticle_1_1_0 |
 | typst-package-elsevier-replica | 0.1.0 | Elsevier article template for Typst | legacyPackages.x86_64-linux.typstPackages.elsevier-replica |
 | typst-package-elsevier-replica | 0.1.0 | Elsevier article template for Typst | legacyPackages.x86_64-linux.typstPackages.elsevier-replica_0_1_0 |
 | typst-package-elspub | 0.2.0 | Elsevier article template for Typst | legacyPackages.x86_64-linux.typstPackages.elspub |
 | typst-package-elspub | 0.2.0 | Elsevier article template for Typst | legacyPackages.x86_64-linux.typstPackages.elspub_0_2_0 |
 | typst-package-embiggen | 0.0.1 | LaTeX-like delimeter sizing in Typst | legacyPackages.x86_64-linux.typstPackages.embiggen |
 | typst-package-embiggen | 0.0.1 | LaTeX-like delimeter sizing in Typst | legacyPackages.x86_64-linux.typstPackages.embiggen_0_0_1 |
+| typst-package-energy-dia | 0.1.0 | Create atomic, molecular, and band structure energy diagrams | legacyPackages.x86_64-linux.typstPackages.energy-dia |
+| typst-package-energy-dia | 0.1.0 | Create atomic, molecular, and band structure energy diagrams | legacyPackages.x86_64-linux.typstPackages.energy-dia_0_1_0 |
 | typst-package-enja-bib | 0.1.0 | A package for handling BibTeX that includes both English and Japanese | legacyPackages.x86_64-linux.typstPackages.enja-bib |
 | typst-package-enja-bib | 0.1.0 | A package for handling BibTeX that includes both English and Japanese | legacyPackages.x86_64-linux.typstPackages.enja-bib_0_1_0 |
 | typst-package-ennui-ur-report | 0.1.0 | A customizable, non official template for University of Rennes | legacyPackages.x86_64-linux.typstPackages.ennui-ur-report |
 | typst-package-ennui-ur-report | 0.1.0 | A customizable, non official template for University of Rennes | legacyPackages.x86_64-linux.typstPackages.ennui-ur-report_0_1_0 |
+| typst-package-ens-rennes-presentation | 0.1.0 | Slides theme respecting the ENS Rennes graphical chart | legacyPackages.x86_64-linux.typstPackages.ens-rennes-presentation |
+| typst-package-ens-rennes-presentation | 0.1.0 | Slides theme respecting the ENS Rennes graphical chart | legacyPackages.x86_64-linux.typstPackages.ens-rennes-presentation_0_1_0 |
 | typst-package-enseeiht-internship-report | 0.1.0 | Unofficial Internship Report Template for ENSEEIHT | legacyPackages.x86_64-linux.typstPackages.enseeiht-internship-report |
 | typst-package-enseeiht-internship-report | 0.1.0 | Unofficial Internship Report Template for ENSEEIHT | legacyPackages.x86_64-linux.typstPackages.enseeiht-internship-report_0_1_0 |
 | typst-package-enunciado-facil-fcfm | 0.1.0 | Documentos de ejercicios (controles, auxiliares, tareas, pautas) para la FCFM, UChile | legacyPackages.x86_64-linux.typstPackages.enunciado-facil-fcfm |
@@ -92606,8 +92755,9 @@
 | typst-package-eqalc | 0.1.0 | Convert math equations to functions | legacyPackages.x86_64-linux.typstPackages.eqalc_0_1_0 |
 | typst-package-eqalc | 0.1.1 | Convert math equations to functions | legacyPackages.x86_64-linux.typstPackages.eqalc_0_1_1 |
 | typst-package-eqalc | 0.1.2 | Convert math equations to functions | legacyPackages.x86_64-linux.typstPackages.eqalc_0_1_2 |
-| typst-package-eqalc | 0.1.3 | Convert math equations to functions | legacyPackages.x86_64-linux.typstPackages.eqalc |
 | typst-package-eqalc | 0.1.3 | Convert math equations to functions | legacyPackages.x86_64-linux.typstPackages.eqalc_0_1_3 |
+| typst-package-eqalc | 0.1.4 | Convert math equations to functions | legacyPackages.x86_64-linux.typstPackages.eqalc |
+| typst-package-eqalc | 0.1.4 | Convert math equations to functions | legacyPackages.x86_64-linux.typstPackages.eqalc_0_1_4 |
 | typst-package-equate | 0.1.0 | Breakable equations with improved numbering | legacyPackages.x86_64-linux.typstPackages.equate_0_1_0 |
 | typst-package-equate | 0.2.0 | Breakable equations with improved numbering | legacyPackages.x86_64-linux.typstPackages.equate_0_2_0 |
 | typst-package-equate | 0.2.1 | Breakable equations with improved numbering | legacyPackages.x86_64-linux.typstPackages.equate_0_2_1 |
@@ -92616,8 +92766,9 @@
 | typst-package-equate | 0.3.2 | Various enhancements for mathematical expressions | legacyPackages.x86_64-linux.typstPackages.equate |
 | typst-package-equate | 0.3.2 | Various enhancements for mathematical expressions | legacyPackages.x86_64-linux.typstPackages.equate_0_3_2 |
 | typst-package-ergo | 0.1.0 | A suite of customizable block environments for ease of taking notes or doing problem sets in Mathematics, Computer Science, Physics, and more | legacyPackages.x86_64-linux.typstPackages.ergo_0_1_0 |
-| typst-package-ergo | 0.1.1 | A suite of customizable block environments for taking notes and doing problem sets, especially in Mathematics, Computer Science, and Physics | legacyPackages.x86_64-linux.typstPackages.ergo |
 | typst-package-ergo | 0.1.1 | A suite of customizable block environments for taking notes and doing problem sets, especially in Mathematics, Computer Science, and Physics | legacyPackages.x86_64-linux.typstPackages.ergo_0_1_1 |
+| typst-package-ergo | 0.2.0 | Customizable environments for note taking and homework assignments, designed for students in math, CS and physics | legacyPackages.x86_64-linux.typstPackages.ergo |
+| typst-package-ergo | 0.2.0 | Customizable environments for note taking and homework assignments, designed for students in math, CS and physics | legacyPackages.x86_64-linux.typstPackages.ergo_0_2_0 |
 | typst-package-esotefy | 1.0.0 | A brainfuck implementation in pure Typst | legacyPackages.x86_64-linux.typstPackages.esotefy |
 | typst-package-esotefy | 1.0.0 | A brainfuck implementation in pure Typst | legacyPackages.x86_64-linux.typstPackages.esotefy_1_0_0 |
 | typst-package-etykett | 0.1.0 | a template for printing onto label sheets with rectangular grids of labels | legacyPackages.x86_64-linux.typstPackages.etykett_0_1_0 |
@@ -92660,8 +92811,14 @@
 | typst-package-ezexam | 0.1.5 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam_0_1_5 |
 | typst-package-ezexam | 0.1.6 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam_0_1_6 |
 | typst-package-ezexam | 0.1.7 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam_0_1_7 |
-| typst-package-ezexam | 0.1.8 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam |
 | typst-package-ezexam | 0.1.8 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam_0_1_8 |
+| typst-package-ezexam | 0.1.9 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam_0_1_9 |
+| typst-package-ezexam | 0.2.0 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam_0_2_0 |
+| typst-package-ezexam | 0.2.1 | A exam and handouts template inspired by the LaTeX package exam-zh | legacyPackages.x86_64-linux.typstPackages.ezexam_0_2_1 |
+| typst-package-ezexam | 0.2.2 | A exam template inspired by the LaTeX package exam-zh. one more thing is can make handouts | legacyPackages.x86_64-linux.typstPackages.ezexam_0_2_2 |
+| typst-package-ezexam | 0.2.3 | An exam template inspired by the LaTeX package exam-zh and also can make handouts | legacyPackages.x86_64-linux.typstPackages.ezexam_0_2_3 |
+| typst-package-ezexam | 0.2.4 | An exam template inspired by the LaTeX package exam-zh and also can make handouts | legacyPackages.x86_64-linux.typstPackages.ezexam |
+| typst-package-ezexam | 0.2.4 | An exam template inspired by the LaTeX package exam-zh and also can make handouts | legacyPackages.x86_64-linux.typstPackages.ezexam_0_2_4 |
 | typst-package-fancy-affil | 0.1.0 | An auto affiliation tool | legacyPackages.x86_64-linux.typstPackages.fancy-affil |
 | typst-package-fancy-affil | 0.1.0 | An auto affiliation tool | legacyPackages.x86_64-linux.typstPackages.fancy-affil_0_1_0 |
 | typst-package-fancy-units | 0.1.0 | Format numbers and units with styling | legacyPackages.x86_64-linux.typstPackages.fancy-units_0_1_0 |
@@ -92683,13 +92840,15 @@
 | typst-package-fh-joanneum-iit-thesis | 2.0.2 | BA or MA thesis at FH JOANNEUM | legacyPackages.x86_64-linux.typstPackages.fh-joanneum-iit-thesis_2_0_2 |
 | typst-package-fh-joanneum-iit-thesis | 2.0.5 | BA or MA thesis at FH JOANNEUM | legacyPackages.x86_64-linux.typstPackages.fh-joanneum-iit-thesis_2_0_5 |
 | typst-package-fh-joanneum-iit-thesis | 2.1.2 | BA or MA thesis at FH JOANNEUM | legacyPackages.x86_64-linux.typstPackages.fh-joanneum-iit-thesis_2_1_2 |
-| typst-package-fh-joanneum-iit-thesis | 2.2.0 | BA or MA thesis at FH JOANNEUM | legacyPackages.x86_64-linux.typstPackages.fh-joanneum-iit-thesis |
 | typst-package-fh-joanneum-iit-thesis | 2.2.0 | BA or MA thesis at FH JOANNEUM | legacyPackages.x86_64-linux.typstPackages.fh-joanneum-iit-thesis_2_2_0 |
+| typst-package-fh-joanneum-iit-thesis | 2.3.0 | BA or MA thesis at FH JOANNEUM | legacyPackages.x86_64-linux.typstPackages.fh-joanneum-iit-thesis |
+| typst-package-fh-joanneum-iit-thesis | 2.3.0 | BA or MA thesis at FH JOANNEUM | legacyPackages.x86_64-linux.typstPackages.fh-joanneum-iit-thesis_2_3_0 |
 | typst-package-fibber | 0.1.0 | Draw microfabrication process diagrams in typst | legacyPackages.x86_64-linux.typstPackages.fibber |
 | typst-package-fibber | 0.1.0 | Draw microfabrication process diagrams in typst | legacyPackages.x86_64-linux.typstPackages.fibber_0_1_0 |
 | typst-package-fine-lncs | 0.1.0 | An Springer's Lecture Notes in Computer Science (LNCS) styled template | legacyPackages.x86_64-linux.typstPackages.fine-lncs_0_1_0 |
-| typst-package-fine-lncs | 0.2.0 | An Springer's Lecture Notes in Computer Science (LNCS) styled template | legacyPackages.x86_64-linux.typstPackages.fine-lncs |
 | typst-package-fine-lncs | 0.2.0 | An Springer's Lecture Notes in Computer Science (LNCS) styled template | legacyPackages.x86_64-linux.typstPackages.fine-lncs_0_2_0 |
+| typst-package-fine-lncs | 0.3.0 | An Springer's Lecture Notes in Computer Science (LNCS) styled template | legacyPackages.x86_64-linux.typstPackages.fine-lncs |
+| typst-package-fine-lncs | 0.3.0 | An Springer's Lecture Notes in Computer Science (LNCS) styled template | legacyPackages.x86_64-linux.typstPackages.fine-lncs_0_3_0 |
 | typst-package-finely-crafted-cv | 0.1.0 | A modern résumé/curriculum vitæ template with high attention to detail | legacyPackages.x86_64-linux.typstPackages.finely-crafted-cv_0_1_0 |
 | typst-package-finely-crafted-cv | 0.2.0 | A modern résumé/curriculum vitæ template with high attention to detail | legacyPackages.x86_64-linux.typstPackages.finely-crafted-cv_0_2_0 |
 | typst-package-finely-crafted-cv | 0.3.0 | A modern résumé/curriculum vitæ template with high attention to detail | legacyPackages.x86_64-linux.typstPackages.finely-crafted-cv |
@@ -92737,6 +92896,8 @@
 | typst-package-flow | 0.3.1 | A few templates and too many scattered utils | legacyPackages.x86_64-linux.typstPackages.flow_0_3_1 |
 | typst-package-flow | 0.3.2 | A few templates and too many scattered utils | legacyPackages.x86_64-linux.typstPackages.flow |
 | typst-package-flow | 0.3.2 | A few templates and too many scattered utils | legacyPackages.x86_64-linux.typstPackages.flow_0_3_2 |
+| typst-package-flow-way | 0.1.0 | A simple Typst template for creating awesome notes and documents | legacyPackages.x86_64-linux.typstPackages.flow-way |
+| typst-package-flow-way | 0.1.0 | A simple Typst template for creating awesome notes and documents | legacyPackages.x86_64-linux.typstPackages.flow-way_0_1_0 |
 | typst-package-flyingcircus | 3.0.0 | For creating homebrew documents with the same fancy style as the Flying Circus book? Provides simple commands to generate a whole aircraft stat page, vehicle, or even ship | legacyPackages.x86_64-linux.typstPackages.flyingcircus_3_0_0 |
 | typst-package-flyingcircus | 3.2.0 | For creating homebrew documents with the same fancy style as the Flying Circus book? Provides simple commands to generate a whole aircraft stat page, vehicle, or even ship | legacyPackages.x86_64-linux.typstPackages.flyingcircus_3_2_0 |
 | typst-package-flyingcircus | 3.2.1 | For creating homebrew documents with the same fancy style as the Flying Circus book? Provides simple commands to generate a whole aircraft stat page, vehicle, or even ship | legacyPackages.x86_64-linux.typstPackages.flyingcircus_3_2_1 |
@@ -92751,12 +92912,15 @@
 | typst-package-fontawesome | 0.5.0 | A Typst library for Font Awesome icons through the desktop fonts | legacyPackages.x86_64-linux.typstPackages.fontawesome_0_5_0 |
 | typst-package-fontawesome | 0.6.0 | A Typst library for Font Awesome icons through the desktop fonts | legacyPackages.x86_64-linux.typstPackages.fontawesome |
 | typst-package-fontawesome | 0.6.0 | A Typst library for Font Awesome icons through the desktop fonts | legacyPackages.x86_64-linux.typstPackages.fontawesome_0_6_0 |
+| typst-package-formal | 0.1.0 | Elegant documents for academic and professional use | legacyPackages.x86_64-linux.typstPackages.formal |
+| typst-package-formal | 0.1.0 | Elegant documents for academic and professional use | legacyPackages.x86_64-linux.typstPackages.formal_0_1_0 |
 | typst-package-formalettre | 0.1.0 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre_0_1_0 |
 | typst-package-formalettre | 0.1.1 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre_0_1_1 |
 | typst-package-formalettre | 0.1.2 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre_0_1_2 |
 | typst-package-formalettre | 0.1.3 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre_0_1_3 |
-| typst-package-formalettre | 0.2.0 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre |
 | typst-package-formalettre | 0.2.0 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre_0_2_0 |
+| typst-package-formalettre | 0.3.0 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre |
+| typst-package-formalettre | 0.3.0 | French formal letter template | legacyPackages.x86_64-linux.typstPackages.formalettre_0_3_0 |
 | typst-package-frackable | 0.1.0 | Vulgar Fractions | legacyPackages.x86_64-linux.typstPackages.frackable_0_1_0 |
 | typst-package-frackable | 0.2.0 | Vulgar Fractions | legacyPackages.x86_64-linux.typstPackages.frackable |
 | typst-package-frackable | 0.2.0 | Vulgar Fractions | legacyPackages.x86_64-linux.typstPackages.frackable_0_2_0 |
@@ -92776,6 +92940,8 @@
 | typst-package-frame-it | 1.1.2 | Beautiful, flexible, and integrated. Display custom frames for theorems, environments, and more. Attractive visuals with syntax that blends seamlessly into the source | legacyPackages.x86_64-linux.typstPackages.frame-it_1_1_2 |
 | typst-package-frame-it | 1.2.0 | Beautiful, flexible, and integrated. Display custom frames for theorems, environments, and more. Attractive visuals with syntax that blends seamlessly into the source | legacyPackages.x86_64-linux.typstPackages.frame-it |
 | typst-package-frame-it | 1.2.0 | Beautiful, flexible, and integrated. Display custom frames for theorems, environments, and more. Attractive visuals with syntax that blends seamlessly into the source | legacyPackages.x86_64-linux.typstPackages.frame-it_1_2_0 |
+| typst-package-free-cv | 1.0.0 | Spacious and colorful CV using YAML and fontawesome | legacyPackages.x86_64-linux.typstPackages.free-cv |
+| typst-package-free-cv | 1.0.0 | Spacious and colorful CV using YAML and fontawesome | legacyPackages.x86_64-linux.typstPackages.free-cv_1_0_0 |
 | typst-package-friendly-polylux | 0.1.0 | Friendly and playful template for Polylux | legacyPackages.x86_64-linux.typstPackages.friendly-polylux |
 | typst-package-friendly-polylux | 0.1.0 | Friendly and playful template for Polylux | legacyPackages.x86_64-linux.typstPackages.friendly-polylux_0_1_0 |
 | typst-package-frogst | 1.0.0 | Literal naming of numbers in French | legacyPackages.x86_64-linux.typstPackages.frogst |
@@ -92812,8 +92978,10 @@
 | typst-package-gantty | 0.1.0 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty_0_1_0 |
 | typst-package-gantty | 0.2.0 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty_0_2_0 |
 | typst-package-gantty | 0.3.0 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty_0_3_0 |
-| typst-package-gantty | 0.4.0 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty |
 | typst-package-gantty | 0.4.0 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty_0_4_0 |
+| typst-package-gantty | 0.5.0 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty_0_5_0 |
+| typst-package-gantty | 0.5.1 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty |
+| typst-package-gantty | 0.5.1 | Create gantt charts using datetimes | legacyPackages.x86_64-linux.typstPackages.gantty_0_5_1 |
 | typst-package-genealotree | 0.1.0 | A package to draw genealogical trees, based on CeTZ | legacyPackages.x86_64-linux.typstPackages.genealotree_0_1_0 |
 | typst-package-genealotree | 0.2.0 | A package to draw genealogical trees, based on CeTZ | legacyPackages.x86_64-linux.typstPackages.genealotree_0_2_0 |
 | typst-package-genealotree | 0.3.0 | A package to draw genealogical trees, based on CeTZ | legacyPackages.x86_64-linux.typstPackages.genealotree |
@@ -92835,6 +93003,8 @@
 | typst-package-georges-yetyp | 0.1.0 | Unofficial template for Polytech Grenoble internship reports | legacyPackages.x86_64-linux.typstPackages.georges-yetyp_0_1_0 |
 | typst-package-georges-yetyp | 0.2.0 | Unofficial template for Polytech Grenoble internship reports | legacyPackages.x86_64-linux.typstPackages.georges-yetyp |
 | typst-package-georges-yetyp | 0.2.0 | Unofficial template for Polytech Grenoble internship reports | legacyPackages.x86_64-linux.typstPackages.georges-yetyp_0_2_0 |
+| typst-package-gibz-script | 0.1.0 | Template and components (tasks, hints, supplementary, code box) with DE/EN i18n and a clean flat API to be used at GIBZ for creating teaching materials | legacyPackages.x86_64-linux.typstPackages.gibz-script |
+| typst-package-gibz-script | 0.1.0 | Template and components (tasks, hints, supplementary, code box) with DE/EN i18n and a clean flat API to be used at GIBZ for creating teaching materials | legacyPackages.x86_64-linux.typstPackages.gibz-script_0_1_0 |
 | typst-package-gloat | 0.1.0 | Academic CV for the natural sciences | legacyPackages.x86_64-linux.typstPackages.gloat |
 | typst-package-gloat | 0.1.0 | Academic CV for the natural sciences | legacyPackages.x86_64-linux.typstPackages.gloat_0_1_0 |
 | typst-package-gloss-awe | 0.0.3 | An Awesome Glossary for Typst | legacyPackages.x86_64-linux.typstPackages.gloss-awe_0_0_3 |
@@ -92878,8 +93048,9 @@
 | typst-package-glossy | 0.5.2 | A very simple glossary system with easily customizable output | legacyPackages.x86_64-linux.typstPackages.glossy_0_5_2 |
 | typst-package-glossy | 0.6.0 | A very simple glossary system with easily customizable output | legacyPackages.x86_64-linux.typstPackages.glossy_0_6_0 |
 | typst-package-glossy | 0.7.0 | A very simple glossary system with easily customizable output | legacyPackages.x86_64-linux.typstPackages.glossy_0_7_0 |
-| typst-package-glossy | 0.8.0 | A very simple glossary system with easily customizable output | legacyPackages.x86_64-linux.typstPackages.glossy |
 | typst-package-glossy | 0.8.0 | A very simple glossary system with easily customizable output | legacyPackages.x86_64-linux.typstPackages.glossy_0_8_0 |
+| typst-package-glossy | 0.9.0 | A very simple glossary system with easily customizable output | legacyPackages.x86_64-linux.typstPackages.glossy |
+| typst-package-glossy | 0.9.0 | A very simple glossary system with easily customizable output | legacyPackages.x86_64-linux.typstPackages.glossy_0_9_0 |
 | typst-package-gqe-lemoulon-presentation | 0.0.4 | Quickly generate slides for a GQE-Le moulon presentation | legacyPackages.x86_64-linux.typstPackages.gqe-lemoulon-presentation_0_0_4 |
 | typst-package-gqe-lemoulon-presentation | 0.0.5 | Quickly generate slides for a GQE-Le moulon presentation | legacyPackages.x86_64-linux.typstPackages.gqe-lemoulon-presentation_0_0_5 |
 | typst-package-gqe-lemoulon-presentation | 0.0.6 | Quickly generate slides for a GQE-Le moulon presentation | legacyPackages.x86_64-linux.typstPackages.gqe-lemoulon-presentation |
@@ -92943,17 +93114,22 @@
 | typst-package-hagakiii | 0.1.0 | Print address labels on Japanese postcards | legacyPackages.x86_64-linux.typstPackages.hagakiii_0_1_0 |
 | typst-package-hallon | 0.1.0 | Utility functions for Typst | legacyPackages.x86_64-linux.typstPackages.hallon_0_1_0 |
 | typst-package-hallon | 0.1.1 | Utility functions for Typst | legacyPackages.x86_64-linux.typstPackages.hallon_0_1_1 |
-| typst-package-hallon | 0.1.2 | Utility functions for Typst | legacyPackages.x86_64-linux.typstPackages.hallon |
 | typst-package-hallon | 0.1.2 | Utility functions for Typst | legacyPackages.x86_64-linux.typstPackages.hallon_0_1_2 |
+| typst-package-hallon | 0.1.3 | Utility functions for Typst | legacyPackages.x86_64-linux.typstPackages.hallon |
+| typst-package-hallon | 0.1.3 | Utility functions for Typst | legacyPackages.x86_64-linux.typstPackages.hallon_0_1_3 |
 | typst-package-hamnosys-includer | 0.1.0 | For using HamNoSys in Typst | legacyPackages.x86_64-linux.typstPackages.hamnosys-includer_0_1_0 |
 | typst-package-hamnosys-includer | 1.0.0 | For using HamNoSys in Typst | legacyPackages.x86_64-linux.typstPackages.hamnosys-includer |
 | typst-package-hamnosys-includer | 1.0.0 | For using HamNoSys in Typst | legacyPackages.x86_64-linux.typstPackages.hamnosys-includer_1_0_0 |
-| typst-package-hand-in | 1.0.0 | Clean and minimalist assignment | legacyPackages.x86_64-linux.typstPackages.hand-in |
 | typst-package-hand-in | 1.0.0 | Clean and minimalist assignment | legacyPackages.x86_64-linux.typstPackages.hand-in_1_0_0 |
+| typst-package-hand-in | 1.0.1 | Clean and minimalist assignment | legacyPackages.x86_64-linux.typstPackages.hand-in_1_0_1 |
+| typst-package-hand-in | 1.1.0 | Clean and minimalist assignment | legacyPackages.x86_64-linux.typstPackages.hand-in |
+| typst-package-hand-in | 1.1.0 | Clean and minimalist assignment | legacyPackages.x86_64-linux.typstPackages.hand-in_1_1_0 |
 | typst-package-handy-dora | 0.1.0 | Handy-dora is a package visualizing mahjong tiles. It's powered by wasm and Riichi-hand-rs | legacyPackages.x86_64-linux.typstPackages.handy-dora |
 | typst-package-handy-dora | 0.1.0 | Handy-dora is a package visualizing mahjong tiles. It's powered by wasm and Riichi-hand-rs | legacyPackages.x86_64-linux.typstPackages.handy-dora_0_1_0 |
 | typst-package-hane | 0.1.0 | Draws go/baduk/weiqi diagrams | legacyPackages.x86_64-linux.typstPackages.hane |
 | typst-package-hane | 0.1.0 | Draws go/baduk/weiqi diagrams | legacyPackages.x86_64-linux.typstPackages.hane_0_1_0 |
+| typst-package-hannes-thesis | 0.1.0 | An academic template, designed for final reports, Bachelor theses, and Master theses | legacyPackages.x86_64-linux.typstPackages.hannes-thesis |
+| typst-package-hannes-thesis | 0.1.0 | An academic template, designed for final reports, Bachelor theses, and Master theses | legacyPackages.x86_64-linux.typstPackages.hannes-thesis_0_1_0 |
 | typst-package-hanzi-calligraphy | 0.1.0 | 用于书法练习的田字格模板。A calligraphy practice template | legacyPackages.x86_64-linux.typstPackages.hanzi-calligraphy |
 | typst-package-hanzi-calligraphy | 0.1.0 | 用于书法练习的田字格模板。A calligraphy practice template | legacyPackages.x86_64-linux.typstPackages.hanzi-calligraphy_0_1_0 |
 | typst-package-harvard-gsas-thesis-oat | 0.1.0 | PhD Thesis template for Harvard GSAS (Graduate School of Arts and Sciences | legacyPackages.x86_64-linux.typstPackages.harvard-gsas-thesis-oat_0_1_0 |
@@ -92972,8 +93148,11 @@
 | typst-package-haw-hamburg | 0.5.0 | Unofficial template for writing a report or thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg_0_5_0 |
 | typst-package-haw-hamburg | 0.5.1 | Unofficial template for writing a report or thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg_0_5_1 |
 | typst-package-haw-hamburg | 0.6.0 | Unofficial template for writing a report or thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg_0_6_0 |
-| typst-package-haw-hamburg | 0.6.1 | Unofficial template for writing a report or thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg |
 | typst-package-haw-hamburg | 0.6.1 | Unofficial template for writing a report or thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg_0_6_1 |
+| typst-package-haw-hamburg | 0.6.2 | Unofficial template for writing a report or thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg_0_6_2 |
+| typst-package-haw-hamburg | 0.7.0 | Unofficial template for writing a report or thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg_0_7_0 |
+| typst-package-haw-hamburg | 0.8.0 | Unofficial template for writing a report or thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg |
+| typst-package-haw-hamburg | 0.8.0 | Unofficial template for writing a report or thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg_0_8_0 |
 | typst-package-haw-hamburg-bachelor-thesis | 0.3.0 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_3_0 |
 | typst-package-haw-hamburg-bachelor-thesis | 0.3.1 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_3_1 |
 | typst-package-haw-hamburg-bachelor-thesis | 0.3.3 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_3_3 |
@@ -92981,8 +93160,11 @@
 | typst-package-haw-hamburg-bachelor-thesis | 0.5.0 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_5_0 |
 | typst-package-haw-hamburg-bachelor-thesis | 0.5.1 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_5_1 |
 | typst-package-haw-hamburg-bachelor-thesis | 0.6.0 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_6_0 |
-| typst-package-haw-hamburg-bachelor-thesis | 0.6.1 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis |
 | typst-package-haw-hamburg-bachelor-thesis | 0.6.1 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_6_1 |
+| typst-package-haw-hamburg-bachelor-thesis | 0.6.2 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_6_2 |
+| typst-package-haw-hamburg-bachelor-thesis | 0.7.0 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_7_0 |
+| typst-package-haw-hamburg-bachelor-thesis | 0.8.0 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis |
+| typst-package-haw-hamburg-bachelor-thesis | 0.8.0 | Unofficial template for writing a bachelor-thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-bachelor-thesis_0_8_0 |
 | typst-package-haw-hamburg-master-thesis | 0.3.0 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_3_0 |
 | typst-package-haw-hamburg-master-thesis | 0.3.1 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_3_1 |
 | typst-package-haw-hamburg-master-thesis | 0.3.3 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_3_3 |
@@ -92990,8 +93172,11 @@
 | typst-package-haw-hamburg-master-thesis | 0.5.0 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_5_0 |
 | typst-package-haw-hamburg-master-thesis | 0.5.1 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_5_1 |
 | typst-package-haw-hamburg-master-thesis | 0.6.0 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_6_0 |
-| typst-package-haw-hamburg-master-thesis | 0.6.1 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis |
 | typst-package-haw-hamburg-master-thesis | 0.6.1 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_6_1 |
+| typst-package-haw-hamburg-master-thesis | 0.6.2 | Unofficial template for writing a master-thesis in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_6_2 |
+| typst-package-haw-hamburg-master-thesis | 0.7.0 | Unofficial template for writing a master-thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_7_0 |
+| typst-package-haw-hamburg-master-thesis | 0.8.0 | Unofficial template for writing a master-thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis |
+| typst-package-haw-hamburg-master-thesis | 0.8.0 | Unofficial template for writing a master-thesis in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-master-thesis_0_8_0 |
 | typst-package-haw-hamburg-report | 0.3.0 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_3_0 |
 | typst-package-haw-hamburg-report | 0.3.1 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_3_1 |
 | typst-package-haw-hamburg-report | 0.3.3 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_3_3 |
@@ -92999,8 +93184,11 @@
 | typst-package-haw-hamburg-report | 0.5.0 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_5_0 |
 | typst-package-haw-hamburg-report | 0.5.1 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_5_1 |
 | typst-package-haw-hamburg-report | 0.6.0 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_6_0 |
-| typst-package-haw-hamburg-report | 0.6.1 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report |
 | typst-package-haw-hamburg-report | 0.6.1 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_6_1 |
+| typst-package-haw-hamburg-report | 0.6.2 | Unofficial template for writing a report in the HAW Hamburg department of Computer Science design | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_6_2 |
+| typst-package-haw-hamburg-report | 0.7.0 | Unofficial template for writing a report in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_7_0 |
+| typst-package-haw-hamburg-report | 0.8.0 | Unofficial template for writing a report in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report |
+| typst-package-haw-hamburg-report | 0.8.0 | Unofficial template for writing a report in the HAW Hamburg Faculty of Computer Science and Digital Society style | legacyPackages.x86_64-linux.typstPackages.haw-hamburg-report_0_8_0 |
 | typst-package-headcount | 0.1.0 | Make counters inherit from the heading counter | legacyPackages.x86_64-linux.typstPackages.headcount |
 | typst-package-headcount | 0.1.0 | Make counters inherit from the heading counter | legacyPackages.x86_64-linux.typstPackages.headcount_0_1_0 |
 | typst-package-hei-synd-report | 0.1.0 | A report and project template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-report_0_1_0 |
@@ -93010,11 +93198,13 @@
 | typst-package-hei-synd-thesis | 0.1.1 | A thesis template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-thesis_0_1_1 |
 | typst-package-hei-synd-thesis | 0.2.0 | A thesis template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-thesis_0_2_0 |
 | typst-package-hei-synd-thesis | 0.2.1 | A thesis template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-thesis_0_2_1 |
-| typst-package-hei-synd-thesis | 0.2.2 | A thesis template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-thesis |
 | typst-package-hei-synd-thesis | 0.2.2 | A thesis template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-thesis_0_2_2 |
+| typst-package-hei-synd-thesis | 0.2.3 | A thesis template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-thesis |
+| typst-package-hei-synd-thesis | 0.2.3 | A thesis template tailored to the Systems Engineering (Synd) program at the HEI-Vs School of Engineering, Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.hei-synd-thesis_0_2_3 |
 | typst-package-herodot | 0.1.0 | A package for making linear timelines, inspired by chronology | legacyPackages.x86_64-linux.typstPackages.herodot_0_1_0 |
-| typst-package-herodot | 0.2.0 | A package for making linear timelines, inspired by chronology | legacyPackages.x86_64-linux.typstPackages.herodot |
 | typst-package-herodot | 0.2.0 | A package for making linear timelines, inspired by chronology | legacyPackages.x86_64-linux.typstPackages.herodot_0_2_0 |
+| typst-package-herodot | 0.3.0 | A package for making linear timelines, inspired by chronology | legacyPackages.x86_64-linux.typstPackages.herodot |
+| typst-package-herodot | 0.3.0 | A package for making linear timelines, inspired by chronology | legacyPackages.x86_64-linux.typstPackages.herodot_0_3_0 |
 | typst-package-heroic | 0.1.0 | Use Heroicons in Typst | legacyPackages.x86_64-linux.typstPackages.heroic |
 | typst-package-heroic | 0.1.0 | Use Heroicons in Typst | legacyPackages.x86_64-linux.typstPackages.heroic_0_1_0 |
 | typst-package-hetvid | 0.1.0 | A template for light notes | legacyPackages.x86_64-linux.typstPackages.hetvid |
@@ -93034,11 +93224,14 @@
 | typst-package-htlwienwest-da | 0.3.2 | The diploma thesis template for students of the HTL Wien West | legacyPackages.x86_64-linux.typstPackages.htlwienwest-da_0_3_2 |
 | typst-package-htlwienwest-da | 0.3.3 | The diploma thesis template for students of the HTL Wien West | legacyPackages.x86_64-linux.typstPackages.htlwienwest-da |
 | typst-package-htlwienwest-da | 0.3.3 | The diploma thesis template for students of the HTL Wien West | legacyPackages.x86_64-linux.typstPackages.htlwienwest-da_0_3_3 |
+| typst-package-humanistically | 0.1.0 | A clean and minimal template for an academic CV in the humanities | legacyPackages.x86_64-linux.typstPackages.humanistically |
+| typst-package-humanistically | 0.1.0 | A clean and minimal template for an academic CV in the humanities | legacyPackages.x86_64-linux.typstPackages.humanistically_0_1_0 |
 | typst-package-humble-dtu-thesis | 0.1.0 | DTU Thesis Template for Typst | legacyPackages.x86_64-linux.typstPackages.humble-dtu-thesis |
 | typst-package-humble-dtu-thesis | 0.1.0 | DTU Thesis Template for Typst | legacyPackages.x86_64-linux.typstPackages.humble-dtu-thesis_0_1_0 |
 | typst-package-hy-dro-gen | 0.1.0 | Word hyphenation via bindings to typst/hypher | legacyPackages.x86_64-linux.typstPackages.hy-dro-gen_0_1_0 |
-| typst-package-hy-dro-gen | 0.1.1 | Word hyphenation via bindings to typst/hypher | legacyPackages.x86_64-linux.typstPackages.hy-dro-gen |
 | typst-package-hy-dro-gen | 0.1.1 | Word hyphenation via bindings to typst/hypher | legacyPackages.x86_64-linux.typstPackages.hy-dro-gen_0_1_1 |
+| typst-package-hy-dro-gen | 0.1.2 | Word hyphenation via bindings to typst/hypher | legacyPackages.x86_64-linux.typstPackages.hy-dro-gen |
+| typst-package-hy-dro-gen | 0.1.2 | Word hyphenation via bindings to typst/hypher | legacyPackages.x86_64-linux.typstPackages.hy-dro-gen_0_1_2 |
 | typst-package-hydra | 0.1.0 | Query and display headings of the currently active section | legacyPackages.x86_64-linux.typstPackages.hydra_0_1_0 |
 | typst-package-hydra | 0.2.0 | Query and display headings of the currently active section | legacyPackages.x86_64-linux.typstPackages.hydra_0_2_0 |
 | typst-package-hydra | 0.3.0 | Query and display headings of the currently active section | legacyPackages.x86_64-linux.typstPackages.hydra_0_3_0 |
@@ -93084,6 +93277,8 @@
 | typst-package-icu-datetime | 0.1.2 | Date and time formatting using ICU4X via WASM | legacyPackages.x86_64-linux.typstPackages.icu-datetime_0_1_2 |
 | typst-package-icu-datetime | 0.2.0 | Date and time formatting using ICU4X via WASM | legacyPackages.x86_64-linux.typstPackages.icu-datetime |
 | typst-package-icu-datetime | 0.2.0 | Date and time formatting using ICU4X via WASM | legacyPackages.x86_64-linux.typstPackages.icu-datetime_0_2_0 |
+| typst-package-identified | 0.1.0 | Create IDEF diagrams in seconds | legacyPackages.x86_64-linux.typstPackages.identified |
+| typst-package-identified | 0.1.0 | Create IDEF diagrams in seconds | legacyPackages.x86_64-linux.typstPackages.identified_0_1_0 |
 | typst-package-idwtet | 0.2.0 | Package for uniform, correct and simplified typst code demonstration | legacyPackages.x86_64-linux.typstPackages.idwtet_0_2_0 |
 | typst-package-idwtet | 0.3.0 | Package for uniform, correct and simplified typst code demonstration | legacyPackages.x86_64-linux.typstPackages.idwtet |
 | typst-package-idwtet | 0.3.0 | Package for uniform, correct and simplified typst code demonstration | legacyPackages.x86_64-linux.typstPackages.idwtet_0_3_0 |
@@ -93092,8 +93287,9 @@
 | typst-package-ijimai | 0.0.1 | Template for writing articles for the International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI | legacyPackages.x86_64-linux.typstPackages.ijimai_0_0_1 |
 | typst-package-ijimai | 0.0.2 | Template for writing articles for the International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI | legacyPackages.x86_64-linux.typstPackages.ijimai_0_0_2 |
 | typst-package-ijimai | 0.0.3 | Template for writing articles for the International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI | legacyPackages.x86_64-linux.typstPackages.ijimai_0_0_3 |
-| typst-package-ijimai | 0.0.4 | Template for writing articles for the International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI | legacyPackages.x86_64-linux.typstPackages.ijimai |
 | typst-package-ijimai | 0.0.4 | Template for writing articles for the International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI | legacyPackages.x86_64-linux.typstPackages.ijimai_0_0_4 |
+| typst-package-ijimai | 1.0.0 | Template for writing articles for the International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI | legacyPackages.x86_64-linux.typstPackages.ijimai |
+| typst-package-ijimai | 1.0.0 | Template for writing articles for the International Journal of Interactive Multimedia and Artificial Intelligence (IJIMAI | legacyPackages.x86_64-linux.typstPackages.ijimai_1_0_0 |
 | typst-package-illc-mol-thesis | 0.1.0 | Official Typst thesis template for Master of Logic students at the ILLC | legacyPackages.x86_64-linux.typstPackages.illc-mol-thesis_0_1_0 |
 | typst-package-illc-mol-thesis | 0.1.1 | Official Typst thesis template for Master of Logic students at the ILLC | legacyPackages.x86_64-linux.typstPackages.illc-mol-thesis_0_1_1 |
 | typst-package-illc-mol-thesis | 0.1.2 | Official Typst thesis template for Master of Logic students at the ILLC | legacyPackages.x86_64-linux.typstPackages.illc-mol-thesis_0_1_2 |
@@ -93113,8 +93309,9 @@
 | typst-package-ilm | 1.3.0 | Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books | legacyPackages.x86_64-linux.typstPackages.ilm_1_3_0 |
 | typst-package-ilm | 1.3.1 | Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books | legacyPackages.x86_64-linux.typstPackages.ilm_1_3_1 |
 | typst-package-ilm | 1.4.0 | Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books | legacyPackages.x86_64-linux.typstPackages.ilm_1_4_0 |
-| typst-package-ilm | 1.4.1 | Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books | legacyPackages.x86_64-linux.typstPackages.ilm |
 | typst-package-ilm | 1.4.1 | Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books | legacyPackages.x86_64-linux.typstPackages.ilm_1_4_1 |
+| typst-package-ilm | 1.4.2 | Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books | legacyPackages.x86_64-linux.typstPackages.ilm |
+| typst-package-ilm | 1.4.2 | Versatile and minimal template for non-fiction writing. Ideal for class notes, reports, and books | legacyPackages.x86_64-linux.typstPackages.ilm_1_4_2 |
 | typst-package-impaginato | 0.1.0 | A practical flyer to print and cut at home | legacyPackages.x86_64-linux.typstPackages.impaginato |
 | typst-package-impaginato | 0.1.0 | A practical flyer to print and cut at home | legacyPackages.x86_64-linux.typstPackages.impaginato_0_1_0 |
 | typst-package-imprecv | 1.0.0 | A no-frills curriculum vitae (CV) template using Typst and YAML to version control CV data | legacyPackages.x86_64-linux.typstPackages.imprecv_1_0_0 |
@@ -93143,8 +93340,13 @@
 | typst-package-indenta | 0.0.3 | Fix indent of first paragraph | legacyPackages.x86_64-linux.typstPackages.indenta_0_0_3 |
 | typst-package-indic-numerals | 0.1.0 | convert arabic numerals to indic numerals and vice versa | legacyPackages.x86_64-linux.typstPackages.indic-numerals |
 | typst-package-indic-numerals | 0.1.0 | convert arabic numerals to indic numerals and vice versa | legacyPackages.x86_64-linux.typstPackages.indic-numerals_0_1_0 |
-| typst-package-intextual | 0.1.0 | Flushed left/right text and individual line tagging in equations | legacyPackages.x86_64-linux.typstPackages.intextual |
+| typst-package-ineris-print | 0.1.0 | A document template using the design guidelines of French national institute for industrial environment and risks | legacyPackages.x86_64-linux.typstPackages.ineris-print |
+| typst-package-ineris-print | 0.1.0 | A document template using the design guidelines of French national institute for industrial environment and risks | legacyPackages.x86_64-linux.typstPackages.ineris-print_0_1_0 |
+| typst-package-ineris-slide | 0.1.0 | A presentation template using the design guidelines of the French institute for industrial environment and risks | legacyPackages.x86_64-linux.typstPackages.ineris-slide |
+| typst-package-ineris-slide | 0.1.0 | A presentation template using the design guidelines of the French institute for industrial environment and risks | legacyPackages.x86_64-linux.typstPackages.ineris-slide_0_1_0 |
 | typst-package-intextual | 0.1.0 | Flushed left/right text and individual line tagging in equations | legacyPackages.x86_64-linux.typstPackages.intextual_0_1_0 |
+| typst-package-intextual | 0.1.1 | Flushed left/right text and individual line tagging in equations | legacyPackages.x86_64-linux.typstPackages.intextual |
+| typst-package-intextual | 0.1.1 | Flushed left/right text and individual line tagging in equations | legacyPackages.x86_64-linux.typstPackages.intextual_0_1_1 |
 | typst-package-invicta-thesis | 1.0.0 | Master's thesis for Faculty of Engineering of University of Porto | legacyPackages.x86_64-linux.typstPackages.invicta-thesis |
 | typst-package-invicta-thesis | 1.0.0 | Master's thesis for Faculty of Engineering of University of Porto | legacyPackages.x86_64-linux.typstPackages.invicta-thesis_1_0_0 |
 | typst-package-invoice-maker | 1.1.0 | Generate beautiful invoices from a simple data record | legacyPackages.x86_64-linux.typstPackages.invoice-maker |
@@ -93154,6 +93356,8 @@
 | typst-package-ionio-illustrate | 0.2.0 | Mass spectra with annotations for typst | legacyPackages.x86_64-linux.typstPackages.ionio-illustrate_0_2_0 |
 | typst-package-iridis | 0.1.0 | A package to colors matching parenthesis | legacyPackages.x86_64-linux.typstPackages.iridis |
 | typst-package-iridis | 0.1.0 | A package to colors matching parenthesis | legacyPackages.x86_64-linux.typstPackages.iridis_0_1_0 |
+| typst-package-irif | 0.0.1 | Numerical methods for integration, differentiation and root finding | legacyPackages.x86_64-linux.typstPackages.irif |
+| typst-package-irif | 0.0.1 | Numerical methods for integration, differentiation and root finding | legacyPackages.x86_64-linux.typstPackages.irif_0_0_1 |
 | typst-package-isc-hei-bthesis | 0.5.0 | Official bachelor thesis at the 'Informatique et systèmes de communication' (ISC) bachelor degree programme at the School of Engineering (HEI) in Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.isc-hei-bthesis_0_5_0 |
 | typst-package-isc-hei-bthesis | 0.5.2 | Official bachelor thesis at the 'Informatique et systèmes de communication' (ISC) bachelor degree programme, School of Engineering (HEI) in Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.isc-hei-bthesis_0_5_2 |
 | typst-package-isc-hei-bthesis | 0.5.3 | Official bachelor thesis at the 'Informatique et systèmes de communication' (ISC) bachelor degree programme, School of Engineering (HEI) in Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.isc-hei-bthesis_0_5_3 |
@@ -93174,29 +93378,33 @@
 | typst-package-isc-hei-report | 0.6.0 | Official report at the 'Informatique et systèmes de communication' (ISC) bachelor degree programme, School of Engineering (HEI) in Sion, Switzerland | legacyPackages.x86_64-linux.typstPackages.isc-hei-report_0_6_0 |
 | typst-package-itemize | 0.1.0 | An easy way to customize enum and list | legacyPackages.x86_64-linux.typstPackages.itemize_0_1_0 |
 | typst-package-itemize | 0.1.1 | An easy way to customize enum and list | legacyPackages.x86_64-linux.typstPackages.itemize_0_1_1 |
-| typst-package-itemize | 0.1.2 | An easy way to customize enum and list | legacyPackages.x86_64-linux.typstPackages.itemize |
 | typst-package-itemize | 0.1.2 | An easy way to customize enum and list | legacyPackages.x86_64-linux.typstPackages.itemize_0_1_2 |
+| typst-package-itemize | 0.2.0 | An easy way to customize enum and list | legacyPackages.x86_64-linux.typstPackages.itemize |
+| typst-package-itemize | 0.2.0 | An easy way to customize enum and list | legacyPackages.x86_64-linux.typstPackages.itemize_0_2_0 |
 | typst-package-its-scripted | 0.1.0 | A template for writing movie/tv/theater-scripts in screenplay format | legacyPackages.x86_64-linux.typstPackages.its-scripted |
 | typst-package-its-scripted | 0.1.0 | A template for writing movie/tv/theater-scripts in screenplay format | legacyPackages.x86_64-linux.typstPackages.its-scripted_0_1_0 |
 | typst-package-iversymbols | 1.0.0 | Symbols definition for Iversonian languages | legacyPackages.x86_64-linux.typstPackages.iversymbols |
 | typst-package-iversymbols | 1.0.0 | Symbols definition for Iversonian languages | legacyPackages.x86_64-linux.typstPackages.iversymbols_1_0_0 |
 | typst-package-jabiz | 0.1.0 | Template for Japanese business documents. 日本語のビジネス文書テンプレート | legacyPackages.x86_64-linux.typstPackages.jabiz_0_1_0 |
-| typst-package-jabiz | 0.1.1 | Template for Japanese business documents. 日本語のビジネス文書テンプレート | legacyPackages.x86_64-linux.typstPackages.jabiz |
 | typst-package-jabiz | 0.1.1 | Template for Japanese business documents. 日本語のビジネス文書テンプレート | legacyPackages.x86_64-linux.typstPackages.jabiz_0_1_1 |
+| typst-package-jabiz | 0.1.2 | Template for Japanese business documents. 日本語のビジネス文書テンプレート | legacyPackages.x86_64-linux.typstPackages.jabiz |
+| typst-package-jabiz | 0.1.2 | Template for Japanese business documents. 日本語のビジネス文書テンプレート | legacyPackages.x86_64-linux.typstPackages.jabiz_0_1_2 |
 | typst-package-jaconf | 0.1.0 | Template for Japanese academic conference papers. 国内学会論文の日本語テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_1_0 |
 | typst-package-jaconf | 0.2.0 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_2_0 |
 | typst-package-jaconf | 0.3.0 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_3_0 |
 | typst-package-jaconf | 0.4.0 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_4_0 |
 | typst-package-jaconf | 0.4.1 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_4_1 |
 | typst-package-jaconf | 0.5.0 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_5_0 |
-| typst-package-jaconf | 0.5.1 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf |
 | typst-package-jaconf | 0.5.1 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_5_1 |
+| typst-package-jaconf | 0.6.0 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf |
+| typst-package-jaconf | 0.6.0 | Template for Japanese academic conference papers. 日本語の学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf_0_6_0 |
 | typst-package-jaconf-mscs | 0.1.0 | Template for Japanese conference paper of engineering. 工学系の日本語学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf-mscs_0_1_0 |
 | typst-package-jaconf-mscs | 0.1.1 | Template for Japanese conference paper of engineering. 工学系の日本語学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf-mscs |
 | typst-package-jaconf-mscs | 0.1.1 | Template for Japanese conference paper of engineering. 工学系の日本語学会論文テンプレート | legacyPackages.x86_64-linux.typstPackages.jaconf-mscs_0_1_1 |
 | typst-package-jastylest | 0.1.0 | You can set up style templates for writing reports, papers, and slides in Japanese. It works similarly to LaTeX | legacyPackages.x86_64-linux.typstPackages.jastylest_0_1_0 |
-| typst-package-jastylest | 0.1.1 | You can set up style templates for writing reports, papers, and slides in Japanese. It works similarly to LaTeX | legacyPackages.x86_64-linux.typstPackages.jastylest |
 | typst-package-jastylest | 0.1.1 | You can set up style templates for writing reports, papers, and slides in Japanese. It works similarly to LaTeX | legacyPackages.x86_64-linux.typstPackages.jastylest_0_1_1 |
+| typst-package-jastylest | 0.1.2 | You can set up style templates for writing reports, papers, and slides in Japanese. It works similarly to LaTeX | legacyPackages.x86_64-linux.typstPackages.jastylest |
+| typst-package-jastylest | 0.1.2 | You can set up style templates for writing reports, papers, and slides in Japanese. It works similarly to LaTeX | legacyPackages.x86_64-linux.typstPackages.jastylest_0_1_2 |
 | typst-package-jastylest-zh | 0.1.0 | Article optimized for Chinese typesetting | legacyPackages.x86_64-linux.typstPackages.jastylest-zh_0_1_0 |
 | typst-package-jastylest-zh | 0.1.1 | Article optimized for Chinese typesetting | legacyPackages.x86_64-linux.typstPackages.jastylest-zh |
 | typst-package-jastylest-zh | 0.1.1 | Article optimized for Chinese typesetting | legacyPackages.x86_64-linux.typstPackages.jastylest-zh_0_1_1 |
@@ -93209,6 +93417,8 @@
 | typst-package-jogs | 0.2.3 | QuickJS JavaScript runtime for Typst | legacyPackages.x86_64-linux.typstPackages.jogs_0_2_3 |
 | typst-package-jogs | 0.2.4 | QuickJS JavaScript runtime for Typst | legacyPackages.x86_64-linux.typstPackages.jogs |
 | typst-package-jogs | 0.2.4 | QuickJS JavaScript runtime for Typst | legacyPackages.x86_64-linux.typstPackages.jogs_0_2_4 |
+| typst-package-jotter-polylux | 0.1.0 | Handwritten notebook style template for Polylux | legacyPackages.x86_64-linux.typstPackages.jotter-polylux |
+| typst-package-jotter-polylux | 0.1.0 | Handwritten notebook style template for Polylux | legacyPackages.x86_64-linux.typstPackages.jotter-polylux_0_1_0 |
 | typst-package-js | 0.1.0 | Typst template based on LaTeX jsarticle/jsbook document classes | legacyPackages.x86_64-linux.typstPackages.js_0_1_0 |
 | typst-package-js | 0.1.1 | Typst template based on LaTeX jsarticle/jsbook document classes | legacyPackages.x86_64-linux.typstPackages.js_0_1_1 |
 | typst-package-js | 0.1.2 | Typst template based on LaTeX jsarticle/jsbook document classes | legacyPackages.x86_64-linux.typstPackages.js_0_1_2 |
@@ -93216,6 +93426,8 @@
 | typst-package-js | 0.1.3 | Typst template based on LaTeX jsarticle/jsbook document classes | legacyPackages.x86_64-linux.typstPackages.js_0_1_3 |
 | typst-package-jsonpath | 0.1.0 | jsonpath extracts values from dictionary or array using a JSONPath expression as per RFC 9535, except the filter syntax is different | legacyPackages.x86_64-linux.typstPackages.jsonpath |
 | typst-package-jsonpath | 0.1.0 | jsonpath extracts values from dictionary or array using a JSONPath expression as per RFC 9535, except the filter syntax is different | legacyPackages.x86_64-linux.typstPackages.jsonpath_0_1_0 |
+| typst-package-jsonschemeyst | 0.0.1 | jsonschema validator for typst | legacyPackages.x86_64-linux.typstPackages.jsonschemeyst |
+| typst-package-jsonschemeyst | 0.0.1 | jsonschema validator for typst | legacyPackages.x86_64-linux.typstPackages.jsonschemeyst_0_0_1 |
 | typst-package-jumble | 0.0.1 | A package providing some hash functions and related stuff | legacyPackages.x86_64-linux.typstPackages.jumble |
 | typst-package-jumble | 0.0.1 | A package providing some hash functions and related stuff | legacyPackages.x86_64-linux.typstPackages.jumble_0_0_1 |
 | typst-package-jurz | 0.1.0 | Randziffern in Typst | legacyPackages.x86_64-linux.typstPackages.jurz |
@@ -93225,12 +93437,18 @@
 | typst-package-juti | 0.0.2 | Template for writing articles for JUTI: Jurnal Ilmiah Teknologi Informasi | legacyPackages.x86_64-linux.typstPackages.juti_0_0_2 |
 | typst-package-k-mapper | 1.0.0 | A package to add Karnaugh maps into Typst projects | legacyPackages.x86_64-linux.typstPackages.k-mapper_1_0_0 |
 | typst-package-k-mapper | 1.1.0 | A package to add Karnaugh maps into Typst projects | legacyPackages.x86_64-linux.typstPackages.k-mapper_1_1_0 |
-| typst-package-k-mapper | 1.2.0 | A package to add Karnaugh maps into Typst projects | legacyPackages.x86_64-linux.typstPackages.k-mapper |
 | typst-package-k-mapper | 1.2.0 | A package to add Karnaugh maps into Typst projects | legacyPackages.x86_64-linux.typstPackages.k-mapper_1_2_0 |
+| typst-package-k-mapper | 1.3.0 | A package to add Karnaugh maps into Typst projects | legacyPackages.x86_64-linux.typstPackages.k-mapper |
+| typst-package-k-mapper | 1.3.0 | A package to add Karnaugh maps into Typst projects | legacyPackages.x86_64-linux.typstPackages.k-mapper_1_3_0 |
 | typst-package-kanjimo | 0.1.0 | Create charts with selected kanji for practicing | legacyPackages.x86_64-linux.typstPackages.kanjimo |
 | typst-package-kanjimo | 0.1.0 | Create charts with selected kanji for practicing | legacyPackages.x86_64-linux.typstPackages.kanjimo_0_1_0 |
+| typst-package-kantan | 0.1.0 | Easily create kanban boards with Typst | legacyPackages.x86_64-linux.typstPackages.kantan |
+| typst-package-kantan | 0.1.0 | Easily create kanban boards with Typst | legacyPackages.x86_64-linux.typstPackages.kantan_0_1_0 |
 | typst-package-kdl-unofficial-template | 0.1.0 | An unofficial template for community scenarios for the TTRPG 'KULT: divinity lost | legacyPackages.x86_64-linux.typstPackages.kdl-unofficial-template |
 | typst-package-kdl-unofficial-template | 0.1.0 | An unofficial template for community scenarios for the TTRPG 'KULT: divinity lost | legacyPackages.x86_64-linux.typstPackages.kdl-unofficial-template_0_1_0 |
+| typst-package-kebab-chart | 0.1.0 | Chart for temporal span representation | legacyPackages.x86_64-linux.typstPackages.kebab-chart_0_1_0 |
+| typst-package-kebab-chart | 0.2.0 | Chart for temporal span representation | legacyPackages.x86_64-linux.typstPackages.kebab-chart |
+| typst-package-kebab-chart | 0.2.0 | Chart for temporal span representation | legacyPackages.x86_64-linux.typstPackages.kebab-chart_0_2_0 |
 | typst-package-keyle | 0.1.0 | This package provides a simple way to style keyboard shortcuts in your documentation | legacyPackages.x86_64-linux.typstPackages.keyle_0_1_0 |
 | typst-package-keyle | 0.1.1 | This package provides a simple way to style keyboard shortcuts in your documentation | legacyPackages.x86_64-linux.typstPackages.keyle_0_1_1 |
 | typst-package-keyle | 0.2.0 | This package provides a simple way to style keyboard shortcuts in your documentation | legacyPackages.x86_64-linux.typstPackages.keyle |
@@ -93252,6 +93470,8 @@
 | typst-package-koma-labeling | 0.2.0 | This package introduces a labeling feature to Typst, inspired by the KOMA-Script's labeling environment | legacyPackages.x86_64-linux.typstPackages.koma-labeling_0_2_0 |
 | typst-package-komet | 0.1.0 | Selected high-performance computations for Typst | legacyPackages.x86_64-linux.typstPackages.komet |
 | typst-package-komet | 0.1.0 | Selected high-performance computations for Typst | legacyPackages.x86_64-linux.typstPackages.komet_0_1_0 |
+| typst-package-koty | 0.1.0 | Choose correct josa(particle) for a Korean word & format numbers in Korean | legacyPackages.x86_64-linux.typstPackages.koty |
+| typst-package-koty | 0.1.0 | Choose correct josa(particle) for a Korean word & format numbers in Korean | legacyPackages.x86_64-linux.typstPackages.koty_0_1_0 |
 | typst-package-kouhu | 0.1.0 | Chinese lipsum text generator; 中文乱数假文（Lorem Ipsum）生成器 | legacyPackages.x86_64-linux.typstPackages.kouhu_0_1_0 |
 | typst-package-kouhu | 0.1.1 | Chinese lipsum text generator; 中文乱数假文（Lorem Ipsum）生成器 | legacyPackages.x86_64-linux.typstPackages.kouhu_0_1_1 |
 | typst-package-kouhu | 0.2.0 | Chinese lipsum text generator; 中文乱数假文（Lorem Ipsum）生成器 | legacyPackages.x86_64-linux.typstPackages.kouhu |
@@ -93270,6 +93490,8 @@
 | typst-package-lacy-ubc-math-project | 0.2.0 | A UBC MATH 100/101 group project template | legacyPackages.x86_64-linux.typstPackages.lacy-ubc-math-project_0_2_0 |
 | typst-package-lambdabus | 0.1.0 | Easily parse, normalize and display simple λ-Calculus expressions | legacyPackages.x86_64-linux.typstPackages.lambdabus |
 | typst-package-lambdabus | 0.1.0 | Easily parse, normalize and display simple λ-Calculus expressions | legacyPackages.x86_64-linux.typstPackages.lambdabus_0_1_0 |
+| typst-package-larrow | 1.0.0 | Draw and style arrows between labels | legacyPackages.x86_64-linux.typstPackages.larrow |
+| typst-package-larrow | 1.0.0 | Draw and style arrows between labels | legacyPackages.x86_64-linux.typstPackages.larrow_1_0_0 |
 | typst-package-lasagna | 0.1.0 | Add layers, toggle them using tags easily | legacyPackages.x86_64-linux.typstPackages.lasagna |
 | typst-package-lasagna | 0.1.0 | Add layers, toggle them using tags easily | legacyPackages.x86_64-linux.typstPackages.lasagna_0_1_0 |
 | typst-package-lasaveur | 0.1.3 | Porting vim-latex's math shorthands to Typst.  An accommendating vim syntax file is provided in the repo | legacyPackages.x86_64-linux.typstPackages.lasaveur_0_1_3 |
@@ -93324,8 +93546,9 @@
 | typst-package-libra | 0.1.0 | Balance your lines | legacyPackages.x86_64-linux.typstPackages.libra_0_1_0 |
 | typst-package-light-cv | 0.1.0 | Minimalistic CV template for your own CV. Please install the font awesome fonts on your system before using the template | legacyPackages.x86_64-linux.typstPackages.light-cv_0_1_0 |
 | typst-package-light-cv | 0.1.1 | Minimalistic CV template for your own CV. Please install the font awesome fonts on your system before using the template | legacyPackages.x86_64-linux.typstPackages.light-cv_0_1_1 |
-| typst-package-light-cv | 0.2.0 | Minimalistic CV template for your own CV. Please install the font awesome fonts on your system before using the template | legacyPackages.x86_64-linux.typstPackages.light-cv |
 | typst-package-light-cv | 0.2.0 | Minimalistic CV template for your own CV. Please install the font awesome fonts on your system before using the template | legacyPackages.x86_64-linux.typstPackages.light-cv_0_2_0 |
+| typst-package-light-cv | 0.2.1 | Minimalistic CV template for your own CV. Please install the font awesome fonts on your system before using the template | legacyPackages.x86_64-linux.typstPackages.light-cv |
+| typst-package-light-cv | 0.2.1 | Minimalistic CV template for your own CV. Please install the font awesome fonts on your system before using the template | legacyPackages.x86_64-linux.typstPackages.light-cv_0_2_1 |
 | typst-package-light-report-uia | 0.1.0 | Template for reports at the University of Agder | legacyPackages.x86_64-linux.typstPackages.light-report-uia |
 | typst-package-light-report-uia | 0.1.0 | Template for reports at the University of Agder | legacyPackages.x86_64-linux.typstPackages.light-report-uia_0_1_0 |
 | typst-package-lilaq | 0.1.0 | Data visualization | legacyPackages.x86_64-linux.typstPackages.lilaq_0_1_0 |
@@ -93336,6 +93559,8 @@
 | typst-package-lilaq | 0.5.0 | Scientific data visualization | legacyPackages.x86_64-linux.typstPackages.lilaq_0_5_0 |
 | typst-package-lineal | 0.1.0 | Build elegent slide decks with Typst | legacyPackages.x86_64-linux.typstPackages.lineal |
 | typst-package-lineal | 0.1.0 | Build elegent slide decks with Typst | legacyPackages.x86_64-linux.typstPackages.lineal_0_1_0 |
+| typst-package-lingotree | 1.0.0 | Draws linguistic syntactic trees | legacyPackages.x86_64-linux.typstPackages.lingotree |
+| typst-package-lingotree | 1.0.0 | Draws linguistic syntactic trees | legacyPackages.x86_64-linux.typstPackages.lingotree_1_0_0 |
 | typst-package-linguify | 0.1.0 | Load strings for different languages easily | legacyPackages.x86_64-linux.typstPackages.linguify_0_1_0 |
 | typst-package-linguify | 0.2.0 | Load strings for different languages easily | legacyPackages.x86_64-linux.typstPackages.linguify_0_2_0 |
 | typst-package-linguify | 0.3.0 | Load strings for different languages easily | legacyPackages.x86_64-linux.typstPackages.linguify_0_3_0 |
@@ -93344,6 +93569,8 @@
 | typst-package-linguify | 0.4.1 | Load strings for different languages easily | legacyPackages.x86_64-linux.typstPackages.linguify_0_4_1 |
 | typst-package-linguify | 0.4.2 | Load strings for different languages easily | legacyPackages.x86_64-linux.typstPackages.linguify |
 | typst-package-linguify | 0.4.2 | Load strings for different languages easily | legacyPackages.x86_64-linux.typstPackages.linguify_0_4_2 |
+| typst-package-linked-cv | 0.0.1 | A beautiful CV template that emulates the LinkedIn UI | legacyPackages.x86_64-linux.typstPackages.linked-cv |
+| typst-package-linked-cv | 0.0.1 | A beautiful CV template that emulates the LinkedIn UI | legacyPackages.x86_64-linux.typstPackages.linked-cv_0_0_1 |
 | typst-package-linkify | 0.1.0 | Generate URLs and nicely formatted links to web media contents | legacyPackages.x86_64-linux.typstPackages.linkify_0_1_0 |
 | typst-package-linkify | 0.1.1 | Generate URLs and nicely formatted links to web media contents | legacyPackages.x86_64-linux.typstPackages.linkify |
 | typst-package-linkify | 0.1.1 | Generate URLs and nicely formatted links to web media contents | legacyPackages.x86_64-linux.typstPackages.linkify_0_1_1 |
@@ -93352,12 +93579,15 @@
 | typst-package-linkst | 0.2.1 | A knot drawing package for knot theory | legacyPackages.x86_64-linux.typstPackages.linkst_0_2_1 |
 | typst-package-linphon | 0.1.0 | Set phonological feature matrices, linear rewrite rules, and more | legacyPackages.x86_64-linux.typstPackages.linphon |
 | typst-package-linphon | 0.1.0 | Set phonological feature matrices, linear rewrite rules, and more | legacyPackages.x86_64-linux.typstPackages.linphon_0_1_0 |
-| typst-package-litfass | 0.1.0 | A typst package to design content like posters based on a tiling layout | legacyPackages.x86_64-linux.typstPackages.litfass |
 | typst-package-litfass | 0.1.0 | A typst package to design content like posters based on a tiling layout | legacyPackages.x86_64-linux.typstPackages.litfass_0_1_0 |
+| typst-package-litfass | 0.1.1 | A typst package to design content like posters based on a tiling layout | legacyPackages.x86_64-linux.typstPackages.litfass |
+| typst-package-litfass | 0.1.1 | A typst package to design content like posters based on a tiling layout | legacyPackages.x86_64-linux.typstPackages.litfass_0_1_1 |
 | typst-package-lovelace | 0.1.0 | Algorithms in pseudocode, unopinionated and flexible | legacyPackages.x86_64-linux.typstPackages.lovelace_0_1_0 |
 | typst-package-lovelace | 0.2.0 | Algorithms in pseudocode, unopinionated and flexible | legacyPackages.x86_64-linux.typstPackages.lovelace_0_2_0 |
 | typst-package-lovelace | 0.3.0 | Algorithms in pseudocode, unopinionated and flexible | legacyPackages.x86_64-linux.typstPackages.lovelace |
 | typst-package-lovelace | 0.3.0 | Algorithms in pseudocode, unopinionated and flexible | legacyPackages.x86_64-linux.typstPackages.lovelace_0_3_0 |
+| typst-package-lucide | 0.1.0 | A Typst library for Lucide icons | legacyPackages.x86_64-linux.typstPackages.lucide |
+| typst-package-lucide | 0.1.0 | A Typst library for Lucide icons | legacyPackages.x86_64-linux.typstPackages.lucide_0_1_0 |
 | typst-package-lucky-icml | 0.2.1 | ICML-style paper template to publish at conferences for International Conference on Machine Learning | legacyPackages.x86_64-linux.typstPackages.lucky-icml_0_2_1 |
 | typst-package-lucky-icml | 0.7.0 | ICML-style paper template to publish at conferences for International Conference on Machine Learning | legacyPackages.x86_64-linux.typstPackages.lucky-icml |
 | typst-package-lucky-icml | 0.7.0 | ICML-style paper template to publish at conferences for International Conference on Machine Learning | legacyPackages.x86_64-linux.typstPackages.lucky-icml_0_7_0 |
@@ -93385,8 +93615,9 @@
 | typst-package-mannot | 0.2.1 | A package for marking and annotating in math blocks | legacyPackages.x86_64-linux.typstPackages.mannot_0_2_1 |
 | typst-package-mannot | 0.2.2 | A package for marking and annotating in math blocks | legacyPackages.x86_64-linux.typstPackages.mannot_0_2_2 |
 | typst-package-mannot | 0.2.3 | A package for marking and annotating in math blocks | legacyPackages.x86_64-linux.typstPackages.mannot_0_2_3 |
-| typst-package-mannot | 0.3.0 | A package for marking and annotating in math blocks | legacyPackages.x86_64-linux.typstPackages.mannot |
 | typst-package-mannot | 0.3.0 | A package for marking and annotating in math blocks | legacyPackages.x86_64-linux.typstPackages.mannot_0_3_0 |
+| typst-package-mannot | 0.3.1 | A package for marking and annotating in math blocks | legacyPackages.x86_64-linux.typstPackages.mannot |
+| typst-package-mannot | 0.3.1 | A package for marking and annotating in math blocks | legacyPackages.x86_64-linux.typstPackages.mannot_0_3_1 |
 | typst-package-mantys | 0.1.1 | Helpers to build manuals for Typst packages | legacyPackages.x86_64-linux.typstPackages.mantys_0_1_1 |
 | typst-package-mantys | 0.1.3 | Helpers to build manuals for Typst packages | legacyPackages.x86_64-linux.typstPackages.mantys_0_1_3 |
 | typst-package-mantys | 0.1.4 | Helpers to build manuals for Typst packages | legacyPackages.x86_64-linux.typstPackages.mantys_0_1_4 |
@@ -93406,8 +93637,10 @@
 | typst-package-marginalia | 0.2.0 | Configurable margin-notes and matching wide blocks | legacyPackages.x86_64-linux.typstPackages.marginalia_0_2_0 |
 | typst-package-marginalia | 0.2.1 | Configurable margin-notes and matching wide blocks | legacyPackages.x86_64-linux.typstPackages.marginalia_0_2_1 |
 | typst-package-marginalia | 0.2.2 | Configurable margin-notes and matching wide blocks | legacyPackages.x86_64-linux.typstPackages.marginalia_0_2_2 |
-| typst-package-marginalia | 0.2.3 | Configurable margin-notes and matching wide blocks | legacyPackages.x86_64-linux.typstPackages.marginalia |
 | typst-package-marginalia | 0.2.3 | Configurable margin-notes and matching wide blocks | legacyPackages.x86_64-linux.typstPackages.marginalia_0_2_3 |
+| typst-package-marginalia | 0.2.4 | Configurable margin-notes with smart positioning and matching wide-blocks | legacyPackages.x86_64-linux.typstPackages.marginalia_0_2_4 |
+| typst-package-marginalia | 0.3.0 | Configurable margin-notes with smart positioning and matching wide-blocks | legacyPackages.x86_64-linux.typstPackages.marginalia |
+| typst-package-marginalia | 0.3.0 | Configurable margin-notes with smart positioning and matching wide-blocks | legacyPackages.x86_64-linux.typstPackages.marginalia_0_3_0 |
 | typst-package-marina-uol-thesis | 1.0.0 | Unofficial thesis template for the University of Lincoln | legacyPackages.x86_64-linux.typstPackages.marina-uol-thesis |
 | typst-package-marina-uol-thesis | 1.0.0 | Unofficial thesis template for the University of Lincoln | legacyPackages.x86_64-linux.typstPackages.marina-uol-thesis_1_0_0 |
 | typst-package-markly | 0.2.0 | Typst package for bleed, cut and registration marks | legacyPackages.x86_64-linux.typstPackages.markly_0_2_0 |
@@ -93415,6 +93648,8 @@
 | typst-package-markly | 0.3.0 | Typst package for bleed, cut and registration marks | legacyPackages.x86_64-linux.typstPackages.markly_0_3_0 |
 | typst-package-matador | 0.1.0 | Parser for .mat files | legacyPackages.x86_64-linux.typstPackages.matador |
 | typst-package-matador | 0.1.0 | Parser for .mat files | legacyPackages.x86_64-linux.typstPackages.matador_0_1_0 |
+| typst-package-matofletcher | 0.1.1 | Easier diagrams with fletcher (fork of autofletcher | legacyPackages.x86_64-linux.typstPackages.matofletcher |
+| typst-package-matofletcher | 0.1.1 | Easier diagrams with fletcher (fork of autofletcher | legacyPackages.x86_64-linux.typstPackages.matofletcher_0_1_1 |
 | typst-package-matset | 0.1.0 | An ergonomic expression evaluator in Typst | legacyPackages.x86_64-linux.typstPackages.matset |
 | typst-package-matset | 0.1.0 | An ergonomic expression evaluator in Typst | legacyPackages.x86_64-linux.typstPackages.matset_0_1_0 |
 | typst-package-may | 0.0.1 | A simple and elegant document template for multiple daily tasks | legacyPackages.x86_64-linux.typstPackages.may_0_0_1 |
@@ -93427,14 +93662,20 @@
 | typst-package-meander | 0.1.0 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander_0_1_0 |
 | typst-package-meander | 0.2.0 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander_0_2_0 |
 | typst-package-meander | 0.2.1 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander_0_2_1 |
-| typst-package-meander | 0.2.2 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander |
 | typst-package-meander | 0.2.2 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander_0_2_2 |
+| typst-package-meander | 0.2.3 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander_0_2_3 |
+| typst-package-meander | 0.2.4 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander_0_2_4 |
+| typst-package-meander | 0.2.5 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander |
+| typst-package-meander | 0.2.5 | Page layout engine with image wrap-around and text threading | legacyPackages.x86_64-linux.typstPackages.meander_0_2_5 |
 | typst-package-mechanical-system-cetz | 34j-0.1.0 | CeTZ library for drawing mechanical systems | legacyPackages.x86_64-linux.typstPackages.mechanical-system-cetz-34j |
 | typst-package-mechanical-system-cetz | 34j-0.1.0 | CeTZ library for drawing mechanical systems | legacyPackages.x86_64-linux.typstPackages.mechanical-system-cetz-34j_0_1_0 |
+| typst-package-melt | 0.1.0 | Introspect fonts | legacyPackages.x86_64-linux.typstPackages.melt |
+| typst-package-melt | 0.1.0 | Introspect fonts | legacyPackages.x86_64-linux.typstPackages.melt_0_1_0 |
 | typst-package-mephistypsteles | 0.1.0 | The devil's reflection, using typst in typst | legacyPackages.x86_64-linux.typstPackages.mephistypsteles_0_1_0 |
 | typst-package-mephistypsteles | 0.2.0 | The devil's reflection, using typst in typst | legacyPackages.x86_64-linux.typstPackages.mephistypsteles_0_2_0 |
-| typst-package-mephistypsteles | 0.3.0 | The devil's reflection, using typst in typst | legacyPackages.x86_64-linux.typstPackages.mephistypsteles |
 | typst-package-mephistypsteles | 0.3.0 | The devil's reflection, using typst in typst | legacyPackages.x86_64-linux.typstPackages.mephistypsteles_0_3_0 |
+| typst-package-mephistypsteles | 0.4.0 | The devil's reflection, using typst in typst | legacyPackages.x86_64-linux.typstPackages.mephistypsteles |
+| typst-package-mephistypsteles | 0.4.0 | The devil's reflection, using typst in typst | legacyPackages.x86_64-linux.typstPackages.mephistypsteles_0_4_0 |
 | typst-package-meppp | 0.1.0 | Template for modern physics experiment reports at the Physics School of PKU | legacyPackages.x86_64-linux.typstPackages.meppp_0_1_0 |
 | typst-package-meppp | 0.2.0 | Template for modern physics experiment reports at the Physics School of PKU | legacyPackages.x86_64-linux.typstPackages.meppp_0_2_0 |
 | typst-package-meppp | 0.2.1 | Template for modern physics experiment reports at the Physics School of PKU | legacyPackages.x86_64-linux.typstPackages.meppp |
@@ -93471,8 +93712,9 @@
 | typst-package-min-book | 1.0.0 | Simple and complete books without introducing new syntax | legacyPackages.x86_64-linux.typstPackages.min-book_1_0_0 |
 | typst-package-min-book | 1.1.0 | Simple and complete books without introducing new syntax | legacyPackages.x86_64-linux.typstPackages.min-book_1_1_0 |
 | typst-package-min-book | 1.2.0 | Simple and complete books without introducing new syntax | legacyPackages.x86_64-linux.typstPackages.min-book_1_2_0 |
-| typst-package-min-book | 1.2.1 | Simple and complete books without introducing new syntax | legacyPackages.x86_64-linux.typstPackages.min-book |
 | typst-package-min-book | 1.2.1 | Simple and complete books without introducing new syntax | legacyPackages.x86_64-linux.typstPackages.min-book_1_2_1 |
+| typst-package-min-book | 1.3.0 | Simple and complete books without introducing new syntax | legacyPackages.x86_64-linux.typstPackages.min-book |
+| typst-package-min-book | 1.3.0 | Simple and complete books without introducing new syntax | legacyPackages.x86_64-linux.typstPackages.min-book_1_3_0 |
 | typst-package-min-manual | 0.1.0 | Simple and sober manuals inspired by the OG Linux manpages | legacyPackages.x86_64-linux.typstPackages.min-manual_0_1_0 |
 | typst-package-min-manual | 0.2.0 | Modern but sober manuals inspired by the manpages of old | legacyPackages.x86_64-linux.typstPackages.min-manual_0_2_0 |
 | typst-package-min-manual | 0.2.1 | Modern but sober manuals inspired by the manpages of old | legacyPackages.x86_64-linux.typstPackages.min-manual |
@@ -93525,16 +93767,18 @@
 | typst-package-minitoc | 0.1.0 | An outline function just for one section and nothing else | legacyPackages.x86_64-linux.typstPackages.minitoc_0_1_0 |
 | typst-package-mino | 0.1.0 | Render tetris fumen in typst | legacyPackages.x86_64-linux.typstPackages.mino_0_1_0 |
 | typst-package-mino | 0.1.1 | Render tetris fumen in typst | legacyPackages.x86_64-linux.typstPackages.mino_0_1_1 |
-| typst-package-mino | 0.1.2 | Render tetris fumen in typst | legacyPackages.x86_64-linux.typstPackages.mino |
 | typst-package-mino | 0.1.2 | Render tetris fumen in typst | legacyPackages.x86_64-linux.typstPackages.mino_0_1_2 |
+| typst-package-mino | 0.1.3 | Render tetris fumen in typst | legacyPackages.x86_64-linux.typstPackages.mino |
+| typst-package-mino | 0.1.3 | Render tetris fumen in typst | legacyPackages.x86_64-linux.typstPackages.mino_0_1_3 |
 | typst-package-mitex | 0.1.0 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_1_0 |
 | typst-package-mitex | 0.2.0 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_2_0 |
 | typst-package-mitex | 0.2.1 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_2_1 |
 | typst-package-mitex | 0.2.2 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_2_2 |
 | typst-package-mitex | 0.2.3 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_2_3 |
 | typst-package-mitex | 0.2.4 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_2_4 |
-| typst-package-mitex | 0.2.5 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex |
 | typst-package-mitex | 0.2.5 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_2_5 |
+| typst-package-mitex | 0.2.6 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex |
+| typst-package-mitex | 0.2.6 | LaTeX support for Typst, powered by Rust and WASM | legacyPackages.x86_64-linux.typstPackages.mitex_0_2_6 |
 | typst-package-modern-acad-cv | 0.1.0 | A CV template for academics based on moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.modern-acad-cv_0_1_0 |
 | typst-package-modern-acad-cv | 0.1.1 | A CV template for academics based on moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.modern-acad-cv_0_1_1 |
 | typst-package-modern-acad-cv | 0.1.2 | A CV template for academics based on moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.modern-acad-cv_0_1_2 |
@@ -93546,13 +93790,15 @@
 | typst-package-modern-bnu-thesis | 0.0.1 | 北京师范大学学位论文模板。Modern Beijing Normal University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-bnu-thesis_0_0_1 |
 | typst-package-modern-bnu-thesis | 0.0.2 | 北京师范大学学位论文模板。Modern Beijing Normal University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-bnu-thesis |
 | typst-package-modern-bnu-thesis | 0.0.2 | 北京师范大学学位论文模板。Modern Beijing Normal University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-bnu-thesis_0_0_2 |
-| typst-package-modern-buaa-thesis | 0.1.0 | A modern thesis template for BUAA | legacyPackages.x86_64-linux.typstPackages.modern-buaa-thesis |
 | typst-package-modern-buaa-thesis | 0.1.0 | A modern thesis template for BUAA | legacyPackages.x86_64-linux.typstPackages.modern-buaa-thesis_0_1_0 |
+| typst-package-modern-buaa-thesis | 0.1.1 | A modern thesis template for BUAA | legacyPackages.x86_64-linux.typstPackages.modern-buaa-thesis |
+| typst-package-modern-buaa-thesis | 0.1.1 | A modern thesis template for BUAA | legacyPackages.x86_64-linux.typstPackages.modern-buaa-thesis_0_1_1 |
 | typst-package-modern-cqut-thesis | 0.1.0 | 重庆理工大学学位论文模板。 A Thesis Tamplate for CQUT | legacyPackages.x86_64-linux.typstPackages.modern-cqut-thesis |
 | typst-package-modern-cqut-thesis | 0.1.0 | 重庆理工大学学位论文模板。 A Thesis Tamplate for CQUT | legacyPackages.x86_64-linux.typstPackages.modern-cqut-thesis_0_1_0 |
 | typst-package-modern-cug-report | 0.1.0 | Chinese Technical report writing standards | legacyPackages.x86_64-linux.typstPackages.modern-cug-report_0_1_0 |
-| typst-package-modern-cug-report | 0.1.1 | Chinese Technical report writing standards | legacyPackages.x86_64-linux.typstPackages.modern-cug-report |
 | typst-package-modern-cug-report | 0.1.1 | Chinese Technical report writing standards | legacyPackages.x86_64-linux.typstPackages.modern-cug-report_0_1_1 |
+| typst-package-modern-cug-report | 0.1.3 | Chinese Technical report writing standards | legacyPackages.x86_64-linux.typstPackages.modern-cug-report |
+| typst-package-modern-cug-report | 0.1.3 | Chinese Technical report writing standards | legacyPackages.x86_64-linux.typstPackages.modern-cug-report_0_1_3 |
 | typst-package-modern-cug-thesis | 0.1.0 | 中国地质大学（武汉）学位论文模板。China University of Geosciences Thesis based on Typst | legacyPackages.x86_64-linux.typstPackages.modern-cug-thesis_0_1_0 |
 | typst-package-modern-cug-thesis | 0.2.1 | 中国地质大学（武汉）学位论文模板。China University of Geosciences Thesis based on Typst | legacyPackages.x86_64-linux.typstPackages.modern-cug-thesis_0_2_1 |
 | typst-package-modern-cug-thesis | 0.2.2 | 中国地质大学（武汉）学位论文模板。China University of Geosciences Thesis based on Typst | legacyPackages.x86_64-linux.typstPackages.modern-cug-thesis_0_2_2 |
@@ -93576,20 +93822,36 @@
 | typst-package-modern-ecnu-thesis | 0.2.0 | 华东师范大学本科 / 研究生学位论文模板。Modern East China Normal University Thesis Template | legacyPackages.x86_64-linux.typstPackages.modern-ecnu-thesis_0_2_0 |
 | typst-package-modern-ecnu-thesis | 0.3.0 | 华东师范大学本科 / 研究生学位论文模板。Modern East China Normal University Thesis Template | legacyPackages.x86_64-linux.typstPackages.modern-ecnu-thesis |
 | typst-package-modern-ecnu-thesis | 0.3.0 | 华东师范大学本科 / 研究生学位论文模板。Modern East China Normal University Thesis Template | legacyPackages.x86_64-linux.typstPackages.modern-ecnu-thesis_0_3_0 |
-| typst-package-modern-g7 | 32-0.1.0 | Template for academic documents in compliance with GOST 7.32‑2017 | legacyPackages.x86_64-linux.typstPackages.modern-g7-32 |
+| typst-package-modern-fzu-thesis | 0.1.0 | 福州大学学位论文模板。Modern Fuzhou University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-fzu-thesis |
+| typst-package-modern-fzu-thesis | 0.1.0 | 福州大学学位论文模板。Modern Fuzhou University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-fzu-thesis_0_1_0 |
 | typst-package-modern-g7 | 32-0.1.0 | Template for academic documents in compliance with GOST 7.32‑2017 | legacyPackages.x86_64-linux.typstPackages.modern-g7-32_0_1_0 |
+| typst-package-modern-g7 | 32-0.2.0 | Template for academic documents in compliance with GOST 7.32‑2017 | legacyPackages.x86_64-linux.typstPackages.modern-g7-32 |
+| typst-package-modern-g7 | 32-0.2.0 | Template for academic documents in compliance with GOST 7.32‑2017 | legacyPackages.x86_64-linux.typstPackages.modern-g7-32_0_2_0 |
+| typst-package-modern-hfut-report | 0.1.0 | 合肥工业大学课程现代设计报告模板。Modern report template for HFUT | legacyPackages.x86_64-linux.typstPackages.modern-hfut-report |
+| typst-package-modern-hfut-report | 0.1.0 | 合肥工业大学课程现代设计报告模板。Modern report template for HFUT | legacyPackages.x86_64-linux.typstPackages.modern-hfut-report_0_1_0 |
+| typst-package-modern-hkust-thesis | 0.1.0 | 📄 Thesis Template for HKUST-GZ in typst | legacyPackages.x86_64-linux.typstPackages.modern-hkust-thesis |
+| typst-package-modern-hkust-thesis | 0.1.0 | 📄 Thesis Template for HKUST-GZ in typst | legacyPackages.x86_64-linux.typstPackages.modern-hkust-thesis_0_1_0 |
 | typst-package-modern-hsh-thesis | 1.0.0 | Template for writing a bachelors or masters thesis at the Hochschule Hannover, Faculty 4 | legacyPackages.x86_64-linux.typstPackages.modern-hsh-thesis_1_0_0 |
 | typst-package-modern-hsh-thesis | 1.0.1 | Template for writing a bachelors or masters thesis at the Hochschule Hannover, Faculty 4 | legacyPackages.x86_64-linux.typstPackages.modern-hsh-thesis_1_0_1 |
 | typst-package-modern-hsh-thesis | 1.0.2 | Template for writing a bachelors or masters thesis at the Hochschule Hannover, Faculty 4 | legacyPackages.x86_64-linux.typstPackages.modern-hsh-thesis_1_0_2 |
 | typst-package-modern-hsh-thesis | 1.1.0 | Template for writing a bachelors or masters thesis at the Hochschule Hannover, Faculty 4 | legacyPackages.x86_64-linux.typstPackages.modern-hsh-thesis_1_1_0 |
 | typst-package-modern-hsh-thesis | 1.1.1 | Template for writing a bachelors or masters thesis at the Hochschule Hannover, Faculty 4 | legacyPackages.x86_64-linux.typstPackages.modern-hsh-thesis |
 | typst-package-modern-hsh-thesis | 1.1.1 | Template for writing a bachelors or masters thesis at the Hochschule Hannover, Faculty 4 | legacyPackages.x86_64-linux.typstPackages.modern-hsh-thesis_1_1_1 |
+| typst-package-modern-hust-cse-report | 0.1.0 | An unofficial lab report template for the School of Cyber Science and Engineering at HUST | legacyPackages.x86_64-linux.typstPackages.modern-hust-cse-report |
+| typst-package-modern-hust-cse-report | 0.1.0 | An unofficial lab report template for the School of Cyber Science and Engineering at HUST | legacyPackages.x86_64-linux.typstPackages.modern-hust-cse-report_0_1_0 |
+| typst-package-modern-innopolis-thesis | 0.1.0 | Thesis template for Innopolis University | legacyPackages.x86_64-linux.typstPackages.modern-innopolis-thesis |
+| typst-package-modern-innopolis-thesis | 0.1.0 | Thesis template for Innopolis University | legacyPackages.x86_64-linux.typstPackages.modern-innopolis-thesis_0_1_0 |
 | typst-package-modern-iu-thesis | 0.1.0 | Modern Typst thesis template for Indiana University | legacyPackages.x86_64-linux.typstPackages.modern-iu-thesis_0_1_0 |
 | typst-package-modern-iu-thesis | 0.1.1 | Modern Typst thesis template for Indiana University | legacyPackages.x86_64-linux.typstPackages.modern-iu-thesis_0_1_1 |
-| typst-package-modern-iu-thesis | 0.1.2 | Modern Typst thesis template for Indiana University | legacyPackages.x86_64-linux.typstPackages.modern-iu-thesis |
 | typst-package-modern-iu-thesis | 0.1.2 | Modern Typst thesis template for Indiana University | legacyPackages.x86_64-linux.typstPackages.modern-iu-thesis_0_1_2 |
-| typst-package-modern-nenu-thesis | 0.1.0 | A thesis template for NENU students | legacyPackages.x86_64-linux.typstPackages.modern-nenu-thesis |
+| typst-package-modern-iu-thesis | 0.1.3 | Modern Typst thesis template for Indiana University | legacyPackages.x86_64-linux.typstPackages.modern-iu-thesis_0_1_3 |
+| typst-package-modern-iu-thesis | 0.1.4 | Modern Typst thesis template for Indiana University | legacyPackages.x86_64-linux.typstPackages.modern-iu-thesis |
+| typst-package-modern-iu-thesis | 0.1.4 | Modern Typst thesis template for Indiana University | legacyPackages.x86_64-linux.typstPackages.modern-iu-thesis_0_1_4 |
+| typst-package-modern-mla | 0.1.0 | Template for MLA formats | legacyPackages.x86_64-linux.typstPackages.modern-mla |
+| typst-package-modern-mla | 0.1.0 | Template for MLA formats | legacyPackages.x86_64-linux.typstPackages.modern-mla_0_1_0 |
 | typst-package-modern-nenu-thesis | 0.1.0 | A thesis template for NENU students | legacyPackages.x86_64-linux.typstPackages.modern-nenu-thesis_0_1_0 |
+| typst-package-modern-nenu-thesis | 0.1.1 | A thesis template for NENU students | legacyPackages.x86_64-linux.typstPackages.modern-nenu-thesis |
+| typst-package-modern-nenu-thesis | 0.1.1 | A thesis template for NENU students | legacyPackages.x86_64-linux.typstPackages.modern-nenu-thesis_0_1_1 |
 | typst-package-modern-nju-thesis | 0.3.0 | 南京大学学位论文模板。Modern Nanjing University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-nju-thesis_0_3_0 |
 | typst-package-modern-nju-thesis | 0.3.1 | 南京大学学位论文模板。Modern Nanjing University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-nju-thesis_0_3_1 |
 | typst-package-modern-nju-thesis | 0.3.2 | 南京大学学位论文模板。Modern Nanjing University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-nju-thesis_0_3_2 |
@@ -93598,16 +93860,20 @@
 | typst-package-modern-nju-thesis | 0.4.0 | 南京大学学位论文模板。Modern Nanjing University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-nju-thesis |
 | typst-package-modern-nju-thesis | 0.4.0 | 南京大学学位论文模板。Modern Nanjing University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-nju-thesis_0_4_0 |
 | typst-package-modern-ovgu-fma-polylux | 0.1.0 | Unofficial template for creating presentations with Polylux in the style of the Faculty of Mathematics at the Otto-von-Guericke-University Magdeburg | legacyPackages.x86_64-linux.typstPackages.modern-ovgu-fma-polylux_0_1_0 |
-| typst-package-modern-ovgu-fma-polylux | 0.2.0 | Unofficial template for creating presentations with Polylux in the style of the Faculty of Mathematics at the Otto-von-Guericke-University Magdeburg | legacyPackages.x86_64-linux.typstPackages.modern-ovgu-fma-polylux |
 | typst-package-modern-ovgu-fma-polylux | 0.2.0 | Unofficial template for creating presentations with Polylux in the style of the Faculty of Mathematics at the Otto-von-Guericke-University Magdeburg | legacyPackages.x86_64-linux.typstPackages.modern-ovgu-fma-polylux_0_2_0 |
+| typst-package-modern-ovgu-fma-polylux | 1.0.0 | Unofficial template for creating presentations with Polylux in the style of the Faculty of Mathematics at the Otto-von-Guericke-University Magdeburg | legacyPackages.x86_64-linux.typstPackages.modern-ovgu-fma-polylux |
+| typst-package-modern-ovgu-fma-polylux | 1.0.0 | Unofficial template for creating presentations with Polylux in the style of the Faculty of Mathematics at the Otto-von-Guericke-University Magdeburg | legacyPackages.x86_64-linux.typstPackages.modern-ovgu-fma-polylux_1_0_0 |
 | typst-package-modern-report-umfds | 0.1.0 | A template for writing reports for the Faculty of Sciences of the University of Montpellier | legacyPackages.x86_64-linux.typstPackages.modern-report-umfds_0_1_0 |
 | typst-package-modern-report-umfds | 0.1.1 | A template for writing reports for the Faculty of Sciences of the University of Montpellier | legacyPackages.x86_64-linux.typstPackages.modern-report-umfds_0_1_1 |
 | typst-package-modern-report-umfds | 0.1.2 | A template for writing reports for the Faculty of Sciences of the University of Montpellier | legacyPackages.x86_64-linux.typstPackages.modern-report-umfds |
 | typst-package-modern-report-umfds | 0.1.2 | A template for writing reports for the Faculty of Sciences of the University of Montpellier | legacyPackages.x86_64-linux.typstPackages.modern-report-umfds_0_1_2 |
-| typst-package-modern-resume | 0.1.0 | A modern resume/CV template | legacyPackages.x86_64-linux.typstPackages.modern-resume |
 | typst-package-modern-resume | 0.1.0 | A modern resume/CV template | legacyPackages.x86_64-linux.typstPackages.modern-resume_0_1_0 |
+| typst-package-modern-resume | 1.0.0 | A modern resume/CV template | legacyPackages.x86_64-linux.typstPackages.modern-resume |
+| typst-package-modern-resume | 1.0.0 | A modern resume/CV template | legacyPackages.x86_64-linux.typstPackages.modern-resume_1_0_0 |
 | typst-package-modern-russian-dissertation | 0.0.1 | A russian phd thesis template | legacyPackages.x86_64-linux.typstPackages.modern-russian-dissertation |
 | typst-package-modern-russian-dissertation | 0.0.1 | A russian phd thesis template | legacyPackages.x86_64-linux.typstPackages.modern-russian-dissertation_0_0_1 |
+| typst-package-modern-se-kul-thesis | 0.1.0 | Unofficial Master's thesis template for writing a thesis at the engineering science faculty at KU Leuven | legacyPackages.x86_64-linux.typstPackages.modern-se-kul-thesis |
+| typst-package-modern-se-kul-thesis | 0.1.0 | Unofficial Master's thesis template for writing a thesis at the engineering science faculty at KU Leuven | legacyPackages.x86_64-linux.typstPackages.modern-se-kul-thesis_0_1_0 |
 | typst-package-modern-shu-thesis | 0.1.0 | 上海大学本科毕业论文模板 | legacyPackages.x86_64-linux.typstPackages.modern-shu-thesis_0_1_0 |
 | typst-package-modern-shu-thesis | 0.1.1 | 上海大学本科毕业论文模板 | legacyPackages.x86_64-linux.typstPackages.modern-shu-thesis_0_1_1 |
 | typst-package-modern-shu-thesis | 0.2.0 | 上海大学本科毕业论文模板 | legacyPackages.x86_64-linux.typstPackages.modern-shu-thesis_0_2_0 |
@@ -93625,8 +93891,9 @@
 | typst-package-modern-sjtu-thesis | 0.3.0 | 上海交通大学学位论文 Typst 模板。Shanghai Jiao Tong University Thesis Typst Template | legacyPackages.x86_64-linux.typstPackages.modern-sjtu-thesis_0_3_0 |
 | typst-package-modern-sjtu-thesis | 0.4.0 | 上海交通大学学位论文 Typst 模板。Shanghai Jiao Tong University Thesis Typst Template | legacyPackages.x86_64-linux.typstPackages.modern-sjtu-thesis_0_4_0 |
 | typst-package-modern-sjtu-thesis | 0.4.1 | 上海交通大学学位论文 Typst 模板。Shanghai Jiao Tong University Thesis Typst Template | legacyPackages.x86_64-linux.typstPackages.modern-sjtu-thesis_0_4_1 |
-| typst-package-modern-sjtu-thesis | 0.5.0 | 上海交通大学学位论文 Typst 模板。Shanghai Jiao Tong University Thesis Typst Template | legacyPackages.x86_64-linux.typstPackages.modern-sjtu-thesis |
 | typst-package-modern-sjtu-thesis | 0.5.0 | 上海交通大学学位论文 Typst 模板。Shanghai Jiao Tong University Thesis Typst Template | legacyPackages.x86_64-linux.typstPackages.modern-sjtu-thesis_0_5_0 |
+| typst-package-modern-sjtu-thesis | 0.5.1 | 上海交通大学学位论文 Typst 模板。Shanghai Jiao Tong University Thesis Typst Template | legacyPackages.x86_64-linux.typstPackages.modern-sjtu-thesis |
+| typst-package-modern-sjtu-thesis | 0.5.1 | 上海交通大学学位论文 Typst 模板。Shanghai Jiao Tong University Thesis Typst Template | legacyPackages.x86_64-linux.typstPackages.modern-sjtu-thesis_0_5_1 |
 | typst-package-modern-sustech-thesis | 0.1.0 | 南方科技大学本科毕业设计（论文）模板. SUSTech Bachelor Thesis Template | legacyPackages.x86_64-linux.typstPackages.modern-sustech-thesis_0_1_0 |
 | typst-package-modern-sustech-thesis | 0.1.1 | 南方科技大学本科毕业设计（论文）模板. SUSTech Bachelor Thesis Template | legacyPackages.x86_64-linux.typstPackages.modern-sustech-thesis |
 | typst-package-modern-sustech-thesis | 0.1.1 | 南方科技大学本科毕业设计（论文）模板. SUSTech Bachelor Thesis Template | legacyPackages.x86_64-linux.typstPackages.modern-sustech-thesis_0_1_1 |
@@ -93658,6 +93925,9 @@
 | typst-package-modern-uit-thesis | 0.1.5 | A Modern Thesis Template in Typst | legacyPackages.x86_64-linux.typstPackages.modern-uit-thesis_0_1_5 |
 | typst-package-modern-uit-thesis | 0.1.6 | A Modern Thesis Template in Typst | legacyPackages.x86_64-linux.typstPackages.modern-uit-thesis |
 | typst-package-modern-uit-thesis | 0.1.6 | A Modern Thesis Template in Typst | legacyPackages.x86_64-linux.typstPackages.modern-uit-thesis_0_1_6 |
+| typst-package-modern-um-thesis | 0.1.0 | Thesis for University of Macau. 澳门大学学位论文。 | legacyPackages.x86_64-linux.typstPackages.modern-um-thesis_0_1_0 |
+| typst-package-modern-um-thesis | 0.1.1 | Thesis for University of Macau. 澳门大学学位论文。 | legacyPackages.x86_64-linux.typstPackages.modern-um-thesis |
+| typst-package-modern-um-thesis | 0.1.1 | Thesis for University of Macau. 澳门大学学位论文。 | legacyPackages.x86_64-linux.typstPackages.modern-um-thesis_0_1_1 |
 | typst-package-modern-unimib-thesis | 0.1.0 | A thesis template of the University of Milano-Bicocca heavily inspired by <https://github.com/eduardz1/UniTO-typst-template/tree/main | legacyPackages.x86_64-linux.typstPackages.modern-unimib-thesis_0_1_0 |
 | typst-package-modern-unimib-thesis | 0.1.1 | A thesis template of the University of Milano-Bicocca | legacyPackages.x86_64-linux.typstPackages.modern-unimib-thesis |
 | typst-package-modern-unimib-thesis | 0.1.1 | A thesis template of the University of Milano-Bicocca | legacyPackages.x86_64-linux.typstPackages.modern-unimib-thesis_0_1_1 |
@@ -93675,8 +93945,9 @@
 | typst-package-modern-whs-thesis | 0.3.1 | Thesis template for Westfälische Hochschule | legacyPackages.x86_64-linux.typstPackages.modern-whs-thesis_0_3_1 |
 | typst-package-modern-whs-thesis | 0.4.0 | Thesis template for Westfälische Hochschule | legacyPackages.x86_64-linux.typstPackages.modern-whs-thesis |
 | typst-package-modern-whs-thesis | 0.4.0 | Thesis template for Westfälische Hochschule | legacyPackages.x86_64-linux.typstPackages.modern-whs-thesis_0_4_0 |
-| typst-package-modern-wku-thesis | 0.1.0 | A Typst template for graduate thesis at Wenzhou-Kean University Computer Science and Mathematics department | legacyPackages.x86_64-linux.typstPackages.modern-wku-thesis |
 | typst-package-modern-wku-thesis | 0.1.0 | A Typst template for graduate thesis at Wenzhou-Kean University Computer Science and Mathematics department | legacyPackages.x86_64-linux.typstPackages.modern-wku-thesis_0_1_0 |
+| typst-package-modern-wku-thesis | 0.1.2 | A Typst template for graduate thesis at Wenzhou-Kean University Computer Science and Mathematics department | legacyPackages.x86_64-linux.typstPackages.modern-wku-thesis |
+| typst-package-modern-wku-thesis | 0.1.2 | A Typst template for graduate thesis at Wenzhou-Kean University Computer Science and Mathematics department | legacyPackages.x86_64-linux.typstPackages.modern-wku-thesis_0_1_2 |
 | typst-package-modern-xmu-thesis | 0.1.0 | 厦门大学学位论文模板。Modern Xiamen University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-xmu-thesis_0_1_0 |
 | typst-package-modern-xmu-thesis | 0.2.0 | 厦门大学学位论文模板。Modern Xiamen University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-xmu-thesis_0_2_0 |
 | typst-package-modern-xmu-thesis | 0.2.1 | 厦门大学学位论文模板。Modern Xiamen University Thesis | legacyPackages.x86_64-linux.typstPackages.modern-xmu-thesis |
@@ -93686,30 +93957,36 @@
 | typst-package-moderner-cv | 0.1.0 | A resume template based on the moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.moderner-cv_0_1_0 |
 | typst-package-moderner-cv | 0.1.1 | A resume template based on the moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.moderner-cv_0_1_1 |
 | typst-package-moderner-cv | 0.1.2 | A resume template based on the moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.moderner-cv_0_1_2 |
-| typst-package-moderner-cv | 0.2.0 | A resume template based on the moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.moderner-cv |
 | typst-package-moderner-cv | 0.2.0 | A resume template based on the moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.moderner-cv_0_2_0 |
+| typst-package-moderner-cv | 0.2.1 | A resume template based on the moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.moderner-cv |
+| typst-package-moderner-cv | 0.2.1 | A resume template based on the moderncv LaTeX package | legacyPackages.x86_64-linux.typstPackages.moderner-cv_0_2_1 |
 | typst-package-modernpro-coverletter | 0.0.1 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter_0_0_1 |
 | typst-package-modernpro-coverletter | 0.0.2 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter_0_0_2 |
 | typst-package-modernpro-coverletter | 0.0.3 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter_0_0_3 |
 | typst-package-modernpro-coverletter | 0.0.4 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter_0_0_4 |
 | typst-package-modernpro-coverletter | 0.0.5 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter_0_0_5 |
-| typst-package-modernpro-coverletter | 0.0.6 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter |
 | typst-package-modernpro-coverletter | 0.0.6 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter_0_0_6 |
+| typst-package-modernpro-coverletter | 0.0.7 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter |
+| typst-package-modernpro-coverletter | 0.0.7 | A cover letter template with modern Sans font for job applications and other formal letters | legacyPackages.x86_64-linux.typstPackages.modernpro-coverletter_0_0_7 |
 | typst-package-modernpro-cv | 1.0.0 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv_1_0_0 |
 | typst-package-modernpro-cv | 1.0.1 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv_1_0_1 |
 | typst-package-modernpro-cv | 1.0.2 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv_1_0_2 |
-| typst-package-modernpro-cv | 1.1.0 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv |
 | typst-package-modernpro-cv | 1.1.0 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv_1_1_0 |
+| typst-package-modernpro-cv | 1.2.1 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv_1_2_1 |
+| typst-package-modernpro-cv | 1.3.0 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv |
+| typst-package-modernpro-cv | 1.3.0 | A CV template inspired by Deedy-Resume | legacyPackages.x86_64-linux.typstPackages.modernpro-cv_1_3_0 |
 | typst-package-modpattern | 0.1.0 | Easily create patterns in typst | legacyPackages.x86_64-linux.typstPackages.modpattern |
 | typst-package-modpattern | 0.1.0 | Easily create patterns in typst | legacyPackages.x86_64-linux.typstPackages.modpattern_0_1_0 |
 | typst-package-moodular | 0.1.0 | Use Typst's HTML export to generate content for your Moodle courses | legacyPackages.x86_64-linux.typstPackages.moodular |
 | typst-package-moodular | 0.1.0 | Use Typst's HTML export to generate content for your Moodle courses | legacyPackages.x86_64-linux.typstPackages.moodular_0_1_0 |
 | typst-package-muchpdf | 0.1.0 | Include PDF images in your Typst document | legacyPackages.x86_64-linux.typstPackages.muchpdf_0_1_0 |
-| typst-package-muchpdf | 0.1.1 | Include PDF images in your Typst document | legacyPackages.x86_64-linux.typstPackages.muchpdf |
 | typst-package-muchpdf | 0.1.1 | Include PDF images in your Typst document | legacyPackages.x86_64-linux.typstPackages.muchpdf_0_1_1 |
+| typst-package-muchpdf | 0.1.2 | Include PDF images in your Typst document | legacyPackages.x86_64-linux.typstPackages.muchpdf |
+| typst-package-muchpdf | 0.1.2 | Include PDF images in your Typst document | legacyPackages.x86_64-linux.typstPackages.muchpdf_0_1_2 |
 | typst-package-muw-community-templates | 0.1.0 | Library of templates in MedUni Wien CD | legacyPackages.x86_64-linux.typstPackages.muw-community-templates_0_1_0 |
-| typst-package-muw-community-templates | 0.1.1 | Library of templates in MedUni Wien CD | legacyPackages.x86_64-linux.typstPackages.muw-community-templates |
 | typst-package-muw-community-templates | 0.1.1 | Library of templates in MedUni Wien CD | legacyPackages.x86_64-linux.typstPackages.muw-community-templates_0_1_1 |
+| typst-package-muw-community-templates | 0.1.2 | Library of templates in 'Medical University of Vienna' CD | legacyPackages.x86_64-linux.typstPackages.muw-community-templates |
+| typst-package-muw-community-templates | 0.1.2 | Library of templates in 'Medical University of Vienna' CD | legacyPackages.x86_64-linux.typstPackages.muw-community-templates_0_1_2 |
 | typst-package-muw-touying-community | 0.1.0 | Touying theme for Medical University of Vienna | legacyPackages.x86_64-linux.typstPackages.muw-touying-community |
 | typst-package-muw-touying-community | 0.1.0 | Touying theme for Medical University of Vienna | legacyPackages.x86_64-linux.typstPackages.muw-touying-community_0_1_0 |
 | typst-package-name-it | 0.1.0 | Get the English names of integers | legacyPackages.x86_64-linux.typstPackages.name-it_0_1_0 |
@@ -93730,14 +94007,17 @@
 | typst-package-neat-cv | 0.2.1 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv_0_2_1 |
 | typst-package-neat-cv | 0.3.0 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv_0_3_0 |
 | typst-package-neat-cv | 0.3.1 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv_0_3_1 |
-| typst-package-neat-cv | 0.4.0 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv |
 | typst-package-neat-cv | 0.4.0 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv_0_4_0 |
+| typst-package-neat-cv | 0.5.0 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv_0_5_0 |
+| typst-package-neat-cv | 0.5.1 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv |
+| typst-package-neat-cv | 0.5.1 | A modern and elegant CV template for Typst, inspired by Awesome CV and simple-hisptercv | legacyPackages.x86_64-linux.typstPackages.neat-cv_0_5_1 |
 | typst-package-neat-timetable | 0.1.0 | Easily create 2-week (numerator/denominator) class schedule | legacyPackages.x86_64-linux.typstPackages.neat-timetable |
 | typst-package-neat-timetable | 0.1.0 | Easily create 2-week (numerator/denominator) class schedule | legacyPackages.x86_64-linux.typstPackages.neat-timetable_0_1_0 |
 | typst-package-neoplot | 0.0.1 | Gnuplot in Typst | legacyPackages.x86_64-linux.typstPackages.neoplot_0_0_1 |
 | typst-package-neoplot | 0.0.2 | Gnuplot in Typst | legacyPackages.x86_64-linux.typstPackages.neoplot_0_0_2 |
-| typst-package-neoplot | 0.0.3 | Gnuplot in Typst | legacyPackages.x86_64-linux.typstPackages.neoplot |
 | typst-package-neoplot | 0.0.3 | Gnuplot in Typst | legacyPackages.x86_64-linux.typstPackages.neoplot_0_0_3 |
+| typst-package-neoplot | 0.0.4 | Gnuplot in Typst | legacyPackages.x86_64-linux.typstPackages.neoplot |
+| typst-package-neoplot | 0.0.4 | Gnuplot in Typst | legacyPackages.x86_64-linux.typstPackages.neoplot_0_0_4 |
 | typst-package-nerd-icons | 0.1.0 | Incldue seemlessly nerd font icons (10 000+ icons) in your documents | legacyPackages.x86_64-linux.typstPackages.nerd-icons_0_1_0 |
 | typst-package-nerd-icons | 0.2.0 | Include seemlessly nerd font icons (10 000+ icons) in your documents | legacyPackages.x86_64-linux.typstPackages.nerd-icons |
 | typst-package-nerd-icons | 0.2.0 | Include seemlessly nerd font icons (10 000+ icons) in your documents | legacyPackages.x86_64-linux.typstPackages.nerd-icons_0_2_0 |
@@ -93817,8 +94097,9 @@
 | typst-package-octique | 0.1.0 | GitHub Octicons for Typst | legacyPackages.x86_64-linux.typstPackages.octique_0_1_0 |
 | typst-package-octique | 0.1.1 | GitHub Octicons for Typst | legacyPackages.x86_64-linux.typstPackages.octique |
 | typst-package-octique | 0.1.1 | GitHub Octicons for Typst | legacyPackages.x86_64-linux.typstPackages.octique_0_1_1 |
-| typst-package-october | 1.0.0 | Simple printable year calendar | legacyPackages.x86_64-linux.typstPackages.october |
 | typst-package-october | 1.0.0 | Simple printable year calendar | legacyPackages.x86_64-linux.typstPackages.october_1_0_0 |
+| typst-package-october | 1.0.1 | Simple printable year calendar | legacyPackages.x86_64-linux.typstPackages.october |
+| typst-package-october | 1.0.1 | Simple printable year calendar | legacyPackages.x86_64-linux.typstPackages.october_1_0_1 |
 | typst-package-ofbnote | 0.2.0 | A document template using French Office for biodiversity design guidelines | legacyPackages.x86_64-linux.typstPackages.ofbnote |
 | typst-package-ofbnote | 0.2.0 | A document template using French Office for biodiversity design guidelines | legacyPackages.x86_64-linux.typstPackages.ofbnote_0_2_0 |
 | typst-package-oicana | 0.1.0 | PDF templating across multiple platforms | legacyPackages.x86_64-linux.typstPackages.oicana |
@@ -93840,12 +94121,16 @@
 | typst-package-orange-book | 0.6.0 | A book template inspired by The Legrand Orange Book of Mathias Legrand and Vel | legacyPackages.x86_64-linux.typstPackages.orange-book_0_6_0 |
 | typst-package-orange-book | 0.6.1 | A book template inspired by The Legrand Orange Book of Mathias Legrand and Vel | legacyPackages.x86_64-linux.typstPackages.orange-book |
 | typst-package-orange-book | 0.6.1 | A book template inspired by The Legrand Orange Book of Mathias Legrand and Vel | legacyPackages.x86_64-linux.typstPackages.orange-book_0_6_1 |
+| typst-package-orchid | 0.1.0 | ORCID identifier tooling inspired from the LaTeX package ORCID link | legacyPackages.x86_64-linux.typstPackages.orchid |
+| typst-package-orchid | 0.1.0 | ORCID identifier tooling inspired from the LaTeX package ORCID link | legacyPackages.x86_64-linux.typstPackages.orchid_0_1_0 |
 | typst-package-ori | 0.1.0 | Simple enough but expressive template for notes, reports, and documents | legacyPackages.x86_64-linux.typstPackages.ori_0_1_0 |
 | typst-package-ori | 0.2.0 | Simple enough but expressive template for notes, reports, and documents | legacyPackages.x86_64-linux.typstPackages.ori_0_2_0 |
 | typst-package-ori | 0.2.1 | Simple enough but expressive template for notes, reports, and documents | legacyPackages.x86_64-linux.typstPackages.ori_0_2_1 |
 | typst-package-ori | 0.2.2 | Simple enough but expressive template for notes, reports, and documents | legacyPackages.x86_64-linux.typstPackages.ori_0_2_2 |
 | typst-package-ori | 0.2.3 | Simple enough but expressive template for notes, reports, and documents in Chinese and English | legacyPackages.x86_64-linux.typstPackages.ori |
 | typst-package-ori | 0.2.3 | Simple enough but expressive template for notes, reports, and documents in Chinese and English | legacyPackages.x86_64-linux.typstPackages.ori_0_2_3 |
+| typst-package-orionotes | 0.1.0 | Take book like notes of entire university courses | legacyPackages.x86_64-linux.typstPackages.orionotes |
+| typst-package-orionotes | 0.1.0 | Take book like notes of entire university courses | legacyPackages.x86_64-linux.typstPackages.orionotes_0_1_0 |
 | typst-package-ostfriesen-layout | 0.1.0 | A clean, professional template for academic writing at University of Applied Sciences Emden/Leer | legacyPackages.x86_64-linux.typstPackages.ostfriesen-layout |
 | typst-package-ostfriesen-layout | 0.1.0 | A clean, professional template for academic writing at University of Applied Sciences Emden/Leer | legacyPackages.x86_64-linux.typstPackages.ostfriesen-layout_0_1_0 |
 | typst-package-ourchat | 0.1.0 | Forge wonderful chat messages | legacyPackages.x86_64-linux.typstPackages.ourchat_0_1_0 |
@@ -93860,10 +94145,13 @@
 | typst-package-outrageous | 0.1.0 | Easier customization of outline entries | legacyPackages.x86_64-linux.typstPackages.outrageous_0_1_0 |
 | typst-package-outrageous | 0.2.0 | Easier customization of outline entries | legacyPackages.x86_64-linux.typstPackages.outrageous_0_2_0 |
 | typst-package-outrageous | 0.3.0 | Easier customization of outline entries | legacyPackages.x86_64-linux.typstPackages.outrageous_0_3_0 |
-| typst-package-outrageous | 0.4.0 | Easier customization of outline entries | legacyPackages.x86_64-linux.typstPackages.outrageous |
 | typst-package-outrageous | 0.4.0 | Easier customization of outline entries | legacyPackages.x86_64-linux.typstPackages.outrageous_0_4_0 |
+| typst-package-outrageous | 0.4.1 | Easier customization of outline entries | legacyPackages.x86_64-linux.typstPackages.outrageous |
+| typst-package-outrageous | 0.4.1 | Easier customization of outline entries | legacyPackages.x86_64-linux.typstPackages.outrageous_0_4_1 |
 | typst-package-owlbear | 0.0.1 | Create fancy-looking homebrewn Dungeons and Dragons 2024 edition | legacyPackages.x86_64-linux.typstPackages.owlbear |
 | typst-package-owlbear | 0.0.1 | Create fancy-looking homebrewn Dungeons and Dragons 2024 edition | legacyPackages.x86_64-linux.typstPackages.owlbear_0_0_1 |
+| typst-package-oxdraw | 0.1.0 | A plugin for visualizing Mermaid diagrams, built on top of oxdraw | legacyPackages.x86_64-linux.typstPackages.oxdraw |
+| typst-package-oxdraw | 0.1.0 | A plugin for visualizing Mermaid diagrams, built on top of oxdraw | legacyPackages.x86_64-linux.typstPackages.oxdraw_0_1_0 |
 | typst-package-oxifmt | 0.2.0 | Convenient Rust-like string formatting in Typst | legacyPackages.x86_64-linux.typstPackages.oxifmt_0_2_0 |
 | typst-package-oxifmt | 0.2.1 | Convenient Rust-like string formatting in Typst | legacyPackages.x86_64-linux.typstPackages.oxifmt_0_2_1 |
 | typst-package-oxifmt | 0.3.0 | Convenient Rust-like string formatting in Typst | legacyPackages.x86_64-linux.typstPackages.oxifmt_0_3_0 |
@@ -93873,16 +94161,21 @@
 | typst-package-paddling-tongji-thesis | 0.1.1 | 同济大学本科生毕业设计论文模板 | Tongji University Undergraduate Thesis Template | legacyPackages.x86_64-linux.typstPackages.paddling-tongji-thesis_0_1_1 |
 | typst-package-paiagram | 0.1.1 | Draw transportation timetable diagrams | legacyPackages.x86_64-linux.typstPackages.paiagram |
 | typst-package-paiagram | 0.1.1 | Draw transportation timetable diagrams | legacyPackages.x86_64-linux.typstPackages.paiagram_0_1_1 |
-| typst-package-para-lipics | 0.1.2 | Unofficial Dagstuhl LIPIcs template | legacyPackages.x86_64-linux.typstPackages.para-lipics |
+| typst-package-pannotyp | 0.0.1 | Hungarian language support: captions, quotes, helper functions | legacyPackages.x86_64-linux.typstPackages.pannotyp |
+| typst-package-pannotyp | 0.0.1 | Hungarian language support: captions, quotes, helper functions | legacyPackages.x86_64-linux.typstPackages.pannotyp_0_0_1 |
 | typst-package-para-lipics | 0.1.2 | Unofficial Dagstuhl LIPIcs template | legacyPackages.x86_64-linux.typstPackages.para-lipics_0_1_2 |
+| typst-package-para-lipics | 0.1.3 | A LIPIcs-style template | legacyPackages.x86_64-linux.typstPackages.para-lipics |
+| typst-package-para-lipics | 0.1.3 | A LIPIcs-style template | legacyPackages.x86_64-linux.typstPackages.para-lipics_0_1_3 |
 | typst-package-parcio-slides | 0.1.0 | A simple polylux slide templated based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-slides_0_1_0 |
-| typst-package-parcio-slides | 0.1.1 | A simple polylux slide templated based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-slides |
 | typst-package-parcio-slides | 0.1.1 | A simple polylux slide templated based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-slides_0_1_1 |
+| typst-package-parcio-slides | 0.1.2 | A simple polylux slide template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-slides |
+| typst-package-parcio-slides | 0.1.2 | A simple polylux slide template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-slides_0_1_2 |
 | typst-package-parcio-thesis | 0.1.0 | A simple thesis template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-thesis_0_1_0 |
 | typst-package-parcio-thesis | 0.2.0 | A simple thesis template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-thesis_0_2_0 |
 | typst-package-parcio-thesis | 0.2.1 | A simple thesis template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-thesis_0_2_1 |
-| typst-package-parcio-thesis | 0.2.2 | A simple thesis template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-thesis |
 | typst-package-parcio-thesis | 0.2.2 | A simple thesis template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-thesis_0_2_2 |
+| typst-package-parcio-thesis | 0.2.3 | A simple thesis template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-thesis |
+| typst-package-parcio-thesis | 0.2.3 | A simple thesis template based on the ParCIO working group at OvGU Magdeburg | legacyPackages.x86_64-linux.typstPackages.parcio-thesis_0_2_3 |
 | typst-package-paris-saclay-thesis-flat | 1.0.2 | An unofficial, flat-design template for Paris-Saclay University theses | legacyPackages.x86_64-linux.typstPackages.paris-saclay-thesis-flat |
 | typst-package-paris-saclay-thesis-flat | 1.0.2 | An unofficial, flat-design template for Paris-Saclay University theses | legacyPackages.x86_64-linux.typstPackages.paris-saclay-thesis-flat_1_0_2 |
 | typst-package-pavemat | 0.1.0 | Style matrices with custom paths, strokes and fills for appealing visualizations | legacyPackages.x86_64-linux.typstPackages.pavemat_0_1_0 |
@@ -93890,12 +94183,14 @@
 | typst-package-pavemat | 0.2.0 | Style matrices with custom paths, strokes and fills for appealing visualizations | legacyPackages.x86_64-linux.typstPackages.pavemat_0_2_0 |
 | typst-package-payqr-swiss | 0.1.0 | A Swiss QR bill generator for Typst | legacyPackages.x86_64-linux.typstPackages.payqr-swiss_0_1_0 |
 | typst-package-payqr-swiss | 0.2.0 | A Swiss QR bill generator for Typst | legacyPackages.x86_64-linux.typstPackages.payqr-swiss_0_2_0 |
-| typst-package-payqr-swiss | 0.3.0 | A Swiss QR bill generator for Typst | legacyPackages.x86_64-linux.typstPackages.payqr-swiss |
 | typst-package-payqr-swiss | 0.3.0 | A Swiss QR bill generator for Typst | legacyPackages.x86_64-linux.typstPackages.payqr-swiss_0_3_0 |
+| typst-package-payqr-swiss | 0.4.0 | A Swiss QR bill generator for Typst | legacyPackages.x86_64-linux.typstPackages.payqr-swiss |
+| typst-package-payqr-swiss | 0.4.0 | A Swiss QR bill generator for Typst | legacyPackages.x86_64-linux.typstPackages.payqr-swiss_0_4_0 |
 | typst-package-pc-letter | 0.0.1 | A simple letter template for personal correspondence | legacyPackages.x86_64-linux.typstPackages.pc-letter_0_0_1 |
 | typst-package-pc-letter | 0.1.0 | A simple letter template for personal correspondence | legacyPackages.x86_64-linux.typstPackages.pc-letter_0_1_0 |
-| typst-package-pc-letter | 0.2.0 | A simple letter template for personal correspondence | legacyPackages.x86_64-linux.typstPackages.pc-letter |
 | typst-package-pc-letter | 0.2.0 | A simple letter template for personal correspondence | legacyPackages.x86_64-linux.typstPackages.pc-letter_0_2_0 |
+| typst-package-pc-letter | 0.3.0 | A simple letter template for personal correspondence | legacyPackages.x86_64-linux.typstPackages.pc-letter |
+| typst-package-pc-letter | 0.3.0 | A simple letter template for personal correspondence | legacyPackages.x86_64-linux.typstPackages.pc-letter_0_3_0 |
 | typst-package-peace-of-posters | 0.4.0 | Create scientific posters in Typst | legacyPackages.x86_64-linux.typstPackages.peace-of-posters_0_4_0 |
 | typst-package-peace-of-posters | 0.4.1 | Create scientific posters in Typst | legacyPackages.x86_64-linux.typstPackages.peace-of-posters_0_4_1 |
 | typst-package-peace-of-posters | 0.4.3 | Create scientific posters in Typst | legacyPackages.x86_64-linux.typstPackages.peace-of-posters_0_4_3 |
@@ -93907,14 +94202,22 @@
 | typst-package-peace-of-posters | 0.5.5 | Create scientific posters in Typst | legacyPackages.x86_64-linux.typstPackages.peace-of-posters_0_5_5 |
 | typst-package-peace-of-posters | 0.5.6 | Create scientific posters in Typst | legacyPackages.x86_64-linux.typstPackages.peace-of-posters |
 | typst-package-peace-of-posters | 0.5.6 | Create scientific posters in Typst | legacyPackages.x86_64-linux.typstPackages.peace-of-posters_0_5_6 |
+| typst-package-peano | 0.1.0 | A mathematics utility library providing specialized number types, number theory operations and special mathematic functions, etc | legacyPackages.x86_64-linux.typstPackages.peano_0_1_0 |
+| typst-package-peano | 0.2.0 | A mathematics utility library providing specialized number types, number theory operations and special mathematic functions, etc | legacyPackages.x86_64-linux.typstPackages.peano_0_2_0 |
+| typst-package-peano | 0.2.1 | A mathematics utility library providing specialized number types, number theory operations and a variety of math functions, etc | legacyPackages.x86_64-linux.typstPackages.peano |
+| typst-package-peano | 0.2.1 | A mathematics utility library providing specialized number types, number theory operations and a variety of math functions, etc | legacyPackages.x86_64-linux.typstPackages.peano_0_2_1 |
 | typst-package-penpo | 0.1.0 | ni li ken alasa e pakala lili, li ken sitelen e lipu sina | toki pona spellchecker and typesetter | legacyPackages.x86_64-linux.typstPackages.penpo |
 | typst-package-penpo | 0.1.0 | ni li ken alasa e pakala lili, li ken sitelen e lipu sina | toki pona spellchecker and typesetter | legacyPackages.x86_64-linux.typstPackages.penpo_0_1_0 |
 | typst-package-percencode | 0.1.0 | Work with percent-encoding used by web browsers to encode URLs | legacyPackages.x86_64-linux.typstPackages.percencode |
 | typst-package-percencode | 0.1.0 | Work with percent-encoding used by web browsers to encode URLs | legacyPackages.x86_64-linux.typstPackages.percencode_0_1_0 |
 | typst-package-pergamon | 0.1.0 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon_0_1_0 |
 | typst-package-pergamon | 0.2.0 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon_0_2_0 |
-| typst-package-pergamon | 0.3.0 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon |
 | typst-package-pergamon | 0.3.0 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon_0_3_0 |
+| typst-package-pergamon | 0.3.1 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon_0_3_1 |
+| typst-package-pergamon | 0.3.2 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon_0_3_2 |
+| typst-package-pergamon | 0.4.0 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon_0_4_0 |
+| typst-package-pergamon | 0.5.0 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon |
+| typst-package-pergamon | 0.5.0 | Biblatex-style reference management for Typst | legacyPackages.x86_64-linux.typstPackages.pergamon_0_5_0 |
 | typst-package-pesha | 0.1.0 | A clean and minimal template for your résumé or CV | legacyPackages.x86_64-linux.typstPackages.pesha_0_1_0 |
 | typst-package-pesha | 0.2.0 | A clean and minimal template for your résumé or CV | legacyPackages.x86_64-linux.typstPackages.pesha_0_2_0 |
 | typst-package-pesha | 0.3.0 | A clean and minimal template for your résumé or CV | legacyPackages.x86_64-linux.typstPackages.pesha_0_3_0 |
@@ -93929,8 +94232,10 @@
 | typst-package-physica | 0.9.2 | Neat derivative, differential, field, matrix, braket, tensor, hbar, etc | legacyPackages.x86_64-linux.typstPackages.physica_0_9_2 |
 | typst-package-physica | 0.9.3 | Math constructs for science and engineering: derivative, differential, vector field, matrix, tensor, Dirac braket, hbar, transpose, conjugate, many operators, and more | legacyPackages.x86_64-linux.typstPackages.physica_0_9_3 |
 | typst-package-physica | 0.9.4 | Math constructs for science and engineering: derivative, differential, vector field, matrix, tensor, Dirac braket, hbar, transpose, conjugate, many operators, and more | legacyPackages.x86_64-linux.typstPackages.physica_0_9_4 |
-| typst-package-physica | 0.9.5 | Math constructs for science and engineering: derivative, differential, vector field, matrix, tensor, Dirac braket, hbar, transpose, conjugate, many operators, and more | legacyPackages.x86_64-linux.typstPackages.physica |
 | typst-package-physica | 0.9.5 | Math constructs for science and engineering: derivative, differential, vector field, matrix, tensor, Dirac braket, hbar, transpose, conjugate, many operators, and more | legacyPackages.x86_64-linux.typstPackages.physica_0_9_5 |
+| typst-package-physica | 0.9.6 | Math constructs for science and engineering: derivative, differential, vector field, matrix, tensor, Dirac braket, hbar, transpose, conjugate, many operators, and more | legacyPackages.x86_64-linux.typstPackages.physica_0_9_6 |
+| typst-package-physica | 0.9.7 | Math constructs for science and engineering: derivative, differential, vector field, matrix, tensor, Dirac braket, hbar, transpose, conjugate, many operators, and more | legacyPackages.x86_64-linux.typstPackages.physica |
+| typst-package-physica | 0.9.7 | Math constructs for science and engineering: derivative, differential, vector field, matrix, tensor, Dirac braket, hbar, transpose, conjugate, many operators, and more | legacyPackages.x86_64-linux.typstPackages.physica_0_9_7 |
 | typst-package-pigmentpedia | 0.1.0 | An extended color library for Typst | legacyPackages.x86_64-linux.typstPackages.pigmentpedia_0_1_0 |
 | typst-package-pigmentpedia | 0.3.0 | An extensive color library for Typst | legacyPackages.x86_64-linux.typstPackages.pigmentpedia_0_3_0 |
 | typst-package-pigmentpedia | 0.3.1 | An extensive color library for Typst | legacyPackages.x86_64-linux.typstPackages.pigmentpedia_0_3_1 |
@@ -93961,6 +94266,8 @@
 | typst-package-pintorita | 0.1.4 | Package to draw Sequence Diagrams, Entity Relationship Diagrams, Component Diagrams, Activity Diagrams, Mind Maps, Gantt Diagrams, and DOT Diagrams based on Pintora which is heavily influenced by mermaid.js and plantuml | legacyPackages.x86_64-linux.typstPackages.pintorita_0_1_4 |
 | typst-package-pioneering-rlj | 0.6.0 | Template for submission to Reinforcement Learning Conference/Journal (RLC/RLJ | legacyPackages.x86_64-linux.typstPackages.pioneering-rlj |
 | typst-package-pioneering-rlj | 0.6.0 | Template for submission to Reinforcement Learning Conference/Journal (RLC/RLJ | legacyPackages.x86_64-linux.typstPackages.pioneering-rlj_0_6_0 |
+| typst-package-playwright | 0.1.0 | Dramatist's Guild guidelines oriented formatting for stageplays | legacyPackages.x86_64-linux.typstPackages.playwright |
+| typst-package-playwright | 0.1.0 | Dramatist's Guild guidelines oriented formatting for stageplays | legacyPackages.x86_64-linux.typstPackages.playwright_0_1_0 |
 | typst-package-pleast | 0.2.0 | A package to parse Plist XML file | legacyPackages.x86_64-linux.typstPackages.pleast_0_2_0 |
 | typst-package-pleast | 0.3.0 | Parse XML files in Property List format (abbreviated as plist, used for .tmTheme files | legacyPackages.x86_64-linux.typstPackages.pleast |
 | typst-package-pleast | 0.3.0 | Parse XML files in Property List format (abbreviated as plist, used for .tmTheme files | legacyPackages.x86_64-linux.typstPackages.pleast_0_3_0 |
@@ -93975,28 +94282,40 @@
 | typst-package-pointless-size | 0.1.1 | 中文字号的号数制及字体度量单位 Chinese size system (hào-system) and type-related measurements units | legacyPackages.x86_64-linux.typstPackages.pointless-size_0_1_1 |
 | typst-package-pointless-size | 0.1.2 | 中文字号的号数制及字体度量单位 Chinese size system (hào-system) and type-related measurements units | legacyPackages.x86_64-linux.typstPackages.pointless-size |
 | typst-package-pointless-size | 0.1.2 | 中文字号的号数制及字体度量单位 Chinese size system (hào-system) and type-related measurements units | legacyPackages.x86_64-linux.typstPackages.pointless-size_0_1_2 |
+| typst-package-polario-frame | 0.1.0 | A Collection of Photo Frame Templates | legacyPackages.x86_64-linux.typstPackages.polario-frame_0_1_0 |
+| typst-package-polario-frame | 1.0.0 | A Collection of Photo Frame Templates | legacyPackages.x86_64-linux.typstPackages.polario-frame |
+| typst-package-polario-frame | 1.0.0 | A Collection of Photo Frame Templates | legacyPackages.x86_64-linux.typstPackages.polario-frame_1_0_0 |
 | typst-package-politemplate | 0.1.0 | Report and assignment template for Poli-USP university | legacyPackages.x86_64-linux.typstPackages.politemplate |
 | typst-package-politemplate | 0.1.0 | Report and assignment template for Poli-USP university | legacyPackages.x86_64-linux.typstPackages.politemplate_0_1_0 |
+| typst-package-polito-thesis | 0.1.0 | Thesis at Politecnico di Torino (unofficial | legacyPackages.x86_64-linux.typstPackages.polito-thesis_0_1_0 |
+| typst-package-polito-thesis | 0.1.1 | Thesis at Politecnico di Torino (unofficial | legacyPackages.x86_64-linux.typstPackages.polito-thesis_0_1_1 |
+| typst-package-polito-thesis | 0.1.2 | Thesis at Politecnico di Torino (unofficial | legacyPackages.x86_64-linux.typstPackages.polito-thesis |
+| typst-package-polito-thesis | 0.1.2 | Thesis at Politecnico di Torino (unofficial | legacyPackages.x86_64-linux.typstPackages.polito-thesis_0_1_2 |
+| typst-package-pollux | 0.1.0 | A clean and minimal academic poster template inspired by gemini | legacyPackages.x86_64-linux.typstPackages.pollux |
+| typst-package-pollux | 0.1.0 | A clean and minimal academic poster template inspired by gemini | legacyPackages.x86_64-linux.typstPackages.pollux_0_1_0 |
 | typst-package-polylux | 0.2.0 | Presentation slides creation with Typst | legacyPackages.x86_64-linux.typstPackages.polylux_0_2_0 |
 | typst-package-polylux | 0.3.1 | Presentation slides creation with Typst | legacyPackages.x86_64-linux.typstPackages.polylux_0_3_1 |
 | typst-package-polylux | 0.4.0 | Presentation slides creation with Typst | legacyPackages.x86_64-linux.typstPackages.polylux |
 | typst-package-polylux | 0.4.0 | Presentation slides creation with Typst | legacyPackages.x86_64-linux.typstPackages.polylux_0_4_0 |
-| typst-package-polytonoi | 0.1.0 | Renders Roman letters into polytonic Greek | legacyPackages.x86_64-linux.typstPackages.polytonoi |
 | typst-package-polytonoi | 0.1.0 | Renders Roman letters into polytonic Greek | legacyPackages.x86_64-linux.typstPackages.polytonoi_0_1_0 |
+| typst-package-polytonoi | 0.2.0 | Renders Roman letters into polytonic Greek | legacyPackages.x86_64-linux.typstPackages.polytonoi |
+| typst-package-polytonoi | 0.2.0 | Renders Roman letters into polytonic Greek | legacyPackages.x86_64-linux.typstPackages.polytonoi_0_2_0 |
 | typst-package-porygon | 0.1.0 | Create a CV from a JSON file | legacyPackages.x86_64-linux.typstPackages.porygon |
 | typst-package-porygon | 0.1.0 | Create a CV from a JSON file | legacyPackages.x86_64-linux.typstPackages.porygon_0_1_0 |
 | typst-package-poster-syndrome | 0.1.0 | A poster template with custom frame placement | legacyPackages.x86_64-linux.typstPackages.poster-syndrome |
 | typst-package-poster-syndrome | 0.1.0 | A poster template with custom frame placement | legacyPackages.x86_64-linux.typstPackages.poster-syndrome_0_1_0 |
-| typst-package-postercise | 0.1.0 | Postercise allows users to easily create academic research posters with different themes using Typst | legacyPackages.x86_64-linux.typstPackages.postercise |
 | typst-package-postercise | 0.1.0 | Postercise allows users to easily create academic research posters with different themes using Typst | legacyPackages.x86_64-linux.typstPackages.postercise_0_1_0 |
+| typst-package-postercise | 0.2.0 | Postercise allows users to easily create academic research posters with different themes using Typst | legacyPackages.x86_64-linux.typstPackages.postercise |
+| typst-package-postercise | 0.2.0 | Postercise allows users to easily create academic research posters with different themes using Typst | legacyPackages.x86_64-linux.typstPackages.postercise_0_2_0 |
 | typst-package-preprintx | 0.1.0 | A two-column preprint layout, inspired by HenriquesLab bioRxiv template | legacyPackages.x86_64-linux.typstPackages.preprintx |
 | typst-package-preprintx | 0.1.0 | A two-column preprint layout, inspired by HenriquesLab bioRxiv template | legacyPackages.x86_64-linux.typstPackages.preprintx_0_1_0 |
 | typst-package-prequery | 0.1.0 | library for extracting metadata for preprocessing from a typst document | legacyPackages.x86_64-linux.typstPackages.prequery_0_1_0 |
 | typst-package-prequery | 0.2.0 | library for extracting metadata for preprocessing from a typst document | legacyPackages.x86_64-linux.typstPackages.prequery |
 | typst-package-prequery | 0.2.0 | library for extracting metadata for preprocessing from a typst document | legacyPackages.x86_64-linux.typstPackages.prequery_0_2_0 |
 | typst-package-presentate | 0.1.0 | A package to create slides with ease | legacyPackages.x86_64-linux.typstPackages.presentate_0_1_0 |
-| typst-package-presentate | 0.2.0 | A package to create slides with ease | legacyPackages.x86_64-linux.typstPackages.presentate |
 | typst-package-presentate | 0.2.0 | A package to create slides with ease | legacyPackages.x86_64-linux.typstPackages.presentate_0_2_0 |
+| typst-package-presentate | 0.2.1 | A package to create slides with ease | legacyPackages.x86_64-linux.typstPackages.presentate |
+| typst-package-presentate | 0.2.1 | A package to create slides with ease | legacyPackages.x86_64-linux.typstPackages.presentate_0_2_1 |
 | typst-package-pretty-hdm-thesis | 0.1.0 | Unofficial HdM Thesis Template inspired by the template by Prof. Dr. Dirk Heuzeroth | legacyPackages.x86_64-linux.typstPackages.pretty-hdm-thesis_0_1_0 |
 | typst-package-pretty-hdm-thesis | 0.1.1 | Unofficial HdM Thesis Template inspired by the template by Prof. Dr. Dirk Heuzeroth | legacyPackages.x86_64-linux.typstPackages.pretty-hdm-thesis |
 | typst-package-pretty-hdm-thesis | 0.1.1 | Unofficial HdM Thesis Template inspired by the template by Prof. Dr. Dirk Heuzeroth | legacyPackages.x86_64-linux.typstPackages.pretty-hdm-thesis_0_1_1 |
@@ -94011,17 +94330,21 @@
 | typst-package-problemst | 0.1.2 | Simple and easy-to-use template for problem sets/homeworks/assignments | legacyPackages.x86_64-linux.typstPackages.problemst_0_1_2 |
 | typst-package-project-isi-zac | 0.1.0 | A template for writing reports and thesis | legacyPackages.x86_64-linux.typstPackages.project-isi-zac |
 | typst-package-project-isi-zac | 0.1.0 | A template for writing reports and thesis | legacyPackages.x86_64-linux.typstPackages.project-isi-zac_0_1_0 |
+| typst-package-prometeu-thesis | 0.1.0 | Thesis template for University of Minho | legacyPackages.x86_64-linux.typstPackages.prometeu-thesis |
+| typst-package-prometeu-thesis | 0.1.0 | Thesis template for University of Minho | legacyPackages.x86_64-linux.typstPackages.prometeu-thesis_0_1_0 |
 | typst-package-prooftrees | 0.1.0 | [Deprecated in favour of `curryst`; this package is no longer maintained.] Proof trees for natural deduction and type theories | legacyPackages.x86_64-linux.typstPackages.prooftrees |
 | typst-package-prooftrees | 0.1.0 | [Deprecated in favour of `curryst`; this package is no longer maintained.] Proof trees for natural deduction and type theories | legacyPackages.x86_64-linux.typstPackages.prooftrees_0_1_0 |
 | typst-package-proteograph | 0.1.0 | A package to visualise proteomics data | legacyPackages.x86_64-linux.typstPackages.proteograph_0_1_0 |
-| typst-package-proteograph | 0.2.0 | A package to visualise proteomics data | legacyPackages.x86_64-linux.typstPackages.proteograph |
 | typst-package-proteograph | 0.2.0 | A package to visualise proteomics data | legacyPackages.x86_64-linux.typstPackages.proteograph_0_2_0 |
+| typst-package-proteograph | 0.2.1 | A package to visualise proteomics data | legacyPackages.x86_64-linux.typstPackages.proteograph |
+| typst-package-proteograph | 0.2.1 | A package to visualise proteomics data | legacyPackages.x86_64-linux.typstPackages.proteograph_0_2_1 |
 | typst-package-psl-thesis | 0.1.0 | Template for a PhD thesis manuscript at Paris Sciences et Lettres (PSL) University | legacyPackages.x86_64-linux.typstPackages.psl-thesis |
 | typst-package-psl-thesis | 0.1.0 | Template for a PhD thesis manuscript at Paris Sciences et Lettres (PSL) University | legacyPackages.x86_64-linux.typstPackages.psl-thesis_0_1_0 |
 | typst-package-pubmatter | 0.1.0 | Parse, normalize and show publication frontmatter, including authors and affiliations | legacyPackages.x86_64-linux.typstPackages.pubmatter_0_1_0 |
 | typst-package-pubmatter | 0.2.0 | Parse, normalize and show publication frontmatter, including authors and affiliations | legacyPackages.x86_64-linux.typstPackages.pubmatter_0_2_0 |
-| typst-package-pubmatter | 0.2.1 | Parse, normalize and show publication frontmatter, including authors and affiliations | legacyPackages.x86_64-linux.typstPackages.pubmatter |
 | typst-package-pubmatter | 0.2.1 | Parse, normalize and show publication frontmatter, including authors and affiliations | legacyPackages.x86_64-linux.typstPackages.pubmatter_0_2_1 |
+| typst-package-pubmatter | 0.2.2 | Parse, normalize and show publication frontmatter, including authors and affiliations | legacyPackages.x86_64-linux.typstPackages.pubmatter |
+| typst-package-pubmatter | 0.2.2 | Parse, normalize and show publication frontmatter, including authors and affiliations | legacyPackages.x86_64-linux.typstPackages.pubmatter_0_2_2 |
 | typst-package-pull-eh | 0.1.0 | Visualize pulleys with Typst and CeTZ | legacyPackages.x86_64-linux.typstPackages.pull-eh_0_1_0 |
 | typst-package-pull-eh | 0.1.1 | Visualize pulleys with Typst and CeTZ | legacyPackages.x86_64-linux.typstPackages.pull-eh |
 | typst-package-pull-eh | 0.1.1 | Visualize pulleys with Typst and CeTZ | legacyPackages.x86_64-linux.typstPackages.pull-eh_0_1_1 |
@@ -94086,25 +94409,36 @@
 | typst-package-quill | 0.7.2 | Effortlessly create quantum circuit diagrams | legacyPackages.x86_64-linux.typstPackages.quill_0_7_2 |
 | typst-package-quizst | 0.3.2 | Typst template for McQ exams | legacyPackages.x86_64-linux.typstPackages.quizst |
 | typst-package-quizst | 0.3.2 | Typst template for McQ exams | legacyPackages.x86_64-linux.typstPackages.quizst_0_3_2 |
+| typst-package-quiztime | 0.1.0 | Create little quizzes | legacyPackages.x86_64-linux.typstPackages.quiztime |
+| typst-package-quiztime | 0.1.0 | Create little quizzes | legacyPackages.x86_64-linux.typstPackages.quiztime_0_1_0 |
+| typst-package-quonom | 0.1.0 | Manually and automatically typeset synthetic division | legacyPackages.x86_64-linux.typstPackages.quonom |
+| typst-package-quonom | 0.1.0 | Manually and automatically typeset synthetic division | legacyPackages.x86_64-linux.typstPackages.quonom_0_1_0 |
 | typst-package-railynx | 0.1.0 | Draw rail track diagrams with concise syntax | legacyPackages.x86_64-linux.typstPackages.railynx |
 | typst-package-railynx | 0.1.0 | Draw rail track diagrams with concise syntax | legacyPackages.x86_64-linux.typstPackages.railynx_0_1_0 |
+| typst-package-ready-acm-dtu-ux | 0.1.0 | The ACM-based template for UX Design Prototyping / UX Engineering assignments at Technical University of Denmark (DTU | legacyPackages.x86_64-linux.typstPackages.ready-acm-dtu-ux |
+| typst-package-ready-acm-dtu-ux | 0.1.0 | The ACM-based template for UX Design Prototyping / UX Engineering assignments at Technical University of Denmark (DTU | legacyPackages.x86_64-linux.typstPackages.ready-acm-dtu-ux_0_1_0 |
 | typst-package-realhats | 0.1.0 | Put real hats on symbols instead of circumflexes | legacyPackages.x86_64-linux.typstPackages.realhats |
 | typst-package-realhats | 0.1.0 | Put real hats on symbols instead of circumflexes | legacyPackages.x86_64-linux.typstPackages.realhats_0_1_0 |
 | typst-package-red-agora | 0.1.0 | A Typst template to quickly scaffold a report for your projects and internships at ENSIAS | legacyPackages.x86_64-linux.typstPackages.red-agora_0_1_0 |
-| typst-package-red-agora | 0.1.1 | A Typst template to quickly scaffold a report for your projects and internships at ENSIAS | legacyPackages.x86_64-linux.typstPackages.red-agora |
 | typst-package-red-agora | 0.1.1 | A Typst template to quickly scaffold a report for your projects and internships at ENSIAS | legacyPackages.x86_64-linux.typstPackages.red-agora_0_1_1 |
+| typst-package-red-agora | 0.1.2 | A Typst template to quickly scaffold a report for your projects and internships at ENSIAS | legacyPackages.x86_64-linux.typstPackages.red-agora |
+| typst-package-red-agora | 0.1.2 | A Typst template to quickly scaffold a report for your projects and internships at ENSIAS | legacyPackages.x86_64-linux.typstPackages.red-agora_0_1_2 |
 | typst-package-relescope | 0.0.1 | Crop the desired code | legacyPackages.x86_64-linux.typstPackages.relescope_0_0_1 |
 | typst-package-relescope | 0.0.2 | Crop the desired code | legacyPackages.x86_64-linux.typstPackages.relescope |
 | typst-package-relescope | 0.0.2 | Crop the desired code | legacyPackages.x86_64-linux.typstPackages.relescope_0_0_2 |
 | typst-package-report-flow-ustc | 1.0.0 | A template suitable for USTC students (of course, you can freely modify it for any school or organization) to complete course assignments or submit lab reports | legacyPackages.x86_64-linux.typstPackages.report-flow-ustc_1_0_0 |
 | typst-package-report-flow-ustc | 1.1.0 | A template suitable for USTC students (of course, you can freely modify it for any school or organization) to complete course assignments or submit lab reports | legacyPackages.x86_64-linux.typstPackages.report-flow-ustc |
 | typst-package-report-flow-ustc | 1.1.0 | A template suitable for USTC students (of course, you can freely modify it for any school or organization) to complete course assignments or submit lab reports | legacyPackages.x86_64-linux.typstPackages.report-flow-ustc_1_1_0 |
+| typst-package-resumania | 1.0.0 | Procedural resume building | legacyPackages.x86_64-linux.typstPackages.resumania |
+| typst-package-resumania | 1.0.0 | Procedural resume building | legacyPackages.x86_64-linux.typstPackages.resumania_1_0_0 |
 | typst-package-resume-ng | 1.0.0 | A Typst resume designed for optimal information density and aesthetic appeal | legacyPackages.x86_64-linux.typstPackages.resume-ng |
 | typst-package-resume-ng | 1.0.0 | A Typst resume designed for optimal information density and aesthetic appeal | legacyPackages.x86_64-linux.typstPackages.resume-ng_1_0_0 |
 | typst-package-retrofit | 0.1.0 | Adds clickable backreferences to each bibliography entry, enabling custom formatting of all cited pages | legacyPackages.x86_64-linux.typstPackages.retrofit_0_1_0 |
 | typst-package-retrofit | 0.1.1 | Adds clickable backreferences to each bibliography entry, enabling custom formatting of all cited pages | legacyPackages.x86_64-linux.typstPackages.retrofit_0_1_1 |
 | typst-package-retrofit | 0.1.2 | Adds clickable backreferences to each bibliography entry, enabling custom formatting of all cited pages | legacyPackages.x86_64-linux.typstPackages.retrofit |
 | typst-package-retrofit | 0.1.2 | Adds clickable backreferences to each bibliography entry, enabling custom formatting of all cited pages | legacyPackages.x86_64-linux.typstPackages.retrofit_0_1_2 |
+| typst-package-revtyp | 0.14.0 | Template for APS PRAB styled papers | legacyPackages.x86_64-linux.typstPackages.revtyp |
+| typst-package-revtyp | 0.14.0 | Template for APS PRAB styled papers | legacyPackages.x86_64-linux.typstPackages.revtyp_0_14_0 |
 | typst-package-rexllent | 0.2.0 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_2_0 |
 | typst-package-rexllent | 0.2.1 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_2_1 |
 | typst-package-rexllent | 0.2.2 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_2_2 |
@@ -94113,10 +94447,13 @@
 | typst-package-rexllent | 0.3.1 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_3_1 |
 | typst-package-rexllent | 0.3.2 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_3_2 |
 | typst-package-rexllent | 0.3.3 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_3_3 |
-| typst-package-rexllent | 0.3.4 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent |
 | typst-package-rexllent | 0.3.4 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_3_4 |
+| typst-package-rexllent | 0.4.0 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent |
+| typst-package-rexllent | 0.4.0 | Parsing xlsx file into a typst table, powered by wasm | legacyPackages.x86_64-linux.typstPackages.rexllent_0_4_0 |
 | typst-package-rfc-vibe | 0.1.0 | Bring RFC language into everyday docs | legacyPackages.x86_64-linux.typstPackages.rfc-vibe |
 | typst-package-rfc-vibe | 0.1.0 | Bring RFC language into everyday docs | legacyPackages.x86_64-linux.typstPackages.rfc-vibe_0_1_0 |
+| typst-package-ribbony | 0.1.0 | Create Sankey and Chord (ribbon-like) diagrams | legacyPackages.x86_64-linux.typstPackages.ribbony |
+| typst-package-ribbony | 0.1.0 | Create Sankey and Chord (ribbon-like) diagrams | legacyPackages.x86_64-linux.typstPackages.ribbony_0_1_0 |
 | typst-package-rich-counters | 0.1.0 | Counters which can depend on other counters | legacyPackages.x86_64-linux.typstPackages.rich-counters_0_1_0 |
 | typst-package-rich-counters | 0.2.0 | Counters which can depend on other counters | legacyPackages.x86_64-linux.typstPackages.rich-counters_0_2_0 |
 | typst-package-rich-counters | 0.2.1 | Counters which can inherit from other counters | legacyPackages.x86_64-linux.typstPackages.rich-counters_0_2_1 |
@@ -94163,8 +94500,9 @@
 | typst-package-rufish | 0.1.0 | Russian Lorem Ipsum text generator | legacyPackages.x86_64-linux.typstPackages.rufish_0_1_0 |
 | typst-package-run-liners | 0.1.0 | Functions to create various run-in lists | legacyPackages.x86_64-linux.typstPackages.run-liners |
 | typst-package-run-liners | 0.1.0 | Functions to create various run-in lists | legacyPackages.x86_64-linux.typstPackages.run-liners_0_1_0 |
-| typst-package-rustycure | 0.1.0 | Generate QR codes fast | legacyPackages.x86_64-linux.typstPackages.rustycure |
 | typst-package-rustycure | 0.1.0 | Generate QR codes fast | legacyPackages.x86_64-linux.typstPackages.rustycure_0_1_0 |
+| typst-package-rustycure | 0.2.0 | Generate QR codes fast | legacyPackages.x86_64-linux.typstPackages.rustycure |
+| typst-package-rustycure | 0.2.0 | Generate QR codes fast | legacyPackages.x86_64-linux.typstPackages.rustycure_0_2_0 |
 | typst-package-s6t5-page-bordering | 1.0.0 | Way to write border around page margin and header/footer | legacyPackages.x86_64-linux.typstPackages.s6t5-page-bordering |
 | typst-package-s6t5-page-bordering | 1.0.0 | Way to write border around page margin and header/footer | legacyPackages.x86_64-linux.typstPackages.s6t5-page-bordering_1_0_0 |
 | typst-package-salsa-dip | 0.1.0 | DIP chip labels for Typst | legacyPackages.x86_64-linux.typstPackages.salsa-dip |
@@ -94193,6 +94531,9 @@
 | typst-package-scholarly-tauthesis | 0.15.0 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_15_0 |
 | typst-package-scholarly-tauthesis | 0.15.2 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_15_2 |
 | typst-package-scholarly-tauthesis | 0.16.3 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_16_3 |
+| typst-package-scholarly-tauthesis | 0.17.1 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_17_1 |
+| typst-package-scholarly-tauthesis | 0.17.2 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_17_2 |
+| typst-package-scholarly-tauthesis | 0.17.4 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_17_4 |
 | typst-package-scholarly-tauthesis | 0.4.0 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_4_0 |
 | typst-package-scholarly-tauthesis | 0.4.1 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_4_1 |
 | typst-package-scholarly-tauthesis | 0.5.0 | A template for writing Tampere University theses | legacyPackages.x86_64-linux.typstPackages.scholarly-tauthesis_0_5_0 |
@@ -94204,6 +94545,12 @@
 | typst-package-scienceicons | 0.0.6 | SVG icons for open-science articles | legacyPackages.x86_64-linux.typstPackages.scienceicons_0_0_6 |
 | typst-package-scienceicons | 0.1.0 | SVG icons for open-science articles | legacyPackages.x86_64-linux.typstPackages.scienceicons |
 | typst-package-scienceicons | 0.1.0 | SVG icons for open-science articles | legacyPackages.x86_64-linux.typstPackages.scienceicons_0_1_0 |
+| typst-package-scribbling-hm | 0.1.0 | Unofficial Bachelor's thesis template for Munich University of Applied Sciences (Hochschule München | legacyPackages.x86_64-linux.typstPackages.scribbling-hm_0_1_0 |
+| typst-package-scribbling-hm | 0.1.1 | Unofficial Bachelor's thesis template for Munich University of Applied Sciences (Hochschule München | legacyPackages.x86_64-linux.typstPackages.scribbling-hm_0_1_1 |
+| typst-package-scribbling-hm | 0.1.2 | Unofficial Bachelor's thesis template for Munich University of Applied Sciences (Hochschule München | legacyPackages.x86_64-linux.typstPackages.scribbling-hm_0_1_2 |
+| typst-package-scribbling-hm | 0.1.3 | Unofficial Bachelor's thesis template for Munich University of Applied Sciences (Hochschule München | legacyPackages.x86_64-linux.typstPackages.scribbling-hm_0_1_3 |
+| typst-package-scribbling-hm | 0.1.4 | Unofficial Bachelor's thesis template for Munich University of Applied Sciences (Hochschule München | legacyPackages.x86_64-linux.typstPackages.scribbling-hm |
+| typst-package-scribbling-hm | 0.1.4 | Unofficial Bachelor's thesis template for Munich University of Applied Sciences (Hochschule München | legacyPackages.x86_64-linux.typstPackages.scribbling-hm_0_1_4 |
 | typst-package-scribe | 0.1.0 | Write math in ascii notation | legacyPackages.x86_64-linux.typstPackages.scribe_0_1_0 |
 | typst-package-scribe | 0.2.0 | Write math in ascii notation | legacyPackages.x86_64-linux.typstPackages.scribe |
 | typst-package-scribe | 0.2.0 | Write math in ascii notation | legacyPackages.x86_64-linux.typstPackages.scribe_0_2_0 |
@@ -94224,6 +94571,8 @@
 | typst-package-sdu-touying-simpl | 0.3.1 | An templete based on touying,  | legacyPackages.x86_64-linux.typstPackages.sdu-touying-simpl_0_3_1 |
 | typst-package-sdu-touying-simpl | 1.0.0 | An templete based on touying,  | legacyPackages.x86_64-linux.typstPackages.sdu-touying-simpl |
 | typst-package-sdu-touying-simpl | 1.0.0 | An templete based on touying,  | legacyPackages.x86_64-linux.typstPackages.sdu-touying-simpl_1_0_0 |
+| typst-package-sela | 0.1.0 | Select elements whose fields have any of the given values, without repeating `selector.or | legacyPackages.x86_64-linux.typstPackages.sela |
+| typst-package-sela | 0.1.0 | Select elements whose fields have any of the given values, without repeating `selector.or | legacyPackages.x86_64-linux.typstPackages.sela_0_1_0 |
 | typst-package-self-example | 0.1.0 | A typst package that will eval your typst command together with itself as a raw block | legacyPackages.x86_64-linux.typstPackages.self-example |
 | typst-package-self-example | 0.1.0 | A typst package that will eval your typst command together with itself as a raw block | legacyPackages.x86_64-linux.typstPackages.self-example_0_1_0 |
 | typst-package-shadowed | 0.1.0 | Box shadows for Typst | legacyPackages.x86_64-linux.typstPackages.shadowed_0_1_0 |
@@ -94248,8 +94597,13 @@
 | typst-package-shiroa | 0.2.0 | A simple tool for creating modern online books in pure typst | legacyPackages.x86_64-linux.typstPackages.shiroa_0_2_0 |
 | typst-package-shiroa | 0.2.1 | A simple tool for creating modern online books in pure typst | legacyPackages.x86_64-linux.typstPackages.shiroa_0_2_1 |
 | typst-package-shiroa | 0.2.2 | A simple tool for creating modern online books in pure typst | legacyPackages.x86_64-linux.typstPackages.shiroa_0_2_2 |
-| typst-package-shiroa | 0.2.3 | A simple tool for creating modern online books in pure typst | legacyPackages.x86_64-linux.typstPackages.shiroa |
 | typst-package-shiroa | 0.2.3 | A simple tool for creating modern online books in pure typst | legacyPackages.x86_64-linux.typstPackages.shiroa_0_2_3 |
+| typst-package-shiroa | 0.3.0 | A simple tool for creating modern online books in pure typst | legacyPackages.x86_64-linux.typstPackages.shiroa |
+| typst-package-shiroa | 0.3.0 | A simple tool for creating modern online books in pure typst | legacyPackages.x86_64-linux.typstPackages.shiroa_0_3_0 |
+| typst-package-shiroa-mdbook | 0.3.0 | The mdbook theme is a modern, responsive theme for [Shiroa](https://github.com/Myriad-Dreamin/shiroa/), inspired by the mdbook | legacyPackages.x86_64-linux.typstPackages.shiroa-mdbook |
+| typst-package-shiroa-mdbook | 0.3.0 | The mdbook theme is a modern, responsive theme for [Shiroa](https://github.com/Myriad-Dreamin/shiroa/), inspired by the mdbook | legacyPackages.x86_64-linux.typstPackages.shiroa-mdbook_0_3_0 |
+| typst-package-shiroa-starlight | 0.3.0 | The starlight theme is a modern, responsive theme for [Shiroa](https://github.com/Myriad-Dreamin/shiroa/), inspired by the Astro Starlight | legacyPackages.x86_64-linux.typstPackages.shiroa-starlight |
+| typst-package-shiroa-starlight | 0.3.0 | The starlight theme is a modern, responsive theme for [Shiroa](https://github.com/Myriad-Dreamin/shiroa/), inspired by the Astro Starlight | legacyPackages.x86_64-linux.typstPackages.shiroa-starlight_0_3_0 |
 | typst-package-showman | 0.1.0 | Eval & show typst code outputs inline with their source | legacyPackages.x86_64-linux.typstPackages.showman_0_1_0 |
 | typst-package-showman | 0.1.1 | Eval & show typst code outputs inline with their source | legacyPackages.x86_64-linux.typstPackages.showman_0_1_1 |
 | typst-package-showman | 0.1.2 | Eval & show typst code outputs inline with their source | legacyPackages.x86_64-linux.typstPackages.showman |
@@ -94276,8 +94630,9 @@
 | typst-package-shuosc-shu-bachelor-thesis | 0.3.1 | 上海大学本科生毕业论文 Typst 模板 - 上海大学开源社区版 (SHUOSC | legacyPackages.x86_64-linux.typstPackages.shuosc-shu-bachelor-thesis_0_3_1 |
 | typst-package-shuxuejuan | 0.1.0 | A simple Typst template for math exam in Chinese | legacyPackages.x86_64-linux.typstPackages.shuxuejuan_0_1_0 |
 | typst-package-shuxuejuan | 0.1.1 | A simple Typst template for math exam in Chinese | legacyPackages.x86_64-linux.typstPackages.shuxuejuan_0_1_1 |
-| typst-package-shuxuejuan | 0.1.2 | A simple Typst template for math exam in Chinese | legacyPackages.x86_64-linux.typstPackages.shuxuejuan |
 | typst-package-shuxuejuan | 0.1.2 | A simple Typst template for math exam in Chinese | legacyPackages.x86_64-linux.typstPackages.shuxuejuan_0_1_2 |
+| typst-package-shuxuejuan | 0.1.3 | A simple template for math exam in Chinese | legacyPackages.x86_64-linux.typstPackages.shuxuejuan |
+| typst-package-shuxuejuan | 0.1.3 | A simple template for math exam in Chinese | legacyPackages.x86_64-linux.typstPackages.shuxuejuan_0_1_3 |
 | typst-package-sicons | 15.12.0 | Access High quality Simple Icons SVGs from Typst | legacyPackages.x86_64-linux.typstPackages.sicons_15_12_0 |
 | typst-package-sicons | 15.13.0 | Access High quality Simple Icons SVGs from Typst | legacyPackages.x86_64-linux.typstPackages.sicons |
 | typst-package-sicons | 15.13.0 | Access High quality Simple Icons SVGs from Typst | legacyPackages.x86_64-linux.typstPackages.sicons_15_13_0 |
@@ -94314,12 +94669,16 @@
 | typst-package-simple-bupt-report | 0.1.1 | 一份简单的北邮实验报告模板 Simple BUPT Report | legacyPackages.x86_64-linux.typstPackages.simple-bupt-report_0_1_1 |
 | typst-package-simple-handout | 0.1.0 | A simple handout template, adapted to Chinese | legacyPackages.x86_64-linux.typstPackages.simple-handout |
 | typst-package-simple-handout | 0.1.0 | A simple handout template, adapted to Chinese | legacyPackages.x86_64-linux.typstPackages.simple-handout_0_1_0 |
+| typst-package-simple-inria-touying-theme | 0.1.0 | Touying slides theme approximating Inria's graphical chart | legacyPackages.x86_64-linux.typstPackages.simple-inria-touying-theme_0_1_0 |
+| typst-package-simple-inria-touying-theme | 0.1.1 | Touying slides theme approximating Inria's graphical chart | legacyPackages.x86_64-linux.typstPackages.simple-inria-touying-theme |
+| typst-package-simple-inria-touying-theme | 0.1.1 | Touying slides theme approximating Inria's graphical chart | legacyPackages.x86_64-linux.typstPackages.simple-inria-touying-theme_0_1_1 |
 | typst-package-simple-ntnu-report | 0.1.0 | Shorter academic reports at NTNU in Trondheim | legacyPackages.x86_64-linux.typstPackages.simple-ntnu-report |
 | typst-package-simple-ntnu-report | 0.1.0 | Shorter academic reports at NTNU in Trondheim | legacyPackages.x86_64-linux.typstPackages.simple-ntnu-report_0_1_0 |
 | typst-package-simple-preavis | 0.1.0 | 📖 a french move out letter | legacyPackages.x86_64-linux.typstPackages.simple-preavis |
 | typst-package-simple-preavis | 0.1.0 | 📖 a french move out letter | legacyPackages.x86_64-linux.typstPackages.simple-preavis_0_1_0 |
-| typst-package-simple-technical-resume | 0.1.0 | A simple technical resume designed to fit within a page and work well with ATS | legacyPackages.x86_64-linux.typstPackages.simple-technical-resume |
 | typst-package-simple-technical-resume | 0.1.0 | A simple technical resume designed to fit within a page and work well with ATS | legacyPackages.x86_64-linux.typstPackages.simple-technical-resume_0_1_0 |
+| typst-package-simple-technical-resume | 0.1.1 | A simple technical resume designed to fit within a page and work well with ATS | legacyPackages.x86_64-linux.typstPackages.simple-technical-resume |
+| typst-package-simple-technical-resume | 0.1.1 | A simple technical resume designed to fit within a page and work well with ATS | legacyPackages.x86_64-linux.typstPackages.simple-technical-resume_0_1_1 |
 | typst-package-simple-tubs-letter | 0.1.0 | A letter template resembling the TUBS coorperate design | legacyPackages.x86_64-linux.typstPackages.simple-tubs-letter_0_1_0 |
 | typst-package-simple-tubs-letter | 0.1.1 | A letter template resembling the TUBS coorperate design | legacyPackages.x86_64-linux.typstPackages.simple-tubs-letter_0_1_1 |
 | typst-package-simple-tubs-letter | 0.1.2 | A letter template resembling the TUBS coorperate design | legacyPackages.x86_64-linux.typstPackages.simple-tubs-letter |
@@ -94356,8 +94715,11 @@
 | typst-package-socialhub-fa | 1.0.0 | A Typst library for Social Media references with icons based on Font Awesome | legacyPackages.x86_64-linux.typstPackages.socialhub-fa_1_0_0 |
 | typst-package-socialhub-fa | 1.0.1 | A Typst library for Social Media references with icons based on Font Awesome | legacyPackages.x86_64-linux.typstPackages.socialhub-fa |
 | typst-package-socialhub-fa | 1.0.1 | A Typst library for Social Media references with icons based on Font Awesome | legacyPackages.x86_64-linux.typstPackages.socialhub-fa_1_0_1 |
-| typst-package-solo-lu-df | 0.1.0 | Write qualification papers, bachelor’s theses, and master’s theses for University of Lativa, Computer Science programme | legacyPackages.x86_64-linux.typstPackages.solo-lu-df |
 | typst-package-solo-lu-df | 0.1.0 | Write qualification papers, bachelor’s theses, and master’s theses for University of Lativa, Computer Science programme | legacyPackages.x86_64-linux.typstPackages.solo-lu-df_0_1_0 |
+| typst-package-solo-lu-df | 0.1.1 | Write qualification papers, bachelor’s theses, and master’s theses for University of Lativa, Computer Science programme | legacyPackages.x86_64-linux.typstPackages.solo-lu-df_0_1_1 |
+| typst-package-solo-lu-df | 0.1.2 | Write qualification papers, bachelor’s theses, and master’s theses for University of Latvia, Computer Science programme | legacyPackages.x86_64-linux.typstPackages.solo-lu-df_0_1_2 |
+| typst-package-solo-lu-df | 0.1.3 | Write qualification papers, bachelor’s theses, and master’s theses for University of Latvia, Computer Science programme | legacyPackages.x86_64-linux.typstPackages.solo-lu-df |
+| typst-package-solo-lu-df | 0.1.3 | Write qualification papers, bachelor’s theses, and master’s theses for University of Latvia, Computer Science programme | legacyPackages.x86_64-linux.typstPackages.solo-lu-df_0_1_3 |
 | typst-package-solving-physics | 0.1.0 | A package to formulate the solution to a physical problem | legacyPackages.x86_64-linux.typstPackages.solving-physics |
 | typst-package-solving-physics | 0.1.0 | A package to formulate the solution to a physical problem | legacyPackages.x86_64-linux.typstPackages.solving-physics_0_1_0 |
 | typst-package-songb | 0.1.0 | A songbook package, to display chords above the lyrics and show a number-based index (similar to patacrep | legacyPackages.x86_64-linux.typstPackages.songb |
@@ -94365,8 +94727,9 @@
 | typst-package-songting-book | 0.0.1 | Create Chinese-style books effortlessly using markup with built-in styling | legacyPackages.x86_64-linux.typstPackages.songting-book_0_0_1 |
 | typst-package-songting-book | 0.0.2 | Create Chinese-style books effortlessly using markup with built-in styling | legacyPackages.x86_64-linux.typstPackages.songting-book_0_0_2 |
 | typst-package-songting-book | 0.0.3 | Create Chinese-style books effortlessly using markup with built-in styling | legacyPackages.x86_64-linux.typstPackages.songting-book_0_0_3 |
-| typst-package-songting-book | 0.0.4 | Create Chinese-style books effortlessly using markup with built-in styling | legacyPackages.x86_64-linux.typstPackages.songting-book |
 | typst-package-songting-book | 0.0.4 | Create Chinese-style books effortlessly using markup with built-in styling | legacyPackages.x86_64-linux.typstPackages.songting-book_0_0_4 |
+| typst-package-songting-book | 0.0.5 | Create Chinese-style books effortlessly using markup with built-in styling | legacyPackages.x86_64-linux.typstPackages.songting-book |
+| typst-package-songting-book | 0.0.5 | Create Chinese-style books effortlessly using markup with built-in styling | legacyPackages.x86_64-linux.typstPackages.songting-book_0_0_5 |
 | typst-package-sos-ugent-style | 0.1.0 | Write documents, presentations and dissertations in the same, uniform UGent style. Unofficial template | legacyPackages.x86_64-linux.typstPackages.sos-ugent-style_0_1_0 |
 | typst-package-sos-ugent-style | 0.2.0 | Write documents, presentations and dissertations in the same, uniform UGent style. Unofficial template | legacyPackages.x86_64-linux.typstPackages.sos-ugent-style |
 | typst-package-sos-ugent-style | 0.2.0 | Write documents, presentations and dissertations in the same, uniform UGent style. Unofficial template | legacyPackages.x86_64-linux.typstPackages.sos-ugent-style_0_2_0 |
@@ -94392,8 +94755,9 @@
 | typst-package-ssrn-scribe | 0.4.9 | Personal working paper template for general doc and SSRN paper | legacyPackages.x86_64-linux.typstPackages.ssrn-scribe_0_4_9 |
 | typst-package-ssrn-scribe | 0.5.0 | Personal working paper template for general doc and SSRN paper | legacyPackages.x86_64-linux.typstPackages.ssrn-scribe_0_5_0 |
 | typst-package-ssrn-scribe | 0.6.0 | Personal working paper template for general doc and SSRN paper | legacyPackages.x86_64-linux.typstPackages.ssrn-scribe_0_6_0 |
-| typst-package-ssrn-scribe | 0.7.0 | Personal working paper template for general doc and SSRN paper | legacyPackages.x86_64-linux.typstPackages.ssrn-scribe |
 | typst-package-ssrn-scribe | 0.7.0 | Personal working paper template for general doc and SSRN paper | legacyPackages.x86_64-linux.typstPackages.ssrn-scribe_0_7_0 |
+| typst-package-ssrn-scribe | 0.9.1 | Personal working paper template for general doc and SSRN paper | legacyPackages.x86_64-linux.typstPackages.ssrn-scribe |
+| typst-package-ssrn-scribe | 0.9.1 | Personal working paper template for general doc and SSRN paper | legacyPackages.x86_64-linux.typstPackages.ssrn-scribe_0_9_1 |
 | typst-package-stack-pointer | 0.1.0 | A library for visualizing the execution of (imperative) computer programs | legacyPackages.x86_64-linux.typstPackages.stack-pointer |
 | typst-package-stack-pointer | 0.1.0 | A library for visualizing the execution of (imperative) computer programs | legacyPackages.x86_64-linux.typstPackages.stack-pointer_0_1_0 |
 | typst-package-starter-journal-article | 0.1.1 | A starter template for journal articles | legacyPackages.x86_64-linux.typstPackages.starter-journal-article_0_1_1 |
@@ -94412,6 +94776,8 @@
 | typst-package-statementsp | 0.1.0 | Happy statement box and its cross referrence system | legacyPackages.x86_64-linux.typstPackages.statementsp_0_1_0 |
 | typst-package-statementsp | 0.1.1 | Happy statement box and its cross reference system | legacyPackages.x86_64-linux.typstPackages.statementsp |
 | typst-package-statementsp | 0.1.1 | Happy statement box and its cross reference system | legacyPackages.x86_64-linux.typstPackages.statementsp_0_1_1 |
+| typst-package-staves | 0.1.0 | Draw musical clefs and key signatures | legacyPackages.x86_64-linux.typstPackages.staves |
+| typst-package-staves | 0.1.0 | Draw musical clefs and key signatures | legacyPackages.x86_64-linux.typstPackages.staves_0_1_0 |
 | typst-package-stellar-iac | 0.4.1 | Template for the International Astronautical Congress (IAC) manuscript | legacyPackages.x86_64-linux.typstPackages.stellar-iac_0_4_1 |
 | typst-package-stellar-iac | 0.5.0 | Template for the International Astronautical Congress (IAC) manuscript | legacyPackages.x86_64-linux.typstPackages.stellar-iac |
 | typst-package-stellar-iac | 0.5.0 | Template for the International Astronautical Congress (IAC) manuscript | legacyPackages.x86_64-linux.typstPackages.stellar-iac_0_5_0 |
@@ -94420,6 +94786,8 @@
 | typst-package-stonewall | 0.2.0 | Stonewall provides beautiful pride flag colours for gradients | legacyPackages.x86_64-linux.typstPackages.stonewall_0_2_0 |
 | typst-package-storytiles | 0.0.1 | 4 images per slide, for group meeting | legacyPackages.x86_64-linux.typstPackages.storytiles |
 | typst-package-storytiles | 0.0.1 | 4 images per slide, for group meeting | legacyPackages.x86_64-linux.typstPackages.storytiles_0_0_1 |
+| typst-package-strath-maestrum | 0.0.1 | A template that replicates the Strathclyde MAE Interim Report | legacyPackages.x86_64-linux.typstPackages.strath-maestrum |
+| typst-package-strath-maestrum | 0.0.1 | A template that replicates the Strathclyde MAE Interim Report | legacyPackages.x86_64-linux.typstPackages.strath-maestrum_0_0_1 |
 | typst-package-structogrammer | 0.1.0 | Draw Nassi-Shneiderman diagrams (or structograms | legacyPackages.x86_64-linux.typstPackages.structogrammer_0_1_0 |
 | typst-package-structogrammer | 0.1.1 | Draw Nassi-Shneiderman diagrams (or structograms | legacyPackages.x86_64-linux.typstPackages.structogrammer_0_1_1 |
 | typst-package-structogrammer | 0.1.2 | Draw Nassi-Shneiderman diagrams (or structograms | legacyPackages.x86_64-linux.typstPackages.structogrammer |
@@ -94428,8 +94796,9 @@
 | typst-package-structured-uib | 0.1.0 | Lab report template for the course PHYS114 at the University of Bergen | legacyPackages.x86_64-linux.typstPackages.structured-uib_0_1_0 |
 | typst-package-stundenzettel | 0.1.0 | Track your work hours with typst | legacyPackages.x86_64-linux.typstPackages.stundenzettel |
 | typst-package-stundenzettel | 0.1.0 | Track your work hours with typst | legacyPackages.x86_64-linux.typstPackages.stundenzettel_0_1_0 |
-| typst-package-stv-vub-huisstijl | 0.1.0 | An unofficial template to get the look of the Vrije Universiteit Brussel (VUB) huisstijl in Typst | legacyPackages.x86_64-linux.typstPackages.stv-vub-huisstijl |
 | typst-package-stv-vub-huisstijl | 0.1.0 | An unofficial template to get the look of the Vrije Universiteit Brussel (VUB) huisstijl in Typst | legacyPackages.x86_64-linux.typstPackages.stv-vub-huisstijl_0_1_0 |
+| typst-package-stv-vub-huisstijl | 0.1.1 | An unofficial template to get the look of the Vrije Universiteit Brussel (VUB) huisstijl in Typst | legacyPackages.x86_64-linux.typstPackages.stv-vub-huisstijl |
+| typst-package-stv-vub-huisstijl | 0.1.1 | An unofficial template to get the look of the Vrije Universiteit Brussel (VUB) huisstijl in Typst | legacyPackages.x86_64-linux.typstPackages.stv-vub-huisstijl_0_1_1 |
 | typst-package-suboutline | 0.1.0 | An outline function just for one section and nothing else | legacyPackages.x86_64-linux.typstPackages.suboutline_0_1_0 |
 | typst-package-suboutline | 0.2.0 | An outline function just for one section and nothing else | legacyPackages.x86_64-linux.typstPackages.suboutline_0_2_0 |
 | typst-package-suboutline | 0.3.0 | An outline function just for one section and nothing else | legacyPackages.x86_64-linux.typstPackages.suboutline |
@@ -94445,8 +94814,9 @@
 | typst-package-suiji | 0.2.1 | A high efficient random number generator in Typst | legacyPackages.x86_64-linux.typstPackages.suiji_0_2_1 |
 | typst-package-suiji | 0.2.2 | A high efficient random number generator in Typst | legacyPackages.x86_64-linux.typstPackages.suiji_0_2_2 |
 | typst-package-suiji | 0.3.0 | A high efficient random number generator in Typst | legacyPackages.x86_64-linux.typstPackages.suiji_0_3_0 |
-| typst-package-suiji | 0.4.0 | A high efficient random number generator in Typst | legacyPackages.x86_64-linux.typstPackages.suiji |
 | typst-package-suiji | 0.4.0 | A high efficient random number generator in Typst | legacyPackages.x86_64-linux.typstPackages.suiji_0_4_0 |
+| typst-package-suiji | 0.5.0 | A high efficient random number generator in Typst | legacyPackages.x86_64-linux.typstPackages.suiji |
+| typst-package-suiji | 0.5.0 | A high efficient random number generator in Typst | legacyPackages.x86_64-linux.typstPackages.suiji_0_5_0 |
 | typst-package-summy | 0.1.0 | Generate cheatsheets with automatic colour coding and sectioning with a focus on space-efficiency | legacyPackages.x86_64-linux.typstPackages.summy |
 | typst-package-summy | 0.1.0 | Generate cheatsheets with automatic colour coding and sectioning with a focus on space-efficiency | legacyPackages.x86_64-linux.typstPackages.summy_0_1_0 |
 | typst-package-sunny-famnit | 0.1.0 | Thesis template for University of Primorska, FAMNIT | legacyPackages.x86_64-linux.typstPackages.sunny-famnit_0_1_0 |
@@ -94490,8 +94860,9 @@
 | typst-package-swe-cv | 1.0.0 | Engineering oriented cv template | legacyPackages.x86_64-linux.typstPackages.swe-cv_1_0_0 |
 | typst-package-sweet-graduate-resume | 0.1.0 | A simple graduate student resume template | legacyPackages.x86_64-linux.typstPackages.sweet-graduate-resume |
 | typst-package-sweet-graduate-resume | 0.1.0 | A simple graduate student resume template | legacyPackages.x86_64-linux.typstPackages.sweet-graduate-resume_0_1_0 |
-| typst-package-symbolx | 0.1.0 | More powerful symbols | legacyPackages.x86_64-linux.typstPackages.symbolx |
 | typst-package-symbolx | 0.1.0 | More powerful symbols | legacyPackages.x86_64-linux.typstPackages.symbolx_0_1_0 |
+| typst-package-symbolx | 1.1.0 | More powerful symbols | legacyPackages.x86_64-linux.typstPackages.symbolx |
+| typst-package-symbolx | 1.1.0 | More powerful symbols | legacyPackages.x86_64-linux.typstPackages.symbolx_1_1_0 |
 | typst-package-syntree | 0.1.0 | Linguistics syntax/parse tree rendering | legacyPackages.x86_64-linux.typstPackages.syntree_0_1_0 |
 | typst-package-syntree | 0.2.0 | Linguistics syntax/parse tree rendering | legacyPackages.x86_64-linux.typstPackages.syntree_0_2_0 |
 | typst-package-syntree | 0.2.1 | Linguistics syntax/parse tree rendering | legacyPackages.x86_64-linux.typstPackages.syntree |
@@ -94533,8 +94904,9 @@
 | typst-package-tada | 0.2.0 | Easy, composable tabular data manipulation | legacyPackages.x86_64-linux.typstPackages.tada |
 | typst-package-tada | 0.2.0 | Easy, composable tabular data manipulation | legacyPackages.x86_64-linux.typstPackages.tada_0_2_0 |
 | typst-package-tally | 0.1.0 | Automatically handle todos in your document | legacyPackages.x86_64-linux.typstPackages.tally_0_1_0 |
-| typst-package-tally | 0.1.1 | Automatically handle todos in your document | legacyPackages.x86_64-linux.typstPackages.tally |
 | typst-package-tally | 0.1.1 | Automatically handle todos in your document | legacyPackages.x86_64-linux.typstPackages.tally_0_1_1 |
+| typst-package-tally | 0.1.2 | Automatically handle todos in your document | legacyPackages.x86_64-linux.typstPackages.tally |
+| typst-package-tally | 0.1.2 | Automatically handle todos in your document | legacyPackages.x86_64-linux.typstPackages.tally_0_1_2 |
 | typst-package-tapestry | 0.0.1 | A template for creating LaTeX-like class notes | legacyPackages.x86_64-linux.typstPackages.tapestry_0_0_1 |
 | typst-package-tapestry | 0.0.2 | A template for creating LaTeX-like class notes | legacyPackages.x86_64-linux.typstPackages.tapestry_0_0_2 |
 | typst-package-tapestry | 0.0.3 | A template for creating LaTeX-like class notes | legacyPackages.x86_64-linux.typstPackages.tapestry_0_0_3 |
@@ -94545,8 +94917,10 @@
 | typst-package-tatras-ieee | 0.1.0 | An IEEE-style paper template for use with Slovak language | legacyPackages.x86_64-linux.typstPackages.tatras-ieee |
 | typst-package-tatras-ieee | 0.1.0 | An IEEE-style paper template for use with Slovak language | legacyPackages.x86_64-linux.typstPackages.tatras-ieee_0_1_0 |
 | typst-package-tbl | 0.0.3 | Complex tables, written concisely | legacyPackages.x86_64-linux.typstPackages.tbl_0_0_3 |
-| typst-package-tbl | 0.0.4 | Complex tables, written concisely | legacyPackages.x86_64-linux.typstPackages.tbl |
 | typst-package-tbl | 0.0.4 | Complex tables, written concisely | legacyPackages.x86_64-linux.typstPackages.tbl_0_0_4 |
+| typst-package-tbl | 0.1.0 | Complex tables, written concisely | legacyPackages.x86_64-linux.typstPackages.tbl_0_1_0 |
+| typst-package-tbl | 0.1.1 | Complex tables, written concisely | legacyPackages.x86_64-linux.typstPackages.tbl |
+| typst-package-tbl | 0.1.1 | Complex tables, written concisely | legacyPackages.x86_64-linux.typstPackages.tbl_0_1_1 |
 | typst-package-tblr | 0.1.0 | Table generation helpers inspired by LaTeX's Tabularray package | legacyPackages.x86_64-linux.typstPackages.tblr_0_1_0 |
 | typst-package-tblr | 0.2.0 | Table generation helpers inspired by LaTeX's Tabularray package | legacyPackages.x86_64-linux.typstPackages.tblr_0_2_0 |
 | typst-package-tblr | 0.3.0 | Table generation and alignment helpers inspired by LaTeX's Tabularray package | legacyPackages.x86_64-linux.typstPackages.tblr_0_3_0 |
@@ -94555,6 +94929,11 @@
 | typst-package-tblr | 0.4.0 | Table generation and alignment helpers inspired by LaTeX's Tabularray package | legacyPackages.x86_64-linux.typstPackages.tblr_0_4_0 |
 | typst-package-tblr | 0.4.1 | Table generation and alignment helpers inspired by LaTeX's Tabularray package | legacyPackages.x86_64-linux.typstPackages.tblr |
 | typst-package-tblr | 0.4.1 | Table generation and alignment helpers inspired by LaTeX's Tabularray package | legacyPackages.x86_64-linux.typstPackages.tblr_0_4_1 |
+| typst-package-tdtr | 0.1.0 | A package for drawing beautiful tidy tree easily | legacyPackages.x86_64-linux.typstPackages.tdtr_0_1_0 |
+| typst-package-tdtr | 0.2.0 | A package for drawing beautiful tidy tree easily | legacyPackages.x86_64-linux.typstPackages.tdtr_0_2_0 |
+| typst-package-tdtr | 0.3.0 | A package for drawing beautiful tidy tree easily | legacyPackages.x86_64-linux.typstPackages.tdtr_0_3_0 |
+| typst-package-tdtr | 0.4.0 | A package for drawing beautiful tidy tree easily | legacyPackages.x86_64-linux.typstPackages.tdtr |
+| typst-package-tdtr | 0.4.0 | A package for drawing beautiful tidy tree easily | legacyPackages.x86_64-linux.typstPackages.tdtr_0_4_0 |
 | typst-package-teig | 0.1.0 | Calculate eigenvalues of matrices | legacyPackages.x86_64-linux.typstPackages.teig |
 | typst-package-teig | 0.1.0 | Calculate eigenvalues of matrices | legacyPackages.x86_64-linux.typstPackages.teig_0_1_0 |
 | typst-package-tenv | 0.1.1 | Parse a .env content | legacyPackages.x86_64-linux.typstPackages.tenv_0_1_1 |
@@ -94562,6 +94941,9 @@
 | typst-package-tenv | 0.1.2 | Parse a .env content | legacyPackages.x86_64-linux.typstPackages.tenv_0_1_2 |
 | typst-package-tessera | 0.1.0 | A package for combining multiple images into masonry or matrix layout | legacyPackages.x86_64-linux.typstPackages.tessera |
 | typst-package-tessera | 0.1.0 | A package for combining multiple images into masonry or matrix layout | legacyPackages.x86_64-linux.typstPackages.tessera_0_1_0 |
+| typst-package-testyfy | 0.2.0 | Assert specific conditions and requirements | legacyPackages.x86_64-linux.typstPackages.testyfy_0_2_0 |
+| typst-package-testyfy | 0.2.1 | Assert specific conditions and requirements | legacyPackages.x86_64-linux.typstPackages.testyfy |
+| typst-package-testyfy | 0.2.1 | Assert specific conditions and requirements | legacyPackages.x86_64-linux.typstPackages.testyfy_0_2_1 |
 | typst-package-text-dirr | 1.0.0 | Get resolved value for text.dir | legacyPackages.x86_64-linux.typstPackages.text-dirr |
 | typst-package-text-dirr | 1.0.0 | Get resolved value for text.dir | legacyPackages.x86_64-linux.typstPackages.text-dirr_1_0_0 |
 | typst-package-tfguf | 0.0.1 | Plantilla para hacer TFGs en el Grado en Física de UNIR | legacyPackages.x86_64-linux.typstPackages.tfguf_0_0_1 |
@@ -94579,6 +94961,8 @@
 | typst-package-tgm-hit-thesis | 0.3.1 | Diploma thesis template for students of the HIT department at TGM Wien | legacyPackages.x86_64-linux.typstPackages.tgm-hit-thesis_0_3_1 |
 | typst-package-tgm-hit-thesis | 0.4.0 | Diploma thesis template for students of the HIT department at TGM Wien | legacyPackages.x86_64-linux.typstPackages.tgm-hit-thesis |
 | typst-package-tgm-hit-thesis | 0.4.0 | Diploma thesis template for students of the HIT department at TGM Wien | legacyPackages.x86_64-linux.typstPackages.tgm-hit-thesis_0_4_0 |
+| typst-package-theofig | 0.1.0 | Simple theorem environments based on std.figure | legacyPackages.x86_64-linux.typstPackages.theofig |
+| typst-package-theofig | 0.1.0 | Simple theorem environments based on std.figure | legacyPackages.x86_64-linux.typstPackages.theofig_0_1_0 |
 | typst-package-theoretic | 0.1.0 | Opinionated tool to typeset theorems, lemmas and such | legacyPackages.x86_64-linux.typstPackages.theoretic_0_1_0 |
 | typst-package-theoretic | 0.1.1 | Opinionated tool to typeset theorems, lemmas and such | legacyPackages.x86_64-linux.typstPackages.theoretic_0_1_1 |
 | typst-package-theoretic | 0.2.0 | Opinionated tool to typeset theorems, lemmas and such | legacyPackages.x86_64-linux.typstPackages.theoretic |
@@ -94588,8 +94972,9 @@
 | typst-package-theorion | 0.3.1 | Out-of-the-box, customizable and multilingual theorem environment package | legacyPackages.x86_64-linux.typstPackages.theorion_0_3_1 |
 | typst-package-theorion | 0.3.2 | Out-of-the-box, customizable and multilingual theorem environment package | legacyPackages.x86_64-linux.typstPackages.theorion_0_3_2 |
 | typst-package-theorion | 0.3.3 | Out-of-the-box, customizable and multilingual theorem environment package | legacyPackages.x86_64-linux.typstPackages.theorion_0_3_3 |
-| typst-package-theorion | 0.4.0 | Out-of-the-box, customizable and multilingual theorem environment package | legacyPackages.x86_64-linux.typstPackages.theorion |
 | typst-package-theorion | 0.4.0 | Out-of-the-box, customizable and multilingual theorem environment package | legacyPackages.x86_64-linux.typstPackages.theorion_0_4_0 |
+| typst-package-theorion | 0.4.1 | Out-of-the-box, customizable and multilingual theorem environment package | legacyPackages.x86_64-linux.typstPackages.theorion |
+| typst-package-theorion | 0.4.1 | Out-of-the-box, customizable and multilingual theorem environment package | legacyPackages.x86_64-linux.typstPackages.theorion_0_4_1 |
 | typst-package-thesist | 0.1.0 | A Master's thesis template for Instituto Superior Técnico (IST | legacyPackages.x86_64-linux.typstPackages.thesist_0_1_0 |
 | typst-package-thesist | 0.2.0 | A Master's thesis template for Instituto Superior Técnico (IST | legacyPackages.x86_64-linux.typstPackages.thesist_0_2_0 |
 | typst-package-thesist | 1.0.0 | A Master's thesis template for Instituto Superior Técnico (IST | legacyPackages.x86_64-linux.typstPackages.thesist_1_0_0 |
@@ -94617,6 +95002,9 @@
 | typst-package-tidy | 0.4.2 | Documentation generator for Typst code in Typst | legacyPackages.x86_64-linux.typstPackages.tidy_0_4_2 |
 | typst-package-tidy | 0.4.3 | Documentation generator for Typst code in Typst | legacyPackages.x86_64-linux.typstPackages.tidy |
 | typst-package-tidy | 0.4.3 | Documentation generator for Typst code in Typst | legacyPackages.x86_64-linux.typstPackages.tidy_0_4_3 |
+| typst-package-tiefcars | 0.1.0 | An LCARS-inspired layouting system | legacyPackages.x86_64-linux.typstPackages.tiefcars_0_1_0 |
+| typst-package-tiefcars | 0.2.0 | An LCARS-inspired layouting system | legacyPackages.x86_64-linux.typstPackages.tiefcars |
+| typst-package-tiefcars | 0.2.0 | An LCARS-inspired layouting system | legacyPackages.x86_64-linux.typstPackages.tiefcars_0_2_0 |
 | typst-package-tiefletter | 0.1.0 | Invoice and offer template for Austrian freelancers | legacyPackages.x86_64-linux.typstPackages.tiefletter_0_1_0 |
 | typst-package-tiefletter | 0.1.1 | Invoice and offer template for Austrian freelancers | legacyPackages.x86_64-linux.typstPackages.tiefletter_0_1_1 |
 | typst-package-tiefletter | 0.1.2 | Invoice and offer template for Austrian freelancers | legacyPackages.x86_64-linux.typstPackages.tiefletter_0_1_2 |
@@ -94640,8 +95028,9 @@
 | typst-package-tiptoe | 0.1.0 | Arrows and other marks for lines and paths | legacyPackages.x86_64-linux.typstPackages.tiptoe_0_1_0 |
 | typst-package-tiptoe | 0.2.0 | Arrows and other marks for lines and paths | legacyPackages.x86_64-linux.typstPackages.tiptoe_0_2_0 |
 | typst-package-tiptoe | 0.3.0 | Arrows and other marks for lines and paths | legacyPackages.x86_64-linux.typstPackages.tiptoe_0_3_0 |
-| typst-package-tiptoe | 0.3.1 | Arrows and other marks for lines and paths | legacyPackages.x86_64-linux.typstPackages.tiptoe |
 | typst-package-tiptoe | 0.3.1 | Arrows and other marks for lines and paths | legacyPackages.x86_64-linux.typstPackages.tiptoe_0_3_1 |
+| typst-package-tiptoe | 0.3.2 | Arrows and other marks for lines and paths | legacyPackages.x86_64-linux.typstPackages.tiptoe |
+| typst-package-tiptoe | 0.3.2 | Arrows and other marks for lines and paths | legacyPackages.x86_64-linux.typstPackages.tiptoe_0_3_2 |
 | typst-package-titleize | 0.1.0 | Turn strings into title case | legacyPackages.x86_64-linux.typstPackages.titleize_0_1_0 |
 | typst-package-titleize | 0.1.1 | Turn strings into title case | legacyPackages.x86_64-linux.typstPackages.titleize |
 | typst-package-titleize | 0.1.1 | Turn strings into title case | legacyPackages.x86_64-linux.typstPackages.titleize_0_1_1 |
@@ -94654,12 +95043,22 @@
 | typst-package-tntt | 0.3.1 | Tntt is Not a Tex Thesis Template for Tsinghua university | legacyPackages.x86_64-linux.typstPackages.tntt_0_3_1 |
 | typst-package-tntt | 0.3.2 | Tntt is Not a Tex Thesis Template for Tsinghua university | legacyPackages.x86_64-linux.typstPackages.tntt_0_3_2 |
 | typst-package-tntt | 0.3.3 | Tntt is Not a Tex Thesis Template for Tsinghua university | legacyPackages.x86_64-linux.typstPackages.tntt_0_3_3 |
-| typst-package-tntt | 0.3.4 | Tntt is Not a Tex Thesis Template for Tsinghua university | legacyPackages.x86_64-linux.typstPackages.tntt |
 | typst-package-tntt | 0.3.4 | Tntt is Not a Tex Thesis Template for Tsinghua university | legacyPackages.x86_64-linux.typstPackages.tntt_0_3_4 |
+| typst-package-tntt | 0.4.0 | Tntt is Not a Tex Thesis Template for Tsinghua university | legacyPackages.x86_64-linux.typstPackages.tntt |
+| typst-package-tntt | 0.4.0 | Tntt is Not a Tex Thesis Template for Tsinghua university | legacyPackages.x86_64-linux.typstPackages.tntt_0_4_0 |
+| typst-package-to-stuff | 0.1.0 | Parse strings into typed lengths, alignments, colors, and more | legacyPackages.x86_64-linux.typstPackages.to-stuff_0_1_0 |
+| typst-package-to-stuff | 0.2.0 | Parse strings into typed lengths, alignments, colors, and more | legacyPackages.x86_64-linux.typstPackages.to-stuff_0_2_0 |
+| typst-package-to-stuff | 0.2.1 | Parse strings into typed lengths, alignments, colors, and more | legacyPackages.x86_64-linux.typstPackages.to-stuff_0_2_1 |
+| typst-package-to-stuff | 0.3.0 | Parse strings into typed lengths, alignments, colors, and more | legacyPackages.x86_64-linux.typstPackages.to-stuff_0_3_0 |
+| typst-package-to-stuff | 0.3.1 | Parse strings into typed lengths, alignments, colors, and more | legacyPackages.x86_64-linux.typstPackages.to-stuff |
+| typst-package-to-stuff | 0.3.1 | Parse strings into typed lengths, alignments, colors, and more | legacyPackages.x86_64-linux.typstPackages.to-stuff_0_3_1 |
+| typst-package-toffee-tufte | 0.1.0 | An opinionated Tufte-inspired template for scientific reports | legacyPackages.x86_64-linux.typstPackages.toffee-tufte |
+| typst-package-toffee-tufte | 0.1.0 | An opinionated Tufte-inspired template for scientific reports | legacyPackages.x86_64-linux.typstPackages.toffee-tufte_0_1_0 |
 | typst-package-tonguetoquill-usaf-memo | 0.0.1 | Typeset memos that are fully compliant with AFH 33-337 'The Tongue and Quill | legacyPackages.x86_64-linux.typstPackages.tonguetoquill-usaf-memo_0_0_1 |
 | typst-package-tonguetoquill-usaf-memo | 0.0.2 | Typeset memos that are fully compliant with AFH 33-337 'The Tongue and Quill | legacyPackages.x86_64-linux.typstPackages.tonguetoquill-usaf-memo_0_0_2 |
-| typst-package-tonguetoquill-usaf-memo | 0.1.0 | Typeset memos that are fully compliant with AFH 33-337 'The Tongue and Quill | legacyPackages.x86_64-linux.typstPackages.tonguetoquill-usaf-memo |
 | typst-package-tonguetoquill-usaf-memo | 0.1.0 | Typeset memos that are fully compliant with AFH 33-337 'The Tongue and Quill | legacyPackages.x86_64-linux.typstPackages.tonguetoquill-usaf-memo_0_1_0 |
+| typst-package-tonguetoquill-usaf-memo | 0.2.0 | Typeset memos that are fully compliant with AFH 33-337 'The Tongue and Quill | legacyPackages.x86_64-linux.typstPackages.tonguetoquill-usaf-memo |
+| typst-package-tonguetoquill-usaf-memo | 0.2.0 | Typeset memos that are fully compliant with AFH 33-337 'The Tongue and Quill | legacyPackages.x86_64-linux.typstPackages.tonguetoquill-usaf-memo_0_2_0 |
 | typst-package-touying | 0.1.0 | An object-oriented package for creating presentation slides in Typst | legacyPackages.x86_64-linux.typstPackages.touying_0_1_0 |
 | typst-package-touying | 0.2.0 | An object-oriented package for creating presentation slides in Typst | legacyPackages.x86_64-linux.typstPackages.touying_0_2_0 |
 | typst-package-touying | 0.2.1 | An object-oriented package for creating presentation slides in Typst | legacyPackages.x86_64-linux.typstPackages.touying_0_2_1 |
@@ -94717,8 +95116,9 @@
 | typst-package-touying-quarto-clean | 0.1.2 | A Clean Slide Theme for Touying | legacyPackages.x86_64-linux.typstPackages.touying-quarto-clean_0_1_2 |
 | typst-package-touying-quick | 0.1.0 | A quick-start template based on touying for academic reports | legacyPackages.x86_64-linux.typstPackages.touying-quick_0_1_0 |
 | typst-package-touying-quick | 0.2.0 | A quick-start template based on touying for academic reports | legacyPackages.x86_64-linux.typstPackages.touying-quick_0_2_0 |
-| typst-package-touying-quick | 0.2.1 | A quick-start template based on touying for academic reports | legacyPackages.x86_64-linux.typstPackages.touying-quick |
 | typst-package-touying-quick | 0.2.1 | A quick-start template based on touying for academic reports | legacyPackages.x86_64-linux.typstPackages.touying-quick_0_2_1 |
+| typst-package-touying-quick | 0.3.0 | A quick-start template based on touying for academic reports | legacyPackages.x86_64-linux.typstPackages.touying-quick |
+| typst-package-touying-quick | 0.3.0 | A quick-start template based on touying for academic reports | legacyPackages.x86_64-linux.typstPackages.touying-quick_0_3_0 |
 | typst-package-touying-simpl-cau | 0.1.0 | Touying Slide Theme for China Agricultural University | legacyPackages.x86_64-linux.typstPackages.touying-simpl-cau_0_1_0 |
 | typst-package-touying-simpl-cau | 0.2.0 | Touying Slide Theme for China Agricultural University | legacyPackages.x86_64-linux.typstPackages.touying-simpl-cau |
 | typst-package-touying-simpl-cau | 0.2.0 | Touying Slide Theme for China Agricultural University | legacyPackages.x86_64-linux.typstPackages.touying-simpl-cau_0_2_0 |
@@ -94728,6 +95128,8 @@
 | typst-package-touying-simpl-hkustgz | 0.1.2 | Touying Slide Theme for HKUST(GZ | legacyPackages.x86_64-linux.typstPackages.touying-simpl-hkustgz_0_1_2 |
 | typst-package-touying-simpl-sjtu | 0.1.0 | 上海交通大学 Touying 幻灯片主题 (Touying Slide Theme for SJTU | legacyPackages.x86_64-linux.typstPackages.touying-simpl-sjtu |
 | typst-package-touying-simpl-sjtu | 0.1.0 | 上海交通大学 Touying 幻灯片主题 (Touying Slide Theme for SJTU | legacyPackages.x86_64-linux.typstPackages.touying-simpl-sjtu_0_1_0 |
+| typst-package-touying-simpres | 0.1.0 | Presentation template for education and business | legacyPackages.x86_64-linux.typstPackages.touying-simpres |
+| typst-package-touying-simpres | 0.1.0 | Presentation template for education and business | legacyPackages.x86_64-linux.typstPackages.touying-simpres_0_1_0 |
 | typst-package-touying-unistra-pristine | 1.0.0 | Touying theme adhering to the core principles of the style guide of the University of Strasbourg, France | legacyPackages.x86_64-linux.typstPackages.touying-unistra-pristine_1_0_0 |
 | typst-package-touying-unistra-pristine | 1.1.0 | Touying theme adhering to the core principles of the style guide of the University of Strasbourg, France | legacyPackages.x86_64-linux.typstPackages.touying-unistra-pristine_1_1_0 |
 | typst-package-touying-unistra-pristine | 1.2.0 | Touying theme adhering to the core principles of the style guide of the University of Strasbourg, France | legacyPackages.x86_64-linux.typstPackages.touying-unistra-pristine_1_2_0 |
@@ -94737,6 +95139,8 @@
 | typst-package-touying-unistra-pristine | 1.4.1 | Touying theme adhering to the core principles of the style guide of the University of Strasbourg, France | legacyPackages.x86_64-linux.typstPackages.touying-unistra-pristine_1_4_1 |
 | typst-package-touying-unistra-pristine | 1.4.2 | Touying theme adhering to the core principles of the style guide of the University of Strasbourg, France | legacyPackages.x86_64-linux.typstPackages.touying-unistra-pristine |
 | typst-package-touying-unistra-pristine | 1.4.2 | Touying theme adhering to the core principles of the style guide of the University of Strasbourg, France | legacyPackages.x86_64-linux.typstPackages.touying-unistra-pristine_1_4_2 |
+| typst-package-touying-wave-hhu | 0.1.0 | Touying Slide Theme for Hohai University | legacyPackages.x86_64-linux.typstPackages.touying-wave-hhu |
+| typst-package-touying-wave-hhu | 0.1.0 | Touying Slide Theme for Hohai University | legacyPackages.x86_64-linux.typstPackages.touying-wave-hhu_0_1_0 |
 | typst-package-touying2video | 0.1.0 | The tools converts a touying-typ presentation slide to a presentation video with voice over.  The typst tool need to be used with an external package | legacyPackages.x86_64-linux.typstPackages.touying2video |
 | typst-package-touying2video | 0.1.0 | The tools converts a touying-typ presentation slide to a presentation video with voice over.  The typst tool need to be used with an external package | legacyPackages.x86_64-linux.typstPackages.touying2video_0_1_0 |
 | typst-package-toy-cv | 0.1.0 | ✨ Colorful and elegant 2-column CV and cover letter template. Simple to use and adapt to your needs | legacyPackages.x86_64-linux.typstPackages.toy-cv |
@@ -94745,8 +95149,9 @@
 | typst-package-tracl | 0.5.1 | Template for papers at *ACL conferences | legacyPackages.x86_64-linux.typstPackages.tracl_0_5_1 |
 | typst-package-tracl | 0.5.2 | Template for papers at *ACL conferences | legacyPackages.x86_64-linux.typstPackages.tracl_0_5_2 |
 | typst-package-tracl | 0.6.0 | Template for papers at *ACL conferences | legacyPackages.x86_64-linux.typstPackages.tracl_0_6_0 |
-| typst-package-tracl | 0.6.1 | Template for papers at *ACL conferences | legacyPackages.x86_64-linux.typstPackages.tracl |
 | typst-package-tracl | 0.6.1 | Template for papers at *ACL conferences | legacyPackages.x86_64-linux.typstPackages.tracl_0_6_1 |
+| typst-package-tracl | 0.7.0 | Template for papers at *ACL conferences | legacyPackages.x86_64-linux.typstPackages.tracl |
+| typst-package-tracl | 0.7.0 | Template for papers at *ACL conferences | legacyPackages.x86_64-linux.typstPackages.tracl_0_7_0 |
 | typst-package-transl | 0.1.0 | Easy and simple translations for words and expressions, with support for localization | legacyPackages.x86_64-linux.typstPackages.transl_0_1_0 |
 | typst-package-transl | 0.1.1 | Easy and simple translations for words and expressions, with support for localization | legacyPackages.x86_64-linux.typstPackages.transl |
 | typst-package-transl | 0.1.1 | Easy and simple translations for words and expressions, with support for localization | legacyPackages.x86_64-linux.typstPackages.transl_0_1_1 |
@@ -94756,6 +95161,8 @@
 | typst-package-treet | 1.0.0 | Create tree lists easily | legacyPackages.x86_64-linux.typstPackages.treet_1_0_0 |
 | typst-package-tricorder | 0.1.0 | 按占三格的节奏记录中文人名（花名册）Record Chinese names with a rhythm of three characters | legacyPackages.x86_64-linux.typstPackages.tricorder |
 | typst-package-tricorder | 0.1.0 | 按占三格的节奏记录中文人名（花名册）Record Chinese names with a rhythm of three characters | legacyPackages.x86_64-linux.typstPackages.tricorder_0_1_0 |
+| typst-package-trivial | 0.1.0 | Make typesetting theorems and proofs trivial | legacyPackages.x86_64-linux.typstPackages.trivial |
+| typst-package-trivial | 0.1.0 | Make typesetting theorems and proofs trivial | legacyPackages.x86_64-linux.typstPackages.trivial_0_1_0 |
 | typst-package-truthfy | 0.1.0 | Make truth table | legacyPackages.x86_64-linux.typstPackages.truthfy_0_1_0 |
 | typst-package-truthfy | 0.2.0 | Make empty or automatically filled truth table | legacyPackages.x86_64-linux.typstPackages.truthfy_0_2_0 |
 | typst-package-truthfy | 0.3.0 | Make empty or automatically filled truth table | legacyPackages.x86_64-linux.typstPackages.truthfy_0_3_0 |
@@ -94774,14 +95181,17 @@
 | typst-package-ttt-utils | 0.1.4 | A collection of tools to make a teachers life easier | legacyPackages.x86_64-linux.typstPackages.ttt-utils |
 | typst-package-ttt-utils | 0.1.4 | A collection of tools to make a teachers life easier | legacyPackages.x86_64-linux.typstPackages.ttt-utils_0_1_4 |
 | typst-package-ttuile | 0.1.0 | A template for students' lab reports at INSA Lyon, a french engineering school | legacyPackages.x86_64-linux.typstPackages.ttuile_0_1_0 |
-| typst-package-ttuile | 0.1.1 | A template for students' lab reports at INSA Lyon, a french engineering school | legacyPackages.x86_64-linux.typstPackages.ttuile |
 | typst-package-ttuile | 0.1.1 | A template for students' lab reports at INSA Lyon, a french engineering school | legacyPackages.x86_64-linux.typstPackages.ttuile_0_1_1 |
+| typst-package-ttuile | 0.2.0 | Students' lab reports at INSA Lyon, a french engineering school | legacyPackages.x86_64-linux.typstPackages.ttuile |
+| typst-package-ttuile | 0.2.0 | Students' lab reports at INSA Lyon, a french engineering school | legacyPackages.x86_64-linux.typstPackages.ttuile_0_2_0 |
 | typst-package-tud-corporate-design-slides | 0.1.0 | Presentation template for TU Dresden (Technische Universität Dresden | legacyPackages.x86_64-linux.typstPackages.tud-corporate-design-slides |
 | typst-package-tud-corporate-design-slides | 0.1.0 | Presentation template for TU Dresden (Technische Universität Dresden | legacyPackages.x86_64-linux.typstPackages.tud-corporate-design-slides_0_1_0 |
 | typst-package-tufte-memo | 0.1.0 | A memo document template inspired by the design of Edward Tufte's books | legacyPackages.x86_64-linux.typstPackages.tufte-memo_0_1_0 |
 | typst-package-tufte-memo | 0.1.1 | A memo document template inspired by the design of Edward Tufte's books | legacyPackages.x86_64-linux.typstPackages.tufte-memo_0_1_1 |
 | typst-package-tufte-memo | 0.1.2 | A memo document template inspired by the design of Edward Tufte's books | legacyPackages.x86_64-linux.typstPackages.tufte-memo |
 | typst-package-tufte-memo | 0.1.2 | A memo document template inspired by the design of Edward Tufte's books | legacyPackages.x86_64-linux.typstPackages.tufte-memo_0_1_2 |
+| typst-package-tufted | 0.0.1 | Responsive web layout with wide margins, elegant sidenotes, and restrained typography | legacyPackages.x86_64-linux.typstPackages.tufted |
+| typst-package-tufted | 0.0.1 | Responsive web layout with wide margins, elegant sidenotes, and restrained typography | legacyPackages.x86_64-linux.typstPackages.tufted_0_0_1 |
 | typst-package-tuhi-alumni-vuw | 0.1.0 | A template for VUW alumni profile flyers | legacyPackages.x86_64-linux.typstPackages.tuhi-alumni-vuw |
 | typst-package-tuhi-alumni-vuw | 0.1.0 | A template for VUW alumni profile flyers | legacyPackages.x86_64-linux.typstPackages.tuhi-alumni-vuw_0_1_0 |
 | typst-package-tuhi-assessment-vuw | 0.2.0 | A template for VUW assessments | legacyPackages.x86_64-linux.typstPackages.tuhi-assessment-vuw |
@@ -94834,10 +95244,13 @@
 | typst-package-typographix-polytechnique-reports | 0.1.5 | A report template for Polytechnique students (from TypographiX | legacyPackages.x86_64-linux.typstPackages.typographix-polytechnique-reports_0_1_5 |
 | typst-package-typographix-polytechnique-reports | 0.1.6 | A report template for Polytechnique students (from TypographiX | legacyPackages.x86_64-linux.typstPackages.typographix-polytechnique-reports |
 | typst-package-typographix-polytechnique-reports | 0.1.6 | A report template for Polytechnique students (from TypographiX | legacyPackages.x86_64-linux.typstPackages.typographix-polytechnique-reports_0_1_6 |
-| typst-package-typographix-polytechnique-slides | 0.1.0 | A presentation slide template for Polytechnique students (from TypographiX | legacyPackages.x86_64-linux.typstPackages.typographix-polytechnique-slides |
 | typst-package-typographix-polytechnique-slides | 0.1.0 | A presentation slide template for Polytechnique students (from TypographiX | legacyPackages.x86_64-linux.typstPackages.typographix-polytechnique-slides_0_1_0 |
+| typst-package-typographix-polytechnique-slides | 0.2.0 | A presentation slide template for Polytechnique students (from TypographiX | legacyPackages.x86_64-linux.typstPackages.typographix-polytechnique-slides |
+| typst-package-typographix-polytechnique-slides | 0.2.0 | A presentation slide template for Polytechnique students (from TypographiX | legacyPackages.x86_64-linux.typstPackages.typographix-polytechnique-slides_0_2_0 |
 | typst-package-typpuccino | 0.1.0 | Use catppuccin palette with Typst | legacyPackages.x86_64-linux.typstPackages.typpuccino |
 | typst-package-typpuccino | 0.1.0 | Use catppuccin palette with Typst | legacyPackages.x86_64-linux.typstPackages.typpuccino_0_1_0 |
+| typst-package-typsidian | 0.0.1 | Modern note-taking, outlining, and knowledge management | legacyPackages.x86_64-linux.typstPackages.typsidian |
+| typst-package-typsidian | 0.0.1 | Modern note-taking, outlining, and knowledge management | legacyPackages.x86_64-linux.typstPackages.typsidian_0_0_1 |
 | typst-package-typsite | 0.1.0 | Typsite std lib | legacyPackages.x86_64-linux.typstPackages.typsite |
 | typst-package-typsite | 0.1.0 | Typsite std lib | legacyPackages.x86_64-linux.typstPackages.typsite_0_1_0 |
 | typst-package-typsium | 0.0.1 | Typeset chemical formulas, both with inorganic and organic chemistry notation | legacyPackages.x86_64-linux.typstPackages.typsium_0_0_1 |
@@ -94845,8 +95258,9 @@
 | typst-package-typsium | 0.0.3 | Typeset chemical formulas, both with inorganic and organic chemistry notation | legacyPackages.x86_64-linux.typstPackages.typsium_0_0_3 |
 | typst-package-typsium | 0.1.0 | Typeset chemical formulas, both with inorganic and organic chemistry notation | legacyPackages.x86_64-linux.typstPackages.typsium_0_1_0 |
 | typst-package-typsium | 0.2.0 | Typeset chemical formulas and reactions | legacyPackages.x86_64-linux.typstPackages.typsium_0_2_0 |
-| typst-package-typsium | 0.3.0 | Typeset chemical formulas and reactions | legacyPackages.x86_64-linux.typstPackages.typsium |
 | typst-package-typsium | 0.3.0 | Typeset chemical formulas and reactions | legacyPackages.x86_64-linux.typstPackages.typsium_0_3_0 |
+| typst-package-typsium | 0.3.1 | Typeset chemical formulas and reactions | legacyPackages.x86_64-linux.typstPackages.typsium |
+| typst-package-typsium | 0.3.1 | Typeset chemical formulas and reactions | legacyPackages.x86_64-linux.typstPackages.typsium_0_3_1 |
 | typst-package-typsium-atomic | 0.1.0 | Draw Atoms, their electron configurations, shells and orbitals in Typst | legacyPackages.x86_64-linux.typstPackages.typsium-atomic |
 | typst-package-typsium-atomic | 0.1.0 | Draw Atoms, their electron configurations, shells and orbitals in Typst | legacyPackages.x86_64-linux.typstPackages.typsium-atomic_0_1_0 |
 | typst-package-typsium-ghs | 0.1.0 | Display and format Hazard & Precautionary statements and GHS pictograms in Typst | legacyPackages.x86_64-linux.typstPackages.typsium-ghs |
@@ -94859,14 +95273,26 @@
 | typst-package-typslides | 1.2.3 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides_1_2_3 |
 | typst-package-typslides | 1.2.4 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides_1_2_4 |
 | typst-package-typslides | 1.2.5 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides_1_2_5 |
-| typst-package-typslides | 1.2.6 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides |
 | typst-package-typslides | 1.2.6 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides_1_2_6 |
+| typst-package-typslides | 1.2.8 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides_1_2_8 |
+| typst-package-typslides | 1.3.0 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides |
+| typst-package-typslides | 1.3.0 | Minimalistic Typst slides | legacyPackages.x86_64-linux.typstPackages.typslides_1_3_0 |
+| typst-package-typsy | 0.1.0 | Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst | legacyPackages.x86_64-linux.typstPackages.typsy_0_1_0 |
+| typst-package-typsy | 0.2.0 | Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst | legacyPackages.x86_64-linux.typstPackages.typsy |
+| typst-package-typsy | 0.2.0 | Classes/structs, pattern matching, safe counters... and more! Your one-stop library for programming tools not already in core Typst | legacyPackages.x86_64-linux.typstPackages.typsy_0_2_0 |
+| typst-package-typxidian | 0.1.1 | Modern note-taking, thesis and academic reports inspried by Obsidian | legacyPackages.x86_64-linux.typstPackages.typxidian_0_1_1 |
+| typst-package-typxidian | 0.1.2 | Modern note-taking, thesis and academic reports inspried by Obsidian | legacyPackages.x86_64-linux.typstPackages.typxidian_0_1_2 |
+| typst-package-typxidian | 0.1.3 | Modern note-taking, thesis and academic reports inspried by Obsidian | legacyPackages.x86_64-linux.typstPackages.typxidian |
+| typst-package-typxidian | 0.1.3 | Modern note-taking, thesis and academic reports inspried by Obsidian | legacyPackages.x86_64-linux.typstPackages.typxidian_0_1_3 |
 | typst-package-ucpc-solutions | 0.1.0 | The port of UCPC solutions theme | legacyPackages.x86_64-linux.typstPackages.ucpc-solutions_0_1_0 |
 | typst-package-ucpc-solutions | 0.1.1 | The port of UCPC solutions theme | legacyPackages.x86_64-linux.typstPackages.ucpc-solutions |
 | typst-package-ucpc-solutions | 0.1.1 | The port of UCPC solutions theme | legacyPackages.x86_64-linux.typstPackages.ucpc-solutions_0_1_1 |
 | typst-package-ucph-nielsine-touying | 0.1.0 | Slide template built on Touying for the University of Copenhagen | legacyPackages.x86_64-linux.typstPackages.ucph-nielsine-touying_0_1_0 |
-| typst-package-ucph-nielsine-touying | 0.1.1 | Slide template built on Touying for the University of Copenhagen | legacyPackages.x86_64-linux.typstPackages.ucph-nielsine-touying |
 | typst-package-ucph-nielsine-touying | 0.1.1 | Slide template built on Touying for the University of Copenhagen | legacyPackages.x86_64-linux.typstPackages.ucph-nielsine-touying_0_1_1 |
+| typst-package-ucph-nielsine-touying | 0.1.2 | Slide template built on Touying for the University of Copenhagen | legacyPackages.x86_64-linux.typstPackages.ucph-nielsine-touying |
+| typst-package-ucph-nielsine-touying | 0.1.2 | Slide template built on Touying for the University of Copenhagen | legacyPackages.x86_64-linux.typstPackages.ucph-nielsine-touying_0_1_2 |
+| typst-package-ufscholar | 0.2.0 | ABNT-compliant thesis and dissertations for works at UFSC | legacyPackages.x86_64-linux.typstPackages.ufscholar |
+| typst-package-ufscholar | 0.2.0 | ABNT-compliant thesis and dissertations for works at UFSC | legacyPackages.x86_64-linux.typstPackages.ufscholar_0_2_0 |
 | typst-package-umbra | 0.1.0 | Basic shadows for Typst | legacyPackages.x86_64-linux.typstPackages.umbra_0_1_0 |
 | typst-package-umbra | 0.1.1 | Basic shadows for Typst | legacyPackages.x86_64-linux.typstPackages.umbra |
 | typst-package-umbra | 0.1.1 | Basic shadows for Typst | legacyPackages.x86_64-linux.typstPackages.umbra_0_1_1 |
@@ -94876,8 +95302,9 @@
 | typst-package-unequivocal-ams | 0.1.2 | An AMS-style paper template to publish at conferences and journals for mathematicians | legacyPackages.x86_64-linux.typstPackages.unequivocal-ams_0_1_2 |
 | typst-package-unichar | 0.1.0 | A partial port of the Unicode Character Database | legacyPackages.x86_64-linux.typstPackages.unichar_0_1_0 |
 | typst-package-unichar | 0.2.0 | A partial port of the Unicode Character Database | legacyPackages.x86_64-linux.typstPackages.unichar_0_2_0 |
-| typst-package-unichar | 0.3.0 | A partial port of the Unicode Character Database | legacyPackages.x86_64-linux.typstPackages.unichar |
 | typst-package-unichar | 0.3.0 | A partial port of the Unicode Character Database | legacyPackages.x86_64-linux.typstPackages.unichar_0_3_0 |
+| typst-package-unichar | 0.3.1 | A partial port of the Unicode Character Database | legacyPackages.x86_64-linux.typstPackages.unichar |
+| typst-package-unichar | 0.3.1 | A partial port of the Unicode Character Database | legacyPackages.x86_64-linux.typstPackages.unichar_0_3_1 |
 | typst-package-unify | 0.1.0 | Format numbers, units, and ranges correctly | legacyPackages.x86_64-linux.typstPackages.unify_0_1_0 |
 | typst-package-unify | 0.4.0 | Format numbers, units, and ranges correctly | legacyPackages.x86_64-linux.typstPackages.unify_0_4_0 |
 | typst-package-unify | 0.4.1 | Format numbers, units, and ranges correctly | legacyPackages.x86_64-linux.typstPackages.unify_0_4_1 |
@@ -94898,6 +95325,10 @@
 | typst-package-universal-hit-thesis | 0.2.1 | 哈尔滨工业大学学位论文模板 | Universal Harbin Institute of Technology Thesis | legacyPackages.x86_64-linux.typstPackages.universal-hit-thesis_0_2_1 |
 | typst-package-universal-hit-thesis | 0.3.0 | 哈尔滨工业大学学位论文模板 | Universal Harbin Institute of Technology Thesis | legacyPackages.x86_64-linux.typstPackages.universal-hit-thesis |
 | typst-package-universal-hit-thesis | 0.3.0 | 哈尔滨工业大学学位论文模板 | Universal Harbin Institute of Technology Thesis | legacyPackages.x86_64-linux.typstPackages.universal-hit-thesis_0_3_0 |
+| typst-package-universal-jlu-thesis | 0.1.7 | 吉林大学毕业设计论文模板 | Universal Jilin University Thesis | legacyPackages.x86_64-linux.typstPackages.universal-jlu-thesis |
+| typst-package-universal-jlu-thesis | 0.1.7 | 吉林大学毕业设计论文模板 | Universal Jilin University Thesis | legacyPackages.x86_64-linux.typstPackages.universal-jlu-thesis_0_1_7 |
+| typst-package-unofficial-cityu-phd-thesis | 1.0.0 | Typst template for PhD thesis of City University of Hong Kong | legacyPackages.x86_64-linux.typstPackages.unofficial-cityu-phd-thesis |
+| typst-package-unofficial-cityu-phd-thesis | 1.0.0 | Typst template for PhD thesis of City University of Hong Kong | legacyPackages.x86_64-linux.typstPackages.unofficial-cityu-phd-thesis_1_0_0 |
 | typst-package-unofficial-cityuhk-thesis | 0.1.0 | The unofficial thesis template for City University of Hong Kong | legacyPackages.x86_64-linux.typstPackages.unofficial-cityuhk-thesis |
 | typst-package-unofficial-cityuhk-thesis | 0.1.0 | The unofficial thesis template for City University of Hong Kong | legacyPackages.x86_64-linux.typstPackages.unofficial-cityuhk-thesis_0_1_0 |
 | typst-package-unofficial-fhict-document-template | 0.10.0 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template_0_10_0 |
@@ -94909,13 +95340,16 @@
 | typst-package-unofficial-fhict-document-template | 1.1.0 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template_1_1_0 |
 | typst-package-unofficial-fhict-document-template | 1.1.1 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template_1_1_1 |
 | typst-package-unofficial-fhict-document-template | 1.1.2 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template_1_1_2 |
-| typst-package-unofficial-fhict-document-template | 1.1.3 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template |
 | typst-package-unofficial-fhict-document-template | 1.1.3 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template_1_1_3 |
+| typst-package-unofficial-fhict-document-template | 1.2.0 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template_1_2_0 |
+| typst-package-unofficial-fhict-document-template | 1.2.1 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template |
+| typst-package-unofficial-fhict-document-template | 1.2.1 | This is a document template for creating professional-looking documents with Typst, tailored for FHICT (Fontys Hogeschool ICT | legacyPackages.x86_64-linux.typstPackages.unofficial-fhict-document-template_1_2_1 |
 | typst-package-unofficial-fontys-paper-template | 0.1.0 | This is a template for creating research papers in Typst, tailored for Fontys Hogeschool | legacyPackages.x86_64-linux.typstPackages.unofficial-fontys-paper-template |
 | typst-package-unofficial-fontys-paper-template | 0.1.0 | This is a template for creating research papers in Typst, tailored for Fontys Hogeschool | legacyPackages.x86_64-linux.typstPackages.unofficial-fontys-paper-template_0_1_0 |
 | typst-package-unofficial-hka-thesis | 1.0.0 | Unofficial thesis template used at the University of Applied Sciences Karlsruhe (Hochschule Karlsruhe / HKA) at the faculty of Computer Science | legacyPackages.x86_64-linux.typstPackages.unofficial-hka-thesis_1_0_0 |
-| typst-package-unofficial-hka-thesis | 1.0.1 | Unofficial thesis template used at the University of Applied Sciences Karlsruhe (Hochschule Karlsruhe / HKA) at the faculty of Computer Science | legacyPackages.x86_64-linux.typstPackages.unofficial-hka-thesis |
 | typst-package-unofficial-hka-thesis | 1.0.1 | Unofficial thesis template used at the University of Applied Sciences Karlsruhe (Hochschule Karlsruhe / HKA) at the faculty of Computer Science | legacyPackages.x86_64-linux.typstPackages.unofficial-hka-thesis_1_0_1 |
+| typst-package-unofficial-hka-thesis | 1.0.2 | Unofficial thesis template used at the University of Applied Sciences Karlsruhe (Hochschule Karlsruhe / HKA) at the faculty of Computer Science | legacyPackages.x86_64-linux.typstPackages.unofficial-hka-thesis |
+| typst-package-unofficial-hka-thesis | 1.0.2 | Unofficial thesis template used at the University of Applied Sciences Karlsruhe (Hochschule Karlsruhe / HKA) at the faculty of Computer Science | legacyPackages.x86_64-linux.typstPackages.unofficial-hka-thesis_1_0_2 |
 | typst-package-unofficial-sdu-thesis | 0.1.0 | 山东大学本科毕业论文（设计）模板 | legacyPackages.x86_64-linux.typstPackages.unofficial-sdu-thesis_0_1_0 |
 | typst-package-unofficial-sdu-thesis | 0.2.0 | 山东大学本科毕业论文（设计）模板 | legacyPackages.x86_64-linux.typstPackages.unofficial-sdu-thesis_0_2_0 |
 | typst-package-unofficial-sdu-thesis | 0.2.1 | 山东大学本科毕业论文（设计）模板 | legacyPackages.x86_64-linux.typstPackages.unofficial-sdu-thesis_0_2_1 |
@@ -94927,6 +95361,10 @@
 | typst-package-unofficial-tyut-thesis | 0.1.1 | 非官方太原理工大学本科毕业论文 typst 模板。 | legacyPackages.x86_64-linux.typstPackages.unofficial-tyut-thesis_0_1_1 |
 | typst-package-unofficial-ukim-thesis | 0.1.0 | Unofficial thesis style for the University of St. Cyril and Methodius in Skopje | legacyPackages.x86_64-linux.typstPackages.unofficial-ukim-thesis |
 | typst-package-unofficial-ukim-thesis | 0.1.0 | Unofficial thesis style for the University of St. Cyril and Methodius in Skopje | legacyPackages.x86_64-linux.typstPackages.unofficial-ukim-thesis_0_1_0 |
+| typst-package-unofficial-ulb-report | 0.1.0 | Unofficial template for reports at the Ecole Polytechnique de Bruxelles (ULB | legacyPackages.x86_64-linux.typstPackages.unofficial-ulb-report |
+| typst-package-unofficial-ulb-report | 0.1.0 | Unofficial template for reports at the Ecole Polytechnique de Bruxelles (ULB | legacyPackages.x86_64-linux.typstPackages.unofficial-ulb-report_0_1_0 |
+| typst-package-unofficial-uo-dissertation | 2024-1.0.0 | Unofficial University of Oregon Doctoral Dissertation template, following the 2023 UO Graduate School Style Manual requirements and 2024 UO official Word prefatory template | legacyPackages.x86_64-linux.typstPackages.unofficial-uo-dissertation-2024 |
+| typst-package-unofficial-uo-dissertation | 2024-1.0.0 | Unofficial University of Oregon Doctoral Dissertation template, following the 2023 UO Graduate School Style Manual requirements and 2024 UO official Word prefatory template | legacyPackages.x86_64-linux.typstPackages.unofficial-uo-dissertation-2024_1_0_0 |
 | typst-package-untypsignia | 0.1.0 | Unofficial typesetter's insignia emulations | legacyPackages.x86_64-linux.typstPackages.untypsignia_0_1_0 |
 | typst-package-untypsignia | 0.1.1 | Unofficial typesetter's insignia emulations | legacyPackages.x86_64-linux.typstPackages.untypsignia |
 | typst-package-untypsignia | 0.1.1 | Unofficial typesetter's insignia emulations | legacyPackages.x86_64-linux.typstPackages.untypsignia_0_1_1 |
@@ -94963,6 +95401,8 @@
 | typst-package-use-tabler-icons | 0.8.0 | Tabler Icons for Typst using webfont | legacyPackages.x86_64-linux.typstPackages.use-tabler-icons_0_8_0 |
 | typst-package-use-tabler-icons | 0.9.0 | Tabler Icons for Typst using webfont | legacyPackages.x86_64-linux.typstPackages.use-tabler-icons |
 | typst-package-use-tabler-icons | 0.9.0 | Tabler Icons for Typst using webfont | legacyPackages.x86_64-linux.typstPackages.use-tabler-icons_0_9_0 |
+| typst-package-utfpr-tcc-unofficial | 0.1.0 | Unofficial UTFPR undergraduate thesis (TCC) template following ABNT standards | legacyPackages.x86_64-linux.typstPackages.utfpr-tcc-unofficial |
+| typst-package-utfpr-tcc-unofficial | 0.1.0 | Unofficial UTFPR undergraduate thesis (TCC) template following ABNT standards | legacyPackages.x86_64-linux.typstPackages.utfpr-tcc-unofficial_0_1_0 |
 | typst-package-utype-neuies-reports | 1.0.0 | NEÜ Eğitim Bilimleri Enstitüsü için RESMÎ OLMAYAN tez önerisi, tez ve dönem projesi şablonudur. [UNOFFICIAL thesis proposal, thesis and term project template for NEU Institute of Educational Sciences | legacyPackages.x86_64-linux.typstPackages.utype-neuies-reports_1_0_0 |
 | typst-package-utype-neuies-reports | 1.1.0 | NEÜ Eğitim Bilimleri Enstitüsü için RESMÎ OLMAYAN tez önerisi, tez ve dönem projesi şablonudur. [UNOFFICIAL thesis proposal, thesis and term project template for NEU Institute of Educational Sciences | legacyPackages.x86_64-linux.typstPackages.utype-neuies-reports_1_1_0 |
 | typst-package-utype-neuies-reports | 1.2.0 | NEÜ Eğitim Bilimleri Enstitüsü için RESMÎ OLMAYAN tez önerisi, tez ve dönem projesi şablonudur. [UNOFFICIAL thesis proposal, thesis and term project template for NEU Institute of Educational Sciences | legacyPackages.x86_64-linux.typstPackages.utype-neuies-reports |
@@ -94985,8 +95425,9 @@
 | typst-package-vartable | 0.1.2 | A simple package to make variation table | legacyPackages.x86_64-linux.typstPackages.vartable_0_1_2 |
 | typst-package-vartable | 0.2.0 | A simple package to make variation table | legacyPackages.x86_64-linux.typstPackages.vartable_0_2_0 |
 | typst-package-vartable | 0.2.1 | A simple package to make variation table | legacyPackages.x86_64-linux.typstPackages.vartable_0_2_1 |
-| typst-package-vartable | 0.2.2 | A simple package to make variation table | legacyPackages.x86_64-linux.typstPackages.vartable |
 | typst-package-vartable | 0.2.2 | A simple package to make variation table | legacyPackages.x86_64-linux.typstPackages.vartable_0_2_2 |
+| typst-package-vartable | 0.2.3 | A simple package to make variation table | legacyPackages.x86_64-linux.typstPackages.vartable |
+| typst-package-vartable | 0.2.3 | A simple package to make variation table | legacyPackages.x86_64-linux.typstPackages.vartable_0_2_3 |
 | typst-package-vercanard | 1.0.0 | A colorful CV template | legacyPackages.x86_64-linux.typstPackages.vercanard_1_0_0 |
 | typst-package-vercanard | 1.0.1 | A colorful CV template | legacyPackages.x86_64-linux.typstPackages.vercanard_1_0_1 |
 | typst-package-vercanard | 1.0.2 | A colorful CV template | legacyPackages.x86_64-linux.typstPackages.vercanard_1_0_2 |
@@ -94997,8 +95438,9 @@
 | typst-package-versatile-apa | 7.1.1 | Comprehensive APA 7th Edition Style Template for Typst, suitable for both student and professional papers | legacyPackages.x86_64-linux.typstPackages.versatile-apa_7_1_1 |
 | typst-package-versatile-apa | 7.1.2 | Comprehensive APA 7th Edition Style Template for Typst, suitable for both student and professional papers | legacyPackages.x86_64-linux.typstPackages.versatile-apa_7_1_2 |
 | typst-package-versatile-apa | 7.1.3 | Comprehensive APA 7th Edition Style Template for Typst, suitable for both student and professional papers | legacyPackages.x86_64-linux.typstPackages.versatile-apa_7_1_3 |
-| typst-package-versatile-apa | 7.1.4 | Comprehensive APA 7th Edition Style Template for Typst, suitable for both student and professional papers | legacyPackages.x86_64-linux.typstPackages.versatile-apa |
 | typst-package-versatile-apa | 7.1.4 | Comprehensive APA 7th Edition Style Template for Typst, suitable for both student and professional papers | legacyPackages.x86_64-linux.typstPackages.versatile-apa_7_1_4 |
+| typst-package-versatile-apa | 7.1.5 | Comprehensive APA 7th Edition Style Template for Typst, suitable for both student and professional papers | legacyPackages.x86_64-linux.typstPackages.versatile-apa |
+| typst-package-versatile-apa | 7.1.5 | Comprehensive APA 7th Edition Style Template for Typst, suitable for both student and professional papers | legacyPackages.x86_64-linux.typstPackages.versatile-apa_7_1_5 |
 | typst-package-vibrant-color | 0.1.0 | A modern template designed for reports with a variety of colors available | legacyPackages.x86_64-linux.typstPackages.vibrant-color_0_1_0 |
 | typst-package-vibrant-color | 0.2.0 | A modern template designed for reports with a variety of colors available | legacyPackages.x86_64-linux.typstPackages.vibrant-color_0_2_0 |
 | typst-package-vibrant-color | 0.2.1 | A modern template designed for reports with a variety of colors available | legacyPackages.x86_64-linux.typstPackages.vibrant-color |
@@ -95010,18 +95452,24 @@
 | typst-package-vienna-tech | 1.0.0 | An unofficial template for writing thesis at the TU Wien civil- and environmental engineering faculty | legacyPackages.x86_64-linux.typstPackages.vienna-tech_1_0_0 |
 | typst-package-vienna-tech | 1.1.0 | An unofficial template for writing thesis at the TU Wien civil- and environmental engineering faculty | legacyPackages.x86_64-linux.typstPackages.vienna-tech |
 | typst-package-vienna-tech | 1.1.0 | An unofficial template for writing thesis at the TU Wien civil- and environmental engineering faculty | legacyPackages.x86_64-linux.typstPackages.vienna-tech_1_1_0 |
+| typst-package-vintage-fiit-thesis | 1.0.0 | Bachelor's or master's thesis at Faculty of Informatics and Information Technologies (FIIT), STU | legacyPackages.x86_64-linux.typstPackages.vintage-fiit-thesis |
+| typst-package-vintage-fiit-thesis | 1.0.0 | Bachelor's or master's thesis at Faculty of Informatics and Information Technologies (FIIT), STU | legacyPackages.x86_64-linux.typstPackages.vintage-fiit-thesis_1_0_0 |
 | typst-package-vlna | 0.1.0 | First version of czech vlna from LaTeX. All characters with less than 3 letters are connected to the next word | legacyPackages.x86_64-linux.typstPackages.vlna_0_1_0 |
 | typst-package-vlna | 0.1.1 | Typst reproduction of `luavlna` known from LuaLaTeX | legacyPackages.x86_64-linux.typstPackages.vlna |
 | typst-package-vlna | 0.1.1 | Typst reproduction of `luavlna` known from LuaLaTeX | legacyPackages.x86_64-linux.typstPackages.vlna_0_1_1 |
 | typst-package-volt-internship-ensea | 0.1.0 | Unofficial Typst template for internship reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-internship-ensea_0_1_0 |
 | typst-package-volt-internship-ensea | 0.1.1 | Unofficial template for internship reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-internship-ensea_0_1_1 |
-| typst-package-volt-internship-ensea | 0.1.2 | Unofficial template for internship reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-internship-ensea |
 | typst-package-volt-internship-ensea | 0.1.2 | Unofficial template for internship reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-internship-ensea_0_1_2 |
-| typst-package-volt-lab-ensea | 0.1.0 | Unofficial Typst template for lab reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-lab-ensea |
+| typst-package-volt-internship-ensea | 0.2.0 | Unofficial template for internship reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-internship-ensea |
+| typst-package-volt-internship-ensea | 0.2.0 | Unofficial template for internship reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-internship-ensea_0_2_0 |
 | typst-package-volt-lab-ensea | 0.1.0 | Unofficial Typst template for lab reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-lab-ensea_0_1_0 |
+| typst-package-volt-lab-ensea | 0.1.1 | Unofficial template for lab reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-lab-ensea |
+| typst-package-volt-lab-ensea | 0.1.1 | Unofficial template for lab reports at ENSEA, a French engineering school | legacyPackages.x86_64-linux.typstPackages.volt-lab-ensea_0_1_1 |
 | typst-package-vonsim | 0.1.0 | Syntax highlighting support for VonSim | legacyPackages.x86_64-linux.typstPackages.vonsim_0_1_0 |
 | typst-package-vonsim | 0.2.0 | Syntax highlighting support for VonSim | legacyPackages.x86_64-linux.typstPackages.vonsim |
 | typst-package-vonsim | 0.2.0 | Syntax highlighting support for VonSim | legacyPackages.x86_64-linux.typstPackages.vonsim_0_2_0 |
+| typst-package-voronay | 0.1.0 | A Typst library for Delaunay triangulations and Voronoi diagrams | legacyPackages.x86_64-linux.typstPackages.voronay |
+| typst-package-voronay | 0.1.0 | A Typst library for Delaunay triangulations and Voronoi diagrams | legacyPackages.x86_64-linux.typstPackages.voronay_0_1_0 |
 | typst-package-wavy | 0.1.0 | Draw digital timing diagram in Typst using Wavedrom | legacyPackages.x86_64-linux.typstPackages.wavy_0_1_0 |
 | typst-package-wavy | 0.1.1 | Draw digital timing diagram in Typst using Wavedrom | legacyPackages.x86_64-linux.typstPackages.wavy_0_1_1 |
 | typst-package-wavy | 0.1.3 | Draw digital timing diagram in Typst using Wavedrom | legacyPackages.x86_64-linux.typstPackages.wavy |
@@ -95081,6 +95529,8 @@
 | typst-package-yi | 0.1.0 | 简单、快速地绘制卦象图 Draw Gua easily | legacyPackages.x86_64-linux.typstPackages.yi_0_1_0 |
 | typst-package-yinsh-record | 1.0.0 | Draw yinsh records | legacyPackages.x86_64-linux.typstPackages.yinsh-record |
 | typst-package-yinsh-record | 1.0.0 | Draw yinsh records | legacyPackages.x86_64-linux.typstPackages.yinsh-record_1_0_0 |
+| typst-package-ytableausp | 0.1.0 | You can make Young Tableaux | legacyPackages.x86_64-linux.typstPackages.ytableausp |
+| typst-package-ytableausp | 0.1.0 | You can make Young Tableaux | legacyPackages.x86_64-linux.typstPackages.ytableausp_0_1_0 |
 | typst-package-yuan-resume | 0.1.0 | An elegant academic resume template | legacyPackages.x86_64-linux.typstPackages.yuan-resume |
 | typst-package-yuan-resume | 0.1.0 | An elegant academic resume template | legacyPackages.x86_64-linux.typstPackages.yuan-resume_0_1_0 |
 | typst-package-zap | 0.1.0 | A package to draw amazing electronic circuits using CeTZ superpowers | legacyPackages.x86_64-linux.typstPackages.zap_0_1_0 |
@@ -95106,11 +95556,15 @@
 | typst-package-zebraw | 0.5.2 | A lightweight and fast package for displaying code blocks with line numbers or highlighting | legacyPackages.x86_64-linux.typstPackages.zebraw_0_5_2 |
 | typst-package-zebraw | 0.5.3 | A lightweight and fast package for displaying code blocks with line numbers or highlighting | legacyPackages.x86_64-linux.typstPackages.zebraw_0_5_3 |
 | typst-package-zebraw | 0.5.4 | A lightweight and fast package for displaying code blocks with line numbers or highlighting | legacyPackages.x86_64-linux.typstPackages.zebraw_0_5_4 |
-| typst-package-zebraw | 0.5.5 | A lightweight and fast package for displaying code blocks with line numbers or highlighting | legacyPackages.x86_64-linux.typstPackages.zebraw |
 | typst-package-zebraw | 0.5.5 | A lightweight and fast package for displaying code blocks with line numbers or highlighting | legacyPackages.x86_64-linux.typstPackages.zebraw_0_5_5 |
+| typst-package-zebraw | 0.6.0 | A lightweight and fast package for displaying code blocks with line numbers or highlighting | legacyPackages.x86_64-linux.typstPackages.zebraw |
+| typst-package-zebraw | 0.6.0 | A lightweight and fast package for displaying code blocks with line numbers or highlighting | legacyPackages.x86_64-linux.typstPackages.zebraw_0_6_0 |
+| typst-package-zen-utbm-report | 0.1.0 | Minimalist & customizable for submitting UTBM's reports | legacyPackages.x86_64-linux.typstPackages.zen-utbm-report |
+| typst-package-zen-utbm-report | 0.1.0 | Minimalist & customizable for submitting UTBM's reports | legacyPackages.x86_64-linux.typstPackages.zen-utbm-report_0_1_0 |
 | typst-package-zen-zine | 0.1.0 | Excellently type-set a fun little zine | legacyPackages.x86_64-linux.typstPackages.zen-zine_0_1_0 |
-| typst-package-zen-zine | 0.2.0 | Excellently type-set a fun little zine | legacyPackages.x86_64-linux.typstPackages.zen-zine |
 | typst-package-zen-zine | 0.2.0 | Excellently type-set a fun little zine | legacyPackages.x86_64-linux.typstPackages.zen-zine_0_2_0 |
+| typst-package-zen-zine | 0.2.1 | Excellently type-set a fun little zine | legacyPackages.x86_64-linux.typstPackages.zen-zine |
+| typst-package-zen-zine | 0.2.1 | Excellently type-set a fun little zine | legacyPackages.x86_64-linux.typstPackages.zen-zine_0_2_1 |
 | typst-package-zero | 0.1.0 | Advanced scientific number formatting | legacyPackages.x86_64-linux.typstPackages.zero_0_1_0 |
 | typst-package-zero | 0.2.0 | Advanced scientific number formatting | legacyPackages.x86_64-linux.typstPackages.zero_0_2_0 |
 | typst-package-zero | 0.3.0 | Advanced scientific number formatting | legacyPackages.x86_64-linux.typstPackages.zero_0_3_0 |
@@ -95120,6 +95574,8 @@
 | typst-package-zero | 0.4.0 | Advanced scientific number formatting | legacyPackages.x86_64-linux.typstPackages.zero_0_4_0 |
 | typst-package-zero | 0.5.0 | Advanced scientific number formatting | legacyPackages.x86_64-linux.typstPackages.zero |
 | typst-package-zero | 0.5.0 | Advanced scientific number formatting | legacyPackages.x86_64-linux.typstPackages.zero_0_5_0 |
+| typst-package-zh-format | 0.1.0 | 更好的Typst中文文本格式包（粗体、斜体、下划线）。A Typst package for better Chinese text formatting (bold, italic, underline | legacyPackages.x86_64-linux.typstPackages.zh-format |
+| typst-package-zh-format | 0.1.0 | 更好的Typst中文文本格式包（粗体、斜体、下划线）。A Typst package for better Chinese text formatting (bold, italic, underline | legacyPackages.x86_64-linux.typstPackages.zh-format_0_1_0 |
 | typst-package-zh-kit | 0.1.0 | 基础的 Typst 中文支持，提供字体配置等核心功能。Add basicly support for Chinese Typeset, likes fonts, etc | legacyPackages.x86_64-linux.typstPackages.zh-kit |
 | typst-package-zh-kit | 0.1.0 | 基础的 Typst 中文支持，提供字体配置等核心功能。Add basicly support for Chinese Typeset, likes fonts, etc | legacyPackages.x86_64-linux.typstPackages.zh-kit_0_1_0 |
 | typst-package-zhconv | 0.3.1 | Convert Chinese text between Traditional/Simplified and regional variants. 中文简繁及地區詞轉換 | legacyPackages.x86_64-linux.typstPackages.zhconv |
@@ -95428,7 +95884,7 @@
 | ultrastar-manager | 2019-04-23 | Ultrastar karaoke song manager | legacyPackages.x86_64-linux.ultrastar-manager |
 | ultrastardx | 2025.10.1 | Free and open source karaoke game | legacyPackages.x86_64-linux.ultrastardx |
 | umami | 3.0.1 | Simple, easy to use, self-hosted web analytics solution | legacyPackages.x86_64-linux.umami |
-| umap | 3.4.1 | UMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site | legacyPackages.x86_64-linux.umap |
+| umap | 3.4.2 | UMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site | legacyPackages.x86_64-linux.umap |
 | umbclegislation | 2016-6-8 | A LaTeX class for building legislation files for UMBC Student Government Association Bills | legacyPackages.x86_64-linux.texlivePackages.umbclegislation |
 | umbrello | 25.08.3 | GUI for diagramming Unified Modelling Language (UML) | legacyPackages.x86_64-linux.kdePackages.umbrello |
 | umich-thesis | 1.20 | University of Michigan Thesis LaTeX class | legacyPackages.x86_64-linux.texlivePackages.umich-thesis |
@@ -95568,7 +96024,7 @@
 | unicode-data-parser | 0.3.0.3 | Parsers for Unicode Character Database (UCD) files | legacyPackages.x86_64-linux.haskellPackages.unicode-data-parser |
 | unicode-data-scripts | 0.6.0 | Unicode characters scripts | legacyPackages.x86_64-linux.haskellPackages.unicode-data-scripts |
 | unicode-data-security | 0.6.0 | Unicode security mechanisms database | legacyPackages.x86_64-linux.haskellPackages.unicode-data-security |
-| unicode-emoji | 17.0 | Unicode Emoji Data Files | legacyPackages.x86_64-linux.unicode-emoji |
+| unicode-emoji | 17.0.0 | Unicode Emoji Data Files | legacyPackages.x86_64-linux.unicode-emoji |
 | unicode-general-category | 0.1.0.0 | Unicode General Category Database | legacyPackages.x86_64-linux.haskellPackages.unicode-general-category |
 | unicode-idna | 16.0.0 | Unicode IDNA compatible processing data | legacyPackages.x86_64-linux.unicode-idna |
 | unicode-math | 0.8r | Unicode mathematics support for XeTeX and LuaTeX | legacyPackages.x86_64-linux.texlivePackages.unicode-math |
@@ -95592,7 +96048,7 @@
 | unidings | 13.00 | Glyphs and Icons for blocks of The Unicode Standard | legacyPackages.x86_64-linux.unidings |
 | uniex | 0.1.19 | Unifi controller device inventory exporter, analyses all device and stat records for complete records | legacyPackages.x86_64-linux.uniex |
 | unifdef | 2.12 | Selectively remove C preprocessor conditionals | legacyPackages.x86_64-linux.unifdef |
-| unifi-controller | 9.5.21 | Controller for Ubiquiti UniFi access points | legacyPackages.x86_64-linux.unifi |
+| unifi-controller | 10.0.156 | Controller for Ubiquiti UniFi access points | legacyPackages.x86_64-linux.unifi |
 | unifi-protect-backup | 0.11.0 | Python tool to backup unifi event clips in realtime | legacyPackages.x86_64-linux.unifi-protect-backup |
 | unification-fd | 0.12.0.2 | Simple generic unification algorithms | legacyPackages.x86_64-linux.haskellPackages.unification-fd |
 | unified-memory-framework | 1.0.3 | Library for constructing allocators and memory pools | legacyPackages.x86_64-linux.unified-memory-framework |
@@ -95995,8 +96451,8 @@
 | usbip-linux-xanmod | 6.17.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.usbip |
 | usbip-linux-xanmod | 6.17.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.usbip |
 | usbip-linux-xanmod | 6.17.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.usbip |
-| usbip-linux-zen | 6.17.8 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.usbip |
-| usbip-linux-zen | 6.17.8 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_zen.usbip |
+| usbip-linux-zen | 6.17.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.usbip |
+| usbip-linux-zen | 6.17.9 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_zen.usbip |
 | usbip-ssh | 0-unstable-2024-10-09 | Import usb devices from another linux machine with ssh's connection forwarding mechanism | legacyPackages.x86_64-linux.usbip-ssh |
 | usbkvm | 0.3.0 | Open-source USB KVM (Keyboard, Video and Mouse) adapter | legacyPackages.x86_64-linux.usbkvm |
 | usbmuxd | 1.1.1+date=2023-05-05 | Socket daemon to multiplex connections from and to iOS devices | legacyPackages.x86_64-linux.usbmuxd |
@@ -96119,7 +96575,7 @@
 | uutils-diffutils | 0.4.2 | Drop-in replacement of diffutils in Rust | legacyPackages.x86_64-linux.uutils-diffutils |
 | uutils-findutils | 0.8.0 | Rust implementation of findutils | legacyPackages.x86_64-linux.uutils-findutils |
 | uuu | 1.5.233 | Freescale/NXP I.MX Chip image deploy tools | legacyPackages.x86_64-linux.uuu |
-| uv | 0.9.9 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.uv |
+| uv | 0.9.12 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.uv |
 | uv-sort | 0.6.1 | Sort uv's dependencies alphabetically | legacyPackages.x86_64-linux.uv-sort |
 | uvaletter | 1.1.1 | Unofficial letterhead template for the University of Amsterdam | legacyPackages.x86_64-linux.texlivePackages.uvaletter |
 | uvccapture | 0.5 | Capture image from USB webcam at a specified interval | legacyPackages.x86_64-linux.uvccapture |
@@ -96144,6 +96600,7 @@
 | uwuify | 0.2.2 | Fast text uwuifier | legacyPackages.x86_64-linux.uwuify |
 | uxadt | 0.0.16.0 | Cross-language extensible representation for algebraic data type instances | legacyPackages.x86_64-linux.haskellPackages.uxadt |
 | uxn | 1.0-unstable-2025-09-27 | Assembler and emulator for the Uxn stack machine | legacyPackages.x86_64-linux.uxn |
+| uxn11 | 1.0-unstable-2025-09-27 | X11 and standalone text-mode emulators for the Uxn virtual machine | legacyPackages.x86_64-linux.uxn11 |
 | uxplay | 1.72.2 | AirPlay Unix mirroring server | legacyPackages.x86_64-linux.uxplay |
 | uzbl-with-source | 0.1.0.0 | Utility function for reading a source of loaded uzbl pages | legacyPackages.x86_64-linux.haskellPackages.uzbl-with-source |
 | v1 | 0.1.0 |  | legacyPackages.x86_64-linux.tests.importCargoLock.v1 |
@@ -96169,16 +96626,16 @@
 | v4l2loopback | 0.15.1-6.12.59 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.v4l2loopback |
 | v4l2loopback | 0.15.1-6.12.59 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages.v4l2loopback |
 | v4l2loopback | 0.15.1-6.12.59 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_xanmod.v4l2loopback |
-| v4l2loopback | 0.15.1-6.17.8 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v4l2loopback |
-| v4l2loopback | 0.15.1-6.17.8 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_zen.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.v4l2loopback |
+| v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_latest.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_lqx.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.v4l2loopback |
 | v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.v4l2loopback |
+| v4l2loopback | 0.15.1-6.17.9 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxPackages_zen.v4l2loopback |
 | v4l2loopback | 0.15.1-6.6.117 | Kernel module to create V4L2 loopback devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.v4l2loopback |
 | v86d | 0.1.10-5.10.246 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.v86d |
 | v86d | 0.1.10-5.15.196 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.v86d |
@@ -96189,16 +96646,16 @@
 | v86d | 0.1.10-6.12.59 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.v86d |
 | v86d | 0.1.10-6.12.59 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages.v86d |
 | v86d | 0.1.10-6.12.59 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_xanmod.v86d |
-| v86d | 0.1.10-6.17.8 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v86d |
-| v86d | 0.1.10-6.17.8 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_zen.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.v86d |
+| v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_latest.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_lqx.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.v86d |
 | v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.v86d |
+| v86d | 0.1.10-6.17.9 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_zen.v86d |
 | v86d | 0.1.10-6.6.117 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.v86d |
 | vabal | 2.0.0 | the cabal companion | legacyPackages.x86_64-linux.haskellPackages.vabal |
 | vabal-lib | 2.0.0 | Core algorithms and datatypes used by vabal | legacyPackages.x86_64-linux.haskellPackages.vabal-lib |
@@ -96268,7 +96725,7 @@
 | valijson | 1.0.6 | Header-only C++ library for JSON Schema validation, with support for many popular parsers | legacyPackages.x86_64-linux.valijson |
 | valkey | 8.1.4 | High-performance data structure server that primarily serves key/value workloads | legacyPackages.x86_64-linux.valkey |
 | valor | 1.0.0.0 | Simple and powerful data validation | legacyPackages.x86_64-linux.haskellPackages.valor |
-| vals | 0.42.5 | Helm-like configuration values loader with support for various sources | legacyPackages.x86_64-linux.vals |
+| vals | 0.42.6 | Helm-like configuration values loader with support for various sources | legacyPackages.x86_64-linux.vals |
 | value-supply | 0.6 | A library for generating values without having to thread state | legacyPackages.x86_64-linux.haskellPackages.value-supply |
 | valuta | 1.4.2 | Simple application for converting currencies, with support for various APIs | legacyPackages.x86_64-linux.valuta |
 | vamp-plugin-sdk | 2.10 | Audio processing plugin system for plugins that extract descriptive information from audio data | legacyPackages.x86_64-linux.vamp-plugin-sdk |
@@ -96511,16 +96968,16 @@
 | vendor-reset-unstable | 2024-04-16-6.12.59 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.12.59 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.12.59 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_xanmod.vendor-reset |
-| vendor-reset-unstable | 2024-04-16-6.17.8 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vendor-reset |
-| vendor-reset-unstable | 2024-04-16-6.17.8 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.vendor-reset |
+| vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_latest.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_lqx.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vendor-reset |
+| vendor-reset-unstable | 2024-04-16-6.17.9 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.6.117 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vendor-reset |
 | venera | 1.5.3 | Comic reader that support reading local and network comics | legacyPackages.x86_64-linux.venera |
 | vengi-tools | 0.1.0 | Tools from the vengi voxel engine, including a thumbnailer, a converter, and the VoxEdit voxel editor | legacyPackages.x86_64-linux.vengi-tools |
@@ -96647,7 +97104,7 @@
 | viber | 24.9.0.3 | Instant messaging and Voice over IP (VoIP) app | legacyPackages.x86_64-linux.viber |
 | vibrantLinux | 2.2.0 | Tool to automate managing your screen's saturation depending on what programs are running | legacyPackages.x86_64-linux.vibrantlinux |
 | vice | 3.9 | Emulators for a variety of 8-bit Commodore computers | legacyPackages.x86_64-linux.vice |
-| viceroy | 0.16.0 | Provides local testing for developers working with Compute@Edge | legacyPackages.x86_64-linux.viceroy |
+| viceroy | 0.16.1 | Provides local testing for developers working with Compute@Edge | legacyPackages.x86_64-linux.viceroy |
 | vicinae | 0.16.10 | A focused launcher for your desktop — native, fast, extensible | legacyPackages.x86_64-linux.vicinae |
 | vicinity | 0.1.0 |  | legacyPackages.x86_64-linux.haskellPackages.vicinity |
 | vicious | 2.6.0 | Modular widget library for the awesome window manager | legacyPackages.x86_64-linux.lua51Packages.vicious |
@@ -98967,6 +99424,7 @@
 | vimplugin-vista.vim | 2024-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vista-vim |
 | vimplugin-visual-whitespace.nvim | 2025-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.visual-whitespace-nvim |
 | vimplugin-vs-tasks.nvim | 2025-10-27 |  | legacyPackages.x86_64-linux.vimPlugins.vs-tasks-nvim |
+| vimplugin-vscode-diff.nvim | 2025-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.vscode-diff-nvim |
 | vimplugin-vscode.nvim | 2025-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.vscode-nvim |
 | vimplugin-wal.vim | 2020-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.wal-vim |
 | vimplugin-webapi-vim | 2022-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.WebAPI |
@@ -99086,16 +99544,16 @@
 | virtualbox-modules | 7.2.4-6.12.59 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.virtualbox |
 | virtualbox-modules | 7.2.4-6.12.59 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages.virtualbox |
 | virtualbox-modules | 7.2.4-6.12.59 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_xanmod.virtualbox |
-| virtualbox-modules | 7.2.4-6.17.8 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox |
-| virtualbox-modules | 7.2.4-6.17.8 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.virtualbox |
+| virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_latest.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_lqx.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualbox |
+| virtualbox-modules | 7.2.4-6.17.9 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox |
 | virtualbox-modules | 7.2.4-6.6.117 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualbox |
 | virtualenv | 20.33.1 | Tool to create isolated Python environments | legacyPackages.x86_64-linux.virtualenv |
 | virtualenv-clone | 0.5.7 | Script to clone virtualenvs | legacyPackages.x86_64-linux.virtualenv-clone |
@@ -99115,7 +99573,7 @@
 | visual-hexdiff | 0.0.53 | Visual hexadecimal difference editor | legacyPackages.x86_64-linux.visual-hexdiff |
 | visual-paradigm-ce | 17.3.20251162 | All-in-one UML CASE tool for software development | legacyPackages.x86_64-linux.visual-paradigm-ce |
 | visual-prof | 0.5 | Create a visual profile of a program's source code | legacyPackages.x86_64-linux.haskellPackages.visual-prof |
-| visualboyadvance-m | 2.1.11 | Merge of the original Visual Boy Advance forks | legacyPackages.x86_64-linux.vbam |
+| visualboyadvance-m | 2.2.3 | Merge of the original Visual Boy Advance forks | legacyPackages.x86_64-linux.vbam |
 | visualfaq | 61719 | A Visual LaTeX FAQ | legacyPackages.x86_64-linux.texlivePackages.visualfaq |
 | visualfaq-fr | 71053 | FAQ LaTeX visuelle francophone | legacyPackages.x86_64-linux.texlivePackages.visualfaq-fr |
 | visualize-cbn | 0.2.1 | Visualize CBN reduction | legacyPackages.x86_64-linux.haskellPackages.visualize-cbn |
@@ -99211,16 +99669,16 @@
 | vmware-modules-workstation | 17.6.3-20250728-6.12.59 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.12.59 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.12.59 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_xanmod.vmware |
-| vmware-modules-workstation | 17.6.3-20250728-6.17.8 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware |
-| vmware-modules-workstation | 17.6.3-20250728-6.17.8 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.vmware |
+| vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_latest.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_lqx.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vmware |
+| vmware-modules-workstation | 17.6.3-20250728-6.17.9 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.6.117 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vmware |
 | vmware-workstation | 17.6.4 | Industry standard desktop hypervisor for x86-64 architecture | legacyPackages.x86_64-linux.vmware-workstation |
 | vncdo | 1.2.0 | Command line VNC client and Python library | legacyPackages.x86_64-linux.vncdo |
@@ -99288,7 +99746,7 @@
 | vpn-slice | 0.16.1 | vpnc-script replacement for easy and secure split-tunnel VPN setup | legacyPackages.x86_64-linux.vpn-slice |
 | vpnc | 0-unstable-2025-06-16 | Virtual private network (VPN) client for Cisco's VPN concentrators | legacyPackages.x86_64-linux.vpnc |
 | vpnc-scripts-unstable | 2023-01-03 | Script for vpnc to configure the network routing and name service | legacyPackages.x86_64-linux.vpnc-scripts |
-| vpp | 25.06 | Fast, scalable layer 2-4 multi-platform network stack running in user space | legacyPackages.x86_64-linux.vpp |
+| vpp | 25.10 | Fast, scalable layer 2-4 multi-platform network stack running in user space | legacyPackages.x86_64-linux.vpp |
 | vpq | 0.1.0.0 | Priority queue based on vector | legacyPackages.x86_64-linux.haskellPackages.vpq |
 | vprof | 0.38 | Visual profiler for Python | legacyPackages.x86_64-linux.vprof |
 | vpsfree-client | 0.19.0 | Ruby API and CLI for the vpsFree.cz API | legacyPackages.x86_64-linux.vpsfree-client |
@@ -99514,7 +99972,7 @@
 | vscode-extension-github-github-vscode-theme | 6.3.5 | GitHub theme for VS Code | legacyPackages.x86_64-linux.vscode-extensions.github.github-vscode-theme |
 | vscode-extension-github-vscode-github-actions | 0.28.0 | Visual Studio Code extension for GitHub Actions workflows and runs for github.com hosted repositories | legacyPackages.x86_64-linux.vscode-extensions.github.vscode-github-actions |
 | vscode-extension-github-vscode-pull-request-github | 0.122.0 |  | legacyPackages.x86_64-linux.vscode-extensions.github.vscode-pull-request-github |
-| vscode-extension-gitlab-gitlab-workflow | 6.57.4 | GitLab extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.gitlab.gitlab-workflow |
+| vscode-extension-gitlab-gitlab-workflow | 6.58.0 | GitLab extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.gitlab.gitlab-workflow |
 | vscode-extension-gitlens | 17.7.1 | Visual Studio Code extension that improves its built-in Git capabilities | legacyPackages.x86_64-linux.vscode-extensions.eamodio.gitlens |
 | vscode-extension-gleam-gleam | 2.12.1 | Support for the Gleam programming language | legacyPackages.x86_64-linux.vscode-extensions.gleam.gleam |
 | vscode-extension-golang-Go | 0.50.0 | Go extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.golang.go |
@@ -99663,7 +100121,7 @@
 | vscode-extension-quicktype-quicktype | 23.0.170 | Infer types from sample JSON data | legacyPackages.x86_64-linux.vscode-extensions.quicktype.quicktype |
 | vscode-extension-rebornix-ruby | 0.28.1 |  | legacyPackages.x86_64-linux.vscode-extensions.rebornix.ruby |
 | vscode-extension-redhat-ansible | 25.9.0 | Ansible language support | legacyPackages.x86_64-linux.vscode-extensions.redhat.ansible |
-| vscode-extension-redhat-java | 1.48.0 | Java language support for VS Code via the Eclipse JDT Language Server | legacyPackages.x86_64-linux.vscode-extensions.redhat.java |
+| vscode-extension-redhat-java | 1.49.0 | Java language support for VS Code via the Eclipse JDT Language Server | legacyPackages.x86_64-linux.vscode-extensions.redhat.java |
 | vscode-extension-redhat-vscode-xml | 0.29.0 |  | legacyPackages.x86_64-linux.vscode-extensions.redhat.vscode-xml |
 | vscode-extension-redhat-vscode-yaml | 1.19.1 | YAML Language Support by Red Hat, with built-in Kubernetes syntax support | legacyPackages.x86_64-linux.vscode-extensions.redhat.vscode-yaml |
 | vscode-extension-reditorsupport-r | 2.8.6 | Visual Studio Code extension for the R programming language | legacyPackages.x86_64-linux.vscode-extensions.reditorsupport.r |
@@ -100446,7 +100904,7 @@
 | wgpu-native | 27.0.2.0 | Native WebGPU implementation based on wgpu-core | legacyPackages.x86_64-linux.wgpu-native |
 | wgpu-raw-hs | 0.4.0.0 | WGPU Raw | legacyPackages.x86_64-linux.haskellPackages.wgpu-raw-hs |
 | wgpu-utils | 25.0.2 | Safe and portable GPU abstraction in Rust, implementing WebGPU API | legacyPackages.x86_64-linux.wgpu-utils |
-| wgsl-analyzer | 2025-11-04 | Language server implementation for the WGSL shading language | legacyPackages.x86_64-linux.wgsl-analyzer |
+| wgsl-analyzer | 2025-11-14 | Language server implementation for the WGSL shading language | legacyPackages.x86_64-linux.wgsl-analyzer |
 | whalebird | 6.2.4 | Single-column Fediverse client for desktop | legacyPackages.x86_64-linux.whalebird |
 | what4 | 1.6.3 | Solver-agnostic symbolic values support for issuing queries | legacyPackages.x86_64-linux.haskellPackages.what4 |
 | what4 | 1.7 | Solver-agnostic symbolic values support for issuing queries | legacyPackages.x86_64-linux.haskellPackages.what4_1_7 |
@@ -101292,16 +101750,16 @@
 | x86_energy_perf_policy | 6.12.59 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.12.59 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.12.59 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_xanmod.x86_energy_perf_policy |
-| x86_energy_perf_policy | 6.17.8 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy |
-| x86_energy_perf_policy | 6.17.8 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.x86_energy_perf_policy |
+| x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_latest.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_lqx.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.x86_energy_perf_policy |
+| x86_energy_perf_policy | 6.17.9 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.6.117 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.x86_energy_perf_policy |
 | x86info | 0-unstable-2021-08-07 | Identification utility for the x86 series of processors | legacyPackages.x86_64-linux.x86info |
 | xa | 2.4.1 | Andre Fachat's open-source 6502 cross assembler | legacyPackages.x86_64-linux.xa |
@@ -102316,7 +102774,7 @@
 | yarn2nix | 1.0.0 | Convert packages.json and yarn.lock into a Nix expression that downloads all the dependencies | legacyPackages.x86_64-linux.yarn2nix |
 | yarp | 3.12.1 | Yet Another Robot Platform | legacyPackages.x86_64-linux.yarp |
 | yarr | 1.4.0.2 | Yet another array library | legacyPackages.x86_64-linux.haskellPackages.yarr |
-| yarr | 2.5 | Yet another rss reader | legacyPackages.x86_64-linux.yarr |
+| yarr | 2.6 | Yet another rss reader | legacyPackages.x86_64-linux.yarr |
 | yarr-image-io | 1.3.2.1 | Image IO for Yarr library | legacyPackages.x86_64-linux.haskellPackages.yarr-image-io |
 | yaru | 25.10.3 | Ubuntu community theme 'yaru' - default Ubuntu theme since 18.10 | legacyPackages.x86_64-linux.yaru-theme |
 | yaru-remix | 40 | Fork of the Yaru GTK theme | legacyPackages.x86_64-linux.yaru-remix-theme |
@@ -102919,16 +103377,16 @@
 | zfs-kernel | 2.3.5-6.12.59 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.12.59 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.12.59 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_3 |
-| zfs-kernel | 2.3.5-6.17.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3 |
-| zfs-kernel | 2.3.5-6.17.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_2_3 |
+| zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_3 |
+| zfs-kernel | 2.3.5-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.6.117 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_3 |
 | zfs-kernel | 2.4.0-rc4-5.10.246 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-5.15.196 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_unstable |
@@ -102939,16 +103397,16 @@
 | zfs-kernel | 2.4.0-rc4-6.12.59 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.12.59 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.12.59 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_unstable |
-| zfs-kernel | 2.4.0-rc4-6.17.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable |
-| zfs-kernel | 2.4.0-rc4-6.17.8 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_unstable |
+| zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_unstable |
+| zfs-kernel | 2.4.0-rc4-6.17.9 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable |
 | zfs-kernel | 2.4.0-rc4-6.6.117 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_unstable |
 | zfs-prune-snapshots | 1.5.0 | Remove snapshots from one or more zpools that match given criteria | legacyPackages.x86_64-linux.zfs-prune-snapshots |
 | zfs-user | 2.3.5 | ZFS Filesystem Linux Userspace Tools | legacyPackages.x86_64-linux.zfs |
@@ -103088,6 +103546,7 @@
 | znc-push | 1.1.0 | Push notification service module for ZNC | legacyPackages.x86_64-linux.zncModules.push |
 | zod-engine | 2011-09-06 | Multiplayer remake of ZED | legacyPackages.x86_64-linux.zod |
 | zoekt | 3.7.2-2-unstable-2025-11-20 | Fast trigram based code search | legacyPackages.x86_64-linux.zoekt |
+| zoho-mail-desktop | 1.7.1 | Desktop client for Zoho Mail | legacyPackages.x86_64-linux.zoho-mail-desktop |
 | zola | 0.21.0 | Fast static site generator with everything built-in | legacyPackages.x86_64-linux.zola |
 | zon2nix | 0.1.3-unstable-2025-03-20 | Convert the dependencies in `build.zig.zon` to a Nix expression | legacyPackages.x86_64-linux.zon2nix |
 | zoneinfo | 0.5 | ZoneInfo library | legacyPackages.x86_64-linux.haskellPackages.zoneinfo |
