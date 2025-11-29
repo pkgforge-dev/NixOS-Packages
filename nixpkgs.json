@@ -4667,12 +4667,12 @@
   "legacyPackages.x86_64-linux.androidStudioPackages.canary": {
     "description": "Official IDE for Android (canary channel)",
     "pname": "android-studio-canary",
-    "version": "2025.2.3.1"
+    "version": "2025.2.3.3"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.dev": {
     "description": "Official IDE for Android (dev channel)",
     "pname": "android-studio-dev",
-    "version": "2025.2.3.1"
+    "version": "2025.2.3.3"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.stable": {
     "description": "Official IDE for Android (stable channel)",
@@ -9907,7 +9907,7 @@
   "legacyPackages.x86_64-linux.ascii-draw": {
     "description": "Draw diagrams or anything using only ASCII",
     "pname": "ascii-draw",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.ascii-image-converter": {
     "description": "Convert images into ASCII art on the console",
@@ -19282,7 +19282,7 @@
   "legacyPackages.x86_64-linux.cargo-tally": {
     "description": "Graph the number of crates that depend on your crate over time",
     "pname": "cargo-tally",
-    "version": "1.0.70"
+    "version": "1.0.71"
   },
   "legacyPackages.x86_64-linux.cargo-tarpaulin": {
     "description": "Code coverage tool for Rust projects",
@@ -19452,7 +19452,7 @@
   "legacyPackages.x86_64-linux.cartero": {
     "description": "Make HTTP requests and test APIs",
     "pname": "cartero",
-    "version": "0.2.4"
+    "version": "25.0"
   },
   "legacyPackages.x86_64-linux.carto": {
     "description": "Mapnik stylesheet compiler",
@@ -30862,7 +30862,7 @@
   "legacyPackages.x86_64-linux.darklua": {
     "description": "Command line tool that transforms Lua code",
     "pname": "darklua",
-    "version": "0.17.2"
+    "version": "0.17.3"
   },
   "legacyPackages.x86_64-linux.darkly": {
     "description": "Modern style for Qt applications (fork of Lightly)",
@@ -33447,7 +33447,7 @@
   "legacyPackages.x86_64-linux.dippi": {
     "description": "Calculate display info like DPI and aspect ratio",
     "pname": "dippi",
-    "version": "4.1.0"
+    "version": "4.2.0"
   },
   "legacyPackages.x86_64-linux.dirb": {
     "description": "Web content scanner",
@@ -34672,7 +34672,7 @@
   "legacyPackages.x86_64-linux.dokieli": {
     "description": "Clientside editor for decentralised article publishing, annotations and social interactions",
     "pname": "dokieli",
-    "version": "0-unstable-2025-11-20"
+    "version": "0-unstable-2025-11-27"
   },
   "legacyPackages.x86_64-linux.dokuwiki": {
     "description": "Simple to use and highly versatile Open Source wiki software that doesn't require a database",
@@ -35852,7 +35852,7 @@
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-typescript": {
     "description": "TypeScript/JavaScript code formatter",
     "pname": "dprint-plugin-typescript",
-    "version": "0.95.12"
+    "version": "0.95.13"
   },
   "legacyPackages.x86_64-linux.dprint-plugins.g-plane-malva": {
     "description": "CSS, SCSS, Sass and Less formatter",
@@ -41233,6 +41233,11 @@
     "description": "Simple and lightweight app for running Windows games using UMU-Launcher",
     "pname": "faugus-launcher",
     "version": "1.10.4"
+  },
+  "legacyPackages.x86_64-linux.fauna-shell": {
+    "description": "Interactive shell for FaunaDB",
+    "pname": "fauna-shell",
+    "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.faust": {
     "description": "Functional programming language for realtime audio signal processing",
@@ -46937,7 +46942,7 @@
   "legacyPackages.x86_64-linux.gemini-cli-bin": {
     "description": "AI agent that brings the power of Gemini directly into your terminal",
     "pname": "gemini-cli-bin",
-    "version": "0.17.1"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.geminicommit": {
     "description": "CLI that generates git commit messages with Google Gemini AI",
@@ -56152,7 +56157,7 @@
   "legacyPackages.x86_64-linux.goat": {
     "description": "Go ASCII Tool. Render ASCII art as SVG diagrams",
     "pname": "goat",
-    "version": "0.1"
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.goat-cli": {
     "description": "Integration testing tool for HTTP APIs using a simple script language",
@@ -155177,7 +155182,7 @@
   "legacyPackages.x86_64-linux.hifile": {
     "description": "Dual-pane graphical file manager for Windows, macOS and Linux",
     "pname": "hifile",
-    "version": "0.9.12.2"
+    "version": "0.9.12.3"
   },
   "legacyPackages.x86_64-linux.hifiscan": {
     "description": "Optimize the audio quality of your loudspeakers",
@@ -163187,7 +163192,7 @@
   "legacyPackages.x86_64-linux.hyprtoolkit": {
     "description": "A modern C++ Wayland-native GUI toolkit",
     "pname": "hyprtoolkit",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.hyprutils": {
     "description": "Small C++ library for utilities used across the Hypr* ecosystem",
@@ -165012,7 +165017,7 @@
   "legacyPackages.x86_64-linux.imv": {
     "description": "Command line image viewer for tiling window managers",
     "pname": "imv",
-    "version": "5.0.0"
+    "version": "5.0.1"
   },
   "legacyPackages.x86_64-linux.imwheel": {
     "description": "Mouse wheel configuration tool for XFree86/Xorg",
@@ -167182,7 +167187,7 @@
   "legacyPackages.x86_64-linux.jami": {
     "description": "Free and universal communication platform that respects the privacy and freedoms of its users",
     "pname": "jami",
-    "version": "20251106.0"
+    "version": "20251124.0"
   },
   "legacyPackages.x86_64-linux.jamin": {
     "description": "JACK Audio Mastering interface",
@@ -175527,7 +175532,7 @@
   "legacyPackages.x86_64-linux.ladybird": {
     "description": "Browser using the SerenityOS LibWeb engine with a Qt or Cocoa GUI",
     "pname": "ladybird",
-    "version": "0-unstable-2025-11-14"
+    "version": "0-unstable-2025-11-27"
   },
   "legacyPackages.x86_64-linux.lager": {
     "description": "C++ library for value-oriented design using the unidirectional data-flow architecture — Redux for C++",
@@ -183312,12 +183317,12 @@
   "legacyPackages.x86_64-linux.libwacom": {
     "description": "Libraries, configuration, and diagnostic tools for Wacom tablets running under Linux",
     "pname": "libwacom",
-    "version": "2.17.0"
+    "version": "2.16.1"
   },
   "legacyPackages.x86_64-linux.libwacom-surface": {
     "description": "Libraries, configuration, and diagnostic tools for Wacom tablets running under Linux",
     "pname": "libwacom-surface",
-    "version": "2.17.0"
+    "version": "2.16.1"
   },
   "legacyPackages.x86_64-linux.libwapcaplet": {
     "description": "String internment library for netsurf browser",
@@ -211197,7 +211202,7 @@
   "legacyPackages.x86_64-linux.marge-bot": {
     "description": "Merge bot for GitLab",
     "pname": "marge-bot",
-    "version": "0.18.0"
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.mari0": {
     "description": "Crossover between Super Mario Bros. and Portal",
@@ -212587,7 +212592,7 @@
   "legacyPackages.x86_64-linux.mdbook-pagetoc": {
     "description": "Table of contents for mdbook (in sidebar)",
     "pname": "mdbook-pagetoc",
-    "version": "0.2.2"
+    "version": "0.3.0"
   },
   "legacyPackages.x86_64-linux.mdbook-pandoc": {
     "description": "A mdbook backend powered by Pandoc",
@@ -220089,6 +220094,11 @@
     "pname": "NetworkManager-openvpn",
     "version": "1.12.3"
   },
+  "legacyPackages.x86_64-linux.networkmanager-ssh": {
+    "description": "SSH VPN integration for NetworkManager",
+    "pname": "NetworkManager-ssh",
+    "version": "1.4.2"
+  },
   "legacyPackages.x86_64-linux.networkmanager-sstp": {
     "description": "NetworkManager's sstp plugin",
     "pname": "NetworkManager-sstp-gnome",
@@ -222504,6 +222514,11 @@
     "pname": "node-gyp",
     "version": "12.1.0"
   },
+  "legacyPackages.x86_64-linux.node-gyp-build": {
+    "description": "Build tool and bindings loader for node-gyp that supports prebuilds",
+    "pname": "node-gyp-build",
+    "version": "4.8.4"
+  },
   "legacyPackages.x86_64-linux.node-hp-scan-to": {
     "description": "Allow to send scan from device to computer for some HP All-in-One Printers",
     "pname": "node-hp-scan-to",
@@ -223075,7 +223090,7 @@
     "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.nodePackages.fauna-shell": {
-    "description": "faunadb shell",
+    "description": "Interactive shell for FaunaDB",
     "pname": "fauna-shell",
     "version": "4.0.0"
   },
@@ -224335,7 +224350,7 @@
     "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.fauna-shell": {
-    "description": "faunadb shell",
+    "description": "Interactive shell for FaunaDB",
     "pname": "fauna-shell",
     "version": "4.0.0"
   },
@@ -226657,7 +226672,7 @@
   "legacyPackages.x86_64-linux.nxwitness-client": {
     "description": "Desktop Client for Nx Witness Video Systems",
     "pname": "nxwitness-client",
-    "version": "6.0.3.40736"
+    "version": "6.0.6.41837"
   },
   "legacyPackages.x86_64-linux.nyaa": {
     "description": "Tui tool for browsing and downloading torrents",
@@ -239407,7 +239422,7 @@
   "legacyPackages.x86_64-linux.paq": {
     "description": "Hash file or directory recursively",
     "pname": "paq",
-    "version": "1.3.0"
+    "version": "1.3.3"
   },
   "legacyPackages.x86_64-linux.par": {
     "description": "Paragraph reflow for email",
@@ -239432,7 +239447,7 @@
   "legacyPackages.x86_64-linux.parabolic": {
     "description": "Graphical frontend for yt-dlp to download video and audio",
     "pname": "parabolic",
-    "version": "2025.11.0"
+    "version": "2025.11.1"
   },
   "legacyPackages.x86_64-linux.parallel": {
     "description": "Shell tool for executing jobs in parallel",
@@ -286612,7 +286627,7 @@
   "legacyPackages.x86_64-linux.python312Packages.bosch-alarm-mode2": {
     "description": "Async Python library for interacting with Bosch Alarm Panels supporting the 'Mode 2' API",
     "pname": "python3.12-bosch-alarm-mode2",
-    "version": "0.4.7"
+    "version": "0.4.8"
   },
   "legacyPackages.x86_64-linux.python312Packages.boschshcpy": {
     "description": "Python module to work with the Bosch Smart Home Controller API",
@@ -319132,7 +319147,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pywikibot": {
     "description": "Python MediaWiki bot framework",
     "pname": "python3.12-pywikibot",
-    "version": "10.4.0"
+    "version": "10.7.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.pywilight": {
     "description": "Python API for WiLight device",
@@ -320627,7 +320642,7 @@
   "legacyPackages.x86_64-linux.python312Packages.rigour": {
     "description": "Data cleaning and validation functions for names, languages, identifiers, etc",
     "pname": "python3.12-rigour",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.ring-doorbell": {
     "description": "Library to communicate with Ring Door Bell",
@@ -325412,7 +325427,7 @@
   "legacyPackages.x86_64-linux.python312Packages.temporalio": {
     "description": "Temporal Python SDK",
     "pname": "python3.12-temporalio",
-    "version": "1.19.0"
+    "version": "1.20.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.tenacity": {
     "description": "Retrying library for Python",
@@ -329838,11 +329853,6 @@
     "description": "Retrieve information from typeshed and other typing stubs",
     "pname": "python3.12-typeshed-client",
     "version": "2.8.2"
-  },
-  "legacyPackages.x86_64-linux.python312Packages.typesystem": {
-    "description": "Type system library for Python",
-    "pname": "python3.12-typesystem",
-    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.typical": {
     "description": "Python library for runtime analysis, inference and validation of Python types",
@@ -337922,7 +337932,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bosch-alarm-mode2": {
     "description": "Async Python library for interacting with Bosch Alarm Panels supporting the 'Mode 2' API",
     "pname": "python3.13-bosch-alarm-mode2",
-    "version": "0.4.7"
+    "version": "0.4.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.boschshcpy": {
     "description": "Python module to work with the Bosch Smart Home Controller API",
@@ -370447,7 +370457,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pywikibot": {
     "description": "Python MediaWiki bot framework",
     "pname": "python3.13-pywikibot",
-    "version": "10.4.0"
+    "version": "10.7.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pywilight": {
     "description": "Python API for WiLight device",
@@ -371942,7 +371952,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rigour": {
     "description": "Data cleaning and validation functions for names, languages, identifiers, etc",
     "pname": "python3.13-rigour",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.ring-doorbell": {
     "description": "Library to communicate with Ring Door Bell",
@@ -376777,7 +376787,7 @@
   "legacyPackages.x86_64-linux.python313Packages.temporalio": {
     "description": "Temporal Python SDK",
     "pname": "python3.13-temporalio",
-    "version": "1.19.0"
+    "version": "1.20.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tenacity": {
     "description": "Retrying library for Python",
@@ -381204,11 +381214,6 @@
     "pname": "python3.13-typeshed-client",
     "version": "2.8.2"
   },
-  "legacyPackages.x86_64-linux.python313Packages.typesystem": {
-    "description": "Type system library for Python",
-    "pname": "python3.13-typesystem",
-    "version": "0.4.1"
-  },
   "legacyPackages.x86_64-linux.python313Packages.typical": {
     "description": "Python library for runtime analysis, inference and validation of Python types",
     "pname": "python3.13-typical",
@@ -385007,7 +385012,7 @@
   "legacyPackages.x86_64-linux.qownnotes": {
     "description": "Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration",
     "pname": "qownnotes",
-    "version": "25.11.2"
+    "version": "25.11.5"
   },
   "legacyPackages.x86_64-linux.qpaeq": {
     "description": "Equalizer interface for pulseaudio's equalizer sinks",
@@ -387992,7 +387997,7 @@
   "legacyPackages.x86_64-linux.redumper": {
     "description": "Low level CD dumper utility",
     "pname": "redumper",
-    "version": "664"
+    "version": "665"
   },
   "legacyPackages.x86_64-linux.redux": {
     "description": "Sample-based instrument, with a powerful phrase sequencer",
@@ -388157,7 +388162,7 @@
   "legacyPackages.x86_64-linux.rehex": {
     "description": "Reverse Engineers' Hex Editor",
     "pname": "rehex",
-    "version": "0.63.3"
+    "version": "0.63.4"
   },
   "legacyPackages.x86_64-linux.reindeer": {
     "description": "Generate Buck build rules from Rust Cargo dependencies",
@@ -390677,7 +390682,7 @@
   "legacyPackages.x86_64-linux.rpm-sequoia": {
     "description": "OpenPGP backend for rpm using Sequoia PGP",
     "pname": "rpm-sequoia",
-    "version": "1.9.0"
+    "version": "1.10.0"
   },
   "legacyPackages.x86_64-linux.rpm2targz": {
     "description": "Convert a .rpm file to a .tar.gz archive",
@@ -512722,7 +512727,7 @@
   "legacyPackages.x86_64-linux.xemu": {
     "description": "Original Xbox emulator",
     "pname": "xemu",
-    "version": "0.8.115"
+    "version": "0.8.116"
   },
   "legacyPackages.x86_64-linux.xen": {
     "description": "Type-1 hypervisor intended for embedded and hyperscale use cases",
@@ -516062,7 +516067,7 @@
   "legacyPackages.x86_64-linux.yaydl": {
     "description": "Yet another youtube down loader",
     "pname": "yaydl",
-    "version": "0.18.1"
+    "version": "0.18.2"
   },
   "legacyPackages.x86_64-linux.yazi": {
     "description": "Blazing fast terminal file manager written in Rust, based on async I/O",
@@ -517277,7 +517282,7 @@
   "legacyPackages.x86_64-linux.zed-editor": {
     "description": "High-performance, multiplayer code editor from the creators of Atom and Tree-sitter",
     "pname": "zed-editor",
-    "version": "0.214.5"
+    "version": "0.214.6"
   },
   "legacyPackages.x86_64-linux.zed-editor-fhs": {
     "description": "Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. ",
