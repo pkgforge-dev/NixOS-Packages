@@ -15214,11 +15214,6 @@
     "pname": "binocle",
     "version": "0.3.2"
   },
-  "legacyPackages.x86_64-linux.binserve": {
-    "description": "Fast production-ready static web server",
-    "pname": "binserve",
-    "version": "0.2.0"
-  },
   "legacyPackages.x86_64-linux.binsider": {
     "description": "Analyzer of executables using a terminal user interface",
     "pname": "binsider",
@@ -16617,7 +16612,7 @@
   "legacyPackages.x86_64-linux.bottles-unwrapped": {
     "description": "Easy-to-use wineprefix manager",
     "pname": "bottles-unwrapped",
-    "version": "52.1"
+    "version": "60.1"
   },
   "legacyPackages.x86_64-linux.bottom": {
     "description": "Cross-platform graphical process/system monitor with a customizable interface",
@@ -17072,12 +17067,12 @@
   "legacyPackages.x86_64-linux.bruno": {
     "description": "Open-source IDE For exploring and testing APIs",
     "pname": "bruno",
-    "version": "2.14.2"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.bruno-cli": {
     "description": "CLI of the open-source IDE For exploring and testing APIs",
     "pname": "bruno-cli",
-    "version": "2.14.2"
+    "version": "2.15.0"
   },
   "legacyPackages.x86_64-linux.brunsli": {
     "description": "Lossless JPEG repacking library",
@@ -24167,7 +24162,7 @@
   "legacyPackages.x86_64-linux.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.chiptrack": {
     "description": "Programmable cross-platform sequencer for the Game Boy Advance sound chip",
@@ -28612,7 +28607,7 @@
   "legacyPackages.x86_64-linux.cpr": {
     "description": "C++ wrapper around libcurl",
     "pname": "libcpr",
-    "version": "1.13.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.cproto": {
     "description": "Tool to generate C function prototypes from C source code",
@@ -34967,7 +34962,7 @@
   "legacyPackages.x86_64-linux.dotnet-ef": {
     "description": "Tools to help with design-time development tasks",
     "pname": "dotnet-ef",
-    "version": "9.0.9"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.dotnet-outdated": {
     "description": ".NET Core global tool to display and update outdated NuGet packages in a project",
@@ -37597,7 +37592,7 @@
   "legacyPackages.x86_64-linux.ecspresso": {
     "description": "Deployment tool for ECS",
     "pname": "ecspresso",
-    "version": "2.6.4"
+    "version": "2.6.5"
   },
   "legacyPackages.x86_64-linux.ectool": {
     "description": "Dump the RAM of a laptop's Embedded/Environmental Controller (EC)",
@@ -42292,7 +42287,7 @@
   "legacyPackages.x86_64-linux.files-cli": {
     "description": "Files.com Command Line App for Windows, Linux, and macOS",
     "pname": "files-cli",
-    "version": "2.15.152"
+    "version": "2.15.156"
   },
   "legacyPackages.x86_64-linux.files-to-prompt": {
     "description": "Concatenate a directory full of files into a single prompt for use with LLMs",
@@ -45037,7 +45032,7 @@
   "legacyPackages.x86_64-linux.friture": {
     "description": "Real-time audio analyzer",
     "pname": "friture",
-    "version": "0.51"
+    "version": "0.54"
   },
   "legacyPackages.x86_64-linux.fritz-exporter": {
     "description": "Prometheus exporter for Fritz!Box home routers",
@@ -46767,7 +46762,7 @@
   "legacyPackages.x86_64-linux.gdscript-formatter": {
     "description": "Fast code formatter for GDScript and Godot 4",
     "pname": "gdscript-formatter",
-    "version": "0.18.0"
+    "version": "0.18.1"
   },
   "legacyPackages.x86_64-linux.gdtoolkit_3": {
     "description": "Independent set of tools for working with Godot's GDScript - parser, linter and formatter",
@@ -48977,7 +48972,7 @@
   "legacyPackages.x86_64-linux.gitify": {
     "description": "GitHub notifications on your menu bar",
     "pname": "gitify",
-    "version": "6.13.0"
+    "version": "6.14.1"
   },
   "legacyPackages.x86_64-linux.gitingest": {
     "description": "Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase",
@@ -58162,7 +58157,7 @@
   "legacyPackages.x86_64-linux.grafanaPlugins.grafana-pyroscope-app": {
     "description": "Integrate seamlessly with Pyroscope, the open-source continuous profiling platform, providing a smooth, query-less experience for browsing and analyzing profiling data",
     "pname": "grafana-pyroscope-app",
-    "version": "1.11.0"
+    "version": "1.12.0"
   },
   "legacyPackages.x86_64-linux.grafanaPlugins.grafana-sentry-datasource": {
     "description": "Integrate Sentry data into Grafana",
@@ -154212,7 +154207,7 @@
   "legacyPackages.x86_64-linux.hatch": {
     "description": "Modern, extensible Python project manager",
     "pname": "hatch",
-    "version": "1.14.2"
+    "version": "1.16.1"
   },
   "legacyPackages.x86_64-linux.hatchet": {
     "description": "MongoDB JSON Log Analyzer",
@@ -160947,7 +160942,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-components.volkswagencarnet": {
     "description": "Volkswagen Connect component for Home Assistant",
     "pname": "python3.13-robinostlund-volkswagencarnet",
-    "version": "5.1.3"
+    "version": "5.1.4"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.volvo_cars": {
     "description": "Volvo Cars Home Assistant integration",
@@ -166157,7 +166152,7 @@
   "legacyPackages.x86_64-linux.iosevka": {
     "description": "Versatile typeface for code, from code",
     "pname": "Iosevka",
-    "version": "33.3.4"
+    "version": "33.3.5"
   },
   "legacyPackages.x86_64-linux.iosevka-bin": {
     "description": "Versatile typeface for code, from code",
@@ -173802,7 +173797,7 @@
   "legacyPackages.x86_64-linux.kodiPackages.arteplussept": {
     "description": "Watch videos available on Arte+7",
     "pname": "kodi-arteplussept",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   "legacyPackages.x86_64-linux.kodiPackages.bluetooth-manager": {
     "description": "Addon that allows to manage bluetooth devices from within a Linux based Kodi",
@@ -177432,7 +177427,7 @@
   "legacyPackages.x86_64-linux.libcpr": {
     "description": "C++ wrapper around libcurl",
     "pname": "libcpr",
-    "version": "1.13.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.libcpr_1_10_5": {
     "description": "C++ wrapper around libcurl",
@@ -180677,12 +180672,12 @@
   "legacyPackages.x86_64-linux.libretro.beetle-psx": {
     "description": "Port of Mednafen's PSX Engine core to libretro",
     "pname": "libretro-mednafen-psx",
-    "version": "0-unstable-2025-11-14"
+    "version": "0-unstable-2025-11-28"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-psx-hw": {
     "description": "Port of Mednafen's PSX Engine core to libretro (with hardware acceleration support)",
     "pname": "libretro-mednafen-psx-hw",
-    "version": "0-unstable-2025-11-14"
+    "version": "0-unstable-2025-11-28"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-saturn": {
     "description": "Port of Mednafen's Saturn core to libretro",
@@ -184747,7 +184742,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -185552,7 +185547,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -186357,7 +186352,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -187157,7 +187152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -187962,7 +187957,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -188767,7 +188762,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -189572,7 +189567,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -190372,7 +190367,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -191177,7 +191172,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -191982,7 +191977,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -192787,7 +192782,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -193592,7 +193587,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -194397,7 +194392,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -195202,7 +195197,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxPackages.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -196012,7 +196007,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -196817,7 +196812,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -197622,7 +197617,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -198427,7 +198422,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -199232,7 +199227,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -200037,7 +200032,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.10.6"
+    "version": "1.13.17"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -211827,7 +211822,7 @@
   "legacyPackages.x86_64-linux.material-symbols": {
     "description": "Material Symbols icons by Google",
     "pname": "material-symbols",
-    "version": "4.0.0-unstable-2025-04-11"
+    "version": "4.0.0-unstable-2025-09-18"
   },
   "legacyPackages.x86_64-linux.materialgram": {
     "description": "Telegram Desktop fork with material icons and some improvements",
@@ -213332,7 +213327,7 @@
   "legacyPackages.x86_64-linux.meshcentral": {
     "description": "Computer management web app",
     "pname": "meshcentral",
-    "version": "1.1.53"
+    "version": "1.1.54"
   },
   "legacyPackages.x86_64-linux.meshlab": {
     "description": "System for processing and editing 3D triangular meshes",
@@ -214007,7 +214002,7 @@
   "legacyPackages.x86_64-linux.mimir": {
     "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. ",
     "pname": "mimir",
-    "version": "3.0.0"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.min": {
     "description": "Functional, concatenative programming language with a minimalist syntax",
@@ -217733,11 +217728,6 @@
     "description": "Http multipart parser implemented in C",
     "pname": "multipart-parser-c-unstable",
     "version": "2015-12-14"
-  },
-  "legacyPackages.x86_64-linux.multipass": {
-    "description": "Ubuntu VMs on demand for any workstation",
-    "pname": "multipass",
-    "version": "1.16.1"
   },
   "legacyPackages.x86_64-linux.multipath-tools": {
     "description": "Tools for the Linux multipathing storage driver",
@@ -270977,7 +270967,7 @@
   "legacyPackages.x86_64-linux.php82Extensions.relay": {
     "description": "Next-generation Redis extension for PHP",
     "pname": "relay",
-    "version": "0.12.1"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.php82Extensions.rrd": {
     "description": "PHP bindings to RRD tool system",
@@ -271622,7 +271612,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.relay": {
     "description": "Next-generation Redis extension for PHP",
     "pname": "relay",
-    "version": "0.12.1"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.php83Extensions.rrd": {
     "description": "PHP bindings to RRD tool system",
@@ -272267,7 +272257,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.relay": {
     "description": "Next-generation Redis extension for PHP",
     "pname": "relay",
-    "version": "0.12.1"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.php84Extensions.rrd": {
     "description": "PHP bindings to RRD tool system",
@@ -272907,7 +272897,7 @@
   "legacyPackages.x86_64-linux.phpExtensions.relay": {
     "description": "Next-generation Redis extension for PHP",
     "pname": "relay",
-    "version": "0.12.1"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.phpExtensions.rrd": {
     "description": "PHP bindings to RRD tool system",
@@ -279482,7 +279472,7 @@
   "legacyPackages.x86_64-linux.processing": {
     "description": "Language and IDE for electronic arts",
     "pname": "processing",
-    "version": "4.3.2"
+    "version": "4.4.10"
   },
   "legacyPackages.x86_64-linux.procfd": {
     "description": "Linux lsof replacement to list open file descriptors for processes",
@@ -281197,7 +281187,7 @@
   "legacyPackages.x86_64-linux.pure-maps": {
     "description": "Display vector and raster maps, places, routes, and provide navigation instructions with a flexible selection of data and service providers",
     "pname": "pure-maps",
-    "version": "3.4.1"
+    "version": "3.4.2"
   },
   "legacyPackages.x86_64-linux.pure-prompt": {
     "description": "Pretty, minimal and fast ZSH prompt",
@@ -284607,7 +284597,7 @@
   "legacyPackages.x86_64-linux.python312Packages.autoslot": {
     "description": "Automatic __slots__ for your Python classes",
     "pname": "python3.12-autoslot",
-    "version": "2024.12.1"
+    "version": "2025.11.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.av": {
     "description": "Pythonic bindings for FFmpeg",
@@ -291187,7 +291177,7 @@
   "legacyPackages.x86_64-linux.python312Packages.django-filer": {
     "description": "File management application for Django",
     "pname": "python3.12-django-filer",
-    "version": "3.3.3"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.django-filingcabinet": {
     "description": "Django app that manages documents with pages, annotations and collections",
@@ -298277,7 +298267,7 @@
   "legacyPackages.x86_64-linux.python312Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.12-iamdata",
-    "version": "0.1.202511271"
+    "version": "0.1.202511291"
   },
   "legacyPackages.x86_64-linux.python312Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -300962,7 +300952,7 @@
   "legacyPackages.x86_64-linux.python312Packages.langgraph-runtime-inmem": {
     "description": "Inmem implementation for the LangGraph API server",
     "pname": "python3.12-langgraph-runtime-inmem",
-    "version": "0.18.0"
+    "version": "0.19.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.langgraph-sdk": {
     "description": "SDK for interacting with the LangGraph Cloud REST API",
@@ -307427,7 +307417,7 @@
   "legacyPackages.x86_64-linux.python312Packages.niapy": {
     "description": "Micro framework for building nature-inspired algorithms",
     "pname": "python3.12-niapy",
-    "version": "2.6.0"
+    "version": "2.6.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.nibabel": {
     "description": "Access a multitude of neuroimaging data formats",
@@ -313232,7 +313222,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyenphase": {
     "description": "Library to control enphase envoy",
     "pname": "python3.12-pyenphase",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyenvisalink": {
     "description": "Python interface for Envisalink 2DS/3 Alarm API",
@@ -314637,7 +314627,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pymobiledevice3": {
     "description": "Pure python3 implementation for working with iDevices (iPhone, etc.)",
     "pname": "python3.12-pymobiledevice3",
-    "version": "6.0.0"
+    "version": "6.1.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.pymochad": {
     "description": "Python library for sending commands to the mochad TCP gateway daemon for the X10 CMA15A controller",
@@ -316457,7 +316447,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pysrdaligateway": {
     "description": "Python library for Sunricher DALI Gateway (EDA)",
     "pname": "python3.12-pysrdaligateway",
-    "version": "0.17.1"
+    "version": "0.17.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pysrim": {
     "description": "Srim Automation of Tasks via Python",
@@ -319857,7 +319847,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ray": {
     "description": "Unified framework for scaling AI and Python applications",
     "pname": "python3.12-ray",
-    "version": "2.52.0"
+    "version": "2.52.1"
   },
   "legacyPackages.x86_64-linux.python312Packages.raylib-python-cffi": {
     "description": "Python CFFI bindings for Raylib",
@@ -320252,7 +320242,7 @@
   "legacyPackages.x86_64-linux.python312Packages.reportlab": {
     "description": "Open Source Python library for generating PDFs and graphics",
     "pname": "python3.12-reportlab",
-    "version": "4.4.3"
+    "version": "4.4.5"
   },
   "legacyPackages.x86_64-linux.python312Packages.reportlab-qrcode": {
     "description": "Allows to create QR codes for use with the ReportLab PDF library",
@@ -324912,7 +324902,7 @@
   "legacyPackages.x86_64-linux.python312Packages.svg2tikz": {
     "description": "Set of tools for converting SVG graphics to TikZ/PGF code",
     "pname": "python3.12-svg2tikz",
-    "version": "3.3.3"
+    "version": "3.3.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.svgdigitizer": {
     "description": "Extract numerical data points from SVG files",
@@ -325767,7 +325757,7 @@
   "legacyPackages.x86_64-linux.python312Packages.textual": {
     "description": "TUI framework for Python inspired by modern web development",
     "pname": "python3.12-textual",
-    "version": "6.6.0"
+    "version": "6.7.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.textual-autocomplete": {
     "description": "Python library that provides autocomplete capabilities to textual",
@@ -327692,7 +327682,7 @@
   "legacyPackages.x86_64-linux.python312Packages.twilio": {
     "description": "Twilio API client and TwiML generator",
     "pname": "python3.12-twilio",
-    "version": "9.8.6"
+    "version": "9.8.7"
   },
   "legacyPackages.x86_64-linux.python312Packages.twill": {
     "description": "Simple scripting language for Web browsing",
@@ -330962,7 +330952,7 @@
   "legacyPackages.x86_64-linux.python312Packages.volkswagencarnet": {
     "description": "Python library for volkswagen carnet",
     "pname": "python3.12-volkswagencarnet",
-    "version": "5.1.2"
+    "version": "5.1.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.volkszaehler": {
     "description": "Python module for interacting with the Volkszahler API",
@@ -335897,7 +335887,7 @@
   "legacyPackages.x86_64-linux.python313Packages.autoslot": {
     "description": "Automatic __slots__ for your Python classes",
     "pname": "python3.13-autoslot",
-    "version": "2024.12.1"
+    "version": "2025.11.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.av": {
     "description": "Pythonic bindings for FFmpeg",
@@ -342477,7 +342467,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-filer": {
     "description": "File management application for Django",
     "pname": "python3.13-django-filer",
-    "version": "3.3.3"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-filingcabinet": {
     "description": "Django app that manages documents with pages, annotations and collections",
@@ -349567,7 +349557,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.13-iamdata",
-    "version": "0.1.202511271"
+    "version": "0.1.202511291"
   },
   "legacyPackages.x86_64-linux.python313Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -352252,7 +352242,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langgraph-runtime-inmem": {
     "description": "Inmem implementation for the LangGraph API server",
     "pname": "python3.13-langgraph-runtime-inmem",
-    "version": "0.18.0"
+    "version": "0.19.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langgraph-sdk": {
     "description": "SDK for interacting with the LangGraph Cloud REST API",
@@ -358722,7 +358712,7 @@
   "legacyPackages.x86_64-linux.python313Packages.niapy": {
     "description": "Micro framework for building nature-inspired algorithms",
     "pname": "python3.13-niapy",
-    "version": "2.6.0"
+    "version": "2.6.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.nibabel": {
     "description": "Access a multitude of neuroimaging data formats",
@@ -364527,7 +364517,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyenphase": {
     "description": "Library to control enphase envoy",
     "pname": "python3.13-pyenphase",
-    "version": "2.4.1"
+    "version": "2.4.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyenvisalink": {
     "description": "Python interface for Envisalink 2DS/3 Alarm API",
@@ -365932,7 +365922,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pymobiledevice3": {
     "description": "Pure python3 implementation for working with iDevices (iPhone, etc.)",
     "pname": "python3.13-pymobiledevice3",
-    "version": "6.0.0"
+    "version": "6.1.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.pymochad": {
     "description": "Python library for sending commands to the mochad TCP gateway daemon for the X10 CMA15A controller",
@@ -367752,7 +367742,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysrdaligateway": {
     "description": "Python library for Sunricher DALI Gateway (EDA)",
     "pname": "python3.13-pysrdaligateway",
-    "version": "0.17.1"
+    "version": "0.17.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysrim": {
     "description": "Srim Automation of Tasks via Python",
@@ -371152,7 +371142,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ray": {
     "description": "Unified framework for scaling AI and Python applications",
     "pname": "python3.13-ray",
-    "version": "2.52.0"
+    "version": "2.52.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.raylib-python-cffi": {
     "description": "Python CFFI bindings for Raylib",
@@ -371547,7 +371537,7 @@
   "legacyPackages.x86_64-linux.python313Packages.reportlab": {
     "description": "Open Source Python library for generating PDFs and graphics",
     "pname": "python3.13-reportlab",
-    "version": "4.4.3"
+    "version": "4.4.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.reportlab-qrcode": {
     "description": "Allows to create QR codes for use with the ReportLab PDF library",
@@ -376257,7 +376247,7 @@
   "legacyPackages.x86_64-linux.python313Packages.svg2tikz": {
     "description": "Set of tools for converting SVG graphics to TikZ/PGF code",
     "pname": "python3.13-svg2tikz",
-    "version": "3.3.3"
+    "version": "3.3.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.svgdigitizer": {
     "description": "Extract numerical data points from SVG files",
@@ -377112,7 +377102,7 @@
   "legacyPackages.x86_64-linux.python313Packages.textual": {
     "description": "TUI framework for Python inspired by modern web development",
     "pname": "python3.13-textual",
-    "version": "6.6.0"
+    "version": "6.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.textual-autocomplete": {
     "description": "Python library that provides autocomplete capabilities to textual",
@@ -379037,7 +379027,7 @@
   "legacyPackages.x86_64-linux.python313Packages.twilio": {
     "description": "Twilio API client and TwiML generator",
     "pname": "python3.13-twilio",
-    "version": "9.8.6"
+    "version": "9.8.7"
   },
   "legacyPackages.x86_64-linux.python313Packages.twill": {
     "description": "Simple scripting language for Web browsing",
@@ -382307,7 +382297,7 @@
   "legacyPackages.x86_64-linux.python313Packages.volkswagencarnet": {
     "description": "Python library for volkswagen carnet",
     "pname": "python3.13-volkswagencarnet",
-    "version": "5.1.2"
+    "version": "5.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.volkszaehler": {
     "description": "Python module for interacting with the Volkszahler API",
@@ -384447,7 +384437,7 @@
   "legacyPackages.x86_64-linux.pytr": {
     "description": "Use TradeRepublic in terminal and mass download all documents",
     "pname": "pytr",
-    "version": "0.4.3"
+    "version": "0.4.4"
   },
   "legacyPackages.x86_64-linux.pytrainer": {
     "description": "Application for logging and graphing sporting excursions",
@@ -386567,12 +386557,12 @@
   "legacyPackages.x86_64-linux.qutebrowser": {
     "description": "Keyboard-focused browser with a minimal GUI",
     "pname": "qutebrowser",
-    "version": "3.6.1"
+    "version": "3.6.2"
   },
   "legacyPackages.x86_64-linux.qutebrowser-qt5": {
     "description": "Keyboard-focused browser with a minimal GUI",
     "pname": "qutebrowser-qt5",
-    "version": "3.6.1"
+    "version": "3.6.2"
   },
   "legacyPackages.x86_64-linux.qvge": {
     "description": "Qt Visual Graph Editor",
@@ -399617,7 +399607,7 @@
   "legacyPackages.x86_64-linux.ruffle": {
     "description": "Cross platform Adobe Flash Player emulator",
     "pname": "ruffle",
-    "version": "0.2.0-nightly-2025-11-22"
+    "version": "0.2.0-nightly-2025-11-29"
   },
   "legacyPackages.x86_64-linux.rufo": {
     "description": "Ruby formatter",
@@ -399632,7 +399622,7 @@
   "legacyPackages.x86_64-linux.rumdl": {
     "description": "Markdown linter and formatter",
     "pname": "rumdl",
-    "version": "0.0.181"
+    "version": "0.0.185"
   },
   "legacyPackages.x86_64-linux.run": {
     "description": "Easily manage and invoke small scripts and wrappers",
@@ -399922,7 +399912,7 @@
   "legacyPackages.x86_64-linux.rustical": {
     "description": "Yet another calendar server aiming to be simple, fast and passwordless",
     "pname": "rustical",
-    "version": "0.9.14"
+    "version": "0.10.5"
   },
   "legacyPackages.x86_64-linux.rustlings": {
     "description": "Explore the Rust programming language and learn more about it while doing exercises",
@@ -430102,7 +430092,7 @@
   "legacyPackages.x86_64-linux.spotify": {
     "description": "Play music from the Spotify music service",
     "pname": "spotify",
-    "version": "1.2.63.394.g126b0d89"
+    "version": "1.2.74.477.g3be53afe"
   },
   "legacyPackages.x86_64-linux.spotify-cli-linux": {
     "description": "Command line interface to Spotify on Linux",
@@ -431802,7 +431792,7 @@
   "legacyPackages.x86_64-linux.stripe-cli": {
     "description": "Command-line tool for Stripe",
     "pname": "stripe-cli",
-    "version": "1.30.0"
+    "version": "1.31.0"
   },
   "legacyPackages.x86_64-linux.strobealign": {
     "description": "Read aligner for short reads",
@@ -432307,7 +432297,7 @@
   "legacyPackages.x86_64-linux.super-productivity": {
     "description": "To Do List / Time Tracker with Jira Integration",
     "pname": "super-productivity",
-    "version": "16.3.6"
+    "version": "16.4.1"
   },
   "legacyPackages.x86_64-linux.super-slicer": {
     "description": "PrusaSlicer fork with more features and faster development cycle",
@@ -432622,7 +432612,7 @@
   "legacyPackages.x86_64-linux.svg2tikz": {
     "description": "Set of tools for converting SVG graphics to TikZ/PGF code",
     "pname": "svg2tikz",
-    "version": "3.3.3"
+    "version": "3.3.4"
   },
   "legacyPackages.x86_64-linux.svgbob": {
     "description": "Convert your ascii diagram scribbles into happy little SVG",
@@ -434717,7 +434707,7 @@
   "legacyPackages.x86_64-linux.tcp_wrappers": {
     "description": "TCP Wrappers, a network logger, also known as TCPD or LOG_TCP",
     "pname": "tcp-wrappers",
-    "version": "7.6.q-33"
+    "version": "7.6.q-36"
   },
   "legacyPackages.x86_64-linux.tcpcrypt": {
     "description": "Fast TCP encryption",
@@ -436097,7 +436087,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google": {
     "description": "",
     "pname": "terraform-provider-google",
-    "version": "7.11.0"
+    "version": "7.12.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
@@ -436177,7 +436167,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_google": {
     "description": "",
     "pname": "terraform-provider-google",
-    "version": "7.11.0"
+    "version": "7.12.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_google-beta": {
     "description": "",
@@ -437237,7 +437227,7 @@
   "legacyPackages.x86_64-linux.terragrunt": {
     "description": "Thin wrapper for Terraform that supports locking for Terraform state and enforces best practices",
     "pname": "terragrunt",
-    "version": "0.93.10"
+    "version": "0.93.11"
   },
   "legacyPackages.x86_64-linux.terramate": {
     "description": "Adds code generation, stacks, orchestration, change detection, data sharing and more to Terraform",
@@ -466512,7 +466502,7 @@
   "legacyPackages.x86_64-linux.tidb": {
     "description": "Open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics",
     "pname": "tidb",
-    "version": "8.5.3"
+    "version": "8.5.4"
   },
   "legacyPackages.x86_64-linux.tiddit": {
     "description": "Identify chromosomal rearrangements using Mate Pair or Paired End sequencing data",
@@ -466562,7 +466552,7 @@
   "legacyPackages.x86_64-linux.tigerbeetle": {
     "description": "Financial accounting database designed to be distributed and fast",
     "pname": "tigerbeetle",
-    "version": "0.16.65"
+    "version": "0.16.66"
   },
   "legacyPackages.x86_64-linux.tigerjython": {
     "description": "Simple development environment for programming in Python",
@@ -470287,7 +470277,7 @@
   "legacyPackages.x86_64-linux.tutanota-desktop": {
     "description": "Tuta official desktop client",
     "pname": "tutanota-desktop",
-    "version": "314.251111.0"
+    "version": "315.251125.0"
   },
   "legacyPackages.x86_64-linux.tuxclocker": {
     "description": "Qt overclocking tool for GNU/Linux",
@@ -493592,7 +493582,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.SchemaStore-nvim": {
     "description": "",
     "pname": "vimplugin-SchemaStore.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-29"
   },
   "legacyPackages.x86_64-linux.vimPlugins.Shade-nvim": {
     "description": "",
@@ -493752,7 +493742,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.aerial-nvim": {
     "description": "",
     "pname": "vimplugin-aerial.nvim",
-    "version": "2025-11-17"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.ag-nvim": {
     "description": "",
@@ -493767,7 +493757,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.agitator-nvim": {
     "description": "",
     "pname": "vimplugin-agitator.nvim",
-    "version": "2025-10-12"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.ai-vim": {
     "description": "",
@@ -493782,7 +493772,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.airline": {
     "description": "",
     "pname": "vimplugin-vim-airline",
-    "version": "2025-11-04"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.alchemist-vim": {
     "description": "",
@@ -493792,7 +493782,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.ale": {
     "description": "",
     "pname": "vimplugin-ale",
-    "version": "2025-10-28"
+    "version": "2025-11-22"
   },
   "legacyPackages.x86_64-linux.vimPlugins.align": {
     "description": "",
@@ -493897,7 +493887,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.asyncomplete-lsp-vim": {
     "description": "",
     "pname": "vimplugin-asyncomplete-lsp.vim",
-    "version": "2025-10-28"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.asyncomplete-omni-vim": {
     "description": "",
@@ -494037,7 +494027,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.bamboo-nvim": {
     "description": "",
     "pname": "vimplugin-bamboo.nvim",
-    "version": "2025-11-12"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.barbar-nvim": {
     "description": "",
@@ -494052,7 +494042,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.base16-nvim": {
     "description": "",
     "pname": "vimplugin-base16-nvim",
-    "version": "2025-11-19"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.base16-vim": {
     "description": "",
@@ -494122,7 +494112,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.blink-cmp-conventional-commits": {
     "description": "",
     "pname": "vimplugin-blink-cmp-conventional-commits",
-    "version": "2025-11-04"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.blink-cmp-copilot": {
     "description": "",
@@ -494207,7 +494197,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim": {
     "description": "",
     "pname": "vimplugin-blink-ripgrep.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.bloat-nvim": {
     "description": "",
@@ -494297,7 +494287,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.catppuccin-nvim": {
     "description": "",
     "pname": "vimplugin-catppuccin-nvim",
-    "version": "2025-11-14"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.catppuccin-vim": {
     "description": "",
@@ -494452,7 +494442,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.cmp-beancount": {
     "description": "",
     "pname": "vimplugin-cmp-beancount",
-    "version": "2024-07-16"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.cmp-buffer": {
     "description": "",
@@ -494837,7 +494827,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.coc-nvim": {
     "description": "",
     "pname": "vimplugin-coc.nvim",
-    "version": "2025-11-19"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.coc-pairs": {
     "description": "Basic auto pairs extension for coc.nvim",
@@ -494977,7 +494967,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.codecompanion-nvim": {
     "description": "",
     "pname": "vimplugin-codecompanion.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.codecompanion-spinner-nvim": {
     "description": "",
@@ -495022,7 +495012,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.colorful-menu-nvim": {
     "description": "",
     "pname": "vimplugin-colorful-menu.nvim",
-    "version": "2025-11-08"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.colorful-winsep-nvim": {
     "description": "",
@@ -495147,12 +495137,12 @@
   "legacyPackages.x86_64-linux.vimPlugins.conform-nvim": {
     "description": "",
     "pname": "vimplugin-conform.nvim",
-    "version": "2025-11-17"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.conjure": {
     "description": "",
     "pname": "vimplugin-conjure",
-    "version": "2025-11-09"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.context-filetype": {
     "description": "",
@@ -495222,7 +495212,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.coq_nvim": {
     "description": "",
     "pname": "vimplugin-coq_nvim",
-    "version": "2025-10-11"
+    "version": "2025-11-22"
   },
   "legacyPackages.x86_64-linux.vimPlugins.cord-nvim": {
     "description": "",
@@ -495347,7 +495337,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.darcubox-nvim": {
     "description": "",
     "pname": "vimplugin-darcubox-nvim",
-    "version": "2025-08-15"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.darkearth-nvim": {
     "description": "",
@@ -495427,7 +495417,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.debugprint-nvim": {
     "description": "",
     "pname": "vimplugin-debugprint.nvim",
-    "version": "2025-11-06"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.deepwhite-nvim": {
     "description": "",
@@ -495457,7 +495447,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.demicolon-nvim": {
     "description": "Overloaded ; and , keys in Neovim",
     "pname": "vimplugin-demicolon.nvim",
-    "version": "2025-10-07"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.denite": {
     "description": "",
@@ -495617,7 +495607,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.dial-nvim": {
     "description": "",
     "pname": "vimplugin-dial.nvim",
-    "version": "2025-08-31"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.diffview-nvim": {
     "description": "",
@@ -495687,7 +495677,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.easy-dotnet-nvim": {
     "description": "",
     "pname": "vimplugin-easy-dotnet.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.easygit": {
     "description": "",
@@ -495752,7 +495742,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.elixir-tools-nvim": {
     "description": "",
     "pname": "vimplugin-elixir-tools.nvim",
-    "version": "2025-10-14"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.elm-vim": {
     "description": "",
@@ -495932,7 +495922,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.floaterm": {
     "description": "",
     "pname": "vimplugin-floaterm",
-    "version": "2025-09-23"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.floating-input-nvim": {
     "description": "",
@@ -495977,7 +495967,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.fortune-nvim": {
     "description": "",
     "pname": "vimplugin-fortune.nvim",
-    "version": "2025-10-21"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.freeze-nvim": {
     "description": "",
@@ -496022,7 +496012,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.fyler-nvim": {
     "description": "",
     "pname": "vimplugin-fyler.nvim",
-    "version": "2025-10-01"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.fzf-checkout-vim": {
     "description": "",
@@ -496072,7 +496062,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.gdscript-extended-lsp-nvim": {
     "description": "",
     "pname": "vimplugin-gdscript-extended-lsp.nvim",
-    "version": "2025-10-28"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.gen-nvim": {
     "description": "",
@@ -496147,7 +496137,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.gitgutter": {
     "description": "",
     "pname": "vimplugin-vim-gitgutter",
-    "version": "2025-08-29"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.github-nvim-theme": {
     "description": "",
@@ -496287,7 +496277,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.gruvbox-material-nvim": {
     "description": "",
     "pname": "vimplugin-gruvbox-material.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.gruvbox-nvim": {
     "description": "",
@@ -496362,7 +496352,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.haskell-snippets-nvim": {
     "description": "",
     "pname": "vimplugin-haskell-snippets.nvim",
-    "version": "2025-10-06"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.haskell-tools-nvim": {
     "description": "🦥 Supercharge your Haskell experience in neovim!",
@@ -496617,7 +496607,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.indent-o-matic": {
     "description": "",
     "pname": "vimplugin-indent-o-matic",
-    "version": "2023-06-03"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.indent-tools-nvim": {
     "description": "",
@@ -496732,7 +496722,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.julia-vim": {
     "description": "",
     "pname": "vimplugin-julia-vim",
-    "version": "2024-05-25"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.jupytext-nvim": {
     "description": "",
@@ -496797,7 +496787,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.kulala-nvim": {
     "description": "",
     "pname": "vimplugin-kulala.nvim",
-    "version": "2025-11-11"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.lackluster-nvim": {
     "description": "",
@@ -496862,7 +496852,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.lean-nvim": {
     "description": "",
     "pname": "vimplugin-lean.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.lean-vim": {
     "description": "",
@@ -496877,7 +496867,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.leap-nvim": {
     "description": "",
     "pname": "vimplugin-leap.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.leetcode-nvim": {
     "description": "",
@@ -496972,7 +496962,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.linediff-vim": {
     "description": "",
     "pname": "vimplugin-linediff.vim",
-    "version": "2024-04-22"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.lingua-franca-vim": {
     "description": "",
@@ -497017,7 +497007,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.live-preview-nvim": {
     "description": "",
     "pname": "vimplugin-live-preview.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.live-rename-nvim": {
     "description": "",
@@ -497092,7 +497082,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.lsp_signature-nvim": {
     "description": "",
     "pname": "vimplugin-lsp_signature.nvim",
-    "version": "2025-11-13"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.lspcontainers-nvim": {
     "description": "",
@@ -497217,7 +497207,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.markdown-nvim": {
     "description": "",
     "pname": "vimplugin-markdown.nvim",
-    "version": "2025-10-03"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.markdown-preview-nvim": {
     "description": "",
@@ -497237,7 +497227,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.markview-nvim": {
     "description": "",
     "pname": "vimplugin-markview.nvim",
-    "version": "2025-11-16"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.mason-lspconfig-nvim": {
     "description": "",
@@ -497367,7 +497357,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.mini-clue": {
     "description": "",
     "pname": "vimplugin-mini.clue",
-    "version": "2025-11-11"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.mini-colors": {
     "description": "",
@@ -497482,7 +497472,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.mini-nvim": {
     "description": "",
     "pname": "vimplugin-mini.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.mini-operators": {
     "description": "",
@@ -497492,7 +497482,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.mini-pairs": {
     "description": "",
     "pname": "vimplugin-mini.pairs",
-    "version": "2025-11-03"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.mini-pick": {
     "description": "",
@@ -497557,7 +497547,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.minuet-ai-nvim": {
     "description": "",
     "pname": "vimplugin-minuet-ai.nvim",
-    "version": "2025-10-23"
+    "version": "2025-11-22"
   },
   "legacyPackages.x86_64-linux.vimPlugins.mkdir-nvim": {
     "description": "",
@@ -497772,7 +497762,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.neoconf-nvim": {
     "description": "",
     "pname": "vimplugin-neoconf.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-29"
   },
   "legacyPackages.x86_64-linux.vimPlugins.neocord": {
     "description": "",
@@ -497802,7 +497792,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.neogit": {
     "description": "",
     "pname": "vimplugin-neogit",
-    "version": "2025-11-18"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.neoinclude": {
     "description": "",
@@ -497947,12 +497937,12 @@
   "legacyPackages.x86_64-linux.vimPlugins.neotest-haskell": {
     "description": "",
     "pname": "vimplugin-neotest-haskell",
-    "version": "2025-11-16"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.neotest-java": {
     "description": "",
     "pname": "vimplugin-neotest-java",
-    "version": "2025-10-25"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.neotest-jest": {
     "description": "",
@@ -498017,7 +498007,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.neotest-vitest": {
     "description": "",
     "pname": "vimplugin-neotest-vitest",
-    "version": "2025-11-18"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.neotest-zig": {
     "description": "",
@@ -498137,7 +498127,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nlsp-settings-nvim": {
     "description": "",
     "pname": "vimplugin-nlsp-settings.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nnn-vim": {
     "description": "",
@@ -498167,7 +498157,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.none-ls-nvim": {
     "description": "",
     "pname": "vimplugin-none-ls.nvim",
-    "version": "2025-11-06"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nord-nvim": {
     "description": "",
@@ -498382,7 +498372,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-early-retirement": {
     "description": "",
     "pname": "vimplugin-nvim-early-retirement",
-    "version": "2025-11-18"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-expand-expr": {
     "description": "",
@@ -498407,7 +498397,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-genghis": {
     "description": "",
     "pname": "vimplugin-nvim-genghis",
-    "version": "2025-10-13"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-gomove": {
     "description": "",
@@ -498427,7 +498417,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-highlite": {
     "description": "",
     "pname": "vimplugin-nvim-highlite",
-    "version": "2025-11-17"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-hlslens": {
     "description": "",
@@ -498472,7 +498462,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-jdtls": {
     "description": "",
     "pname": "vimplugin-nvim-jdtls",
-    "version": "2025-11-01"
+    "version": "2025-11-18"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-jqx": {
     "description": "",
@@ -498507,7 +498497,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-lilypond-suite": {
     "description": "",
     "pname": "vimplugin-nvim-lilypond-suite",
-    "version": "2025-10-23"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-lint": {
     "description": "",
@@ -498532,7 +498522,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-lspconfig": {
     "description": "",
     "pname": "vimplugin-nvim-lspconfig",
-    "version": "2025-11-20"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-lsputils": {
     "description": "",
@@ -498572,7 +498562,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-navic": {
     "description": "",
     "pname": "vimplugin-nvim-navic",
-    "version": "2025-10-14"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-neoclip-lua": {
     "description": "",
@@ -498607,7 +498597,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-origami": {
     "description": "",
     "pname": "vimplugin-nvim-origami",
-    "version": "2025-10-22"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-osc52": {
     "description": "",
@@ -498652,12 +498642,12 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-rip-substitute": {
     "description": "",
     "pname": "vimplugin-nvim-rip-substitute",
-    "version": "2025-11-19"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-scissors": {
     "description": "",
     "pname": "vimplugin-nvim-scissors",
-    "version": "2025-11-17"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-scrollbar": {
     "description": "",
@@ -498702,7 +498692,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-spider": {
     "description": "",
     "pname": "vimplugin-nvim-spider",
-    "version": "2025-11-11"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-surround": {
     "description": "",
@@ -498727,7 +498717,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-tinygit": {
     "description": "",
     "pname": "vimplugin-nvim-tinygit",
-    "version": "2025-11-08"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-tree-lua": {
     "description": "",
@@ -500392,7 +500382,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-refactor": {
     "description": "",
     "pname": "vimplugin-nvim-treesitter-refactor",
-    "version": "2024-09-14"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-sexp": {
     "description": "",
@@ -500437,12 +500427,12 @@
   "legacyPackages.x86_64-linux.vimPlugins.nvim-unity": {
     "description": "",
     "pname": "vimplugin-nvim-unity",
-    "version": "2025-11-21"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-various-textobjs": {
     "description": "",
     "pname": "vimplugin-nvim-various-textobjs",
-    "version": "2025-11-17"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-vtsls": {
     "description": "",
@@ -500507,7 +500497,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.obsidian-nvim": {
     "description": "",
     "pname": "vimplugin-obsidian.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.oceanic-material": {
     "description": "",
@@ -500522,7 +500512,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.octo-nvim": {
     "description": "",
     "pname": "vimplugin-octo.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.oil-git-nvim": {
     "description": "",
@@ -500572,7 +500562,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.onedark-nvim": {
     "description": "",
     "pname": "vimplugin-onedark.nvim",
-    "version": "2025-11-11"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.onedark-vim": {
     "description": "",
@@ -500617,7 +500607,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.opencode-nvim": {
     "description": "",
     "pname": "vimplugin-opencode.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.openingh-nvim": {
     "description": "",
@@ -500657,7 +500647,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.overseer-nvim": {
     "description": "",
     "pname": "vimplugin-overseer.nvim",
-    "version": "2025-11-18"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.oxocarbon-nvim": {
     "description": "",
@@ -500667,7 +500657,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.package-info-nvim": {
     "description": "",
     "pname": "vimplugin-package-info.nvim",
-    "version": "2025-09-21"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.packer-nvim": {
     "description": "",
@@ -500887,7 +500877,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.project-nvim": {
     "description": "",
     "pname": "vimplugin-project.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-29"
   },
   "legacyPackages.x86_64-linux.vimPlugins.projections-nvim": {
     "description": "",
@@ -500952,7 +500942,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.quicker-nvim": {
     "description": "",
     "pname": "vimplugin-quicker.nvim",
-    "version": "2025-09-27"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.quickfix-reflector-vim": {
     "description": "",
@@ -501332,7 +501322,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.smart-splits-nvim": {
     "description": "",
     "pname": "vimplugin-smart-splits.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.smartcolumn-nvim": {
     "description": "",
@@ -501352,7 +501342,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.smear-cursor-nvim": {
     "description": "",
     "pname": "vimplugin-smear-cursor.nvim",
-    "version": "2025-11-20"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.snacks-nvim": {
     "description": "",
@@ -501462,7 +501452,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.sphinx-nvim": {
     "description": "",
     "pname": "vimplugin-sphinx.nvim",
-    "version": "2024-10-30"
+    "version": "2025-11-22"
   },
   "legacyPackages.x86_64-linux.vimPlugins.splice-vim": {
     "description": "",
@@ -501487,7 +501477,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.srcery-vim": {
     "description": "",
     "pname": "vimplugin-srcery-vim",
-    "version": "2025-11-20"
+    "version": "2025-11-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.sslsecure-vim": {
     "description": "",
@@ -501652,7 +501642,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.table-mode": {
     "description": "",
     "pname": "vimplugin-vim-table-mode",
-    "version": "2025-09-01"
+    "version": "2025-11-22"
   },
   "legacyPackages.x86_64-linux.vimPlugins.tabline-nvim": {
     "description": "",
@@ -502022,12 +502012,12 @@
   "legacyPackages.x86_64-linux.vimPlugins.tinted-nvim": {
     "description": "",
     "pname": "vimplugin-tinted-nvim",
-    "version": "2025-11-19"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.tinted-vim": {
     "description": "",
     "pname": "vimplugin-tinted-vim",
-    "version": "2025-11-19"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.tiny-devicons-auto-colors-nvim": {
     "description": "",
@@ -502037,12 +502027,12 @@
   "legacyPackages.x86_64-linux.vimPlugins.tiny-glimmer-nvim": {
     "description": "",
     "pname": "vimplugin-tiny-glimmer.nvim",
-    "version": "2025-11-07"
+    "version": "2025-11-22"
   },
   "legacyPackages.x86_64-linux.vimPlugins.tiny-inline-diagnostic-nvim": {
     "description": "",
     "pname": "vimplugin-tiny-inline-diagnostic.nvim",
-    "version": "2025-11-14"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.tinykeymap": {
     "description": "",
@@ -502232,7 +502222,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.typst-preview-nvim": {
     "description": "",
     "pname": "vimplugin-typst-preview.nvim",
-    "version": "2025-10-29"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.typst-vim": {
     "description": "",
@@ -502512,7 +502502,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-airline": {
     "description": "",
     "pname": "vimplugin-vim-airline",
-    "version": "2025-11-04"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-airline-clock": {
     "description": "",
@@ -503012,7 +503002,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-fern": {
     "description": "",
     "pname": "vimplugin-vim-fern",
-    "version": "2025-10-20"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-fetch": {
     "description": "",
@@ -503137,7 +503127,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-gitgutter": {
     "description": "",
     "pname": "vimplugin-vim-gitgutter",
-    "version": "2025-08-29"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-github-dashboard": {
     "description": "",
@@ -503172,7 +503162,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-graphql": {
     "description": "",
     "pname": "vimplugin-vim-graphql",
-    "version": "2025-09-17"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-grepper": {
     "description": "",
@@ -503542,7 +503532,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-lsp-settings": {
     "description": "",
     "pname": "vimplugin-vim-lsp-settings",
-    "version": "2025-11-17"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-lsp-snippets": {
     "description": "",
@@ -504072,7 +504062,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-sexp": {
     "description": "",
     "pname": "vimplugin-vim-sexp",
-    "version": "2025-10-26"
+    "version": "2025-11-23"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-sexp-mappings-for-regular-people": {
     "description": "",
@@ -504152,7 +504142,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-sneak": {
     "description": "",
     "pname": "vimplugin-vim-sneak",
-    "version": "2025-11-17"
+    "version": "2025-11-26"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-snipmate": {
     "description": "",
@@ -504262,7 +504252,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-table-mode": {
     "description": "",
     "pname": "vimplugin-vim-table-mode",
-    "version": "2025-09-01"
+    "version": "2025-11-22"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-tabpagecd": {
     "description": "",
@@ -504297,7 +504287,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vim-test": {
     "description": "",
     "pname": "vimplugin-vim-test",
-    "version": "2025-11-17"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vim-textobj-comment": {
     "description": "",
@@ -504677,7 +504667,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.visual-whitespace-nvim": {
     "description": "",
     "pname": "vimplugin-visual-whitespace.nvim",
-    "version": "2025-07-06"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vs-tasks-nvim": {
     "description": "",
@@ -504687,7 +504677,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vscode-diff-nvim": {
     "description": "",
     "pname": "vimplugin-vscode-diff.nvim",
-    "version": "2025-11-26"
+    "version": "2025-11-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vscode-nvim": {
     "description": "",
@@ -504742,7 +504732,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.wiki-vim": {
     "description": "",
     "pname": "vimplugin-wiki.vim",
-    "version": "2025-11-09"
+    "version": "2025-11-21"
   },
   "legacyPackages.x86_64-linux.vimPlugins.wilder-nvim": {
     "description": "",
@@ -504872,7 +504862,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.yazi-nvim": {
     "description": "",
     "pname": "vimplugin-yazi.nvim",
-    "version": "2025-11-21"
+    "version": "2025-11-29"
   },
   "legacyPackages.x86_64-linux.vimPlugins.yescapsquit-vim": {
     "description": "",
@@ -504937,7 +504927,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.zk-nvim": {
     "description": "",
     "pname": "vimplugin-zk-nvim",
-    "version": "2025-11-16"
+    "version": "2025-11-24"
   },
   "legacyPackages.x86_64-linux.vimPlugins.zoomwintab-vim": {
     "description": "",
@@ -504947,7 +504937,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.zotcite": {
     "description": "",
     "pname": "vimplugin-zotcite",
-    "version": "2025-11-15"
+    "version": "2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.zoxide-vim": {
     "description": "",
@@ -507692,7 +507682,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.stylelint.vscode-stylelint": {
     "description": "Official Stylelint extension for Visual Studio Code",
     "pname": "vscode-extension-stylelint-vscode-stylelint",
-    "version": "1.5.3"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.sumneko.lua": {
     "description": "Lua language server provides various language features for Lua to make development easier and faster",
@@ -509492,7 +509482,7 @@
   "legacyPackages.x86_64-linux.websurfx": {
     "description": "Open source alternative to searx",
     "pname": "websurfx",
-    "version": "1.24.22"
+    "version": "1.24.27"
   },
   "legacyPackages.x86_64-linux.webtorrent_desktop": {
     "description": "Streaming torrent app for Mac, Windows, and Linux",
@@ -512117,7 +512107,7 @@
   "legacyPackages.x86_64-linux.xan": {
     "description": "Command line tool to process CSV files directly from the shell",
     "pname": "xan",
-    "version": "0.54.0"
+    "version": "0.54.1"
   },
   "legacyPackages.x86_64-linux.xandikos": {
     "description": "Lightweight CalDAV/CardDAV server",
@@ -512752,7 +512742,7 @@
   "legacyPackages.x86_64-linux.xenia-canary": {
     "description": "Xbox 360 Emulator Research Project",
     "pname": "xenia-canary",
-    "version": "0-unstable-2025-11-22"
+    "version": "0-unstable-2025-11-29"
   },
   "legacyPackages.x86_64-linux.xenomapper": {
     "description": "Utility for post processing mapped reads that have been aligned to a primary genome and a secondary genome and binning reads into species specific, multimapping in each species, unmapped and unassigned bins",
@@ -515092,7 +515082,7 @@
   "legacyPackages.x86_64-linux.xpipe": {
     "description": "Cross-platform shell connection hub and remote file manager",
     "pname": "xpipe",
-    "version": "19.2"
+    "version": "19.4"
   },
   "legacyPackages.x86_64-linux.xplanet": {
     "description": "Renders an image of the earth or other planets into the X root window",
@@ -518132,7 +518122,7 @@
   "legacyPackages.x86_64-linux.zrok": {
     "description": "Geo-scale, next-generation sharing platform built on top of OpenZiti",
     "pname": "zrok",
-    "version": "1.0.4"
+    "version": "1.1.10"
   },
   "legacyPackages.x86_64-linux.zrythm": {
     "description": "Automated and intuitive digital audio workstation",
@@ -518172,7 +518162,7 @@
   "legacyPackages.x86_64-linux.zsh-abbr": {
     "description": "Zsh manager for auto-expanding abbreviations, inspired by fish shell",
     "pname": "zsh-abbr",
-    "version": "6.3.3"
+    "version": "6.4.0"
   },
   "legacyPackages.x86_64-linux.zsh-autocomplete": {
     "description": "Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion",
