@@ -1752,7 +1752,7 @@
   "legacyPackages.x86_64-linux.airwindows": {
     "description": "All Airwindows VST Plugins",
     "pname": "airwindows",
-    "version": "0-unstable-2025-11-02"
+    "version": "0-unstable-2025-11-28"
   },
   "legacyPackages.x86_64-linux.airwindows-lv2": {
     "description": "Airwindows plugins (ported to LV2)",
@@ -4562,7 +4562,7 @@
   "legacyPackages.x86_64-linux.ananicy-rules-cachyos": {
     "description": "CachyOS' ananicy-rules meant to be used with ananicy-cpp",
     "pname": "ananicy-rules-cachyos",
-    "version": "0-unstable-2025-11-23"
+    "version": "0-unstable-2025-11-29"
   },
   "legacyPackages.x86_64-linux.anarch": {
     "description": "Suckless FPS game",
@@ -7987,7 +7987,7 @@
   "legacyPackages.x86_64-linux.ankiAddons.reviewer-refocus-card": {
     "description": "Set focus to the card area, allowing you to scroll through your cards using Page Up / Page Down, etc ",
     "pname": "anki-addon-reviewer-refocus-card",
-    "version": "0-unstable-2022-12-24"
+    "version": "0.3.0-unstable-2022-12-24"
   },
   "legacyPackages.x86_64-linux.ankiAddons.yomichan-forvo-server": {
     "description": "Audio server for yomichan that scrapes forvo for audio files",
@@ -20092,7 +20092,7 @@
   "legacyPackages.x86_64-linux.cdk8s-cli": {
     "description": "Command-line-interface for CDK for Kubernetes",
     "pname": "cdk8s-cli",
-    "version": "2.203.3"
+    "version": "2.203.5"
   },
   "legacyPackages.x86_64-linux.cdktf-cli": {
     "description": "CDK for Terraform CLI",
@@ -32777,7 +32777,7 @@
   "legacyPackages.x86_64-linux.devenv": {
     "description": "Fast, Declarative, Reproducible, and Composable Developer Environments",
     "pname": "devenv",
-    "version": "1.11.1"
+    "version": "1.11.2"
   },
   "legacyPackages.x86_64-linux.devhelp": {
     "description": "API documentation browser for GNOME",
@@ -36349,6 +36349,11 @@
     "pname": "dtools",
     "version": "2.110.0"
   },
+  "legacyPackages.x86_64-linux.dtop": {
+    "description": "Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration",
+    "pname": "dtop",
+    "version": "0.6.3"
+  },
   "legacyPackages.x86_64-linux.dtrx": {
     "description": "Do The Right Extraction: A tool for taking the hassle out of extracting archives",
     "pname": "dtrx",
@@ -39242,7 +39247,7 @@
   "legacyPackages.x86_64-linux.enzyme": {
     "description": "High-performance automatic differentiation of LLVM and MLIR",
     "pname": "enzyme",
-    "version": "0.0.217"
+    "version": "0.0.223"
   },
   "legacyPackages.x86_64-linux.eog": {
     "description": "GNOME image viewer",
@@ -42517,7 +42522,7 @@
   "legacyPackages.x86_64-linux.firefly-iii": {
     "description": "Firefly III: a personal finances manager",
     "pname": "firefly-iii",
-    "version": "6.4.8"
+    "version": "6.4.9"
   },
   "legacyPackages.x86_64-linux.firefly-iii-data-importer": {
     "description": "Firefly III Data Importer can import data into Firefly III",
@@ -58247,7 +58252,7 @@
   "legacyPackages.x86_64-linux.grafanactl": {
     "description": "Tool designed to simplify interaction with Grafana instances",
     "pname": "grafanactl",
-    "version": "0.1.7"
+    "version": "0.1.8"
   },
   "legacyPackages.x86_64-linux.grafterm": {
     "description": "Command-line tool for rendering metrics dashboards inspired by Grafana",
@@ -162787,7 +162792,7 @@
   "legacyPackages.x86_64-linux.hyperfine": {
     "description": "Command-line benchmarking tool",
     "pname": "hyperfine",
-    "version": "1.19.0"
+    "version": "1.20.0"
   },
   "legacyPackages.x86_64-linux.hyperglot": {
     "description": "Database and tools for detecting language support in fonts",
@@ -180767,7 +180772,7 @@
   "legacyPackages.x86_64-linux.libretro.dosbox-pure": {
     "description": "Port of DOSBox to libretro aiming for simplicity and ease of use",
     "pname": "libretro-dosbox-pure",
-    "version": "0-unstable-2025-10-25"
+    "version": "0-unstable-2025-12-01"
   },
   "legacyPackages.x86_64-linux.libretro.easyrpg": {
     "description": "EasyRPG Player libretro port",
@@ -204422,7 +204427,7 @@
   "legacyPackages.x86_64-linux.lua51Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.20.1"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.lua51Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -205322,7 +205327,7 @@
   "legacyPackages.x86_64-linux.lua52Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.20.1"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.lua52Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -206222,7 +206227,7 @@
   "legacyPackages.x86_64-linux.lua53Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.20.1"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.lua53Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -207122,7 +207127,7 @@
   "legacyPackages.x86_64-linux.lua54Packages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.20.1"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.lua54Packages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -208057,7 +208062,7 @@
   "legacyPackages.x86_64-linux.luaPackages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.20.1"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.luaPackages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -208982,7 +208987,7 @@
   "legacyPackages.x86_64-linux.luajitPackages.lux-lua": {
     "description": "Lua API for the Lux package manager",
     "pname": "lux-lua",
-    "version": "0.20.1"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.luajitPackages.luxio": {
     "description": "Lightweight UNIX I/O and POSIX binding for Lua",
@@ -209582,7 +209587,7 @@
   "legacyPackages.x86_64-linux.lux-cli": {
     "description": "Luxurious package manager for Lua",
     "pname": "lux-cli",
-    "version": "0.20.1"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.lv": {
     "description": "Powerful multi-lingual file viewer / grep",
@@ -210747,12 +210752,12 @@
   "legacyPackages.x86_64-linux.mame": {
     "description": "Multi-purpose emulation framework",
     "pname": "mame",
-    "version": "0.281"
+    "version": "0.283"
   },
   "legacyPackages.x86_64-linux.mame-tools": {
     "description": "Multi-purpose emulation framework (tools only)",
     "pname": "mame",
-    "version": "0.281"
+    "version": "0.283"
   },
   "legacyPackages.x86_64-linux.man": {
     "description": "Implementation of the standard Unix documentation system accessed using the man command",
@@ -212557,7 +212562,7 @@
   "legacyPackages.x86_64-linux.mdbook-i18n-helpers": {
     "description": "Helpers for a mdbook i18n workflow based on Gettext",
     "pname": "mdbook-i18n-helpers",
-    "version": "0.3.6"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.mdbook-katex": {
     "description": "Preprocessor for mdbook, rendering LaTeX equations to HTML at build time",
@@ -214297,7 +214302,7 @@
   "legacyPackages.x86_64-linux.minijinja": {
     "description": "Command Line Utility to render MiniJinja/Jinja2 templates",
     "pname": "minijinja",
-    "version": "2.12.0"
+    "version": "2.13.0"
   },
   "legacyPackages.x86_64-linux.minikube": {
     "description": "Tool that makes it easy to run Kubernetes locally",
@@ -214812,7 +214817,7 @@
   "legacyPackages.x86_64-linux.mise": {
     "description": "Front-end to your dev env",
     "pname": "mise",
-    "version": "2025.11.7"
+    "version": "2025.11.11"
   },
   "legacyPackages.x86_64-linux.missidentify": {
     "description": "Find Win32 applications",
@@ -222777,7 +222782,7 @@
   "legacyPackages.x86_64-linux.nodePackages.cdk8s-cli": {
     "description": "Command-line-interface for CDK for Kubernetes",
     "pname": "cdk8s-cli",
-    "version": "2.203.3"
+    "version": "2.203.5"
   },
   "legacyPackages.x86_64-linux.nodePackages.cdktf-cli": {
     "description": "CDK for Terraform CLI",
@@ -223782,7 +223787,7 @@
   "legacyPackages.x86_64-linux.nodePackages.wrangler": {
     "description": "Command-line interface for all things Cloudflare Workers",
     "pname": "wrangler",
-    "version": "4.50.0"
+    "version": "4.51.0"
   },
   "legacyPackages.x86_64-linux.nodePackages.write-good": {
     "description": "Naive linter for English prose",
@@ -224037,7 +224042,7 @@
   "legacyPackages.x86_64-linux.nodePackages_latest.cdk8s-cli": {
     "description": "Command-line-interface for CDK for Kubernetes",
     "pname": "cdk8s-cli",
-    "version": "2.203.3"
+    "version": "2.203.5"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.cdktf-cli": {
     "description": "CDK for Terraform CLI",
@@ -225042,7 +225047,7 @@
   "legacyPackages.x86_64-linux.nodePackages_latest.wrangler": {
     "description": "Command-line interface for all things Cloudflare Workers",
     "pname": "wrangler",
-    "version": "4.50.0"
+    "version": "4.51.0"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.write-good": {
     "description": "Naive linter for English prose",
@@ -226727,7 +226732,7 @@
   "legacyPackages.x86_64-linux.nzbhydra2": {
     "description": "Usenet meta search",
     "pname": "nzbhydra2",
-    "version": "8.0.0"
+    "version": "8.1.0"
   },
   "legacyPackages.x86_64-linux.nzportable": {
     "description": "Call of Duty: Zombies demake, powered by various Quake sourceports (PC version)",
@@ -235607,7 +235612,7 @@
   "legacyPackages.x86_64-linux.opencloud": {
     "description": "OpenCloud gives you a secure and private way to store, access, and share your files",
     "pname": "opencloud",
-    "version": "3.7.0"
+    "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.opencloud-desktop": {
     "description": "Desktop Application for OpenCloud",
@@ -289922,7 +289927,7 @@
   "legacyPackages.x86_64-linux.python312Packages.datetime": {
     "description": "DateTime data type, as known from Zope",
     "pname": "python3.12-datetime",
-    "version": "5.5"
+    "version": "6.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.dateutils": {
     "description": "Utilities for working with datetime objects",
@@ -299052,7 +299057,7 @@
   "legacyPackages.x86_64-linux.python312Packages.ipycanvas": {
     "description": "Expose the browser's Canvas API to IPython",
     "pname": "python3.12-ipycanvas",
-    "version": "0.14.1"
+    "version": "0.14.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.ipydatagrid": {
     "description": "Fast Datagrid widget for the Jupyter Notebook and JupyterLab",
@@ -323952,7 +323957,7 @@
   "legacyPackages.x86_64-linux.python312Packages.spotipy": {
     "description": "Library for the Spotify Web API",
     "pname": "python3.12-spotipy",
-    "version": "2.25.1"
+    "version": "2.25.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.spsdk": {
     "description": "NXP Secure Provisioning SDK",
@@ -341212,7 +341217,7 @@
   "legacyPackages.x86_64-linux.python313Packages.datetime": {
     "description": "DateTime data type, as known from Zope",
     "pname": "python3.13-datetime",
-    "version": "5.5"
+    "version": "6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.dateutils": {
     "description": "Utilities for working with datetime objects",
@@ -350342,7 +350347,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ipycanvas": {
     "description": "Expose the browser's Canvas API to IPython",
     "pname": "python3.13-ipycanvas",
-    "version": "0.14.1"
+    "version": "0.14.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.ipydatagrid": {
     "description": "Fast Datagrid widget for the Jupyter Notebook and JupyterLab",
@@ -375247,7 +375252,7 @@
   "legacyPackages.x86_64-linux.python313Packages.spotipy": {
     "description": "Library for the Spotify Web API",
     "pname": "python3.13-spotipy",
-    "version": "2.25.1"
+    "version": "2.25.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.spsdk": {
     "description": "NXP Secure Provisioning SDK",
@@ -387232,7 +387237,7 @@
   "legacyPackages.x86_64-linux.rattler-build": {
     "description": "Universal package builder for Windows, macOS and Linux",
     "pname": "rattler-build",
-    "version": "0.51.0"
+    "version": "0.53.0"
   },
   "legacyPackages.x86_64-linux.rauc": {
     "description": "Safe and secure software updates for embedded Linux",
@@ -388131,8 +388136,8 @@
   },
   "legacyPackages.x86_64-linux.regrippy": {
     "description": "Modern Python-3-based alternative to RegRipper",
-    "pname": "regippy",
-    "version": "2.0.1"
+    "pname": "regrippy",
+    "version": "2.0.2"
   },
   "legacyPackages.x86_64-linux.regsync": {
     "description": "Docker and OCI Registry Client in Go and tooling using those libraries",
@@ -389032,7 +389037,7 @@
   "legacyPackages.x86_64-linux.rime-wanxiang": {
     "description": "Feature-rich pinyin schema for Rime",
     "pname": "rime-wanxiang",
-    "version": "13.4.6"
+    "version": "13.4.11"
   },
   "legacyPackages.x86_64-linux.rime-zhwiki": {
     "description": "RIME dictionary file for entries from zh.wikipedia.org",
@@ -432424,6 +432429,11 @@
     "pname": "supermodel",
     "version": "0-unstable-2025-04-17"
   },
+  "legacyPackages.x86_64-linux.supernovas": {
+    "description": "High-performance astrometry library for C/C++",
+    "pname": "supernovas",
+    "version": "1.5.0"
+  },
   "legacyPackages.x86_64-linux.superscs": {
     "description": "Fast conic optimization in C",
     "pname": "superscs",
@@ -435672,7 +435682,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.aws": {
     "description": "",
     "pname": "terraform-provider-aws",
-    "version": "6.22.1"
+    "version": "6.23.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.awscc": {
     "description": "",
@@ -436127,7 +436137,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_aws": {
     "description": "",
     "pname": "terraform-provider-aws",
-    "version": "6.22.1"
+    "version": "6.23.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_awscc": {
     "description": "",
@@ -436237,7 +436247,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.hcloud": {
     "description": "",
     "pname": "terraform-provider-hcloud",
-    "version": "1.56.0"
+    "version": "1.57.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.helm": {
     "description": "",
@@ -436257,7 +436267,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.hetznercloud_hcloud": {
     "description": "",
     "pname": "terraform-provider-hcloud",
-    "version": "1.56.0"
+    "version": "1.57.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.hetznerdns": {
     "description": "",
@@ -442427,7 +442437,7 @@
   "legacyPackages.x86_64-linux.tev": {
     "description": "High dynamic range (HDR) image viewer for people who care about colors",
     "pname": "tev",
-    "version": "2.6.1"
+    "version": "2.6.2"
   },
   "legacyPackages.x86_64-linux.tevent": {
     "description": "Event system based on the talloc memory management library",
@@ -470562,7 +470572,7 @@
   "legacyPackages.x86_64-linux.typescript-go": {
     "description": "Go implementation of TypeScript",
     "pname": "typescript-go",
-    "version": "0-unstable-2025-11-24"
+    "version": "0-unstable-2025-11-28"
   },
   "legacyPackages.x86_64-linux.typescript-language-server": {
     "description": "Language Server Protocol implementation for TypeScript using tsserver",
@@ -492802,7 +492812,7 @@
   "legacyPackages.x86_64-linux.vdrPlugins.markad": {
     "description": "Plugin for VDR that marks advertisements",
     "pname": "vdr-markad",
-    "version": "4.2.15"
+    "version": "4.2.16"
   },
   "legacyPackages.x86_64-linux.vdrPlugins.nopacity": {
     "description": "Highly customizable native true color skin for the Video Disc Recorder",
@@ -504927,7 +504937,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.zig-vim": {
     "description": "Vim configuration for Zig",
     "pname": "vimplugin-zig.vim",
-    "version": "2025-11-15"
+    "version": "0-unstable-2025-11-28"
   },
   "legacyPackages.x86_64-linux.vimPlugins.zk-nvim": {
     "description": "",
@@ -506192,7 +506202,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.continue.continue": {
     "description": "Open-source AI code assistant",
     "pname": "vscode-extension-Continue-continue",
-    "version": "1.2.10"
+    "version": "1.2.11"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.coolbear.systemd-unit-file": {
     "description": "",
@@ -511632,7 +511642,7 @@
   "legacyPackages.x86_64-linux.wrangler": {
     "description": "Command-line interface for all things Cloudflare Workers",
     "pname": "wrangler",
-    "version": "4.50.0"
+    "version": "4.51.0"
   },
   "legacyPackages.x86_64-linux.wrangler_1": {
     "description": "CLI tool designed for folks who are interested in using Cloudflare Workers",
@@ -516067,7 +516077,7 @@
   "legacyPackages.x86_64-linux.yay": {
     "description": "AUR Helper written in Go",
     "pname": "yay",
-    "version": "12.5.2"
+    "version": "12.5.3"
   },
   "legacyPackages.x86_64-linux.yaydl": {
     "description": "Yet another youtube down loader",
