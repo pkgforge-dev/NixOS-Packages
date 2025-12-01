@@ -137,7 +137,7 @@
   "legacyPackages.x86_64-linux.LycheeSlicer": {
     "description": "All-in-one 3D slicer for resin and FDM printers",
     "pname": "LycheeSlicer",
-    "version": "7.5.0"
+    "version": "7.5.1"
   },
   "legacyPackages.x86_64-linux.MMA": {
     "description": "Creates MIDI tracks for a soloist to perform over from a user supplied file containing chords",
@@ -322,7 +322,7 @@
   "legacyPackages.x86_64-linux._1password-gui-beta": {
     "description": "Multi-platform password manager",
     "pname": "1password",
-    "version": "8.11.18-34.BETA"
+    "version": "8.11.22-25.BETA"
   },
   "legacyPackages.x86_64-linux._2048-in-terminal": {
     "description": "Animated console version of the 2048 game",
@@ -15122,7 +15122,7 @@
   "legacyPackages.x86_64-linux.bikeshed": {
     "description": "Preprocessor for anyone writing specifications that converts source files into actual specs",
     "pname": "bikeshed",
-    "version": "5.4.1"
+    "version": "5.4.2"
   },
   "legacyPackages.x86_64-linux.bili-live-tool": {
     "description": "Tool to start and stop streaming and getting streaming codes for Bilibili live",
@@ -20287,7 +20287,7 @@
   "legacyPackages.x86_64-linux.ceph-csi": {
     "description": "Container Storage Interface (CSI) driver for Ceph RBD and CephFS",
     "pname": "ceph-csi",
-    "version": "3.15.0"
+    "version": "3.15.1"
   },
   "legacyPackages.x86_64-linux.ceph-dev": {
     "description": "Distributed storage system",
@@ -20512,7 +20512,7 @@
   "legacyPackages.x86_64-linux.cfspeedtest": {
     "description": "Unofficial CLI for speed.cloudflare.com",
     "pname": "cfspeedtest",
-    "version": "1.4.1"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.cfssl": {
     "description": "Cloudflare's PKI and TLS toolkit",
@@ -41412,7 +41412,7 @@
   "legacyPackages.x86_64-linux.fcgi": {
     "description": "Language independent, scalable, open extension to CGI",
     "pname": "fcgi",
-    "version": "2.4.6"
+    "version": "2.4.7"
   },
   "legacyPackages.x86_64-linux.fcgiwrap": {
     "description": "Simple server for running CGI applications over FastCGI",
@@ -49067,7 +49067,7 @@
   "legacyPackages.x86_64-linux.gitleaks": {
     "description": "Scan git repos (or files) for secrets",
     "pname": "gitleaks",
-    "version": "8.28.0"
+    "version": "8.30.0"
   },
   "legacyPackages.x86_64-linux.gitless": {
     "description": "Version control system built on top of Git",
@@ -57237,7 +57237,7 @@
   "legacyPackages.x86_64-linux.goreleaser": {
     "description": "Deliver Go binaries as fast and easily as possible",
     "pname": "goreleaser",
-    "version": "2.12.7"
+    "version": "2.13.0"
   },
   "legacyPackages.x86_64-linux.goreman": {
     "description": "Foreman clone written in go language",
@@ -59962,7 +59962,7 @@
   "legacyPackages.x86_64-linux.gurobi": {
     "description": "Optimization solver for mathematical programming",
     "pname": "gurobi",
-    "version": "12.0.3"
+    "version": "13.0.0"
   },
   "legacyPackages.x86_64-linux.gusb": {
     "description": "GLib libusb wrapper",
@@ -160982,7 +160982,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.advanced-camera-card": {
     "description": "Comprehensive camera card for Home Assistant",
     "pname": "advanced-camera-card",
-    "version": "7.19.3"
+    "version": "7.19.4"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.apexcharts-card": {
     "description": "Lovelace card to display advanced graphs and charts based on ApexChartsJS for Home Assistant",
@@ -165442,7 +165442,7 @@
   "legacyPackages.x86_64-linux.infisicalsdk": {
     "description": "Infisical Python SDK",
     "pname": "python3.13-infisicalsdk",
-    "version": "1.0.11"
+    "version": "1.0.13"
   },
   "legacyPackages.x86_64-linux.inflow": {
     "description": "Variance-optimal paragraph formatter",
@@ -172202,7 +172202,7 @@
   "legacyPackages.x86_64-linux.kdePackages.qodeassist-plugin": {
     "description": "AI-powered coding assistant plugin for Qt Creator",
     "pname": "qodeassist-plugin",
-    "version": "0.9.1"
+    "version": "0.9.3"
   },
   "legacyPackages.x86_64-linux.kdePackages.qqc2-breeze-style": {
     "description": "Breeze inspired QQC2 Style",
@@ -173342,12 +173342,12 @@
   "legacyPackages.x86_64-linux.kiro": {
     "description": "IDE for Agentic AI workflows based on VS Code",
     "pname": "kiro",
-    "version": "0.5.9"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.kiro-fhs": {
     "description": "Wrapped variant of kiro which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
     "pname": "kiro",
-    "version": "0.5.9"
+    "version": "0.6.0"
   },
   "legacyPackages.x86_64-linux.kirsch": {
     "description": "Versatile bitmap font with an organic flair",
@@ -209347,7 +209347,7 @@
   "legacyPackages.x86_64-linux.lubelogger": {
     "description": "Vehicle service records and maintainence tracker",
     "pname": "lubelogger",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   "legacyPackages.x86_64-linux.lucenepp": {
     "description": "C++ port of the popular Java Lucene search engine",
@@ -210287,7 +210287,7 @@
   "legacyPackages.x86_64-linux.maestral": {
     "description": "Open-source Dropbox client for macOS and Linux",
     "pname": "maestral",
-    "version": "1.9.5"
+    "version": "1.9.6"
   },
   "legacyPackages.x86_64-linux.maestral-gui": {
     "description": "GUI front-end for maestral (an open-source Dropbox client) for Linux",
@@ -211892,7 +211892,7 @@
   "legacyPackages.x86_64-linux.matio": {
     "description": "C library for reading and writing Matlab MAT files",
     "pname": "matio",
-    "version": "1.5.28"
+    "version": "1.5.29"
   },
   "legacyPackages.x86_64-linux.matlab-language-server": {
     "description": "Language Server for MATLAB® code",
@@ -213792,7 +213792,7 @@
   "legacyPackages.x86_64-linux.micromamba": {
     "description": "Reimplementation of the conda package manager",
     "pname": "micromamba",
-    "version": "1.5.8"
+    "version": "2.3.3"
   },
   "legacyPackages.x86_64-linux.micromdm": {
     "description": "Mobile Device Management server for Apple Devices, focused on giving you all the power through an API",
@@ -215762,7 +215762,7 @@
   "legacyPackages.x86_64-linux.monkeysAudio": {
     "description": "APE codec and decompressor",
     "pname": "monkeys-audio",
-    "version": "11.87"
+    "version": "11.88"
   },
   "legacyPackages.x86_64-linux.monkeysphere": {
     "description": "Leverage the OpenPGP web of trust for SSH and TLS authentication",
@@ -279087,7 +279087,7 @@
   "legacyPackages.x86_64-linux.pr-tracker": {
     "description": "Nixpkgs pull request channel tracker",
     "pname": "pr-tracker",
-    "version": "1.9.0"
+    "version": "1.10.0"
   },
   "legacyPackages.x86_64-linux.praat": {
     "description": "Doing phonetics by computer",
@@ -279207,7 +279207,7 @@
   "legacyPackages.x86_64-linux.pretalx": {
     "description": "Conference planning tool: CfP, scheduling, speaker management",
     "pname": "pretalx",
-    "version": "2025.1.0"
+    "version": "2025.2.0"
   },
   "legacyPackages.x86_64-linux.pretendard": {
     "description": "Alternative font to system-ui for all platforms",
@@ -280542,7 +280542,7 @@
   "legacyPackages.x86_64-linux.prowlarr": {
     "description": "Indexer manager/proxy built on the popular arr .net/reactjs base stack",
     "pname": "prowlarr",
-    "version": "2.1.5.5216"
+    "version": "2.3.0.5236"
   },
   "legacyPackages.x86_64-linux.prowler": {
     "description": "Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments",
@@ -281247,7 +281247,7 @@
   "legacyPackages.x86_64-linux.pv": {
     "description": "Tool for monitoring the progress of data through a pipeline",
     "pname": "pv",
-    "version": "1.10.1"
+    "version": "1.10.2"
   },
   "legacyPackages.x86_64-linux.pv-migrate": {
     "description": "CLI tool to easily migrate Kubernetes persistent volumes",
@@ -291359,6 +291359,11 @@
     "pname": "python3.12-django-mfa3",
     "version": "1.1.0"
   },
+  "legacyPackages.x86_64-linux.python312Packages.django-minify-html": {
+    "description": "Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django",
+    "pname": "python3.12-django-minify-html",
+    "version": "1.14.0"
+  },
   "legacyPackages.x86_64-linux.python312Packages.django-model-utils": {
     "description": "Django model mixins and utilities",
     "pname": "python3.12-django-model-utils",
@@ -291768,11 +291773,6 @@
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.12-django",
     "version": "5.2.8"
-  },
-  "legacyPackages.x86_64-linux.python312Packages.django_5_1": {
-    "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
-    "pname": "python3.12-django",
-    "version": "5.1.14"
   },
   "legacyPackages.x86_64-linux.python312Packages.django_5_2": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
@@ -297092,7 +297092,7 @@
   "legacyPackages.x86_64-linux.python312Packages.gurobipy": {
     "description": "Python interface to Gurobi",
     "pname": "python3.12-gurobipy",
-    "version": "12.0.3"
+    "version": "13.0.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.guzzle-sphinx-theme": {
     "description": "Sphinx theme used by Guzzle: http://guzzlephp.org",
@@ -300877,7 +300877,7 @@
   "legacyPackages.x86_64-linux.python312Packages.langchain-openai": {
     "description": "Integration package connecting OpenAI and LangChain",
     "pname": "python3.12-langchain-openai",
-    "version": "1.0.3"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.langchain-perplexity": {
     "description": "Build LangChain applications with Perplexity",
@@ -302377,7 +302377,7 @@
   "legacyPackages.x86_64-linux.python312Packages.locust-cloud": {
     "description": "Hosted version of Locust to run distributed load tests",
     "pname": "python3.12-locust-cloud",
-    "version": "1.29.0"
+    "version": "1.29.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.log-symbols": {
     "description": "Colored Symbols for Various Log Levels",
@@ -302707,7 +302707,7 @@
   "legacyPackages.x86_64-linux.python312Packages.maestral": {
     "description": "Open-source Dropbox client for macOS and Linux",
     "pname": "python3.12-maestral",
-    "version": "1.9.5"
+    "version": "1.9.6"
   },
   "legacyPackages.x86_64-linux.python312Packages.magic": {
     "description": "Python wrapper around libmagic",
@@ -313582,7 +313582,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyglm": {
     "description": "OpenGL Mathematics (GLM) library for Python written in C++",
     "pname": "python3.12-pyglm",
-    "version": "2.8.2"
+    "version": "2.8.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyglossary": {
     "description": "Tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any operating system / device",
@@ -314847,7 +314847,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyngrok": {
     "description": "Python wrapper for ngrok",
     "pname": "python3.12-pyngrok",
-    "version": "7.4.1"
+    "version": "7.5.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.pynina": {
     "description": "Python API wrapper to retrieve warnings from the german NINA app",
@@ -331522,12 +331522,12 @@
   "legacyPackages.x86_64-linux.python312Packages.weconnect": {
     "description": "Python client for the Volkswagen WeConnect Services",
     "pname": "python3.12-weconnect",
-    "version": "0.60.8"
+    "version": "0.60.10"
   },
   "legacyPackages.x86_64-linux.python312Packages.weconnect-mqtt": {
     "description": "Python client that publishes data from Volkswagen WeConnect",
     "pname": "python3.12-weconnect-mqtt",
-    "version": "0.49.2"
+    "version": "0.49.4"
   },
   "legacyPackages.x86_64-linux.python312Packages.weheat": {
     "description": "Library to interact with the weheat API",
@@ -342649,6 +342649,11 @@
     "pname": "python3.13-django-mfa3",
     "version": "1.1.0"
   },
+  "legacyPackages.x86_64-linux.python313Packages.django-minify-html": {
+    "description": "Use minify-html, the extremely fast HTML + JS + CSS minifier, with Django",
+    "pname": "python3.13-django-minify-html",
+    "version": "1.14.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.django-model-utils": {
     "description": "Django model mixins and utilities",
     "pname": "python3.13-django-model-utils",
@@ -343058,11 +343063,6 @@
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.13-django",
     "version": "5.2.8"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.django_5_1": {
-    "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
-    "pname": "python3.13-django",
-    "version": "5.1.14"
   },
   "legacyPackages.x86_64-linux.python313Packages.django_5_2": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
@@ -348382,7 +348382,7 @@
   "legacyPackages.x86_64-linux.python313Packages.gurobipy": {
     "description": "Python interface to Gurobi",
     "pname": "python3.13-gurobipy",
-    "version": "12.0.3"
+    "version": "13.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.guzzle-sphinx-theme": {
     "description": "Sphinx theme used by Guzzle: http://guzzlephp.org",
@@ -352167,7 +352167,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-openai": {
     "description": "Integration package connecting OpenAI and LangChain",
     "pname": "python3.13-langchain-openai",
-    "version": "1.0.3"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-perplexity": {
     "description": "Build LangChain applications with Perplexity",
@@ -353672,7 +353672,7 @@
   "legacyPackages.x86_64-linux.python313Packages.locust-cloud": {
     "description": "Hosted version of Locust to run distributed load tests",
     "pname": "python3.13-locust-cloud",
-    "version": "1.29.0"
+    "version": "1.29.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.log-symbols": {
     "description": "Colored Symbols for Various Log Levels",
@@ -354002,7 +354002,7 @@
   "legacyPackages.x86_64-linux.python313Packages.maestral": {
     "description": "Open-source Dropbox client for macOS and Linux",
     "pname": "python3.13-maestral",
-    "version": "1.9.5"
+    "version": "1.9.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.magic": {
     "description": "Python wrapper around libmagic",
@@ -364877,7 +364877,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyglm": {
     "description": "OpenGL Mathematics (GLM) library for Python written in C++",
     "pname": "python3.13-pyglm",
-    "version": "2.8.2"
+    "version": "2.8.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyglossary": {
     "description": "Tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any operating system / device",
@@ -366142,7 +366142,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyngrok": {
     "description": "Python wrapper for ngrok",
     "pname": "python3.13-pyngrok",
-    "version": "7.4.1"
+    "version": "7.5.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pynina": {
     "description": "Python API wrapper to retrieve warnings from the german NINA app",
@@ -382867,12 +382867,12 @@
   "legacyPackages.x86_64-linux.python313Packages.weconnect": {
     "description": "Python client for the Volkswagen WeConnect Services",
     "pname": "python3.13-weconnect",
-    "version": "0.60.8"
+    "version": "0.60.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.weconnect-mqtt": {
     "description": "Python client that publishes data from Volkswagen WeConnect",
     "pname": "python3.13-weconnect-mqtt",
-    "version": "0.49.2"
+    "version": "0.49.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.weheat": {
     "description": "Library to interact with the weheat API",
@@ -385757,7 +385757,7 @@
   "legacyPackages.x86_64-linux.qt6Packages.qodeassist-plugin": {
     "description": "AI-powered coding assistant plugin for Qt Creator",
     "pname": "qodeassist-plugin",
-    "version": "0.9.1"
+    "version": "0.9.3"
   },
   "legacyPackages.x86_64-linux.qt6Packages.qscintilla": {
     "description": "Qt port of the Scintilla text editing library",
@@ -387012,7 +387012,7 @@
   "legacyPackages.x86_64-linux.ranger": {
     "description": "File manager with minimalistic curses interface",
     "pname": "ranger",
-    "version": "1.9.3-unstable-2025-11-14"
+    "version": "1.9.4-unstable-2025-11-14"
   },
   "legacyPackages.x86_64-linux.rankwidth": {
     "description": "Calculates rank-width and rank-decompositions",
@@ -427142,7 +427142,7 @@
   "legacyPackages.x86_64-linux.simple-binary-encoding": {
     "description": "OSI layer 6 presentation for encoding and decoding binary application messages for low-latency financial applications",
     "pname": "simple-binary-encoding",
-    "version": "1.36.1"
+    "version": "1.36.2"
   },
   "legacyPackages.x86_64-linux.simple-completion-language-server": {
     "description": "Language server to enable word completion and snippets for Helix editor",
@@ -435502,7 +435502,7 @@
   "legacyPackages.x86_64-linux.terraform-compliance": {
     "description": "BDD test framework for terraform",
     "pname": "terraform-compliance",
-    "version": "1.13.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.terraform-config-inspect": {
     "description": "CLI for shallow inspection of Terraform configurations",
@@ -492229,6 +492229,11 @@
     "pname": "uxplay",
     "version": "1.72.2"
   },
+  "legacyPackages.x86_64-linux.uzdoom": {
+    "description": "Modder-friendly OpenGL and Vulkan source port based on the DOOM engine",
+    "pname": "uzdoom",
+    "version": "4.14.3"
+  },
   "legacyPackages.x86_64-linux.v2ray": {
     "description": "Platform for building proxies to bypass network restrictions",
     "pname": "v2ray-core",
@@ -518497,7 +518502,7 @@
   "legacyPackages.x86_64-linux.zwave-js-ui": {
     "description": "Full featured Z-Wave Control Panel and MQTT Gateway",
     "pname": "zwave-js-ui",
-    "version": "11.7.0"
+    "version": "11.8.1"
   },
   "legacyPackages.x86_64-linux.zx": {
     "description": "Tool for writing scripts using JavaScript",
