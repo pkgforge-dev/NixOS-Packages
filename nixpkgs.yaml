@@ -6373,7 +6373,7 @@ legacyPackages.x86_64-linux.ankiAddons.anki-connect:
 legacyPackages.x86_64-linux.ankiAddons.anki-quizlet-importer-extended:
   description: Import Quizlet Decks into Anki
   pname: anki-addon-anki-quizlet-importer-extended
-  version: 2025.03.13
+  version: 2025.09.28
 legacyPackages.x86_64-linux.ankiAddons.local-audio-yomichan:
   description: Run a local audio server for Yomitan
   pname: anki-addon-local-audio-yomichan
@@ -8921,7 +8921,7 @@ legacyPackages.x86_64-linux.audacious-plugins:
 legacyPackages.x86_64-linux.audacity:
   description: Sound editor with graphical UI
   pname: audacity
-  version: 3.7.5
+  version: 3.7.6
 legacyPackages.x86_64-linux.audiality2:
   description: Realtime scripted modular audio engine for video games and musical applications
   pname: audiality2
@@ -15441,7 +15441,7 @@ legacyPackages.x86_64-linux.cargo-tarpaulin:
 legacyPackages.x86_64-linux.cargo-tauri:
   description: Build smaller, faster, and more secure desktop applications with a web frontend
   pname: tauri
-  version: 2.9.4
+  version: 2.9.5
 legacyPackages.x86_64-linux.cargo-tauri_1:
   description: Build smaller, faster, and more secure desktop applications with a web frontend
   pname: tauri
@@ -20329,7 +20329,7 @@ legacyPackages.x86_64-linux.clooj:
 legacyPackages.x86_64-linux.clorinde:
   description: Generate type-checked Rust from your PostgreSQL
   pname: clorinde
-  version: 1.1.1
+  version: 1.2.0
 legacyPackages.x86_64-linux.closurecompiler:
   description: Tool for making JavaScript download and run faster
   pname: closure-compiler
@@ -33013,7 +33013,7 @@ legacyPackages.x86_64-linux.faudio:
 legacyPackages.x86_64-linux.faugus-launcher:
   description: Simple and lightweight app for running Windows games using UMU-Launcher
   pname: faugus-launcher
-  version: 1.10.4
+  version: 1.11.1
 legacyPackages.x86_64-linux.fauna-shell:
   description: Interactive shell for FaunaDB
   pname: fauna-shell
@@ -34305,7 +34305,7 @@ legacyPackages.x86_64-linux.fishPlugins.foreign-env:
 legacyPackages.x86_64-linux.fishPlugins.forgit:
   description: Utility tool powered by fzf for using git interactively
   pname: fishplugin-forgit
-  version: 25.10.0
+  version: 25.12.0
 legacyPackages.x86_64-linux.fishPlugins.fzf:
   description: Ef-fish-ient fish keybindings for fzf
   pname: fishplugin-fzf
@@ -35129,7 +35129,7 @@ legacyPackages.x86_64-linux.fn-cli:
 legacyPackages.x86_64-linux.fna3d:
   description: Accuracy-focused XNA4 reimplementation for open platforms
   pname: fna3d
-  version: "25.11"
+  version: "25.12"
 legacyPackages.x86_64-linux.fnc:
   description: Interactive ncurses browser for Fossil repositories
   pname: fnc
@@ -39517,7 +39517,7 @@ legacyPackages.x86_64-linux.glaxnimate:
 legacyPackages.x86_64-linux.glaze:
   description: Extremely fast, in memory, JSON and interface library for modern C++
   pname: glaze
-  version: 6.0.1
+  version: 6.1.0
 legacyPackages.x86_64-linux.glbinding:
   description: C++ binding for the OpenGL API, generated using the gl.xml specification
   pname: glbinding
@@ -135097,7 +135097,7 @@ legacyPackages.x86_64-linux.jsonschema:
 legacyPackages.x86_64-linux.jsonschema-cli:
   description: Fast command-line tool for JSON Schema validation
   pname: jsonschema-cli
-  version: 0.37.2
+  version: 0.37.4
 legacyPackages.x86_64-linux.jsonwatch:
   description: Like watch -d but for JSON
   pname: jsonwatch
@@ -141769,7 +141769,7 @@ legacyPackages.x86_64-linux.libbutl:
 legacyPackages.x86_64-linux.libbytesize:
   description: Tiny library providing a C 'class' for working with arbitrary big sizes in bytes
   pname: libbytesize
-  version: "2.11"
+  version: "2.12"
 legacyPackages.x86_64-linux.libc:
   description: GNU C Library
   pname: glibc
@@ -168297,7 +168297,7 @@ legacyPackages.x86_64-linux.lunar:
 legacyPackages.x86_64-linux.lunar-client:
   description: Free Minecraft client with mods, cosmetics, and performance boost
   pname: lunarclient
-  version: 3.5.9
+  version: 3.5.11
 legacyPackages.x86_64-linux.lunarml:
   description: Standard ML compiler that produces Lua/JavaScript
   pname: lunarml
@@ -186177,7 +186177,7 @@ legacyPackages.x86_64-linux.ocamlPackages.opam-core:
 legacyPackages.x86_64-linux.ocamlPackages.opam-file-format:
   description: Parser and printer for the opam file syntax
   pname: ocaml5.3.0-opam-file-format
-  version: 2.1.6
+  version: 2.2.0
 legacyPackages.x86_64-linux.ocamlPackages.opam-format:
   description: Definition of opam datastructures and its file interface
   pname: ocaml5.3.0-opam-format
@@ -188813,7 +188813,7 @@ legacyPackages.x86_64-linux.onmetal-image:
 legacyPackages.x86_64-linux.onnx:
   description: Open Neural Network Exchange
   pname: onnx
-  version: 1.19.1
+  version: 1.20.0
 legacyPackages.x86_64-linux.onnxruntime:
   description: Cross-platform, high performance scoring engine for ML models
   pname: onnxruntime
@@ -189233,7 +189233,7 @@ legacyPackages.x86_64-linux.opencloud-desktop-shell-integration-resources:
 legacyPackages.x86_64-linux.opencode:
   description: AI coding agent built for the terminal
   pname: opencode
-  version: 1.0.126
+  version: 1.0.133
 legacyPackages.x86_64-linux.opencollada:
   description: Library for handling the COLLADA file format
   pname: opencollada
@@ -193021,7 +193021,7 @@ legacyPackages.x86_64-linux.pdfgrep:
 legacyPackages.x86_64-linux.pdfhummus:
   description: Fast and Free C++ Library for Creating, Parsing an Manipulating PDF Files and Streams
   pname: pdfhummus
-  version: 4.8.0
+  version: 4.8.1
 legacyPackages.x86_64-linux.pdfid:
   description: Scan a file to look for certain PDF keywords
   pname: pdfid
@@ -224249,7 +224249,7 @@ legacyPackages.x86_64-linux.prisma-engines:
 legacyPackages.x86_64-linux.prisma-language-server:
   description: Language server for Prisma
   pname: prisma-language-server
-  version: 6.19.0
+  version: 31.1.0
 legacyPackages.x86_64-linux.prismlauncher:
   description: Free, open source launcher for Minecraft
   pname: prismlauncher
@@ -230369,7 +230369,7 @@ legacyPackages.x86_64-linux.python312Packages.bytecode:
 legacyPackages.x86_64-linux.python312Packages.bytesize:
   description: Tiny library providing a C 'class' for working with arbitrary big sizes in bytes
   pname: libbytesize
-  version: "2.11"
+  version: "2.12"
 legacyPackages.x86_64-linux.python312Packages.bytewax:
   description: Python Stream Processing
   pname: python3.12-bytewax
@@ -247417,7 +247417,7 @@ legacyPackages.x86_64-linux.python312Packages.onlykey-solo-python:
 legacyPackages.x86_64-linux.python312Packages.onnx:
   description: Open Neural Network Exchange
   pname: python3.12-onnx
-  version: 1.19.1
+  version: 1.20.0
 legacyPackages.x86_64-linux.python312Packages.onnxconverter-common:
   description: ONNX Converter and Optimization Tools
   pname: python3.12-onnxconverter-common
@@ -247437,7 +247437,7 @@ legacyPackages.x86_64-linux.python312Packages.onnxruntime-tools:
 legacyPackages.x86_64-linux.python312Packages.onnxslim:
   description: Toolkit to Help Optimize Onnx Model
   pname: python3.12-onnxslim
-  version: 0.1.70
+  version: 0.1.78
 legacyPackages.x86_64-linux.python312Packages.onvif-zeep:
   description: Python Client for ONVIF Camera
   pname: python3.12-onvif-zeep
@@ -259137,7 +259137,7 @@ legacyPackages.x86_64-linux.python312Packages.snakebite:
 legacyPackages.x86_64-linux.python312Packages.snakemake:
   description: Python-based execution environment for make-like workflows
   pname: snakemake
-  version: 9.14.0
+  version: 9.14.1
 legacyPackages.x86_64-linux.python312Packages.snakemake-executor-plugin-cluster-generic:
   description: Generic cluster executor for Snakemake
   pname: python3.12-snakemake-executor-plugin-cluster-generic
@@ -271421,7 +271421,7 @@ legacyPackages.x86_64-linux.python313Packages.bytecode:
 legacyPackages.x86_64-linux.python313Packages.bytesize:
   description: Tiny library providing a C 'class' for working with arbitrary big sizes in bytes
   pname: libbytesize
-  version: "2.11"
+  version: "2.12"
 legacyPackages.x86_64-linux.python313Packages.bytewax:
   description: Python Stream Processing
   pname: python3.13-bytewax
@@ -288473,7 +288473,7 @@ legacyPackages.x86_64-linux.python313Packages.onlykey-solo-python:
 legacyPackages.x86_64-linux.python313Packages.onnx:
   description: Open Neural Network Exchange
   pname: python3.13-onnx
-  version: 1.19.1
+  version: 1.20.0
 legacyPackages.x86_64-linux.python313Packages.onnxconverter-common:
   description: ONNX Converter and Optimization Tools
   pname: python3.13-onnxconverter-common
@@ -288493,7 +288493,7 @@ legacyPackages.x86_64-linux.python313Packages.onnxruntime-tools:
 legacyPackages.x86_64-linux.python313Packages.onnxslim:
   description: Toolkit to Help Optimize Onnx Model
   pname: python3.13-onnxslim
-  version: 0.1.70
+  version: 0.1.78
 legacyPackages.x86_64-linux.python313Packages.onvif-zeep:
   description: Python Client for ONVIF Camera
   pname: python3.13-onvif-zeep
@@ -300193,7 +300193,7 @@ legacyPackages.x86_64-linux.python313Packages.snakebite:
 legacyPackages.x86_64-linux.python313Packages.snakemake:
   description: Python-based execution environment for make-like workflows
   pname: snakemake
-  version: 9.14.0
+  version: 9.14.1
 legacyPackages.x86_64-linux.python313Packages.snakemake-executor-plugin-cluster-generic:
   description: Generic cluster executor for Snakemake
   pname: python3.13-snakemake-executor-plugin-cluster-generic
@@ -340977,15 +340977,15 @@ legacyPackages.x86_64-linux.scummvm:
 legacyPackages.x86_64-linux.scx.cscheds:
   description: Sched-ext C userspace schedulers
   pname: scx_cscheds
-  version: 1.0.18
+  version: 1.0.19
 legacyPackages.x86_64-linux.scx.full:
   description: Sched-ext C and Rust userspace schedulers
   pname: scx_full
-  version: 1.0.18
+  version: 1.0.19
 legacyPackages.x86_64-linux.scx.rustscheds:
   description: Sched-ext Rust userspace schedulers
   pname: scx_rustscheds
-  version: 1.0.18
+  version: 1.0.19
 legacyPackages.x86_64-linux.sd:
   description: Intuitive find & replace CLI (sed alternative)
   pname: sd
@@ -343489,7 +343489,7 @@ legacyPackages.x86_64-linux.snakefmt:
 legacyPackages.x86_64-linux.snakemake:
   description: Python-based execution environment for make-like workflows
   pname: snakemake
-  version: 9.14.0
+  version: 9.14.1
 legacyPackages.x86_64-linux.snallygaster:
   description: Tool to scan for secret files on HTTP servers
   pname: snallygaster
@@ -348633,7 +348633,7 @@ legacyPackages.x86_64-linux.tdl:
 legacyPackages.x86_64-linux.tdlib:
   description: Cross-platform library for building Telegram clients
   pname: tdlib
-  version: 1.8.57
+  version: 1.8.58
 legacyPackages.x86_64-linux.tdnf:
   description: Tiny Dandified Yum
   pname: tdnf
@@ -349521,11 +349521,11 @@ legacyPackages.x86_64-linux.terraform-providers.dhall:
 legacyPackages.x86_64-linux.terraform-providers.digitalocean:
   description: ""
   pname: terraform-provider-digitalocean
-  version: 2.69.0
+  version: 2.70.0
 legacyPackages.x86_64-linux.terraform-providers.digitalocean_digitalocean:
   description: ""
   pname: terraform-provider-digitalocean
-  version: 2.69.0
+  version: 2.70.0
 legacyPackages.x86_64-linux.terraform-providers.dmacvicar_libvirt:
   description: ""
   pname: terraform-provider-libvirt
@@ -349669,11 +349669,11 @@ legacyPackages.x86_64-linux.terraform-providers.google-beta:
 legacyPackages.x86_64-linux.terraform-providers.grafana:
   description: ""
   pname: terraform-provider-grafana
-  version: 4.20.1
+  version: 4.21.0
 legacyPackages.x86_64-linux.terraform-providers.grafana_grafana:
   description: ""
   pname: terraform-provider-grafana
-  version: 4.20.1
+  version: 4.21.0
 legacyPackages.x86_64-linux.terraform-providers.gridscale:
   description: ""
   pname: terraform-provider-gridscale
@@ -353559,7 +353559,7 @@ legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.taglib_c:
   pname: check-pkg-config-taglib
   version: ""
 legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.tdjson:
-  description: Test whether tdlib-1.8.57 exposes pkg-config modules tdjson
+  description: Test whether tdlib-1.8.58 exposes pkg-config modules tdjson
   pname: check-pkg-config-tdlib
   version: ""
 legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.tests-combined:
@@ -413089,7 +413089,7 @@ legacyPackages.x86_64-linux.xosview2:
 legacyPackages.x86_64-linux.xournalpp:
   description: Xournal++ is a handwriting Notetaking software with PDF annotation support
   pname: xournalpp
-  version: 1.2.8
+  version: 1.2.9
 legacyPackages.x86_64-linux.xow_dongle-firmware:
   description: Xbox One wireless dongle firmware
   pname: xow_dongle-firmware
@@ -415349,7 +415349,7 @@ legacyPackages.x86_64-linux.zlog:
 legacyPackages.x86_64-linux.zls:
   description: Zig LSP implementation + Zig Language Server
   pname: zls
-  version: 0.15.0
+  version: 0.15.1
 legacyPackages.x86_64-linux.zls_0_14:
   description: Zig LSP implementation + Zig Language Server
   pname: zls
@@ -415357,7 +415357,7 @@ legacyPackages.x86_64-linux.zls_0_14:
 legacyPackages.x86_64-linux.zls_0_15:
   description: Zig LSP implementation + Zig Language Server
   pname: zls
-  version: 0.15.0
+  version: 0.15.1
 legacyPackages.x86_64-linux.zlsplitter:
   description: Versatile splitter plugin for VST3, LV2 and standalone
   pname: zlsplitter
