@@ -622,6 +622,10 @@ legacyPackages.x86_64-linux.acl2-minimal:
   description: Interpreter and prover for a Lisp dialect
   pname: acl2
   version: "8.6"
+legacyPackages.x86_64-linux.acli:
+  description: Atlassian Command Line Interface
+  pname: acli
+  version: 1.3.7-stable
 legacyPackages.x86_64-linux.acltoolkit:
   description: ACL abuse swiss-knife
   pname: python3.13-acltoolkit
@@ -3737,11 +3741,11 @@ legacyPackages.x86_64-linux.androidStudioPackages.beta:
 legacyPackages.x86_64-linux.androidStudioPackages.canary:
   description: Official IDE for Android (canary channel)
   pname: android-studio-canary
-  version: 2025.2.3.3
+  version: 2025.2.3.4
 legacyPackages.x86_64-linux.androidStudioPackages.dev:
   description: Official IDE for Android (dev channel)
   pname: android-studio-dev
-  version: 2025.2.3.3
+  version: 2025.2.3.4
 legacyPackages.x86_64-linux.androidStudioPackages.stable:
   description: Official IDE for Android (stable channel)
   pname: android-studio-stable
@@ -20073,7 +20077,7 @@ legacyPackages.x86_64-linux.clatd:
 legacyPackages.x86_64-linux.claude-code:
   description: Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster
   pname: claude-code
-  version: 2.0.64
+  version: 2.0.65
 legacyPackages.x86_64-linux.claude-code-acp:
   description: ACP-compatible coding agent powered by the Claude Code SDK
   pname: claude-code-acp
@@ -21177,7 +21181,7 @@ legacyPackages.x86_64-linux.codevis:
 legacyPackages.x86_64-linux.codex:
   description: Lightweight coding agent that runs in your terminal
   pname: codex
-  version: 0.66.0
+  version: 0.69.0
 legacyPackages.x86_64-linux.codex-acp:
   description: An ACP-compatible coding agent powered by Codex
   pname: codex-acp
@@ -23541,11 +23545,11 @@ legacyPackages.x86_64-linux.crystalline:
 legacyPackages.x86_64-linux.crystfel:
   description: Data processing for serial crystallography
   pname: crystfel
-  version: 0.11.1
+  version: 0.12.0
 legacyPackages.x86_64-linux.crystfel-headless:
   description: Data processing for serial crystallography
   pname: crystfel
-  version: 0.11.1
+  version: 0.12.0
 legacyPackages.x86_64-linux.csa:
   description: Group of LADSPA Audio plugins for FM broadcast and more
   pname: csa
@@ -31553,7 +31557,7 @@ legacyPackages.x86_64-linux.envoy:
 legacyPackages.x86_64-linux.envoy-bin:
   description: Cloud-native edge and service proxy
   pname: envoy-bin
-  version: 1.36.3
+  version: 1.36.4
 legacyPackages.x86_64-linux.envsubst:
   description: Environment variables substitution for Go
   pname: envsubst
@@ -33085,7 +33089,7 @@ legacyPackages.x86_64-linux.fastlane:
 legacyPackages.x86_64-linux.fastly:
   description: Command line tool for interacting with the Fastly API
   pname: fastly
-  version: 13.1.0
+  version: 13.2.0
 legacyPackages.x86_64-linux.fastmail-desktop:
   description: Dedicated desktop app for Fastmail
   pname: fastmail-desktop
@@ -39257,7 +39261,7 @@ legacyPackages.x86_64-linux.gita:
 legacyPackages.x86_64-linux.gitaly:
   description: Git RPC service for handling all the git calls made by GitLab
   pname: gitaly
-  version: 18.6.1
+  version: 18.6.2
 legacyPackages.x86_64-linux.gitbatch:
   description: Running git UI commands
   pname: gitbatch
@@ -39389,7 +39393,7 @@ legacyPackages.x86_64-linux.gitkraken:
 legacyPackages.x86_64-linux.gitlab:
   description: GitLab Community Edition
   pname: gitlab
-  version: 18.6.1
+  version: 18.6.2
 legacyPackages.x86_64-linux.gitlab-ci-linter:
   description: .gitlab-ci.yml lint helper tool
   pname: gitlab-ci-linter
@@ -39413,7 +39417,7 @@ legacyPackages.x86_64-linux.gitlab-container-registry:
 legacyPackages.x86_64-linux.gitlab-ee:
   description: GitLab Enterprise Edition
   pname: gitlab-ee
-  version: 18.6.1
+  version: 18.6.2
 legacyPackages.x86_64-linux.gitlab-elasticsearch-indexer:
   description: Indexes Git repositories into Elasticsearch for GitLab
   pname: gitlab-elasticsearch-indexer
@@ -39421,7 +39425,7 @@ legacyPackages.x86_64-linux.gitlab-elasticsearch-indexer:
 legacyPackages.x86_64-linux.gitlab-pages:
   description: Daemon used to serve static websites for GitLab users
   pname: gitlab-pages
-  version: 18.6.1
+  version: 18.6.2
 legacyPackages.x86_64-linux.gitlab-release-cli:
   description: Toolset to create, retrieve and update releases on GitLab
   pname: gitlab-release-cli
@@ -39445,7 +39449,7 @@ legacyPackages.x86_64-linux.gitlab-triage:
 legacyPackages.x86_64-linux.gitlab-workhorse:
   description: ""
   pname: gitlab-workhorse
-  version: 18.6.1
+  version: 18.6.2
 legacyPackages.x86_64-linux.gitleaks:
   description: Scan git repos (or files) for secrets
   pname: gitleaks
@@ -133437,7 +133441,7 @@ legacyPackages.x86_64-linux.ipvsadm:
 legacyPackages.x86_64-linux.ipxe:
   description: Network boot firmware
   pname: ipxe
-  version: 1.21.1-unstable-2025-12-03
+  version: 1.21.1-unstable-2025-12-08
 legacyPackages.x86_64-linux.iqtree:
   description: Efficient and versatile phylogenomic software by maximum likelihood
   pname: iqtree
@@ -141513,7 +141517,7 @@ legacyPackages.x86_64-linux.levmar:
 legacyPackages.x86_64-linux.lexbor:
   description: Open source HTML Renderer library
   pname: lexbor
-  version: 2.6.0
+  version: 2.6.0-unstable-2025-11-24
 legacyPackages.x86_64-linux.lexend:
   description: Variable font family designed to aid in reading proficiency
   pname: lexend
@@ -145117,7 +145121,7 @@ legacyPackages.x86_64-linux.libretro.twenty-fortyeight:
 legacyPackages.x86_64-linux.libretro.vba-m:
   description: VBA-M libretro port
   pname: libretro-vbam
-  version: 0-unstable-2025-11-25
+  version: 0-unstable-2025-12-10
 legacyPackages.x86_64-linux.libretro.vba-next:
   description: VBA-M libretro port with modifications for speed
   pname: libretro-vba-next
@@ -148069,7 +148073,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -148249,7 +148253,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -148597,7 +148601,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.x86_energy_perf_poli
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -148717,7 +148721,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -148897,7 +148901,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -149245,7 +149249,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.x86_energy_perf_poli
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -149365,7 +149369,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -149545,7 +149549,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -149889,7 +149893,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.x86_energy_perf_polic
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -150009,7 +150013,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -150189,7 +150193,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -150537,7 +150541,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.x86_energy_perf_poli
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -150657,7 +150661,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ddcci-drive
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -150837,7 +150841,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -151185,7 +151189,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.x86_energy_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -151305,7 +151309,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -151485,7 +151489,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -151833,7 +151837,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.x86_energy_perf_poli
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -151953,7 +151957,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -152133,7 +152137,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -152481,7 +152485,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.x86_energy_perf_poli
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -152601,7 +152605,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -152781,7 +152785,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -153125,7 +153129,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.x86_energy_perf_polic
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -153245,7 +153249,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -153425,7 +153429,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -153773,7 +153777,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.x86_energy_perf_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -153893,7 +153897,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -154073,7 +154077,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -154421,7 +154425,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.x86_energy_perf_polic
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -154541,7 +154545,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -154721,7 +154725,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -155069,7 +155073,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.x86_energy_perf_po
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -155189,7 +155193,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ddcci-drive
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -155369,7 +155373,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -155717,7 +155721,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.x86_energy_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -155837,7 +155841,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ddcci-drive
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -156017,7 +156021,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -156365,7 +156369,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.x86_energy_
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -156485,7 +156489,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -156665,7 +156669,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -157013,7 +157017,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_polic
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -157133,7 +157137,7 @@ legacyPackages.x86_64-linux.linuxPackages.ddcci-driver:
 legacyPackages.x86_64-linux.linuxPackages.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxPackages.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -157313,7 +157317,7 @@ legacyPackages.x86_64-linux.linuxPackages.mxu11x0:
 legacyPackages.x86_64-linux.linuxPackages.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxPackages.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -157661,7 +157665,7 @@ legacyPackages.x86_64-linux.linuxPackages.x86_energy_perf_policy:
 legacyPackages.x86_64-linux.linuxPackages.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxPackages.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -157785,7 +157789,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.ddcci-driver:
 legacyPackages.x86_64-linux.linuxPackages_latest.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxPackages_latest.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -157965,7 +157969,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.mxu11x0:
 legacyPackages.x86_64-linux.linuxPackages_latest.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxPackages_latest.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -158313,7 +158317,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.x86_energy_perf_policy:
 legacyPackages.x86_64-linux.linuxPackages_latest.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxPackages_latest.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -158433,7 +158437,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.ddcci-driver:
 legacyPackages.x86_64-linux.linuxPackages_lqx.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxPackages_lqx.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -158613,7 +158617,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.mxu11x0:
 legacyPackages.x86_64-linux.linuxPackages_lqx.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxPackages_lqx.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -158961,7 +158965,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.x86_energy_perf_policy:
 legacyPackages.x86_64-linux.linuxPackages_lqx.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxPackages_lqx.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -159081,7 +159085,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.ddcci-driver:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxPackages_xanmod.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -159261,7 +159265,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.mxu11x0:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxPackages_xanmod.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -159609,7 +159613,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.x86_energy_perf_policy:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxPackages_xanmod.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -159729,7 +159733,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ddcci-driver:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -159909,7 +159913,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mxu11x0:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -160257,7 +160261,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.x86_energy_perf_policy:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -160377,7 +160381,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ddcci-driver:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -160557,7 +160561,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mxu11x0:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -160905,7 +160909,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.x86_energy_perf_policy:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -161025,7 +161029,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver:
 legacyPackages.x86_64-linux.linuxPackages_zen.dddvb:
   description: Device driver for all Digital Devices DVB demodulator and modulator cards
   pname: dddvb
-  version: 0.9.40
+  version: 0.9.40a
 legacyPackages.x86_64-linux.linuxPackages_zen.decklink:
   description: Kernel module for the Blackmagic Design Decklink cards
   pname: decklink
@@ -161205,7 +161209,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0:
 legacyPackages.x86_64-linux.linuxPackages_zen.nct6687d:
   description: Kernel module for the Nuvoton NCT6687-R chipset found on many B550/B650 motherboards from ASUS and MSI
   pname: nct6687d
-  version: 0-unstable-2025-08-23
+  version: 0-unstable-2025-10-24
 legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper:
   description: Ndis driver wrapper for the Linux kernel
   pname: ndiswrapper
@@ -161553,7 +161557,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy:
 legacyPackages.x86_64-linux.linuxPackages_zen.xone:
   description: Linux kernel driver for Xbox One and Xbox Series X|S accessories
   pname: xone
-  version: 0.4.8
+  version: 0.5.0
 legacyPackages.x86_64-linux.linuxPackages_zen.xpad-noone:
   description: Xpad driver from the Linux kernel with support for Xbox One controllers removed
   pname: xpad-noone
@@ -164025,7 +164029,7 @@ legacyPackages.x86_64-linux.ltris:
 legacyPackages.x86_64-linux.ltspice:
   description: SPICE simulator, schematic capture and waveform viewer
   pname: ltspice
-  version: 24.1.10
+  version: 26.0.0
 legacyPackages.x86_64-linux.lttng-tools:
   description: Tracing tools (kernel + user space) for Linux
   pname: lttng-tools
@@ -170093,7 +170097,7 @@ legacyPackages.x86_64-linux.markdown2html-converter:
 legacyPackages.x86_64-linux.markdownlint-cli:
   description: Command line interface for MarkdownLint
   pname: markdownlint-cli
-  version: 0.46.0
+  version: 0.47.0
 legacyPackages.x86_64-linux.markdownlint-cli2:
   description: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   pname: markdownlint-cli2
@@ -170633,7 +170637,7 @@ legacyPackages.x86_64-linux.matrix-sdk-crypto-nodejs:
 legacyPackages.x86_64-linux.matrix-synapse:
   description: Matrix reference homeserver
   pname: matrix-synapse-wrapped
-  version: 1.143.0
+  version: 1.144.0
 legacyPackages.x86_64-linux.matrix-synapse-plugins.matrix-http-rendezvous-synapse:
   description: 'Implementation of MSC3886: Simple rendezvous capability'
   pname: python3.13-matrix-http-rendezvous-synapse
@@ -170665,7 +170669,7 @@ legacyPackages.x86_64-linux.matrix-synapse-plugins.synapse-http-antispam:
 legacyPackages.x86_64-linux.matrix-synapse-unwrapped:
   description: Matrix reference homeserver
   pname: matrix-synapse
-  version: 1.143.0
+  version: 1.144.0
 legacyPackages.x86_64-linux.matrix-tuwunel:
   description: Matrix homeserver written in Rust, official successor to conduwuit
   pname: matrix-tuwunel
@@ -173413,7 +173417,7 @@ legacyPackages.x86_64-linux.modd:
 legacyPackages.x86_64-linux.models-dev:
   description: Comprehensive open-source database of AI model specifications, pricing, and capabilities
   pname: models-dev
-  version: 0-unstable-2025-12-09
+  version: 0-unstable-2025-12-11
 legacyPackages.x86_64-linux.modelscan:
   description: Protection against Model Serialization Attacks
   pname: modelscan
@@ -173605,7 +173609,7 @@ legacyPackages.x86_64-linux.mongodb-7_0:
 legacyPackages.x86_64-linux.mongodb-atlas-cli:
   description: CLI utility to manage MongoDB Atlas from the terminal
   pname: mongodb-atlas-cli
-  version: 1.50.1
+  version: 1.51.0
 legacyPackages.x86_64-linux.mongodb-ce:
   description: MongoDB is a general purpose, document-based, distributed database
   pname: mongodb-ce
@@ -179737,7 +179741,7 @@ legacyPackages.x86_64-linux.nodePackages.markdown-link-check:
 legacyPackages.x86_64-linux.nodePackages.markdownlint-cli:
   description: Command line interface for MarkdownLint
   pname: markdownlint-cli
-  version: 0.46.0
+  version: 0.47.0
 legacyPackages.x86_64-linux.nodePackages.markdownlint-cli2:
   description: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   pname: markdownlint-cli2
@@ -180745,7 +180749,7 @@ legacyPackages.x86_64-linux.nodePackages_latest.markdown-link-check:
 legacyPackages.x86_64-linux.nodePackages_latest.markdownlint-cli:
   description: Command line interface for MarkdownLint
   pname: markdownlint-cli
-  version: 0.46.0
+  version: 0.47.0
 legacyPackages.x86_64-linux.nodePackages_latest.markdownlint-cli2:
   description: Fast, flexible, configuration-based command-line interface for linting Markdown/CommonMark files with the markdownlint library
   pname: markdownlint-cli2
@@ -191577,7 +191581,7 @@ legacyPackages.x86_64-linux.oxide-rs:
 legacyPackages.x86_64-linux.oxidized:
   description: Network device configuration backup tool. It's a RANCID replacement
   pname: oxidized
-  version: 0.34.3
+  version: 0.35.0
 legacyPackages.x86_64-linux.oxigraph:
   description: SPARQL graph database
   pname: oxigraph
@@ -192314,6 +192318,10 @@ legacyPackages.x86_64-linux.pantheon.switchboard-plug-pantheon-shell:
   description: Switchboard Desktop Plug
   pname: switchboard-plug-pantheon-shell
   version: 8.2.1
+legacyPackages.x86_64-linux.pantheon.switchboard-plug-parental-controls:
+  description: Switchboard Screen Time & Limits Plug
+  pname: switchboard-plug-parental-controls
+  version: 8.0.1
 legacyPackages.x86_64-linux.pantheon.switchboard-plug-power:
   description: Switchboard Power Plug
   pname: switchboard-plug-power
@@ -222289,7 +222297,7 @@ legacyPackages.x86_64-linux.portfolio-filemanager:
 legacyPackages.x86_64-linux.portfolio_rs:
   description: Command line tool for managing financial investment portfolios.
   pname: portfolio_rs
-  version: 0.6.1
+  version: 0.6.2
 legacyPackages.x86_64-linux.portmidi:
   description: Platform independent library for MIDI I/O
   pname: portmidi
@@ -224345,7 +224353,7 @@ legacyPackages.x86_64-linux.pr-tracker:
 legacyPackages.x86_64-linux.praat:
   description: Doing phonetics by computer
   pname: praat
-  version: 6.4.47
+  version: 6.4.48
 legacyPackages.x86_64-linux.pragha:
   description: Lightweight GTK+ music manager - fork of Consonance Music Manager
   pname: pragha
@@ -236217,7 +236225,7 @@ legacyPackages.x86_64-linux.python312Packages.fastcache:
 legacyPackages.x86_64-linux.python312Packages.fastcore:
   description: Python module for Fast AI
   pname: python3.12-fastcore
-  version: 1.8.16
+  version: 1.8.17
 legacyPackages.x86_64-linux.python312Packages.fastcrc:
   description: Hyper-fast Python module for computing CRC(8, 16, 32, 64) checksum
   pname: python3.12-fastcrc
@@ -258689,7 +258697,7 @@ legacyPackages.x86_64-linux.python312Packages.segyio:
 legacyPackages.x86_64-linux.python312Packages.selectolax:
   description: Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python
   pname: python3.12-selectolax
-  version: 0.4.4
+  version: 0.4.6
 legacyPackages.x86_64-linux.python312Packages.selenium:
   description: Bindings for Selenium WebDriver
   pname: python3.12-selenium
@@ -259801,7 +259809,7 @@ legacyPackages.x86_64-linux.python312Packages.soxr:
 legacyPackages.x86_64-linux.python312Packages.spacy:
   description: Industrial-strength Natural Language Processing (NLP)
   pname: python3.12-spacy
-  version: 3.8.7
+  version: 3.8.11
 legacyPackages.x86_64-linux.python312Packages.spacy-alignments:
   description: Align tokenizations for spaCy and transformers
   pname: python3.12-spacy-alignments
@@ -266405,7 +266413,7 @@ legacyPackages.x86_64-linux.python312Packages.wget:
 legacyPackages.x86_64-linux.python312Packages.wgpu-py:
   description: WebGPU for Python
   pname: python3.12-wgpu-py
-  version: 0.27.0
+  version: 0.28.1
 legacyPackages.x86_64-linux.python312Packages.whatthepatch:
   description: Python library for both parsing and applying patch files
   pname: python3.12-whatthepatch
@@ -277329,7 +277337,7 @@ legacyPackages.x86_64-linux.python313Packages.fastcache:
 legacyPackages.x86_64-linux.python313Packages.fastcore:
   description: Python module for Fast AI
   pname: python3.13-fastcore
-  version: 1.8.16
+  version: 1.8.17
 legacyPackages.x86_64-linux.python313Packages.fastcrc:
   description: Hyper-fast Python module for computing CRC(8, 16, 32, 64) checksum
   pname: python3.13-fastcrc
@@ -299805,7 +299813,7 @@ legacyPackages.x86_64-linux.python313Packages.segyio:
 legacyPackages.x86_64-linux.python313Packages.selectolax:
   description: Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python
   pname: python3.13-selectolax
-  version: 0.4.4
+  version: 0.4.6
 legacyPackages.x86_64-linux.python313Packages.selenium:
   description: Bindings for Selenium WebDriver
   pname: python3.13-selenium
@@ -300917,7 +300925,7 @@ legacyPackages.x86_64-linux.python313Packages.soxr:
 legacyPackages.x86_64-linux.python313Packages.spacy:
   description: Industrial-strength Natural Language Processing (NLP)
   pname: python3.13-spacy
-  version: 3.8.7
+  version: 3.8.11
 legacyPackages.x86_64-linux.python313Packages.spacy-alignments:
   description: Align tokenizations for spaCy and transformers
   pname: python3.13-spacy-alignments
@@ -307561,7 +307569,7 @@ legacyPackages.x86_64-linux.python313Packages.wget:
 legacyPackages.x86_64-linux.python313Packages.wgpu-py:
   description: WebGPU for Python
   pname: python3.13-wgpu-py
-  version: 0.27.0
+  version: 0.28.1
 legacyPackages.x86_64-linux.python313Packages.whatthepatch:
   description: Python library for both parsing and applying patch files
   pname: python3.13-whatthepatch
@@ -309229,7 +309237,7 @@ legacyPackages.x86_64-linux.qovery-cli:
 legacyPackages.x86_64-linux.qownnotes:
   description: Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration
   pname: qownnotes
-  version: 25.12.0
+  version: 25.12.5
 legacyPackages.x86_64-linux.qpaeq:
   description: Equalizer interface for pulseaudio's equalizer sinks
   pname: qpaeq
@@ -321041,11 +321049,11 @@ legacyPackages.x86_64-linux.russ:
 legacyPackages.x86_64-linux.rust-analyzer:
   description: Language server for the Rust language
   pname: rust-analyzer
-  version: "2025-10-28"
+  version: "2025-12-08"
 legacyPackages.x86_64-linux.rust-analyzer-unwrapped:
   description: Language server for the Rust language
   pname: rust-analyzer-unwrapped
-  version: "2025-10-28"
+  version: "2025-12-08"
 legacyPackages.x86_64-linux.rust-audit-info:
   description: Command-line tool to extract the dependency trees embedded in binaries by cargo-auditable
   pname: rust-audit-info
@@ -343053,7 +343061,7 @@ legacyPackages.x86_64-linux.simplescreenrecorder:
 legacyPackages.x86_64-linux.simplex-chat-desktop:
   description: Desktop application for SimpleX Chat
   pname: simplex-chat-desktop
-  version: 6.4.7
+  version: 6.4.8
 legacyPackages.x86_64-linux.simplotask:
   description: Tool for effortless deployment and configuration management
   pname: simplotask
@@ -344705,7 +344713,7 @@ legacyPackages.x86_64-linux.source-han-serif-vf-ttf:
 legacyPackages.x86_64-linux.source-meta-json-schema:
   description: 'CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines '
   pname: source-meta-json-schema
-  version: 12.6.0
+  version: 12.9.3
 legacyPackages.x86_64-linux.source-sans:
   description: Sans serif font family for user interface environments
   pname: source-sans
@@ -349841,7 +349849,7 @@ legacyPackages.x86_64-linux.terraform-providers.bitwarden:
 legacyPackages.x86_64-linux.terraform-providers.bpg_proxmox:
   description: ""
   pname: terraform-provider-proxmox
-  version: 0.88.0
+  version: 0.89.1
 legacyPackages.x86_64-linux.terraform-providers.brightbox:
   description: ""
   pname: terraform-provider-brightbox
@@ -350745,11 +350753,11 @@ legacyPackages.x86_64-linux.terraform-providers.secret:
 legacyPackages.x86_64-linux.terraform-providers.selectel:
   description: ""
   pname: terraform-provider-selectel
-  version: 7.2.0
+  version: 7.2.1
 legacyPackages.x86_64-linux.terraform-providers.selectel_selectel:
   description: ""
   pname: terraform-provider-selectel
-  version: 7.2.0
+  version: 7.2.1
 legacyPackages.x86_64-linux.terraform-providers.sentry:
   description: ""
   pname: terraform-provider-sentry
@@ -377121,7 +377129,7 @@ legacyPackages.x86_64-linux.tsduck:
 legacyPackages.x86_64-linux.tshark:
   description: Powerful network protocol analyzer
   pname: wireshark-cli
-  version: 4.6.0
+  version: 4.6.2
 legacyPackages.x86_64-linux.tshock:
   description: Modded server software for Terraria, providing a plugin system and inbuilt tools such as anti-cheat, server-side characters, groups, permissions, and item bans
   pname: tshock
@@ -395425,7 +395433,7 @@ legacyPackages.x86_64-linux.vacuum:
 legacyPackages.x86_64-linux.vacuum-go:
   description: World's fastest OpenAPI & Swagger linter
   pname: vacuum-go
-  version: 0.20.4
+  version: 0.20.5
 legacyPackages.x86_64-linux.vacuum-tube:
   description: YouTube Leanback on the desktop, with enhancements
   pname: vacuum-tube
@@ -406313,7 +406321,7 @@ legacyPackages.x86_64-linux.vscode-extensions.antfu.slidev:
 legacyPackages.x86_64-linux.vscode-extensions.anthropic.claude-code:
   description: Harness the power of Claude Code without leaving your IDE
   pname: vscode-extension-anthropic-claude-code
-  version: 2.0.62
+  version: 2.0.65
 legacyPackages.x86_64-linux.vscode-extensions.antyos.openscad:
   description: OpenSCAD highlighting, snippets, and more for VSCode
   pname: vscode-extension-Antyos-openscad
@@ -407109,7 +407117,7 @@ legacyPackages.x86_64-linux.vscode-extensions.leanprover.lean4:
 legacyPackages.x86_64-linux.vscode-extensions.leonardssh.vscord:
   description: Highly customizable Discord Rich Presence extension for Visual Studio Code
   pname: vscode-extension-leonardssh-vscord
-  version: 5.3.5
+  version: 5.3.8
 legacyPackages.x86_64-linux.vscode-extensions.llvm-org.lldb-vscode:
   description: Next-generation high-performance debugger
   pname: lldb
@@ -407653,7 +407661,7 @@ legacyPackages.x86_64-linux.vscode-extensions.sanaajani.taskrunnercode:
 legacyPackages.x86_64-linux.vscode-extensions.saoudrizwan.claude-dev:
   description: VSCode extension providing an autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
   pname: vscode-extension-saoudrizwan-claude-dev
-  version: 3.39.2
+  version: 3.40.1
 legacyPackages.x86_64-linux.vscode-extensions.sas.sas-lsp:
   description: Official SAS Language Extension
   pname: vscode-extension-SAS-sas-lsp
@@ -410149,15 +410157,15 @@ legacyPackages.x86_64-linux.wireproxy:
 legacyPackages.x86_64-linux.wireshark:
   description: Powerful network protocol analyzer
   pname: wireshark-qt
-  version: 4.6.0
+  version: 4.6.2
 legacyPackages.x86_64-linux.wireshark-cli:
   description: Powerful network protocol analyzer
   pname: wireshark-cli
-  version: 4.6.0
+  version: 4.6.2
 legacyPackages.x86_64-linux.wireshark-qt:
   description: Powerful network protocol analyzer
   pname: wireshark-qt
-  version: 4.6.0
+  version: 4.6.2
 legacyPackages.x86_64-linux.wireviz:
   description: Easily document cables and wiring harnesses
   pname: wireviz
@@ -415353,7 +415361,7 @@ legacyPackages.x86_64-linux.zashboard:
 legacyPackages.x86_64-linux.zasm:
   description: Z80 / 8080 / Z180 assembler (for unix-style OS)
   pname: zasm
-  version: 4.4.17
+  version: 4.5.0
 legacyPackages.x86_64-linux.zatackax:
   description: Open-source remake of the early computer game "Achtung, die Kurve!"
   pname: zatackax
