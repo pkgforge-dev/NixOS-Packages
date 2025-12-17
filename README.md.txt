@@ -801,7 +801,7 @@
 | Interpolation-maxs | 0.3.0 | Multiline strings, interpolation and templating | legacyPackages.x86_64-linux.haskellPackages.Interpolation-maxs |
 | IntervalMap | 0.6.2.1 | Containers for intervals, with efficient search | legacyPackages.x86_64-linux.haskellPackages.IntervalMap |
 | Iosevka | 33.3.6 | Versatile typeface for code, from code | legacyPackages.x86_64-linux.iosevka |
-| Iosevka-bin | 33.3.5 | Versatile typeface for code, from code | legacyPackages.x86_64-linux.iosevka-bin |
+| Iosevka-bin | 33.3.6 | Versatile typeface for code, from code | legacyPackages.x86_64-linux.iosevka-bin |
 | Irc | 0.1.0.2 | DSL for IRC bots | legacyPackages.x86_64-linux.haskellPackages.Irc |
 | IrrHaskell | 0.2 | Haskell FRP binding to the Irrlicht game engine | legacyPackages.x86_64-linux.haskellPackages.IrrHaskell |
 | IsNull | 0.4.0.0 | A typeclass to determine if a given value is null | legacyPackages.x86_64-linux.haskellPackages.IsNull |
@@ -1620,8 +1620,8 @@
 | Vial | 0.7.5 | Open-source GUI and QMK fork for configuring your keyboard in real time | legacyPackages.x86_64-linux.vial |
 | VictoriaLogs | 1.38.0 | User friendly log database from VictoriaMetrics | legacyPackages.x86_64-linux.victorialogs |
 | VictoriaLogs | 1.38.0 | User friendly log database from VictoriaMetrics | legacyPackages.x86_64-linux.vlagent |
-| VictoriaMetrics | 1.131.0 | Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus | legacyPackages.x86_64-linux.victoriametrics |
-| VictoriaMetrics | 1.131.0 | Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus | legacyPackages.x86_64-linux.vmagent |
+| VictoriaMetrics | 1.132.0 | Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus | legacyPackages.x86_64-linux.victoriametrics |
+| VictoriaMetrics | 1.132.0 | Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus | legacyPackages.x86_64-linux.vmagent |
 | VictoriaTraces | 0.5.1 | Fast open-source observability solution for distributed traces | legacyPackages.x86_64-linux.victoriatraces |
 | ViennaRNA-bindings | 0.233.2.0 | ViennaRNA v2 bindings | legacyPackages.x86_64-linux.haskellPackages.ViennaRNA-bindings |
 | ViennaRNA-extras | 0.0.0.1 | ViennaRNA v2 extensions | legacyPackages.x86_64-linux.haskellPackages.ViennaRNA-extras |
@@ -1643,10 +1643,10 @@
 | VirtualBox-GuestAdditions | 7.2.4-6.17.12 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_lqx.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.12 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.17.12 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualboxGuestAdditions |
-| VirtualBox-GuestAdditions | 7.2.4-6.18 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions |
-| VirtualBox-GuestAdditions | 7.2.4-6.18 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.18.1 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.virtualboxGuestAdditions |
+| VirtualBox-GuestAdditions | 7.2.4-6.18.1 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.18.1 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_latest.virtualboxGuestAdditions |
+| VirtualBox-GuestAdditions | 7.2.4-6.18.1 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxPackages_zen.virtualboxGuestAdditions |
 | VirtualBox-GuestAdditions | 7.2.4-6.6.119 | Guest additions for VirtualBox | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualboxGuestAdditions |
 | Vis | 1.0.0 | Painless 3D graphics, no affiliation with gloss | legacyPackages.x86_64-linux.haskellPackages.Vis |
 | VoiceOfFaust | 1.1.7 | Turn your voice into a synthesizer | legacyPackages.x86_64-linux.magnetophonDSP.VoiceOfFaust |
@@ -1961,10 +1961,10 @@
 | acer-wmi-battery | 6.17.12-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_lqx.acer-wmi-battery |
 | acer-wmi-battery | 6.17.12-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.acer-wmi-battery |
 | acer-wmi-battery | 6.17.12-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acer-wmi-battery |
-| acer-wmi-battery | 6.18-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery |
-| acer-wmi-battery | 6.18-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.18.1-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.acer-wmi-battery |
+| acer-wmi-battery | 6.18.1-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.18.1-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_latest.acer-wmi-battery |
+| acer-wmi-battery | 6.18.1-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery |
 | acer-wmi-battery | 6.6.119-0.1.0-unstable-2025-04-24 | Driver for the Acer WMI battery health control interface | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acer-wmi-battery |
 | aces-container | 1.0.2 | Reference Implementation of SMPTE ST2065-4 | legacyPackages.x86_64-linux.aces-container |
 | acgtk | 2.1.0 | Toolkit for developing ACG signatures and lexicon | legacyPackages.x86_64-linux.acgtk |
@@ -2050,10 +2050,10 @@
 | acpi-call | 1.2.2-6.17.12 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_lqx.acpi_call |
 | acpi-call | 1.2.2-6.17.12 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.acpi_call |
 | acpi-call | 1.2.2-6.17.12 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acpi_call |
-| acpi-call | 1.2.2-6.18 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call |
-| acpi-call | 1.2.2-6.18 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call |
 | acpi-call | 1.2.2-6.18.1 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.acpi_call |
+| acpi-call | 1.2.2-6.18.1 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acpi_call |
 | acpi-call | 1.2.2-6.18.1 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_latest.acpi_call |
+| acpi-call | 1.2.2-6.18.1 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxPackages_zen.acpi_call |
 | acpi-call | 1.2.2-6.6.119 | Module allowing arbitrary ACPI calls; use case: hybrid video | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acpi_call |
 | acpic | 1.0.0 | Daemon extending acpid event handling capabilities | legacyPackages.x86_64-linux.acpic |
 | acpica-tools | 20250807 | ACPICA Tools | legacyPackages.x86_64-linux.acpica-tools |
@@ -2180,7 +2180,7 @@
 | adv_cmds | 235 | Advanced commands package for Darwin | legacyPackages.x86_64-linux.darwin.adv_cmds |
 | adv_cmds | 235 | Advanced commands package for Darwin | legacyPackages.x86_64-linux.darwin.ps |
 | advancecomp | 2.6 | Set of tools to optimize deflate-compressed files | legacyPackages.x86_64-linux.advancecomp |
-| advanced-camera-card | 7.20.0 | Comprehensive camera card for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.advanced-camera-card |
+| advanced-camera-card | 7.25.3 | Comprehensive camera card for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.advanced-camera-card |
 | advanced-scene-switcher | 1.32.4 | Automated scene switcher for OBS Studio | legacyPackages.x86_64-linux.obs-studio-plugins.advanced-scene-switcher |
 | advdate | 20538 | Print a date relative to "today" | legacyPackages.x86_64-linux.texlivePackages.advdate |
 | advent-of-code-api | 0.2.9.1 | Advent of Code REST API bindings and servant API | legacyPackages.x86_64-linux.haskellPackages.advent-of-code-api |
@@ -2449,10 +2449,10 @@
 | ajantv2-module | 17.5.0-6.17.12 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_lqx.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.12 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ajantv2 |
 | ajantv2-module | 17.5.0-6.17.12 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ajantv2 |
-| ajantv2-module | 17.5.0-6.18 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ajantv2 |
-| ajantv2-module | 17.5.0-6.18 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.18.1 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ajantv2 |
+| ajantv2-module | 17.5.0-6.18.1 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.18.1 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_latest.ajantv2 |
+| ajantv2-module | 17.5.0-6.18.1 | AJA video driver | legacyPackages.x86_64-linux.linuxPackages_zen.ajantv2 |
 | ajantv2-module | 17.5.0-6.6.119 | AJA video driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ajantv2 |
 | ajhc | 0.8.0.10 | Haskell compiler that produce binary through C language | legacyPackages.x86_64-linux.haskellPackages.ajhc |
 | ajl | 34016 | BibTeX style for AJL | legacyPackages.x86_64-linux.texlivePackages.ajl |
@@ -2978,7 +2978,7 @@
 | all-languages-etex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.etex |
 | all-languages-latex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.latex |
 | all-languages-luatex |  |  | legacyPackages.x86_64-linux.tests.texlive.allLanguages.luatex |
-| all-the-package-names | 2.0.2290 | List of all the public package names on npm | legacyPackages.x86_64-linux.all-the-package-names |
+| all-the-package-names | 2.0.2296 | List of all the public package names on npm | legacyPackages.x86_64-linux.all-the-package-names |
 | allegro | 4.4.3.1 | Game programming library | legacyPackages.x86_64-linux.allegro |
 | allegro | 4.4.3.1 | Game programming library | legacyPackages.x86_64-linux.allegro4 |
 | allegro | 5.2.10.1 | Game programming library | legacyPackages.x86_64-linux.allegro5 |
@@ -3710,7 +3710,7 @@
 | angle | 0.8.1.0 | A small, general-purpose programming language | legacyPackages.x86_64-linux.haskellPackages.angle |
 | angle | 7258 | Conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | legacyPackages.x86_64-linux.angle |
 | angle-grinder | 0.19.4 | Slice and dice logs on the command line | legacyPackages.x86_64-linux.angle-grinder |
-| angrr | 0.1.5 | Temporary GC Roots Cleaner | legacyPackages.x86_64-linux.angrr |
+| angrr | 0.2.0 | Auto Nix GC Root Retention | legacyPackages.x86_64-linux.angrr |
 | angryoxide | 0.8.32 | 802.11 Attack Tool | legacyPackages.x86_64-linux.angryoxide |
 | angsd | 0.940 | Program for analysing NGS data | legacyPackages.x86_64-linux.angsd |
 | angular-language-server | 20.3.0 | LSP for angular completions, AOT diagnostic, quick info and go to definitions | legacyPackages.x86_64-linux.angular-language-server |
@@ -3964,10 +3964,10 @@
 | apfs | 0.3.16-6.17.12 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_lqx.apfs |
 | apfs | 0.3.16-6.17.12 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.apfs |
 | apfs | 0.3.16-6.17.12 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.apfs |
-| apfs | 0.3.16-6.18 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.apfs |
-| apfs | 0.3.16-6.18 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_zen.apfs |
 | apfs | 0.3.16-6.18.1 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.apfs |
+| apfs | 0.3.16-6.18.1 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.apfs |
 | apfs | 0.3.16-6.18.1 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_latest.apfs |
+| apfs | 0.3.16-6.18.1 | APFS module for linux | legacyPackages.x86_64-linux.linuxPackages_zen.apfs |
 | apfs | 0.3.16-6.6.119 | APFS module for linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.apfs |
 | apfs-fuse | 0-unstable-2023-03-12 | FUSE driver for APFS (Apple File System) | legacyPackages.x86_64-linux.apfs-fuse |
 | apfsprogs | 0.2.1 | Experimental APFS tools for linux | legacyPackages.x86_64-linux.apfsprogs |
@@ -4554,7 +4554,7 @@
 | askinclude | 2.7 | Interactive use of \includeonly | legacyPackages.x86_64-linux.texlivePackages.askinclude |
 | askmaps | 0.2 | Typeset American style Karnaugh maps | legacyPackages.x86_64-linux.texlivePackages.askmaps |
 | asl | 142-bld232 | Portable macro cross assembler | legacyPackages.x86_64-linux.asl |
-| asleap | 0-unstable-2021-06-20 | Recovers weak LEAP and PPTP passwords | legacyPackages.x86_64-linux.asleap |
+| asleap | 0-unstable-2021-06-21 | Recovers weak LEAP and PPTP passwords | legacyPackages.x86_64-linux.asleap |
 | asm-lsp | 0.10.1 | Language server for NASM/GAS/GO Assembly | legacyPackages.x86_64-linux.asm-lsp |
 | asmeconf | 1.43 | A LaTeX template for ASME conference papers | legacyPackages.x86_64-linux.texlivePackages.asmeconf |
 | asmejour | 1.26 | A template for ASME journal papers | legacyPackages.x86_64-linux.texlivePackages.asmejour |
@@ -4791,13 +4791,13 @@
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.12 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_lqx.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.12 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.17.12 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.asus-ec-sensors |
-| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.18 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors |
-| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.18 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.18.1 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.asus-ec-sensors |
+| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.18.1 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.18.1 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_latest.asus-ec-sensors |
+| asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.18.1 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors |
 | asus-ec-sensors | 0.1.0-unstable-2025-01-10-6.6.119 | Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.asus-ec-sensors |
 | asus-wmi-screenpad-ctl | 1.0.0 | Brightness control program for the asus-wmi-screenpad kernel module | legacyPackages.x86_64-linux.asus-wmi-screenpad-ctl |
-| asusctl | 6.1.17 | Control daemon, CLI tools, and a collection of crates for interacting with ASUS ROG laptops | legacyPackages.x86_64-linux.asusctl |
+| asusctl | 6.2.0 | Control daemon, CLI tools, and a collection of crates for interacting with ASUS ROG laptops | legacyPackages.x86_64-linux.asusctl |
 | asy-overview | 72484 | A brief overview of the Asymptote language for drawing mathematical graphics | legacyPackages.x86_64-linux.texlivePackages.asy-overview |
 | asyfig | 0.1c | Commands for using Asymptote figures | legacyPackages.x86_64-linux.texlivePackages.asyfig |
 | asymptote | 3.04 | 2D and 3D TeX-Aware Vector Graphics Language | legacyPackages.x86_64-linux.texlivePackages.asymptote |
@@ -5277,7 +5277,7 @@
 | aws-xray-client-wai | 0.1.0.2 | A client for AWS X-Ray integration with WAI | legacyPackages.x86_64-linux.haskellPackages.aws-xray-client-wai |
 | awsbck | 1.0.1 | Backup a folder to AWS S3, once or periodically | legacyPackages.x86_64-linux.awsbck |
 | awscli | 1.42.18 | Unified tool to manage your AWS services | legacyPackages.x86_64-linux.awscli |
-| awscli2 | 2.31.39 | Unified tool to manage your AWS services | legacyPackages.x86_64-linux.awscli2 |
+| awscli2 | 2.32.15 | Unified tool to manage your AWS services | legacyPackages.x86_64-linux.awscli2 |
 | awsebcli | 3.25.3 | Command line interface for Elastic Beanstalk | legacyPackages.x86_64-linux.awsebcli |
 | awslimitchecker | 12.0.0 | Script and python package to check your AWS service limits and usage via boto3 | legacyPackages.x86_64-linux.awslimitchecker |
 | awslogs | 0.15.0 | AWS CloudWatch logs for Humans | legacyPackages.x86_64-linux.awslogs |
@@ -5624,7 +5624,7 @@
 | base91 | 2.1.0 | A Generic Base91 Encoder & Decoder | legacyPackages.x86_64-linux.haskellPackages.base91 |
 | based | 0.1 | alternative prelude | legacyPackages.x86_64-linux.haskellPackages.based |
 | basedmypy | 2.10.1 | Based Python static type checker with baseline, sane default settings and based typing features | legacyPackages.x86_64-linux.basedmypy |
-| basedpyright | 1.36.0 | Type checker for the Python language | legacyPackages.x86_64-linux.basedpyright |
+| basedpyright | 1.36.1 | Type checker for the Python language | legacyPackages.x86_64-linux.basedpyright |
 | basement | 0.0.16 | Foundation scrap box of array & string | legacyPackages.x86_64-linux.haskellPackages.basement |
 | basement-cd | 0.0.12.1 | Foundation scrap box of array & string | legacyPackages.x86_64-linux.haskellPackages.basement-cd |
 | basen | 0.2.0.0 |  | legacyPackages.x86_64-linux.haskellPackages.basen |
@@ -5721,10 +5721,10 @@
 | batman-adv | 2025.4-6.17.12 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_lqx.batman_adv |
 | batman-adv | 2025.4-6.17.12 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.batman_adv |
 | batman-adv | 2025.4-6.17.12 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.batman_adv |
-| batman-adv | 2025.4-6.18 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.batman_adv |
-| batman-adv | 2025.4-6.18 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_zen.batman_adv |
 | batman-adv | 2025.4-6.18.1 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.batman_adv |
+| batman-adv | 2025.4-6.18.1 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.batman_adv |
 | batman-adv | 2025.4-6.18.1 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_latest.batman_adv |
+| batman-adv | 2025.4-6.18.1 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxPackages_zen.batman_adv |
 | batman-adv | 2025.4-6.6.119 | B.A.T.M.A.N. routing protocol in a linux kernel module for layer 2 | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.batman_adv |
 | batmon | 0.0.1 | Interactive batteries viewer | legacyPackages.x86_64-linux.batmon |
 | bato | 0.2.1 | Small program to send battery notifications | legacyPackages.x86_64-linux.bato |
@@ -5791,10 +5791,10 @@
 | bbswitch-unstable | 2021-11-29-6.17.12 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_lqx.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.12 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.17.12 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bbswitch |
-| bbswitch-unstable | 2021-11-29-6.18 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch |
-| bbswitch-unstable | 2021-11-29-6.18 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.18.1 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bbswitch |
+| bbswitch-unstable | 2021-11-29-6.18.1 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.18.1 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_latest.bbswitch |
+| bbswitch-unstable | 2021-11-29-6.18.1 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch |
 | bbswitch-unstable | 2021-11-29-6.6.119 | Module for powering off hybrid GPUs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bbswitch |
 | bc | 1.08.2 | GNU software calculator | legacyPackages.x86_64-linux.bc |
 | bc-decaf | 1.0.2-unstable-2025-06-25 | Elliptic curve library supporting Ed448-Goldilocks and Curve25519. Belledonne Communications' fork for Linphone | legacyPackages.x86_64-linux.linphonePackages.bc-decaf |
@@ -5818,10 +5818,10 @@
 | bcachefs | 6.17.12-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.bcachefs |
 | bcachefs | 6.17.12-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcachefs |
 | bcachefs | 6.17.12-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcachefs |
-| bcachefs | 6.18-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcachefs |
-| bcachefs | 6.18-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.bcachefs |
 | bcachefs | 6.18.1-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bcachefs |
+| bcachefs | 6.18.1-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcachefs |
 | bcachefs | 6.18.1-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.bcachefs |
+| bcachefs | 6.18.1-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.bcachefs |
 | bcachefs | 6.6.119-1.33.1 | out-of-tree bcachefs kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcachefs |
 | bcachefs-tools | 1.33.1 | Tool for managing bcachefs filesystems | legacyPackages.x86_64-linux.bcachefs-tools |
 | bcal | 2.4 | Storage conversion and expression calculator | legacyPackages.x86_64-linux.bcal |
@@ -5991,6 +5991,7 @@
 | belcard | 5.4.67 | C++ library to manipulate VCard standard format. Part of the Linphone project | legacyPackages.x86_64-linux.linphonePackages.belcard |
 | belgian-structured-communication | 0.2.0.0 | parsing, rendering and manipulating the structured communication of Belgian financial transactions | legacyPackages.x86_64-linux.haskellPackages.belgian-structured-communication |
 | belka | 0.8 | HTTP client DSL | legacyPackages.x86_64-linux.haskellPackages.belka |
+| bella | 0.1.3 | Simple eye dropper and color picker | legacyPackages.x86_64-linux.bella |
 | belle-sip | 5.4.67 | Modern library implementing SIP (RFC 3261) transport, transaction and dialog layers. Part of the Linphone project | legacyPackages.x86_64-linux.linphonePackages.belle-sip |
 | belleek | 66115 | Free replacement for basic MathTime fonts | legacyPackages.x86_64-linux.texlivePackages.belleek |
 | below | 0.9.0 | Time traveling resource monitor for modern Linux systems | legacyPackages.x86_64-linux.below |
@@ -6052,7 +6053,7 @@
 | betris | 0.2.3.1 | A horizontal version of tetris for braille users | legacyPackages.x86_64-linux.haskellPackages.betris |
 | better-commits | 1.18.1 | CLI for creating better commits following the conventional commits specification | legacyPackages.x86_64-linux.better-commits |
 | better-control | 6.12.1 | Simple control panel for linux based on GTK | legacyPackages.x86_64-linux.better-control |
-| bettercap | 2.41.4 | Man in the middle tool | legacyPackages.x86_64-linux.bettercap |
+| bettercap | 2.41.5 | Man in the middle tool | legacyPackages.x86_64-linux.bettercap |
 | betterdiscord-installer | 1.0.0-beta | Installer for BetterDiscord | legacyPackages.x86_64-linux.betterdiscord-installer |
 | betterdiscordctl | 2.0.1 | Utility for managing BetterDiscord on Linux | legacyPackages.x86_64-linux.betterdiscordctl |
 | betterdisplay | 4.0.4 | Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more | legacyPackages.x86_64-linux.betterdisplay |
@@ -6562,6 +6563,7 @@
 | blackbox_exporter | 0.28.0 | Blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP | legacyPackages.x86_64-linux.prometheus-blackbox-exporter |
 | blacken-docs | 1.20.0 | Run Black on Python code blocks in documentation files | legacyPackages.x86_64-linux.blacken-docs |
 | blackfire | 2.29.7 | Profiler agent and client | legacyPackages.x86_64-linux.blackfire |
+| blackhole | 0.6.1 | Virtual audio driver for macOS | legacyPackages.x86_64-linux.blackhole |
 | blacklettert1 | 15878 | T1-encoded versions of Haralambous old German fonts | legacyPackages.x86_64-linux.texlivePackages.blacklettert1 |
 | blacklist-extensions | 0-unstable-2025-11-01 | Automatically remove playlist entries based on their extension | legacyPackages.x86_64-linux.mpvScripts.blacklistExtensions |
 | blacklist-extensions | 0-unstable-2025-11-01 | Automatically remove playlist entries based on their extension | legacyPackages.x86_64-linux.mpvScripts.occivink.blacklistExtensions |
@@ -6932,7 +6934,7 @@
 | boringssl | 0.20251124.0 | Free TLS/SSL implementation | legacyPackages.x86_64-linux.boringssl |
 | boringtun | 0.6.0 | Userspace WireGuard® implementation in Rust | legacyPackages.x86_64-linux.boringtun |
 | bork |  | TUI chat client tailored for livecoding on Twitch | legacyPackages.x86_64-linux.bork |
-| bork-pytest-network-salted-jmcai729x3qn |  |  | legacyPackages.x86_64-linux.tests.testers.runCommand.bork |
+| bork-pytest-network-salted-ria8mxzl6lqj |  |  | legacyPackages.x86_64-linux.tests.testers.runCommand.bork |
 | boron | 2.1.0 | Scripting language and C library useful for building DSLs | legacyPackages.x86_64-linux.boron |
 | borsh | 0.3.0 | Implementation of BORSH serialisation | legacyPackages.x86_64-linux.haskellPackages.borsh |
 | bosh-cli | 7.9.15 | Command line interface to CloudFoundry BOSH | legacyPackages.x86_64-linux.bosh-cli |
@@ -7150,10 +7152,10 @@
 | broadcom-sta | 6.30.223.271-59-6.17.12 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_lqx.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.12 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.17.12 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.broadcom_sta |
-| broadcom-sta | 6.30.223.271-59-6.18 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta |
-| broadcom-sta | 6.30.223.271-59-6.18 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.18.1 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.broadcom_sta |
+| broadcom-sta | 6.30.223.271-59-6.18.1 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.18.1 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_latest.broadcom_sta |
+| broadcom-sta | 6.30.223.271-59-6.18.1 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxPackages_zen.broadcom_sta |
 | broadcom-sta | 6.30.223.271-59-6.6.119 | Kernel module driver for some Broadcom's wireless cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.broadcom_sta |
 | broadlink-cli | 0.19.0 | Tools for interfacing with Broadlink RM2/3 (Pro) remote controls, A1 sensor platforms and SP2/3 smartplugs | legacyPackages.x86_64-linux.broadlink-cli |
 | broccoli | 0.4.1.0 | Small library for interactive functional programs | legacyPackages.x86_64-linux.haskellPackages.broccoli |
@@ -7229,6 +7231,7 @@
 | bsparse | 0.0.5 | A simple unassuming parser for bytestring | legacyPackages.x86_64-linux.haskellPackages.bsparse |
 | bspwm | 0.9.12 | Tiling window manager based on binary space partitioning | legacyPackages.x86_64-linux.bspwm |
 | bstone | 1.2.16 | Unofficial source port for the Blake Stone series | legacyPackages.x86_64-linux.bstone |
+| bstring | 1.0.3 | Better String Library for C | legacyPackages.x86_64-linux.bstring |
 | bsull-console-datasource | 1.0.1 | Grafana data source which can connect to the Tokio console subscriber | legacyPackages.x86_64-linux.grafanaPlugins.bsull-console-datasource |
 | bsync | 0-unstable-2023-12-21 | Bidirectional Synchronization using Rsync | legacyPackages.x86_64-linux.bsync |
 | bt-fw-converter | 2017-02-19 | Tool that converts hex to hcd based on inf file | legacyPackages.x86_64-linux.bt-fw-converter |
@@ -7896,7 +7899,7 @@
 | cancel | 2.2 | Place lines through maths formulae | legacyPackages.x86_64-linux.texlivePackages.cancel |
 | candid | 0.5.0.3 | Candid integration | legacyPackages.x86_64-linux.haskellPackages.candid |
 | candle | 1.1.8 | GRBL controller application with G-Code visualizer written in Qt | legacyPackages.x86_64-linux.candle |
-| candy-icons | 0-unstable-2025-11-28 | Icon theme colored with sweet gradients | legacyPackages.x86_64-linux.candy-icons |
+| candy-icons | 0-unstable-2025-12-10 | Icon theme colored with sweet gradients | legacyPackages.x86_64-linux.candy-icons |
 | caneda | 0.4.0 | Open source EDA software focused on easy of use and portability | legacyPackages.x86_64-linux.caneda |
 | cannelloni | 2.0.0 | SocketCAN over Ethernet tunnel | legacyPackages.x86_64-linux.cannelloni |
 | cano | 0.2.0-alpha | Text Editor Written In C Using ncurses | legacyPackages.x86_64-linux.cano |
@@ -8019,7 +8022,7 @@
 | cargo-depgraph | 1.6.0 | Create dependency graphs for cargo projects using `cargo metadata` and graphviz | legacyPackages.x86_64-linux.cargo-depgraph |
 | cargo-dephell | 0.5.1 | Tool to analyze the third-party dependencies imported by a rust crate or rust workspace | legacyPackages.x86_64-linux.cargo-dephell |
 | cargo-diet | 1.2.7 | Help computing optimal include directives for your Cargo.toml manifest | legacyPackages.x86_64-linux.cargo-diet |
-| cargo-dist | 0.30.2 | Tool for building final distributable artifacts and uploading them to an archive | legacyPackages.x86_64-linux.cargo-dist |
+| cargo-dist | 0.30.3 | Tool for building final distributable artifacts and uploading them to an archive | legacyPackages.x86_64-linux.cargo-dist |
 | cargo-docset | 0.3.1 | Cargo subcommand to generate a Dash/Zeal docset for your Rust packages | legacyPackages.x86_64-linux.cargo-docset |
 | cargo-duplicates | 0.8.4 | Cargo subcommand for displaying when different versions of a same dependency are pulled in | legacyPackages.x86_64-linux.cargo-duplicates |
 | cargo-edit | 0.13.8 | Utility for managing cargo dependencies from the command line | legacyPackages.x86_64-linux.cargo-edit |
@@ -8071,6 +8074,7 @@
 | cargo-profiler | 0.2.0 | Cargo subcommand for profiling Rust binaries | legacyPackages.x86_64-linux.cargo-profiler |
 | cargo-psp | 0.2.8 | Cargo build wrapper for creating Sony PSP executables | legacyPackages.x86_64-linux.cargo-psp |
 | cargo-public-api | 0.50.1 | List and diff the public API of Rust library crates between releases and commits. Detect breaking API changes and semver violations | legacyPackages.x86_64-linux.cargo-public-api |
+| cargo-rail | 0.7.0 | Graph-aware monorepo orchestration for Rust workspaces | legacyPackages.x86_64-linux.cargo-rail |
 | cargo-raze | 0.16.1 | Generate Bazel BUILD files from Cargo dependencies | legacyPackages.x86_64-linux.cargo-raze |
 | cargo-rdme | 1.5.0 | Cargo command to create the README.md from your crate's documentation | legacyPackages.x86_64-linux.cargo-rdme |
 | cargo-readme | 3.3.1 | Generate README.md from docstrings | legacyPackages.x86_64-linux.cargo-readme |
@@ -8080,7 +8084,7 @@
 | cargo-run-bin | 1.7.4 | Build, cache, and run binaries scoped in Cargo.toml rather than installing globally. This acts similarly to npm run and gomodrun, and allows your teams to always be running the same tooling versions | legacyPackages.x86_64-linux.cargo-run-bin |
 | cargo-seek | 0.1.0 | Terminal user interface for searching, adding and installing cargo crates | legacyPackages.x86_64-linux.cargo-seek |
 | cargo-semver-checks | 0.45.0 | Tool to scan your Rust crate for semver violations | legacyPackages.x86_64-linux.cargo-semver-checks |
-| cargo-shear | 1.7.2 | Detect and remove unused dependencies from Cargo.toml | legacyPackages.x86_64-linux.cargo-shear |
+| cargo-shear | 1.9.1 | Detect and remove unused dependencies from Cargo.toml | legacyPackages.x86_64-linux.cargo-shear |
 | cargo-show-asm | 0.2.55 | Cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code | legacyPackages.x86_64-linux.cargo-show-asm |
 | cargo-shuttle | 0.57.3 | Cargo command for the shuttle platform | legacyPackages.x86_64-linux.cargo-shuttle |
 | cargo-sonar | 1.3.1 | Utility to produce some Sonar-compatible format from different Rust tools like cargo-clippy cargo-audit or cargo-outdated | legacyPackages.x86_64-linux.cargo-sonar |
@@ -8415,7 +8419,7 @@
 | cdktf-cli | 0.21.0 | CDK for Terraform CLI | legacyPackages.x86_64-linux.cdktf-cli |
 | cdktf-cli | 0.21.0 | CDK for Terraform CLI | legacyPackages.x86_64-linux.nodePackages.cdktf-cli |
 | cdktf-cli | 0.21.0 | CDK for Terraform CLI | legacyPackages.x86_64-linux.nodePackages_latest.cdktf-cli |
-| cdncheck | 1.2.13 | Tool to detect various technology for a given IP address | legacyPackages.x86_64-linux.cdncheck |
+| cdncheck | 1.2.14 | Tool to detect various technology for a given IP address | legacyPackages.x86_64-linux.cdncheck |
 | cdo | 2.5.1 | Collection of command line Operators to manipulate and analyse Climate and NWP model Data | legacyPackages.x86_64-linux.cdo |
 | cdogs-sdl | 2.3.2 | Open source classic overhead run-and-gun game | legacyPackages.x86_64-linux.cdogs-sdl |
 | cdp | 0.0.2.0 | A library for the Chrome Devtools Protocol | legacyPackages.x86_64-linux.haskellPackages.cdp |
@@ -8971,7 +8975,7 @@
 | chez-scmutils | 0.2 | Port of the 'MIT Scmutils' library to Chez Scheme | legacyPackages.x86_64-linux.chez-scmutils |
 | chez-srfi | 1.1 | This package provides a collection of SRFI libraries for Chez Scheme | legacyPackages.x86_64-linux.chez-srfi |
 | chezmoi | 2.67.1 | Manage your dotfiles across multiple machines, securely | legacyPackages.x86_64-linux.chezmoi |
-| chglog | 0.7.3 | Changelog management library and tool | legacyPackages.x86_64-linux.chglog |
+| chglog | 0.7.4 | Changelog management library and tool | legacyPackages.x86_64-linux.chglog |
 | chhaya | 0.4 | Linguistic glossing in Marathi language | legacyPackages.x86_64-linux.texlivePackages.chhaya |
 | chhoto-url | 6.5.2 | Simple, blazingly fast, selfhosted URL shortener with no unnecessary features | legacyPackages.x86_64-linux.chhoto-url |
 | chiaki | 2.2.0 | Free and Open Source PlayStation Remote Play Client | legacyPackages.x86_64-linux.chiaki |
@@ -9762,7 +9766,7 @@
 | cinnamon-screensaver | 6.6.0 | Cinnamon screen locker and screensaver program | legacyPackages.x86_64-linux.cinnamon-screensaver |
 | cinnamon-session | 6.6.1 | Cinnamon session manager | legacyPackages.x86_64-linux.cinnamon-session |
 | cinnamon-settings-daemon | 6.6.1 | Settings daemon for the Cinnamon desktop | legacyPackages.x86_64-linux.cinnamon-settings-daemon |
-| cinnamon-translations | 6.6.0 | Translations files for the Cinnamon desktop | legacyPackages.x86_64-linux.cinnamon-translations |
+| cinnamon-translations | 6.6.1 | Translations files for the Cinnamon desktop | legacyPackages.x86_64-linux.cinnamon-translations |
 | cinny-desktop | 4.10.2 | Yet another matrix client for desktop | legacyPackages.x86_64-linux.cinny-desktop |
 | cinny-unwrapped | 4.10.2 | Yet another Matrix client for the web | legacyPackages.x86_64-linux.cinny |
 | cinny-unwrapped | 4.10.2 | Yet another Matrix client for the web | legacyPackages.x86_64-linux.cinny-unwrapped |
@@ -9803,7 +9807,7 @@
 | circus | 0.1.0.0 | Types and a small DSL for working with netlistsvg | legacyPackages.x86_64-linux.haskellPackages.circus |
 | circus | 0.19.0 | Process and socket manager | legacyPackages.x86_64-linux.circus |
 | cirru-parser | 0.0.2 | Cirru Parser in Haskell | legacyPackages.x86_64-linux.haskellPackages.cirru-parser |
-| cirrus-cli | 0.157.1 | CLI for executing Cirrus tasks locally and in any CI | legacyPackages.x86_64-linux.cirrus-cli |
+| cirrus-cli | 0.158.0 | CLI for executing Cirrus tasks locally and in any CI | legacyPackages.x86_64-linux.cirrus-cli |
 | cirrusgo | 0.1.0 | Tool to scan SAAS and PAAS applications | legacyPackages.x86_64-linux.cirrusgo |
 | cisco-spark-api | 0.1.0.4 | DEPRECATED in favor of webex-teams-api | legacyPackages.x86_64-linux.haskellPackages.cisco-spark-api |
 | ciscoPacketTracer7 | 7.3.1 | Network simulation tool from Cisco | legacyPackages.x86_64-linux.ciscoPacketTracer7 |
@@ -9985,7 +9989,7 @@
 | clanlib | 4.2.0 | Cross platform toolkit library with a primary focus on game creation | legacyPackages.x86_64-linux.clanlib |
 | clap | 1.2.7 | Clever Audio Plugin API interface headers | legacyPackages.x86_64-linux.clap |
 | clapboard | 1.1.1 | Wayland clipboard manager that will make you clap | legacyPackages.x86_64-linux.clapboard |
-| clapgrep | 25.07 | Search through all your files | legacyPackages.x86_64-linux.clapgrep |
+| clapgrep | 25.10 | Search through all your files | legacyPackages.x86_64-linux.clapgrep |
 | clapper | 0.8.0 | GNOME media player built using GTK4 toolkit and powered by GStreamer with OpenGL rendering | legacyPackages.x86_64-linux.clapper |
 | clapper-enhancers | 0.8.3 | Plugins enhancing Clapper library capabilities | legacyPackages.x86_64-linux.clapper-enhancers |
 | clapper-unwrapped | 0.8.0 | GNOME media player built using GTK4 toolkit and powered by GStreamer with OpenGL rendering | legacyPackages.x86_64-linux.clapper-unwrapped |
@@ -10033,7 +10037,7 @@
 | classy-prelude-yesod | 1.5.0 | Provide a classy prelude including common Yesod functionality | legacyPackages.x86_64-linux.haskellPackages.classy-prelude-yesod |
 | classyplate | 0.3.2.0 | Fuseable type-class based generics | legacyPackages.x86_64-linux.haskellPackages.classyplate |
 | clatd | 2.1.0 | 464XLAT CLAT implementation for Linux | legacyPackages.x86_64-linux.clatd |
-| claude-code | 2.0.69 | Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster | legacyPackages.x86_64-linux.claude-code |
+| claude-code | 2.0.70 | Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster | legacyPackages.x86_64-linux.claude-code |
 | claude-code-acp | 0.10.9 | ACP-compatible coding agent powered by the Claude Code SDK | legacyPackages.x86_64-linux.claude-code-acp |
 | claude-code-router | 1.0.64 | Tool to route Claude Code requests to different models and customize any request | legacyPackages.x86_64-linux.claude-code-router |
 | claude-monitor | 3.1.0 | Real-time Claude Code usage monitor | legacyPackages.x86_64-linux.claude-monitor |
@@ -10487,9 +10491,9 @@
 | coc-r-lsp | 1.2.1 | R LSP client for coc.nvim | legacyPackages.x86_64-linux.coc-r-lsp |
 | coc-r-lsp | 1.2.1 | R LSP client for coc.nvim | legacyPackages.x86_64-linux.nodePackages.coc-r-lsp |
 | coc-r-lsp | 1.2.1 | R LSP client for coc.nvim | legacyPackages.x86_64-linux.nodePackages_latest.coc-r-lsp |
-| coc-rust-analyzer | 0-unstable-2025-12-02 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.coc-rust-analyzer |
-| coc-rust-analyzer | 0-unstable-2025-12-02 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.nodePackages.coc-rust-analyzer |
-| coc-rust-analyzer | 0-unstable-2025-12-02 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.nodePackages_latest.coc-rust-analyzer |
+| coc-rust-analyzer | 0-unstable-2025-12-15 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.coc-rust-analyzer |
+| coc-rust-analyzer | 0-unstable-2025-12-15 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.nodePackages.coc-rust-analyzer |
+| coc-rust-analyzer | 0-unstable-2025-12-15 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.nodePackages_latest.coc-rust-analyzer |
 | coc-sh | 1.2.4 | bash-language-server for coc.nvim | legacyPackages.x86_64-linux.coc-sh |
 | coc-sh | 1.2.4 | bash-language-server for coc.nvim | legacyPackages.x86_64-linux.nodePackages.coc-sh |
 | coc-sh | 1.2.4 | bash-language-server for coc.nvim | legacyPackages.x86_64-linux.nodePackages_latest.coc-sh |
@@ -10593,7 +10597,7 @@
 | codedescribe | 1.10 | LaTeX code description and documentation | legacyPackages.x86_64-linux.texlivePackages.codedescribe |
 | codedoc | 0.3 | LaTeX code and documentation in LaTeX-format file | legacyPackages.x86_64-linux.texlivePackages.codedoc |
 | codeforces-cli | 0.1.0 | Command line interface to interact with Codeforces | legacyPackages.x86_64-linux.haskellPackages.codeforces-cli |
-| codefresh | 0.89.2 | CLI tool to interact with Codefresh services | legacyPackages.x86_64-linux.codefresh |
+| codefresh | 0.89.6 | CLI tool to interact with Codefresh services | legacyPackages.x86_64-linux.codefresh |
 | codegrab | 1.0.7 | Interactive CLI tool for selecting and bundling code into a single, LLM-ready output file | legacyPackages.x86_64-linux.codegrab |
 | codehigh | 2025C | Highlight code and demos with l3regex and lpeg | legacyPackages.x86_64-linux.texlivePackages.codehigh |
 | codeium | 1.46.3 | Codeium language server | legacyPackages.x86_64-linux.codeium |
@@ -10614,7 +10618,7 @@
 | codevis | 0.8.4 | Tool to take all source code in a folder and render them to one image | legacyPackages.x86_64-linux.codevis |
 | codeworld-api | 0.8.1 | Graphics library for CodeWorld | legacyPackages.x86_64-linux.haskellPackages.codeworld-api |
 | codex | 0.6.0.0 | A ctags file generator for cabal project dependencies | legacyPackages.x86_64-linux.haskellPackages.codex |
-| codex | 0.72.0 | Lightweight coding agent that runs in your terminal | legacyPackages.x86_64-linux.codex |
+| codex | 0.73.0 | Lightweight coding agent that runs in your terminal | legacyPackages.x86_64-linux.codex |
 | codex-acp | 0.6.0 | An ACP-compatible coding agent powered by Codex | legacyPackages.x86_64-linux.codex-acp |
 | codicefiscaleitaliano | 1.2 | Test the consistency of the Italian personal Fiscal Code | legacyPackages.x86_64-linux.texlivePackages.codicefiscaleitaliano |
 | codipack | 3.0.0 | Fast gradient evaluation in C++ based on Expression Templates | legacyPackages.x86_64-linux.codipack |
@@ -11101,7 +11105,7 @@
 | cond | 0.5.1 | Basic conditional and boolean operators with monadic variants | legacyPackages.x86_64-linux.haskellPackages.cond |
 | conda-install-hook |  |  | legacyPackages.x86_64-linux.python312Packages.condaInstallHook |
 | conda-install-hook |  |  | legacyPackages.x86_64-linux.python313Packages.condaInstallHook |
-| conda-shell | 25.9.1-1 | Package manager for Python | legacyPackages.x86_64-linux.conda |
+| conda-shell | 25.9.1-3 | Package manager for Python | legacyPackages.x86_64-linux.conda |
 | conda-unpack-hook |  |  | legacyPackages.x86_64-linux.python312Packages.condaUnpackHook |
 | conda-unpack-hook |  |  | legacyPackages.x86_64-linux.python313Packages.condaUnpackHook |
 | conditext | 1.5 | Define and manage conditional content | legacyPackages.x86_64-linux.texlivePackages.conditext |
@@ -11371,7 +11375,7 @@
 | conventional-changelog-cli | 7.1.1 | Generate a CHANGELOG from git metadata | legacyPackages.x86_64-linux.nodePackages.conventional-changelog-cli |
 | conventional-changelog-cli | 7.1.1 | Generate a CHANGELOG from git metadata | legacyPackages.x86_64-linux.nodePackages_latest.conventional-changelog-cli |
 | converge | 0.1.0.1 | Limit operations for converging sequences | legacyPackages.x86_64-linux.haskellPackages.converge |
-| converged-security-suite | 2.8.1 | Converged Security Suite for Intel & AMD platform security features | legacyPackages.x86_64-linux.converged-security-suite |
+| converged-security-suite | 2.8.2 | Converged Security Suite for Intel & AMD platform security features | legacyPackages.x86_64-linux.converged-security-suite |
 | converseen | 0.15.1.2 | Batch image converter and resizer | legacyPackages.x86_64-linux.converseen |
 | conversion | 1.2.1 | Universal converter between values of different types | legacyPackages.x86_64-linux.haskellPackages.conversion |
 | conversion-bytestring | 1.0.1.1 | "Conversion" instances for the "bytestring" library | legacyPackages.x86_64-linux.haskellPackages.conversion-bytestring |
@@ -11477,7 +11481,7 @@
 | coq | 9.0.1 | Coq proof assistant | legacyPackages.x86_64-linux.coq_9_0 |
 | coq | 9.1.0 | Coq proof assistant | legacyPackages.x86_64-linux.coq_9_1 |
 | coq-kernel-launcher |  |  | legacyPackages.x86_64-linux.coq-kernel |
-| coq-lsp | 0.2.4+9.0 | Language Server Protocol and VS Code Extension for Coq | legacyPackages.x86_64-linux.coqPackages.coq-lsp |
+| coq-lsp | 0.2.5+9.0 | Language Server Protocol and VS Code Extension for Coq | legacyPackages.x86_64-linux.coqPackages.coq-lsp |
 | coq-overrideCoqDerivation-test | 0.1 |  | legacyPackages.x86_64-linux.tests.coq.overrideCoqDerivation |
 | coq2html | 1.4 | HTML documentation generator for Coq source files | legacyPackages.x86_64-linux.coq2html |
 | coq9.0-CoqEAL | 2.1.1 | CoqEAL - The Coq Effective Algebra Library | legacyPackages.x86_64-linux.coqPackages.coqeal |
@@ -11848,10 +11852,10 @@
 | cpupower | 6.17.12 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_lqx.cpupower |
 | cpupower | 6.17.12 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.cpupower |
 | cpupower | 6.17.12 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.cpupower |
-| cpupower | 6.18 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower |
-| cpupower | 6.18 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_zen.cpupower |
 | cpupower | 6.18.1 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.cpupower |
+| cpupower | 6.18.1 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.cpupower |
 | cpupower | 6.18.1 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_latest.cpupower |
+| cpupower | 6.18.1 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxPackages_zen.cpupower |
 | cpupower | 6.6.119 | Tool to examine and tune power saving features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.cpupower |
 | cpupower-gui | 1.0.0 | Change the frequency limits of your cpu and its governor | legacyPackages.x86_64-linux.cpupower-gui |
 | cpuset | 1.6.2 | Python application that forms a wrapper around the standard Linux filesystem calls, to make using the cpusets facilities in the Linux kernel easier | legacyPackages.x86_64-linux.cpuset |
@@ -11953,7 +11957,6 @@
 | crimson | 73074 | Crimson fonts with LaTeX support | legacyPackages.x86_64-linux.texlivePackages.crimson |
 | crimson-pro-unstable | 2022-08-30 | Professionally produced redesign of Crimson by Jacques Le Bailly | legacyPackages.x86_64-linux.crimson-pro |
 | crimsonpro | 64565 | CrimsonPro fonts with LaTeX support | legacyPackages.x86_64-linux.texlivePackages.crimsonpro |
-| cringify | 0.2.0 | Annoy your friends with the cringified text | legacyPackages.x86_64-linux.cringify |
 | crip | 3.9 | Terminal-based ripper/encoder/tagger tool for creating Ogg Vorbis/FLAC files | legacyPackages.x86_64-linux.crip |
 | crispy-doom | 7.1 | Limit-removing enhanced-resolution Doom source port based on Chocolate Doom | legacyPackages.x86_64-linux.crispy-doom |
 | critbit | 0.2.0.0 | Crit-bit maps and sets | legacyPackages.x86_64-linux.haskellPackages.critbit |
@@ -13058,10 +13061,10 @@
 | ddcci-driver | 6.17.12-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_lqx.ddcci-driver |
 | ddcci-driver | 6.17.12-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ddcci-driver |
 | ddcci-driver | 6.17.12-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ddcci-driver |
-| ddcci-driver | 6.18-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver |
-| ddcci-driver | 6.18-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver |
 | ddcci-driver | 6.18.1-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ddcci-driver |
+| ddcci-driver | 6.18.1-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ddcci-driver |
 | ddcci-driver | 6.18.1-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_latest.ddcci-driver |
+| ddcci-driver | 6.18.1-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxPackages_zen.ddcci-driver |
 | ddcci-driver | 6.6.119-0.4.5-unstable-2024-09-26 | Kernel module driver for DDC/CI monitors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ddcci-driver |
 | ddccontrol | 1.0.3 | Program used to control monitor parameters by software | legacyPackages.x86_64-linux.ddccontrol |
 | ddccontrol-db | 20251102 | Monitor database for DDCcontrol | legacyPackages.x86_64-linux.ddccontrol-db |
@@ -13096,8 +13099,8 @@
 | ddgr | 2.2 | Search DuckDuckGo from the terminal | legacyPackages.x86_64-linux.ddgr |
 | ddh | 0.13.0 | Fast duplicate file finder | legacyPackages.x86_64-linux.ddh |
 | ddm | 4.1.0 | Tabletop Yugioh Experience | legacyPackages.x86_64-linux.ddm |
-| ddnet | 19.5 | Teeworlds modification with a unique cooperative gameplay | legacyPackages.x86_64-linux.ddnet |
-| ddnet | 19.5 | Teeworlds modification with a unique cooperative gameplay | legacyPackages.x86_64-linux.ddnet-server |
+| ddnet | 19.6 | Teeworlds modification with a unique cooperative gameplay | legacyPackages.x86_64-linux.ddnet |
+| ddnet | 19.6 | Teeworlds modification with a unique cooperative gameplay | legacyPackages.x86_64-linux.ddnet-server |
 | ddns-go | 6.14.0 | Simple and easy to use DDNS | legacyPackages.x86_64-linux.ddns-go |
 | ddns-updater | 2.9.0 | Container to update DNS records periodically with WebUI for many DNS providers | legacyPackages.x86_64-linux.ddns-updater |
 | ddosify | 2.6.0 | High-performance load testing tool, written in Golang | legacyPackages.x86_64-linux.ddosify |
@@ -13387,7 +13390,7 @@
 | design | 46-alpha1 | 2D CAD For GNOME | legacyPackages.x86_64-linux.design |
 | desk-exec | 1.0.2 | Execute programs defined in XDG desktop entries directly from the command line | legacyPackages.x86_64-linux.desk-exec |
 | deskew | 1.30 | Command line tool for deskewing scanned text documents | legacyPackages.x86_64-linux.deskew |
-| deskflow | 1.24.0 | Share one mouse and keyboard between multiple computers on Windows, macOS and Linux | legacyPackages.x86_64-linux.deskflow |
+| deskflow | 1.25.0 | Share one mouse and keyboard between multiple computers on Windows, macOS and Linux | legacyPackages.x86_64-linux.deskflow |
 | deskreen | 2.0.4 | Turn any device into a secondary screen for your computer | legacyPackages.x86_64-linux.deskreen |
 | desktop-file-utils | 0.28 | Command line utilities for working with .desktop files | legacyPackages.x86_64-linux.desktop-file-utils |
 | desktop-head-unit-linux-x64_r02.0.zip |  | Android SDK tools, packaged in Nixpkgs | legacyPackages.x86_64-linux.androidenv.androidPkgs.all.packages.extras.v2_0 |
@@ -14619,7 +14622,7 @@
 | dtl | 0.6.1 | Tools to dis-assemble and re-assemble DVI files | legacyPackages.x86_64-linux.texlivePackages.dtl |
 | dtool | 0.12.0 | Command-line tool collection to assist development written in RUST | legacyPackages.x86_64-linux.dtool |
 | dtools | 2.110.0 | Ancillary tools for the D programming language | legacyPackages.x86_64-linux.dtools |
-| dtop | 0.6.6 | Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration | legacyPackages.x86_64-linux.dtop |
+| dtop | 0.6.7 | Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration | legacyPackages.x86_64-linux.dtop |
 | dtrace | 0.1 | Haskell interface to the DTrace system tracing utility | legacyPackages.x86_64-linux.haskellPackages.dtrace |
 | dtrx | 8.7.1 | Do The Right Extraction: A tool for taking the hassle out of extracting archives | legacyPackages.x86_64-linux.dtrx |
 | dts-lsp | 0.1.5 | Language Server for Device Tree Source files | legacyPackages.x86_64-linux.dts-lsp |
@@ -14652,7 +14655,7 @@
 | duckdb-haskell | 0.1.0.0 | Haskell bindings for duckdb | legacyPackages.x86_64-linux.haskellPackages.duckdb-haskell |
 | duckdb-simple | 0.1.2.3 | Haskell FFI bindings for DuckDB | legacyPackages.x86_64-linux.haskellPackages.duckdb-simple |
 | duckdb.yazi | 25.4.8-unstable-2025-05-29 | Yazi plugin that uses duckdb to preview data files | legacyPackages.x86_64-linux.yaziPlugins.duckdb |
-| ducker | 0.5.5 | Terminal app for managing docker containers, inspired by K9s | legacyPackages.x86_64-linux.ducker |
+| ducker | 0.5.6 | Terminal app for managing docker containers, inspired by K9s | legacyPackages.x86_64-linux.ducker |
 | duckling | 0.2.0.0 | A Haskell library for parsing text into structured data | legacyPackages.x86_64-linux.haskellPackages.duckling |
 | duckling-proxy | 2021-07-23-unstable | Gemini proxy to access the Small Web | legacyPackages.x86_64-linux.duckling-proxy |
 | duckmarines | 1.0c | Duck-themed action puzzle video game | legacyPackages.x86_64-linux.duckmarines |
@@ -14672,8 +14675,8 @@
 | duktape | 2.7.0 | Embeddable Javascript engine, with a focus on portability and compact footprint | legacyPackages.x86_64-linux.duktape |
 | dum | 0.1.20 | Npm scripts runner written in Rust | legacyPackages.x86_64-linux.dum |
 | dumb-cas | 0.2.1.1 | A computer “algebra” system that knows nothing about algebra, at the core | legacyPackages.x86_64-linux.haskellPackages.dumb-cas |
-| dumb-http-signed-tag-source-salted | 9psrfg9frl6v |  | legacyPackages.x86_64-linux.tests.fetchgit.dumb-http-signed-tag |
-| dumb-http-signed-tag-source-salted-zvjram5sm62g |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.dumb-http-signed-tag |
+| dumb-http-signed-tag-source-salted | 8qq2hc8agpha |  | legacyPackages.x86_64-linux.tests.fetchgit.dumb-http-signed-tag |
+| dumb-http-signed-tag-source-salted-zkbcpm2mwn26 |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.dumb-http-signed-tag |
 | dumb-init | 1.2.5 | Minimal init system for Linux containers | legacyPackages.x86_64-linux.dumb-init |
 | dumbpipe | 0.33.0 | Connect A to B - Send Data | legacyPackages.x86_64-linux.dumbpipe |
 | dummyhttp | 1.1.2 | Super simple HTTP server that replies a fixed body with a fixed response code | legacyPackages.x86_64-linux.dummyhttp |
@@ -14797,7 +14800,7 @@
 | dxvk | 2.6.1 | Setup script for DXVK | legacyPackages.x86_64-linux.dxvk |
 | dxvk | 2.6.1 | Vulkan-based translation layer for Direct3D 8/9/10/11 | legacyPackages.x86_64-linux.dxvk_2 |
 | dxx-rebirth | 0.60.0-beta2-unstable-2025-05-24 | Source Port of the Descent 1 and 2 engines | legacyPackages.x86_64-linux.dxx-rebirth |
-| dyalog | 19.0.50027 | Dyalog APL interpreter | legacyPackages.x86_64-linux.dyalog |
+| dyalog | 20.0.52753 | Dyalog APL interpreter | legacyPackages.x86_64-linux.dyalog |
 | dyckword | 0.1.0.4 | A library for working with binary Dyck words | legacyPackages.x86_64-linux.haskellPackages.dyckword |
 | dydisnix | 0-unstable-2020-11-02 | Toolset enabling self-adaptive redeployment on top of Disnix | legacyPackages.x86_64-linux.dydisnix |
 | dyepack | 0.1.0.0 | Programatically identify space leaks in your program | legacyPackages.x86_64-linux.haskellPackages.dyepack |
@@ -15332,7 +15335,7 @@
 | elementary-photos | 8.0.1 | Photo viewer and organizer designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-photos |
 | elementary-print-shim | 0.1.3 | Simple shim for printing support via Contractor | legacyPackages.x86_64-linux.pantheon.elementary-print-shim |
 | elementary-redacted-script | 5.1.0 | Font for concealing text | legacyPackages.x86_64-linux.pantheon.elementary-redacted-script |
-| elementary-screenshot | 8.0.3 | Screenshot tool designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-screenshot |
+| elementary-screenshot | 8.0.0 | Screenshot tool designed for elementary OS | legacyPackages.x86_64-linux.pantheon.elementary-screenshot |
 | elementary-session-settings | 8.1.0 | Session settings for elementary | legacyPackages.x86_64-linux.pantheon.elementary-session-settings |
 | elementary-settings-daemon | 8.4.0 | Settings daemon for Pantheon | legacyPackages.x86_64-linux.pantheon.elementary-settings-daemon |
 | elementary-shortcut-overlay | 8.1.0 | Native OS-wide shortcut overlay to be launched by Gala | legacyPackages.x86_64-linux.pantheon.elementary-shortcut-overlay |
@@ -15411,7 +15414,7 @@
 | elixir-ls | 0.30.0 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"  | legacyPackages.x86_64-linux.beamMinimal27Packages.elixir-ls |
 | elixir-ls | 0.30.0 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"  | legacyPackages.x86_64-linux.beamMinimal28Packages.elixir-ls |
 | elixir-ls | 0.30.0 | A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"  | legacyPackages.x86_64-linux.elixir-ls |
-| eliza | 0-unstable-2025-12-03 | C++ simulation of Joseph Weizenbaum’s 1966 ELIZA | legacyPackages.x86_64-linux.eliza |
+| eliza | 0-unstable-2025-12-13 | C++ simulation of Joseph Weizenbaum’s 1966 ELIZA | legacyPackages.x86_64-linux.eliza |
 | elkhound | 0-unstable-2020-04-13 | Parser generator which emits GLR parsers, either in OCaml or C++ | legacyPackages.x86_64-linux.elkhound |
 | ell | 0.80 | Embedded Linux Library | legacyPackages.x86_64-linux.ell |
 | ellipse | 1.0 | Draw ellipses and elliptical arcs using the standard LaTeX2e picture environment | legacyPackages.x86_64-linux.texlivePackages.ellipse |
@@ -15662,10 +15665,10 @@
 | ena | 2.16.0-6.17.12 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_lqx.ena |
 | ena | 2.16.0-6.17.12 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ena |
 | ena | 2.16.0-6.17.12 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ena |
-| ena | 2.16.0-6.18 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ena |
-| ena | 2.16.0-6.18 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_zen.ena |
 | ena | 2.16.0-6.18.1 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ena |
+| ena | 2.16.0-6.18.1 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ena |
 | ena | 2.16.0-6.18.1 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_latest.ena |
+| ena | 2.16.0-6.18.1 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxPackages_zen.ena |
 | ena | 2.16.0-6.6.119 | Amazon Elastic Network Adapter (ENA) driver for Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ena |
 | enable-gcov-instrumentation-hook |  |  | legacyPackages.x86_64-linux.enableGCOVInstrumentation |
 | enblend-enfuse-unstable | 2022-03-06 | Blends away the seams in a panoramic image mosaic using a multiresolution spline | legacyPackages.x86_64-linux.enblend-enfuse |
@@ -15686,7 +15689,7 @@
 | encoding-io | 0.0.1 | Encoding-aware file I/O | legacyPackages.x86_64-linux.haskellPackages.encoding-io |
 | encpipe | 0.5 | Encryption tool | legacyPackages.x86_64-linux.encpipe |
 | encryptable | 0.1 | Typed encryption with persistent support | legacyPackages.x86_64-linux.haskellPackages.encryptable |
-| encrypted-dns-server | 0.9.17 | Easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server | legacyPackages.x86_64-linux.encrypted-dns-server |
+| encrypted-dns-server | 0.9.18 | Easy to install, high-performance, zero maintenance proxy to run an encrypted DNS server | legacyPackages.x86_64-linux.encrypted-dns-server |
 | enctex | 34957 | A TeX extension that translates input on its way into TeX | legacyPackages.x86_64-linux.texlivePackages.enctex |
 | encxvlna | 1.1 | Insert nonbreakable spaces, using encTeX | legacyPackages.x86_64-linux.texlivePackages.encxvlna |
 | end-of-exe | 0.1.2.0 | A small library to deal with executable endings | legacyPackages.x86_64-linux.haskellPackages.end-of-exe |
@@ -16225,8 +16228,8 @@
 | eventuo11y-prometheus | 0.1.0.0 | Prometheus backend for eventuo11y | legacyPackages.x86_64-linux.haskellPackages.eventuo11y-prometheus |
 | eventviews | 25.12.0 | Library for displaying and creating events and calendars | legacyPackages.x86_64-linux.kdePackages.eventviews |
 | everdo | 1.9.0 | Cross-platform GTD app with focus on privacy | legacyPackages.x86_64-linux.everdo |
-| everest | 5986 | Celeste mod loader (don't install; use celestegame instead) | legacyPackages.x86_64-linux.everest |
-| everest | 5986 | Celeste mod loader (don't install; use celestegame instead) | legacyPackages.x86_64-linux.everest-bin |
+| everest | 6064 | Celeste mod loader (don't install; use celestegame instead) | legacyPackages.x86_64-linux.everest |
+| everest | 6064 | Celeste mod loader (don't install; use celestegame instead) | legacyPackages.x86_64-linux.everest-bin |
 | everest-mons | 2.0.0 | Commandline Everest installer and mod manager for Celeste | legacyPackages.x86_64-linux.everest-mons |
 | everforest-cursors | 3212590527 | Everforest cursor theme, based on phinger-cursors | legacyPackages.x86_64-linux.everforest-cursors |
 | everforest-gtk-theme | 0-unstable-2025-10-15 | Everforest colour palette for GTK | legacyPackages.x86_64-linux.everforest-gtk-theme |
@@ -16281,7 +16284,7 @@
 | exact-pi | 0.5.0.2 | Exact rational multiples of pi (and integer powers of pi) | legacyPackages.x86_64-linux.haskellPackages.exact-pi |
 | exact-real | 0.12.5.1 | Exact real arithmetic | legacyPackages.x86_64-linux.haskellPackages.exact-real |
 | exact-real-positional | 0.0.0 | Framework for Exact Real Arithmetic in the Positional Number System | legacyPackages.x86_64-linux.haskellPackages.exact-real-positional |
-| exaile | 4.2.0 | Music player with a simple interface and powerful music management capabilities | legacyPackages.x86_64-linux.exaile |
+| exaile | 4.2.1 | Music player with a simple interface and powerful music management capabilities | legacyPackages.x86_64-linux.exaile |
 | exam | 2.704 | Package for typesetting exam scripts | legacyPackages.x86_64-linux.texlivePackages.exam |
 | exam-lite | 65754 | Quicker preparation of exams in LaTeX | legacyPackages.x86_64-linux.texlivePackages.exam-lite |
 | exam-n | 1.4.0 | Exam class, focused on collaborative authoring | legacyPackages.x86_64-linux.texlivePackages.exam-n |
@@ -16335,7 +16338,7 @@
 | exercism | 3.5.8 | Go based command line tool for exercism.io | legacyPackages.x86_64-linux.exercism |
 | exesheet | 2.9 | Typesetting exercise or exam sheets | legacyPackages.x86_64-linux.texlivePackages.exesheet |
 | exfat | 1.4.0 | Free exFAT file system implementation | legacyPackages.x86_64-linux.exfat |
-| exfatprogs | 1.3.0 | exFAT filesystem userspace utilities | legacyPackages.x86_64-linux.exfatprogs |
+| exfatprogs | 1.3.1 | exFAT filesystem userspace utilities | legacyPackages.x86_64-linux.exfatprogs |
 | exference | 1.6.0.0 | Tool to search/generate (haskell) expressions with a given type | legacyPackages.x86_64-linux.haskellPackages.exference |
 | exframe | 3.5 | Framework for exercise problems | legacyPackages.x86_64-linux.texlivePackages.exframe |
 | exh | 1.0.2 | A library for crawling exhentai | legacyPackages.x86_64-linux.haskellPackages.exh |
@@ -16526,7 +16529,7 @@
 | faba-mono-icons | 2016-04-30 | Full set of Faba monochrome panel icons | legacyPackages.x86_64-linux.faba-mono-icons |
 | fable | 4.26.0 | F# to JavaScript compiler | legacyPackages.x86_64-linux.fable |
 | fabric | 3.2.2 | Pythonic remote execution | legacyPackages.x86_64-linux.Fabric |
-| fabric-ai | 1.4.340 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere | legacyPackages.x86_64-linux.fabric-ai |
+| fabric-ai | 1.4.345 | Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere | legacyPackages.x86_64-linux.fabric-ai |
 | fabric-installer | 1.1.0 | Lightweight, experimental modding toolchain for Minecraft | legacyPackages.x86_64-linux.fabric-installer |
 | fabs | 1.1 | Flexible AFS Backup System for the OpenAFS distributed file system | legacyPackages.x86_64-linux.fabs |
 | fac | 2.0.0-unstable-2023-12-29 | CUI for fixing git conflicts | legacyPackages.x86_64-linux.fac |
@@ -16549,10 +16552,10 @@
 | facetimehd | 0.6.13-6.17.12 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_lqx.facetimehd |
 | facetimehd | 0.6.13-6.17.12 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.facetimehd |
 | facetimehd | 0.6.13-6.17.12 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.facetimehd |
-| facetimehd | 0.6.13-6.18 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd |
-| facetimehd | 0.6.13-6.18 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd |
 | facetimehd | 0.6.13-6.18.1 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.facetimehd |
+| facetimehd | 0.6.13-6.18.1 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd |
 | facetimehd | 0.6.13-6.18.1 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_latest.facetimehd |
+| facetimehd | 0.6.13-6.18.1 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd |
 | facetimehd | 0.6.13-6.6.119 | Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.facetimehd |
 | facetimehd-calibration | 5.1.5769 | facetimehd calibration | legacyPackages.x86_64-linux.facetimehd-calibration |
 | facetimehd-firmware | 1.43_5 | facetimehd firmware | legacyPackages.x86_64-linux.facetimehd-firmware |
@@ -16703,10 +16706,10 @@
 | fanout-unstable | 2022-10-17-6.17.12 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_lqx.fanout |
 | fanout-unstable | 2022-10-17-6.17.12 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.fanout |
 | fanout-unstable | 2022-10-17-6.17.12 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.fanout |
-| fanout-unstable | 2022-10-17-6.18 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fanout |
-| fanout-unstable | 2022-10-17-6.18 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_zen.fanout |
 | fanout-unstable | 2022-10-17-6.18.1 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.fanout |
+| fanout-unstable | 2022-10-17-6.18.1 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fanout |
 | fanout-unstable | 2022-10-17-6.18.1 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_latest.fanout |
+| fanout-unstable | 2022-10-17-6.18.1 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxPackages_zen.fanout |
 | fanout-unstable | 2022-10-17-6.6.119 | Kernel-based publish-subscribe system | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.fanout |
 | fantasque-sans-mono | 1.8.0 | Font family with a great monospaced variant for programmers | legacyPackages.x86_64-linux.fantasque-sans-mono |
 | fantomas | 7.0.3 | F# source code formatter | legacyPackages.x86_64-linux.fantomas |
@@ -17022,7 +17025,7 @@
 | fermyon-spin | 3.5.0 | Framework for building, deploying, and running fast, secure, and composable cloud microservices with WebAssembly | legacyPackages.x86_64-linux.fermyon-spin |
 | fernet | 0.1.0.0 | Generate and verify HMAC-based authentication tokens | legacyPackages.x86_64-linux.haskellPackages.fernet |
 | fernglas | 0.2.1 | Looking glass for your network using BGP and BMP as data source | legacyPackages.x86_64-linux.fernglas |
-| feroxbuster | 2.13.0 | Recursive content discovery tool | legacyPackages.x86_64-linux.feroxbuster |
+| feroxbuster | 2.13.1 | Recursive content discovery tool | legacyPackages.x86_64-linux.feroxbuster |
 | ferretdb | 1.24.0 | Truly Open Source MongoDB alternative | legacyPackages.x86_64-linux.ferretdb |
 | ferrishot | 0.2.0 | Screenshot app written in Rust | legacyPackages.x86_64-linux.ferrishot |
 | ferron | 2.2.1 | Fast, memory-safe web server written in Rust | legacyPackages.x86_64-linux.ferron |
@@ -17033,11 +17036,11 @@
 | fet-sh | 1.9 | Fetch written in posix shell without any external commands | legacyPackages.x86_64-linux.fet-sh |
 | fetamont | 43812 | Extended version of Knuth's logo typeface | legacyPackages.x86_64-linux.texlivePackages.fetamont |
 | fetch-scm | 0.1.6 | System information fetcher written in GNU Guile Scheme | legacyPackages.x86_64-linux.fetch-scm |
-| fetchFromGitHub-fetch-tags-test-salted-i8hkcd29w1rs |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.fetchTags |
-| fetchFromGitHub-with-rootdir-salted | 9fck1zchnsbv |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.rootDir |
+| fetchFromGitHub-fetch-tags-test-salted | 7228ndsmwz9w |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.fetchTags |
+| fetchFromGitHub-with-rootdir-salted-p0lqr4gmss80 |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.rootDir |
 | fetchcls | 1.0 | Fetch the current class name | legacyPackages.x86_64-linux.texlivePackages.fetchcls |
-| fetchgit-fetch-tags-test-salted-ww897xn7n0q5 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.fetchTags |
-| fetchgit-with-rootdir-salted | 8q71sm6m3p87 |  | legacyPackages.x86_64-linux.tests.fetchgit.rootDir |
+| fetchgit-fetch-tags-test-salted-jawk4wixmb0c |  |  | legacyPackages.x86_64-linux.tests.fetchgit.fetchTags |
+| fetchgit-with-rootdir-salted-r3xwx795vvyj |  |  | legacyPackages.x86_64-linux.tests.fetchgit.rootDir |
 | fetchit | 0.0.1 | Tool to manage the life cycle and configuration of Podman containers | legacyPackages.x86_64-linux.fetchit |
 | fetchmail | 6.6.2 | Full-featured remote-mail retrieval and forwarding utility | legacyPackages.x86_64-linux.fetchmail |
 | fetchmail | 7.0.0-alpha11 | Full-featured remote-mail retrieval and forwarding utility | legacyPackages.x86_64-linux.fetchmail_7 |
@@ -17360,7 +17363,7 @@
 | fishplugin-bobthefisher | 0-unstable-2023-10-25 | Powerline-style, Git-aware fish theme optimized for awesome (fork of bobthefish) | legacyPackages.x86_64-linux.fishPlugins.bobthefisher |
 | fishplugin-clownfish | 0-unstable-2021-01-17 | Fish function to mock the behaviour of commands | legacyPackages.x86_64-linux.fishPlugins.clownfish |
 | fishplugin-colored-man-pages | 0-unstable-2022-04-30 | Fish shell plugin to colorize man pages | legacyPackages.x86_64-linux.fishPlugins.colored-man-pages |
-| fishplugin-done | 1.20.1 | Automatically receive notifications when long processes finish | legacyPackages.x86_64-linux.fishPlugins.done |
+| fishplugin-done | 1.21.1 | Automatically receive notifications when long processes finish | legacyPackages.x86_64-linux.fishPlugins.done |
 | fishplugin-exercism-cli-fish-wrapper | 0-unstable-2025-09-28 | Fish wrapper for the Exercism CLI | legacyPackages.x86_64-linux.fishPlugins.exercism-cli-fish-wrapper |
 | fishplugin-fifc | 0.1.1 | Fzf powers on top of fish completion engine and allows customizable completion rules | legacyPackages.x86_64-linux.fishPlugins.fifc |
 | fishplugin-fish-bd | 1.3.3 | Fish plugin to quickly go back to a parent directory up in your current working directory tree | legacyPackages.x86_64-linux.fishPlugins.fish-bd |
@@ -17754,7 +17757,7 @@
 | foldable-ix | 0.3.0.0 | Functions to find out the indices of the elements in the Foldable structures | legacyPackages.x86_64-linux.haskellPackages.foldable-ix |
 | foldable1 | 0.1.0.0 | Foldable types with at least 1 element | legacyPackages.x86_64-linux.haskellPackages.foldable1 |
 | foldable1-classes-compat | 0.1.2 | Compatibility package for the Foldable1 and Bifoldable1 type classes | legacyPackages.x86_64-linux.haskellPackages.foldable1-classes-compat |
-| folder-color-switcher | 1.6.9 | Change folder colors for Nemo and Caja | legacyPackages.x86_64-linux.folder-color-switcher |
+| folder-color-switcher | 1.7.0 | Change folder colors for Nemo and Caja | legacyPackages.x86_64-linux.folder-color-switcher |
 | foldl | 1.4.18 | Composable, streaming, and efficient left folds | legacyPackages.x86_64-linux.haskellPackages.foldl |
 | foldl-exceptions | 1.0.0.2 | Exception handling with FoldM | legacyPackages.x86_64-linux.haskellPackages.foldl-exceptions |
 | foldl-incremental | 0.2.0.0 | incremental folds | legacyPackages.x86_64-linux.haskellPackages.foldl-incremental |
@@ -18007,7 +18010,7 @@
 | foundation | 0.0.30 | Alternative prelude with batteries and no dependencies | legacyPackages.x86_64-linux.haskellPackages.foundation |
 | foundation-edge | 0.0.3 | foundation's edge with the conventional set of packages | legacyPackages.x86_64-linux.haskellPackages.foundation-edge |
 | foundationdb | 7.3.42 | Open source, distributed, transactional key-value store | legacyPackages.x86_64-linux.foundationdb |
-| foundry | 1.4.4 | Portable, modular toolkit for Ethereum application development written in Rust | legacyPackages.x86_64-linux.foundry |
+| foundry | 1.5.0 | Portable, modular toolkit for Ethereum application development written in Rust | legacyPackages.x86_64-linux.foundry |
 | fountain | 0.1 | A fountain codec | legacyPackages.x86_64-linux.haskellPackages.fountain |
 | four-in-a-row | 3.38.1 | Make lines of the same color to win | legacyPackages.x86_64-linux.four-in-a-row |
 | fouridx | 2.00 | Left sub- and superscripts in maths mode | legacyPackages.x86_64-linux.texlivePackages.fouridx |
@@ -18515,10 +18518,10 @@
 | fwts-efi-runtime | 25.09.00-6.17.12 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_lqx.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.12 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.17.12 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.fwts-efi-runtime |
-| fwts-efi-runtime | 25.09.00-6.18 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fwts-efi-runtime |
-| fwts-efi-runtime | 25.09.00-6.18 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.18.1 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.fwts-efi-runtime |
+| fwts-efi-runtime | 25.09.00-6.18.1 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.18.1 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_latest.fwts-efi-runtime |
+| fwts-efi-runtime | 25.09.00-6.18.1 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxPackages_zen.fwts-efi-runtime |
 | fwts-efi-runtime | 25.09.00-6.6.119 | Firmware Test Suite(efi-runtime kernel module) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.fwts-efi-runtime |
 | fwup | 1.13.2 | Configurable embedded Linux firmware update creator and runner | legacyPackages.x86_64-linux.fwup |
 | fwupd | 2.0.18 |  | legacyPackages.x86_64-linux.fwupd |
@@ -18813,8 +18816,8 @@
 | gcc-wrapper | 15.1.0 | System C compiler (wrapper script) | legacyPackages.x86_64-linux.gccNGPackages_15.gccWithLibssp |
 | gcc-wrapper | 15.2.0 | GNU Compiler Collection, version 15.2.0 (wrapper script) | legacyPackages.x86_64-linux.gcc15 |
 | gcc-wrapper | 15.2.0 | GNU Compiler Collection, version 15.2.0 (wrapper script) | legacyPackages.x86_64-linux.gcc_latest |
-| gcc.patch-salted | 1pyk71222p21 |  | legacyPackages.x86_64-linux.tests.fetchpatch.decode |
-| gcc.patch-salted | 9s19wx2zwg18 |  | legacyPackages.x86_64-linux.tests.fetchpatch2.decode |
+| gcc.patch-salted-ycryzlj461kw |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.decode |
+| gcc.patch-salted-yhh34k107ac4 |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.decode |
 | gccgo-wrapper | 13.4.0 | System C compiler (wrapper script) | legacyPackages.x86_64-linux.gccgo13 |
 | gccgo-wrapper | 14.3.0 | System C compiler (wrapper script) | legacyPackages.x86_64-linux.gccgo |
 | gccgo-wrapper | 14.3.0 | System C compiler (wrapper script) | legacyPackages.x86_64-linux.gccgo14 |
@@ -18845,10 +18848,10 @@
 | gcstar | 1.8.0 | Manage your collections of movies, games, books, music and more | legacyPackages.x86_64-linux.gcstar |
 | gd | 2.3.3 | Dynamic image creation library | legacyPackages.x86_64-linux.gd |
 | gd | 3000.7.3 | A Haskell binding to a subset of the GD graphics library | legacyPackages.x86_64-linux.haskellPackages.gd |
-| gdal | 3.11.4 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.gdal |
-| gdal | 3.11.4 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.python312Packages.gdal |
-| gdal | 3.11.4 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.python313Packages.gdal |
-| gdal-minimal | 3.11.4 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.gdalMinimal |
+| gdal | 3.12.0 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.gdal |
+| gdal | 3.12.0 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.python312Packages.gdal |
+| gdal | 3.12.0 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.python313Packages.gdal |
+| gdal-minimal | 3.12.0 | Translator library for raster geospatial data formats | legacyPackages.x86_64-linux.gdalMinimal |
 | gdax | 0.6.0.0 | API Wrapping for Coinbase's GDAX exchange | legacyPackages.x86_64-linux.haskellPackages.gdax |
 | gdb | 16.3 | GNU Project debugger | legacyPackages.x86_64-linux.gdb |
 | gdb-dashboard |  | Modular visual interface for GDB in Python | legacyPackages.x86_64-linux.gdb-dashboard |
@@ -19687,7 +19690,7 @@
 | git-credential-aol | 5.5.2 | Git credential helper for AOL accounts | legacyPackages.x86_64-linux.git-credential-aol |
 | git-credential-email | 5.5.2 | Git credential helpers for Microsoft Outlook, Gmail, Yahoo, AOL and Proton Mail accounts | legacyPackages.x86_64-linux.git-credential-email |
 | git-credential-gmail | 5.5.2 | Git credential helper for Gmail accounts | legacyPackages.x86_64-linux.git-credential-gmail |
-| git-credential-gopass | 1.16.0 | Manage git credentials using gopass | legacyPackages.x86_64-linux.git-credential-gopass |
+| git-credential-gopass | 1.16.1 | Manage git credentials using gopass | legacyPackages.x86_64-linux.git-credential-gopass |
 | git-credential-keepassxc | 0.14.1 | Helper that allows Git (and shell scripts) to use KeePassXC as credential store | legacyPackages.x86_64-linux.git-credential-keepassxc |
 | git-credential-manager | 2.6.1 | Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services | legacyPackages.x86_64-linux.git-credential-manager |
 | git-credential-oauth | 0.16.0 | Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth | legacyPackages.x86_64-linux.git-credential-oauth |
@@ -19938,7 +19941,7 @@
 | gitty | 0.7.0 | Contextual information about your git projects, right on the command-line | legacyPackages.x86_64-linux.gitty |
 | gittyup | 1.4.0 | Graphical Git client designed to help you understand and manage your source code history | legacyPackages.x86_64-linux.gittyup |
 | gitu | 0.38.0 | TUI Git client inspired by Magit | legacyPackages.x86_64-linux.gitu |
-| gitui | 0.27.0 | Blazing fast terminal-ui for Git written in Rust | legacyPackages.x86_64-linux.gitui |
+| gitui | 0.28.0 | Blazing fast terminal-ui for Git written in Rust | legacyPackages.x86_64-linux.gitui |
 | gitui.yazi | 0-unstable-2025-05-26 | Plugin for Yazi to manage git repos with gitui | legacyPackages.x86_64-linux.yaziPlugins.gitui |
 | gitup | 0.5.2 | Easily update multiple Git repositories at once | legacyPackages.x86_64-linux.git-repo-updater |
 | gitver | 1.4 | Get the current git hash of a project and typeset it in the document | legacyPackages.x86_64-linux.texlivePackages.gitver |
@@ -20315,12 +20318,12 @@
 | gnome-multi-writer | 3.35.90 | Tool for writing an ISO file to multiple USB devices at once | legacyPackages.x86_64-linux.gnome-multi-writer |
 | gnome-music | 49.1 | Music player and management application for the GNOME desktop environment | legacyPackages.x86_64-linux.gnome-music |
 | gnome-nettool | 42.0 | Collection of networking tools | legacyPackages.x86_64-linux.gnome-nettool |
-| gnome-network-displays | 0.97.0 | Miracast implementation for GNOME | legacyPackages.x86_64-linux.gnome-network-displays |
+| gnome-network-displays | 0.98.0 | Miracast implementation for GNOME | legacyPackages.x86_64-linux.gnome-network-displays |
 | gnome-nibbles | 4.4.2 | Guide a worm around a maze | legacyPackages.x86_64-linux.gnome-nibbles |
 | gnome-notes | 40.2 | Note editor designed to remain simple to use | legacyPackages.x86_64-linux.gnome-notes |
 | gnome-obfuscate | 0.0.10 | Censor private information | legacyPackages.x86_64-linux.gnome-obfuscate |
 | gnome-online-accounts | 3.56.2 | Single sign-on framework for GNOME | legacyPackages.x86_64-linux.gnome-online-accounts |
-| gnome-online-accounts-gtk | 3.50.8 | Online accounts configuration utility | legacyPackages.x86_64-linux.gnome-online-accounts-gtk |
+| gnome-online-accounts-gtk | 3.50.9 | Online accounts configuration utility | legacyPackages.x86_64-linux.gnome-online-accounts-gtk |
 | gnome-packagekit | 43.0 | Tools for installing software on the GNOME desktop using PackageKit | legacyPackages.x86_64-linux.gnome-packagekit |
 | gnome-panel | 3.58.1 | Component of Gnome Flashback that provides panels and default applets for the desktop | legacyPackages.x86_64-linux.gnome-panel |
 | gnome-panel-with-modules | 3.58.1 | Component of Gnome Flashback that provides panels and default applets for the desktop | legacyPackages.x86_64-linux.gnome-panel-with-modules |
@@ -21390,7 +21393,7 @@
 | go-httpbin | 2.19.0 | Reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib | legacyPackages.x86_64-linux.go-httpbin |
 | go-i18n | 2.6.0 | Translate your Go program into multiple languages | legacyPackages.x86_64-linux.go-i18n |
 | go-import-lint | 1.2.0 | Golang source code analyzer that checks imports order | legacyPackages.x86_64-linux.go-import-lint |
-| go-ios | 1.0.182 | Operating system independent implementation of iOS device features | legacyPackages.x86_64-linux.go-ios |
+| go-ios | 1.0.189 | Operating system independent implementation of iOS device features | legacyPackages.x86_64-linux.go-ios |
 | go-jet | 2.14.0 | Type safe SQL builder with code generation and automatic query result data mapping | legacyPackages.x86_64-linux.go-jet |
 | go-jira | 1.0.28 | Simple command line client for Atlassian's Jira service written in Go | legacyPackages.x86_64-linux.go-jira |
 | go-jsonnet | 0.21.0 | Implementation of Jsonnet in pure Go | legacyPackages.x86_64-linux.go-jsonnet |
@@ -21805,7 +21808,7 @@
 | gooey | 0.1.0.0 | Graphical user interfaces that are renderable, change over time and eventually produce a value | legacyPackages.x86_64-linux.haskellPackages.gooey |
 | goofcord | 1.7.1 | Highly configurable and privacy-focused Discord client | legacyPackages.x86_64-linux.goofcord |
 | goofys-unstable | 2022-04-21 | High-performance, POSIX-ish Amazon S3 file system written in Go | legacyPackages.x86_64-linux.goofys |
-| google-alloydb-auth-proxy | 1.13.8 | Utility for connecting securely to your AlloyDB instances | legacyPackages.x86_64-linux.google-alloydb-auth-proxy |
+| google-alloydb-auth-proxy | 1.13.9 | Utility for connecting securely to your AlloyDB instances | legacyPackages.x86_64-linux.google-alloydb-auth-proxy |
 | google-app-engine-go-sdk | 1.9.61 | Google App Engine SDK for Go | legacyPackages.x86_64-linux.google-app-engine-go-sdk |
 | google-authenticator-libpam | 1.11 | Two-step verification, with pam module | legacyPackages.x86_64-linux.google-authenticator |
 | google-chat-linux | 5.29.23-1 | Electron-base client for Google Hangouts Chat | legacyPackages.x86_64-linux.google-chat-linux |
@@ -21878,10 +21881,10 @@
 | goose-cli | 1.13.1 | Open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM | legacyPackages.x86_64-linux.goose-cli |
 | goose-lang | 0.9.2 | Goose converts a small subset of Go to Coq | legacyPackages.x86_64-linux.goose-lang |
 | gopacked | 0.4.1 | Simple text-based Minecraft modpack manager | legacyPackages.x86_64-linux.gopacked |
-| gopass | 1.16.0 | Slightly more awesome Standard Unix Password Manager for Teams. Written in Go | legacyPackages.x86_64-linux.gopass |
-| gopass-hibp | 1.16.0 | Gopass haveibeenpwnd.com integration | legacyPackages.x86_64-linux.gopass-hibp |
-| gopass-jsonapi | 1.16.0 | Enables communication with gopass via JSON messages | legacyPackages.x86_64-linux.gopass-jsonapi |
-| gopass-summon-provider | 1.16.0 | Gopass Summon Provider | legacyPackages.x86_64-linux.gopass-summon-provider |
+| gopass | 1.16.1 | Slightly more awesome Standard Unix Password Manager for Teams. Written in Go | legacyPackages.x86_64-linux.gopass |
+| gopass-hibp | 1.16.1 | Gopass haveibeenpwnd.com integration | legacyPackages.x86_64-linux.gopass-hibp |
+| gopass-jsonapi | 1.16.1 | Enables communication with gopass via JSON messages | legacyPackages.x86_64-linux.gopass-jsonapi |
+| gopass-summon-provider | 1.16.1 | Gopass Summon Provider | legacyPackages.x86_64-linux.gopass-summon-provider |
 | gopatch | 0.4.0 | Refactoring and code transformation tool for Go | legacyPackages.x86_64-linux.gopatch |
 | gopeed | 1.8.2 | Modern download manager | legacyPackages.x86_64-linux.gopeed |
 | goperf | 0-unstable-2025-09-09 | Tools and packages for analyzing Go benchmark results | legacyPackages.x86_64-linux.goperf |
@@ -21954,7 +21957,7 @@
 | gotify-cli | 2.3.2 | Command line interface for pushing messages to gotify/server | legacyPackages.x86_64-linux.gotify-cli |
 | gotify-desktop | 1.4.2 | Small Gotify daemon to send messages as desktop notifications | legacyPackages.x86_64-linux.gotify-desktop |
 | gotify-server | 2.7.3 | Simple server for sending and receiving messages in real-time per WebSocket | legacyPackages.x86_64-linux.gotify-server |
-| gotip | 0.5.0 | Go test interactive picker | legacyPackages.x86_64-linux.gotip |
+| gotip | 0.6.2 | Go test interactive picker | legacyPackages.x86_64-linux.gotip |
 | gotlsaflare | 2.8.1 | Update TLSA DANE records on cloudflare from x509 certificates | legacyPackages.x86_64-linux.gotlsaflare |
 | goto | 2.1.0-unstable-2020-11-15 | Alias and navigate to directories with tab completion | legacyPackages.x86_64-linux.goto |
 | gotoh | 1.1 | An implementation of the Gotoh sequence alignment algorithm | legacyPackages.x86_64-linux.texlivePackages.gotoh |
@@ -22141,9 +22144,9 @@
 | grafana-googlesheets-datasource | 1.2.14 | Integrate JSON data into Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-googlesheets-datasource |
 | grafana-image-renderer | 5.0.11 | Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome) | legacyPackages.x86_64-linux.grafana-image-renderer |
 | grafana-kiosk | 1.0.10 | Kiosk Utility for Grafana | legacyPackages.x86_64-linux.grafana-kiosk |
-| grafana-loki | 3.6.2 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.grafana-loki |
+| grafana-loki | 3.6.3 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.grafana-loki |
 | grafana-lokiexplore-app | 1.0.31 | Browse Loki logs without the need for writing complex queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-lokiexplore-app |
-| grafana-metricsdrilldown-app | 1.0.24 | Queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-metricsdrilldown-app |
+| grafana-metricsdrilldown-app | 1.0.25 | Queryless experience for browsing Prometheus-compatible metrics. Quickly find related metrics without writing PromQL queries | legacyPackages.x86_64-linux.grafanaPlugins.grafana-metricsdrilldown-app |
 | grafana-mqtt-datasource | 1.1.0-beta.3 | Visualize streaming MQTT data from within Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-mqtt-datasource |
 | grafana-oncall-app | 1.16.7 | Developer-friendly incident response for Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-oncall-app |
 | grafana-opensearch-datasource | 2.24.0 | Empowers you to seamlessly integrate JSON data into Grafana | legacyPackages.x86_64-linux.grafanaPlugins.grafana-opensearch-datasource |
@@ -22946,7 +22949,7 @@
 | hahp | 0.1.3 | Analytic Hierarchy Process | legacyPackages.x86_64-linux.haskellPackages.hahp |
 | haiji | 0.4.0.0 | A typed template engine, subset of jinja2 | legacyPackages.x86_64-linux.haskellPackages.haiji |
 | hail | 0.2.0.0 | A service for pull-based continuous deployment based on hydra | legacyPackages.x86_64-linux.haskellPackages.hail |
-| hail | 0.2.2 | Minimal speedrun timer | legacyPackages.x86_64-linux.hail |
+| hail | 0.3.0 | Minimal speedrun timer | legacyPackages.x86_64-linux.hail |
 | hailgun | 0.5.1 | Mailgun REST api interface for Haskell | legacyPackages.x86_64-linux.haskellPackages.hailgun |
 | hailgun-send | 0.1.1.1 | A program to send emails throught the Mailgun api | legacyPackages.x86_64-linux.haskellPackages.hailgun-send |
 | hailgun-simple | 0.1.0.0 | Easy-to-use wrapper for the hailgun package | legacyPackages.x86_64-linux.haskellPackages.hailgun-simple |
@@ -23046,7 +23049,7 @@
 | handa-geodata | 0.2.0.1 | Geographic and Geometric Data | legacyPackages.x86_64-linux.haskellPackages.handa-geodata |
 | handa-opengl | 0.1.13.1 | Utility functions for OpenGL and GLUT | legacyPackages.x86_64-linux.haskellPackages.handa-opengl |
 | handbrake | 1.10.2 | Tool for converting video files and ripping DVDs | legacyPackages.x86_64-linux.handbrake |
-| handheld-daemon | 4.1.1 | Linux support for handheld gaming devices like the Legion Go, ROG Ally, and GPD Win | legacyPackages.x86_64-linux.handheld-daemon |
+| handheld-daemon | 4.1.5 | Linux support for handheld gaming devices like the Legion Go, ROG Ally, and GPD Win | legacyPackages.x86_64-linux.handheld-daemon |
 | handheld-daemon-ui | 3.4.0 | UI for the Handheld Daemon | legacyPackages.x86_64-linux.handheld-daemon-ui |
 | handin | 0.1.1 | Light weight template for creating school submissions using LaTeX | legacyPackages.x86_64-linux.texlivePackages.handin |
 | handle-like | 0.1.0.3 | HandleLike class | legacyPackages.x86_64-linux.haskellPackages.handle-like |
@@ -23814,7 +23817,7 @@
 | helmfile | 1.1.9 | Declarative spec for deploying Helm charts | legacyPackages.x86_64-linux.helmfile-wrapped |
 | helmholtz |  | Time domain pitch tracker for Pure Data | legacyPackages.x86_64-linux.helmholtz |
 | helmholtz-ellis-ji-notation | 1.1 | Beautiful in-line microtonal just intonation accidentals | legacyPackages.x86_64-linux.texlivePackages.helmholtz-ellis-ji-notation |
-| helmsman | 4.0.1 | Helm Charts (k8s applications) as Code tool | legacyPackages.x86_64-linux.helmsman |
+| helmsman | 4.0.2 | Helm Charts (k8s applications) as Code tool | legacyPackages.x86_64-linux.helmsman |
 | help-esb | 0.1.6 | A Haskell client for the Help.com team's ESB. | legacyPackages.x86_64-linux.haskellPackages.help-esb |
 | help2man | 1.49.3 | Generate man pages from `--help' output | legacyPackages.x86_64-linux.help2man |
 | helvetic | 61719 | URW 'Base 35' font pack for LaTeX | legacyPackages.x86_64-linux.texlivePackages.helvetic |
@@ -24488,7 +24491,7 @@
 | home-assistant-chip-wheels | 2025.7.0 | Python wheels for APIs and tools related to CHIP | legacyPackages.x86_64-linux.python312Packages.home-assistant-chip-wheels |
 | home-assistant-chip-wheels | 2025.7.0 | Python wheels for APIs and tools related to CHIP | legacyPackages.x86_64-linux.python313Packages.home-assistant-chip-wheels |
 | home-assistant-client | 0.1.0.0 | Client library for the Home Assistant API | legacyPackages.x86_64-linux.haskellPackages.home-assistant-client |
-| home-manager | 0-unstable-2025-12-05 | Nix-based user environment configurator | legacyPackages.x86_64-linux.home-manager |
+| home-manager | 0-unstable-2025-12-13 | Nix-based user environment configurator | legacyPackages.x86_64-linux.home-manager |
 | homeassistant | 2025.12.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant |
 | homeassistant-cli | 0.9.6 | Command-line tool for Home Assistant | legacyPackages.x86_64-linux.home-assistant-cli |
 | homeassistant-test-abode | 2025.12.3 | Open source home automation that puts local control and privacy first | legacyPackages.x86_64-linux.home-assistant-component-tests.abode |
@@ -25516,7 +25519,7 @@
 | homebridge | 1.11.1 | Lightweight emulator of iOS HomeKit API | legacyPackages.x86_64-linux.homebridge |
 | homebridge-config-ui-x | 5.8.0 | Configure Homebridge, monitor and backup from a browser | legacyPackages.x86_64-linux.homebridge-config-ui-x |
 | homeomorphic | 0.1 | Homeomorphic Embedding Test | legacyPackages.x86_64-linux.haskellPackages.homeomorphic |
-| homepage-dashboard | 1.7.0 | Highly customisable dashboard with Docker and service API integrations | legacyPackages.x86_64-linux.homepage-dashboard |
+| homepage-dashboard | 1.8.0 | Highly customisable dashboard with Docker and service API integrations | legacyPackages.x86_64-linux.homepage-dashboard |
 | homer | 25.11.1 | Very simple static homepage for your server | legacyPackages.x86_64-linux.homer |
 | homesick | 1.1.6 | Your home directory is your castle. Don't leave your dotfiles behind | legacyPackages.x86_64-linux.homesick |
 | homework | 72441 | A LaTeX class for writing your homework | legacyPackages.x86_64-linux.texlivePackages.homework |
@@ -26258,7 +26261,7 @@
 | httpstat | 1.3.2 | Curl statistics made simple | legacyPackages.x86_64-linux.httpstat |
 | httptap | 0.1.1 | View HTTP/HTTPS requests made by any Linux program | legacyPackages.x86_64-linux.httptap |
 | httptoolkit | 1.22.1 | HTTP(S) debugging, development & testing tool | legacyPackages.x86_64-linux.httptoolkit |
-| httptoolkit-server | 1.23.0 | Backend for HTTP Toolkit | legacyPackages.x86_64-linux.httptoolkit-server |
+| httptoolkit-server | 1.24.0 | Backend for HTTP Toolkit | legacyPackages.x86_64-linux.httptoolkit-server |
 | httptunnel | 3.3-unstable-2023-05-08 | Creates a bidirectional virtual data connection tunnelled in HTTP requests | legacyPackages.x86_64-linux.httptunnel |
 | httpunit | 1.7 |  | legacyPackages.x86_64-linux.httpunit |
 | httpx | 1.7.3 | Fast and multi-purpose HTTP toolkit | legacyPackages.x86_64-linux.httpx |
@@ -26690,10 +26693,10 @@
 | hyperv-daemons | 6.17.12 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_lqx.hyperv-daemons |
 | hyperv-daemons | 6.17.12 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.hyperv-daemons |
 | hyperv-daemons | 6.17.12 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.hyperv-daemons |
-| hyperv-daemons | 6.18 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hyperv-daemons |
-| hyperv-daemons | 6.18 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_zen.hyperv-daemons |
 | hyperv-daemons | 6.18.1 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.hyperv-daemons |
+| hyperv-daemons | 6.18.1 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.hyperv-daemons |
 | hyperv-daemons | 6.18.1 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_latest.hyperv-daemons |
+| hyperv-daemons | 6.18.1 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxPackages_zen.hyperv-daemons |
 | hyperv-daemons | 6.6.119 | Integration Services for running NixOS under HyperV | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.hyperv-daemons |
 | hyperxmp | 5.13 | Embed XMP metadata within a LaTeX document | legacyPackages.x86_64-linux.texlivePackages.hyperxmp |
 | hyph-utf8 | 74823 | Hyphenation patterns expressed in UTF-8 | legacyPackages.x86_64-linux.texlivePackages.hyph-utf8 |
@@ -26778,7 +26781,7 @@
 | hyphenex | 57387 | US English hyphenation exceptions file | legacyPackages.x86_64-linux.texlivePackages.hyphenex |
 | hypher | 0.1.5 | A Haskell neo4j client | legacyPackages.x86_64-linux.haskellPackages.hypher |
 | hyplain | 1.0 | Basic support for multiple languages in Plain TeX | legacyPackages.x86_64-linux.texlivePackages.hyplain |
-| hypnotix | 5.4 | IPTV streaming application | legacyPackages.x86_64-linux.hypnotix |
+| hypnotix | 5.5 | IPTV streaming application | legacyPackages.x86_64-linux.hypnotix |
 | hypopg | 1.4.2 | Hypothetical Indexes for PostgreSQL | legacyPackages.x86_64-linux.postgresql14Packages.hypopg |
 | hypopg | 1.4.2 | Hypothetical Indexes for PostgreSQL | legacyPackages.x86_64-linux.postgresql15Packages.hypopg |
 | hypopg | 1.4.2 | Hypothetical Indexes for PostgreSQL | legacyPackages.x86_64-linux.postgresql16Packages.hypopg |
@@ -26995,7 +26998,7 @@
 | icon-library | 0.0.19 | Symbolic icons for your apps | legacyPackages.x86_64-linux.icon-library |
 | icon-naming-utils | 0.8.90 |  | legacyPackages.x86_64-linux.iconnamingutils |
 | icon-slicer | 0.3 | Utility for generating icon themes and libXcursor cursor themes | legacyPackages.x86_64-linux.icon-slicer |
-| iconic | 2025.3.2 | Easilly add images on top of folders | legacyPackages.x86_64-linux.iconic |
+| iconic | 2025.9.1 | Easilly add images on top of folders | legacyPackages.x86_64-linux.iconic |
 | iconpack-jade | 1.25 | Icon pack based upon Faenza and Mint-X | legacyPackages.x86_64-linux.iconpack-jade |
 | iconpack-obsidian | 4.15 | Gnome icon pack based upon Faenza | legacyPackages.x86_64-linux.iconpack-obsidian |
 | iconv | 0.4.1.3 | String encoding conversion | legacyPackages.x86_64-linux.haskellPackages.iconv |
@@ -27267,10 +27270,10 @@
 | iio-utils | 6.17.12 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_lqx.iio-utils |
 | iio-utils | 6.17.12 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.iio-utils |
 | iio-utils | 6.17.12 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.iio-utils |
-| iio-utils | 6.18 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.iio-utils |
-| iio-utils | 6.18 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_zen.iio-utils |
 | iio-utils | 6.18.1 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.iio-utils |
+| iio-utils | 6.18.1 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.iio-utils |
 | iio-utils | 6.18.1 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_latest.iio-utils |
+| iio-utils | 6.18.1 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxPackages_zen.iio-utils |
 | iio-utils | 6.6.119 | Userspace tool for interacting with Linux IIO | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.iio-utils |
 | iir1 | 1.10.0 | DSP IIR realtime filter library written in C++ | legacyPackages.x86_64-linux.iir1 |
 | iitem | 1.0 | Multiple level of lists in one list-like environment | legacyPackages.x86_64-linux.texlivePackages.iitem |
@@ -27299,8 +27302,8 @@
 | image-gallery | 1.0j | Create an overview of pictures from a digital camera or from other sources | legacyPackages.x86_64-linux.texlivePackages.image-gallery |
 | image-positioning | 0-unstable-2024-11-23 | Adds several high-level commands to zoom and pan | legacyPackages.x86_64-linux.mpvScripts.mpv-image-viewer.image-positioning |
 | image-roll | 2.1.0 | Simple and fast GTK image viewer with basic image manipulation tools | legacyPackages.x86_64-linux.image-roll |
-| image-search-options-salted-fq7pfsp7x3ii |  |  | legacyPackages.x86_64-linux.tests.fetchFirefoxAddon.overridden-source |
-| image-search-options-salted-fq7pfsp7x3ii |  |  | legacyPackages.x86_64-linux.tests.fetchFirefoxAddon.simple |
+| image-search-options-salted | 4b3c4zkjpv73 |  | legacyPackages.x86_64-linux.tests.fetchFirefoxAddon.overridden-source |
+| image-search-options-salted | 4b3c4zkjpv73 |  | legacyPackages.x86_64-linux.tests.fetchFirefoxAddon.simple |
 | image-type | 0.1.0.0 | Determine the type of an image by reading the first bytes | legacyPackages.x86_64-linux.haskellPackages.image-type |
 | image_optim | 0.31.4 | Optimize images using multiple utilities | legacyPackages.x86_64-linux.image_optim |
 | imagefilters | 0.1 | Image Filters (contrast, brightness, gaussian blur, etc) | legacyPackages.x86_64-linux.haskellPackages.imagefilters |
@@ -27741,7 +27744,7 @@
 | integrity-scrub | 0.6.6 | Scrub dm-integrity devices | legacyPackages.x86_64-linux.integrity-scrub |
 | intel-aes | 0.2.1.1 | Hardware accelerated AES encryption and Random Number Generation | legacyPackages.x86_64-linux.haskellPackages.intel-aes |
 | intel-cmt-cat | 25.04 | User space software for Intel(R) Resource Director Technology | legacyPackages.x86_64-linux.intel-cmt-cat |
-| intel-compute-runtime | 25.44.36015.5 | Intel Graphics Compute Runtime oneAPI Level Zero and OpenCL, supporting 12th Gen and newer | legacyPackages.x86_64-linux.intel-compute-runtime |
+| intel-compute-runtime | 25.48.36300.8 | Intel Graphics Compute Runtime oneAPI Level Zero and OpenCL, supporting 12th Gen and newer | legacyPackages.x86_64-linux.intel-compute-runtime |
 | intel-compute-runtime-legacy1 | 24.35.30872.32 | Intel Graphics Compute Runtime oneAPI Level Zero and OpenCL with support for Gen8, Gen9 and Gen11 GPUs | legacyPackages.x86_64-linux.intel-compute-runtime-legacy1 |
 | intel-gmmlib | 22.8.2 | Intel Graphics Memory Management Library | legacyPackages.x86_64-linux.intel-gmmlib |
 | intel-gpu-tools | 2.2 | Tools for development and testing of the Intel DRM driver | legacyPackages.x86_64-linux.intel-gpu-tools |
@@ -27771,10 +27774,10 @@
 | intel-speed-select | 6.17.12 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_lqx.intel-speed-select |
 | intel-speed-select | 6.17.12 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.intel-speed-select |
 | intel-speed-select | 6.17.12 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.intel-speed-select |
-| intel-speed-select | 6.18 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.intel-speed-select |
-| intel-speed-select | 6.18 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_zen.intel-speed-select |
 | intel-speed-select | 6.18.1 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.intel-speed-select |
+| intel-speed-select | 6.18.1 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.intel-speed-select |
 | intel-speed-select | 6.18.1 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_latest.intel-speed-select |
+| intel-speed-select | 6.18.1 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxPackages_zen.intel-speed-select |
 | intel-speed-select | 6.6.119 | Tool to enumerate and control the Intel Speed Select Technology features | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.intel-speed-select |
 | intel-undervolt | 1.7 | Intel CPU undervolting and throttling configuration tool | legacyPackages.x86_64-linux.intel-undervolt |
 | intel-vaapi-driver | 2.4.1-unstable-2024-10-29 | VA-API user mode driver for Intel GEN Graphics family | legacyPackages.x86_64-linux.driversi686Linux.intel-vaapi-driver |
@@ -28129,10 +28132,10 @@
 | isgx | 2.14-6.17.12 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_lqx.isgx |
 | isgx | 2.14-6.17.12 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.isgx |
 | isgx | 2.14-6.17.12 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.isgx |
-| isgx | 2.14-6.18 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.isgx |
-| isgx | 2.14-6.18 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_zen.isgx |
 | isgx | 2.14-6.18.1 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.isgx |
+| isgx | 2.14-6.18.1 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.isgx |
 | isgx | 2.14-6.18.1 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_latest.isgx |
+| isgx | 2.14-6.18.1 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxPackages_zen.isgx |
 | isgx | 2.14-6.6.119 | Intel SGX Linux Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.isgx |
 | isisdl | 1.3.21 | Downloader for ISIS of TU-Berlin | legacyPackages.x86_64-linux.isisdl |
 | isiz | 0.0.1 | A program to show the size of image and whether suitable for wallpaper | legacyPackages.x86_64-linux.haskellPackages.isiz |
@@ -28205,10 +28208,10 @@
 | it87-unstable | 2024-06-09-6.17.12 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_lqx.it87 |
 | it87-unstable | 2024-06-09-6.17.12 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.it87 |
 | it87-unstable | 2024-06-09-6.17.12 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.it87 |
-| it87-unstable | 2024-06-09-6.18 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.it87 |
-| it87-unstable | 2024-06-09-6.18 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_zen.it87 |
 | it87-unstable | 2024-06-09-6.18.1 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.it87 |
+| it87-unstable | 2024-06-09-6.18.1 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.it87 |
 | it87-unstable | 2024-06-09-6.18.1 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_latest.it87 |
+| it87-unstable | 2024-06-09-6.18.1 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxPackages_zen.it87 |
 | it87-unstable | 2024-06-09-6.6.119 | Patched module for IT87xx superio chip sensors support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.it87 |
 | itamae | 1.14.1 | Simple and lightweight configuration management tool inspired by Chef | legacyPackages.x86_64-linux.itamae |
 | itanium-abi | 0.1.3 | An implementation of name mangling/demangling for the Itanium ABI | legacyPackages.x86_64-linux.haskellPackages.itanium-abi |
@@ -28287,9 +28290,9 @@
 | ivory-quickcheck | 0.2.0.5 | QuickCheck driver for Ivory | legacyPackages.x86_64-linux.haskellPackages.ivory-quickcheck |
 | ivory-serialize | 0.1.0.6 | Serialization library for Ivory | legacyPackages.x86_64-linux.haskellPackages.ivory-serialize |
 | ivory-stdlib | 0.1.0.5 | Ivory standard library | legacyPackages.x86_64-linux.haskellPackages.ivory-stdlib |
-| ivpn | 3.14.34 | Official IVPN Desktop app | legacyPackages.x86_64-linux.ivpn |
-| ivpn-service | 3.14.34 | Official IVPN Desktop app | legacyPackages.x86_64-linux.ivpn-service |
-| ivpn-ui | 3.14.34 | UI interface for IVPN | legacyPackages.x86_64-linux.ivpn-ui |
+| ivpn | 3.15.0 | Official IVPN Desktop app | legacyPackages.x86_64-linux.ivpn |
+| ivpn-service | 3.15.0 | Official IVPN Desktop app service daemon | legacyPackages.x86_64-linux.ivpn-service |
+| ivpn-ui | 3.15.0 | UI interface for IVPN | legacyPackages.x86_64-linux.ivpn-ui |
 | ivsc-driver-unstable | 2024-09-18 | Intel Vision Sensing Controller kernel driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ivsc-driver |
 | ivsc-driver-unstable | 2024-09-18 | Intel Vision Sensing Controller kernel driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ivsc-driver |
 | ivsc-driver-unstable | 2024-09-18 | Intel Vision Sensing Controller kernel driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ivsc-driver |
@@ -28345,10 +28348,10 @@
 | ixgbevf | 4.6.1-6.17.12 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_lqx.ixgbevf |
 | ixgbevf | 4.6.1-6.17.12 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ixgbevf |
 | ixgbevf | 4.6.1-6.17.12 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ixgbevf |
-| ixgbevf | 4.6.1-6.18 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ixgbevf |
-| ixgbevf | 4.6.1-6.18 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.18.1 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ixgbevf |
+| ixgbevf | 4.6.1-6.18.1 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.18.1 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_latest.ixgbevf |
+| ixgbevf | 4.6.1-6.18.1 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxPackages_zen.ixgbevf |
 | ixgbevf | 4.6.1-6.6.119 | Intel 82599 Virtual Function Driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ixgbevf |
 | ixmonad | 0.57 | Embeds effect systems into Haskell using parameteric effect monads | legacyPackages.x86_64-linux.haskellPackages.ixmonad |
 | ixset | 1.1.1.2 | Efficient relational queries on Haskell sets | legacyPackages.x86_64-linux.haskellPackages.ixset |
@@ -28675,10 +28678,10 @@
 | jool | 4.1.14-6.17.12 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_lqx.jool |
 | jool | 4.1.14-6.17.12 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.jool |
 | jool | 4.1.14-6.17.12 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.jool |
-| jool | 4.1.14-6.18 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.jool |
-| jool | 4.1.14-6.18 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_zen.jool |
 | jool | 4.1.14-6.18.1 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.jool |
+| jool | 4.1.14-6.18.1 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.jool |
 | jool | 4.1.14-6.18.1 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_latest.jool |
+| jool | 4.1.14-6.18.1 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxPackages_zen.jool |
 | jool | 4.1.14-6.6.119 | Fairly compliant SIIT and Stateful NAT64 for Linux - kernel modules | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.jool |
 | jool-cli | 4.1.14 | Fairly compliant SIIT and Stateful NAT64 for Linux - CLI tools | legacyPackages.x86_64-linux.jool-cli |
 | joomscan-unstable | 2021-06-08 | Joomla Vulnerability Scanner | legacyPackages.x86_64-linux.joomscan |
@@ -28828,7 +28831,7 @@
 | json-python | 0.4.0.1 | Call python inline from haskell | legacyPackages.x86_64-linux.haskellPackages.json-python |
 | json-qq | 0.4.1 | Json Quasiquatation library for Haskell | legacyPackages.x86_64-linux.haskellPackages.json-qq |
 | json-query | 0.3.0.0 | Kitchen sink for querying JSON | legacyPackages.x86_64-linux.haskellPackages.json-query |
-| json-repair | 0.54.2 | Module to repair invalid JSON, commonly used to parse the output of LLMs | legacyPackages.x86_64-linux.json-repair |
+| json-repair | 0.54.3 | Module to repair invalid JSON, commonly used to parse the output of LLMs | legacyPackages.x86_64-linux.json-repair |
 | json-rpc | 1.1.2 | Fully-featured JSON-RPC 2.0 library | legacyPackages.x86_64-linux.haskellPackages.json-rpc |
 | json-rpc-client | 0.2.5.0 | JSON-RPC 2.0 on the client side. | legacyPackages.x86_64-linux.haskellPackages.json-rpc-client |
 | json-rpc-generic | 0.2.1.6 | Generic encoder and decode for JSON-RPC | legacyPackages.x86_64-linux.haskellPackages.json-rpc-generic |
@@ -29206,6 +29209,7 @@
 | karps | 0.2.0.0 | Haskell bindings for Spark Dataframes and Datasets | legacyPackages.x86_64-linux.haskellPackages.karps |
 | karver | 0.1.2 | A simple template engine, inspired by jinja2 | legacyPackages.x86_64-linux.haskellPackages.karver |
 | kas | 5.1 | Setup tool for bitbake based projects | legacyPackages.x86_64-linux.kas |
+| kasasa | 1.1.4 | Snip and pin useful information to a small floating window | legacyPackages.x86_64-linux.kasasa |
 | kashmiri | 2.4.3 | Free and open source fonts for Indian languages (Kashmiri) | legacyPackages.x86_64-linux.lohit-fonts.kashmiri |
 | kasmweb | 1.15.0 | Streaming containerized apps and desktops to end-users | legacyPackages.x86_64-linux.kasmweb |
 | kassert | 0.2.2 | Karlsruhe assertion library for C++ | legacyPackages.x86_64-linux.kassert |
@@ -29983,7 +29987,7 @@
 | kontrast | 25.12.0 | Tool to check contrast for colors that allows verifying that your colors are correctly accessible | legacyPackages.x86_64-linux.kdePackages.kontrast |
 | kontroll | 1.0.1 | Demonstrates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts | legacyPackages.x86_64-linux.kontroll |
 | konversation | 25.12.0 | User-friendly and fully-featured IRC client | legacyPackages.x86_64-linux.kdePackages.konversation |
-| koodo-reader | 2.0.9 | Cross-platform ebook reader | legacyPackages.x86_64-linux.koodo-reader |
+| koodo-reader | 2.2.3 | Cross-platform ebook reader | legacyPackages.x86_64-linux.koodo-reader |
 | koodousfinder | 0.1.0 | Tool to allows users to search for and analyze Android apps | legacyPackages.x86_64-linux.koodousfinder |
 | koofr-client | 1.0.0.3 | Client to Koofr API | legacyPackages.x86_64-linux.haskellPackages.koofr-client |
 | kooha | 2.3.0 | Elegantly record your screen | legacyPackages.x86_64-linux.kooha |
@@ -30181,8 +30185,8 @@
 | kubecm | 0.33.3 | Manage your kubeconfig more easily | legacyPackages.x86_64-linux.kubecm |
 | kubecolor | 0.5.3 | Colorizes kubectl output | legacyPackages.x86_64-linux.kubecolor |
 | kubeconform | 0.7.0 | FAST Kubernetes manifests validator, with support for Custom Resources | legacyPackages.x86_64-linux.kubeconform |
-| kubectl | 1.34.2 | Kubernetes CLI | legacyPackages.x86_64-linux.kubectl |
-| kubectl | 1.34.2 | Kubernetes CLI | legacyPackages.x86_64-linux.kubectl-convert |
+| kubectl | 1.34.3 | Kubernetes CLI | legacyPackages.x86_64-linux.kubectl |
+| kubectl | 1.34.3 | Kubernetes CLI | legacyPackages.x86_64-linux.kubectl-convert |
 | kubectl-ai | 0.0.26 | AI powered Kubernetes Assistant | legacyPackages.x86_64-linux.kubectl-ai |
 | kubectl-cnpg | 1.28.0 | Plugin for kubectl to manage a CloudNativePG cluster in Kubernetes | legacyPackages.x86_64-linux.kubectl-cnpg |
 | kubectl-df-pv | 0.4.1 | df-like utility for persistent volumes on Kubernetes | legacyPackages.x86_64-linux.kubectl-df-pv |
@@ -30220,7 +30224,7 @@
 | kubeprompt | 0.4.0 | Kubernetes prompt | legacyPackages.x86_64-linux.kubeprompt |
 | kubepug | 1.7.1 | Checks a Kubernetes cluster for objects using deprecated API versions | legacyPackages.x86_64-linux.kubepug |
 | kubergrunt | 0.18.5 | Collection of commands to fill in the gaps between Terraform, Helm, and Kubectl | legacyPackages.x86_64-linux.kubergrunt |
-| kubernetes | 1.34.2 | Production-Grade Container Scheduling and Management | legacyPackages.x86_64-linux.kubernetes |
+| kubernetes | 1.34.3 | Production-Grade Container Scheduling and Management | legacyPackages.x86_64-linux.kubernetes |
 | kubernetes-api | 132.0.0 | Auto-generated kubernetes-api API Client | legacyPackages.x86_64-linux.haskellPackages.kubernetes-api |
 | kubernetes-api-client | 0.6.1.1 | Client library for Kubernetes | legacyPackages.x86_64-linux.haskellPackages.kubernetes-api-client |
 | kubernetes-client | 0.3.2.0 | Client library for Kubernetes | legacyPackages.x86_64-linux.haskellPackages.kubernetes-client |
@@ -30856,8 +30860,8 @@
 | learn6502 | 0.6.2 | Modern 6502 Assembly Learning Environment for GNOME | legacyPackages.x86_64-linux.learn6502 |
 | learning-hmm | 0.3.2.2 | Yet another library for hidden Markov models | legacyPackages.x86_64-linux.haskellPackages.learning-hmm |
 | leatherman | 1.12.13 | Collection of C++ and CMake utility libraries | legacyPackages.x86_64-linux.leatherman |
-| leave-git-nix-source-salted | 46bl83zlhsvr |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.leave-git |
-| leave-git-nix-source-salted-k2bx0ajv5nwn |  |  | legacyPackages.x86_64-linux.tests.fetchgit.leave-git |
+| leave-git-nix-source-salted | 2lp1d6hwhs5n |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.leave-git |
+| leave-git-nix-source-salted-ksidmgmzv4nc |  |  | legacyPackages.x86_64-linux.tests.fetchgit.leave-git |
 | leb128 | 0.1.0.0 | LEB128 encoding logic for and in Haskell | legacyPackages.x86_64-linux.haskellPackages.leb128 |
 | leb128-binary | 0.1.3 | Signed and unsigned LEB128 codec for binary library | legacyPackages.x86_64-linux.haskellPackages.leb128-binary |
 | leb128-cereal | 1.2 | LEB128 and SLEB128 encoding | legacyPackages.x86_64-linux.haskellPackages.leb128-cereal |
@@ -30906,7 +30910,7 @@
 | legit | 0.2.4 | Web frontend for git | legacyPackages.x86_64-linux.legit-web |
 | legit | 1.2.0.post0 | Git for Humans, Inspired by GitHub for Mac | legacyPackages.x86_64-linux.legit |
 | legitify | 1.0.11 | Tool to detect and remediate misconfigurations and security risks of GitHub assets | legacyPackages.x86_64-linux.legitify |
-| lego | 4.27.0 | Let's Encrypt client and ACME library written in Go | legacyPackages.x86_64-linux.lego |
+| lego | 4.29.0 | Let's Encrypt client and ACME library written in Go | legacyPackages.x86_64-linux.lego |
 | leiningen | 2.11.2 | Project automation for Clojure | legacyPackages.x86_64-linux.leiningen |
 | leipzig | 2.3 | Typeset and index linguistic gloss abbreviations | legacyPackages.x86_64-linux.texlivePackages.leipzig |
 | leksah | 0.16.2.2 | Haskell IDE written in Haskell | legacyPackages.x86_64-linux.haskellPackages.leksah |
@@ -31030,7 +31034,7 @@
 | lettrine | 2.80 | Typeset dropped capitals | legacyPackages.x86_64-linux.texlivePackages.lettrine |
 | levant | 0.4.0 | Open source templating and deployment tool for HashiCorp Nomad jobs | legacyPackages.x86_64-linux.levant |
 | level-monad | 0.4.1 | Non-Determinism Monad for Level-Wise Search | legacyPackages.x86_64-linux.haskellPackages.level-monad |
-| level-zero | 1.25.2 | oneAPI Level Zero Specification Headers and Loader | legacyPackages.x86_64-linux.level-zero |
+| level-zero | 1.26.1 | oneAPI Level Zero Specification Headers and Loader | legacyPackages.x86_64-linux.level-zero |
 | leveldb | 1.23 | Fast and lightweight key/value database library by Google | legacyPackages.x86_64-linux.leveldb |
 | leveldb-haskell | 2024-05-05-unstable | Haskell bindings to LevelDB | legacyPackages.x86_64-linux.haskellPackages.leveldb-haskell |
 | leveldb-haskell-fork | 0.3.4.4 | Haskell bindings to LevelDB | legacyPackages.x86_64-linux.haskellPackages.leveldb-haskell-fork |
@@ -31233,7 +31237,7 @@
 | libchamplain | 0.12.21 | C library providing a ClutterActor to display maps | legacyPackages.x86_64-linux.libchamplain |
 | libchamplain | 0.12.21 | C library providing a ClutterActor to display maps | legacyPackages.x86_64-linux.libchamplain_libsoup3 |
 | libchardet | 1.0.6 | Mozilla's Universal Charset Detector C/C++ API | legacyPackages.x86_64-linux.libchardet |
-| libchewing | 0.9.1 | Intelligent Chinese phonetic input method | legacyPackages.x86_64-linux.libchewing |
+| libchewing | 0.10.3 | Intelligent Chinese phonetic input method | legacyPackages.x86_64-linux.libchewing |
 | libchipcard | 5.1.6 | Library for access to chipcards | legacyPackages.x86_64-linux.libchipcard |
 | libcifpp | 8.0.1 | Manipulate mmCIF and PDB files | legacyPackages.x86_64-linux.libcifpp |
 | libcint | 6.1.3 | General GTO integrals for quantum chemistry | legacyPackages.x86_64-linux.libcint |
@@ -32119,8 +32123,8 @@
 | libretro-o2em | 0-unstable-2024-10-21 | Port of O2EM to libretro | legacyPackages.x86_64-linux.libretro.o2em |
 | libretro-opera | 0-unstable-2024-10-16 | Opera is a port of 4DO/libfreedo to libretro | legacyPackages.x86_64-linux.libretro.opera |
 | libretro-parallel-n64 | 0-unstable-2025-12-04 | Parallel Mupen64plus rewrite for libretro | legacyPackages.x86_64-linux.libretro.parallel-n64 |
-| libretro-pcsx-rearmed | 0-unstable-2025-11-24 | Port of PCSX ReARMed to libretro | legacyPackages.x86_64-linux.libretro.pcsx-rearmed |
-| libretro-pcsx-rearmed | 0-unstable-2025-11-24 | Port of PCSX ReARMed to libretro | legacyPackages.x86_64-linux.libretro.pcsx_rearmed |
+| libretro-pcsx-rearmed | 0-unstable-2025-12-16 | Port of PCSX ReARMed to libretro | legacyPackages.x86_64-linux.libretro.pcsx-rearmed |
+| libretro-pcsx-rearmed | 0-unstable-2025-12-16 | Port of PCSX ReARMed to libretro | legacyPackages.x86_64-linux.libretro.pcsx_rearmed |
 | libretro-pcsx2 | 0-unstable-2025-09-29 | Port of PCSX2 to libretro | legacyPackages.x86_64-linux.libretro.pcsx2 |
 | libretro-picodrive | 0-unstable-2025-12-03 | Fast MegaDrive/MegaCD/32X emulator | legacyPackages.x86_64-linux.libretro.picodrive |
 | libretro-play | 0-unstable-2025-12-10 | Port of Play! to libretro | legacyPackages.x86_64-linux.libretro.play |
@@ -32139,7 +32143,7 @@
 | libretro-snes9x2005 | 0-unstable-2024-10-21 | Optimized port/rewrite of SNES9x 1.43 to Libretro | legacyPackages.x86_64-linux.libretro.snes9x2005 |
 | libretro-snes9x2005-plus | 0-unstable-2024-10-21 | Optimized port/rewrite of SNES9x 1.43 to Libretro | legacyPackages.x86_64-linux.libretro.snes9x2005-plus |
 | libretro-snes9x2010 | 0-unstable-2024-11-19 | Optimized port/rewrite of SNES9x 1.52+ to Libretro | legacyPackages.x86_64-linux.libretro.snes9x2010 |
-| libretro-stella | 0-unstable-2025-12-03 | Port of Stella to libretro | legacyPackages.x86_64-linux.libretro.stella |
+| libretro-stella | 0-unstable-2025-12-14 | Port of Stella to libretro | legacyPackages.x86_64-linux.libretro.stella |
 | libretro-stella2014 | 0-unstable-2024-10-21 | Port of Stella ~2014 to libretro | legacyPackages.x86_64-linux.libretro.stella2014 |
 | libretro-swanstation | 0-unstable-2025-08-02 | Port of SwanStation (a fork of DuckStation) to libretro | legacyPackages.x86_64-linux.libretro.swanstation |
 | libretro-tgbdual | 0-unstable-2025-05-10 | Port of TGBDual to libretro | legacyPackages.x86_64-linux.libretro.tgbdual |
@@ -32402,7 +32406,7 @@
 | libvlc | 3.0.22 | Cross-platform media player and streaming server | legacyPackages.x86_64-linux.libvlc |
 | libvlcpp | 0.1.0-unstable-2024-02-04 | Header-only C++ bindings for the libvlc crossplatform multimedia API | legacyPackages.x86_64-linux.libvlcpp |
 | libvmaf | 3.0.0 | Perceptual video quality assessment based on multi-method fusion (VMAF) | legacyPackages.x86_64-linux.libvmaf |
-| libvmi | 0.14.0-unstable-2025-04-09 | C library for virtual machine introspection | legacyPackages.x86_64-linux.libvmi |
+| libvmi | 0.14.0-unstable-2025-12-14 | C library for virtual machine introspection | legacyPackages.x86_64-linux.libvmi |
 | libvncserver | 0.9.15 | VNC server library | legacyPackages.x86_64-linux.libvncserver |
 | libvoikko | 4.3.3 | Finnish language processing library | legacyPackages.x86_64-linux.libvoikko |
 | libvolume_id | 0.81.1 |  | legacyPackages.x86_64-linux.libvolume_id |
@@ -32635,7 +32639,7 @@
 | lightdm-gtk-greeter | 2.0.9 | GTK greeter for LightDM | legacyPackages.x86_64-linux.lightdm-gtk-greeter |
 | lightdm-mini-greeter | 0.5.1 | Minimal, configurable, single-user GTK3 LightDM greeter | legacyPackages.x86_64-linux.lightdm-mini-greeter |
 | lightdm-mobile-greeter | 2022-10-30 | Simple log in screen for use on touch screens | legacyPackages.x86_64-linux.lightdm-mobile-greeter |
-| lightdm-slick-greeter | 2.2.4 | Slick-looking LightDM greeter | legacyPackages.x86_64-linux.lightdm-slick-greeter |
+| lightdm-slick-greeter | 2.2.5 | Slick-looking LightDM greeter | legacyPackages.x86_64-linux.lightdm-slick-greeter |
 | lightdm-tiny-greeter | 1.2 | Tiny multi user lightdm greeter | legacyPackages.x86_64-linux.lightdm-tiny-greeter |
 | lightgbm | 4.6.0 | Gradient boosting framework that uses tree based learning algorithms | legacyPackages.x86_64-linux.lightgbm |
 | lighthouse | 7.1.0 | Ethereum consensus client in Rust | legacyPackages.x86_64-linux.lighthouse |
@@ -32900,10 +32904,10 @@
 | linux-xanmod | 6.17.12 | Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience | legacyPackages.x86_64-linux.linux_xanmod_latest |
 | linux-xanmod | 6.17.12 | Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience | legacyPackages.x86_64-linux.linux_xanmod_stable |
 | linux-xattr | 0.1.1.0 | Read, set and list extended attributes | legacyPackages.x86_64-linux.haskellPackages.linux-xattr |
-| linux-zen | 6.18 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.kernels.linux_zen |
-| linux-zen | 6.18 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kernel |
-| linux-zen | 6.18 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxPackages_zen.kernel |
-| linux-zen | 6.18 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linux_zen |
+| linux-zen | 6.18.1 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.kernels.linux_zen |
+| linux-zen | 6.18.1 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.kernel |
+| linux-zen | 6.18.1 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linuxPackages_zen.kernel |
+| linux-zen | 6.18.1 | Built using the best configuration and kernel sources for desktop, multimedia, and gaming workloads. | legacyPackages.x86_64-linux.linux_zen |
 | linux_logo | 6.01 | Prints an ASCII logo and some system info | legacyPackages.x86_64-linux.linux_logo |
 | linuxconsoletools | 1.8.1 | Set of tools for joysticks and serial peripherals | legacyPackages.x86_64-linux.linuxConsoleTools |
 | linuxdoc-tools | 0.9.86 | Toolset for processing LinuxDoc DTD SGML files | legacyPackages.x86_64-linux.linuxdoc-tools |
@@ -32969,10 +32973,10 @@
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.12 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_lqx.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.12 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.17.12 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.liquidtux |
-| liquidtux | 0.1.0-unstable-2025-01-16-6.18 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.liquidtux |
-| liquidtux | 0.1.0-unstable-2025-01-16-6.18 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.18.1 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.liquidtux |
+| liquidtux | 0.1.0-unstable-2025-01-16-6.18.1 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.18.1 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_latest.liquidtux |
+| liquidtux | 0.1.0-unstable-2025-01-16-6.18.1 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxPackages_zen.liquidtux |
 | liquidtux | 0.1.0-unstable-2025-01-16-6.6.119 | Linux kernel hwmon drivers for AIO liquid coolers and other devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.liquidtux |
 | liquidwar5 | 5.6.6 | Classic version of a quick tactics game LiquidWar | legacyPackages.x86_64-linux.liquidwar5 |
 | liquidwar6 | 0.6.3902 | Quick tactics game | legacyPackages.x86_64-linux.liquidwar |
@@ -33055,20 +33059,20 @@
 | little-rio | 3.0.0 | When you need just the RIO monad | legacyPackages.x86_64-linux.haskellPackages.little-rio |
 | little_boxes | 1.10.0 | Add boxes are input text | legacyPackages.x86_64-linux.little_boxes |
 | littlefs-fuse | 2.7.14 | FUSE wrapper that puts the littlefs in user-space | legacyPackages.x86_64-linux.littlefs-fuse |
-| littlegptracker | 1.4.2 | Music tracker optimised to run on portable game consoles | legacyPackages.x86_64-linux.littlegptracker |
+| littlegptracker | 1.5.0 | Music tracker optimised to run on portable game consoles | legacyPackages.x86_64-linux.littlegptracker |
 | liturg | 1.0 | Support for typesetting Catholic liturgical texts | legacyPackages.x86_64-linux.texlivePackages.liturg |
 | liturgy-cw | 0.2 | Create Common Worship style documents | legacyPackages.x86_64-linux.texlivePackages.liturgy-cw |
 | live-chart | 2.0.0 | Real-time charting library for Vala and GTK4 based on Cairo | legacyPackages.x86_64-linux.pantheon.live-chart |
 | live-sequencer | 0.0.6.3 | Live coding of MIDI music | legacyPackages.x86_64-linux.haskellPackages.live-sequencer |
 | live-server | 0.11.0 | Local network server with live reload feature for static pages | legacyPackages.x86_64-linux.live-server |
 | live555 | 2024.09.20 | Set of C++ libraries for multimedia streaming, using open standard protocols (RTP/RTCP, RTSP, SIP) | legacyPackages.x86_64-linux.live555 |
-| livebook | 0.18.1 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam26Packages.livebook |
-| livebook | 0.18.1 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam27Packages.livebook |
-| livebook | 0.18.1 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam28Packages.livebook |
-| livebook | 0.18.1 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal26Packages.livebook |
-| livebook | 0.18.1 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal27Packages.livebook |
-| livebook | 0.18.1 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal28Packages.livebook |
-| livebook | 0.18.1 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.livebook |
+| livebook | 0.18.2 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam26Packages.livebook |
+| livebook | 0.18.2 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam27Packages.livebook |
+| livebook | 0.18.2 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam28Packages.livebook |
+| livebook | 0.18.2 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal26Packages.livebook |
+| livebook | 0.18.2 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal27Packages.livebook |
+| livebook | 0.18.2 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal28Packages.livebook |
+| livebook | 0.18.2 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.livebook |
 | livecaptions | 0.4.2 | Linux Desktop application that provides live captioning | legacyPackages.x86_64-linux.livecaptions |
 | livedl-unstable | 2021-05-16 | Command-line tool to download nicovideo.jp livestreams | legacyPackages.x86_64-linux.livedl |
 | livekit | 1.9.6 | End-to-end stack for WebRTC. SFU media server and SDKs | legacyPackages.x86_64-linux.livekit |
@@ -33108,10 +33112,10 @@
 | lkrg | 1.0.0-6.17.12 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_lqx.lkrg |
 | lkrg | 1.0.0-6.17.12 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.lkrg |
 | lkrg | 1.0.0-6.17.12 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lkrg |
-| lkrg | 1.0.0-6.18 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lkrg |
-| lkrg | 1.0.0-6.18 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.lkrg |
 | lkrg | 1.0.0-6.18.1 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.lkrg |
+| lkrg | 1.0.0-6.18.1 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lkrg |
 | lkrg | 1.0.0-6.18.1 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.lkrg |
+| lkrg | 1.0.0-6.18.1 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.lkrg |
 | lkrg | 1.0.0-6.6.119 | LKRG Linux Kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lkrg |
 | lksctp-tools | 1.0.21 | Linux Kernel Stream Control Transmission Protocol Tools | legacyPackages.x86_64-linux.lksctp-tools |
 | ll-picosat | 0.1.0.0 |  | legacyPackages.x86_64-linux.haskellPackages.ll-picosat |
@@ -33312,8 +33316,8 @@
 | loch-th | 0.2.2 | Support for precise error locations in source files (Template Haskell version) | legacyPackages.x86_64-linux.haskellPackages.loch-th |
 | lock | 1.8.2 | Process data with GnuPG | legacyPackages.x86_64-linux.lock |
 | lock-file | 0.7.0.0 | Provide exclusive access to a resource using lock file | legacyPackages.x86_64-linux.haskellPackages.lock-file |
-| lockbook | 25.12.1 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook |
-| lockbook-desktop | 25.12.1 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook-desktop |
+| lockbook | 25.12.15 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook |
+| lockbook-desktop | 25.12.15 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook-desktop |
 | lockdep | 5.0.21 | Userspace locking validation tool built on the Linux kernel | legacyPackages.x86_64-linux.lockdep |
 | locked-poll | 0.1.0 | Very simple poll lock | legacyPackages.x86_64-linux.haskellPackages.locked-poll |
 | lockfile-progs | 0.1.19 | Programs for locking and unlocking files and mailboxes | legacyPackages.x86_64-linux.lockfileProgs |
@@ -33651,10 +33655,10 @@
 | lttng-modules | 6.17.12-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_lqx.lttng-modules |
 | lttng-modules | 6.17.12-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.lttng-modules |
 | lttng-modules | 6.17.12-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.lttng-modules |
-| lttng-modules | 6.18-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lttng-modules |
-| lttng-modules | 6.18-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_zen.lttng-modules |
 | lttng-modules | 6.18.1-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.lttng-modules |
+| lttng-modules | 6.18.1-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.lttng-modules |
 | lttng-modules | 6.18.1-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_latest.lttng-modules |
+| lttng-modules | 6.18.1-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxPackages_zen.lttng-modules |
 | lttng-modules | 6.6.119-2.13.22 | Linux kernel modules for LTTng tracing | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.lttng-modules |
 | lttng-tools | 2.14.0 | Tracing tools (kernel + user space) for Linux | legacyPackages.x86_64-linux.lttng-tools |
 | lttng-ust | 2.12.2 | LTTng Userspace Tracer libraries | legacyPackages.x86_64-linux.lttng-ust_2_12 |
@@ -34822,7 +34826,7 @@
 | luatodonotes | 0.5 | Add editing annotations in a LuaLaTeX document | legacyPackages.x86_64-linux.texlivePackages.luatodonotes |
 | luatruthtable | 1.3 | Generate truth tables of boolean values in LuaLaTeX | legacyPackages.x86_64-linux.texlivePackages.luatruthtable |
 | luau | 0.703 | Fast, small, safe, gradually typed embeddable scripting language derived from Lua | legacyPackages.x86_64-linux.luau |
-| luau-lsp | 1.57.1 | Language Server Implementation for Luau | legacyPackages.x86_64-linux.luau-lsp |
+| luau-lsp | 1.58.0 | Language Server Implementation for Luau | legacyPackages.x86_64-linux.luau-lsp |
 | luautils | 0.1.4 | Helpers for Haskell integration with Lua | legacyPackages.x86_64-linux.haskellPackages.luautils |
 | luavlna | 0.1m | Prevent line breaks after single letter words, units, or academic titles | legacyPackages.x86_64-linux.texlivePackages.luavlna |
 | luaxml | 0.2b | Lua library for reading and serialising XML files | legacyPackages.x86_64-linux.texlivePackages.luaxml |
@@ -35603,7 +35607,7 @@
 | matrix-appservice-discord | 4.0.0 | Bridge between Matrix and Discord | legacyPackages.x86_64-linux.matrix-appservice-discord |
 | matrix-appservice-irc | 4.0.0 | Node.js IRC bridge for Matrix | legacyPackages.x86_64-linux.matrix-appservice-irc |
 | matrix-as-xyz | 0.1.2.2 | Read and Display Jones-Faithful notation for spacegroup and planegroup | legacyPackages.x86_64-linux.haskellPackages.matrix-as-xyz |
-| matrix-authentication-service | 1.7.0 | OAuth2.0 + OpenID Provider for Matrix Homeservers | legacyPackages.x86_64-linux.matrix-authentication-service |
+| matrix-authentication-service | 1.8.0 | OAuth2.0 + OpenID Provider for Matrix Homeservers | legacyPackages.x86_64-linux.matrix-authentication-service |
 | matrix-brandy | 1.23.5 | Matrix Brandy BASIC VI for Linux, Windows, MacOSX | legacyPackages.x86_64-linux.matrix-brandy |
 | matrix-client | 0.1.6.1 | A matrix client library | legacyPackages.x86_64-linux.haskellPackages.matrix-client |
 | matrix-commander | 8.0.5 | Simple but convenient CLI-based Matrix client app for sending and receiving | legacyPackages.x86_64-linux.matrix-commander |
@@ -35863,10 +35867,10 @@
 | mdio-netlink | 1.3.1-6.17.12 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_lqx.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.12 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mdio-netlink |
 | mdio-netlink | 1.3.1-6.17.12 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mdio-netlink |
-| mdio-netlink | 1.3.1-6.18 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mdio-netlink |
-| mdio-netlink | 1.3.1-6.18 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_zen.mdio-netlink |
 | mdio-netlink | 1.3.1-6.18.1 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.mdio-netlink |
+| mdio-netlink | 1.3.1-6.18.1 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mdio-netlink |
 | mdio-netlink | 1.3.1-6.18.1 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_latest.mdio-netlink |
+| mdio-netlink | 1.3.1-6.18.1 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxPackages_zen.mdio-netlink |
 | mdio-netlink | 1.3.1-6.6.119 | Netlink support for MDIO devices | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mdio-netlink |
 | mdio-tools | 1.3.1 | Low-level debug tools for MDIO devices | legacyPackages.x86_64-linux.mdio-tools |
 | mdk-sdk | 0.35.0 | Multimedia development kit | legacyPackages.x86_64-linux.mdk-sdk |
@@ -36336,7 +36340,7 @@
 | midimory | 0.0.2.3 | A Memory-like (Concentration, Pairs, ...) game for tones | legacyPackages.x86_64-linux.haskellPackages.midimory |
 | midisheetmusic | 2.6 | Convert MIDI Files to Piano Sheet Music for two hands | legacyPackages.x86_64-linux.midisheetmusic |
 | midisurface | 0.1.0.0 | A control midi surface | legacyPackages.x86_64-linux.haskellPackages.midisurface |
-| midivisualizer | 7.2 | Small MIDI visualizer tool, using OpenGL | legacyPackages.x86_64-linux.midivisualizer |
+| midivisualizer | 7.3 | Small MIDI visualizer tool, using OpenGL | legacyPackages.x86_64-linux.midivisualizer |
 | midnight | 15878 | A set of useful macro tools | legacyPackages.x86_64-linux.texlivePackages.midnight |
 | midpage | 1.1a | Environment for vertical centring | legacyPackages.x86_64-linux.texlivePackages.midpage |
 | mieru | 3.21.0 | Socks5 / HTTP / HTTPS proxy to bypass censorship | legacyPackages.x86_64-linux.mieru |
@@ -36631,7 +36635,7 @@
 | mixpanel-client | 0.3.0 | Mixpanel client | legacyPackages.x86_64-linux.haskellPackages.mixpanel-client |
 | mixtool | 0-unstable-2025-07-07 | Helper for easily working with jsonnet mixins | legacyPackages.x86_64-linux.mixtool |
 | mixxc | 0.2.5 | Minimalistic and customizable volume mixer | legacyPackages.x86_64-linux.mixxc |
-| mixxx | 2.5.3 | Digital DJ mixing software | legacyPackages.x86_64-linux.mixxx |
+| mixxx | 2.5.4 | Digital DJ mixing software | legacyPackages.x86_64-linux.mixxx |
 | mjmap | 1.0.1 | Sendmail‐compatible JMAP client | legacyPackages.x86_64-linux.mjmap |
 | mjolnir | 1.9.2 | Moderation tool for Matrix | legacyPackages.x86_64-linux.mjolnir |
 | mjpegtools | 2.2.1 | Suite of programs for processing MPEG or MJPEG video | legacyPackages.x86_64-linux.mjpegtools |
@@ -36716,8 +36720,9 @@
 | mlton | 20130715 | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mlton20130715 |
 | mlton | 20180207 | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mlton20180207 |
 | mlton | 20180207 | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mlton20180207Binary |
-| mlton | 20210117 | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mlton |
 | mlton | 20210117 | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mlton20210117 |
+| mlton | 20241230 | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mlton |
+| mlton | 20241230 | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mlton20241230 |
 | mlton-HEAD |  | Open-source, whole-program, optimizing Standard ML compiler | legacyPackages.x86_64-linux.mltonHEAD |
 | mltool | 0.2.0.1 | Machine Learning Toolbox | legacyPackages.x86_64-linux.haskellPackages.mltool |
 | mluexercise | 2.0 | Exercises/homework at the Martin Luther University Halle-Wittenberg | legacyPackages.x86_64-linux.texlivePackages.mluexercise |
@@ -37311,10 +37316,10 @@
 | morse-driver | 1.16.4-6.17.12 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxPackages_lqx.morse-driver |
 | morse-driver | 1.16.4-6.17.12 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.morse-driver |
 | morse-driver | 1.16.4-6.17.12 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.morse-driver |
-| morse-driver | 1.16.4-6.18 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.morse-driver |
-| morse-driver | 1.16.4-6.18 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxPackages_zen.morse-driver |
 | morse-driver | 1.16.4-6.18.1 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.morse-driver |
+| morse-driver | 1.16.4-6.18.1 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.morse-driver |
 | morse-driver | 1.16.4-6.18.1 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxPackages_latest.morse-driver |
+| morse-driver | 1.16.4-6.18.1 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxPackages_zen.morse-driver |
 | morse-driver | 1.16.4-6.6.119 | Morse Micro Wi-Fi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.morse-driver |
 | morsel | 0.1.1 | Command line tool to translate morse code input to text in real time | legacyPackages.x86_64-linux.morsel |
 | morte | 1.7.2 | A bare-bones calculus of constructions | legacyPackages.x86_64-linux.haskellPackages.morte |
@@ -37917,7 +37922,6 @@
 | mutter | 46.8 | Window manager for GNOME | legacyPackages.x86_64-linux.pantheon.mutter |
 | mutter | 49.2 | Window manager for GNOME | legacyPackages.x86_64-linux.mutter |
 | muvm | 0.4.1 | Run programs from your system in a microVM | legacyPackages.x86_64-linux.muvm |
-| muzika | 0-unstable-2023-11-07 | Elegant music streaming app | legacyPackages.x86_64-linux.muzika |
 | mvapich | 2.3.7 | MPI-3.1 implementation optimized for Infiband transport | legacyPackages.x86_64-linux.mvapich |
 | mvar-lock | 0.1.0.4 | A trivial lock based on MVar | legacyPackages.x86_64-linux.haskellPackages.mvar-lock |
 | mvc | 1.1.7 | Model-view-controller | legacyPackages.x86_64-linux.haskellPackages.mvc |
@@ -37955,10 +37959,10 @@
 | mwprocapture | 1.3.4418-6.17.12 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_lqx.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.12 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mwprocapture |
 | mwprocapture | 1.3.4418-6.17.12 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mwprocapture |
-| mwprocapture | 1.3.4418-6.18 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mwprocapture |
-| mwprocapture | 1.3.4418-6.18 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.18.1 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.mwprocapture |
+| mwprocapture | 1.3.4418-6.18.1 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.18.1 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_latest.mwprocapture |
+| mwprocapture | 1.3.4418-6.18.1 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxPackages_zen.mwprocapture |
 | mwprocapture | 1.3.4418-6.6.119 | Linux driver for the Magewell Pro Capture family | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mwprocapture |
 | mx-state-codes | 1.0.0.0 | ISO 3166-2:MX State Codes and Names | legacyPackages.x86_64-linux.haskellPackages.mx-state-codes |
 | mx-takeover | 0.1.1 | Tool to work with DNS MX records | legacyPackages.x86_64-linux.mx-takeover |
@@ -37987,10 +37991,10 @@
 | mxu11x0 | 5.1-6.17.12 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_lqx.mxu11x0 |
 | mxu11x0 | 5.1-6.17.12 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.mxu11x0 |
 | mxu11x0 | 5.1-6.17.12 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.mxu11x0 |
-| mxu11x0 | 5.1-6.18 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0 |
-| mxu11x0 | 5.1-6.18 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.18.1 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.mxu11x0 |
+| mxu11x0 | 5.1-6.18.1 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.18.1 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_latest.mxu11x0 |
+| mxu11x0 | 5.1-6.18.1 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxPackages_zen.mxu11x0 |
 | mxu11x0 | 5.1-6.6.119 | MOXA UPort 11x0 USB to Serial Hub driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.mxu11x0 |
 | my-package-testing | 1.0.6 | spam | legacyPackages.x86_64-linux.haskellPackages.my-package-testing |
 | my-test-docs | 1.0.12 | spam | legacyPackages.x86_64-linux.haskellPackages.my-test-docs |
@@ -38317,10 +38321,10 @@
 | ndiswrapper | 1.63-6.17.12 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_lqx.ndiswrapper |
 | ndiswrapper | 1.63-6.17.12 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ndiswrapper |
 | ndiswrapper | 1.63-6.17.12 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ndiswrapper |
-| ndiswrapper | 1.63-6.18 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper |
-| ndiswrapper | 1.63-6.18 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.18.1 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ndiswrapper |
+| ndiswrapper | 1.63-6.18.1 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.18.1 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_latest.ndiswrapper |
+| ndiswrapper | 1.63-6.18.1 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxPackages_zen.ndiswrapper |
 | ndiswrapper | 1.63-6.6.119 | Ndis driver wrapper for the Linux kernel | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ndiswrapper |
 | ndjbdns | 1.06 | Brand new release of the Djbdns | legacyPackages.x86_64-linux.ndjbdns |
 | ndjson-conduit | 0.1.0.5 | Conduit-based parsing and serialization for newline delimited JSON | legacyPackages.x86_64-linux.haskellPackages.ndjson-conduit |
@@ -38349,7 +38353,7 @@
 | neat-interpolation | 0.5.1.4 | Quasiquoter for neat and simple multiline text interpolation | legacyPackages.x86_64-linux.haskellPackages.neat-interpolation |
 | neatvnc | 0.9.5 | VNC server library | legacyPackages.x86_64-linux.neatvnc |
 | nebula | 1.10.0 | Overlay networking tool with a focus on performance, simplicity and security | legacyPackages.x86_64-linux.nebula |
-| nebula-lighthouse-service | 2.0.1 | Public Nebula VPN Lighthouse Service | legacyPackages.x86_64-linux.nebula-lighthouse-service |
+| nebula-lighthouse-service | 2.0.2 | Public Nebula VPN Lighthouse Service | legacyPackages.x86_64-linux.nebula-lighthouse-service |
 | nebula-sans | 1.010 | Versatile, modern, humanist sans-serif with a neutral aesthetic, designed for legibility in both digital and print applications | legacyPackages.x86_64-linux.nebula-sans |
 | necesse-server | 1.0.3-20875636 | Dedicated server for Necesse | legacyPackages.x86_64-linux.necesse-server |
 | nedit | 5.7 | Fast, compact Motif/X11 plain text editor | legacyPackages.x86_64-linux.nedit |
@@ -38519,7 +38523,7 @@
 | net-tools | 2.10 | Set of tools for controlling the network subsystem in Linux | legacyPackages.x86_64-linux.net-tools |
 | net-tools | 2.10 | Set of tools for controlling the network subsystem in Linux | legacyPackages.x86_64-linux.nettools |
 | netassert | 2.1.0 | Command line utility to test network connectivity between kubernetes objects | legacyPackages.x86_64-linux.netassert |
-| netatalk | 4.2.4 | Apple Filing Protocol Server | legacyPackages.x86_64-linux.netatalk |
+| netatalk | 4.3.2 | Apple Filing Protocol Server | legacyPackages.x86_64-linux.netatalk |
 | netatop | 5.10.247-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.netatop |
 | netatop | 5.15.197-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.netatop |
 | netatop | 6.1.159-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.netatop |
@@ -38536,10 +38540,10 @@
 | netatop | 6.17.12-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_lqx.netatop |
 | netatop | 6.17.12-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.netatop |
 | netatop | 6.17.12-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.netatop |
-| netatop | 6.18-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.netatop |
-| netatop | 6.18-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_zen.netatop |
 | netatop | 6.18.1-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.netatop |
+| netatop | 6.18.1-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.netatop |
 | netatop | 6.18.1-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_latest.netatop |
+| netatop | 6.18.1-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxPackages_zen.netatop |
 | netatop | 6.6.119-3.2.2 | Network monitoring module for atop | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.netatop |
 | netavark | 1.17.1 | Rust based network stack for containers | legacyPackages.x86_64-linux.netavark |
 | netbeans | 28 | Integrated development environment for Java, C, C++ and PHP | legacyPackages.x86_64-linux.netbeans |
@@ -38905,7 +38909,7 @@
 | nicetext-r0.67 |  | Minimal markup for simple text (Wikipedia style) and documentation | legacyPackages.x86_64-linux.texlivePackages.nicetext |
 | nicify | 1.2.1 | Pretty print the standard output of default `Show` instances | legacyPackages.x86_64-linux.haskellPackages.nicify |
 | nicify-lib | 1.0.1 | Pretty print the standard output of default `Show` instances | legacyPackages.x86_64-linux.haskellPackages.nicify-lib |
-| nickel | 1.14.0 | Better configuration for less | legacyPackages.x86_64-linux.nickel |
+| nickel | 1.15.1 | Better configuration for less | legacyPackages.x86_64-linux.nickel |
 | nicotine-plus | 3.3.10 | Graphical client for the SoulSeek peer-to-peer system | legacyPackages.x86_64-linux.nicotine-plus |
 | nicovideo-translator | 0.3.0.0 | Nico Nico Douga (ニコニコ動画) Comment Translator | legacyPackages.x86_64-linux.haskellPackages.nicovideo-translator |
 | nicstat | 0-unstable-2018-05-09 | Network traffic statistics utility for Solaris and Linux | legacyPackages.x86_64-linux.nicstat |
@@ -39073,7 +39077,7 @@
 | nix-prefetch-darcs |  | Script used to obtain source hashes for fetchdarcs | legacyPackages.x86_64-linux.nix-prefetch-darcs |
 | nix-prefetch-docker |  | Script used to obtain source hashes for dockerTools.pullImage | legacyPackages.x86_64-linux.nix-prefetch-docker |
 | nix-prefetch-git |  | Script used to obtain source hashes for fetchgit | legacyPackages.x86_64-linux.nix-prefetch-git |
-| nix-prefetch-git-no-add-path-salted-g3pnhcl1xm04 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.prefetch-git-no-add-path |
+| nix-prefetch-git-no-add-path-salted | 3g0y8lzk9c1s |  | legacyPackages.x86_64-linux.tests.fetchgit.prefetch-git-no-add-path |
 | nix-prefetch-github | 7.1.0 | Prefetch sources from github | legacyPackages.x86_64-linux.nix-prefetch-github |
 | nix-prefetch-hg |  | Script used to obtain source hashes for fetchhg | legacyPackages.x86_64-linux.nix-prefetch-hg |
 | nix-prefetch-pijul |  | Script used to obtain source hashes for fetchpijul | legacyPackages.x86_64-linux.nix-prefetch-pijul |
@@ -39201,9 +39205,9 @@
 | nlopt-haskell | 0.1.3.0 | Low-level bindings to the NLOPT optimization library | legacyPackages.x86_64-linux.haskellPackages.nlopt-haskell |
 | nlp-scores | 0.7.0 | Scoring functions commonly used for evaluation in NLP and IR | legacyPackages.x86_64-linux.haskellPackages.nlp-scores |
 | nlp-scores-scripts | 0.2.0.0 | NLP scoring command-line programs | legacyPackages.x86_64-linux.haskellPackages.nlp-scores-scripts |
-| nls | 1.14.0 | Language server for the Nickel programming language | legacyPackages.x86_64-linux.nls |
+| nls | 1.15.1 | Language server for the Nickel programming language | legacyPackages.x86_64-linux.nls |
 | nm | 1.0.1 | Network Manager, binding to libnm-glib | legacyPackages.x86_64-linux.haskellPackages.nm |
-| nm-file-secret-agent |  | NetworkManager secret agent that responds with the content of preconfigured files | legacyPackages.x86_64-linux.nm-file-secret-agent |
+| nm-file-secret-agent | 1.2.0 | NetworkManager secret agent that responds with the content of preconfigured files | legacyPackages.x86_64-linux.nm-file-secret-agent |
 | nmap | 7.98 | Free and open source utility for network discovery and security auditing | legacyPackages.x86_64-linux.nmap |
 | nmap-formatter | 3.1.0 | Tool that allows you to convert nmap output | legacyPackages.x86_64-linux.nmap-formatter |
 | nmap-parse | 0-unstable-2022-09-26 | Command line nmap XML parser | legacyPackages.x86_64-linux.nmap-parse |
@@ -39601,7 +39605,7 @@
 | nuc | 0.1 | Notation for nuclear isotopes | legacyPackages.x86_64-linux.texlivePackages.nuc |
 | nuclear | 0.6.48 | Streaming music player that finds free music for you | legacyPackages.x86_64-linux.nuclear |
 | nucleardata | 1.1 | Provides data about atomic nuclides for documents | legacyPackages.x86_64-linux.texlivePackages.nucleardata |
-| nuclei | 3.6.0 | Tool for configurable targeted scanning | legacyPackages.x86_64-linux.nuclei |
+| nuclei | 3.6.1 | Tool for configurable targeted scanning | legacyPackages.x86_64-linux.nuclei |
 | nuclei-templates | 10.3.4 | Templates for the nuclei engine to find security vulnerabilities | legacyPackages.x86_64-linux.nuclei-templates |
 | nucleiparser | 0.2.1 | Nuclei output parser for CLI | legacyPackages.x86_64-linux.nucleiparser |
 | nucleus | 2 | Unofficial GNOME Periodic Table | legacyPackages.x86_64-linux.nucleus |
@@ -39763,10 +39767,10 @@
 | nvidia-dc | 535.154.05-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc_535 |
-| nvidia-dc | 535.154.05-6.18 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_535 |
-| nvidia-dc | 535.154.05-6.18 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_dc_535 |
+| nvidia-dc | 535.154.05-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc_535 |
+| nvidia-dc | 535.154.05-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_535 |
 | nvidia-dc | 535.154.05-6.6.119 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc_535 |
 | nvidia-dc | 565.57.01-5.10.247 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-5.15.197 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_dc_565 |
@@ -39784,10 +39788,10 @@
 | nvidia-dc | 565.57.01-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc_565 |
-| nvidia-dc | 565.57.01-6.18 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565 |
-| nvidia-dc | 565.57.01-6.18 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_dc_565 |
+| nvidia-dc | 565.57.01-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc_565 |
+| nvidia-dc | 565.57.01-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc_565 |
 | nvidia-dc | 565.57.01-6.6.119 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc_565 |
 | nvidia-dc | 570.172.08-5.10.247 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_dc |
 | nvidia-dc | 570.172.08-5.15.197 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_dc |
@@ -39805,10 +39809,10 @@
 | nvidia-dc | 570.172.08-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_dc |
 | nvidia-dc | 570.172.08-6.17.12 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_dc |
-| nvidia-dc | 570.172.08-6.18 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc |
-| nvidia-dc | 570.172.08-6.18 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_dc |
+| nvidia-dc | 570.172.08-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_dc |
+| nvidia-dc | 570.172.08-6.18.1 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_dc |
 | nvidia-dc | 570.172.08-6.6.119 | Data Center driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_dc |
 | nvidia-docker |  | NVIDIA container runtime for Docker | legacyPackages.x86_64-linux.nvidia-docker |
 | nvidia-docker |  | NVIDIA container runtime for Docker | legacyPackages.x86_64-linux.nvidiaCtkPackages.nvidia-docker |
@@ -39895,26 +39899,26 @@
 | nvidia-open | 6.17.12-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta_open |
 | nvidia-open | 6.17.12-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_beta_open |
 | nvidia-open | 6.17.12-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta_open |
-| nvidia-open | 6.18-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open |
-| nvidia-open | 6.18-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open |
-| nvidia-open | 6.18-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open |
-| nvidia-open | 6.18-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open |
-| nvidia-open | 6.18-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open |
-| nvidia-open | 6.18-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open |
-| nvidia-open | 6.18-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open |
-| nvidia-open | 6.18-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open |
-| nvidia-open | 6.18-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open |
-| nvidia-open | 6.18-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open |
 | nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_latest_open |
 | nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_production_open |
 | nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_stable_open |
+| nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest_open |
+| nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production_open |
+| nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_stable_open |
 | nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest_open |
 | nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production_open |
 | nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_stable_open |
+| nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest_open |
+| nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production_open |
+| nvidia-open | 6.18.1-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_stable_open |
 | nvidia-open | 6.18.1-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_vulkan_beta_open |
+| nvidia-open | 6.18.1-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.18.1-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta_open |
+| nvidia-open | 6.18.1-580.94.11 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta_open |
 | nvidia-open | 6.18.1-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_beta_open |
+| nvidia-open | 6.18.1-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta_open |
 | nvidia-open | 6.18.1-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta_open |
+| nvidia-open | 6.18.1-590.44.01 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta_open |
 | nvidia-open | 6.6.119-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest_open |
 | nvidia-open | 6.6.119-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production_open |
 | nvidia-open | 6.6.119-580.119.02 | NVIDIA Linux Open GPU Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_stable_open |
@@ -39940,10 +39944,10 @@
 | nvidia-x11 | 340.108-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy340 |
-| nvidia-x11 | 340.108-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340 |
-| nvidia-x11 | 340.108-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_legacy340 |
+| nvidia-x11 | 340.108-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy340 |
+| nvidia-x11 | 340.108-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy340 |
 | nvidia-x11 | 340.108-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy340 |
 | nvidia-x11 | 390.157-5.10.247 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-5.15.197 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy390 |
@@ -39961,10 +39965,10 @@
 | nvidia-x11 | 390.157-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy390 |
-| nvidia-x11 | 390.157-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy390 |
-| nvidia-x11 | 390.157-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_legacy390 |
+| nvidia-x11 | 390.157-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy390 |
+| nvidia-x11 | 390.157-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy390 |
 | nvidia-x11 | 390.157-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy390 |
 | nvidia-x11 | 470.256.02-5.10.247 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-5.15.197 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy470 |
@@ -39982,10 +39986,10 @@
 | nvidia-x11 | 470.256.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy470 |
-| nvidia-x11 | 470.256.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy470 |
-| nvidia-x11 | 470.256.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_legacy470 |
+| nvidia-x11 | 470.256.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy470 |
+| nvidia-x11 | 470.256.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy470 |
 | nvidia-x11 | 470.256.02-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy470 |
 | nvidia-x11 | 535.274.02-5.10.247 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-5.15.197 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_legacy535 |
@@ -40003,10 +40007,10 @@
 | nvidia-x11 | 535.274.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_legacy535 |
-| nvidia-x11 | 535.274.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535 |
-| nvidia-x11 | 535.274.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_legacy535 |
+| nvidia-x11 | 535.274.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_legacy535 |
+| nvidia-x11 | 535.274.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_legacy535 |
 | nvidia-x11 | 535.274.02-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_legacy535 |
 | nvidia-x11 | 580.119.02-5.10.247 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11 |
 | nvidia-x11 | 580.119.02-5.10.247 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_latest |
@@ -40056,18 +40060,18 @@
 | nvidia-x11 | 580.119.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11 |
 | nvidia-x11 | 580.119.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_latest |
 | nvidia-x11 | 580.119.02-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_production |
-| nvidia-x11 | 580.119.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11 |
-| nvidia-x11 | 580.119.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest |
-| nvidia-x11 | 580.119.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production |
-| nvidia-x11 | 580.119.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11 |
-| nvidia-x11 | 580.119.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest |
-| nvidia-x11 | 580.119.02-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production |
 | nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11 |
 | nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_latest |
 | nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_production |
+| nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11 |
+| nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_latest |
+| nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_production |
 | nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11 |
 | nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_latest |
 | nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_production |
+| nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11 |
+| nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_latest |
+| nvidia-x11 | 580.119.02-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_production |
 | nvidia-x11 | 580.119.02-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11 |
 | nvidia-x11 | 580.119.02-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_latest |
 | nvidia-x11 | 580.119.02-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_production |
@@ -40087,10 +40091,10 @@
 | nvidia-x11 | 580.94.11-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_vulkan_beta |
-| nvidia-x11 | 580.94.11-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta |
-| nvidia-x11 | 580.94.11-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_vulkan_beta |
+| nvidia-x11 | 580.94.11-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_vulkan_beta |
+| nvidia-x11 | 580.94.11-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 580.94.11-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_vulkan_beta |
 | nvidia-x11 | 590.44.01-5.10.247 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidia_x11_beta |
 | nvidia-x11 | 590.44.01-5.15.197 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.nvidia_x11_beta |
@@ -40108,10 +40112,10 @@
 | nvidia-x11 | 590.44.01-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidia_x11_beta |
 | nvidia-x11 | 590.44.01-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidia_x11_beta |
 | nvidia-x11 | 590.44.01-6.17.12 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidia_x11_beta |
-| nvidia-x11 | 590.44.01-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta |
-| nvidia-x11 | 590.44.01-6.18 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta |
 | nvidia-x11 | 590.44.01-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidia_x11_beta |
+| nvidia-x11 | 590.44.01-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidia_x11_beta |
 | nvidia-x11 | 590.44.01-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_latest.nvidia_x11_beta |
+| nvidia-x11 | 590.44.01-6.18.1 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxPackages_zen.nvidia_x11_beta |
 | nvidia-x11 | 590.44.01-6.6.119 | X.org driver and kernel module for NVIDIA cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidia_x11_beta |
 | nvidia_oc | 0.1.21 | Simple command line tool to overclock Nvidia GPUs using the NVML library on Linux | legacyPackages.x86_64-linux.nvidia_oc |
 | nvidiabl | 2020-10-01-5.10.247 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.nvidiabl |
@@ -40130,10 +40134,10 @@
 | nvidiabl | 2020-10-01-6.17.12 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_lqx.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.12 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nvidiabl |
 | nvidiabl | 2020-10-01-6.17.12 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nvidiabl |
-| nvidiabl | 2020-10-01-6.18 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl |
-| nvidiabl | 2020-10-01-6.18 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.18.1 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nvidiabl |
+| nvidiabl | 2020-10-01-6.18.1 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.18.1 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_latest.nvidiabl |
+| nvidiabl | 2020-10-01-6.18.1 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxPackages_zen.nvidiabl |
 | nvidiabl | 2020-10-01-6.6.119 | Linux driver for setting the backlight brightness on laptops using NVIDIA GPU | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nvidiabl |
 | nvim-hs | 2.3.2.4 | Haskell plugin backend for neovim | legacyPackages.x86_64-linux.haskellPackages.nvim-hs |
 | nvim-hs-contrib | 2.0.0.2 | Haskell plugin backend for neovim | legacyPackages.x86_64-linux.haskellPackages.nvim-hs-contrib |
@@ -40147,7 +40151,7 @@
 | nvpy | 2.3.1 | Simplenote-syncing note-taking tool inspired by Notational Velocity | legacyPackages.x86_64-linux.nvpy |
 | nvramtool | 25.09 | Read and write coreboot parameters and display information from the coreboot table in CMOS/NVRAM | legacyPackages.x86_64-linux.nvramtool |
 | nvrh | 0.1.23 | Aims to be similar to VSCode Remote, but for Neovim | legacyPackages.x86_64-linux.nvrh |
-| nvs | 1.11.0 | Lightweight Neovim Version & Config Manager CLI tool to install, switch, list, uninstall, and reset Neovim versions | legacyPackages.x86_64-linux.nvs |
+| nvs | 1.12.1 | Lightweight Neovim Version & Config Manager CLI tool to install, switch, list, uninstall, and reset Neovim versions | legacyPackages.x86_64-linux.nvs |
 | nvtop | 3.2.0 | htop-like task monitor for AMD, Adreno, Intel and NVIDIA GPUs | legacyPackages.x86_64-linux.nvtopPackages.amd |
 | nvtop | 3.2.0 | htop-like task monitor for AMD, Adreno, Intel and NVIDIA GPUs | legacyPackages.x86_64-linux.nvtopPackages.apple |
 | nvtop | 3.2.0 | htop-like task monitor for AMD, Adreno, Intel and NVIDIA GPUs | legacyPackages.x86_64-linux.nvtopPackages.full |
@@ -40197,10 +40201,10 @@
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.12 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_lqx.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.12 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.17.12 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.nxp-pn5xx |
-| nxp-pn5xx | 0.4-unstable-2025-02-08-6.18 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nxp-pn5xx |
-| nxp-pn5xx | 0.4-unstable-2025-02-08-6.18 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.18.1 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.nxp-pn5xx |
+| nxp-pn5xx | 0.4-unstable-2025-02-08-6.18.1 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.18.1 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_latest.nxp-pn5xx |
+| nxp-pn5xx | 0.4-unstable-2025-02-08-6.18.1 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxPackages_zen.nxp-pn5xx |
 | nxp-pn5xx | 0.4-unstable-2025-02-08-6.6.119 | NXP's NFC Open Source Kernel mode driver with ACPI configuration support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.nxp-pn5xx |
 | nxpmicro-mfgtools | 1.5.139 | Freescale/NXP I.MX chip image deploy tools | legacyPackages.x86_64-linux.nxpmicro-mfgtools |
 | nxuthesis | 2.0.0 | Thesis template for Ningxia University | legacyPackages.x86_64-linux.texlivePackages.nxuthesis |
@@ -40752,6 +40756,8 @@
 | ocaml5.3.0-fontconfig-unstable | 2013-11-03 | Fontconfig bindings for OCaml | legacyPackages.x86_64-linux.ocamlPackages.fontconfig |
 | ocaml5.3.0-fp | 0.0.1-unstable-2024-05-07 | Library for creating and operating on file paths consistently on multiple platforms | legacyPackages.x86_64-linux.ocamlPackages.reason-native.fp |
 | ocaml5.3.0-fpath | 0.7.3 | OCaml module for handling file system paths with POSIX and Windows conventions | legacyPackages.x86_64-linux.ocamlPackages.fpath |
+| ocaml5.3.0-frama-c | 31.0 | Extensible and collaborative platform dedicated to source-code analysis of C software | legacyPackages.x86_64-linux.ocamlPackages.frama-c |
+| ocaml5.3.0-frama-c-lannotate | 0.2.4 | Lannotate plugin of Frama-C, part of the LTest suite | legacyPackages.x86_64-linux.ocamlPackages.frama-c-lannotate |
 | ocaml5.3.0-frame | 0.0.1-unstable-2024-05-07 | Reason Native text layout library | legacyPackages.x86_64-linux.ocamlPackages.reason-native.frame |
 | ocaml5.3.0-frei0r | 0.1.2 | Bindings for the frei0r API which provides video effects | legacyPackages.x86_64-linux.ocamlPackages.frei0r |
 | ocaml5.3.0-fs | 0.0.2-unstable-2024-05-07 | Reason Native file system API | legacyPackages.x86_64-linux.ocamlPackages.reason-native.fs |
@@ -41953,7 +41959,7 @@
 | oh-my-git | 0.6.5 | Interactive Git learning game | legacyPackages.x86_64-linux.oh-my-git |
 | oh-my-posh | 26.23.6 | Prompt theme engine for any shell | legacyPackages.x86_64-linux.oh-my-posh |
 | oh-my-zsh | 2025-11-23 | Framework for managing your zsh configuration | legacyPackages.x86_64-linux.oh-my-zsh |
-| oha | 1.12.0 | HTTP load generator inspired by rakyll/hey with tui animation | legacyPackages.x86_64-linux.oha |
+| oha | 1.12.1 | HTTP load generator inspired by rakyll/hey with tui animation | legacyPackages.x86_64-linux.oha |
 | ohhecs | 0.0.2 | An Entity-Component-Systems engine core | legacyPackages.x86_64-linux.haskellPackages.ohhecs |
 | ohloh-hs | 0.0.2 | Interface to the Ohloh API | legacyPackages.x86_64-linux.haskellPackages.ohloh-hs |
 | oi | 0.4.0.2 | Library for purely functional lazy interactions with the outer world | legacyPackages.x86_64-linux.haskellPackages.oi |
@@ -41992,11 +41998,11 @@
 | oletools | 0.60.2 | Module to analyze MS OLE2 files and MS Office documents | legacyPackages.x86_64-linux.oletools |
 | olive-editor | 0.1.2-unstable-2023-06-12 | Professional open-source NLE video editor | legacyPackages.x86_64-linux.olive-editor |
 | olivetin | 2025.11.25 | Gives safe and simple access to predefined shell commands from a web interface | legacyPackages.x86_64-linux.olivetin |
-| ollama | 0.13.3 | Get up and running with large language models locally | legacyPackages.x86_64-linux.ollama |
-| ollama | 0.13.3 | Get up and running with large language models locally | legacyPackages.x86_64-linux.ollama-cpu |
-| ollama | 0.13.3 | Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration | legacyPackages.x86_64-linux.ollama-cuda |
-| ollama | 0.13.3 | Get up and running with large language models locally, using ROCm for AMD GPU acceleration | legacyPackages.x86_64-linux.ollama-rocm |
-| ollama | 0.13.3 | Get up and running with large language models locally, using Vulkan for generic GPU acceleration | legacyPackages.x86_64-linux.ollama-vulkan |
+| ollama | 0.13.4 | Get up and running with large language models locally | legacyPackages.x86_64-linux.ollama |
+| ollama | 0.13.4 | Get up and running with large language models locally | legacyPackages.x86_64-linux.ollama-cpu |
+| ollama | 0.13.4 | Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration | legacyPackages.x86_64-linux.ollama-cuda |
+| ollama | 0.13.4 | Get up and running with large language models locally, using ROCm for AMD GPU acceleration | legacyPackages.x86_64-linux.ollama-rocm |
+| ollama | 0.13.4 | Get up and running with large language models locally, using Vulkan for generic GPU acceleration | legacyPackages.x86_64-linux.ollama-vulkan |
 | ollama-haskell | 0.2.1.0 | Haskell client for ollama | legacyPackages.x86_64-linux.haskellPackages.ollama-haskell |
 | ollama-holes-plugin | 0.1.6.0 | A typed-hole plugin that uses LLMs to generate valid hole-fits | legacyPackages.x86_64-linux.haskellPackages.ollama-holes-plugin |
 | olm | 1.2.0 | Tunneling client for Pangolin | legacyPackages.x86_64-linux.fosrl-olm |
@@ -42138,7 +42144,7 @@
 | op | 0.4.0.0 | Common operators encouraging large-scale easy reading | legacyPackages.x86_64-linux.haskellPackages.op |
 | op-geth | 1.101305.3 |  | legacyPackages.x86_64-linux.op-geth |
 | op2 | 0.0.3 | Functions of the type `a -> a -> b` | legacyPackages.x86_64-linux.haskellPackages.op2 |
-| opa-envoy-plugin | 1.10.0-envoy | Plugin to enforce OPA policies with Envoy | legacyPackages.x86_64-linux.opa-envoy-plugin |
+| opa-envoy-plugin | 1.11.0-envoy | Plugin to enforce OPA policies with Envoy | legacyPackages.x86_64-linux.opa-envoy-plugin |
 | opaleye | 0.10.7.0 | An SQL-generating DSL targeting PostgreSQL | legacyPackages.x86_64-linux.haskellPackages.opaleye |
 | opaleye-classy | 0.3.1.1 | Opaleye wrapped up in classy MTL attire | legacyPackages.x86_64-linux.haskellPackages.opaleye-classy |
 | opaleye-sqlite | 0.0.1.1 | An SQL-generating DSL targeting SQLite | legacyPackages.x86_64-linux.haskellPackages.opaleye-sqlite |
@@ -42230,14 +42236,14 @@
 | openafs | 1.8.14-6.17.12-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openafs_1_8 |
 | openafs | 1.8.14-6.17.12-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openafs |
 | openafs | 1.8.14-6.17.12-xanmod1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openafs_1_8 |
-| openafs | 1.8.14-6.18.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs |
-| openafs | 1.8.14-6.18.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs_1_8 |
-| openafs | 1.8.14-6.18.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs |
-| openafs | 1.8.14-6.18.0-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs_1_8 |
 | openafs | 1.8.14-6.18.1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.openafs |
 | openafs | 1.8.14-6.18.1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.openafs_1_8 |
 | openafs | 1.8.14-6.18.1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.openafs |
 | openafs | 1.8.14-6.18.1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_latest.openafs_1_8 |
+| openafs | 1.8.14-6.18.1-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs |
+| openafs | 1.8.14-6.18.1-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openafs_1_8 |
+| openafs | 1.8.14-6.18.1-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs |
+| openafs | 1.8.14-6.18.1-zen1 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxPackages_zen.openafs_1_8 |
 | openafs | 1.8.14-6.6.119 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs |
 | openafs | 1.8.14-6.6.119 | Open AFS client kernel module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openafs_1_8 |
 | openai | 2.1.0 | Servant bindings to OpenAI | legacyPackages.x86_64-linux.haskellPackages.openai |
@@ -42296,7 +42302,7 @@
 | opencl-headers | 2025.07.22 | Khronos OpenCL headers version 2025.07.22 | legacyPackages.x86_64-linux.opencl-headers |
 | opencl-icd-loader | 2025.07.22 | Official Khronos OpenCL ICD Loader | legacyPackages.x86_64-linux.khronos-ocl-icd-loader |
 | openclonk | 9.0-unstable-2025-01-11 | Free multiplayer action game in which you control clonks, small but witty and nimble humanoid beings | legacyPackages.x86_64-linux.openclonk |
-| opencloud | 4.0.0 | OpenCloud gives you a secure and private way to store, access, and share your files | legacyPackages.x86_64-linux.opencloud |
+| opencloud | 4.1.0 | OpenCloud gives you a secure and private way to store, access, and share your files | legacyPackages.x86_64-linux.opencloud |
 | opencloud-desktop | 3.0.3 | Desktop Application for OpenCloud | legacyPackages.x86_64-linux.opencloud-desktop |
 | opencloud-desktop-shell-integration-dolphin | 1.0.0 | OpenCloud Desktop shell integration for the great KDE Dolphin in KDE Frameworks 6 | legacyPackages.x86_64-linux.opencloud-desktop-shell-integration-dolphin |
 | opencloud-desktop-shell-integration-resources | 1.0.0 | Shared assets for OpenCloud desktop shell integrations | legacyPackages.x86_64-linux.opencloud-desktop-shell-integration-resources |
@@ -42521,10 +42527,10 @@
 | openrazer | 3.11.0-6.17.12 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_lqx.openrazer |
 | openrazer | 3.11.0-6.17.12 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.openrazer |
 | openrazer | 3.11.0-6.17.12 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.openrazer |
-| openrazer | 3.11.0-6.18 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer |
-| openrazer | 3.11.0-6.18 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_zen.openrazer |
 | openrazer | 3.11.0-6.18.1 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.openrazer |
+| openrazer | 3.11.0-6.18.1 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.openrazer |
 | openrazer | 3.11.0-6.18.1 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_latest.openrazer |
+| openrazer | 3.11.0-6.18.1 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxPackages_zen.openrazer |
 | openrazer | 3.11.0-6.6.119 | Entirely open source Linux driver that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.openrazer |
 | openrazer-daemon | 3.11.0 | Entirely open source user-space daemon that allows you to manage your Razer peripherals on GNU/Linux | legacyPackages.x86_64-linux.openrazer-daemon |
 | openrct2 | 0.4.29 | Open source re-implementation of RollerCoaster Tycoon 2 (original game required) | legacyPackages.x86_64-linux.openrct2 |
@@ -42590,10 +42596,10 @@
 | opensnitch_ebpf | 1.7.2-6.17.12 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_lqx.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.12 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.17.12 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.opensnitch-ebpf |
-| opensnitch_ebpf | 1.7.2-6.18 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf |
-| opensnitch_ebpf | 1.7.2-6.18 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.18.1 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.opensnitch-ebpf |
+| opensnitch_ebpf | 1.7.2-6.18.1 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.18.1 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_latest.opensnitch-ebpf |
+| opensnitch_ebpf | 1.7.2-6.18.1 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxPackages_zen.opensnitch-ebpf |
 | opensnitch_ebpf | 1.7.2-6.6.119 | eBPF process monitor module for OpenSnitch | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.opensnitch-ebpf |
 | opensoldat-unstable | 2025-10-21 | Unique 2D (side-view) multiplayer action game | legacyPackages.x86_64-linux.opensoldat |
 | opensoundcontrol-ht | 0.3 | Haskell OpenSoundControl utilities | legacyPackages.x86_64-linux.haskellPackages.opensoundcontrol-ht |
@@ -42979,7 +42985,7 @@
 | ot | 0.2.1.0 | Real-time collaborative editing with Operational Transformation | legacyPackages.x86_64-linux.haskellPackages.ot |
 | ot-tableau | 67813 | Optimality Theory tableaux in LaTeX | legacyPackages.x86_64-linux.texlivePackages.ot-tableau |
 | otadump | 0.1.2 | Command-line tool to extract partitions from Android OTA files | legacyPackages.x86_64-linux.otadump |
-| otb | 10.0-unstable-2025-04-03 | Open Source processing of remote sensing images | legacyPackages.x86_64-linux.otb |
+| otb | 10.0-unstable-2025-12-11 | Open Source processing of remote sensing images | legacyPackages.x86_64-linux.otb |
 | otel-cli | 0.4.5 | Command-line tool for sending OpenTelemetry traces | legacyPackages.x86_64-linux.otel-cli |
 | otel-desktop-viewer | 0.2.5 | Receive & visualize OpenTelemtry traces locally within one CLI tool | legacyPackages.x86_64-linux.otel-desktop-viewer |
 | otelcol | 0.135.0 | OpenTelemetry Collector Official Releases | legacyPackages.x86_64-linux.opentelemetry-collector |
@@ -43053,7 +43059,7 @@
 | ovh-ttyrec | 1.1.7.1 | Terminal interaction recorder and player | legacyPackages.x86_64-linux.ovh-ttyrec |
 | ovhcloud-cli | 0.8.1 | Command Line Interface to manage your OVHcloud services | legacyPackages.x86_64-linux.ovhcloud-cli |
 | ovito | 3.14.1 | Scientific visualization and analysis software for atomistic and particle simulation data | legacyPackages.x86_64-linux.ovito |
-| ovn | 25.09.1 | Open Virtual Network | legacyPackages.x86_64-linux.ovn |
+| ovn | 25.09.2 | Open Virtual Network | legacyPackages.x86_64-linux.ovn |
 | owamp | 4.4.6 | Tool for performing one-way active measurements | legacyPackages.x86_64-linux.owamp |
 | owl | 0-unstable-2022-01-30 | Open Apple Wireless Direct Link (AWDL) implementation written in C | legacyPackages.x86_64-linux.owl |
 | owl-compositor | 0-unstable-2021-11-10 | Portable Wayland compositor in Objective-C | legacyPackages.x86_64-linux.owl-compositor |
@@ -50316,12 +50322,12 @@
 | pgraphs | 0.6.17 | Property Graph Exchange Format (PG) converter | legacyPackages.x86_64-linux.pgraphs |
 | pgrok | 1.4.6 | Selfhosted TCP/HTTP tunnel, ngrok alternative, written in Go | legacyPackages.x86_64-linux.pgrok |
 | pgroll | 0.14.3 | PostgreSQL zero-downtime migrations made easy | legacyPackages.x86_64-linux.pgroll |
-| pgroonga | 4.0.4 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql14Packages.pgroonga |
-| pgroonga | 4.0.4 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql15Packages.pgroonga |
-| pgroonga | 4.0.4 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql16Packages.pgroonga |
-| pgroonga | 4.0.4 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql17Packages.pgroonga |
-| pgroonga | 4.0.4 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql18Packages.pgroonga |
-| pgroonga | 4.0.4 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresqlPackages.pgroonga |
+| pgroonga | 4.0.5 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql14Packages.pgroonga |
+| pgroonga | 4.0.5 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql15Packages.pgroonga |
+| pgroonga | 4.0.5 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql16Packages.pgroonga |
+| pgroonga | 4.0.5 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql17Packages.pgroonga |
+| pgroonga | 4.0.5 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresql18Packages.pgroonga |
+| pgroonga | 4.0.5 | PostgreSQL extension to use Groonga as the index | legacyPackages.x86_64-linux.postgresqlPackages.pgroonga |
 | pgrouting | 4.0.0 | PostgreSQL/PostGIS extension that provides geospatial routing functionality | legacyPackages.x86_64-linux.postgresql14Packages.pgrouting |
 | pgrouting | 4.0.0 | PostgreSQL/PostGIS extension that provides geospatial routing functionality | legacyPackages.x86_64-linux.postgresql15Packages.pgrouting |
 | pgrouting | 4.0.0 | PostgreSQL/PostGIS extension that provides geospatial routing functionality | legacyPackages.x86_64-linux.postgresql16Packages.pgrouting |
@@ -51263,7 +51269,7 @@
 | pius | 3.0.0 | PGP Individual UID Signer (PIUS), quickly and easily sign UIDs on a set of PGP keys | legacyPackages.x86_64-linux.pius |
 | piv-agent | 0.23.1 | SSH and GPG agent which you can use with your PIV hardware security device (e.g. a Yubikey) | legacyPackages.x86_64-linux.piv-agent |
 | pivotal-tracker | 0.2.0.0 | A library and a CLI tool for accessing Pivotal Tracker API | legacyPackages.x86_64-linux.haskellPackages.pivotal-tracker |
-| pix | 3.4.8 | Generic image viewer from Linux Mint | legacyPackages.x86_64-linux.pix |
+| pix | 3.4.9 | Generic image viewer from Linux Mint | legacyPackages.x86_64-linux.pix |
 | pixcat | 0.1.4 | Display images on a kitty terminal with optional resizing | legacyPackages.x86_64-linux.pixcat |
 | pixd | 1.0.0 | Colourful visualization tool for binary files | legacyPackages.x86_64-linux.pixd |
 | pixel-art | 0.0.4 | OBS Plugin that can be used to create retro-inspired pixel art visuals | legacyPackages.x86_64-linux.obs-studio-plugins.pixel-art |
@@ -51975,7 +51981,7 @@
 | positive | 0.4.1 | Positive integers | legacyPackages.x86_64-linux.haskellPackages.positive |
 | positive-integer | 0.1.2.0 | Type of positive integers | legacyPackages.x86_64-linux.haskellPackages.positive-integer |
 | positron | 0.1.0.0 | Experiment | legacyPackages.x86_64-linux.haskellPackages.positron |
-| positron-bin | 2025.12.0-167 | Positron, a next-generation data science IDE | legacyPackages.x86_64-linux.positron-bin |
+| positron-bin | 2025.12.1-4 | Positron, a next-generation data science IDE | legacyPackages.x86_64-linux.positron-bin |
 | posix-acl | 0.2.0.1 | Support for Posix ACL | legacyPackages.x86_64-linux.haskellPackages.posix-acl |
 | posix-api | 0.7.3.0 | posix bindings | legacyPackages.x86_64-linux.haskellPackages.posix-api |
 | posix-error-codes | 0.1.0.0 | POSIX error codes | legacyPackages.x86_64-linux.haskellPackages.posix-error-codes |
@@ -52329,7 +52335,7 @@
 | pretty-html | 0.1.0.1 | Produce nice human-readable HTML | legacyPackages.x86_64-linux.haskellPackages.pretty-html |
 | pretty-loc | 0.1.0.1 | Tracking and highlighting of locations in source files | legacyPackages.x86_64-linux.haskellPackages.pretty-loc |
 | pretty-ncols | 0.1 | A implementation of multi-column layout w/ Text.PrettyPrint | legacyPackages.x86_64-linux.haskellPackages.pretty-ncols |
-| pretty-php | 0.4.94 | Opinionated PHP code formatter | legacyPackages.x86_64-linux.pretty-php |
+| pretty-php | 0.4.95 | Opinionated PHP code formatter | legacyPackages.x86_64-linux.pretty-php |
 | pretty-relative-time | 0.3.0.0 | Pretty relative time | legacyPackages.x86_64-linux.haskellPackages.pretty-relative-time |
 | pretty-show | 1.10 | Tools for working with derived `Show` instances and generic inspection of values | legacyPackages.x86_64-linux.haskellPackages.pretty-show |
 | pretty-show-ansi-wl | 1.9.2.1 | Like pretty-show, but only for ansi-wl-pprint | legacyPackages.x86_64-linux.haskellPackages.pretty-show-ansi-wl |
@@ -52481,7 +52487,7 @@
 | prizm | 3.0.0 | Convert colors to different color spaces, interpolate colors, and transform colors | legacyPackages.x86_64-linux.haskellPackages.prizm |
 | prl-tools | 26.1.2-57293 | Parallels Tools for Linux guests | legacyPackages.x86_64-linux.prl-tools |
 | prmers | 4.15.35-alpha | GPU-accelerated Mersenne primality testing | legacyPackages.x86_64-linux.prmers |
-| prmt | 0.1.7 | Ultra-fast, customizable shell prompt generator | legacyPackages.x86_64-linux.prmt |
+| prmt | 0.1.8 | Ultra-fast, customizable shell prompt generator | legacyPackages.x86_64-linux.prmt |
 | pro-abstract | 0.3.0.0 | Abstract syntax for writing documents | legacyPackages.x86_64-linux.haskellPackages.pro-abstract |
 | pro-office-calculator | 1.0.13 | Completely normal office calculator | legacyPackages.x86_64-linux.pro-office-calculator |
 | pro-source | 0.1.0.0 | Utilities for tracking source locations | legacyPackages.x86_64-linux.haskellPackages.pro-source |
@@ -52651,7 +52657,7 @@
 | promptfoo | 0.118.14 | Test your prompts, models, RAGs. Evaluate and compare LLM outputs, catch regressions, and improve prompt quality | legacyPackages.x86_64-linux.promptfoo |
 | promql-cli | 0.3.0 | Command-line tool to query a Prometheus server with PromQL and visualize the output | legacyPackages.x86_64-linux.promql-cli |
 | promscale | 0.17.0 | Open-source analytical platform for Prometheus metrics | legacyPackages.x86_64-linux.promscale |
-| promtail | 3.6.2 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.promtail |
+| promtail | 3.6.3 | Like Prometheus, but for logs | legacyPackages.x86_64-linux.promtail |
 | pronounce | 1.2.0.0 | A library for interfacing with the CMU Pronouncing Dictionary | legacyPackages.x86_64-linux.haskellPackages.pronounce |
 | pronunciation | 1.0.2 | American English Pronunciation | legacyPackages.x86_64-linux.texlivePackages.pronunciation |
 | proof-assistant-bot | 0.2.2 | Telegram bot for proof assistants | legacyPackages.x86_64-linux.haskellPackages.proof-assistant-bot |
@@ -52728,7 +52734,7 @@
 | protoc-gen-doc | 1.5.1 | Documentation generator plugin for Google Protocol Buffers | legacyPackages.x86_64-linux.protoc-gen-doc |
 | protoc-gen-elixir | 0.15.0 | Protoc plugin to generate Elixir code | legacyPackages.x86_64-linux.protoc-gen-elixir |
 | protoc-gen-entgrpc | 0.7.0 | Generator of an implementation of the service interface for ent protobuff | legacyPackages.x86_64-linux.protoc-gen-entgrpc |
-| protoc-gen-es | 2.10.1 | Protobuf plugin for generating ECMAScript code | legacyPackages.x86_64-linux.protoc-gen-es |
+| protoc-gen-es | 2.10.2 | Protobuf plugin for generating ECMAScript code | legacyPackages.x86_64-linux.protoc-gen-es |
 | protoc-gen-go | 1.36.10 | Go support for Google's protocol buffers | legacyPackages.x86_64-linux.protoc-gen-go |
 | protoc-gen-go-grpc | 1.6.0 | Go language implementation of gRPC. HTTP/2 based RPC | legacyPackages.x86_64-linux.protoc-gen-go-grpc |
 | protoc-gen-go-ttrpc | 1.2.7 | GRPC for low-memory environments | legacyPackages.x86_64-linux.protoc-gen-go-ttrpc |
@@ -52871,7 +52877,7 @@
 | psmisc | 23.7 | Set of small useful utilities that use the proc filesystem (such as fuser, killall and pstree) | legacyPackages.x86_64-linux.psmisc |
 | psnfss | 9.3 | Font support for common PostScript fonts | legacyPackages.x86_64-linux.texlivePackages.psnfss |
 | psol | 1.13.35.2 | PageSpeed Optimization Libraries | legacyPackages.x86_64-linux.psol |
-| pspg | 5.8.12 | Postgres Pager | legacyPackages.x86_64-linux.pspg |
+| pspg | 5.8.13 | Postgres Pager | legacyPackages.x86_64-linux.pspg |
 | pspicture | 15878 | PostScript picture support | legacyPackages.x86_64-linux.texlivePackages.pspicture |
 | pspp | 2.0.1 | Free replacement for SPSS, a program for statistical analysis of sampled data | legacyPackages.x86_64-linux.pspp |
 | psql | 0.0.0 | PostgreSQL client | legacyPackages.x86_64-linux.haskellPackages.psql |
@@ -53073,7 +53079,7 @@
 | pulsemixer | 1.5.1 | Cli and curses mixer for pulseaudio | legacyPackages.x86_64-linux.pulsemixer |
 | pulseview | 0.4.2-unstable-2025-05-15 | Qt-based LA/scope/MSO GUI for sigrok (a signal analysis software suite) | legacyPackages.x86_64-linux.pulseview |
 | pulumi | 3.192.0 | Cloud development platform that makes creating cloud programs easy and productive | legacyPackages.x86_64-linux.pulumi |
-| pulumi | 3.210.0 | Pulumi is a cloud development platform that makes creating cloud programs easy and productive | legacyPackages.x86_64-linux.pulumi-bin |
+| pulumi | 3.212.0 | Pulumi is a cloud development platform that makes creating cloud programs easy and productive | legacyPackages.x86_64-linux.pulumi-bin |
 | pulumi-aws-native | 0.38.0 | Native AWS Pulumi Provider | legacyPackages.x86_64-linux.pulumiPackages.pulumi-aws-native |
 | pulumi-azure-native | 2.13.0 | Native Azure Pulumi Provider | legacyPackages.x86_64-linux.pulumiPackages.pulumi-azure-native |
 | pulumi-command | 0.9.0 | Pulumi provider to execute commands and scripts either locally or remotely as part of the Pulumi resource model | legacyPackages.x86_64-linux.pulumiPackages.pulumi-command |
@@ -53283,8 +53289,6 @@
 | pylode | 2.13.3 | OWL ontology documentation tool using Python and templating, based on LODE | legacyPackages.x86_64-linux.pylode |
 | pyluatex | 0.6.3 | Execute Python code on the fly in your LaTeX documents | legacyPackages.x86_64-linux.texlivePackages.pyluatex |
 | pylyzer | 0.0.82 | Fast static code analyzer & language server for Python | legacyPackages.x86_64-linux.pylyzer |
-| pymeshlab | 2025.7 | Open source mesh processing python library | legacyPackages.x86_64-linux.python312Packages.pymeshlab |
-| pymeshlab | 2025.7 | Open source mesh processing python library | legacyPackages.x86_64-linux.python313Packages.pymeshlab |
 | pymol | 3.1.0 | Python-enhanced molecular graphics tool | legacyPackages.x86_64-linux.pymol |
 | pympress | 1.8.6 | Simple yet powerful PDF reader designed for dual-screen presentations | legacyPackages.x86_64-linux.pympress |
 | pynitrokey | 0.11.2 | Python client for Nitrokey devices | legacyPackages.x86_64-linux.pynitrokey |
@@ -53679,6 +53683,7 @@
 | python3.12-airthings-cloud | 0.2.0 | Python module for Airthings | legacyPackages.x86_64-linux.python312Packages.airthings-cloud |
 | python3.12-airtouch4pyapi | 1.0.8 | Python API for Airtouch 4 controllers | legacyPackages.x86_64-linux.python312Packages.airtouch4pyapi |
 | python3.12-airtouch5py | 0.4.0 | Python client for the airtouch 5 | legacyPackages.x86_64-linux.python312Packages.airtouch5py |
+| python3.12-aistudio-sdk | 0.3.8 | Python client library for the AIStudio API | legacyPackages.x86_64-linux.python312Packages.aistudio-sdk |
 | python3.12-ajpy | 0.0.5 | AJP package crafting library | legacyPackages.x86_64-linux.python312Packages.ajpy |
 | python3.12-ajsonrpc | 1.2.0 | Async JSON-RPC 2.0 protocol and asyncio server | legacyPackages.x86_64-linux.python312Packages.ajsonrpc |
 | python3.12-alabaster | 1.0.0 | Light, configurable Sphinx theme | legacyPackages.x86_64-linux.python312Packages.alabaster |
@@ -53799,8 +53804,8 @@
 | python3.12-applicationinsights | 0.11.10 | This project extends the Application Insights API surface to support Python | legacyPackages.x86_64-linux.python312Packages.applicationinsights |
 | python3.12-appnope | 0.1.4 | Disable App Nap on macOS | legacyPackages.x86_64-linux.python312Packages.appnope |
 | python3.12-apprise | 1.9.6 | Push Notifications that work with just about every platform | legacyPackages.x86_64-linux.python312Packages.apprise |
-| python3.12-approval-utilities | 16.1.0 | Utilities for your production code that work well with approvaltests | legacyPackages.x86_64-linux.python312Packages.approval-utilities |
-| python3.12-approvaltests | 16.1.0 | Assertion/verification library to aid testing | legacyPackages.x86_64-linux.python312Packages.approvaltests |
+| python3.12-approval-utilities | 16.2.0 | Utilities for your production code that work well with approvaltests | legacyPackages.x86_64-linux.python312Packages.approval-utilities |
+| python3.12-approvaltests | 16.2.0 | Assertion/verification library to aid testing | legacyPackages.x86_64-linux.python312Packages.approvaltests |
 | python3.12-appthreat-vulnerability-db | 6.4.4 | Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm | legacyPackages.x86_64-linux.python312Packages.appthreat-vulnerability-db |
 | python3.12-apptools | 5.3.1 | Set of packages that Enthought has found useful in creating a number of applications | legacyPackages.x86_64-linux.python312Packages.apptools |
 | python3.12-apricot-select | 0.6.1 | Module for submodular optimization for the purpose of selecting subsets of massive data sets | legacyPackages.x86_64-linux.python312Packages.apricot-select |
@@ -54002,8 +54007,8 @@
 | python3.12-awacs | 2.5.0 | AWS Access Policy Language creation library | legacyPackages.x86_64-linux.python312Packages.awacs |
 | python3.12-awesome-slugify | 1.6.5 | Python flexible slugify function | legacyPackages.x86_64-linux.python312Packages.awesome-slugify |
 | python3.12-awesomeversion | 25.8.0 | Python module to deal with versions | legacyPackages.x86_64-linux.python312Packages.awesomeversion |
-| python3.12-awkward | 2.8.10 | Manipulate JSON-like data with NumPy-like idioms | legacyPackages.x86_64-linux.python312Packages.awkward |
-| python3.12-awkward-cpp | 50 | CPU kernels and compiled extensions for Awkward Array | legacyPackages.x86_64-linux.python312Packages.awkward-cpp |
+| python3.12-awkward | 2.8.11 | Manipulate JSON-like data with NumPy-like idioms | legacyPackages.x86_64-linux.python312Packages.awkward |
+| python3.12-awkward-cpp | 51 | CPU kernels and compiled extensions for Awkward Array | legacyPackages.x86_64-linux.python312Packages.awkward-cpp |
 | python3.12-awkward-pandas | 2023.8.0 | Awkward Array Pandas Extension | legacyPackages.x86_64-linux.python312Packages.awkward-pandas |
 | python3.12-aws-adfs | 2.12.1 | Command line tool to ease AWS CLI authentication against ADFS | legacyPackages.x86_64-linux.python312Packages.aws-adfs |
 | python3.12-aws-encryption-sdk | 4.0.3 | Python implementation of the AWS Encryption SDK | legacyPackages.x86_64-linux.python312Packages.aws-encryption-sdk |
@@ -54225,6 +54230,7 @@
 | python3.12-bc-jsonpath-ng | 1.6.1 | JSONPath implementation for Python | legacyPackages.x86_64-linux.python312Packages.bc-jsonpath-ng |
 | python3.12-bc-python-hcl2 | 0.4.3 | Parser for HCL2 written in Python using Lark | legacyPackages.x86_64-linux.python312Packages.bc-python-hcl2 |
 | python3.12-bcdoc | 0.16.0 | ReST document generation tools for botocore | legacyPackages.x86_64-linux.python312Packages.bcdoc |
+| python3.12-bce-python-sdk | 0.9.46 | Baidu Cloud Engine SDK for python | legacyPackages.x86_64-linux.python312Packages.bce-python-sdk |
 | python3.12-bcf | 1.9.1 | HARDWARIO Firmware Tool | legacyPackages.x86_64-linux.python312Packages.bcf |
 | python3.12-bcg | 1.17.0 | HARDWARIO Gateway (Python Application «bcg») | legacyPackages.x86_64-linux.python312Packages.bcg |
 | python3.12-bch | 1.2.1 | HARDWARIO Hub Control Tool | legacyPackages.x86_64-linux.python312Packages.bch |
@@ -54396,9 +54402,9 @@
 | python3.12-bot-safe-agents | 1.1 | Library for fetching a list of bot-safe user agents | legacyPackages.x86_64-linux.python312Packages.bot-safe-agents |
 | python3.12-botan3 | 3.10.0 | Python Bindings for botan3 cryptography library | legacyPackages.x86_64-linux.python312Packages.botan3 |
 | python3.12-boto3 | 1.40.18 | AWS SDK for Python | legacyPackages.x86_64-linux.python312Packages.boto3 |
-| python3.12-boto3-stubs | 1.42.9 | Type annotations for boto3 | legacyPackages.x86_64-linux.python312Packages.boto3-stubs |
+| python3.12-boto3-stubs | 1.42.10 | Type annotations for boto3 | legacyPackages.x86_64-linux.python312Packages.boto3-stubs |
 | python3.12-botocore | 1.40.18 | Low-level interface to a growing number of Amazon Web Services | legacyPackages.x86_64-linux.python312Packages.botocore |
-| python3.12-botocore-stubs | 1.42.9 | Type annotations and code completion for botocore | legacyPackages.x86_64-linux.python312Packages.botocore-stubs |
+| python3.12-botocore-stubs | 1.42.10 | Type annotations and code completion for botocore | legacyPackages.x86_64-linux.python312Packages.botocore-stubs |
 | python3.12-botorch | 0.16.1 | Bayesian Optimization in PyTorch | legacyPackages.x86_64-linux.python312Packages.botorch |
 | python3.12-bottle | 0.13.4 | Fast and simple micro-framework for small web-applications | legacyPackages.x86_64-linux.python312Packages.bottle |
 | python3.12-bottleneck | 1.6.0 | Fast NumPy array functions | legacyPackages.x86_64-linux.python312Packages.bottleneck |
@@ -54523,6 +54529,7 @@
 | python3.12-catalogue | 2.0.10 | Tiny library for adding function or object registries | legacyPackages.x86_64-linux.python312Packages.catalogue |
 | python3.12-catboost | 1.2.7 | High-performance library for gradient boosting on decision trees | legacyPackages.x86_64-linux.python312Packages.catboost |
 | python3.12-categorical-distance | 1.9-unstable-2020-03-31 | Compare similarity of categorical variables using Jaccard index | legacyPackages.x86_64-linux.python312Packages.categorical-distance |
+| python3.12-category-encoders | 2.9.0 | Library for sklearn compatible categorical variable encoders | legacyPackages.x86_64-linux.python312Packages.category-encoders |
 | python3.12-catkin-pkg | 1.1.0 | Library for retrieving information about catkin packages | legacyPackages.x86_64-linux.python312Packages.catkin-pkg |
 | python3.12-catppuccin | 2.5.0 | Soothing pastel theme for Python | legacyPackages.x86_64-linux.python312Packages.catppuccin |
 | python3.12-cattrs | 25.1.1 | Python custom class converters for attrs | legacyPackages.x86_64-linux.python312Packages.cattrs |
@@ -54605,7 +54612,7 @@
 | python3.12-chirpstack-api | 3.12.5 | ChirpStack gRPC API message and service wrappers for Python | legacyPackages.x86_64-linux.python312Packages.chirpstack-api |
 | python3.12-chispa | 0.11.1 | PySpark test helper methods with beautiful error messages | legacyPackages.x86_64-linux.python312Packages.chispa |
 | python3.12-chroma-hnswlib | 0.8.2 | Header-only C++/python library for fast approximate nearest neighbors | legacyPackages.x86_64-linux.python312Packages.chroma-hnswlib |
-| python3.12-chromadb | 1.3.6 | AI-native open-source embedding database | legacyPackages.x86_64-linux.python312Packages.chromadb |
+| python3.12-chromadb | 1.3.7 | AI-native open-source embedding database | legacyPackages.x86_64-linux.python312Packages.chromadb |
 | python3.12-chromaprint | 0.5 | Facilitate effortless color terminal output | legacyPackages.x86_64-linux.python312Packages.chromaprint |
 | python3.12-ci-info | 0.3.0 | Gather continuous integration information on the fly | legacyPackages.x86_64-linux.python312Packages.ci-info |
 | python3.12-ci-py | 1.0.0 | Library for working with Continuous Integration services | legacyPackages.x86_64-linux.python312Packages.ci-py |
@@ -54786,7 +54793,7 @@
 | python3.12-commoncode | 32.3.0 | Set of common utilities, originally split from ScanCode | legacyPackages.x86_64-linux.python312Packages.commoncode |
 | python3.12-commonmark | 0.9.1 | Python CommonMark parser  | legacyPackages.x86_64-linux.python312Packages.commonmark |
 | python3.12-commonregex | 1.5.4 | Collection of common regular expressions bundled with an easy to use interface | legacyPackages.x86_64-linux.python312Packages.commonregex |
-| python3.12-compit-inext-api | 0.3.1 | Python client for the Compit iNext API | legacyPackages.x86_64-linux.python312Packages.compit-inext-api |
+| python3.12-compit-inext-api | 0.3.4 | Python client for the Compit iNext API | legacyPackages.x86_64-linux.python312Packages.compit-inext-api |
 | python3.12-compliance-trestle | 3.9.1 | Opinionated tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard | legacyPackages.x86_64-linux.python312Packages.compliance-trestle |
 | python3.12-complycube | 1.1.6 | Official Python client for the ComplyCube API | legacyPackages.x86_64-linux.python312Packages.complycube |
 | python3.12-compreffor | 0.5.6 | CFF table subroutinizer for FontTools | legacyPackages.x86_64-linux.python312Packages.compreffor |
@@ -54861,6 +54868,7 @@
 | python3.12-cot | 2.2.1 | Common OVF Tool | legacyPackages.x86_64-linux.python312Packages.cot |
 | python3.12-country-list | 1.1.0 | List of all countries with names and ISO 3166-1 codes in all languages | legacyPackages.x86_64-linux.python312Packages.country-list |
 | python3.12-countryguess | 0.4.8 | Fuzzy lookup of country information | legacyPackages.x86_64-linux.python312Packages.countryguess |
+| python3.12-countryinfo | 1.0.0 | Data about countries, ISO info and states/provinces within them | legacyPackages.x86_64-linux.python312Packages.countryinfo |
 | python3.12-courlan | 1.3.2 | Clean, filter and sample URLs to optimize data collection | legacyPackages.x86_64-linux.python312Packages.courlan |
 | python3.12-coverage | 7.13.0 | Code coverage measurement for Python | legacyPackages.x86_64-linux.python312Packages.coverage |
 | python3.12-coveralls | 4.0.2 | Show coverage stats online via coveralls.io | legacyPackages.x86_64-linux.python312Packages.coveralls |
@@ -54891,7 +54899,7 @@
 | python3.12-crispy-bootstrap5 | 2025.6 | Bootstrap 5 template pack for django-crispy-forms | legacyPackages.x86_64-linux.python312Packages.django-crispy-bootstrap5 |
 | python3.12-crochet | 2.1.1 | Library that makes it easier to use Twisted from regular blocking code | legacyPackages.x86_64-linux.python312Packages.crochet |
 | python3.12-cron-converter | 1.3.1 | Cron string parser and iteration for the datetime object with a cron like format | legacyPackages.x86_64-linux.python312Packages.cron-converter |
-| python3.12-cron-descriptor | 1.4.5 | Library that converts cron expressions into human readable strings | legacyPackages.x86_64-linux.python312Packages.cron-descriptor |
+| python3.12-cron-descriptor | 2.0.6 | Library that converts cron expressions into human readable strings | legacyPackages.x86_64-linux.python312Packages.cron-descriptor |
 | python3.12-croniter | 6.0.0 | Library to iterate over datetime object with cron like format | legacyPackages.x86_64-linux.python312Packages.croniter |
 | python3.12-cronsim | 2.7 | Cron expression parser and evaluator | legacyPackages.x86_64-linux.python312Packages.cronsim |
 | python3.12-crontab | 3.3.0 | Parse and use crontab schedules in Python | legacyPackages.x86_64-linux.python312Packages.crontab |
@@ -55230,7 +55238,7 @@
 | python3.12-distlib | 0.4.0 | Low-level components of distutils2/packaging | legacyPackages.x86_64-linux.python312Packages.distlib |
 | python3.12-distorm3 | 3.5.2b | Disassembler library for x86/AMD64 | legacyPackages.x86_64-linux.python312Packages.distorm3 |
 | python3.12-distrax | 0.1.7 | Probability distributions in JAX | legacyPackages.x86_64-linux.python312Packages.distrax |
-| python3.12-distributed | 2025.11.0 | Distributed computation in Python | legacyPackages.x86_64-linux.python312Packages.distributed |
+| python3.12-distributed | 2025.12.0 | Distributed computation in Python | legacyPackages.x86_64-linux.python312Packages.distributed |
 | python3.12-distro | 1.9.0 | Linux Distribution - a Linux OS platform information API | legacyPackages.x86_64-linux.python312Packages.distro |
 | python3.12-distro-info | 1.14 | Information about Debian and Ubuntu releases | legacyPackages.x86_64-linux.python312Packages.distro-info |
 | python3.12-distutils | 80.9.0 | Distutils as found in cpython | legacyPackages.x86_64-linux.python312Packages.distutils |
@@ -55262,7 +55270,7 @@
 | python3.12-django-bootstrap4 | 25.2 | Bootstrap 4 integration with Django | legacyPackages.x86_64-linux.python312Packages.django-bootstrap4 |
 | python3.12-django-bootstrap5 | 25.2 | Bootstrap 5 integration with Django | legacyPackages.x86_64-linux.python312Packages.django-bootstrap5 |
 | python3.12-django-cachalot | 2.8.0 | No effort, no worry, maximum performance | legacyPackages.x86_64-linux.python312Packages.django-cachalot |
-| python3.12-django-cache-memoize | 0-unstable-2025-12-05 | Django utility for a memoization decorator that uses the Django cache framework | legacyPackages.x86_64-linux.python312Packages.django-cache-memoize |
+| python3.12-django-cache-memoize | 0-unstable-2025-12-08 | Django utility for a memoization decorator that uses the Django cache framework | legacyPackages.x86_64-linux.python312Packages.django-cache-memoize |
 | python3.12-django-cache-url | 3.4.5 | Use Cache URLs in your Django application | legacyPackages.x86_64-linux.python312Packages.django-cache-url |
 | python3.12-django-cacheops | 7.2 | Slick ORM cache with automatic granular event-driven invalidation for Django | legacyPackages.x86_64-linux.python312Packages.django-cacheops |
 | python3.12-django-celery-beat | 2.8.1 | Celery Periodic Tasks backed by the Django ORM | legacyPackages.x86_64-linux.python312Packages.django-celery-beat |
@@ -55347,7 +55355,7 @@
 | python3.12-django-pattern-library | 1.5.0 | UI pattern libraries for Django templates | legacyPackages.x86_64-linux.python312Packages.django-pattern-library |
 | python3.12-django-payments | 3.1.0 | Universal payment handling for Django | legacyPackages.x86_64-linux.python312Packages.django-payments |
 | python3.12-django-pgactivity | 1.8.0 | View, filter, and kill Postgres queries | legacyPackages.x86_64-linux.python312Packages.django-pgactivity |
-| python3.12-django-pghistory | 3.9.0 | History tracking for Django and Postgres | legacyPackages.x86_64-linux.python312Packages.django-pghistory |
+| python3.12-django-pghistory | 3.9.1 | History tracking for Django and Postgres | legacyPackages.x86_64-linux.python312Packages.django-pghistory |
 | python3.12-django-pglock | 1.8.0 | Postgres advisory locks, table locks, and blocking lock management | legacyPackages.x86_64-linux.python312Packages.django-pglock |
 | python3.12-django-pglocks | 1.0.4 | PostgreSQL locking context managers and functions for Django | legacyPackages.x86_64-linux.python312Packages.django-pglocks |
 | python3.12-django-pgpubsub | 1.3.1 | Lightweight background tasks using Django Channels and PostgreSQL NOTIFY/LISTEN | legacyPackages.x86_64-linux.python312Packages.django-pgpubsub |
@@ -55646,7 +55654,7 @@
 | python3.12-electrum-ecc | 0.0.5 | Pure python ctypes wrapper for libsecp256k1 | legacyPackages.x86_64-linux.python312Packages.electrum-ecc |
 | python3.12-elementpath | 5.0.4 | XPath 1.0/2.0 parsers and selectors for ElementTree and lxml | legacyPackages.x86_64-linux.python312Packages.elementpath |
 | python3.12-elevate | 0.1.3 | Python module for re-launching the current process as super-user | legacyPackages.x86_64-linux.python312Packages.elevate |
-| python3.12-elevenlabs | 2.26.1 | Official Python API for ElevenLabs Text to Speech | legacyPackages.x86_64-linux.python312Packages.elevenlabs |
+| python3.12-elevenlabs | 2.27.0 | Official Python API for ElevenLabs Text to Speech | legacyPackages.x86_64-linux.python312Packages.elevenlabs |
 | python3.12-elgato | 5.1.2 | Python client for Elgato Key Lights | legacyPackages.x86_64-linux.python312Packages.elgato |
 | python3.12-eliot | 1.17.5 | Logging library that tells you why it happened | legacyPackages.x86_64-linux.python312Packages.eliot |
 | python3.12-eliqonline | 1.2.2 | Python client to the Eliq Online API | legacyPackages.x86_64-linux.python312Packages.eliqonline |
@@ -55817,6 +55825,7 @@
 | python3.12-faraday-plugins | 1.25.0 | Security tools report parsers for Faraday | legacyPackages.x86_64-linux.python312Packages.faraday-plugins |
 | python3.12-farama-notifications | 0.0.4 | Allows for providing notifications on import to all Farama Packages | legacyPackages.x86_64-linux.python312Packages.farama-notifications |
 | python3.12-fast-array-utils | 1.3.1 | Fast array utilities | legacyPackages.x86_64-linux.python312Packages.fast-array-utils |
+| python3.12-fast-colorthief | 0.0.5 | Selection of most dominant colors in image using Modified Median Cut Quantization | legacyPackages.x86_64-linux.python312Packages.fast-colorthief |
 | python3.12-fast-histogram | 0.14 | Fast 1D and 2D histogram functions in Python | legacyPackages.x86_64-linux.python312Packages.fast-histogram |
 | python3.12-fast-query-parsers | 1.0.3 | Ultra-fast query string and url-encoded form-data parsers | legacyPackages.x86_64-linux.python312Packages.fast-query-parsers |
 | python3.12-fast-simplification | 0.1.12 | Fast Quadratic Mesh Simplification | legacyPackages.x86_64-linux.python312Packages.fast-simplification |
@@ -56261,7 +56270,7 @@
 | python3.12-gluonts | 0.16.2 | Probabilistic time series modeling in Python | legacyPackages.x86_64-linux.python312Packages.gluonts |
 | python3.12-glymur | 0.13.6 | Tools for accessing JPEG2000 files | legacyPackages.x86_64-linux.python312Packages.glymur |
 | python3.12-glyphsets | 1.1.0 | Google Fonts glyph set metadata | legacyPackages.x86_64-linux.python312Packages.glyphsets |
-| python3.12-glyphslib | 6.12.5 | Bridge from Glyphs source files (.glyphs) to UFOs and Designspace files via defcon and designspaceLib | legacyPackages.x86_64-linux.python312Packages.glyphslib |
+| python3.12-glyphslib | 6.12.6 | Bridge from Glyphs source files (.glyphs) to UFOs and Designspace files via defcon and designspaceLib | legacyPackages.x86_64-linux.python312Packages.glyphslib |
 | python3.12-glyphtools | 0.8.0 | Python library for extracting information from font glyphs | legacyPackages.x86_64-linux.python312Packages.glyphtools |
 | python3.12-gmpy | 1.17 | GMP or MPIR interface to Python 2.4+ and 3.x | legacyPackages.x86_64-linux.python312Packages.gmpy |
 | python3.12-gmpy2 | 2.2.1 | Interface to GMP, MPFR, and MPC for Python 3.7+ | legacyPackages.x86_64-linux.python312Packages.gmpy2 |
@@ -56424,7 +56433,7 @@
 | python3.12-grip | 4.6.1 | Preview GitHub Markdown files like Readme locally before committing them | legacyPackages.x86_64-linux.python312Packages.grip |
 | python3.12-groestlcoin-hash | 1.0.3 | Bindings for groestl key derivation function library used in Groestlcoin | legacyPackages.x86_64-linux.python312Packages.groestlcoin-hash |
 | python3.12-groovy | 0.1.2 | Small Python library created to help developers protect their applications from Server Side Request Forgery (SSRF) attacks | legacyPackages.x86_64-linux.python312Packages.groovy |
-| python3.12-groq | 0.36.0 | Library for the Groq API | legacyPackages.x86_64-linux.python312Packages.groq |
+| python3.12-groq | 0.37.1 | Library for the Groq API | legacyPackages.x86_64-linux.python312Packages.groq |
 | python3.12-growattserver | 1.7.1 | Python package to retrieve information from Growatt units | legacyPackages.x86_64-linux.python312Packages.growattserver |
 | python3.12-grpc-google-iam-v1 | 3.31.3 | GRPC library for the google-iam-v1 service | legacyPackages.x86_64-linux.python312Packages.grpc-google-iam-v1 |
 | python3.12-grpc-interceptor | 0.15.4 | Simplified gRPC interceptors | legacyPackages.x86_64-linux.python312Packages.grpc-interceptor |
@@ -56486,6 +56495,7 @@
 | python3.12-habluetooth | 5.8.0 | Library for high availability Bluetooth | legacyPackages.x86_64-linux.python312Packages.habluetooth |
 | python3.12-hachoir | 3.3.0 | Python library to view and edit a binary stream | legacyPackages.x86_64-linux.python312Packages.hachoir |
 | python3.12-hacking | 8.0.0 | OpenStack Hacking Guideline Enforcement | legacyPackages.x86_64-linux.python312Packages.hacking |
+| python3.12-haishoku | 1.1.8 | Development tool for grabbing the dominant color or representative color palette from an image | legacyPackages.x86_64-linux.python312Packages.haishoku |
 | python3.12-hakuin | 0.1.10 | Blind SQL Injection optimization and automation framework | legacyPackages.x86_64-linux.python312Packages.hakuin |
 | python3.12-halo | 0.0.31 | Beautiful Spinners for Terminal, IPython and Jupyter | legacyPackages.x86_64-linux.python312Packages.halo |
 | python3.12-halohome | 0.7.0 | Python library to control Eaton HALO Home Smart Lights | legacyPackages.x86_64-linux.python312Packages.halohome |
@@ -56691,7 +56701,7 @@
 | python3.12-i2csense | 0.0.4 | Library to handle i2c sensors with the Raspberry Pi | legacyPackages.x86_64-linux.python312Packages.i2csense |
 | python3.12-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python312Packages.i3-py |
 | python3.12-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python312Packages.i3ipc |
-| python3.12-iamdata | 0.1.202512141 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
+| python3.12-iamdata | 0.1.202512161 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python312Packages.iamdata |
 | python3.12-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python312Packages.iammeter |
 | python3.12-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python312Packages.iapws |
 | python3.12-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python312Packages.iaqualink |
@@ -56983,7 +56993,7 @@
 | python3.12-json-home-client | 1.1.1 | Client class for calling http+json APIs in Python | legacyPackages.x86_64-linux.python312Packages.json-home-client |
 | python3.12-json-logging | 1.5.1 | Python library to emit logs in JSON format | legacyPackages.x86_64-linux.python312Packages.json-logging |
 | python3.12-json-merge-patch | 0.3.0 | JSON Merge Patch library | legacyPackages.x86_64-linux.python312Packages.json-merge-patch |
-| python3.12-json-repair | 0.54.2 | Module to repair invalid JSON, commonly used to parse the output of LLMs | legacyPackages.x86_64-linux.python312Packages.json-repair |
+| python3.12-json-repair | 0.54.3 | Module to repair invalid JSON, commonly used to parse the output of LLMs | legacyPackages.x86_64-linux.python312Packages.json-repair |
 | python3.12-json-rpc | 1.15.0 | JSON-RPC 1/2 transport implementation | legacyPackages.x86_64-linux.python312Packages.json-rpc |
 | python3.12-json-schema-for-humans | 1.5.1 | Quickly generate HTML documentation from a JSON schema | legacyPackages.x86_64-linux.python312Packages.json-schema-for-humans |
 | python3.12-json-stream | 2.4.1 | Streaming JSON parser | legacyPackages.x86_64-linux.python312Packages.json-stream |
@@ -57216,7 +57226,7 @@
 | python3.12-langchain-xai | 1.1.0 | Build LangChain applications with X AI | legacyPackages.x86_64-linux.python312Packages.langchain-xai |
 | python3.12-langcodes | 3.5.0 | Python toolkit for working with and comparing the standardized codes for languages | legacyPackages.x86_64-linux.python312Packages.langcodes |
 | python3.12-langdetect | 1.0.9 | Python port of Google's language-detection library | legacyPackages.x86_64-linux.python312Packages.langdetect |
-| python3.12-langfuse | 3.10.5 | Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability | legacyPackages.x86_64-linux.python312Packages.langfuse |
+| python3.12-langfuse | 3.10.6 | Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability | legacyPackages.x86_64-linux.python312Packages.langfuse |
 | python3.12-langgraph | 1.0.4 | Build resilient language agents as graphs | legacyPackages.x86_64-linux.python312Packages.langgraph |
 | python3.12-langgraph-checkpoint | 3.0.1 | Library with base interfaces for LangGraph checkpoint savers | legacyPackages.x86_64-linux.python312Packages.langgraph-checkpoint |
 | python3.12-langgraph-checkpoint-mongodb | 0.3.0 | Integrations between MongoDB, Atlas, LangChain, and LangGraph | legacyPackages.x86_64-linux.python312Packages.langgraph-checkpoint-mongodb |
@@ -57228,7 +57238,7 @@
 | python3.12-langgraph-sdk | 0.2.15 | SDK for interacting with the LangGraph Cloud REST API | legacyPackages.x86_64-linux.python312Packages.langgraph-sdk |
 | python3.12-langgraph-store-mongodb | 0.1.1 | Integrations between MongoDB, Atlas, LangChain, and LangGraph | legacyPackages.x86_64-linux.python312Packages.langgraph-store-mongodb |
 | python3.12-langid | 1.1.6 | Langid.py is a standalone Language Identification (LangID) tool | legacyPackages.x86_64-linux.python312Packages.langid |
-| python3.12-langsmith | 0.4.58 | Client library to connect to the LangSmith LLM Tracing and Evaluation Platform | legacyPackages.x86_64-linux.python312Packages.langsmith |
+| python3.12-langsmith | 0.4.59 | Client library to connect to the LangSmith LLM Tracing and Evaluation Platform | legacyPackages.x86_64-linux.python312Packages.langsmith |
 | python3.12-language-data | 1.3.0 | Supplement module for langcodes | legacyPackages.x86_64-linux.python312Packages.language-data |
 | python3.12-language-tags | 1.2.0 | Dealing with IANA language tags in Python | legacyPackages.x86_64-linux.python312Packages.language-tags |
 | python3.12-language-tool-python | 3.1.0 | Free python grammar checker | legacyPackages.x86_64-linux.python312Packages.language-tool-python |
@@ -57511,7 +57521,7 @@
 | python3.12-loopy | 2025.2 | Code generator for array-based code on CPUs and GPUs | legacyPackages.x86_64-linux.python312Packages.loopy |
 | python3.12-looseversion | 1.3.0 | Version numbering for anarchists and software realists | legacyPackages.x86_64-linux.python312Packages.looseversion |
 | python3.12-loqedapi | 2.1.10 | Module to interact with the Loqed Smart Door Lock API | legacyPackages.x86_64-linux.python312Packages.loqedapi |
-| python3.12-loro | 1.10.0 | Data collaborative and version-controlled JSON with CRDTs | legacyPackages.x86_64-linux.python312Packages.loro |
+| python3.12-loro | 1.10.3 | Data collaborative and version-controlled JSON with CRDTs | legacyPackages.x86_64-linux.python312Packages.loro |
 | python3.12-losant-rest | 1.22.1 | Python module for consuming the Losant IoT Platform API | legacyPackages.x86_64-linux.python312Packages.losant-rest |
 | python3.12-lottie | 0.7.2 | Framework to work with lottie files and telegram animated stickers (tgs) | legacyPackages.x86_64-linux.python312Packages.lottie |
 | python3.12-low-index | 1.2.1 | Enumerates low index subgroups of a finitely presented group | legacyPackages.x86_64-linux.python312Packages.low-index |
@@ -57706,7 +57716,7 @@
 | python3.12-merkletools | 1.0.3 | Python tools for creating Merkle trees, generating Merkle proofs, and verification of Merkle proofs | legacyPackages.x86_64-linux.python312Packages.merkletools |
 | python3.12-meross-iot | 0.4.10.3 | Python library to interact with Meross devices | legacyPackages.x86_64-linux.python312Packages.meross-iot |
 | python3.12-meshcat | 0.3.2 | WebGL-based 3D visualizer for Python | legacyPackages.x86_64-linux.python312Packages.meshcat |
-| python3.12-meshcore | 2.2.2 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python312Packages.meshcore |
+| python3.12-meshcore | 2.2.3 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python312Packages.meshcore |
 | python3.12-meshio | 5.3.5 | I/O for mesh files | legacyPackages.x86_64-linux.python312Packages.meshio |
 | python3.12-meshlabxml | 2018.3 | Create and run MeshLab XML scripts with Python | legacyPackages.x86_64-linux.python312Packages.meshlabxml |
 | python3.12-meshtastic | 2.7.5 | Python API for talking to Meshtastic devices | legacyPackages.x86_64-linux.python312Packages.meshtastic |
@@ -57868,6 +57878,7 @@
 | python3.12-model-signing | 1.1.1 | Supply chain security for ML | legacyPackages.x86_64-linux.python312Packages.model-signing |
 | python3.12-modelcif | 1.6 | Python package for handling ModelCIF mmCIF and BinaryCIF files | legacyPackages.x86_64-linux.python312Packages.modelcif |
 | python3.12-modeled | 0.1.8 | Universal data modeling for Python | legacyPackages.x86_64-linux.python312Packages.modeled |
+| python3.12-modelscope | 1.31.0 | Bring the notion of Model-as-a-Service to life | legacyPackages.x86_64-linux.python312Packages.modelscope |
 | python3.12-modelsearch | 1.1.1 | Index Django Models with Elasticsearch or OpenSearch and query them with the ORM | legacyPackages.x86_64-linux.python312Packages.django-modelsearch |
 | python3.12-modern-colorthief | 0.1.7 |  | legacyPackages.x86_64-linux.python312Packages.modern-colorthief |
 | python3.12-moderngl | 5.12.0 | High performance rendering for Python | legacyPackages.x86_64-linux.python312Packages.moderngl |
@@ -58080,7 +58091,7 @@
 | python3.12-mypy-boto3-comprehendmedical | 1.42.3 | Type annotations for boto3 comprehendmedical | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-comprehendmedical |
 | python3.12-mypy-boto3-compute-optimizer | 1.42.3 | Type annotations for boto3 compute-optimizer | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-compute-optimizer |
 | python3.12-mypy-boto3-config | 1.42.3 | Type annotations for boto3 config | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-config |
-| python3.12-mypy-boto3-connect | 1.42.9 | Type annotations for boto3 connect | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-connect |
+| python3.12-mypy-boto3-connect | 1.42.10 | Type annotations for boto3 connect | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-connect |
 | python3.12-mypy-boto3-connect-contact-lens | 1.42.3 | Type annotations for boto3 connect-contact-lens | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-connect-contact-lens |
 | python3.12-mypy-boto3-connectcampaigns | 1.42.3 | Type annotations for boto3 connectcampaigns | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-connectcampaigns |
 | python3.12-mypy-boto3-connectcases | 1.42.3 | Type annotations for boto3 connectcases | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-connectcases |
@@ -58107,7 +58118,7 @@
 | python3.12-mypy-boto3-dynamodb | 1.42.3 | Type annotations for boto3 dynamodb | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-dynamodb |
 | python3.12-mypy-boto3-dynamodbstreams | 1.42.3 | Type annotations for boto3 dynamodbstreams | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-dynamodbstreams |
 | python3.12-mypy-boto3-ebs | 1.42.3 | Type annotations for boto3 ebs | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ebs |
-| python3.12-mypy-boto3-ec2 | 1.42.5 | Type annotations for boto3 ec2 | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ec2 |
+| python3.12-mypy-boto3-ec2 | 1.42.10 | Type annotations for boto3 ec2 | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ec2 |
 | python3.12-mypy-boto3-ec2-instance-connect | 1.42.3 | Type annotations for boto3 ec2-instance-connect | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ec2-instance-connect |
 | python3.12-mypy-boto3-ecr | 1.42.3 | Type annotations for boto3 ecr | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ecr |
 | python3.12-mypy-boto3-ecr-public | 1.42.3 | Type annotations for boto3 ecr-public | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-ecr-public |
@@ -58123,7 +58134,7 @@
 | python3.12-mypy-boto3-emr | 1.42.3 | Type annotations for boto3 emr | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-emr |
 | python3.12-mypy-boto3-emr-containers | 1.42.3 | Type annotations for boto3 emr-containers | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-emr-containers |
 | python3.12-mypy-boto3-emr-serverless | 1.42.3 | Type annotations for boto3 emr-serverless | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-emr-serverless |
-| python3.12-mypy-boto3-entityresolution | 1.42.3 | Type annotations for boto3 entityresolution | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-entityresolution |
+| python3.12-mypy-boto3-entityresolution | 1.42.10 | Type annotations for boto3 entityresolution | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-entityresolution |
 | python3.12-mypy-boto3-es | 1.42.3 | Type annotations for boto3 es | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-es |
 | python3.12-mypy-boto3-events | 1.42.3 | Type annotations for boto3 events | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-events |
 | python3.12-mypy-boto3-evidently | 1.42.3 | Type annotations for boto3 evidently | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-evidently |
@@ -58137,7 +58148,7 @@
 | python3.12-mypy-boto3-frauddetector | 1.42.3 | Type annotations for boto3 frauddetector | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-frauddetector |
 | python3.12-mypy-boto3-fsx | 1.42.3 | Type annotations for boto3 fsx | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-fsx |
 | python3.12-mypy-boto3-gamelift | 1.42.3 | Type annotations for boto3 gamelift | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-gamelift |
-| python3.12-mypy-boto3-glacier | 1.42.3 | Type annotations for boto3 glacier | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-glacier |
+| python3.12-mypy-boto3-glacier | 1.42.10 | Type annotations for boto3 glacier | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-glacier |
 | python3.12-mypy-boto3-globalaccelerator | 1.42.3 | Type annotations for boto3 globalaccelerator | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-globalaccelerator |
 | python3.12-mypy-boto3-glue | 1.42.3 | Type annotations for boto3 glue | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-glue |
 | python3.12-mypy-boto3-grafana | 1.42.3 | Type annotations for boto3 grafana | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-grafana |
@@ -58145,7 +58156,7 @@
 | python3.12-mypy-boto3-greengrassv2 | 1.42.3 | Type annotations for boto3 greengrassv2 | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-greengrassv2 |
 | python3.12-mypy-boto3-groundstation | 1.42.3 | Type annotations for boto3 groundstation | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-groundstation |
 | python3.12-mypy-boto3-guardduty | 1.42.6 | Type annotations for boto3 guardduty | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-guardduty |
-| python3.12-mypy-boto3-health | 1.42.3 | Type annotations for boto3 health | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-health |
+| python3.12-mypy-boto3-health | 1.42.10 | Type annotations for boto3 health | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-health |
 | python3.12-mypy-boto3-healthlake | 1.42.3 | Type annotations for boto3 healthlake | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-healthlake |
 | python3.12-mypy-boto3-iam | 1.42.4 | Type annotations for boto3 iam | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-iam |
 | python3.12-mypy-boto3-identitystore | 1.42.5 | Type annotations for boto3 identitystore | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-identitystore |
@@ -58198,7 +58209,7 @@
 | python3.12-mypy-boto3-license-manager-user-subscriptions | 1.42.3 | Type annotations for boto3 license-manager-user-subscriptions | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-license-manager-user-subscriptions |
 | python3.12-mypy-boto3-lightsail | 1.42.3 | Type annotations for boto3 lightsail | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lightsail |
 | python3.12-mypy-boto3-location | 1.42.3 | Type annotations for boto3 location | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-location |
-| python3.12-mypy-boto3-logs | 1.42.3 | Type annotations for boto3 logs | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-logs |
+| python3.12-mypy-boto3-logs | 1.42.10 | Type annotations for boto3 logs | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-logs |
 | python3.12-mypy-boto3-lookoutequipment | 1.42.3 | Type annotations for boto3 lookoutequipment | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lookoutequipment |
 | python3.12-mypy-boto3-lookoutmetrics | 1.40.15 | Type annotations for boto3 lookoutmetrics | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lookoutmetrics |
 | python3.12-mypy-boto3-lookoutvision | 1.40.59 | Type annotations for boto3 lookoutvision | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-lookoutvision |
@@ -58218,7 +58229,7 @@
 | python3.12-mypy-boto3-mediapackagev2 | 1.42.3 | Type annotations for boto3 mediapackagev2 | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediapackagev2 |
 | python3.12-mypy-boto3-mediastore | 1.42.3 | Type annotations for boto3 mediastore | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediastore |
 | python3.12-mypy-boto3-mediastore-data | 1.42.3 | Type annotations for boto3 mediastore-data | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediastore-data |
-| python3.12-mypy-boto3-mediatailor | 1.42.3 | Type annotations for boto3 mediatailor | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediatailor |
+| python3.12-mypy-boto3-mediatailor | 1.42.10 | Type annotations for boto3 mediatailor | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-mediatailor |
 | python3.12-mypy-boto3-medical-imaging | 1.42.3 | Type annotations for boto3 medical-imaging | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-medical-imaging |
 | python3.12-mypy-boto3-memorydb | 1.42.3 | Type annotations for boto3 memorydb | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-memorydb |
 | python3.12-mypy-boto3-meteringmarketplace | 1.42.3 | Type annotations for boto3 meteringmarketplace | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-meteringmarketplace |
@@ -58284,9 +58295,9 @@
 | python3.12-mypy-boto3-route53-recovery-control-config | 1.42.3 | Type annotations for boto3 route53-recovery-control-config | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-route53-recovery-control-config |
 | python3.12-mypy-boto3-route53-recovery-readiness | 1.42.3 | Type annotations for boto3 route53-recovery-readiness | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-route53-recovery-readiness |
 | python3.12-mypy-boto3-route53domains | 1.42.3 | Type annotations for boto3 route53domains | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-route53domains |
-| python3.12-mypy-boto3-route53resolver | 1.42.3 | Type annotations for boto3 route53resolver | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-route53resolver |
+| python3.12-mypy-boto3-route53resolver | 1.42.10 | Type annotations for boto3 route53resolver | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-route53resolver |
 | python3.12-mypy-boto3-rum | 1.42.3 | Type annotations for boto3 rum | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-rum |
-| python3.12-mypy-boto3-s3 | 1.42.3 | Type annotations for boto3 s3 | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-s3 |
+| python3.12-mypy-boto3-s3 | 1.42.10 | Type annotations for boto3 s3 | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-s3 |
 | python3.12-mypy-boto3-s3control | 1.42.3 | Type annotations for boto3 s3control | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-s3control |
 | python3.12-mypy-boto3-s3outposts | 1.42.3 | Type annotations for boto3 s3outposts | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-s3outposts |
 | python3.12-mypy-boto3-sagemaker | 1.42.3 | Type annotations for boto3 sagemaker | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-sagemaker |
@@ -58304,7 +58315,7 @@
 | python3.12-mypy-boto3-securityhub | 1.42.3 | Type annotations for boto3 securityhub | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-securityhub |
 | python3.12-mypy-boto3-securitylake | 1.42.3 | Type annotations for boto3 securitylake | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-securitylake |
 | python3.12-mypy-boto3-serverlessrepo | 1.42.3 | Type annotations for boto3 serverlessrepo | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-serverlessrepo |
-| python3.12-mypy-boto3-service-quotas | 1.42.3 | Type annotations for boto3 service-quotas | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-service-quotas |
+| python3.12-mypy-boto3-service-quotas | 1.42.10 | Type annotations for boto3 service-quotas | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-service-quotas |
 | python3.12-mypy-boto3-servicecatalog | 1.42.3 | Type annotations for boto3 servicecatalog | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-servicecatalog |
 | python3.12-mypy-boto3-servicecatalog-appregistry | 1.42.3 | Type annotations for boto3 servicecatalog-appregistry | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-servicecatalog-appregistry |
 | python3.12-mypy-boto3-servicediscovery | 1.42.3 | Type annotations for boto3 servicediscovery | legacyPackages.x86_64-linux.python312Packages.mypy-boto3-servicediscovery |
@@ -58628,7 +58639,7 @@
 | python3.12-oddsprout | 0.1.2 | Generate random JSON with no schemas involved | legacyPackages.x86_64-linux.python312Packages.oddsprout |
 | python3.12-odfpy | 1.4.1 | Python API and tools to manipulate OpenDocument files | legacyPackages.x86_64-linux.python312Packages.odfpy |
 | python3.12-odp-amsterdam | 6.1.2 | Python client for getting garage occupancy in Amsterdam | legacyPackages.x86_64-linux.python312Packages.odp-amsterdam |
-| python3.12-oelint-data | 1.2.8 | Data for oelint-adv | legacyPackages.x86_64-linux.python312Packages.oelint-data |
+| python3.12-oelint-data | 1.2.9 | Data for oelint-adv | legacyPackages.x86_64-linux.python312Packages.oelint-data |
 | python3.12-oelint-parser | 8.6.2 | Alternative parser for bitbake recipes | legacyPackages.x86_64-linux.python312Packages.oelint-parser |
 | python3.12-oemthermostat | 1.1.1 | Python module to interact with OpenEnergyMonitor thermostats | legacyPackages.x86_64-linux.python312Packages.oemthermostat |
 | python3.12-offtrac | 0.1.0 | Trac xmlrpc library | legacyPackages.x86_64-linux.python312Packages.offtrac |
@@ -58833,6 +58844,7 @@
 | python3.12-otpauth | 2.2.1 | Implements one time password of HOTP/TOTP | legacyPackages.x86_64-linux.python312Packages.otpauth |
 | python3.12-otr | 2.1.0 | Off-The-Record Messaging protocol implementation for Python | legacyPackages.x86_64-linux.python312Packages.otr |
 | python3.12-ots-python | 9.1.0 | Python wrapper for ots (OpenType Sanitizer) | legacyPackages.x86_64-linux.python312Packages.ots-python |
+| python3.12-otxv2 | 1.5.12 | The Python SDK for AlienVault OTX | legacyPackages.x86_64-linux.python312Packages.otxv2 |
 | python3.12-ourgroceries | 1.5.4 | Unofficial Python Wrapper for Our Groceries | legacyPackages.x86_64-linux.python312Packages.ourgroceries |
 | python3.12-outcome | 1.3.0.post0 | Capture the outcome of Python function calls | legacyPackages.x86_64-linux.python312Packages.outcome |
 | python3.12-outdated | 0.2.2 | Mini-library which, given a package name and a version, checks if it's the latest version available on PyPI | legacyPackages.x86_64-linux.python312Packages.outdated |
@@ -58859,7 +58871,7 @@
 | python3.12-paddle-bfloat | 0.1.7 | Paddle numpy bfloat16 package | legacyPackages.x86_64-linux.python312Packages.paddle-bfloat |
 | python3.12-paddle2onnx | 2.0.1 | ONNX Model Exporter for PaddlePaddle | legacyPackages.x86_64-linux.python312Packages.paddle2onnx |
 | python3.12-paddleocr | 3.3.2 | Multilingual OCR toolkits based on PaddlePaddle | legacyPackages.x86_64-linux.python312Packages.paddleocr |
-| python3.12-paddlepaddle | 3.0.0 | Machine Learning Framework from Industrial Practice | legacyPackages.x86_64-linux.python312Packages.paddlepaddle |
+| python3.12-paddlepaddle | 3.2.0 | Machine Learning Framework from Industrial Practice | legacyPackages.x86_64-linux.python312Packages.paddlepaddle |
 | python3.12-paddlex | 3.3.10 | All-in-One Development Tool based on PaddlePaddle | legacyPackages.x86_64-linux.python312Packages.paddlex |
 | python3.12-pagelabels | 1.2.1 | Python library to manipulate PDF page labels | legacyPackages.x86_64-linux.python312Packages.pagelabels |
 | python3.12-paginate | 0.5.7 | Python pagination module | legacyPackages.x86_64-linux.python312Packages.paginate |
@@ -59206,7 +59218,7 @@
 | python3.12-potentials | 0.4.1 | Python API database tools for accessing the NIST Interatomic Potentials Repository | legacyPackages.x86_64-linux.python312Packages.potentials |
 | python3.12-power | 1.4 | Cross-platform system power status information | legacyPackages.x86_64-linux.python312Packages.power |
 | python3.12-powerapi | 2.10.0 | Python framework for building software-defined power meters | legacyPackages.x86_64-linux.python312Packages.powerapi |
-| python3.12-powerfox | 1.3.0 | Asynchronous Python client for the Powerfox devices | legacyPackages.x86_64-linux.python312Packages.powerfox |
+| python3.12-powerfox | 2.0.0 | Asynchronous Python client for the Powerfox devices | legacyPackages.x86_64-linux.python312Packages.powerfox |
 | python3.12-powerline | 2.8.4 | Ultimate statusline/prompt utility | legacyPackages.x86_64-linux.python312Packages.powerline |
 | python3.12-powerline-mem-segment | 2.4.1 | Segment for Powerline showing the current memory usage in percent or absolute values | legacyPackages.x86_64-linux.python312Packages.powerline-mem-segment |
 | python3.12-pox | 0.3.6 | Utilities for filesystem exploration and automated builds | legacyPackages.x86_64-linux.python312Packages.pox |
@@ -59315,7 +59327,7 @@
 | python3.12-publicsuffixlist | 1.0.2.20251209 | Public Suffix List parser implementation | legacyPackages.x86_64-linux.python312Packages.publicsuffixlist |
 | python3.12-pubnub | 10.5.0 | Python-based APIs for PubNub | legacyPackages.x86_64-linux.python312Packages.pubnub |
 | python3.12-pubnubsub-handler | 1.0.9 | PubNub subscription between PubNub and Home Assistant | legacyPackages.x86_64-linux.python312Packages.pubnubsub-handler |
-| python3.12-pudb | 2025.1.4 | Full-screen, console-based Python debugger | legacyPackages.x86_64-linux.python312Packages.pudb |
+| python3.12-pudb | 2025.1.5 | Full-screen, console-based Python debugger | legacyPackages.x86_64-linux.python312Packages.pudb |
 | python3.12-pueblo | 0.0.12 | Python toolbox library | legacyPackages.x86_64-linux.python312Packages.pueblo |
 | python3.12-pulp | 2.8.0 | Module to generate MPS or LP files | legacyPackages.x86_64-linux.python312Packages.pulp |
 | python3.12-pulsar-client | 3.8.0 | Apache Pulsar Python client library | legacyPackages.x86_64-linux.python312Packages.pulsar-client |
@@ -59420,7 +59432,7 @@
 | python3.12-pyaehw4a1 | 0.3.9 | Python interface for Hisense AEH-W4A1 module | legacyPackages.x86_64-linux.python312Packages.pyaehw4a1 |
 | python3.12-pyaes | 1.6.1 | Pure-Python AES | legacyPackages.x86_64-linux.python312Packages.pyaes |
 | python3.12-pyaftership | 23.1.0 | Python wrapper package for the AfterShip API | legacyPackages.x86_64-linux.python312Packages.pyaftership |
-| python3.12-pyahocorasick | 2.2.0 | Python module implementing Aho-Corasick algorithm | legacyPackages.x86_64-linux.python312Packages.pyahocorasick |
+| python3.12-pyahocorasick | 2.3.0 | Python module implementing Aho-Corasick algorithm | legacyPackages.x86_64-linux.python312Packages.pyahocorasick |
 | python3.12-pyairnow | 1.3.1 | Python wrapper for EPA AirNow Air Quality API | legacyPackages.x86_64-linux.python312Packages.pyairnow |
 | python3.12-pyairobotrest | 0.1.0 | Python library for controlling Airobot TE1 thermostats via local REST API | legacyPackages.x86_64-linux.python312Packages.pyairobotrest |
 | python3.12-pyairports | 2.1.1 | Package which enables airport lookup by 3-letter IATA code | legacyPackages.x86_64-linux.python312Packages.pyairports |
@@ -59536,7 +59548,7 @@
 | python3.12-pycrashreport | 1.2.7 | Python3 parser for Apple's crash reports | legacyPackages.x86_64-linux.python312Packages.pycrashreport |
 | python3.12-pycrc | 1.21 | Python libraries for CRC calculations (it supports CRC-16, CRC-32, CRC-CCITT, etc) | legacyPackages.x86_64-linux.python312Packages.pycrc |
 | python3.12-pycrdt | 0.12.44 | CRDTs based on Yrs | legacyPackages.x86_64-linux.python312Packages.pycrdt |
-| python3.12-pycrdt-store | 0.1.3b1 | Persistent storage for pycrdt | legacyPackages.x86_64-linux.python312Packages.pycrdt-store |
+| python3.12-pycrdt-store | 0.1.3 | Persistent storage for pycrdt | legacyPackages.x86_64-linux.python312Packages.pycrdt-store |
 | python3.12-pycrdt-websocket | 0.16.0 | WebSocket Connector for pycrdt | legacyPackages.x86_64-linux.python312Packages.pycrdt-websocket |
 | python3.12-pycritty | 0.4.0 | CLI tool for changing your alacritty configuration on the fly | legacyPackages.x86_64-linux.python312Packages.pycritty |
 | python3.12-pycron | 3.2.0 | Simple cron-like parser for Python, which determines if current datetime matches conditions | legacyPackages.x86_64-linux.python312Packages.pycron |
@@ -59591,7 +59603,7 @@
 | python3.12-pydispatcher | 2.0.7 | Signal-registration and routing infrastructure for use in multiple contexts | legacyPackages.x86_64-linux.python312Packages.pydispatcher |
 | python3.12-pydle | 1.1.0 | IRCv3-compliant Python 3 IRC library | legacyPackages.x86_64-linux.python312Packages.pydle |
 | python3.12-pydmd | 2025.08.01 | Python Dynamic Mode Decomposition | legacyPackages.x86_64-linux.python312Packages.pydmd |
-| python3.12-pydo | 0.21.0 | Official DigitalOcean Client based on the DO OpenAPIv3 specification | legacyPackages.x86_64-linux.python312Packages.pydo |
+| python3.12-pydo | 0.22.0 | Official DigitalOcean Client based on the DO OpenAPIv3 specification | legacyPackages.x86_64-linux.python312Packages.pydo |
 | python3.12-pydocstyle | 6.3.0 | Python docstring style checker | legacyPackages.x86_64-linux.python312Packages.pydocstyle |
 | python3.12-pydocumentdb | 2.3.5 | Azure Cosmos DB API | legacyPackages.x86_64-linux.python312Packages.pydocumentdb |
 | python3.12-pydoe | 0.3.8 | Design of experiments for Python | legacyPackages.x86_64-linux.python312Packages.pydoe |
@@ -59754,7 +59766,7 @@
 | python3.12-pyialarm | 2.2.0 | Python library to interface with Antifurto365 iAlarm systems | legacyPackages.x86_64-linux.python312Packages.pyialarm |
 | python3.12-pyiceberg-core | 0.6.0 | Iceberg-rust powered core for pyiceberg | legacyPackages.x86_64-linux.python312Packages.pyiceberg-core |
 | python3.12-pyicloud | 2.2.0 | Module to interact with iCloud webservices | legacyPackages.x86_64-linux.python312Packages.pyicloud |
-| python3.12-pyicu | 2.15.2 | Python extension wrapping the ICU C++ API | legacyPackages.x86_64-linux.python312Packages.pyicu |
+| python3.12-pyicu | 2.15.3 | Python extension wrapping the ICU C++ API | legacyPackages.x86_64-linux.python312Packages.pyicu |
 | python3.12-pyicumessageformat | 1.0.0 | Unopinionated Python3 parser for ICU MessageFormat | legacyPackages.x86_64-linux.python312Packages.pyicumessageformat |
 | python3.12-pyimg4 | 0.8.8 | Python library/CLI tool for parsing Apple's Image4 format | legacyPackages.x86_64-linux.python312Packages.pyimg4 |
 | python3.12-pyimgbox | 1.0.7 | API for uploading images to imgbox.com | legacyPackages.x86_64-linux.python312Packages.pyimgbox |
@@ -59894,6 +59906,7 @@
 | python3.12-pymemcache | 4.0.0 | Python memcached client | legacyPackages.x86_64-linux.python312Packages.pymemcache |
 | python3.12-pymemoize | 1.0.3 | Simple Python cache and memoizing module | legacyPackages.x86_64-linux.python312Packages.pymemoize |
 | python3.12-pyment | 0.3.3 | Create, update or convert docstrings in existing Python files, managing several styles | legacyPackages.x86_64-linux.python312Packages.pyment |
+| python3.12-pymeshlab | 2025.7 | Open source mesh processing python library | legacyPackages.x86_64-linux.python312Packages.pymeshlab |
 | python3.12-pymeta3 | 0.5.1 | Pattern-matching language based on OMeta for Python 3 and 2 | legacyPackages.x86_64-linux.python312Packages.pymeta3 |
 | python3.12-pymetar | 1.4 | Command-line tool to show the weather report by a given station ID | legacyPackages.x86_64-linux.python312Packages.pymetar |
 | python3.12-pymetasploit3 | 1.0.6 | Library for Metasploit framework | legacyPackages.x86_64-linux.python312Packages.pymetasploit3 |
@@ -60264,7 +60277,7 @@
 | python3.12-pysqlcipher3 | 1.2.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python312Packages.pysqlcipher3 |
 | python3.12-pysqlitecipher | 0.22 | Lightweight and easy to use sqlite wrapper with built-in encryption system | legacyPackages.x86_64-linux.python312Packages.pysqlitecipher |
 | python3.12-pysqueezebox | 0.13.0 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python312Packages.pysqueezebox |
-| python3.12-pysrdaligateway | 0.19.0 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python312Packages.pysrdaligateway |
+| python3.12-pysrdaligateway | 0.19.2 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python312Packages.pysrdaligateway |
 | python3.12-pysrim | 0.5.10 | Srim Automation of Tasks via Python | legacyPackages.x86_64-linux.python312Packages.pysrim |
 | python3.12-pysrt | 1.1.2 | Python library used to edit or create SubRip files | legacyPackages.x86_64-linux.python312Packages.pysrt |
 | python3.12-pyssim | 0.7.1 | Module for computing Structured Similarity Image Metric (SSIM) in Python | legacyPackages.x86_64-linux.python312Packages.pyssim |
@@ -60299,7 +60312,7 @@
 | python3.12-pyte | 0.8.2 | Simple VTXXX-compatible linux terminal emulator | legacyPackages.x86_64-linux.python312Packages.pyte |
 | python3.12-pytelegrambotapi | 4.29.1 | Python implementation for the Telegram Bot API | legacyPackages.x86_64-linux.python312Packages.pytelegrambotapi |
 | python3.12-pytenable | 1.9.0 | Python library for the Tenable.io and TenableSC API | legacyPackages.x86_64-linux.python312Packages.pytenable |
-| python3.12-pytensor | 2.35.1 | Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays | legacyPackages.x86_64-linux.python312Packages.pytensor |
+| python3.12-pytensor | 2.36.0 | Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays | legacyPackages.x86_64-linux.python312Packages.pytensor |
 | python3.12-pytesseract | 0.3.13 | Python wrapper for Google Tesseract | legacyPackages.x86_64-linux.python312Packages.pytesseract |
 | python3.12-pytest | 7.4.4 | Framework for writing tests | legacyPackages.x86_64-linux.python312Packages.pytest_7 |
 | python3.12-pytest | 8.3.5 | Framework for writing tests | legacyPackages.x86_64-linux.python312Packages.pytest_8_3 |
@@ -60832,7 +60845,7 @@
 | python3.12-pythonqwt | 0.15.0 | Qt plotting widgets for Python (pure Python reimplementation of Qwt C++ library) | legacyPackages.x86_64-linux.python312Packages.pythonqwt |
 | python3.12-pythran | 0.18.0 | Ahead of Time compiler for numeric kernels | legacyPackages.x86_64-linux.python312Packages.pythran |
 | python3.12-pythreejs | 2.4.2 | Interactive 3D graphics for the Jupyter Notebook and JupyterLab, using Three.js and Jupyter Widgets | legacyPackages.x86_64-linux.python312Packages.pythreejs |
-| python3.12-pytibber | 0.33.1 | Python library to communicate with Tibber | legacyPackages.x86_64-linux.python312Packages.pytibber |
+| python3.12-pytibber | 0.34.0 | Python library to communicate with Tibber | legacyPackages.x86_64-linux.python312Packages.pytibber |
 | python3.12-pytidylib | 0.3.2 | Python wrapper for HTML Tidy (tidylib) on Python 2 and 3 | legacyPackages.x86_64-linux.python312Packages.tidylib |
 | python3.12-pytikz-allefeld-unstable | 2022-11-01 | Python interface to TikZ | legacyPackages.x86_64-linux.python312Packages.pytikz-allefeld |
 | python3.12-pytile | 2024.12.0 | Python API for Tile Bluetooth trackers | legacyPackages.x86_64-linux.python312Packages.pytile |
@@ -60862,7 +60875,7 @@
 | python3.12-pytradfri | 14.0.0 | Python package to communicate with the IKEA Trådfri ZigBee Gateway | legacyPackages.x86_64-linux.python312Packages.pytradfri |
 | python3.12-pytrafikverket | 1.1.1 | Library to get data from the Swedish Transport Administration (Trafikverket) API | legacyPackages.x86_64-linux.python312Packages.pytrafikverket |
 | python3.12-pytransportnsw | 0.1.1 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python312Packages.pytransportnsw |
-| python3.12-pytransportnswv2 | 2.0.8 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python312Packages.pytransportnswv2 |
+| python3.12-pytransportnswv2 | 2.2.0 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python312Packages.pytransportnswv2 |
 | python3.12-pytricia | 1.3.0 | Library for fast IP address lookup in Python | legacyPackages.x86_64-linux.python312Packages.pytricia |
 | python3.12-pytrydan | 0.8.1 | Library to interface with V2C EVSE Trydan | legacyPackages.x86_64-linux.python312Packages.pytrydan |
 | python3.12-pyttsx3 | 2.99 | Offline text-to-speech synthesis library | legacyPackages.x86_64-linux.python312Packages.pyttsx3 |
@@ -60924,7 +60937,7 @@
 | python3.12-pywebpush | 2.0.3 | Webpush Data encryption library for Python | legacyPackages.x86_64-linux.python312Packages.pywebpush |
 | python3.12-pywebview | 6.1 | Lightweight cross-platform wrapper around a webview | legacyPackages.x86_64-linux.python312Packages.pywebview |
 | python3.12-pywemo | 1.4.0 | Python module to discover and control WeMo devices | legacyPackages.x86_64-linux.python312Packages.pywemo |
-| python3.12-pywerview | 0.7.4 | Module for PowerSploit's PowerView support | legacyPackages.x86_64-linux.python312Packages.pywerview |
+| python3.12-pywerview | 0.7.5 | Module for PowerSploit's PowerView support | legacyPackages.x86_64-linux.python312Packages.pywerview |
 | python3.12-pywfa | 0.5.1 | Python wrapper for wavefront alignment using WFA2-lib | legacyPackages.x86_64-linux.python312Packages.pywfa |
 | python3.12-pywikibot | 10.7.3 | Python MediaWiki bot framework | legacyPackages.x86_64-linux.python312Packages.pywikibot |
 | python3.12-pywilight | 0.0.74 | Python API for WiLight device | legacyPackages.x86_64-linux.python312Packages.pywilight |
@@ -61055,7 +61068,7 @@
 | python3.12-rapt-ble | 0.1.2 | Library for RAPT Pill hydrometer BLE devices | legacyPackages.x86_64-linux.python312Packages.rapt-ble |
 | python3.12-rarfile | 4.2 | RAR archive reader for Python | legacyPackages.x86_64-linux.python312Packages.rarfile |
 | python3.12-raspyrfm-client | 1.2.9 | Send rc signals with the RaspyRFM module | legacyPackages.x86_64-linux.python312Packages.raspyrfm-client |
-| python3.12-rasterio | 1.4.3 | Python package to read and write geospatial raster data | legacyPackages.x86_64-linux.python312Packages.rasterio |
+| python3.12-rasterio | 1.4.4 | Python package to read and write geospatial raster data | legacyPackages.x86_64-linux.python312Packages.rasterio |
 | python3.12-ratarmount | 1.1.2 | Mounts archives as read-only file systems by way of indexing | legacyPackages.x86_64-linux.python312Packages.ratarmount |
 | python3.12-ratarmountcore | 1.1.2 | Library for accessing archives by way of indexing | legacyPackages.x86_64-linux.python312Packages.ratarmountcore |
 | python3.12-ratelim | 0.1.6 | Simple Python library that limits the number of times a function can be called during a time interval | legacyPackages.x86_64-linux.python312Packages.ratelim |
@@ -61088,7 +61101,7 @@
 | python3.12-readthedocs-sphinx-ext | 2.2.5 | Sphinx extension for Read the Docs overrides | legacyPackages.x86_64-linux.python312Packages.readthedocs-sphinx-ext |
 | python3.12-realtime-py | 2.7.0 | Python Realtime Client for Supabase | legacyPackages.x86_64-linux.python312Packages.realtime |
 | python3.12-rebulk | 3.2.0 | Advanced string matching from simple patterns | legacyPackages.x86_64-linux.python312Packages.rebulk |
-| python3.12-recipe-scrapers | 15.10.0 | Python package for scraping recipes data | legacyPackages.x86_64-linux.python312Packages.recipe-scrapers |
+| python3.12-recipe-scrapers | 15.11.0 | Python package for scraping recipes data | legacyPackages.x86_64-linux.python312Packages.recipe-scrapers |
 | python3.12-recline | 2025.12 | This library helps you quickly implement an interactive command-based application | legacyPackages.x86_64-linux.python312Packages.recline |
 | python3.12-recommonmark | 0.7.1 | Docutils-compatibility bridge to CommonMark | legacyPackages.x86_64-linux.python312Packages.recommonmark |
 | python3.12-reconplogger | 4.18.1 | Module to ease the standardization of logging within omni:us | legacyPackages.x86_64-linux.python312Packages.reconplogger |
@@ -61856,7 +61869,7 @@
 | python3.12-sphinxcontrib-wavedrom | 3.0.4 | Sphinx extension that allows including wavedrom diagrams by using its text-based representation | legacyPackages.x86_64-linux.python312Packages.sphinxcontrib-wavedrom |
 | python3.12-sphinxcontrib-websupport | 2.0.0 | Sphinx API for Web Apps | legacyPackages.x86_64-linux.python312Packages.sphinxcontrib-websupport |
 | python3.12-sphinxcontrib-youtube | 1.4.1 | Youtube extension for Sphinx | legacyPackages.x86_64-linux.python312Packages.sphinxcontrib-youtube |
-| python3.12-sphinxemoji | 0.3.1 | Extension to use emoji codes in your Sphinx documentation | legacyPackages.x86_64-linux.python312Packages.sphinxemoji |
+| python3.12-sphinxemoji | 0.3.2 | Extension to use emoji codes in your Sphinx documentation | legacyPackages.x86_64-linux.python312Packages.sphinxemoji |
 | python3.12-sphinxext-opengraph | 0.13.0 | Sphinx extension to generate unique OpenGraph metadata | legacyPackages.x86_64-linux.python312Packages.sphinxext-opengraph |
 | python3.12-sphinxext-rediraffe | 0.2.7 | Sphinx extension to redirect files | legacyPackages.x86_64-linux.python312Packages.sphinxext-rediraffe |
 | python3.12-spiderpy | 1.7.2 | Unofficial Python wrapper for the Spider API | legacyPackages.x86_64-linux.python312Packages.spiderpy |
@@ -61875,7 +61888,7 @@
 | python3.12-spyder-kernels | 3.1.2 | Jupyter kernels for Spyder's console | legacyPackages.x86_64-linux.python312Packages.spyder-kernels |
 | python3.12-spylls | 0.1.7 | Pure Python spell-checker, (almost) full port of Hunspell | legacyPackages.x86_64-linux.python312Packages.spylls |
 | python3.12-spyse-python | 2.2.3 | Python module for spyse.com API | legacyPackages.x86_64-linux.python312Packages.spyse-python |
-| python3.12-spython | 0.3.14 | Streamlined singularity python client (spython) for singularity | legacyPackages.x86_64-linux.python312Packages.spython |
+| python3.12-spython | 0.3.15 | Streamlined singularity python client (spython) for singularity | legacyPackages.x86_64-linux.python312Packages.spython |
 | python3.12-sqids | 0.5.2 | Library that lets you generate short YouTube-looking IDs from numbers | legacyPackages.x86_64-linux.python312Packages.sqids |
 | python3.12-sqlalchemy | 1.4.54 | Database Toolkit for Python | legacyPackages.x86_64-linux.python312Packages.sqlalchemy_1_4 |
 | python3.12-sqlalchemy | 2.0.44 | Python SQL toolkit and Object Relational Mapper | legacyPackages.x86_64-linux.python312Packages.sqlalchemy |
@@ -62006,7 +62019,7 @@
 | python3.12-stringcase | 1.2.0 | Convert string cases between camel case, pascal case, snake case etc… | legacyPackages.x86_64-linux.python312Packages.stringcase |
 | python3.12-stringly | 1.0b3 | Stringly: Human Readable Object Serialization | legacyPackages.x86_64-linux.python312Packages.stringly |
 | python3.12-stringparser | 0.7 | Easy to use pattern matching and information extraction | legacyPackages.x86_64-linux.python312Packages.stringparser |
-| python3.12-stringzilla | 4.4.2 | SIMD-accelerated string search, sort, hashes, fingerprints, & edit distances | legacyPackages.x86_64-linux.python312Packages.stringzilla |
+| python3.12-stringzilla | 4.5.1 | SIMD-accelerated string search, sort, hashes, fingerprints, & edit distances | legacyPackages.x86_64-linux.python312Packages.stringzilla |
 | python3.12-strip-ansi | 0.1.1 | Strip ANSI escape sequences from a string | legacyPackages.x86_64-linux.python312Packages.strip-ansi |
 | python3.12-stripe | 12.5.1 | Stripe Python bindings | legacyPackages.x86_64-linux.python312Packages.stripe |
 | python3.12-striprtf | 0.0.29 | Simple library to convert rtf to text | legacyPackages.x86_64-linux.python312Packages.striprtf |
@@ -62224,7 +62237,7 @@
 | python3.12-textparser | 0.24.0 | Text parser | legacyPackages.x86_64-linux.python312Packages.textparser |
 | python3.12-textstat | 0.7.8 | Python package to calculate readability statistics of a text object | legacyPackages.x86_64-linux.python312Packages.textstat |
 | python3.12-texttable | 1.7.0 | Module to generate a formatted text table, using ASCII characters | legacyPackages.x86_64-linux.python312Packages.texttable |
-| python3.12-textual | 6.9.0 | TUI framework for Python inspired by modern web development | legacyPackages.x86_64-linux.python312Packages.textual |
+| python3.12-textual | 6.10.0 | TUI framework for Python inspired by modern web development | legacyPackages.x86_64-linux.python312Packages.textual |
 | python3.12-textual-autocomplete | 4.0.6 | Python library that provides autocomplete capabilities to textual | legacyPackages.x86_64-linux.python312Packages.textual-autocomplete |
 | python3.12-textual-dev | 1.8.0 | Development tools for Textual | legacyPackages.x86_64-linux.python312Packages.textual-dev |
 | python3.12-textual-fastdatatable | 0.12.0 | Performance-focused reimplementation of Textual's DataTable widget, with a pluggable data storage backend | legacyPackages.x86_64-linux.python312Packages.textual-fastdatatable |
@@ -62268,7 +62281,7 @@
 | python3.12-tika-client | 0.10.0 | Modern Python REST client for Apache Tika server | legacyPackages.x86_64-linux.python312Packages.tika-client |
 | python3.12-tikteck | 0.4 | Control Tikteck Bluetooth LED bulbs | legacyPackages.x86_64-linux.python312Packages.tikteck |
 | python3.12-tiktoken | 0.9.0 | Fast BPE tokeniser for use with OpenAI's models | legacyPackages.x86_64-linux.python312Packages.tiktoken |
-| python3.12-tiledb | 0.35.2 | Python interface to the TileDB storage manager | legacyPackages.x86_64-linux.python312Packages.tiledb |
+| python3.12-tiledb | 0.36.0 | Python interface to the TileDB storage manager | legacyPackages.x86_64-linux.python312Packages.tiledb |
 | python3.12-tilequant | 1.2.0 | Tool for quantizing image colors using tile-based palette restrictions | legacyPackages.x86_64-linux.python312Packages.tilequant |
 | python3.12-tiler | 0.6.0 | N-dimensional NumPy array tiling and merging with overlapping, padding and tapering | legacyPackages.x86_64-linux.python312Packages.tiler |
 | python3.12-tilt-ble | 1.0.1 | Library for Tilt BLE devices | legacyPackages.x86_64-linux.python312Packages.tilt-ble |
@@ -63034,6 +63047,7 @@
 | python3.12-urlmatch | 1.0.1 | Python library for easily pattern matching wildcard URLs | legacyPackages.x86_64-linux.python312Packages.urlmatch |
 | python3.12-urlobject | 2.4.3 | Python library for manipulating URLs (and some URIs) in a more natural way | legacyPackages.x86_64-linux.python312Packages.urlobject |
 | python3.12-urlpy | 0.5.0 | Simple URL parsing, canonicalization and equivalence | legacyPackages.x86_64-linux.python312Packages.urlpy |
+| python3.12-urlscan-python | 0.0.1 | Python API client for urlscan.io | legacyPackages.x86_64-linux.python312Packages.urlscan-python |
 | python3.12-urwid | 3.0.3 | Full-featured console (xterm et al.) user interface library | legacyPackages.x86_64-linux.python312Packages.urwid |
 | python3.12-urwid-readline | 0.15.1 | Textbox edit widget for urwid that supports readline shortcuts | legacyPackages.x86_64-linux.python312Packages.urwid-readline |
 | python3.12-urwid-satext | 0.8.0-unstable-2023-04-08 | SàT extension widgets for Urwid | legacyPackages.x86_64-linux.python312Packages.urwid-satext |
@@ -63056,7 +63070,7 @@
 | python3.12-uuid6 | 2025.0.1 | New time-based UUID formats which are suited for use as a database key | legacyPackages.x86_64-linux.python312Packages.uuid6 |
 | python3.12-uv | 0.9.17 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.python312Packages.uv |
 | python3.12-uv-build | 0.9.7 | Minimal build backend for uv | legacyPackages.x86_64-linux.python312Packages.uv-build |
-| python3.12-uv-dynamic-versioning | 0.11.2 | Dynamic versioning based on VCS tags for uv/hatch project | legacyPackages.x86_64-linux.python312Packages.uv-dynamic-versioning |
+| python3.12-uv-dynamic-versioning | 0.12.0 | Dynamic versioning based on VCS tags for uv/hatch project | legacyPackages.x86_64-linux.python312Packages.uv-dynamic-versioning |
 | python3.12-uvcclient | 0.12.2 | Client for Ubiquiti's Unifi Camera NVR | legacyPackages.x86_64-linux.python312Packages.uvcclient |
 | python3.12-uvicorn | 0.35.0 | Lightning-fast ASGI server | legacyPackages.x86_64-linux.python312Packages.uvicorn |
 | python3.12-uvicorn-worker | 0.3.0 | Uvicorn worker for Gunicorn | legacyPackages.x86_64-linux.python312Packages.uvicorn-worker |
@@ -63198,7 +63212,7 @@
 | python3.12-watchgod | 0.8.2 | Simple, modern file watching and code reload in python | legacyPackages.x86_64-linux.python312Packages.watchgod |
 | python3.12-waterfurnace | 1.2.0 | Python interface to waterfurnace geothermal systems | legacyPackages.x86_64-linux.python312Packages.waterfurnace |
 | python3.12-watergate-local-api | 2025.1.0 | Python package to interact with the Watergate Local API | legacyPackages.x86_64-linux.python312Packages.watergate-local-api |
-| python3.12-watermark | 2.5.0 | IPython extension for printing date and timestamps, version numbers, and hardware information | legacyPackages.x86_64-linux.python312Packages.watermark |
+| python3.12-watermark | 2.5.1 | IPython extension for printing date and timestamps, version numbers, and hardware information | legacyPackages.x86_64-linux.python312Packages.watermark |
 | python3.12-wavedrom | 2.0.3.post3 | WaveDrom compatible Python command line | legacyPackages.x86_64-linux.python312Packages.wavedrom |
 | python3.12-wavefile | 1.6.2 | Pythonic libsndfile wrapper to read and write audio files | legacyPackages.x86_64-linux.python312Packages.wavefile |
 | python3.12-wavinsentio | 0.5.5 | Python module to interact with the Wavin Sentio underfloor heating system | legacyPackages.x86_64-linux.python312Packages.wavinsentio |
@@ -63339,6 +63353,7 @@
 | python3.12-xboxapi | 2.0.1 | Python XBOX One API wrapper | legacyPackages.x86_64-linux.python312Packages.xboxapi |
 | python3.12-xcaplib | 2.0.1-unstable-2025-03-20 | XCAP (RFC4825) client library | legacyPackages.x86_64-linux.python312Packages.xcaplib |
 | python3.12-xcffib | 1.9.0 | Drop in replacement for xpyb, an XCB python binding | legacyPackages.x86_64-linux.python312Packages.xcffib |
+| python3.12-xclim | 0.59.1 | Operational Python library supporting climate services, based on xarray | legacyPackages.x86_64-linux.python312Packages.xclim |
 | python3.12-xdg | 6.0.0 | XDG Base Directory Specification for Python | legacyPackages.x86_64-linux.python312Packages.xdg |
 | python3.12-xdg-base-dirs | 6.0.2 | Implementation of the XDG Base Directory Specification in Python | legacyPackages.x86_64-linux.python312Packages.xdg-base-dirs |
 | python3.12-xdis | 6.1.8 | Python cross-version byte-code disassembler and marshal routines | legacyPackages.x86_64-linux.python312Packages.xdis |
@@ -63832,6 +63847,7 @@
 | python3.13-airthings-cloud | 0.2.0 | Python module for Airthings | legacyPackages.x86_64-linux.python313Packages.airthings-cloud |
 | python3.13-airtouch4pyapi | 1.0.8 | Python API for Airtouch 4 controllers | legacyPackages.x86_64-linux.python313Packages.airtouch4pyapi |
 | python3.13-airtouch5py | 0.4.0 | Python client for the airtouch 5 | legacyPackages.x86_64-linux.python313Packages.airtouch5py |
+| python3.13-aistudio-sdk | 0.3.8 | Python client library for the AIStudio API | legacyPackages.x86_64-linux.python313Packages.aistudio-sdk |
 | python3.13-ajpy | 0.0.5 | AJP package crafting library | legacyPackages.x86_64-linux.python313Packages.ajpy |
 | python3.13-ajsonrpc | 1.2.0 | Async JSON-RPC 2.0 protocol and asyncio server | legacyPackages.x86_64-linux.python313Packages.ajsonrpc |
 | python3.13-aks-preview | 19.0.0b16 | Provides a preview for upcoming AKS features | legacyPackages.x86_64-linux.azure-cli-extensions.aks-preview |
@@ -63964,8 +63980,8 @@
 | python3.13-applicationinsights | 0.11.10 | This project extends the Application Insights API surface to support Python | legacyPackages.x86_64-linux.python313Packages.applicationinsights |
 | python3.13-appnope | 0.1.4 | Disable App Nap on macOS | legacyPackages.x86_64-linux.python313Packages.appnope |
 | python3.13-apprise | 1.9.6 | Push Notifications that work with just about every platform | legacyPackages.x86_64-linux.python313Packages.apprise |
-| python3.13-approval-utilities | 16.1.0 | Utilities for your production code that work well with approvaltests | legacyPackages.x86_64-linux.python313Packages.approval-utilities |
-| python3.13-approvaltests | 16.1.0 | Assertion/verification library to aid testing | legacyPackages.x86_64-linux.python313Packages.approvaltests |
+| python3.13-approval-utilities | 16.2.0 | Utilities for your production code that work well with approvaltests | legacyPackages.x86_64-linux.python313Packages.approval-utilities |
+| python3.13-approvaltests | 16.2.0 | Assertion/verification library to aid testing | legacyPackages.x86_64-linux.python313Packages.approvaltests |
 | python3.13-appservice-kube | 0.1.11 | Microsoft Azure Command-Line Tools App Service on Kubernetes Extension | legacyPackages.x86_64-linux.azure-cli-extensions.appservice-kube |
 | python3.13-appthreat-vulnerability-db | 6.4.4 | Vulnerability database and package search for sources such as OSV, NVD, GitHub and npm | legacyPackages.x86_64-linux.python313Packages.appthreat-vulnerability-db |
 | python3.13-apptools | 5.3.1 | Set of packages that Enthought has found useful in creating a number of applications | legacyPackages.x86_64-linux.python313Packages.apptools |
@@ -64181,8 +64197,8 @@
 | python3.13-awacs | 2.5.0 | AWS Access Policy Language creation library | legacyPackages.x86_64-linux.python313Packages.awacs |
 | python3.13-awesome-slugify | 1.6.5 | Python flexible slugify function | legacyPackages.x86_64-linux.python313Packages.awesome-slugify |
 | python3.13-awesomeversion | 25.8.0 | Python module to deal with versions | legacyPackages.x86_64-linux.python313Packages.awesomeversion |
-| python3.13-awkward | 2.8.10 | Manipulate JSON-like data with NumPy-like idioms | legacyPackages.x86_64-linux.python313Packages.awkward |
-| python3.13-awkward-cpp | 50 | CPU kernels and compiled extensions for Awkward Array | legacyPackages.x86_64-linux.python313Packages.awkward-cpp |
+| python3.13-awkward | 2.8.11 | Manipulate JSON-like data with NumPy-like idioms | legacyPackages.x86_64-linux.python313Packages.awkward |
+| python3.13-awkward-cpp | 51 | CPU kernels and compiled extensions for Awkward Array | legacyPackages.x86_64-linux.python313Packages.awkward-cpp |
 | python3.13-awkward-pandas | 2023.8.0 | Awkward Array Pandas Extension | legacyPackages.x86_64-linux.python313Packages.awkward-pandas |
 | python3.13-aws-adfs | 2.12.1 | Command line tool to ease AWS CLI authentication against ADFS | legacyPackages.x86_64-linux.python313Packages.aws-adfs |
 | python3.13-aws-encryption-sdk | 4.0.3 | Python implementation of the AWS Encryption SDK | legacyPackages.x86_64-linux.python313Packages.aws-encryption-sdk |
@@ -64411,6 +64427,7 @@
 | python3.13-bc-jsonpath-ng | 1.6.1 | JSONPath implementation for Python | legacyPackages.x86_64-linux.python313Packages.bc-jsonpath-ng |
 | python3.13-bc-python-hcl2 | 0.4.3 | Parser for HCL2 written in Python using Lark | legacyPackages.x86_64-linux.python313Packages.bc-python-hcl2 |
 | python3.13-bcdoc | 0.16.0 | ReST document generation tools for botocore | legacyPackages.x86_64-linux.python313Packages.bcdoc |
+| python3.13-bce-python-sdk | 0.9.46 | Baidu Cloud Engine SDK for python | legacyPackages.x86_64-linux.python313Packages.bce-python-sdk |
 | python3.13-bcf | 1.9.1 | HARDWARIO Firmware Tool | legacyPackages.x86_64-linux.python313Packages.bcf |
 | python3.13-bcg | 1.17.0 | HARDWARIO Gateway (Python Application «bcg») | legacyPackages.x86_64-linux.python313Packages.bcg |
 | python3.13-bch | 1.2.1 | HARDWARIO Hub Control Tool | legacyPackages.x86_64-linux.python313Packages.bch |
@@ -64588,9 +64605,9 @@
 | python3.13-bot-safe-agents | 1.1 | Library for fetching a list of bot-safe user agents | legacyPackages.x86_64-linux.python313Packages.bot-safe-agents |
 | python3.13-botan3 | 3.10.0 | Python Bindings for botan3 cryptography library | legacyPackages.x86_64-linux.python313Packages.botan3 |
 | python3.13-boto3 | 1.40.18 | AWS SDK for Python | legacyPackages.x86_64-linux.python313Packages.boto3 |
-| python3.13-boto3-stubs | 1.42.9 | Type annotations for boto3 | legacyPackages.x86_64-linux.python313Packages.boto3-stubs |
+| python3.13-boto3-stubs | 1.42.10 | Type annotations for boto3 | legacyPackages.x86_64-linux.python313Packages.boto3-stubs |
 | python3.13-botocore | 1.40.18 | Low-level interface to a growing number of Amazon Web Services | legacyPackages.x86_64-linux.python313Packages.botocore |
-| python3.13-botocore-stubs | 1.42.9 | Type annotations and code completion for botocore | legacyPackages.x86_64-linux.python313Packages.botocore-stubs |
+| python3.13-botocore-stubs | 1.42.10 | Type annotations and code completion for botocore | legacyPackages.x86_64-linux.python313Packages.botocore-stubs |
 | python3.13-botorch | 0.16.1 | Bayesian Optimization in PyTorch | legacyPackages.x86_64-linux.python313Packages.botorch |
 | python3.13-bottle | 0.13.4 | Fast and simple micro-framework for small web-applications | legacyPackages.x86_64-linux.python313Packages.bottle |
 | python3.13-bottleneck | 1.6.0 | Fast NumPy array functions | legacyPackages.x86_64-linux.python313Packages.bottleneck |
@@ -64736,6 +64753,7 @@
 | python3.13-catalogue | 2.0.10 | Tiny library for adding function or object registries | legacyPackages.x86_64-linux.python313Packages.catalogue |
 | python3.13-catboost | 1.2.7 | High-performance library for gradient boosting on decision trees | legacyPackages.x86_64-linux.python313Packages.catboost |
 | python3.13-categorical-distance | 1.9-unstable-2020-03-31 | Compare similarity of categorical variables using Jaccard index | legacyPackages.x86_64-linux.python313Packages.categorical-distance |
+| python3.13-category-encoders | 2.9.0 | Library for sklearn compatible categorical variable encoders | legacyPackages.x86_64-linux.python313Packages.category-encoders |
 | python3.13-catkin-pkg | 1.1.0 | Library for retrieving information about catkin packages | legacyPackages.x86_64-linux.python313Packages.catkin-pkg |
 | python3.13-catppuccin | 2.5.0 | Soothing pastel theme for Python | legacyPackages.x86_64-linux.python313Packages.catppuccin |
 | python3.13-cattrs | 25.1.1 | Python custom class converters for attrs | legacyPackages.x86_64-linux.python313Packages.cattrs |
@@ -64821,7 +64839,7 @@
 | python3.13-chispa | 0.11.1 | PySpark test helper methods with beautiful error messages | legacyPackages.x86_64-linux.python313Packages.chispa |
 | python3.13-christaangoossens-auth_oidc | 0.6.3-alpha | OpenID Connect authentication provider for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.auth_oidc |
 | python3.13-chroma-hnswlib | 0.8.2 | Header-only C++/python library for fast approximate nearest neighbors | legacyPackages.x86_64-linux.python313Packages.chroma-hnswlib |
-| python3.13-chromadb | 1.3.6 | AI-native open-source embedding database | legacyPackages.x86_64-linux.python313Packages.chromadb |
+| python3.13-chromadb | 1.3.7 | AI-native open-source embedding database | legacyPackages.x86_64-linux.python313Packages.chromadb |
 | python3.13-chromaprint | 0.5 | Facilitate effortless color terminal output | legacyPackages.x86_64-linux.python313Packages.chromaprint |
 | python3.13-ci-info | 0.3.0 | Gather continuous integration information on the fly | legacyPackages.x86_64-linux.python313Packages.ci-info |
 | python3.13-ci-py | 1.0.0 | Library for working with Continuous Integration services | legacyPackages.x86_64-linux.python313Packages.ci-py |
@@ -65007,7 +65025,7 @@
 | python3.13-commoncode | 32.3.0 | Set of common utilities, originally split from ScanCode | legacyPackages.x86_64-linux.python313Packages.commoncode |
 | python3.13-commonmark | 0.9.1 | Python CommonMark parser  | legacyPackages.x86_64-linux.python313Packages.commonmark |
 | python3.13-commonregex | 1.5.4 | Collection of common regular expressions bundled with an easy to use interface | legacyPackages.x86_64-linux.python313Packages.commonregex |
-| python3.13-compit-inext-api | 0.3.1 | Python client for the Compit iNext API | legacyPackages.x86_64-linux.python313Packages.compit-inext-api |
+| python3.13-compit-inext-api | 0.3.4 | Python client for the Compit iNext API | legacyPackages.x86_64-linux.python313Packages.compit-inext-api |
 | python3.13-compliance-trestle | 3.9.1 | Opinionated tooling platform for managing compliance as code, using continuous integration and NIST's OSCAL standard | legacyPackages.x86_64-linux.python313Packages.compliance-trestle |
 | python3.13-complycube | 1.1.6 | Official Python client for the ComplyCube API | legacyPackages.x86_64-linux.python313Packages.complycube |
 | python3.13-compreffor | 0.5.6 | CFF table subroutinizer for FontTools | legacyPackages.x86_64-linux.python313Packages.compreffor |
@@ -65092,6 +65110,7 @@
 | python3.13-cot | 2.2.1 | Common OVF Tool | legacyPackages.x86_64-linux.python313Packages.cot |
 | python3.13-country-list | 1.1.0 | List of all countries with names and ISO 3166-1 codes in all languages | legacyPackages.x86_64-linux.python313Packages.country-list |
 | python3.13-countryguess | 0.4.8 | Fuzzy lookup of country information | legacyPackages.x86_64-linux.python313Packages.countryguess |
+| python3.13-countryinfo | 1.0.0 | Data about countries, ISO info and states/provinces within them | legacyPackages.x86_64-linux.python313Packages.countryinfo |
 | python3.13-courlan | 1.3.2 | Clean, filter and sample URLs to optimize data collection | legacyPackages.x86_64-linux.python313Packages.courlan |
 | python3.13-coverage | 7.13.0 | Code coverage measurement for Python | legacyPackages.x86_64-linux.python313Packages.coverage |
 | python3.13-coveralls | 4.0.2 | Show coverage stats online via coveralls.io | legacyPackages.x86_64-linux.python313Packages.coveralls |
@@ -65122,7 +65141,7 @@
 | python3.13-crispy-bootstrap5 | 2025.6 | Bootstrap 5 template pack for django-crispy-forms | legacyPackages.x86_64-linux.python313Packages.django-crispy-bootstrap5 |
 | python3.13-crochet | 2.1.1 | Library that makes it easier to use Twisted from regular blocking code | legacyPackages.x86_64-linux.python313Packages.crochet |
 | python3.13-cron-converter | 1.3.1 | Cron string parser and iteration for the datetime object with a cron like format | legacyPackages.x86_64-linux.python313Packages.cron-converter |
-| python3.13-cron-descriptor | 1.4.5 | Library that converts cron expressions into human readable strings | legacyPackages.x86_64-linux.python313Packages.cron-descriptor |
+| python3.13-cron-descriptor | 2.0.6 | Library that converts cron expressions into human readable strings | legacyPackages.x86_64-linux.python313Packages.cron-descriptor |
 | python3.13-croniter | 6.0.0 | Library to iterate over datetime object with cron like format | legacyPackages.x86_64-linux.python313Packages.croniter |
 | python3.13-cronsim | 2.7 | Cron expression parser and evaluator | legacyPackages.x86_64-linux.python313Packages.cronsim |
 | python3.13-crontab | 3.3.0 | Parse and use crontab schedules in Python | legacyPackages.x86_64-linux.python313Packages.crontab |
@@ -65488,7 +65507,7 @@
 | python3.13-distlib | 0.4.0 | Low-level components of distutils2/packaging | legacyPackages.x86_64-linux.python313Packages.distlib |
 | python3.13-distorm3 | 3.5.2b | Disassembler library for x86/AMD64 | legacyPackages.x86_64-linux.python313Packages.distorm3 |
 | python3.13-distrax | 0.1.7 | Probability distributions in JAX | legacyPackages.x86_64-linux.python313Packages.distrax |
-| python3.13-distributed | 2025.11.0 | Distributed computation in Python | legacyPackages.x86_64-linux.python313Packages.distributed |
+| python3.13-distributed | 2025.12.0 | Distributed computation in Python | legacyPackages.x86_64-linux.python313Packages.distributed |
 | python3.13-distro | 1.9.0 | Linux Distribution - a Linux OS platform information API | legacyPackages.x86_64-linux.python313Packages.distro |
 | python3.13-distro-info | 1.14 | Information about Debian and Ubuntu releases | legacyPackages.x86_64-linux.python313Packages.distro-info |
 | python3.13-distutils | 80.9.0 | Distutils as found in cpython | legacyPackages.x86_64-linux.python313Packages.distutils |
@@ -65520,7 +65539,7 @@
 | python3.13-django-bootstrap4 | 25.2 | Bootstrap 4 integration with Django | legacyPackages.x86_64-linux.python313Packages.django-bootstrap4 |
 | python3.13-django-bootstrap5 | 25.2 | Bootstrap 5 integration with Django | legacyPackages.x86_64-linux.python313Packages.django-bootstrap5 |
 | python3.13-django-cachalot | 2.8.0 | No effort, no worry, maximum performance | legacyPackages.x86_64-linux.python313Packages.django-cachalot |
-| python3.13-django-cache-memoize | 0-unstable-2025-12-05 | Django utility for a memoization decorator that uses the Django cache framework | legacyPackages.x86_64-linux.python313Packages.django-cache-memoize |
+| python3.13-django-cache-memoize | 0-unstable-2025-12-08 | Django utility for a memoization decorator that uses the Django cache framework | legacyPackages.x86_64-linux.python313Packages.django-cache-memoize |
 | python3.13-django-cache-url | 3.4.5 | Use Cache URLs in your Django application | legacyPackages.x86_64-linux.python313Packages.django-cache-url |
 | python3.13-django-cacheops | 7.2 | Slick ORM cache with automatic granular event-driven invalidation for Django | legacyPackages.x86_64-linux.python313Packages.django-cacheops |
 | python3.13-django-celery-beat | 2.8.1 | Celery Periodic Tasks backed by the Django ORM | legacyPackages.x86_64-linux.python313Packages.django-celery-beat |
@@ -65605,7 +65624,7 @@
 | python3.13-django-pattern-library | 1.5.0 | UI pattern libraries for Django templates | legacyPackages.x86_64-linux.python313Packages.django-pattern-library |
 | python3.13-django-payments | 3.1.0 | Universal payment handling for Django | legacyPackages.x86_64-linux.python313Packages.django-payments |
 | python3.13-django-pgactivity | 1.8.0 | View, filter, and kill Postgres queries | legacyPackages.x86_64-linux.python313Packages.django-pgactivity |
-| python3.13-django-pghistory | 3.9.0 | History tracking for Django and Postgres | legacyPackages.x86_64-linux.python313Packages.django-pghistory |
+| python3.13-django-pghistory | 3.9.1 | History tracking for Django and Postgres | legacyPackages.x86_64-linux.python313Packages.django-pghistory |
 | python3.13-django-pglock | 1.8.0 | Postgres advisory locks, table locks, and blocking lock management | legacyPackages.x86_64-linux.python313Packages.django-pglock |
 | python3.13-django-pglocks | 1.0.4 | PostgreSQL locking context managers and functions for Django | legacyPackages.x86_64-linux.python313Packages.django-pglocks |
 | python3.13-django-pgpubsub | 1.3.1 | Lightweight background tasks using Django Channels and PostgreSQL NOTIFY/LISTEN | legacyPackages.x86_64-linux.python313Packages.django-pgpubsub |
@@ -65919,7 +65938,7 @@
 | python3.13-electrum-ecc | 0.0.5 | Pure python ctypes wrapper for libsecp256k1 | legacyPackages.x86_64-linux.python313Packages.electrum-ecc |
 | python3.13-elementpath | 5.0.4 | XPath 1.0/2.0 parsers and selectors for ElementTree and lxml | legacyPackages.x86_64-linux.python313Packages.elementpath |
 | python3.13-elevate | 0.1.3 | Python module for re-launching the current process as super-user | legacyPackages.x86_64-linux.python313Packages.elevate |
-| python3.13-elevenlabs | 2.26.1 | Official Python API for ElevenLabs Text to Speech | legacyPackages.x86_64-linux.python313Packages.elevenlabs |
+| python3.13-elevenlabs | 2.27.0 | Official Python API for ElevenLabs Text to Speech | legacyPackages.x86_64-linux.python313Packages.elevenlabs |
 | python3.13-elgato | 5.1.2 | Python client for Elgato Key Lights | legacyPackages.x86_64-linux.python313Packages.elgato |
 | python3.13-eliot | 1.17.5 | Logging library that tells you why it happened | legacyPackages.x86_64-linux.python313Packages.eliot |
 | python3.13-eliqonline | 1.2.2 | Python client to the Eliq Online API | legacyPackages.x86_64-linux.python313Packages.eliqonline |
@@ -66094,6 +66113,7 @@
 | python3.13-faraday-plugins | 1.25.0 | Security tools report parsers for Faraday | legacyPackages.x86_64-linux.python313Packages.faraday-plugins |
 | python3.13-farama-notifications | 0.0.4 | Allows for providing notifications on import to all Farama Packages | legacyPackages.x86_64-linux.python313Packages.farama-notifications |
 | python3.13-fast-array-utils | 1.3.1 | Fast array utilities | legacyPackages.x86_64-linux.python313Packages.fast-array-utils |
+| python3.13-fast-colorthief | 0.0.5 | Selection of most dominant colors in image using Modified Median Cut Quantization | legacyPackages.x86_64-linux.python313Packages.fast-colorthief |
 | python3.13-fast-histogram | 0.14 | Fast 1D and 2D histogram functions in Python | legacyPackages.x86_64-linux.python313Packages.fast-histogram |
 | python3.13-fast-query-parsers | 1.0.3 | Ultra-fast query string and url-encoded form-data parsers | legacyPackages.x86_64-linux.python313Packages.fast-query-parsers |
 | python3.13-fast-simplification | 0.1.12 | Fast Quadratic Mesh Simplification | legacyPackages.x86_64-linux.python313Packages.fast-simplification |
@@ -66553,7 +66573,7 @@
 | python3.13-gluonts | 0.16.2 | Probabilistic time series modeling in Python | legacyPackages.x86_64-linux.python313Packages.gluonts |
 | python3.13-glymur | 0.13.6 | Tools for accessing JPEG2000 files | legacyPackages.x86_64-linux.python313Packages.glymur |
 | python3.13-glyphsets | 1.1.0 | Google Fonts glyph set metadata | legacyPackages.x86_64-linux.python313Packages.glyphsets |
-| python3.13-glyphslib | 6.12.5 | Bridge from Glyphs source files (.glyphs) to UFOs and Designspace files via defcon and designspaceLib | legacyPackages.x86_64-linux.python313Packages.glyphslib |
+| python3.13-glyphslib | 6.12.6 | Bridge from Glyphs source files (.glyphs) to UFOs and Designspace files via defcon and designspaceLib | legacyPackages.x86_64-linux.python313Packages.glyphslib |
 | python3.13-glyphtools | 0.8.0 | Python library for extracting information from font glyphs | legacyPackages.x86_64-linux.python313Packages.glyphtools |
 | python3.13-gmpy | 1.17 | GMP or MPIR interface to Python 2.4+ and 3.x | legacyPackages.x86_64-linux.python313Packages.gmpy |
 | python3.13-gmpy2 | 2.2.1 | Interface to GMP, MPFR, and MPC for Python 3.7+ | legacyPackages.x86_64-linux.python313Packages.gmpy2 |
@@ -66718,7 +66738,7 @@
 | python3.13-grip | 4.6.1 | Preview GitHub Markdown files like Readme locally before committing them | legacyPackages.x86_64-linux.python313Packages.grip |
 | python3.13-groestlcoin-hash | 1.0.3 | Bindings for groestl key derivation function library used in Groestlcoin | legacyPackages.x86_64-linux.python313Packages.groestlcoin-hash |
 | python3.13-groovy | 0.1.2 | Small Python library created to help developers protect their applications from Server Side Request Forgery (SSRF) attacks | legacyPackages.x86_64-linux.python313Packages.groovy |
-| python3.13-groq | 0.36.0 | Library for the Groq API | legacyPackages.x86_64-linux.python313Packages.groq |
+| python3.13-groq | 0.37.1 | Library for the Groq API | legacyPackages.x86_64-linux.python313Packages.groq |
 | python3.13-growattserver | 1.7.1 | Python package to retrieve information from Growatt units | legacyPackages.x86_64-linux.python313Packages.growattserver |
 | python3.13-grpc-google-iam-v1 | 3.31.3 | GRPC library for the google-iam-v1 service | legacyPackages.x86_64-linux.python313Packages.grpc-google-iam-v1 |
 | python3.13-grpc-interceptor | 0.15.4 | Simplified gRPC interceptors | legacyPackages.x86_64-linux.python313Packages.grpc-interceptor |
@@ -66782,6 +66802,7 @@
 | python3.13-hachoir | 3.3.0 | Python library to view and edit a binary stream | legacyPackages.x86_64-linux.python313Packages.hachoir |
 | python3.13-hack | 0.4.3 | Microsoft Azure Command-Line Tools Hack Extension | legacyPackages.x86_64-linux.azure-cli-extensions.hack |
 | python3.13-hacking | 8.0.0 | OpenStack Hacking Guideline Enforcement | legacyPackages.x86_64-linux.python313Packages.hacking |
+| python3.13-haishoku | 1.1.8 | Development tool for grabbing the dominant color or representative color palette from an image | legacyPackages.x86_64-linux.python313Packages.haishoku |
 | python3.13-hakuin | 0.1.10 | Blind SQL Injection optimization and automation framework | legacyPackages.x86_64-linux.python313Packages.hakuin |
 | python3.13-halo | 0.0.31 | Beautiful Spinners for Terminal, IPython and Jupyter | legacyPackages.x86_64-linux.python313Packages.halo |
 | python3.13-halohome | 0.7.0 | Python library to control Eaton HALO Home Smart Lights | legacyPackages.x86_64-linux.python313Packages.halohome |
@@ -67001,7 +67022,7 @@
 | python3.13-i3-py | 0.6.4 | Tools for i3 users and developers | legacyPackages.x86_64-linux.python313Packages.i3-py |
 | python3.13-i3ipc | 2.2.1 | Improved Python library to control i3wm and sway | legacyPackages.x86_64-linux.python313Packages.i3ipc |
 | python3.13-iMicknl-nest_protect | 0.4.2b0 | Nest Protect integration for Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.nest_protect |
-| python3.13-iamdata | 0.1.202512141 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
+| python3.13-iamdata | 0.1.202512161 | Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys | legacyPackages.x86_64-linux.python313Packages.iamdata |
 | python3.13-iammeter | 0.2.1 | Module to work with the IamMeter API | legacyPackages.x86_64-linux.python313Packages.iammeter |
 | python3.13-iapws | 1.5.4 | Python implementation of standard from IAPWS | legacyPackages.x86_64-linux.python313Packages.iapws |
 | python3.13-iaqualink | 0.6.0 | Python library for Jandy iAqualink | legacyPackages.x86_64-linux.python313Packages.iaqualink |
@@ -67306,7 +67327,7 @@
 | python3.13-json-home-client | 1.1.1 | Client class for calling http+json APIs in Python | legacyPackages.x86_64-linux.python313Packages.json-home-client |
 | python3.13-json-logging | 1.5.1 | Python library to emit logs in JSON format | legacyPackages.x86_64-linux.python313Packages.json-logging |
 | python3.13-json-merge-patch | 0.3.0 | JSON Merge Patch library | legacyPackages.x86_64-linux.python313Packages.json-merge-patch |
-| python3.13-json-repair | 0.54.2 | Module to repair invalid JSON, commonly used to parse the output of LLMs | legacyPackages.x86_64-linux.python313Packages.json-repair |
+| python3.13-json-repair | 0.54.3 | Module to repair invalid JSON, commonly used to parse the output of LLMs | legacyPackages.x86_64-linux.python313Packages.json-repair |
 | python3.13-json-rpc | 1.15.0 | JSON-RPC 1/2 transport implementation | legacyPackages.x86_64-linux.python313Packages.json-rpc |
 | python3.13-json-schema-for-humans | 1.5.1 | Quickly generate HTML documentation from a JSON schema | legacyPackages.x86_64-linux.python313Packages.json-schema-for-humans |
 | python3.13-json-stream | 2.4.1 | Streaming JSON parser | legacyPackages.x86_64-linux.python313Packages.json-stream |
@@ -67548,7 +67569,7 @@
 | python3.13-langchain-xai | 1.1.0 | Build LangChain applications with X AI | legacyPackages.x86_64-linux.python313Packages.langchain-xai |
 | python3.13-langcodes | 3.5.0 | Python toolkit for working with and comparing the standardized codes for languages | legacyPackages.x86_64-linux.python313Packages.langcodes |
 | python3.13-langdetect | 1.0.9 | Python port of Google's language-detection library | legacyPackages.x86_64-linux.python313Packages.langdetect |
-| python3.13-langfuse | 3.10.5 | Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability | legacyPackages.x86_64-linux.python313Packages.langfuse |
+| python3.13-langfuse | 3.10.6 | Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability | legacyPackages.x86_64-linux.python313Packages.langfuse |
 | python3.13-langgraph | 1.0.4 | Build resilient language agents as graphs | legacyPackages.x86_64-linux.python313Packages.langgraph |
 | python3.13-langgraph-checkpoint | 3.0.1 | Library with base interfaces for LangGraph checkpoint savers | legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint |
 | python3.13-langgraph-checkpoint-mongodb | 0.3.0 | Integrations between MongoDB, Atlas, LangChain, and LangGraph | legacyPackages.x86_64-linux.python313Packages.langgraph-checkpoint-mongodb |
@@ -67560,7 +67581,7 @@
 | python3.13-langgraph-sdk | 0.2.15 | SDK for interacting with the LangGraph Cloud REST API | legacyPackages.x86_64-linux.python313Packages.langgraph-sdk |
 | python3.13-langgraph-store-mongodb | 0.1.1 | Integrations between MongoDB, Atlas, LangChain, and LangGraph | legacyPackages.x86_64-linux.python313Packages.langgraph-store-mongodb |
 | python3.13-langid | 1.1.6 | Langid.py is a standalone Language Identification (LangID) tool | legacyPackages.x86_64-linux.python313Packages.langid |
-| python3.13-langsmith | 0.4.58 | Client library to connect to the LangSmith LLM Tracing and Evaluation Platform | legacyPackages.x86_64-linux.python313Packages.langsmith |
+| python3.13-langsmith | 0.4.59 | Client library to connect to the LangSmith LLM Tracing and Evaluation Platform | legacyPackages.x86_64-linux.python313Packages.langsmith |
 | python3.13-language-data | 1.3.0 | Supplement module for langcodes | legacyPackages.x86_64-linux.python313Packages.language-data |
 | python3.13-language-tags | 1.2.0 | Dealing with IANA language tags in Python | legacyPackages.x86_64-linux.python313Packages.language-tags |
 | python3.13-language-tool-python | 3.1.0 | Free python grammar checker | legacyPackages.x86_64-linux.python313Packages.language-tool-python |
@@ -67850,10 +67871,10 @@
 | python3.13-loopy | 2025.2 | Code generator for array-based code on CPUs and GPUs | legacyPackages.x86_64-linux.python313Packages.loopy |
 | python3.13-looseversion | 1.3.0 | Version numbering for anarchists and software realists | legacyPackages.x86_64-linux.python313Packages.looseversion |
 | python3.13-loqedapi | 2.1.10 | Module to interact with the Loqed Smart Door Lock API | legacyPackages.x86_64-linux.python313Packages.loqedapi |
-| python3.13-loro | 1.10.0 | Data collaborative and version-controlled JSON with CRDTs | legacyPackages.x86_64-linux.python313Packages.loro |
+| python3.13-loro | 1.10.3 | Data collaborative and version-controlled JSON with CRDTs | legacyPackages.x86_64-linux.python313Packages.loro |
 | python3.13-losant-rest | 1.22.1 | Python module for consuming the Losant IoT Platform API | legacyPackages.x86_64-linux.python313Packages.losant-rest |
 | python3.13-lottie | 0.7.2 | Framework to work with lottie files and telegram animated stickers (tgs) | legacyPackages.x86_64-linux.python313Packages.lottie |
-| python3.13-lovelylain-ingress | 1.2.9 | Add additional ingress panels to your Home Assistant frontend | legacyPackages.x86_64-linux.home-assistant-custom-components.ingress |
+| python3.13-lovelylain-ingress | 1.2.10 | Add additional ingress panels to your Home Assistant frontend | legacyPackages.x86_64-linux.home-assistant-custom-components.ingress |
 | python3.13-low-index | 1.2.1 | Enumerates low index subgroups of a finitely presented group | legacyPackages.x86_64-linux.python313Packages.low-index |
 | python3.13-lox | 0.13.0 | Threading and Multiprocessing made easy | legacyPackages.x86_64-linux.python313Packages.lox |
 | python3.13-lpc-checksum | 3.0.0 | Python script to calculate LPC firmware checksums | legacyPackages.x86_64-linux.python313Packages.lpc-checksum |
@@ -67918,7 +67939,7 @@
 | python3.13-mailsuite | 1.10.1 | Python package to simplify receiving, parsing, and sending email | legacyPackages.x86_64-linux.python313Packages.mailsuite |
 | python3.13-maintenance | 1.7.0b2 | Microsoft Azure Command-Line Tools MaintenanceManagementClient Extension | legacyPackages.x86_64-linux.azure-cli-extensions.maintenance |
 | python3.13-maison | 2.0.2 | Library to read settings from config files | legacyPackages.x86_64-linux.python313Packages.maison |
-| python3.13-make-all-tuya_local | 2025.12.0 | Local support for Tuya devices in Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.tuya_local |
+| python3.13-make-all-tuya_local | 2025.12.2 | Local support for Tuya devices in Home Assistant | legacyPackages.x86_64-linux.home-assistant-custom-components.tuya_local |
 | python3.13-makefun | 1.16.0 | Small library to dynamically create python functions | legacyPackages.x86_64-linux.python313Packages.makefun |
 | python3.13-mako | 1.3.10 | Super-fast templating language | legacyPackages.x86_64-linux.python313Packages.mako |
 | python3.13-malduck | 4.4.1 | Helper for malware analysis | legacyPackages.x86_64-linux.python313Packages.malduck |
@@ -68074,7 +68095,7 @@
 | python3.13-merkletools | 1.0.3 | Python tools for creating Merkle trees, generating Merkle proofs, and verification of Merkle proofs | legacyPackages.x86_64-linux.python313Packages.merkletools |
 | python3.13-meross-iot | 0.4.10.3 | Python library to interact with Meross devices | legacyPackages.x86_64-linux.python313Packages.meross-iot |
 | python3.13-meshcat | 0.3.2 | WebGL-based 3D visualizer for Python | legacyPackages.x86_64-linux.python313Packages.meshcat |
-| python3.13-meshcore | 2.2.2 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python313Packages.meshcore |
+| python3.13-meshcore | 2.2.3 | Python library for communicating with meshcore companion radios | legacyPackages.x86_64-linux.python313Packages.meshcore |
 | python3.13-meshio | 5.3.5 | I/O for mesh files | legacyPackages.x86_64-linux.python313Packages.meshio |
 | python3.13-meshlabxml | 2018.3 | Create and run MeshLab XML scripts with Python | legacyPackages.x86_64-linux.python313Packages.meshlabxml |
 | python3.13-meshtastic | 2.7.5 | Python API for talking to Meshtastic devices | legacyPackages.x86_64-linux.python313Packages.meshtastic |
@@ -68241,6 +68262,7 @@
 | python3.13-model-signing | 1.1.1 | Supply chain security for ML | legacyPackages.x86_64-linux.python313Packages.model-signing |
 | python3.13-modelcif | 1.6 | Python package for handling ModelCIF mmCIF and BinaryCIF files | legacyPackages.x86_64-linux.python313Packages.modelcif |
 | python3.13-modeled | 0.1.8 | Universal data modeling for Python | legacyPackages.x86_64-linux.python313Packages.modeled |
+| python3.13-modelscope | 1.31.0 | Bring the notion of Model-as-a-Service to life | legacyPackages.x86_64-linux.python313Packages.modelscope |
 | python3.13-modelsearch | 1.1.1 | Index Django Models with Elasticsearch or OpenSearch and query them with the ORM | legacyPackages.x86_64-linux.python313Packages.django-modelsearch |
 | python3.13-modern-colorthief | 0.1.7 |  | legacyPackages.x86_64-linux.python313Packages.modern-colorthief |
 | python3.13-moderngl | 5.12.0 | High performance rendering for Python | legacyPackages.x86_64-linux.python313Packages.moderngl |
@@ -68461,7 +68483,7 @@
 | python3.13-mypy-boto3-comprehendmedical | 1.42.3 | Type annotations for boto3 comprehendmedical | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-comprehendmedical |
 | python3.13-mypy-boto3-compute-optimizer | 1.42.3 | Type annotations for boto3 compute-optimizer | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-compute-optimizer |
 | python3.13-mypy-boto3-config | 1.42.3 | Type annotations for boto3 config | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-config |
-| python3.13-mypy-boto3-connect | 1.42.9 | Type annotations for boto3 connect | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connect |
+| python3.13-mypy-boto3-connect | 1.42.10 | Type annotations for boto3 connect | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connect |
 | python3.13-mypy-boto3-connect-contact-lens | 1.42.3 | Type annotations for boto3 connect-contact-lens | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connect-contact-lens |
 | python3.13-mypy-boto3-connectcampaigns | 1.42.3 | Type annotations for boto3 connectcampaigns | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connectcampaigns |
 | python3.13-mypy-boto3-connectcases | 1.42.3 | Type annotations for boto3 connectcases | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-connectcases |
@@ -68488,7 +68510,7 @@
 | python3.13-mypy-boto3-dynamodb | 1.42.3 | Type annotations for boto3 dynamodb | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-dynamodb |
 | python3.13-mypy-boto3-dynamodbstreams | 1.42.3 | Type annotations for boto3 dynamodbstreams | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-dynamodbstreams |
 | python3.13-mypy-boto3-ebs | 1.42.3 | Type annotations for boto3 ebs | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ebs |
-| python3.13-mypy-boto3-ec2 | 1.42.5 | Type annotations for boto3 ec2 | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ec2 |
+| python3.13-mypy-boto3-ec2 | 1.42.10 | Type annotations for boto3 ec2 | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ec2 |
 | python3.13-mypy-boto3-ec2-instance-connect | 1.42.3 | Type annotations for boto3 ec2-instance-connect | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ec2-instance-connect |
 | python3.13-mypy-boto3-ecr | 1.42.3 | Type annotations for boto3 ecr | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ecr |
 | python3.13-mypy-boto3-ecr-public | 1.42.3 | Type annotations for boto3 ecr-public | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-ecr-public |
@@ -68504,7 +68526,7 @@
 | python3.13-mypy-boto3-emr | 1.42.3 | Type annotations for boto3 emr | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr |
 | python3.13-mypy-boto3-emr-containers | 1.42.3 | Type annotations for boto3 emr-containers | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr-containers |
 | python3.13-mypy-boto3-emr-serverless | 1.42.3 | Type annotations for boto3 emr-serverless | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-emr-serverless |
-| python3.13-mypy-boto3-entityresolution | 1.42.3 | Type annotations for boto3 entityresolution | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-entityresolution |
+| python3.13-mypy-boto3-entityresolution | 1.42.10 | Type annotations for boto3 entityresolution | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-entityresolution |
 | python3.13-mypy-boto3-es | 1.42.3 | Type annotations for boto3 es | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-es |
 | python3.13-mypy-boto3-events | 1.42.3 | Type annotations for boto3 events | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-events |
 | python3.13-mypy-boto3-evidently | 1.42.3 | Type annotations for boto3 evidently | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-evidently |
@@ -68518,7 +68540,7 @@
 | python3.13-mypy-boto3-frauddetector | 1.42.3 | Type annotations for boto3 frauddetector | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-frauddetector |
 | python3.13-mypy-boto3-fsx | 1.42.3 | Type annotations for boto3 fsx | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-fsx |
 | python3.13-mypy-boto3-gamelift | 1.42.3 | Type annotations for boto3 gamelift | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-gamelift |
-| python3.13-mypy-boto3-glacier | 1.42.3 | Type annotations for boto3 glacier | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-glacier |
+| python3.13-mypy-boto3-glacier | 1.42.10 | Type annotations for boto3 glacier | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-glacier |
 | python3.13-mypy-boto3-globalaccelerator | 1.42.3 | Type annotations for boto3 globalaccelerator | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-globalaccelerator |
 | python3.13-mypy-boto3-glue | 1.42.3 | Type annotations for boto3 glue | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-glue |
 | python3.13-mypy-boto3-grafana | 1.42.3 | Type annotations for boto3 grafana | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-grafana |
@@ -68526,7 +68548,7 @@
 | python3.13-mypy-boto3-greengrassv2 | 1.42.3 | Type annotations for boto3 greengrassv2 | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-greengrassv2 |
 | python3.13-mypy-boto3-groundstation | 1.42.3 | Type annotations for boto3 groundstation | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-groundstation |
 | python3.13-mypy-boto3-guardduty | 1.42.6 | Type annotations for boto3 guardduty | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-guardduty |
-| python3.13-mypy-boto3-health | 1.42.3 | Type annotations for boto3 health | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-health |
+| python3.13-mypy-boto3-health | 1.42.10 | Type annotations for boto3 health | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-health |
 | python3.13-mypy-boto3-healthlake | 1.42.3 | Type annotations for boto3 healthlake | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-healthlake |
 | python3.13-mypy-boto3-iam | 1.42.4 | Type annotations for boto3 iam | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-iam |
 | python3.13-mypy-boto3-identitystore | 1.42.5 | Type annotations for boto3 identitystore | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-identitystore |
@@ -68579,7 +68601,7 @@
 | python3.13-mypy-boto3-license-manager-user-subscriptions | 1.42.3 | Type annotations for boto3 license-manager-user-subscriptions | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-license-manager-user-subscriptions |
 | python3.13-mypy-boto3-lightsail | 1.42.3 | Type annotations for boto3 lightsail | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lightsail |
 | python3.13-mypy-boto3-location | 1.42.3 | Type annotations for boto3 location | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-location |
-| python3.13-mypy-boto3-logs | 1.42.3 | Type annotations for boto3 logs | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-logs |
+| python3.13-mypy-boto3-logs | 1.42.10 | Type annotations for boto3 logs | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-logs |
 | python3.13-mypy-boto3-lookoutequipment | 1.42.3 | Type annotations for boto3 lookoutequipment | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lookoutequipment |
 | python3.13-mypy-boto3-lookoutmetrics | 1.40.15 | Type annotations for boto3 lookoutmetrics | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lookoutmetrics |
 | python3.13-mypy-boto3-lookoutvision | 1.40.59 | Type annotations for boto3 lookoutvision | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-lookoutvision |
@@ -68599,7 +68621,7 @@
 | python3.13-mypy-boto3-mediapackagev2 | 1.42.3 | Type annotations for boto3 mediapackagev2 | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediapackagev2 |
 | python3.13-mypy-boto3-mediastore | 1.42.3 | Type annotations for boto3 mediastore | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediastore |
 | python3.13-mypy-boto3-mediastore-data | 1.42.3 | Type annotations for boto3 mediastore-data | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediastore-data |
-| python3.13-mypy-boto3-mediatailor | 1.42.3 | Type annotations for boto3 mediatailor | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediatailor |
+| python3.13-mypy-boto3-mediatailor | 1.42.10 | Type annotations for boto3 mediatailor | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediatailor |
 | python3.13-mypy-boto3-medical-imaging | 1.42.3 | Type annotations for boto3 medical-imaging | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-medical-imaging |
 | python3.13-mypy-boto3-memorydb | 1.42.3 | Type annotations for boto3 memorydb | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-memorydb |
 | python3.13-mypy-boto3-meteringmarketplace | 1.42.3 | Type annotations for boto3 meteringmarketplace | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-meteringmarketplace |
@@ -68665,9 +68687,9 @@
 | python3.13-mypy-boto3-route53-recovery-control-config | 1.42.3 | Type annotations for boto3 route53-recovery-control-config | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53-recovery-control-config |
 | python3.13-mypy-boto3-route53-recovery-readiness | 1.42.3 | Type annotations for boto3 route53-recovery-readiness | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53-recovery-readiness |
 | python3.13-mypy-boto3-route53domains | 1.42.3 | Type annotations for boto3 route53domains | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53domains |
-| python3.13-mypy-boto3-route53resolver | 1.42.3 | Type annotations for boto3 route53resolver | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53resolver |
+| python3.13-mypy-boto3-route53resolver | 1.42.10 | Type annotations for boto3 route53resolver | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-route53resolver |
 | python3.13-mypy-boto3-rum | 1.42.3 | Type annotations for boto3 rum | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-rum |
-| python3.13-mypy-boto3-s3 | 1.42.3 | Type annotations for boto3 s3 | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3 |
+| python3.13-mypy-boto3-s3 | 1.42.10 | Type annotations for boto3 s3 | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3 |
 | python3.13-mypy-boto3-s3control | 1.42.3 | Type annotations for boto3 s3control | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3control |
 | python3.13-mypy-boto3-s3outposts | 1.42.3 | Type annotations for boto3 s3outposts | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-s3outposts |
 | python3.13-mypy-boto3-sagemaker | 1.42.3 | Type annotations for boto3 sagemaker | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-sagemaker |
@@ -68685,7 +68707,7 @@
 | python3.13-mypy-boto3-securityhub | 1.42.3 | Type annotations for boto3 securityhub | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-securityhub |
 | python3.13-mypy-boto3-securitylake | 1.42.3 | Type annotations for boto3 securitylake | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-securitylake |
 | python3.13-mypy-boto3-serverlessrepo | 1.42.3 | Type annotations for boto3 serverlessrepo | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-serverlessrepo |
-| python3.13-mypy-boto3-service-quotas | 1.42.3 | Type annotations for boto3 service-quotas | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-service-quotas |
+| python3.13-mypy-boto3-service-quotas | 1.42.10 | Type annotations for boto3 service-quotas | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-service-quotas |
 | python3.13-mypy-boto3-servicecatalog | 1.42.3 | Type annotations for boto3 servicecatalog | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-servicecatalog |
 | python3.13-mypy-boto3-servicecatalog-appregistry | 1.42.3 | Type annotations for boto3 servicecatalog-appregistry | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-servicecatalog-appregistry |
 | python3.13-mypy-boto3-servicediscovery | 1.42.3 | Type annotations for boto3 servicediscovery | legacyPackages.x86_64-linux.python313Packages.mypy-boto3-servicediscovery |
@@ -69040,7 +69062,7 @@
 | python3.13-oddsprout | 0.1.2 | Generate random JSON with no schemas involved | legacyPackages.x86_64-linux.python313Packages.oddsprout |
 | python3.13-odfpy | 1.4.1 | Python API and tools to manipulate OpenDocument files | legacyPackages.x86_64-linux.python313Packages.odfpy |
 | python3.13-odp-amsterdam | 6.1.2 | Python client for getting garage occupancy in Amsterdam | legacyPackages.x86_64-linux.python313Packages.odp-amsterdam |
-| python3.13-oelint-data | 1.2.8 | Data for oelint-adv | legacyPackages.x86_64-linux.python313Packages.oelint-data |
+| python3.13-oelint-data | 1.2.9 | Data for oelint-adv | legacyPackages.x86_64-linux.python313Packages.oelint-data |
 | python3.13-oelint-parser | 8.6.2 | Alternative parser for bitbake recipes | legacyPackages.x86_64-linux.python313Packages.oelint-parser |
 | python3.13-oemthermostat | 1.1.1 | Python module to interact with OpenEnergyMonitor thermostats | legacyPackages.x86_64-linux.python313Packages.oemthermostat |
 | python3.13-offazure | 0.1.0 | Microsoft Azure Command-Line Tools AzureMigrateV2 Extension | legacyPackages.x86_64-linux.azure-cli-extensions.offazure |
@@ -69253,6 +69275,7 @@
 | python3.13-otpauth | 2.2.1 | Implements one time password of HOTP/TOTP | legacyPackages.x86_64-linux.python313Packages.otpauth |
 | python3.13-otr | 2.1.0 | Off-The-Record Messaging protocol implementation for Python | legacyPackages.x86_64-linux.python313Packages.otr |
 | python3.13-ots-python | 9.1.0 | Python wrapper for ots (OpenType Sanitizer) | legacyPackages.x86_64-linux.python313Packages.ots-python |
+| python3.13-otxv2 | 1.5.12 | The Python SDK for AlienVault OTX | legacyPackages.x86_64-linux.python313Packages.otxv2 |
 | python3.13-ourgroceries | 1.5.4 | Unofficial Python Wrapper for Our Groceries | legacyPackages.x86_64-linux.python313Packages.ourgroceries |
 | python3.13-outcome | 1.3.0.post0 | Capture the outcome of Python function calls | legacyPackages.x86_64-linux.python313Packages.outcome |
 | python3.13-outdated | 0.2.2 | Mini-library which, given a package name and a version, checks if it's the latest version available on PyPI | legacyPackages.x86_64-linux.python313Packages.outdated |
@@ -69280,7 +69303,7 @@
 | python3.13-paddle-bfloat | 0.1.7 | Paddle numpy bfloat16 package | legacyPackages.x86_64-linux.python313Packages.paddle-bfloat |
 | python3.13-paddle2onnx | 2.0.1 | ONNX Model Exporter for PaddlePaddle | legacyPackages.x86_64-linux.python313Packages.paddle2onnx |
 | python3.13-paddleocr | 3.3.2 | Multilingual OCR toolkits based on PaddlePaddle | legacyPackages.x86_64-linux.python313Packages.paddleocr |
-| python3.13-paddlepaddle | 3.0.0 | Machine Learning Framework from Industrial Practice | legacyPackages.x86_64-linux.python313Packages.paddlepaddle |
+| python3.13-paddlepaddle | 3.2.0 | Machine Learning Framework from Industrial Practice | legacyPackages.x86_64-linux.python313Packages.paddlepaddle |
 | python3.13-paddlex | 3.3.10 | All-in-One Development Tool based on PaddlePaddle | legacyPackages.x86_64-linux.python313Packages.paddlex |
 | python3.13-pagelabels | 1.2.1 | Python library to manipulate PDF page labels | legacyPackages.x86_64-linux.python313Packages.pagelabels |
 | python3.13-paginate | 0.5.7 | Python pagination module | legacyPackages.x86_64-linux.python313Packages.paginate |
@@ -69643,7 +69666,7 @@
 | python3.13-power | 1.4 | Cross-platform system power status information | legacyPackages.x86_64-linux.python313Packages.power |
 | python3.13-powerapi | 2.10.0 | Python framework for building software-defined power meters | legacyPackages.x86_64-linux.python313Packages.powerapi |
 | python3.13-powerbidedicated | 1.0.0b1 | Microsoft Azure Command-Line Tools PowerBIDedicated Extension | legacyPackages.x86_64-linux.azure-cli-extensions.powerbidedicated |
-| python3.13-powerfox | 1.3.0 | Asynchronous Python client for the Powerfox devices | legacyPackages.x86_64-linux.python313Packages.powerfox |
+| python3.13-powerfox | 2.0.0 | Asynchronous Python client for the Powerfox devices | legacyPackages.x86_64-linux.python313Packages.powerfox |
 | python3.13-powerline | 2.8.4 | Ultimate statusline/prompt utility | legacyPackages.x86_64-linux.python313Packages.powerline |
 | python3.13-powerline-mem-segment | 2.4.1 | Segment for Powerline showing the current memory usage in percent or absolute values | legacyPackages.x86_64-linux.python313Packages.powerline-mem-segment |
 | python3.13-pox | 0.3.6 | Utilities for filesystem exploration and automated builds | legacyPackages.x86_64-linux.python313Packages.pox |
@@ -69755,7 +69778,7 @@
 | python3.13-publicsuffixlist | 1.0.2.20251209 | Public Suffix List parser implementation | legacyPackages.x86_64-linux.python313Packages.publicsuffixlist |
 | python3.13-pubnub | 10.5.0 | Python-based APIs for PubNub | legacyPackages.x86_64-linux.python313Packages.pubnub |
 | python3.13-pubnubsub-handler | 1.0.9 | PubNub subscription between PubNub and Home Assistant | legacyPackages.x86_64-linux.python313Packages.pubnubsub-handler |
-| python3.13-pudb | 2025.1.4 | Full-screen, console-based Python debugger | legacyPackages.x86_64-linux.python313Packages.pudb |
+| python3.13-pudb | 2025.1.5 | Full-screen, console-based Python debugger | legacyPackages.x86_64-linux.python313Packages.pudb |
 | python3.13-pueblo | 0.0.12 | Python toolbox library | legacyPackages.x86_64-linux.python313Packages.pueblo |
 | python3.13-pulp | 2.8.0 | Module to generate MPS or LP files | legacyPackages.x86_64-linux.python313Packages.pulp |
 | python3.13-pulsar-client | 3.8.0 | Apache Pulsar Python client library | legacyPackages.x86_64-linux.python313Packages.pulsar-client |
@@ -69871,7 +69894,7 @@
 | python3.13-pyaehw4a1 | 0.3.9 | Python interface for Hisense AEH-W4A1 module | legacyPackages.x86_64-linux.python313Packages.pyaehw4a1 |
 | python3.13-pyaes | 1.6.1 | Pure-Python AES | legacyPackages.x86_64-linux.python313Packages.pyaes |
 | python3.13-pyaftership | 23.1.0 | Python wrapper package for the AfterShip API | legacyPackages.x86_64-linux.python313Packages.pyaftership |
-| python3.13-pyahocorasick | 2.2.0 | Python module implementing Aho-Corasick algorithm | legacyPackages.x86_64-linux.python313Packages.pyahocorasick |
+| python3.13-pyahocorasick | 2.3.0 | Python module implementing Aho-Corasick algorithm | legacyPackages.x86_64-linux.python313Packages.pyahocorasick |
 | python3.13-pyairnow | 1.3.1 | Python wrapper for EPA AirNow Air Quality API | legacyPackages.x86_64-linux.python313Packages.pyairnow |
 | python3.13-pyairobotrest | 0.1.0 | Python library for controlling Airobot TE1 thermostats via local REST API | legacyPackages.x86_64-linux.python313Packages.pyairobotrest |
 | python3.13-pyairports | 2.1.1 | Package which enables airport lookup by 3-letter IATA code | legacyPackages.x86_64-linux.python313Packages.pyairports |
@@ -69987,7 +70010,7 @@
 | python3.13-pycrashreport | 1.2.7 | Python3 parser for Apple's crash reports | legacyPackages.x86_64-linux.python313Packages.pycrashreport |
 | python3.13-pycrc | 1.21 | Python libraries for CRC calculations (it supports CRC-16, CRC-32, CRC-CCITT, etc) | legacyPackages.x86_64-linux.python313Packages.pycrc |
 | python3.13-pycrdt | 0.12.44 | CRDTs based on Yrs | legacyPackages.x86_64-linux.python313Packages.pycrdt |
-| python3.13-pycrdt-store | 0.1.3b1 | Persistent storage for pycrdt | legacyPackages.x86_64-linux.python313Packages.pycrdt-store |
+| python3.13-pycrdt-store | 0.1.3 | Persistent storage for pycrdt | legacyPackages.x86_64-linux.python313Packages.pycrdt-store |
 | python3.13-pycrdt-websocket | 0.16.0 | WebSocket Connector for pycrdt | legacyPackages.x86_64-linux.python313Packages.pycrdt-websocket |
 | python3.13-pycritty | 0.4.0 | CLI tool for changing your alacritty configuration on the fly | legacyPackages.x86_64-linux.python313Packages.pycritty |
 | python3.13-pycron | 3.2.0 | Simple cron-like parser for Python, which determines if current datetime matches conditions | legacyPackages.x86_64-linux.python313Packages.pycron |
@@ -70043,7 +70066,7 @@
 | python3.13-pydispatcher | 2.0.7 | Signal-registration and routing infrastructure for use in multiple contexts | legacyPackages.x86_64-linux.python313Packages.pydispatcher |
 | python3.13-pydle | 1.1.0 | IRCv3-compliant Python 3 IRC library | legacyPackages.x86_64-linux.python313Packages.pydle |
 | python3.13-pydmd | 2025.08.01 | Python Dynamic Mode Decomposition | legacyPackages.x86_64-linux.python313Packages.pydmd |
-| python3.13-pydo | 0.21.0 | Official DigitalOcean Client based on the DO OpenAPIv3 specification | legacyPackages.x86_64-linux.python313Packages.pydo |
+| python3.13-pydo | 0.22.0 | Official DigitalOcean Client based on the DO OpenAPIv3 specification | legacyPackages.x86_64-linux.python313Packages.pydo |
 | python3.13-pydocstyle | 6.3.0 | Python docstring style checker | legacyPackages.x86_64-linux.python313Packages.pydocstyle |
 | python3.13-pydocumentdb | 2.3.5 | Azure Cosmos DB API | legacyPackages.x86_64-linux.python313Packages.pydocumentdb |
 | python3.13-pydoe | 0.3.8 | Design of experiments for Python | legacyPackages.x86_64-linux.python313Packages.pydoe |
@@ -70206,7 +70229,7 @@
 | python3.13-pyialarm | 2.2.0 | Python library to interface with Antifurto365 iAlarm systems | legacyPackages.x86_64-linux.python313Packages.pyialarm |
 | python3.13-pyiceberg-core | 0.6.0 | Iceberg-rust powered core for pyiceberg | legacyPackages.x86_64-linux.python313Packages.pyiceberg-core |
 | python3.13-pyicloud | 2.2.0 | Module to interact with iCloud webservices | legacyPackages.x86_64-linux.python313Packages.pyicloud |
-| python3.13-pyicu | 2.15.2 | Python extension wrapping the ICU C++ API | legacyPackages.x86_64-linux.python313Packages.pyicu |
+| python3.13-pyicu | 2.15.3 | Python extension wrapping the ICU C++ API | legacyPackages.x86_64-linux.python313Packages.pyicu |
 | python3.13-pyicumessageformat | 1.0.0 | Unopinionated Python3 parser for ICU MessageFormat | legacyPackages.x86_64-linux.python313Packages.pyicumessageformat |
 | python3.13-pyimg4 | 0.8.8 | Python library/CLI tool for parsing Apple's Image4 format | legacyPackages.x86_64-linux.python313Packages.pyimg4 |
 | python3.13-pyimgbox | 1.0.7 | API for uploading images to imgbox.com | legacyPackages.x86_64-linux.python313Packages.pyimgbox |
@@ -70346,6 +70369,7 @@
 | python3.13-pymemcache | 4.0.0 | Python memcached client | legacyPackages.x86_64-linux.python313Packages.pymemcache |
 | python3.13-pymemoize | 1.0.3 | Simple Python cache and memoizing module | legacyPackages.x86_64-linux.python313Packages.pymemoize |
 | python3.13-pyment | 0.3.3 | Create, update or convert docstrings in existing Python files, managing several styles | legacyPackages.x86_64-linux.python313Packages.pyment |
+| python3.13-pymeshlab | 2025.7 | Open source mesh processing python library | legacyPackages.x86_64-linux.python313Packages.pymeshlab |
 | python3.13-pymeta3 | 0.5.1 | Pattern-matching language based on OMeta for Python 3 and 2 | legacyPackages.x86_64-linux.python313Packages.pymeta3 |
 | python3.13-pymetar | 1.4 | Command-line tool to show the weather report by a given station ID | legacyPackages.x86_64-linux.python313Packages.pymetar |
 | python3.13-pymetasploit3 | 1.0.6 | Library for Metasploit framework | legacyPackages.x86_64-linux.python313Packages.pymetasploit3 |
@@ -70718,7 +70742,7 @@
 | python3.13-pysqlcipher3 | 1.2.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python313Packages.pysqlcipher3 |
 | python3.13-pysqlitecipher | 0.22 | Lightweight and easy to use sqlite wrapper with built-in encryption system | legacyPackages.x86_64-linux.python313Packages.pysqlitecipher |
 | python3.13-pysqueezebox | 0.13.0 | Asynchronous library to control Logitech Media Server | legacyPackages.x86_64-linux.python313Packages.pysqueezebox |
-| python3.13-pysrdaligateway | 0.19.0 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python313Packages.pysrdaligateway |
+| python3.13-pysrdaligateway | 0.19.2 | Python library for Sunricher DALI Gateway (EDA) | legacyPackages.x86_64-linux.python313Packages.pysrdaligateway |
 | python3.13-pysrim | 0.5.10 | Srim Automation of Tasks via Python | legacyPackages.x86_64-linux.python313Packages.pysrim |
 | python3.13-pysrt | 1.1.2 | Python library used to edit or create SubRip files | legacyPackages.x86_64-linux.python313Packages.pysrt |
 | python3.13-pyssim | 0.7.1 | Module for computing Structured Similarity Image Metric (SSIM) in Python | legacyPackages.x86_64-linux.python313Packages.pyssim |
@@ -70753,7 +70777,7 @@
 | python3.13-pyte | 0.8.2 | Simple VTXXX-compatible linux terminal emulator | legacyPackages.x86_64-linux.python313Packages.pyte |
 | python3.13-pytelegrambotapi | 4.29.1 | Python implementation for the Telegram Bot API | legacyPackages.x86_64-linux.python313Packages.pytelegrambotapi |
 | python3.13-pytenable | 1.9.0 | Python library for the Tenable.io and TenableSC API | legacyPackages.x86_64-linux.python313Packages.pytenable |
-| python3.13-pytensor | 2.35.1 | Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays | legacyPackages.x86_64-linux.python313Packages.pytensor |
+| python3.13-pytensor | 2.36.0 | Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays | legacyPackages.x86_64-linux.python313Packages.pytensor |
 | python3.13-pytesseract | 0.3.13 | Python wrapper for Google Tesseract | legacyPackages.x86_64-linux.python313Packages.pytesseract |
 | python3.13-pytest | 7.4.4 | Framework for writing tests | legacyPackages.x86_64-linux.python313Packages.pytest_7 |
 | python3.13-pytest | 8.3.5 | Framework for writing tests | legacyPackages.x86_64-linux.python313Packages.pytest_8_3 |
@@ -71286,7 +71310,7 @@
 | python3.13-pythonqwt | 0.15.0 | Qt plotting widgets for Python (pure Python reimplementation of Qwt C++ library) | legacyPackages.x86_64-linux.python313Packages.pythonqwt |
 | python3.13-pythran | 0.18.0 | Ahead of Time compiler for numeric kernels | legacyPackages.x86_64-linux.python313Packages.pythran |
 | python3.13-pythreejs | 2.4.2 | Interactive 3D graphics for the Jupyter Notebook and JupyterLab, using Three.js and Jupyter Widgets | legacyPackages.x86_64-linux.python313Packages.pythreejs |
-| python3.13-pytibber | 0.33.1 | Python library to communicate with Tibber | legacyPackages.x86_64-linux.python313Packages.pytibber |
+| python3.13-pytibber | 0.34.0 | Python library to communicate with Tibber | legacyPackages.x86_64-linux.python313Packages.pytibber |
 | python3.13-pytidylib | 0.3.2 | Python wrapper for HTML Tidy (tidylib) on Python 2 and 3 | legacyPackages.x86_64-linux.python313Packages.tidylib |
 | python3.13-pytikz-allefeld-unstable | 2022-11-01 | Python interface to TikZ | legacyPackages.x86_64-linux.python313Packages.pytikz-allefeld |
 | python3.13-pytile | 2024.12.0 | Python API for Tile Bluetooth trackers | legacyPackages.x86_64-linux.python313Packages.pytile |
@@ -71316,7 +71340,7 @@
 | python3.13-pytradfri | 14.0.0 | Python package to communicate with the IKEA Trådfri ZigBee Gateway | legacyPackages.x86_64-linux.python313Packages.pytradfri |
 | python3.13-pytrafikverket | 1.1.1 | Library to get data from the Swedish Transport Administration (Trafikverket) API | legacyPackages.x86_64-linux.python313Packages.pytrafikverket |
 | python3.13-pytransportnsw | 0.1.1 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python313Packages.pytransportnsw |
-| python3.13-pytransportnswv2 | 2.0.8 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python313Packages.pytransportnswv2 |
+| python3.13-pytransportnswv2 | 2.2.0 | Python module to access Transport NSW information | legacyPackages.x86_64-linux.python313Packages.pytransportnswv2 |
 | python3.13-pytricia | 1.3.0 | Library for fast IP address lookup in Python | legacyPackages.x86_64-linux.python313Packages.pytricia |
 | python3.13-pytrydan | 0.8.1 | Library to interface with V2C EVSE Trydan | legacyPackages.x86_64-linux.python313Packages.pytrydan |
 | python3.13-pyttsx3 | 2.99 | Offline text-to-speech synthesis library | legacyPackages.x86_64-linux.python313Packages.pyttsx3 |
@@ -71378,7 +71402,7 @@
 | python3.13-pywebpush | 2.0.3 | Webpush Data encryption library for Python | legacyPackages.x86_64-linux.python313Packages.pywebpush |
 | python3.13-pywebview | 6.1 | Lightweight cross-platform wrapper around a webview | legacyPackages.x86_64-linux.python313Packages.pywebview |
 | python3.13-pywemo | 1.4.0 | Python module to discover and control WeMo devices | legacyPackages.x86_64-linux.python313Packages.pywemo |
-| python3.13-pywerview | 0.7.4 | Module for PowerSploit's PowerView support | legacyPackages.x86_64-linux.python313Packages.pywerview |
+| python3.13-pywerview | 0.7.5 | Module for PowerSploit's PowerView support | legacyPackages.x86_64-linux.python313Packages.pywerview |
 | python3.13-pywfa | 0.5.1 | Python wrapper for wavefront alignment using WFA2-lib | legacyPackages.x86_64-linux.python313Packages.pywfa |
 | python3.13-pywikibot | 10.7.3 | Python MediaWiki bot framework | legacyPackages.x86_64-linux.python313Packages.pywikibot |
 | python3.13-pywilight | 0.0.74 | Python API for WiLight device | legacyPackages.x86_64-linux.python313Packages.pywilight |
@@ -71515,7 +71539,7 @@
 | python3.13-rapt-ble | 0.1.2 | Library for RAPT Pill hydrometer BLE devices | legacyPackages.x86_64-linux.python313Packages.rapt-ble |
 | python3.13-rarfile | 4.2 | RAR archive reader for Python | legacyPackages.x86_64-linux.python313Packages.rarfile |
 | python3.13-raspyrfm-client | 1.2.9 | Send rc signals with the RaspyRFM module | legacyPackages.x86_64-linux.python313Packages.raspyrfm-client |
-| python3.13-rasterio | 1.4.3 | Python package to read and write geospatial raster data | legacyPackages.x86_64-linux.python313Packages.rasterio |
+| python3.13-rasterio | 1.4.4 | Python package to read and write geospatial raster data | legacyPackages.x86_64-linux.python313Packages.rasterio |
 | python3.13-ratarmount | 1.1.2 | Mounts archives as read-only file systems by way of indexing | legacyPackages.x86_64-linux.python313Packages.ratarmount |
 | python3.13-ratarmountcore | 1.1.2 | Library for accessing archives by way of indexing | legacyPackages.x86_64-linux.python313Packages.ratarmountcore |
 | python3.13-ratelim | 0.1.6 | Simple Python library that limits the number of times a function can be called during a time interval | legacyPackages.x86_64-linux.python313Packages.ratelim |
@@ -71549,7 +71573,7 @@
 | python3.13-readthedocs-sphinx-ext | 2.2.5 | Sphinx extension for Read the Docs overrides | legacyPackages.x86_64-linux.python313Packages.readthedocs-sphinx-ext |
 | python3.13-realtime-py | 2.7.0 | Python Realtime Client for Supabase | legacyPackages.x86_64-linux.python313Packages.realtime |
 | python3.13-rebulk | 3.2.0 | Advanced string matching from simple patterns | legacyPackages.x86_64-linux.python313Packages.rebulk |
-| python3.13-recipe-scrapers | 15.10.0 | Python package for scraping recipes data | legacyPackages.x86_64-linux.python313Packages.recipe-scrapers |
+| python3.13-recipe-scrapers | 15.11.0 | Python package for scraping recipes data | legacyPackages.x86_64-linux.python313Packages.recipe-scrapers |
 | python3.13-recline | 2025.12 | This library helps you quickly implement an interactive command-based application | legacyPackages.x86_64-linux.python313Packages.recline |
 | python3.13-recommonmark | 0.7.1 | Docutils-compatibility bridge to CommonMark | legacyPackages.x86_64-linux.python313Packages.recommonmark |
 | python3.13-reconplogger | 4.18.1 | Module to ease the standardization of logging within omni:us | legacyPackages.x86_64-linux.python313Packages.reconplogger |
@@ -72347,7 +72371,7 @@
 | python3.13-sphinxcontrib-wavedrom | 3.0.4 | Sphinx extension that allows including wavedrom diagrams by using its text-based representation | legacyPackages.x86_64-linux.python313Packages.sphinxcontrib-wavedrom |
 | python3.13-sphinxcontrib-websupport | 2.0.0 | Sphinx API for Web Apps | legacyPackages.x86_64-linux.python313Packages.sphinxcontrib-websupport |
 | python3.13-sphinxcontrib-youtube | 1.4.1 | Youtube extension for Sphinx | legacyPackages.x86_64-linux.python313Packages.sphinxcontrib-youtube |
-| python3.13-sphinxemoji | 0.3.1 | Extension to use emoji codes in your Sphinx documentation | legacyPackages.x86_64-linux.python313Packages.sphinxemoji |
+| python3.13-sphinxemoji | 0.3.2 | Extension to use emoji codes in your Sphinx documentation | legacyPackages.x86_64-linux.python313Packages.sphinxemoji |
 | python3.13-sphinxext-opengraph | 0.13.0 | Sphinx extension to generate unique OpenGraph metadata | legacyPackages.x86_64-linux.python313Packages.sphinxext-opengraph |
 | python3.13-sphinxext-rediraffe | 0.2.7 | Sphinx extension to redirect files | legacyPackages.x86_64-linux.python313Packages.sphinxext-rediraffe |
 | python3.13-spiderpy | 1.7.2 | Unofficial Python wrapper for the Spider API | legacyPackages.x86_64-linux.python313Packages.spiderpy |
@@ -72366,7 +72390,7 @@
 | python3.13-spyder-kernels | 3.1.2 | Jupyter kernels for Spyder's console | legacyPackages.x86_64-linux.python313Packages.spyder-kernels |
 | python3.13-spylls | 0.1.7 | Pure Python spell-checker, (almost) full port of Hunspell | legacyPackages.x86_64-linux.python313Packages.spylls |
 | python3.13-spyse-python | 2.2.3 | Python module for spyse.com API | legacyPackages.x86_64-linux.python313Packages.spyse-python |
-| python3.13-spython | 0.3.14 | Streamlined singularity python client (spython) for singularity | legacyPackages.x86_64-linux.python313Packages.spython |
+| python3.13-spython | 0.3.15 | Streamlined singularity python client (spython) for singularity | legacyPackages.x86_64-linux.python313Packages.spython |
 | python3.13-sqids | 0.5.2 | Library that lets you generate short YouTube-looking IDs from numbers | legacyPackages.x86_64-linux.python313Packages.sqids |
 | python3.13-sqlalchemy | 1.4.54 | Database Toolkit for Python | legacyPackages.x86_64-linux.python313Packages.sqlalchemy_1_4 |
 | python3.13-sqlalchemy | 2.0.44 | Python SQL toolkit and Object Relational Mapper | legacyPackages.x86_64-linux.python313Packages.sqlalchemy |
@@ -72521,7 +72545,7 @@
 | python3.13-stringcase | 1.2.0 | Convert string cases between camel case, pascal case, snake case etc… | legacyPackages.x86_64-linux.python313Packages.stringcase |
 | python3.13-stringly | 1.0b3 | Stringly: Human Readable Object Serialization | legacyPackages.x86_64-linux.python313Packages.stringly |
 | python3.13-stringparser | 0.7 | Easy to use pattern matching and information extraction | legacyPackages.x86_64-linux.python313Packages.stringparser |
-| python3.13-stringzilla | 4.4.2 | SIMD-accelerated string search, sort, hashes, fingerprints, & edit distances | legacyPackages.x86_64-linux.python313Packages.stringzilla |
+| python3.13-stringzilla | 4.5.1 | SIMD-accelerated string search, sort, hashes, fingerprints, & edit distances | legacyPackages.x86_64-linux.python313Packages.stringzilla |
 | python3.13-strip-ansi | 0.1.1 | Strip ANSI escape sequences from a string | legacyPackages.x86_64-linux.python313Packages.strip-ansi |
 | python3.13-stripe | 12.5.1 | Stripe Python bindings | legacyPackages.x86_64-linux.python313Packages.stripe |
 | python3.13-striprtf | 0.0.29 | Simple library to convert rtf to text | legacyPackages.x86_64-linux.python313Packages.striprtf |
@@ -72748,7 +72772,7 @@
 | python3.13-textparser | 0.24.0 | Text parser | legacyPackages.x86_64-linux.python313Packages.textparser |
 | python3.13-textstat | 0.7.8 | Python package to calculate readability statistics of a text object | legacyPackages.x86_64-linux.python313Packages.textstat |
 | python3.13-texttable | 1.7.0 | Module to generate a formatted text table, using ASCII characters | legacyPackages.x86_64-linux.python313Packages.texttable |
-| python3.13-textual | 6.9.0 | TUI framework for Python inspired by modern web development | legacyPackages.x86_64-linux.python313Packages.textual |
+| python3.13-textual | 6.10.0 | TUI framework for Python inspired by modern web development | legacyPackages.x86_64-linux.python313Packages.textual |
 | python3.13-textual-autocomplete | 4.0.6 | Python library that provides autocomplete capabilities to textual | legacyPackages.x86_64-linux.python313Packages.textual-autocomplete |
 | python3.13-textual-dev | 1.8.0 | Development tools for Textual | legacyPackages.x86_64-linux.python313Packages.textual-dev |
 | python3.13-textual-fastdatatable | 0.12.0 | Performance-focused reimplementation of Textual's DataTable widget, with a pluggable data storage backend | legacyPackages.x86_64-linux.python313Packages.textual-fastdatatable |
@@ -72794,7 +72818,7 @@
 | python3.13-tika-client | 0.10.0 | Modern Python REST client for Apache Tika server | legacyPackages.x86_64-linux.python313Packages.tika-client |
 | python3.13-tikteck | 0.4 | Control Tikteck Bluetooth LED bulbs | legacyPackages.x86_64-linux.python313Packages.tikteck |
 | python3.13-tiktoken | 0.9.0 | Fast BPE tokeniser for use with OpenAI's models | legacyPackages.x86_64-linux.python313Packages.tiktoken |
-| python3.13-tiledb | 0.35.2 | Python interface to the TileDB storage manager | legacyPackages.x86_64-linux.python313Packages.tiledb |
+| python3.13-tiledb | 0.36.0 | Python interface to the TileDB storage manager | legacyPackages.x86_64-linux.python313Packages.tiledb |
 | python3.13-tilequant | 1.2.0 | Tool for quantizing image colors using tile-based palette restrictions | legacyPackages.x86_64-linux.python313Packages.tilequant |
 | python3.13-tiler | 0.6.0 | N-dimensional NumPy array tiling and merging with overlapping, padding and tapering | legacyPackages.x86_64-linux.python313Packages.tiler |
 | python3.13-tilt-ble | 1.0.1 | Library for Tilt BLE devices | legacyPackages.x86_64-linux.python313Packages.tilt-ble |
@@ -73570,6 +73594,7 @@
 | python3.13-urlmatch | 1.0.1 | Python library for easily pattern matching wildcard URLs | legacyPackages.x86_64-linux.python313Packages.urlmatch |
 | python3.13-urlobject | 2.4.3 | Python library for manipulating URLs (and some URIs) in a more natural way | legacyPackages.x86_64-linux.python313Packages.urlobject |
 | python3.13-urlpy | 0.5.0 | Simple URL parsing, canonicalization and equivalence | legacyPackages.x86_64-linux.python313Packages.urlpy |
+| python3.13-urlscan-python | 0.0.1 | Python API client for urlscan.io | legacyPackages.x86_64-linux.python313Packages.urlscan-python |
 | python3.13-urwid | 3.0.3 | Full-featured console (xterm et al.) user interface library | legacyPackages.x86_64-linux.python313Packages.urwid |
 | python3.13-urwid-readline | 0.15.1 | Textbox edit widget for urwid that supports readline shortcuts | legacyPackages.x86_64-linux.python313Packages.urwid-readline |
 | python3.13-urwid-satext | 0.8.0-unstable-2023-04-08 | SàT extension widgets for Urwid | legacyPackages.x86_64-linux.python313Packages.urwid-satext |
@@ -73592,7 +73617,7 @@
 | python3.13-uuid6 | 2025.0.1 | New time-based UUID formats which are suited for use as a database key | legacyPackages.x86_64-linux.python313Packages.uuid6 |
 | python3.13-uv | 0.9.17 | Extremely fast Python package installer and resolver, written in Rust | legacyPackages.x86_64-linux.python313Packages.uv |
 | python3.13-uv-build | 0.9.7 | Minimal build backend for uv | legacyPackages.x86_64-linux.python313Packages.uv-build |
-| python3.13-uv-dynamic-versioning | 0.11.2 | Dynamic versioning based on VCS tags for uv/hatch project | legacyPackages.x86_64-linux.python313Packages.uv-dynamic-versioning |
+| python3.13-uv-dynamic-versioning | 0.12.0 | Dynamic versioning based on VCS tags for uv/hatch project | legacyPackages.x86_64-linux.python313Packages.uv-dynamic-versioning |
 | python3.13-uvcclient | 0.12.2 | Client for Ubiquiti's Unifi Camera NVR | legacyPackages.x86_64-linux.python313Packages.uvcclient |
 | python3.13-uvicorn | 0.35.0 | Lightning-fast ASGI server | legacyPackages.x86_64-linux.python313Packages.uvicorn |
 | python3.13-uvicorn-worker | 0.3.0 | Uvicorn worker for Gunicorn | legacyPackages.x86_64-linux.python313Packages.uvicorn-worker |
@@ -73741,7 +73766,7 @@
 | python3.13-watchgod | 0.8.2 | Simple, modern file watching and code reload in python | legacyPackages.x86_64-linux.python313Packages.watchgod |
 | python3.13-waterfurnace | 1.2.0 | Python interface to waterfurnace geothermal systems | legacyPackages.x86_64-linux.python313Packages.waterfurnace |
 | python3.13-watergate-local-api | 2025.1.0 | Python package to interact with the Watergate Local API | legacyPackages.x86_64-linux.python313Packages.watergate-local-api |
-| python3.13-watermark | 2.5.0 | IPython extension for printing date and timestamps, version numbers, and hardware information | legacyPackages.x86_64-linux.python313Packages.watermark |
+| python3.13-watermark | 2.5.1 | IPython extension for printing date and timestamps, version numbers, and hardware information | legacyPackages.x86_64-linux.python313Packages.watermark |
 | python3.13-wavedrom | 2.0.3.post3 | WaveDrom compatible Python command line | legacyPackages.x86_64-linux.python313Packages.wavedrom |
 | python3.13-wavefile | 1.6.2 | Pythonic libsndfile wrapper to read and write audio files | legacyPackages.x86_64-linux.python313Packages.wavefile |
 | python3.13-wavinsentio | 0.5.5 | Python module to interact with the Wavin Sentio underfloor heating system | legacyPackages.x86_64-linux.python313Packages.wavinsentio |
@@ -73896,6 +73921,7 @@
 | python3.13-xboxapi | 2.0.1 | Python XBOX One API wrapper | legacyPackages.x86_64-linux.python313Packages.xboxapi |
 | python3.13-xcaplib | 2.0.1-unstable-2025-03-20 | XCAP (RFC4825) client library | legacyPackages.x86_64-linux.python313Packages.xcaplib |
 | python3.13-xcffib | 1.9.0 | Drop in replacement for xpyb, an XCB python binding | legacyPackages.x86_64-linux.python313Packages.xcffib |
+| python3.13-xclim | 0.59.1 | Operational Python library supporting climate services, based on xarray | legacyPackages.x86_64-linux.python313Packages.xclim |
 | python3.13-xdg | 6.0.0 | XDG Base Directory Specification for Python | legacyPackages.x86_64-linux.python313Packages.xdg |
 | python3.13-xdg-base-dirs | 6.0.2 | Implementation of the XDG Base Directory Specification in Python | legacyPackages.x86_64-linux.python313Packages.xdg-base-dirs |
 | python3.13-xdis | 6.1.8 | Python cross-version byte-code disassembler and marshal routines | legacyPackages.x86_64-linux.python313Packages.xdis |
@@ -74283,7 +74309,7 @@
 | qoi | 0-unstable-2023-08-10 | 'Quite OK Image Format' for fast, lossless image compression | legacyPackages.x86_64-linux.qoi |
 | qolibri | 2.1.5-unstable-2025-01-18 | EPWING reader for viewing Japanese dictionaries | legacyPackages.x86_64-linux.qolibri |
 | qosmic | 1.6.0 | Cosmic recursive flame fractal editor | legacyPackages.x86_64-linux.qosmic |
-| qovery-cli | 1.56.1 | Qovery Command Line Interface | legacyPackages.x86_64-linux.qovery-cli |
+| qovery-cli | 1.57.0 | Qovery Command Line Interface | legacyPackages.x86_64-linux.qovery-cli |
 | qownnotes | 25.12.5 | Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration | legacyPackages.x86_64-linux.qownnotes |
 | qpaeq | 17.0 | Equalizer interface for pulseaudio's equalizer sinks | legacyPackages.x86_64-linux.qpaeq |
 | qpdf | 12.2.0 | C++ library and set of programs that inspect and manipulate the structure of PDF files | legacyPackages.x86_64-linux.qpdf |
@@ -74824,7 +74850,7 @@
 | queue-sheet | 0.8.0.1 | queue sheet utility | legacyPackages.x86_64-linux.haskellPackages.queue-sheet |
 | queuelike | 1.0.9 | A library of queuelike data structures, both functional and stateful | legacyPackages.x86_64-linux.haskellPackages.queuelike |
 | queues | 1.0.0 | Queue data structures | legacyPackages.x86_64-linux.haskellPackages.queues |
-| qui | 1.9.1 | Modern alternative webUI for qBittorrent, with multi-instance support | legacyPackages.x86_64-linux.qui |
+| qui | 1.10.0 | Modern alternative webUI for qBittorrent, with multi-instance support | legacyPackages.x86_64-linux.qui |
 | quibble-core | 0.1.0.1 | Convenient SQL query language for Haskell (but only for single tables) | legacyPackages.x86_64-linux.haskellPackages.quibble-core |
 | quic | 0.2.20 | QUIC | legacyPackages.x86_64-linux.haskellPackages.quic |
 | quich | 4.0.0 | Advanced terminal calculator | legacyPackages.x86_64-linux.quich |
@@ -75038,17 +75064,17 @@
 | r8168 | 6.17.12-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_lqx.r8168 |
 | r8168 | 6.17.12-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.r8168 |
 | r8168 | 6.17.12-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.r8168 |
-| r8168 | 6.18-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.r8168 |
-| r8168 | 6.18-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_zen.r8168 |
 | r8168 | 6.18.1-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.r8168 |
+| r8168 | 6.18.1-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.r8168 |
 | r8168 | 6.18.1-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_latest.r8168 |
+| r8168 | 6.18.1-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxPackages_zen.r8168 |
 | r8168 | 6.6.119-8.055.00 | Realtek r8168 driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.r8168 |
 | rHttp | 0-unstable-2024-04-28 | Go REPL for HTTP | legacyPackages.x86_64-linux.rHttp |
 | r_und_s | 1.3i | Chemical hazard codes | legacyPackages.x86_64-linux.texlivePackages.r_und_s |
 | raaz | 0.3.11 | Fast and type safe cryptography | legacyPackages.x86_64-linux.haskellPackages.raaz |
 | rabbit | 2.3.2 | Tool for identifying bot accounts based on their recent GitHub event history | legacyPackages.x86_64-linux.rabbit |
 | rabbitmq-c | 0.15.0 | RabbitMQ C AMQP client library | legacyPackages.x86_64-linux.rabbitmq-c |
-| rabbitmq-server | 4.2.1 | Implementation of the AMQP messaging protocol | legacyPackages.x86_64-linux.rabbitmq-server |
+| rabbitmq-server | 4.2.2 | Implementation of the AMQP messaging protocol | legacyPackages.x86_64-linux.rabbitmq-server |
 | rabbitmq_exporter | 1.0.0 | Prometheus exporter for RabbitMQ | legacyPackages.x86_64-linux.prometheus-rabbitmq-exporter |
 | rabbitmqadmin-ng | 2.17.0 | Command line tool for RabbitMQ that uses the HTTP API | legacyPackages.x86_64-linux.rabbitmqadmin-ng |
 | rabocsv2qif | 2.0.0 | A library and program to create QIF files from Rabobank CSV exports | legacyPackages.x86_64-linux.haskellPackages.rabocsv2qif |
@@ -75845,7 +75871,7 @@
 | remkrom | 0-unstable-2020-10-17 | Reimplementation of mkrom in Rust | legacyPackages.x86_64-linux.remkrom |
 | remmina | 1.4.41 | Remote desktop client written in GTK | legacyPackages.x86_64-linux.remmina |
 | remnants-of-the-precursors | 1.04 | Open-source modernization of the 1993 classic "Master of Orion", written in Java | legacyPackages.x86_64-linux.rotp |
-| remnote | 1.22.28 | Note-taking application focused on learning and productivity | legacyPackages.x86_64-linux.remnote |
+| remnote | 1.22.31 | Note-taking application focused on learning and productivity | legacyPackages.x86_64-linux.remnote |
 | remod | 1.0.1 | chmod for human beings | legacyPackages.x86_64-linux.nodePackages.remod-cli |
 | remod | 1.0.1 | chmod for human beings | legacyPackages.x86_64-linux.nodePackages_latest.remod-cli |
 | remod | 1.0.1 | chmod for human beings | legacyPackages.x86_64-linux.remod |
@@ -75881,7 +75907,7 @@
 | renode-unstable | 1.16.0+20250805git769469683 | Virtual development framework for complex embedded systems | legacyPackages.x86_64-linux.renode-unstable-bin |
 | renode-unstable | 1.16.0-unstable-2025-08-08 | Virtual development framework for complex embedded systems | legacyPackages.x86_64-linux.renode-unstable |
 | renoise | 3.5.1 | Modern tracker-based DAW | legacyPackages.x86_64-linux.renoise |
-| renovate | 42.24.0 | Cross-platform Dependency Automation by Mend.io | legacyPackages.x86_64-linux.renovate |
+| renovate | 42.57.1 | Cross-platform Dependency Automation by Mend.io | legacyPackages.x86_64-linux.renovate |
 | renpy | 8.4.1.25072401 | Visual Novel Engine | legacyPackages.x86_64-linux.renpy |
 | reord | 0.0.0.2 | Ad-hoc Ord instances | legacyPackages.x86_64-linux.haskellPackages.reord |
 | reorder-expression | 0.1.0.2 | Reorder expressions in a syntax tree according to operator fixities | legacyPackages.x86_64-linux.haskellPackages.reorder-expression |
@@ -76576,7 +76602,7 @@
 | round | 0.0.2 | CLI tool for rounding images | legacyPackages.x86_64-linux.round |
 | roundRobin | 0.1.2.0 | A simple round-robin data type | legacyPackages.x86_64-linux.haskellPackages.roundRobin |
 | roundbox | 0.2 | Round boxes in LaTeX | legacyPackages.x86_64-linux.texlivePackages.roundbox |
-| roundcube | 1.6.11 | Open Source Webmail Software | legacyPackages.x86_64-linux.roundcube |
+| roundcube | 1.6.12 | Open Source Webmail Software | legacyPackages.x86_64-linux.roundcube |
 | roundcube-plugin-carddav | 4.4.6 |  | legacyPackages.x86_64-linux.roundcubePlugins.carddav |
 | roundcube-plugin-contextmenu | 3.3.1 |  | legacyPackages.x86_64-linux.roundcubePlugins.contextmenu |
 | roundcube-plugin-custom_from | 1.6.6 |  | legacyPackages.x86_64-linux.roundcubePlugins.custom_from |
@@ -76605,7 +76631,7 @@
 | routinator | 0.14.2 | RPKI Validator written in Rust | legacyPackages.x86_64-linux.routinator |
 | routino | 3.4.3 | OpenStreetMap Routing Software | legacyPackages.x86_64-linux.routino |
 | rover | 0.37.0 | CLI for interacting with ApolloGraphQL's developer tooling, including managing self-hosted and GraphOS graphs | legacyPackages.x86_64-linux.rover |
-| rovium | 0.8.0 | Integrated Development Environment for ROS and Robotics | legacyPackages.x86_64-linux.rovium |
+| rovium | 0.9.0 | Integrated Development Environment for ROS and Robotics | legacyPackages.x86_64-linux.rovium |
 | row | 0.0.0.0 | Row types | legacyPackages.x86_64-linux.haskellPackages.row |
 | row-types | 1.0.1.2 | Open Records and Variants | legacyPackages.x86_64-linux.haskellPackages.row-types |
 | row-types-aeson | 1.1.0.0 | aeson instances for Open Records and Variants | legacyPackages.x86_64-linux.haskellPackages.row-types-aeson |
@@ -76773,10 +76799,10 @@
 | rtl8188eus-aircrack | 6.17.12-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.12-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.17.12-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8188eus-aircrack |
-| rtl8188eus-aircrack | 6.18-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8188eus-aircrack |
-| rtl8188eus-aircrack | 6.18-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.18.1-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8188eus-aircrack |
+| rtl8188eus-aircrack | 6.18.1-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.18.1-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8188eus-aircrack |
+| rtl8188eus-aircrack | 6.18.1-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8188eus-aircrack |
 | rtl8188eus-aircrack | 6.6.119-unstable-2024-09-18 | RealTek RTL8188eus WiFi driver with monitor mode & frame injection support | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8188eus-aircrack |
 | rtl8189es | 5.10.247-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8189es |
 | rtl8189es | 5.15.197-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8189es |
@@ -76794,10 +76820,10 @@
 | rtl8189es | 6.17.12-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189es |
 | rtl8189es | 6.17.12-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8189es |
 | rtl8189es | 6.17.12-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8189es |
-| rtl8189es | 6.18-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189es |
-| rtl8189es | 6.18-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189es |
 | rtl8189es | 6.18.1-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8189es |
+| rtl8189es | 6.18.1-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189es |
 | rtl8189es | 6.18.1-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8189es |
+| rtl8189es | 6.18.1-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189es |
 | rtl8189es | 6.6.119-2025-09-26 | Driver for Realtek rtl8189es | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8189es |
 | rtl8189fs | 5.10.247-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8189fs |
 | rtl8189fs | 5.15.197-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8189fs |
@@ -76815,10 +76841,10 @@
 | rtl8189fs | 6.17.12-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8189fs |
 | rtl8189fs | 6.17.12-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8189fs |
 | rtl8189fs | 6.17.12-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8189fs |
-| rtl8189fs | 6.18-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189fs |
-| rtl8189fs | 6.18-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189fs |
 | rtl8189fs | 6.18.1-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8189fs |
+| rtl8189fs | 6.18.1-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8189fs |
 | rtl8189fs | 6.18.1-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8189fs |
+| rtl8189fs | 6.18.1-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8189fs |
 | rtl8189fs | 6.6.119-2025-09-26 | Driver for Realtek rtl8189fs | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8189fs |
 | rtl8192eu | 5.10.247-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8192eu |
 | rtl8192eu | 5.15.197-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8192eu |
@@ -76836,10 +76862,10 @@
 | rtl8192eu | 6.17.12-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8192eu |
 | rtl8192eu | 6.17.12-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8192eu |
 | rtl8192eu | 6.17.12-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8192eu |
-| rtl8192eu | 6.18-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8192eu |
-| rtl8192eu | 6.18-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8192eu |
 | rtl8192eu | 6.18.1-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8192eu |
+| rtl8192eu | 6.18.1-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8192eu |
 | rtl8192eu | 6.18.1-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8192eu |
+| rtl8192eu | 6.18.1-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8192eu |
 | rtl8192eu | 6.6.119-4.4.1.20250504 | Realtek rtl8192eu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8192eu |
 | rtl8192su-firmware | 0-unstable-2016-10-05 | Firmware for Realtek RTL8188SU/RTL8191SU/RTL8192SU | legacyPackages.x86_64-linux.rtl8192su-firmware |
 | rtl8723ds | 5.10.247-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8723ds |
@@ -76858,10 +76884,10 @@
 | rtl8723ds | 6.17.12-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8723ds |
 | rtl8723ds | 6.17.12-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8723ds |
 | rtl8723ds | 6.17.12-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8723ds |
-| rtl8723ds | 6.18-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8723ds |
-| rtl8723ds | 6.18-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8723ds |
 | rtl8723ds | 6.18.1-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8723ds |
+| rtl8723ds | 6.18.1-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8723ds |
 | rtl8723ds | 6.18.1-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8723ds |
+| rtl8723ds | 6.18.1-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8723ds |
 | rtl8723ds | 6.6.119-unstable-2023-11-14 | Linux driver for RTL8723DS | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8723ds |
 | rtl8761b-firmware-rtk1395 |  | Firmware for Realtek RTL8761b | legacyPackages.x86_64-linux.rtl8761b-firmware |
 | rtl8812au | 5.10.247-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8812au |
@@ -76880,10 +76906,10 @@
 | rtl8812au | 6.17.12-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8812au |
 | rtl8812au | 6.17.12-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8812au |
 | rtl8812au | 6.17.12-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8812au |
-| rtl8812au | 6.18-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8812au |
-| rtl8812au | 6.18-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8812au |
 | rtl8812au | 6.18.1-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8812au |
+| rtl8812au | 6.18.1-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8812au |
 | rtl8812au | 6.18.1-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8812au |
+| rtl8812au | 6.18.1-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8812au |
 | rtl8812au | 6.6.119-unstable-2024-06-13 | Driver for Realtek 802.11ac, rtl8812au, provides the 8812au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8812au |
 | rtl8814au | 5.10.247-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8814au |
 | rtl8814au | 5.15.197-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8814au |
@@ -76901,10 +76927,10 @@
 | rtl8814au | 6.17.12-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8814au |
 | rtl8814au | 6.17.12-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8814au |
 | rtl8814au | 6.17.12-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8814au |
-| rtl8814au | 6.18-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8814au |
-| rtl8814au | 6.18-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8814au |
 | rtl8814au | 6.18.1-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8814au |
+| rtl8814au | 6.18.1-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8814au |
 | rtl8814au | 6.18.1-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8814au |
+| rtl8814au | 6.18.1-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8814au |
 | rtl8814au | 6.6.119-unstable-2024-05-26 | Realtek 8814AU USB WiFi driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8814au |
 | rtl8821au | 5.10.247-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8821au |
 | rtl8821au | 5.15.197-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8821au |
@@ -76922,10 +76948,10 @@
 | rtl8821au | 6.17.12-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821au |
 | rtl8821au | 6.17.12-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8821au |
 | rtl8821au | 6.17.12-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8821au |
-| rtl8821au | 6.18-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821au |
-| rtl8821au | 6.18-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821au |
 | rtl8821au | 6.18.1-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8821au |
+| rtl8821au | 6.18.1-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821au |
 | rtl8821au | 6.18.1-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8821au |
+| rtl8821au | 6.18.1-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821au |
 | rtl8821au | 6.6.119-unstable-2025-04-08 | rtl8821AU and rtl8812AU chipset driver with firmware | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8821au |
 | rtl8821ce | 0-unstable-2025-10-13 | Realtek rtl8821ce driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8821ce |
 | rtl8821ce | 0-unstable-2025-10-13 | Realtek rtl8821ce driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8821ce |
@@ -76964,10 +76990,10 @@
 | rtl8821cu | 6.17.12-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8821cu |
 | rtl8821cu | 6.17.12-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8821cu |
 | rtl8821cu | 6.17.12-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8821cu |
-| rtl8821cu | 6.18-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821cu |
-| rtl8821cu | 6.18-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821cu |
 | rtl8821cu | 6.18.1-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8821cu |
+| rtl8821cu | 6.18.1-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8821cu |
 | rtl8821cu | 6.18.1-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8821cu |
+| rtl8821cu | 6.18.1-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8821cu |
 | rtl8821cu | 6.6.119-unstable-2025-10-09 | Realtek rtl8821cu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8821cu |
 | rtl8852au | 5.10.247-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8852au |
 | rtl8852au | 5.15.197-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8852au |
@@ -76985,10 +77011,10 @@
 | rtl8852au | 6.17.12-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852au |
 | rtl8852au | 6.17.12-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8852au |
 | rtl8852au | 6.17.12-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8852au |
-| rtl8852au | 6.18-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852au |
-| rtl8852au | 6.18-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852au |
 | rtl8852au | 6.18.1-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8852au |
+| rtl8852au | 6.18.1-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852au |
 | rtl8852au | 6.18.1-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8852au |
+| rtl8852au | 6.18.1-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852au |
 | rtl8852au | 6.6.119-unstable-2024-05-06 | Driver for Realtek 802.11ac, rtl8852au, provides the 8852au mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8852au |
 | rtl8852bu | 5.10.247-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl8852bu |
 | rtl8852bu | 5.15.197-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl8852bu |
@@ -77006,10 +77032,10 @@
 | rtl8852bu | 6.17.12-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl8852bu |
 | rtl8852bu | 6.17.12-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl8852bu |
 | rtl8852bu | 6.17.12-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl8852bu |
-| rtl8852bu | 6.18-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852bu |
-| rtl8852bu | 6.18-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852bu |
 | rtl8852bu | 6.18.1-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl8852bu |
+| rtl8852bu | 6.18.1-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl8852bu |
 | rtl8852bu | 6.18.1-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_latest.rtl8852bu |
+| rtl8852bu | 6.18.1-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxPackages_zen.rtl8852bu |
 | rtl8852bu | 6.6.119-unstable-2025-05-18 | Driver for Realtek rtl8852bu and rtl8832bu chipsets, provides the 8852bu mod | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl8852bu |
 | rtl88x2bu | 5.10.247-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl88x2bu |
 | rtl88x2bu | 5.15.197-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl88x2bu |
@@ -77027,10 +77053,10 @@
 | rtl88x2bu | 6.17.12-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88x2bu |
 | rtl88x2bu | 6.17.12-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl88x2bu |
 | rtl88x2bu | 6.17.12-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl88x2bu |
-| rtl88x2bu | 6.18-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88x2bu |
-| rtl88x2bu | 6.18-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88x2bu |
 | rtl88x2bu | 6.18.1-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl88x2bu |
+| rtl88x2bu | 6.18.1-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88x2bu |
 | rtl88x2bu | 6.18.1-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_latest.rtl88x2bu |
+| rtl88x2bu | 6.18.1-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88x2bu |
 | rtl88x2bu | 6.6.119-unstable-2025-12-04 | Realtek rtl88x2bu driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl88x2bu |
 | rtl88xxau-aircrack | 5.10.247-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 5.15.197-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.rtl88xxau-aircrack |
@@ -77048,12 +77074,12 @@
 | rtl88xxau-aircrack | 6.17.12-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_lqx.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.12-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.17.12-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.rtl88xxau-aircrack |
-| rtl88xxau-aircrack | 6.18-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88xxau-aircrack |
-| rtl88xxau-aircrack | 6.18-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.18.1-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.rtl88xxau-aircrack |
+| rtl88xxau-aircrack | 6.18.1-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.18.1-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_latest.rtl88xxau-aircrack |
+| rtl88xxau-aircrack | 6.18.1-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxPackages_zen.rtl88xxau-aircrack |
 | rtl88xxau-aircrack | 6.6.119-unstable-2024-04-09 | Aircrack-ng kernel module for Realtek 88XXau network cards (8811au, 8812au, 8814au and 8821au chipsets) with monitor mode and injection support. | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.rtl88xxau-aircrack |
-| rtl_433 | 25.02 | Decode traffic from devices that broadcast on 433.9 MHz, 868 MHz, 315 MHz, 345 MHz and 915 MHz | legacyPackages.x86_64-linux.rtl_433 |
+| rtl_433 | 25.12 | Decode traffic from devices that broadcast on 433.9 MHz, 868 MHz, 315 MHz, 345 MHz and 915 MHz | legacyPackages.x86_64-linux.rtl_433 |
 | rtl_433-exporter | 0.1 | Prometheus time-series DB exporter for rtl_433 433MHz radio packet decoder | legacyPackages.x86_64-linux.prometheus-rtl_433-exporter |
 | rtl_fm_streamer-unstable | 2021-06-08 | Turns your Realtek RTL2832 based DVB dongle into a FM radio stereo receiver | legacyPackages.x86_64-linux.rtl_fm_streamer |
 | rtlamr | 0.9.3-unstable-2023-08-13 | Rtl-sdr receiver for Itron ERT compatible smart meters | legacyPackages.x86_64-linux.rtlamr |
@@ -78904,7 +78930,7 @@
 | run-test-writers-wrapping-python |  |  | legacyPackages.x86_64-linux.tests.writers.wrapping.python |
 | run-test-writers-wrapping-rust |  |  | legacyPackages.x86_64-linux.tests.writers.wrapping.rust |
 | run-x16 | 48 |  | legacyPackages.x86_64-linux.x16-run |
-| runCommand-dns-resolution-test-salted-y9s0i8vd9n1l |  |  | legacyPackages.x86_64-linux.tests.testers.runCommand.dns-resolution |
+| runCommand-dns-resolution-test-salted | 7lzzx5qwh9wx |  | legacyPackages.x86_64-linux.tests.testers.runCommand.dns-resolution |
 | runCommand-nonDefaultHash-test-salted-niv069gcqnp3 |  |  | legacyPackages.x86_64-linux.tests.testers.runCommand.nonDefault-hash |
 | runc | 1.4.0 | CLI tool for spawning and running containers according to the OCI specification | legacyPackages.x86_64-linux.runc |
 | runcode | 2.4 | Execute foreign source code and embed the result in the pdf file | legacyPackages.x86_64-linux.texlivePackages.runcode |
@@ -79014,8 +79040,8 @@
 | rusty-bash | 1.2.2 | Bash written with Rust, a.k.a. sushi shell | legacyPackages.x86_64-linux.rusty-bash |
 | rusty-diceware | 0.5.8 | Commandline diceware, with or without dice, written in Rustlang | legacyPackages.x86_64-linux.rusty-diceware |
 | rusty-man | 0.5.0 | Command-line viewer for documentation generated by rustdoc | legacyPackages.x86_64-linux.rusty-man |
-| rusty-path-of-building | 0.2.9 | A cross-platform runtime for Path of Building and Path of Building 2. | legacyPackages.x86_64-linux.path-of-building |
-| rusty-path-of-building | 0.2.9 | A cross-platform runtime for Path of Building and Path of Building 2. | legacyPackages.x86_64-linux.rusty-path-of-building |
+| rusty-path-of-building | 0.2.10 | A cross-platform runtime for Path of Building and Path of Building 2. | legacyPackages.x86_64-linux.path-of-building |
+| rusty-path-of-building | 0.2.10 | A cross-platform runtime for Path of Building and Path of Building 2. | legacyPackages.x86_64-linux.rusty-path-of-building |
 | rusty-psn | 0.5.10 | Simple tool to grab updates for PS3 games, directly from Sony's servers using their updates API | legacyPackages.x86_64-linux.rusty-psn |
 | rusty-psn | 0.5.10 | Simple tool to grab updates for PS3 games, directly from Sony's servers using their updates API | legacyPackages.x86_64-linux.rusty-psn-gui |
 | rustycli | 0.1.1 | Access the rust playground right in terminal | legacyPackages.x86_64-linux.rustycli |
@@ -79072,10 +79098,10 @@
 | ryzen-smu | 6.17.12-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_lqx.ryzen-smu |
 | ryzen-smu | 6.17.12-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ryzen-smu |
 | ryzen-smu | 6.17.12-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ryzen-smu |
-| ryzen-smu | 6.18-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu |
-| ryzen-smu | 6.18-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu |
 | ryzen-smu | 6.18.1-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ryzen-smu |
+| ryzen-smu | 6.18.1-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu |
 | ryzen-smu | 6.18.1-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_latest.ryzen-smu |
+| ryzen-smu | 6.18.1-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu |
 | ryzen-smu | 6.6.119-0.1.7-unstable-2025-10-22 | Linux kernel driver that exposes access to the SMU (System Management Unit) for certain AMD Ryzen Processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ryzen-smu |
 | ryzenadj | 0.17.0 | Adjust power management settings for Ryzen Mobile Processors | legacyPackages.x86_64-linux.ryzenadj |
 | rz-ghidra | 0.8.0 | Deep ghidra decompiler and sleigh disassembler integration for rizin | legacyPackages.x86_64-linux.cutterPlugins.rz-ghidra |
@@ -79128,10 +79154,10 @@
 | s6-rc | 0.5.6.0 | Service manager for s6-based systems | legacyPackages.x86_64-linux.skawarePackages.s6-rc |
 | s6-rc-man-pages | 0.5.5.0.1 | mdoc(7) versions of the documentation for the s6-rc service manager | legacyPackages.x86_64-linux.s6-rc-man-pages |
 | s6-rc-man-pages | 0.5.5.0.1 | mdoc(7) versions of the documentation for the s6-rc service manager | legacyPackages.x86_64-linux.skawarePackages.s6-rc-man-pages |
-| s7 | 11.7-unstable-2025-12-08 | Scheme interpreter intended as an extension language for other applications | legacyPackages.x86_64-linux.s7 |
+| s7 | 11.7-unstable-2025-12-12 | Scheme interpreter intended as an extension language for other applications | legacyPackages.x86_64-linux.s7 |
 | s9fes | 20181205 | Scheme 9 From Empty Space, an interpreter for R4RS Scheme | legacyPackages.x86_64-linux.s9fes |
 | sa-tikz | 0.7a | TikZ library to draw switching architectures | legacyPackages.x86_64-linux.texlivePackages.sa-tikz |
-| saber | 0.26.10 | Cross-platform open-source app built for handwriting | legacyPackages.x86_64-linux.saber |
+| saber | 1.29.1 | Cross-platform open-source app built for handwriting | legacyPackages.x86_64-linux.saber |
 | sabnzbd | 4.5.5 | Usenet NZB downloader, par2 repairer and auto extracting server | legacyPackages.x86_64-linux.sabnzbd |
 | sabnzbd_exporter | 0.1.80 | Prometheus exporter for sabnzbd | legacyPackages.x86_64-linux.prometheus-sabnzbd-exporter |
 | sacad | 2.8.1 | Smart Automatic Cover Art Downloader | legacyPackages.x86_64-linux.sacad |
@@ -84441,7 +84467,7 @@
 | sdl3-image | 3.2.4 | SDL image library | legacyPackages.x86_64-linux.sdl3-image |
 | sdl3-shadercross | 0-unstable-2025-12-06 | Shader translation library | legacyPackages.x86_64-linux.sdl3-shadercross |
 | sdl3-ttf | 3.2.2 | SDL TrueType font library | legacyPackages.x86_64-linux.sdl3-ttf |
-| sdl_gamecontrollerdb | 0-unstable-2025-12-05 | Community sourced database of game controller mappings to be used with SDL2 and SDL3 Game Controller functionality | legacyPackages.x86_64-linux.sdl_gamecontrollerdb |
+| sdl_gamecontrollerdb | 0-unstable-2025-12-11 | Community sourced database of game controller mappings to be used with SDL2 and SDL3 Game Controller functionality | legacyPackages.x86_64-linux.sdl_gamecontrollerdb |
 | sdlookup | 0-unstable-2022-03-10 | IP lookups for open ports and vulnerabilities from internetdb.shodan.io | legacyPackages.x86_64-linux.sdlookup |
 | sdlpop | 1.23 | Open-source port of Prince of Persia | legacyPackages.x86_64-linux.sdlpop |
 | sdnotify-wrapper |  | Use systemd sd_notify without having to link against libsystemd | legacyPackages.x86_64-linux.sdnotify-wrapper |
@@ -84897,11 +84923,11 @@
 | serviette | 0.1.0.6 | JSON to Sql | legacyPackages.x86_64-linux.haskellPackages.serviette |
 | serviio | 2.4 | UPnP Media Streaming Server | legacyPackages.x86_64-linux.serviio |
 | servius | 1.2.3.0 | Warp web server with template rendering | legacyPackages.x86_64-linux.haskellPackages.servius |
-| servo | 0.0.2 | Embeddable, independent, memory-safe, modular, parallel web rendering engine | legacyPackages.x86_64-linux.servo |
+| servo | 0.0.3 | Embeddable, independent, memory-safe, modular, parallel web rendering engine | legacyPackages.x86_64-linux.servo |
 | ses-html | 0.4.0.0 | Send HTML formatted emails using Amazon's SES REST API with blaze | legacyPackages.x86_64-linux.haskellPackages.ses-html |
 | ses-html-snaplet | 0.1.0.0 | Snaplet for the ses-html package | legacyPackages.x86_64-linux.haskellPackages.ses-html-snaplet |
 | sesamanuel | 0.6 | Class and package for sesamath books or paper | legacyPackages.x86_64-linux.texlivePackages.sesamanuel |
-| sesh | 2.19.0 | Smart session manager for the terminal | legacyPackages.x86_64-linux.sesh |
+| sesh | 2.20.0 | Smart session manager for the terminal | legacyPackages.x86_64-linux.sesh |
 | seshat | 0.100 | Roman body font designed for main text by Sora Sagano | legacyPackages.x86_64-linux.seshat |
 | session-desktop | 1.16.10 | Onion routing based messenger | legacyPackages.x86_64-linux.session-desktop |
 | sessions | 2008.7.18 | Session Types for Haskell | legacyPackages.x86_64-linux.haskellPackages.sessions |
@@ -85362,7 +85388,7 @@
 | signal-desktop-bin | 7.80.0 | Private, simple, and secure messenger | legacyPackages.x86_64-linux.signal-desktop-bin |
 | signal-export | 3.8.1 | Export your Signal chats to markdown files with attachments | legacyPackages.x86_64-linux.signal-export |
 | signal-messaging-dbus | 1.0.1.0 | Bindings for signal-cli's DBus interface | legacyPackages.x86_64-linux.haskellPackages.signal-messaging-dbus |
-| signalbackup-tools | 20251207-1 | Tool to work with Signal Backup files | legacyPackages.x86_64-linux.signalbackup-tools |
+| signalbackup-tools | 20251214 | Tool to work with Signal Backup files | legacyPackages.x86_64-linux.signalbackup-tools |
 | signals | 0.2.0.2 | Synchronous signal processing for DSLs | legacyPackages.x86_64-linux.haskellPackages.signals |
 | signature | 0.1.1.0 | Hmac sha256 signature json and http payload | legacyPackages.x86_64-linux.haskellPackages.signature |
 | signaturepdf | 1.9.2 | Web software for signing PDFs and also organize pages, edit metadata and compress pdf | legacyPackages.x86_64-linux.signaturepdf |
@@ -85476,8 +85502,8 @@
 | simple-mtpfs | 0.4.0 | Simple MTP fuse filesystem driver | legacyPackages.x86_64-linux.simple-mtpfs |
 | simple-neural-networks | 0.2.0.1 | Simple parallel neural networks implementation | legacyPackages.x86_64-linux.haskellPackages.simple-neural-networks |
 | simple-nix | 0.1.0.4 | Simple parsing/pretty printing for Nix expressions | legacyPackages.x86_64-linux.haskellPackages.simple-nix |
-| simple-nix-source-salted | 3nhxngvs7w7g |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.simple |
-| simple-nix-source-salted-v3zyj5xmn672 |  |  | legacyPackages.x86_64-linux.tests.fetchgit.simple |
+| simple-nix-source-salted-cwv8wb252q38 |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.simple |
+| simple-nix-source-salted-wd2mb3r7wi1w |  |  | legacyPackages.x86_64-linux.tests.fetchgit.simple |
 | simple-observer | 0.0.1 | The Observer pattern | legacyPackages.x86_64-linux.haskellPackages.simple-observer |
 | simple-pango | 0.1.0.2 | Binding to Pango library | legacyPackages.x86_64-linux.haskellPackages.simple-pango |
 | simple-parser | 0.12.1 | Simple parser combinators | legacyPackages.x86_64-linux.haskellPackages.simple-parser |
@@ -85551,7 +85577,7 @@
 | simplified-latex | 20620 | A Simplified Introduction to LaTeX | legacyPackages.x86_64-linux.texlivePackages.simplified-latex |
 | simplistic-generics | 2.0.0 | Generic programming without too many type classes | legacyPackages.x86_64-linux.haskellPackages.simplistic-generics |
 | simplivre | 70314 | Write your books in a simple and clear way | legacyPackages.x86_64-linux.texlivePackages.simplivre |
-| simplotask | 1.19.1 | Tool for effortless deployment and configuration management | legacyPackages.x86_64-linux.simplotask |
+| simplotask | 1.19.2 | Tool for effortless deployment and configuration management | legacyPackages.x86_64-linux.simplotask |
 | simpoole | 0.4.0 | Simple pool | legacyPackages.x86_64-linux.haskellPackages.simpoole |
 | simseq | 0.0 | Simulate sequencing with different models for priming and errors | legacyPackages.x86_64-linux.haskellPackages.simseq |
 | simtreelo | 0.1.1.4 | Load data organized in a tree | legacyPackages.x86_64-linux.haskellPackages.simtreelo |
@@ -85569,7 +85595,7 @@
 | sindre | 0.6 | A programming language for simple GUIs | legacyPackages.x86_64-linux.haskellPackages.sindre |
 | sing-box | 1.12.13 | Universal proxy platform | legacyPackages.x86_64-linux.sing-box |
 | sing-geoip | 2025-12 | GeoIP data for sing-box | legacyPackages.x86_64-linux.sing-geoip |
-| sing-geosite | 20251208040409 | Community managed domain list | legacyPackages.x86_64-linux.sing-geosite |
+| sing-geosite | 20251213093556 | Community managed domain list | legacyPackages.x86_64-linux.sing-geosite |
 | single-file-cli | 1.1.49 | CLI tool for saving a faithful copy of a complete web page in a single HTML file | legacyPackages.x86_64-linux.single-file-cli |
 | single-tuple | 0.1.3.0 | a class for single tuple implementations | legacyPackages.x86_64-linux.haskellPackages.single-tuple |
 | singleraeh | 0.4.0 | raehik's singletons | legacyPackages.x86_64-linux.haskellPackages.singleraeh |
@@ -85598,7 +85624,7 @@
 | sink | 0.1.0.1 | An alternative to lazy I/O that doesn't conflate execution with evaluation | legacyPackages.x86_64-linux.haskellPackages.sink |
 | sink-rotate | 2.3.0 | Command that rotates the default PipeWire audio sink | legacyPackages.x86_64-linux.sink-rotate |
 | sint | 0.2.0 | Nat singletons represented by Int | legacyPackages.x86_64-linux.haskellPackages.sint |
-| sioyek | 2.0.0-unstable-2025-12-05 | PDF viewer designed for research papers and technical books | legacyPackages.x86_64-linux.sioyek |
+| sioyek | 2.0.0-unstable-2025-12-11 | PDF viewer designed for research papers and technical books | legacyPackages.x86_64-linux.sioyek |
 | sipcalc | 1.1.6 | Advanced console ip subnet calculator | legacyPackages.x86_64-linux.sipcalc |
 | sipexer | 1.2.0 | Modern and flexible SIP CLI tool | legacyPackages.x86_64-linux.sipexer |
 | siphash | 1.0.3 | siphash: a fast short input PRF | legacyPackages.x86_64-linux.haskellPackages.siphash |
@@ -86208,7 +86234,7 @@
 | solaar | 1.1.16 | Linux devices manager for the Logitech Unifying Receiver | legacyPackages.x86_64-linux.solaar |
 | solana-cli | 3.0.12 | Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces | legacyPackages.x86_64-linux.solana-cli |
 | solana-staking-csvs | 0.1.3.0 | Generate CSV Exports of your Solana Staking Rewards | legacyPackages.x86_64-linux.haskellPackages.solana-staking-csvs |
-| solanum | 0-unstable-2025-10-23 | IRCd for unified networks | legacyPackages.x86_64-linux.solanum |
+| solanum | 0-unstable-2025-12-10 | IRCd for unified networks | legacyPackages.x86_64-linux.solanum |
 | solanum | 6.0.0 | Pomodoro timer for the GNOME desktop | legacyPackages.x86_64-linux.gnome-solanum |
 | solar | 0.1.0.0 | Simple library for solar calculations | legacyPackages.x86_64-linux.haskellPackages.solar |
 | solarc-gtk-theme | 1.0.2 | Solarized version of the Arc theme | legacyPackages.x86_64-linux.solarc-gtk-theme |
@@ -86333,39 +86359,39 @@
 | source-han-serif-vf-ttf | 2.003 | Open source Pan-CJK Serif typeface | legacyPackages.x86_64-linux.source-han-serif-vf-ttf |
 | source-highlight | 3.1.9 | Source code renderer with syntax highlighting | legacyPackages.x86_64-linux.sourceHighlight |
 | source-meta-json-schema | 12.9.3 | CLI for working with JSON Schema. Covers formatting, linting, testing, bundling, and more for both local development and CI/CD pipelines  | legacyPackages.x86_64-linux.source-meta-json-schema |
-| source-salted | 07b8g84qnl26 |  | legacyPackages.x86_64-linux.tests.fetchpatch2.fileWithSpace |
-| source-salted | 0vkkvvalkfch |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit |
-| source-salted | 0vkkvvalkfch |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit-flattened |
-| source-salted | 15vr7l6ybdwf |  | legacyPackages.x86_64-linux.tests.fetchpatch.full |
-| source-salted | 28cys9689g3p |  | legacyPackages.x86_64-linux.tests.fetchpatch2.hunks |
-| source-salted | 2za6b2bq6vlq |  | legacyPackages.x86_64-linux.tests.fetchurl.no-skipPostFetch |
-| source-salted | 3mkvl7zjb1vw |  | legacyPackages.x86_64-linux.tests.fetchpatch2.simple |
-| source-salted | 691324wb5v7s |  | legacyPackages.x86_64-linux.tests.fetchzip.simple |
-| source-salted | 6bakjwsq8gnd |  | legacyPackages.x86_64-linux.tests.fetchpatch.relative |
-| source-salted | 6qva1ggn97yq |  | legacyPackages.x86_64-linux.tests.fetchPypiLegacy.fetchSimple |
-| source-salted | 86s5xvp0jk02 |  | legacyPackages.x86_64-linux.tests.fetchDebianPatch.simple |
-| source-salted | 8dfd84fpx2y3 |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit-unflattened |
-| source-salted-aqss97zbsidv |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.fileWithApostrophe |
-| source-salted-b4l7z4cviykl |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.hunks |
-| source-salted-bsg9y2f8r8wl |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.simple |
-| source-salted-dx54m6y839lf |  |  | legacyPackages.x86_64-linux.tests.fetchzip.postFetch |
-| source-salted-f1mn5axfg1xm |  |  | legacyPackages.x86_64-linux.tests.fetchDebianPatch.libPackage |
-| source-salted-gzsmim700ms7 |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.full |
-| source-salted-hx8y6bff4z4i |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.fileWithSpace |
-| source-salted-in14zis2wgc3 |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link |
-| source-salted-in14zis2wgc3 |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-transmission |
-| source-salted-iqr5pc5k7kds |  |  | legacyPackages.x86_64-linux.tests.fetchNextcloudApp.simple-sha256 |
-| source-salted-jb9pa73xk2xg |  |  | legacyPackages.x86_64-linux.tests.fetchurl.hashedMirrors |
-| source-salted-njv3a7985vcl |  |  | legacyPackages.x86_64-linux.tests.fetchNextcloudApp.simple-sha512 |
-| source-salted-px1vdynnbxm5 |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link |
-| source-salted-px1vdynnbxm5 |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-transmission |
-| source-salted-rjgdisjm7f9d |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.fileWithApostrophe |
-| source-salted-smwn5yrfgq9k |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.relative |
-| source-salted-vh0rx24lcbya |  |  | legacyPackages.x86_64-linux.tests.fetchzip.hiddenDir |
-| source-salted-vr7asn451aab |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit |
-| source-salted-vr7asn451aab |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit-flattened |
-| source-salted-vs7brzjfi4aq |  |  | legacyPackages.x86_64-linux.tests.fetchurl.header |
-| source-salted-wfx5y0xry0i1 |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit-unflattened |
+| source-salted | 2z0j70m46wig |  | legacyPackages.x86_64-linux.tests.fetchNextcloudApp.simple-sha256 |
+| source-salted | 4y7r69kvihyz |  | legacyPackages.x86_64-linux.tests.fetchDebianPatch.libPackage |
+| source-salted | 7h7s20v6qk2k |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit-unflattened |
+| source-salted | 7zn3acq5ww7d |  | legacyPackages.x86_64-linux.tests.fetchDebianPatch.simple |
+| source-salted | 8kplkx23c014 |  | legacyPackages.x86_64-linux.tests.fetchpatch2.relative |
+| source-salted-ar5lwkn7qbyk |  |  | legacyPackages.x86_64-linux.tests.fetchurl.no-skipPostFetch |
+| source-salted-bdaq2998npgb |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link |
+| source-salted-bdaq2998npgb |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-transmission |
+| source-salted-cs6pzpif7blz |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link |
+| source-salted-cs6pzpif7blz |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-transmission |
+| source-salted-d0j8jlvybi2s |  |  | legacyPackages.x86_64-linux.tests.fetchzip.postFetch |
+| source-salted-d31bp7mpwrs8 |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit |
+| source-salted-d31bp7mpwrs8 |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit-flattened |
+| source-salted-df5q8w1vza1r |  |  | legacyPackages.x86_64-linux.tests.fetchPypiLegacy.fetchSimple |
+| source-salted-dhfb7cnp2314 |  |  | legacyPackages.x86_64-linux.tests.fetchurl.hashedMirrors |
+| source-salted-g9zmw79griin |  |  | legacyPackages.x86_64-linux.tests.fetchNextcloudApp.simple-sha512 |
+| source-salted-hclf4629fz6b |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.fileWithSpace |
+| source-salted-hrlirxl5ia35 |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.hunks |
+| source-salted-hxdz8x6giwz3 |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.fileWithSpace |
+| source-salted-l1b14qwxc5h1 |  |  | legacyPackages.x86_64-linux.tests.fetchzip.simple |
+| source-salted-mhjbb4bbw3rh |  |  | legacyPackages.x86_64-linux.tests.fetchurl.header |
+| source-salted-nchzqlhj0nl2 |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.fileWithApostrophe |
+| source-salted-nd1vi7n5p4xj |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.relative |
+| source-salted-pbgip10sl6gx |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.simple |
+| source-salted-pi5ikh6msspn |  |  | legacyPackages.x86_64-linux.tests.fetchzip.hiddenDir |
+| source-salted-pjaxc1bkgfic |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.fileWithApostrophe |
+| source-salted-sj5il745500z |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.simple |
+| source-salted-vpsypng5mgqb |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.hunks |
+| source-salted-vzs8zkdcp2g8 |  |  | legacyPackages.x86_64-linux.tests.fetchpatch2.full |
+| source-salted-w58ahicb4spc |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit-unflattened |
+| source-salted-wdsc1ik8v9kr |  |  | legacyPackages.x86_64-linux.tests.fetchpatch.full |
+| source-salted-z3xh4fzf317q |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit |
+| source-salted-z3xh4fzf317q |  |  | legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit-flattened |
 | source-sans | 3.052 | Sans serif font family for user interface environments | legacyPackages.x86_64-linux.source-sans |
 | source-sans-pro | 3.006 | Sans serif font family for user interface environments (version of Source Sans before being renamed) | legacyPackages.x86_64-linux.source-sans-pro |
 | source-serif | 4.005 | Typeface for setting text in many sizes, weights, and languages. Designed to complement Source Sans | legacyPackages.x86_64-linux.source-serif |
@@ -86458,7 +86484,7 @@
 | spark | 4.0.1 | Apache Spark is a fast and general engine for large-scale data processing | legacyPackages.x86_64-linux.spark_4_0 |
 | spark-otf | 0.05a | Support OpenType Spark fonts | legacyPackages.x86_64-linux.texlivePackages.spark-otf |
 | sparkle | 0.7.4 | Distributed Apache Spark applications in Haskell | legacyPackages.x86_64-linux.haskellPackages.sparkle |
-| sparkle | 1.6.12 | Another Mihomo GUI | legacyPackages.x86_64-linux.sparkle |
+| sparkle | 1.6.15 | Another Mihomo GUI | legacyPackages.x86_64-linux.sparkle |
 | sparklines | 1.7 | Drawing sparklines: intense, simple, wordlike graphics | legacyPackages.x86_64-linux.texlivePackages.sparklines |
 | sparql-protocol | 1.1.0.0 | An SPARQL 1.1 Protocol client library. | legacyPackages.x86_64-linux.haskellPackages.sparql-protocol |
 | sparrow | 0.0.3.1 | Unified streaming data-dependency framework for web apps | legacyPackages.x86_64-linux.haskellPackages.sparrow |
@@ -86467,10 +86493,10 @@
 | spars | 0.1.0.0 | A sparse set-based parsing library for Haskell | legacyPackages.x86_64-linux.haskellPackages.spars |
 | sparse | 0.6.4-unstable-2024-02-03 | Semantic parser for C | legacyPackages.x86_64-linux.sparse |
 | sparse | 0.9.2 | A playground of sparse linear algebra primitives using Morton ordering | legacyPackages.x86_64-linux.haskellPackages.sparse |
-| sparse-checkout-nix-source-salted-ci9p621ij41x |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.sparseCheckout |
-| sparse-checkout-nix-source-salted-hkf4dbl61ppz |  |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckout |
-| sparse-checkout-non-cone-nix-source-salted-a9w9nlgdh47d |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.sparseCheckoutNonConeMode |
-| sparse-checkout-non-cone-nix-source-salted-kwzaxpnq62aj |  |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckoutNonConeMode |
+| sparse-checkout-nix-source-salted-i2gdn1w4l2xn |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.sparseCheckout |
+| sparse-checkout-nix-source-salted-v56073ckwr8g |  |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckout |
+| sparse-checkout-non-cone-nix-source-salted | 5fr96hg8djdm |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.sparseCheckoutNonConeMode |
+| sparse-checkout-non-cone-nix-source-salted-nflw8h539dkh |  |  | legacyPackages.x86_64-linux.tests.fetchgit.sparseCheckoutNonConeMode |
 | sparse-lin-alg | 0.4.3 | Effective linear algebra on sparse matrices | legacyPackages.x86_64-linux.haskellPackages.sparse-lin-alg |
 | sparse-linear-algebra | 0.3.1 | Numerical computing in native Haskell | legacyPackages.x86_64-linux.haskellPackages.sparse-linear-algebra |
 | sparse-merkle-trees | 0.2.0.0 | Sparse Merkle trees with proofs of inclusion and exclusion | legacyPackages.x86_64-linux.haskellPackages.sparse-merkle-trees |
@@ -86608,7 +86634,7 @@
 | spix | 1.3.0 | Yet another TeX compilation tool: simple, human readable, no option, no magic | legacyPackages.x86_64-linux.texlivePackages.spix |
 | spl | 0.4.3 | Simple, concise, concatenative scripting language | legacyPackages.x86_64-linux.spl |
 | spla | 1.6.1 | Specialized Parallel Linear Algebra, providing distributed GEMM functionality for specific matrix distributions with optional GPU acceleration | legacyPackages.x86_64-linux.spla |
-| splash | 3.11.6 | Interactive visualisation and plotting tool using kernel interpolation, mainly used for Smoothed Particle Hydrodynamics simulations | legacyPackages.x86_64-linux.splash |
+| splash | 3.11.7 | Interactive visualisation and plotting tool using kernel interpolation, mainly used for Smoothed Particle Hydrodynamics simulations | legacyPackages.x86_64-linux.splash |
 | splat | 1.4.2 | RF Signal Propagation, Loss, And Terrain analysis tool for the electromagnetic spectrum between 20 MHz and 20 GHz | legacyPackages.x86_64-linux.splat |
 | splay | 0.0.6 | Generic splay-based sequence representation | legacyPackages.x86_64-linux.haskellPackages.splay |
 | splayer | 3.0.0-beta.6 | Simple Netease Cloud Music player | legacyPackages.x86_64-linux.splayer |
@@ -86750,7 +86776,7 @@
 | sqlline | 1.12.0 | Shell for issuing SQL to relational databases via JDBC | legacyPackages.x86_64-linux.sqlline |
 | sqlmap | 1.9.12 | Automatic SQL injection and database takeover tool | legacyPackages.x86_64-linux.sqlmap |
 | sqlmc | 1.1.0 | Tool to check URLs of a domain for SQL injections | legacyPackages.x86_64-linux.sqlmc |
-| sqlpage | 0.39.0 | SQL-only webapp builder, empowering data analysts to build websites and applications quickly | legacyPackages.x86_64-linux.sqlpage |
+| sqlpage | 0.40.0 | SQL-only webapp builder, empowering data analysts to build websites and applications quickly | legacyPackages.x86_64-linux.sqlpage |
 | sqlpkg-cli | 0.2.3 | SQLite package manager | legacyPackages.x86_64-linux.sqlpkg-cli |
 | sqls | 0.2.28 | SQL language server written in Go | legacyPackages.x86_64-linux.sqls |
 | sqltex | 3.0 | An SQL Preprocessor for LaTeX | legacyPackages.x86_64-linux.texlivePackages.sqltex |
@@ -87012,7 +87038,7 @@
 | staruml | 7.0.0 | Sophisticated software modeler | legacyPackages.x86_64-linux.staruml |
 | stash | 0.1 | To be written | legacyPackages.x86_64-linux.haskellPackages.stash |
 | stash | 0.29.1 | Organizer for your adult videos/images | legacyPackages.x86_64-linux.stash |
-| stasis | 0.6.2 | Modern idle manager for Wayland | legacyPackages.x86_64-linux.stasis |
+| stasis | 0.8.5 | Modern idle manager for Wayland | legacyPackages.x86_64-linux.stasis |
 | state | 0.1 | Data.State | legacyPackages.x86_64-linux.haskellPackages.state |
 | state-bag | 0.1.0.0 | Monad transformers for holding bags of state | legacyPackages.x86_64-linux.haskellPackages.state-bag |
 | state-codes | 0.1.3 | ISO 3166-2:US state codes and i18n names | legacyPackages.x86_64-linux.haskellPackages.state-codes |
@@ -87163,7 +87189,7 @@
 | stealcaps | 1.1 | "Steal" small capitals | legacyPackages.x86_64-linux.texlivePackages.stealcaps |
 | steam | 1.0.0.85 | Digital distribution platform | legacyPackages.x86_64-linux.steam |
 | steam-acf | 0.1.0 | Tool to convert Steam .acf files to JSON | legacyPackages.x86_64-linux.steam-acf |
-| steam-devices-udev-rules | 1.0.0.61-unstable-2025-10-18 | Udev rules list for gaming devices | legacyPackages.x86_64-linux.steam-devices-udev-rules |
+| steam-devices-udev-rules | 1.0.0.61-unstable-2025-12-16 | Udev rules list for gaming devices | legacyPackages.x86_64-linux.steam-devices-udev-rules |
 | steam-lancache-prefill | 3.4.2 | Automatically fills a Lancache with games from Steam | legacyPackages.x86_64-linux.steam-lancache-prefill |
 | steam-play-none | 0-unstable-2022-12-15 | Steam Play Compatibility Tool to run games as-is  (This is intended for use in the `programs.steam.extraCompatPackages` option only.)  | legacyPackages.x86_64-linux.steam-play-none |
 | steam-rom-manager | 2.5.30 | App for managing ROMs in Steam | legacyPackages.x86_64-linux.steam-rom-manager |
@@ -87604,14 +87630,14 @@
 | sublists | 0.2.0.1 | Allows to split lists into sublists with some patterns by quantity | legacyPackages.x86_64-linux.haskellPackages.sublists |
 | submark | 0.3.1 | Extract a part from CommonMark/Markdown docs | legacyPackages.x86_64-linux.haskellPackages.submark |
 | submit50 | 3.2.1 | Tool for submitting student CS50 code | legacyPackages.x86_64-linux.submit50 |
-| submodule-deep-source-salted-diwbqd7n5fvk |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-deep |
-| submodule-deep-source-salted-i9nhxcmmiznb |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-deep |
-| submodule-leave-git-deep-source-salted-ma07nj2wq3j0 |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-leave-git-deep |
-| submodule-leave-git-deep-source-salted-r4z4pinxzapx |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git-deep |
-| submodule-leave-git-source-salted | 375y5cbq2v3p |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git |
-| submodule-leave-git-source-salted-i9vbq93ddn7f |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-leave-git |
-| submodule-simple-source-salted-g76vvkcgvai3 |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-simple |
-| submodule-simple-source-salted-zab97a88anxc |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-simple |
+| submodule-deep-source-salted-jb146fbqk6hd |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-deep |
+| submodule-deep-source-salted-va35hx9nsmml |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-deep |
+| submodule-leave-git-deep-source-salted | 4p4n0hcq6vz4 |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git-deep |
+| submodule-leave-git-deep-source-salted-c3r0j3vpyi50 |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-leave-git-deep |
+| submodule-leave-git-source-salted | 26x1n2ahhkbn |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-leave-git |
+| submodule-leave-git-source-salted-c1rw4ybdz35w |  |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-leave-git |
+| submodule-simple-source-salted | 7dnrvf8yf548 |  | legacyPackages.x86_64-linux.tests.fetchgit.submodule-simple |
+| submodule-simple-source-salted-qrc156vrfhdw |  |  | legacyPackages.x86_64-linux.tests.fetchFromGitHub.submodule-simple |
 | subnet | 0.0.1.2 | subnetting calculator | legacyPackages.x86_64-linux.haskellPackages.subnet |
 | subnetcalc | 2.6.5 | IPv4/IPv6 subnet address calculator | legacyPackages.x86_64-linux.subnetcalc |
 | subprober | 1.0.9 | Subdomain scanning tool | legacyPackages.x86_64-linux.subprober |
@@ -87674,7 +87700,7 @@
 | summoner | 2.0.1.1 | Tool for scaffolding fully configured batteries-included production-level Haskell projects | legacyPackages.x86_64-linux.haskellPackages.summoner |
 | summoner-tui | 2.0.1.1 | Tool for scaffolding fully configured batteries-included production-level Haskell projects using TUI | legacyPackages.x86_64-linux.haskellPackages.summoner-tui |
 | summoning-pixel-dungeon | 1.2.5a | Fork of the Shattered Pixel Dungeon roguelike with added summoning mechanics | legacyPackages.x86_64-linux.summoning-pixel-dungeon |
-| sumo | 1.24.0 | SUMO traffic simulator | legacyPackages.x86_64-linux.sumo |
+| sumo | 1.25.0 | SUMO traffic simulator | legacyPackages.x86_64-linux.sumo |
 | sumorobot-manager | 1.0.0 | Desktop App for managing SumoRobots | legacyPackages.x86_64-linux.sumorobot-manager |
 | sump | 0.1.0.2 | A Haskell interface to SUMP-compatible logic analyzers | legacyPackages.x86_64-linux.haskellPackages.sump |
 | sums | 0.16 | Simple GTK postfix calculator for GNOME | legacyPackages.x86_64-linux.sums |
@@ -88234,10 +88260,10 @@
 | system76-acpi-module | 1.0.2-6.17.12 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_lqx.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.12 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76-acpi |
 | system76-acpi-module | 1.0.2-6.17.12 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-acpi |
-| system76-acpi-module | 1.0.2-6.18 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-acpi |
-| system76-acpi-module | 1.0.2-6.18 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.18.1 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.system76-acpi |
+| system76-acpi-module | 1.0.2-6.18.1 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.18.1 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_latest.system76-acpi |
+| system76-acpi-module | 1.0.2-6.18.1 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxPackages_zen.system76-acpi |
 | system76-acpi-module | 1.0.2-6.6.119 | System76 ACPI Driver (DKMS) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-acpi |
 | system76-firmware | 1.0.74 | Tools for managing firmware updates for system76 devices | legacyPackages.x86_64-linux.system76-firmware |
 | system76-io-module | 1.0.4-5.10.247 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76-io |
@@ -88256,10 +88282,10 @@
 | system76-io-module | 1.0.4-6.17.12 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_lqx.system76-io |
 | system76-io-module | 1.0.4-6.17.12 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76-io |
 | system76-io-module | 1.0.4-6.17.12 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76-io |
-| system76-io-module | 1.0.4-6.18 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-io |
-| system76-io-module | 1.0.4-6.18 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_zen.system76-io |
 | system76-io-module | 1.0.4-6.18.1 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.system76-io |
+| system76-io-module | 1.0.4-6.18.1 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76-io |
 | system76-io-module | 1.0.4-6.18.1 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_latest.system76-io |
+| system76-io-module | 1.0.4-6.18.1 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxPackages_zen.system76-io |
 | system76-io-module | 1.0.4-6.6.119 | DKMS module for controlling System76 Io board | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76-io |
 | system76-keyboard-configurator | 1.3.12 | Keyboard configuration application for System76 keyboards and laptops | legacyPackages.x86_64-linux.system76-keyboard-configurator |
 | system76-module | 1.0.17-5.10.247 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76 |
@@ -88278,10 +88304,10 @@
 | system76-module | 1.0.17-6.17.12 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_lqx.system76 |
 | system76-module | 1.0.17-6.17.12 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.system76 |
 | system76-module | 1.0.17-6.17.12 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.system76 |
-| system76-module | 1.0.17-6.18 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76 |
-| system76-module | 1.0.17-6.18 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_zen.system76 |
 | system76-module | 1.0.17-6.18.1 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.system76 |
+| system76-module | 1.0.17-6.18.1 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.system76 |
 | system76-module | 1.0.17-6.18.1 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_latest.system76 |
+| system76-module | 1.0.17-6.18.1 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxPackages_zen.system76 |
 | system76-module | 1.0.17-6.6.119 | System76 DKMS driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.system76 |
 | system76-power | 1.2.7 | System76 Power Management | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.system76-power |
 | system76-power | 1.2.7 | System76 Power Management | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.system76-power |
@@ -88760,10 +88786,10 @@
 | tbs | 20250510-6.17.12 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_lqx.tbs |
 | tbs | 20250510-6.17.12 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tbs |
 | tbs | 20250510-6.17.12 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tbs |
-| tbs | 20250510-6.18 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tbs |
-| tbs | 20250510-6.18 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_zen.tbs |
 | tbs | 20250510-6.18.1 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.tbs |
+| tbs | 20250510-6.18.1 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tbs |
 | tbs | 20250510-6.18.1 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_latest.tbs |
+| tbs | 20250510-6.18.1 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxPackages_zen.tbs |
 | tbs | 20250510-6.6.119 | Linux driver for TBSDTV cards | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tbs |
 | tbtools | 0.7.0 | Thunderbolt/USB4 debugging tools | legacyPackages.x86_64-linux.tbtools |
 | tbump | 6.11.0 | Bump software releases | legacyPackages.x86_64-linux.tbump |
@@ -88849,10 +88875,10 @@
 | teamocil | 1.4.2 | Simple tool used to automatically create windows and panes in tmux with YAML files | legacyPackages.x86_64-linux.teamocil |
 | teams | 0.0.2.3 | Graphical modeling tools for sequential teams | legacyPackages.x86_64-linux.haskellPackages.teams |
 | teams | 25255.703.3981.5698 | Microsoft Teams | legacyPackages.x86_64-linux.teams |
-| teams-for-linux | 2.6.18 | Unofficial Microsoft Teams client for Linux | legacyPackages.x86_64-linux.teams-for-linux |
+| teams-for-linux | 2.6.19 | Unofficial Microsoft Teams client for Linux | legacyPackages.x86_64-linux.teams-for-linux |
 | teamspeak-server | 3.13.7 | TeamSpeak voice communication server | legacyPackages.x86_64-linux.teamspeak_server |
 | teamspeak3 | 3.6.2 | TeamSpeak voice communication tool | legacyPackages.x86_64-linux.teamspeak3 |
-| teamspeak6-client | 6.0.0-beta3.3 | TeamSpeak voice communication tool (beta version) | legacyPackages.x86_64-linux.teamspeak6-client |
+| teamspeak6-client | 6.0.0-beta3.4 | TeamSpeak voice communication tool (beta version) | legacyPackages.x86_64-linux.teamspeak6-client |
 | teamtype | 0.9.0 | Real-time co-editing of local text files | legacyPackages.x86_64-linux.ethersync |
 | teamtype | 0.9.0 | Real-time co-editing of local text files | legacyPackages.x86_64-linux.teamtype |
 | teamviewer | 15.71.4 | Desktop sharing application, providing remote support and online meetings | legacyPackages.x86_64-linux.teamviewer |
@@ -89164,8 +89190,8 @@
 | terraform-provider-awscc | 1.66.0 |  | legacyPackages.x86_64-linux.terraform-providers.hashicorp_awscc |
 | terraform-provider-azuread | 3.7.0 |  | legacyPackages.x86_64-linux.terraform-providers.azuread |
 | terraform-provider-azuread | 3.7.0 |  | legacyPackages.x86_64-linux.terraform-providers.hashicorp_azuread |
-| terraform-provider-azurerm | 4.55.0 |  | legacyPackages.x86_64-linux.terraform-providers.azurerm |
-| terraform-provider-azurerm | 4.55.0 |  | legacyPackages.x86_64-linux.terraform-providers.hashicorp_azurerm |
+| terraform-provider-azurerm | 4.56.0 |  | legacyPackages.x86_64-linux.terraform-providers.azurerm |
+| terraform-provider-azurerm | 4.56.0 |  | legacyPackages.x86_64-linux.terraform-providers.hashicorp_azurerm |
 | terraform-provider-baiducloud | 1.22.16 |  | legacyPackages.x86_64-linux.terraform-providers.baidubce_baiducloud |
 | terraform-provider-baiducloud | 1.22.16 |  | legacyPackages.x86_64-linux.terraform-providers.baiducloud |
 | terraform-provider-bigip | 1.24.1 |  | legacyPackages.x86_64-linux.terraform-providers.bigip |
@@ -89304,8 +89330,8 @@
 | terraform-provider-mailgun | 0.8.1 |  | legacyPackages.x86_64-linux.terraform-providers.wgebis_mailgun |
 | terraform-provider-matchbox | 0.5.4 |  | legacyPackages.x86_64-linux.terraform-providers.matchbox |
 | terraform-provider-matchbox | 0.5.4 |  | legacyPackages.x86_64-linux.terraform-providers.poseidon_matchbox |
-| terraform-provider-migadu | 2025.12.4 |  | legacyPackages.x86_64-linux.terraform-providers.metio_migadu |
-| terraform-provider-migadu | 2025.12.4 |  | legacyPackages.x86_64-linux.terraform-providers.migadu |
+| terraform-provider-migadu | 2025.12.11 |  | legacyPackages.x86_64-linux.terraform-providers.metio_migadu |
+| terraform-provider-migadu | 2025.12.11 |  | legacyPackages.x86_64-linux.terraform-providers.migadu |
 | terraform-provider-minio | 3.11.5 |  | legacyPackages.x86_64-linux.terraform-providers.aminueza_minio |
 | terraform-provider-minio | 3.11.5 |  | legacyPackages.x86_64-linux.terraform-providers.minio |
 | terraform-provider-mongodbatlas | 2.3.0 |  | legacyPackages.x86_64-linux.terraform-providers.mongodb_mongodbatlas |
@@ -89375,8 +89401,8 @@
 | terraform-provider-random | 3.7.2 |  | legacyPackages.x86_64-linux.terraform-providers.random |
 | terraform-provider-remote | 0.2.1 |  | legacyPackages.x86_64-linux.terraform-providers.remote |
 | terraform-provider-remote | 0.2.1 |  | legacyPackages.x86_64-linux.terraform-providers.tenstad_remote |
-| terraform-provider-rootly | 4.3.13 |  | legacyPackages.x86_64-linux.terraform-providers.rootly |
-| terraform-provider-rootly | 4.3.13 |  | legacyPackages.x86_64-linux.terraform-providers.rootlyhq_rootly |
+| terraform-provider-rootly | 5.0.0 |  | legacyPackages.x86_64-linux.terraform-providers.rootly |
+| terraform-provider-rootly | 5.0.0 |  | legacyPackages.x86_64-linux.terraform-providers.rootlyhq_rootly |
 | terraform-provider-routeros | 1.98.0 |  | legacyPackages.x86_64-linux.terraform-providers.routeros |
 | terraform-provider-routeros | 1.98.0 |  | legacyPackages.x86_64-linux.terraform-providers.terraform-routeros_routeros |
 | terraform-provider-rundeck | 0.5.2 |  | legacyPackages.x86_64-linux.terraform-providers.rundeck |
@@ -89394,8 +89420,8 @@
 | terraform-provider-sentry | 0.14.7 |  | legacyPackages.x86_64-linux.terraform-providers.sentry |
 | terraform-provider-shell | 1.7.10 |  | legacyPackages.x86_64-linux.terraform-providers.scottwinkler_shell |
 | terraform-provider-shell | 1.7.10 |  | legacyPackages.x86_64-linux.terraform-providers.shell |
-| terraform-provider-signalfx | 9.23.0 |  | legacyPackages.x86_64-linux.terraform-providers.signalfx |
-| terraform-provider-signalfx | 9.23.0 |  | legacyPackages.x86_64-linux.terraform-providers.splunk-terraform_signalfx |
+| terraform-provider-signalfx | 9.23.1 |  | legacyPackages.x86_64-linux.terraform-providers.signalfx |
+| terraform-provider-signalfx | 9.23.1 |  | legacyPackages.x86_64-linux.terraform-providers.splunk-terraform_signalfx |
 | terraform-provider-skytap | 0.15.1 |  | legacyPackages.x86_64-linux.terraform-providers.skytap |
 | terraform-provider-skytap | 0.15.1 |  | legacyPackages.x86_64-linux.terraform-providers.skytap_skytap |
 | terraform-provider-slack | 1.2.2 |  | legacyPackages.x86_64-linux.terraform-providers.pablovarela_slack |
@@ -89414,8 +89440,8 @@
 | terraform-provider-statuscake | 2.2.2 |  | legacyPackages.x86_64-linux.terraform-providers.statuscakedev_statuscake |
 | terraform-provider-sumologic | 3.2.1 |  | legacyPackages.x86_64-linux.terraform-providers.sumologic |
 | terraform-provider-sumologic | 3.2.1 |  | legacyPackages.x86_64-linux.terraform-providers.sumologic_sumologic |
-| terraform-provider-sysdig | 3.2.0 |  | legacyPackages.x86_64-linux.terraform-providers.sysdig |
-| terraform-provider-sysdig | 3.2.0 |  | legacyPackages.x86_64-linux.terraform-providers.sysdiglabs_sysdig |
+| terraform-provider-sysdig | 3.3.1 |  | legacyPackages.x86_64-linux.terraform-providers.sysdig |
+| terraform-provider-sysdig | 3.3.1 |  | legacyPackages.x86_64-linux.terraform-providers.sysdiglabs_sysdig |
 | terraform-provider-tailscale | 0.24.0 |  | legacyPackages.x86_64-linux.terraform-providers.tailscale |
 | terraform-provider-tailscale | 0.24.0 |  | legacyPackages.x86_64-linux.terraform-providers.tailscale_tailscale |
 | terraform-provider-talos | 0.9.0 |  | legacyPackages.x86_64-linux.terraform-providers.siderolabs_talos |
@@ -90098,7 +90124,7 @@
 | text1 | 0.0.7.4 | Non-empty values of `Data.Text`. | legacyPackages.x86_64-linux.haskellPackages.text1 |
 | textPlot | 1.0 | Plot functions in text | legacyPackages.x86_64-linux.haskellPackages.textPlot |
 | text_cmds | 195 | Text commands for Darwin | legacyPackages.x86_64-linux.darwin.text_cmds |
-| textadept | 12.8 | Extensible text editor based on Scintilla with Lua scripting | legacyPackages.x86_64-linux.textadept |
+| textadept | 12.9 | Extensible text editor based on Scintilla with Lua scripting | legacyPackages.x86_64-linux.textadept |
 | textcase | 1.05 | Case conversion ignoring mathematics, etc | legacyPackages.x86_64-linux.texlivePackages.textcase |
 | textcompare | 0.1.8 | Simple desktop app to compare old and new text | legacyPackages.x86_64-linux.textcompare |
 | textcsc | 1.2.0 | Simple commands for caps-to-small-caps text | legacyPackages.x86_64-linux.texlivePackages.textcsc |
@@ -90539,7 +90565,7 @@
 | tilings | 0.1 | substitution tilings | legacyPackages.x86_64-linux.haskellPackages.tilings |
 | tilings | 2.0 | A TikZ library for drawing tiles and tilings | legacyPackages.x86_64-linux.texlivePackages.tilings |
 | tilix | 1.9.6 | Tiling terminal emulator following the Gnome Human Interface Guidelines | legacyPackages.x86_64-linux.tilix |
-| tilt | 0.35.2 | Local development tool to manage your developer instance when your team deploys to Kubernetes in production | legacyPackages.x86_64-linux.tilt |
+| tilt | 0.36.0 | Local development tool to manage your developer instance when your team deploys to Kubernetes in production | legacyPackages.x86_64-linux.tilt |
 | timberc | 1.0.3 | The Timber Compiler | legacyPackages.x86_64-linux.haskellPackages.timberc |
 | timbl | 6.11 | TiMBL implements several memory-based learning algorithms | legacyPackages.x86_64-linux.timbl |
 | timblserver | 1.19 | This server for TiMBL implements several memory-based learning algorithms | legacyPackages.x86_64-linux.timblserver |
@@ -90635,9 +90661,9 @@
 | timescaledb_toolkit | 1.21.0 | Provide additional tools to ease all things analytic when using TimescaleDB | legacyPackages.x86_64-linux.postgresql18Packages.timescaledb_toolkit |
 | timescaledb_toolkit | 1.21.0 | Provide additional tools to ease all things analytic when using TimescaleDB | legacyPackages.x86_64-linux.postgresqlPackages.timescaledb_toolkit |
 | timeseries | 0.4.1 | Library for Time Series processing | legacyPackages.x86_64-linux.haskellPackages.timeseries |
-| timeshift | 25.12.0 | System restore tool for Linux (without runtime dependencies) | legacyPackages.x86_64-linux.timeshift-minimal |
-| timeshift | 25.12.0 | System restore tool for Linux | legacyPackages.x86_64-linux.timeshift |
-| timeshift | 25.12.0 | System restore tool for Linux | legacyPackages.x86_64-linux.timeshift-unwrapped |
+| timeshift | 25.12.1 | System restore tool for Linux (without runtime dependencies) | legacyPackages.x86_64-linux.timeshift-minimal |
+| timeshift | 25.12.1 | System restore tool for Linux | legacyPackages.x86_64-linux.timeshift |
+| timeshift | 25.12.1 | System restore tool for Linux | legacyPackages.x86_64-linux.timeshift-unwrapped |
 | timespan | 0.4.0.0 | Useful timespan datatype and functions | legacyPackages.x86_64-linux.haskellPackages.timespan |
 | timestamp | 0.2 | Space-efficient Unix timestamp and utilities | legacyPackages.x86_64-linux.haskellPackages.timestamp |
 | timestamp-subprocess-lines | 0.1.0.4 | Run a command and timestamp its stdout/stderr lines | legacyPackages.x86_64-linux.haskellPackages.timestamp-subprocess-lines |
@@ -90859,10 +90885,10 @@
 | tmon | 6.17.12 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_lqx.tmon |
 | tmon | 6.17.12 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tmon |
 | tmon | 6.17.12 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tmon |
-| tmon | 6.18 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tmon |
-| tmon | 6.18 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_zen.tmon |
 | tmon | 6.18.1 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.tmon |
+| tmon | 6.18.1 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tmon |
 | tmon | 6.18.1 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_latest.tmon |
+| tmon | 6.18.1 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxPackages_zen.tmon |
 | tmon | 6.6.119 | Monitoring and Testing Tool for Linux kernel thermal subsystem | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tmon |
 | tmp-postgres | 1.34.1.0 | Start and stop a temporary postgres | legacyPackages.x86_64-linux.haskellPackages.tmp-postgres |
 | tmp-proc | 0.7.2.2 | Run 'tmp' processes in integration tests | legacyPackages.x86_64-linux.haskellPackages.tmp-proc |
@@ -91150,10 +91176,10 @@
 | tp_smapi | 0.45-6.17.12 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_lqx.tp_smapi |
 | tp_smapi | 0.45-6.17.12 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tp_smapi |
 | tp_smapi | 0.45-6.17.12 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tp_smapi |
-| tp_smapi | 0.45-6.18 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi |
-| tp_smapi | 0.45-6.18 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi |
 | tp_smapi | 0.45-6.18.1 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.tp_smapi |
+| tp_smapi | 0.45-6.18.1 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tp_smapi |
 | tp_smapi | 0.45-6.18.1 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_latest.tp_smapi |
+| tp_smapi | 0.45-6.18.1 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxPackages_zen.tp_smapi |
 | tp_smapi | 0.45-6.6.119 | IBM ThinkPad hardware functions driver | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tp_smapi |
 | tpacpi-bat | 3.2 | Tool to set battery charging thresholds on Lenovo Thinkpad | legacyPackages.x86_64-linux.tpacpi-bat |
 | tpar | 0.1.0.0 | simple, parallel job scheduling | legacyPackages.x86_64-linux.haskellPackages.tpar |
@@ -91554,10 +91580,10 @@
 | trelay | 22.03.5-6.17.12 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_lqx.trelay |
 | trelay | 22.03.5-6.17.12 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.trelay |
 | trelay | 22.03.5-6.17.12 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.trelay |
-| trelay | 22.03.5-6.18 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay |
-| trelay | 22.03.5-6.18 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_zen.trelay |
 | trelay | 22.03.5-6.18.1 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.trelay |
+| trelay | 22.03.5-6.18.1 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.trelay |
 | trelay | 22.03.5-6.18.1 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_latest.trelay |
+| trelay | 22.03.5-6.18.1 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxPackages_zen.trelay |
 | trelay | 22.03.5-6.6.119 | For relaying IP packets between two devices to build a IP bridge between them | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.trelay |
 | trelby | 2.4.16.2 | Free, multiplatform, feature-rich screenwriting program | legacyPackages.x86_64-linux.trelby |
 | trellis-unstable | 2022-09-14 | Documentation and bitstream tools for Lattice ECP5 FPGAs | legacyPackages.x86_64-linux.trellis |
@@ -91704,10 +91730,10 @@
 | tsme-test | 6.17.12-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_lqx.tsme-test |
 | tsme-test | 6.17.12-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tsme-test |
 | tsme-test | 6.17.12-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tsme-test |
-| tsme-test | 6.18-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tsme-test |
-| tsme-test | 6.18-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_zen.tsme-test |
 | tsme-test | 6.18.1-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.tsme-test |
+| tsme-test | 6.18.1-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tsme-test |
 | tsme-test | 6.18.1-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_latest.tsme-test |
+| tsme-test | 6.18.1-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxPackages_zen.tsme-test |
 | tsme-test | 6.6.119-unstable-2022-12-07 | Kernel driver to test the status of AMD TSME (Transparent Secure Memory Encryption) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tsme-test |
 | tsne | 1.3.0 | t-SNE | legacyPackages.x86_64-linux.haskellPackages.tsne |
 | tsocks | 1.8beta5 | Transparent SOCKS v4 proxying library | legacyPackages.x86_64-linux.tsocks |
@@ -91762,7 +91788,7 @@
 | ttask | 0.0.1.0 | This is task management tool for yourself, that inspired by scrum | legacyPackages.x86_64-linux.haskellPackages.ttask |
 | ttc | 1.5.0.0 | Textual Type Classes | legacyPackages.x86_64-linux.haskellPackages.ttc |
 | ttchat | 0.1.10 | Connect to a Twitch channel's chat from your terminal | legacyPackages.x86_64-linux.ttchat |
-| ttdl | 4.18.0 | CLI tool to manage todo lists in todo.txt format | legacyPackages.x86_64-linux.ttdl |
+| ttdl | 4.19.1 | CLI tool to manage todo lists in todo.txt format | legacyPackages.x86_64-linux.ttdl |
 | ttf-bitstream-vera | 1.10 |  | legacyPackages.x86_64-linux.ttf_bitstream_vera |
 | ttf-envy-code-r-PR7 |  | Free scalable coding font by DamienG | legacyPackages.x86_64-linux.ttf-envy-code-r |
 | ttf-indic | 0.2 | Indic Opentype Fonts collection | legacyPackages.x86_64-linux.ttf-indic |
@@ -91826,7 +91852,7 @@
 | tuliprox | 3.2.0 | Flexible IPTV playlist processor & proxy in Rust | legacyPackages.x86_64-linux.tuliprox |
 | tumbler | 4.20.1 | D-Bus thumbnailer service | legacyPackages.x86_64-linux.xfce.tumbler |
 | tumiki-fighters | 0.21 | Sticky 2D shooter | legacyPackages.x86_64-linux.tumiki-fighters |
-| tun2proxy | 0.7.17 | Tunnel (TUN) interface for SOCKS and HTTP proxies | legacyPackages.x86_64-linux.tun2proxy |
+| tun2proxy | 0.7.18 | Tunnel (TUN) interface for SOCKS and HTTP proxies | legacyPackages.x86_64-linux.tun2proxy |
 | tun2socks | 2.6.0 | Routes network traffic from any application through a proxy | legacyPackages.x86_64-linux.tun2socks |
 | tuna | 0.19 | Thread and IRQ affinity setting GUI and cmd line tool | legacyPackages.x86_64-linux.tuna |
 | tunctl | 1.5 | Utility to set up and maintain TUN/TAP network interfaces | legacyPackages.x86_64-linux.tunctl |
@@ -91881,10 +91907,10 @@
 | turbostat | 6.17.12 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_lqx.turbostat |
 | turbostat | 6.17.12 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.turbostat |
 | turbostat | 6.17.12 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.turbostat |
-| turbostat | 6.18 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.turbostat |
-| turbostat | 6.18 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_zen.turbostat |
 | turbostat | 6.18.1 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.turbostat |
+| turbostat | 6.18.1 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.turbostat |
 | turbostat | 6.18.1 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_latest.turbostat |
+| turbostat | 6.18.1 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxPackages_zen.turbostat |
 | turbostat | 6.6.119 | Report processor frequency and idle statistics | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.turbostat |
 | turbovnc | 3.2.1 | High-speed version of VNC derived from TightVNC | legacyPackages.x86_64-linux.turbovnc |
 | turing | 0.1.1 | A simple simulator for Turing machines | legacyPackages.x86_64-linux.haskellPackages.turing |
@@ -91951,14 +91977,14 @@
 | tuxedo-drivers | 6.17.12-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.tuxedo-keyboard |
 | tuxedo-drivers | 6.17.12-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tuxedo-drivers |
 | tuxedo-drivers | 6.17.12-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.tuxedo-keyboard |
-| tuxedo-drivers | 6.18-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-drivers |
-| tuxedo-drivers | 6.18-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-keyboard |
-| tuxedo-drivers | 6.18-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-drivers |
-| tuxedo-drivers | 6.18-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.tuxedo-drivers |
 | tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.tuxedo-keyboard |
+| tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-drivers |
+| tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest.tuxedo-drivers |
 | tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_latest.tuxedo-keyboard |
+| tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-drivers |
+| tuxedo-drivers | 6.18.1-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxPackages_zen.tuxedo-keyboard |
 | tuxedo-drivers | 6.6.119-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tuxedo-drivers |
 | tuxedo-drivers | 6.6.119-4.18.1 | Keyboard and hardware I/O driver for TUXEDO Computers laptops | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.tuxedo-keyboard |
 | tuxedo-rs | 0.3.1 | Rust utilities for interacting with hardware from TUXEDO Computers | legacyPackages.x86_64-linux.tuxedo-rs |
@@ -96888,7 +96914,7 @@
 | upspin-unstable | 2023-02-05 | Global name space for storing data akin to a filesystem | legacyPackages.x86_64-linux.upspin |
 | upstream-stack-hpack-version-test-stack | 3.7.1-hpack-0.38.1-8698d13bef3316fcd230ebe8fec5be188c6793df13772853314ad3e0e0cc59f7 | Test that the stack in Nixpkgs uses the same version of Hpack as the upstream stack release | legacyPackages.x86_64-linux.tests.haskell.upstreamStackHpackVersion |
 | upsun | 5.7.2 | Unified tool for managing your Upsun services from the command line | legacyPackages.x86_64-linux.upsun |
-| upterm | 0.15.3 | Secure terminal-session sharing | legacyPackages.x86_64-linux.upterm |
+| upterm | 0.20.0 | Secure terminal-session sharing | legacyPackages.x86_64-linux.upterm |
 | uptex | 73848 | Unicode version of pTeX | legacyPackages.x86_64-linux.texlivePackages.uptex |
 | uptex-base | 73291 | Plain TeX formats and documents for upTeX | legacyPackages.x86_64-linux.texlivePackages.uptex-base |
 | uptex-fonts | 74119 | Fonts for use with upTeX | legacyPackages.x86_64-linux.texlivePackages.uptex-fonts |
@@ -96908,6 +96934,7 @@
 | urbit-api | 0.2.0.0 | Talk to Urbit from Haskell | legacyPackages.x86_64-linux.haskellPackages.urbit-api |
 | urbit-hob | 0.3.3 | Hoon-style atom manipulation and printing functions | legacyPackages.x86_64-linux.haskellPackages.urbit-hob |
 | urcls | 2.1 | Beamer and scrlttr2 classes and styles for the University of Regensburg | legacyPackages.x86_64-linux.texlivePackages.urcls |
+| urdf-viz | 0.46.1 | Visualizer for URDF and XACRO files | legacyPackages.x86_64-linux.urdf-viz |
 | urdfdom | 5.0.3 | Provides core data structures and a simple XML parser for populating the class data structures from an URDF file | legacyPackages.x86_64-linux.urdfdom |
 | urdfdom-headers | 2.0.1 | URDF (U-Robot Description Format) headers provides core data structure headers for URDF | legacyPackages.x86_64-linux.urdfdom-headers |
 | ureader | 0.2.0.0 | Minimalistic CLI RSS reader | legacyPackages.x86_64-linux.haskellPackages.ureader |
@@ -97001,8 +97028,8 @@
 | usbip-linux-xanmod | 6.17.12 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.usbip |
 | usbip-linux-xanmod | 6.17.12 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.usbip |
 | usbip-linux-xanmod | 6.17.12 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.usbip |
-| usbip-linux-zen | 6.18 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.usbip |
-| usbip-linux-zen | 6.18 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_zen.usbip |
+| usbip-linux-zen | 6.18.1 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.usbip |
+| usbip-linux-zen | 6.18.1 | Allows to pass USB device from server to client over the network | legacyPackages.x86_64-linux.linuxPackages_zen.usbip |
 | usbip-ssh | 0-unstable-2024-10-09 | Import usb devices from another linux machine with ssh's connection forwarding mechanism | legacyPackages.x86_64-linux.usbip-ssh |
 | usbkvm | 0.3.0 | Open-source USB KVM (Keyboard, Video and Mouse) adapter | legacyPackages.x86_64-linux.usbkvm |
 | usbmuxd | 1.1.1+date=2023-05-05 | Socket daemon to multiplex connections from and to iOS devices | legacyPackages.x86_64-linux.usbmuxd |
@@ -97156,7 +97183,7 @@
 | uzdoom | 4.14.3 | Modder-friendly OpenGL and Vulkan source port based on the DOOM engine | legacyPackages.x86_64-linux.uzdoom |
 | v1 | 0.1.0 |  | legacyPackages.x86_64-linux.tests.importCargoLock.v1 |
 | v2ray-core | 5.42.0 | Platform for building proxies to bypass network restrictions | legacyPackages.x86_64-linux.v2ray |
-| v2ray-domain-list-community | 20251208040409 | Community managed domain list | legacyPackages.x86_64-linux.v2ray-domain-list-community |
+| v2ray-domain-list-community | 20251213093556 | Community managed domain list | legacyPackages.x86_64-linux.v2ray-domain-list-community |
 | v2ray-exporter | 0.6.0 | Prometheus exporter for V2Ray daemon | legacyPackages.x86_64-linux.prometheus-v2ray-exporter |
 | v2ray-geoip | 2025-12 | GeoIP for V2Ray | legacyPackages.x86_64-linux.v2ray-geoip |
 | v2raya | 2.2.7.4 | Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel | legacyPackages.x86_64-linux.v2raya |
@@ -97205,10 +97232,10 @@
 | v86d | 0.1.10-6.17.12 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_lqx.v86d |
 | v86d | 0.1.10-6.17.12 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.v86d |
 | v86d | 0.1.10-6.17.12 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.v86d |
-| v86d | 0.1.10-6.18 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v86d |
-| v86d | 0.1.10-6.18 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_zen.v86d |
 | v86d | 0.1.10-6.18.1 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.v86d |
+| v86d | 0.1.10-6.18.1 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.v86d |
 | v86d | 0.1.10-6.18.1 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_latest.v86d |
+| v86d | 0.1.10-6.18.1 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxPackages_zen.v86d |
 | v86d | 0.1.10-6.6.119 | Daemon to run x86 code in an emulated environment | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.v86d |
 | vabal | 2.0.0 | the cabal companion | legacyPackages.x86_64-linux.haskellPackages.vabal |
 | vabal-lib | 2.0.0 | Core algorithms and datatypes used by vabal | legacyPackages.x86_64-linux.haskellPackages.vabal-lib |
@@ -97510,8 +97537,8 @@
 | veloren | 0.17.0 | Open world, open source voxel RPG | legacyPackages.x86_64-linux.veloren |
 | velthuis | 2.17.1 | Typeset Devanagari | legacyPackages.x86_64-linux.texlivePackages.velthuis |
 | venator | 1.0.4 | Desktop app for viewing logs and traces from OpenTelemetry and the Rust tracing ecosystem | legacyPackages.x86_64-linux.venator |
-| vencord | 1.13.8 | Cutest Discord client mod | legacyPackages.x86_64-linux.vencord |
-| vencord | 1.13.8 | Cutest Discord client mod | legacyPackages.x86_64-linux.vencord-web-extension |
+| vencord | 1.13.9 | Cutest Discord client mod | legacyPackages.x86_64-linux.vencord |
+| vencord | 1.13.9 | Cutest Discord client mod | legacyPackages.x86_64-linux.vencord-web-extension |
 | vendir | 0.45.0 | CLI tool to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively | legacyPackages.x86_64-linux.vendir |
 | vendor-reset-unstable | 2024-04-16-5.10.247 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-5.15.197 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.vendor-reset |
@@ -97529,10 +97556,10 @@
 | vendor-reset-unstable | 2024-04-16-6.17.12 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_lqx.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.12 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.17.12 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vendor-reset |
-| vendor-reset-unstable | 2024-04-16-6.18 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vendor-reset |
-| vendor-reset-unstable | 2024-04-16-6.18 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.18.1 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.vendor-reset |
+| vendor-reset-unstable | 2024-04-16-6.18.1 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.18.1 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_latest.vendor-reset |
+| vendor-reset-unstable | 2024-04-16-6.18.1 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxPackages_zen.vendor-reset |
 | vendor-reset-unstable | 2024-04-16-6.6.119 | Linux kernel vendor specific hardware reset module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vendor-reset |
 | venera | 1.5.3 | Comic reader that support reading local and network comics | legacyPackages.x86_64-linux.venera |
 | vengi-tools | 0.1.0 | Tools from the vengi voxel engine, including a thumbnailer, a converter, and the VoxEdit voxel editor | legacyPackages.x86_64-linux.vengi-tools |
@@ -97724,267 +97751,267 @@
 | vimpager | 2.06 | Use Vim as PAGER | legacyPackages.x86_64-linux.vimpager |
 | vimpager-a4da4dfac44d1bbc6986c5c76fea45a60ebdd8e5 |  | Use Vim as PAGER | legacyPackages.x86_64-linux.vimpager-latest |
 | vimpc | 0.09.2 | Vi/vim inspired client for the Music Player Daemon (mpd) | legacyPackages.x86_64-linux.vimpc |
-| vimplugin-BetterLua.vim | 2020-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.BetterLua-vim |
-| vimplugin-BufOnly.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.BufOnly |
-| vimplugin-BufOnly.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.BufOnly-vim |
-| vimplugin-ChatGPT.nvim | 2024-10-12 |  | legacyPackages.x86_64-linux.vimPlugins.ChatGPT-nvim |
-| vimplugin-CheckAttach | 2024-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.CheckAttach |
-| vimplugin-Colour-Sampler-Pack | 2012-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.Colour-Sampler-Pack |
-| vimplugin-Colour-Sampler-Pack | 2012-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.Colour_Sampler_Pack |
-| vimplugin-Colour-Sampler-Pack | 2012-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.colorsamplerpack |
-| vimplugin-CopilotChat.nvim | 2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.CopilotChat-nvim |
-| vimplugin-Coqtail | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.Coqtail |
-| vimplugin-DoxygenToolkit.vim | 2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.DoxygenToolkit-vim |
-| vimplugin-FTerm.nvim | 2022-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.FTerm-nvim |
-| vimplugin-FixCursorHold.nvim | 2023-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.FixCursorHold-nvim |
-| vimplugin-GPTModels.nvim | 2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.GPTModels-nvim |
-| vimplugin-Improved-AnsiEsc | 2015-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.Improved-AnsiEsc |
-| vimplugin-Ionide-vim | 2025-05-11 |  | legacyPackages.x86_64-linux.vimPlugins.Ionide-vim |
-| vimplugin-Jenkinsfile-vim-syntax | 2021-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.Jenkinsfile-vim-syntax |
+| vimplugin-BetterLua.vim | 0-unstable-2020-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.BetterLua-vim |
+| vimplugin-BufOnly.vim | 0.1-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.BufOnly |
+| vimplugin-BufOnly.vim | 0.1-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.BufOnly-vim |
+| vimplugin-ChatGPT.nvim | 0.1.1-alpha-unstable-2024-10-12 |  | legacyPackages.x86_64-linux.vimPlugins.ChatGPT-nvim |
+| vimplugin-CheckAttach | 0.17-unstable-2024-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.CheckAttach |
+| vimplugin-Colour-Sampler-Pack | 2012.10.28-unstable-2012-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.Colour-Sampler-Pack |
+| vimplugin-Colour-Sampler-Pack | 2012.10.28-unstable-2012-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.Colour_Sampler_Pack |
+| vimplugin-Colour-Sampler-Pack | 2012.10.28-unstable-2012-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.colorsamplerpack |
+| vimplugin-CopilotChat.nvim | 4.7.4-unstable-2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.CopilotChat-nvim |
+| vimplugin-Coqtail | 1.8.0-unstable-2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.Coqtail |
+| vimplugin-DoxygenToolkit.vim | 0.2.13-unstable-2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.DoxygenToolkit-vim |
+| vimplugin-FTerm.nvim | 0-unstable-2022-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.FTerm-nvim |
+| vimplugin-FixCursorHold.nvim | 0-unstable-2023-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.FixCursorHold-nvim |
+| vimplugin-GPTModels.nvim | 0-unstable-2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.GPTModels-nvim |
+| vimplugin-Improved-AnsiEsc | 13.2-unstable-2015-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.Improved-AnsiEsc |
+| vimplugin-Ionide-vim | 0-unstable-2025-05-11 |  | legacyPackages.x86_64-linux.vimPlugins.Ionide-vim |
+| vimplugin-Jenkinsfile-vim-syntax | 0-unstable-2021-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.Jenkinsfile-vim-syntax |
 | vimplugin-LanguageClient-neovim | 0.1.161 |  | legacyPackages.x86_64-linux.vimPlugins.LanguageClient-neovim |
-| vimplugin-LanguageTool.nvim | 2020-10-19 |  | legacyPackages.x86_64-linux.vimPlugins.LanguageTool-nvim |
-| vimplugin-LazyVim | 2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.LazyVim |
-| vimplugin-LeaderF | 2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.LeaderF |
-| vimplugin-LibDeflate.nvim | 2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.LibDeflate-nvim |
-| vimplugin-LuaSnip-snippets.nvim | 2022-03-17 |  | legacyPackages.x86_64-linux.vimPlugins.LuaSnip-snippets-nvim |
-| vimplugin-MatchTagAlways | 2017-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.MatchTagAlways |
-| vimplugin-Navigator.nvim | 2023-02-02 |  | legacyPackages.x86_64-linux.vimPlugins.Navigator-nvim |
-| vimplugin-NeoSolarized | 2020-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.NeoSolarized |
-| vimplugin-NotebookNavigator.nvim | 2024-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.NotebookNavigator-nvim |
-| vimplugin-NrrwRgn | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.NrrwRgn |
-| vimplugin-Otree.nvim | 2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.Otree-nvim |
-| vimplugin-PreserveNoEOL | 2013-06-14 |  | legacyPackages.x86_64-linux.vimPlugins.PreserveNoEOL |
-| vimplugin-Preview.nvim | 2024-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.Preview-nvim |
-| vimplugin-QFEnter | 2024-05-05 |  | legacyPackages.x86_64-linux.vimPlugins.QFEnter |
-| vimplugin-Recover.vim | 2022-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.Recover-vim |
-| vimplugin-Rename | 2011-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.Rename |
-| vimplugin-ReplaceWithRegister | 2014-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.ReplaceWithRegister |
-| vimplugin-SchemaStore.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.SchemaStore-nvim |
-| vimplugin-Shade.nvim | 2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.Shade-nvim |
-| vimplugin-ShowMultiBase | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.ShowMultiBase |
-| vimplugin-SimpylFold | 2022-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.SimpylFold |
-| vimplugin-SmartCase | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.SmartCase |
-| vimplugin-SpaceCamp | 2023-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.SpaceCamp |
-| vimplugin-SudoEdit.vim | 2023-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.SudoEdit-vim |
-| vimplugin-VimCompletesMe | 2015-04-20 |  | legacyPackages.x86_64-linux.vimPlugins.VimCompletesMe |
-| vimplugin-VimOrganizer | 2020-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.VimOrganizer |
-| vimplugin-Vundle.vim | 2024-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.Vundle-vim |
-| vimplugin-YUNOcommit.vim | 2014-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.YUNOcommit-vim |
-| vimplugin-YankAssassin.vim | 2022-03-11 |  | legacyPackages.x86_64-linux.vimPlugins.YankAssassin-vim |
-| vimplugin-YankRing.vim | 2015-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.YankRing-vim |
-| vimplugin-YankRing.vim | 2015-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.Yankring |
-| vimplugin-YankRing.vim | 2015-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.yankring |
-| vimplugin-YouCompleteMe | 2025-11-16 | Code-completion engine for Vim | legacyPackages.x86_64-linux.vimPlugins.YouCompleteMe |
-| vimplugin-a.vim | 2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.a-vim |
-| vimplugin-a.vim | 2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.alternative |
-| vimplugin-accent.vim | 2025-01-29 |  | legacyPackages.x86_64-linux.vimPlugins.accent-vim |
-| vimplugin-ack.vim | 2018-02-27 |  | legacyPackages.x86_64-linux.vimPlugins.ack-vim |
-| vimplugin-acp | 2013-02-05 |  | legacyPackages.x86_64-linux.vimPlugins.acp |
-| vimplugin-actions-preview.nvim | 2025-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.actions-preview-nvim |
-| vimplugin-advanced-git-search.nvim | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.advanced-git-search-nvim |
-| vimplugin-adwaita.nvim | 2025-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.adwaita-nvim |
-| vimplugin-aerial.nvim | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.aerial-nvim |
-| vimplugin-ag.nvim | 2021-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.ag-nvim |
-| vimplugin-agda-vim | 2021-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.agda-vim |
-| vimplugin-agitator.nvim | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.agitator-nvim |
-| vimplugin-ai.vim | 2023-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.ai-vim |
-| vimplugin-aider.nvim | 2025-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.aider-nvim |
-| vimplugin-alchemist.vim | 2023-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.alchemist-vim |
-| vimplugin-ale | 2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.ale |
-| vimplugin-align | 2012-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.align |
-| vimplugin-align.nvim | 2024-04-10 |  | legacyPackages.x86_64-linux.vimPlugins.align-nvim |
-| vimplugin-alpha-nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.alpha-nvim |
-| vimplugin-amp.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.amp-nvim |
-| vimplugin-animation.nvim | 2022-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.animation-nvim |
-| vimplugin-aniseed | 2025-06-12 |  | legacyPackages.x86_64-linux.vimPlugins.aniseed |
-| vimplugin-ansible-vim | 2025-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.ansible-vim |
-| vimplugin-antonys-macro-repeater | 2017-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.antonys-macro-repeater |
-| vimplugin-arcanist.vim | 2016-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.arcanist-vim |
-| vimplugin-argtextobj.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.argtextobj-vim |
-| vimplugin-arrow.nvim | 2025-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.arrow-nvim |
-| vimplugin-arshlib.nvim | 2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.arshlib-nvim |
-| vimplugin-astrocore | 2025-06-06 |  | legacyPackages.x86_64-linux.vimPlugins.astrocore |
-| vimplugin-astrolsp | 2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.astrolsp |
-| vimplugin-astrotheme | 2025-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.astrotheme |
-| vimplugin-astroui | 2025-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.astroui |
-| vimplugin-async.vim | 2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.async-vim |
-| vimplugin-asyncomplete-buffer.vim | 2023-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-buffer-vim |
-| vimplugin-asyncomplete-file.vim | 2022-07-11 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-file-vim |
-| vimplugin-asyncomplete-lsp.vim | 2025-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-lsp-vim |
-| vimplugin-asyncomplete-omni.vim | 2018-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-omni-vim |
-| vimplugin-asyncomplete-tags.vim | 2023-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-tags-vim |
-| vimplugin-asyncomplete-ultisnips.vim | 2023-01-13 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-ultisnips-vim |
-| vimplugin-asyncomplete.vim | 2025-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-vim |
-| vimplugin-asyncrun.vim | 2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.asyncrun-vim |
-| vimplugin-asynctasks.vim | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.asynctasks-vim |
-| vimplugin-ats-vim | 2020-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.ats-vim |
-| vimplugin-augment.vim | 2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.augment-vim |
-| vimplugin-aurora | 2025-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.aurora |
-| vimplugin-auto-fix-return.nvim | 2025-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.auto-fix-return-nvim |
-| vimplugin-auto-git-diff | 2022-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.auto-git-diff |
-| vimplugin-auto-hlsearch.nvim | 2024-08-23 |  | legacyPackages.x86_64-linux.vimPlugins.auto-hlsearch-nvim |
-| vimplugin-auto-pairs | 2019-02-27 |  | legacyPackages.x86_64-linux.vimPlugins.auto-pairs |
-| vimplugin-auto-save.nvim | 2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.auto-save-nvim |
-| vimplugin-auto-session | 2025-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.auto-session |
-| vimplugin-autoclose.nvim | 2025-07-21 |  | legacyPackages.x86_64-linux.vimPlugins.autoclose-nvim |
-| vimplugin-autolist.nvim | 2023-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.autolist-nvim |
-| vimplugin-autoload_cscope.vim | 2011-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.autoload_cscope-vim |
-| vimplugin-autosave.nvim | 2022-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.autosave-nvim |
+| vimplugin-LanguageTool.nvim | 1.0-unstable-2020-10-19 |  | legacyPackages.x86_64-linux.vimPlugins.LanguageTool-nvim |
+| vimplugin-LazyVim | 15.13.0-unstable-2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.LazyVim |
+| vimplugin-LeaderF | 1.25-unstable-2025-12-16 |  | legacyPackages.x86_64-linux.vimPlugins.LeaderF |
+| vimplugin-LibDeflate.nvim | 0-unstable-2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.LibDeflate-nvim |
+| vimplugin-LuaSnip-snippets.nvim | 0-unstable-2022-03-17 |  | legacyPackages.x86_64-linux.vimPlugins.LuaSnip-snippets-nvim |
+| vimplugin-MatchTagAlways | 0-unstable-2017-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.MatchTagAlways |
+| vimplugin-Navigator.nvim | 0.6-unstable-2023-02-02 |  | legacyPackages.x86_64-linux.vimPlugins.Navigator-nvim |
+| vimplugin-NeoSolarized | 0-unstable-2020-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.NeoSolarized |
+| vimplugin-NotebookNavigator.nvim | 0-unstable-2024-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.NotebookNavigator-nvim |
+| vimplugin-NrrwRgn | 0.34-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.NrrwRgn |
+| vimplugin-Otree.nvim | 0-unstable-2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.Otree-nvim |
+| vimplugin-PreserveNoEOL | 1.01-unstable-2013-06-14 |  | legacyPackages.x86_64-linux.vimPlugins.PreserveNoEOL |
+| vimplugin-Preview.nvim | 0-unstable-2024-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.Preview-nvim |
+| vimplugin-QFEnter | 2.4.3-unstable-2024-05-05 |  | legacyPackages.x86_64-linux.vimPlugins.QFEnter |
+| vimplugin-Recover.vim | 0-unstable-2022-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.Recover-vim |
+| vimplugin-Rename | 0.3-unstable-2011-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.Rename |
+| vimplugin-ReplaceWithRegister | 1.42-unstable-2014-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.ReplaceWithRegister |
+| vimplugin-SchemaStore.nvim | 0-unstable-2025-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.SchemaStore-nvim |
+| vimplugin-Shade.nvim | 0-unstable-2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.Shade-nvim |
+| vimplugin-ShowMultiBase | 1.0-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.ShowMultiBase |
+| vimplugin-SimpylFold | 2.0-unstable-2022-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.SimpylFold |
+| vimplugin-SmartCase | 1.0.2-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.SmartCase |
+| vimplugin-SpaceCamp | 0-unstable-2023-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.SpaceCamp |
+| vimplugin-SudoEdit.vim | 0-unstable-2023-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.SudoEdit-vim |
+| vimplugin-VimCompletesMe | 1.2.1-unstable-2015-04-20 |  | legacyPackages.x86_64-linux.vimPlugins.VimCompletesMe |
+| vimplugin-VimOrganizer | 0-unstable-2020-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.VimOrganizer |
+| vimplugin-Vundle.vim | 0.10.2-unstable-2024-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.Vundle-vim |
+| vimplugin-YUNOcommit.vim | 0-unstable-2014-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.YUNOcommit-vim |
+| vimplugin-YankAssassin.vim | 0-unstable-2022-03-11 |  | legacyPackages.x86_64-linux.vimPlugins.YankAssassin-vim |
+| vimplugin-YankRing.vim | 19.0-unstable-2015-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.YankRing-vim |
+| vimplugin-YankRing.vim | 19.0-unstable-2015-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.Yankring |
+| vimplugin-YankRing.vim | 19.0-unstable-2015-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.yankring |
+| vimplugin-YouCompleteMe | 0-unstable-2025-11-16 | Code-completion engine for Vim | legacyPackages.x86_64-linux.vimPlugins.YouCompleteMe |
+| vimplugin-a.vim | 2.18-unstable-2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.a-vim |
+| vimplugin-a.vim | 2.18-unstable-2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.alternative |
+| vimplugin-accent.vim | 0-unstable-2025-01-29 |  | legacyPackages.x86_64-linux.vimPlugins.accent-vim |
+| vimplugin-ack.vim | 1.0.9-unstable-2018-02-27 |  | legacyPackages.x86_64-linux.vimPlugins.ack-vim |
+| vimplugin-acp | 0-unstable-2013-02-05 |  | legacyPackages.x86_64-linux.vimPlugins.acp |
+| vimplugin-actions-preview.nvim | 0-unstable-2025-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.actions-preview-nvim |
+| vimplugin-advanced-git-search.nvim | 1.2.0-unstable-2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.advanced-git-search-nvim |
+| vimplugin-adwaita.nvim | 0-unstable-2025-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.adwaita-nvim |
+| vimplugin-aerial.nvim | 2.6.1-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.aerial-nvim |
+| vimplugin-ag.nvim | 0-unstable-2021-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.ag-nvim |
+| vimplugin-agda-vim | 0-unstable-2021-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.agda-vim |
+| vimplugin-agitator.nvim | 0-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.agitator-nvim |
+| vimplugin-ai.vim | 0-unstable-2023-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.ai-vim |
+| vimplugin-aider.nvim | 0.7.0-unstable-2025-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.aider-nvim |
+| vimplugin-alchemist.vim | 3.5.0-unstable-2023-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.alchemist-vim |
+| vimplugin-ale | 4.0.0-unstable-2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.ale |
+| vimplugin-align | 37-43-unstable-2012-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.align |
+| vimplugin-align.nvim | 0-unstable-2024-04-10 |  | legacyPackages.x86_64-linux.vimPlugins.align-nvim |
+| vimplugin-alpha-nvim | 0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.alpha-nvim |
+| vimplugin-amp.nvim | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.amp-nvim |
+| vimplugin-animation.nvim | 0-unstable-2022-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.animation-nvim |
+| vimplugin-aniseed | 3.33.0-unstable-2025-06-12 |  | legacyPackages.x86_64-linux.vimPlugins.aniseed |
+| vimplugin-ansible-vim | 3.4-unstable-2025-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.ansible-vim |
+| vimplugin-antonys-macro-repeater | 0-unstable-2017-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.antonys-macro-repeater |
+| vimplugin-arcanist.vim | 0-unstable-2016-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.arcanist-vim |
+| vimplugin-argtextobj.vim | 1.1.1-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.argtextobj-vim |
+| vimplugin-arrow.nvim | 0-unstable-2025-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.arrow-nvim |
+| vimplugin-arshlib.nvim | 2.0.1-unstable-2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.arshlib-nvim |
+| vimplugin-astrocore | 2.0.5-unstable-2025-06-06 |  | legacyPackages.x86_64-linux.vimPlugins.astrocore |
+| vimplugin-astrolsp | 3.2.1-unstable-2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.astrolsp |
+| vimplugin-astrotheme | 4.10.0-unstable-2025-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.astrotheme |
+| vimplugin-astroui | 3.1.5-unstable-2025-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.astroui |
+| vimplugin-async.vim | 0-unstable-2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.async-vim |
+| vimplugin-asyncomplete-buffer.vim | 0-unstable-2023-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-buffer-vim |
+| vimplugin-asyncomplete-file.vim | 0-unstable-2022-07-11 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-file-vim |
+| vimplugin-asyncomplete-lsp.vim | 0-unstable-2025-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-lsp-vim |
+| vimplugin-asyncomplete-omni.vim | 0-unstable-2018-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-omni-vim |
+| vimplugin-asyncomplete-tags.vim | 0-unstable-2023-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-tags-vim |
+| vimplugin-asyncomplete-ultisnips.vim | 0-unstable-2023-01-13 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-ultisnips-vim |
+| vimplugin-asyncomplete.vim | 2.1.0-unstable-2025-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.asyncomplete-vim |
+| vimplugin-asyncrun.vim | 2.13.4-unstable-2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.asyncrun-vim |
+| vimplugin-asynctasks.vim | 0-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.asynctasks-vim |
+| vimplugin-ats-vim | 0.1-unstable-2020-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.ats-vim |
+| vimplugin-augment.vim | 0.43.0-unstable-2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.augment-vim |
+| vimplugin-aurora | 0-unstable-2025-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.aurora |
+| vimplugin-auto-fix-return.nvim | 0.2.2-unstable-2025-12-16 |  | legacyPackages.x86_64-linux.vimPlugins.auto-fix-return-nvim |
+| vimplugin-auto-git-diff | 0-unstable-2022-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.auto-git-diff |
+| vimplugin-auto-hlsearch.nvim | 1.1.0-unstable-2024-08-23 |  | legacyPackages.x86_64-linux.vimPlugins.auto-hlsearch-nvim |
+| vimplugin-auto-pairs | 2.0.0-unstable-2019-02-27 |  | legacyPackages.x86_64-linux.vimPlugins.auto-pairs |
+| vimplugin-auto-save.nvim | 1.0.0-unstable-2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.auto-save-nvim |
+| vimplugin-auto-session | 0-unstable-2025-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.auto-session |
+| vimplugin-autoclose.nvim | 0-unstable-2025-07-21 |  | legacyPackages.x86_64-linux.vimPlugins.autoclose-nvim |
+| vimplugin-autolist.nvim | 3.0.1-unstable-2023-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.autolist-nvim |
+| vimplugin-autoload_cscope.vim | 0.5-unstable-2011-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.autoload_cscope-vim |
+| vimplugin-autosave.nvim | 0-unstable-2022-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.autosave-nvim |
 | vimplugin-avante.nvim | 0.0.27-unstable-2025-12-09 | Neovim plugin designed to emulate the behaviour of the Cursor AI IDE | legacyPackages.x86_64-linux.vimPlugins.avante-nvim |
-| vimplugin-aw-watcher-vim | 2023-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.aw-watcher-vim |
-| vimplugin-aw-watcher.nvim | 2025-07-28 |  | legacyPackages.x86_64-linux.vimPlugins.aw-watcher-nvim |
-| vimplugin-awesome-vim-colorschemes | 2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.awesome-vim-colorschemes |
-| vimplugin-aylin.vim | 2022-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.aylin-vim |
-| vimplugin-ayu-vim | 2024-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.ayu-vim |
-| vimplugin-b64.nvim | 2025-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.b64-nvim |
-| vimplugin-baleia.nvim | 2024-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.baleia-nvim |
-| vimplugin-bamboo.nvim | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.bamboo-nvim |
-| vimplugin-barbar.nvim | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.barbar-nvim |
-| vimplugin-barbecue.nvim | 2024-08-20 | VS Code like winbar for Neovim | legacyPackages.x86_64-linux.vimPlugins.barbecue-nvim |
-| vimplugin-base16-nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.base16-nvim |
-| vimplugin-base16-vim | 2022-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.base16-vim |
-| vimplugin-base46 | 2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.base46 |
-| vimplugin-bat.vim | 2022-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.bat-vim |
-| vimplugin-bats.vim | 2013-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.bats |
-| vimplugin-bats.vim | 2013-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.bats-vim |
-| vimplugin-bclose.vim | 2018-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.bclose-vim |
-| vimplugin-better-escape.nvim | 2025-04-29 |  | legacyPackages.x86_64-linux.vimPlugins.better-escape-nvim |
-| vimplugin-bigfile.nvim | 2023-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.bigfile-nvim |
+| vimplugin-aw-watcher-vim | 0-unstable-2023-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.aw-watcher-vim |
+| vimplugin-aw-watcher.nvim | 0-unstable-2025-07-28 |  | legacyPackages.x86_64-linux.vimPlugins.aw-watcher-nvim |
+| vimplugin-awesome-vim-colorschemes | 0-unstable-2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.awesome-vim-colorschemes |
+| vimplugin-aylin.vim | 0-unstable-2022-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.aylin-vim |
+| vimplugin-ayu-vim | 0-unstable-2024-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.ayu-vim |
+| vimplugin-b64.nvim | 0-unstable-2025-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.b64-nvim |
+| vimplugin-baleia.nvim | 1.4.0-unstable-2024-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.baleia-nvim |
+| vimplugin-bamboo.nvim | 0-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.bamboo-nvim |
+| vimplugin-barbar.nvim | 1.9.1-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.barbar-nvim |
+| vimplugin-barbecue.nvim | 1.2.0-unstable-2024-08-20 | VS Code like winbar for Neovim | legacyPackages.x86_64-linux.vimPlugins.barbecue-nvim |
+| vimplugin-base16-nvim | 0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.base16-nvim |
+| vimplugin-base16-vim | 0-unstable-2022-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.base16-vim |
+| vimplugin-base46 | 0-unstable-2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.base46 |
+| vimplugin-bat.vim | 0-unstable-2022-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.bat-vim |
+| vimplugin-bats.vim | 0.1.0-unstable-2013-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.bats |
+| vimplugin-bats.vim | 0.1.0-unstable-2013-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.bats-vim |
+| vimplugin-bclose.vim | 0-unstable-2018-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.bclose-vim |
+| vimplugin-better-escape.nvim | 2.3.3-unstable-2025-04-29 |  | legacyPackages.x86_64-linux.vimPlugins.better-escape-nvim |
+| vimplugin-bigfile.nvim | 0-unstable-2023-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.bigfile-nvim |
 | vimplugin-bitbake-vim | 2.10.4 |  | legacyPackages.x86_64-linux.vimPlugins.bitbake-vim |
-| vimplugin-blame.nvim | 2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.blame-nvim |
-| vimplugin-blamer.nvim | 2023-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.blamer-nvim |
-| vimplugin-blink-cmp-avante | 2025-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-avante |
-| vimplugin-blink-cmp-conventional-commits | 2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-conventional-commits |
-| vimplugin-blink-cmp-copilot | 2025-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-copilot |
-| vimplugin-blink-cmp-dictionary | 2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-dictionary |
-| vimplugin-blink-cmp-env | 2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-env |
-| vimplugin-blink-cmp-git | 2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-git |
-| vimplugin-blink-cmp-latex | 2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-latex |
-| vimplugin-blink-cmp-npm.nvim | 2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-npm-nvim |
-| vimplugin-blink-cmp-spell | 2025-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-spell |
-| vimplugin-blink-cmp-tmux | 2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-tmux |
-| vimplugin-blink-cmp-words | 2025-08-06 | Offline word and synonym completion provider for Neovim | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-words |
-| vimplugin-blink-cmp-yanky | 2025-06-24 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-yanky |
-| vimplugin-blink-copilot | 2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.blink-copilot |
-| vimplugin-blink-emoji.nvim | 2025-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.blink-emoji-nvim |
-| vimplugin-blink-nerdfont.nvim | 2025-02-06 |  | legacyPackages.x86_64-linux.vimPlugins.blink-nerdfont-nvim |
-| vimplugin-blink-ripgrep.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim |
+| vimplugin-blame.nvim | 0-unstable-2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.blame-nvim |
+| vimplugin-blamer.nvim | 1.3.0-unstable-2023-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.blamer-nvim |
+| vimplugin-blink-cmp-avante | 0.1.0-unstable-2025-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-avante |
+| vimplugin-blink-cmp-conventional-commits | 0-unstable-2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-conventional-commits |
+| vimplugin-blink-cmp-copilot | 0-unstable-2025-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-copilot |
+| vimplugin-blink-cmp-dictionary | 2.0.0-unstable-2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-dictionary |
+| vimplugin-blink-cmp-env | 0-unstable-2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-env |
+| vimplugin-blink-cmp-git | 3.0.0-unstable-2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-git |
+| vimplugin-blink-cmp-latex | 0-unstable-2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-latex |
+| vimplugin-blink-cmp-npm.nvim | 0.3.0-unstable-2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-npm-nvim |
+| vimplugin-blink-cmp-spell | 0-unstable-2025-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-spell |
+| vimplugin-blink-cmp-tmux | 0-unstable-2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-tmux |
+| vimplugin-blink-cmp-words | 1.0.0-unstable-2025-08-06 | Offline word and synonym completion provider for Neovim | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-words |
+| vimplugin-blink-cmp-yanky | 0-unstable-2025-06-24 |  | legacyPackages.x86_64-linux.vimPlugins.blink-cmp-yanky |
+| vimplugin-blink-copilot | 1.4.1-unstable-2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.blink-copilot |
+| vimplugin-blink-emoji.nvim | 0-unstable-2025-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.blink-emoji-nvim |
+| vimplugin-blink-nerdfont.nvim | 0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.blink-nerdfont-nvim |
+| vimplugin-blink-ripgrep.nvim | 2.2.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim |
 | vimplugin-blink.cmp | 1.8.0 | Performant, batteries-included completion plugin for Neovim | legacyPackages.x86_64-linux.vimPlugins.blink-cmp |
-| vimplugin-blink.compat | 2025-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.blink-compat |
-| vimplugin-blink.indent | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.blink-indent |
+| vimplugin-blink.compat | 2.5.0-unstable-2025-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.blink-compat |
+| vimplugin-blink.indent | 2.1.0-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.blink-indent |
 | vimplugin-blink.pairs | 0.4.1 | Rainbow highlighting and intelligent auto-pairs for Neovim | legacyPackages.x86_64-linux.vimPlugins.blink-pairs |
-| vimplugin-bloat.nvim | 2025-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.bloat-nvim |
-| vimplugin-block.nvim | 2023-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.block-nvim |
-| vimplugin-bluloco.nvim | 2025-06-11 |  | legacyPackages.x86_64-linux.vimPlugins.bluloco-nvim |
-| vimplugin-boo-colorscheme-nvim | 2025-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.boo-colorscheme-nvim |
-| vimplugin-boole.nvim | 2023-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.boole-nvim |
-| vimplugin-bracey.vim | 2021-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.bracey-vim |
-| vimplugin-brainfuck-vim | 2021-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.brainfuck-vim |
-| vimplugin-bufdelete.nvim | 2024-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.bufdelete-nvim |
-| vimplugin-bufexplorer | 2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.bufexplorer |
-| vimplugin-bufferize.vim | 2023-02-25 |  | legacyPackages.x86_64-linux.vimPlugins.bufferize-vim |
-| vimplugin-bufferline.nvim | 2025-01-14 |  | legacyPackages.x86_64-linux.vimPlugins.bufferline-nvim |
-| vimplugin-bufjump.nvim | 2024-05-04 |  | legacyPackages.x86_64-linux.vimPlugins.bufjump-nvim |
-| vimplugin-bufresize.nvim | 2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.bufresize-nvim |
-| vimplugin-bullets.vim | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.bullets-vim |
-| vimplugin-calendar.vim | 2025-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.calendar |
-| vimplugin-calendar.vim | 2025-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.calendar-vim |
-| vimplugin-camelcasemotion | 2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.camelcasemotion |
-| vimplugin-catppuccin-nvim | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.catppuccin-nvim |
-| vimplugin-catppuccin-vim | 2025-08-11 |  | legacyPackages.x86_64-linux.vimPlugins.catppuccin-vim |
-| vimplugin-caw.vim | 2023-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.caw |
-| vimplugin-caw.vim | 2023-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.caw-vim |
-| vimplugin-ccc.nvim | 2025-05-06 |  | legacyPackages.x86_64-linux.vimPlugins.ccc-nvim |
-| vimplugin-cellular-automaton.nvim | 2025-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.cellular-automaton-nvim |
-| vimplugin-chadtree | 2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.chad |
-| vimplugin-chadtree | 2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.chadtree |
-| vimplugin-changeColorScheme.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.changeColorScheme-vim |
-| vimplugin-cheatsheet.nvim | 2021-12-23 |  | legacyPackages.x86_64-linux.vimPlugins.cheatsheet-nvim |
-| vimplugin-checkmate.nvim | 2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.checkmate-nvim |
-| vimplugin-ci_dark | 2022-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.ci_dark |
-| vimplugin-cinnamon.nvim | 2024-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.cinnamon-nvim |
-| vimplugin-circles.nvim | 2023-04-08 |  | legacyPackages.x86_64-linux.vimPlugins.circles-nvim |
-| vimplugin-citruszest.nvim | 2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.citruszest-nvim |
-| vimplugin-clang_complete | 2023-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.clang_complete |
+| vimplugin-bloat.nvim | 2025.04.30-unstable-2025-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.bloat-nvim |
+| vimplugin-block.nvim | 0-unstable-2023-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.block-nvim |
+| vimplugin-bluloco.nvim | 1.4.0-unstable-2025-06-11 |  | legacyPackages.x86_64-linux.vimPlugins.bluloco-nvim |
+| vimplugin-boo-colorscheme-nvim | 0.5.2-unstable-2025-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.boo-colorscheme-nvim |
+| vimplugin-boole.nvim | 3.0.1-unstable-2023-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.boole-nvim |
+| vimplugin-bracey.vim | 0-unstable-2021-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.bracey-vim |
+| vimplugin-brainfuck-vim | 0-unstable-2021-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.brainfuck-vim |
+| vimplugin-bufdelete.nvim | 0-unstable-2024-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.bufdelete-nvim |
+| vimplugin-bufexplorer | 7.13.0-unstable-2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.bufexplorer |
+| vimplugin-bufferize.vim | 0.1.0-unstable-2023-02-25 |  | legacyPackages.x86_64-linux.vimPlugins.bufferize-vim |
+| vimplugin-bufferline.nvim | 4.9.1-unstable-2025-01-14 |  | legacyPackages.x86_64-linux.vimPlugins.bufferline-nvim |
+| vimplugin-bufjump.nvim | 0-unstable-2024-05-04 |  | legacyPackages.x86_64-linux.vimPlugins.bufjump-nvim |
+| vimplugin-bufresize.nvim | 0-unstable-2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.bufresize-nvim |
+| vimplugin-bullets.vim | 2.0.0-unstable-2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.bullets-vim |
+| vimplugin-calendar.vim | 0-unstable-2025-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.calendar |
+| vimplugin-calendar.vim | 0-unstable-2025-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.calendar-vim |
+| vimplugin-camelcasemotion | 0-unstable-2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.camelcasemotion |
+| vimplugin-catppuccin-nvim | 1.11.0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.catppuccin-nvim |
+| vimplugin-catppuccin-vim | 0-unstable-2025-08-11 |  | legacyPackages.x86_64-linux.vimPlugins.catppuccin-vim |
+| vimplugin-caw.vim | 1.1.1-unstable-2023-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.caw |
+| vimplugin-caw.vim | 1.1.1-unstable-2023-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.caw-vim |
+| vimplugin-ccc.nvim | 2.0.3-unstable-2025-05-06 |  | legacyPackages.x86_64-linux.vimPlugins.ccc-nvim |
+| vimplugin-cellular-automaton.nvim | 0-unstable-2025-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.cellular-automaton-nvim |
+| vimplugin-chadtree | 0-unstable-2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.chad |
+| vimplugin-chadtree | 0-unstable-2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.chadtree |
+| vimplugin-changeColorScheme.vim | 0.12-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.changeColorScheme-vim |
+| vimplugin-cheatsheet.nvim | 0-unstable-2021-12-23 |  | legacyPackages.x86_64-linux.vimPlugins.cheatsheet-nvim |
+| vimplugin-checkmate.nvim | 0.12.0-unstable-2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.checkmate-nvim |
+| vimplugin-ci_dark | 0-unstable-2022-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.ci_dark |
+| vimplugin-cinnamon.nvim | 1.2.5-unstable-2024-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.cinnamon-nvim |
+| vimplugin-circles.nvim | 2.0.1-unstable-2023-04-08 |  | legacyPackages.x86_64-linux.vimPlugins.circles-nvim |
+| vimplugin-citruszest.nvim | 0-unstable-2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.citruszest-nvim |
+| vimplugin-clang_complete | 1.8-unstable-2023-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.clang_complete |
 | vimplugin-clangd_extensions.nvim | 0-unstable-2025-01-27 | Clangd's off-spec features for neovim's LSP client | legacyPackages.x86_64-linux.vimPlugins.clangd_extensions-nvim |
-| vimplugin-claude-code.nvim | 2025-07-02 |  | legacyPackages.x86_64-linux.vimPlugins.claude-code-nvim |
-| vimplugin-claude-fzf-history.nvim | 2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.claude-fzf-history-nvim |
-| vimplugin-claude-fzf.nvim | 2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.claude-fzf-nvim |
-| vimplugin-claudecode.nvim | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.claudecode-nvim |
-| vimplugin-clever-f.vim | 2022-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.clever-f-vim |
-| vimplugin-clighter8 | 2018-07-25 |  | legacyPackages.x86_64-linux.vimPlugins.clighter8 |
-| vimplugin-clipboard-image.nvim | 2022-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.clipboard-image-nvim |
-| vimplugin-cloak.nvim | 2024-06-12 |  | legacyPackages.x86_64-linux.vimPlugins.cloak-nvim |
-| vimplugin-close-buffers.vim | 2024-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.close-buffers-vim |
-| vimplugin-cmake-tools.nvim | 2025-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmake-tools-nvim |
-| vimplugin-cmd-parser.nvim | 2022-02-23 |  | legacyPackages.x86_64-linux.vimPlugins.cmd-parser-nvim |
-| vimplugin-cmdalias.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.cmdalias-vim |
-| vimplugin-cmp-ai | 2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-ai |
+| vimplugin-claude-code.nvim | 0.4.3-unstable-2025-07-02 |  | legacyPackages.x86_64-linux.vimPlugins.claude-code-nvim |
+| vimplugin-claude-fzf-history.nvim | 0-unstable-2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.claude-fzf-history-nvim |
+| vimplugin-claude-fzf.nvim | 0-unstable-2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.claude-fzf-nvim |
+| vimplugin-claudecode.nvim | 0.3.0-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.claudecode-nvim |
+| vimplugin-clever-f.vim | 0-unstable-2022-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.clever-f-vim |
+| vimplugin-clighter8 | 0-unstable-2018-07-25 |  | legacyPackages.x86_64-linux.vimPlugins.clighter8 |
+| vimplugin-clipboard-image.nvim | 0-unstable-2022-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.clipboard-image-nvim |
+| vimplugin-cloak.nvim | 0-unstable-2024-06-12 |  | legacyPackages.x86_64-linux.vimPlugins.cloak-nvim |
+| vimplugin-close-buffers.vim | 0-unstable-2024-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.close-buffers-vim |
+| vimplugin-cmake-tools.nvim | 0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.cmake-tools-nvim |
+| vimplugin-cmd-parser.nvim | 0-unstable-2022-02-23 |  | legacyPackages.x86_64-linux.vimPlugins.cmd-parser-nvim |
+| vimplugin-cmdalias.vim | 3.0-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.cmdalias-vim |
+| vimplugin-cmp-ai | 0-unstable-2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-ai |
 | vimplugin-cmp-async-path | 0-unstable-2025-11-04 | Nvim-cmp source for filesystem paths with async processing | legacyPackages.x86_64-linux.vimPlugins.cmp-async-path |
-| vimplugin-cmp-beancount | 2025-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-beancount |
-| vimplugin-cmp-buffer | 2025-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-buffer |
-| vimplugin-cmp-calc | 2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-calc |
-| vimplugin-cmp-clippy | 2023-02-08 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-clippy |
-| vimplugin-cmp-cmdline | 2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-cmdline |
-| vimplugin-cmp-cmdline-history | 2022-05-04 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-cmdline-history |
-| vimplugin-cmp-conjure | 2024-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-conjure |
-| vimplugin-cmp-conventionalcommits | 2022-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-conventionalcommits |
-| vimplugin-cmp-copilot | 2022-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-copilot |
-| vimplugin-cmp-ctags | 2023-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-ctags |
-| vimplugin-cmp-dap | 2023-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-dap |
-| vimplugin-cmp-dictionary | 2025-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-dictionary |
-| vimplugin-cmp-digraphs | 2021-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-digraphs |
-| vimplugin-cmp-dotenv | 2024-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-dotenv |
-| vimplugin-cmp-emoji | 2024-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-emoji |
-| vimplugin-cmp-fish | 2024-06-17 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-fish |
-| vimplugin-cmp-fuzzy-buffer | 2023-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-fuzzy-buffer |
-| vimplugin-cmp-fuzzy-path | 2024-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-fuzzy-path |
-| vimplugin-cmp-git | 2025-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-git |
-| vimplugin-cmp-greek | 2022-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-greek |
-| vimplugin-cmp-latex-symbols | 2025-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-latex-symbols |
-| vimplugin-cmp-look | 2023-12-24 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-look |
-| vimplugin-cmp-neosnippet | 2022-01-06 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-neosnippet |
-| vimplugin-cmp-nixpkgs-maintainers | 2025-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nixpkgs-maintainers |
-| vimplugin-cmp-npm | 2023-06-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-npm |
-| vimplugin-cmp-nvim-lsp | 2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lsp |
-| vimplugin-cmp-nvim-lsp-document-symbol | 2024-05-29 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lsp-document-symbol |
-| vimplugin-cmp-nvim-lsp-signature-help | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lsp-signature-help |
-| vimplugin-cmp-nvim-lua | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lua |
-| vimplugin-cmp-nvim-tags | 2024-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-tags |
-| vimplugin-cmp-nvim-ultisnips | 2024-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-ultisnips |
-| vimplugin-cmp-omni | 2023-09-24 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-omni |
-| vimplugin-cmp-pandoc-references | 2025-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-pandoc-references |
-| vimplugin-cmp-pandoc.nvim | 2023-03-03 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-pandoc-nvim |
-| vimplugin-cmp-path | 2025-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-path |
-| vimplugin-cmp-rg | 2024-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-rg |
-| vimplugin-cmp-snippy | 2023-10-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-snippy |
-| vimplugin-cmp-spell | 2024-05-07 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-spell |
-| vimplugin-cmp-tabby | 2023-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-tabby |
-| vimplugin-cmp-tabnine | 2024-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-tabnine |
-| vimplugin-cmp-tmux | 2024-02-29 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-tmux |
-| vimplugin-cmp-treesitter | 2024-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-treesitter |
-| vimplugin-cmp-under-comparator | 2021-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-under-comparator |
-| vimplugin-cmp-vim-lsp | 2021-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vim-lsp |
-| vimplugin-cmp-vimtex | 2024-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vimtex |
-| vimplugin-cmp-vimwiki-tags | 2022-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vimwiki-tags |
-| vimplugin-cmp-vsnip | 2022-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vsnip |
-| vimplugin-cmp-zsh | 2022-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-zsh |
-| vimplugin-cmp_luasnip | 2024-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.cmp_luasnip |
-| vimplugin-cmp_yanky | 2025-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.cmp_yanky |
-| vimplugin-cobalt2.nvim | 2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.cobalt2-nvim |
+| vimplugin-cmp-beancount | 0-unstable-2025-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-beancount |
+| vimplugin-cmp-buffer | 0-unstable-2025-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-buffer |
+| vimplugin-cmp-calc | 0-unstable-2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-calc |
+| vimplugin-cmp-clippy | 0-unstable-2023-02-08 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-clippy |
+| vimplugin-cmp-cmdline | 0-unstable-2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-cmdline |
+| vimplugin-cmp-cmdline-history | 0-unstable-2022-05-04 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-cmdline-history |
+| vimplugin-cmp-conjure | 0-unstable-2024-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-conjure |
+| vimplugin-cmp-conventionalcommits | 0-unstable-2022-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-conventionalcommits |
+| vimplugin-cmp-copilot | 0-unstable-2022-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-copilot |
+| vimplugin-cmp-ctags | 0-unstable-2023-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-ctags |
+| vimplugin-cmp-dap | 0-unstable-2023-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-dap |
+| vimplugin-cmp-dictionary | 3.0.2-unstable-2025-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-dictionary |
+| vimplugin-cmp-digraphs | 0-unstable-2021-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-digraphs |
+| vimplugin-cmp-dotenv | 0-unstable-2024-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-dotenv |
+| vimplugin-cmp-emoji | 0-unstable-2024-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-emoji |
+| vimplugin-cmp-fish | 0-unstable-2024-06-17 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-fish |
+| vimplugin-cmp-fuzzy-buffer | 0-unstable-2023-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-fuzzy-buffer |
+| vimplugin-cmp-fuzzy-path | 0-unstable-2024-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-fuzzy-path |
+| vimplugin-cmp-git | 0-unstable-2025-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-git |
+| vimplugin-cmp-greek | 0-unstable-2022-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-greek |
+| vimplugin-cmp-latex-symbols | 0-unstable-2025-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-latex-symbols |
+| vimplugin-cmp-look | 0-unstable-2023-12-24 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-look |
+| vimplugin-cmp-neosnippet | 0-unstable-2022-01-06 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-neosnippet |
+| vimplugin-cmp-nixpkgs-maintainers | 0-unstable-2025-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nixpkgs-maintainers |
+| vimplugin-cmp-npm | 0-unstable-2023-06-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-npm |
+| vimplugin-cmp-nvim-lsp | 0-unstable-2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lsp |
+| vimplugin-cmp-nvim-lsp-document-symbol | 0-unstable-2024-05-29 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lsp-document-symbol |
+| vimplugin-cmp-nvim-lsp-signature-help | 0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lsp-signature-help |
+| vimplugin-cmp-nvim-lua | 0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-lua |
+| vimplugin-cmp-nvim-tags | 0-unstable-2024-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-tags |
+| vimplugin-cmp-nvim-ultisnips | 1.0.0-unstable-2024-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-nvim-ultisnips |
+| vimplugin-cmp-omni | 0-unstable-2023-09-24 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-omni |
+| vimplugin-cmp-pandoc-references | 0-unstable-2025-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-pandoc-references |
+| vimplugin-cmp-pandoc.nvim | 1.1.0-unstable-2023-03-03 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-pandoc-nvim |
+| vimplugin-cmp-path | 0-unstable-2025-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-path |
+| vimplugin-cmp-rg | 1.3.11-unstable-2024-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-rg |
+| vimplugin-cmp-snippy | 0-unstable-2023-10-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-snippy |
+| vimplugin-cmp-spell | 0-unstable-2024-05-07 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-spell |
+| vimplugin-cmp-tabby | 0-unstable-2023-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-tabby |
+| vimplugin-cmp-tabnine | 0-unstable-2024-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-tabnine |
+| vimplugin-cmp-tmux | 0-unstable-2024-02-29 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-tmux |
+| vimplugin-cmp-treesitter | 0-unstable-2024-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-treesitter |
+| vimplugin-cmp-under-comparator | 1.0.1-unstable-2021-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-under-comparator |
+| vimplugin-cmp-vim-lsp | 0-unstable-2021-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vim-lsp |
+| vimplugin-cmp-vimtex | 0-unstable-2024-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vimtex |
+| vimplugin-cmp-vimwiki-tags | 0-unstable-2022-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vimwiki-tags |
+| vimplugin-cmp-vsnip | 0-unstable-2022-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-vsnip |
+| vimplugin-cmp-zsh | 0-unstable-2022-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.cmp-zsh |
+| vimplugin-cmp_luasnip | 0-unstable-2024-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.cmp_luasnip |
+| vimplugin-cmp_yanky | 0-unstable-2025-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.cmp_yanky |
+| vimplugin-cobalt2.nvim | 0-unstable-2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.cobalt2-nvim |
 | vimplugin-coc-basedpyright | 1.19.0-unstable-2025-04-30 | Basedpyright extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-basedpyright |
 | vimplugin-coc-clangd | 0-unstable-2025-11-18 | clangd extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-clangd |
-| vimplugin-coc-clap | 2021-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.coc-clap |
+| vimplugin-coc-clap | 0-unstable-2021-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.coc-clap |
 | vimplugin-coc-cmake | 0-unstable-2024-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.coc-cmake |
 | vimplugin-coc-css | 2.1.0 | Css language server extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-css |
-| vimplugin-coc-denite | 2021-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.coc-denite |
+| vimplugin-coc-denite | 0-unstable-2021-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.coc-denite |
 | vimplugin-coc-diagnostic | 0-unstable-2025-01-15 | Diagnostic-languageserver extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-diagnostic |
 | vimplugin-coc-docker | 1.0.2 | Docker language server extension using dockerfile-language-server-nodejs for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-docker |
 | vimplugin-coc-emmet | 1.1.6 | Emmet extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-emmet |
 | vimplugin-coc-eslint | 3.0.15 | Eslint extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-eslint |
 | vimplugin-coc-explorer | 0.27.3 | Explorer for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-explorer |
 | vimplugin-coc-flutter | 1.9.3-unstable-2023-03-22 | Flutter support for (Neo)vim | legacyPackages.x86_64-linux.vimPlugins.coc-flutter |
-| vimplugin-coc-fzf | 2024-04-24 |  | legacyPackages.x86_64-linux.vimPlugins.coc-fzf |
+| vimplugin-coc-fzf | 0-unstable-2024-04-24 |  | legacyPackages.x86_64-linux.vimPlugins.coc-fzf |
 | vimplugin-coc-git | 2.7.7 | Git integration of coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-git |
 | vimplugin-coc-go | 1.3.35 | gopls extension for coc | legacyPackages.x86_64-linux.vimPlugins.coc-go |
 | vimplugin-coc-haxe | 0.21.1 | Haxe language server extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-haxe |
@@ -97994,15 +98021,15 @@
 | vimplugin-coc-jest | 1.1.5-unstable-2025-04-19 | Jest extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-jest |
 | vimplugin-coc-json | 1.9.3 | JSON language extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-json |
 | vimplugin-coc-lists | 1.5.4 | Common lists for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-lists |
-| vimplugin-coc-lua | 2023-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.coc-lua |
+| vimplugin-coc-lua | 2.0.6-unstable-2023-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.coc-lua |
 | vimplugin-coc-markdownlint | 0-unstable-2025-12-01 | Markdownlint extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-markdownlint |
-| vimplugin-coc-neco | 2020-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.coc-neco |
+| vimplugin-coc-neco | 0-unstable-2020-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.coc-neco |
 | vimplugin-coc-nginx | 0.5.0 | nginx-language-server extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-nginx |
 | vimplugin-coc-pairs | 1.5.2 | Basic auto pairs extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-pairs |
 | vimplugin-coc-prettier | 11.0.1 | Prettier extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-prettier |
 | vimplugin-coc-pyright | 0-unstable-2025-12-01 | Pyright extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-pyright |
 | vimplugin-coc-r-lsp | 1.2.1 | R LSP client for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-r-lsp |
-| vimplugin-coc-rust-analyzer | 0-unstable-2025-12-02 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-rust-analyzer |
+| vimplugin-coc-rust-analyzer | 0-unstable-2025-12-15 | Rust-analyzer extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-rust-analyzer |
 | vimplugin-coc-sh | 1.2.4 | bash-language-server for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-sh |
 | vimplugin-coc-smartf | 1.2.1 | Make jump to character easier | legacyPackages.x86_64-linux.vimPlugins.coc-smartf |
 | vimplugin-coc-snippets | 3.4.7 | Snippets solution for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-snippets |
@@ -98011,9 +98038,9 @@
 | vimplugin-coc-sqlfluff | 0.11.4 | SQLFluff extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-sqlfluff |
 | vimplugin-coc-stylelint | 1.2.0 | Stylelint extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-stylelint |
 | vimplugin-coc-sumneko-lua | 0.0.42 | Lua extension using sumneko lua-language-server for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-sumneko-lua |
-| vimplugin-coc-svelte | 2023-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.coc-svelte |
+| vimplugin-coc-svelte | 0.0.1-unstable-2023-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.coc-svelte |
 | vimplugin-coc-tabnine | 1.3.7 | Tabnine extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-tabnine |
-| vimplugin-coc-tailwindcss | 2020-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.coc-tailwindcss |
+| vimplugin-coc-tailwindcss | 0-unstable-2020-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.coc-tailwindcss |
 | vimplugin-coc-texlab | 0-unstable-2025-07-22 | TexLab extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-texlab |
 | vimplugin-coc-toml | 1.2.5 | Toml extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-toml |
 | vimplugin-coc-tsserver | 2.2.3 | javascript and typescript language features extension of coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-tsserver |
@@ -98022,415 +98049,415 @@
 | vimplugin-coc-wxml | 1.0.9 | Wxml extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-wxml |
 | vimplugin-coc-yaml | 1.9.1 | Yaml language server extension for coc.nvim | legacyPackages.x86_64-linux.vimPlugins.coc-yaml |
 | vimplugin-coc-yank | 1.2.5 | Yank highlight and persist yank history support for vim | legacyPackages.x86_64-linux.vimPlugins.coc-yank |
-| vimplugin-coc.nvim | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.coc-nvim |
-| vimplugin-coconut.vim | 2017-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.coconut-vim |
-| vimplugin-codecompanion-history.nvim | 2025-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-history-nvim |
-| vimplugin-codecompanion-lualine.nvim | 2025-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-lualine-nvim |
-| vimplugin-codecompanion-spinner.nvim | 2025-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-spinner-nvim |
-| vimplugin-codecompanion.nvim | 2025-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-nvim |
+| vimplugin-coc.nvim | 0.0.82-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.coc-nvim |
+| vimplugin-coconut.vim | 0-unstable-2017-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.coconut-vim |
+| vimplugin-codecompanion-history.nvim | 0-unstable-2025-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-history-nvim |
+| vimplugin-codecompanion-lualine.nvim | 0.1.7-unstable-2025-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-lualine-nvim |
+| vimplugin-codecompanion-spinner.nvim | 0.2.3-unstable-2025-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-spinner-nvim |
+| vimplugin-codecompanion.nvim | 18.1.1-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.codecompanion-nvim |
 | vimplugin-codesnap.nvim | 2.0.0 |  | legacyPackages.x86_64-linux.vimPlugins.codesnap-nvim |
-| vimplugin-codewindow.nvim | 2025-05-22 |  | legacyPackages.x86_64-linux.vimPlugins.codewindow-nvim |
-| vimplugin-codi.vim | 2023-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.codi-vim |
-| vimplugin-colibri.vim | 2019-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.colibri-vim |
-| vimplugin-colorbuddy.nvim | 2024-05-08 |  | legacyPackages.x86_64-linux.vimPlugins.colorbuddy-nvim |
-| vimplugin-colorful-menu.nvim | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.colorful-menu-nvim |
-| vimplugin-colorful-winsep.nvim | 2025-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.colorful-winsep-nvim |
-| vimplugin-colorizer | 2022-01-03 |  | legacyPackages.x86_64-linux.vimPlugins.colorizer |
-| vimplugin-com.cloudedmountain.ide.neovim | 2023-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.com-cloudedmountain-ide-neovim |
-| vimplugin-comfy-line-numbers.nvim | 2025-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.comfy-line-numbers-nvim |
-| vimplugin-command-t | 2025-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.command-t |
-| vimplugin-command-t | 2025-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.command_T |
-| vimplugin-commasemi.nvim | 2025-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.commasemi-nvim |
-| vimplugin-comment-box.nvim | 2024-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.comment-box-nvim |
-| vimplugin-comment.nvim | 2024-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.comment-nvim |
-| vimplugin-committia.vim | 2024-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.committia |
-| vimplugin-committia.vim | 2024-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.committia-vim |
-| vimplugin-competitest.nvim | 2025-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.competitest-nvim |
-| vimplugin-compiler-explorer.nvim | 2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.compiler-explorer-nvim |
-| vimplugin-compiler.nvim | 2025-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.compiler-nvim |
-| vimplugin-completion-buffers | 2021-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.completion-buffers |
-| vimplugin-completion-nvim | 2021-10-12 |  | legacyPackages.x86_64-linux.vimPlugins.completion-nvim |
-| vimplugin-completion-tabnine | 2021-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.completion-tabnine |
-| vimplugin-completion-treesitter | 2020-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.completion-treesitter |
-| vimplugin-concealedyank.vim | 2013-03-24 |  | legacyPackages.x86_64-linux.vimPlugins.concealedyank |
-| vimplugin-concealedyank.vim | 2013-03-24 |  | legacyPackages.x86_64-linux.vimPlugins.concealedyank-vim |
-| vimplugin-conflict-marker.vim | 2024-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.conflict-marker-vim |
-| vimplugin-conform.nvim | 2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.conform-nvim |
-| vimplugin-conjure | 2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.conjure |
-| vimplugin-context.vim | 2024-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.context-vim |
-| vimplugin-context_filetype.vim | 2025-03-11 |  | legacyPackages.x86_64-linux.vimPlugins.context-filetype |
-| vimplugin-context_filetype.vim | 2025-03-11 |  | legacyPackages.x86_64-linux.vimPlugins.context_filetype-vim |
-| vimplugin-contextfiles.nvim | 2025-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.contextfiles-nvim |
-| vimplugin-copilot-cmp | 2024-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-cmp |
-| vimplugin-copilot-lsp | 2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-lsp |
-| vimplugin-copilot-lualine | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-lualine |
-| vimplugin-copilot.lua | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-lua |
-| vimplugin-copilot.vim | 2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-vim |
-| vimplugin-coq-lsp.nvim | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.coq-lsp-nvim |
-| vimplugin-coq.artifacts | 2025-01-20 |  | legacyPackages.x86_64-linux.vimPlugins.coq-artifacts |
-| vimplugin-coq.thirdparty | 2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.coq-thirdparty |
-| vimplugin-coq.vim | 2013-01-16 |  | legacyPackages.x86_64-linux.vimPlugins.coq-vim |
-| vimplugin-coq_nvim | 2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.coq_nvim |
+| vimplugin-codewindow.nvim | 0-unstable-2025-05-22 |  | legacyPackages.x86_64-linux.vimPlugins.codewindow-nvim |
+| vimplugin-codi.vim | 0-unstable-2023-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.codi-vim |
+| vimplugin-colibri.vim | 0-unstable-2019-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.colibri-vim |
+| vimplugin-colorbuddy.nvim | 1.0.0-unstable-2024-05-08 |  | legacyPackages.x86_64-linux.vimPlugins.colorbuddy-nvim |
+| vimplugin-colorful-menu.nvim | 0-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.colorful-menu-nvim |
+| vimplugin-colorful-winsep.nvim | 0-unstable-2025-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.colorful-winsep-nvim |
+| vimplugin-colorizer | 1.4.1-unstable-2022-01-03 |  | legacyPackages.x86_64-linux.vimPlugins.colorizer |
+| vimplugin-com.cloudedmountain.ide.neovim | 0.0.1-unstable-2023-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.com-cloudedmountain-ide-neovim |
+| vimplugin-comfy-line-numbers.nvim | 0-unstable-2025-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.comfy-line-numbers-nvim |
+| vimplugin-command-t | 8.0-unstable-2025-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.command-t |
+| vimplugin-command-t | 8.0-unstable-2025-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.command_T |
+| vimplugin-commasemi.nvim | 0-unstable-2025-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.commasemi-nvim |
+| vimplugin-comment-box.nvim | 1.0.2-unstable-2024-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.comment-box-nvim |
+| vimplugin-comment.nvim | 0.8.0-unstable-2024-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.comment-nvim |
+| vimplugin-committia.vim | 0-unstable-2024-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.committia |
+| vimplugin-committia.vim | 0-unstable-2024-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.committia-vim |
+| vimplugin-competitest.nvim | 0-unstable-2025-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.competitest-nvim |
+| vimplugin-compiler-explorer.nvim | 0-unstable-2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.compiler-explorer-nvim |
+| vimplugin-compiler.nvim | 3.3.9-unstable-2025-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.compiler-nvim |
+| vimplugin-completion-buffers | 0-unstable-2021-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.completion-buffers |
+| vimplugin-completion-nvim | 0-unstable-2021-10-12 |  | legacyPackages.x86_64-linux.vimPlugins.completion-nvim |
+| vimplugin-completion-tabnine | 0-unstable-2021-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.completion-tabnine |
+| vimplugin-completion-treesitter | 0.1-unstable-2020-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.completion-treesitter |
+| vimplugin-concealedyank.vim | 0-unstable-2013-03-24 |  | legacyPackages.x86_64-linux.vimPlugins.concealedyank |
+| vimplugin-concealedyank.vim | 0-unstable-2013-03-24 |  | legacyPackages.x86_64-linux.vimPlugins.concealedyank-vim |
+| vimplugin-conflict-marker.vim | 0-unstable-2024-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.conflict-marker-vim |
+| vimplugin-conform.nvim | 9.1.0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.conform-nvim |
+| vimplugin-conjure | 4.57.0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.conjure |
+| vimplugin-context.vim | 0-unstable-2024-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.context-vim |
+| vimplugin-context_filetype.vim | 1.0-unstable-2025-03-11 |  | legacyPackages.x86_64-linux.vimPlugins.context-filetype |
+| vimplugin-context_filetype.vim | 1.0-unstable-2025-03-11 |  | legacyPackages.x86_64-linux.vimPlugins.context_filetype-vim |
+| vimplugin-contextfiles.nvim | 0-unstable-2025-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.contextfiles-nvim |
+| vimplugin-copilot-cmp | 0-unstable-2024-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-cmp |
+| vimplugin-copilot-lsp | 0-unstable-2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-lsp |
+| vimplugin-copilot-lualine | 0-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-lualine |
+| vimplugin-copilot.lua | 0-unstable-2025-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-lua |
+| vimplugin-copilot.vim | 1.57.0-unstable-2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.copilot-vim |
+| vimplugin-coq-lsp.nvim | 0-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.coq-lsp-nvim |
+| vimplugin-coq.artifacts | 0-unstable-2025-01-20 |  | legacyPackages.x86_64-linux.vimPlugins.coq-artifacts |
+| vimplugin-coq.thirdparty | 0-unstable-2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.coq-thirdparty |
+| vimplugin-coq.vim | 0-unstable-2013-01-16 |  | legacyPackages.x86_64-linux.vimPlugins.coq-vim |
+| vimplugin-coq_nvim | 0-unstable-2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.coq_nvim |
 | vimplugin-cord.nvim | 2.2.7 |  | legacyPackages.x86_64-linux.vimPlugins.cord-nvim |
-| vimplugin-cornelis | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.cornelis |
-| vimplugin-cosco.vim | 2018-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.Cosco |
-| vimplugin-cosco.vim | 2018-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.cosco-vim |
-| vimplugin-cpsm | 2024-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.cpsm |
-| vimplugin-crates.nvim | 2025-08-23 |  | legacyPackages.x86_64-linux.vimPlugins.crates-nvim |
-| vimplugin-csapprox | 2013-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.CSApprox |
-| vimplugin-csapprox | 2013-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.csapprox |
-| vimplugin-csharpls-extended-lsp.nvim | 2025-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.csharpls-extended-lsp-nvim |
-| vimplugin-cspell.nvim | 2025-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.cspell-nvim |
-| vimplugin-csv.vim | 2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.csv |
-| vimplugin-csv.vim | 2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.csv-vim |
-| vimplugin-csvview.nvim | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.csvview-nvim |
-| vimplugin-ctags-lsp.nvim | 2025-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.ctags-lsp-nvim |
-| vimplugin-ctrlp-cmatcher | 2015-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-cmatcher |
-| vimplugin-ctrlp-py-matcher | 2021-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-py-matcher |
-| vimplugin-ctrlp-z | 2015-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-z |
-| vimplugin-ctrlp.vim | 2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp |
-| vimplugin-ctrlp.vim | 2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-vim |
-| vimplugin-cutlass.nvim | 2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.cutlass-nvim |
-| vimplugin-cyberdream.nvim | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.cyberdream-nvim |
-| vimplugin-cybu.nvim | 2025-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.cybu-nvim |
-| vimplugin-dailies.nvim | 2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.dailies-nvim |
-| vimplugin-darcubox-nvim | 2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.darcubox-nvim |
-| vimplugin-darkearth-nvim | 2025-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.darkearth-nvim |
-| vimplugin-dart-vim-plugin | 2024-07-02 |  | legacyPackages.x86_64-linux.vimPlugins.dart-vim-plugin |
-| vimplugin-dart.nvim | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.dart-nvim |
-| vimplugin-dash.vim | 2017-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.dash-vim |
-| vimplugin-dashboard-nvim | 2025-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.dashboard-nvim |
-| vimplugin-ddc-filter-matcher_head | 2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-filter-matcher_head |
-| vimplugin-ddc-filter-sorter_rank | 2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-filter-sorter_rank |
-| vimplugin-ddc-fuzzy | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-fuzzy |
-| vimplugin-ddc-source-around | 2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-source-around |
-| vimplugin-ddc-source-file | 2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-source-file |
-| vimplugin-ddc-source-lsp | 2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-source-lsp |
-| vimplugin-ddc-ui-native | 2025-08-30 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-ui-native |
-| vimplugin-ddc-ui-pum | 2025-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-ui-pum |
-| vimplugin-ddc.vim | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-vim |
-| vimplugin-debugmaster.nvim | 2025-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.debugmaster-nvim |
-| vimplugin-debugprint.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.debugprint-nvim |
-| vimplugin-deepwhite.nvim | 2024-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.deepwhite-nvim |
-| vimplugin-defx-git | 2021-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.defx-git |
-| vimplugin-defx-icons | 2021-08-21 |  | legacyPackages.x86_64-linux.vimPlugins.defx-icons |
-| vimplugin-defx.nvim | 2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.defx-nvim |
-| vimplugin-delimitMate | 2024-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.delimitMate |
-| vimplugin-demicolon.nvim | 2025-11-24 | Overloaded ; and , keys in Neovim | legacyPackages.x86_64-linux.vimPlugins.demicolon-nvim |
-| vimplugin-denite-extra | 2019-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.denite-extra |
-| vimplugin-denite-git | 2021-01-25 |  | legacyPackages.x86_64-linux.vimPlugins.denite-git |
-| vimplugin-denite.nvim | 2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.denite |
-| vimplugin-denite.nvim | 2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.denite-nvim |
-| vimplugin-denops.vim | 2025-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.denops-vim |
-| vimplugin-deol.nvim | 2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.deol-nvim |
-| vimplugin-deoplete-clang | 2019-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-clang |
-| vimplugin-deoplete-dictionary | 2019-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-dictionary |
-| vimplugin-deoplete-fish | 2020-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-fish |
-| vimplugin-deoplete-github | 2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-github |
-| vimplugin-deoplete-go | 2021-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-go |
-| vimplugin-deoplete-greek | 2019-12-23 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-greek |
-| vimplugin-deoplete-jedi | 2022-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-jedi |
-| vimplugin-deoplete-julia | 2018-06-11 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-julia |
-| vimplugin-deoplete-khard | 2020-09-18 | Address-completion for khard via deoplete | legacyPackages.x86_64-linux.vimPlugins.deoplete-khard |
-| vimplugin-deoplete-lsp | 2025-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-lsp |
-| vimplugin-deoplete-notmuch | 2018-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-notmuch |
-| vimplugin-deoplete-phpactor | 2020-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-phpactor |
-| vimplugin-deoplete-rust | 2017-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-rust |
-| vimplugin-deoplete-tabnine | 2023-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-tabnine |
-| vimplugin-deoplete-ternjs | 2019-12-19 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-ternjs |
-| vimplugin-deoplete-vim-lsp | 2021-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-vim-lsp |
-| vimplugin-deoplete-zsh | 2019-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-zsh |
-| vimplugin-deoplete.nvim | 2024-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-nvim |
-| vimplugin-devdocs.nvim | 2025-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.devdocs-nvim |
-| vimplugin-devdocs.vim | 2018-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.devdocs-vim |
-| vimplugin-dhall-vim | 2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.dhall-vim |
-| vimplugin-diagflow.nvim | 2025-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.diagflow-nvim |
-| vimplugin-diaglist.nvim | 2025-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.diaglist-nvim |
-| vimplugin-diagnostic-nvim | 2020-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.diagnostic-nvim |
-| vimplugin-diagram.nvim | 2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.diagram-nvim |
-| vimplugin-dial.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.dial-nvim |
-| vimplugin-diffview.nvim | 2024-06-13 |  | legacyPackages.x86_64-linux.vimPlugins.diffview-nvim |
-| vimplugin-dirbuf.nvim | 2022-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.dirbuf-nvim |
-| vimplugin-direnv.vim | 2023-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.direnv-vim |
-| vimplugin-distant.nvim | 2024-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.distant-nvim |
-| vimplugin-doki-theme-vim | 2023-01-07 |  | legacyPackages.x86_64-linux.vimPlugins.doki-theme-vim |
-| vimplugin-doom-one.nvim | 2025-06-28 |  | legacyPackages.x86_64-linux.vimPlugins.doom-one-nvim |
-| vimplugin-dotnet.nvim | 2024-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.dotnet-nvim |
-| vimplugin-dracula-vim | 2025-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.dracula-vim |
-| vimplugin-dracula.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.dracula-nvim |
-| vimplugin-dressing.nvim | 2025-02-12 |  | legacyPackages.x86_64-linux.vimPlugins.dressing-nvim |
-| vimplugin-dropbar.nvim | 2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.dropbar-nvim |
-| vimplugin-earthly.vim | 2024-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.earthly-vim |
-| vimplugin-easy-dotnet.nvim | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.easy-dotnet-nvim |
-| vimplugin-echodoc.vim | 2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.echodoc |
-| vimplugin-echodoc.vim | 2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.echodoc-vim |
-| vimplugin-ecolog.nvim | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.ecolog-nvim |
-| vimplugin-edge | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.edge |
-| vimplugin-edgedb-vim | 2023-05-26 |  | legacyPackages.x86_64-linux.vimPlugins.edgedb-vim |
-| vimplugin-edgy.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.edgy-nvim |
-| vimplugin-editorconfig-vim | 2025-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.editorconfig-vim |
-| vimplugin-editorconfig.nvim | 2025-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.editorconfig-nvim |
-| vimplugin-efmls-configs-nvim | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.efmls-configs-nvim |
-| vimplugin-elixir-tools.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.elixir-tools-nvim |
-| vimplugin-elm-vim | 2020-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.elm-vim |
-| vimplugin-elvish.vim | 2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.elvish-vim |
-| vimplugin-embark-vim | 2025-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.embark-vim |
-| vimplugin-emmet-vim | 2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.emmet-vim |
-| vimplugin-emodeline | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.emodeline |
-| vimplugin-endec.nvim | 2025-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.endec-nvim |
-| vimplugin-errormarker.vim | 2015-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.errormarker-vim |
-| vimplugin-eva01.vim | 2025-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.eva01-vim |
-| vimplugin-everforest | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.everforest |
-| vimplugin-executor.nvim | 2025-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.executor-nvim |
-| vimplugin-eyeliner.nvim | 2024-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.eyeliner-nvim |
-| vimplugin-falcon | 2025-04-28 |  | legacyPackages.x86_64-linux.vimPlugins.falcon |
-| vimplugin-famous-quotes.nvim | 2025-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.famous-quotes-nvim |
-| vimplugin-far.vim | 2024-05-14 |  | legacyPackages.x86_64-linux.vimPlugins.far-vim |
-| vimplugin-fastaction.nvim | 2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.fastaction-nvim |
-| vimplugin-faster.nvim | 2025-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.faster-nvim |
-| vimplugin-fastfold | 2025-06-04 |  | legacyPackages.x86_64-linux.vimPlugins.fastfold |
-| vimplugin-faust-nvim | 2022-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.faust-nvim |
-| vimplugin-fcitx.vim | 2024-04-21 | Keep and restore fcitx state when leaving/re-entering insert mode or search mode | legacyPackages.x86_64-linux.vimPlugins.fcitx-vim |
-| vimplugin-fennel.vim | 2025-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.fennel-vim |
-| vimplugin-ferret | 2025-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.ferret |
+| vimplugin-cornelis | 2.8.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.cornelis |
+| vimplugin-cosco.vim | 0.10.0-unstable-2018-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.Cosco |
+| vimplugin-cosco.vim | 0.10.0-unstable-2018-08-07 |  | legacyPackages.x86_64-linux.vimPlugins.cosco-vim |
+| vimplugin-cpsm | 0-unstable-2024-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.cpsm |
+| vimplugin-crates.nvim | 0.7.1-unstable-2025-08-23 |  | legacyPackages.x86_64-linux.vimPlugins.crates-nvim |
+| vimplugin-csapprox | 4.00-unstable-2013-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.CSApprox |
+| vimplugin-csapprox | 4.00-unstable-2013-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.csapprox |
+| vimplugin-csharpls-extended-lsp.nvim | 0.3.0-unstable-2025-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.csharpls-extended-lsp-nvim |
+| vimplugin-cspell.nvim | 0-unstable-2025-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.cspell-nvim |
+| vimplugin-csv.vim | 0-unstable-2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.csv |
+| vimplugin-csv.vim | 0-unstable-2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.csv-vim |
+| vimplugin-csvview.nvim | 1.3.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.csvview-nvim |
+| vimplugin-ctags-lsp.nvim | 0-unstable-2025-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.ctags-lsp-nvim |
+| vimplugin-ctrlp-cmatcher | 0-unstable-2015-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-cmatcher |
+| vimplugin-ctrlp-py-matcher | 1.1.0-unstable-2021-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-py-matcher |
+| vimplugin-ctrlp-z | 0-unstable-2015-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-z |
+| vimplugin-ctrlp.vim | 1.81-unstable-2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp |
+| vimplugin-ctrlp.vim | 1.81-unstable-2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ctrlp-vim |
+| vimplugin-cutlass.nvim | 1.0.1-unstable-2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.cutlass-nvim |
+| vimplugin-cyberdream.nvim | 5.3.0-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.cyberdream-nvim |
+| vimplugin-cybu.nvim | 1.0-unstable-2025-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.cybu-nvim |
+| vimplugin-dailies.nvim | 0-unstable-2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.dailies-nvim |
+| vimplugin-darcubox-nvim | 0-unstable-2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.darcubox-nvim |
+| vimplugin-darkearth-nvim | 2.1.0-unstable-2025-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.darkearth-nvim |
+| vimplugin-dart-vim-plugin | 0.1.0-unstable-2024-07-02 |  | legacyPackages.x86_64-linux.vimPlugins.dart-vim-plugin |
+| vimplugin-dart.nvim | 0.1.4-unstable-2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.dart-nvim |
+| vimplugin-dash.vim | 1.1.1-unstable-2017-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.dash-vim |
+| vimplugin-dashboard-nvim | 0-unstable-2025-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.dashboard-nvim |
+| vimplugin-ddc-filter-matcher_head | 0-unstable-2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-filter-matcher_head |
+| vimplugin-ddc-filter-sorter_rank | 0-unstable-2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-filter-sorter_rank |
+| vimplugin-ddc-fuzzy | 0-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-fuzzy |
+| vimplugin-ddc-source-around | 0-unstable-2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-source-around |
+| vimplugin-ddc-source-file | 0-unstable-2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-source-file |
+| vimplugin-ddc-source-lsp | 1.2.0-unstable-2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-source-lsp |
+| vimplugin-ddc-ui-native | 0-unstable-2025-08-30 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-ui-native |
+| vimplugin-ddc-ui-pum | 0-unstable-2025-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-ui-pum |
+| vimplugin-ddc.vim | 10.1.0-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.ddc-vim |
+| vimplugin-debugmaster.nvim | 0-unstable-2025-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.debugmaster-nvim |
+| vimplugin-debugprint.nvim | 7.0.0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.debugprint-nvim |
+| vimplugin-deepwhite.nvim | 0-unstable-2024-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.deepwhite-nvim |
+| vimplugin-defx-git | 0-unstable-2021-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.defx-git |
+| vimplugin-defx-icons | 0-unstable-2021-08-21 |  | legacyPackages.x86_64-linux.vimPlugins.defx-icons |
+| vimplugin-defx.nvim | 1.5-unstable-2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.defx-nvim |
+| vimplugin-delimitMate | 2.7-unstable-2024-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.delimitMate |
+| vimplugin-demicolon.nvim | 2.0-unstable-2025-11-24 | Overloaded ; and , keys in Neovim | legacyPackages.x86_64-linux.vimPlugins.demicolon-nvim |
+| vimplugin-denite-extra | 0-unstable-2019-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.denite-extra |
+| vimplugin-denite-git | 0-unstable-2021-01-25 |  | legacyPackages.x86_64-linux.vimPlugins.denite-git |
+| vimplugin-denite.nvim | 3.3-unstable-2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.denite |
+| vimplugin-denite.nvim | 3.3-unstable-2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.denite-nvim |
+| vimplugin-denops.vim | 8.0.1-unstable-2025-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.denops-vim |
+| vimplugin-deol.nvim | 2.0-unstable-2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.deol-nvim |
+| vimplugin-deoplete-clang | 0-unstable-2019-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-clang |
+| vimplugin-deoplete-dictionary | 0-unstable-2019-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-dictionary |
+| vimplugin-deoplete-fish | 0-unstable-2020-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-fish |
+| vimplugin-deoplete-github | 0-unstable-2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-github |
+| vimplugin-deoplete-go | 0-unstable-2021-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-go |
+| vimplugin-deoplete-greek | 0-unstable-2019-12-23 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-greek |
+| vimplugin-deoplete-jedi | 0-unstable-2022-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-jedi |
+| vimplugin-deoplete-julia | 0.1.1-unstable-2018-06-11 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-julia |
+| vimplugin-deoplete-khard | 0-unstable-2020-09-18 | Address-completion for khard via deoplete | legacyPackages.x86_64-linux.vimPlugins.deoplete-khard |
+| vimplugin-deoplete-lsp | 0-unstable-2025-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-lsp |
+| vimplugin-deoplete-notmuch | 0-unstable-2018-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-notmuch |
+| vimplugin-deoplete-phpactor | 0-unstable-2020-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-phpactor |
+| vimplugin-deoplete-rust | 0-unstable-2017-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-rust |
+| vimplugin-deoplete-tabnine | 0-unstable-2023-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-tabnine |
+| vimplugin-deoplete-ternjs | 0-unstable-2019-12-19 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-ternjs |
+| vimplugin-deoplete-vim-lsp | 0-unstable-2021-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-vim-lsp |
+| vimplugin-deoplete-zsh | 0-unstable-2019-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-zsh |
+| vimplugin-deoplete.nvim | 6.1-unstable-2024-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.deoplete-nvim |
+| vimplugin-devdocs.nvim | 0.2-unstable-2025-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.devdocs-nvim |
+| vimplugin-devdocs.vim | 0-unstable-2018-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.devdocs-vim |
+| vimplugin-dhall-vim | 0-unstable-2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.dhall-vim |
+| vimplugin-diagflow.nvim | 0-unstable-2025-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.diagflow-nvim |
+| vimplugin-diaglist.nvim | 0-unstable-2025-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.diaglist-nvim |
+| vimplugin-diagnostic-nvim | 0-unstable-2020-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.diagnostic-nvim |
+| vimplugin-diagram.nvim | 0-unstable-2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.diagram-nvim |
+| vimplugin-dial.nvim | 0.5.1-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.dial-nvim |
+| vimplugin-diffview.nvim | 0-unstable-2024-06-13 |  | legacyPackages.x86_64-linux.vimPlugins.diffview-nvim |
+| vimplugin-dirbuf.nvim | 0-unstable-2022-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.dirbuf-nvim |
+| vimplugin-direnv.vim | 0-unstable-2023-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.direnv-vim |
+| vimplugin-distant.nvim | 0.1.2-unstable-2024-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.distant-nvim |
+| vimplugin-doki-theme-vim | 88.1-1.0.0-unstable-2023-01-07 |  | legacyPackages.x86_64-linux.vimPlugins.doki-theme-vim |
+| vimplugin-doom-one.nvim | 0-unstable-2025-06-28 |  | legacyPackages.x86_64-linux.vimPlugins.doom-one-nvim |
+| vimplugin-dotnet.nvim | 0.1.0-unstable-2024-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.dotnet-nvim |
+| vimplugin-dracula-vim | 2.0.0-unstable-2025-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.dracula-vim |
+| vimplugin-dracula.nvim | 0-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.dracula-nvim |
+| vimplugin-dressing.nvim | 3.1.1-unstable-2025-02-12 |  | legacyPackages.x86_64-linux.vimPlugins.dressing-nvim |
+| vimplugin-dropbar.nvim | 14.2.1-unstable-2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.dropbar-nvim |
+| vimplugin-earthly.vim | 0-unstable-2024-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.earthly-vim |
+| vimplugin-easy-dotnet.nvim | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.easy-dotnet-nvim |
+| vimplugin-echodoc.vim | 0-unstable-2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.echodoc |
+| vimplugin-echodoc.vim | 0-unstable-2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.echodoc-vim |
+| vimplugin-ecolog.nvim | 0.9.0-unstable-2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.ecolog-nvim |
+| vimplugin-edge | 0.2.3-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.edge |
+| vimplugin-edgedb-vim | 0-unstable-2023-05-26 |  | legacyPackages.x86_64-linux.vimPlugins.edgedb-vim |
+| vimplugin-edgy.nvim | 1.10.2-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.edgy-nvim |
+| vimplugin-editorconfig-vim | 1.2.1-unstable-2025-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.editorconfig-vim |
+| vimplugin-editorconfig.nvim | 1.4.0-unstable-2025-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.editorconfig-nvim |
+| vimplugin-efmls-configs-nvim | 1.10.1-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.efmls-configs-nvim |
+| vimplugin-elixir-tools.nvim | 0.18.0-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.elixir-tools-nvim |
+| vimplugin-elm-vim | 0-unstable-2020-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.elm-vim |
+| vimplugin-elvish.vim | 0-unstable-2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.elvish-vim |
+| vimplugin-embark-vim | 0-unstable-2025-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.embark-vim |
+| vimplugin-emmet-vim | 0-unstable-2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.emmet-vim |
+| vimplugin-emodeline | 0.1-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.emodeline |
+| vimplugin-endec.nvim | 0-unstable-2025-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.endec-nvim |
+| vimplugin-errormarker.vim | 0.2-unstable-2015-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.errormarker-vim |
+| vimplugin-eva01.vim | 1.1.1-unstable-2025-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.eva01-vim |
+| vimplugin-everforest | 0.3.0-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.everforest |
+| vimplugin-executor.nvim | 0-unstable-2025-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.executor-nvim |
+| vimplugin-eyeliner.nvim | 0.2.0-unstable-2024-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.eyeliner-nvim |
+| vimplugin-falcon | 2.1.3-unstable-2025-04-28 |  | legacyPackages.x86_64-linux.vimPlugins.falcon |
+| vimplugin-famous-quotes.nvim | 0.1-unstable-2025-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.famous-quotes-nvim |
+| vimplugin-far.vim | 0-unstable-2024-05-14 |  | legacyPackages.x86_64-linux.vimPlugins.far-vim |
+| vimplugin-fastaction.nvim | 2.0.1-unstable-2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.fastaction-nvim |
+| vimplugin-faster.nvim | 0.1.0-unstable-2025-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.faster-nvim |
+| vimplugin-fastfold | 5.3-unstable-2025-06-04 |  | legacyPackages.x86_64-linux.vimPlugins.fastfold |
+| vimplugin-faust-nvim | 0-unstable-2022-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.faust-nvim |
+| vimplugin-fcitx.vim | 1.2.6-unstable-2024-04-21 | Keep and restore fcitx state when leaving/re-entering insert mode or search mode | legacyPackages.x86_64-linux.vimPlugins.fcitx-vim |
+| vimplugin-fennel.vim | 0-unstable-2025-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.fennel-vim |
+| vimplugin-ferret | 5.1-unstable-2025-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.ferret |
 | vimplugin-fff.nvim-e3f788f-unstable | 2025-12-13 | Fast Fuzzy File Finder for Neovim | legacyPackages.x86_64-linux.vimPlugins.fff-nvim |
-| vimplugin-file-line | 2016-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.file-line |
-| vimplugin-fileline.nvim | 2024-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.fileline-nvim |
-| vimplugin-fine-cmdline.nvim | 2025-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.fine-cmdline-nvim |
-| vimplugin-firenvim | 2025-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.firenvim |
-| vimplugin-flake8-vim | 2020-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.flake8-vim |
-| vimplugin-flash.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.flash-nvim |
-| vimplugin-flatten.nvim | 2025-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.flatten-nvim |
-| vimplugin-fleet-theme-nvim | 2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.fleet-theme-nvim |
-| vimplugin-flit.nvim | 2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.flit-nvim |
-| vimplugin-float-preview.nvim | 2023-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.float-preview-nvim |
-| vimplugin-floaterm | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.floaterm |
-| vimplugin-floating-input.nvim | 2025-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.floating-input-nvim |
-| vimplugin-floobits-neovim | 2021-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.floobits-neovim |
-| vimplugin-flutter-tools.nvim | 2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.flutter-tools-nvim |
-| vimplugin-focus.nvim | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.focus-nvim |
-| vimplugin-fold-preview.nvim | 2023-01-27 |  | legacyPackages.x86_64-linux.vimPlugins.fold-preview-nvim |
-| vimplugin-follow-md-links.nvim | 2025-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.follow-md-links-nvim |
-| vimplugin-formatter.nvim | 2025-05-29 |  | legacyPackages.x86_64-linux.vimPlugins.formatter-nvim |
-| vimplugin-forms | 2012-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.forms |
-| vimplugin-fortune.nvim | 2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.fortune-nvim |
-| vimplugin-freeze.nvim | 2025-03-25 |  | legacyPackages.x86_64-linux.vimPlugins.freeze-nvim |
-| vimplugin-friendly-snippets | 2025-04-29 |  | legacyPackages.x86_64-linux.vimPlugins.friendly-snippets |
-| vimplugin-fugit2.nvim | 2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.fugit2-nvim |
-| vimplugin-fugitive-gitlab.vim | 2024-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.fugitive-gitlab-vim |
-| vimplugin-futhark-vim | 2021-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.futhark-vim |
-| vimplugin-fuzzy.nvim | 2024-05-19 |  | legacyPackages.x86_64-linux.vimPlugins.fuzzy-nvim |
-| vimplugin-fwatch.nvim | 2022-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.fwatch-nvim |
-| vimplugin-fyler.nvim | 2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.fyler-nvim |
+| vimplugin-file-line | 1.0-unstable-2016-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.file-line |
+| vimplugin-fileline.nvim | 0-unstable-2024-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.fileline-nvim |
+| vimplugin-fine-cmdline.nvim | 0-unstable-2025-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.fine-cmdline-nvim |
+| vimplugin-firenvim | 0.2.16-unstable-2025-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.firenvim |
+| vimplugin-flake8-vim | 0.5-unstable-2020-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.flake8-vim |
+| vimplugin-flash.nvim | 2.1.0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.flash-nvim |
+| vimplugin-flatten.nvim | 0.5.1-unstable-2025-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.flatten-nvim |
+| vimplugin-fleet-theme-nvim | 0-unstable-2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.fleet-theme-nvim |
+| vimplugin-flit.nvim | 0-unstable-2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.flit-nvim |
+| vimplugin-float-preview.nvim | 0-unstable-2023-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.float-preview-nvim |
+| vimplugin-floaterm | 0-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.floaterm |
+| vimplugin-floating-input.nvim | 0-unstable-2025-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.floating-input-nvim |
+| vimplugin-floobits-neovim | 3.4.4-unstable-2021-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.floobits-neovim |
+| vimplugin-flutter-tools.nvim | 1.14.0-unstable-2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.flutter-tools-nvim |
+| vimplugin-focus.nvim | 1.0.2-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.focus-nvim |
+| vimplugin-fold-preview.nvim | 0-unstable-2023-01-27 |  | legacyPackages.x86_64-linux.vimPlugins.fold-preview-nvim |
+| vimplugin-follow-md-links.nvim | 0-unstable-2025-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.follow-md-links-nvim |
+| vimplugin-formatter.nvim | 0-unstable-2025-05-29 |  | legacyPackages.x86_64-linux.vimPlugins.formatter-nvim |
+| vimplugin-forms | 0-unstable-2012-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.forms |
+| vimplugin-fortune.nvim | 1.7.0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.fortune-nvim |
+| vimplugin-freeze.nvim | 0-unstable-2025-03-25 |  | legacyPackages.x86_64-linux.vimPlugins.freeze-nvim |
+| vimplugin-friendly-snippets | 0-unstable-2025-04-29 |  | legacyPackages.x86_64-linux.vimPlugins.friendly-snippets |
+| vimplugin-fugit2.nvim | 0.2.1-unstable-2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.fugit2-nvim |
+| vimplugin-fugitive-gitlab.vim | 0-unstable-2024-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.fugitive-gitlab-vim |
+| vimplugin-futhark-vim | 0-unstable-2021-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.futhark-vim |
+| vimplugin-fuzzy.nvim | 0-unstable-2024-05-19 |  | legacyPackages.x86_64-linux.vimPlugins.fuzzy-nvim |
+| vimplugin-fwatch.nvim | 0-unstable-2022-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.fwatch-nvim |
+| vimplugin-fyler.nvim | 2.0.0-unstable-2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.fyler-nvim |
 | vimplugin-fzf | 0.67.0 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-wrapper |
 | vimplugin-fzf | 0.67.0 |  | legacyPackages.x86_64-linux.vimPlugins.fzfWrapper |
-| vimplugin-fzf-checkout.vim | 2023-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-checkout-vim |
-| vimplugin-fzf-hoogle.vim | 2022-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-hoogle-vim |
-| vimplugin-fzf-lsp.nvim | 2023-02-02 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-lsp-nvim |
-| vimplugin-fzf.vim | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-vim |
-| vimplugin-galaxyline.nvim | 2022-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.galaxyline-nvim |
-| vimplugin-gbprod-nord | 2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.gbprod-nord |
-| vimplugin-gdscript-extended-lsp.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.gdscript-extended-lsp-nvim |
-| vimplugin-gen.nvim | 2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.gen-nvim |
-| vimplugin-gen_tags.vim | 2023-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.gen_tags-vim |
-| vimplugin-gentoo-syntax | 2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.gentoo-syntax |
-| vimplugin-gh.nvim | 2025-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.gh-nvim |
-| vimplugin-ghcid | 2023-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ghcid |
-| vimplugin-ghcmod-vim | 2016-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.ghc-mod-vim |
-| vimplugin-ghcmod-vim | 2016-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.ghcmod |
-| vimplugin-ghcmod-vim | 2016-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.ghcmod-vim |
-| vimplugin-git-blame.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.git-blame-nvim |
-| vimplugin-git-conflict.nvim | 2024-12-27 |  | legacyPackages.x86_64-linux.vimPlugins.git-conflict-nvim |
-| vimplugin-git-dashboard-nvim | 2025-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.git-dashboard-nvim |
-| vimplugin-git-messenger.vim | 2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.git-messenger-vim |
-| vimplugin-git-prompt-string-lualine.nvim | 2024-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.git-prompt-string-lualine-nvim |
-| vimplugin-git-worktree.nvim | 2025-02-15 |  | legacyPackages.x86_64-linux.vimPlugins.git-worktree-nvim |
-| vimplugin-github-nvim-theme | 2024-12-31 |  | legacyPackages.x86_64-linux.vimPlugins.github-nvim-theme |
-| vimplugin-gitignore.nvim | 2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.gitignore-nvim |
-| vimplugin-gitignore.vim | 2014-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.gitignore-vim |
+| vimplugin-fzf-checkout.vim | 0-unstable-2023-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-checkout-vim |
+| vimplugin-fzf-hoogle.vim | 2.3.0-unstable-2022-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-hoogle-vim |
+| vimplugin-fzf-lsp.nvim | 0-unstable-2023-02-02 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-lsp-nvim |
+| vimplugin-fzf.vim | 0-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.fzf-vim |
+| vimplugin-galaxyline.nvim | 0-unstable-2022-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.galaxyline-nvim |
+| vimplugin-gbprod-nord | 1.1.0-unstable-2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.gbprod-nord |
+| vimplugin-gdscript-extended-lsp.nvim | 0.2-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.gdscript-extended-lsp-nvim |
+| vimplugin-gen.nvim | 0-unstable-2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.gen-nvim |
+| vimplugin-gen_tags.vim | 1.0-unstable-2023-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.gen_tags-vim |
+| vimplugin-gentoo-syntax | 16-unstable-2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.gentoo-syntax |
+| vimplugin-gh.nvim | 0-unstable-2025-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.gh-nvim |
+| vimplugin-ghcid | 0.8.9-unstable-2023-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.ghcid |
+| vimplugin-ghcmod-vim | 1.3.1-unstable-2016-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.ghc-mod-vim |
+| vimplugin-ghcmod-vim | 1.3.1-unstable-2016-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.ghcmod |
+| vimplugin-ghcmod-vim | 1.3.1-unstable-2016-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.ghcmod-vim |
+| vimplugin-git-blame.nvim | 0-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.git-blame-nvim |
+| vimplugin-git-conflict.nvim | 2.1.0-unstable-2024-12-27 |  | legacyPackages.x86_64-linux.vimPlugins.git-conflict-nvim |
+| vimplugin-git-dashboard-nvim | 0.0.8-alpha-unstable-2025-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.git-dashboard-nvim |
+| vimplugin-git-messenger.vim | 0-unstable-2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.git-messenger-vim |
+| vimplugin-git-prompt-string-lualine.nvim | 1.0.2-unstable-2024-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.git-prompt-string-lualine-nvim |
+| vimplugin-git-worktree.nvim | 2.1.0-unstable-2025-02-15 |  | legacyPackages.x86_64-linux.vimPlugins.git-worktree-nvim |
+| vimplugin-github-nvim-theme | 1.1.2-unstable-2024-12-31 |  | legacyPackages.x86_64-linux.vimPlugins.github-nvim-theme |
+| vimplugin-gitignore.nvim | 0-unstable-2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.gitignore-nvim |
+| vimplugin-gitignore.vim | 1.05-unstable-2014-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.gitignore-vim |
 | vimplugin-gitlab.vim | 0.1.1 | Integrate GitLab Duo with Neovim | legacyPackages.x86_64-linux.vimPlugins.gitlab-vim |
-| vimplugin-gitlinker.nvim | 2023-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.gitlinker-nvim |
-| vimplugin-gitportal.nvim | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.gitportal-nvim |
-| vimplugin-gitv | 2019-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.gitv |
-| vimplugin-glance.nvim | 2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.glance-nvim |
-| vimplugin-glow.nvim | 2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.glow-nvim |
-| vimplugin-go.nvim | 2025-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.go-nvim |
-| vimplugin-godbolt.nvim | 2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.godbolt-nvim |
-| vimplugin-golden-ratio | 2022-06-28 |  | legacyPackages.x86_64-linux.vimPlugins.golden-ratio |
-| vimplugin-gotests-vim | 2022-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.gotests-vim |
-| vimplugin-goto-preview | 2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.goto-preview |
-| vimplugin-goyo.vim | 2023-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.goyo |
-| vimplugin-goyo.vim | 2023-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.goyo-vim |
-| vimplugin-grammar-guard.nvim | 2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.grammar-guard-nvim |
-| vimplugin-graphviz.vim | 2023-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.graphviz-vim |
-| vimplugin-grapple.nvim | 2024-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.grapple-nvim |
-| vimplugin-gruber-darker.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.gruber-darker-nvim |
-| vimplugin-gruvbox | 2025-04-20 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox |
-| vimplugin-gruvbox-alabaster.nvim | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-alabaster-nvim |
-| vimplugin-gruvbox-baby | 2024-01-25 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-baby |
-| vimplugin-gruvbox-community | 2025-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-community |
-| vimplugin-gruvbox-flat.nvim | 2023-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-flat-nvim |
-| vimplugin-gruvbox-material | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-material |
-| vimplugin-gruvbox-material.nvim | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-material-nvim |
-| vimplugin-gruvbox.nvim | 2025-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-nvim |
-| vimplugin-guard-collection | 2025-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.guard-collection |
-| vimplugin-guard.nvim | 2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.guard-nvim |
-| vimplugin-guess-indent.nvim | 2025-03-25 |  | legacyPackages.x86_64-linux.vimPlugins.guess-indent-nvim |
-| vimplugin-gundo.vim | 2021-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.Gundo |
-| vimplugin-gundo.vim | 2021-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.gundo |
-| vimplugin-gundo.vim | 2021-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.gundo-vim |
-| vimplugin-gv.vim | 2023-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.gv-vim |
-| vimplugin-gx.nvim | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.gx-nvim |
-| vimplugin-hardhat.nvim | 2025-01-13 |  | legacyPackages.x86_64-linux.vimPlugins.hardhat-nvim |
-| vimplugin-hardtime.nvim | 2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.hardtime-nvim |
+| vimplugin-gitlinker.nvim | 0-unstable-2023-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.gitlinker-nvim |
+| vimplugin-gitportal.nvim | 0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.gitportal-nvim |
+| vimplugin-gitv | 1.4-rc1-unstable-2019-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.gitv |
+| vimplugin-glance.nvim | 0-unstable-2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.glance-nvim |
+| vimplugin-glow.nvim | 0.2.0-unstable-2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.glow-nvim |
+| vimplugin-go.nvim | 0.10.4-unstable-2025-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.go-nvim |
+| vimplugin-godbolt.nvim | 2022-09-11-unstable-2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.godbolt-nvim |
+| vimplugin-golden-ratio | 0.0.3-unstable-2022-06-28 |  | legacyPackages.x86_64-linux.vimPlugins.golden-ratio |
+| vimplugin-gotests-vim | 0-unstable-2022-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.gotests-vim |
+| vimplugin-goto-preview | 1.1.0-unstable-2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.goto-preview |
+| vimplugin-goyo.vim | 1.6.0-unstable-2023-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.goyo |
+| vimplugin-goyo.vim | 1.6.0-unstable-2023-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.goyo-vim |
+| vimplugin-grammar-guard.nvim | 0-unstable-2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.grammar-guard-nvim |
+| vimplugin-graphviz.vim | 0-unstable-2023-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.graphviz-vim |
+| vimplugin-grapple.nvim | 0.30.0-unstable-2024-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.grapple-nvim |
+| vimplugin-gruber-darker.nvim | 0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.gruber-darker-nvim |
+| vimplugin-gruvbox | 3.0.1-rc.0-unstable-2025-04-20 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox |
+| vimplugin-gruvbox-alabaster.nvim | 0.1.1-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-alabaster-nvim |
+| vimplugin-gruvbox-baby | 0.1.8-unstable-2024-01-25 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-baby |
+| vimplugin-gruvbox-community | 3.6.1-unstable-2025-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-community |
+| vimplugin-gruvbox-flat.nvim | 0-unstable-2023-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-flat-nvim |
+| vimplugin-gruvbox-material | 1.2.5-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-material |
+| vimplugin-gruvbox-material.nvim | 1.7.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-material-nvim |
+| vimplugin-gruvbox.nvim | 2.0.0-unstable-2025-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.gruvbox-nvim |
+| vimplugin-guard-collection | 0-unstable-2025-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.guard-collection |
+| vimplugin-guard.nvim | 2.6.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.guard-nvim |
+| vimplugin-guess-indent.nvim | 0-unstable-2025-03-25 |  | legacyPackages.x86_64-linux.vimPlugins.guess-indent-nvim |
+| vimplugin-gundo.vim | 2.6.2-unstable-2021-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.Gundo |
+| vimplugin-gundo.vim | 2.6.2-unstable-2021-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.gundo |
+| vimplugin-gundo.vim | 2.6.2-unstable-2021-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.gundo-vim |
+| vimplugin-gv.vim | 0-unstable-2023-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.gv-vim |
+| vimplugin-gx.nvim | 0.8.0-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.gx-nvim |
+| vimplugin-hardhat.nvim | 0.1.0-unstable-2025-01-13 |  | legacyPackages.x86_64-linux.vimPlugins.hardhat-nvim |
+| vimplugin-hardtime.nvim | 1.2.0-unstable-2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.hardtime-nvim |
 | vimplugin-hare.vim | 0-unstable-2025-04-24 | Hare programming in Vim | legacyPackages.x86_64-linux.vimPlugins.hare-vim |
-| vimplugin-harpoon | 2024-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.harpoon |
-| vimplugin-harpoon2 | 2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.harpoon2 |
-| vimplugin-haskell-scope-highlighting.nvim | 2025-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-scope-highlighting-nvim |
-| vimplugin-haskell-snippets.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-snippets-nvim |
-| vimplugin-haskell-vim | 2021-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-vim |
-| vimplugin-haskell-with-unicode.vim | 2022-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-with-unicode-vim |
-| vimplugin-hasksyn | 2014-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.hasksyn |
-| vimplugin-headhunter.nvim | 2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.headhunter-nvim |
-| vimplugin-headlines.nvim | 2024-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.headlines-nvim |
-| vimplugin-heirline.nvim | 2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.heirline-nvim |
-| vimplugin-helm-ls.nvim | 2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.helm-ls-nvim |
-| vimplugin-helpview.nvim | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.helpview-nvim |
-| vimplugin-hex.nvim | 2025-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.hex-nvim |
-| vimplugin-hiPairs | 2020-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.hiPairs |
-| vimplugin-highlight-undo.nvim | 2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.highlight-undo-nvim |
-| vimplugin-himalaya-vim | 2025-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.himalaya-vim |
-| vimplugin-hlargs.nvim | 2025-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.hlargs-nvim |
-| vimplugin-hlchunk.nvim | 2025-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.hlchunk-nvim |
-| vimplugin-hlint-refactor-vim | 2015-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.hlint-refactor |
-| vimplugin-hlint-refactor-vim | 2015-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.hlint-refactor-vim |
-| vimplugin-hmts.nvim | 2025-06-11 |  | legacyPackages.x86_64-linux.vimPlugins.hmts-nvim |
-| vimplugin-hologram.nvim | 2022-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.hologram-nvim |
-| vimplugin-hoon.vim | 2023-05-04 |  | legacyPackages.x86_64-linux.vimPlugins.hoon-vim |
-| vimplugin-hop.nvim | 2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.hop-nvim |
-| vimplugin-hotpot.nvim | 2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.hotpot-nvim |
-| vimplugin-houdini.nvim | 2024-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.houdini-nvim |
-| vimplugin-hover.nvim | 2025-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.hover-nvim |
-| vimplugin-html5.vim | 2024-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.html5-vim |
-| vimplugin-hunk.nvim | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.hunk-nvim |
+| vimplugin-harpoon | 0-unstable-2024-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.harpoon |
+| vimplugin-harpoon2 | 0-unstable-2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.harpoon2 |
+| vimplugin-haskell-scope-highlighting.nvim | 0-unstable-2025-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-scope-highlighting-nvim |
+| vimplugin-haskell-snippets.nvim | 1.5.0-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-snippets-nvim |
+| vimplugin-haskell-vim | 0-unstable-2021-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-vim |
+| vimplugin-haskell-with-unicode.vim | 0-unstable-2022-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.haskell-with-unicode-vim |
+| vimplugin-hasksyn | 0-unstable-2014-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.hasksyn |
+| vimplugin-headhunter.nvim | 1.3.0-unstable-2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.headhunter-nvim |
+| vimplugin-headlines.nvim | 5.0.0-unstable-2024-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.headlines-nvim |
+| vimplugin-heirline.nvim | 1.0.8-unstable-2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.heirline-nvim |
+| vimplugin-helm-ls.nvim | 0-unstable-2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.helm-ls-nvim |
+| vimplugin-helpview.nvim | 2.1.2-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.helpview-nvim |
+| vimplugin-hex.nvim | 0-unstable-2025-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.hex-nvim |
+| vimplugin-hiPairs | 0-unstable-2020-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.hiPairs |
+| vimplugin-highlight-undo.nvim | 0-unstable-2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.highlight-undo-nvim |
+| vimplugin-himalaya-vim | 0-unstable-2025-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.himalaya-vim |
+| vimplugin-hlargs.nvim | 0-unstable-2025-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.hlargs-nvim |
+| vimplugin-hlchunk.nvim | 1.3.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.hlchunk-nvim |
+| vimplugin-hlint-refactor-vim | 0-unstable-2015-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.hlint-refactor |
+| vimplugin-hlint-refactor-vim | 0-unstable-2015-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.hlint-refactor-vim |
+| vimplugin-hmts.nvim | 1.3.0-unstable-2025-06-11 |  | legacyPackages.x86_64-linux.vimPlugins.hmts-nvim |
+| vimplugin-hologram.nvim | 0-unstable-2022-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.hologram-nvim |
+| vimplugin-hoon.vim | 0-unstable-2023-05-04 |  | legacyPackages.x86_64-linux.vimPlugins.hoon-vim |
+| vimplugin-hop.nvim | 2.7.2-unstable-2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.hop-nvim |
+| vimplugin-hotpot.nvim | 0.14.8-unstable-2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.hotpot-nvim |
+| vimplugin-houdini.nvim | 0.7-unstable-2024-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.houdini-nvim |
+| vimplugin-hover.nvim | 0-unstable-2025-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.hover-nvim |
+| vimplugin-html5.vim | 0.27-unstable-2024-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.html5-vim |
+| vimplugin-hunk.nvim | 1.9.0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.hunk-nvim |
 | vimplugin-hurl | 7.1.0 |  | legacyPackages.x86_64-linux.vimPlugins.hurl |
-| vimplugin-hurl.nvim | 2025-09-16 |  | legacyPackages.x86_64-linux.vimPlugins.hurl-nvim |
-| vimplugin-hydra.nvim | 2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.hydra-nvim |
-| vimplugin-i3config.vim | 2021-06-23 |  | legacyPackages.x86_64-linux.vimPlugins.i3config-vim |
-| vimplugin-iceberg.vim | 2024-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.iceberg-vim |
-| vimplugin-idris-vim | 2017-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.idris-vim |
-| vimplugin-idris2-nvim | 2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.idris2-nvim |
-| vimplugin-idris2-vim | 2020-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.idris2-vim |
-| vimplugin-img-clip.nvim | 2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.img-clip-nvim |
-| vimplugin-impatient.nvim | 2023-05-05 |  | legacyPackages.x86_64-linux.vimPlugins.impatient-nvim |
-| vimplugin-improved-search.nvim | 2023-12-21 |  | legacyPackages.x86_64-linux.vimPlugins.improved-search-nvim |
-| vimplugin-inc-rename.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.inc-rename-nvim |
-| vimplugin-incline.nvim | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.incline-nvim |
-| vimplugin-increment-activator | 2024-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.increment-activator |
-| vimplugin-incsearch-easymotion.vim | 2016-01-18 |  | legacyPackages.x86_64-linux.vimPlugins.incsearch-easymotion-vim |
-| vimplugin-incsearch.vim | 2022-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.incsearch-vim |
-| vimplugin-indent-blankline.nvim | 2025-03-17 |  | legacyPackages.x86_64-linux.vimPlugins.indent-blankline-nvim |
-| vimplugin-indent-blankline.nvim | 2025-03-17 |  | legacyPackages.x86_64-linux.vimPlugins.indent-blankline-nvim-lua |
-| vimplugin-indent-o-matic | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.indent-o-matic |
-| vimplugin-indent-tools.nvim | 2023-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.indent-tools-nvim |
-| vimplugin-indentLine | 2023-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.indentLine |
-| vimplugin-inkpot | 2013-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.inkpot |
-| vimplugin-instant.nvim | 2022-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.instant-nvim |
-| vimplugin-intellitab.nvim | 2025-03-18 |  | legacyPackages.x86_64-linux.vimPlugins.intellitab-nvim |
-| vimplugin-intero-neovim | 2019-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.intero-neovim |
-| vimplugin-investigate.vim | 2024-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.investigate-vim |
-| vimplugin-iosvkem | 2021-03-26 |  | legacyPackages.x86_64-linux.vimPlugins.iosvkem |
-| vimplugin-ir_black | 2012-03-05 |  | legacyPackages.x86_64-linux.vimPlugins.ir_black |
-| vimplugin-iron.nvim | 2025-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.iron-nvim |
-| vimplugin-is.vim | 2020-10-27 |  | legacyPackages.x86_64-linux.vimPlugins.is-vim |
-| vimplugin-jdaddy.vim | 2014-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.jdaddy-vim |
-| vimplugin-jdd.nvim | 2025-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.jdd-nvim |
-| vimplugin-jedi-vim | 2025-12-03 | code-completion for python using python-jedi | legacyPackages.x86_64-linux.vimPlugins.jedi-vim |
-| vimplugin-jellybeans-nvim | 2025-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.jellybeans-nvim |
-| vimplugin-jellybeans.vim | 2019-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.jellybeans-vim |
-| vimplugin-jinja.vim | 2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.jinja-vim |
-| vimplugin-jq.vim | 2024-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.jq-vim |
-| vimplugin-jsonc.vim | 2022-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.jsonc-vim |
+| vimplugin-hurl.nvim | 0-unstable-2025-09-16 |  | legacyPackages.x86_64-linux.vimPlugins.hurl-nvim |
+| vimplugin-hydra.nvim | 1.0.3-unstable-2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.hydra-nvim |
+| vimplugin-i3config.vim | 0.5.0-unstable-2021-06-23 |  | legacyPackages.x86_64-linux.vimPlugins.i3config-vim |
+| vimplugin-iceberg.vim | 1.0-unstable-2024-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.iceberg-vim |
+| vimplugin-idris-vim | 0-unstable-2017-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.idris-vim |
+| vimplugin-idris2-nvim | 0-unstable-2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.idris2-nvim |
+| vimplugin-idris2-vim | 0-unstable-2020-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.idris2-vim |
+| vimplugin-img-clip.nvim | 0.6.0-unstable-2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.img-clip-nvim |
+| vimplugin-impatient.nvim | 0.2-unstable-2023-05-05 |  | legacyPackages.x86_64-linux.vimPlugins.impatient-nvim |
+| vimplugin-improved-search.nvim | 0-unstable-2023-12-21 |  | legacyPackages.x86_64-linux.vimPlugins.improved-search-nvim |
+| vimplugin-inc-rename.nvim | 0-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.inc-rename-nvim |
+| vimplugin-incline.nvim | 0.1.0-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.incline-nvim |
+| vimplugin-increment-activator | 0.1.0-unstable-2024-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.increment-activator |
+| vimplugin-incsearch-easymotion.vim | 0-unstable-2016-01-18 |  | legacyPackages.x86_64-linux.vimPlugins.incsearch-easymotion-vim |
+| vimplugin-incsearch.vim | 2.0.1-unstable-2022-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.incsearch-vim |
+| vimplugin-indent-blankline.nvim | 3.9.0-unstable-2025-03-17 |  | legacyPackages.x86_64-linux.vimPlugins.indent-blankline-nvim |
+| vimplugin-indent-blankline.nvim | 3.9.0-unstable-2025-03-17 |  | legacyPackages.x86_64-linux.vimPlugins.indent-blankline-nvim-lua |
+| vimplugin-indent-o-matic | 0-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.indent-o-matic |
+| vimplugin-indent-tools.nvim | 0.5.1-unstable-2023-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.indent-tools-nvim |
+| vimplugin-indentLine | 2.0-unstable-2023-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.indentLine |
+| vimplugin-inkpot | 0-unstable-2013-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.inkpot |
+| vimplugin-instant.nvim | 0-unstable-2022-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.instant-nvim |
+| vimplugin-intellitab.nvim | 1.0-unstable-2025-03-18 |  | legacyPackages.x86_64-linux.vimPlugins.intellitab-nvim |
+| vimplugin-intero-neovim | 1.0.1-unstable-2019-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.intero-neovim |
+| vimplugin-investigate.vim | 1.2.0-unstable-2024-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.investigate-vim |
+| vimplugin-iosvkem | 0-unstable-2021-03-26 |  | legacyPackages.x86_64-linux.vimPlugins.iosvkem |
+| vimplugin-ir_black | 0-unstable-2012-03-05 |  | legacyPackages.x86_64-linux.vimPlugins.ir_black |
+| vimplugin-iron.nvim | 0-unstable-2025-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.iron-nvim |
+| vimplugin-is.vim | 0-unstable-2020-10-27 |  | legacyPackages.x86_64-linux.vimPlugins.is-vim |
+| vimplugin-jdaddy.vim | 1.0-unstable-2014-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.jdaddy-vim |
+| vimplugin-jdd.nvim | 0.2.0-unstable-2025-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.jdd-nvim |
+| vimplugin-jedi-vim | 0.11.2-unstable-2025-12-03 | code-completion for python using python-jedi | legacyPackages.x86_64-linux.vimPlugins.jedi-vim |
+| vimplugin-jellybeans-nvim | 0-unstable-2025-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.jellybeans-nvim |
+| vimplugin-jellybeans.vim | 1.7-unstable-2019-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.jellybeans-vim |
+| vimplugin-jinja.vim | 0-unstable-2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.jinja-vim |
+| vimplugin-jq.vim | 1.0.3-unstable-2024-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.jq-vim |
+| vimplugin-jsonc.vim | 0-unstable-2022-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.jsonc-vim |
 | vimplugin-jsonfly.nvim | 0-unstable-2025-06-07 | Search blazingly fast for JSON / XML / YAML keys via Telescope | legacyPackages.x86_64-linux.vimPlugins.jsonfly-nvim |
-| vimplugin-jule.nvim | 2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.jule-nvim |
-| vimplugin-julia-vim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.julia-vim |
-| vimplugin-jupytext.nvim | 2024-04-05 |  | legacyPackages.x86_64-linux.vimPlugins.jupytext-nvim |
-| vimplugin-kanagawa-paper.nvim | 2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.kanagawa-paper-nvim |
-| vimplugin-kanagawa.nvim | 2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.kanagawa-nvim |
-| vimplugin-kanso.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.kanso-nvim |
-| vimplugin-kdl.vim | 2023-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.kdl-vim |
-| vimplugin-keymap-layer.nvim | 2022-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.keymap-layer-nvim |
-| vimplugin-kitty-scrollback.nvim | 2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.kitty-scrollback-nvim |
-| vimplugin-kiwi.nvim | 2025-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.kiwi-nvim |
-| vimplugin-kmonad-vim | 2022-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.kmonad-vim |
-| vimplugin-knap | 2024-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.knap |
-| vimplugin-kommentary | 2023-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.kommentary |
-| vimplugin-kotlin-vim | 2022-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.kotlin-vim |
-| vimplugin-kulala.nvim | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.kulala-nvim |
-| vimplugin-lackluster.nvim | 2025-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.lackluster-nvim |
-| vimplugin-lalrpop.vim | 2017-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.lalrpop-vim |
-| vimplugin-langmapper.nvim | 2025-05-05 |  | legacyPackages.x86_64-linux.vimPlugins.langmapper-nvim |
-| vimplugin-last256 | 2020-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.last256 |
-| vimplugin-latex-box | 2015-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.latex-box |
-| vimplugin-lazy-lsp.nvim | 2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.lazy-lsp-nvim |
-| vimplugin-lazy.nvim | 2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.lazy-nvim |
-| vimplugin-lazydev.nvim | 2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.lazydev-nvim |
-| vimplugin-lazydocker.nvim | 2025-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.lazydocker-nvim |
-| vimplugin-lazygit.nvim | 2025-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.lazygit-nvim |
-| vimplugin-lazyjj.nvim | 2024-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.lazyjj-nvim |
-| vimplugin-lean.nvim | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.lean-nvim |
-| vimplugin-lean.vim | 2021-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.lean-vim |
-| vimplugin-leap-ast.nvim | 2022-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.leap-ast-nvim |
-| vimplugin-leap.nvim | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.leap-nvim |
-| vimplugin-leetcode.nvim | 2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.leetcode-nvim |
-| vimplugin-legendary.nvim | 2025-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.legendary-nvim |
-| vimplugin-lens.vim | 2021-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.lens-vim |
-| vimplugin-lensline.nvim | 2025-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.lensline-nvim |
-| vimplugin-lessspace.vim | 2023-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.lessspace-vim |
-| vimplugin-lexima.vim | 2025-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.lexima-vim |
-| vimplugin-lf.nvim | 2023-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.lf-nvim |
-| vimplugin-lf.vim | 2024-03-18 |  | legacyPackages.x86_64-linux.vimPlugins.lf-vim |
-| vimplugin-lh-brackets | 2024-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.lh-brackets |
-| vimplugin-lh-vim-lib | 2025-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.lh-vim-lib |
-| vimplugin-lightline-ale | 2021-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-ale |
-| vimplugin-lightline-bufferline | 2023-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-bufferline |
-| vimplugin-lightline-gruvbox.vim | 2023-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-gruvbox-vim |
-| vimplugin-lightline-lsp | 2023-03-15 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-lsp |
-| vimplugin-lightline.vim | 2024-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-vim |
-| vimplugin-lightspeed.nvim | 2023-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.lightspeed-nvim |
-| vimplugin-lightswitch.nvim | 2025-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.lightswitch-nvim |
-| vimplugin-limelight.vim | 2024-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.limelight-vim |
-| vimplugin-linediff.vim | 2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.linediff-vim |
-| vimplugin-lingua-franca.vim | 2021-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.lingua-franca-vim |
-| vimplugin-lir.nvim | 2024-05-26 |  | legacyPackages.x86_64-linux.vimPlugins.lir-nvim |
-| vimplugin-lispdocs.nvim | 2022-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.lispdocs-nvim |
-| vimplugin-litee-calltree.nvim | 2024-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.litee-calltree-nvim |
-| vimplugin-litee-filetree.nvim | 2022-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.litee-filetree-nvim |
-| vimplugin-litee-symboltree.nvim | 2022-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.litee-symboltree-nvim |
-| vimplugin-litee.nvim | 2024-06-06 |  | legacyPackages.x86_64-linux.vimPlugins.litee-nvim |
-| vimplugin-live-command.nvim | 2025-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.live-command-nvim |
-| vimplugin-live-preview.nvim | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.live-preview-nvim |
-| vimplugin-live-rename.nvim | 2025-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.live-rename-nvim |
-| vimplugin-live-share.nvim | 2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.live-share-nvim |
-| vimplugin-llama.vim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.llama-vim |
-| vimplugin-llm.nvim | 2025-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.llm-nvim |
-| vimplugin-lsp-colors.nvim | 2023-02-27 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-colors-nvim |
-| vimplugin-lsp-format-modifications.nvim | 2025-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-format-modifications-nvim |
-| vimplugin-lsp-format.nvim | 2025-05-08 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-format-nvim |
-| vimplugin-lsp-inlayhints.nvim | 2023-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-inlayhints-nvim |
-| vimplugin-lsp-overloads.nvim | 2025-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-overloads-nvim |
-| vimplugin-lsp-rooter.nvim | 2021-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-rooter-nvim |
-| vimplugin-lsp-status.nvim | 2022-08-03 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-status-nvim |
-| vimplugin-lsp-zero.nvim | 2025-04-10 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-zero-nvim |
-| vimplugin-lsp_extensions.nvim | 2022-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.lsp_extensions-nvim |
+| vimplugin-jule.nvim | 0-unstable-2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.jule-nvim |
+| vimplugin-julia-vim | 1.0-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.julia-vim |
+| vimplugin-jupytext.nvim | 0-unstable-2024-04-05 |  | legacyPackages.x86_64-linux.vimPlugins.jupytext-nvim |
+| vimplugin-kanagawa-paper.nvim | 3.1-unstable-2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.kanagawa-paper-nvim |
+| vimplugin-kanagawa.nvim | 0-unstable-2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.kanagawa-nvim |
+| vimplugin-kanso.nvim | 0-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.kanso-nvim |
+| vimplugin-kdl.vim | 0-unstable-2023-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.kdl-vim |
+| vimplugin-keymap-layer.nvim | 0-unstable-2022-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.keymap-layer-nvim |
+| vimplugin-kitty-scrollback.nvim | 6.3.0-unstable-2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.kitty-scrollback-nvim |
+| vimplugin-kiwi.nvim | 0-unstable-2025-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.kiwi-nvim |
+| vimplugin-kmonad-vim | 1.0.0-unstable-2022-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.kmonad-vim |
+| vimplugin-knap | 0-unstable-2024-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.knap |
+| vimplugin-kommentary | 1.0-unstable-2023-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.kommentary |
+| vimplugin-kotlin-vim | 0-unstable-2022-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.kotlin-vim |
+| vimplugin-kulala.nvim | 5.3.3-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.kulala-nvim |
+| vimplugin-lackluster.nvim | 0-unstable-2025-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.lackluster-nvim |
+| vimplugin-lalrpop.vim | 0-unstable-2017-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.lalrpop-vim |
+| vimplugin-langmapper.nvim | 0-unstable-2025-05-05 |  | legacyPackages.x86_64-linux.vimPlugins.langmapper-nvim |
+| vimplugin-last256 | 0-unstable-2020-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.last256 |
+| vimplugin-latex-box | 0.9.5-1-unstable-2015-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.latex-box |
+| vimplugin-lazy-lsp.nvim | 2025.10.15-unstable-2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.lazy-lsp-nvim |
+| vimplugin-lazy.nvim | 11.17.5-unstable-2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.lazy-nvim |
+| vimplugin-lazydev.nvim | 1.10.0-unstable-2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.lazydev-nvim |
+| vimplugin-lazydocker.nvim | 2.3.0-unstable-2025-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.lazydocker-nvim |
+| vimplugin-lazygit.nvim | 0-unstable-2025-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.lazygit-nvim |
+| vimplugin-lazyjj.nvim | 0-unstable-2024-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.lazyjj-nvim |
+| vimplugin-lean.nvim | 2025.10.1-unstable-2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.lean-nvim |
+| vimplugin-lean.vim | 0-unstable-2021-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.lean-vim |
+| vimplugin-leap-ast.nvim | 0-unstable-2022-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.leap-ast-nvim |
+| vimplugin-leap.nvim | 0-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.leap-nvim |
+| vimplugin-leetcode.nvim | 0.3.1-unstable-2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.leetcode-nvim |
+| vimplugin-legendary.nvim | 2.13.13-unstable-2025-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.legendary-nvim |
+| vimplugin-lens.vim | 0-unstable-2021-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.lens-vim |
+| vimplugin-lensline.nvim | 2.0.0-unstable-2025-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.lensline-nvim |
+| vimplugin-lessspace.vim | 0-unstable-2023-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.lessspace-vim |
+| vimplugin-lexima.vim | 2.1.0-unstable-2025-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.lexima-vim |
+| vimplugin-lf.nvim | 0-unstable-2023-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.lf-nvim |
+| vimplugin-lf.vim | 1.4-unstable-2024-03-18 |  | legacyPackages.x86_64-linux.vimPlugins.lf-vim |
+| vimplugin-lh-brackets | 3.6.0-unstable-2024-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.lh-brackets |
+| vimplugin-lh-vim-lib | 5.4.0-unstable-2025-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.lh-vim-lib |
+| vimplugin-lightline-ale | 0-unstable-2021-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-ale |
+| vimplugin-lightline-bufferline | 0-unstable-2023-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-bufferline |
+| vimplugin-lightline-gruvbox.vim | 0-unstable-2023-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-gruvbox-vim |
+| vimplugin-lightline-lsp | 0-unstable-2023-03-15 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-lsp |
+| vimplugin-lightline.vim | 0-unstable-2024-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.lightline-vim |
+| vimplugin-lightspeed.nvim | 0-unstable-2023-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.lightspeed-nvim |
+| vimplugin-lightswitch.nvim | 0-unstable-2025-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.lightswitch-nvim |
+| vimplugin-limelight.vim | 0-unstable-2024-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.limelight-vim |
+| vimplugin-linediff.vim | 0.3.0-unstable-2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.linediff-vim |
+| vimplugin-lingua-franca.vim | 0-unstable-2021-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.lingua-franca-vim |
+| vimplugin-lir.nvim | 0-unstable-2024-05-26 |  | legacyPackages.x86_64-linux.vimPlugins.lir-nvim |
+| vimplugin-lispdocs.nvim | 0-unstable-2022-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.lispdocs-nvim |
+| vimplugin-litee-calltree.nvim | 0-unstable-2024-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.litee-calltree-nvim |
+| vimplugin-litee-filetree.nvim | 0-unstable-2022-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.litee-filetree-nvim |
+| vimplugin-litee-symboltree.nvim | 0-unstable-2022-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.litee-symboltree-nvim |
+| vimplugin-litee.nvim | 0.0.7-unstable-2024-06-06 |  | legacyPackages.x86_64-linux.vimPlugins.litee-nvim |
+| vimplugin-live-command.nvim | 2.2.0-unstable-2025-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.live-command-nvim |
+| vimplugin-live-preview.nvim | 0.9.5-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.live-preview-nvim |
+| vimplugin-live-rename.nvim | 0-unstable-2025-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.live-rename-nvim |
+| vimplugin-live-share.nvim | 1.0.0-unstable-2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.live-share-nvim |
+| vimplugin-llama.vim | 0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.llama-vim |
+| vimplugin-llm.nvim | 0-unstable-2025-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.llm-nvim |
+| vimplugin-lsp-colors.nvim | 1.0.0-unstable-2023-02-27 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-colors-nvim |
+| vimplugin-lsp-format-modifications.nvim | 0-unstable-2025-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-format-modifications-nvim |
+| vimplugin-lsp-format.nvim | 2.7.2-unstable-2025-05-08 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-format-nvim |
+| vimplugin-lsp-inlayhints.nvim | 0-unstable-2023-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-inlayhints-nvim |
+| vimplugin-lsp-overloads.nvim | 1.5.0-unstable-2025-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-overloads-nvim |
+| vimplugin-lsp-rooter.nvim | 0-unstable-2021-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-rooter-nvim |
+| vimplugin-lsp-status.nvim | 0-unstable-2022-08-03 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-status-nvim |
+| vimplugin-lsp-zero.nvim | 0-unstable-2025-04-10 |  | legacyPackages.x86_64-linux.vimPlugins.lsp-zero-nvim |
+| vimplugin-lsp_extensions.nvim | 0-unstable-2022-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.lsp_extensions-nvim |
 | vimplugin-lsp_lines.nvim | 3.0.0 | Neovim diagnostics using virtual lines | legacyPackages.x86_64-linux.vimPlugins.lsp_lines-nvim |
-| vimplugin-lsp_signature.nvim | 2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.lsp_signature-nvim |
-| vimplugin-lspcontainers.nvim | 2025-07-17 |  | legacyPackages.x86_64-linux.vimPlugins.lspcontainers-nvim |
-| vimplugin-lspecho.nvim | 2025-03-13 |  | legacyPackages.x86_64-linux.vimPlugins.lspecho-nvim |
-| vimplugin-lspkind.nvim | 2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.lspkind-nvim |
-| vimplugin-lspsaga.nvim | 2025-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.lspsaga-nvim |
-| vimplugin-ltex_extra.nvim | 2025-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.ltex_extra-nvim |
-| vimplugin-lua-async | 2024-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.lua-async |
+| vimplugin-lsp_signature.nvim | 0.3.1-unstable-2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.lsp_signature-nvim |
+| vimplugin-lspcontainers.nvim | 0-unstable-2025-07-17 |  | legacyPackages.x86_64-linux.vimPlugins.lspcontainers-nvim |
+| vimplugin-lspecho.nvim | 0-unstable-2025-03-13 |  | legacyPackages.x86_64-linux.vimPlugins.lspecho-nvim |
+| vimplugin-lspkind.nvim | 0-unstable-2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.lspkind-nvim |
+| vimplugin-lspsaga.nvim | 0-unstable-2025-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.lspsaga-nvim |
+| vimplugin-ltex_extra.nvim | 0.2.2-unstable-2025-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.ltex_extra-nvim |
+| vimplugin-lua-async | 1.1.0-unstable-2024-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.lua-async |
 | vimplugin-luajit2.1-fidget.nvim | 1.6.0-1-unstable-1.6.0-1 | Extensible UI for Neovim notifications and LSP progress messages. | legacyPackages.x86_64-linux.vimPlugins.fidget-nvim |
 | vimplugin-luajit2.1-fzf-lua | 0.0.2365-1-unstable-0.0.2365-1 | Improved fzf.vim written in lua | legacyPackages.x86_64-linux.vimPlugins.fzf-lua |
 | vimplugin-luajit2.1-gitsigns.nvim-scm | 1-unstable-scm-1 | Git signs written in pure lua | legacyPackages.x86_64-linux.vimPlugins.gitsigns-nvim |
@@ -98465,640 +98492,640 @@
 | vimplugin-luajit2.1-rustaceanvim | 7.0.6-2-unstable-7.0.6-2 | 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim | legacyPackages.x86_64-linux.vimPlugins.rustaceanvim |
 | vimplugin-luajit2.1-telescope-manix | 1.0.3-1-unstable-1.0.3-1 | A telescope.nvim extension for Manix - A fast documentation searcher for Nix | legacyPackages.x86_64-linux.vimPlugins.telescope-manix |
 | vimplugin-luajit2.1-telescope.nvim-scm | 1-unstable-scm-1 | Find, Filter, Preview, Pick. All lua, all the time. | legacyPackages.x86_64-linux.vimPlugins.telescope-nvim |
-| vimplugin-lualine-lsp-progress | 2021-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.lualine-lsp-progress |
-| vimplugin-luasnip-latex-snippets.nvim | 2025-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.luasnip-latex-snippets-nvim |
-| vimplugin-luatab.nvim | 2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.luatab-nvim |
-| vimplugin-luau-lsp.nvim | 2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.luau-lsp-nvim |
-| vimplugin-lushtags | 2017-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.lushtags |
-| vimplugin-luvit-meta | 2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.luvit-meta |
-| vimplugin-magma-nvim | 2023-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.magma-nvim |
-| vimplugin-maple.nvim | 2025-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.maple-nvim |
-| vimplugin-mark-radar.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mark-radar-nvim |
-| vimplugin-markdoc.nvim | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.markdoc-nvim |
-| vimplugin-markdown-preview.nvim | 2023-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.markdown-preview-nvim |
-| vimplugin-markdown.nvim | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.markdown-nvim |
-| vimplugin-markid | 2023-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.markid |
-| vimplugin-marks.nvim | 2025-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.marks-nvim |
-| vimplugin-markview.nvim | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.markview-nvim |
-| vimplugin-mason-lspconfig.nvim | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.mason-lspconfig-nvim |
-| vimplugin-mason-null-ls.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.mason-null-ls-nvim |
-| vimplugin-mason-nvim-dap.nvim | 2025-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.mason-nvim-dap-nvim |
-| vimplugin-mason-tool-installer.nvim | 2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.mason-tool-installer-nvim |
-| vimplugin-mason.nvim | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.mason-nvim |
-| vimplugin-matchit.zip | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.matchit-zip |
-| vimplugin-material.nvim | 2025-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.material-nvim |
-| vimplugin-material.vim | 2025-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.material-vim |
-| vimplugin-mattn-calendar-vim | 2022-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.mattn-calendar-vim |
-| vimplugin-mayansmoke | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.mayansmoke |
-| vimplugin-mediawiki.vim | 2015-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.mediawiki-vim |
-| vimplugin-melange-nvim | 2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.melange-nvim |
+| vimplugin-lualine-lsp-progress | 0-unstable-2021-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.lualine-lsp-progress |
+| vimplugin-luasnip-latex-snippets.nvim | 1.0.1-unstable-2025-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.luasnip-latex-snippets-nvim |
+| vimplugin-luatab.nvim | 0-unstable-2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.luatab-nvim |
+| vimplugin-luau-lsp.nvim | 1.6.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.luau-lsp-nvim |
+| vimplugin-lushtags | 0.0.1-unstable-2017-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.lushtags |
+| vimplugin-luvit-meta | 0-unstable-2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.luvit-meta |
+| vimplugin-magma-nvim | 0-unstable-2023-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.magma-nvim |
+| vimplugin-maple.nvim | 0.1.3-unstable-2025-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.maple-nvim |
+| vimplugin-mark-radar.nvim | 0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mark-radar-nvim |
+| vimplugin-markdoc.nvim | 1.1.0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.markdoc-nvim |
+| vimplugin-markdown-preview.nvim | 0.0.10-unstable-2023-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.markdown-preview-nvim |
+| vimplugin-markdown.nvim | 0-unstable-2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.markdown-nvim |
+| vimplugin-markid | 0-unstable-2023-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.markid |
+| vimplugin-marks.nvim | 0-unstable-2025-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.marks-nvim |
+| vimplugin-markview.nvim | 27.0.0-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.markview-nvim |
+| vimplugin-mason-lspconfig.nvim | 2.1.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.mason-lspconfig-nvim |
+| vimplugin-mason-null-ls.nvim | 2.6.0-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.mason-null-ls-nvim |
+| vimplugin-mason-nvim-dap.nvim | 2.5.2-unstable-2025-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.mason-nvim-dap-nvim |
+| vimplugin-mason-tool-installer.nvim | 0-unstable-2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.mason-tool-installer-nvim |
+| vimplugin-mason.nvim | 2.1.0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.mason-nvim |
+| vimplugin-matchit.zip | 1.13.2-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.matchit-zip |
+| vimplugin-material.nvim | 0-unstable-2025-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.material-nvim |
+| vimplugin-material.vim | 0-unstable-2025-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.material-vim |
+| vimplugin-mattn-calendar-vim | 0-unstable-2022-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.mattn-calendar-vim |
+| vimplugin-mayansmoke | 2.0-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.mayansmoke |
+| vimplugin-mediawiki.vim | 0.2-unstable-2015-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.mediawiki-vim |
+| vimplugin-melange-nvim | 2025-07-10-unstable-2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.melange-nvim |
 | vimplugin-meson | 1.9.1 |  | legacyPackages.x86_64-linux.vimPlugins.meson |
-| vimplugin-messenger.nvim | 2024-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.messenger-nvim |
-| vimplugin-miasma.nvim | 2025-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.miasma-nvim |
-| vimplugin-midnight.nvim | 2024-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.midnight-nvim |
-| vimplugin-mind.nvim | 2023-03-22 |  | legacyPackages.x86_64-linux.vimPlugins.mind-nvim |
-| vimplugin-mini-git | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-git |
-| vimplugin-mini.ai | 2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.mini-ai |
-| vimplugin-mini.align | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-align |
-| vimplugin-mini.animate | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-animate |
-| vimplugin-mini.base16 | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.mini-base16 |
-| vimplugin-mini.basics | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-basics |
-| vimplugin-mini.bracketed | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-bracketed |
-| vimplugin-mini.bufremove | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-bufremove |
-| vimplugin-mini.clue | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-clue |
-| vimplugin-mini.cmdline | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-cmdline |
-| vimplugin-mini.colors | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-colors |
-| vimplugin-mini.comment | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-comment |
-| vimplugin-mini.completion | 2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-completion |
-| vimplugin-mini.cursorword | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-cursorword |
-| vimplugin-mini.deps | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-deps |
-| vimplugin-mini.diff | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-diff |
-| vimplugin-mini.doc | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-doc |
-| vimplugin-mini.extra | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.mini-extra |
-| vimplugin-mini.files | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-files |
-| vimplugin-mini.fuzzy | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-fuzzy |
-| vimplugin-mini.hipatterns | 2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.mini-hipatterns |
-| vimplugin-mini.hues | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.mini-hues |
-| vimplugin-mini.icons | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-icons |
-| vimplugin-mini.indentscope | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-indentscope |
-| vimplugin-mini.jump | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-jump |
-| vimplugin-mini.jump2d | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-jump2d |
-| vimplugin-mini.keymap | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-keymap |
-| vimplugin-mini.map | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-map |
-| vimplugin-mini.misc | 2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-misc |
-| vimplugin-mini.move | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-move |
-| vimplugin-mini.notify | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-notify |
-| vimplugin-mini.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-nvim |
-| vimplugin-mini.operators | 2025-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.mini-operators |
-| vimplugin-mini.pairs | 2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.mini-pairs |
-| vimplugin-mini.pick | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.mini-pick |
-| vimplugin-mini.sessions | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-sessions |
-| vimplugin-mini.snippets | 2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.mini-snippets |
-| vimplugin-mini.splitjoin | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-splitjoin |
-| vimplugin-mini.starter | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-starter |
-| vimplugin-mini.statusline | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-statusline |
-| vimplugin-mini.surround | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-surround |
-| vimplugin-mini.tabline | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-tabline |
-| vimplugin-mini.trailspace | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-trailspace |
-| vimplugin-mini.visits | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-visits |
-| vimplugin-minimap.vim | 2025-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.minimap-vim |
-| vimplugin-minuet-ai.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.minuet-ai-nvim |
-| vimplugin-mkdir.nvim | 2022-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.mkdir-nvim |
-| vimplugin-mkdnflow.nvim | 2024-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.mkdnflow-nvim |
-| vimplugin-mkdx | 2023-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.mkdx |
-| vimplugin-modicator.nvim | 2025-10-24 |  | legacyPackages.x86_64-linux.vimPlugins.modicator-nvim |
-| vimplugin-modus-themes.nvim | 2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.modus-themes-nvim |
-| vimplugin-molokai | 2015-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.molokai |
-| vimplugin-molten-nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.molten-nvim |
-| vimplugin-monaspace.nvim | 2025-02-12 |  | legacyPackages.x86_64-linux.vimPlugins.monaspace-nvim |
-| vimplugin-monokai-pro.nvim | 2025-08-03 |  | legacyPackages.x86_64-linux.vimPlugins.monokai-pro-nvim |
-| vimplugin-moonlight.nvim | 2021-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.moonlight-nvim |
-| vimplugin-moonlight.nvim | 2021-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.pure-lua |
-| vimplugin-moonscript-vim | 2016-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.moonscript-vim |
+| vimplugin-messenger.nvim | 0-unstable-2024-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.messenger-nvim |
+| vimplugin-miasma.nvim | 0-unstable-2025-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.miasma-nvim |
+| vimplugin-midnight.nvim | 0.1-unstable-2024-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.midnight-nvim |
+| vimplugin-mind.nvim | 2.2.1-unstable-2023-03-22 |  | legacyPackages.x86_64-linux.vimPlugins.mind-nvim |
+| vimplugin-mini-git | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-git |
+| vimplugin-mini.ai | 0.16.0-unstable-2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.mini-ai |
+| vimplugin-mini.align | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-align |
+| vimplugin-mini.animate | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-animate |
+| vimplugin-mini.base16 | 0.16.0-unstable-2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.mini-base16 |
+| vimplugin-mini.basics | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-basics |
+| vimplugin-mini.bracketed | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-bracketed |
+| vimplugin-mini.bufremove | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-bufremove |
+| vimplugin-mini.clue | 0.16.0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-clue |
+| vimplugin-mini.cmdline | 0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-cmdline |
+| vimplugin-mini.colors | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-colors |
+| vimplugin-mini.comment | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-comment |
+| vimplugin-mini.completion | 0.16.0-unstable-2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-completion |
+| vimplugin-mini.cursorword | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-cursorword |
+| vimplugin-mini.deps | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-deps |
+| vimplugin-mini.diff | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-diff |
+| vimplugin-mini.doc | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-doc |
+| vimplugin-mini.extra | 0.16.0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.mini-extra |
+| vimplugin-mini.files | 0.16.0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.mini-files |
+| vimplugin-mini.fuzzy | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-fuzzy |
+| vimplugin-mini.hipatterns | 0.16.0-unstable-2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.mini-hipatterns |
+| vimplugin-mini.hues | 0.16.0-unstable-2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.mini-hues |
+| vimplugin-mini.icons | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-icons |
+| vimplugin-mini.indentscope | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-indentscope |
+| vimplugin-mini.jump | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-jump |
+| vimplugin-mini.jump2d | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-jump2d |
+| vimplugin-mini.keymap | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-keymap |
+| vimplugin-mini.map | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-map |
+| vimplugin-mini.misc | 0.16.0-unstable-2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-misc |
+| vimplugin-mini.move | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-move |
+| vimplugin-mini.notify | 0.16.0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.mini-notify |
+| vimplugin-mini.nvim | 0.16.0-unstable-2025-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.mini-nvim |
+| vimplugin-mini.operators | 0.16.0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.mini-operators |
+| vimplugin-mini.pairs | 0.16.0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.mini-pairs |
+| vimplugin-mini.pick | 0.16.0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.mini-pick |
+| vimplugin-mini.sessions | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-sessions |
+| vimplugin-mini.snippets | 0.16.0-unstable-2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.mini-snippets |
+| vimplugin-mini.splitjoin | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-splitjoin |
+| vimplugin-mini.starter | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-starter |
+| vimplugin-mini.statusline | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-statusline |
+| vimplugin-mini.surround | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-surround |
+| vimplugin-mini.tabline | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-tabline |
+| vimplugin-mini.trailspace | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-trailspace |
+| vimplugin-mini.visits | 0.16.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.mini-visits |
+| vimplugin-minimap.vim | 0-unstable-2025-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.minimap-vim |
+| vimplugin-minuet-ai.nvim | 0.8.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.minuet-ai-nvim |
+| vimplugin-mkdir.nvim | 0-unstable-2022-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.mkdir-nvim |
+| vimplugin-mkdnflow.nvim | 1.2.4-unstable-2024-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.mkdnflow-nvim |
+| vimplugin-mkdx | 1.10.0-unstable-2023-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.mkdx |
+| vimplugin-modicator.nvim | 0-unstable-2025-10-24 |  | legacyPackages.x86_64-linux.vimPlugins.modicator-nvim |
+| vimplugin-modus-themes.nvim | 1.4.2-unstable-2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.modus-themes-nvim |
+| vimplugin-molokai | 0-unstable-2015-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.molokai |
+| vimplugin-molten-nvim | 1.9.2-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.molten-nvim |
+| vimplugin-monaspace.nvim | 0-unstable-2025-02-12 |  | legacyPackages.x86_64-linux.vimPlugins.monaspace-nvim |
+| vimplugin-monokai-pro.nvim | 1.26.1-unstable-2025-08-03 |  | legacyPackages.x86_64-linux.vimPlugins.monokai-pro-nvim |
+| vimplugin-moonlight.nvim | 0-unstable-2021-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.moonlight-nvim |
+| vimplugin-moonlight.nvim | 0-unstable-2021-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.pure-lua |
+| vimplugin-moonscript-vim | 0-unstable-2016-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.moonscript-vim |
 | vimplugin-moveline-nvim | 0.3.1-unstable-2023-07-06 | Neovim plugin for moving lines up and down | legacyPackages.x86_64-linux.vimPlugins.moveline-nvim |
-| vimplugin-mru | 2024-12-29 |  | legacyPackages.x86_64-linux.vimPlugins.mru |
-| vimplugin-multicursor.nvim | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.multicursor-nvim |
-| vimplugin-multicursors.nvim | 2025-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.multicursors-nvim |
-| vimplugin-muren.nvim | 2025-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.muren-nvim |
-| vimplugin-nabla.nvim | 2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.nabla-nvim |
-| vimplugin-ncm2 | 2025-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2 |
-| vimplugin-ncm2-bufword | 2019-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-bufword |
-| vimplugin-ncm2-cssomni | 2018-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-cssomni |
-| vimplugin-ncm2-dictionary | 2018-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-dictionary |
-| vimplugin-ncm2-github | 2018-08-01 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-github |
-| vimplugin-ncm2-html-subscope | 2018-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-html-subscope |
-| vimplugin-ncm2-jedi | 2025-03-10 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-jedi |
-| vimplugin-ncm2-markdown-subscope | 2020-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-markdown-subscope |
-| vimplugin-ncm2-neoinclude | 2020-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-neoinclude |
-| vimplugin-ncm2-neosnippet | 2021-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-neosnippet |
-| vimplugin-ncm2-path | 2019-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-path |
-| vimplugin-ncm2-syntax | 2020-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-syntax |
-| vimplugin-ncm2-tagprefix | 2018-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-tagprefix |
-| vimplugin-ncm2-tmux | 2019-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-tmux |
-| vimplugin-ncm2-ultisnips | 2019-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-ultisnips |
-| vimplugin-ncm2-vim | 2020-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-vim |
-| vimplugin-neco-ghc | 2021-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.neco-ghc |
-| vimplugin-neco-ghc | 2021-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.necoGhc |
-| vimplugin-neco-look | 2021-07-26 |  | legacyPackages.x86_64-linux.vimPlugins.neco-look |
-| vimplugin-neco-syntax | 2020-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.neco-syntax |
-| vimplugin-neco-vim | 2025-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.neco-vim |
-| vimplugin-neo-tree.nvim | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neo-tree-nvim |
-| vimplugin-neocomplete.vim | 2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.neocomplete |
-| vimplugin-neocomplete.vim | 2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.neocomplete-vim |
-| vimplugin-neoconf.nvim | 2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.neoconf-nvim |
-| vimplugin-neocord | 2025-05-29 |  | legacyPackages.x86_64-linux.vimPlugins.neocord |
-| vimplugin-neodark.vim | 2024-01-12 |  | legacyPackages.x86_64-linux.vimPlugins.neodark-vim |
-| vimplugin-neodev.nvim | 2024-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.neodev-nvim |
-| vimplugin-neoformat | 2025-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.neoformat |
-| vimplugin-neogen | 2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.neogen |
-| vimplugin-neogit | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.neogit |
-| vimplugin-neoinclude.vim | 2020-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.neoinclude |
-| vimplugin-neoinclude.vim | 2020-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.neoinclude-vim |
-| vimplugin-neomake | 2023-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.neomake |
-| vimplugin-neomodern.nvim | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.neomodern-nvim |
-| vimplugin-neomru.vim | 2020-02-05 |  | legacyPackages.x86_64-linux.vimPlugins.neomru |
-| vimplugin-neomru.vim | 2020-02-05 |  | legacyPackages.x86_64-linux.vimPlugins.neomru-vim |
-| vimplugin-neomutt.vim | 2024-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.neomutt-vim |
-| vimplugin-neon | 2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.neon |
-| vimplugin-neorepl.nvim | 2024-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.neorepl-nvim |
-| vimplugin-neorg-telescope | 2025-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.neorg-telescope |
-| vimplugin-neoscroll.nvim | 2024-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.neoscroll-nvim |
-| vimplugin-neosnippet-snippets | 2022-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.neosnippet-snippets |
-| vimplugin-neosnippet.vim | 2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.neosnippet |
-| vimplugin-neosnippet.vim | 2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.neosnippet-vim |
-| vimplugin-neoterm | 2023-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.neoterm |
-| vimplugin-neotest-bash | 2025-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-bash |
-| vimplugin-neotest-ctest | 2025-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-ctest |
-| vimplugin-neotest-dart | 2025-06-03 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-dart |
-| vimplugin-neotest-deno | 2022-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-deno |
-| vimplugin-neotest-dotnet | 2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-dotnet |
-| vimplugin-neotest-elixir | 2025-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-elixir |
-| vimplugin-neotest-foundry | 2025-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-foundry |
-| vimplugin-neotest-go | 2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-go |
-| vimplugin-neotest-golang | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-golang |
-| vimplugin-neotest-gradle | 2025-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-gradle |
-| vimplugin-neotest-gtest | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-gtest |
-| vimplugin-neotest-haskell | 2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-haskell |
-| vimplugin-neotest-java | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-java |
-| vimplugin-neotest-jest | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-jest |
-| vimplugin-neotest-minitest | 2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-minitest |
-| vimplugin-neotest-mocha | 2025-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-mocha |
-| vimplugin-neotest-pest | 2024-02-16 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-pest |
-| vimplugin-neotest-phpunit | 2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-phpunit |
-| vimplugin-neotest-playwright | 2024-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-playwright |
-| vimplugin-neotest-plenary | 2024-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-plenary |
-| vimplugin-neotest-python | 2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-python |
-| vimplugin-neotest-rspec | 2025-09-14 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-rspec |
-| vimplugin-neotest-rust | 2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-rust |
-| vimplugin-neotest-scala | 2022-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-scala |
-| vimplugin-neotest-testthat | 2022-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-testthat |
-| vimplugin-neotest-vitest | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-vitest |
-| vimplugin-neotest-zig | 2025-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-zig |
-| vimplugin-neovim-ayu | 2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-ayu |
-| vimplugin-neovim-fuzzy | 2023-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-fuzzy |
-| vimplugin-neovim-sensible | 2017-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-sensible |
-| vimplugin-neovim-tips | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-tips |
-| vimplugin-neovim-trunk | 2025-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-trunk |
-| vimplugin-neoyank.vim | 2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.neoyank-vim |
-| vimplugin-nerdcommenter | 2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.The_NERD_Commenter |
-| vimplugin-nerdcommenter | 2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.nerdcommenter |
-| vimplugin-nerdtree | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.The_NERD_tree |
-| vimplugin-nerdtree | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.nerdtree |
-| vimplugin-nerdtree-git-plugin | 2021-08-18 |  | legacyPackages.x86_64-linux.vimPlugins.nerdtree-git-plugin |
-| vimplugin-nerdy.nvim | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.nerdy-nvim |
-| vimplugin-netman.nvim | 2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.netman-nvim |
-| vimplugin-netrw.nvim | 2024-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.netrw-nvim |
-| vimplugin-neuron.vim | 2023-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.neuron-vim |
-| vimplugin-nfnl | 2025-11-02 |  | legacyPackages.x86_64-linux.vimPlugins.nfnl |
-| vimplugin-ng.nvim | 2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.ng-nvim |
-| vimplugin-nginx.vim | 2023-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.nginx-vim |
-| vimplugin-night-owl.nvim | 2024-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.night-owl-nvim |
-| vimplugin-nightfly | 2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.nightfly |
-| vimplugin-nightfox.nvim | 2025-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.nightfox-nvim |
-| vimplugin-nightly.nvim | 2024-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.nightly-nvim |
-| vimplugin-nim.vim | 2021-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.nim-vim |
-| vimplugin-nix-develop.nvim | 2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.nix-develop-nvim |
-| vimplugin-nlsp-settings.nvim | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.nlsp-settings-nvim |
-| vimplugin-nnn.vim | 2023-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.nnn-vim |
-| vimplugin-no-clown-fiesta.nvim | 2025-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.no-clown-fiesta-nvim |
-| vimplugin-no-neck-pain.nvim | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.no-neck-pain-nvim |
-| vimplugin-noctis.nvim | 2022-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.noctis-nvim |
-| vimplugin-noice.nvim | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.noice-nvim |
-| vimplugin-none-ls.nvim | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.none-ls-nvim |
-| vimplugin-nord-vim | 2023-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.nord-vim |
-| vimplugin-nord.nvim | 2023-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.nord-nvim |
-| vimplugin-nordic.nvim | 2024-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.nordic-nvim |
-| vimplugin-notifier.nvim | 2023-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.notifier-nvim |
-| vimplugin-nterm.nvim | 2022-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.nterm-nvim |
-| vimplugin-null-ls.nvim | 2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.null-ls-nvim |
-| vimplugin-numb.nvim | 2025-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.numb-nvim |
-| vimplugin-nvchad | 2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvchad |
-| vimplugin-nvchad-ui | 2025-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvchad-ui |
-| vimplugin-nvcode-color-schemes.vim | 2021-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.nvcode-color-schemes-vim |
-| vimplugin-nvim-FeMaco.lua | 2024-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-FeMaco-lua |
-| vimplugin-nvim-ale-diagnostic | 2021-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ale-diagnostic |
-| vimplugin-nvim-autopairs | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-autopairs |
-| vimplugin-nvim-bacon | 2025-01-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-bacon |
-| vimplugin-nvim-biscuits | 2025-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-biscuits |
-| vimplugin-nvim-bqf | 2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-bqf |
-| vimplugin-nvim-bufdel | 2023-04-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-bufdel |
-| vimplugin-nvim-cm-racer | 2017-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-cm-racer |
-| vimplugin-nvim-code-action-menu | 2023-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-code-action-menu |
-| vimplugin-nvim-cokeline | 2025-01-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-cokeline |
-| vimplugin-nvim-colorizer.lua | 2025-11-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-colorizer-lua |
-| vimplugin-nvim-comment | 2022-08-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-comment |
-| vimplugin-nvim-completion-manager | 2018-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-completion-manager |
-| vimplugin-nvim-config-local | 2025-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-config-local |
-| vimplugin-nvim-coverage | 2024-12-18 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-coverage |
-| vimplugin-nvim-cursorline | 2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-cursorline |
-| vimplugin-nvim-dap | 2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap |
-| vimplugin-nvim-dap-cortex-debug | 2025-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-cortex-debug |
-| vimplugin-nvim-dap-go | 2025-07-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-go |
-| vimplugin-nvim-dap-lldb | 2025-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-lldb |
-| vimplugin-nvim-dap-python | 2025-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-python |
-| vimplugin-nvim-dap-rego | 2025-06-18 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-rego |
-| vimplugin-nvim-dap-rr | 2025-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-rr |
-| vimplugin-nvim-dap-ui | 2025-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-ui |
-| vimplugin-nvim-dap-view | 2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-view |
-| vimplugin-nvim-dap-virtual-text | 2025-05-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-virtual-text |
-| vimplugin-nvim-dap-vscode-js | 2023-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-vscode-js |
+| vimplugin-mru | 3.11-unstable-2024-12-29 |  | legacyPackages.x86_64-linux.vimPlugins.mru |
+| vimplugin-multicursor.nvim | 0-unstable-2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.multicursor-nvim |
+| vimplugin-multicursors.nvim | 2.0.0-unstable-2025-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.multicursors-nvim |
+| vimplugin-muren.nvim | 0-unstable-2025-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.muren-nvim |
+| vimplugin-nabla.nvim | 0-unstable-2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.nabla-nvim |
+| vimplugin-ncm2 | 0-unstable-2025-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2 |
+| vimplugin-ncm2-bufword | 0-unstable-2019-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-bufword |
+| vimplugin-ncm2-cssomni | 0-unstable-2018-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-cssomni |
+| vimplugin-ncm2-dictionary | 0-unstable-2018-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-dictionary |
+| vimplugin-ncm2-github | 0-unstable-2018-08-01 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-github |
+| vimplugin-ncm2-html-subscope | 0-unstable-2018-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-html-subscope |
+| vimplugin-ncm2-jedi | 0-unstable-2025-03-10 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-jedi |
+| vimplugin-ncm2-markdown-subscope | 0-unstable-2020-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-markdown-subscope |
+| vimplugin-ncm2-neoinclude | 0-unstable-2020-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-neoinclude |
+| vimplugin-ncm2-neosnippet | 0-unstable-2021-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-neosnippet |
+| vimplugin-ncm2-path | 0-unstable-2019-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-path |
+| vimplugin-ncm2-syntax | 0-unstable-2020-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-syntax |
+| vimplugin-ncm2-tagprefix | 0-unstable-2018-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-tagprefix |
+| vimplugin-ncm2-tmux | 0-unstable-2019-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-tmux |
+| vimplugin-ncm2-ultisnips | 0-unstable-2019-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-ultisnips |
+| vimplugin-ncm2-vim | 0-unstable-2020-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.ncm2-vim |
+| vimplugin-neco-ghc | 0-unstable-2021-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.neco-ghc |
+| vimplugin-neco-ghc | 0-unstable-2021-02-22 |  | legacyPackages.x86_64-linux.vimPlugins.necoGhc |
+| vimplugin-neco-look | 1.2-unstable-2021-07-26 |  | legacyPackages.x86_64-linux.vimPlugins.neco-look |
+| vimplugin-neco-syntax | 0-unstable-2020-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.neco-syntax |
+| vimplugin-neco-vim | 0-unstable-2025-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.neco-vim |
+| vimplugin-neo-tree.nvim | 3.38.0-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neo-tree-nvim |
+| vimplugin-neocomplete.vim | 0-unstable-2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.neocomplete |
+| vimplugin-neocomplete.vim | 0-unstable-2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.neocomplete-vim |
+| vimplugin-neoconf.nvim | 1.4.0-unstable-2025-12-16 |  | legacyPackages.x86_64-linux.vimPlugins.neoconf-nvim |
+| vimplugin-neocord | 0-unstable-2025-05-29 |  | legacyPackages.x86_64-linux.vimPlugins.neocord |
+| vimplugin-neodark.vim | 3.1.0-unstable-2024-01-12 |  | legacyPackages.x86_64-linux.vimPlugins.neodark-vim |
+| vimplugin-neodev.nvim | 3.0.0-unstable-2024-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.neodev-nvim |
+| vimplugin-neoformat | 0.4.0-unstable-2025-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.neoformat |
+| vimplugin-neogen | 2.20.0-unstable-2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.neogen |
+| vimplugin-neogit | 3.0.0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.neogit |
+| vimplugin-neoinclude.vim | 0-unstable-2020-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.neoinclude |
+| vimplugin-neoinclude.vim | 0-unstable-2020-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.neoinclude-vim |
+| vimplugin-neomake | 0-unstable-2023-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.neomake |
+| vimplugin-neomodern.nvim | 1.0.4-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.neomodern-nvim |
+| vimplugin-neomru.vim | 0-unstable-2020-02-05 |  | legacyPackages.x86_64-linux.vimPlugins.neomru |
+| vimplugin-neomru.vim | 0-unstable-2020-02-05 |  | legacyPackages.x86_64-linux.vimPlugins.neomru-vim |
+| vimplugin-neomutt.vim | 20220408-unstable-2024-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.neomutt-vim |
+| vimplugin-neon | 0-unstable-2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.neon |
+| vimplugin-neorepl.nvim | 0-unstable-2024-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.neorepl-nvim |
+| vimplugin-neorg-telescope | 1.2.3-unstable-2025-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.neorg-telescope |
+| vimplugin-neoscroll.nvim | 0.2.0-unstable-2024-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.neoscroll-nvim |
+| vimplugin-neosnippet-snippets | 0-unstable-2022-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.neosnippet-snippets |
+| vimplugin-neosnippet.vim | 0-unstable-2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.neosnippet |
+| vimplugin-neosnippet.vim | 0-unstable-2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.neosnippet-vim |
+| vimplugin-neoterm | 0-unstable-2023-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.neoterm |
+| vimplugin-neotest-bash | 0-unstable-2025-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-bash |
+| vimplugin-neotest-ctest | 0.2.0-unstable-2025-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-ctest |
+| vimplugin-neotest-dart | 0-unstable-2025-06-03 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-dart |
+| vimplugin-neotest-deno | 0-unstable-2022-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-deno |
+| vimplugin-neotest-dotnet | 1.7.0-unstable-2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-dotnet |
+| vimplugin-neotest-elixir | 0-unstable-2025-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-elixir |
+| vimplugin-neotest-foundry | 0-unstable-2025-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-foundry |
+| vimplugin-neotest-go | 0-unstable-2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-go |
+| vimplugin-neotest-golang | 2.6.0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-golang |
+| vimplugin-neotest-gradle | 0-unstable-2025-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-gradle |
+| vimplugin-neotest-gtest | 0-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-gtest |
+| vimplugin-neotest-haskell | 3.0.1-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-haskell |
+| vimplugin-neotest-java | 0.22.7-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-java |
+| vimplugin-neotest-jest | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-jest |
+| vimplugin-neotest-minitest | 0-unstable-2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-minitest |
+| vimplugin-neotest-mocha | 0-unstable-2025-10-20 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-mocha |
+| vimplugin-neotest-pest | 0-unstable-2024-02-16 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-pest |
+| vimplugin-neotest-phpunit | 0-unstable-2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-phpunit |
+| vimplugin-neotest-playwright | 0-unstable-2024-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-playwright |
+| vimplugin-neotest-plenary | 0-unstable-2024-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-plenary |
+| vimplugin-neotest-python | 0-unstable-2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-python |
+| vimplugin-neotest-rspec | 0-unstable-2025-09-14 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-rspec |
+| vimplugin-neotest-rust | 0-unstable-2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-rust |
+| vimplugin-neotest-scala | 0-unstable-2022-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-scala |
+| vimplugin-neotest-testthat | 0-unstable-2022-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-testthat |
+| vimplugin-neotest-vitest | 0.2.0-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-vitest |
+| vimplugin-neotest-zig | 1.4.0-unstable-2025-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.neotest-zig |
+| vimplugin-neovim-ayu | 0-unstable-2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-ayu |
+| vimplugin-neovim-fuzzy | 0-unstable-2023-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-fuzzy |
+| vimplugin-neovim-sensible | 0-unstable-2017-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-sensible |
+| vimplugin-neovim-tips | 0.8.1-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-tips |
+| vimplugin-neovim-trunk | 0.1.4-unstable-2025-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.neovim-trunk |
+| vimplugin-neoyank.vim | 0-unstable-2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.neoyank-vim |
+| vimplugin-nerdcommenter | 2.7.0-unstable-2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.The_NERD_Commenter |
+| vimplugin-nerdcommenter | 2.7.0-unstable-2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.nerdcommenter |
+| vimplugin-nerdtree | 7.1.3-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.The_NERD_tree |
+| vimplugin-nerdtree | 7.1.3-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.nerdtree |
+| vimplugin-nerdtree-git-plugin | 0-unstable-2021-08-18 |  | legacyPackages.x86_64-linux.vimPlugins.nerdtree-git-plugin |
+| vimplugin-nerdy.nvim | 1.6-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.nerdy-nvim |
+| vimplugin-netman.nvim | 1.15-unstable-2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.netman-nvim |
+| vimplugin-netrw.nvim | 0-unstable-2024-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.netrw-nvim |
+| vimplugin-neuron.vim | 1.0-unstable-2023-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.neuron-vim |
+| vimplugin-nfnl | 1.3.0-unstable-2025-11-02 |  | legacyPackages.x86_64-linux.vimPlugins.nfnl |
+| vimplugin-ng.nvim | 0-unstable-2025-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.ng-nvim |
+| vimplugin-nginx.vim | 1.1.0-unstable-2023-11-26 |  | legacyPackages.x86_64-linux.vimPlugins.nginx-vim |
+| vimplugin-night-owl.nvim | 0.5-beta-unstable-2024-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.night-owl-nvim |
+| vimplugin-nightfly | 0-unstable-2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.nightfly |
+| vimplugin-nightfox.nvim | 3.10.0-unstable-2025-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.nightfox-nvim |
+| vimplugin-nightly.nvim | 0-unstable-2024-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.nightly-nvim |
+| vimplugin-nim.vim | 1.1-unstable-2021-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.nim-vim |
+| vimplugin-nix-develop.nvim | 0-unstable-2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.nix-develop-nvim |
+| vimplugin-nlsp-settings.nvim | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nlsp-settings-nvim |
+| vimplugin-nnn.vim | 3.6-unstable-2023-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.nnn-vim |
+| vimplugin-no-clown-fiesta.nvim | 0-unstable-2025-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.no-clown-fiesta-nvim |
+| vimplugin-no-neck-pain.nvim | 2.5.2-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.no-neck-pain-nvim |
+| vimplugin-noctis.nvim | 0-unstable-2022-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.noctis-nvim |
+| vimplugin-noice.nvim | 4.10.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.noice-nvim |
+| vimplugin-none-ls.nvim | 0-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.none-ls-nvim |
+| vimplugin-nord-vim | 0.19.0-unstable-2023-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.nord-vim |
+| vimplugin-nord.nvim | 0-unstable-2023-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.nord-nvim |
+| vimplugin-nordic.nvim | 0-unstable-2024-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.nordic-nvim |
+| vimplugin-notifier.nvim | 0-unstable-2023-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.notifier-nvim |
+| vimplugin-nterm.nvim | 0-unstable-2022-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.nterm-nvim |
+| vimplugin-null-ls.nvim | 0-unstable-2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.null-ls-nvim |
+| vimplugin-numb.nvim | 0-unstable-2025-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.numb-nvim |
+| vimplugin-nvchad | 2.5-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvchad |
+| vimplugin-nvchad-ui | 0-unstable-2025-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvchad-ui |
+| vimplugin-nvcode-color-schemes.vim | 0-unstable-2021-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.nvcode-color-schemes-vim |
+| vimplugin-nvim-FeMaco.lua | 0-unstable-2024-04-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-FeMaco-lua |
+| vimplugin-nvim-ale-diagnostic | 0-unstable-2021-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ale-diagnostic |
+| vimplugin-nvim-autopairs | 0.10.0-unstable-2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-autopairs |
+| vimplugin-nvim-bacon | 0-unstable-2025-01-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-bacon |
+| vimplugin-nvim-biscuits | 0-unstable-2025-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-biscuits |
+| vimplugin-nvim-bqf | 1.1.1-unstable-2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-bqf |
+| vimplugin-nvim-bufdel | 0-unstable-2023-04-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-bufdel |
+| vimplugin-nvim-cm-racer | 0-unstable-2017-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-cm-racer |
+| vimplugin-nvim-code-action-menu | 0-unstable-2023-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-code-action-menu |
+| vimplugin-nvim-cokeline | 0.4.0-unstable-2025-01-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-cokeline |
+| vimplugin-nvim-colorizer.lua | 0-unstable-2025-11-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-colorizer-lua |
+| vimplugin-nvim-comment | 0-unstable-2022-08-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-comment |
+| vimplugin-nvim-completion-manager | 0-unstable-2018-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-completion-manager |
+| vimplugin-nvim-config-local | 3.0.0-unstable-2025-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-config-local |
+| vimplugin-nvim-coverage | 0-unstable-2024-12-18 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-coverage |
+| vimplugin-nvim-cursorline | 0-unstable-2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-cursorline |
+| vimplugin-nvim-dap | 0.10.0-unstable-2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap |
+| vimplugin-nvim-dap-cortex-debug | 0-unstable-2025-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-cortex-debug |
+| vimplugin-nvim-dap-go | 0-unstable-2025-07-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-go |
+| vimplugin-nvim-dap-lldb | 2.0.1-unstable-2025-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-lldb |
+| vimplugin-nvim-dap-python | 0-unstable-2025-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-python |
+| vimplugin-nvim-dap-rego | 0-unstable-2025-06-18 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-rego |
+| vimplugin-nvim-dap-rr | 0.1.1-unstable-2025-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-rr |
+| vimplugin-nvim-dap-ui | 4.0.0-unstable-2025-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-ui |
+| vimplugin-nvim-dap-view | 0-unstable-2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-view |
+| vimplugin-nvim-dap-virtual-text | 0-unstable-2025-05-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-virtual-text |
+| vimplugin-nvim-dap-vscode-js | 1.1.0-unstable-2023-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-dap-vscode-js |
 | vimplugin-nvim-dbee | 0.1.9 | Interactive database client for neovim | legacyPackages.x86_64-linux.vimPlugins.nvim-dbee |
-| vimplugin-nvim-docs-view | 2025-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-docs-view |
-| vimplugin-nvim-early-retirement | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-early-retirement |
-| vimplugin-nvim-expand-expr | 2021-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-expand-expr |
-| vimplugin-nvim-fzf | 2024-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-fzf |
-| vimplugin-nvim-fzf-commands | 2022-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-fzf-commands |
-| vimplugin-nvim-gdb | 2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-gdb |
-| vimplugin-nvim-genghis | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-genghis |
-| vimplugin-nvim-gomove | 2022-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-gomove |
-| vimplugin-nvim-gps | 2022-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-gps |
-| vimplugin-nvim-highlight-colors | 2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-highlight-colors |
-| vimplugin-nvim-highlite | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-highlite |
-| vimplugin-nvim-hlslens | 2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-hlslens |
-| vimplugin-nvim-hs.vim | 2022-01-30 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-hs-vim |
-| vimplugin-nvim-impairative | 2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-impairative |
-| vimplugin-nvim-java | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java |
-| vimplugin-nvim-java-core | 2025-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-core |
-| vimplugin-nvim-java-dap | 2024-07-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-dap |
-| vimplugin-nvim-java-refactor | 2025-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-refactor |
-| vimplugin-nvim-java-test | 2024-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-test |
-| vimplugin-nvim-jdtls | 2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-jdtls |
-| vimplugin-nvim-jqx | 2024-05-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-jqx |
+| vimplugin-nvim-docs-view | 0-unstable-2025-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-docs-view |
+| vimplugin-nvim-early-retirement | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-early-retirement |
+| vimplugin-nvim-expand-expr | 0-unstable-2021-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-expand-expr |
+| vimplugin-nvim-fzf | 0-unstable-2024-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-fzf |
+| vimplugin-nvim-fzf-commands | 0-unstable-2022-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-fzf-commands |
+| vimplugin-nvim-gdb | 0-unstable-2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-gdb |
+| vimplugin-nvim-genghis | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-genghis |
+| vimplugin-nvim-gomove | 0-unstable-2022-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-gomove |
+| vimplugin-nvim-gps | 0-unstable-2022-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-gps |
+| vimplugin-nvim-highlight-colors | 0-unstable-2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-highlight-colors |
+| vimplugin-nvim-highlite | 4.21.0-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-highlite |
+| vimplugin-nvim-hlslens | 1.1.0-unstable-2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-hlslens |
+| vimplugin-nvim-hs.vim | 0-unstable-2022-01-30 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-hs-vim |
+| vimplugin-nvim-impairative | 0.6.0-unstable-2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-impairative |
+| vimplugin-nvim-java | 4.0.4-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java |
+| vimplugin-nvim-java-core | 2.0.0-unstable-2025-08-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-core |
+| vimplugin-nvim-java-dap | 1.0.0-unstable-2024-07-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-dap |
+| vimplugin-nvim-java-refactor | 1.8.0-unstable-2025-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-refactor |
+| vimplugin-nvim-java-test | 1.0.1-unstable-2024-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-java-test |
+| vimplugin-nvim-jdtls | 0.2.0-unstable-2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-jdtls |
+| vimplugin-nvim-jqx | 0.1.4-unstable-2024-05-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-jqx |
 | vimplugin-nvim-julia-autotest | 0-unstable-2022-10-31 | Automatically run Julia tests when you save runtest.jl file | legacyPackages.x86_64-linux.vimPlugins.nvim-julia-autotest |
-| vimplugin-nvim-k8s-crd | 2025-05-26 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-k8s-crd |
-| vimplugin-nvim-lastplace | 2023-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lastplace |
-| vimplugin-nvim-lightbulb | 2025-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lightbulb |
-| vimplugin-nvim-lightline-lsp | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lightline-lsp |
-| vimplugin-nvim-lilypond-suite | 2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lilypond-suite |
-| vimplugin-nvim-lint | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lint |
-| vimplugin-nvim-lsp-file-operations | 2024-10-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-file-operations |
-| vimplugin-nvim-lsp-notify | 2023-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-notify |
-| vimplugin-nvim-lsp-ts-utils | 2022-07-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-ts-utils |
-| vimplugin-nvim-lspconfig | 2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lspconfig |
-| vimplugin-nvim-lsputils | 2022-01-29 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsputils |
-| vimplugin-nvim-lua-gf | 2022-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lua-gf |
-| vimplugin-nvim-luadev | 2023-03-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-luadev |
-| vimplugin-nvim-luapad | 2024-05-26 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-luapad |
-| vimplugin-nvim-metals | 2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-metals |
-| vimplugin-nvim-moonwalk | 2022-04-12 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-moonwalk |
-| vimplugin-nvim-navbuddy | 2025-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-navbuddy |
-| vimplugin-nvim-navic | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-navic |
-| vimplugin-nvim-neoclip.lua | 2025-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-neoclip-lua |
-| vimplugin-nvim-nonicons | 2023-02-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-nonicons |
-| vimplugin-nvim-notify | 2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-notify |
-| vimplugin-nvim-nu | 2024-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-nu |
-| vimplugin-nvim-numbertoggle | 2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-numbertoggle |
-| vimplugin-nvim-origami | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-origami |
-| vimplugin-nvim-osc52 | 2024-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-osc52 |
-| vimplugin-nvim-paredit | 2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-paredit |
-| vimplugin-nvim-parinfer | 2025-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-parinfer |
-| vimplugin-nvim-peekup | 2023-02-23 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-peekup |
-| vimplugin-nvim-pqf | 2024-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-pqf |
-| vimplugin-nvim-remote-containers | 2023-12-22 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-remote-containers |
-| vimplugin-nvim-rename-state | 2024-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-rename-state |
-| vimplugin-nvim-rg | 2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-rg |
-| vimplugin-nvim-rip-substitute | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-rip-substitute |
-| vimplugin-nvim-scissors | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-scissors |
-| vimplugin-nvim-scrollbar | 2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-scrollbar |
-| vimplugin-nvim-scrollview | 2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-scrollview |
-| vimplugin-nvim-search-and-replace | 2022-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-search-and-replace |
-| vimplugin-nvim-snippets | 2024-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-snippets |
-| vimplugin-nvim-snippy | 2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-snippy |
-| vimplugin-nvim-solarized-lua | 2024-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-solarized-lua |
-| vimplugin-nvim-sops | 2023-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-sops |
+| vimplugin-nvim-k8s-crd | 0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-k8s-crd |
+| vimplugin-nvim-lastplace | 0-unstable-2023-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lastplace |
+| vimplugin-nvim-lightbulb | 1.0.0-unstable-2025-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lightbulb |
+| vimplugin-nvim-lightline-lsp | 0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lightline-lsp |
+| vimplugin-nvim-lilypond-suite | 0-unstable-2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lilypond-suite |
+| vimplugin-nvim-lint | 0-unstable-2025-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lint |
+| vimplugin-nvim-lsp-file-operations | 0-unstable-2024-10-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-file-operations |
+| vimplugin-nvim-lsp-notify | 1.0.0-unstable-2023-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-notify |
+| vimplugin-nvim-lsp-ts-utils | 0-unstable-2022-07-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsp-ts-utils |
+| vimplugin-nvim-lspconfig | 2.5.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lspconfig |
+| vimplugin-nvim-lsputils | 0-unstable-2022-01-29 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lsputils |
+| vimplugin-nvim-lua-gf | 0-unstable-2022-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-lua-gf |
+| vimplugin-nvim-luadev | 0-unstable-2023-03-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-luadev |
+| vimplugin-nvim-luapad | 0.3.1-unstable-2024-05-26 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-luapad |
+| vimplugin-nvim-metals | 0.10.x-unstable-2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-metals |
+| vimplugin-nvim-moonwalk | 0-unstable-2022-04-12 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-moonwalk |
+| vimplugin-nvim-navbuddy | 0-unstable-2025-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-navbuddy |
+| vimplugin-nvim-navic | 0-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-navic |
+| vimplugin-nvim-neoclip.lua | 0-unstable-2025-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-neoclip-lua |
+| vimplugin-nvim-nonicons | 0-unstable-2023-02-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-nonicons |
+| vimplugin-nvim-notify | 3.15.0-unstable-2025-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-notify |
+| vimplugin-nvim-nu | 0-unstable-2024-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-nu |
+| vimplugin-nvim-numbertoggle | 0-unstable-2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-numbertoggle |
+| vimplugin-nvim-origami | 1.9-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-origami |
+| vimplugin-nvim-osc52 | 0-unstable-2024-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-osc52 |
+| vimplugin-nvim-paredit | 1.2.0-unstable-2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-paredit |
+| vimplugin-nvim-parinfer | 1.2.0-unstable-2025-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-parinfer |
+| vimplugin-nvim-peekup | 0.1.1-unstable-2023-02-23 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-peekup |
+| vimplugin-nvim-pqf | 0-unstable-2024-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-pqf |
+| vimplugin-nvim-remote-containers | 0-unstable-2023-12-22 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-remote-containers |
+| vimplugin-nvim-rename-state | 2.0.0-unstable-2024-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-rename-state |
+| vimplugin-nvim-rg | 0-unstable-2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-rg |
+| vimplugin-nvim-rip-substitute | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-rip-substitute |
+| vimplugin-nvim-scissors | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-scissors |
+| vimplugin-nvim-scrollbar | 0-unstable-2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-scrollbar |
+| vimplugin-nvim-scrollview | 6.2.2-unstable-2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-scrollview |
+| vimplugin-nvim-search-and-replace | 0-unstable-2022-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-search-and-replace |
+| vimplugin-nvim-snippets | 1.0.0-unstable-2024-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-snippets |
+| vimplugin-nvim-snippy | 1.1.0-unstable-2025-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-snippy |
+| vimplugin-nvim-solarized-lua | 0-unstable-2024-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-solarized-lua |
+| vimplugin-nvim-sops | 0-unstable-2023-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-sops |
 | vimplugin-nvim-spectre | 0-unstable-2025-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-spectre |
-| vimplugin-nvim-spider | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-spider |
-| vimplugin-nvim-surround | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-surround |
-| vimplugin-nvim-teal-maker | 2022-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-teal-maker |
-| vimplugin-nvim-terminal.lua | 2019-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-terminal-lua |
-| vimplugin-nvim-test | 2023-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-test |
-| vimplugin-nvim-tinygit | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-tinygit |
-| vimplugin-nvim-tree.lua | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-tree-lua |
-| vimplugin-nvim-treesitter | 2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter |
-| vimplugin-nvim-treesitter-context | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-context |
-| vimplugin-nvim-treesitter-endwise | 2025-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-endwise |
-| vimplugin-nvim-treesitter-pairs | 2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-pairs |
-| vimplugin-nvim-treesitter-pyfold | 2023-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-pyfold |
-| vimplugin-nvim-treesitter-refactor | 2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-refactor |
-| vimplugin-nvim-treesitter-sexp | 2024-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-sexp |
-| vimplugin-nvim-treesitter-textobjects | 2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-textobjects |
-| vimplugin-nvim-treesitter-textsubjects | 2025-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-textsubjects |
-| vimplugin-nvim-trevJ.lua | 2025-07-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-trevJ-lua |
-| vimplugin-nvim-ts-autotag | 2025-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ts-autotag |
-| vimplugin-nvim-ts-context-commentstring | 2024-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ts-context-commentstring |
-| vimplugin-nvim-ufo | 2025-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ufo |
-| vimplugin-nvim-unception | 2025-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-unception |
-| vimplugin-nvim-unity | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-unity |
-| vimplugin-nvim-various-textobjs | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-various-textobjs |
-| vimplugin-nvim-vtsls | 2025-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-vtsls |
-| vimplugin-nvim-whichkey-setup.lua | 2021-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-whichkey-setup-lua |
-| vimplugin-nvim-window-picker | 2025-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-window-picker |
-| vimplugin-nvim-yarp | 2022-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-yarp |
-| vimplugin-nvim_context_vt | 2025-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim_context_vt |
-| vimplugin-nvimdev.nvim | 2023-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.nvimdev-nvim |
-| vimplugin-nvterm | 2024-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvterm |
-| vimplugin-nvzone-menu | 2025-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-menu |
-| vimplugin-nvzone-minty | 2025-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-minty |
-| vimplugin-nvzone-typr | 2025-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-typr |
-| vimplugin-nvzone-volt | 2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-volt |
-| vimplugin-obsidian.nvim | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.obsidian-nvim |
-| vimplugin-oceanic-material | 2023-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.oceanic-material |
-| vimplugin-oceanic-next | 2023-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.oceanic-next |
-| vimplugin-octo.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.octo-nvim |
-| vimplugin-oil-git-status.nvim | 2025-04-03 |  | legacyPackages.x86_64-linux.vimPlugins.oil-git-status-nvim |
-| vimplugin-oil-git.nvim | 2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.oil-git-nvim |
-| vimplugin-oil-lsp-diagnostics.nvim | 2025-01-22 |  | legacyPackages.x86_64-linux.vimPlugins.oil-lsp-diagnostics-nvim |
-| vimplugin-oklch-color-picker.nvim | 2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.oklch-color-picker-nvim |
-| vimplugin-ollama.nvim | 2024-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.ollama-nvim |
-| vimplugin-omni.vim | 2022-06-17 |  | legacyPackages.x86_64-linux.vimPlugins.omni-vim |
-| vimplugin-omnisharp-extended-lsp.nvim | 2025-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.omnisharp-extended-lsp-nvim |
-| vimplugin-one-nvim | 2021-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.one-nvim |
-| vimplugin-one-small-step-for-vimkind | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.one-small-step-for-vimkind |
-| vimplugin-onedark.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.onedark-nvim |
-| vimplugin-onedark.vim | 2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.onedark-vim |
-| vimplugin-onedarker.nvim | 2022-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.onedarker-nvim |
-| vimplugin-onedarkpro.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.onedarkpro-nvim |
-| vimplugin-onehalf | 2022-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.onehalf |
-| vimplugin-onenord.nvim | 2025-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.onenord-nvim |
-| vimplugin-open-browser-github.vim | 2021-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.open-browser-github-vim |
-| vimplugin-open-browser.vim | 2022-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.open-browser |
-| vimplugin-open-browser.vim | 2022-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.open-browser-vim |
-| vimplugin-opencode.nvim | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.opencode-nvim |
-| vimplugin-openingh.nvim | 2025-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.openingh-nvim |
-| vimplugin-openscad.nvim | 2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.openscad-nvim |
-| vimplugin-org-roam.nvim | 2025-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.org-roam-nvim |
-| vimplugin-other.nvim | 2025-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.other-nvim |
-| vimplugin-otter.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.otter-nvim |
-| vimplugin-outline.nvim | 2025-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.outline-nvim |
-| vimplugin-overseer.nvim | 2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.overseer-nvim |
-| vimplugin-oxocarbon.nvim | 2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.oxocarbon-nvim |
-| vimplugin-package-info.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.package-info-nvim |
-| vimplugin-packer.nvim | 2023-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.packer-nvim |
-| vimplugin-palenight.vim | 2023-04-27 |  | legacyPackages.x86_64-linux.vimPlugins.palenight-vim |
-| vimplugin-palenightfall.nvim | 2023-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.palenightfall-nvim |
-| vimplugin-palette.nvim | 2023-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.palette-nvim |
-| vimplugin-papercolor-theme | 2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.papercolor-theme |
-| vimplugin-papercolor-theme-slim | 2025-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.papercolor-theme-slim |
-| vimplugin-parpar.nvim | 2023-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.parpar-nvim |
-| vimplugin-parrot.nvim | 2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.parrot-nvim |
-| vimplugin-patterns.nvim | 2025-09-16 |  | legacyPackages.x86_64-linux.vimPlugins.patterns-nvim |
-| vimplugin-pckr.nvim | 2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.pckr-nvim |
-| vimplugin-pear-tree | 2024-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.pear-tree |
-| vimplugin-pears.nvim | 2021-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.pears-nvim |
-| vimplugin-peek.nvim | 2024-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.peek-nvim |
-| vimplugin-perfanno.nvim | 2024-12-28 |  | legacyPackages.x86_64-linux.vimPlugins.perfanno-nvim |
-| vimplugin-persisted.nvim | 2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.persisted-nvim |
-| vimplugin-persistence.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.persistence-nvim |
-| vimplugin-persistent-breakpoints.nvim | 2025-03-22 |  | legacyPackages.x86_64-linux.vimPlugins.persistent-breakpoints-nvim |
-| vimplugin-pest.vim | 2024-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.pest-vim |
-| vimplugin-pgsql.vim | 2021-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.pgsql-vim |
-| vimplugin-phha-zenburn | 2024-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.phha-zenburn |
+| vimplugin-nvim-spider | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-spider |
+| vimplugin-nvim-surround | 3.1.8-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-surround |
+| vimplugin-nvim-teal-maker | 0-unstable-2022-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-teal-maker |
+| vimplugin-nvim-terminal.lua | 0-unstable-2019-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-terminal-lua |
+| vimplugin-nvim-test | 1.4.1-unstable-2023-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-test |
+| vimplugin-nvim-tinygit | 1.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-tinygit |
+| vimplugin-nvim-tree.lua | 1.14.0-unstable-2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-tree-lua |
+| vimplugin-nvim-treesitter | 0.10.0-unstable-2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter |
+| vimplugin-nvim-treesitter-context | 1.0.0-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-context |
+| vimplugin-nvim-treesitter-endwise | 0-unstable-2025-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-endwise |
+| vimplugin-nvim-treesitter-pairs | 0-unstable-2023-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-pairs |
+| vimplugin-nvim-treesitter-pyfold | 0-unstable-2023-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-pyfold |
+| vimplugin-nvim-treesitter-refactor | 0-unstable-2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-refactor |
+| vimplugin-nvim-treesitter-sexp | 0-unstable-2024-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-sexp |
+| vimplugin-nvim-treesitter-textobjects | 0-unstable-2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-textobjects |
+| vimplugin-nvim-treesitter-textsubjects | 0-unstable-2025-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-textsubjects |
+| vimplugin-nvim-trevJ.lua | 0-unstable-2025-07-21 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-trevJ-lua |
+| vimplugin-nvim-ts-autotag | 0-unstable-2025-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ts-autotag |
+| vimplugin-nvim-ts-context-commentstring | 0-unstable-2024-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ts-context-commentstring |
+| vimplugin-nvim-ufo | 1.5.0-unstable-2025-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-ufo |
+| vimplugin-nvim-unception | 1.0.0-unstable-2025-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-unception |
+| vimplugin-nvim-unity | 1.0.0-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-unity |
+| vimplugin-nvim-various-textobjs | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-various-textobjs |
+| vimplugin-nvim-vtsls | 0-unstable-2025-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-vtsls |
+| vimplugin-nvim-whichkey-setup.lua | 0-unstable-2021-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-whichkey-setup-lua |
+| vimplugin-nvim-window-picker | 2.4.0-unstable-2025-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-window-picker |
+| vimplugin-nvim-yarp | 0-unstable-2022-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-yarp |
+| vimplugin-nvim_context_vt | 0-unstable-2025-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.nvim_context_vt |
+| vimplugin-nvimdev.nvim | 0-unstable-2023-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.nvimdev-nvim |
+| vimplugin-nvterm | 0-unstable-2024-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvterm |
+| vimplugin-nvzone-menu | 0-unstable-2025-06-01 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-menu |
+| vimplugin-nvzone-minty | 0-unstable-2025-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-minty |
+| vimplugin-nvzone-typr | 0-unstable-2025-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-typr |
+| vimplugin-nvzone-volt | 0-unstable-2025-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.nvzone-volt |
+| vimplugin-obsidian.nvim | 3.14.7-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.obsidian-nvim |
+| vimplugin-oceanic-material | 0-unstable-2023-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.oceanic-material |
+| vimplugin-oceanic-next | 0-unstable-2023-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.oceanic-next |
+| vimplugin-octo.nvim | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.octo-nvim |
+| vimplugin-oil-git-status.nvim | 0-unstable-2025-04-03 |  | legacyPackages.x86_64-linux.vimPlugins.oil-git-status-nvim |
+| vimplugin-oil-git.nvim | 0-unstable-2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.oil-git-nvim |
+| vimplugin-oil-lsp-diagnostics.nvim | 0-unstable-2025-01-22 |  | legacyPackages.x86_64-linux.vimPlugins.oil-lsp-diagnostics-nvim |
+| vimplugin-oklch-color-picker.nvim | 3.8.0-unstable-2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.oklch-color-picker-nvim |
+| vimplugin-ollama.nvim | 0-unstable-2024-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.ollama-nvim |
+| vimplugin-omni.vim | 0-unstable-2022-06-17 |  | legacyPackages.x86_64-linux.vimPlugins.omni-vim |
+| vimplugin-omnisharp-extended-lsp.nvim | 0-unstable-2025-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.omnisharp-extended-lsp-nvim |
+| vimplugin-one-nvim | 0-unstable-2021-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.one-nvim |
+| vimplugin-one-small-step-for-vimkind | 0-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.one-small-step-for-vimkind |
+| vimplugin-onedark.nvim | 1.0.3-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.onedark-nvim |
+| vimplugin-onedark.vim | 0-unstable-2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.onedark-vim |
+| vimplugin-onedarker.nvim | 0-unstable-2022-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.onedarker-nvim |
+| vimplugin-onedarkpro.nvim | 2.25.0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.onedarkpro-nvim |
+| vimplugin-onehalf | 0.1.3-unstable-2022-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.onehalf |
+| vimplugin-onenord.nvim | 0.7.0-unstable-2025-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.onenord-nvim |
+| vimplugin-open-browser-github.vim | 1.0.0-unstable-2021-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.open-browser-github-vim |
+| vimplugin-open-browser.vim | 2.0.0-unstable-2022-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.open-browser |
+| vimplugin-open-browser.vim | 2.0.0-unstable-2022-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.open-browser-vim |
+| vimplugin-opencode.nvim | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.opencode-nvim |
+| vimplugin-openingh.nvim | 1.013-unstable-2025-05-01 |  | legacyPackages.x86_64-linux.vimPlugins.openingh-nvim |
+| vimplugin-openscad.nvim | 0-unstable-2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.openscad-nvim |
+| vimplugin-org-roam.nvim | 0.2.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.org-roam-nvim |
+| vimplugin-other.nvim | 0-unstable-2025-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.other-nvim |
+| vimplugin-otter.nvim | 2.13.4-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.otter-nvim |
+| vimplugin-outline.nvim | 1.1.0-unstable-2025-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.outline-nvim |
+| vimplugin-overseer.nvim | 2.0.0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.overseer-nvim |
+| vimplugin-oxocarbon.nvim | 0-unstable-2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.oxocarbon-nvim |
+| vimplugin-package-info.nvim | 2.0-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.package-info-nvim |
+| vimplugin-packer.nvim | 0-unstable-2023-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.packer-nvim |
+| vimplugin-palenight.vim | 0-unstable-2023-04-27 |  | legacyPackages.x86_64-linux.vimPlugins.palenight-vim |
+| vimplugin-palenightfall.nvim | 0-unstable-2023-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.palenightfall-nvim |
+| vimplugin-palette.nvim | 0-unstable-2023-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.palette-nvim |
+| vimplugin-papercolor-theme | 1.0-unstable-2024-03-12 |  | legacyPackages.x86_64-linux.vimPlugins.papercolor-theme |
+| vimplugin-papercolor-theme-slim | 1.0.0-unstable-2025-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.papercolor-theme-slim |
+| vimplugin-parpar.nvim | 0-unstable-2023-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.parpar-nvim |
+| vimplugin-parrot.nvim | 2.5.1-unstable-2025-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.parrot-nvim |
+| vimplugin-patterns.nvim | 2.1.1-unstable-2025-09-16 |  | legacyPackages.x86_64-linux.vimPlugins.patterns-nvim |
+| vimplugin-pckr.nvim | 1.1.2-unstable-2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.pckr-nvim |
+| vimplugin-pear-tree | 0-unstable-2024-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.pear-tree |
+| vimplugin-pears.nvim | 0-unstable-2021-05-27 |  | legacyPackages.x86_64-linux.vimPlugins.pears-nvim |
+| vimplugin-peek.nvim | 0-unstable-2024-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.peek-nvim |
+| vimplugin-perfanno.nvim | 0-unstable-2024-12-28 |  | legacyPackages.x86_64-linux.vimPlugins.perfanno-nvim |
+| vimplugin-persisted.nvim | 2.1.1-unstable-2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.persisted-nvim |
+| vimplugin-persistence.nvim | 3.1.0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.persistence-nvim |
+| vimplugin-persistent-breakpoints.nvim | 0-unstable-2025-03-22 |  | legacyPackages.x86_64-linux.vimPlugins.persistent-breakpoints-nvim |
+| vimplugin-pest.vim | 0-unstable-2024-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.pest-vim |
+| vimplugin-pgsql.vim | 2.3.1-unstable-2021-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.pgsql-vim |
+| vimplugin-phha-zenburn | 0-unstable-2024-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.phha-zenburn |
 | vimplugin-phpactor | 2025.10.17.0 | Mainly a PHP Language Server | legacyPackages.x86_64-linux.vimPlugins.phpactor |
-| vimplugin-pig.vim | 2017-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.pig-vim |
-| vimplugin-plantuml-previewer.vim | 2024-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-previewer-vim |
-| vimplugin-plantuml-syntax | 2024-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-syntax |
-| vimplugin-plantuml.nvim | 2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-nvim |
-| vimplugin-playground | 2023-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.playground |
-| vimplugin-poimandres.nvim | 2024-10-19 |  | legacyPackages.x86_64-linux.vimPlugins.poimandres-nvim |
-| vimplugin-pomo.nvim | 2024-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.pomo-nvim |
-| vimplugin-pony-vim-syntax | 2017-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.pony-vim-syntax |
-| vimplugin-popfix | 2022-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.popfix |
-| vimplugin-popup.nvim | 2021-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.popup-nvim |
-| vimplugin-precognition.nvim | 2025-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.precognition-nvim |
-| vimplugin-presence.nvim | 2023-01-29 |  | legacyPackages.x86_64-linux.vimPlugins.presence-nvim |
-| vimplugin-presenting.vim | 2023-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.presenting-vim |
-| vimplugin-preto | 2023-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.preto |
-| vimplugin-pretty-fold.nvim | 2022-07-20 |  | legacyPackages.x86_64-linux.vimPlugins.pretty-fold-nvim |
-| vimplugin-prev_indent | 2014-03-08 |  | legacyPackages.x86_64-linux.vimPlugins.prev_indent |
-| vimplugin-project.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.project-nvim |
-| vimplugin-projections.nvim | 2023-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.projections-nvim |
-| vimplugin-promise-async | 2024-08-04 |  | legacyPackages.x86_64-linux.vimPlugins.promise-async |
-| vimplugin-psc-ide-vim | 2021-05-31 |  | legacyPackages.x86_64-linux.vimPlugins.psc-ide-vim |
-| vimplugin-pum.vim | 2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.pum-vim |
-| vimplugin-purescript-vim | 2023-02-06 |  | legacyPackages.x86_64-linux.vimPlugins.purescript-vim |
-| vimplugin-python-mode | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.python-mode |
-| vimplugin-python-syntax | 2020-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.python-syntax |
-| vimplugin-pywal.nvim | 2022-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.pywal-nvim |
-| vimplugin-qmk.nvim | 2025-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.qmk-nvim |
-| vimplugin-quarto-nvim | 2025-08-23 |  | legacyPackages.x86_64-linux.vimPlugins.quarto-nvim |
-| vimplugin-quick-scope | 2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.quick-scope |
-| vimplugin-quicker.nvim | 2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.quicker-nvim |
-| vimplugin-quickfix-reflector.vim | 2022-02-02 |  | legacyPackages.x86_64-linux.vimPlugins.quickfix-reflector-vim |
-| vimplugin-quickfixstatus | 2011-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.quickfixstatus |
-| vimplugin-quickmath.nvim | 2024-02-12 |  | legacyPackages.x86_64-linux.vimPlugins.quickmath-nvim |
-| vimplugin-rainbow | 2024-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow |
+| vimplugin-pig.vim | 0-unstable-2017-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.pig-vim |
+| vimplugin-plantuml-previewer.vim | 1.5.1-unstable-2024-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-previewer-vim |
+| vimplugin-plantuml-syntax | 0.2.0-unstable-2024-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-syntax |
+| vimplugin-plantuml.nvim | 0-unstable-2025-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.plantuml-nvim |
+| vimplugin-playground | 0-unstable-2023-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.playground |
+| vimplugin-poimandres.nvim | 0.6.0-unstable-2024-10-19 |  | legacyPackages.x86_64-linux.vimPlugins.poimandres-nvim |
+| vimplugin-pomo.nvim | 0.7.0-unstable-2024-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.pomo-nvim |
+| vimplugin-pony-vim-syntax | 0-unstable-2017-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.pony-vim-syntax |
+| vimplugin-popfix | 0-unstable-2022-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.popfix |
+| vimplugin-popup.nvim | 0-unstable-2021-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.popup-nvim |
+| vimplugin-precognition.nvim | 1.1.0-unstable-2025-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.precognition-nvim |
+| vimplugin-presence.nvim | 0-unstable-2023-01-29 |  | legacyPackages.x86_64-linux.vimPlugins.presence-nvim |
+| vimplugin-presenting.vim | 0.1.0-unstable-2023-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.presenting-vim |
+| vimplugin-preto | 0-unstable-2023-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.preto |
+| vimplugin-pretty-fold.nvim | 3.0-unstable-2022-07-20 |  | legacyPackages.x86_64-linux.vimPlugins.pretty-fold-nvim |
+| vimplugin-prev_indent | 0.3-unstable-2014-03-08 |  | legacyPackages.x86_64-linux.vimPlugins.prev_indent |
+| vimplugin-project.nvim | 0.1.12-1-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.project-nvim |
+| vimplugin-projections.nvim | 0-unstable-2023-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.projections-nvim |
+| vimplugin-promise-async | 1.0.0-unstable-2024-08-04 |  | legacyPackages.x86_64-linux.vimPlugins.promise-async |
+| vimplugin-psc-ide-vim | 0.8.2-unstable-2021-05-31 |  | legacyPackages.x86_64-linux.vimPlugins.psc-ide-vim |
+| vimplugin-pum.vim | 2.0-unstable-2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.pum-vim |
+| vimplugin-purescript-vim | 1.0.0-unstable-2023-02-06 |  | legacyPackages.x86_64-linux.vimPlugins.purescript-vim |
+| vimplugin-python-mode | 0.14.0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.python-mode |
+| vimplugin-python-syntax | 0-unstable-2020-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.python-syntax |
+| vimplugin-pywal.nvim | 0-unstable-2022-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.pywal-nvim |
+| vimplugin-qmk.nvim | 1.0.0-unstable-2025-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.qmk-nvim |
+| vimplugin-quarto-nvim | 1.2.5-unstable-2025-08-23 |  | legacyPackages.x86_64-linux.vimPlugins.quarto-nvim |
+| vimplugin-quick-scope | 2.7.1-unstable-2025-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.quick-scope |
+| vimplugin-quicker.nvim | 1.4.0-unstable-2025-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.quicker-nvim |
+| vimplugin-quickfix-reflector.vim | 0.1-unstable-2022-02-02 |  | legacyPackages.x86_64-linux.vimPlugins.quickfix-reflector-vim |
+| vimplugin-quickfixstatus | 0-unstable-2011-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.quickfixstatus |
+| vimplugin-quickmath.nvim | 0-unstable-2024-02-12 |  | legacyPackages.x86_64-linux.vimPlugins.quickmath-nvim |
+| vimplugin-rainbow | 3.3.1-unstable-2024-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow |
 | vimplugin-rainbow-delimiters.nvim | 0.10.0 | Rainbow delimiters for Neovim with Tree-sitter | legacyPackages.x86_64-linux.vimPlugins.rainbow-delimiters-nvim |
-| vimplugin-rainbow_csv | 2024-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow_csv |
-| vimplugin-rainbow_parentheses.vim | 2013-03-05 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow_parentheses |
-| vimplugin-rainbow_parentheses.vim | 2013-03-05 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow_parentheses-vim |
-| vimplugin-random.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.random-vim |
-| vimplugin-range-highlight.nvim | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.range-highlight-nvim |
-| vimplugin-ranger.nvim | 2024-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.ranger-nvim |
-| vimplugin-ranger.vim | 2021-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.ranger-vim |
-| vimplugin-rcshell.vim | 2014-12-29 |  | legacyPackages.x86_64-linux.vimPlugins.rcshell-vim |
-| vimplugin-readline.vim | 2023-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.readline-vim |
-| vimplugin-refactoring.nvim | 2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.refactoring-nvim |
-| vimplugin-refjump.nvim | 2025-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.refjump-nvim |
-| vimplugin-registers.nvim | 2024-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.registers-nvim |
-| vimplugin-remember.nvim | 2024-06-13 |  | legacyPackages.x86_64-linux.vimPlugins.remember-nvim |
-| vimplugin-remote-nvim.nvim | 2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.remote-nvim-nvim |
-| vimplugin-remote-sshfs.nvim | 2025-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.remote-sshfs-nvim |
-| vimplugin-renamer.nvim | 2022-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.renamer-nvim |
-| vimplugin-render-markdown.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.render-markdown-nvim |
-| vimplugin-replacer.nvim | 2023-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.replacer-nvim |
-| vimplugin-repolink.nvim | 2023-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.repolink-nvim |
-| vimplugin-resession.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.resession-nvim |
-| vimplugin-restore-view-vim | 2014-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.restore-view-vim |
-| vimplugin-riv.vim | 2024-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.riv |
-| vimplugin-riv.vim | 2024-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.riv-vim |
-| vimplugin-rnvimr | 2025-08-03 |  | legacyPackages.x86_64-linux.vimPlugins.rnvimr |
-| vimplugin-robotframework-vim | 2017-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.robotframework-vim |
-| vimplugin-ron.vim | 2022-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.ron-vim |
-| vimplugin-rose-pine | 2025-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.rose-pine |
-| vimplugin-roslyn.nvim | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.roslyn-nvim |
-| vimplugin-rspec.vim | 2020-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.rspec-vim |
-| vimplugin-rtorrent-syntax-file | 2016-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.rtorrent-syntax-file |
-| vimplugin-rust.vim | 2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.rust-vim |
-| vimplugin-rzls.nvim | 2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.rzls-nvim |
-| vimplugin-sad.vim | 2019-02-18 |  | legacyPackages.x86_64-linux.vimPlugins.sad-vim |
-| vimplugin-salt-vim | 2017-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.salt-vim |
-| vimplugin-samodostal-image-nvim | 2024-01-07 |  | legacyPackages.x86_64-linux.vimPlugins.samodostal-image-nvim |
-| vimplugin-satellite.nvim | 2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.satellite-nvim |
-| vimplugin-schema-companion.nvim | 2025-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.schema-companion-nvim |
-| vimplugin-scnvim | 2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.scnvim |
-| vimplugin-scope.nvim | 2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.scope-nvim |
-| vimplugin-scretch.nvim | 2025-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.scretch-nvim |
-| vimplugin-scrollbar.nvim | 2025-03-23 |  | legacyPackages.x86_64-linux.vimPlugins.scrollbar-nvim |
-| vimplugin-scss-syntax.vim | 2024-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.scss-syntax-vim |
-| vimplugin-search-and-replace.nvim | 2025-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.search-and-replace-nvim |
-| vimplugin-searchbox.nvim | 2025-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.searchbox-nvim |
-| vimplugin-securemodelines | 2019-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.securemodelines |
-| vimplugin-self | 2014-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.self |
-| vimplugin-semantic-highlight.vim | 2020-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.semantic-highlight-vim |
-| vimplugin-semshi | 2021-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.semshi |
-| vimplugin-seoul256.vim | 2025-07-02 |  | legacyPackages.x86_64-linux.vimPlugins.seoul256-vim |
+| vimplugin-rainbow_csv | 4.3.0-unstable-2024-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow_csv |
+| vimplugin-rainbow_parentheses.vim | 0-unstable-2013-03-05 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow_parentheses |
+| vimplugin-rainbow_parentheses.vim | 0-unstable-2013-03-05 |  | legacyPackages.x86_64-linux.vimPlugins.rainbow_parentheses-vim |
+| vimplugin-random.vim | 1.3-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.random-vim |
+| vimplugin-range-highlight.nvim | 1.0.2-unstable-2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.range-highlight-nvim |
+| vimplugin-ranger.nvim | 0-unstable-2024-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.ranger-nvim |
+| vimplugin-ranger.vim | 0-unstable-2021-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.ranger-vim |
+| vimplugin-rcshell.vim | 20091226-unstable-2014-12-29 |  | legacyPackages.x86_64-linux.vimPlugins.rcshell-vim |
+| vimplugin-readline.vim | 0-unstable-2023-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.readline-vim |
+| vimplugin-refactoring.nvim | 0-unstable-2025-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.refactoring-nvim |
+| vimplugin-refjump.nvim | 0-unstable-2025-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.refjump-nvim |
+| vimplugin-registers.nvim | 2.3.0-unstable-2024-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.registers-nvim |
+| vimplugin-remember.nvim | 1.4.1-unstable-2024-06-13 |  | legacyPackages.x86_64-linux.vimPlugins.remember-nvim |
+| vimplugin-remote-nvim.nvim | 0.3.12-unstable-2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.remote-nvim-nvim |
+| vimplugin-remote-sshfs.nvim | 0.7.2-unstable-2025-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.remote-sshfs-nvim |
+| vimplugin-renamer.nvim | 5.1.0-unstable-2022-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.renamer-nvim |
+| vimplugin-render-markdown.nvim | 8.10.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.render-markdown-nvim |
+| vimplugin-replacer.nvim | 0-unstable-2023-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.replacer-nvim |
+| vimplugin-repolink.nvim | 0-unstable-2023-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.repolink-nvim |
+| vimplugin-resession.nvim | 1.2.1-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.resession-nvim |
+| vimplugin-restore-view-vim | 1.3-unstable-2014-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.restore-view-vim |
+| vimplugin-riv.vim | 0-unstable-2024-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.riv |
+| vimplugin-riv.vim | 0-unstable-2024-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.riv-vim |
+| vimplugin-rnvimr | 0.5.0-unstable-2025-08-03 |  | legacyPackages.x86_64-linux.vimPlugins.rnvimr |
+| vimplugin-robotframework-vim | 0-unstable-2017-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.robotframework-vim |
+| vimplugin-ron.vim | 0-unstable-2022-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.ron-vim |
+| vimplugin-rose-pine | 3.0.2-unstable-2025-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.rose-pine |
+| vimplugin-roslyn.nvim | 0-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.roslyn-nvim |
+| vimplugin-rspec.vim | 0.1.0-unstable-2020-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.rspec-vim |
+| vimplugin-rtorrent-syntax-file | 0.1-unstable-2016-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.rtorrent-syntax-file |
+| vimplugin-rust.vim | 0-unstable-2022-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.rust-vim |
+| vimplugin-rzls.nvim | 0-unstable-2025-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.rzls-nvim |
+| vimplugin-sad.vim | 0-unstable-2019-02-18 |  | legacyPackages.x86_64-linux.vimPlugins.sad-vim |
+| vimplugin-salt-vim | 0-unstable-2017-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.salt-vim |
+| vimplugin-samodostal-image-nvim | 1.0-unstable-2024-01-07 |  | legacyPackages.x86_64-linux.vimPlugins.samodostal-image-nvim |
+| vimplugin-satellite.nvim | 1.0.0-unstable-2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.satellite-nvim |
+| vimplugin-schema-companion.nvim | 0-unstable-2025-10-26 |  | legacyPackages.x86_64-linux.vimPlugins.schema-companion-nvim |
+| vimplugin-scnvim | 0-unstable-2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.scnvim |
+| vimplugin-scope.nvim | 0-unstable-2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.scope-nvim |
+| vimplugin-scretch.nvim | 1.2.3-unstable-2025-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.scretch-nvim |
+| vimplugin-scrollbar.nvim | 0.4.0-unstable-2025-03-23 |  | legacyPackages.x86_64-linux.vimPlugins.scrollbar-nvim |
+| vimplugin-scss-syntax.vim | 0-unstable-2024-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.scss-syntax-vim |
+| vimplugin-search-and-replace.nvim | 0.1-unstable-2025-07-04 |  | legacyPackages.x86_64-linux.vimPlugins.search-and-replace-nvim |
+| vimplugin-searchbox.nvim | 0-unstable-2025-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.searchbox-nvim |
+| vimplugin-securemodelines | 0-unstable-2019-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.securemodelines |
+| vimplugin-self | 0-unstable-2014-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.self |
+| vimplugin-semantic-highlight.vim | 0-unstable-2020-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.semantic-highlight-vim |
+| vimplugin-semshi | 0-unstable-2021-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.semshi |
+| vimplugin-seoul256.vim | 0-unstable-2025-07-02 |  | legacyPackages.x86_64-linux.vimPlugins.seoul256-vim |
 | vimplugin-sg.nvim | 1.1.0-unstable-2025-01-21 | Neovim plugin designed to emulate the behaviour of the Cursor AI IDE | legacyPackages.x86_64-linux.vimPlugins.sg-nvim |
-| vimplugin-shabadou.vim | 2016-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.shabadou-vim |
-| vimplugin-showkeys | 2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.showkeys |
-| vimplugin-sidekick.nvim | 2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.sidekick-nvim |
-| vimplugin-sideways.vim | 2025-07-28 |  | legacyPackages.x86_64-linux.vimPlugins.sideways-vim |
+| vimplugin-shabadou.vim | 0-unstable-2016-07-19 |  | legacyPackages.x86_64-linux.vimPlugins.shabadou-vim |
+| vimplugin-showkeys | 0-unstable-2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.showkeys |
+| vimplugin-sidekick.nvim | 2.1.0-unstable-2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.sidekick-nvim |
+| vimplugin-sideways.vim | 0.4.0-unstable-2025-07-28 |  | legacyPackages.x86_64-linux.vimPlugins.sideways-vim |
 | vimplugin-skim | 0.20.5 |  | legacyPackages.x86_64-linux.vimPlugins.skim |
-| vimplugin-skim.vim | 2023-05-25 |  | legacyPackages.x86_64-linux.vimPlugins.skim-vim |
-| vimplugin-sky-color-clock.vim | 2018-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.sky-color-clock-vim |
-| vimplugin-slimv | 2025-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.slimv |
-| vimplugin-smart-open.nvim | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.smart-open-nvim |
-| vimplugin-smart-splits.nvim | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.smart-splits-nvim |
-| vimplugin-smartcolumn.nvim | 2025-07-21 |  | legacyPackages.x86_64-linux.vimPlugins.smartcolumn-nvim |
-| vimplugin-smartpairs.vim | 2018-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.smartpairs-vim |
-| vimplugin-smartyank.nvim | 2025-04-27 |  | legacyPackages.x86_64-linux.vimPlugins.smartyank-nvim |
-| vimplugin-smear-cursor.nvim | 2025-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.smear-cursor-nvim |
-| vimplugin-snacks.nvim | 2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.snacks-nvim |
-| vimplugin-snap | 2025-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.snap |
-| vimplugin-snipe.nvim | 2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.snipe-nvim |
-| vimplugin-snippets.nvim | 2020-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.snippets-nvim |
+| vimplugin-skim.vim | 0-unstable-2023-05-25 |  | legacyPackages.x86_64-linux.vimPlugins.skim-vim |
+| vimplugin-sky-color-clock.vim | 0-unstable-2018-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.sky-color-clock-vim |
+| vimplugin-slimv | 0.9.13-unstable-2025-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.slimv |
+| vimplugin-smart-open.nvim | 0-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.smart-open-nvim |
+| vimplugin-smart-splits.nvim | 2.0.5-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.smart-splits-nvim |
+| vimplugin-smartcolumn.nvim | 1.1.1-unstable-2025-07-21 |  | legacyPackages.x86_64-linux.vimPlugins.smartcolumn-nvim |
+| vimplugin-smartpairs.vim | 0-unstable-2018-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.smartpairs-vim |
+| vimplugin-smartyank.nvim | 0-unstable-2025-04-27 |  | legacyPackages.x86_64-linux.vimPlugins.smartyank-nvim |
+| vimplugin-smear-cursor.nvim | 0.6.0-unstable-2025-11-27 |  | legacyPackages.x86_64-linux.vimPlugins.smear-cursor-nvim |
+| vimplugin-snacks.nvim | 2.30.0-unstable-2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.snacks-nvim |
+| vimplugin-snap | 0-unstable-2025-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.snap |
+| vimplugin-snipe.nvim | 0-unstable-2025-09-18 |  | legacyPackages.x86_64-linux.vimPlugins.snipe-nvim |
+| vimplugin-snippets.nvim | 0-unstable-2020-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.snippets-nvim |
 | vimplugin-sniprun | 1.3.20 |  | legacyPackages.x86_64-linux.vimPlugins.sniprun |
-| vimplugin-solarized-osaka.nvim | 2025-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.solarized-osaka-nvim |
-| vimplugin-solarized.nvim | 2023-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.solarized-nvim |
+| vimplugin-solarized-osaka.nvim | 0-unstable-2025-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.solarized-osaka-nvim |
+| vimplugin-solarized.nvim | 0-unstable-2023-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.solarized-nvim |
 | vimplugin-sonarlint.nvim | 0-unstable-2025-12-08 | Extensions for the built-in Language Server Protocol support in Neovim for sonarlint-language-server | legacyPackages.x86_64-linux.vimPlugins.sonarlint-nvim |
-| vimplugin-sonokai | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.sonokai |
-| vimplugin-sort.nvim | 2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.sort-nvim |
-| vimplugin-sourcemap.vim | 2012-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sourcemap |
-| vimplugin-sourcemap.vim | 2012-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sourcemap-vim |
-| vimplugin-sourcemap.vim | 2012-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sourcemap.vim |
-| vimplugin-space-vim | 2024-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.space-vim |
-| vimplugin-spaceman.nvim | 2024-12-23 |  | legacyPackages.x86_64-linux.vimPlugins.spaceman-nvim |
-| vimplugin-specs.nvim | 2025-01-18 |  | legacyPackages.x86_64-linux.vimPlugins.specs-nvim |
-| vimplugin-spellsitter.nvim | 2022-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.spellsitter-nvim |
-| vimplugin-spellwarn.nvim | 2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.spellwarn-nvim |
-| vimplugin-sphinx.nvim | 2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.sphinx-nvim |
-| vimplugin-splice.vim | 2020-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.splice-vim |
-| vimplugin-split-term.vim | 2018-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.split-term-vim |
-| vimplugin-splitjoin.vim | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.splitjoin-vim |
-| vimplugin-sqlite.lua | 2025-03-14 |  | legacyPackages.x86_64-linux.vimPlugins.sqlite-lua |
-| vimplugin-srcery-vim | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.srcery-vim |
-| vimplugin-sslsecure.vim | 2017-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.sslsecure-vim |
-| vimplugin-ssr.nvim | 2024-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.ssr |
-| vimplugin-ssr.nvim | 2024-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.ssr-nvim |
-| vimplugin-stabilize.nvim | 2023-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.stabilize-nvim |
-| vimplugin-staline.nvim | 2024-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.staline-nvim |
-| vimplugin-stan-vim | 2023-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.stan-vim |
-| vimplugin-starrynight | 2021-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.starrynight |
-| vimplugin-starsearch.vim | 2014-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.starsearch-vim |
-| vimplugin-startup.nvim | 2024-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.startup-nvim |
+| vimplugin-sonokai | 0.3.3-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.sonokai |
+| vimplugin-sort.nvim | 2.2.0-unstable-2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.sort-nvim |
+| vimplugin-sourcemap.vim | 0-unstable-2012-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sourcemap |
+| vimplugin-sourcemap.vim | 0-unstable-2012-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sourcemap-vim |
+| vimplugin-sourcemap.vim | 0-unstable-2012-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sourcemap.vim |
+| vimplugin-space-vim | 0.9.0-unstable-2024-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.space-vim |
+| vimplugin-spaceman.nvim | 0.1.0-unstable-2024-12-23 |  | legacyPackages.x86_64-linux.vimPlugins.spaceman-nvim |
+| vimplugin-specs.nvim | 0-unstable-2025-01-18 |  | legacyPackages.x86_64-linux.vimPlugins.specs-nvim |
+| vimplugin-spellsitter.nvim | 0-unstable-2022-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.spellsitter-nvim |
+| vimplugin-spellwarn.nvim | 0-unstable-2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.spellwarn-nvim |
+| vimplugin-sphinx.nvim | 0-unstable-2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.sphinx-nvim |
+| vimplugin-splice.vim | 1.1.0-unstable-2020-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.splice-vim |
+| vimplugin-split-term.vim | 1.0.3-unstable-2018-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.split-term-vim |
+| vimplugin-splitjoin.vim | 1.2.0-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.splitjoin-vim |
+| vimplugin-sqlite.lua | 1.2.2-unstable-2025-03-14 |  | legacyPackages.x86_64-linux.vimPlugins.sqlite-lua |
+| vimplugin-srcery-vim | 2.1.0-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.srcery-vim |
+| vimplugin-sslsecure.vim | 1.1.1-unstable-2017-07-27 |  | legacyPackages.x86_64-linux.vimPlugins.sslsecure-vim |
+| vimplugin-ssr.nvim | 0-unstable-2024-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.ssr |
+| vimplugin-ssr.nvim | 0-unstable-2024-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.ssr-nvim |
+| vimplugin-stabilize.nvim | 0-unstable-2023-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.stabilize-nvim |
+| vimplugin-staline.nvim | 0-unstable-2024-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.staline-nvim |
+| vimplugin-stan-vim | 1.2.0-unstable-2023-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.stan-vim |
+| vimplugin-starrynight | 0-unstable-2021-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.starrynight |
+| vimplugin-starsearch.vim | 0-unstable-2014-09-21 |  | legacyPackages.x86_64-linux.vimPlugins.starsearch-vim |
+| vimplugin-startup.nvim | 0.1-beta-unstable-2024-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.startup-nvim |
 | vimplugin-statix | 0.1.0 | Lints and suggestions for the nix programming language | legacyPackages.x86_64-linux.vimPlugins.statix |
-| vimplugin-statuscol.nvim | 2025-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.statuscol-nvim |
-| vimplugin-stay-centered.nvim | 2024-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.stay-centered-nvim |
-| vimplugin-stringbreaker.nvim | 2025-09-24 |  | legacyPackages.x86_64-linux.vimPlugins.stringbreaker-nvim |
-| vimplugin-styler.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.styler-nvim |
-| vimplugin-stylish.nvim | 2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.stylish-nvim |
-| vimplugin-substitute.nvim | 2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.substitute-nvim |
-| vimplugin-substrata.nvim | 2022-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.substrata-nvim |
-| vimplugin-supermaven-nvim | 2024-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.supermaven-nvim |
-| vimplugin-supertab | 2025-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.Supertab |
-| vimplugin-supertab | 2025-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.supertab |
-| vimplugin-surround.nvim | 2022-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.surround-nvim |
-| vimplugin-sved | 2024-06-18 | synctex support between vim/neovim and evince | legacyPackages.x86_64-linux.vimPlugins.sved |
-| vimplugin-swayconfig.vim | 2023-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.swayconfig-vim |
-| vimplugin-swift.vim | 2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.swift-vim |
-| vimplugin-switch.vim | 2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.switch-vim |
-| vimplugin-symbol-usage.nvim | 2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.symbol-usage-nvim |
-| vimplugin-symbols-outline.nvim | 2024-01-03 |  | legacyPackages.x86_64-linux.vimPlugins.symbols-outline-nvim |
-| vimplugin-syntastic | 2022-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.Syntastic |
-| vimplugin-syntastic | 2022-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.syntastic |
-| vimplugin-syntax-tree-surfer | 2023-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.syntax-tree-surfer |
-| vimplugin-tabby.nvim | 2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.tabby-nvim |
-| vimplugin-tabline.nvim | 2023-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.tabline-nvim |
-| vimplugin-tabmerge | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.tabmerge |
-| vimplugin-tabnine-vim | 2023-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.tabnine-vim |
-| vimplugin-taboo.vim | 2024-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.taboo-vim |
-| vimplugin-tabout.nvim | 2024-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.tabout-nvim |
-| vimplugin-tabpagebuffer.vim | 2014-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.tabpagebuffer |
-| vimplugin-tabpagebuffer.vim | 2014-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.tabpagebuffer-vim |
-| vimplugin-tabular | 2024-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.Tabular |
-| vimplugin-tabular | 2024-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.tabular |
-| vimplugin-tagalong.vim | 2023-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.tagalong-vim |
-| vimplugin-tagbar | 2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.Tagbar |
-| vimplugin-tagbar | 2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.tagbar |
-| vimplugin-taglist.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.taglist |
-| vimplugin-taglist.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.taglist-vim |
-| vimplugin-tailwind-tools.nvim | 2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.tailwind-tools-nvim |
-| vimplugin-tailwindcss-colors.nvim | 2021-12-24 |  | legacyPackages.x86_64-linux.vimPlugins.tailwindcss-colors-nvim |
-| vimplugin-tardis.nvim | 2025-08-30 |  | legacyPackages.x86_64-linux.vimPlugins.tardis-nvim |
-| vimplugin-targets.vim | 2024-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.targets-vim |
+| vimplugin-statuscol.nvim | 0-unstable-2025-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.statuscol-nvim |
+| vimplugin-stay-centered.nvim | 0-unstable-2024-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.stay-centered-nvim |
+| vimplugin-stringbreaker.nvim | 0-unstable-2025-09-24 |  | legacyPackages.x86_64-linux.vimPlugins.stringbreaker-nvim |
+| vimplugin-styler.nvim | 1.0.1-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.styler-nvim |
+| vimplugin-stylish.nvim | 0-unstable-2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.stylish-nvim |
+| vimplugin-substitute.nvim | 2.0.0-unstable-2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.substitute-nvim |
+| vimplugin-substrata.nvim | 0-unstable-2022-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.substrata-nvim |
+| vimplugin-supermaven-nvim | 0-unstable-2024-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.supermaven-nvim |
+| vimplugin-supertab | 2.1-unstable-2025-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.Supertab |
+| vimplugin-supertab | 2.1-unstable-2025-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.supertab |
+| vimplugin-surround.nvim | 0-unstable-2022-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.surround-nvim |
+| vimplugin-sved | 1.0-unstable-2024-06-18 | synctex support between vim/neovim and evince | legacyPackages.x86_64-linux.vimPlugins.sved |
+| vimplugin-swayconfig.vim | 0.13.0-unstable-2023-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.swayconfig-vim |
+| vimplugin-swift.vim | 0-unstable-2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.swift-vim |
+| vimplugin-switch.vim | 0.3.0-unstable-2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.switch-vim |
+| vimplugin-symbol-usage.nvim | 0-unstable-2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.symbol-usage-nvim |
+| vimplugin-symbols-outline.nvim | 0-unstable-2024-01-03 |  | legacyPackages.x86_64-linux.vimPlugins.symbols-outline-nvim |
+| vimplugin-syntastic | 3.10.0-unstable-2022-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.Syntastic |
+| vimplugin-syntastic | 3.10.0-unstable-2022-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.syntastic |
+| vimplugin-syntax-tree-surfer | 0-unstable-2023-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.syntax-tree-surfer |
+| vimplugin-tabby.nvim | 2.8.0-unstable-2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.tabby-nvim |
+| vimplugin-tabline.nvim | 0-unstable-2023-07-24 |  | legacyPackages.x86_64-linux.vimPlugins.tabline-nvim |
+| vimplugin-tabmerge | 0.3-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.tabmerge |
+| vimplugin-tabnine-vim | 2.10.0-unstable-2023-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.tabnine-vim |
+| vimplugin-taboo.vim | 0-unstable-2024-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.taboo-vim |
+| vimplugin-tabout.nvim | 0-unstable-2024-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.tabout-nvim |
+| vimplugin-tabpagebuffer.vim | 0-unstable-2014-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.tabpagebuffer |
+| vimplugin-tabpagebuffer.vim | 0-unstable-2014-09-30 |  | legacyPackages.x86_64-linux.vimPlugins.tabpagebuffer-vim |
+| vimplugin-tabular | 1.0.0-unstable-2024-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.Tabular |
+| vimplugin-tabular | 1.0.0-unstable-2024-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.tabular |
+| vimplugin-tagalong.vim | 0.2.2-unstable-2023-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.tagalong-vim |
+| vimplugin-tagbar | 3.1.1-unstable-2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.Tagbar |
+| vimplugin-tagbar | 3.1.1-unstable-2025-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.tagbar |
+| vimplugin-taglist.vim | 4.5-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.taglist |
+| vimplugin-taglist.vim | 4.5-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.taglist-vim |
+| vimplugin-tailwind-tools.nvim | 0.3.2-unstable-2025-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.tailwind-tools-nvim |
+| vimplugin-tailwindcss-colors.nvim | 0-unstable-2021-12-24 |  | legacyPackages.x86_64-linux.vimPlugins.tailwindcss-colors-nvim |
+| vimplugin-tardis.nvim | 0-unstable-2025-08-30 |  | legacyPackages.x86_64-linux.vimPlugins.tardis-nvim |
+| vimplugin-targets.vim | 0.5.0-unstable-2024-07-10 |  | legacyPackages.x86_64-linux.vimPlugins.targets-vim |
 | vimplugin-taskwarrior | 2.6.2 |  | legacyPackages.x86_64-linux.vimPlugins.taskwarrior2 |
 | vimplugin-taskwarrior | 3.4.2 |  | legacyPackages.x86_64-linux.vimPlugins.taskwarrior3 |
-| vimplugin-taskwiki | 2025-06-14 |  | legacyPackages.x86_64-linux.vimPlugins.taskwiki |
-| vimplugin-tcomment_vim | 2024-03-25 |  | legacyPackages.x86_64-linux.vimPlugins.tcomment_vim |
+| vimplugin-taskwiki | 1.0.0-unstable-2025-06-14 |  | legacyPackages.x86_64-linux.vimPlugins.taskwiki |
+| vimplugin-tcomment_vim | 4.00-unstable-2024-03-25 |  | legacyPackages.x86_64-linux.vimPlugins.tcomment_vim |
 | vimplugin-teamtype | 0.9.0 | Real-time co-editing of local text files | legacyPackages.x86_64-linux.vimPlugins.ethersync |
 | vimplugin-teamtype | 0.9.0 | Real-time co-editing of local text files | legacyPackages.x86_64-linux.vimPlugins.teamtype |
-| vimplugin-telekasten.nvim | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.telekasten-nvim |
-| vimplugin-telescope-asynctasks.nvim | 2022-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-asynctasks-nvim |
-| vimplugin-telescope-cheat.nvim | 2023-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-cheat-nvim |
-| vimplugin-telescope-coc.nvim | 2025-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-coc-nvim |
-| vimplugin-telescope-dap.nvim | 2024-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-dap-nvim |
-| vimplugin-telescope-emoji.nvim | 2022-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-emoji-nvim |
-| vimplugin-telescope-file-browser.nvim | 2025-08-05 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-file-browser-nvim |
-| vimplugin-telescope-frecency.nvim | 2025-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-frecency-nvim |
-| vimplugin-telescope-fzf-native.nvim | 2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-fzf-native-nvim |
-| vimplugin-telescope-fzf-writer.nvim | 2021-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-fzf-writer-nvim |
-| vimplugin-telescope-fzy-native.nvim | 2022-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-fzy-native-nvim |
-| vimplugin-telescope-git-conflicts.nvim | 2024-01-14 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-git-conflicts-nvim |
-| vimplugin-telescope-github.nvim | 2022-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-github-nvim |
-| vimplugin-telescope-github.nvim | 2022-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-glyph-nvim |
-| vimplugin-telescope-live-grep-args.nvim | 2025-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-live-grep-args-nvim |
-| vimplugin-telescope-lsp-handlers.nvim | 2023-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-lsp-handlers-nvim |
-| vimplugin-telescope-media-files.nvim | 2023-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-media-files-nvim |
-| vimplugin-telescope-project.nvim | 2025-04-23 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-project-nvim |
-| vimplugin-telescope-sg | 2025-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-sg |
-| vimplugin-telescope-smart-history.nvim | 2022-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-smart-history-nvim |
-| vimplugin-telescope-symbols.nvim | 2023-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-symbols-nvim |
-| vimplugin-telescope-ui-select.nvim | 2023-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-ui-select-nvim |
-| vimplugin-telescope-ultisnips.nvim | 2024-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-ultisnips-nvim |
-| vimplugin-telescope-undo.nvim | 2025-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-undo-nvim |
-| vimplugin-telescope-vim-bookmarks.nvim | 2024-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-vim-bookmarks-nvim |
-| vimplugin-telescope-z.nvim | 2023-08-17 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-z-nvim |
-| vimplugin-telescope-zf-native.nvim | 2024-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-zf-native-nvim |
-| vimplugin-telescope-zoxide | 2024-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-zoxide |
-| vimplugin-telescope_hoogle | 2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.telescope_hoogle |
-| vimplugin-templ.vim | 2025-05-07 |  | legacyPackages.x86_64-linux.vimPlugins.templ-vim |
-| vimplugin-template-string.nvim | 2025-01-06 |  | legacyPackages.x86_64-linux.vimPlugins.template-string-nvim |
-| vimplugin-tender.vim | 2025-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.tender-vim |
-| vimplugin-term-edit.nvim | 2024-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.term-edit-nvim |
-| vimplugin-terminal.nvim | 2025-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.terminal-nvim |
-| vimplugin-terminus | 2024-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.terminus |
-| vimplugin-termwrapper.nvim | 2021-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.termwrapper-nvim |
-| vimplugin-tern_for_vim | 2019-01-23 |  | legacyPackages.x86_64-linux.vimPlugins.tern_for_vim |
-| vimplugin-tex-conceal.vim | 2022-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.tex-conceal-vim |
-| vimplugin-texpresso.vim | 2025-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.texpresso-vim |
-| vimplugin-text-case.nvim | 2024-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.text-case-nvim |
-| vimplugin-thanks.nvim | 2025-03-08 |  | legacyPackages.x86_64-linux.vimPlugins.thanks-nvim |
-| vimplugin-themed-tabs.nvim | 2024-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.themed-tabs-nvim |
-| vimplugin-themery.nvim | 2025-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.themery-nvim |
-| vimplugin-thesaurus_query.vim | 2022-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.thesaurus_query-vim |
-| vimplugin-thumbnail.vim | 2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.thumbnail |
-| vimplugin-thumbnail.vim | 2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.thumbnail-vim |
-| vimplugin-timerly | 2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.timerly |
-| vimplugin-timestamp.vim | 2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.timestamp-vim |
-| vimplugin-tint.nvim | 2024-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.tint-nvim |
-| vimplugin-tinted-nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.tinted-nvim |
-| vimplugin-tinted-vim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.tinted-vim |
-| vimplugin-tiny-devicons-auto-colors.nvim | 2025-01-03 |  | legacyPackages.x86_64-linux.vimPlugins.tiny-devicons-auto-colors-nvim |
-| vimplugin-tiny-glimmer.nvim | 2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.tiny-glimmer-nvim |
-| vimplugin-tiny-inline-diagnostic.nvim | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.tiny-inline-diagnostic-nvim |
-| vimplugin-tinykeymap | 2024-02-17 |  | legacyPackages.x86_64-linux.vimPlugins.tinykeymap |
-| vimplugin-tlib_vim | 2022-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.tlib |
-| vimplugin-tlib_vim | 2022-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.tlib_vim |
-| vimplugin-tmux-complete.vim | 2021-03-26 |  | legacyPackages.x86_64-linux.vimPlugins.tmux-complete-vim |
-| vimplugin-tmux.nvim | 2025-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.tmux-nvim |
-| vimplugin-tmuxline.vim | 2021-07-20 |  | legacyPackages.x86_64-linux.vimPlugins.tmuxline-vim |
-| vimplugin-todo-comments.nvim | 2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.todo-comments-nvim |
-| vimplugin-todo.txt-vim | 2024-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.todo-txt-vim |
-| vimplugin-toggleterm.nvim | 2025-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.toggleterm-nvim |
-| vimplugin-tokyonight.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.tokyonight-nvim |
-| vimplugin-traces.vim | 2025-01-25 |  | legacyPackages.x86_64-linux.vimPlugins.traces-vim |
-| vimplugin-trailblazer.nvim | 2025-02-04 |  | legacyPackages.x86_64-linux.vimPlugins.trailblazer-nvim |
-| vimplugin-train.nvim | 2023-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.train-nvim |
-| vimplugin-transparent.nvim | 2025-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.transparent-nvim |
+| vimplugin-telekasten.nvim | 0-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.telekasten-nvim |
+| vimplugin-telescope-asynctasks.nvim | 0-unstable-2022-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-asynctasks-nvim |
+| vimplugin-telescope-cheat.nvim | 0-unstable-2023-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-cheat-nvim |
+| vimplugin-telescope-coc.nvim | 0-unstable-2025-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-coc-nvim |
+| vimplugin-telescope-dap.nvim | 0-unstable-2024-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-dap-nvim |
+| vimplugin-telescope-emoji.nvim | 0-unstable-2022-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-emoji-nvim |
+| vimplugin-telescope-file-browser.nvim | 0-unstable-2025-08-05 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-file-browser-nvim |
+| vimplugin-telescope-frecency.nvim | 1.2.2-unstable-2025-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-frecency-nvim |
+| vimplugin-telescope-fzf-native.nvim | 0-unstable-2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-fzf-native-nvim |
+| vimplugin-telescope-fzf-writer.nvim | 0-unstable-2021-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-fzf-writer-nvim |
+| vimplugin-telescope-fzy-native.nvim | 0-unstable-2022-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-fzy-native-nvim |
+| vimplugin-telescope-git-conflicts.nvim | 0-unstable-2024-01-14 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-git-conflicts-nvim |
+| vimplugin-telescope-github.nvim | 0-unstable-2022-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-github-nvim |
+| vimplugin-telescope-github.nvim | 0-unstable-2022-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-glyph-nvim |
+| vimplugin-telescope-live-grep-args.nvim | 1.1.0-unstable-2025-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-live-grep-args-nvim |
+| vimplugin-telescope-lsp-handlers.nvim | 0-unstable-2023-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-lsp-handlers-nvim |
+| vimplugin-telescope-media-files.nvim | 0-unstable-2023-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-media-files-nvim |
+| vimplugin-telescope-project.nvim | 0-unstable-2025-04-23 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-project-nvim |
+| vimplugin-telescope-sg | 0-unstable-2025-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-sg |
+| vimplugin-telescope-smart-history.nvim | 0-unstable-2022-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-smart-history-nvim |
+| vimplugin-telescope-symbols.nvim | 0-unstable-2023-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-symbols-nvim |
+| vimplugin-telescope-ui-select.nvim | 0-unstable-2023-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-ui-select-nvim |
+| vimplugin-telescope-ultisnips.nvim | 0-unstable-2024-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-ultisnips-nvim |
+| vimplugin-telescope-undo.nvim | 0-unstable-2025-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-undo-nvim |
+| vimplugin-telescope-vim-bookmarks.nvim | 0-unstable-2024-04-02 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-vim-bookmarks-nvim |
+| vimplugin-telescope-z.nvim | 0-unstable-2023-08-17 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-z-nvim |
+| vimplugin-telescope-zf-native.nvim | 1.0.0-unstable-2024-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-zf-native-nvim |
+| vimplugin-telescope-zoxide | 2.1-unstable-2024-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.telescope-zoxide |
+| vimplugin-telescope_hoogle | 0-unstable-2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.telescope_hoogle |
+| vimplugin-templ.vim | 0.0.1-unstable-2025-05-07 |  | legacyPackages.x86_64-linux.vimPlugins.templ-vim |
+| vimplugin-template-string.nvim | 0-unstable-2025-01-06 |  | legacyPackages.x86_64-linux.vimPlugins.template-string-nvim |
+| vimplugin-tender.vim | 0-unstable-2025-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.tender-vim |
+| vimplugin-term-edit.nvim | 1.4.0-unstable-2024-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.term-edit-nvim |
+| vimplugin-terminal.nvim | 0-unstable-2025-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.terminal-nvim |
+| vimplugin-terminus | 1.3-unstable-2024-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.terminus |
+| vimplugin-termwrapper.nvim | 0-unstable-2021-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.termwrapper-nvim |
+| vimplugin-tern_for_vim | 0.5.0-unstable-2019-01-23 |  | legacyPackages.x86_64-linux.vimPlugins.tern_for_vim |
+| vimplugin-tex-conceal.vim | 0-unstable-2022-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.tex-conceal-vim |
+| vimplugin-texpresso.vim | 0-unstable-2025-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.texpresso-vim |
+| vimplugin-text-case.nvim | 1.2.0-unstable-2024-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.text-case-nvim |
+| vimplugin-thanks.nvim | 0-unstable-2025-03-08 |  | legacyPackages.x86_64-linux.vimPlugins.thanks-nvim |
+| vimplugin-themed-tabs.nvim | 0-unstable-2024-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.themed-tabs-nvim |
+| vimplugin-themery.nvim | 2.0.1-unstable-2025-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.themery-nvim |
+| vimplugin-thesaurus_query.vim | 0.7.0-unstable-2022-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.thesaurus_query-vim |
+| vimplugin-thumbnail.vim | 0.8-unstable-2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.thumbnail |
+| vimplugin-thumbnail.vim | 0.8-unstable-2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.thumbnail-vim |
+| vimplugin-timerly | 0-unstable-2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.timerly |
+| vimplugin-timestamp.vim | 1.21-unstable-2010-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.timestamp-vim |
+| vimplugin-tint.nvim | 0-unstable-2024-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.tint-nvim |
+| vimplugin-tinted-nvim | 0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.tinted-nvim |
+| vimplugin-tinted-vim | 0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.tinted-vim |
+| vimplugin-tiny-devicons-auto-colors.nvim | 0-unstable-2025-01-03 |  | legacyPackages.x86_64-linux.vimPlugins.tiny-devicons-auto-colors-nvim |
+| vimplugin-tiny-glimmer.nvim | 0-unstable-2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.tiny-glimmer-nvim |
+| vimplugin-tiny-inline-diagnostic.nvim | 0-unstable-2025-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.tiny-inline-diagnostic-nvim |
+| vimplugin-tinykeymap | 0.06-unstable-2024-02-17 |  | legacyPackages.x86_64-linux.vimPlugins.tinykeymap |
+| vimplugin-tlib_vim | 1.28-unstable-2022-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.tlib |
+| vimplugin-tlib_vim | 1.28-unstable-2022-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.tlib_vim |
+| vimplugin-tmux-complete.vim | 0.1.4-unstable-2021-03-26 |  | legacyPackages.x86_64-linux.vimPlugins.tmux-complete-vim |
+| vimplugin-tmux.nvim | 0-unstable-2025-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.tmux-nvim |
+| vimplugin-tmuxline.vim | 1.0-unstable-2021-07-20 |  | legacyPackages.x86_64-linux.vimPlugins.tmuxline-vim |
+| vimplugin-todo-comments.nvim | 1.5.0-unstable-2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.todo-comments-nvim |
+| vimplugin-todo.txt-vim | 0-unstable-2024-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.todo-txt-vim |
+| vimplugin-toggleterm.nvim | 2.13.1-unstable-2025-03-09 |  | legacyPackages.x86_64-linux.vimPlugins.toggleterm-nvim |
+| vimplugin-tokyonight.nvim | 4.14.1-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.tokyonight-nvim |
+| vimplugin-traces.vim | 1.1.0-unstable-2025-01-25 |  | legacyPackages.x86_64-linux.vimPlugins.traces-vim |
+| vimplugin-trailblazer.nvim | 0-unstable-2025-02-04 |  | legacyPackages.x86_64-linux.vimPlugins.trailblazer-nvim |
+| vimplugin-train.nvim | 0-unstable-2023-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.train-nvim |
+| vimplugin-transparent.nvim | 0-unstable-2025-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.transparent-nvim |
 | vimplugin-treesitter-grammar-ada |  |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ada |
 | vimplugin-treesitter-grammar-agda |  |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.agda |
 | vimplugin-treesitter-grammar-angular |  |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.angular |
@@ -99425,621 +99452,621 @@
 | vimplugin-treesitter-grammar-ziggy |  |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ziggy |
 | vimplugin-treesitter-grammar-ziggy_schema |  |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ziggy_schema |
 | vimplugin-treesitter-grammar-zsh |  |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.zsh |
-| vimplugin-treesj | 2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.treesj |
-| vimplugin-treewalker.nvim | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.treewalker-nvim |
-| vimplugin-tremor-vim | 2021-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.tremor-vim |
-| vimplugin-trim.nvim | 2024-12-26 |  | legacyPackages.x86_64-linux.vimPlugins.trim-nvim |
-| vimplugin-triptych.nvim | 2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.triptych-nvim |
-| vimplugin-trouble.nvim | 2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.trouble-nvim |
-| vimplugin-true-zen.nvim | 2023-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.true-zen-nvim |
-| vimplugin-trust.vim | 2022-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.trust-vim |
-| vimplugin-ts-autotag.nvim | 2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.ts-autotag-nvim |
-| vimplugin-ts-comments.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.ts-comments-nvim |
-| vimplugin-tsc.nvim | 2025-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.tsc-nvim |
-| vimplugin-tslime.vim | 2020-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.tslime |
-| vimplugin-tslime.vim | 2020-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.tslime-vim |
-| vimplugin-tssorter.nvim | 2024-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.tssorter-nvim |
-| vimplugin-tsuquyomi | 2023-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.tsuquyomi |
+| vimplugin-treesj | 0-unstable-2025-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.treesj |
+| vimplugin-treewalker.nvim | 0-unstable-2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.treewalker-nvim |
+| vimplugin-tremor-vim | 0-unstable-2021-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.tremor-vim |
+| vimplugin-trim.nvim | 0.10.2-unstable-2024-12-26 |  | legacyPackages.x86_64-linux.vimPlugins.trim-nvim |
+| vimplugin-triptych.nvim | 0-unstable-2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.triptych-nvim |
+| vimplugin-trouble.nvim | 3.7.1-unstable-2025-10-31 |  | legacyPackages.x86_64-linux.vimPlugins.trouble-nvim |
+| vimplugin-true-zen.nvim | 0-unstable-2023-06-09 |  | legacyPackages.x86_64-linux.vimPlugins.true-zen-nvim |
+| vimplugin-trust.vim | 0.1.1-unstable-2022-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.trust-vim |
+| vimplugin-ts-autotag.nvim | 0-unstable-2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.ts-autotag-nvim |
+| vimplugin-ts-comments.nvim | 1.5.0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.ts-comments-nvim |
+| vimplugin-tsc.nvim | 2.9.0-unstable-2025-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.tsc-nvim |
+| vimplugin-tslime.vim | 0-unstable-2020-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.tslime |
+| vimplugin-tslime.vim | 0-unstable-2020-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.tslime-vim |
+| vimplugin-tssorter.nvim | 0-unstable-2024-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.tssorter-nvim |
+| vimplugin-tsuquyomi | 0.8.0-unstable-2023-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.tsuquyomi |
 | vimplugin-tup | 0.8 |  | legacyPackages.x86_64-linux.vimPlugins.tup |
-| vimplugin-tv.nvim | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.tv-nvim |
-| vimplugin-twilight.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.twilight-nvim |
-| vimplugin-typescript-tools.nvim | 2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.typescript-tools-nvim |
-| vimplugin-typescript-vim | 2025-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.typescript-vim |
-| vimplugin-typescript.nvim | 2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.typescript-nvim |
-| vimplugin-typst-conceal.vim | 2023-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.typst-conceal-vim |
-| vimplugin-typst-preview.nvim | 2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.typst-preview-nvim |
-| vimplugin-typst.vim | 2025-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.typst-vim |
-| vimplugin-typstwatch.nvim | 2025-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.typstwatch-nvim |
-| vimplugin-ultimate-autopair.nvim | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.ultimate-autopair-nvim |
-| vimplugin-ultisnips | 2025-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.UltiSnips |
-| vimplugin-ultisnips | 2025-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.ultisnips |
-| vimplugin-undotree | 2025-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.undotree |
-| vimplugin-unicode.vim | 2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.unicode-vim |
-| vimplugin-unified.nvim | 2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.unified-nvim |
-| vimplugin-unimpaired-which-key.nvim | 2024-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.unimpaired-which-key-nvim |
-| vimplugin-unimpaired.nvim | 2025-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.unimpaired-nvim |
-| vimplugin-unison | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.unison |
-| vimplugin-unite.vim | 2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.unite |
-| vimplugin-unite.vim | 2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.unite-vim |
-| vimplugin-url-open | 2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.url-open |
-| vimplugin-urlview.nvim | 2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.urlview-nvim |
-| vimplugin-utl.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.utl-vim |
-| vimplugin-uv.nvim | 2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.uv-nvim |
-| vimplugin-vCoolor.vim | 2020-10-14 | Simple color selector/picker plugin | legacyPackages.x86_64-linux.vimPlugins.vCoolor-vim |
-| vimplugin-vader.vim | 2024-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.vader-vim |
-| vimplugin-vague.nvim | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.vague-nvim |
+| vimplugin-tv.nvim | 0-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.tv-nvim |
+| vimplugin-twilight.nvim | 1.0.0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.twilight-nvim |
+| vimplugin-typescript-tools.nvim | 0-unstable-2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.typescript-tools-nvim |
+| vimplugin-typescript-vim | 0-unstable-2025-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.typescript-vim |
+| vimplugin-typescript.nvim | 0-unstable-2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.typescript-nvim |
+| vimplugin-typst-conceal.vim | 0-unstable-2023-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.typst-conceal-vim |
+| vimplugin-typst-preview.nvim | 1.4.0-unstable-2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.typst-preview-nvim |
+| vimplugin-typst.vim | 0-unstable-2025-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.typst-vim |
+| vimplugin-typstwatch.nvim | 0-unstable-2025-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.typstwatch-nvim |
+| vimplugin-ultimate-autopair.nvim | 0-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.ultimate-autopair-nvim |
+| vimplugin-ultisnips | 3.2-unstable-2025-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.UltiSnips |
+| vimplugin-ultisnips | 3.2-unstable-2025-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.ultisnips |
+| vimplugin-undotree | 0-unstable-2025-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.undotree |
+| vimplugin-unicode.vim | 21-unstable-2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.unicode-vim |
+| vimplugin-unified.nvim | 0.0.2-unstable-2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.unified-nvim |
+| vimplugin-unimpaired-which-key.nvim | 2.0-unstable-2024-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.unimpaired-which-key-nvim |
+| vimplugin-unimpaired.nvim | 0.4.0-unstable-2025-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.unimpaired-nvim |
+| vimplugin-unison | 0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.unison |
+| vimplugin-unite.vim | 0-unstable-2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.unite |
+| vimplugin-unite.vim | 0-unstable-2023-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.unite-vim |
+| vimplugin-url-open | 1.7.1-unstable-2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.url-open |
+| vimplugin-urlview.nvim | 0.6-compat-unstable-2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.urlview-nvim |
+| vimplugin-utl.vim | 2.0-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.utl-vim |
+| vimplugin-uv.nvim | 0-unstable-2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.uv-nvim |
+| vimplugin-vCoolor.vim | 1.2-unstable-2020-10-14 | Simple color selector/picker plugin | legacyPackages.x86_64-linux.vimPlugins.vCoolor-vim |
+| vimplugin-vader.vim | 0.3.0-unstable-2024-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.vader-vim |
+| vimplugin-vague.nvim | 1.5.0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.vague-nvim |
 | vimplugin-vectorcode.nvim | 0.7.19 | Index and navigate your code repository using vectorcode | legacyPackages.x86_64-linux.vimPlugins.vectorcode-nvim |
-| vimplugin-venn.nvim | 2024-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.venn-nvim |
-| vimplugin-venv-selector.nvim | 2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.venv-selector-nvim |
-| vimplugin-verilog_systemverilog.vim | 2024-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.verilog_systemverilog-vim |
-| vimplugin-vifm.vim | 2025-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.vifm-vim |
-| vimplugin-vim-CtrlXA | 2025-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-CtrlXA |
-| vimplugin-vim-DetectSpellLang | 2024-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-DetectSpellLang |
-| vimplugin-vim-LanguageTool | 2024-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-LanguageTool |
-| vimplugin-vim-ReplaceWithRegister | 2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ReplaceWithRegister |
-| vimplugin-vim-ReplaceWithSameIndentRegister | 2020-06-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ReplaceWithSameIndentRegister |
-| vimplugin-vim-SyntaxRange | 2024-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.SyntaxRange |
-| vimplugin-vim-SyntaxRange | 2024-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-SyntaxRange |
-| vimplugin-vim-abolish | 2023-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-abolish |
-| vimplugin-vim-addon-actions | 2023-02-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-actions |
-| vimplugin-vim-addon-async | 2017-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-async |
-| vimplugin-vim-addon-background-cmd | 2015-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-background-cmd |
-| vimplugin-vim-addon-commenting | 2013-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-commenting |
-| vimplugin-vim-addon-completion | 2015-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-completion |
-| vimplugin-vim-addon-errorformats | 2024-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-errorformats |
-| vimplugin-vim-addon-goto-thing-at-cursor | 2020-02-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-goto-thing-at-cursor |
-| vimplugin-vim-addon-local-vimrc | 2024-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-local-vimrc |
-| vimplugin-vim-addon-manager | 2024-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-manager |
-| vimplugin-vim-addon-mru | 2024-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-mru |
-| vimplugin-vim-addon-mw-utils | 2020-02-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-mw-utils |
-| vimplugin-vim-addon-nix | 2017-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-nix |
-| vimplugin-vim-addon-other | 2021-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-other |
-| vimplugin-vim-addon-php-manual | 2015-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-php-manual |
-| vimplugin-vim-addon-signs | 2013-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-signs |
-| vimplugin-vim-addon-sql | 2017-02-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-sql |
-| vimplugin-vim-addon-syntax-checker | 2017-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-syntax-checker |
-| vimplugin-vim-addon-toggle-buffer | 2024-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-toggle-buffer |
-| vimplugin-vim-addon-xdebug | 2014-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-xdebug |
-| vimplugin-vim-advanced-sorters | 2024-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-advanced-sorters |
-| vimplugin-vim-after-object | 2018-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-after-object |
-| vimplugin-vim-afterglow | 2024-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-afterglow |
-| vimplugin-vim-agda | 2024-05-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-agda |
-| vimplugin-vim-airline | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.airline |
-| vimplugin-vim-airline | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-airline |
-| vimplugin-vim-airline-clock | 2021-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-airline-clock |
-| vimplugin-vim-airline-themes | 2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-airline-themes |
-| vimplugin-vim-alias | 2024-02-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-alias |
-| vimplugin-vim-android | 2025-05-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-android |
-| vimplugin-vim-anzu | 2025-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-anzu |
-| vimplugin-vim-apathy | 2021-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-apathy |
-| vimplugin-vim-apm | 2025-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-apm |
-| vimplugin-vim-argumentative | 2014-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-argumentative |
-| vimplugin-vim-argwrap | 2025-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-argwrap |
-| vimplugin-vim-asterisk | 2020-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-asterisk |
-| vimplugin-vim-astro | 2023-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-astro |
-| vimplugin-vim-asymptote | 2014-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-asymptote |
-| vimplugin-vim-auto-save | 2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-auto-save |
-| vimplugin-vim-autoformat | 2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-autoformat |
-| vimplugin-vim-automkdir | 2016-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-automkdir |
-| vimplugin-vim-autosource | 2025-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-autosource |
-| vimplugin-vim-autoswap | 2019-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-autoswap |
-| vimplugin-vim-bazel | 2022-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bazel |
-| vimplugin-vim-bbye | 2018-03-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bbye |
-| vimplugin-vim-be-good | 2024-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-be-good |
-| vimplugin-vim-beancount | 2024-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-beancount |
-| vimplugin-vim-bepoptimist | 2022-06-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bepoptimist |
-| vimplugin-vim-better-whitespace | 2025-05-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-better-whitespace |
-| vimplugin-vim-bookmarks | 2021-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bookmarks |
-| vimplugin-vim-boxdraw | 2021-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-boxdraw |
-| vimplugin-vim-bracketed-paste | 2024-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bracketed-paste |
-| vimplugin-vim-bsv | 2020-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bsv |
-| vimplugin-vim-buffergator | 2021-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-buffergator |
-| vimplugin-vim-bufferline | 2016-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bufferline |
-| vimplugin-vim-bufkill | 2022-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bufkill |
-| vimplugin-vim-buftabline | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-buftabline |
-| vimplugin-vim-caddyfile | 2025-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-caddyfile |
-| vimplugin-vim-capslock | 2023-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-capslock |
-| vimplugin-vim-carbon-now-sh | 2022-08-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-carbon-now-sh |
-| vimplugin-vim-ccls | 2022-04-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ccls |
-| vimplugin-vim-characterize | 2024-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-characterize |
-| vimplugin-vim-choosewin | 2021-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-choosewin |
-| vimplugin-vim-clang-format | 2021-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-clang-format |
+| vimplugin-venn.nvim | 0-unstable-2024-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.venn-nvim |
+| vimplugin-venv-selector.nvim | 0-unstable-2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.venv-selector-nvim |
+| vimplugin-verilog_systemverilog.vim | 3.0-unstable-2024-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.verilog_systemverilog-vim |
+| vimplugin-vifm.vim | 0.14-unstable-2025-09-28 |  | legacyPackages.x86_64-linux.vimPlugins.vifm-vim |
+| vimplugin-vim-CtrlXA | 1.13-unstable-2025-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-CtrlXA |
+| vimplugin-vim-DetectSpellLang | 2.2-unstable-2024-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-DetectSpellLang |
+| vimplugin-vim-LanguageTool | 0-unstable-2024-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-LanguageTool |
+| vimplugin-vim-ReplaceWithRegister | 1.44-unstable-2025-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ReplaceWithRegister |
+| vimplugin-vim-ReplaceWithSameIndentRegister | 1.01-unstable-2020-06-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ReplaceWithSameIndentRegister |
+| vimplugin-vim-SyntaxRange | 1.04-unstable-2024-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.SyntaxRange |
+| vimplugin-vim-SyntaxRange | 1.04-unstable-2024-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-SyntaxRange |
+| vimplugin-vim-abolish | 1.2-unstable-2023-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-abolish |
+| vimplugin-vim-addon-actions | 0-unstable-2023-02-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-actions |
+| vimplugin-vim-addon-async | 0-unstable-2017-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-async |
+| vimplugin-vim-addon-background-cmd | 0-unstable-2015-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-background-cmd |
+| vimplugin-vim-addon-commenting | 1.0-unstable-2013-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-commenting |
+| vimplugin-vim-addon-completion | 0-unstable-2015-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-completion |
+| vimplugin-vim-addon-errorformats | 0-unstable-2024-03-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-errorformats |
+| vimplugin-vim-addon-goto-thing-at-cursor | 0-unstable-2020-02-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-goto-thing-at-cursor |
+| vimplugin-vim-addon-local-vimrc | 0-unstable-2024-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-local-vimrc |
+| vimplugin-vim-addon-manager | 0-unstable-2024-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-manager |
+| vimplugin-vim-addon-mru | 0-unstable-2024-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-mru |
+| vimplugin-vim-addon-mw-utils | 0-unstable-2020-02-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-mw-utils |
+| vimplugin-vim-addon-nix | 0-unstable-2017-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-nix |
+| vimplugin-vim-addon-other | 0-unstable-2021-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-other |
+| vimplugin-vim-addon-php-manual | 0-unstable-2015-01-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-php-manual |
+| vimplugin-vim-addon-signs | 0-unstable-2013-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-signs |
+| vimplugin-vim-addon-sql | 0-unstable-2017-02-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-sql |
+| vimplugin-vim-addon-syntax-checker | 1.2.0-unstable-2017-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-syntax-checker |
+| vimplugin-vim-addon-toggle-buffer | 0-unstable-2024-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-toggle-buffer |
+| vimplugin-vim-addon-xdebug | 0-unstable-2014-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-xdebug |
+| vimplugin-vim-advanced-sorters | 1.31-unstable-2024-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-advanced-sorters |
+| vimplugin-vim-after-object | 0-unstable-2018-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-after-object |
+| vimplugin-vim-afterglow | 0.7-unstable-2024-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-afterglow |
+| vimplugin-vim-agda | 2022-09-16-unstable-2024-05-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-agda |
+| vimplugin-vim-airline | 0.11-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.airline |
+| vimplugin-vim-airline | 0.11-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-airline |
+| vimplugin-vim-airline-clock | 0-unstable-2021-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-airline-clock |
+| vimplugin-vim-airline-themes | 0-unstable-2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-airline-themes |
+| vimplugin-vim-alias | 1.7-unstable-2024-02-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-alias |
+| vimplugin-vim-android | 0-unstable-2025-05-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-android |
+| vimplugin-vim-anzu | 0-unstable-2025-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-anzu |
+| vimplugin-vim-apathy | 0-unstable-2021-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-apathy |
+| vimplugin-vim-apm | 0-unstable-2025-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-apm |
+| vimplugin-vim-argumentative | 1.0-unstable-2014-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-argumentative |
+| vimplugin-vim-argwrap | 0-unstable-2025-11-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-argwrap |
+| vimplugin-vim-asterisk | 1.0.0-unstable-2020-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-asterisk |
+| vimplugin-vim-astro | 0-unstable-2023-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-astro |
+| vimplugin-vim-asymptote | 0-unstable-2014-06-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-asymptote |
+| vimplugin-vim-auto-save | 0-unstable-2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-auto-save |
+| vimplugin-vim-autoformat | 0-unstable-2025-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-autoformat |
+| vimplugin-vim-automkdir | 0-unstable-2016-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-automkdir |
+| vimplugin-vim-autosource | 1.0.0-unstable-2025-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-autosource |
+| vimplugin-vim-autoswap | 0.3-unstable-2019-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-autoswap |
+| vimplugin-vim-bazel | 0-unstable-2022-04-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bazel |
+| vimplugin-vim-bbye | 1.0.1-unstable-2018-03-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bbye |
+| vimplugin-vim-be-good | 0-unstable-2024-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-be-good |
+| vimplugin-vim-beancount | 0-unstable-2024-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-beancount |
+| vimplugin-vim-bepoptimist | 2.1.0-unstable-2022-06-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bepoptimist |
+| vimplugin-vim-better-whitespace | 0-unstable-2025-05-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-better-whitespace |
+| vimplugin-vim-bookmarks | 1.3.0-unstable-2021-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bookmarks |
+| vimplugin-vim-boxdraw | 0-unstable-2021-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-boxdraw |
+| vimplugin-vim-bracketed-paste | 0-unstable-2024-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bracketed-paste |
+| vimplugin-vim-bsv | 0-unstable-2020-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bsv |
+| vimplugin-vim-buffergator | 2.4.1-unstable-2021-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-buffergator |
+| vimplugin-vim-bufferline | 0.3-unstable-2016-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bufferline |
+| vimplugin-vim-bufkill | 0-unstable-2022-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-bufkill |
+| vimplugin-vim-buftabline | 0-unstable-2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-buftabline |
+| vimplugin-vim-caddyfile | 0-unstable-2025-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-caddyfile |
+| vimplugin-vim-capslock | 0-unstable-2023-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-capslock |
+| vimplugin-vim-carbon-now-sh | 0-unstable-2022-08-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-carbon-now-sh |
+| vimplugin-vim-ccls | 0-unstable-2022-04-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ccls |
+| vimplugin-vim-characterize | 1.1-unstable-2024-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-characterize |
+| vimplugin-vim-choosewin | 1.5-unstable-2021-04-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-choosewin |
+| vimplugin-vim-clang-format | 0-unstable-2021-12-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-clang-format |
 | vimplugin-vim-clap | 0.54 | Modern performant fuzzy picker for Vim and NeoVim | legacyPackages.x86_64-linux.vimPlugins.vim-clap |
-| vimplugin-vim-classpath | 2020-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-classpath |
-| vimplugin-vim-clojure-highlight | 2015-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-clojure-highlight |
-| vimplugin-vim-clojure-static | 2017-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-clojure-static |
-| vimplugin-vim-closer | 2022-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-closer |
-| vimplugin-vim-closetag | 2022-05-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-closetag |
-| vimplugin-vim-cmake | 2021-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cmake |
-| vimplugin-vim-code-dark | 2024-05-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-code-dark |
-| vimplugin-vim-codefmt | 2024-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-codefmt |
-| vimplugin-vim-coffee-script | 2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.coffee-script |
-| vimplugin-vim-coffee-script | 2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.coffeeScript |
-| vimplugin-vim-coffee-script | 2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-coffee-script |
-| vimplugin-vim-colemak | 2016-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colemak |
-| vimplugin-vim-colors-solarized | 2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.Solarized |
-| vimplugin-vim-colors-solarized | 2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.colors-solarized |
-| vimplugin-vim-colors-solarized | 2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.solarized |
-| vimplugin-vim-colors-solarized | 2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colors-solarized |
-| vimplugin-vim-colorschemes | 2020-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colorschemes |
-| vimplugin-vim-colorstepper | 2016-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colorstepper |
-| vimplugin-vim-commentary | 2024-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.commentary |
-| vimplugin-vim-commentary | 2024-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-commentary |
-| vimplugin-vim-concourse | 2016-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-concourse |
-| vimplugin-vim-cool | 2025-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cool |
-| vimplugin-vim-cpp-enhanced-highlight | 2021-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cpp-enhanced-highlight |
-| vimplugin-vim-crates | 2021-05-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-crates |
-| vimplugin-vim-crystal | 2023-03-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-crystal |
-| vimplugin-vim-csharp | 2017-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-csharp |
-| vimplugin-vim-css-color | 2024-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.css_color_5056 |
-| vimplugin-vim-css-color | 2024-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-css-color |
-| vimplugin-vim-cue | 2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cue |
-| vimplugin-vim-cursorword | 2022-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cursorword |
-| vimplugin-vim-cute-python | 2020-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.cute-python |
-| vimplugin-vim-cute-python | 2020-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cute-python |
-| vimplugin-vim-dadbod | 2025-05-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dadbod |
-| vimplugin-vim-dadbod-completion | 2025-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-completion |
-| vimplugin-vim-dadbod-ui | 2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-ui |
-| vimplugin-vim-dasht | 2023-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dasht |
-| vimplugin-vim-deus | 2021-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-deus |
-| vimplugin-vim-devicons | 2022-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-devicons |
-| vimplugin-vim-dim | 2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dim |
-| vimplugin-vim-diminactive | 2017-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-diminactive |
-| vimplugin-vim-dirdiff | 2021-06-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dirdiff |
-| vimplugin-vim-dirvish | 2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dirvish |
-| vimplugin-vim-dirvish-git | 2021-05-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dirvish-git |
-| vimplugin-vim-dispatch | 2024-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dispatch |
-| vimplugin-vim-dispatch-neovim | 2017-01-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dispatch-neovim |
-| vimplugin-vim-docbk | 2015-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-docbk |
-| vimplugin-vim-docbk-snippets | 2023-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-docbk-snippets |
-| vimplugin-vim-dotenv | 2022-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dotenv |
-| vimplugin-vim-easy-align | 2024-04-13 |  | legacyPackages.x86_64-linux.vimPlugins.easy-align |
-| vimplugin-vim-easy-align | 2024-04-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easy-align |
-| vimplugin-vim-easyescape | 2020-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easyescape |
-| vimplugin-vim-easygit | 2018-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.easygit |
-| vimplugin-vim-easygit | 2018-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easygit |
-| vimplugin-vim-easymotion | 2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.easymotion |
-| vimplugin-vim-easymotion | 2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easymotion |
-| vimplugin-vim-easytags | 2015-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easytags |
-| vimplugin-vim-eighties | 2016-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.eighties |
-| vimplugin-vim-eighties | 2016-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-eighties |
-| vimplugin-vim-elixir | 2025-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-elixir |
-| vimplugin-vim-elm-syntax | 2021-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-elm-syntax |
-| vimplugin-vim-emacs-bindings | 2016-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-emacs-bindings |
-| vimplugin-vim-emoji | 2018-01-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-emoji |
-| vimplugin-vim-endwise | 2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-endwise |
-| vimplugin-vim-enmasse | 2018-04-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-enmasse |
-| vimplugin-vim-erlang-compiler | 2021-06-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-compiler |
-| vimplugin-vim-erlang-omnicomplete | 2021-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-omnicomplete |
-| vimplugin-vim-erlang-runtime | 2025-07-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-runtime |
-| vimplugin-vim-erlang-tags | 2025-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-tags |
-| vimplugin-vim-eunuch | 2024-12-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-eunuch |
-| vimplugin-vim-exchange | 2024-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-exchange |
-| vimplugin-vim-expand-region | 2013-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-expand-region |
-| vimplugin-vim-extradite | 2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.extradite |
-| vimplugin-vim-extradite | 2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-extradite |
-| vimplugin-vim-fern | 2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fern |
-| vimplugin-vim-fetch | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fetch |
-| vimplugin-vim-figlet | 2022-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-figlet |
-| vimplugin-vim-fireplace | 2024-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fireplace |
-| vimplugin-vim-fish | 2017-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fish |
-| vimplugin-vim-flagship | 2025-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flagship |
-| vimplugin-vim-flake8 | 2023-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flake8 |
-| vimplugin-vim-flatbuffers | 2018-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flatbuffers |
-| vimplugin-vim-floaterm | 2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-floaterm |
-| vimplugin-vim-flog | 2025-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flog |
-| vimplugin-vim-flutter | 2025-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flutter |
-| vimplugin-vim-fold-cycle | 2020-05-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fold-cycle |
-| vimplugin-vim-foldsearch | 2024-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-foldsearch |
-| vimplugin-vim-ft-diff_fold | 2013-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ft-diff_fold |
-| vimplugin-vim-fubitive | 2023-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fubitive |
-| vimplugin-vim-fugitive | 2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.fugitive |
-| vimplugin-vim-fugitive | 2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fugitive |
-| vimplugin-vim-fzf-coauthorship | 2021-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fzf-coauthorship |
-| vimplugin-vim-gas | 2023-12-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gas |
-| vimplugin-vim-gh-line | 2024-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gh-line |
-| vimplugin-vim-ghost | 2021-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ghost |
-| vimplugin-vim-gina | 2022-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gina |
-| vimplugin-vim-gist | 2022-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.Gist |
-| vimplugin-vim-gist | 2022-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gist |
-| vimplugin-vim-gista | 2020-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gista |
-| vimplugin-vim-git | 2024-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-git |
-| vimplugin-vim-gitbranch | 2021-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gitbranch |
-| vimplugin-vim-gitgutter | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.gitgutter |
-| vimplugin-vim-gitgutter | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gitgutter |
-| vimplugin-vim-github-dashboard | 2022-01-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-github-dashboard |
-| vimplugin-vim-glsl | 2024-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-glsl |
-| vimplugin-vim-gnupg | 2022-05-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gnupg |
-| vimplugin-vim-go | 2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-go |
-| vimplugin-vim-godot | 2024-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-godot |
-| vimplugin-vim-grammarous | 2020-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-grammarous |
-| vimplugin-vim-graphql | 2025-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-graphql |
-| vimplugin-vim-grepper | 2025-02-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-grepper |
-| vimplugin-vim-gruvbox8 | 2025-06-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gruvbox8 |
-| vimplugin-vim-gui-position | 2019-06-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gui-position |
-| vimplugin-vim-gutentags | 2023-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gutentags |
-| vimplugin-vim-habamax | 2025-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-habamax |
-| vimplugin-vim-hardtime | 2022-05-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hardtime |
-| vimplugin-vim-haskell-module-name | 2020-01-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-haskell-module-name |
-| vimplugin-vim-haskellConcealPlus | 2020-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.haskellConcealPlus |
-| vimplugin-vim-haskellConcealPlus | 2020-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-haskellConcealPlus |
-| vimplugin-vim-haskellconceal | 2017-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.haskellConceal |
-| vimplugin-vim-haskellconceal | 2017-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.haskellconceal |
-| vimplugin-vim-haskellconceal | 2017-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-haskellconceal |
-| vimplugin-vim-hcl | 2025-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hcl |
-| vimplugin-vim-hdevtools | 2018-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hdevtools |
-| vimplugin-vim-helm | 2025-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-helm |
-| vimplugin-vim-hexokinase | 2021-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hexokinase |
-| vimplugin-vim-hier | 2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.hier |
-| vimplugin-vim-hier | 2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hier |
-| vimplugin-vim-highlightedyank | 2024-12-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-highlightedyank |
-| vimplugin-vim-hindent | 2018-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hindent |
-| vimplugin-vim-hocon | 2017-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hocon |
-| vimplugin-vim-hoogle | 2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.Hoogle |
-| vimplugin-vim-hoogle | 2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.hoogle |
-| vimplugin-vim-hoogle | 2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hoogle |
-| vimplugin-vim-horizon | 2025-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-horizon |
-| vimplugin-vim-html-template-literals | 2024-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-html-template-literals |
-| vimplugin-vim-humanoid-colorscheme | 2024-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-humanoid-colorscheme |
-| vimplugin-vim-husk | 2015-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-husk |
-| vimplugin-vim-hy | 2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hy |
-| vimplugin-vim-hybrid | 2016-01-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hybrid |
-| vimplugin-vim-hybrid-material | 2020-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hybrid-material |
+| vimplugin-vim-classpath | 0-unstable-2020-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-classpath |
+| vimplugin-vim-clojure-highlight | 0-unstable-2015-07-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-clojure-highlight |
+| vimplugin-vim-clojure-static | 0-unstable-2017-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-clojure-static |
+| vimplugin-vim-closer | 0.2.0-unstable-2022-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-closer |
+| vimplugin-vim-closetag | 0-unstable-2022-05-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-closetag |
+| vimplugin-vim-cmake | 0-unstable-2021-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cmake |
+| vimplugin-vim-code-dark | 0-unstable-2024-05-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-code-dark |
+| vimplugin-vim-codefmt | 0-unstable-2024-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-codefmt |
+| vimplugin-vim-coffee-script | 003-unstable-2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.coffee-script |
+| vimplugin-vim-coffee-script | 003-unstable-2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.coffeeScript |
+| vimplugin-vim-coffee-script | 003-unstable-2020-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-coffee-script |
+| vimplugin-vim-colemak | 0-unstable-2016-10-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colemak |
+| vimplugin-vim-colors-solarized | 0-unstable-2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.Solarized |
+| vimplugin-vim-colors-solarized | 0-unstable-2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.colors-solarized |
+| vimplugin-vim-colors-solarized | 0-unstable-2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.solarized |
+| vimplugin-vim-colors-solarized | 0-unstable-2011-05-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colors-solarized |
+| vimplugin-vim-colorschemes | 0-unstable-2020-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colorschemes |
+| vimplugin-vim-colorstepper | 0-unstable-2016-01-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-colorstepper |
+| vimplugin-vim-commentary | 1.3-unstable-2024-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.commentary |
+| vimplugin-vim-commentary | 1.3-unstable-2024-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-commentary |
+| vimplugin-vim-concourse | 0-unstable-2016-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-concourse |
+| vimplugin-vim-cool | 0-unstable-2025-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cool |
+| vimplugin-vim-cpp-enhanced-highlight | 0.1-unstable-2021-04-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cpp-enhanced-highlight |
+| vimplugin-vim-crates | 0-unstable-2021-05-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-crates |
+| vimplugin-vim-crystal | 0-unstable-2023-03-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-crystal |
+| vimplugin-vim-csharp | 0-unstable-2017-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-csharp |
+| vimplugin-vim-css-color | 0-unstable-2024-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.css_color_5056 |
+| vimplugin-vim-css-color | 0-unstable-2024-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-css-color |
+| vimplugin-vim-cue | 0-unstable-2025-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cue |
+| vimplugin-vim-cursorword | 0.8-unstable-2022-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cursorword |
+| vimplugin-vim-cute-python | 0-unstable-2020-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.cute-python |
+| vimplugin-vim-cute-python | 0-unstable-2020-11-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-cute-python |
+| vimplugin-vim-dadbod | 1.4-unstable-2025-05-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dadbod |
+| vimplugin-vim-dadbod-completion | 0-unstable-2025-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-completion |
+| vimplugin-vim-dadbod-ui | 0-unstable-2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dadbod-ui |
+| vimplugin-vim-dasht | 0-unstable-2023-01-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dasht |
+| vimplugin-vim-deus | 0-unstable-2021-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-deus |
+| vimplugin-vim-devicons | 0.11.0-unstable-2022-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-devicons |
+| vimplugin-vim-dim | 1.2.0-unstable-2025-11-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dim |
+| vimplugin-vim-diminactive | 0-unstable-2017-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-diminactive |
+| vimplugin-vim-dirdiff | 1.1.7-unstable-2021-06-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dirdiff |
+| vimplugin-vim-dirvish | 1.0-unstable-2025-11-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dirvish |
+| vimplugin-vim-dirvish-git | 0-unstable-2021-05-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dirvish-git |
+| vimplugin-vim-dispatch | 1.8-unstable-2024-09-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dispatch |
+| vimplugin-vim-dispatch-neovim | 0-unstable-2017-01-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dispatch-neovim |
+| vimplugin-vim-docbk | 1.2.1-unstable-2015-04-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-docbk |
+| vimplugin-vim-docbk-snippets | 0-unstable-2023-09-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-docbk-snippets |
+| vimplugin-vim-dotenv | 1.0-unstable-2022-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-dotenv |
+| vimplugin-vim-easy-align | 2.10.0-unstable-2024-04-13 |  | legacyPackages.x86_64-linux.vimPlugins.easy-align |
+| vimplugin-vim-easy-align | 2.10.0-unstable-2024-04-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easy-align |
+| vimplugin-vim-easyescape | 0-unstable-2020-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easyescape |
+| vimplugin-vim-easygit | 0.5.0-unstable-2018-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.easygit |
+| vimplugin-vim-easygit | 0.5.0-unstable-2018-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easygit |
+| vimplugin-vim-easymotion | 3.0.1-unstable-2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.easymotion |
+| vimplugin-vim-easymotion | 3.0.1-unstable-2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easymotion |
+| vimplugin-vim-easytags | 3.11-unstable-2015-07-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-easytags |
+| vimplugin-vim-eighties | 1.0.8-unstable-2016-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.eighties |
+| vimplugin-vim-eighties | 1.0.8-unstable-2016-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-eighties |
+| vimplugin-vim-elixir | 0-unstable-2025-08-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-elixir |
+| vimplugin-vim-elm-syntax | 0-unstable-2021-01-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-elm-syntax |
+| vimplugin-vim-emacs-bindings | 0-unstable-2016-10-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-emacs-bindings |
+| vimplugin-vim-emoji | 0-unstable-2018-01-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-emoji |
+| vimplugin-vim-endwise | 1.3-unstable-2025-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-endwise |
+| vimplugin-vim-enmasse | 1.1.1-unstable-2018-04-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-enmasse |
+| vimplugin-vim-erlang-compiler | 0-unstable-2021-06-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-compiler |
+| vimplugin-vim-erlang-omnicomplete | 0-unstable-2021-07-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-omnicomplete |
+| vimplugin-vim-erlang-runtime | 0-unstable-2025-07-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-runtime |
+| vimplugin-vim-erlang-tags | 0-unstable-2025-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-erlang-tags |
+| vimplugin-vim-eunuch | 0-unstable-2024-12-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-eunuch |
+| vimplugin-vim-exchange | 0-unstable-2024-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-exchange |
+| vimplugin-vim-expand-region | 1.2-unstable-2013-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-expand-region |
+| vimplugin-vim-extradite | 0-unstable-2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.extradite |
+| vimplugin-vim-extradite | 0-unstable-2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-extradite |
+| vimplugin-vim-fern | 1.58.0-unstable-2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fern |
+| vimplugin-vim-fetch | 3.0.0-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fetch |
+| vimplugin-vim-figlet | 3.1-unstable-2022-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-figlet |
+| vimplugin-vim-fireplace | 2.1-unstable-2024-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fireplace |
+| vimplugin-vim-fish | 0-unstable-2017-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fish |
+| vimplugin-vim-flagship | 1.1-unstable-2025-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flagship |
+| vimplugin-vim-flake8 | 1.7-unstable-2023-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flake8 |
+| vimplugin-vim-flatbuffers | 0-unstable-2018-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flatbuffers |
+| vimplugin-vim-floaterm | 0-unstable-2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-floaterm |
+| vimplugin-vim-flog | 3.0.0-unstable-2025-03-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flog |
+| vimplugin-vim-flutter | 0-unstable-2025-09-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-flutter |
+| vimplugin-vim-fold-cycle | 0-unstable-2020-05-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fold-cycle |
+| vimplugin-vim-foldsearch | 1.3.2-unstable-2024-05-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-foldsearch |
+| vimplugin-vim-ft-diff_fold | 0.2.0-unstable-2013-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ft-diff_fold |
+| vimplugin-vim-fubitive | 0-unstable-2023-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fubitive |
+| vimplugin-vim-fugitive | 3.7-unstable-2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.fugitive |
+| vimplugin-vim-fugitive | 3.7-unstable-2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fugitive |
+| vimplugin-vim-fzf-coauthorship | 0-unstable-2021-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-fzf-coauthorship |
+| vimplugin-vim-gas | 0-unstable-2023-12-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gas |
+| vimplugin-vim-gh-line | 0-unstable-2024-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gh-line |
+| vimplugin-vim-ghost | 0-unstable-2021-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ghost |
+| vimplugin-vim-gina | 1.2.2-unstable-2022-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gina |
+| vimplugin-vim-gist | 7.3-unstable-2022-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.Gist |
+| vimplugin-vim-gist | 7.3-unstable-2022-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gist |
+| vimplugin-vim-gista | 2.5.0-unstable-2020-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gista |
+| vimplugin-vim-git | 0-unstable-2024-10-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-git |
+| vimplugin-vim-gitbranch | 0-unstable-2021-08-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gitbranch |
+| vimplugin-vim-gitgutter | 0-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.gitgutter |
+| vimplugin-vim-gitgutter | 0-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gitgutter |
+| vimplugin-vim-github-dashboard | 0-unstable-2022-01-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-github-dashboard |
+| vimplugin-vim-glsl | 0-unstable-2024-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-glsl |
+| vimplugin-vim-gnupg | 2.7.1-unstable-2022-05-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gnupg |
+| vimplugin-vim-go | 1.29-unstable-2025-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-go |
+| vimplugin-vim-godot | 0-unstable-2025-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-godot |
+| vimplugin-vim-grammarous | 0-unstable-2020-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-grammarous |
+| vimplugin-vim-graphql | 1.6-unstable-2025-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-graphql |
+| vimplugin-vim-grepper | 0-unstable-2025-02-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-grepper |
+| vimplugin-vim-gruvbox8 | 0.4.2-unstable-2025-06-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gruvbox8 |
+| vimplugin-vim-gui-position | 1.0.1-unstable-2019-06-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gui-position |
+| vimplugin-vim-gutentags | 1.0.0-unstable-2023-04-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-gutentags |
+| vimplugin-vim-habamax | 0-unstable-2025-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-habamax |
+| vimplugin-vim-hardtime | 0-unstable-2022-05-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hardtime |
+| vimplugin-vim-haskell-module-name | 0-unstable-2020-01-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-haskell-module-name |
+| vimplugin-vim-haskellConcealPlus | 0-unstable-2020-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.haskellConcealPlus |
+| vimplugin-vim-haskellConcealPlus | 0-unstable-2020-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-haskellConcealPlus |
+| vimplugin-vim-haskellconceal | 0-unstable-2017-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.haskellConceal |
+| vimplugin-vim-haskellconceal | 0-unstable-2017-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.haskellconceal |
+| vimplugin-vim-haskellconceal | 0-unstable-2017-06-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-haskellconceal |
+| vimplugin-vim-hcl | 0-unstable-2025-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hcl |
+| vimplugin-vim-hdevtools | 0-unstable-2018-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hdevtools |
+| vimplugin-vim-helm | 0-unstable-2025-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-helm |
+| vimplugin-vim-hexokinase | 0-unstable-2021-04-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hexokinase |
+| vimplugin-vim-hier | 1.3-unstable-2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.hier |
+| vimplugin-vim-hier | 1.3-unstable-2025-09-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hier |
+| vimplugin-vim-highlightedyank | 0-unstable-2024-12-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-highlightedyank |
+| vimplugin-vim-hindent | 0-unstable-2018-07-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hindent |
+| vimplugin-vim-hocon | 0-unstable-2017-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hocon |
+| vimplugin-vim-hoogle | 0-unstable-2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.Hoogle |
+| vimplugin-vim-hoogle | 0-unstable-2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.hoogle |
+| vimplugin-vim-hoogle | 0-unstable-2018-03-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hoogle |
+| vimplugin-vim-horizon | 0-unstable-2025-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-horizon |
+| vimplugin-vim-html-template-literals | 0.2.0-unstable-2024-09-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-html-template-literals |
+| vimplugin-vim-humanoid-colorscheme | 0.2-unstable-2024-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-humanoid-colorscheme |
+| vimplugin-vim-husk | 0.6.0-unstable-2015-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-husk |
+| vimplugin-vim-hy | 0-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hy |
+| vimplugin-vim-hybrid | 0-unstable-2016-01-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hybrid |
+| vimplugin-vim-hybrid-material | 0-unstable-2020-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-hybrid-material |
 | vimplugin-vim-ic10 | 0-unstable-2025-11-02 | Stationeers IC10 syntax highlighting for Vim | legacyPackages.x86_64-linux.vimPlugins.vim-stationeers-ic10-syntax |
-| vimplugin-vim-iced-coffee-script | 2013-12-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-iced-coffee-script |
-| vimplugin-vim-illuminate | 2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-illuminate |
-| vimplugin-vim-indent-guides | 2023-03-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indent-guides |
-| vimplugin-vim-indent-object | 2024-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indent-object |
-| vimplugin-vim-indentwise | 2015-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indentwise |
-| vimplugin-vim-indexed-search | 2021-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indexed-search |
-| vimplugin-vim-ipython | 2015-06-23 |  | legacyPackages.x86_64-linux.vimPlugins.ipython |
-| vimplugin-vim-ipython | 2015-06-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ipython |
-| vimplugin-vim-isort | 2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-isort |
-| vimplugin-vim-jack-in | 2025-01-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jack-in |
-| vimplugin-vim-janah | 2018-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-janah |
-| vimplugin-vim-javacomplete2 | 2022-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-javacomplete2 |
-| vimplugin-vim-javascript | 2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-javascript |
-| vimplugin-vim-javascript-syntax | 2020-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-javascript-syntax |
-| vimplugin-vim-jdaddy | 2022-03-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jdaddy |
-| vimplugin-vim-jetpack | 2025-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jetpack |
-| vimplugin-vim-jinja | 2021-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jinja |
-| vimplugin-vim-jinja-languages | 2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jinja-languages |
-| vimplugin-vim-jjdescription | 2025-05-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jjdescription |
-| vimplugin-vim-jsbeautify | 2020-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsbeautify |
-| vimplugin-vim-jsdoc | 2023-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsdoc |
-| vimplugin-vim-json | 2018-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-json |
-| vimplugin-vim-jsonnet | 2023-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsonnet |
-| vimplugin-vim-jsonpath | 2020-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsonpath |
-| vimplugin-vim-jsx-pretty | 2021-01-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsx-pretty |
-| vimplugin-vim-jsx-typescript | 2020-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsx-typescript |
-| vimplugin-vim-julia-cell | 2020-08-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-julia-cell |
-| vimplugin-vim-just | 2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-just |
-| vimplugin-vim-kitty-navigator | 2024-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-kitty-navigator |
-| vimplugin-vim-lark-syntax | 2023-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lark-syntax |
-| vimplugin-vim-lastplace | 2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lastplace |
-| vimplugin-vim-latex-live-preview | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.latex-live-preview |
-| vimplugin-vim-latex-live-preview | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-latex-live-preview |
-| vimplugin-vim-lawrencium | 2024-04-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lawrencium |
-| vimplugin-vim-leader-guide | 2018-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-leader-guide |
-| vimplugin-vim-lean | 2017-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lean |
-| vimplugin-vim-ledger | 2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ledger |
-| vimplugin-vim-lexical | 2022-02-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lexical |
-| vimplugin-vim-lfe | 2018-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lfe |
-| vimplugin-vim-lightline-coc | 2021-03-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lightline-coc |
-| vimplugin-vim-lion | 2020-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lion |
-| vimplugin-vim-liquid | 2025-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-liquid |
-| vimplugin-vim-llvm | 2024-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-llvm |
-| vimplugin-vim-localvimrc | 2024-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-localvimrc |
-| vimplugin-vim-logreview | 2022-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-logreview |
-| vimplugin-vim-loves-dafny | 2018-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-loves-dafny |
-| vimplugin-vim-lsc | 2023-08-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsc |
-| vimplugin-vim-lsp | 2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp |
-| vimplugin-vim-lsp-ale | 2021-12-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-ale |
-| vimplugin-vim-lsp-cxx-highlight | 2024-09-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-cxx-highlight |
-| vimplugin-vim-lsp-settings | 2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-settings |
-| vimplugin-vim-lsp-snippets | 2020-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-snippets |
-| vimplugin-vim-lsp-ultisnips | 2023-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-ultisnips |
-| vimplugin-vim-lua | 2020-08-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lua |
-| vimplugin-vim-maktaba | 2023-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.maktaba |
-| vimplugin-vim-maktaba | 2023-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-maktaba |
-| vimplugin-vim-manpager | 2022-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-manpager |
-| vimplugin-vim-markbar | 2024-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-markbar |
-| vimplugin-vim-markdown | 2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-markdown |
+| vimplugin-vim-iced-coffee-script | 0-unstable-2013-12-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-iced-coffee-script |
+| vimplugin-vim-illuminate | 0-unstable-2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-illuminate |
+| vimplugin-vim-indent-guides | 1.6-unstable-2023-03-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indent-guides |
+| vimplugin-vim-indent-object | 1.1.2-unstable-2024-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indent-object |
+| vimplugin-vim-indentwise | 1.0.0-unstable-2015-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indentwise |
+| vimplugin-vim-indexed-search | 0-unstable-2021-12-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-indexed-search |
+| vimplugin-vim-ipython | 0-unstable-2015-06-23 |  | legacyPackages.x86_64-linux.vimPlugins.ipython |
+| vimplugin-vim-ipython | 0-unstable-2015-06-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ipython |
+| vimplugin-vim-isort | 0-unstable-2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-isort |
+| vimplugin-vim-jack-in | 0-unstable-2025-01-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jack-in |
+| vimplugin-vim-janah | 0-unstable-2018-10-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-janah |
+| vimplugin-vim-javacomplete2 | 2.4.4-unstable-2022-06-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-javacomplete2 |
+| vimplugin-vim-javascript | 1.2.5.1-unstable-2025-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-javascript |
+| vimplugin-vim-javascript-syntax | 0.8.2-unstable-2020-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-javascript-syntax |
+| vimplugin-vim-jdaddy | 0-unstable-2022-03-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jdaddy |
+| vimplugin-vim-jetpack | 0-unstable-2025-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jetpack |
+| vimplugin-vim-jinja | 0-unstable-2021-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jinja |
+| vimplugin-vim-jinja-languages | 0-unstable-2022-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jinja-languages |
+| vimplugin-vim-jjdescription | 0-unstable-2025-05-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jjdescription |
+| vimplugin-vim-jsbeautify | 1.0.1-unstable-2020-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsbeautify |
+| vimplugin-vim-jsdoc | 2.2.1-unstable-2023-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsdoc |
+| vimplugin-vim-json | 0-unstable-2018-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-json |
+| vimplugin-vim-jsonnet | 0-unstable-2023-02-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsonnet |
+| vimplugin-vim-jsonpath | 0.5.2-unstable-2020-06-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsonpath |
+| vimplugin-vim-jsx-pretty | 3.0.0-unstable-2021-01-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsx-pretty |
+| vimplugin-vim-jsx-typescript | 0-unstable-2020-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-jsx-typescript |
+| vimplugin-vim-julia-cell | 0-unstable-2020-08-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-julia-cell |
+| vimplugin-vim-just | 0-unstable-2025-12-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-just |
+| vimplugin-vim-kitty-navigator | 0-unstable-2024-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-kitty-navigator |
+| vimplugin-vim-lark-syntax | 0-unstable-2023-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lark-syntax |
+| vimplugin-vim-lastplace | 4.5.0-unstable-2024-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lastplace |
+| vimplugin-vim-latex-live-preview | 0.1.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.latex-live-preview |
+| vimplugin-vim-latex-live-preview | 0.1.0-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-latex-live-preview |
+| vimplugin-vim-lawrencium | 0.3.1-unstable-2024-04-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lawrencium |
+| vimplugin-vim-leader-guide | 0-unstable-2018-10-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-leader-guide |
+| vimplugin-vim-lean | 0-unstable-2017-07-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lean |
+| vimplugin-vim-ledger | 1.2.0-unstable-2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ledger |
+| vimplugin-vim-lexical | 1.1-unstable-2022-02-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lexical |
+| vimplugin-vim-lfe | 0-unstable-2018-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lfe |
+| vimplugin-vim-lightline-coc | 0-unstable-2021-03-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lightline-coc |
+| vimplugin-vim-lion | 0-unstable-2020-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lion |
+| vimplugin-vim-liquid | 0-unstable-2025-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-liquid |
+| vimplugin-vim-llvm | 0-unstable-2024-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-llvm |
+| vimplugin-vim-localvimrc | 3.2.0-unstable-2024-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-localvimrc |
+| vimplugin-vim-logreview | 1.1-unstable-2022-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-logreview |
+| vimplugin-vim-loves-dafny | 0-unstable-2018-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-loves-dafny |
+| vimplugin-vim-lsc | 0.4.0-unstable-2023-08-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsc |
+| vimplugin-vim-lsp | 0.1.4-unstable-2025-11-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp |
+| vimplugin-vim-lsp-ale | 0-unstable-2021-12-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-ale |
+| vimplugin-vim-lsp-cxx-highlight | 0-unstable-2024-09-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-cxx-highlight |
+| vimplugin-vim-lsp-settings | 0.0.1-unstable-2025-12-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-settings |
+| vimplugin-vim-lsp-snippets | 0-unstable-2020-01-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-snippets |
+| vimplugin-vim-lsp-ultisnips | 0-unstable-2023-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lsp-ultisnips |
+| vimplugin-vim-lua | 0-unstable-2020-08-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-lua |
+| vimplugin-vim-maktaba | 1.14.0-unstable-2023-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.maktaba |
+| vimplugin-vim-maktaba | 1.14.0-unstable-2023-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-maktaba |
+| vimplugin-vim-manpager | 0-unstable-2022-07-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-manpager |
+| vimplugin-vim-markbar | 0-unstable-2024-05-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-markbar |
+| vimplugin-vim-markdown | 2.0.0-unstable-2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-markdown |
 | vimplugin-vim-markdown-composer | 0-unstable-2022-06-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-markdown-composer |
-| vimplugin-vim-markdown-toc | 2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-markdown-toc |
-| vimplugin-vim-matchtag | 2024-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-matchtag |
-| vimplugin-vim-matchup | 2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-matchup |
-| vimplugin-vim-mediawiki-editor | 2022-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mediawiki-editor |
-| vimplugin-vim-mergetool | 2019-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mergetool |
-| vimplugin-vim-merginal | 2024-10-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-merginal |
-| vimplugin-vim-metamath | 2017-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-metamath |
-| vimplugin-vim-misc | 2015-05-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-misc |
-| vimplugin-vim-molokai-delroth | 2023-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-molokai-delroth |
-| vimplugin-vim-monokai | 2025-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-monokai |
-| vimplugin-vim-monokai-pro | 2022-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-monokai-pro |
-| vimplugin-vim-monokai-tasty | 2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-monokai-tasty |
-| vimplugin-vim-moonfly-colors | 2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-moonfly-colors |
-| vimplugin-vim-move | 2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-move |
-| vimplugin-vim-mucomplete | 2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mucomplete |
-| vimplugin-vim-multiple-cursors | 2020-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.multiple-cursors |
-| vimplugin-vim-multiple-cursors | 2020-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-multiple-cursors |
-| vimplugin-vim-mundo | 2023-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mundo |
-| vimplugin-vim-mustache-handlebars | 2021-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mustache-handlebars |
-| vimplugin-vim-nerdtree-syntax-highlight | 2023-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nerdtree-syntax-highlight |
-| vimplugin-vim-nerdtree-tabs | 2018-12-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nerdtree-tabs |
-| vimplugin-vim-nftables | 2020-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nftables |
-| vimplugin-vim-niceblock | 2018-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-niceblock |
-| vimplugin-vim-nickel | 2023-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nickel |
-| vimplugin-vim-ninja-feet | 2024-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ninja-feet |
-| vimplugin-vim-nix | 2025-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nix |
-| vimplugin-vim-nixhash | 2025-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nixhash |
-| vimplugin-vim-noctu | 2015-06-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-noctu |
-| vimplugin-vim-nong-theme | 2020-12-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nong-theme |
-| vimplugin-vim-numbertoggle | 2021-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-numbertoggle |
-| vimplugin-vim-obsession | 2024-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-obsession |
-| vimplugin-vim-ocaml | 2025-07-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ocaml |
-| vimplugin-vim-one | 2020-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-one |
-| vimplugin-vim-opencl | 2018-06-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-opencl |
-| vimplugin-vim-openscad | 2022-07-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-openscad |
-| vimplugin-vim-operator-replace | 2015-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-operator-replace |
-| vimplugin-vim-operator-surround | 2018-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-operator-surround |
-| vimplugin-vim-operator-user | 2015-02-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-operator-user |
-| vimplugin-vim-orgmode | 2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-orgmode |
-| vimplugin-vim-ormolu | 2020-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ormolu |
-| vimplugin-vim-osc52 | 2020-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-osc52 |
-| vimplugin-vim-oscyank | 2025-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-oscyank |
-| vimplugin-vim-over | 2020-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-over |
-| vimplugin-vim-packer | 2018-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-packer |
-| vimplugin-vim-pager | 2015-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pager |
-| vimplugin-vim-pandoc | 2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pandoc |
-| vimplugin-vim-pandoc-after | 2019-04-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pandoc-after |
-| vimplugin-vim-pandoc-syntax | 2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pandoc-syntax |
-| vimplugin-vim-paper | 2025-02-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-paper |
-| vimplugin-vim-parinfer | 2022-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-parinfer |
-| vimplugin-vim-pasta | 2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pasta |
-| vimplugin-vim-pathogen | 2022-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.pathogen |
-| vimplugin-vim-pathogen | 2022-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pathogen |
-| vimplugin-vim-peekaboo | 2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-peekaboo |
-| vimplugin-vim-pencil | 2023-04-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pencil |
-| vimplugin-vim-pets | 2024-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pets |
-| vimplugin-vim-phabricator | 2021-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-phabricator |
-| vimplugin-vim-pico8-syntax | 2016-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pico8-syntax |
-| vimplugin-vim-plug | 2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-plug |
-| vimplugin-vim-plugin-AnsiEsc | 2019-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-plugin-AnsiEsc |
-| vimplugin-vim-pluto | 2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pluto |
-| vimplugin-vim-polyglot | 2025-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.polyglot |
-| vimplugin-vim-polyglot | 2025-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-polyglot |
-| vimplugin-vim-pony | 2018-06-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pony |
-| vimplugin-vim-poweryank | 2017-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-poweryank |
-| vimplugin-vim-prettier | 2023-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prettier |
-| vimplugin-vim-prettyprint | 2016-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.prettyprint |
-| vimplugin-vim-prettyprint | 2016-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prettyprint |
-| vimplugin-vim-printer | 2024-01-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-printer |
-| vimplugin-vim-prisma | 2023-01-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prisma |
-| vimplugin-vim-projectionist | 2024-12-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-projectionist |
-| vimplugin-vim-prosession | 2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prosession |
-| vimplugin-vim-protobuf | 2017-12-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-protobuf |
-| vimplugin-vim-ps1 | 2024-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ps1 |
-| vimplugin-vim-pug | 2019-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pug |
-| vimplugin-vim-puppet | 2024-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-puppet |
-| vimplugin-vim-python-pep8-indent | 2020-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-python-pep8-indent |
-| vimplugin-vim-qf | 2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-qf |
-| vimplugin-vim-qlist | 2019-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-qlist |
-| vimplugin-vim-qml | 2023-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-qml |
-| vimplugin-vim-quickrun | 2024-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.quickrun |
-| vimplugin-vim-quickrun | 2024-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-quickrun |
-| vimplugin-vim-racer | 2021-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-racer |
-| vimplugin-vim-racket | 2022-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-racket |
-| vimplugin-vim-ragtag | 2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ragtag |
-| vimplugin-vim-rails | 2025-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rails |
-| vimplugin-vim-reasonml | 2020-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-reasonml |
-| vimplugin-vim-repeat | 2024-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.repeat |
-| vimplugin-vim-repeat | 2024-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-repeat |
-| vimplugin-vim-rhai | 2022-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rhai |
-| vimplugin-vim-rhubarb | 2025-06-27 |  | legacyPackages.x86_64-linux.vimPlugins.rhubarb |
-| vimplugin-vim-rhubarb | 2025-06-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rhubarb |
-| vimplugin-vim-rooter | 2024-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rooter |
-| vimplugin-vim-rsi | 2023-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rsi |
-| vimplugin-vim-ruby | 2025-04-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ruby |
-| vimplugin-vim-salve | 2024-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-salve |
-| vimplugin-vim-sandwich | 2024-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sandwich |
-| vimplugin-vim-sayonara | 2021-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sayonara |
-| vimplugin-vim-scala | 2021-08-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-scala |
-| vimplugin-vim-scouter | 2014-08-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-scouter |
-| vimplugin-vim-scriptease | 2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-scriptease |
-| vimplugin-vim-search-pulse | 2024-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-search-pulse |
-| vimplugin-vim-sensible | 2024-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.sensible |
-| vimplugin-vim-sensible | 2024-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sensible |
-| vimplugin-vim-sentence-chopper | 2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sentence-chopper |
-| vimplugin-vim-sexp | 2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sexp |
-| vimplugin-vim-sexp-mappings-for-regular-people | 2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sexp-mappings-for-regular-people |
-| vimplugin-vim-shellcheck | 2025-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-shellcheck |
-| vimplugin-vim-signature | 2018-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.signature |
-| vimplugin-vim-signature | 2018-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-signature |
-| vimplugin-vim-signify | 2025-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-signify |
-| vimplugin-vim-sile | 2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sile |
-| vimplugin-vim-simpledb | 2020-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-simpledb |
-| vimplugin-vim-slash | 2019-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-slash |
-| vimplugin-vim-sleuth | 2024-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sleuth |
-| vimplugin-vim-sleuth | 2024-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sleuth |
-| vimplugin-vim-slime | 2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-slime |
-| vimplugin-vim-smali | 2015-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smali |
-| vimplugin-vim-smalls | 2015-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smalls |
-| vimplugin-vim-smartbd | 2015-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smartbd |
-| vimplugin-vim-smartbw | 2015-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smartbw |
-| vimplugin-vim-smoothie | 2022-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smoothie |
-| vimplugin-vim-smt2 | 2025-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smt2 |
-| vimplugin-vim-sneak | 2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sneak |
-| vimplugin-vim-snipmate | 2025-05-14 |  | legacyPackages.x86_64-linux.vimPlugins.snipmate |
-| vimplugin-vim-snipmate | 2025-05-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-snipmate |
-| vimplugin-vim-snippets | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-snippets |
-| vimplugin-vim-solarized8 | 2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-solarized8 |
-| vimplugin-vim-solidity | 2018-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.solidity |
-| vimplugin-vim-solidity | 2018-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-solidity |
-| vimplugin-vim-sort-motion | 2021-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sort-motion |
-| vimplugin-vim-speeddating | 2024-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-speeddating |
-| vimplugin-vim-spirv | 2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-spirv |
-| vimplugin-vim-splunk | 2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-splunk |
-| vimplugin-vim-startify | 2023-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-startify |
-| vimplugin-vim-startuptime | 2025-02-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-startuptime |
-| vimplugin-vim-strip-trailing-whitespace | 2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-strip-trailing-whitespace |
-| vimplugin-vim-stylish-haskell | 2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.stylish-haskell |
-| vimplugin-vim-stylish-haskell | 2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.stylishHaskell |
-| vimplugin-vim-stylish-haskell | 2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-stylish-haskell |
-| vimplugin-vim-stylishask | 2021-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-stylishask |
-| vimplugin-vim-substrata | 2021-03-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-substrata |
-| vimplugin-vim-subversive | 2024-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-subversive |
-| vimplugin-vim-suda | 2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-suda |
-| vimplugin-vim-surround | 2022-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.surround |
-| vimplugin-vim-surround | 2022-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-surround |
-| vimplugin-vim-svelte | 2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-svelte |
-| vimplugin-vim-swap | 2021-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-swap |
-| vimplugin-vim-tabby | 2025-01-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tabby |
-| vimplugin-vim-table-mode | 2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.table-mode |
-| vimplugin-vim-table-mode | 2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-table-mode |
-| vimplugin-vim-tabpagecd | 2021-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.tabpagecd |
-| vimplugin-vim-tabpagecd | 2021-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tabpagecd |
-| vimplugin-vim-tbone | 2023-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tbone |
-| vimplugin-vim-teal | 2025-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-teal |
-| vimplugin-vim-terminator | 2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-terminator |
-| vimplugin-vim-terraform | 2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-terraform |
-| vimplugin-vim-terraform-completion | 2021-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-terraform-completion |
-| vimplugin-vim-test | 2025-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-test |
-| vimplugin-vim-textobj-comment | 2014-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-comment |
-| vimplugin-vim-textobj-entire | 2018-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-entire |
-| vimplugin-vim-textobj-function | 2014-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-function |
-| vimplugin-vim-textobj-haskell | 2014-10-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-haskell |
-| vimplugin-vim-textobj-line | 2021-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-line |
-| vimplugin-vim-textobj-multiblock | 2014-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-multiblock |
-| vimplugin-vim-textobj-user | 2020-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-user |
-| vimplugin-vim-textobj-variable-segment | 2024-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-variable-segment |
-| vimplugin-vim-themis | 2025-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-themis |
-| vimplugin-vim-tmux | 2021-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux |
-| vimplugin-vim-tmux-clipboard | 2023-04-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux-clipboard |
-| vimplugin-vim-tmux-focus-events | 2021-04-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux-focus-events |
-| vimplugin-vim-tmux-navigator | 2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.tmux-navigator |
-| vimplugin-vim-tmux-navigator | 2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.tmuxNavigator |
-| vimplugin-vim-tmux-navigator | 2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux-navigator |
-| vimplugin-vim-togglelist | 2021-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-togglelist |
-| vimplugin-vim-toml | 2025-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-toml |
-| vimplugin-vim-tpipeline | 2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tpipeline |
-| vimplugin-vim-trailing-whitespace | 2023-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-trailing-whitespace |
-| vimplugin-vim-tridactyl | 2022-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tridactyl |
-| vimplugin-vim-tsx | 2017-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tsx |
-| vimplugin-vim-twig | 2018-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-twig |
-| vimplugin-vim-twiggy | 2022-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-twiggy |
-| vimplugin-vim-ultest | 2023-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ultest |
-| vimplugin-vim-unicoder | 2019-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-unicoder |
-| vimplugin-vim-unimpaired | 2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-unimpaired |
-| vimplugin-vim-vagrant | 2018-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vagrant |
-| vimplugin-vim-vinegar | 2022-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vinegar |
-| vimplugin-vim-vinegar | 2022-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.vinegar |
-| vimplugin-vim-visual-increment | 2020-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visual-increment |
-| vimplugin-vim-visual-multi | 2024-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visual-multi |
-| vimplugin-vim-visual-star-search | 2021-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visual-star-search |
-| vimplugin-vim-visualstar | 2015-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visualstar |
-| vimplugin-vim-vp4 | 2024-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vp4 |
-| vimplugin-vim-vsnip | 2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vsnip |
-| vimplugin-vim-vsnip-integ | 2025-09-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vsnip-integ |
-| vimplugin-vim-vue | 2024-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vue |
-| vimplugin-vim-vue-plugin | 2023-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vue-plugin |
-| vimplugin-vim-wakatime | 2025-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wakatime |
-| vimplugin-vim-watchdogs | 2019-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-watchdogs |
-| vimplugin-vim-watchdogs | 2019-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.watchdogs |
-| vimplugin-vim-wayland-clipboard | 2025-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wayland-clipboard |
-| vimplugin-vim-which-key | 2024-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-which-key |
-| vimplugin-vim-windowswap | 2018-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-windowswap |
-| vimplugin-vim-wordmotion | 2023-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wordmotion |
-| vimplugin-vim-wordy | 2022-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wordy |
-| vimplugin-vim-xdebug | 2012-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-xdebug |
-| vimplugin-vim-xkbswitch | 2024-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-xkbswitch |
-| vimplugin-vim-xtabline | 2022-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-xtabline |
-| vimplugin-vim-yaml | 2021-01-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-yaml |
-| vimplugin-vim-yapf | 2018-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-yapf |
-| vimplugin-vim-zettel | 2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-zettel |
-| vimplugin-vim-zscript | 2023-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-zscript |
-| vimplugin-vim2hs | 2014-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim2hs |
+| vimplugin-vim-markdown-toc | 1.5.0-unstable-2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-markdown-toc |
+| vimplugin-vim-matchtag | 0-unstable-2024-10-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-matchtag |
+| vimplugin-vim-matchup | 0.8.0-unstable-2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-matchup |
+| vimplugin-vim-mediawiki-editor | 0-unstable-2022-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mediawiki-editor |
+| vimplugin-vim-mergetool | 0-unstable-2019-06-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mergetool |
+| vimplugin-vim-merginal | 2.2.3-unstable-2024-10-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-merginal |
+| vimplugin-vim-metamath | 1.0.1-unstable-2017-02-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-metamath |
+| vimplugin-vim-misc | 1.17.6-unstable-2015-05-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-misc |
+| vimplugin-vim-molokai-delroth | 0-unstable-2023-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-molokai-delroth |
+| vimplugin-vim-monokai | 2.0-unstable-2025-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-monokai |
+| vimplugin-vim-monokai-pro | 0-unstable-2022-06-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-monokai-pro |
+| vimplugin-vim-monokai-tasty | 0-unstable-2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-monokai-tasty |
+| vimplugin-vim-moonfly-colors | 0-unstable-2025-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-moonfly-colors |
+| vimplugin-vim-move | 1.4-unstable-2025-09-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-move |
+| vimplugin-vim-mucomplete | 1.5.0-unstable-2025-10-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mucomplete |
+| vimplugin-vim-multiple-cursors | 2.2-unstable-2020-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.multiple-cursors |
+| vimplugin-vim-multiple-cursors | 2.2-unstable-2020-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-multiple-cursors |
+| vimplugin-vim-mundo | 3.1.0-1-unstable-2023-12-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mundo |
+| vimplugin-vim-mustache-handlebars | 0-unstable-2021-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-mustache-handlebars |
+| vimplugin-vim-nerdtree-syntax-highlight | 0.1.5-unstable-2023-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nerdtree-syntax-highlight |
+| vimplugin-vim-nerdtree-tabs | 1.4.7-unstable-2018-12-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nerdtree-tabs |
+| vimplugin-vim-nftables | 0-unstable-2020-06-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nftables |
+| vimplugin-vim-niceblock | 0.2.0-unstable-2018-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-niceblock |
+| vimplugin-vim-nickel | 0-unstable-2023-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nickel |
+| vimplugin-vim-ninja-feet | 0-unstable-2024-01-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ninja-feet |
+| vimplugin-vim-nix | 0-unstable-2025-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nix |
+| vimplugin-vim-nixhash | 0-unstable-2025-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nixhash |
+| vimplugin-vim-noctu | 0-unstable-2015-06-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-noctu |
+| vimplugin-vim-nong-theme | 0-unstable-2020-12-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-nong-theme |
+| vimplugin-vim-numbertoggle | 2.1.2-unstable-2021-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-numbertoggle |
+| vimplugin-vim-obsession | 0-unstable-2024-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-obsession |
+| vimplugin-vim-ocaml | 0-unstable-2025-07-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ocaml |
+| vimplugin-vim-one | 1.0.0-unstable-2020-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-one |
+| vimplugin-vim-opencl | 1.1-unstable-2018-06-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-opencl |
+| vimplugin-vim-openscad | 0-unstable-2022-07-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-openscad |
+| vimplugin-vim-operator-replace | 0.0.5-unstable-2015-02-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-operator-replace |
+| vimplugin-vim-operator-surround | 0-unstable-2018-11-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-operator-surround |
+| vimplugin-vim-operator-user | 0.1.0-unstable-2015-02-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-operator-user |
+| vimplugin-vim-orgmode | 0.6.0-unstable-2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-orgmode |
+| vimplugin-vim-ormolu | 0-unstable-2020-11-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ormolu |
+| vimplugin-vim-osc52 | 0-unstable-2020-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-osc52 |
+| vimplugin-vim-oscyank | 2.0.0-unstable-2025-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-oscyank |
+| vimplugin-vim-over | 0-unstable-2020-01-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-over |
+| vimplugin-vim-packer | 0-unstable-2018-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-packer |
+| vimplugin-vim-pager | 0-unstable-2015-08-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pager |
+| vimplugin-vim-pandoc | 2.0-unstable-2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pandoc |
+| vimplugin-vim-pandoc-after | 0-unstable-2019-04-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pandoc-after |
+| vimplugin-vim-pandoc-syntax | 0-unstable-2025-09-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pandoc-syntax |
+| vimplugin-vim-paper | 0-unstable-2025-02-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-paper |
+| vimplugin-vim-parinfer | 1.0.0-unstable-2022-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-parinfer |
+| vimplugin-vim-pasta | 0.1-unstable-2023-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pasta |
+| vimplugin-vim-pathogen | 2.4-unstable-2022-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.pathogen |
+| vimplugin-vim-pathogen | 2.4-unstable-2022-08-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pathogen |
+| vimplugin-vim-peekaboo | 0.1.0-unstable-2025-08-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-peekaboo |
+| vimplugin-vim-pencil | 1.6.1-unstable-2023-04-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pencil |
+| vimplugin-vim-pets | 0-unstable-2024-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pets |
+| vimplugin-vim-phabricator | 1.2-unstable-2021-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-phabricator |
+| vimplugin-vim-pico8-syntax | 0-unstable-2016-10-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pico8-syntax |
+| vimplugin-vim-plug | 0.14.0-unstable-2025-11-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-plug |
+| vimplugin-vim-plugin-AnsiEsc | 13.3-unstable-2019-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-plugin-AnsiEsc |
+| vimplugin-vim-pluto | 0.3.0-unstable-2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pluto |
+| vimplugin-vim-polyglot | 4.17.1-unstable-2025-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.polyglot |
+| vimplugin-vim-polyglot | 4.17.1-unstable-2025-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-polyglot |
+| vimplugin-vim-pony | 0.1.0-unstable-2018-06-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pony |
+| vimplugin-vim-poweryank | 0-unstable-2017-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-poweryank |
+| vimplugin-vim-prettier | 1.0.0-unstable-2023-10-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prettier |
+| vimplugin-vim-prettyprint | 0.3.4-unstable-2016-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.prettyprint |
+| vimplugin-vim-prettyprint | 0.3.4-unstable-2016-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prettyprint |
+| vimplugin-vim-printer | 0-unstable-2024-01-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-printer |
+| vimplugin-vim-prisma | 0-unstable-2023-01-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prisma |
+| vimplugin-vim-projectionist | 1.3-unstable-2024-12-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-projectionist |
+| vimplugin-vim-prosession | 0.7.5-unstable-2025-08-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-prosession |
+| vimplugin-vim-protobuf | 0-unstable-2017-12-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-protobuf |
+| vimplugin-vim-ps1 | 2.81-unstable-2024-03-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ps1 |
+| vimplugin-vim-pug | 0-unstable-2019-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-pug |
+| vimplugin-vim-puppet | 1.0.0-unstable-2024-09-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-puppet |
+| vimplugin-vim-python-pep8-indent | 0-unstable-2020-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-python-pep8-indent |
+| vimplugin-vim-qf | 0.2.0-unstable-2025-05-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-qf |
+| vimplugin-vim-qlist | 0.0.3-unstable-2019-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-qlist |
+| vimplugin-vim-qml | 0-unstable-2023-09-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-qml |
+| vimplugin-vim-quickrun | 0.9.0-unstable-2024-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.quickrun |
+| vimplugin-vim-quickrun | 0.9.0-unstable-2024-07-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-quickrun |
+| vimplugin-vim-racer | 1.0-unstable-2021-04-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-racer |
+| vimplugin-vim-racket | 0-unstable-2022-12-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-racket |
+| vimplugin-vim-ragtag | 2.0-unstable-2022-03-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ragtag |
+| vimplugin-vim-rails | 5.4-unstable-2025-02-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rails |
+| vimplugin-vim-reasonml | 0-unstable-2020-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-reasonml |
+| vimplugin-vim-repeat | 1.2-unstable-2024-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.repeat |
+| vimplugin-vim-repeat | 1.2-unstable-2024-07-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-repeat |
+| vimplugin-vim-rhai | 0-unstable-2022-07-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rhai |
+| vimplugin-vim-rhubarb | 0-unstable-2025-06-27 |  | legacyPackages.x86_64-linux.vimPlugins.rhubarb |
+| vimplugin-vim-rhubarb | 0-unstable-2025-06-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rhubarb |
+| vimplugin-vim-rooter | 0-unstable-2024-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rooter |
+| vimplugin-vim-rsi | 0-unstable-2023-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-rsi |
+| vimplugin-vim-ruby | 0-unstable-2025-04-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ruby |
+| vimplugin-vim-salve | 0-unstable-2024-07-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-salve |
+| vimplugin-vim-sandwich | 1.0.0-unstable-2024-03-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sandwich |
+| vimplugin-vim-sayonara | 0-unstable-2021-08-12 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sayonara |
+| vimplugin-vim-scala | 0-unstable-2021-08-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-scala |
+| vimplugin-vim-scouter | 0.1.3-unstable-2014-08-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-scouter |
+| vimplugin-vim-scriptease | 1.1-unstable-2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-scriptease |
+| vimplugin-vim-search-pulse | 0-unstable-2024-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-search-pulse |
+| vimplugin-vim-sensible | 2.0-unstable-2024-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.sensible |
+| vimplugin-vim-sensible | 2.0-unstable-2024-06-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sensible |
+| vimplugin-vim-sentence-chopper | 1.5-unstable-2025-11-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sentence-chopper |
+| vimplugin-vim-sexp | 0-unstable-2025-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sexp |
+| vimplugin-vim-sexp-mappings-for-regular-people | 0-unstable-2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sexp-mappings-for-regular-people |
+| vimplugin-vim-shellcheck | 1.2.0-unstable-2025-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-shellcheck |
+| vimplugin-vim-signature | 0-unstable-2018-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.signature |
+| vimplugin-vim-signature | 0-unstable-2018-07-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-signature |
+| vimplugin-vim-signify | 0-unstable-2025-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-signify |
+| vimplugin-vim-sile | 0-unstable-2025-10-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sile |
+| vimplugin-vim-simpledb | 0-unstable-2020-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-simpledb |
+| vimplugin-vim-slash | 0-unstable-2019-08-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-slash |
+| vimplugin-vim-sleuth | 2.0-unstable-2024-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.sleuth |
+| vimplugin-vim-sleuth | 2.0-unstable-2024-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sleuth |
+| vimplugin-vim-slime | 0-unstable-2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-slime |
+| vimplugin-vim-smali | 0-unstable-2015-11-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smali |
+| vimplugin-vim-smalls | 0.9-unstable-2015-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smalls |
+| vimplugin-vim-smartbd | 0-unstable-2015-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smartbd |
+| vimplugin-vim-smartbw | 0-unstable-2015-12-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smartbw |
+| vimplugin-vim-smoothie | 0-unstable-2022-06-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smoothie |
+| vimplugin-vim-smt2 | 0-unstable-2025-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-smt2 |
+| vimplugin-vim-sneak | 1.11.0-unstable-2025-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sneak |
+| vimplugin-vim-snipmate | 0.90-unstable-2025-05-14 |  | legacyPackages.x86_64-linux.vimPlugins.snipmate |
+| vimplugin-vim-snipmate | 0.90-unstable-2025-05-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-snipmate |
+| vimplugin-vim-snippets | 1.0.0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-snippets |
+| vimplugin-vim-solarized8 | 1.6.3-unstable-2025-11-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-solarized8 |
+| vimplugin-vim-solidity | 0-unstable-2018-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.solidity |
+| vimplugin-vim-solidity | 0-unstable-2018-04-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-solidity |
+| vimplugin-vim-sort-motion | 0-unstable-2021-03-07 |  | legacyPackages.x86_64-linux.vimPlugins.vim-sort-motion |
+| vimplugin-vim-speeddating | 20151024-unstable-2024-08-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-speeddating |
+| vimplugin-vim-spirv | 0.5.2-unstable-2025-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-spirv |
+| vimplugin-vim-splunk | 0-unstable-2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-splunk |
+| vimplugin-vim-startify | 1.1-unstable-2023-09-20 |  | legacyPackages.x86_64-linux.vimPlugins.vim-startify |
+| vimplugin-vim-startuptime | 4.5.0-unstable-2025-02-18 |  | legacyPackages.x86_64-linux.vimPlugins.vim-startuptime |
+| vimplugin-vim-strip-trailing-whitespace | 1.0-unstable-2022-02-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-strip-trailing-whitespace |
+| vimplugin-vim-stylish-haskell | 0-unstable-2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.stylish-haskell |
+| vimplugin-vim-stylish-haskell | 0-unstable-2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.stylishHaskell |
+| vimplugin-vim-stylish-haskell | 0-unstable-2022-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-stylish-haskell |
+| vimplugin-vim-stylishask | 0-unstable-2021-09-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-stylishask |
+| vimplugin-vim-substrata | 0-unstable-2021-03-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-substrata |
+| vimplugin-vim-subversive | 1.0-unstable-2024-01-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-subversive |
+| vimplugin-vim-suda | 1.2.4-unstable-2025-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-suda |
+| vimplugin-vim-surround | 2.2-unstable-2022-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.surround |
+| vimplugin-vim-surround | 2.2-unstable-2022-10-25 |  | legacyPackages.x86_64-linux.vimPlugins.vim-surround |
+| vimplugin-vim-svelte | 0-unstable-2025-05-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-svelte |
+| vimplugin-vim-swap | 0-unstable-2021-08-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-swap |
+| vimplugin-vim-tabby | 2.0.2-unstable-2025-01-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tabby |
+| vimplugin-vim-table-mode | 4.8.1-unstable-2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.table-mode |
+| vimplugin-vim-table-mode | 4.8.1-unstable-2025-11-22 |  | legacyPackages.x86_64-linux.vimPlugins.vim-table-mode |
+| vimplugin-vim-tabpagecd | 0.0.2-unstable-2021-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.tabpagecd |
+| vimplugin-vim-tabpagecd | 0.0.2-unstable-2021-09-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tabpagecd |
+| vimplugin-vim-tbone | 1.1-unstable-2023-03-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tbone |
+| vimplugin-vim-teal | 0-unstable-2025-09-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-teal |
+| vimplugin-vim-terminator | 0-unstable-2022-04-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-terminator |
+| vimplugin-vim-terraform | 0-unstable-2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-terraform |
+| vimplugin-vim-terraform-completion | 0.0.1-unstable-2021-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-terraform-completion |
+| vimplugin-vim-test | 2.1.0-unstable-2025-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-test |
+| vimplugin-vim-textobj-comment | 1.0.0-unstable-2014-04-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-comment |
+| vimplugin-vim-textobj-entire | 0.0.4-unstable-2018-01-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-entire |
+| vimplugin-vim-textobj-function | 0.4.0-unstable-2014-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-function |
+| vimplugin-vim-textobj-haskell | 0-unstable-2014-10-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-haskell |
+| vimplugin-vim-textobj-line | 0.0.2-unstable-2021-09-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-line |
+| vimplugin-vim-textobj-multiblock | 0-unstable-2014-06-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-multiblock |
+| vimplugin-vim-textobj-user | 0.7.6-unstable-2020-02-21 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-user |
+| vimplugin-vim-textobj-variable-segment | 0-unstable-2024-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.vim-textobj-variable-segment |
+| vimplugin-vim-themis | 1.7.0-unstable-2025-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-themis |
+| vimplugin-vim-tmux | 3.0.0-unstable-2021-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux |
+| vimplugin-vim-tmux-clipboard | 0-unstable-2023-04-24 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux-clipboard |
+| vimplugin-vim-tmux-focus-events | 1.0.0-unstable-2021-04-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux-focus-events |
+| vimplugin-vim-tmux-navigator | 1.0-unstable-2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.tmux-navigator |
+| vimplugin-vim-tmux-navigator | 1.0-unstable-2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.tmuxNavigator |
+| vimplugin-vim-tmux-navigator | 1.0-unstable-2025-07-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tmux-navigator |
+| vimplugin-vim-togglelist | 0-unstable-2021-12-08 |  | legacyPackages.x86_64-linux.vimPlugins.vim-togglelist |
+| vimplugin-vim-toml | 0-unstable-2025-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-toml |
+| vimplugin-vim-tpipeline | 1.0-unstable-2025-10-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tpipeline |
+| vimplugin-vim-trailing-whitespace | 1.0-unstable-2023-02-28 |  | legacyPackages.x86_64-linux.vimPlugins.vim-trailing-whitespace |
+| vimplugin-vim-tridactyl | 0-unstable-2022-11-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tridactyl |
+| vimplugin-vim-tsx | 0-unstable-2017-03-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-tsx |
+| vimplugin-vim-twig | 0-unstable-2018-05-23 |  | legacyPackages.x86_64-linux.vimPlugins.vim-twig |
+| vimplugin-vim-twiggy | 0.4-unstable-2022-01-10 |  | legacyPackages.x86_64-linux.vimPlugins.vim-twiggy |
+| vimplugin-vim-ultest | 4.1.1-unstable-2023-02-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-ultest |
+| vimplugin-vim-unicoder | 0-unstable-2019-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-unicoder |
+| vimplugin-vim-unimpaired | 2.1-unstable-2025-08-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-unimpaired |
+| vimplugin-vim-vagrant | 0-unstable-2018-11-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vagrant |
+| vimplugin-vim-vinegar | 1.0-unstable-2022-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vinegar |
+| vimplugin-vim-vinegar | 1.0-unstable-2022-01-11 |  | legacyPackages.x86_64-linux.vimPlugins.vinegar |
+| vimplugin-vim-visual-increment | 0-unstable-2020-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visual-increment |
+| vimplugin-vim-visual-multi | 0.5.8-unstable-2024-09-01 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visual-multi |
+| vimplugin-vim-visual-star-search | 0.2-unstable-2021-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visual-star-search |
+| vimplugin-vim-visualstar | 0.5.0-unstable-2015-08-27 |  | legacyPackages.x86_64-linux.vimPlugins.vim-visualstar |
+| vimplugin-vim-vp4 | 0-unstable-2024-10-11 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vp4 |
+| vimplugin-vim-vsnip | 0-unstable-2025-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vsnip |
+| vimplugin-vim-vsnip-integ | 0-unstable-2025-09-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vsnip-integ |
+| vimplugin-vim-vue | 0-unstable-2024-03-30 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vue |
+| vimplugin-vim-vue-plugin | 2021_03_29-unstable-2023-10-05 |  | legacyPackages.x86_64-linux.vimPlugins.vim-vue-plugin |
+| vimplugin-vim-wakatime | 11.3.0-unstable-2025-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wakatime |
+| vimplugin-vim-watchdogs | 0-unstable-2019-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim-watchdogs |
+| vimplugin-vim-watchdogs | 0-unstable-2019-09-09 |  | legacyPackages.x86_64-linux.vimPlugins.watchdogs |
+| vimplugin-vim-wayland-clipboard | 0.2.1-unstable-2025-11-29 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wayland-clipboard |
+| vimplugin-vim-which-key | 0-unstable-2024-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-which-key |
+| vimplugin-vim-windowswap | 0-unstable-2018-05-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim-windowswap |
+| vimplugin-vim-wordmotion | 0-unstable-2023-02-26 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wordmotion |
+| vimplugin-vim-wordy | 1.2-unstable-2022-02-13 |  | legacyPackages.x86_64-linux.vimPlugins.vim-wordy |
+| vimplugin-vim-xdebug | 0-unstable-2012-08-15 |  | legacyPackages.x86_64-linux.vimPlugins.vim-xdebug |
+| vimplugin-vim-xkbswitch | 0.20-unstable-2024-09-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim-xkbswitch |
+| vimplugin-vim-xtabline | 0.5.0-unstable-2022-02-03 |  | legacyPackages.x86_64-linux.vimPlugins.vim-xtabline |
+| vimplugin-vim-yaml | 0-unstable-2021-01-14 |  | legacyPackages.x86_64-linux.vimPlugins.vim-yaml |
+| vimplugin-vim-yapf | 1.0.7-unstable-2018-10-04 |  | legacyPackages.x86_64-linux.vimPlugins.vim-yapf |
+| vimplugin-vim-zettel | 0-unstable-2025-11-19 |  | legacyPackages.x86_64-linux.vimPlugins.vim-zettel |
+| vimplugin-vim-zscript | 0-unstable-2023-10-02 |  | legacyPackages.x86_64-linux.vimPlugins.vim-zscript |
+| vimplugin-vim2hs | 0-unstable-2014-04-16 |  | legacyPackages.x86_64-linux.vimPlugins.vim2hs |
 | vimplugin-vim2nix | 1.0 |  | legacyPackages.x86_64-linux.vimPlugins.vim-addon-vim2nix |
 | vimplugin-vim2nix | 1.0 |  | legacyPackages.x86_64-linux.vimPlugins.vim2nix |
-| vimplugin-vim9-stargate | 2024-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim9-stargate |
-| vimplugin-vim_current_word | 2023-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim_current_word |
-| vimplugin-vimacs | 2016-03-24 | Vim-Improved eMACS: Emacs emulation plugin for Vim | legacyPackages.x86_64-linux.vimPlugins.vimacs |
-| vimplugin-vimade | 2025-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.vimade |
-| vimplugin-vimagit | 2024-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.vimagit |
-| vimplugin-vimelette | 2019-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.vimelette |
-| vimplugin-vimfiler.vim | 2024-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.vimfiler-vim |
-| vimplugin-vimoutliner | 2023-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vimoutliner |
-| vimplugin-vimpreviewpandoc | 2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.vimpreviewpandoc |
-| vimplugin-vimproc.vim | 2024-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.vimproc |
-| vimplugin-vimproc.vim | 2024-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.vimproc-vim |
-| vimplugin-vimsence | 2021-05-01 | Discord rich presence for Vim | legacyPackages.x86_64-linux.vimPlugins.vimsence |
-| vimplugin-vimshell.vim | 2025-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.vimshell |
-| vimplugin-vimshell.vim | 2025-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.vimshell-vim |
-| vimplugin-vimspector | 2025-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.vimspector |
-| vimplugin-vimtex | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.vimtex |
-| vimplugin-vimux | 2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.vimux |
-| vimplugin-vimwiki | 2024-10-14 |  | legacyPackages.x86_64-linux.vimPlugins.vimwiki |
-| vimplugin-virt-column.nvim | 2024-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.virt-column-nvim |
-| vimplugin-virtual-types.nvim | 2023-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.virtual-types-nvim |
-| vimplugin-vis | 2013-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.vis |
-| vimplugin-vissort.vim | 2025-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.vissort-vim |
-| vimplugin-vista.vim | 2024-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vista-vim |
-| vimplugin-visual-whitespace.nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.visual-whitespace-nvim |
-| vimplugin-vs-tasks.nvim | 2025-10-27 |  | legacyPackages.x86_64-linux.vimPlugins.vs-tasks-nvim |
+| vimplugin-vim9-stargate | 0-unstable-2024-01-17 |  | legacyPackages.x86_64-linux.vimPlugins.vim9-stargate |
+| vimplugin-vim_current_word | 0-unstable-2023-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.vim_current_word |
+| vimplugin-vimacs | 0.96-unstable-2016-03-24 | Vim-Improved eMACS: Emacs emulation plugin for Vim | legacyPackages.x86_64-linux.vimPlugins.vimacs |
+| vimplugin-vimade | 2.5.1-unstable-2025-11-09 |  | legacyPackages.x86_64-linux.vimPlugins.vimade |
+| vimplugin-vimagit | 1.8.0-unstable-2024-03-28 |  | legacyPackages.x86_64-linux.vimPlugins.vimagit |
+| vimplugin-vimelette | 0-unstable-2019-05-02 |  | legacyPackages.x86_64-linux.vimPlugins.vimelette |
+| vimplugin-vimfiler.vim | 0-unstable-2024-05-20 |  | legacyPackages.x86_64-linux.vimPlugins.vimfiler-vim |
+| vimplugin-vimoutliner | 0.5.0-unstable-2023-08-29 |  | legacyPackages.x86_64-linux.vimPlugins.vimoutliner |
+| vimplugin-vimpreviewpandoc | 0-unstable-2025-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.vimpreviewpandoc |
+| vimplugin-vimproc.vim | 0-unstable-2024-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.vimproc |
+| vimplugin-vimproc.vim | 0-unstable-2024-09-04 |  | legacyPackages.x86_64-linux.vimPlugins.vimproc-vim |
+| vimplugin-vimsence | 0-unstable-2021-05-01 | Discord rich presence for Vim | legacyPackages.x86_64-linux.vimPlugins.vimsence |
+| vimplugin-vimshell.vim | 0-unstable-2025-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.vimshell |
+| vimplugin-vimshell.vim | 0-unstable-2025-07-09 |  | legacyPackages.x86_64-linux.vimPlugins.vimshell-vim |
+| vimplugin-vimspector | 8968291813-unstable-2025-10-17 |  | legacyPackages.x86_64-linux.vimPlugins.vimspector |
+| vimplugin-vimtex | 2.17-unstable-2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.vimtex |
+| vimplugin-vimux | 1.1.0-unstable-2025-11-07 |  | legacyPackages.x86_64-linux.vimPlugins.vimux |
+| vimplugin-vimwiki | 2024.01.24-unstable-2024-10-14 |  | legacyPackages.x86_64-linux.vimPlugins.vimwiki |
+| vimplugin-virt-column.nvim | 2.0.3-unstable-2024-11-12 |  | legacyPackages.x86_64-linux.vimPlugins.virt-column-nvim |
+| vimplugin-virtual-types.nvim | 0-unstable-2023-04-07 |  | legacyPackages.x86_64-linux.vimPlugins.virtual-types-nvim |
+| vimplugin-vis | 20-unstable-2013-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.vis |
+| vimplugin-vissort.vim | 0-unstable-2025-03-29 |  | legacyPackages.x86_64-linux.vimPlugins.vissort-vim |
+| vimplugin-vista.vim | 0-unstable-2024-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.vista-vim |
+| vimplugin-visual-whitespace.nvim | 0-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.visual-whitespace-nvim |
+| vimplugin-vs-tasks.nvim | 0-unstable-2025-10-27 |  | legacyPackages.x86_64-linux.vimPlugins.vs-tasks-nvim |
 | vimplugin-vscode-diff.nvim | 1.6.2 | VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level) | legacyPackages.x86_64-linux.vimPlugins.vscode-diff-nvim |
-| vimplugin-vscode.nvim | 2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vscode-nvim |
-| vimplugin-wal.vim | 2020-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.wal-vim |
-| vimplugin-webapi-vim | 2022-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.WebAPI |
-| vimplugin-webapi-vim | 2022-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.webapi-vim |
-| vimplugin-wezterm.nvim | 2024-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.wezterm-nvim |
-| vimplugin-wgsl.vim | 2025-01-07 |  | legacyPackages.x86_64-linux.vimPlugins.wgsl-vim |
-| vimplugin-whatif.vim | 2022-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.whatif-vim |
-| vimplugin-which-key.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.which-key-nvim |
-| vimplugin-whichpy.nvim | 2025-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.whichpy-nvim |
-| vimplugin-whitespace.nvim | 2025-03-14 |  | legacyPackages.x86_64-linux.vimPlugins.whitespace-nvim |
-| vimplugin-wiki-ft.vim | 2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.wiki-ft-vim |
-| vimplugin-wiki.vim | 2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.wiki-vim |
-| vimplugin-wilder.nvim | 2022-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.wilder-nvim |
-| vimplugin-wildfire.vim | 2023-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.wildfire-vim |
-| vimplugin-winbar.nvim | 2022-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.winbar-nvim |
-| vimplugin-windows.nvim | 2023-01-16 |  | legacyPackages.x86_64-linux.vimPlugins.windows-nvim |
-| vimplugin-windsurf.nvim | 2025-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.windsurf-nvim |
-| vimplugin-windsurf.vim | 2025-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.windsurf-vim |
-| vimplugin-winshift.nvim | 2022-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.winshift-nvim |
-| vimplugin-wmgraphviz.vim | 2018-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.wmgraphviz-vim |
-| vimplugin-wombat256.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.wombat256 |
-| vimplugin-wombat256.vim | 2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.wombat256-vim |
-| vimplugin-workflowish | 2015-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.workflowish |
-| vimplugin-workspaces.nvim | 2024-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.workspaces-nvim |
-| vimplugin-wrapping.nvim | 2025-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.wrapping-nvim |
-| vimplugin-wstrip.vim | 2021-03-14 |  | legacyPackages.x86_64-linux.vimPlugins.wstrip-vim |
-| vimplugin-wtf.nvim | 2025-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.wtf-nvim |
-| vimplugin-xeno.nvim | 2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.xeno-nvim |
-| vimplugin-xmake.nvim | 2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.xmake-nvim |
-| vimplugin-xptemplate | 2022-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.xptemplate |
-| vimplugin-xterm-color-table.vim | 2022-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.xterm-color-table |
-| vimplugin-xterm-color-table.vim | 2022-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.xterm-color-table-vim |
-| vimplugin-yaml-companion.nvim | 2024-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.yaml-companion-nvim |
-| vimplugin-yaml-schema-detect.nvim | 2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.yaml-schema-detect-nvim |
-| vimplugin-yanky.nvim | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.yanky-nvim |
-| vimplugin-yats.vim | 2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.yats-vim |
-| vimplugin-yazi.nvim | 2025-12-11 |  | legacyPackages.x86_64-linux.vimPlugins.yazi-nvim |
-| vimplugin-yescapsquit.vim | 2022-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.yescapsquit-vim |
-| vimplugin-yuck.vim | 2022-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.yuck-vim |
-| vimplugin-zarchive-vim-fsharp | 2018-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.zarchive-vim-fsharp |
-| vimplugin-zeavim.vim | 2019-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.zeavim |
-| vimplugin-zeavim.vim | 2019-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.zeavim-vim |
-| vimplugin-zellij-nav.nvim | 2025-01-22 |  | legacyPackages.x86_64-linux.vimPlugins.zellij-nav-nvim |
-| vimplugin-zellij.nvim | 2024-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.zellij-nvim |
-| vimplugin-zen-mode.nvim | 2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.zen-mode-nvim |
-| vimplugin-zenbones.nvim | 2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.zenbones-nvim |
-| vimplugin-zenburn | 2022-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.zenburn |
-| vimplugin-zephyr-nvim | 2022-12-31 |  | legacyPackages.x86_64-linux.vimPlugins.zephyr-nvim |
+| vimplugin-vscode.nvim | 0-unstable-2025-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.vscode-nvim |
+| vimplugin-wal.vim | 0-unstable-2020-11-08 |  | legacyPackages.x86_64-linux.vimPlugins.wal-vim |
+| vimplugin-webapi-vim | 0.3-unstable-2022-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.WebAPI |
+| vimplugin-webapi-vim | 0.3-unstable-2022-11-23 |  | legacyPackages.x86_64-linux.vimPlugins.webapi-vim |
+| vimplugin-wezterm.nvim | 0.5.0-unstable-2024-09-26 |  | legacyPackages.x86_64-linux.vimPlugins.wezterm-nvim |
+| vimplugin-wgsl.vim | 0-unstable-2025-01-07 |  | legacyPackages.x86_64-linux.vimPlugins.wgsl-vim |
+| vimplugin-whatif.vim | 0-unstable-2022-06-19 |  | legacyPackages.x86_64-linux.vimPlugins.whatif-vim |
+| vimplugin-which-key.nvim | 3.17.0-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.which-key-nvim |
+| vimplugin-whichpy.nvim | 0-unstable-2025-05-13 |  | legacyPackages.x86_64-linux.vimPlugins.whichpy-nvim |
+| vimplugin-whitespace.nvim | 0.4.2-unstable-2025-03-14 |  | legacyPackages.x86_64-linux.vimPlugins.whitespace-nvim |
+| vimplugin-wiki-ft.vim | 0-unstable-2025-11-15 |  | legacyPackages.x86_64-linux.vimPlugins.wiki-ft-vim |
+| vimplugin-wiki.vim | 0.11-unstable-2025-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.wiki-vim |
+| vimplugin-wilder.nvim | 0-unstable-2022-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.wilder-nvim |
+| vimplugin-wildfire.vim | 2.0-unstable-2023-07-22 |  | legacyPackages.x86_64-linux.vimPlugins.wildfire-vim |
+| vimplugin-winbar.nvim | 0-unstable-2022-07-18 |  | legacyPackages.x86_64-linux.vimPlugins.winbar-nvim |
+| vimplugin-windows.nvim | 0-unstable-2023-01-16 |  | legacyPackages.x86_64-linux.vimPlugins.windows-nvim |
+| vimplugin-windsurf.nvim | 0-unstable-2025-04-30 |  | legacyPackages.x86_64-linux.vimPlugins.windsurf-nvim |
+| vimplugin-windsurf.vim | 1.20.8-unstable-2025-07-30 |  | legacyPackages.x86_64-linux.vimPlugins.windsurf-vim |
+| vimplugin-winshift.nvim | 0-unstable-2022-09-06 |  | legacyPackages.x86_64-linux.vimPlugins.winshift-nvim |
+| vimplugin-wmgraphviz.vim | 1.2-unstable-2018-04-26 |  | legacyPackages.x86_64-linux.vimPlugins.wmgraphviz-vim |
+| vimplugin-wombat256.vim | 2.0-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.wombat256 |
+| vimplugin-wombat256.vim | 2.0-unstable-2010-10-18 |  | legacyPackages.x86_64-linux.vimPlugins.wombat256-vim |
+| vimplugin-workflowish | 0.0.2-unstable-2015-12-03 |  | legacyPackages.x86_64-linux.vimPlugins.workflowish |
+| vimplugin-workspaces.nvim | 1.0-unstable-2024-10-08 |  | legacyPackages.x86_64-linux.vimPlugins.workspaces-nvim |
+| vimplugin-wrapping.nvim | 2.0.0-unstable-2025-09-07 |  | legacyPackages.x86_64-linux.vimPlugins.wrapping-nvim |
+| vimplugin-wstrip.vim | 0-unstable-2021-03-14 |  | legacyPackages.x86_64-linux.vimPlugins.wstrip-vim |
+| vimplugin-wtf.nvim | 0-unstable-2025-12-01 |  | legacyPackages.x86_64-linux.vimPlugins.wtf-nvim |
+| vimplugin-xeno.nvim | 0-unstable-2025-10-23 |  | legacyPackages.x86_64-linux.vimPlugins.xeno-nvim |
+| vimplugin-xmake.nvim | 3.1.2-unstable-2025-11-10 |  | legacyPackages.x86_64-linux.vimPlugins.xmake-nvim |
+| vimplugin-xptemplate | 0.4.10-unstable-2022-09-08 |  | legacyPackages.x86_64-linux.vimPlugins.xptemplate |
+| vimplugin-xterm-color-table.vim | 0-unstable-2022-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.xterm-color-table |
+| vimplugin-xterm-color-table.vim | 0-unstable-2022-11-21 |  | legacyPackages.x86_64-linux.vimPlugins.xterm-color-table-vim |
+| vimplugin-yaml-companion.nvim | 0.1.3-unstable-2024-07-14 |  | legacyPackages.x86_64-linux.vimPlugins.yaml-companion-nvim |
+| vimplugin-yaml-schema-detect.nvim | 0-unstable-2025-09-25 |  | legacyPackages.x86_64-linux.vimPlugins.yaml-schema-detect-nvim |
+| vimplugin-yanky.nvim | 2.0.0-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.yanky-nvim |
+| vimplugin-yats.vim | 0-unstable-2025-12-09 |  | legacyPackages.x86_64-linux.vimPlugins.yats-vim |
+| vimplugin-yazi.nvim | 13.1.0-unstable-2025-12-16 |  | legacyPackages.x86_64-linux.vimPlugins.yazi-nvim |
+| vimplugin-yescapsquit.vim | 0.1-unstable-2022-08-31 |  | legacyPackages.x86_64-linux.vimPlugins.yescapsquit-vim |
+| vimplugin-yuck.vim | 0-unstable-2022-10-29 |  | legacyPackages.x86_64-linux.vimPlugins.yuck-vim |
+| vimplugin-zarchive-vim-fsharp | 0-unstable-2018-11-13 |  | legacyPackages.x86_64-linux.vimPlugins.zarchive-vim-fsharp |
+| vimplugin-zeavim.vim | 2.3.1-unstable-2019-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.zeavim |
+| vimplugin-zeavim.vim | 2.3.1-unstable-2019-06-07 |  | legacyPackages.x86_64-linux.vimPlugins.zeavim-vim |
+| vimplugin-zellij-nav.nvim | 0-unstable-2025-01-22 |  | legacyPackages.x86_64-linux.vimPlugins.zellij-nav-nvim |
+| vimplugin-zellij.nvim | 0-unstable-2024-05-03 |  | legacyPackages.x86_64-linux.vimPlugins.zellij-nvim |
+| vimplugin-zen-mode.nvim | 1.4.1-unstable-2025-10-28 |  | legacyPackages.x86_64-linux.vimPlugins.zen-mode-nvim |
+| vimplugin-zenbones.nvim | 4.10.0-unstable-2025-12-02 |  | legacyPackages.x86_64-linux.vimPlugins.zenbones-nvim |
+| vimplugin-zenburn | 2.29-unstable-2022-08-13 |  | legacyPackages.x86_64-linux.vimPlugins.zenburn |
+| vimplugin-zephyr-nvim | 0-unstable-2022-12-31 |  | legacyPackages.x86_64-linux.vimPlugins.zephyr-nvim |
 | vimplugin-zig.vim | 0-unstable-2025-11-28 | Vim configuration for Zig | legacyPackages.x86_64-linux.vimPlugins.zig-vim |
-| vimplugin-zk-nvim | 2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.zk-nvim |
-| vimplugin-zoomwintab.vim | 2023-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.zoomwintab-vim |
-| vimplugin-zotcite | 2025-12-07 |  | legacyPackages.x86_64-linux.vimPlugins.zotcite |
-| vimplugin-zoxide.vim | 2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.zoxide-vim |
+| vimplugin-zk-nvim | 0.4.6-unstable-2025-11-24 |  | legacyPackages.x86_64-linux.vimPlugins.zk-nvim |
+| vimplugin-zoomwintab.vim | 0-unstable-2023-12-05 |  | legacyPackages.x86_64-linux.vimPlugins.zoomwintab-vim |
+| vimplugin-zotcite | 0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.zotcite |
+| vimplugin-zoxide.vim | 0-unstable-2025-08-25 |  | legacyPackages.x86_64-linux.vimPlugins.zoxide-vim |
 | vimrc |  |  | legacyPackages.x86_64-linux.tests.vim.vim_empty_config |
 | vimus | 0.2.1 | An MPD client with vim-like key bindings | legacyPackages.x86_64-linux.haskellPackages.vimus |
 | vimv | 0-unstable-2019-10-31 | Batch-rename files using Vim | legacyPackages.x86_64-linux.vimv |
@@ -100047,7 +100074,7 @@
 | vimwiki-markdown | 0.4.1 | Vimwiki markdown plugin | legacyPackages.x86_64-linux.vimwiki-markdown |
 | vinegar | 1.8.1 | Open-source, minimal, configurable, fast bootstrapper for running Roblox Studio on Linux | legacyPackages.x86_64-linux.vinegar |
 | vintage-basic | 1.0.3 | Interpreter for microcomputer-era BASIC | legacyPackages.x86_64-linux.haskellPackages.vintage-basic |
-| vintagestory | 1.21.5 | In-development indie sandbox game about innovation and exploration | legacyPackages.x86_64-linux.vintagestory |
+| vintagestory | 1.21.6 | In-development indie sandbox game about innovation and exploration | legacyPackages.x86_64-linux.vintagestory |
 | vinyl | 0.14.3 | Extensible Records | legacyPackages.x86_64-linux.haskellPackages.vinyl |
 | vinyl-generics | 0.1.0.0 | Convert plain records to vinyl (and vice versa), generically | legacyPackages.x86_64-linux.haskellPackages.vinyl-generics |
 | vinyl-gl | 0.3.4 | Utilities for working with OpenGL's GLSL shading language and vinyl records | legacyPackages.x86_64-linux.haskellPackages.vinyl-gl |
@@ -100115,10 +100142,10 @@
 | virtualbox-modules | 7.2.4-6.17.12 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_lqx.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.12 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.virtualbox |
 | virtualbox-modules | 7.2.4-6.17.12 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.virtualbox |
-| virtualbox-modules | 7.2.4-6.18 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox |
-| virtualbox-modules | 7.2.4-6.18 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox |
 | virtualbox-modules | 7.2.4-6.18.1 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.virtualbox |
+| virtualbox-modules | 7.2.4-6.18.1 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.virtualbox |
 | virtualbox-modules | 7.2.4-6.18.1 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_latest.virtualbox |
+| virtualbox-modules | 7.2.4-6.18.1 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxPackages_zen.virtualbox |
 | virtualbox-modules | 7.2.4-6.6.119 | PC emulator (kernel modules) | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.virtualbox |
 | virtualenv | 20.33.1 | Tool to create isolated Python environments | legacyPackages.x86_64-linux.virtualenv |
 | virtualenv-clone | 0.5.7 | Script to clone virtualenvs | legacyPackages.x86_64-linux.virtualenv-clone |
@@ -100136,7 +100163,7 @@
 | vista-fonts-cht | 1 | TrueType fonts from Microsoft Windows Vista For Traditional Chinese (Microsoft JhengHei) | legacyPackages.x86_64-linux.vista-fonts-cht |
 | visual-graphrewrite | 0.4.0.1 | Visualize the graph-rewrite steps of a Haskell program | legacyPackages.x86_64-linux.haskellPackages.visual-graphrewrite |
 | visual-hexdiff | 0.0.53 | Visual hexadecimal difference editor | legacyPackages.x86_64-linux.visual-hexdiff |
-| visual-paradigm-ce | 17.3.20251201 | All-in-one UML CASE tool for software development | legacyPackages.x86_64-linux.visual-paradigm-ce |
+| visual-paradigm-ce | 17.3.20251221 | All-in-one UML CASE tool for software development | legacyPackages.x86_64-linux.visual-paradigm-ce |
 | visual-prof | 0.5 | Create a visual profile of a program's source code | legacyPackages.x86_64-linux.haskellPackages.visual-prof |
 | visualboyadvance-m | 2.2.3 | Merge of the original Visual Boy Advance forks | legacyPackages.x86_64-linux.vbam |
 | visualfaq | 61719 | A Visual LaTeX FAQ | legacyPackages.x86_64-linux.texlivePackages.visualfaq |
@@ -100153,7 +100180,7 @@
 | vitess | 22.0.1 | Database clustering system for horizontal scaling of MySQL | legacyPackages.x86_64-linux.vitess |
 | vitetris | 0.59.1 | Terminal-based Tetris clone by Victor Nilsson | legacyPackages.x86_64-linux.vitetris |
 | vitrea | 0.1.0.0 | Profunctor optics via the profunctor representation theorem | legacyPackages.x86_64-linux.haskellPackages.vitrea |
-| viu | 1.6.0 | Command-line application to view images from the terminal written in Rust | legacyPackages.x86_64-linux.viu |
+| viu | 1.6.1 | Command-line application to view images from the terminal written in Rust | legacyPackages.x86_64-linux.viu |
 | vivaldi | 7.7.3851.61 | Browser for our Friends, powerful and personal | legacyPackages.x86_64-linux.vivaldi |
 | vivictpp | 1.3.2 | Easy to use tool for subjective comparison of the visual quality of different encodings of the same video source | legacyPackages.x86_64-linux.vivictpp |
 | vivid | 0.10.1 | Generator for LS_COLORS with support for multiple color themes | legacyPackages.x86_64-linux.vivid |
@@ -100242,10 +100269,10 @@
 | vmware-modules-workstation | 17.6.3-20250728-6.17.12 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_lqx.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.12 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.17.12 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.vmware |
-| vmware-modules-workstation | 17.6.3-20250728-6.18 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware |
-| vmware-modules-workstation | 17.6.3-20250728-6.18 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.18.1 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.vmware |
+| vmware-modules-workstation | 17.6.3-20250728-6.18.1 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.18.1 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_latest.vmware |
+| vmware-modules-workstation | 17.6.3-20250728-6.18.1 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxPackages_zen.vmware |
 | vmware-modules-workstation | 17.6.3-20250728-6.6.119 | Kernel modules needed for VMware hypervisor | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.vmware |
 | vmware-workstation | 17.6.4 | Industry standard desktop hypervisor for x86-64 architecture | legacyPackages.x86_64-linux.vmware-workstation |
 | vncdo | 1.2.0 | Command line VNC client and Python library | legacyPackages.x86_64-linux.vncdo |
@@ -100301,7 +100328,7 @@
 | vouch-proxy | 0.45.1 | SSO and OAuth / OIDC login solution for NGINX using the auth_request module | legacyPackages.x86_64-linux.vouch-proxy |
 | vowpal-utils | 0.1.2 | Vowpal Wabbit utilities | legacyPackages.x86_64-linux.haskellPackages.vowpal-utils |
 | vowpal-wabbit | 9.10.0 | Machine learning system focused on online reinforcement learning | legacyPackages.x86_64-linux.vowpal-wabbit |
-| voxinput | 0.7.0 | Voice to text for any Linux app via dotool/uinput and the LocalAI/OpenAI transcription API | legacyPackages.x86_64-linux.voxinput |
+| voxinput | 0.8.0 | Voice to text for any Linux app via dotool/uinput and the LocalAI/OpenAI transcription API | legacyPackages.x86_64-linux.voxinput |
 | voyeur | 0.1.0.1 | Haskell bindings for libvoyeur | legacyPackages.x86_64-linux.haskellPackages.voyeur |
 | vp | 1.8-unstable-2017-03-22 | SDL based picture viewer/slideshow | legacyPackages.x86_64-linux.vp |
 | vp | 1.8-unstable-2017-03-22 | SDL based picture viewer/slideshow | legacyPackages.x86_64-linux.vpWithSixel |
@@ -100400,7 +100427,7 @@
 | vscode-extension-VisualStudioToolsForUnity-vstuc | 1.1.3 | Integrates Visual Studio Code for Unity | legacyPackages.x86_64-linux.vscode-extensions.visualstudiotoolsforunity.vstuc |
 | vscode-extension-Vue-volar | 3.1.2 | Official Vue VSCode extension | legacyPackages.x86_64-linux.vscode-extensions.vue.volar |
 | vscode-extension-Vue-vscode-typescript-vue-plugin | 1.8.27 | Vue VSCode extension for TypeScript | legacyPackages.x86_64-linux.vscode-extensions.vue.vscode-typescript-vue-plugin |
-| vscode-extension-WakaTime-vscode-wakatime | 25.3.2 | Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity  | legacyPackages.x86_64-linux.vscode-extensions.wakatime.vscode-wakatime |
+| vscode-extension-WakaTime-vscode-wakatime | 25.4.0 | Visual Studio Code plugin for automatic time tracking and metrics generated from your programming activity  | legacyPackages.x86_64-linux.vscode-extensions.wakatime.vscode-wakatime |
 | vscode-extension-ZainChen-json | 2.0.2 | Visual Studio Code extension for JSON support | legacyPackages.x86_64-linux.vscode-extensions.zainchen.json |
 | vscode-extension-a5huynh-vscode-ron | 0.11.0 |  | legacyPackages.x86_64-linux.vscode-extensions.a5huynh.vscode-ron |
 | vscode-extension-aaron-bond-better-comments | 3.0.2 | Improve your code commenting by annotating with alert, informational, TODOs, and more | legacyPackages.x86_64-linux.vscode-extensions.aaron-bond.better-comments |
@@ -100416,17 +100443,17 @@
 | vscode-extension-alygin-vscode-tlaplus | 1.5.4 |  | legacyPackages.x86_64-linux.vscode-extensions.alygin.vscode-tlaplus |
 | vscode-extension-antfu-icons-carbon | 0.2.8 |  | legacyPackages.x86_64-linux.vscode-extensions.antfu.icons-carbon |
 | vscode-extension-antfu-slidev | 51.4.0 |  | legacyPackages.x86_64-linux.vscode-extensions.antfu.slidev |
-| vscode-extension-anthropic-claude-code | 2.0.65 | Harness the power of Claude Code without leaving your IDE | legacyPackages.x86_64-linux.vscode-extensions.anthropic.claude-code |
+| vscode-extension-anthropic-claude-code | 2.0.70 | Harness the power of Claude Code without leaving your IDE | legacyPackages.x86_64-linux.vscode-extensions.anthropic.claude-code |
 | vscode-extension-anweber-vscode-httpyac | 6.16.7 | Quickly and easily send REST, Soap, GraphQL, GRPC, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.anweber.vscode-httpyac |
 | vscode-extension-apollographql-vscode-apollo | 2.6.4 | Rich editor support for GraphQL client and server development that seamlessly integrates with the Apollo platform | legacyPackages.x86_64-linux.vscode-extensions.apollographql.vscode-apollo |
 | vscode-extension-arcticicestudio-nord-visual-studio-code | 0.19.0 | Arctic, north-bluish clean and elegant Visual Studio Code theme | legacyPackages.x86_64-linux.vscode-extensions.arcticicestudio.nord-visual-studio-code |
 | vscode-extension-arrterian-nix-env-selector | 1.1.0 |  | legacyPackages.x86_64-linux.vscode-extensions.arrterian.nix-env-selector |
 | vscode-extension-asciidoctor-asciidoctor-vscode | 3.4.2 |  | legacyPackages.x86_64-linux.vscode-extensions.asciidoctor.asciidoctor-vscode |
 | vscode-extension-asdine-cue | 0.3.4 | Cue language support for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.asdine.cue |
-| vscode-extension-astro-build-astro-vscode | 2.15.4 | Astro language support for VS Code | legacyPackages.x86_64-linux.vscode-extensions.astro-build.astro-vscode |
+| vscode-extension-astro-build-astro-vscode | 2.16.5 | Astro language support for VS Code | legacyPackages.x86_64-linux.vscode-extensions.astro-build.astro-vscode |
 | vscode-extension-asvetliakov-vscode-neovim | 1.18.24 | Vim-mode for VS Code using embedded Neovim | legacyPackages.x86_64-linux.vscode-extensions.asvetliakov.vscode-neovim |
 | vscode-extension-attilabuti-brainfuck-syntax | 0.0.1 | VSCode extension providing syntax highlighting support for Brainfuck | legacyPackages.x86_64-linux.vscode-extensions.attilabuti.brainfuck-syntax |
-| vscode-extension-augment-vscode-augment | 0.654.1 | AI-powered coding assistant for VSCode | legacyPackages.x86_64-linux.vscode-extensions.augment.vscode-augment |
+| vscode-extension-augment-vscode-augment | 0.654.2 | AI-powered coding assistant for VSCode | legacyPackages.x86_64-linux.vscode-extensions.augment.vscode-augment |
 | vscode-extension-azdavis-Millet | 0.14.9 | Standard ML support for VS Code | legacyPackages.x86_64-linux.vscode-extensions.azdavis.millet |
 | vscode-extension-baccata-scaladex-search | 0.3.5 |  | legacyPackages.x86_64-linux.vscode-extensions.baccata.scaladex-search |
 | vscode-extension-badochov-ocaml-formatter | 2.0.5 | VSCode Extension Formatter for OCaml language | legacyPackages.x86_64-linux.vscode-extensions.badochov.ocaml-formatter |
@@ -100470,7 +100497,7 @@
 | vscode-extension-christian-kohler-npm-intellisense | 1.4.5 | Visual Studio Code plugin that autocompletes npm modules in import statements | legacyPackages.x86_64-linux.vscode-extensions.christian-kohler.npm-intellisense |
 | vscode-extension-christian-kohler-path-intellisense | 2.10.0 | Visual Studio Code plugin that autocompletes filenames | legacyPackages.x86_64-linux.vscode-extensions.christian-kohler.path-intellisense |
 | vscode-extension-cmschuetz12-wal | 0.1.0 |  | legacyPackages.x86_64-linux.vscode-extensions.cmschuetz12.wal |
-| vscode-extension-coder-coder-remote | 1.11.4 | Extension for Visual Studio Code to open any Coder workspace in VS Code with a single click | legacyPackages.x86_64-linux.vscode-extensions.coder.coder-remote |
+| vscode-extension-coder-coder-remote | 1.11.5 | Extension for Visual Studio Code to open any Coder workspace in VS Code with a single click | legacyPackages.x86_64-linux.vscode-extensions.coder.coder-remote |
 | vscode-extension-codezombiech-gitignore | 0.10.0 |  | legacyPackages.x86_64-linux.vscode-extensions.codezombiech.gitignore |
 | vscode-extension-colejcummins-llvm-syntax-highlighting | 0.0.3 | Lightweight syntax highlighting for LLVM IR | legacyPackages.x86_64-linux.vscode-extensions.colejcummins.llvm-syntax-highlighting |
 | vscode-extension-congyiwu-vscode-jupytext | 0.1.2 | Visual Studio Code extension for Jupytext support | legacyPackages.x86_64-linux.vscode-extensions.congyiwu.vscode-jupytext |
@@ -100542,7 +100569,7 @@
 | vscode-extension-gitlens | 17.7.1 | Visual Studio Code extension that improves its built-in Git capabilities | legacyPackages.x86_64-linux.vscode-extensions.eamodio.gitlens |
 | vscode-extension-gleam-gleam | 2.12.1 | Support for the Gleam programming language | legacyPackages.x86_64-linux.vscode-extensions.gleam.gleam |
 | vscode-extension-golang-Go | 0.50.0 | Go extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.golang.go |
-| vscode-extension-google-colab | 0.1.1 | A VS Code extension providing access to Google Colab. Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. | legacyPackages.x86_64-linux.vscode-extensions.google.colab |
+| vscode-extension-google-colab | 0.1.3 | A VS Code extension providing access to Google Colab. Colab is a hosted Jupyter Notebook service that requires no setup to use and provides free access to computing resources, including GPUs and TPUs. | legacyPackages.x86_64-linux.vscode-extensions.google.colab |
 | vscode-extension-grapecity-gc-excelviewer | 4.2.64 | Edit Excel spreadsheets and CSV files in Visual Studio Code and VS Code for the Web | legacyPackages.x86_64-linux.vscode-extensions.grapecity.gc-excelviewer |
 | vscode-extension-griimick-vhs | 0.0.4 | Visual Studio Code extension providing syntax support for VHS .tape files | legacyPackages.x86_64-linux.vscode-extensions.griimick.vhs |
 | vscode-extension-hars-cppsnippets | 0.0.15 | Code snippets for C/C++ | legacyPackages.x86_64-linux.vscode-extensions.hars.cppsnippets |
@@ -100594,7 +100621,7 @@
 | vscode-extension-kubukoz-nickel-syntax | 0.0.2 |  | legacyPackages.x86_64-linux.vscode-extensions.kubukoz.nickel-syntax |
 | vscode-extension-lapo-asn1js | 0.2.2 | Decode ASN.1 content inside VSCode | legacyPackages.x86_64-linux.vscode-extensions.lapo.asn1js |
 | vscode-extension-leanprover-lean4 | 0.0.221 | This extension provides VS Code support for the Lean 4 theorem prover and programming language | legacyPackages.x86_64-linux.vscode-extensions.leanprover.lean4 |
-| vscode-extension-leonardssh-vscord | 5.3.8 | Highly customizable Discord Rich Presence extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.leonardssh.vscord |
+| vscode-extension-leonardssh-vscord | 5.3.9 | Highly customizable Discord Rich Presence extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.leonardssh.vscord |
 | vscode-extension-llvm-vs-code-extensions-lldb-dap | 0.2.18 | Debugging with LLDB in Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.llvm-vs-code-extensions.lldb-dap |
 | vscode-extension-llvm-vs-code-extensions-vscode-clangd | 0.2.0 | C/C++ completion, navigation, and insights | legacyPackages.x86_64-linux.vscode-extensions.llvm-vs-code-extensions.vscode-clangd |
 | vscode-extension-ltex-plus-vscode-ltex-plus | 15.6.1 | VS Code extension for grammar/spell checking using LanguageTool with support for LaTeX, Markdown, and others | legacyPackages.x86_64-linux.vscode-extensions.ltex-plus.vscode-ltex-plus |
@@ -100665,7 +100692,7 @@
 | vscode-extension-natqe-reload | 0.0.7 | This extension will add reload button to status bar in the right-bottom of your VSCode editor | legacyPackages.x86_64-linux.vscode-extensions.natqe.reload |
 | vscode-extension-naumovs-color-highlight | 2.8.0 | Highlight web colors in your editor | legacyPackages.x86_64-linux.vscode-extensions.naumovs.color-highlight |
 | vscode-extension-naumovs-theme-oceanicnext | 0.0.4 | Oceanic Next theme for VSCode + dimmed bg version for better looking UI | legacyPackages.x86_64-linux.vscode-extensions.naumovs.theme-oceanicnext |
-| vscode-extension-ndonfris-fish-lsp | 0.1.16 | LSP implementation for the fish shell language | legacyPackages.x86_64-linux.vscode-extensions.ndonfris.fish-lsp |
+| vscode-extension-ndonfris-fish-lsp | 0.1.18 | LSP implementation for the fish shell language | legacyPackages.x86_64-linux.vscode-extensions.ndonfris.fish-lsp |
 | vscode-extension-nefrob-vscode-just-syntax | 0.8.0 | Justfile syntax support for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.nefrob.vscode-just-syntax |
 | vscode-extension-nhoizey-gremlins | 0.26.0 | Reveals some characters that can be harmful because they are invisible or looking like legitimate ones | legacyPackages.x86_64-linux.vscode-extensions.nhoizey.gremlins |
 | vscode-extension-nimlang-nimlang | 1.8.1 | Nim language support for VS Code | legacyPackages.x86_64-linux.vscode-extensions.nimlang.nimlang |
@@ -100676,7 +100703,7 @@
 | vscode-extension-octref-vetur | 0.37.3 |  | legacyPackages.x86_64-linux.vscode-extensions.octref.vetur |
 | vscode-extension-oderwat-indent-rainbow | 8.3.1 | Makes indentation easier to read | legacyPackages.x86_64-linux.vscode-extensions.oderwat.indent-rainbow |
 | vscode-extension-oliver-ni-scheme-fmt | 1.2.1 | Formats Scheme source code | legacyPackages.x86_64-linux.vscode-extensions.oliver-ni.scheme-fmt |
-| vscode-extension-oracle-oracle-java | 24.1.2 | Java Platform Extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.oracle.oracle-java |
+| vscode-extension-oracle-oracle-java | 25.0.0 | Java Platform Extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.oracle.oracle-java |
 | vscode-extension-ph-hawkins-arc-plus | 1.0.2 | UI theme based on the Arc GTK theme while also retaining some elements of the default VS Code theme | legacyPackages.x86_64-linux.vscode-extensions.ph-hawkins.arc-plus |
 | vscode-extension-phind-phind | 0.25.4 | Using Phind AI service to provide answers based on the code context | legacyPackages.x86_64-linux.vscode-extensions.phind.phind |
 | vscode-extension-phoenixframework-phoenix | 0.1.3 | Syntax highlighting support for HEEx / Phoenix templates | legacyPackages.x86_64-linux.vscode-extensions.phoenixframework.phoenix |
@@ -100686,7 +100713,7 @@
 | vscode-extension-pylyzer-pylyzer | 0.1.11 | VS Code extension for Pylyzer, a fast static code analyzer & language server for Python | legacyPackages.x86_64-linux.vscode-extensions.pylyzer.pylyzer |
 | vscode-extension-quicktype-quicktype | 23.0.170 | Infer types from sample JSON data | legacyPackages.x86_64-linux.vscode-extensions.quicktype.quicktype |
 | vscode-extension-rebornix-ruby | 0.28.1 |  | legacyPackages.x86_64-linux.vscode-extensions.rebornix.ruby |
-| vscode-extension-redhat-ansible | 25.12.1 | Ansible language support | legacyPackages.x86_64-linux.vscode-extensions.redhat.ansible |
+| vscode-extension-redhat-ansible | 25.12.2 | Ansible language support | legacyPackages.x86_64-linux.vscode-extensions.redhat.ansible |
 | vscode-extension-redhat-java | 1.50.0 | Java language support for VS Code via the Eclipse JDT Language Server | legacyPackages.x86_64-linux.vscode-extensions.redhat.java |
 | vscode-extension-redhat-vscode-xml | 0.29.0 |  | legacyPackages.x86_64-linux.vscode-extensions.redhat.vscode-xml |
 | vscode-extension-redhat-vscode-yaml | 1.19.1 | YAML Language Support by Red Hat, with built-in Kubernetes syntax support | legacyPackages.x86_64-linux.vscode-extensions.redhat.vscode-yaml |
@@ -100796,7 +100823,7 @@
 | vscode-extension-woberg-godot-dotnet-tools | 0.5.1 | VSCode extension for Godot 4 Mono supporting C# language | legacyPackages.x86_64-linux.vscode-extensions.woberg.godot-dotnet-tools |
 | vscode-extension-xadillax-viml | 2.2.0 |  | legacyPackages.x86_64-linux.vscode-extensions.xadillax.viml |
 | vscode-extension-xaver-clang-format | 1.9.0 |  | legacyPackages.x86_64-linux.vscode-extensions.xaver.clang-format |
-| vscode-extension-xdebug-php-debug | 1.38.2 | PHP Debug Adapter | legacyPackages.x86_64-linux.vscode-extensions.xdebug.php-debug |
+| vscode-extension-xdebug-php-debug | 1.39.1 | PHP Debug Adapter | legacyPackages.x86_64-linux.vscode-extensions.xdebug.php-debug |
 | vscode-extension-xyz-local-history | 1.8.1 |  | legacyPackages.x86_64-linux.vscode-extensions.xyz.local-history |
 | vscode-extension-yoavbls-pretty-ts-errors | 0.6.1 | Make TypeScript errors prettier and human-readable in VSCode | legacyPackages.x86_64-linux.vscode-extensions.yoavbls.pretty-ts-errors |
 | vscode-extension-yy0931-vscode-sqlite3-editor | 1.0.211 | SQLite3 Editor for VSCode | legacyPackages.x86_64-linux.vscode-extensions.yy0931.vscode-sqlite3-editor |
@@ -100865,7 +100892,7 @@
 | vue-language-server | 3.1.5 | Official Vue.js language server | legacyPackages.x86_64-linux.nodePackages_latest.@volar/vue-language-server |
 | vue-language-server | 3.1.5 | Official Vue.js language server | legacyPackages.x86_64-linux.nodePackages_latest.@vue/language-server |
 | vue-language-server | 3.1.5 | Official Vue.js language server | legacyPackages.x86_64-linux.vue-language-server |
-| vuetorrent | 2.31.0 | Full-featured BitTorrent client written in Vue | legacyPackages.x86_64-linux.vuetorrent |
+| vuetorrent | 2.31.1 | Full-featured BitTorrent client written in Vue | legacyPackages.x86_64-linux.vuetorrent |
 | vul | 0-unstable-2022-07-02 | Latin Vulgate Bible on the Command Line | legacyPackages.x86_64-linux.vul |
 | vulkan | 3.26.4 | Bindings to the Vulkan graphics API | legacyPackages.x86_64-linux.haskellPackages.vulkan |
 | vulkan-api | 1.4.0.0 | Low-level low-overhead vulkan api bindings | legacyPackages.x86_64-linux.haskellPackages.vulkan-api |
@@ -101093,7 +101120,7 @@
 | warpd | 1.3.5 | Modal keyboard driven interface for mouse manipulation | legacyPackages.x86_64-linux.warpd |
 | warped | 0.0.8 | Warp and Wai Library | legacyPackages.x86_64-linux.haskellPackages.warped |
 | warpgate | 0.18.0 | Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software | legacyPackages.x86_64-linux.warpgate |
-| warpinator | 2.0.1 | Share files across the LAN | legacyPackages.x86_64-linux.warpinator |
+| warpinator | 2.0.2 | Share files across the LAN | legacyPackages.x86_64-linux.warpinator |
 | warzone2100 | 4.6.1 | Free RTS game, originally developed by Pumpkin Studios | legacyPackages.x86_64-linux.warzone2100 |
 | was | 64691 | A collection of small packages by Walter Schmidt | legacyPackages.x86_64-linux.texlivePackages.was |
 | wasabibackend | 2.3.1 | Backend for the Wasabi Wallet | legacyPackages.x86_64-linux.wasabibackend |
@@ -101336,7 +101363,7 @@
 | webdriver-w3c | 0.0.3 | Bindings to the WebDriver API | legacyPackages.x86_64-linux.haskellPackages.webdriver-w3c |
 | webdriver-wrapper | 0.2.0.1 | Wrapper around the webdriver package that automatically manages Selenium | legacyPackages.x86_64-linux.haskellPackages.webdriver-wrapper |
 | webdriver_r02.zip |  | Android SDK tools, packaged in Nixpkgs | legacyPackages.x86_64-linux.androidenv.androidPkgs.all.extras.extras-google-webdriver |
-| webex | 45.10.0.33234 | All-in-one app to call, meet, message, and get work done | legacyPackages.x86_64-linux.webex |
+| webex | 45.10.1.33646 | All-in-one app to call, meet, message, and get work done | legacyPackages.x86_64-linux.webex |
 | webex-teams-api | 0.2.0.1 | A Haskell bindings for Webex Teams API | legacyPackages.x86_64-linux.haskellPackages.webex-teams-api |
 | webex-teams-conduit | 0.2.0.1 | Conduit wrapper of Webex Teams List API | legacyPackages.x86_64-linux.haskellPackages.webex-teams-conduit |
 | webex-teams-pipes | 0.2.0.1 | Pipes wrapper of Webex Teams List API | legacyPackages.x86_64-linux.haskellPackages.webex-teams-pipes |
@@ -101543,6 +101570,7 @@
 | wifi-qr | 0.4 | WiFi password sharing via QR codes | legacyPackages.x86_64-linux.wifi-qr |
 | wifish | 1.1.4 | Simple wifi shell script for linux | legacyPackages.x86_64-linux.wifish |
 | wifite2 | 2.7.0 | Rewrite of the popular wireless network auditor, wifite | legacyPackages.x86_64-linux.wifite2 |
+| wifitui | 0.8.0 | Fast featureful friendly wifi terminal UI | legacyPackages.x86_64-linux.wifitui |
 | wiggle | 1.3 | Tool for applying patches with conflicts | legacyPackages.x86_64-linux.wiggle |
 | wigner-symbols | 1.0.0 | CG coefficients and Wigner symbols | legacyPackages.x86_64-linux.haskellPackages.wigner-symbols |
 | wigner-ville-accelerate | 0.1.0.2 | Wigner-ville transform using the Accelerate library | legacyPackages.x86_64-linux.haskellPackages.wigner-ville-accelerate |
@@ -101593,7 +101621,7 @@
 | windows10-icons | 1.0 | Windows 10 icon theme | legacyPackages.x86_64-linux.windows10-icons |
 | windowslive | 0.3 | Implements Windows Live Web Authentication and Delegated Authentication | legacyPackages.x86_64-linux.haskellPackages.windowslive |
 | windowtolayer | 0-unstable-2025-01-26 | Display existing Wayland applications as a wallpaper instead | legacyPackages.x86_64-linux.windowtolayer |
-| windsend | 1.5.5 | Quickly and securely sync clipboard, transfer files and directories between devices | legacyPackages.x86_64-linux.windsend |
+| windsend | 1.6.0 | Quickly and securely sync clipboard, transfer files and directories between devices | legacyPackages.x86_64-linux.windsend |
 | windsend-rs | 1.5.5 | Quickly and securely sync clipboard, transfer files and directories between devices | legacyPackages.x86_64-linux.windsend-rs |
 | windsurf | 1.12.43 | Agentic IDE powered by AI Flow paradigm | legacyPackages.x86_64-linux.windsurf |
 | windterm | 2.7.0 | Professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal | legacyPackages.x86_64-linux.windterm |
@@ -101716,15 +101744,15 @@
 | with-index | 0.1.0.0 | A tiny library for composing indexed traversals | legacyPackages.x86_64-linux.haskellPackages.with-index |
 | with-location | 0.1.0 | Use ImplicitParams-based source locations in a backward compatible way | legacyPackages.x86_64-linux.haskellPackages.with-location |
 | with-utf8 | 1.1.0.0 | Get your IO right on the first try | legacyPackages.x86_64-linux.haskellPackages.with-utf8 |
-| withWhitespace-salted-j9qalcblgl74 |  |  | legacyPackages.x86_64-linux.tests.fetchFromBitbucket.withEncodedWhitespace |
-| withWhitespaceGit-salted-kwgj9kd3zayc |  |  | legacyPackages.x86_64-linux.tests.fetchFromBitbucket.withEncodedWhitespaceGit |
+| withWhitespace-salted | 888mqjcdk4sz |  | legacyPackages.x86_64-linux.tests.fetchFromBitbucket.withEncodedWhitespace |
+| withWhitespaceGit-salted-ncaahbh11sy1 |  |  | legacyPackages.x86_64-linux.tests.fetchFromBitbucket.withEncodedWhitespaceGit |
 | withargs | 0.3.1 | In-place argument substitution | legacyPackages.x86_64-linux.texlivePackages.withargs |
 | witharrows | 2.9a | "Aligned" math environments with arrows for comments | legacyPackages.x86_64-linux.texlivePackages.witharrows |
 | withdependencies | 0.3.1 | Run computations that depend on one or more elements in a stream | legacyPackages.x86_64-linux.haskellPackages.withdependencies |
 | witherable | 0.5 | filterable traversable | legacyPackages.x86_64-linux.haskellPackages.witherable |
 | witherable-class | 0.0.1 | Witherable = Traversable + Filterable | legacyPackages.x86_64-linux.haskellPackages.witherable-class |
 | within | 0.2.0.1 | A value within another path | legacyPackages.x86_64-linux.haskellPackages.within |
-| withoutWhitespace-salted-nmpmfz796w3s |  |  | legacyPackages.x86_64-linux.tests.fetchFromBitbucket.withoutWhitespace |
+| withoutWhitespace-salted-lxv07ncvh88w |  |  | legacyPackages.x86_64-linux.tests.fetchFromBitbucket.withoutWhitespace |
 | witness | 0.10.1 | Pluggable framework for software supply chain security. Witness prevents tampering of build materials and verifies the integrity of the build process from source to target | legacyPackages.x86_64-linux.witness |
 | witness | 0.7 | values that witness types | legacyPackages.x86_64-linux.haskellPackages.witness |
 | witnessme | 0-unstable-2023-12-06 | Web Inventory tool | legacyPackages.x86_64-linux.witnessme |
@@ -101965,7 +101993,7 @@
 | wormhole-william | 1.0.8 | End-to-end encrypted file transfers | legacyPackages.x86_64-linux.wormhole-william |
 | wownero | 0.11.3.0 | A privacy-centric memecoin that was fairly launched on April 1, 2018 with no pre-mine, stealth-mine or ICO  | legacyPackages.x86_64-linux.wownero |
 | wowup-cf | 2.20.0 | World of Warcraft addon updater with CurseForge support | legacyPackages.x86_64-linux.wowup-cf |
-| wox | 2.0.0-beta.5 | Cross-platform launcher that simply works | legacyPackages.x86_64-linux.wox |
+| wox | 2.0.0-beta.6 | Cross-platform launcher that simply works | legacyPackages.x86_64-linux.wox |
 | wp-archivebot | 0.1 | Subscribe to a wiki's RSS feed and archive external links | legacyPackages.x86_64-linux.haskellPackages.wp-archivebot |
 | wp-cli | 2.12.0 | Command line interface for WordPress | legacyPackages.x86_64-linux.wp-cli |
 | wp4nix | 1.0.0 | Packaging helper for Wordpress themes and plugins | legacyPackages.x86_64-linux.wp4nix |
@@ -102328,10 +102356,10 @@
 | x86_energy_perf_policy | 6.17.12 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_lqx.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.12 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.17.12 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.x86_energy_perf_policy |
-| x86_energy_perf_policy | 6.18 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy |
-| x86_energy_perf_policy | 6.18 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.18.1 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.x86_energy_perf_policy |
+| x86_energy_perf_policy | 6.18.1 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.18.1 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_latest.x86_energy_perf_policy |
+| x86_energy_perf_policy | 6.18.1 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxPackages_zen.x86_energy_perf_policy |
 | x86_energy_perf_policy | 6.6.119 | Set the energy versus performance policy preference bias on recent X86 processors | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.x86_energy_perf_policy |
 | x86info | 0-unstable-2021-08-07 | Identification utility for the x86 series of processors | legacyPackages.x86_64-linux.x86info |
 | xa | 2.4.1 | Andre Fachat's open-source 6502 cross assembler | legacyPackages.x86_64-linux.xa |
@@ -102343,7 +102371,7 @@
 | xapian | 1.4.27 | Search engine library | legacyPackages.x86_64-linux.xapian |
 | xapian | 1.4.27 | Search engine library | legacyPackages.x86_64-linux.xapian_1_4 |
 | xapian-omega | 1.4.27 | Indexer and CGI search front-end built on Xapian library | legacyPackages.x86_64-linux.xapian-omega |
-| xapp | 3.2.0 | Cross-desktop libraries and common resources | legacyPackages.x86_64-linux.xapp |
+| xapp | 3.2.1 | Cross-desktop libraries and common resources | legacyPackages.x86_64-linux.xapp |
 | xapp-symbolic-icons | 1.0.6 | Set of symbolic icons for GTK applications and projects | legacyPackages.x86_64-linux.xapp-symbolic-icons |
 | xapp-thumbnailers | 1.2.9 | Thumbnailers for GTK desktop environments | legacyPackages.x86_64-linux.xapp-thumbnailers |
 | xar | 501 | Easily extensible archive format | legacyPackages.x86_64-linux.xar |
@@ -102469,7 +102497,7 @@
 | xdg-desktop-portal-phosh | 0.49.0 | A backend implementation for xdg-desktop-portal that is using GTK/GNOME/Phosh to provide interfaces that aren't provided by the GTK portal | legacyPackages.x86_64-linux.xdg-desktop-portal-phosh |
 | xdg-desktop-portal-shana | 0.3.16 | Filechooser portal backend for any desktop environment | legacyPackages.x86_64-linux.xdg-desktop-portal-shana |
 | xdg-desktop-portal-termfilechooser | 1.2.1 | xdg-desktop-portal backend for choosing files with your favorite file chooser | legacyPackages.x86_64-linux.xdg-desktop-portal-termfilechooser |
-| xdg-desktop-portal-wlr | 0.8.0 | xdg-desktop-portal backend for wlroots | legacyPackages.x86_64-linux.xdg-desktop-portal-wlr |
+| xdg-desktop-portal-wlr | 0.8.1 | xdg-desktop-portal backend for wlroots | legacyPackages.x86_64-linux.xdg-desktop-portal-wlr |
 | xdg-desktop-portal-xapp | 1.1.3 | Backend implementation for xdg-desktop-portal for Cinnamon, MATE, Xfce | legacyPackages.x86_64-linux.xdg-desktop-portal-xapp |
 | xdg-launch | 1.12 | Command line XDG compliant launcher and tools | legacyPackages.x86_64-linux.xdg-launch |
 | xdg-ninja | 0.2.0.2-unstable-2025-11-01 | Shell script which checks your $HOME for unwanted files and directories | legacyPackages.x86_64-linux.xdg-ninja |
@@ -102509,7 +102537,7 @@
 | xecyr | 1.2 | Using Cyrillic languages in XeTeX | legacyPackages.x86_64-linux.texlivePackages.xecyr |
 | xecyrmongolian | 1.0 | Basic support for the typesetting of Cyrillic Mongolian documents using (Xe|Lua)LaTeX | legacyPackages.x86_64-linux.texlivePackages.xecyrmongolian |
 | xed | 2025.06.08 | Intel X86 Encoder Decoder (Intel XED) | legacyPackages.x86_64-linux.xed |
-| xed-editor | 3.8.6 | Light weight text editor from Linux Mint | legacyPackages.x86_64-linux.xed-editor |
+| xed-editor | 3.8.7 | Light weight text editor from Linux Mint | legacyPackages.x86_64-linux.xed-editor |
 | xedit | 1.2.4 | Simple graphical text editor using Athena Widgets (Xaw) | legacyPackages.x86_64-linux.xedit |
 | xee | 0.1.6 | XML Execution Engine written in Rust | legacyPackages.x86_64-linux.xee |
 | xeindex | 0.3 | Automatic index generation for XeLaTeX | legacyPackages.x86_64-linux.texlivePackages.xeindex |
@@ -102754,7 +102782,7 @@
 | xl2tpd | 1.3.19 | Layer 2 Tunnelling Protocol Daemon (RFC 2661) | legacyPackages.x86_64-linux.xl2tpd |
 | xlayoutdisplay | 1.5.0 | Detects and arranges linux display outputs, using XRandR for detection and xrandr for arrangement | legacyPackages.x86_64-linux.xlayoutdisplay |
 | xld | 20250302 | Lossless audio decoder | legacyPackages.x86_64-linux.xld |
-| xleak | 0.1.0 | Terminal Excel viewer with an interactive TUI | legacyPackages.x86_64-linux.xleak |
+| xleak | 0.2.5 | Terminal Excel viewer with an interactive TUI | legacyPackages.x86_64-linux.xleak |
 | xleb | 0.1.0 | A simple monadic language for parsing XML structures | legacyPackages.x86_64-linux.haskellPackages.xleb |
 | xlibinput-calibrator | 0.11 | Touch calibrator for libinput | legacyPackages.x86_64-linux.xlibinput-calibrator |
 | xlife | 6.7.5 | Conway's Game of Life and other cellular automata, for X | legacyPackages.x86_64-linux.xlife |
@@ -102794,7 +102822,7 @@
 | xmenu | 4.6.1 | Menu utility for X | legacyPackages.x86_64-linux.xmenu |
 | xmessage | 1.0.7 | Display a message or query in a window | legacyPackages.x86_64-linux.xmessage |
 | xmessage | 1.0.7 | Display a message or query in a window | legacyPackages.x86_64-linux.xorg.xmessage |
-| xmind | 25.07.03033-202507241842 | All-in-one thinking tool featuring mind mapping, AI generation, and real-time collaboration | legacyPackages.x86_64-linux.xmind |
+| xmind | 26.01.03145-202510170359 | All-in-one thinking tool featuring mind mapping, AI generation, and real-time collaboration | legacyPackages.x86_64-linux.xmind |
 | xml | 1.3.14 | A simple XML library | legacyPackages.x86_64-linux.haskellPackages.xml |
 | xml-basic | 0.1.3.3 | Basics for XML/HTML representation and processing | legacyPackages.x86_64-linux.haskellPackages.xml-basic |
 | xml-catalog | 1.1.0.2 | Parse XML catalog files (deprecated) | legacyPackages.x86_64-linux.haskellPackages.xml-catalog |
@@ -103070,10 +103098,10 @@
 | xrandr | 1.5.3 | Command line interface to X11 Resize, Rotate, and Reflect (RandR) extension | legacyPackages.x86_64-linux.xorg.xrandr |
 | xrandr | 1.5.3 | Command line interface to X11 Resize, Rotate, and Reflect (RandR) extension | legacyPackages.x86_64-linux.xrandr |
 | xrandr-invert-colors | 0.02 | Invert colors on all screens, using XRandR | legacyPackages.x86_64-linux.xrandr-invert-colors |
-| xray | 25.12.2 | Platform for building proxies to bypass network restrictions. A replacement for v2ray-core, with XTLS support and fully compatible configuration | legacyPackages.x86_64-linux.xray |
+| xray | 25.12.8 | Platform for building proxies to bypass network restrictions. A replacement for v2ray-core, with XTLS support and fully compatible configuration | legacyPackages.x86_64-linux.xray |
 | xrdb | 1.2.2 |  | legacyPackages.x86_64-linux.xorg.xrdb |
 | xrdp | 0.10.4.1 | Open source RDP server | legacyPackages.x86_64-linux.xrdp |
-| xreader | 4.6.0 | Document viewer capable of displaying multiple and single page document formats like PDF and Postscript | legacyPackages.x86_64-linux.xreader |
+| xreader | 4.6.1 | Document viewer capable of displaying multiple and single page document formats like PDF and Postscript | legacyPackages.x86_64-linux.xreader |
 | xrectsel | 0.3.2 | Print the geometry of a rectangular screen region | legacyPackages.x86_64-linux.xrectsel |
 | xrefcheck | 0.3.1 |  | legacyPackages.x86_64-linux.haskellPackages.xrefcheck |
 | xrefresh | 1.1.0 | Utility to refresh all or part of an X screen | legacyPackages.x86_64-linux.xorg.xrefresh |
@@ -103166,7 +103194,7 @@
 | xva-img | 1.5 | Tool for converting Xen images to raw and back | legacyPackages.x86_64-linux.xva-img |
 | xvfb-run | 1+g87f6705 | Convenience script to run a virtualized X-Server | legacyPackages.x86_64-linux.xvfb-run |
 | xvidcore | 1.3.7 | MPEG-4 video codec for PC | legacyPackages.x86_64-linux.xvidcore |
-| xviewer | 3.4.14 | Generic image viewer from Linux Mint | legacyPackages.x86_64-linux.xviewer |
+| xviewer | 3.4.15 | Generic image viewer from Linux Mint | legacyPackages.x86_64-linux.xviewer |
 | xvinfo | 1.1.5 | Utility to print out X-Video extension adaptor information | legacyPackages.x86_64-linux.xorg.xvinfo |
 | xvinfo | 1.1.5 | Utility to print out X-Video extension adaptor information | legacyPackages.x86_64-linux.xvinfo |
 | xvkbd | 4.1 | Virtual keyboard for X window system | legacyPackages.x86_64-linux.xvkbd |
@@ -103579,6 +103607,7 @@
 | yjftp-libs | 0.0.2 | CUI FTP client like 'ftp', 'ncftp' | legacyPackages.x86_64-linux.haskellPackages.yjftp-libs |
 | yjsvg | 0.2.0.1 | make SVG string from Haskell data | legacyPackages.x86_64-linux.haskellPackages.yjsvg |
 | yjtools | 0.9.18 | some tools for Monad, List, Tuple and so on | legacyPackages.x86_64-linux.haskellPackages.yjtools |
+| ykushcmd | 1.2.5 | Control utility for YepKit USB hubs | legacyPackages.x86_64-linux.ykush |
 | yle-dl | 20250730 | Downloads videos from Yle (Finnish Broadcasting Company) servers | legacyPackages.x86_64-linux.yle-dl |
 | ympd | 1.3.0 | Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS | legacyPackages.x86_64-linux.ympd |
 | ymuse | 0.22 | GTK client for Music Player Daemon (MPD) | legacyPackages.x86_64-linux.ymuse |
@@ -103698,7 +103727,7 @@
 | yubikey-agent | 0.1.6 | Seamless ssh-agent for YubiKeys | legacyPackages.x86_64-linux.yubikey-agent |
 | yubikey-personalization | 1.20.0 | Library and command line tool to personalize YubiKeys | legacyPackages.x86_64-linux.yubikey-personalization |
 | yubikey-touch-detector | 1.13.0 | Tool to detect when your YubiKey is waiting for a touch | legacyPackages.x86_64-linux.yubikey-touch-detector |
-| yubioath-flutter | 7.3.0 | Yubico Authenticator for Desktop | legacyPackages.x86_64-linux.yubioath-flutter |
+| yubioath-flutter | 7.3.1 | Yubico Authenticator for Desktop | legacyPackages.x86_64-linux.yubioath-flutter |
 | yudit | 3.1.0 | Free Unicode plain-text editor for Unix-like systems | legacyPackages.x86_64-linux.yudit |
 | yuge | 0 | 30 level Marathon scenario, plus 225 secret levels for many extra hours of gameplay | legacyPackages.x86_64-linux.alephone-yuge |
 | yuhaiin | 0.3.8 | Proxy kit for Linux/Windows/MacOS | legacyPackages.x86_64-linux.yuhaiin |
@@ -103878,7 +103907,7 @@
 | zenn-cli | 0.2.10 | Preview Zenn content locally | legacyPackages.x86_64-linux.zenn-cli |
 | zennote | 1.0.0 | Streamline your note-taking process! | legacyPackages.x86_64-linux.texlivePackages.zennote |
 | zeno | 0.2.0.1 | An automated proof system for Haskell programs | legacyPackages.x86_64-linux.haskellPackages.zeno |
-| zeno | 2.0.18 | State-of-the-art web crawler | legacyPackages.x86_64-linux.zeno |
+| zeno | 2.0.19 | State-of-the-art web crawler | legacyPackages.x86_64-linux.zeno |
 | zenoh | 1.4.0 | Communication protocol that combines pub/sub with key value storage and computation | legacyPackages.x86_64-linux.zenoh |
 | zenoh-backend-filesystem | 1.4.0 | Backend and Storages for zenoh using the file system | legacyPackages.x86_64-linux.zenoh-backend-filesystem |
 | zenoh-backend-influxdb | 1.4.0 | Backend and Storages for zenoh using InfluxDB | legacyPackages.x86_64-linux.zenoh-backend-influxdb |
@@ -103964,10 +103993,10 @@
 | zfs-kernel | 2.3.5-6.17.12 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.12 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.17.12 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_3 |
-| zfs-kernel | 2.3.5-6.18 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3 |
-| zfs-kernel | 2.3.5-6.18 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.zfs_2_3 |
+| zfs-kernel | 2.3.5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_3 |
+| zfs-kernel | 2.3.5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_3 |
 | zfs-kernel | 2.3.5-6.6.119 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_3 |
 | zfs-kernel | 2.4.0-rc5-5.10.247 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_unstable |
 | zfs-kernel | 2.4.0-rc5-5.15.197 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_unstable |
@@ -103985,10 +104014,10 @@
 | zfs-kernel | 2.4.0-rc5-6.17.12 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_unstable |
 | zfs-kernel | 2.4.0-rc5-6.17.12 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_unstable |
 | zfs-kernel | 2.4.0-rc5-6.17.12 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_unstable |
-| zfs-kernel | 2.4.0-rc5-6.18 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable |
-| zfs-kernel | 2.4.0-rc5-6.18 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable |
 | zfs-kernel | 2.4.0-rc5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.zfs_unstable |
+| zfs-kernel | 2.4.0-rc5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable |
 | zfs-kernel | 2.4.0-rc5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_latest.zfs_unstable |
+| zfs-kernel | 2.4.0-rc5-6.18.1 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable |
 | zfs-kernel | 2.4.0-rc5-6.6.119 | ZFS Filesystem Linux Kernel Module | legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_unstable |
 | zfs-prune-snapshots | 1.5.0 | Remove snapshots from one or more zpools that match given criteria | legacyPackages.x86_64-linux.zfs-prune-snapshots |
 | zfs-user | 2.3.5 | ZFS Filesystem Linux Userspace Tools | legacyPackages.x86_64-linux.zfs |
