@@ -432,12 +432,12 @@
   "legacyPackages.x86_64-linux._86Box": {
     "description": "Emulator of x86-based machines based on PCem",
     "pname": "86Box",
-    "version": "5.2"
+    "version": "5.3"
   },
   "legacyPackages.x86_64-linux._86Box-with-roms": {
     "description": "Emulator of x86-based machines based on PCem",
     "pname": "86Box",
-    "version": "5.2"
+    "version": "5.3"
   },
   "legacyPackages.x86_64-linux._90secondportraits": {
     "description": "Silly speed painting game",
@@ -3882,7 +3882,7 @@
   "legacyPackages.x86_64-linux.algia": {
     "description": "CLI application for nostr",
     "pname": "algia",
-    "version": "0.0.93"
+    "version": "0.0.97"
   },
   "legacyPackages.x86_64-linux.alglib": {
     "description": "Numerical analysis and data processing library",
@@ -4672,12 +4672,12 @@
   "legacyPackages.x86_64-linux.androidStudioPackages.canary": {
     "description": "Official IDE for Android (canary channel)",
     "pname": "android-studio-canary",
-    "version": "2025.2.3.4"
+    "version": "2025.2.3.5"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.dev": {
     "description": "Official IDE for Android (dev channel)",
     "pname": "android-studio-dev",
-    "version": "2025.2.3.4"
+    "version": "2025.2.3.5"
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.stable": {
     "description": "Official IDE for Android (stable channel)",
@@ -8047,7 +8047,7 @@
   "legacyPackages.x86_64-linux.ansel": {
     "description": "Darktable fork minus the bloat plus some design vision",
     "pname": "ansel",
-    "version": "0-unstable-2025-12-08"
+    "version": "0-unstable-2025-12-15"
   },
   "legacyPackages.x86_64-linux.ansi": {
     "description": "Quickly get ANSI escape sequences",
@@ -11382,7 +11382,7 @@
   "legacyPackages.x86_64-linux.autobrr": {
     "description": "Modern, easy to use download automation for torrents and usenet",
     "pname": "autobrr",
-    "version": "1.69.0"
+    "version": "1.71.0"
   },
   "legacyPackages.x86_64-linux.autobuild": {
     "description": "Continuous integration tool",
@@ -11627,7 +11627,7 @@
   "legacyPackages.x86_64-linux.avalanche-cli": {
     "description": "Command line tool that gives developers access to everything Avalanche",
     "pname": "avalanche-cli",
-    "version": "1.9.5"
+    "version": "1.9.6"
   },
   "legacyPackages.x86_64-linux.avalanchego": {
     "description": "Go implementation of an Avalanche node",
@@ -15302,7 +15302,7 @@
   "legacyPackages.x86_64-linux.bikeshed": {
     "description": "Preprocessor for anyone writing specifications that converts source files into actual specs",
     "pname": "bikeshed",
-    "version": "7.0.0"
+    "version": "7.0.5"
   },
   "legacyPackages.x86_64-linux.bili-live-tool": {
     "description": "Tool to start and stop streaming and getting streaming codes for Bilibili live",
@@ -15942,12 +15942,12 @@
   "legacyPackages.x86_64-linux.blender": {
     "description": "3D Creation/Animation/Publishing System",
     "pname": "blender",
-    "version": "5.0.0"
+    "version": "5.0.1"
   },
   "legacyPackages.x86_64-linux.blender-hip": {
     "description": "3D Creation/Animation/Publishing System",
     "pname": "blender",
-    "version": "5.0.0"
+    "version": "5.0.1"
   },
   "legacyPackages.x86_64-linux.blendfarm": {
     "description": "Open-source, cross-platform, stand-alone, Network Renderer for Blender",
@@ -18764,6 +18764,11 @@
     "pname": "cantoolz",
     "version": "3.7.0"
   },
+  "legacyPackages.x86_64-linux.cantus": {
+    "description": "Beautiful interactive music widget for Wayland",
+    "pname": "cantus",
+    "version": "0.4.0"
+  },
   "legacyPackages.x86_64-linux.capacities": {
     "description": "Calm place to make sense of the world and create amazing things",
     "pname": "capacities",
@@ -20832,7 +20837,7 @@
   "legacyPackages.x86_64-linux.chalk": {
     "description": "CLI tool for interacting with the Chalk platform",
     "pname": "chalk",
-    "version": "1.29.4"
+    "version": "1.34.9"
   },
   "legacyPackages.x86_64-linux.chamber": {
     "description": "Tool for managing secrets by storing them in AWS SSM Parameter Store",
@@ -25142,7 +25147,7 @@
   "legacyPackages.x86_64-linux.claude-code": {
     "description": "Agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster",
     "pname": "claude-code",
-    "version": "2.0.75"
+    "version": "2.0.76"
   },
   "legacyPackages.x86_64-linux.claude-code-acp": {
     "description": "ACP-compatible coding agent powered by the Claude Code SDK",
@@ -31062,12 +31067,12 @@
   "legacyPackages.x86_64-linux.darkly": {
     "description": "Modern style for Qt applications (fork of Lightly)",
     "pname": "darkly-qt6",
-    "version": "0.5.29"
+    "version": "0.5.30"
   },
   "legacyPackages.x86_64-linux.darkly-qt5": {
     "description": "Modern style for Qt applications (fork of Lightly)",
     "pname": "darkly-qt5",
-    "version": "0.5.29"
+    "version": "0.5.30"
   },
   "legacyPackages.x86_64-linux.darkman": {
     "description": "Framework for dark-mode and light-mode transitions on Linux desktop",
@@ -31092,7 +31097,7 @@
   "legacyPackages.x86_64-linux.darktable": {
     "description": "Virtual lighttable and darkroom for photographers",
     "pname": "darktable",
-    "version": "5.2.1"
+    "version": "5.4.0"
   },
   "legacyPackages.x86_64-linux.darktile": {
     "description": "GPU rendered terminal emulator designed for tiling window managers",
@@ -34617,7 +34622,7 @@
   "legacyPackages.x86_64-linux.docker": {
     "description": "Open source project to pack, ship and run any application as a lightweight container",
     "pname": "docker",
-    "version": "29.1.2"
+    "version": "29.1.3"
   },
   "legacyPackages.x86_64-linux.docker-buildx": {
     "description": "Docker CLI plugin for extended build capabilities with BuildKit",
@@ -34627,7 +34632,7 @@
   "legacyPackages.x86_64-linux.docker-client": {
     "description": "Open source project to pack, ship and run any application as a lightweight container",
     "pname": "docker",
-    "version": "29.1.2"
+    "version": "29.1.3"
   },
   "legacyPackages.x86_64-linux.docker-color-output": {
     "description": "Add color to the Docker CLI",
@@ -34712,7 +34717,7 @@
   "legacyPackages.x86_64-linux.docker_29": {
     "description": "Open source project to pack, ship and run any application as a lightweight container",
     "pname": "docker",
-    "version": "29.1.2"
+    "version": "29.1.3"
   },
   "legacyPackages.x86_64-linux.dockerfile-language-server": {
     "description": "Language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies",
@@ -40842,7 +40847,7 @@
   "legacyPackages.x86_64-linux.fabric-ai": {
     "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere",
     "pname": "fabric-ai",
-    "version": "1.4.345"
+    "version": "1.4.357"
   },
   "legacyPackages.x86_64-linux.fabric-installer": {
     "description": "Lightweight, experimental modding toolchain for Minecraft",
@@ -42642,7 +42647,7 @@
   "legacyPackages.x86_64-linux.finamp": {
     "description": "Open source Jellyfin music player",
     "pname": "finamp",
-    "version": "0.9.20-beta"
+    "version": "0.9.21-beta"
   },
   "legacyPackages.x86_64-linux.find-billy": {
     "description": "2 dimensional Pixel Art Jump & Run",
@@ -43652,7 +43657,7 @@
   "legacyPackages.x86_64-linux.flightgear": {
     "description": "Flight simulator",
     "pname": "flightgear",
-    "version": "2024.1.1"
+    "version": "2024.1.3"
   },
   "legacyPackages.x86_64-linux.flink": {
     "description": "Distributed stream processing framework",
@@ -43902,7 +43907,7 @@
   "legacyPackages.x86_64-linux.flutter": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutter329": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
@@ -43922,12 +43927,12 @@
   "legacyPackages.x86_64-linux.flutter338": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages-bin.stable": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages-bin.v3_29": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
@@ -43947,12 +43952,12 @@
   "legacyPackages.x86_64-linux.flutterPackages-bin.v3_38": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages-source.stable": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages-source.v3_29": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
@@ -43972,12 +43977,12 @@
   "legacyPackages.x86_64-linux.flutterPackages-source.v3_38": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages.stable": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutterPackages.v3_29": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
@@ -43997,7 +44002,7 @@
   "legacyPackages.x86_64-linux.flutterPackages.v3_38": {
     "description": "Makes it easy and fast to build beautiful apps for mobile and beyond",
     "pname": "flutter-wrapped",
-    "version": "3.38.4-sdk-links"
+    "version": "3.38.5-sdk-links"
   },
   "legacyPackages.x86_64-linux.flutter_rust_bridge_codegen": {
     "description": "Flutter/Dart <-> Rust binding generator, feature-rich, but seamless and simple",
@@ -45562,7 +45567,7 @@
   "legacyPackages.x86_64-linux.ft2-clone": {
     "description": "Highly accurate clone of the classic Fasttracker II software for MS-DOS",
     "pname": "ft2-clone",
-    "version": "2.00"
+    "version": "2.03"
   },
   "legacyPackages.x86_64-linux.ftb-app": {
     "description": "Feed the Beast desktop app",
@@ -45692,7 +45697,7 @@
   "legacyPackages.x86_64-linux.furtherance": {
     "description": "Track your time without being tracked",
     "pname": "furtherance",
-    "version": "1.8.3"
+    "version": "25.3.0"
   },
   "legacyPackages.x86_64-linux.fuse": {
     "description": "Library that allows filesystems to be implemented in user space",
@@ -46172,12 +46177,12 @@
   "legacyPackages.x86_64-linux.gamescope": {
     "description": "SteamOS session compositing window manager",
     "pname": "gamescope",
-    "version": "3.16.18"
+    "version": "3.16.19"
   },
   "legacyPackages.x86_64-linux.gamescope-wsi": {
     "description": "SteamOS session compositing window manager",
     "pname": "gamescope",
-    "version": "3.16.18"
+    "version": "3.16.19"
   },
   "legacyPackages.x86_64-linux.gamja": {
     "description": "Simple IRC web client",
@@ -56458,6 +56463,11 @@
     "description": "Go Programming language",
     "pname": "go",
     "version": "1.25.4"
+  },
+  "legacyPackages.x86_64-linux.go_1_26": {
+    "description": "Go Programming language",
+    "pname": "go",
+    "version": "1.26rc1"
   },
   "legacyPackages.x86_64-linux.go_latest": {
     "description": "Go Programming language",
@@ -161487,7 +161497,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.universal-remote-card": {
     "description": "Completely customizable universal remote card for Home Assistant. Supports multiple platforms out of the box",
     "pname": "universal-remote-card",
-    "version": "4.9.2"
+    "version": "4.9.3"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.vacuum-card": {
     "description": "Vacuum cleaner card for Home Assistant Lovelace UI",
@@ -161522,7 +161532,7 @@
   "legacyPackages.x86_64-linux.home-manager": {
     "description": "Nix-based user environment configurator",
     "pname": "home-manager",
-    "version": "0-unstable-2025-12-13"
+    "version": "0-unstable-2025-12-19"
   },
   "legacyPackages.x86_64-linux.homebank": {
     "description": "Free, easy, personal accounting for everyone",
@@ -164887,7 +164897,7 @@
   "legacyPackages.x86_64-linux.ifm": {
     "description": "Interactive fiction mapper",
     "pname": "ifm",
-    "version": "2015-11-08"
+    "version": "5.5"
   },
   "legacyPackages.x86_64-linux.ifm-web": {
     "description": "Improved File Manager, a single-file web-based filemanager",
@@ -169512,7 +169522,7 @@
   "legacyPackages.x86_64-linux.just": {
     "description": "Handy way to save and run project-specific commands",
     "pname": "just",
-    "version": "1.43.1"
+    "version": "1.45.0"
   },
   "legacyPackages.x86_64-linux.just-formatter": {
     "description": "Format justfile from stdin to stdout",
@@ -174147,7 +174157,7 @@
   "legacyPackages.x86_64-linux.knowsmore": {
     "description": "Tool for pentesting Microsoft Active Directory",
     "pname": "knowsmore",
-    "version": "0.1.49"
+    "version": "0.1.50"
   },
   "legacyPackages.x86_64-linux.kns": {
     "description": "Kubernetes namespace switcher",
@@ -174717,7 +174727,7 @@
   "legacyPackages.x86_64-linux.komikku": {
     "description": "Manga reader for GNOME",
     "pname": "komikku",
-    "version": "1.97.0"
+    "version": "1.98.0"
   },
   "legacyPackages.x86_64-linux.komodo": {
     "description": "Tool to build and deploy software on many servers",
@@ -175814,11 +175824,6 @@
     "pname": "kwalletcli",
     "version": "3.03"
   },
-  "legacyPackages.x86_64-linux.kwm": {
-    "description": "Tiling window manager with focus follows mouse for OSX",
-    "pname": "kwm",
-    "version": "4.0.5"
-  },
   "legacyPackages.x86_64-linux.kwok": {
     "description": "Simulate massive Kubernetes clusters with low resource usage locally without kubelet",
     "pname": "kwok",
@@ -175942,7 +175947,7 @@
   "legacyPackages.x86_64-linux.labwc-tweaks-gtk": {
     "description": "Configuration gui app for labwc; gtk fork",
     "pname": "labwc-tweaks-gtk",
-    "version": "0-unstable-2025-06-14"
+    "version": "0-unstable-2025-12-16"
   },
   "legacyPackages.x86_64-linux.labymod-launcher": {
     "description": "Minecraft modification that enhances gameplay with features like in-game TeamSpeak integration, custom animations, and additional settings",
@@ -181027,7 +181032,7 @@
   "legacyPackages.x86_64-linux.libresplit": {
     "description": "Speedrun timer with auto splitting and load removal for Linux",
     "pname": "libresplit",
-    "version": "0-unstable-2025-12-12"
+    "version": "0-unstable-2025-12-22"
   },
   "legacyPackages.x86_64-linux.librespot": {
     "description": "Open Source Spotify client library and playback daemon",
@@ -181097,7 +181102,7 @@
   "legacyPackages.x86_64-linux.libretro-shaders-slang": {
     "description": "Slang shaders for use with RetroArch's shader system",
     "pname": "libretro-shaders-slang",
-    "version": "0-unstable-2025-12-13"
+    "version": "0-unstable-2025-12-22"
   },
   "legacyPackages.x86_64-linux.libretro.atari800": {
     "description": "Port of Atari800 to libretro",
@@ -183712,7 +183717,7 @@
   "legacyPackages.x86_64-linux.libvlc": {
     "description": "Cross-platform media player and streaming server",
     "pname": "libvlc",
-    "version": "3.0.23"
+    "version": "3.0.23-2"
   },
   "legacyPackages.x86_64-linux.libvlcpp": {
     "description": "Header-only C++ bindings for the libvlc crossplatform multimedia API",
@@ -185162,7 +185167,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-5.10.247"
+    "version": "0.1.0-unstable-2025-12-11-5.10.247"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -185277,7 +185282,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -185977,7 +185982,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-5.15.197"
+    "version": "0.1.0-unstable-2025-12-11-5.15.197"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -186092,7 +186097,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -186792,7 +186797,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.1.159"
+    "version": "0.1.0-unstable-2025-12-11-6.1.159"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -186907,7 +186912,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -187602,7 +187607,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.12.63"
+    "version": "0.1.0-unstable-2025-12-11-6.12.63"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -187717,7 +187722,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -188417,7 +188422,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.12.56"
+    "version": "0.1.0-unstable-2025-12-11-6.12.56"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -188532,7 +188537,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -189232,7 +189237,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.17.13"
+    "version": "0.1.0-unstable-2025-12-11-6.17.13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -189347,7 +189352,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -190047,7 +190052,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.18.2"
+    "version": "0.1.0-unstable-2025-12-11-6.18.2"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -190162,7 +190167,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -190862,7 +190867,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.6.119"
+    "version": "0.1.0-unstable-2025-12-11-6.6.119"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -190977,7 +190982,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -191672,7 +191677,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.12.56"
+    "version": "0.1.0-unstable-2025-12-11-6.12.56"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -191787,7 +191792,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -192487,7 +192492,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.17.13"
+    "version": "0.1.0-unstable-2025-12-11-6.17.13"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -192602,7 +192607,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -193302,7 +193307,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.12.62"
+    "version": "0.1.0-unstable-2025-12-11-6.12.62"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -193417,7 +193422,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -194117,7 +194122,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.17.12"
+    "version": "0.1.0-unstable-2025-12-11-6.17.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -194232,7 +194237,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -194932,7 +194937,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.17.12"
+    "version": "0.1.0-unstable-2025-12-11-6.17.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -195047,7 +195052,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -195747,7 +195752,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.18.2"
+    "version": "0.1.0-unstable-2025-12-11-6.18.2"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -195862,7 +195867,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -196562,7 +196567,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.12.63"
+    "version": "0.1.0-unstable-2025-12-11-6.12.63"
   },
   "legacyPackages.x86_64-linux.linuxPackages.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -196677,7 +196682,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -197382,7 +197387,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.18.2"
+    "version": "0.1.0-unstable-2025-12-11-6.18.2"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -197497,7 +197502,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -198197,7 +198202,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.17.13"
+    "version": "0.1.0-unstable-2025-12-11-6.17.13"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -198312,7 +198317,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -199012,7 +199017,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.12.62"
+    "version": "0.1.0-unstable-2025-12-11-6.12.62"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -199127,7 +199132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -199827,7 +199832,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.17.12"
+    "version": "0.1.0-unstable-2025-12-11-6.17.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -199942,7 +199947,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -200642,7 +200647,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.17.12"
+    "version": "0.1.0-unstable-2025-12-11-6.17.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -200757,7 +200762,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -201457,7 +201462,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.asus-ec-sensors": {
     "description": "Linux HWMON sensors driver for ASUS motherboards to read sensor data from the embedded controller",
     "pname": "asus-ec-sensors",
-    "version": "0.1.0-unstable-2025-01-10-6.18.2"
+    "version": "0.1.0-unstable-2025-12-11-6.18.2"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.ax99100": {
     "description": "ASIX AX99100 Serial and Parallel Port driver",
@@ -201572,7 +201577,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.11"
+    "version": "1.14.12"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -202577,7 +202582,7 @@
   "legacyPackages.x86_64-linux.litmusctl": {
     "description": "Command-Line tool to manage Litmuschaos's agent plane",
     "pname": "litmusctl",
-    "version": "1.20.0"
+    "version": "1.21.0"
   },
   "legacyPackages.x86_64-linux.litterbox": {
     "description": "Simple TLS-only IRC logger",
@@ -202722,7 +202727,7 @@
   "legacyPackages.x86_64-linux.lixPackageSets.git.nixpkgs-review": {
     "description": "Review pull-requests on https://github.com/NixOS/nixpkgs",
     "pname": "nixpkgs-review",
-    "version": "3.5.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.lixPackageSets.latest.aws-sdk-cpp": {
     "description": "C++ interface for Amazon Web Services",
@@ -202782,7 +202787,7 @@
   "legacyPackages.x86_64-linux.lixPackageSets.latest.nixpkgs-review": {
     "description": "Review pull-requests on https://github.com/NixOS/nixpkgs",
     "pname": "nixpkgs-review",
-    "version": "3.5.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.lixPackageSets.lix_2_93.aws-sdk-cpp": {
     "description": "C++ interface for Amazon Web Services",
@@ -202842,7 +202847,7 @@
   "legacyPackages.x86_64-linux.lixPackageSets.lix_2_93.nixpkgs-review": {
     "description": "Review pull-requests on https://github.com/NixOS/nixpkgs",
     "pname": "nixpkgs-review",
-    "version": "3.5.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.lixPackageSets.lix_2_94.aws-sdk-cpp": {
     "description": "C++ interface for Amazon Web Services",
@@ -202902,7 +202907,7 @@
   "legacyPackages.x86_64-linux.lixPackageSets.lix_2_94.nixpkgs-review": {
     "description": "Review pull-requests on https://github.com/NixOS/nixpkgs",
     "pname": "nixpkgs-review",
-    "version": "3.5.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.lixPackageSets.stable.aws-sdk-cpp": {
     "description": "C++ interface for Amazon Web Services",
@@ -202962,7 +202967,7 @@
   "legacyPackages.x86_64-linux.lixPackageSets.stable.nixpkgs-review": {
     "description": "Review pull-requests on https://github.com/NixOS/nixpkgs",
     "pname": "nixpkgs-review",
-    "version": "3.5.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.lixStatic": {
     "description": "Powerful package manager that makes package management reliable and reproducible",
@@ -204402,7 +204407,7 @@
   "legacyPackages.x86_64-linux.log4cxx": {
     "description": "Logging framework for C++ patterned after Apache log4j",
     "pname": "log4cxx",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.log4shib": {
     "description": "Forked version of log4cpp that has been created for the Shibboleth project",
@@ -211307,7 +211312,7 @@
   "legacyPackages.x86_64-linux.lxqt.libfm-qt": {
     "description": "Core library of PCManFM-Qt (Qt binding for libfm)",
     "pname": "libfm-qt",
-    "version": "2.3.0"
+    "version": "2.3.1"
   },
   "legacyPackages.x86_64-linux.lxqt.libfm-qt_1_4": {
     "description": "Core library of PCManFM-Qt (Qt binding for libfm)",
@@ -211382,7 +211387,7 @@
   "legacyPackages.x86_64-linux.lxqt.lxqt-notificationd": {
     "description": "LXQt notification daemon",
     "pname": "lxqt-notificationd",
-    "version": "2.3.0"
+    "version": "2.3.1"
   },
   "legacyPackages.x86_64-linux.lxqt.lxqt-openssh-askpass": {
     "description": "GUI to query passwords on behalf of SSH agents",
@@ -211392,7 +211397,7 @@
   "legacyPackages.x86_64-linux.lxqt.lxqt-panel": {
     "description": "LXQt desktop panel",
     "pname": "lxqt-panel",
-    "version": "2.3.0"
+    "version": "2.3.2"
   },
   "legacyPackages.x86_64-linux.lxqt.lxqt-policykit": {
     "description": "LXQt PolicyKit agent",
@@ -212397,7 +212402,7 @@
   "legacyPackages.x86_64-linux.mangojuice": {
     "description": "Convenient alternative to GOverlay for setting up MangoHud",
     "pname": "mangojuice",
-    "version": "0.8.8"
+    "version": "0.8.9"
   },
   "legacyPackages.x86_64-linux.mangowc": {
     "description": "Lightweight and feature-rich Wayland compositor based on dwl",
@@ -212832,7 +212837,7 @@
   "legacyPackages.x86_64-linux.mariokart64recomp": {
     "description": "Recompilation of MarioKart 64",
     "pname": "mariokart64recomp",
-    "version": "0.9.1-unstable-2025-10-02"
+    "version": "0.9.1-unstable-2025-10-15"
   },
   "legacyPackages.x86_64-linux.marisa": {
     "description": "Static and space-efficient trie data structure library",
@@ -213637,7 +213642,7 @@
   "legacyPackages.x86_64-linux.mattermostLatest": {
     "description": "Open source platform for secure collaboration across the entire software development lifecycle",
     "pname": "mattermost",
-    "version": "11.2.0"
+    "version": "11.2.1"
   },
   "legacyPackages.x86_64-linux.matugen": {
     "description": "Material you color generation tool",
@@ -214542,7 +214547,7 @@
   "legacyPackages.x86_64-linux.meilisearch": {
     "description": "Powerful, fast, and an easy to use search engine",
     "pname": "meilisearch",
-    "version": "1.30.1"
+    "version": "1.31.0"
   },
   "legacyPackages.x86_64-linux.mekuteriya": {
     "description": "Ethiopian Calendar CLI",
@@ -216262,7 +216267,7 @@
   "legacyPackages.x86_64-linux.mint": {
     "description": "Refreshing language for the front-end web",
     "pname": "mint",
-    "version": "0.24.1"
+    "version": "0.28.1"
   },
   "legacyPackages.x86_64-linux.mint-artwork": {
     "description": "Artwork for the cinnamon desktop",
@@ -216462,7 +216467,7 @@
   "legacyPackages.x86_64-linux.mitra": {
     "description": "Federated micro-blogging platform",
     "pname": "mitra",
-    "version": "4.14.0"
+    "version": "4.15.0"
   },
   "legacyPackages.x86_64-linux.mitscheme": {
     "description": "MIT/GNU Scheme, a native code Scheme compiler",
@@ -217532,7 +217537,7 @@
   "legacyPackages.x86_64-linux.moosefs": {
     "description": "Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System",
     "pname": "moosefs",
-    "version": "4.58.2"
+    "version": "4.58.3"
   },
   "legacyPackages.x86_64-linux.mop": {
     "description": "Simple stock tracker implemented in go",
@@ -220797,7 +220802,7 @@
   "legacyPackages.x86_64-linux.neo4j": {
     "description": "Highly scalable, robust (fully ACID) native graph database",
     "pname": "neo4j",
-    "version": "5.26.1"
+    "version": "2025.10.1"
   },
   "legacyPackages.x86_64-linux.neocities": {
     "description": "CLI and library for interacting with the Neocities API",
@@ -222082,7 +222087,7 @@
   "legacyPackages.x86_64-linux.nginxMainline": {
     "description": "Reverse proxy and lightweight webserver",
     "pname": "nginx",
-    "version": "1.29.3"
+    "version": "1.29.4"
   },
   "legacyPackages.x86_64-linux.nginxShibboleth": {
     "description": "Reverse proxy and lightweight webserver",
@@ -223357,12 +223362,12 @@
   "legacyPackages.x86_64-linux.nixpkgs-review": {
     "description": "Review pull-requests on https://github.com/NixOS/nixpkgs",
     "pname": "nixpkgs-review",
-    "version": "3.5.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.nixpkgs-reviewFull": {
     "description": "Review pull-requests on https://github.com/NixOS/nixpkgs",
     "pname": "nixpkgs-review",
-    "version": "3.5.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.nixpkgs-track": {
     "description": "Track where Nixpkgs pull requests have reached",
@@ -223422,7 +223427,7 @@
   "legacyPackages.x86_64-linux.nlohmann_json_schema_validator": {
     "description": "JSON schema validator for JSON for Modern C++",
     "pname": "nlohmann_json_schema_validator",
-    "version": "2.3.0"
+    "version": "2.4.0"
   },
   "legacyPackages.x86_64-linux.nlojet": {
     "description": "Implementation of calculation of the hadron jet cross sections",
@@ -227172,7 +227177,7 @@
   "legacyPackages.x86_64-linux.novelwriter": {
     "description": "Open source plain text editor designed for writing novels",
     "pname": "novelwriter",
-    "version": "2.7.5"
+    "version": "2.8"
   },
   "legacyPackages.x86_64-linux.novnc": {
     "description": "VNC client web application",
@@ -237457,7 +237462,7 @@
   "legacyPackages.x86_64-linux.opengamepadui": {
     "description": "Open source gamepad-native game launcher and overlay",
     "pname": "opengamepadui",
-    "version": "0.42.1"
+    "version": "0.42.2"
   },
   "legacyPackages.x86_64-linux.opengfw": {
     "description": "Flexible, easy-to-use, open source implementation of GFW on Linux",
@@ -239122,7 +239127,7 @@
   "legacyPackages.x86_64-linux.organicmaps": {
     "description": "Detailed Offline Maps for Travellers, Tourists, Hikers and Cyclists",
     "pname": "organicmaps",
-    "version": "2025.11.26-5"
+    "version": "2025.12.16-16"
   },
   "legacyPackages.x86_64-linux.orion": {
     "description": "",
@@ -239767,7 +239772,7 @@
   "legacyPackages.x86_64-linux.oxigraph": {
     "description": "SPARQL graph database",
     "pname": "oxigraph",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.oxipng": {
     "description": "Multithreaded lossless PNG compression optimizer",
@@ -272422,7 +272427,7 @@
   "legacyPackages.x86_64-linux.php82Extensions.luasandbox": {
     "description": "Extension for PHP 7 and PHP 8 to allow safely running untrusted Lua 5.1 code from within PHP",
     "pname": "php-luasandbox",
-    "version": "4.1.2"
+    "version": "4.1.3"
   },
   "legacyPackages.x86_64-linux.php82Extensions.mailparse": {
     "description": "Mailparse is an extension for parsing and working with email messages",
@@ -273067,7 +273072,7 @@
   "legacyPackages.x86_64-linux.php83Extensions.luasandbox": {
     "description": "Extension for PHP 7 and PHP 8 to allow safely running untrusted Lua 5.1 code from within PHP",
     "pname": "php-luasandbox",
-    "version": "4.1.2"
+    "version": "4.1.3"
   },
   "legacyPackages.x86_64-linux.php83Extensions.mailparse": {
     "description": "Mailparse is an extension for parsing and working with email messages",
@@ -273712,7 +273717,7 @@
   "legacyPackages.x86_64-linux.php84Extensions.luasandbox": {
     "description": "Extension for PHP 7 and PHP 8 to allow safely running untrusted Lua 5.1 code from within PHP",
     "pname": "php-luasandbox",
-    "version": "4.1.2"
+    "version": "4.1.3"
   },
   "legacyPackages.x86_64-linux.php84Extensions.mailparse": {
     "description": "Mailparse is an extension for parsing and working with email messages",
@@ -274352,7 +274357,7 @@
   "legacyPackages.x86_64-linux.phpExtensions.luasandbox": {
     "description": "Extension for PHP 7 and PHP 8 to allow safely running untrusted Lua 5.1 code from within PHP",
     "pname": "php-luasandbox",
-    "version": "4.1.2"
+    "version": "4.1.3"
   },
   "legacyPackages.x86_64-linux.phpExtensions.mailparse": {
     "description": "Mailparse is an extension for parsing and working with email messages",
@@ -281132,7 +281137,7 @@
   "legacyPackages.x86_64-linux.process-compose": {
     "description": "Simple and flexible scheduler and orchestrator to manage non-containerized applications",
     "pname": "process-compose",
-    "version": "1.78.0"
+    "version": "1.85.0"
   },
   "legacyPackages.x86_64-linux.process-cpp": {
     "description": "Simple convenience library for handling processes in C++11",
@@ -283302,7 +283307,7 @@
   "legacyPackages.x86_64-linux.pyrefly": {
     "description": "Fast type checker and IDE for Python",
     "pname": "pyrefly",
-    "version": "0.44.2"
+    "version": "0.46.0"
   },
   "legacyPackages.x86_64-linux.pyright": {
     "description": "Type checker for the Python language",
@@ -300087,7 +300092,7 @@
   "legacyPackages.x86_64-linux.python312Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.12-iamdata",
-    "version": "0.1.202512211"
+    "version": "0.1.202512221"
   },
   "legacyPackages.x86_64-linux.python312Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -301842,7 +301847,7 @@
   "legacyPackages.x86_64-linux.python312Packages.jupyter-collaboration": {
     "description": "JupyterLab Extension enabling Real-Time Collaboration",
     "pname": "python3.12-jupyter-collaboration",
-    "version": "4.1.2"
+    "version": "4.2.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.jupyter-collaboration-ui": {
     "description": "JupyterLab/Jupyter Notebook 7+ extension providing user interface integration for real time collaboration",
@@ -309992,7 +309997,7 @@
   "legacyPackages.x86_64-linux.python312Packages.oelint-data": {
     "description": "Data for oelint-adv",
     "pname": "python3.12-oelint-data",
-    "version": "1.2.9"
+    "version": "1.2.10"
   },
   "legacyPackages.x86_64-linux.python312Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
@@ -317097,7 +317102,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pyoxigraph": {
     "description": "SPARQL graph database",
     "pname": "python3.12-pyoxigraph",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.python312Packages.pyoxipng": {
     "description": "Python wrapper for multithreaded PNG optimizer oxipng",
@@ -317187,7 +317192,7 @@
   "legacyPackages.x86_64-linux.python312Packages.pypdf": {
     "description": "Pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files",
     "pname": "python3.12-pypdf",
-    "version": "6.4.0"
+    "version": "6.4.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.pypdf2": {
     "description": "Pure-Python library built as a PDF toolkit",
@@ -322102,7 +322107,7 @@
   "legacyPackages.x86_64-linux.python312Packages.renault-api": {
     "description": "Python library to interact with the Renault API",
     "pname": "python3.12-renault-api",
-    "version": "0.5.1"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.rencode": {
     "description": "Fast (basic) object serialization similar to bencode",
@@ -324882,7 +324887,7 @@
   "legacyPackages.x86_64-linux.python312Packages.smp": {
     "description": "Simple Management Protocol (SMP) for remotely managing MCU firmware",
     "pname": "python3.12-smp",
-    "version": "4.0.1"
+    "version": "4.0.2"
   },
   "legacyPackages.x86_64-linux.python312Packages.smpclient": {
     "description": "Simple Management Protocol (SMP) Client for remotely managing MCU firmware",
@@ -327422,7 +327427,7 @@
   "legacyPackages.x86_64-linux.python312Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.12-tencentcloud-sdk-python",
-    "version": "3.1.15"
+    "version": "3.1.16"
   },
   "legacyPackages.x86_64-linux.python312Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -329767,7 +329772,7 @@
   "legacyPackages.x86_64-linux.python312Packages.txtai": {
     "description": "Semantic search and workflows powered by language models",
     "pname": "python3.12-txtai",
-    "version": "9.2.0"
+    "version": "9.3.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.txtorcon": {
     "description": "Twisted-based Tor controller client, with state-tracking and configuration abstractions",
@@ -332717,7 +332722,7 @@
   "legacyPackages.x86_64-linux.python312Packages.velbus-aio": {
     "description": "Python library to support the Velbus home automation system",
     "pname": "python3.12-velbus-aio",
-    "version": "2025.11.0"
+    "version": "2025.12.0"
   },
   "legacyPackages.x86_64-linux.python312Packages.venstarcolortouch": {
     "description": "Python interface for Venstar ColorTouch thermostats Resources",
@@ -333637,7 +333642,7 @@
   "legacyPackages.x86_64-linux.python312Packages.whodap": {
     "description": "Python RDAP utility for querying and parsing information about domain names",
     "pname": "python3.12-whodap",
-    "version": "0.1.13"
+    "version": "0.1.14"
   },
   "legacyPackages.x86_64-linux.python312Packages.whois": {
     "description": "Python module/library for retrieving WHOIS information",
@@ -351702,7 +351707,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.13-iamdata",
-    "version": "0.1.202512211"
+    "version": "0.1.202512221"
   },
   "legacyPackages.x86_64-linux.python313Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -353457,7 +353462,7 @@
   "legacyPackages.x86_64-linux.python313Packages.jupyter-collaboration": {
     "description": "JupyterLab Extension enabling Real-Time Collaboration",
     "pname": "python3.13-jupyter-collaboration",
-    "version": "4.1.2"
+    "version": "4.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.jupyter-collaboration-ui": {
     "description": "JupyterLab/Jupyter Notebook 7+ extension providing user interface integration for real time collaboration",
@@ -361612,7 +361617,7 @@
   "legacyPackages.x86_64-linux.python313Packages.oelint-data": {
     "description": "Data for oelint-adv",
     "pname": "python3.13-oelint-data",
-    "version": "1.2.9"
+    "version": "1.2.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.oelint-parser": {
     "description": "Alternative parser for bitbake recipes",
@@ -368717,7 +368722,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyoxigraph": {
     "description": "SPARQL graph database",
     "pname": "python3.13-pyoxigraph",
-    "version": "0.5.2"
+    "version": "0.5.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyoxipng": {
     "description": "Python wrapper for multithreaded PNG optimizer oxipng",
@@ -368807,7 +368812,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pypdf": {
     "description": "Pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files",
     "pname": "python3.13-pypdf",
-    "version": "6.4.0"
+    "version": "6.4.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pypdf2": {
     "description": "Pure-Python library built as a PDF toolkit",
@@ -373722,7 +373727,7 @@
   "legacyPackages.x86_64-linux.python313Packages.renault-api": {
     "description": "Python library to interact with the Renault API",
     "pname": "python3.13-renault-api",
-    "version": "0.5.1"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.rencode": {
     "description": "Fast (basic) object serialization similar to bencode",
@@ -376502,7 +376507,7 @@
   "legacyPackages.x86_64-linux.python313Packages.smp": {
     "description": "Simple Management Protocol (SMP) for remotely managing MCU firmware",
     "pname": "python3.13-smp",
-    "version": "4.0.1"
+    "version": "4.0.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.smpclient": {
     "description": "Simple Management Protocol (SMP) Client for remotely managing MCU firmware",
@@ -379092,7 +379097,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.1.15"
+    "version": "3.1.16"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -381437,7 +381442,7 @@
   "legacyPackages.x86_64-linux.python313Packages.txtai": {
     "description": "Semantic search and workflows powered by language models",
     "pname": "python3.13-txtai",
-    "version": "9.2.0"
+    "version": "9.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.txtorcon": {
     "description": "Twisted-based Tor controller client, with state-tracking and configuration abstractions",
@@ -384387,7 +384392,7 @@
   "legacyPackages.x86_64-linux.python313Packages.velbus-aio": {
     "description": "Python library to support the Velbus home automation system",
     "pname": "python3.13-velbus-aio",
-    "version": "2025.11.0"
+    "version": "2025.12.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.venstarcolortouch": {
     "description": "Python interface for Venstar ColorTouch thermostats Resources",
@@ -385307,7 +385312,7 @@
   "legacyPackages.x86_64-linux.python313Packages.whodap": {
     "description": "Python RDAP utility for querying and parsing information about domain names",
     "pname": "python3.13-whodap",
-    "version": "0.1.13"
+    "version": "0.1.14"
   },
   "legacyPackages.x86_64-linux.python313Packages.whois": {
     "description": "Python module/library for retrieving WHOIS information",
@@ -386987,7 +386992,7 @@
   "legacyPackages.x86_64-linux.qdl": {
     "description": "Tool for flashing images to Qualcomm devices",
     "pname": "qdl",
-    "version": "2.2"
+    "version": "2.4"
   },
   "legacyPackages.x86_64-linux.qdldl": {
     "description": "Free LDL factorisation routine",
@@ -388592,7 +388597,7 @@
   "legacyPackages.x86_64-linux.quarkus": {
     "description": "Kubernetes-native Java framework tailored for GraalVM and HotSpot, crafted from best-of-breed Java libraries and standards",
     "pname": "quarkus-cli",
-    "version": "3.30.2"
+    "version": "3.30.4"
   },
   "legacyPackages.x86_64-linux.quarto": {
     "description": "Open-source scientific and technical publishing system built on Pandoc",
@@ -428644,11 +428649,6 @@
     "pname": "shadershark",
     "version": "0.1"
   },
-  "legacyPackages.x86_64-linux.shades-of-gray-theme": {
-    "description": "Flat dark GTK theme with ergonomic contrasts",
-    "pname": "shades-of-gray-theme",
-    "version": "1.3.0"
-  },
   "legacyPackages.x86_64-linux.shadow": {
     "description": "Suite containing authentication-related tools such as passwd and su",
     "pname": "shadow",
@@ -428757,7 +428757,7 @@
   "legacyPackages.x86_64-linux.sharedown": {
     "description": "Application to save your Sharepoint videos for offline usage",
     "pname": "Sharedown",
-    "version": "5.3.6"
+    "version": "5.3.6-unstable-2025-12-06"
   },
   "legacyPackages.x86_64-linux.sharing": {
     "description": "Command-line tool to share directories and files to mobile devices",
@@ -429492,7 +429492,7 @@
   "legacyPackages.x86_64-linux.simgear": {
     "description": "Simulation construction toolkit",
     "pname": "simgear",
-    "version": "2024.1.1"
+    "version": "2024.1.3"
   },
   "legacyPackages.x86_64-linux.simgrid": {
     "description": "Framework for the simulation of distributed applications",
@@ -430324,6 +430324,11 @@
     "pname": "slither-analyzer",
     "version": "0.11.3"
   },
+  "legacyPackages.x86_64-linux.slobdict": {
+    "description": "Modern, lightweight GTK 4 dictionary app",
+    "pname": "slobdict",
+    "version": "1.0.0"
+  },
   "legacyPackages.x86_64-linux.sloc": {
     "description": "Simple tool to count SLOC (source lines of code)",
     "pname": "sloc",
@@ -430973,6 +430978,11 @@
     "description": "Space Nerds In Space, a multi-player spaceship bridge simulator",
     "pname": "snis",
     "version": "1.0.9"
+  },
+  "legacyPackages.x86_64-linux.snitch": {
+    "description": "friendlier ss / netstat for humans",
+    "pname": "snitch",
+    "version": "0.1.9"
   },
   "legacyPackages.x86_64-linux.snixembed": {
     "description": "Proxy StatusNotifierItems as XEmbedded systemtray-spec icons",
@@ -432822,7 +432832,7 @@
   "legacyPackages.x86_64-linux.squawk": {
     "description": "Linter for PostgreSQL, focused on migrations",
     "pname": "squawk",
-    "version": "2.26.0"
+    "version": "2.32.0"
   },
   "legacyPackages.x86_64-linux.squeak": {
     "description": "Squeak virtual machine",
@@ -437142,7 +437152,7 @@
   "legacyPackages.x86_64-linux.tclint": {
     "description": "Modern dev tools for Tcl. Includes a linter, formatter, and editor integration",
     "pname": "tclint",
-    "version": "0.6.2"
+    "version": "0.7.0"
   },
   "legacyPackages.x86_64-linux.tclreadline": {
     "description": "GNU readline for interactive tcl shells",
@@ -437332,12 +437342,12 @@
   "legacyPackages.x86_64-linux.technitium-dns-server": {
     "description": "Authorative and Recursive DNS server for Privacy and Security",
     "pname": "technitium-dns-server",
-    "version": "14.2.0"
+    "version": "14.3.0"
   },
   "legacyPackages.x86_64-linux.technitium-dns-server-library": {
     "description": "Library for Authorative and Recursive DNS server for Privacy and Security",
-    "pname": "technitium-dns-server-library-dns-server-v14.2.0",
-    "version": ""
+    "pname": "technitium-dns-server-library",
+    "version": "14.3.0"
   },
   "legacyPackages.x86_64-linux.tecla": {
     "description": "Command-line editing library",
@@ -438097,12 +438107,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.aviatrix": {
     "description": "",
     "pname": "terraform-provider-aviatrix",
-    "version": "8.1.10"
+    "version": "8.2.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.aviatrixsystems_aviatrix": {
     "description": "",
     "pname": "terraform-provider-aviatrix",
-    "version": "8.1.10"
+    "version": "8.2.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.awakesecurity_dhall": {
     "description": "",
@@ -438127,7 +438137,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.azurerm": {
     "description": "",
     "pname": "terraform-provider-azurerm",
-    "version": "4.56.0"
+    "version": "4.57.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.baidubce_baiducloud": {
     "description": "",
@@ -438177,12 +438187,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.buildkite": {
     "description": "",
     "pname": "terraform-provider-buildkite",
-    "version": "1.27.1"
+    "version": "1.28.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.buildkite_buildkite": {
     "description": "",
     "pname": "terraform-provider-buildkite",
-    "version": "1.27.1"
+    "version": "1.28.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.camptocamp_pass": {
     "description": "",
@@ -438452,12 +438462,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.fastly": {
     "description": "",
     "pname": "terraform-provider-fastly",
-    "version": "8.5.0"
+    "version": "8.6.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.fastly_fastly": {
     "description": "",
     "pname": "terraform-provider-fastly",
-    "version": "8.5.0"
+    "version": "8.6.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.flexibleengine": {
     "description": "",
@@ -438582,7 +438592,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_azurerm": {
     "description": "",
     "pname": "terraform-provider-azurerm",
-    "version": "4.56.0"
+    "version": "4.57.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_cloudinit": {
     "description": "",
@@ -438717,12 +438727,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.huaweicloud": {
     "description": "",
     "pname": "terraform-provider-huaweicloud",
-    "version": "1.82.2"
+    "version": "1.82.4"
   },
   "legacyPackages.x86_64-linux.terraform-providers.huaweicloud_huaweicloud": {
     "description": "",
     "pname": "terraform-provider-huaweicloud",
-    "version": "1.82.2"
+    "version": "1.82.4"
   },
   "legacyPackages.x86_64-linux.terraform-providers.hydra": {
     "description": "",
@@ -439422,12 +439432,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.temporalcloud": {
     "description": "",
     "pname": "terraform-provider-temporalcloud",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.terraform-providers.temporalio_temporalcloud": {
     "description": "",
     "pname": "terraform-provider-temporalcloud",
-    "version": "1.1.1"
+    "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.terraform-providers.tencentcloud": {
     "description": "",
@@ -473147,7 +473157,7 @@
   "legacyPackages.x86_64-linux.ty": {
     "description": "Extremely fast Python type checker and language server, written in Rust",
     "pname": "ty",
-    "version": "0.0.5"
+    "version": "0.0.6"
   },
   "legacyPackages.x86_64-linux.tydra": {
     "description": "Shortcut menu-based task runner, inspired by Emacs Hydra",
@@ -508797,7 +508807,7 @@
   "legacyPackages.x86_64-linux.vlc": {
     "description": "Cross-platform media player and streaming server",
     "pname": "vlc",
-    "version": "3.0.23"
+    "version": "3.0.23-2"
   },
   "legacyPackages.x86_64-linux.vlc-bin": {
     "description": "Cross-platform media player and streaming server; precompiled binary for MacOS, repacked from official website",
@@ -509582,7 +509592,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.coder.coder-remote": {
     "description": "Extension for Visual Studio Code to open any Coder workspace in VS Code with a single click",
     "pname": "vscode-extension-coder-coder-remote",
-    "version": "1.11.5"
+    "version": "1.11.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.codezombiech.gitignore": {
     "description": "",
@@ -509957,12 +509967,12 @@
   "legacyPackages.x86_64-linux.vscode-extensions.github.vscode-pull-request-github": {
     "description": "",
     "pname": "vscode-extension-github-vscode-pull-request-github",
-    "version": "0.122.0"
+    "version": "0.124.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.gitlab.gitlab-workflow": {
     "description": "GitLab extension for Visual Studio Code",
     "pname": "vscode-extension-gitlab-gitlab-workflow",
-    "version": "6.60.2"
+    "version": "6.61.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.gleam.gleam": {
     "description": "Support for the Gleam programming language",
@@ -510857,7 +510867,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.redhat.ansible": {
     "description": "Ansible language support",
     "pname": "vscode-extension-redhat-ansible",
-    "version": "25.12.2"
+    "version": "25.12.3"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.redhat.java": {
     "description": "Java language support for VS Code via the Eclipse JDT Language Server",
@@ -512582,7 +512592,7 @@
   "legacyPackages.x86_64-linux.wayscriber": {
     "description": "ZoomIt-like screen annotation tool for Wayland compositors, written in Rust",
     "pname": "wayscriber",
-    "version": "0.8.9"
+    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.wayshot": {
     "description": "Native, blazing-fast screenshot tool for wlroots based compositors such as sway and river",
@@ -513217,7 +513227,7 @@
   "legacyPackages.x86_64-linux.wgpu-native": {
     "description": "Native WebGPU implementation based on wgpu-core",
     "pname": "wgpu-native",
-    "version": "27.0.2.0"
+    "version": "27.0.4.0"
   },
   "legacyPackages.x86_64-linux.wgpu-utils": {
     "description": "Safe and portable GPU abstraction in Rust, implementing WebGPU API",
@@ -513247,7 +513257,7 @@
   "legacyPackages.x86_64-linux.whatsapp-chat-exporter": {
     "description": "WhatsApp database parser",
     "pname": "whatsapp-chat-exporter",
-    "version": "0.12.0"
+    "version": "0.12.1"
   },
   "legacyPackages.x86_64-linux.whatsapp-electron": {
     "description": "Electron wrapper around Whatsapp",
@@ -519837,7 +519847,7 @@
   "legacyPackages.x86_64-linux.yggdrasil-jumper": {
     "description": "Reduce latency of a connection over Yggdrasil Network",
     "pname": "yggdrasil-jumper",
-    "version": "0.4.1"
+    "version": "0.4.2"
   },
   "legacyPackages.x86_64-linux.yggstack": {
     "description": "Yggdrasil as SOCKS proxy / port forwarder",
