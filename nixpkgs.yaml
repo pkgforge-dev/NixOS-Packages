@@ -625,7 +625,7 @@ legacyPackages.x86_64-linux.acl2-minimal:
 legacyPackages.x86_64-linux.acli:
   description: Atlassian Command Line Interface
   pname: acli
-  version: 1.3.8-stable
+  version: 1.3.9-stable
 legacyPackages.x86_64-linux.acltoolkit:
   description: ACL abuse swiss-knife
   pname: python3.13-acltoolkit
@@ -3733,7 +3733,7 @@ legacyPackages.x86_64-linux.androidStudioForPlatformPackages.stable:
 legacyPackages.x86_64-linux.androidStudioPackages.beta:
   description: Official IDE for Android (beta channel)
   pname: android-studio-beta
-  version: 2025.2.2.6
+  version: 2025.2.3.6
 legacyPackages.x86_64-linux.androidStudioPackages.canary:
   description: Official IDE for Android (canary channel)
   pname: android-studio-canary
@@ -6517,7 +6517,7 @@ legacyPackages.x86_64-linux.antibody:
 legacyPackages.x86_64-linux.antidote:
   description: Zsh plugin manager made from the ground up thinking about performance
   pname: antidote
-  version: 1.9.10
+  version: 1.9.11
 legacyPackages.x86_64-linux.antigen:
   description: Plugin manager for zsh
   pname: antigen
@@ -9521,7 +9521,7 @@ legacyPackages.x86_64-linux.aws-gate:
 legacyPackages.x86_64-linux.aws-iam-authenticator:
   description: AWS IAM credentials for Kubernetes authentication
   pname: aws-iam-authenticator
-  version: 0.7.9
+  version: 0.7.10
 legacyPackages.x86_64-linux.aws-lambda-rie:
   description: Locally test Lambda functions packaged as container images
   pname: aws-lambda-runtime-interface-emulator
@@ -11253,7 +11253,7 @@ legacyPackages.x86_64-linux.bcache-tools:
 legacyPackages.x86_64-linux.bcachefs-tools:
   description: Tool for managing bcachefs filesystems
   pname: bcachefs-tools
-  version: 1.33.2
+  version: 1.33.3
 legacyPackages.x86_64-linux.bcal:
   description: Storage conversion and expression calculator
   pname: bcal
@@ -12573,11 +12573,11 @@ legacyPackages.x86_64-linux.bitwarden-desktop:
 legacyPackages.x86_64-linux.bitwarden-directory-connector:
   description: LDAP connector for Bitwarden
   pname: bitwarden-directory-connector
-  version: 2025.11.0
+  version: 2025.12.0
 legacyPackages.x86_64-linux.bitwarden-directory-connector-cli:
   description: LDAP connector for Bitwarden
   pname: bitwarden-directory-connector-cli
-  version: 2025.11.0
+  version: 2025.12.0
 legacyPackages.x86_64-linux.bitwarden-menu:
   description: Dmenu/Rofi frontend for managing Bitwarden vaults. Uses the Bitwarden CLI tool to interact with the Bitwarden database
   pname: bitwarden-menu
@@ -33373,7 +33373,7 @@ legacyPackages.x86_64-linux.fcitx5:
 legacyPackages.x86_64-linux.fcitx5-anthy:
   description: Anthy Wrapper for Fcitx5
   pname: fcitx5-anthy
-  version: 5.1.8
+  version: 5.1.9
 legacyPackages.x86_64-linux.fcitx5-bamboo:
   description: Vietnamese input method engine support for Fcitx
   pname: fcitx5-bamboo
@@ -33461,7 +33461,7 @@ legacyPackages.x86_64-linux.fcitx5-skk:
 legacyPackages.x86_64-linux.fcitx5-table-extra:
   description: Extra table for Fcitx, including Boshiamy, Zhengma, Cangjie, and Quick
   pname: fcitx5-table-extra
-  version: 5.1.9
+  version: 5.1.10
 legacyPackages.x86_64-linux.fcitx5-table-other:
   description: Some other tables for Fcitx
   pname: fcitx5-table-other
@@ -34213,7 +34213,7 @@ legacyPackages.x86_64-linux.fire:
 legacyPackages.x86_64-linux.firebase-tools:
   description: Manage, and deploy your Firebase project from the command line
   pname: firebase-tools
-  version: 15.0.0
+  version: 15.1.0
 legacyPackages.x86_64-linux.firebird:
   description: SQL relational database management system
   pname: firebird
@@ -40933,7 +40933,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.1440:
 legacyPackages.x86_64-linux.gnomeExtensions.2-wallpapers:
   description: Changes the wallpaper based on whether there are open windows or not.
   pname: gnome-shell-extension
-  version: 2-wallpapers-6
+  version: 2-wallpapers-16
 legacyPackages.x86_64-linux.gnomeExtensions.aare-guru:
   description: Display water temperature and flow information from aareguru.existenz.ch, the API for aare.guru, in your GNOME Shell panel
   pname: gnome-shell-extension-aare-guru
@@ -40965,23 +40965,23 @@ legacyPackages.x86_64-linux.gnomeExtensions.activate-window-by-title:
 legacyPackages.x86_64-linux.gnomeExtensions.activate_gnome:
   description: Shows Activate GNOME watermark on your screen. Migrating from Windows has never been easier!
   pname: gnome-shell-extension-activate_gnome
-  version: "13"
+  version: "14"
 legacyPackages.x86_64-linux.gnomeExtensions.activity-app-launcher:
   description: 'Integrates a category-based application launcher in the activities window. IMPORTANT: it needs the ''gnome-menus'' and ''libgnome-menu-3-dev''; they must be installed in the system before installing this extension.'
   pname: gnome-shell-extension-activity-app-launcher
-  version: "45"
+  version: "47"
 legacyPackages.x86_64-linux.gnomeExtensions.activitywatch-status:
   description: Shows the total time spent on the computer as tracked by ActivityWatch.
   pname: gnome-shell-extension-activitywatch-status
   version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.adaptive-brightness:
-  description: 'Automatically adjusts screen brightness based on ambient light conditions to reduce eye strain and save energy. Acts as a replacement to ''Automatic Screen Brightness'' found in GNOME settings. '
+  description: 'This extension is a customizable alternative of ''Automatic Screen Brightness'' found in GNOME settings. '
   pname: gnome-shell-extension-adaptive-brightness
-  version: "8"
+  version: "21"
 legacyPackages.x86_64-linux.gnomeExtensions.add-custom-text-to-workspace-indicators:
   description: Add custom text to workspace indicators
   pname: gnome-shell-extension-add-custom-text-to-workspace-indicators
-  version: "18"
+  version: "19"
 legacyPackages.x86_64-linux.gnomeExtensions.add-to-desktop:
   description: An easy way to create desktop app shortcut in gnome
   pname: gnome-shell-extension-add-to-desktop
@@ -40993,7 +40993,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.add-to-steam:
 legacyPackages.x86_64-linux.gnomeExtensions.add-username-to-top-panel:
   description: Simply add your username to topbar panel quick settings menu.
   pname: gnome-shell-extension-add-username-to-top-panel
-  version: "15"
+  version: "16"
 legacyPackages.x86_64-linux.gnomeExtensions.advanced-alttab-window-switcher:
   description: A highly customizable replacement for Alt/Super+Tab window/app switchers that offers a 'type to search' mode, various filtering and sorting options, workspace and monitor navigation, configurable hotkeys for navigation and window/app control, and an app launcher.
   pname: gnome-shell-extension-advanced-alttab-window-switcher
@@ -41017,7 +41017,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.al-hijri-date:
 legacyPackages.x86_64-linux.gnomeExtensions.all-in-one-clipboard:
   description: A powerful clipboard manager that combines your clipboard history, emojis, GIFs, kaomojis, and symbols into a single, searchable interface.
   pname: gnome-shell-extension-all-in-one-clipboard
-  version: "8"
+  version: "13"
 legacyPackages.x86_64-linux.gnomeExtensions.all-windows:
   description: List open windows of all workspaces
   pname: gnome-shell-extension-all-windows
@@ -41073,7 +41073,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.always-show-titles-in-overview:
 legacyPackages.x86_64-linux.gnomeExtensions.always-show-workspace-thumbnails:
   description: Always show workspace thumbnails even there is only one workspace.
   pname: gnome-shell-extension-always-show-workspace-thumbnails
-  version: "10"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.another-window-session-manager:
   description: Close open windows gracefully and save them as a session. And you can restore them when necessary manually or automatically at startup. Most importantly, it supports both X11 and Wayland!
   pname: gnome-shell-extension-another-window-session-manager
@@ -41082,10 +41082,14 @@ legacyPackages.x86_64-linux.gnomeExtensions.app-grid-button-in-top-panel:
   description: Add a button next to the activities button to directly open the app grid
   pname: gnome-shell-extension-app-grid-button-in-top-panel
   version: "4"
+legacyPackages.x86_64-linux.gnomeExtensions.app-grid-page-rearrange:
+  description: Reorder Gnome App Grid pages (move left/right, set first/last) using the context menu that appears when right-clicking the page indicators.
+  pname: gnome-shell-extension-app-grid-page-rearrange
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.app-grid-tuner:
   description: Tune and customize the GNOME application grid (rows, columns, icon size, padding, labels).
   pname: gnome-shell-extension-app-grid-tuner
-  version: "2"
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.app-grid-wizard:
   description: ' A gnome shell extension that simplifies organizing your applications into predefined categories in the app grid. '
   pname: gnome-shell-extension-app-grid-wizard
@@ -41103,9 +41107,13 @@ legacyPackages.x86_64-linux.gnomeExtensions.app-menu-is-back:
   pname: gnome-shell-extension-app-menu-is-back
   version: "14"
 legacyPackages.x86_64-linux.gnomeExtensions.app-name-indicator:
-  description: 'A GNOME Shell extension that shows the active app''s name and icon on the left side of the top panel, like it used to. '
+  description: A GNOME Shell extension that shows the active app's name and icon on the left side of the top panel, like it used to.
   pname: gnome-shell-extension-app-name-indicator
   version: "5"
+legacyPackages.x86_64-linux.gnomeExtensions.appearance-keeper:
+  description: Automatically saves and restores accents, GTK, shell theme, icons, cursors themes for light and dark modes. shortcut to toggle mode
+  pname: gnome-shell-extension-appearance-keeper
+  version: "13"
 legacyPackages.x86_64-linux.gnomeExtensions.appimage-manager:
   description: Automatically integrates AppImage applications into the GNOME application launcher.
   pname: gnome-shell-extension-appimage-manager
@@ -41125,7 +41133,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.application-hotkeys:
 legacyPackages.x86_64-linux.gnomeExtensions.application-tabs:
   description: Panel will include a different window tab for the same application that is currently launched.
   pname: gnome-shell-extension-application-tabs
-  version: "37"
+  version: "39"
 legacyPackages.x86_64-linux.gnomeExtensions.applications-menu:
   description: Add a category-based menu for apps.
   pname: gnome-shell-extension-applications-menu
@@ -41169,7 +41177,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.astra-monitor:
 legacyPackages.x86_64-linux.gnomeExtensions.asus-zenbook-duo-integration:
   description: Integration of screenpad functions into the Gnome desktop.
   pname: gnome-shell-extension-asus-zenbook-duo-integration
-  version: "4"
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.athantimes:
   description: A prayer reminder and Hijri date displayer extension. [Originally by fahrinh @ github]
   pname: gnome-shell-extension-athantimes
@@ -41177,7 +41185,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.athantimes:
 legacyPackages.x86_64-linux.gnomeExtensions.audio-switch-shortcuts:
   description: This extension allows you to switch speakers and microphones with global keyboard shortcuts, instead of using the mouse to open the Gnome Panel or navigate menus. It allows you to set specific audio devices to cycle through, and set your own hotkeys.
   pname: gnome-shell-extension-audio-switch-shortcuts
-  version: "6"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.auto-accent-colour:
   description: Automatically set the GNOME accent colour based on the user's background.
   pname: gnome-shell-extension-auto-accent-colour
@@ -41205,7 +41213,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.auto-move-windows:
 legacyPackages.x86_64-linux.gnomeExtensions.auto-power-profile:
   description: Automatically switch between power profiles based on power supply and battery status.
   pname: gnome-shell-extension-auto-power-profile
-  version: "28"
+  version: "29"
 legacyPackages.x86_64-linux.gnomeExtensions.auto-screen-brightness:
   description: Automatically switch the screen brightness depending on the power supply status
   pname: gnome-shell-extension-auto-screen-brightness
@@ -41214,6 +41222,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.auto-select-headset:
   description: Auto selects headsets when possible instead of showing a dialog
   pname: gnome-shell-extension-auto-select-headset
   version: "12"
+legacyPackages.x86_64-linux.gnomeExtensions.auto-synth-shell-colors:
+  description: Integrates with Synth-Shell by andresgongora and changes its colors based on the desktop's current accent color
+  pname: gnome-shell-extension-auto-synth-shell-colors
+  version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.autohide-battery:
   description: Hide battery icon in top panel, if battery is fully charged and AC is connected
   pname: gnome-shell-extension-autohide-battery
@@ -41221,7 +41233,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.autohide-battery:
 legacyPackages.x86_64-linux.gnomeExtensions.autohide-battery-percentage:
   description: GNOME Shell extension to hide the battery percentage in the top panel, if the computer is plugged in or power saving is disabled
   pname: gnome-shell-extension-autohide-battery-percentage
-  version: "13"
+  version: "15"
 legacyPackages.x86_64-linux.gnomeExtensions.autohide-volume:
   description: Autohide volume indicator when muted
   pname: gnome-shell-extension-autohide-volume
@@ -41229,11 +41241,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.autohide-volume:
 legacyPackages.x86_64-linux.gnomeExtensions.automatic-theme-switcher:
   description: Automatically switches between light and dark themes based on sunrise/sunset times for your location.
   pname: gnome-shell-extension-automatic-theme-switcher
-  version: "3"
+  version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.avatar:
   description: 'Add Avatar, Top image into the panel. Options to change: '
   pname: gnome-shell-extension-avatar
   version: "34"
+legacyPackages.x86_64-linux.gnomeExtensions.aviationweather:
+  description: Show METAR and TAF for your favourite airports. Uses aviationweather.gov services.
+  pname: gnome-shell-extension-aviationweather
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.awesome-tiles:
   description: Tile windows using keyboard shortcuts.
   pname: gnome-shell-extension-awesome-tiles
@@ -41250,6 +41266,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.bangs-search:
   description: Quickly search using !bangs from your GNOME search. This feature allows you to perform quick searches directly from the GNOME search bar using DuckDuckGo's !bang syntax. !bangs are shortcuts that quickly take you to search results on other sites. For example, typing '!w gnome' will search Wikipedia for gnome,To use this feature, simply open the GNOME search bar and type a !bang command followed by your search query.
   pname: gnome-shell-extension-bangs-search
   version: "7"
+legacyPackages.x86_64-linux.gnomeExtensions.bastion:
+  description: One-click toggle between Secure DNS (Anti-Leak) and Login Mode (for Captive Portals).
+  pname: gnome-shell-extension-bastion
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.battery-consumption-watt-meter:
   description: Shows actual charging/discharging consumption (+/-) in Watts next to battery percentage level and/or battery time remaining.
   pname: gnome-shell-extension-battery-consumption-watt-meter
@@ -41261,7 +41281,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.battery-drop-rate:
 legacyPackages.x86_64-linux.gnomeExtensions.battery-health-charging:
   description: Set battery charging threshold / charging limit / charging mode
   pname: gnome-shell-extension-battery-health-charging
-  version: "77"
+  version: "78"
+legacyPackages.x86_64-linux.gnomeExtensions.battery-icon:
+  description: Adds Custom Battery icon to the system menu.
+  pname: gnome-shell-extension-battery-icon
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.battery-indicator-icon:
   description: Replace the battery indicator icon with a circle or portrait.
   pname: gnome-shell-extension-battery-indicator-icon
@@ -41273,7 +41297,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.battery-monitor:
 legacyPackages.x86_64-linux.gnomeExtensions.battery-time:
   description: Show the remaining time until fully charged/discharged instead of the battery charge in percent in the panel.
   pname: gnome-shell-extension-battery-time
-  version: "20"
+  version: "21"
 legacyPackages.x86_64-linux.gnomeExtensions.battery-time-2:
   description: Show battery estimated remaining time
   pname: gnome-shell-extension-battery-time
@@ -41289,7 +41313,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.battery-time-percentage-compact:
 legacyPackages.x86_64-linux.gnomeExtensions.battery-time-with-percentage:
   description: Shows both the remaining time until the battery is (dis)charged and the remaining battery percentage. The battery percentage is also shown in Quick Settings.
   pname: gnome-shell-extension-battery-time-with-percentage
-  version: "1"
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.battery-usage-wattmeter:
   description: ' Shows charging/discharging consumption (+/-) in Watt next to battery percentage level.'
   pname: gnome-shell-extension-battery-usage-wattmeter
@@ -41341,11 +41365,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.blocker:
 legacyPackages.x86_64-linux.gnomeExtensions.bluetooth-battery:
   description: Bluetooth battery indicator
   pname: gnome-shell-extension-bluetooth-battery
-  version: "42"
+  version: "43"
 legacyPackages.x86_64-linux.gnomeExtensions.bluetooth-battery-meter:
   description: A GNOME extension that displays indicator icons in the system tray, acting as a meter for Bluetooth device battery levels. It also provides detailed battery information via icons and text in the Bluetooth quick settings menu
   pname: gnome-shell-extension-bluetooth-battery-meter
-  version: "40"
+  version: "41"
 legacyPackages.x86_64-linux.gnomeExtensions.bluetooth-file-sender:
   description: Send files through Bluetooth.
   pname: gnome-shell-extension-bluetooth-file-sender
@@ -41362,6 +41386,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.blurt:
   description: Input speech to text into any GNOME window with a text input field.
   pname: gnome-shell-extension-blurt
   version: "8"
+legacyPackages.x86_64-linux.gnomeExtensions.boatman-winboat-monitor:
+  description: Simple GNOME extension to monitor and manage WinBoat Docker container.
+  pname: gnome-shell-extension-boatman-winboat-monitor
+  version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.boost-volume:
   description: Boosts volume above limits
   pname: gnome-shell-extension-boost-volume
@@ -41385,11 +41413,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.break-reminder:
 legacyPackages.x86_64-linux.gnomeExtensions.brightness-control:
   description: Adds a brightness indicator to Quick Settings with scroll wheel support
   pname: gnome-shell-extension-brightness-control
-  version: "5"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.brightness-control-using-ddcutil:
   description: Brightness control for all the monitors detected by ddcutil
   pname: gnome-shell-extension-brightness-control-using-ddcutil
-  version: "56"
+  version: "58"
 legacyPackages.x86_64-linux.gnomeExtensions.bring-out-submenu-of-power-offlogout-button:
   description: Bring Out Submenu Of Power Off Button
   pname: gnome-shell-extension-bring-out-submenu-of-power-offlogout-button
@@ -41398,6 +41426,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.browser-search-provider:
   description: Adds a search provider to Open links, Search Google,  DuckDuckGo, Bing, and YouTube.
   pname: gnome-shell-extension-browser-search-provider
   version: "3"
+legacyPackages.x86_64-linux.gnomeExtensions.browser-switcher:
+  description: Quick default browser switching from the system panel. Perfect for users working with different browser profiles.
+  pname: gnome-shell-extension-browser-switcher
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.bubblemail:
   description: Indicator for new and unread mail (Yahoo, Gmail, Microsoft, Outlook, Aol, Icloud, Protonmail, Gmx...)
   pname: gnome-shell-extension-bubblemail
@@ -41409,7 +41441,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.burn-my-windows:
 legacyPackages.x86_64-linux.gnomeExtensions.caffeine:
   description: ""
   pname: gnome-shell-extension-caffeine
-  version: "58"
+  version: "59"
 legacyPackages.x86_64-linux.gnomeExtensions.calc:
   description: Simple run dialog calculation
   pname: gnome-shell-extension-calc
@@ -41430,6 +41462,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.chronos-time-tracker:
   description: Time tracker tool
   pname: gnome-shell-extension-chronos-time-tracker
   version: "11"
+legacyPackages.x86_64-linux.gnomeExtensions.classic-app-switcher:
+  description: Classic App Switcher is a Mac OS 9-style application switcher extension for GNOME Shell. The minimal design blends discreetly into the GNOME UI, providing a familiar workflow for users transitioning from macOS while respecting GNOME's design principles.
+  pname: gnome-shell-extension-classic-app-switcher
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.claude-code-switcher:
   description: A GNOME shell extension for quickly switching Claude Code API providers with enhanced performance and reliability.
   pname: gnome-shell-extension-claude-code-switcher
@@ -41441,7 +41477,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.claude-code-usage-indicator:
 legacyPackages.x86_64-linux.gnomeExtensions.clean-uptime:
   description: Display the system uptime in a nice human readable format
   pname: gnome-shell-extension-clean-uptime
-  version: "1"
+  version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.click-to-close-overview:
   description: Close the overview by clicking empty space.
   pname: gnome-shell-extension-click-to-close-overview
@@ -41462,6 +41498,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.clipboard-sync:
   description: Synchronize the GNOME clipboard between two machines over the network.
   pname: gnome-shell-extension-clipboard-sync
   version: "4"
+legacyPackages.x86_64-linux.gnomeExtensions.clipflow-pro:
+  description: A modern, powerful clipboard manager for GNOME Shell with intelligent organization, beautiful UI, and comprehensive history management.
+  pname: gnome-shell-extension-clipflow-pro
+  version: "19"
 legacyPackages.x86_64-linux.gnomeExtensions.clipqr:
   description: This simply adds a pop-out QR Code containing whatever text is currently in your clipboard. It's an easy way to share a link to your phone without any additional software.
   pname: gnome-shell-extension-clipqr
@@ -41541,7 +41581,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.compiz-windows-effect:
 legacyPackages.x86_64-linux.gnomeExtensions.containers:
   description: Manage podman containers through a gnome-shell menu
   pname: gnome-shell-extension-containers
-  version: "38"
+  version: "39"
 legacyPackages.x86_64-linux.gnomeExtensions.control-monitor-brightness-and-volume-with-ddcutil:
   description: Brightness and volume control for monitors. Requires setting up the external ddcutil program for your user.
   pname: gnome-shell-extension-control-monitor-brightness-and-volume-with-ddcutil
@@ -41550,6 +41590,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.copier:
   description: Copy text notes to clipboard via a panel indicator
   pname: gnome-shell-extension-copier
   version: "8"
+legacyPackages.x86_64-linux.gnomeExtensions.copyous:
+  description: Modern Clipboard Manager for GNOME
+  pname: gnome-shell-extension-copyous
+  version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.counter:
   description: adds persistent counter to top bar.
   pname: gnome-shell-extension-counter
@@ -41565,11 +41609,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.crazy-internet-speed-meter:
 legacyPackages.x86_64-linux.gnomeExtensions.cronomix:
   description: All-in-one timer, stopwatch, pomodoro, alarm, todo, and flashcards extension
   pname: gnome-shell-extension-cronomix
-  version: "39"
+  version: "40"
 legacyPackages.x86_64-linux.gnomeExtensions.crypto-price-tracker:
   description: Simple extension to track price of Crypto Currencies
   pname: gnome-shell-extension-crypto-price-tracker
-  version: "49"
+  version: "51"
 legacyPackages.x86_64-linux.gnomeExtensions.crypto-tracker:
   description: Track all your cryptocurrency balance in fiat of your choice. This extension uses CoinGecko and BlockCypher API services to function
   pname: gnome-shell-extension-crypto-tracker
@@ -41653,7 +41697,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.dash-to-panel:
 legacyPackages.x86_64-linux.gnomeExtensions.dash2dock-lite:
   description: The Animated & Effectful Dock
   pname: gnome-shell-extension-dash2dock-lite
-  version: "78"
+  version: "86"
 legacyPackages.x86_64-linux.gnomeExtensions.dashbar:
   description: NOT MAINTAINED ANYMORE
   pname: gnome-shell-extension-dashbar
@@ -41673,7 +41717,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.ddterm:
 legacyPackages.x86_64-linux.gnomeExtensions.debian-linux-updates-indicator:
   description: Updates indicator for Debian Linux based distributions.
   pname: gnome-shell-extension-debian-linux-updates-indicator
-  version: "18"
+  version: "19"
 legacyPackages.x86_64-linux.gnomeExtensions.default-workspace:
   description: Switches to the specified workspace on login.
   pname: gnome-shell-extension-default-workspace
@@ -41701,7 +41745,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.desktop-cube:
 legacyPackages.x86_64-linux.gnomeExtensions.desktop-icons-ng-ding:
   description: Adds icons to the desktop. Fork of the original Desktop Icons extension, with several enhancements .
   pname: gnome-shell-extension-desktop-icons-ng-ding
-  version: "80"
+  version: "82"
 legacyPackages.x86_64-linux.gnomeExtensions.desktop-lyric:
   description: Show the singing lyric on the desktop
   pname: gnome-shell-extension-desktop-lyric
@@ -41715,9 +41759,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.dexcom-cgm-monitor:
   pname: gnome-shell-extension-dexcom-cgm-monitor
   version: "14"
 legacyPackages.x86_64-linux.gnomeExtensions.dfx-currency-converter:
-  description: Configurable currency converter, also supporting cryptocurrencies. Allows configuring (and showing) multiple conversions at the same time. Updates are received every 30 seconds. Uses economia.awesomeapi.com.br API.
+  description: Configurable multiple currency converter. Supports crypto. Updates are received every 30 seconds. It uses uses economia.awesomeapi.com.br API. Allows using a free API key in order to avoid overusage errors.
   pname: gnome-shell-extension-dfx-currency-converter
-  version: "8"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.dim-background-windows:
   description: Dim windows without focus
   pname: gnome-shell-extension-dim-background-windows
@@ -41746,6 +41790,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.disable-hover-on-app-window-switcher
   description: Prevents the mouse cursor interfering with either the App Switcher or the Window Switcher popups.
   pname: gnome-shell-extension-disable-hover-on-app-window-switcher-popups-for
   version: 45-2
+legacyPackages.x86_64-linux.gnomeExtensions.disable-lock-screen-media-controls:
+  description: Removes the lock screen media controls GNOME 49 introduced with no way to disable.
+  pname: gnome-shell-extension-disable-lock-screen-media-controls
+  version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.disable-menu-switching:
   description: Disable changing menu on hover another panel button.
   pname: gnome-shell-extension-disable-menu-switching
@@ -41777,7 +41825,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.disable-workspace-switcher-overlay:
 legacyPackages.x86_64-linux.gnomeExtensions.disconnect-wifi:
   description: Adds a Disconnect option for Wifi in status menu, when a network is connected. Shows a Reconnect option, after network is disconnected.
   pname: gnome-shell-extension-disconnect-wifi
-  version: "36"
+  version: "38"
 legacyPackages.x86_64-linux.gnomeExtensions.discrete-brightness:
   description: Discrete brightness indicator changes brightness in discrete steps, unlike default smooth brightness bar in Gnome Shell. Extension for notebooks/tablets only, default brightness bar must be present in Gnome Shell.
   pname: gnome-shell-extension-discrete-brightness
@@ -41801,15 +41849,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.dm-theme-changer:
 legacyPackages.x86_64-linux.gnomeExtensions.dnd-on-time:
   description: Set schedule for Do Not Disturb mode
   pname: gnome-shell-extension-dnd-on-time
-  version: "5"
+  version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.do-not-disturb-while-screen-sharing-or-recording:
   description: Automatically switches on the "Do Not Disturb" mode while screen sharing or screen recording. As soon as screen sharing/recording is over, "Do Not Disturb" mode will be switched back off.
   pname: gnome-shell-extension-do-not-disturb-while-screen-sharing-or-recording
   version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.dock-express:
-  description: Turn the native GNOME dash into a dock. Can hide the top panel.
+  description: Turn the native GNOME dash into a dock.
   pname: gnome-shell-extension-dock-express
-  version: "10"
+  version: "23"
 legacyPackages.x86_64-linux.gnomeExtensions.dock-from-dash:
   description: Dock using native GNOME Shell Dash.
   pname: gnome-shell-extension-dock-from-dash
@@ -41829,7 +41877,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.docker:
 legacyPackages.x86_64-linux.gnomeExtensions.dockng:
   description: A lightweight non-fixed dock support for GNOME Shell using the native dash with simple but adaptive intellihide
   pname: gnome-shell-extension-dockng
-  version: "6"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.dollar-pkr:
   description: USD (US Dollar) converted to PKR (Pakistan Rs)
   pname: gnome-shell-extension-dollar-pkr
@@ -41845,11 +41893,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.downfall:
 legacyPackages.x86_64-linux.gnomeExtensions.dragntile:
   description: Tile windows from the gnome overview.
   pname: gnome-shell-extension-dragntile
-  version: "15"
+  version: "16"
 legacyPackages.x86_64-linux.gnomeExtensions.draw-on-gnome:
-  description: 'Annotation tool for the GNOME desktop. '
+  description: 'Annotation tool for the GNOME desktop. This extension accesses the clipboard when you press Ctrl+V to paste images. '
   pname: gnome-shell-extension-draw-on-gnome
-  version: "4"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.drive-activity-indicator:
   description: Visualize the activity of storage drives (disk activity LED simulator).
   pname: gnome-shell-extension-drive-activity-indicator
@@ -41869,7 +41917,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.dual-monitor-toggle:
 legacyPackages.x86_64-linux.gnomeExtensions.dual-shock-4-battery-percentage:
   description: Show DS5/DS4/DS3 battery remaining power percentage at the top panel
   pname: gnome-shell-extension-dual-shock
-  version: 4-battery-percentage-13
+  version: 4-battery-percentage-14
 legacyPackages.x86_64-linux.gnomeExtensions.duckduckbang:
   description: Use Super key for quick web search and add custom !bangs. Combination of Quick Web Search and !Bangs Search
   pname: gnome-shell-extension-duckduckbang
@@ -41926,10 +41974,14 @@ legacyPackages.x86_64-linux.gnomeExtensions.esp-extensions-search-provider:
   description: Search, access settings and data and control installed extensions from Activities overview.
   pname: gnome-shell-extension-esp-extensions-search-provider
   version: "26"
+legacyPackages.x86_64-linux.gnomeExtensions.essential-tweaks:
+  description: Tweak annoying defaults and enable quality of life features
+  pname: gnome-shell-extension-essential-tweaks
+  version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.eur-usd:
   description: EUR (Euro) converted to USD (US Dollar). Updates are received every 30 seconds.
   pname: gnome-shell-extension-eur-usd
-  version: "4"
+  version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.event-planner:
   description: Manage your events with calendar and categories. Add, edit, and organize daily events with color-coded categories. Get timely notifications before events start.
   pname: gnome-shell-extension-event-planner
@@ -41957,7 +42009,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.extension-list:
 legacyPackages.x86_64-linux.gnomeExtensions.eye-on-cursor:
   description: Let your desktop "keep an eye" on your mouse! And with the included cursor indicator, keep track of your pointer's every action!
   pname: gnome-shell-extension-eye-on-cursor
-  version: "13"
+  version: "14"
+legacyPackages.x86_64-linux.gnomeExtensions.eye-protector:
+  description: A custom method for preventing eye burning aiming to not lose too much colors.
+  pname: gnome-shell-extension-eye-protector
+  version: "1"
 legacyPackages.x86_64-linux.gnomeExtensions.favorites-menu:
   description: Minimalist favorites menu button in top panel.
   pname: gnome-shell-extension-favorites-menu
@@ -41970,6 +42026,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.files-launcher:
   description: "files-launcher is a menu that allows you to launch arbitary files options are view, edit or run (if it is an executable), you can also put directories in it and then the options will be list, open in the default File Browser, or in the default shell \U0001F920."
   pname: gnome-shell-extension-files-launcher
   version: "10"
+legacyPackages.x86_64-linux.gnomeExtensions.firefox-pip-always-on-top:
+  description: Automatically sets Picture-in-Picture windows to always be on top and visible on all workspaces
+  pname: gnome-shell-extension-firefox-pip-always-on-top
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.firefox-profiles:
   description: Easily launch Firefox with your favorite profile right from the indicator menu!
   pname: gnome-shell-extension-firefox-profiles
@@ -41985,7 +42045,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.fix-remote-window-icons:
 legacyPackages.x86_64-linux.gnomeExtensions.fixed-ime-list:
   description: Prevent MRU re-sorting of IME list on switching input method so it will always be the same sequence as you set in Settings.
   pname: gnome-shell-extension-fixed-ime-list
-  version: "12"
+  version: "13"
 legacyPackages.x86_64-linux.gnomeExtensions.flickernaut:
   description: A GNOME extension that adds custom entry to Nautilus context menu.
   pname: gnome-shell-extension-flickernaut
@@ -41999,9 +42059,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.floating-mini-panel:
   pname: gnome-shell-extension-floating-mini-panel
   version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.fly-pie:
-  description: "Warning: Fly-Pie is in low-maintenance mode. You can test the successor project \U0001F338 Kando: https://kando.menu/"
+  description: A marking menu which can be used to launch applications, simulate hotkeys, open URLs and much more. Once installed, press Ctrl+Space to open the default menu. Open the preferences dialog for an interactive tutorial and for creating custom menus!
   pname: gnome-shell-extension-fly-pie
-  version: "31"
+  version: "32"
 legacyPackages.x86_64-linux.gnomeExtensions.fnlock-switch-thinkpad-compact-usb-keyboard:
   description: FnLock switch for Lenovo ThinkPad Compact USB Keyboard and Lenovo ThinkPad Trackpoint Keyboard II
   pname: gnome-shell-extension-fnlock-switch-thinkpad-compact-usb-keyboard
@@ -42010,14 +42070,30 @@ legacyPackages.x86_64-linux.gnomeExtensions.focus:
   description: Transparent inactive windows
   pname: gnome-shell-extension-focus
   version: "17"
+legacyPackages.x86_64-linux.gnomeExtensions.focus-buddy:
+  description: Simple Pomodoro timer with customizable durations and sound notifications to help you stay focused and productive.
+  pname: gnome-shell-extension-focus-buddy
+  version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.focus-changer:
   description: Change focus between windows in all directions.
   pname: gnome-shell-extension-focus-changer
   version: "24"
+legacyPackages.x86_64-linux.gnomeExtensions.focus-control:
+  description: Easily move focus between windows in GNOME, just like a tiling WM.
+  pname: gnome-shell-extension-focus-control
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.focus-follows-workspace:
   description: Focus the primary monitor after switching workspaces via keyboard
   pname: gnome-shell-extension-focus-follows-workspace
   version: "14"
+legacyPackages.x86_64-linux.gnomeExtensions.focus-latest-window:
+  description: Disables the notification for newly opened window and put the newly opened window to focus
+  pname: gnome-shell-extension-focus-latest-window
+  version: "2"
+legacyPackages.x86_64-linux.gnomeExtensions.focus-lock:
+  description: Lock focus to a specific application window. When enabled, you cannot switch to other windows until you unlock.
+  pname: gnome-shell-extension-focus-lock
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.focused-window-d-bus:
   description: Exposes a D-Bus method to get active window title and class
   pname: gnome-shell-extension-focused-window-d-bus
@@ -42033,11 +42109,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.footballtrack:
 legacyPackages.x86_64-linux.gnomeExtensions.force-quit:
   description: Adds a force quit button.
   pname: gnome-shell-extension-force-quit
-  version: "37"
+  version: "41"
 legacyPackages.x86_64-linux.gnomeExtensions.foresight:
   description: Automagically opens the activities view when workspace is empty. It uses callbacks to monitor windows and workspaces (instead of actively checking on them on certain time intervals), which makes it very efficient and responsive.
   pname: gnome-shell-extension-foresight
-  version: "7"
+  version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.forge:
   description: Tiling and window manager for GNOME
   pname: gnome-shell-extension-forge
@@ -42053,7 +42129,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.free-space-indicator:
 legacyPackages.x86_64-linux.gnomeExtensions.freon:
   description: Shows CPU temperature, disk temperature, video card temperature (NVIDIA/Catalyst/Bumblebee&NVIDIA), voltage and fan RPM (forked from xtranophilist/gnome-shell-extension-sensors)
   pname: gnome-shell-extension-freon
-  version: "58"
+  version: "60"
 legacyPackages.x86_64-linux.gnomeExtensions.frequency-boost-switch:
   description: Add a toggle to enable/disable CPU frequency boost in Gnome Quick Settings menu.
   pname: gnome-shell-extension-frequency-boost-switch
@@ -42085,7 +42161,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.fullscreen-to-empty-workspace-2:
 legacyPackages.x86_64-linux.gnomeExtensions.fuzzy-app-search:
   description: Fuzzy application search results for Gnome Search
   pname: gnome-shell-extension-gnome-fuzzy-app-search
-  version: "26"
+  version: "27"
 legacyPackages.x86_64-linux.gnomeExtensions.fuzzy-application-search:
   description: Use fuzzy matching (à la TextMate, SublimeText, VSCode) to search for applications
   pname: gnome-shell-extension-fuzzy-application-search
@@ -42113,7 +42189,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.gbinaryclock:
 legacyPackages.x86_64-linux.gnomeExtensions.gdeej:
   description: Control your audio with a DIY volume mixer
   pname: gnome-shell-extension-gdeej
-  version: "7"
+  version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.gemini-ai:
   description: 'New Ui is out now! '
   pname: gnome-shell-extension-gemini-ai
@@ -42121,7 +42197,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.gemini-ai:
 legacyPackages.x86_64-linux.gnomeExtensions.generic-monitor:
   description: Display text & icon on systray using DBUS
   pname: gnome-shell-extension-generic-monitor
-  version: "17"
+  version: "19"
 legacyPackages.x86_64-linux.gnomeExtensions.gjs-osk:
   description: A new Onscreen Keyboard built using GNOME JS
   pname: gnome-shell-extension-gjs-osk
@@ -42129,7 +42205,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.gjs-osk:
 legacyPackages.x86_64-linux.gnomeExtensions.gmeet:
   description: GNOME Shell Extension for Quick Access to Google Meet.
   pname: gnome-shell-extension-gmeet
-  version: "17"
+  version: "19"
 legacyPackages.x86_64-linux.gnomeExtensions.gnome-40-ui-improvements:
   description: Tunes gnome 4x Overview UI to make it more usable.
   pname: gnome-shell-extension-gnome
@@ -42141,7 +42217,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.gnome-bedtime:
 legacyPackages.x86_64-linux.gnomeExtensions.gnome-cgm-panel:
   description: CGM glucose monitor with real-time display and historical graph
   pname: gnome-shell-extension-gnome-cgm-panel
-  version: "8"
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.gnome-gnuplot-plotbox:
   description: Mathematical graphing with gnuplot - 2D and 3D plot visualization
   pname: gnome-shell-extension-gnome-gnuplot-plotbox
@@ -42157,7 +42233,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.gnome-window-rules:
 legacyPackages.x86_64-linux.gnomeExtensions.gnoming-profiles:
   description: Sync gsettings and user config files to GitHub with binary-safe wallpaper syncing and ETag-based polling for ultra-efficient bandwidth usage
   pname: gnome-shell-extension-gnoming-profiles
-  version: "3"
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.gnordvpn-local:
   description: A Gnome extension that shows the NordVPN status in the top bar and provides the ability to configure certain aspects of the connection.
   pname: gnome-shell-extension-gnordvpn-local
@@ -42174,6 +42250,14 @@ legacyPackages.x86_64-linux.gnomeExtensions.gold-silver-price:
   description: Shows the current price of Gold and Silver.
   pname: gnome-shell-extension-gold-silver-price
   version: "4"
+legacyPackages.x86_64-linux.gnomeExtensions.gotify-notifications:
+  description: Persistent custom Gotify notifications in GNOME
+  pname: gnome-shell-extension-gotify-notifications
+  version: "5"
+legacyPackages.x86_64-linux.gnomeExtensions.gp-gnome:
+  description: GNOME Shell extension gp-gnome for GlobalProtect VPN CLI (PanGPLinux) integration. Provides complete VPN management with native GNOME integration, comprehensive functionality, and intelligent handling of known CLI issues.
+  pname: gnome-shell-extension-gp-gnome
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.gpu-profile-selector:
   description: A GNOME Shell extension that provides an easy way to switch between GPU profiles on Nvidia Optimus systems (e.g., laptops with Intel + Nvidia or AMD + Nvidia configurations) in just a few clicks. Requires envycontrol (https://github.com/geminis3/envycontrol).
   pname: gnome-shell-extension-gpu-profile-selector
@@ -42213,7 +42297,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.gsnap:
 legacyPackages.x86_64-linux.gnomeExtensions.gspotify:
   description: A label, downloader and integrated Spotify controller for GNOME Shell. Uses system clipboard for menu actions. Uses spotdl for downloads. This extension is not affiliated, funded, or in any way associated with Spotify.
   pname: gnome-shell-extension-gspotify
-  version: "12"
+  version: "15"
 legacyPackages.x86_64-linux.gnomeExtensions.gtile:
   description: Tile windows on a grid
   pname: gnome-shell-extension-gtile
@@ -42225,7 +42309,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.gtk3-auto-dark:
 legacyPackages.x86_64-linux.gnomeExtensions.gtk4-desktop-icons-ng-ding:
   description: Adw. Desktop Icons
   pname: gnome-shell-extension-gtk4-desktop-icons-ng-ding
-  version: "118"
+  version: "119"
 legacyPackages.x86_64-linux.gnomeExtensions.guake-ssh:
   description: Systray menu to connect to SSH hosts configured in ~/.ssh/config or any files in  ~/.ssh/config.d/ using Guake.
   pname: gnome-shell-extension-guake-ssh
@@ -42249,7 +42333,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.hdr-auto-enable:
 legacyPackages.x86_64-linux.gnomeExtensions.headsetcontrol:
   description: Gnome Shell Extension to visualize headset status from HeadsetControl (https://github.com/Sapd/HeadsetControl) command line tool.
   pname: gnome-shell-extension-headsetcontrol
-  version: "75"
+  version: "78"
 legacyPackages.x86_64-linux.gnomeExtensions.herkul:
   description: Prayer times based on Diyanet.gov.tr's schedule and Herkul Radio https://herkul.org/ streaming from RadioKing. Features include prayer time notifications, radio streaming, and multi-city support.
   pname: gnome-shell-extension-herkul
@@ -42313,11 +42397,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.hide-volume-indicator:
 legacyPackages.x86_64-linux.gnomeExtensions.highlight-focus:
   description: Highlights the focussed window with a temporary border
   pname: gnome-shell-extension-highlight-focus
-  version: "14"
+  version: "15"
 legacyPackages.x86_64-linux.gnomeExtensions.hijri-date:
   description: Add Hijri date to top panel
   pname: gnome-shell-extension-hijri-date
-  version: "6"
+  version: "10"
+legacyPackages.x86_64-linux.gnomeExtensions.hijri-date-extension:
+  description: The original Hijri date extension. Display the current Hijri (Islamic) date in the top panel. You can adjust date according to moonsighting in your area, customize color, and get sunset-based transitions. Also known as the Islamic calendar, Arabic date, or Muslim lunar calendar, this extension shows the traditional Islamic dating system with customization options.
+  pname: gnome-shell-extension-hijri-date-extension
+  version: "24"
 legacyPackages.x86_64-linux.gnomeExtensions.historymanager-prefix-search:
   description: Use PageUp and PageDown to move in HistoryManager (eg. Run Command, Looking Glass) according to prefix
   pname: gnome-shell-extension-historymanager-prefix-search
@@ -42341,7 +42429,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.hot-edge:
 legacyPackages.x86_64-linux.gnomeExtensions.hotspot-toggle:
   description: A GNOME Shell extension to toggle mobile hotspot on an Android device over Bluetooth.
   pname: gnome-shell-extension-hotspot-toggle
-  version: "12"
+  version: "13"
 legacyPackages.x86_64-linux.gnomeExtensions.huawei-wmi-controls:
   description: Control various Huawei and Honor laptops WMI functions, such as battery protection, Fn-lock, power unlock and keyboard backlight.
   pname: gnome-shell-extension-huawei-wmi-controls
@@ -42405,7 +42493,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.im-panel-integrated-with-osk:
 legacyPackages.x86_64-linux.gnomeExtensions.immich-wallpaper:
   description: Sets desktop wallpaper from Immich server photos
   pname: gnome-shell-extension-immich-wallpaper
-  version: "4"
+  version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.impatience:
   description: Speed up builtin gnome-shell animations
   pname: gnome-shell-extension-impatience
@@ -42501,7 +42589,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.kali-track:
 legacyPackages.x86_64-linux.gnomeExtensions.kando-integration:
   description: This extension is required for Kando to work on Wayland. It allows Kando to bind global shortcuts, and provides information about your currently focused application window and the position of your mouse pointer.
   pname: gnome-shell-extension-kando-integration
-  version: "9"
+  version: "10"
 legacyPackages.x86_64-linux.gnomeExtensions.keep-awake:
   description: Keep your computer awake! Prevents that your computer activates sceensaver, turns off screen(s) or goes to hibernate when not actively used for a while. Click the indicator icon once to keep your computer awake for the current session. Click again to keep it awake also between restarts (indicated by a small lock icon on the indicator). Clicking again to not keep awake.
   pname: gnome-shell-extension-keep-awake
@@ -42519,7 +42607,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.kernel-indicator:
   pname: gnome-shell-extension-kernel-indicator
   version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.keyboard-accent-color-sync:
-  description: Synchronizes your keyboard RGB color with GNOME's accent color using OpenRGB. Only updates on actual changes and conditionally adjusts brightness.
+  description: Customization of the keyboard backlight via the quick access toolbar, with the ability to synchronize with the accent color selected in the system using OpenRGB
   pname: gnome-shell-extension-keyboard-accent-color-sync
   version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.keyboard-informer:
@@ -42529,11 +42617,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.keyboard-informer:
 legacyPackages.x86_64-linux.gnomeExtensions.keyboard-modifiers-status:
   description: Shows keyboard modifiers status. It's useful when sticky keys are active.
   pname: gnome-shell-extension-keyboard-modifiers-status
-  version: "26"
+  version: "28"
 legacyPackages.x86_64-linux.gnomeExtensions.keyboard-reset:
   description: Reset keyboard to default layout on screensaver activation
   pname: gnome-shell-extension-keyboard-reset
-  version: "8"
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.keylightd-control:
   description: Control keylightd via the GNOME Shell Quick Settings menu.
   pname: gnome-shell-extension-keylightd-control
@@ -42549,17 +42637,17 @@ legacyPackages.x86_64-linux.gnomeExtensions.kimpanel:
 legacyPackages.x86_64-linux.gnomeExtensions.kiwi-is-not-apple:
   description: Kiwi is free open source project that brings macOS-inspired features for GNOME.
   pname: gnome-shell-extension-kiwi-is-not-apple
-  version: "25"
+  version: "31"
 legacyPackages.x86_64-linux.gnomeExtensions.kiwi-menu:
   description: macOS-inspired quick menu for GNOME
   pname: gnome-shell-extension-kiwi-menu
-  version: "8"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.kmonad-toggle:
   description: Is your keyboard unusable for other people? Toggle it with one click!
   pname: gnome-shell-extension-kmonad-toggle
-  version: "11"
+  version: "12"
 legacyPackages.x86_64-linux.gnomeExtensions.kolour-groups-windows:
-  description: Window management with color groups and grayscale effects
+  description: Advanced window management with grayscale effects and window grouping
   pname: gnome-shell-extension-kolour-groups-windows
   version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.krypto:
@@ -42597,7 +42685,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.legacy-gtk3-theme-scheme-auto-switch
 legacyPackages.x86_64-linux.gnomeExtensions.libreview-glucose-monitor:
   description: Displays the latest glucose reading from LibreView.
   pname: gnome-shell-extension-libreview-glucose-monitor
-  version: "3"
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.light-dict:
   description: Manipulate primary selections on the fly, typically used as Lightweight Dictionaries
   pname: gnome-shell-extension-light-dict
@@ -42614,6 +42702,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.lilypad:
   description: Organize, hide, and reorder top bar icons
   pname: gnome-shell-extension-lilypad
   version: "15"
+legacyPackages.x86_64-linux.gnomeExtensions.linakidasen-desk-controller:
+  description: Control your IKEA Idasen/Linak desk height with favorite positions from linak-controller config
+  pname: gnome-shell-extension-linakidasen-desk-controller
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.lineup:
   description: Set width for right-side panel indicators
   pname: gnome-shell-extension-lineup
@@ -42630,6 +42722,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.live-tennis-monitor:
   description: 'A Gnome extension that helps you show live tennis scores. Service provider: atptour.com, wtatennis.com and tennistemple.com. Latest version available here: https://github.com/homebackend/gnome-live-tennis/releases'
   pname: gnome-shell-extension-live-tennis-monitor
   version: "9"
+legacyPackages.x86_64-linux.gnomeExtensions.lock-guard:
+  description: Hide date and quick settings on lock screen for enhanced security and privacy.
+  pname: gnome-shell-extension-lock-guard
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.lock-keys:
   description: Visualize lock keys
   pname: gnome-shell-extension-lock-keys
@@ -42641,11 +42737,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.lockscreen-extension:
 legacyPackages.x86_64-linux.gnomeExtensions.logo-activities:
   description: Show icon and label for panel Activities.
   pname: gnome-shell-extension-logo-activities
-  version: "27"
+  version: "31"
 legacyPackages.x86_64-linux.gnomeExtensions.logo-menu:
   description: Logo Menu - Menu similar to Apple's macOS menu for the GNOME Desktop
   pname: gnome-shell-extension-logo-menu
   version: "38"
+legacyPackages.x86_64-linux.gnomeExtensions.logo-widget:
+  description: 'Add a logo to the desktop. '
+  pname: gnome-shell-extension-logo-widget
+  version: "19"
 legacyPackages.x86_64-linux.gnomeExtensions.lomotion:
   description: Lomotion extension lets you switch and manage Gnome's workspaces seamlessly
   pname: gnome-shell-extension-lomotion
@@ -42653,7 +42753,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.lomotion:
 legacyPackages.x86_64-linux.gnomeExtensions.looking-glass-button:
   description: Toggle the Looking Glass visibility by clicking on a panel icon.
   pname: gnome-shell-extension-looking-glass-button
-  version: "19"
+  version: "20"
 legacyPackages.x86_64-linux.gnomeExtensions.luminus-desktop:
   description: An alternative default light theme for vanilla GNOME desktop
   pname: gnome-shell-extension-luminus-desktop
@@ -42694,14 +42794,18 @@ legacyPackages.x86_64-linux.gnomeExtensions.maximize-to-empty-workspace-2025:
   description: New and maximized windows will be moved to empty workspaces.
   pname: gnome-shell-extension-maximize-to-empty-workspace
   version: 2025-2
+legacyPackages.x86_64-linux.gnomeExtensions.maximize-window-into-new-workspace:
+  description: New and maximized windows will be moved to empty workspaces.
+  pname: gnome-shell-extension-maximize-window-into-new-workspace
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.maximized-by-default-actually-reborn:
   description: Make all windows maximized on start. Updated for GNOME 49 and ignores context menus.
   pname: gnome-shell-extension-maximized-by-default-actually-reborn
-  version: "1"
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.media-controls:
   description: Show controls and information of the currently playing media in the panel.
   pname: gnome-shell-extension-media-controls
-  version: "41"
+  version: "43"
 legacyPackages.x86_64-linux.gnomeExtensions.media-progress:
   description: Progress Bar for the GNOME Media Notification
   pname: gnome-shell-extension-media-progress
@@ -42713,7 +42817,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.memento-mori:
 legacyPackages.x86_64-linux.gnomeExtensions.messaging-menu:
   description: A Messaging Menu for the Gnome Shell. All Email and Chat Applications in one Place.
   pname: gnome-shell-extension-messaging-menu
-  version: "55"
+  version: "59"
 legacyPackages.x86_64-linux.gnomeExtensions.middle-click-to-close-in-overview:
   description: Close windows with a mouse button click (the middle one by default) when in overview mode
   pname: gnome-shell-extension-middle-click-to-close-in-overview
@@ -42723,9 +42827,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.mihomo-tray:
   pname: gnome-shell-extension-mihomo-tray
   version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.minimized-windows-buttons:
-  description: Shows a button on the bottom (or top) of the screen for each minimized window. Click to maximize again.
+  description: Shows a button on the edge of the screen for each minimized window. Click to maximize again.
   pname: gnome-shell-extension-minimized-windows-buttons
-  version: "5"
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.mock-tray:
   description: Creates an invisible system tray (TopIcons) for apps (like MEGAsync) that won't run properly without one.
   pname: gnome-shell-extension-mock-tray
@@ -42741,11 +42845,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.monitor-smart-saver:
 legacyPackages.x86_64-linux.gnomeExtensions.monkeybar:
   description: See your weekly Monkeytype typing activity in top bar
   pname: gnome-shell-extension-monkeybar
-  version: "4"
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.mosaic:
   description: Window tiler extension for GNOME desktops.
   pname: gnome-shell-extension-mosaic
-  version: "7"
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.mouse-follows-focus:
   description: Are you a power-user?
   pname: gnome-shell-extension-mouse-follows-focus
@@ -42753,7 +42857,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.mouse-follows-focus:
 legacyPackages.x86_64-linux.gnomeExtensions.mouse-follows-focus-2:
   description: Enable mouse follows focus on Gnome Shell 45+ with multi monitors support
   pname: gnome-shell-extension-mouse-follows-focus
-  version: "8"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.mouse-tail:
   description: A Gnome extension to draw the mouse tail on the screen
   pname: gnome-shell-extension-mouse-tail
@@ -42790,10 +42894,14 @@ legacyPackages.x86_64-linux.gnomeExtensions.mullvad-indicator:
   description: Mullvad connection status indicator
   pname: gnome-shell-extension-mullvad-indicator
   version: "21"
+legacyPackages.x86_64-linux.gnomeExtensions.multi-monitor-bar:
+  description: Fork of spin83's Multi Monitors. Donate if you think this extension is useful :). Don't forget to star the original repository! , rate and comment
+  pname: gnome-shell-extension-multi-monitor-bar
+  version: "25"
 legacyPackages.x86_64-linux.gnomeExtensions.multicore-system-monitor:
   description: Show consumption of each CPU core and memory
   pname: gnome-shell-extension-multicore-system-monitor
-  version: "8"
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.mumbleping:
   description: Displays how many users are currently online on a mumble server
   pname: gnome-shell-extension-mumbleping
@@ -42833,7 +42941,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.nepali-calendar-2:
 legacyPackages.x86_64-linux.gnomeExtensions.net-speed:
   description: Show current net speed on panel.
   pname: gnome-shell-extension-net-speed
-  version: "11"
+  version: "12"
 legacyPackages.x86_64-linux.gnomeExtensions.net-speed-indicator:
   description: Show current network speed on panel.
   pname: gnome-shell-extension-net-speed-indicator
@@ -42849,7 +42957,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.net-totals-simplified:
 legacyPackages.x86_64-linux.gnomeExtensions.network-share-automount:
   description: Automatically mount bookmarked network locations with advanced configuration options and allows for creating symlinks for easy access from your homer directory
   pname: gnome-shell-extension-network-share-automount
-  version: "2"
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.network-stats:
   description: 'Displays internet upload speed, download speed, bandwidth, data usage. '
   pname: gnome-shell-extension-network-stats
@@ -42882,6 +42990,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.night-light-slider-updated:
   description: 'Kiyui''s Night Light Slider updated for GNOME >45. Provides a slider in the quick settings menu to control the night light temperature. Some nice options can be set in the extension preferences menu. For the moment the brightness sync option is removed due to changes in the GJS API. Original implementation: https://codeberg.org/kiyui/gnome-shell-night-light-slider-extension/'
   pname: gnome-shell-extension-night-light-slider-updated
   version: "14"
+legacyPackages.x86_64-linux.gnomeExtensions.night-light-toggle:
+  description: A minimal status bar indicator to toggle Night Light mode.
+  pname: gnome-shell-extension-night-light-toggle
+  version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.night-style-monitor:
   description: A Gnome extension to run a custom command when switching night style.
   pname: gnome-shell-extension-night-style-monitor
@@ -42949,7 +43061,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.notification-banner-position:
 legacyPackages.x86_64-linux.gnomeExtensions.notification-banner-reloaded:
   description: Configure notification banner position and animation to your liking.
   pname: gnome-shell-extension-notification-banner-reloaded
-  version: "15"
+  version: "17"
 legacyPackages.x86_64-linux.gnomeExtensions.notification-configurator:
   description: 'An Ultimate Notification Configurator for GNOME: notification rate limiting, timeout, positioning, fullscreen notifications, custom colors, filtering and more features upcoming. Consider leaving a review on GNOME Extensions!'
   pname: gnome-shell-extension-notification-configurator
@@ -42969,7 +43081,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.notification-timeout:
 legacyPackages.x86_64-linux.gnomeExtensions.notifications-alert-on-user-menu:
   description: Changes the color of the time and date indicator in the top bar when there are unread notifications. Colors and blinking are customizable.
   pname: gnome-shell-extension-notifications-alert-on-user-menu
-  version: "54"
+  version: "55"
+legacyPackages.x86_64-linux.gnomeExtensions.numeric-clock:
+  description: Numeric Clock replaces the GNOME top-bar clock with a clean, fully configurable numeric date/time. Use any strftime format (e.g. %A %d/%m/%Y %H:%M) and see changes instantly in the live preview.
+  pname: gnome-shell-extension-numeric-clock
+  version: "19"
 legacyPackages.x86_64-linux.gnomeExtensions.obs-status:
   description: Obs stream status extension, This extension is not affiliated, funded, or in any way associated with OBS software
   pname: gnome-shell-extension-obs-status
@@ -42985,7 +43101,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.one-click-bios:
 legacyPackages.x86_64-linux.gnomeExtensions.one-thing:
   description: Put a single task or goal in your menu bar
   pname: gnome-shell-extension-one-thing
-  version: "26"
+  version: "27"
 legacyPackages.x86_64-linux.gnomeExtensions.one-window-wonderland:
   description: Automatically maximizes new windows, leaving 'useless gaps' around them.
   pname: gnome-shell-extension-one-window-wonderland
@@ -43046,10 +43162,18 @@ legacyPackages.x86_64-linux.gnomeExtensions.overview-hover:
   description: Hover over a window in overview mode to make it active
   pname: gnome-shell-extension-overview-hover
   version: "5"
+legacyPackages.x86_64-linux.gnomeExtensions.overview-on-empty-workspace:
+  description: Show overview if the workspace is empty.
+  pname: gnome-shell-extension-overview-on-empty-workspace
+  version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.oyainput-indicator:
   description: Shows the running status of oyainput (running, paused, or not started) in the GNOME top bar.
   pname: gnome-shell-extension-oyainput-indicator
   version: "2"
+legacyPackages.x86_64-linux.gnomeExtensions.panel-color:
+  description: Dynamically set the GNOME Shell panel color based on light or dark themes.
+  pname: gnome-shell-extension-panel-color
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.panel-corners:
   description: A GNOME shell extension to keep the old topbar corners, which were removed for GNOME 42. It also allows you to customize the rounded corners, even if you use GNOME 40 or 41.
   pname: gnome-shell-extension-panel-corners
@@ -43066,6 +43190,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.panel-free:
   description: Hide top panel except in overview.
   pname: gnome-shell-extension-panel-free
   version: "10"
+legacyPackages.x86_64-linux.gnomeExtensions.panel-image:
+  description: 'Add image into the panel. Options to change: '
+  pname: gnome-shell-extension-panel-image
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.panel-note:
   description: Add a small note to your GNOME panel
   pname: gnome-shell-extension-panel-note
@@ -43073,7 +43201,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.panel-note:
 legacyPackages.x86_64-linux.gnomeExtensions.panel-pill:
   description: Shrinks the Panel to a pill
   pname: gnome-shell-extension-panel-pill
-  version: "3"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.panel-scroll:
   description: Switch windows or workspace by mouse scroll on the panel.
   pname: gnome-shell-extension-panel-scroll
@@ -43113,11 +43241,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.passwordstore-manager:
 legacyPackages.x86_64-linux.gnomeExtensions.paste-presets:
   description: Quickly copy and paste frequently used text, like your e-mail address or phone number.
   pname: gnome-shell-extension-paste-presets
-  version: "3"
+  version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.peek-top-bar-on-fullscreen:
   description: Show the top bar (panel) on demand while having full screen content on (like a YouTube video). Just hover the mouse cursor to the top of the screen, and the panel will show up. This way, you can quickly check the time, or swich some toggles. This is similar to what macOS offers for full screen apps.
   pname: gnome-shell-extension-peek-top-bar-on-fullscreen
-  version: "17"
+  version: "21"
 legacyPackages.x86_64-linux.gnomeExtensions.penguin-ai-chatbot:
   description: A GNOME Shell extension that provides a chatbot interface using various LLM providers, including Anthropic, OpenAI, Gemini, and OpenRouter. Features include multiple provider support, customizable models, chat history, customizable appearance, a keyboard shortcut, and copy-to-clipboard functionality.
   pname: gnome-shell-extension-penguin-ai-chatbot
@@ -43125,11 +43253,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.penguin-ai-chatbot:
 legacyPackages.x86_64-linux.gnomeExtensions.perfect-fit:
   description: Perfect Fit is a lightweight GNOME Shell extension that improves your workflow by automatically centering windows and resizing them to a customizable portion of the screen.
   pname: gnome-shell-extension-perfect-fit
-  version: "2"
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.persian-calendar:
   description: "\U0001F5D3️ Displays Persian (Iranian/Jalali) calendar in the top panel"
   pname: gnome-shell-extension-persian-calendar
-  version: "124"
+  version: "125"
 legacyPackages.x86_64-linux.gnomeExtensions.persian-calendar-2:
   description: Fork of Gnome Calendar extension with Persian taste
   pname: gnome-shell-extension-persian-calendar
@@ -43137,7 +43265,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.persian-calendar-2:
 legacyPackages.x86_64-linux.gnomeExtensions.phases-of-moon:
   description: Display current moon phase
   pname: gnome-shell-extension-phases-of-moon
-  version: "16"
+  version: "18"
 legacyPackages.x86_64-linux.gnomeExtensions.phi-pi-hole-indicator:
   description: Quickly access your beloved Pi-hole from GNOME Shell!
   pname: gnome-shell-extension-phi-pi-hole-indicator
@@ -43157,7 +43285,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.pin-it:
 legacyPackages.x86_64-linux.gnomeExtensions.ping:
   description: A Ping Extension
   pname: gnome-shell-extension-ping
-  version: "14"
+  version: "17"
+legacyPackages.x86_64-linux.gnomeExtensions.ping-bot:
+  description: "Monitor your important websites at a glance. Similar to uptime robot services, but from your local machine. Add URLs to your list, see status indicators in the panel: \U0001F7E2 - Everything is ok, all sites reachable. \U0001F7E1 - Unknown or no network. \U0001F534 - Some site is not reachable.  No external services, no API keys required, or accounts needed. "
+  pname: gnome-shell-extension-ping-bot
+  version: "3"
+legacyPackages.x86_64-linux.gnomeExtensions.pip-alwaysontop-for-firefox:
+  description: Enable Picture-in-Picture(PIP) mode to always be on for Firefox in Gnome.
+  pname: gnome-shell-extension-pip-alwaysontop-for-firefox
+  version: "1"
 legacyPackages.x86_64-linux.gnomeExtensions.pip-on-top:
   description: Makes "Picture-in-Picture" windows stay on top (even on Wayland session). Compatible with Firefox, but may work with few other browsers too.
   pname: gnome-shell-extension-pip-on-top
@@ -43197,11 +43333,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.power-dial:
 legacyPackages.x86_64-linux.gnomeExtensions.power-off-options:
   description: Adds extra options  to the GNOME Power Off dialog such as 'Turn Off Screen', 'Hibernate', 'Hybrid Sleep', and now also custom commands!
   pname: gnome-shell-extension-power-off-options
-  version: "6"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.power-profile-indicator-2:
-  description: Add current power profile in panel's system icons. Very light extension.
+  description: Add current power profile as system indicator.
   pname: gnome-shell-extension-power-profile-indicator
-  version: "13"
+  version: "17"
 legacyPackages.x86_64-linux.gnomeExtensions.power-profile-switcher:
   description: Automatically switch between power profiles based on power supply and percentage.
   pname: gnome-shell-extension-power-profile-switcher
@@ -43214,6 +43350,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.prapor-keyboard-layout-indicator:
   description: Shows the current keyboard layout as a country flag in the top panel
   pname: gnome-shell-extension-prapor-keyboard-layout-indicator
   version: "3"
+legacyPackages.x86_64-linux.gnomeExtensions.prayer-times:
+  description: Highly customizable and efficient prayer time and athan reminder extension for Gnome.
+  pname: gnome-shell-extension-prayer-times
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.preedit-highlight-for-japanese-ime:
   description: 未確定文字列のハイライト表示機能を追加します。 This extension adds a feature to highlight preedit text.
   pname: gnome-shell-extension-preedit-highlight-for-japanese-ime
@@ -43225,7 +43365,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.presentation-mode-panel:
 legacyPackages.x86_64-linux.gnomeExtensions.preserve-battery-health:
   description: Simple extension that adds a quick setting button to enable or disable battery charge thresholds via D-Bus + UPower (Preserve Battery Health)
   pname: gnome-shell-extension-preserve-battery-health
-  version: "4"
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.primary-input-on-lockscreen:
   description: Automatically change the keyboard layout on the lock screen to the primary one.
   pname: gnome-shell-extension-primary-input-on-lockscreen
@@ -43237,7 +43377,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.printers:
 legacyPackages.x86_64-linux.gnomeExtensions.privacy-indicators-accent-color:
   description: Apply the system accent color to privacy indicators (e.g., microphone) and screen sharing/recording indicators, with an optional blurred background, in the top bar
   pname: gnome-shell-extension-privacy-indicators-accent-color
-  version: "5"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.privacy-settings-menu:
   description: Add privacy settings toggles to the GNOME system menu
   pname: gnome-shell-extension-privacy-settings-menu
@@ -43269,7 +43409,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.quake-terminal:
 legacyPackages.x86_64-linux.gnomeExtensions.quarter-windows:
   description: Add additional window management shortcuts
   pname: gnome-shell-extension-quarter-windows
-  version: "14"
+  version: "16"
 legacyPackages.x86_64-linux.gnomeExtensions.quick-lang-switch:
   description: Quickly switch keyboard language layout without showing the switcher popup.
   pname: gnome-shell-extension-quick-lang-switch
@@ -43281,7 +43421,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.quick-launch:
 legacyPackages.x86_64-linux.gnomeExtensions.quick-lofi:
   description: Play lofi music and other sounds, locally or online, on your GNOME desktop with just a click!
   pname: gnome-shell-extension-quick-lofi
-  version: "16"
+  version: "17"
 legacyPackages.x86_64-linux.gnomeExtensions.quick-settings-audio-devices-hider:
   description: A Gnome Shell extension that allows you to hide selected output/input devices from the Quick Settings audio devices panel.
   pname: gnome-shell-extension-quick-settings-audio-devices-hider
@@ -43315,9 +43455,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.quick-web-search:
   pname: gnome-shell-extension-quick-web-search
   version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.quicksettings-focus-on-hover:
-  description: Automatically focuses the window under the mouse cursor when panel menus are closed or windows are destroyed
+  description: Automatically focuses/activates the window under the mouse cursor when panel menus are closed, windows are destroyed, or notification popups are dismissed
   pname: gnome-shell-extension-quicksettings-focus-on-hover
-  version: "2"
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.quicksettings-indicator-visibility-tool:
   description: A simple GNOME extension that allows you to control the visibility of indicators in quickSettings panel
   pname: gnome-shell-extension-quicksettings-indicator-visibility-tool
@@ -43325,7 +43465,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.quicksettings-indicator-visibility-t
 legacyPackages.x86_64-linux.gnomeExtensions.quran-player:
   description: Advanced Quran Player with MP3 controls, progress bar, time display, and resume functionality. Features multiple reciters with audio from QuranCentral.com and Archive.org servers.
   pname: gnome-shell-extension-quran-player
-  version: "21"
+  version: "25"
 legacyPackages.x86_64-linux.gnomeExtensions.radio-kayra:
   description: 'A tray radio extension to listen, search and manage radio stations, Youtube videos. In app search a database of 53000 radio stations and youtube. IMPORTANT: Requires installation of yt-dlp and GStreamer.'
   pname: gnome-shell-extension-radio-kayra
@@ -43373,7 +43513,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.reminder-alarm-clock:
 legacyPackages.x86_64-linux.gnomeExtensions.remmina-search-provider:
   description: Search for Remmina Remote Desktop Connections
   pname: gnome-shell-extension-remmina-search-provider
-  version: "27"
+  version: "31"
 legacyPackages.x86_64-linux.gnomeExtensions.removable-drive-menu:
   description: A status menu for accessing and unmounting removable devices.
   pname: gnome-shell-extension-removable-drive-menu
@@ -43393,7 +43533,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.repeat-to-cycle:
 legacyPackages.x86_64-linux.gnomeExtensions.resolution-and-refresh-rate-in-quick-settings:
   description: GNOME Shell extension to add Resolution and Refresh Rate toggle menu to Quick Settings
   pname: gnome-shell-extension-resolution-and-refresh-rate-in-quick-settings
-  version: "9"
+  version: "16"
 legacyPackages.x86_64-linux.gnomeExtensions.resource-monitor:
   description: Resource Monitor is a GNOME Shell extension that provides real-time monitoring of key system resources directly in the GNOME Shell top bar. It tracks CPU usage, load average, and temperature; RAM and swap usage; disk stats and space; GPU usage, memory, and temperature; and network activity for both WLAN and Ethernet connections.
   pname: gnome-shell-extension-resource-monitor
@@ -43402,6 +43542,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.restart-to:
   description: Adds a menu item to restart to any other EFI boot entry
   pname: gnome-shell-extension-restart-to
   version: "10"
+legacyPackages.x86_64-linux.gnomeExtensions.restore-geometry:
+  description: An extension to automatically restore its previous geometry of window upon its opening
+  pname: gnome-shell-extension-restore-geometry
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.right-click-next:
   description: Move windows to the next workspace by right-clicking them in the overview.
   pname: gnome-shell-extension-right-click-next
@@ -43457,7 +43601,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.screen-brightness-governor:
 legacyPackages.x86_64-linux.gnomeExtensions.screen-rotate:
   description: Enable screen rotation regardless of touch mode. Fork of Screen Autorotate by Kosmospredanie.
   pname: gnome-shell-extension-screen-rotate
-  version: "26"
+  version: "27"
 legacyPackages.x86_64-linux.gnomeExtensions.screen-vibrancy-saturation-extension:
   description: 'Adjust the saturation or hue of the screen.  Updated snap to zero threshold, and added quick settings button '
   pname: gnome-shell-extension-screen-vibrancy-saturation-extension
@@ -43465,11 +43609,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.screen-vibrancy-saturation-extension
 legacyPackages.x86_64-linux.gnomeExtensions.screen-word-translate:
   description: Translate word on the screen.
   pname: gnome-shell-extension-screen-word-translate
-  version: "51"
+  version: "52"
 legacyPackages.x86_64-linux.gnomeExtensions.screencast-extra-feature:
   description: Add extra features in built-in screen cast feature.
   pname: gnome-shell-extension-screencast-extra-feature
-  version: "2"
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.screenshort-cut:
   description: A simple shortcut to take screenshots directly on your top bar!
   pname: gnome-shell-extension-screenshort-cut
@@ -43478,10 +43622,14 @@ legacyPackages.x86_64-linux.gnomeExtensions.screenshot-window-sizer:
   description: Resize windows for GNOME Software screenshots with Ctrl+Alt+s shortcut
   pname: gnome-shell-extension-screenshot-window-sizer
   version: "50"
+legacyPackages.x86_64-linux.gnomeExtensions.screentospace:
+  description: Automatically moves maximized and fullscreen windows to empty workspaces. Provides a clean, organized multi-tasking experience with support for multiple monitors.
+  pname: gnome-shell-extension-screentospace
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.search-light:
   description: Take the apps search out of overview.
   pname: gnome-shell-extension-search-light
-  version: "39"
+  version: "42"
 legacyPackages.x86_64-linux.gnomeExtensions.serenity-desktop:
   description: 'A Per-Monitor-Workspace window manager designed for productive use. It offers two main features:'
   pname: gnome-shell-extension-serenity-desktop
@@ -43489,7 +43637,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.serenity-desktop:
 legacyPackages.x86_64-linux.gnomeExtensions.sermon:
   description: 'SerMon: an extension for monitoring and managing systemd services, cron jobs, docker and podman containers'
   pname: gnome-shell-extension-sermon
-  version: "36"
+  version: "37"
 legacyPackages.x86_64-linux.gnomeExtensions.server-communicator:
   description: Send API requests to servers or mount them at a click of a button. Copies and shows response in a dialog.
   pname: gnome-shell-extension-server-communicator
@@ -43497,7 +43645,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.server-communicator:
 legacyPackages.x86_64-linux.gnomeExtensions.server-status-indicator:
   description: Indicator displaying status of entered web server URLs using emojis.
   pname: gnome-shell-extension-server-status-indicator
-  version: "43"
+  version: "44"
 legacyPackages.x86_64-linux.gnomeExtensions.set-monitor-ddc-brightnesscontrast-extra-dimming:
   description: Control brightness and contrast with ddc and extra screen dimming with black overlay, It requires ddcutil to be installed, i2c permissions for non-root users configured.
   pname: gnome-shell-extension-set-monitor-ddc-brightnesscontrast-extra-dimming
@@ -43509,7 +43657,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.set-notification-banner-position:
 legacyPackages.x86_64-linux.gnomeExtensions.settingscenter:
   description: Settings Center is a customizable drop-down menu for quickly launching frequently used apps in Gnome:Shell via the quicksettings. Originally created by XES.
   pname: gnome-shell-extension-settingscenter
-  version: "46"
+  version: "48"
 legacyPackages.x86_64-linux.gnomeExtensions.shaderpaper-gnome:
   description: Simple Shader Wallpaper for Gnome Shell
   pname: gnome-shell-extension-shaderpaper-gnome
@@ -43521,7 +43669,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.shamsi-calendar:
 legacyPackages.x86_64-linux.gnomeExtensions.shortcuts:
   description: This shows a pop-up of useful keyboard shortcuts when Ctrl + Alt + Super + S is pressed (hotkey can be changed in settings)
   pname: gnome-shell-extension-shortcuts
-  version: "36"
+  version: "37"
+legacyPackages.x86_64-linux.gnomeExtensions.shortcuts-popup:
+  description: This shows a pop-up of useful keyboard shortcuts when Ctrl + Alt + Shift + O is pressed
+  pname: gnome-shell-extension-shortcuts-popup
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.shortcuts-to-activate-input-methods:
   description: Quick switching of input method and touchpad with user configurable shortcut binding
   pname: gnome-shell-extension-shortcuts-to-activate-input-methods
@@ -43549,15 +43701,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.show-desktop-applet:
 legacyPackages.x86_64-linux.gnomeExtensions.show-desktop-button:
   description: Minimize/unminimize all open windows with a single click.
   pname: gnome-shell-extension-show-desktop-button
-  version: "48"
+  version: "49"
 legacyPackages.x86_64-linux.gnomeExtensions.show-favorite-apps:
   description: This extension adds a favorite applications menu to the top panel
   pname: gnome-shell-extension-show-favorite-apps
   version: "16"
 legacyPackages.x86_64-linux.gnomeExtensions.show-hostname-and-ip:
-  description: Shows hostname and local IP address on your screen.
+  description: Displays the machine’s hostname and local IP address directly on the desktop.
   pname: gnome-shell-extension-show-hostname-and-ip
-  version: "6"
+  version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.shu-zhi:
   description: Generate wallpapers featuring mottos, inspired by jizhi
   pname: gnome-shell-extension-shu-zhi
@@ -43586,12 +43738,16 @@ legacyPackages.x86_64-linux.gnomeExtensions.simple-message:
   description: Print a custom message on the top bar.
   pname: gnome-shell-extension-simple-message
   version: "22"
+legacyPackages.x86_64-linux.gnomeExtensions.simple-net-speed:
+  description: 'Simply showing network speed. Left click to change modes:'
+  pname: gnome-shell-extension-simple-net-speed
+  version: "34"
 legacyPackages.x86_64-linux.gnomeExtensions.simple-tiling:
   description: A Simple Tiling Extension for Gnome Shell.
   pname: gnome-shell-extension-simple-tiling
   version: "18"
 legacyPackages.x86_64-linux.gnomeExtensions.simple-timer:
-  description: Simple Timer is a Gnome Shell Extension that adds a Timer to the Panel.
+  description: A minimal countdown timer for the GNOME Shell top panel. Set a duration, watch it count down in the panel, and receive a visual and audio alert when it reaches zero.
   pname: gnome-shell-extension-simple-timer
   version: "21"
 legacyPackages.x86_64-linux.gnomeExtensions.simple-workspaces-bar:
@@ -43601,7 +43757,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.simple-workspaces-bar:
 legacyPackages.x86_64-linux.gnomeExtensions.simpleweather:
   description: A highly configurable weather indicator. Doesn't use GNOME Weather.
   pname: gnome-shell-extension-simpleweather
-  version: "4"
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.sketch-scandal:
   description: Daily caricature display / Prikaz dnevnih karikatura
   pname: gnome-shell-extension-sketch-scandal
@@ -43613,11 +43769,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.slinger:
 legacyPackages.x86_64-linux.gnomeExtensions.smart-auto-move:
   description: Smart Auto Move learns the position, size, and workspace of your application windows and restores them on subsequent launches. Supports Wayland.
   pname: gnome-shell-extension-smart-auto-move
-  version: "35"
+  version: "39"
 legacyPackages.x86_64-linux.gnomeExtensions.smart-auto-move-ng:
   description: Smart Auto Move NG learns the position, size, and workspace of your application windows and restores them on subsequent launches. Supports Wayland.
   pname: gnome-shell-extension-smart-auto-move-ng
-  version: "28"
+  version: "31"
 legacyPackages.x86_64-linux.gnomeExtensions.smart-home:
   description: 'With this extension, you can control miscellaneous smart devices on your local network:'
   pname: gnome-shell-extension-smart-home
@@ -43625,7 +43781,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.smart-home:
 legacyPackages.x86_64-linux.gnomeExtensions.smart-tiling:
   description: This GNOME extension brings Windows 10–style window tiling to your desktop. It allows you to quickly snap and organize windows using familiar keyboard shortcuts — Super + Arrow Keys. Press Super + Left/Right to move windows to either half of the screen, or combine with Up/Down to tile them into corners. A simple, efficient way to boost your workflow and window management on GNOME.
   pname: gnome-shell-extension-smart-tiling
-  version: "4"
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.smart-to-dock:
   description: Pins your most used apps automatically every hour
   pname: gnome-shell-extension-smart-to-dock
@@ -43675,9 +43831,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.sound-visualizer:
   pname: gnome-shell-extension-sound-visualizer
   version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.soundbar:
-  description: Real-time audio visualizer for the top bar powered by cava
+  description: A real-time audio visualizer for the GNOME top bar, powered by CAVA.
   pname: gnome-shell-extension-soundbar
-  version: "3"
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.space-bar:
   description: Replaces the top-panel workspace indicator with an i3-like workspaces bar.
   pname: gnome-shell-extension-space-bar
@@ -43717,7 +43873,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.ssh-search-provider-reborn:
 legacyPackages.x86_64-linux.gnomeExtensions.start-overlay-in-application-view:
   description: When activating overview (Super button), the application view is shown instead of the view with the windows.
   pname: gnome-shell-extension-start-overlay-in-application-view
-  version: "11"
+  version: "13"
 legacyPackages.x86_64-linux.gnomeExtensions.static-workspace-background:
   description: Keep a static background while changing workspaces in GNOME.
   pname: gnome-shell-extension-static-workspace-background
@@ -43742,6 +43898,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.stopwatch:
   description: Simple stopwatch extension for Gnome 40-49.
   pname: gnome-shell-extension-stopwatch
   version: "14"
+legacyPackages.x86_64-linux.gnomeExtensions.stopwatch-arvind:
+  description: A modern extension to measure time. Primary button click starts/pauses the watch, secondary button resets it. Automatically pauses/resumes on screen locking. Shows a github-like heatmap and stats to visualize progress over time.
+  pname: gnome-shell-extension-stopwatch-arvind
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.streamcontroller-integration:
   description: Allow automatic page switching in StreamController by adding a dbus interface to fetch info about the current window.
   pname: gnome-shell-extension-streamcontroller-integration
@@ -43751,9 +43911,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.stretch-break-companion:
   pname: gnome-shell-extension-stretch-break-companion
   version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.strings:
-  description: Copy directly to your clipboard all kinds of useful strings.
+  description: 'Copy directly to your clipboard all kind of useful strings: the date in different formats, hashes, IDs, random colors values, and Lorem ipsum.'
   pname: gnome-shell-extension-strings
-  version: "10"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.sunshinestatus:
   description: Turn on/off sunshine and view its status. For it to work sunshine must be installed and configured.
   pname: gnome-shell-extension-sunshinestatus
@@ -43766,6 +43926,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.switch-focus-type:
   description: Toggle between focus-follow-mouse and click-to-focus mode
   pname: gnome-shell-extension-switch-focus-type
   version: "19"
+legacyPackages.x86_64-linux.gnomeExtensions.switch-internalheadphone-audio:
+  description: Adds a button to the top bar that enables internal speakers manually. This extension acts as a workaround when the headphones are plugged in but the system doesn't expose both audio outputs.
+  pname: gnome-shell-extension-switch-internalheadphone-audio
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.switch-two-layouts:
   description: This extension makes XKB shortcuts to switch keyboard layouts (such as Caps Lock, Ctrl+Shift, etc.) cycle between the two first layouts. The other ones still can be selected via the menu or using GNOME's shortcuts (Super+Space, Shift+Super+Space). It's useful when you have two primary layouts and more additional, which are used more rarely.
   pname: gnome-shell-extension-switch-two-layouts
@@ -43813,15 +43977,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.system-monitor-2:
 legacyPackages.x86_64-linux.gnomeExtensions.system-monitor-3:
   description: '# Installation'
   pname: gnome-shell-extension-system-monitor
-  version: "24"
+  version: "25"
 legacyPackages.x86_64-linux.gnomeExtensions.system-monitor-next:
   description: ""
   pname: gnome-shell-extension-system-monitor-next
   version: "81"
 legacyPackages.x86_64-linux.gnomeExtensions.system-monitor-tray-indicator:
-  description: Displays CPU and Memory usage on the top bar.
+  description: Displays CPU, Memory and Swap usage on the top bar.
   pname: gnome-shell-extension-system-monitor-tray-indicator
-  version: "3"
+  version: "4"
 legacyPackages.x86_64-linux.gnomeExtensions.system-software-info:
   description: Show operating system, kernel and shell info in the top bar.
   pname: gnome-shell-extension-system-software-info
@@ -43863,7 +44027,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.task-up-lite:
   pname: gnome-shell-extension-task-up-lite
   version: "35"
 legacyPackages.x86_64-linux.gnomeExtensions.task-up-ultralite:
-  description: Lag-free taskbar that respects the GNOME Shell style.
+  description: SUPERSEEDED BY TASKS IN PANEL
   pname: gnome-shell-extension-task-up-ultralite
   version: "36"
 legacyPackages.x86_64-linux.gnomeExtensions.task-widget:
@@ -43877,7 +44041,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.tasks-in-bottom-panel:
 legacyPackages.x86_64-linux.gnomeExtensions.tasks-in-panel:
   description: Lag-free taskbar that respects the GNOME Shell style.
   pname: gnome-shell-extension-tasks-in-panel
-  version: "14"
+  version: "30"
 legacyPackages.x86_64-linux.gnomeExtensions.taskwhisperer:
   description: GNOME Shell TaskWarrior GUI
   pname: gnome-shell-extension-taskwhisperer
@@ -43913,7 +44077,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.thinkpad-battery-threshold:
 legacyPackages.x86_64-linux.gnomeExtensions.thinkpad-red-led:
   description: A GNOME Shell extension to control and customize the ThinkPad red LED directly from the top panel. It allows you to turn on/off the LED, blink it and send morse code messages.
   pname: gnome-shell-extension-thinkpad-red-led
-  version: "5"
+  version: "6"
 legacyPackages.x86_64-linux.gnomeExtensions.thinkpad-thermal:
   description: ThinkPad thermal monitor, display ThinkPad thermal and fan status using /proc/acpi/ibm/thermal and /proc/acpi/ibm/fan.
   pname: gnome-shell-extension-thinkpad-thermal
@@ -43938,6 +44102,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.timer:
   description: A simple GNOME extension that provides a panel timer with an alarm sound notification.
   pname: gnome-shell-extension-timer
   version: "8"
+legacyPackages.x86_64-linux.gnomeExtensions.tinted-shell:
+  description: Tints GNOME Shell elements with the system accent color while preserving the original visual style.
+  pname: gnome-shell-extension-tinted-shell
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.tlp-profile-switcher:
   description: Easily switch between TLP power management profiles directly from GNOME Shell panel. Create custom power profiles for different usage scenarios (performance, battery saving, balanced) and switch between them with a single click. Profiles are stored in ~/.tlp/ directory as .conf files.
   pname: gnome-shell-extension-tlp-profile-switcher
@@ -43987,9 +44155,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.top-bar-organizer:
   pname: gnome-shell-extension-top-bar-organizer
   version: "15"
 legacyPackages.x86_64-linux.gnomeExtensions.top-panel-logo:
-  description: Adds a customizable icon to the GNOME Shell top panel
+  description: Adds a customizable logo to your top panel, letting you personalize your GNOME desktop with the icon of your choice. You can easily pick the icon, adjust its size and position, and customize what happens when you click on it!
   pname: gnome-shell-extension-top-panel-logo
-  version: "10"
+  version: "13"
 legacyPackages.x86_64-linux.gnomeExtensions.top-panel-note:
   description: A GNOME extension to display static notes in the top panel.
   pname: gnome-shell-extension-top-panel-note
@@ -44037,7 +44205,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.touchpad-switcher:
 legacyPackages.x86_64-linux.gnomeExtensions.touchup:
   description: Enhances various aspects of the GNOME experience when using a touch device.
   pname: gnome-shell-extension-touchup
-  version: "9"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.tracker:
   description: Simple time tracking extension for Gnome.
   pname: gnome-shell-extension-tracker
@@ -44057,7 +44225,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.translate-clipboard:
 legacyPackages.x86_64-linux.gnomeExtensions.transmission-daemon-indicator-ng:
   description: Monitor and control transmission-daemon or transmission-gtk.
   pname: gnome-shell-extension-transmission-daemon-indicator-ng
-  version: "11"
+  version: "12"
 legacyPackages.x86_64-linux.gnomeExtensions.transparent-inactive-windows:
   description: Makes any non-active window semi-transparent!
   pname: gnome-shell-extension-transparent-inactive-windows
@@ -44079,7 +44247,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.transparent-window-moving:
   pname: gnome-shell-extension-transparent-window-moving
   version: "20"
 legacyPackages.x86_64-linux.gnomeExtensions.tray-icons-reloaded:
-  description: Tray Icons Reloaded is a GNOME Shell extension which bring back Tray Icons to top panel, with additional features.
+  description: This extension is no longer maintained and will not receive updates or support.
   pname: gnome-shell-extension-tray-icons-reloaded
   version: "33"
 legacyPackages.x86_64-linux.gnomeExtensions.trimmer:
@@ -44149,7 +44317,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.unpanel:
 legacyPackages.x86_64-linux.gnomeExtensions.upower-battery:
   description: UPower Battery Indicator.
   pname: gnome-shell-extension-upower-battery
-  version: "24"
+  version: "25"
 legacyPackages.x86_64-linux.gnomeExtensions.uppercase-input-source-indicator:
   description: Makes the current input source (language) indicator uppercase. Works with IBus input method editors, too.
   pname: gnome-shell-extension-uppercase-input-source-indicator
@@ -44161,7 +44329,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.uptime-indicator:
 legacyPackages.x86_64-linux.gnomeExtensions.uptime-kuma-indicator:
   description: Displays the status of an Uptime Kuma instance in the panel.
   pname: gnome-shell-extension-uptime-kuma-indicator
-  version: "6"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.uptimerobot-monitor:
   description: Displays tray and desktop notifications when UptimeRobot reports downtime for a monitored website or service.
   pname: gnome-shell-extension-uptimerobot-monitor
@@ -44201,11 +44369,11 @@ legacyPackages.x86_64-linux.gnomeExtensions.usd-try:
 legacyPackages.x86_64-linux.gnomeExtensions.useless-gaps:
   description: For aesthetic purposes adds useless gaps around tiled and maximized windows
   pname: gnome-shell-extension-useless-gaps
-  version: "19"
+  version: "20"
 legacyPackages.x86_64-linux.gnomeExtensions.user-avatar-in-quick-settings:
   description: Display the user avatar in the Quick Settings menu, part of the "System" settings
   pname: gnome-shell-extension-user-avatar-in-quick-settings
-  version: "10"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.user-id-in-top-panel:
   description: 'Add ( user name :: user id @ host ) in top panel. Click to access users panel in control center.'
   pname: gnome-shell-extension-user-id-in-top-panel
@@ -44233,7 +44401,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.utcclock:
 legacyPackages.x86_64-linux.gnomeExtensions.uxplay-control:
   description: Control UXPlay AirPlay server from the top bar. (Requires UXPlay to be installed)
   pname: gnome-shell-extension-uxplay-control
-  version: "6"
+  version: "7"
 legacyPackages.x86_64-linux.gnomeExtensions.valent:
   description: GNOME Shell integration for Valent
   pname: gnome-shell-extension-valent
@@ -44241,7 +44409,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.valent:
 legacyPackages.x86_64-linux.gnomeExtensions.veil:
   description: Veil - Modern successor to Hide Items. A cleaner, quieter GNOME panel.
   pname: gnome-shell-extension-veil
-  version: "7"
+  version: "8"
 legacyPackages.x86_64-linux.gnomeExtensions.vertical-window-list:
   description: Displays opened windows in vertical panel with productivity perks
   pname: gnome-shell-extension-vertical-window-list
@@ -44249,11 +44417,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.vertical-window-list:
 legacyPackages.x86_64-linux.gnomeExtensions.vertical-workspaces:
   description: V-Shell is designed to enhance and customize the user experience by providing flexible workspace orientations and a variety of interface adjustments, including application grid customization and productivity improvements.
   pname: gnome-shell-extension-vertical-workspaces
-  version: "100"
+  version: "105"
 legacyPackages.x86_64-linux.gnomeExtensions.vibe-panel:
   description: A panel that vibes with your shell.
   pname: gnome-shell-extension-vibe-panel
-  version: "3"
+  version: "4"
+legacyPackages.x86_64-linux.gnomeExtensions.vibe-to-do:
+  description: Simple to-do list with alerts for Linux GNOME.
+  pname: gnome-shell-extension-vibe-to-do
+  version: "1"
 legacyPackages.x86_64-linux.gnomeExtensions.vicinae:
   description: Companion GNOME extension for Vicinae launcher with clipboard monitoring, window management APIs, and paste-to-active-window capabilities.
   pname: gnome-shell-extension-vicinae
@@ -44290,14 +44462,22 @@ legacyPackages.x86_64-linux.gnomeExtensions.volume-boost:
   description: A toggle to Boosts volume above limits | Fork of https://github.com/shaquibimdad/gnome_ext_volume_boost
   pname: gnome-shell-extension-volume-boost
   version: "8"
+legacyPackages.x86_64-linux.gnomeExtensions.volume-percent-display:
+  description: Shows volume percentage in the on-screen display (OSD) when adjusting volume.
+  pname: gnome-shell-extension-volume-percent-display
+  version: "3"
 legacyPackages.x86_64-linux.gnomeExtensions.volume-scroller-2:
   description: Scroll up or down in the Top Bar to adjust volume. Middle-click to toggle mute. Supports configuring granularity (default step of 5%)
   pname: gnome-shell-extension-volume-scroller
   version: "13"
+legacyPackages.x86_64-linux.gnomeExtensions.vpn-indicator:
+  description: Display current VPN name in panel.
+  pname: gnome-shell-extension-vpn-indicator
+  version: "2"
 legacyPackages.x86_64-linux.gnomeExtensions.vscode-search-provider:
   description: Search for your vscode workspaces easily. Supports insiders and vscodium. This extension is not affiliated, funded, or in any way associated with Microsoft and vscode software.
   pname: gnome-shell-extension-vscode-search-provider
-  version: "14"
+  version: "15"
 legacyPackages.x86_64-linux.gnomeExtensions.vscode-workspaces-gnome:
   description: A VSCode/Codium Workspace management tool-set for GNOME - This extension is not affiliated, funded, or in any way associated with Microsoft and vscode software.
   pname: gnome-shell-extension-vscode-workspaces-gnome
@@ -44321,7 +44501,7 @@ legacyPackages.x86_64-linux.gnomeExtensions.wallhub:
 legacyPackages.x86_64-linux.gnomeExtensions.wallpaper-slideshow:
   description: Automatically cycles through wallpapers from a user-defined directory. Optionally downloads Bing's wallpaper of the day.
   pname: gnome-shell-extension-wallpaper-slideshow
-  version: "16"
+  version: "17"
 legacyPackages.x86_64-linux.gnomeExtensions.warp-toggle:
   description: Toggle Cloudflare WARP connection from Quick Settings menu
   pname: gnome-shell-extension-warp-toggle
@@ -44362,10 +44542,14 @@ legacyPackages.x86_64-linux.gnomeExtensions.wellbeing-toggle:
   description: Toggle wellbeing reminders from the quick settings menu.
   pname: gnome-shell-extension-wellbeing-toggle
   version: "3"
+legacyPackages.x86_64-linux.gnomeExtensions.wellbeing-widget:
+  description: 'Mindful productivity companion with screen time tracking, Pomodoro focus timer, weekly stats with visual graphs, and ambient zen music. Track your active screen time, maintain focus with timed sessions, and create a balanced digital lifestyle. '
+  pname: gnome-shell-extension-wellbeing-widget
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.what-watch:
   description: Shows a customizeable analog desktop clock.
   pname: gnome-shell-extension-what-watch
-  version: "11"
+  version: "12"
 legacyPackages.x86_64-linux.gnomeExtensions.whoami-in-top-bar:
   description: Show the effective user ID in the top bar samely as returned by whoami command.
   pname: gnome-shell-extension-whoami-in-top-bar
@@ -44373,11 +44557,15 @@ legacyPackages.x86_64-linux.gnomeExtensions.whoami-in-top-bar:
 legacyPackages.x86_64-linux.gnomeExtensions.wifi-qrcode:
   description: This extension add a switch to the WiFi menu, in the GNOME system menu, that show a QR Code of the active connection.
   pname: gnome-shell-extension-wifi-qrcode
-  version: "17"
+  version: "18"
 legacyPackages.x86_64-linux.gnomeExtensions.wiggle:
   description: Wiggle is a GNOME Shell extension that magnifies the cursor when the mouse is moved rapidly.
   pname: gnome-shell-extension-wiggle
   version: "8"
+legacyPackages.x86_64-linux.gnomeExtensions.wiggly:
+  description: Wiggly is a GNOME Shell extension that magnifies the cursor when the mouse is moved rapidly.
+  pname: gnome-shell-extension-wiggly
+  version: "5"
 legacyPackages.x86_64-linux.gnomeExtensions.wikiart-wallpaper:
   description: 'A simple GNOME Shell extension to set your wallpaper to one of WikiArts Artwork of the day with single click! Disclaimer: This extension is not affiliated, funded, or in any way associated with WikiArt.'
   pname: gnome-shell-extension-wikiart-wallpaper
@@ -44447,13 +44635,13 @@ legacyPackages.x86_64-linux.gnomeExtensions.window-state-manager:
   pname: gnome-shell-extension-window-state-manager
   version: "13"
 legacyPackages.x86_64-linux.gnomeExtensions.window-title-is-back:
-  description: Focused window icon + app name + title + menu in the top bar.
+  description: SUPERSEEDED BY TASKS IN PANEL
   pname: gnome-shell-extension-window-title-is-back
   version: "38"
 legacyPackages.x86_64-linux.gnomeExtensions.window-tricks:
   description: Focus, snap, switch and resize windows with keybinds, clipboard history indicator and app tray indicator.
   pname: gnome-shell-extension-window-tricks
-  version: "7"
+  version: "10"
 legacyPackages.x86_64-linux.gnomeExtensions.windownavigator:
   description: Allow keyboard selection of windows and workspaces in overlay mode. <Ctrl>number selects a workspace, and <Alt>number selects a window.
   pname: gnome-shell-extension-windownavigator
@@ -44527,9 +44715,9 @@ legacyPackages.x86_64-linux.gnomeExtensions.x11-gestures:
   pname: gnome-shell-extension-x11-gestures
   version: "25"
 legacyPackages.x86_64-linux.gnomeExtensions.xremap:
-  description: Allow xremap to fetch the focused app name using D-Bus
+  description: Allow xremap to fetch the focused app name using D-Bus or local socket.
   pname: gnome-shell-extension-xremap
-  version: "10"
+  version: "11"
 legacyPackages.x86_64-linux.gnomeExtensions.xwayland-indicator:
   description: Point out X11 windows in GNOME.
   pname: gnome-shell-extension-xwayland-indicator
@@ -44550,6 +44738,10 @@ legacyPackages.x86_64-linux.gnomeExtensions.yawaretimetracker-gnome-extension:
   description: Allows integration of the Yaware desktop application with the GNOME Shell environment.
   pname: gnome-shell-extension-yawaretimetracker-gnome-extension
   version: "2"
+legacyPackages.x86_64-linux.gnomeExtensions.yet-another-radio:
+  description: Discover and listen to your favorite internet radio stations using the community driven radio-browser.info API.
+  pname: gnome-shell-extension-yet-another-radio
+  version: "9"
 legacyPackages.x86_64-linux.gnomeExtensions.yks-timer:
   description: Deadline Timer extension for Gnome Shell.
   pname: gnome-shell-extension-yks-timer
@@ -44677,7 +44869,7 @@ legacyPackages.x86_64-linux.gnucap-full:
 legacyPackages.x86_64-linux.gnucash:
   description: Free software for double entry accounting
   pname: gnucash
-  version: "5.13"
+  version: "5.14"
 legacyPackages.x86_64-linux.gnuchess:
   description: GNU Chess engine
   pname: gnuchess
@@ -45013,7 +45205,7 @@ legacyPackages.x86_64-linux.go-jsonschema:
 legacyPackages.x86_64-linux.go-judge:
   description: High performance sandbox service based on container technologies
   pname: go-judge
-  version: 1.10.0
+  version: 1.11.1
 legacyPackages.x86_64-linux.go-junit-report:
   description: Convert go test output to junit xml
   pname: go-junit-report
@@ -46213,7 +46405,7 @@ legacyPackages.x86_64-linux.gotip:
 legacyPackages.x86_64-linux.gotlsaflare:
   description: Update TLSA DANE records on cloudflare from x509 certificates
   pname: gotlsaflare
-  version: 2.8.1
+  version: 2.8.2
 legacyPackages.x86_64-linux.goto:
   description: Alias and navigate to directories with tab completion
   pname: goto
@@ -124569,7 +124761,7 @@ legacyPackages.x86_64-linux.hjson-go:
 legacyPackages.x86_64-linux.hl-log-viewer:
   description: JSON and logfmt log converter to human readable representation
   pname: hl-log-viewer
-  version: 0.32.3
+  version: 0.33.1
 legacyPackages.x86_64-linux.hledger:
   description: Command-line interface for the hledger accounting system
   pname: hledger
@@ -133769,7 +133961,7 @@ legacyPackages.x86_64-linux.istat-menus:
 legacyPackages.x86_64-linux.istioctl:
   description: Istio configuration command line utility for service operators to debug and diagnose their Istio mesh
   pname: istioctl
-  version: 1.28.1
+  version: 1.28.2
 legacyPackages.x86_64-linux.isync:
   description: Free IMAP and MailDir mailbox synchronizer
   pname: isync
@@ -145069,7 +145261,7 @@ legacyPackages.x86_64-linux.libretro.mame2003:
 legacyPackages.x86_64-linux.libretro.mame2003-plus:
   description: Port of MAME ~2003+ to libretro, compatible with MAME 0.78 sets
   pname: libretro-mame2003-plus
-  version: 0-unstable-2025-12-13
+  version: 0-unstable-2025-12-18
 legacyPackages.x86_64-linux.libretro.mame2010:
   description: Port of MAME ~2010 to libretro, compatible with MAME 0.139 sets
   pname: libretro-mame2010
@@ -148165,7 +148357,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 5.10.247-1.33.2
+  version: 5.10.247-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -148817,7 +149009,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 5.15.197-1.33.2
+  version: 5.15.197-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -149469,7 +149661,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.1.159-1.33.2
+  version: 6.1.159-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -150117,7 +150309,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.12.63-1.33.2
+  version: 6.12.63-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -150769,7 +150961,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.12.56-1.33.2
+  version: 6.12.56-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -151421,7 +151613,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.17.13-1.33.2
+  version: 6.17.13-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_17.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -152073,7 +152265,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.2-1.33.2
+  version: 6.18.2-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -152725,7 +152917,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.6.119-1.33.2
+  version: 6.6.119-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -153373,7 +153565,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.12.56-1.33.2
+  version: 6.12.56-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -154025,7 +154217,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.17.13-1.33.2
+  version: 6.17.13-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -154677,7 +154869,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.12.62-1.33.2
+  version: 6.12.62-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -155329,7 +155521,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.17.12-1.33.2
+  version: 6.17.12-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -155981,7 +156173,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.17.12-1.33.2
+  version: 6.17.12-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -156633,7 +156825,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.2-1.33.2
+  version: 6.18.2-1.33.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -157285,7 +157477,7 @@ legacyPackages.x86_64-linux.linuxPackages.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.12.63-1.33.2
+  version: 6.12.63-1.33.3
 legacyPackages.x86_64-linux.linuxPackages.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -157941,7 +158133,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_latest.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.2-1.33.2
+  version: 6.18.2-1.33.3
 legacyPackages.x86_64-linux.linuxPackages_latest.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -158593,7 +158785,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_lqx.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.17.13-1.33.2
+  version: 6.17.13-1.33.3
 legacyPackages.x86_64-linux.linuxPackages_lqx.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -159245,7 +159437,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.12.62-1.33.2
+  version: 6.12.62-1.33.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -159897,7 +160089,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.17.12-1.33.2
+  version: 6.17.12-1.33.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -160549,7 +160741,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.17.12-1.33.2
+  version: 6.17.12-1.33.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -161201,7 +161393,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_zen.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.2-1.33.2
+  version: 6.18.2-1.33.3
 legacyPackages.x86_64-linux.linuxPackages_zen.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -161974,10 +162166,6 @@ legacyPackages.x86_64-linux.liquidctl:
   description: Cross-platform CLI and Python drivers for AIO liquid coolers and other devices
   pname: liquidctl
   version: 1.15.0
-legacyPackages.x86_64-linux.liquidfun:
-  description: 2D physics engine based on Box2D
-  pname: liquidfun
-  version: 1.1.0
 legacyPackages.x86_64-linux.liquidprompt:
   description: Full-featured & carefully designed adaptive prompt for Bash & Zsh
   pname: liquidprompt
@@ -163905,7 +164093,7 @@ legacyPackages.x86_64-linux.lomiri.lomiri-ui-extras:
 legacyPackages.x86_64-linux.lomiri.lomiri-ui-toolkit:
   description: QML components to ease the creation of beautiful applications in QML
   pname: lomiri-ui-toolkit
-  version: 1.3.5901
+  version: 1.3.5902
 legacyPackages.x86_64-linux.lomiri.lomiri-url-dispatcher:
   description: Lomiri operating environment service for requesting URLs to be opened
   pname: lomiri-url-dispatcher
@@ -170829,7 +171017,7 @@ legacyPackages.x86_64-linux.matrix-conduit:
 legacyPackages.x86_64-linux.matrix-continuwuity:
   description: Matrix homeserver written in Rust, forked from conduwuit
   pname: matrix-continuwuity
-  version: 0.5.0-rc.8.1
+  version: 0.5.0
 legacyPackages.x86_64-linux.matrix-corporal:
   description: Reconciliator and gateway for a managed Matrix server
   pname: matrix-corporal
@@ -179793,7 +179981,7 @@ legacyPackages.x86_64-linux.nodePackages.fauna-shell:
 legacyPackages.x86_64-linux.nodePackages.firebase-tools:
   description: Manage, and deploy your Firebase project from the command line
   pname: firebase-tools
-  version: 15.0.0
+  version: 15.1.0
 legacyPackages.x86_64-linux.nodePackages.fixjson:
   description: JSON Fixer for Humans using (relaxed) JSON5
   pname: fixjson
@@ -180777,7 +180965,7 @@ legacyPackages.x86_64-linux.nodePackages_latest.fauna-shell:
 legacyPackages.x86_64-linux.nodePackages_latest.firebase-tools:
   description: Manage, and deploy your Firebase project from the command line
   pname: firebase-tools
-  version: 15.0.0
+  version: 15.1.0
 legacyPackages.x86_64-linux.nodePackages_latest.fixjson:
   description: JSON Fixer for Humans using (relaxed) JSON5
   pname: fixjson
@@ -220561,7 +220749,7 @@ legacyPackages.x86_64-linux.pixeluvo:
 legacyPackages.x86_64-linux.pixi:
   description: Package management made easy
   pname: pixi
-  version: 0.62.0
+  version: 0.62.2
 legacyPackages.x86_64-linux.pixi-pack:
   description: Pack and unpack conda environments created with pixi
   pname: pixi-pack
@@ -228149,7 +228337,7 @@ legacyPackages.x86_64-linux.python312Packages.ansi2image:
 legacyPackages.x86_64-linux.python312Packages.ansible:
   description: Radically simple IT automation
   pname: python3.12-ansible
-  version: 13.0.0
+  version: 13.1.0
 legacyPackages.x86_64-linux.python312Packages.ansible-builder:
   description: Ansible execution environment builder
   pname: python3.12-ansible-builder
@@ -238373,7 +238561,7 @@ legacyPackages.x86_64-linux.python312Packages.gntp:
 legacyPackages.x86_64-linux.python312Packages.gnucash:
   description: Free software for double entry accounting
   pname: gnucash
-  version: "5.13"
+  version: "5.14"
 legacyPackages.x86_64-linux.python312Packages.gnureadline:
   description: Standard Python readline extension statically linked against the GNU readline library
   pname: python3.12-gnureadline
@@ -238505,7 +238693,7 @@ legacyPackages.x86_64-linux.python312Packages.google-cloud-dns:
 legacyPackages.x86_64-linux.python312Packages.google-cloud-error-reporting:
   description: Stackdriver Error Reporting API client library
   pname: python3.12-google-cloud-error-reporting
-  version: 1.13.0
+  version: 1.14.0
 legacyPackages.x86_64-linux.python312Packages.google-cloud-firestore:
   description: Google Cloud Firestore API client library
   pname: python3.12-google-cloud-firestore
@@ -255529,7 +255717,7 @@ legacyPackages.x86_64-linux.python312Packages.python-apt:
 legacyPackages.x86_64-linux.python312Packages.python-arango:
   description: Python Driver for ArangoDB
   pname: python3.12-python-arango
-  version: 8.2.3
+  version: 8.2.4
 legacyPackages.x86_64-linux.python312Packages.python-awair:
   description: Python library for the Awair API
   pname: python3.12-python-awair
@@ -269437,7 +269625,7 @@ legacyPackages.x86_64-linux.python313Packages.ansi2image:
 legacyPackages.x86_64-linux.python313Packages.ansible:
   description: Radically simple IT automation
   pname: python3.13-ansible
-  version: 13.0.0
+  version: 13.1.0
 legacyPackages.x86_64-linux.python313Packages.ansible-builder:
   description: Ansible execution environment builder
   pname: python3.13-ansible-builder
@@ -279665,7 +279853,7 @@ legacyPackages.x86_64-linux.python313Packages.gntp:
 legacyPackages.x86_64-linux.python313Packages.gnucash:
   description: Free software for double entry accounting
   pname: gnucash
-  version: "5.13"
+  version: "5.14"
 legacyPackages.x86_64-linux.python313Packages.gnureadline:
   description: Standard Python readline extension statically linked against the GNU readline library
   pname: python3.13-gnureadline
@@ -279797,7 +279985,7 @@ legacyPackages.x86_64-linux.python313Packages.google-cloud-dns:
 legacyPackages.x86_64-linux.python313Packages.google-cloud-error-reporting:
   description: Stackdriver Error Reporting API client library
   pname: python3.13-google-cloud-error-reporting
-  version: 1.13.0
+  version: 1.14.0
 legacyPackages.x86_64-linux.python313Packages.google-cloud-firestore:
   description: Google Cloud Firestore API client library
   pname: python3.13-google-cloud-firestore
@@ -296825,7 +297013,7 @@ legacyPackages.x86_64-linux.python313Packages.python-apt:
 legacyPackages.x86_64-linux.python313Packages.python-arango:
   description: Python Driver for ArangoDB
   pname: python3.13-python-arango
-  version: 8.2.3
+  version: 8.2.4
 legacyPackages.x86_64-linux.python313Packages.python-awair:
   description: Python library for the Awair API
   pname: python3.13-python-awair
@@ -313109,7 +313297,7 @@ legacyPackages.x86_64-linux.rime-moegirl:
 legacyPackages.x86_64-linux.rime-wanxiang:
   description: Feature-rich pinyin schema for Rime
   pname: rime-wanxiang
-  version: 13.8.5
+  version: 13.9.3
 legacyPackages.x86_64-linux.rime-zhwiki:
   description: RIME dictionary file for entries from zh.wikipedia.org
   pname: rime-zhwiki
@@ -314169,7 +314357,7 @@ legacyPackages.x86_64-linux.rootbar:
 legacyPackages.x86_64-linux.rootlesskit:
   description: Kind of Linux-native "fake root" utility, made for mainly running Docker and Kubernetes as an unprivileged user
   pname: rootlesskit
-  version: 2.3.5
+  version: 2.3.6
 legacyPackages.x86_64-linux.ropebwt2:
   description: Incremental construction of FM-index for DNA sequences
   pname: ropebwt2
@@ -341965,7 +342153,7 @@ legacyPackages.x86_64-linux.scponly:
 legacyPackages.x86_64-linux.scraper:
   description: Tool to query HTML files with CSS selectors
   pname: scraper
-  version: 0.24.0
+  version: 0.25.0
 legacyPackages.x86_64-linux.scrcpy:
   description: Display and control Android devices over USB or TCP/IP
   pname: scrcpy
@@ -348989,7 +349177,7 @@ legacyPackages.x86_64-linux.t:
 legacyPackages.x86_64-linux.t-rec:
   description: Blazingly fast terminal recorder that generates animated gif images for the web written in rust
   pname: t-rec
-  version: 0.8.1
+  version: 0.8.2
 legacyPackages.x86_64-linux.t-rex:
   description: Vector tile server specialized on publishing MVT tiles
   pname: t-rex
@@ -350497,11 +350685,11 @@ legacyPackages.x86_64-linux.terraform-providers.artifactory:
 legacyPackages.x86_64-linux.terraform-providers.auth0:
   description: ""
   pname: terraform-provider-auth0
-  version: 1.36.0
+  version: 1.37.0
 legacyPackages.x86_64-linux.terraform-providers.auth0_auth0:
   description: ""
   pname: terraform-provider-auth0
-  version: 1.36.0
+  version: 1.37.0
 legacyPackages.x86_64-linux.terraform-providers.avi:
   description: ""
   pname: terraform-provider-avi
@@ -395257,7 +395445,7 @@ legacyPackages.x86_64-linux.umami:
 legacyPackages.x86_64-linux.umap:
   description: UMap lets you create maps with OpenStreetMap layers in a minute and embed them in your site
   pname: umap
-  version: 3.4.2
+  version: 3.5.0
 legacyPackages.x86_64-linux.umlet:
   description: Free, open-source UML tool with a simple user interface
   pname: umlet
@@ -411701,7 +411889,7 @@ legacyPackages.x86_64-linux.woomer:
 legacyPackages.x86_64-linux.wootility:
   description: Customization and management software for Wooting keyboards
   pname: wootility
-  version: 5.1.2
+  version: 5.2.2
 legacyPackages.x86_64-linux.wooting-udev-rules:
   description: udev rules that give NixOS permission to communicate with Wooting keyboards
   pname: wooting-udev-rules
@@ -412981,7 +413169,7 @@ legacyPackages.x86_64-linux.xee:
 legacyPackages.x86_64-linux.xemu:
   description: Original Xbox emulator
   pname: xemu
-  version: 0.8.119
+  version: 0.8.121
 legacyPackages.x86_64-linux.xen:
   description: Type-1 hypervisor intended for embedded and hyperscale use cases
   pname: xen
