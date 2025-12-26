@@ -1317,7 +1317,7 @@ legacyPackages.x86_64-linux.aiger:
 legacyPackages.x86_64-linux.aiken:
   description: Modern smart contract platform for Cardano
   pname: aiken
-  version: 1.1.19
+  version: 1.1.21
 legacyPackages.x86_64-linux.aileron:
   description: Helvetica font in nine weights
   pname: aileron
@@ -6437,7 +6437,7 @@ legacyPackages.x86_64-linux.anonymousPro:
 legacyPackages.x86_64-linux.ansel:
   description: Darktable fork minus the bloat plus some design vision
   pname: ansel
-  version: 0-unstable-2025-12-15
+  version: 0-unstable-2025-12-23
 legacyPackages.x86_64-linux.ansi:
   description: Quickly get ANSI escape sequences
   pname: ansi-escape-sequences-cli
@@ -16901,7 +16901,7 @@ legacyPackages.x86_64-linux.checkra1n:
 legacyPackages.x86_64-linux.checksec:
   description: Tool for checking security bits on executables
   pname: checksec
-  version: 3.0.2
+  version: 3.1.0
 legacyPackages.x86_64-linux.checkstyle:
   description: Checks Java source against a coding standard
   pname: checkstyle
@@ -24413,7 +24413,7 @@ legacyPackages.x86_64-linux.cursewords:
 legacyPackages.x86_64-linux.cursor-cli:
   description: Cursor CLI
   pname: cursor-cli
-  version: 0-unstable-2025-11-25
+  version: 0-unstable-2025-12-17
 legacyPackages.x86_64-linux.curtail:
   description: Simple & useful image compressor
   pname: curtail
@@ -26289,7 +26289,7 @@ legacyPackages.x86_64-linux.desed:
 legacyPackages.x86_64-linux.design:
   description: 2D CAD For GNOME
   pname: design
-  version: 46-alpha1
+  version: 48-alpha1
 legacyPackages.x86_64-linux.desk-exec:
   description: Execute programs defined in XDG desktop entries directly from the command line
   pname: desk-exec
@@ -30513,7 +30513,7 @@ legacyPackages.x86_64-linux.eggnog-mapper:
 legacyPackages.x86_64-linux.egl-wayland:
   description: EGLStream-based Wayland external platform
   pname: egl-wayland
-  version: 1.1.20
+  version: 1.1.21
 legacyPackages.x86_64-linux.eglexternalplatform:
   description: EGL External Platform interface
   pname: eglexternalplatform
@@ -31225,7 +31225,7 @@ legacyPackages.x86_64-linux.emmylua-check:
 legacyPackages.x86_64-linux.emmylua-doc-cli:
   description: Professional documentation generator creating beautiful, searchable API docs from your Lua code and annotations.
   pname: emmylua_doc_cli
-  version: 0.18.0
+  version: 0.19.0
 legacyPackages.x86_64-linux.emmylua-ls:
   description: EmmyLua Language Server
   pname: emmylua_ls
@@ -33197,7 +33197,7 @@ legacyPackages.x86_64-linux.faudio:
 legacyPackages.x86_64-linux.faugus-launcher:
   description: Simple and lightweight app for running Windows games using UMU-Launcher
   pname: faugus-launcher
-  version: 1.11.4
+  version: 1.11.7
 legacyPackages.x86_64-linux.fauna-shell:
   description: Interactive shell for FaunaDB
   pname: fauna-shell
@@ -33631,9 +33631,9 @@ legacyPackages.x86_64-linux.fehlstart:
   pname: fehlstart
   version: 0.5-unstable-2025-01-12
 legacyPackages.x86_64-linux.feishin:
-  description: Full-featured Subsonic/Jellyfin compatible desktop music player
+  description: Full-featured Jellyfin, Navidrome, and OpenSubsonic Compatible Music Player
   pname: feishin
-  version: 0.21.2
+  version: 0.22.0
 legacyPackages.x86_64-linux.feishu:
   description: All-in-one collaboration suite
   pname: feishu
@@ -39393,7 +39393,7 @@ legacyPackages.x86_64-linux.github-commenter:
 legacyPackages.x86_64-linux.github-copilot-cli:
   description: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal
   pname: github-copilot-cli
-  version: 0.0.371
+  version: 0.0.372
 legacyPackages.x86_64-linux.github-copilot-intellij-agent:
   description: GitHub copilot IntelliJ plugin's native component
   pname: github-copilot-intellij-agent
@@ -45305,7 +45305,7 @@ legacyPackages.x86_64-linux.go-secdump:
 legacyPackages.x86_64-linux.go-sendxmpp:
   description: Tool to send messages or files to an XMPP contact or MUC
   pname: go-sendxmpp
-  version: 0.15.3
+  version: 0.15.4
 legacyPackages.x86_64-linux.go-shadowsocks2:
   description: Fresh implementation of Shadowsocks in Go
   pname: go-shadowsocks2
@@ -45818,6 +45818,10 @@ legacyPackages.x86_64-linux.gogh:
   description: Collection of color schemes for terminal emulators
   pname: gogh
   version: "362"
+legacyPackages.x86_64-linux.gogogadget:
+  description: Single binary collection of tools useful for penetration testers and system administrators
+  pname: gogogadget
+  version: 0.1.0
 legacyPackages.x86_64-linux.gogui:
   description: Graphical user interface to programs that play the board game Go and support the Go Text Protocol such as GNU Go
   pname: gogui
@@ -46465,7 +46469,7 @@ legacyPackages.x86_64-linux.govee2mqtt:
 legacyPackages.x86_64-linux.goverlay:
   description: Opensource project that aims to create a Graphical UI to help manage Linux overlays
   pname: goverlay
-  version: 1.6.5
+  version: 1.6.7
 legacyPackages.x86_64-linux.govers:
   description: Tool for rewriting Go import paths
   pname: govers
@@ -129033,7 +129037,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.dirigera_platform:
 legacyPackages.x86_64-linux.home-assistant-custom-components.dreo:
   description: Dreo Smart Device Integration for Home Assistant
   pname: python3.13-JeffSteinbok-dreo
-  version: 1.4.2
+  version: 1.5.2
 legacyPackages.x86_64-linux.home-assistant-custom-components.dwd:
   description: Custom component for Home Assistant that integrates weather data (measurements and forecasts) of Deutscher Wetterdienst
   pname: python3.13-hg1337-dwd
@@ -134341,7 +134345,7 @@ legacyPackages.x86_64-linux.jasmin:
 legacyPackages.x86_64-linux.jasmin-compiler:
   description: Workbench for high-assurance and high-speed cryptography
   pname: jasmin-compiler
-  version: 2025.06.2
+  version: 2025.06.3
 legacyPackages.x86_64-linux.jasp-desktop:
   description: Complete statistical package for both Bayesian and Frequentist statistical methods
   pname: jasp-desktop
@@ -136369,7 +136373,7 @@ legacyPackages.x86_64-linux.karabiner-elements:
 legacyPackages.x86_64-linux.karakeep:
   description: Self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
   pname: karakeep
-  version: 0.29.1
+  version: 0.29.3
 legacyPackages.x86_64-linux.karate:
   description: API Test Automation Made Simple
   pname: karate
@@ -148045,7 +148049,7 @@ legacyPackages.x86_64-linux.links2:
 legacyPackages.x86_64-linux.linkwarden:
   description: Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
   pname: linkwarden
-  version: 2.13.3
+  version: 2.13.4
 legacyPackages.x86_64-linux.linode-cli:
   description: Linode Command Line Interface
   pname: linode-cli
@@ -170625,7 +170629,7 @@ legacyPackages.x86_64-linux.mask:
 legacyPackages.x86_64-linux.masklint:
   description: Lint your mask targets
   pname: masklint
-  version: 0.3.0
+  version: 0.4.1
 legacyPackages.x86_64-linux.maskprocessor:
   description: High-Performance word generator with a per-position configureable charset
   pname: maskprocessor
@@ -172125,7 +172129,7 @@ legacyPackages.x86_64-linux.meshlab:
 legacyPackages.x86_64-linux.meshoptimizer:
   description: Mesh optimization library that makes meshes smaller and faster to render
   pname: meshoptimizer
-  version: "0.25"
+  version: 1.0.1
 legacyPackages.x86_64-linux.meshtastic:
   description: Python API for talking to Meshtastic devices
   pname: meshtastic
@@ -173257,7 +173261,7 @@ legacyPackages.x86_64-linux.mio:
 legacyPackages.x86_64-linux.mir:
   description: Display server and Wayland compositor developed by Canonical
   pname: mir
-  version: 2.23.0
+  version: 2.25.2
 legacyPackages.x86_64-linux.mir-qualia:
   description: Dynamically enable sections of config files
   pname: mir.qualia
@@ -175053,7 +175057,7 @@ legacyPackages.x86_64-linux.mpvScripts.modernx:
 legacyPackages.x86_64-linux.mpvScripts.modernx-zydezu:
   description: Modern OSC UI replacement for MPV that retains the functionality of the default OSC
   pname: modernx-zydezu
-  version: 0.4.3
+  version: 0.4.4
 legacyPackages.x86_64-linux.mpvScripts.modernz:
   description: Sleek and modern OSC for mpv designed to enhance functionality by adding more features, all while preserving the core standards of mpv's OSC
   pname: modernz
@@ -178565,7 +178569,7 @@ legacyPackages.x86_64-linux.nixci:
 legacyPackages.x86_64-linux.nixd:
   description: Feature-rich Nix language server interoperating with C++ nix
   pname: nixd
-  version: 2.8.0
+  version: 2.8.1
 legacyPackages.x86_64-linux.nixdoc:
   description: Generate documentation for Nix functions
   pname: nixdoc
@@ -178577,7 +178581,7 @@ legacyPackages.x86_64-linux.nixel:
 legacyPackages.x86_64-linux.nixf:
   description: Nix language frontend, parser & semantic analysis
   pname: nixf
-  version: 2.8.0
+  version: 2.8.1
 legacyPackages.x86_64-linux.nixf-diagnose:
   description: CLI wrapper for nixf-tidy with fancy diagnostic output
   pname: nixf-diagnose
@@ -178917,7 +178921,7 @@ legacyPackages.x86_64-linux.nixseparatedebuginfod2:
 legacyPackages.x86_64-linux.nixt:
   description: Supporting library that wraps C++ nix
   pname: nixt
-  version: 2.8.0
+  version: 2.8.1
 legacyPackages.x86_64-linux.nixtract:
   description: CLI tool to extract the graph of derivations from a Nix flake
   pname: nixtract
@@ -196873,7 +196877,7 @@ legacyPackages.x86_64-linux.perl538Packages.Filter:
 legacyPackages.x86_64-linux.perl538Packages.FinanceQuote:
   description: Get stock and mutual fund quotes from various exchanges
   pname: perl5.38.2-Finance-Quote
-  version: "1.67"
+  version: "1.68"
 legacyPackages.x86_64-linux.perl538Packages.FindLib:
   description: Helper to smartly find libs to use in the filesystem tree
   pname: perl5.38.2-Find-Lib
@@ -204677,7 +204681,7 @@ legacyPackages.x86_64-linux.perl540Packages.Filter:
 legacyPackages.x86_64-linux.perl540Packages.FinanceQuote:
   description: Get stock and mutual fund quotes from various exchanges
   pname: perl5.40.0-Finance-Quote
-  version: "1.67"
+  version: "1.68"
 legacyPackages.x86_64-linux.perl540Packages.FindLib:
   description: Helper to smartly find libs to use in the filesystem tree
   pname: perl5.40.0-Find-Lib
@@ -212477,7 +212481,7 @@ legacyPackages.x86_64-linux.perlPackages.Filter:
 legacyPackages.x86_64-linux.perlPackages.FinanceQuote:
   description: Get stock and mutual fund quotes from various exchanges
   pname: perl5.40.0-Finance-Quote
-  version: "1.67"
+  version: "1.68"
 legacyPackages.x86_64-linux.perlPackages.FindLib:
   description: Helper to smartly find libs to use in the filesystem tree
   pname: perl5.40.0-Find-Lib
@@ -230713,7 +230717,7 @@ legacyPackages.x86_64-linux.python312Packages.blebox-uniapi:
 legacyPackages.x86_64-linux.python312Packages.bless:
   description: Library for creating a BLE Generic Attribute Profile (GATT) server
   pname: python3.12-bless
-  version: 0.2.6
+  version: 0.3.0
 legacyPackages.x86_64-linux.python312Packages.blessed:
   description: Thin, practical wrapper around terminal capabilities in Python
   pname: python3.12-blessed
@@ -232850,6 +232854,10 @@ legacyPackages.x86_64-linux.python312Packages.cpe:
   description: Common platform enumeration for python
   pname: python3.12-cpe
   version: 1.3.1
+legacyPackages.x86_64-linux.python312Packages.cpe-search:
+  description: Search for Common Platform Enumeration (CPE) strings using software names and titles
+  pname: python3.12-cpe-search
+  version: 0.1.7
 legacyPackages.x86_64-linux.python312Packages.cppe:
   description: C++ and Python library for Polarizable Embedding
   pname: python3.12-cppe
@@ -238577,7 +238585,7 @@ legacyPackages.x86_64-linux.python312Packages.gnureadline:
 legacyPackages.x86_64-linux.python312Packages.go2rtc-client:
   description: Module for interacting with go2rtc
   pname: python3.12-go2rtc-client
-  version: 0.3.0
+  version: 0.4.0
 legacyPackages.x86_64-linux.python312Packages.goalzero:
   description: Goal Zero Yeti REST Api Library
   pname: python3.12-goalzero
@@ -253641,7 +253649,7 @@ legacyPackages.x86_64-linux.python312Packages.pynintendoauth:
 legacyPackages.x86_64-linux.python312Packages.pynintendoparental:
   description: Python module to interact with Nintendo Parental Controls
   pname: python3.12-pynintendoparental
-  version: 2.1.3
+  version: 2.3.0
 legacyPackages.x86_64-linux.python312Packages.pynipap:
   description: Python client library for Neat IP Address Planner
   pname: python3.12-pynipap
@@ -272013,7 +272021,7 @@ legacyPackages.x86_64-linux.python313Packages.blebox-uniapi:
 legacyPackages.x86_64-linux.python313Packages.bless:
   description: Library for creating a BLE Generic Attribute Profile (GATT) server
   pname: python3.13-bless
-  version: 0.2.6
+  version: 0.3.0
 legacyPackages.x86_64-linux.python313Packages.blessed:
   description: Thin, practical wrapper around terminal capabilities in Python
   pname: python3.13-blessed
@@ -274150,6 +274158,10 @@ legacyPackages.x86_64-linux.python313Packages.cpe:
   description: Common platform enumeration for python
   pname: python3.13-cpe
   version: 1.3.1
+legacyPackages.x86_64-linux.python313Packages.cpe-search:
+  description: Search for Common Platform Enumeration (CPE) strings using software names and titles
+  pname: python3.13-cpe-search
+  version: 0.1.7
 legacyPackages.x86_64-linux.python313Packages.cppe:
   description: C++ and Python library for Polarizable Embedding
   pname: python3.13-cppe
@@ -279877,7 +279889,7 @@ legacyPackages.x86_64-linux.python313Packages.gnureadline:
 legacyPackages.x86_64-linux.python313Packages.go2rtc-client:
   description: Module for interacting with go2rtc
   pname: python3.13-go2rtc-client
-  version: 0.3.0
+  version: 0.4.0
 legacyPackages.x86_64-linux.python313Packages.goalzero:
   description: Goal Zero Yeti REST Api Library
   pname: python3.13-goalzero
@@ -294945,7 +294957,7 @@ legacyPackages.x86_64-linux.python313Packages.pynintendoauth:
 legacyPackages.x86_64-linux.python313Packages.pynintendoparental:
   description: Python module to interact with Nintendo Parental Controls
   pname: python3.13-pynintendoparental
-  version: 2.1.3
+  version: 2.3.0
 legacyPackages.x86_64-linux.python313Packages.pynipap:
   description: Python client library for Neat IP Address Planner
   pname: python3.13-pynipap
@@ -321785,7 +321797,7 @@ legacyPackages.x86_64-linux.ruff:
 legacyPackages.x86_64-linux.ruffle:
   description: Cross platform Adobe Flash Player emulator
   pname: ruffle
-  version: 0.2.0-nightly-2025-12-19
+  version: 0.2.0-nightly-2025-12-26
 legacyPackages.x86_64-linux.rufo:
   description: Ruby formatter
   pname: rufo
@@ -321797,7 +321809,7 @@ legacyPackages.x86_64-linux.ruler:
 legacyPackages.x86_64-linux.rumdl:
   description: Markdown linter and formatter
   pname: rumdl
-  version: 0.0.195
+  version: 0.0.203
 legacyPackages.x86_64-linux.rumno:
   description: Visual pop-up notification manager
   pname: rumno
@@ -322517,7 +322529,7 @@ legacyPackages.x86_64-linux.salmon:
 legacyPackages.x86_64-linux.salt:
   description: Portable, distributed, remote execution and configuration management system
   pname: salt
-  version: "3007.9"
+  version: "3007.10"
 legacyPackages.x86_64-linux.salt-lint:
   description: Command-line utility that checks for best practices in SaltStack
   pname: salt-lint
@@ -342490,6 +342502,10 @@ legacyPackages.x86_64-linux.seamly2d:
   description: Open source patternmaking software
   pname: seamly2d
   version: 2025.8.4.217
+legacyPackages.x86_64-linux.search-vulns:
+  description: Search for known vulnerabilities in software using software titles or a CPE 2.3 string
+  pname: search-vulns
+  version: 0.8.4
 legacyPackages.x86_64-linux.searxng:
   description: Fork of Searx, a privacy-respecting, hackable metasearch engine
   pname: searxng
@@ -409013,7 +409029,7 @@ legacyPackages.x86_64-linux.vscode-extensions.sanaajani.taskrunnercode:
 legacyPackages.x86_64-linux.vscode-extensions.saoudrizwan.claude-dev:
   description: VSCode extension providing an autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way
   pname: vscode-extension-saoudrizwan-claude-dev
-  version: 3.42.0
+  version: 3.46.1
 legacyPackages.x86_64-linux.vscode-extensions.sas.sas-lsp:
   description: Official SAS Language Extension
   pname: vscode-extension-SAS-sas-lsp
