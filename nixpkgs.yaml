@@ -7833,7 +7833,7 @@ legacyPackages.x86_64-linux.arsenik:
 legacyPackages.x86_64-linux.art:
   description: Raw converter based on RawTherapee
   pname: art
-  version: 1.25.11
+  version: 1.25.12
 legacyPackages.x86_64-linux.art-standalone:
   description: Art and dependencies with modifications to make it work on Linux
   pname: art-standalone
@@ -12461,7 +12461,7 @@ legacyPackages.x86_64-linux.bit:
 legacyPackages.x86_64-linux.bit-logo:
   description: Terminal ANSI Logo Designer & Font Library
   pname: bit-logo
-  version: 0.1.0
+  version: 0.3.0
 legacyPackages.x86_64-linux.bitbake-language-server:
   description: Language server for bitbake
   pname: bitbake-language-server
@@ -14629,7 +14629,7 @@ legacyPackages.x86_64-linux.c2nim:
 legacyPackages.x86_64-linux.c2patool:
   description: Command line tool for working with C2PA manifests and media assets
   pname: c2patool
-  version: 0.26.7
+  version: 0.26.8
 legacyPackages.x86_64-linux.c3-lsp:
   description: Language Server for C3 Language
   pname: c3-lsp
@@ -14974,6 +14974,10 @@ legacyPackages.x86_64-linux.caneda:
   description: Open source EDA software focused on easy of use and portability
   pname: caneda
   version: 0.4.0
+legacyPackages.x86_64-linux.canfigger:
+  description: Lightweight library designed to parse configuration files
+  pname: canfigger
+  version: 0.3.0
 legacyPackages.x86_64-linux.cannelloni:
   description: SocketCAN over Ethernet tunnel
   pname: cannelloni
@@ -16653,7 +16657,7 @@ legacyPackages.x86_64-linux.cgminer:
 legacyPackages.x86_64-linux.cgns:
   description: CFD General Notation System standard library
   pname: cgns
-  version: 4.5.0
+  version: 4.5.1
 legacyPackages.x86_64-linux.cgoban:
   description: Client for the KGS Go Server
   pname: cgoban
@@ -23789,7 +23793,7 @@ legacyPackages.x86_64-linux.ctrtool:
 legacyPackages.x86_64-linux.ctune:
   description: Nice terminal nCurses (tui) internet radio player for Linux, browse and search from api.radio-browser.info
   pname: ctune
-  version: 1.3.4
+  version: 1.3.9
 legacyPackages.x86_64-linux.ctx:
   description: Vector graphics terminal
   pname: ctx-unstable
@@ -27513,7 +27517,7 @@ legacyPackages.x86_64-linux.dnslink-std-go:
 legacyPackages.x86_64-linux.dnslookup:
   description: Simple command line utility to make DNS lookups to the specified server
   pname: dnslookup
-  version: 1.11.1
+  version: 1.11.2
 legacyPackages.x86_64-linux.dnsmap:
   description: Scan for subdomains using brute-force techniques
   pname: dnsmap
@@ -34517,7 +34521,7 @@ legacyPackages.x86_64-linux.fishPlugins.foreign-env:
 legacyPackages.x86_64-linux.fishPlugins.forgit:
   description: Utility tool powered by fzf for using git interactively
   pname: fishplugin-forgit
-  version: 25.12.0
+  version: 26.01.0
 legacyPackages.x86_64-linux.fishPlugins.fzf:
   description: Ef-fish-ient fish keybindings for fzf
   pname: fishplugin-fzf
@@ -38341,7 +38345,7 @@ legacyPackages.x86_64-linux.ghalint:
 legacyPackages.x86_64-linux.ghatm:
   description: Set timeout-minutes to all GitHub Actions jobs
   pname: ghatm
-  version: 0.3.7
+  version: 1.0.0
 legacyPackages.x86_64-linux.ghauri:
   description: Tool for detecting and exploiting SQL injection security flaws
   pname: ghauri
@@ -38473,7 +38477,7 @@ legacyPackages.x86_64-linux.ghost-cli:
 legacyPackages.x86_64-linux.ghostfolio:
   description: Open Source Wealth Management Software
   pname: ghostfolio
-  version: 2.224.2
+  version: 2.225.0
 legacyPackages.x86_64-linux.ghostie:
   description: Github notifications in your terminal
   pname: ghostie
@@ -39425,7 +39429,7 @@ legacyPackages.x86_64-linux.github-commenter:
 legacyPackages.x86_64-linux.github-copilot-cli:
   description: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal
   pname: github-copilot-cli
-  version: 0.0.372
+  version: 0.0.373
 legacyPackages.x86_64-linux.github-copilot-intellij-agent:
   description: GitHub copilot IntelliJ plugin's native component
   pname: github-copilot-intellij-agent
@@ -46501,7 +46505,7 @@ legacyPackages.x86_64-linux.govee2mqtt:
 legacyPackages.x86_64-linux.goverlay:
   description: Opensource project that aims to create a Graphical UI to help manage Linux overlays
   pname: goverlay
-  version: 1.6.7
+  version: 1.6.8
 legacyPackages.x86_64-linux.govers:
   description: Tool for rewriting Go import paths
   pname: govers
@@ -46697,7 +46701,7 @@ legacyPackages.x86_64-linux.gpscorrelate:
 legacyPackages.x86_64-linux.gpsd:
   description: GPS service daemon
   pname: gpsd
-  version: 3.27.2
+  version: 3.27.3
 legacyPackages.x86_64-linux.gpsprune:
   description: Application for viewing, editing and converting GPS coordinate data
   pname: gpsprune
@@ -131953,11 +131957,11 @@ legacyPackages.x86_64-linux.hunspellDicts.sv_SE:
 legacyPackages.x86_64-linux.hunspellDicts.th-th:
   description: Hunspell dictionary for Central Thai (Thailand)
   pname: hunspell-dict-th-th
-  version: 0-unstable-2025-12-23
+  version: 0-unstable-2025-12-29
 legacyPackages.x86_64-linux.hunspellDicts.th_TH:
   description: Hunspell dictionary for Central Thai (Thailand)
   pname: hunspell-dict-th-th
-  version: 0-unstable-2025-12-23
+  version: 0-unstable-2025-12-29
 legacyPackages.x86_64-linux.hunspellDicts.tok:
   description: Hunspell dictionary for Toki Pona
   pname: hunspell-dict-tok
@@ -146681,7 +146685,7 @@ legacyPackages.x86_64-linux.libretro.fbalpha2012:
 legacyPackages.x86_64-linux.libretro.fbneo:
   description: Port of FBNeo to libretro
   pname: libretro-fbneo
-  version: 0-unstable-2025-12-25
+  version: 0-unstable-2025-12-29
 legacyPackages.x86_64-linux.libretro.fceumm:
   description: FCEUmm libretro port
   pname: libretro-fceumm
@@ -149206,6 +149210,10 @@ legacyPackages.x86_64-linux.licensure:
   description: FOSS License management tool for your projects
   pname: licensure
   version: 0.8.0
+legacyPackages.x86_64-linux.lichess-bot:
+  description: Bridge between lichess.org and bots
+  pname: lichess-bot
+  version: 2025.12.23.1
 legacyPackages.x86_64-linux.lidarr:
   description: Usenet/BitTorrent music downloader
   pname: lidarr
@@ -163457,15 +163465,15 @@ legacyPackages.x86_64-linux.lla:
 legacyPackages.x86_64-linux.llama-cpp:
   description: Inference of Meta's LLaMA model (and others) in pure C/C++
   pname: llama-cpp
-  version: "7527"
+  version: "7581"
 legacyPackages.x86_64-linux.llama-cpp-rocm:
   description: Inference of Meta's LLaMA model (and others) in pure C/C++
   pname: llama-cpp
-  version: "7527"
+  version: "7581"
 legacyPackages.x86_64-linux.llama-cpp-vulkan:
   description: Inference of Meta's LLaMA model (and others) in pure C/C++
   pname: llama-cpp
-  version: "7527"
+  version: "7581"
 legacyPackages.x86_64-linux.llama-swap:
   description: Model swapping for llama.cpp (or any local OpenAPI compatible server)
   pname: llama-swap
@@ -170057,7 +170065,7 @@ legacyPackages.x86_64-linux.lxgw-fusionkai:
 legacyPackages.x86_64-linux.lxgw-neoxihei:
   description: Simplified Chinese sans-serif font derived from IPAex Gothic
   pname: lxgw-neoxihei
-  version: "1.228"
+  version: "1.236"
 legacyPackages.x86_64-linux.lxgw-wenkai:
   description: Open-source Chinese font derived from Fontworks' Klee One
   pname: lxgw-wenkai
@@ -171009,7 +171017,7 @@ legacyPackages.x86_64-linux.manix:
 legacyPackages.x86_64-linux.manticoresearch:
   description: Easy to use open source fast database for search
   pname: manticoresearch
-  version: 6.2.12
+  version: 15.1.0
 legacyPackages.x86_64-linux.mantra:
   description: Tool used to hunt down API key leaks in JS files and pages
   pname: mantra
@@ -178129,31 +178137,31 @@ legacyPackages.x86_64-linux.netbeans:
 legacyPackages.x86_64-linux.netbird:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-client
-  version: 0.60.8
+  version: 0.61.0
 legacyPackages.x86_64-linux.netbird-dashboard:
   description: NetBird Management Service Web UI Panel
   pname: netbird-dashboard
-  version: 2.23.1
+  version: 2.25.0
 legacyPackages.x86_64-linux.netbird-management:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-management
-  version: 0.60.8
+  version: 0.61.0
 legacyPackages.x86_64-linux.netbird-relay:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-relay
-  version: 0.60.8
+  version: 0.61.0
 legacyPackages.x86_64-linux.netbird-signal:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-signal
-  version: 0.60.8
+  version: 0.61.0
 legacyPackages.x86_64-linux.netbird-ui:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-ui
-  version: 0.60.8
+  version: 0.61.0
 legacyPackages.x86_64-linux.netbird-upload:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-upload
-  version: 0.60.8
+  version: 0.61.0
 legacyPackages.x86_64-linux.netboot:
   description: Mini PXE server
   pname: netboot
@@ -180357,7 +180365,7 @@ legacyPackages.x86_64-linux.noaa-apt:
 legacyPackages.x86_64-linux.noctalia-shell:
   description: Sleek and minimal desktop shell thoughtfully crafted for Wayland, built with Quickshell
   pname: noctalia-shell
-  version: 3.7.5
+  version: 3.8.0
 legacyPackages.x86_64-linux.node-core-utils:
   description: CLI tools for Node.js Core collaborators
   pname: node-core-utils
@@ -183333,7 +183341,7 @@ legacyPackages.x86_64-linux.nurl:
 legacyPackages.x86_64-linux.nushell:
   description: Modern shell written in Rust
   pname: nushell
-  version: 0.108.0
+  version: 0.109.1
 legacyPackages.x86_64-linux.nushellPlugins.dbus:
   description: Nushell plugin for communicating with D-Bus
   pname: nu_plugin_dbus
@@ -183345,11 +183353,11 @@ legacyPackages.x86_64-linux.nushellPlugins.desktop_notifications:
 legacyPackages.x86_64-linux.nushellPlugins.formats:
   description: Formats plugin for Nushell
   pname: nu_plugin_formats
-  version: 0.108.0
+  version: 0.109.1
 legacyPackages.x86_64-linux.nushellPlugins.gstat:
   description: Git status plugin for Nushell
   pname: nu_plugin_gstat
-  version: 0.108.0
+  version: 0.109.1
 legacyPackages.x86_64-linux.nushellPlugins.hcl:
   description: Nushell plugin for parsing Hashicorp Configuration Language files
   pname: nu_plugin_hcl
@@ -183365,11 +183373,11 @@ legacyPackages.x86_64-linux.nushellPlugins.net:
 legacyPackages.x86_64-linux.nushellPlugins.polars:
   description: Nushell dataframe plugin commands based on polars
   pname: nu_plugin_polars
-  version: 0.108.0
+  version: 0.109.1
 legacyPackages.x86_64-linux.nushellPlugins.query:
   description: Nushell plugin to query JSON, XML, and various web data
   pname: nu_plugin_query
-  version: 0.108.0
+  version: 0.109.1
 legacyPackages.x86_64-linux.nushellPlugins.semver:
   description: Nushell plugin to work with semver versions
   pname: nu_plugin_semver
@@ -219033,7 +219041,7 @@ legacyPackages.x86_64-linux.protonup-qt:
 legacyPackages.x86_64-linux.protonup-rs:
   description: Rust app to install and update GE-Proton for Steam, and Wine-GE for Lutris
   pname: protonup-rs
-  version: 0.9.2
+  version: 0.9.3
 legacyPackages.x86_64-linux.protonvpn-gui:
   description: Proton VPN GTK app for Linux
   pname: protonvpn-gui
@@ -219621,7 +219629,7 @@ legacyPackages.x86_64-linux.purescript:
 legacyPackages.x86_64-linux.purpur:
   description: Drop-in replacement for Minecraft Paper servers
   pname: purpur
-  version: 1.21.3r2358
+  version: 1.21.10r2535
 legacyPackages.x86_64-linux.pushup:
   description: Web framework for Go
   pname: pushup
@@ -237209,7 +237217,7 @@ legacyPackages.x86_64-linux.python313Packages.marqo:
 legacyPackages.x86_64-linux.python313Packages.marshmallow:
   description: Library for converting complex objects to and from simple Python datatypes
   pname: python3.13-marshmallow
-  version: 4.1.0
+  version: 4.1.2
 legacyPackages.x86_64-linux.python313Packages.marshmallow-dataclass:
   description: Automatic generation of marshmallow schemas from dataclasses
   pname: python3.13-marshmallow-dataclass
@@ -246193,7 +246201,7 @@ legacyPackages.x86_64-linux.python313Packages.pylamarzocco:
 legacyPackages.x86_64-linux.python313Packages.pylance:
   description: Python wrapper for Lance columnar format
   pname: python3.13-pylance
-  version: 1.0.0
+  version: 1.0.1
 legacyPackages.x86_64-linux.python313Packages.pylast:
   description: Python interface to last.fm (and compatibles)
   pname: python3.13-pylast
@@ -259241,7 +259249,7 @@ legacyPackages.x86_64-linux.python313Packages.unstructured-client:
 legacyPackages.x86_64-linux.python313Packages.unstructured-inference:
   description: Hosted model inference code for layout parsing models
   pname: python3.13-unstructured-inference
-  version: 1.1.3
+  version: 1.1.4
 legacyPackages.x86_64-linux.python313Packages.untangle:
   description: Convert XML documents into Python objects
   pname: python3.13-untangle
@@ -278597,7 +278605,7 @@ legacyPackages.x86_64-linux.python314Packages.marqo:
 legacyPackages.x86_64-linux.python314Packages.marshmallow:
   description: Library for converting complex objects to and from simple Python datatypes
   pname: python3.14-marshmallow
-  version: 4.1.0
+  version: 4.1.2
 legacyPackages.x86_64-linux.python314Packages.marshmallow-dataclass:
   description: Automatic generation of marshmallow schemas from dataclasses
   pname: python3.14-marshmallow-dataclass
@@ -287581,7 +287589,7 @@ legacyPackages.x86_64-linux.python314Packages.pylamarzocco:
 legacyPackages.x86_64-linux.python314Packages.pylance:
   description: Python wrapper for Lance columnar format
   pname: python3.14-pylance
-  version: 1.0.0
+  version: 1.0.1
 legacyPackages.x86_64-linux.python314Packages.pylast:
   description: Python interface to last.fm (and compatibles)
   pname: python3.14-pylast
@@ -300629,7 +300637,7 @@ legacyPackages.x86_64-linux.python314Packages.unstructured-client:
 legacyPackages.x86_64-linux.python314Packages.unstructured-inference:
   description: Hosted model inference code for layout parsing models
   pname: python3.14-unstructured-inference
-  version: 1.1.3
+  version: 1.1.4
 legacyPackages.x86_64-linux.python314Packages.untangle:
   description: Convert XML documents into Python objects
   pname: python3.14-untangle
@@ -306897,7 +306905,7 @@ legacyPackages.x86_64-linux.rmview:
 legacyPackages.x86_64-linux.rmw:
   description: Trashcan/ recycle bin utility for the command line
   pname: rmw
-  version: 0.9.1
+  version: 0.9.4
 legacyPackages.x86_64-linux.rnd-name:
   description: Random strings that are easy to recognize
   pname: rnd-name
@@ -306945,7 +306953,7 @@ legacyPackages.x86_64-linux.rnv:
 legacyPackages.x86_64-linux.roadrunner:
   description: High-performance PHP application server, process manager written in Go and powered with plugins
   pname: roadrunner
-  version: 2025.1.5
+  version: 2025.1.6
 legacyPackages.x86_64-linux.roam-research:
   description: Note-taking tool for networked thought
   pname: roam-research
@@ -315021,7 +315029,7 @@ legacyPackages.x86_64-linux.ruff:
 legacyPackages.x86_64-linux.ruffle:
   description: Cross platform Adobe Flash Player emulator
   pname: ruffle
-  version: 0.2.0-nightly-2025-12-26
+  version: 0.2.0-nightly-2025-12-31
 legacyPackages.x86_64-linux.rufo:
   description: Ruby formatter
   pname: rufo
@@ -389721,7 +389729,7 @@ legacyPackages.x86_64-linux.usb-blaster-udev-rules:
 legacyPackages.x86_64-linux.usb-modeswitch:
   description: Mode switching tool for controlling 'multi-mode' USB devices
   pname: usb-modeswitch
-  version: 2.6.0
+  version: 2.6.2
 legacyPackages.x86_64-linux.usb-modeswitch-data:
   description: Device database and the rules file for 'multi-mode' USB devices
   pname: usb-modeswitch-data
@@ -411381,7 +411389,7 @@ legacyPackages.x86_64-linux.zvbi:
 legacyPackages.x86_64-linux.zvm:
   description: Tool to manage and use different Zig versions
   pname: zvm
-  version: 0.8.10
+  version: 0.8.11
 legacyPackages.x86_64-linux.zwave-js-server:
   description: Small server wrapper around Z-Wave JS to access it via a WebSocket
   pname: zwave-js-server
