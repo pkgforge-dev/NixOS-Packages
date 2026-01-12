@@ -13672,7 +13672,7 @@
   "legacyPackages.x86_64-linux.basalt": {
     "description": "TUI Application to manage Obsidian notes directly from the terminal",
     "pname": "basalt",
-    "version": "0.9.0"
+    "version": "0.11.0"
   },
   "legacyPackages.x86_64-linux.basalt-monado": {
     "description": "Fork of Basalt improved for tracking XR devices with Monado",
@@ -18902,7 +18902,7 @@
   "legacyPackages.x86_64-linux.carapace-bridge": {
     "description": "Multi-shell completion bridge for carapace",
     "pname": "carapace-bridge",
-    "version": "1.2.10"
+    "version": "1.4.10"
   },
   "legacyPackages.x86_64-linux.carbon-now-cli": {
     "description": "Beautiful images of your code — from right inside your terminal",
@@ -27057,7 +27057,7 @@
   "legacyPackages.x86_64-linux.complgen": {
     "description": "Generate {bash,fish,zsh} completions from a single EBNF-like grammar",
     "pname": "complgen",
-    "version": "0.6.0"
+    "version": "0.6.1"
   },
   "legacyPackages.x86_64-linux.compose2nix": {
     "description": "Generate a NixOS config from a Docker Compose project",
@@ -28552,7 +28552,7 @@
   "legacyPackages.x86_64-linux.coturn": {
     "description": "TURN server",
     "pname": "coturn",
-    "version": "4.7.0"
+    "version": "4.8.0"
   },
   "legacyPackages.x86_64-linux.couchbase-shell": {
     "description": "Shell for Couchbase Server and Cloud",
@@ -32442,7 +32442,7 @@
   "legacyPackages.x86_64-linux.debian-devscripts": {
     "description": "Debian package maintenance scripts",
     "pname": "debian-devscripts",
-    "version": "2.26.1"
+    "version": "2.26.3"
   },
   "legacyPackages.x86_64-linux.debian-goodies": {
     "description": "Small toolbox-style utilities for Debian systems",
@@ -33737,7 +33737,7 @@
   "legacyPackages.x86_64-linux.direwolf-unstable": {
     "description": "Soundcard Packet TNC, APRS Digipeater, IGate, APRStt gateway",
     "pname": "direwolf",
-    "version": "1.8.1-unstable-2026-01-03"
+    "version": "1.8.1-unstable-2026-01-08"
   },
   "legacyPackages.x86_64-linux.dirstalk": {
     "description": "Tool to brute force paths on web servers",
@@ -38192,7 +38192,7 @@
   "legacyPackages.x86_64-linux.eid-mw": {
     "description": "Belgian electronic identity card (eID) middleware",
     "pname": "eid-mw",
-    "version": "5.1.26"
+    "version": "5.1.28"
   },
   "legacyPackages.x86_64-linux.eigen": {
     "description": "C++ template library for linear algebra: vectors, matrices, and related algorithms",
@@ -40192,7 +40192,7 @@
   "legacyPackages.x86_64-linux.evcc": {
     "description": "EV Charge Controller",
     "pname": "evcc",
-    "version": "0.211.1"
+    "version": "0.300.3"
   },
   "legacyPackages.x86_64-linux.evcxr": {
     "description": "Evaluation context for Rust",
@@ -44184,6 +44184,11 @@
     "pname": "fm-tune",
     "version": "1.1"
   },
+  "legacyPackages.x86_64-linux.fmd-server": {
+    "description": "Server to communicate with the FindMyDevice app and save the latest (encrypted) location",
+    "pname": "fmd-server",
+    "version": "0.13.0"
+  },
   "legacyPackages.x86_64-linux.fmi-reference-fmus": {
     "description": "Functional Mock-up Units for development, testing and debugging",
     "pname": "reference-fmus",
@@ -44737,7 +44742,7 @@
   "legacyPackages.x86_64-linux.forgejo-runner": {
     "description": "Runner for Forgejo based on act",
     "pname": "forgejo-runner",
-    "version": "12.4.0"
+    "version": "12.5.0"
   },
   "legacyPackages.x86_64-linux.fork-cleaner": {
     "description": "Quickly clean up unused forks on your GitHub account",
@@ -47157,7 +47162,7 @@
   "legacyPackages.x86_64-linux.gdscript-formatter": {
     "description": "Fast code formatter for GDScript and Godot 4",
     "pname": "gdscript-formatter",
-    "version": "0.18.1"
+    "version": "0.18.2"
   },
   "legacyPackages.x86_64-linux.gdtoolkit_3": {
     "description": "Independent set of tools for working with Godot's GDScript - parser, linter and formatter",
@@ -165642,7 +165647,7 @@
   "legacyPackages.x86_64-linux.hyprlandPlugins.hypr-darkwindow": {
     "description": "Hyprland Plugin to invert Colors of specific Windows!",
     "pname": "hypr-darkwindow",
-    "version": "0.52.2"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.hyprlandPlugins.hypr-dynamic-cursors": {
     "description": "Plugin to make your Hyprland cursor more realistic",
@@ -165682,7 +165687,7 @@
   "legacyPackages.x86_64-linux.hyprlandPlugins.hyprsplit": {
     "description": "Hyprland plugin for awesome / dwm like workspaces",
     "pname": "hyprsplit",
-    "version": "0.52.2"
+    "version": "0.53.1"
   },
   "legacyPackages.x86_64-linux.hyprlandPlugins.hyprtrails": {
     "description": "Hyprland smooth trails behind moving windows plugin",
@@ -168542,7 +168547,7 @@
   "legacyPackages.x86_64-linux.intelli-shell": {
     "description": "Like IntelliSense, but for shells",
     "pname": "intelli-shell",
-    "version": "3.3.1"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.intelmetool": {
     "description": "Dump interesting things about Management Engine",
@@ -169162,7 +169167,7 @@
   "legacyPackages.x86_64-linux.ipxe": {
     "description": "Network boot firmware",
     "pname": "ipxe",
-    "version": "1.21.1-unstable-2025-12-29"
+    "version": "1.21.1-unstable-2026-01-10"
   },
   "legacyPackages.x86_64-linux.iqtree": {
     "description": "Efficient and versatile phylogenomic software by maximum likelihood",
@@ -170862,7 +170867,7 @@
   "legacyPackages.x86_64-linux.jjui": {
     "description": "TUI for Jujutsu VCS",
     "pname": "jjui",
-    "version": "0.9.8"
+    "version": "0.9.9"
   },
   "legacyPackages.x86_64-linux.jkqtplotter": {
     "description": "Qt plotting framework",
@@ -171982,7 +171987,7 @@
   "legacyPackages.x86_64-linux.kaidan": {
     "description": "User-friendly and modern chat app, using XMPP",
     "pname": "kaidan",
-    "version": "0.13.0-unstable-2025-12-25"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.kail": {
     "description": "Kubernetes log viewer",
@@ -173037,7 +173042,7 @@
   "legacyPackages.x86_64-linux.kdePackages.drumstick": {
     "description": "MIDI libraries for Qt/C++",
     "pname": "drumstick",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.kdePackages.dynamic-workspaces": {
     "description": "KWin script that automatically adds/removes virtual desktops",
@@ -183182,7 +183187,7 @@
   "legacyPackages.x86_64-linux.librecad": {
     "description": "2D CAD package based on Qt",
     "pname": "librecad",
-    "version": "2.2.1.2"
+    "version": "2.2.1.3"
   },
   "legacyPackages.x86_64-linux.librecast": {
     "description": "IPv6 multicast library",
@@ -184077,7 +184082,7 @@
   "legacyPackages.x86_64-linux.libsForQt5.drumstick": {
     "description": "MIDI libraries for Qt/C++",
     "pname": "drumstick",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.libsForQt5.dxflib": {
     "description": "DXF file format library",
@@ -188267,7 +188272,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -189082,7 +189087,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -189892,7 +189897,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -190707,7 +190712,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -191522,7 +191527,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -192337,7 +192342,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -193147,7 +193152,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -193962,7 +193967,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -194777,7 +194782,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -195592,7 +195597,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -196407,7 +196412,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -197222,7 +197227,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -198037,7 +198042,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -198852,7 +198857,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -199672,7 +199677,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -200487,7 +200492,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -201302,7 +201307,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -202117,7 +202122,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -202932,7 +202937,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -203747,7 +203752,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.xpadneo": {
     "description": "Advanced Linux driver for Xbox One wireless controllers",
     "pname": "xpadneo",
-    "version": "0.9.7"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.yt6801": {
     "description": "YT6801 Gigabit PCIe Ethernet controller chip",
@@ -204567,17 +204572,17 @@
   "legacyPackages.x86_64-linux.llama-cpp": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "7628"
+    "version": "7704"
   },
   "legacyPackages.x86_64-linux.llama-cpp-rocm": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "7628"
+    "version": "7704"
   },
   "legacyPackages.x86_64-linux.llama-cpp-vulkan": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "7628"
+    "version": "7704"
   },
   "legacyPackages.x86_64-linux.llama-swap": {
     "description": "Model swapping for llama.cpp (or any local OpenAPI compatible server)",
@@ -212407,7 +212412,7 @@
   "legacyPackages.x86_64-linux.luajit_openresty": {
     "description": "High-performance JIT compiler for Lua 5.1",
     "pname": "luajit",
-    "version": "2.1-20250826"
+    "version": "2.1-20251030"
   },
   "legacyPackages.x86_64-linux.luakit": {
     "description": "Fast, small, webkit-based browser framework extensible in Lua",
@@ -215462,7 +215467,7 @@
   "legacyPackages.x86_64-linux.mcdreforged": {
     "description": "Rewritten version of MCDaemon, a python tool to control your Minecraft server",
     "pname": "mcdreforged",
-    "version": "2.15.5"
+    "version": "2.15.6"
   },
   "legacyPackages.x86_64-linux.mceinject": {
     "description": "Tool to inject machine checks into x86 kernel for testing",
@@ -215907,7 +215912,7 @@
   "legacyPackages.x86_64-linux.mealie": {
     "description": "Self hosted recipe manager and meal planner",
     "pname": "mealie",
-    "version": "3.5.0"
+    "version": "3.9.2"
   },
   "legacyPackages.x86_64-linux.measureme": {
     "description": "Support crate for rustc's self-profiling feature",
@@ -218447,7 +218452,7 @@
   "legacyPackages.x86_64-linux.mmlgui": {
     "description": "MML (Music Macro Language) editor and compiler GUI, powered by the ctrmml framework",
     "pname": "mmlgui",
-    "version": "210420-preview-unstable-2024-04-15"
+    "version": "210420-preview-unstable-2026-01-09"
   },
   "legacyPackages.x86_64-linux.mmsd-tng": {
     "description": "Multimedia Messaging Service Daemon - The Next Generation",
@@ -220048,6 +220053,11 @@
     "description": "Crop the current video in a visual manner",
     "pname": "crop",
     "version": "0-unstable-2025-11-01"
+  },
+  "legacyPackages.x86_64-linux.mpvScripts.cut": {
+    "description": "An mpv plugin for cutting videos incredibly quickly",
+    "pname": "mpv-cut",
+    "version": "2.2.0-unstable-2023-11-21"
   },
   "legacyPackages.x86_64-linux.mpvScripts.cutter": {
     "description": "Cut videos and concat them automatically",
@@ -225687,7 +225697,7 @@
   "legacyPackages.x86_64-linux.noctalia-shell": {
     "description": "Sleek and minimal desktop shell thoughtfully crafted for Wayland, built with Quickshell",
     "pname": "noctalia-shell",
-    "version": "3.8.2"
+    "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.node-core-utils": {
     "description": "CLI tools for Node.js Core collaborators",
@@ -225837,12 +225847,12 @@
   "legacyPackages.x86_64-linux.nodePackages.@volar/vue-language-server": {
     "description": "Official Vue.js language server",
     "pname": "vue-language-server",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.nodePackages.@vue/language-server": {
     "description": "Official Vue.js language server",
     "pname": "vue-language-server",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.nodePackages.@webassemblyjs/cli-1.11.1": {
     "description": "Toolbox for WebAssembly",
@@ -227052,12 +227062,12 @@
   "legacyPackages.x86_64-linux.nodePackages_latest.@volar/vue-language-server": {
     "description": "Official Vue.js language server",
     "pname": "vue-language-server",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.@vue/language-server": {
     "description": "Official Vue.js language server",
     "pname": "vue-language-server",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.@webassemblyjs/cli-1.11.1": {
     "description": "Toolbox for WebAssembly",
@@ -237702,7 +237712,7 @@
   "legacyPackages.x86_64-linux.odhcp6c": {
     "description": "Embedded DHCPv6-client for OpenWrt",
     "pname": "odhcp6c",
-    "version": "0-unstable-2025-10-21"
+    "version": "0-unstable-2025-12-29"
   },
   "legacyPackages.x86_64-linux.odiff": {
     "description": "SIMD-first image comparison library",
@@ -237732,12 +237742,17 @@
   "legacyPackages.x86_64-linux.odoo": {
     "description": "Open Source ERP and CRM",
     "pname": "odoo",
-    "version": "18.0.20250506"
+    "version": "19.0.20260104"
   },
   "legacyPackages.x86_64-linux.odoo17": {
     "description": "Open Source ERP and CRM",
     "pname": "odoo",
     "version": "17.0.20250506"
+  },
+  "legacyPackages.x86_64-linux.odoo18": {
+    "description": "Open Source ERP and CRM",
+    "pname": "odoo",
+    "version": "18.0.20250506"
   },
   "legacyPackages.x86_64-linux.odp-dpdk": {
     "description": "Open Data Plane optimized for DPDK",
@@ -267762,7 +267777,7 @@
   "legacyPackages.x86_64-linux.plasma5Packages.drumstick": {
     "description": "MIDI libraries for Qt/C++",
     "pname": "drumstick",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.plasma5Packages.dxflib": {
     "description": "DXF file format library",
@@ -269962,7 +269977,7 @@
   "legacyPackages.x86_64-linux.portfolio": {
     "description": "Simple tool to calculate the overall performance of an investment portfolio",
     "pname": "PortfolioPerformance",
-    "version": "0.81.0"
+    "version": "0.81.1"
   },
   "legacyPackages.x86_64-linux.portfolio-filemanager": {
     "description": "Minimalist file manager for those who want to use Linux mobile devices",
@@ -274292,7 +274307,7 @@
   "legacyPackages.x86_64-linux.psitransfer": {
     "description": "Simple open source self-hosted file sharing solution",
     "pname": "psitransfer",
-    "version": "2.3.1"
+    "version": "2.3.2"
   },
   "legacyPackages.x86_64-linux.pslib": {
     "description": "C-library for generating multi page PostScript documents",
@@ -283322,7 +283337,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dashscope": {
     "description": "Python SDK for dashscope",
     "pname": "python3.13-dashscope",
-    "version": "1.25.5"
+    "version": "1.25.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.dask": {
     "description": "Minimal task scheduling abstraction",
@@ -284307,7 +284322,7 @@
   "legacyPackages.x86_64-linux.python313Packages.disposable-email-domains": {
     "description": "Set of disposable email domains",
     "pname": "python3.13-disposable-email-domains",
-    "version": "0.0.153"
+    "version": "0.0.155"
   },
   "legacyPackages.x86_64-linux.python313Packages.dissect": {
     "description": "Dissect meta module",
@@ -292017,7 +292032,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.13-iamdata",
-    "version": "0.1.202601091"
+    "version": "0.1.202601111"
   },
   "legacyPackages.x86_64-linux.python313Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -292492,7 +292507,7 @@
   "legacyPackages.x86_64-linux.python313Packages.inform": {
     "description": "Print and logging utilities",
     "pname": "python3.13-inform",
-    "version": "1.35"
+    "version": "1.36"
   },
   "legacyPackages.x86_64-linux.python313Packages.ingredient-parser-nlp": {
     "description": "Parse structured information from recipe ingredient sentences",
@@ -294537,12 +294552,12 @@
   "legacyPackages.x86_64-linux.python313Packages.lance-namespace": {
     "description": "Open specification on top of the storage-based Lance table and file format to standardize access to a collection of Lance tables",
     "pname": "python3.13-lance-namespace",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.lance-namespace-urllib3-client": {
     "description": "Lance namespace OpenAPI specification",
     "pname": "python3.13-lance-namespace",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.lancedb": {
     "description": "Developer-friendly, serverless vector database for AI applications",
@@ -294657,7 +294672,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-xai": {
     "description": "Build LangChain applications with X AI",
     "pname": "python3.13-langchain-xai",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -296947,7 +296962,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mcdreforged": {
     "description": "Rewritten version of MCDaemon, a python tool to control your Minecraft server",
     "pname": "python3.13-mcdreforged",
-    "version": "2.15.5"
+    "version": "2.15.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.mcp": {
     "description": "Official Python SDK for Model Context Protocol servers and clients",
@@ -297937,7 +297952,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mlx-lm": {
     "description": "Run LLMs with MLX",
     "pname": "python3.13-mlx-lm",
-    "version": "0.26.3"
+    "version": "0.30.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.mlx-vlm": {
     "description": "Inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX",
@@ -309987,7 +310002,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysigma": {
     "description": "Library to parse and convert Sigma rules into queries",
     "pname": "python3.13-pysigma",
-    "version": "1.0.2"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysigma-backend-elasticsearch": {
     "description": "Library to support Elasticsearch for pySigma",
@@ -316862,7 +316877,7 @@
   "legacyPackages.x86_64-linux.python313Packages.smolagents": {
     "description": "Barebones library for agents",
     "pname": "python3.13-smolagents",
-    "version": "1.21.3"
+    "version": "1.23.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.smp": {
     "description": "Simple Management Protocol (SMP) for remotely managing MCU firmware",
@@ -325372,7 +325387,7 @@
   "legacyPackages.x86_64-linux.python313Packages.waterfurnace": {
     "description": "Python interface to waterfurnace geothermal systems",
     "pname": "python3.13-waterfurnace",
-    "version": "1.3.1"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.watergate-local-api": {
     "description": "Python package to interact with the Watergate Local API",
@@ -326237,7 +326252,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xmlschema": {
     "description": "XML Schema validator and data conversion library for Python",
     "pname": "python3.13-xmlschema",
-    "version": "4.2.0"
+    "version": "4.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.xmlsec": {
     "description": "Python bindings for the XML Security Library",
@@ -335167,7 +335182,7 @@
   "legacyPackages.x86_64-linux.python314Packages.dashscope": {
     "description": "Python SDK for dashscope",
     "pname": "python3.14-dashscope",
-    "version": "1.25.5"
+    "version": "1.25.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.dask": {
     "description": "Minimal task scheduling abstraction",
@@ -336152,7 +336167,7 @@
   "legacyPackages.x86_64-linux.python314Packages.disposable-email-domains": {
     "description": "Set of disposable email domains",
     "pname": "python3.14-disposable-email-domains",
-    "version": "0.0.153"
+    "version": "0.0.155"
   },
   "legacyPackages.x86_64-linux.python314Packages.dissect": {
     "description": "Dissect meta module",
@@ -343862,7 +343877,7 @@
   "legacyPackages.x86_64-linux.python314Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.14-iamdata",
-    "version": "0.1.202601091"
+    "version": "0.1.202601111"
   },
   "legacyPackages.x86_64-linux.python314Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -344337,7 +344352,7 @@
   "legacyPackages.x86_64-linux.python314Packages.inform": {
     "description": "Print and logging utilities",
     "pname": "python3.14-inform",
-    "version": "1.35"
+    "version": "1.36"
   },
   "legacyPackages.x86_64-linux.python314Packages.ingredient-parser-nlp": {
     "description": "Parse structured information from recipe ingredient sentences",
@@ -346382,12 +346397,12 @@
   "legacyPackages.x86_64-linux.python314Packages.lance-namespace": {
     "description": "Open specification on top of the storage-based Lance table and file format to standardize access to a collection of Lance tables",
     "pname": "python3.14-lance-namespace",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.python314Packages.lance-namespace-urllib3-client": {
     "description": "Lance namespace OpenAPI specification",
     "pname": "python3.14-lance-namespace",
-    "version": "0.4.4"
+    "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.python314Packages.lancedb": {
     "description": "Developer-friendly, serverless vector database for AI applications",
@@ -346502,7 +346517,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-xai": {
     "description": "Build LangChain applications with X AI",
     "pname": "python3.14-langchain-xai",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -348792,7 +348807,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mcdreforged": {
     "description": "Rewritten version of MCDaemon, a python tool to control your Minecraft server",
     "pname": "python3.14-mcdreforged",
-    "version": "2.15.5"
+    "version": "2.15.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.mcp": {
     "description": "Official Python SDK for Model Context Protocol servers and clients",
@@ -349782,7 +349797,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mlx-lm": {
     "description": "Run LLMs with MLX",
     "pname": "python3.14-mlx-lm",
-    "version": "0.26.3"
+    "version": "0.30.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.mlx-vlm": {
     "description": "Inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX",
@@ -361832,7 +361847,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pysigma": {
     "description": "Library to parse and convert Sigma rules into queries",
     "pname": "python3.14-pysigma",
-    "version": "1.0.2"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysigma-backend-elasticsearch": {
     "description": "Library to support Elasticsearch for pySigma",
@@ -368707,7 +368722,7 @@
   "legacyPackages.x86_64-linux.python314Packages.smolagents": {
     "description": "Barebones library for agents",
     "pname": "python3.14-smolagents",
-    "version": "1.21.3"
+    "version": "1.23.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.smp": {
     "description": "Simple Management Protocol (SMP) for remotely managing MCU firmware",
@@ -377217,7 +377232,7 @@
   "legacyPackages.x86_64-linux.python314Packages.waterfurnace": {
     "description": "Python interface to waterfurnace geothermal systems",
     "pname": "python3.14-waterfurnace",
-    "version": "1.3.1"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.watergate-local-api": {
     "description": "Python package to interact with the Watergate Local API",
@@ -378082,7 +378097,7 @@
   "legacyPackages.x86_64-linux.python314Packages.xmlschema": {
     "description": "XML Schema validator and data conversion library for Python",
     "pname": "python3.14-xmlschema",
-    "version": "4.2.0"
+    "version": "4.3.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.xmlsec": {
     "description": "Python bindings for the XML Security Library",
@@ -380202,7 +380217,7 @@
   "legacyPackages.x86_64-linux.qt6Packages.drumstick": {
     "description": "MIDI libraries for Qt/C++",
     "pname": "drumstick",
-    "version": "2.10.0"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.qt6Packages.fcitx5-chinese-addons": {
     "description": "Addons related to Chinese, including IME previous bundled inside fcitx4",
@@ -382147,7 +382162,7 @@
   "legacyPackages.x86_64-linux.readest": {
     "description": "Modern, feature-rich ebook reader",
     "pname": "readest",
-    "version": "0.9.96"
+    "version": "0.9.97"
   },
   "legacyPackages.x86_64-linux.readexe": {
     "description": "Reads out structural information on Microsoft .exe formats",
@@ -382632,17 +382647,17 @@
   "legacyPackages.x86_64-linux.regbot": {
     "description": "Docker and OCI Registry Client in Go and tooling using those libraries",
     "pname": "regclient",
-    "version": "0.9.2"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.regclient": {
     "description": "Docker and OCI Registry Client in Go and tooling using those libraries",
     "pname": "regclient",
-    "version": "0.9.2"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.regctl": {
     "description": "Docker and OCI Registry Client in Go and tooling using those libraries",
     "pname": "regclient",
-    "version": "0.9.2"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.regenkfs": {
     "description": "Reimplementation of genkfs in Rust",
@@ -382727,7 +382742,7 @@
   "legacyPackages.x86_64-linux.regsync": {
     "description": "Docker and OCI Registry Client in Go and tooling using those libraries",
     "pname": "regclient",
-    "version": "0.9.2"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.rehex": {
     "description": "Reverse Engineers' Hex Editor",
@@ -383452,7 +383467,7 @@
   "legacyPackages.x86_64-linux.rgp": {
     "description": "Tool from AMD that allows for deep inspection of GPU workloads",
     "pname": "rgp",
-    "version": "2.6"
+    "version": "2.6.1"
   },
   "legacyPackages.x86_64-linux.rgrc": {
     "description": "Rusty Generic Colouriser - just like grc but fast",
@@ -384242,7 +384257,7 @@
   "legacyPackages.x86_64-linux.rocketchat-desktop": {
     "description": "Official Desktop client for Rocket.Chat",
     "pname": "rocketchat-desktop",
-    "version": "4.10.0"
+    "version": "4.11.1"
   },
   "legacyPackages.x86_64-linux.rocksdb": {
     "description": "Library that provides an embeddable, persistent key-value store for fast storage",
@@ -419422,7 +419437,7 @@
   "legacyPackages.x86_64-linux.scarab": {
     "description": "Hollow Knight mod installer and manager",
     "pname": "scarab",
-    "version": "2.6.0.0"
+    "version": "2.7.0.0"
   },
   "legacyPackages.x86_64-linux.scarlett2": {
     "description": "Firmware Management Utility for Scarlett 2nd, 3rd, and 4th Gen, Clarett USB, and Clarett+ interfaces",
@@ -419972,7 +419987,7 @@
   "legacyPackages.x86_64-linux.sdbus-cpp_2": {
     "description": "High-level C++ D-Bus library designed to provide easy-to-use yet powerful API",
     "pname": "sdbus-cpp",
-    "version": "2.1.0"
+    "version": "2.2.1"
   },
   "legacyPackages.x86_64-linux.sdcc": {
     "description": "Small Device C Compiler",
@@ -421642,7 +421657,7 @@
   "legacyPackages.x86_64-linux.sigma-cli": {
     "description": "Sigma command line interface",
     "pname": "sigma-cli",
-    "version": "2.0.0"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.signal-backup-deduplicator": {
     "description": "Generate chunked backups for Signal messages",
@@ -422492,7 +422507,7 @@
   "legacyPackages.x86_64-linux.skyscraper": {
     "description": "Powerful and versatile game data scraper written in Qt and C++",
     "pname": "skyscraper",
-    "version": "3.17.5"
+    "version": "3.18.0"
   },
   "legacyPackages.x86_64-linux.skytemple": {
     "description": "ROM hacking tool for Pokémon Mystery Dungeon Explorers of Sky",
@@ -423002,7 +423017,7 @@
   "legacyPackages.x86_64-linux.smlpkg": {
     "description": "Generic package manager for Standard ML libraries and programs",
     "pname": "smlpkg",
-    "version": "0.1.6"
+    "version": "0.1.7"
   },
   "legacyPackages.x86_64-linux.smoked-salmon": {
     "description": "Toolkit for checking, editing and uploading music to Gazelle-based trackers",
@@ -423862,7 +423877,7 @@
   "legacyPackages.x86_64-linux.sonivox": {
     "description": "MIDI synthesizer library",
     "pname": "sonivox",
-    "version": "3.6.16"
+    "version": "4.0.0"
   },
   "legacyPackages.x86_64-linux.sonixd": {
     "description": "Full-featured Subsonic/Jellyfin compatible desktop music player",
@@ -427272,12 +427287,12 @@
   "legacyPackages.x86_64-linux.supersonic": {
     "description": "Lightweight cross-platform desktop client for Subsonic music servers",
     "pname": "supersonic",
-    "version": "0.19.0"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.supersonic-wayland": {
     "description": "Lightweight cross-platform desktop client for Subsonic music servers",
     "pname": "supersonic-wayland",
-    "version": "0.19.0"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.supervise": {
     "description": "Minimal unprivileged process supervisor making use of modern Linux features",
@@ -427630,7 +427645,7 @@
     "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.sway-audio-idle-inhibit": {
-    "description": "Prevents swayidle from sleeping while any application is outputting or receiving audio",
+    "description": "Prevent swayidle/hypridle from sleeping",
     "pname": "sway-audio-idle-inhibit",
     "version": "0.2.0"
   },
@@ -429032,7 +429047,7 @@
   "legacyPackages.x86_64-linux.tango-database": {
     "description": "Tango distributed control system - database server",
     "pname": "tango-database",
-    "version": "5.25"
+    "version": "5.28"
   },
   "legacyPackages.x86_64-linux.tango-icon-theme": {
     "description": "Basic set of icons",
@@ -430577,7 +430592,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.bpg_proxmox": {
     "description": "",
     "pname": "terraform-provider-proxmox",
-    "version": "0.91.0"
+    "version": "0.92.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.brightbox": {
     "description": "",
@@ -431682,12 +431697,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.scaleway": {
     "description": "",
     "pname": "terraform-provider-scaleway",
-    "version": "2.65.1"
+    "version": "2.66.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.scaleway_scaleway": {
     "description": "",
     "pname": "terraform-provider-scaleway",
-    "version": "2.65.1"
+    "version": "2.66.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.scottwinkler_shell": {
     "description": "",
@@ -435117,6 +435132,11 @@
   "legacyPackages.x86_64-linux.tests.ld-library-path": {
     "description": "",
     "pname": "test-LD_LIBRARY_PATH",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.tests.lib-tests": {
+    "description": "",
+    "pname": "nixpkgs-lib-tests",
     "version": ""
   },
   "legacyPackages.x86_64-linux.tests.makeBinaryWrapper": {
@@ -461892,7 +461912,7 @@
   "legacyPackages.x86_64-linux.tintin": {
     "description": "Free MUD client for macOS, Linux and Windows",
     "pname": "tintin",
-    "version": "2.02.51"
+    "version": "2.02.60"
   },
   "legacyPackages.x86_64-linux.tinty": {
     "description": "Base16 and base24 color scheme manager",
@@ -485387,7 +485407,7 @@
   "legacyPackages.x86_64-linux.typstyle": {
     "description": "Format your typst source code",
     "pname": "typstyle",
-    "version": "0.14.1"
+    "version": "0.14.4"
   },
   "legacyPackages.x86_64-linux.typtea": {
     "description": "Terminal-based typing speed test with multi-language support",
@@ -485957,12 +485977,12 @@
   "legacyPackages.x86_64-linux.uclibc": {
     "description": "Embedded C library",
     "pname": "uclibc-ng",
-    "version": "1.0.55"
+    "version": "1.0.56"
   },
   "legacyPackages.x86_64-linux.uclibc-ng": {
     "description": "Embedded C library",
     "pname": "uclibc-ng",
-    "version": "1.0.55"
+    "version": "1.0.56"
   },
   "legacyPackages.x86_64-linux.uclient": {
     "description": "Tiny OpenWrt fork of libnl",
@@ -492703,6 +492723,11 @@
     "description": "",
     "pname": "vimplugin-julia-vim",
     "version": "1.0-unstable-2025-11-24"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.jupyter-api-nvim": {
+    "description": "Library for interacting with Jupyter kernels from Neovim Lua",
+    "pname": "vimplugin-jupyter-api.nvim",
+    "version": "0-unstable-2026-01-10"
   },
   "legacyPackages.x86_64-linux.vimPlugins.jupytext-nvim": {
     "description": "",
@@ -504387,7 +504412,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.james-yu.latex-workshop": {
     "description": "LaTeX Workshop Extension",
     "pname": "vscode-extension-James-Yu-latex-workshop",
-    "version": "10.12.0"
+    "version": "10.12.2"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.jamesyang999.vscode-emacs-minimum": {
     "description": "Minimal emacs key bindings for VSCode",
@@ -506002,7 +506027,7 @@
   "legacyPackages.x86_64-linux.vue-language-server": {
     "description": "Official Vue.js language server",
     "pname": "vue-language-server",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.vuetorrent": {
     "description": "Full-featured BitTorrent client written in Vue",
@@ -513257,7 +513282,7 @@
   "legacyPackages.x86_64-linux.xpipe": {
     "description": "Cross-platform shell connection hub and remote file manager",
     "pname": "xpipe",
-    "version": "20.2"
+    "version": "20.3"
   },
   "legacyPackages.x86_64-linux.xplanet": {
     "description": "Renders an image of the earth or other planets into the X root window",
@@ -515667,7 +515692,7 @@
   "legacyPackages.x86_64-linux.zerofs": {
     "description": "Filesystem That Makes S3 your Primary Storage.",
     "pname": "zerofs",
-    "version": "0.22.11"
+    "version": "0.23.3"
   },
   "legacyPackages.x86_64-linux.zeromq": {
     "description": "Intelligent Transport Layer",
