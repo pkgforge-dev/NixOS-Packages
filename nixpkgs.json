@@ -4621,8 +4621,8 @@
   },
   "legacyPackages.x86_64-linux.android-studio": {
     "description": "Official IDE for Android (stable channel)",
-    "pname": "android-studio-stable",
-    "version": "2025.2.2.8"
+    "pname": "android-studio",
+    "version": "2025.2.3.9"
   },
   "legacyPackages.x86_64-linux.android-studio-for-platform": {
     "description": "Official IDE for Android platform development",
@@ -4631,13 +4631,13 @@
   },
   "legacyPackages.x86_64-linux.android-studio-full": {
     "description": "Official IDE for Android (stable channel)",
-    "pname": "android-studio-stable",
-    "version": "2025.2.2.8"
+    "pname": "android-studio",
+    "version": "2025.2.3.9"
   },
   "legacyPackages.x86_64-linux.android-studio-tools": {
     "description": "Android Studio CLI Tools",
     "pname": "android-studio-tools",
-    "version": "13114758"
+    "version": "14742923"
   },
   "legacyPackages.x86_64-linux.android-tools": {
     "description": "Android SDK platform tools",
@@ -4647,7 +4647,7 @@
   "legacyPackages.x86_64-linux.android-translation-layer": {
     "description": "Translation layer that allows running Android apps on a Linux system",
     "pname": "android-translation-layer",
-    "version": "0-unstable-2025-09-14"
+    "version": "0-unstable-2026-01-08"
   },
   "legacyPackages.x86_64-linux.androidStudioForPlatformPackages.canary": {
     "description": "Official IDE for Android platform development",
@@ -4676,8 +4676,8 @@
   },
   "legacyPackages.x86_64-linux.androidStudioPackages.stable": {
     "description": "Official IDE for Android (stable channel)",
-    "pname": "android-studio-stable",
-    "version": "2025.2.2.8"
+    "pname": "android-studio",
+    "version": "2025.2.3.9"
   },
   "legacyPackages.x86_64-linux.androidenv.androidPkgs.all.addons.v10.google_apis": {
     "description": "Android SDK tools, packaged in Nixpkgs",
@@ -8157,12 +8157,12 @@
   "legacyPackages.x86_64-linux.antigravity": {
     "description": "Agentic development platform, evolving the IDE into the agent-first era",
     "pname": "antigravity",
-    "version": "1.15.6"
+    "version": "1.15.8"
   },
   "legacyPackages.x86_64-linux.antigravity-fhs": {
     "description": "Wrapped variant of antigravity which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
     "pname": "antigravity",
-    "version": "1.15.6"
+    "version": "1.15.8"
   },
   "legacyPackages.x86_64-linux.antimatter-dimensions": {
     "description": "Idle incremental game with multiple prestige layers",
@@ -9792,7 +9792,7 @@
   "legacyPackages.x86_64-linux.art-standalone": {
     "description": "Art and dependencies with modifications to make it work on Linux",
     "pname": "art-standalone",
-    "version": "0-unstable-2025-09-03"
+    "version": "0-unstable-2025-10-09"
   },
   "legacyPackages.x86_64-linux.artalk": {
     "description": "Self-hosted comment system",
@@ -15532,7 +15532,7 @@
   "legacyPackages.x86_64-linux.bionic-translation": {
     "description": "Set of libraries for loading bionic-linked .so files on musl/glibc",
     "pname": "bionic-translation",
-    "version": "0-unstable-2025-07-07"
+    "version": "0-unstable-2025-11-25"
   },
   "legacyPackages.x86_64-linux.biosdevname": {
     "description": "Udev helper for naming devices per BIOS names",
@@ -18442,7 +18442,12 @@
   "legacyPackages.x86_64-linux.cadical": {
     "description": "Simplified Satisfiability Solver",
     "pname": "cadical",
-    "version": "2.2.0"
+    "version": "3.0.0"
+  },
+  "legacyPackages.x86_64-linux.cadical_2": {
+    "description": "Simplified Satisfiability Solver",
+    "pname": "cadical",
+    "version": "2.2.1"
   },
   "legacyPackages.x86_64-linux.cadre": {
     "description": "Toolkit to add Ruby development - in-editor coverage, libnotify of test runs",
@@ -32782,12 +32787,12 @@
   "legacyPackages.x86_64-linux.deltachat-repl": {
     "description": "Delta Chat CLI client",
     "pname": "deltachat-repl",
-    "version": "2.38.0"
+    "version": "2.39.0"
   },
   "legacyPackages.x86_64-linux.deltachat-rpc-server": {
     "description": "Delta Chat RPC server exposing JSON-RPC core API over standard I/O",
     "pname": "deltachat-rpc-server",
-    "version": "2.38.0"
+    "version": "2.39.0"
   },
   "legacyPackages.x86_64-linux.deltatouch": {
     "description": "Messaging app for Ubuntu Touch, powered by Delta Chat core",
@@ -46322,7 +46327,7 @@
   "legacyPackages.x86_64-linux.fzf-make": {
     "description": "Fuzzy finder for Makefile",
     "pname": "fzf-make",
-    "version": "0.65.0"
+    "version": "0.67.0"
   },
   "legacyPackages.x86_64-linux.fzf-obc": {
     "description": "Completion script adding fzf over all know bash completion functions",
@@ -51434,10 +51439,10 @@
     "pname": "gnome-settings-daemon",
     "version": "49.1"
   },
-  "legacyPackages.x86_64-linux.gnome-settings-daemon46": {
+  "legacyPackages.x86_64-linux.gnome-settings-daemon48": {
     "description": "GNOME Settings Daemon",
     "pname": "gnome-settings-daemon",
-    "version": "46.0"
+    "version": "48.1"
   },
   "legacyPackages.x86_64-linux.gnome-shell": {
     "description": "Core user interface for the GNOME 3 desktop",
@@ -59082,7 +59087,7 @@
   "legacyPackages.x86_64-linux.grafana-image-renderer": {
     "description": "Grafana backend plugin that handles rendering of panels & dashboards to PNGs using headless browser (Chromium/Chrome)",
     "pname": "grafana-image-renderer",
-    "version": "5.2.3"
+    "version": "5.4.0"
   },
   "legacyPackages.x86_64-linux.grafana-kiosk": {
     "description": "Kiosk Utility for Grafana",
@@ -158689,6 +158694,11 @@
     "pname": "hn-text",
     "version": "0.1.4"
   },
+  "legacyPackages.x86_64-linux.hns": {
+    "description": "Speech-to-text CLI to transcribe voice from microphone directly to clipboard",
+    "pname": "hns",
+    "version": "1.0.8"
+  },
   "legacyPackages.x86_64-linux.hnswlib": {
     "description": "Header-only C++/python library for fast approximate nearest neighbors",
     "pname": "hnswlib",
@@ -165257,7 +165267,7 @@
   "legacyPackages.x86_64-linux.isabelle": {
     "description": "Generic proof assistant",
     "pname": "isabelle",
-    "version": "2025-1"
+    "version": "2025-2"
   },
   "legacyPackages.x86_64-linux.isabelle-components.isabelle-linter": {
     "description": "Linter component for Isabelle",
@@ -176532,7 +176542,7 @@
   "legacyPackages.x86_64-linux.libdeltachat": {
     "description": "Delta Chat Rust Core library",
     "pname": "libdeltachat",
-    "version": "2.38.0"
+    "version": "2.39.0"
   },
   "legacyPackages.x86_64-linux.libdex": {
     "description": "Library supporting deferred execution for GNOME and GTK",
@@ -211992,7 +212002,7 @@
   "legacyPackages.x86_64-linux.mate.eom": {
     "description": "Image viewing and cataloging program for the MATE desktop",
     "pname": "eom",
-    "version": "1.28.0"
+    "version": "1.28.1"
   },
   "legacyPackages.x86_64-linux.mate.libmatekbd": {
     "description": "Keyboard management library for MATE",
@@ -214692,7 +214702,7 @@
   "legacyPackages.x86_64-linux.minigalaxy": {
     "description": "Simple GOG client for Linux",
     "pname": "minigalaxy",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "legacyPackages.x86_64-linux.minijail": {
     "description": "Sandboxing library and application using Linux namespaces and capabilities",
@@ -217282,7 +217292,7 @@
   "legacyPackages.x86_64-linux.mpls": {
     "description": "Live preview of markdown using Language Server Protocol",
     "pname": "mpls",
-    "version": "0.16.1"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.mplus-outline-fonts.githubRelease": {
     "description": "M+ Outline Fonts (GitHub release)",
@@ -218604,10 +218614,10 @@
     "pname": "mutter",
     "version": "49.3"
   },
-  "legacyPackages.x86_64-linux.mutter46": {
+  "legacyPackages.x86_64-linux.mutter48": {
     "description": "Window manager for GNOME",
     "pname": "mutter",
-    "version": "46.8"
+    "version": "48.7"
   },
   "legacyPackages.x86_64-linux.muvm": {
     "description": "Run programs from your system in a microVM",
@@ -221912,7 +221922,7 @@
   "legacyPackages.x86_64-linux.nixbit": {
     "description": "KDE Plasma application to update your NixOS system from a git repository",
     "pname": "nixbit",
-    "version": "0.7.1"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.nixci": {
     "description": "Define and build CI for Nix projects anywhere",
@@ -243527,7 +243537,7 @@
   "legacyPackages.x86_64-linux.openlinkhub": {
     "description": "Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux",
     "pname": "openlinkhub",
-    "version": "0.7.3"
+    "version": "0.7.5"
   },
   "legacyPackages.x86_64-linux.openlist": {
     "description": "AList Fork to Anti Trust Crisis",
@@ -246262,7 +246272,7 @@
   "legacyPackages.x86_64-linux.pantheon.elementary-greeter": {
     "description": "LightDM Greeter for Pantheon",
     "pname": "elementary-greeter",
-    "version": "8.1.2"
+    "version": "8.1.2-unstable-2025-01-12"
   },
   "legacyPackages.x86_64-linux.pantheon.elementary-gsettings-schemas": {
     "description": "",
@@ -246397,12 +246407,12 @@
   "legacyPackages.x86_64-linux.pantheon.gala": {
     "description": "Window & compositing manager based on mutter and designed by elementary for use with Pantheon",
     "pname": "gala",
-    "version": "8.4.0"
+    "version": "8.4.0-unstable-2026-01-06"
   },
   "legacyPackages.x86_64-linux.pantheon.gnome-settings-daemon": {
     "description": "GNOME Settings Daemon",
     "pname": "gnome-settings-daemon",
-    "version": "46.0"
+    "version": "48.1"
   },
   "legacyPackages.x86_64-linux.pantheon.granite": {
     "description": "Extension to GTK used by elementary OS",
@@ -246422,7 +246432,7 @@
   "legacyPackages.x86_64-linux.pantheon.mutter": {
     "description": "Window manager for GNOME",
     "pname": "mutter",
-    "version": "46.8"
+    "version": "48.7"
   },
   "legacyPackages.x86_64-linux.pantheon.pantheon-agent-geoclue2": {
     "description": "Pantheon Geoclue2 Agent",
@@ -287232,7 +287242,7 @@
   "legacyPackages.x86_64-linux.python313Packages.cucumber-tag-expressions": {
     "description": "Provides tag-expression parser for cucumber/behave",
     "pname": "python3.13-cucumber-tag-expressions",
-    "version": "6.2.0"
+    "version": "7.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.cupy": {
     "description": "NumPy-compatible matrix library accelerated by CUDA",
@@ -288167,12 +288177,12 @@
   "legacyPackages.x86_64-linux.python313Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.13-deltachat",
-    "version": "2.38.0"
+    "version": "2.39.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.13-deltachat-rpc-client",
-    "version": "2.38.0"
+    "version": "2.39.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -291222,7 +291232,7 @@
   "legacyPackages.x86_64-linux.python313Packages.essent-dynamic-pricing": {
     "description": "Async client for Essent dynamic energy prices",
     "pname": "python3.13-essent-dynamic-pricing",
-    "version": "0.2.7"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.essentials": {
     "description": "General purpose classes and functions",
@@ -296977,7 +296987,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iometer": {
     "description": "Python client for interacting with IOmeter devices over HTTP",
     "pname": "python3.13-iometer",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.ionoscloud": {
     "description": "Python API client for ionoscloud",
@@ -310077,7 +310087,7 @@
   "legacyPackages.x86_64-linux.python313Packages.py-libzfs": {
     "description": "Python libzfs bindings",
     "pname": "python3.13-py-libzfs",
-    "version": "24.04.0"
+    "version": "25.10.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.py-lru-cache": {
     "description": "In-memory LRU cache for python",
@@ -324612,7 +324622,7 @@
   "legacyPackages.x86_64-linux.python313Packages.togrill-bluetooth": {
     "description": "Module to handle communication with ToGrill compatible temperature probes",
     "pname": "python3.13-togrill-bluetooth",
-    "version": "0.8.0"
+    "version": "0.8.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.token-bucket": {
     "description": "Token Bucket Implementation for Python Web Apps",
@@ -328727,7 +328737,7 @@
   "legacyPackages.x86_64-linux.python313Packages.unstructured-client": {
     "description": "Python Client SDK for Unstructured API",
     "pname": "python3.13-unstructured-client",
-    "version": "0.42.8"
+    "version": "0.42.9"
   },
   "legacyPackages.x86_64-linux.python313Packages.unstructured-inference": {
     "description": "Hosted model inference code for layout parsing models",
@@ -339207,7 +339217,7 @@
   "legacyPackages.x86_64-linux.python314Packages.cucumber-tag-expressions": {
     "description": "Provides tag-expression parser for cucumber/behave",
     "pname": "python3.14-cucumber-tag-expressions",
-    "version": "6.2.0"
+    "version": "7.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.cupy": {
     "description": "NumPy-compatible matrix library accelerated by CUDA",
@@ -340142,12 +340152,12 @@
   "legacyPackages.x86_64-linux.python314Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.14-deltachat",
-    "version": "2.38.0"
+    "version": "2.39.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.14-deltachat-rpc-client",
-    "version": "2.38.0"
+    "version": "2.39.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -343197,7 +343207,7 @@
   "legacyPackages.x86_64-linux.python314Packages.essent-dynamic-pricing": {
     "description": "Async client for Essent dynamic energy prices",
     "pname": "python3.14-essent-dynamic-pricing",
-    "version": "0.2.7"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.essentials": {
     "description": "General purpose classes and functions",
@@ -348952,7 +348962,7 @@
   "legacyPackages.x86_64-linux.python314Packages.iometer": {
     "description": "Python client for interacting with IOmeter devices over HTTP",
     "pname": "python3.14-iometer",
-    "version": "0.3.0"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.ionoscloud": {
     "description": "Python API client for ionoscloud",
@@ -362052,7 +362062,7 @@
   "legacyPackages.x86_64-linux.python314Packages.py-libzfs": {
     "description": "Python libzfs bindings",
     "pname": "python3.14-py-libzfs",
-    "version": "24.04.0"
+    "version": "25.10.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.py-lru-cache": {
     "description": "In-memory LRU cache for python",
@@ -376587,7 +376597,7 @@
   "legacyPackages.x86_64-linux.python314Packages.togrill-bluetooth": {
     "description": "Module to handle communication with ToGrill compatible temperature probes",
     "pname": "python3.14-togrill-bluetooth",
-    "version": "0.8.0"
+    "version": "0.8.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.token-bucket": {
     "description": "Token Bucket Implementation for Python Web Apps",
@@ -380702,7 +380712,7 @@
   "legacyPackages.x86_64-linux.python314Packages.unstructured-client": {
     "description": "Python Client SDK for Unstructured API",
     "pname": "python3.14-unstructured-client",
-    "version": "0.42.8"
+    "version": "0.42.9"
   },
   "legacyPackages.x86_64-linux.python314Packages.unstructured-inference": {
     "description": "Hosted model inference code for layout parsing models",
@@ -400012,7 +400022,7 @@
   "legacyPackages.x86_64-linux.savepagenow": {
     "description": "Simple Python wrapper for archive.org's \"Save Page Now\" capturing service",
     "pname": "savepagenow",
-    "version": "1.3.0"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.savvycan": {
     "description": "QT based cross platform canbus tool",
@@ -428797,7 +428807,7 @@
   "legacyPackages.x86_64-linux.spade": {
     "description": "Better hardware description language",
     "pname": "spade",
-    "version": "0.13.0"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.spades": {
     "description": "St. Petersburg genome assembler, a toolkit for assembling and analyzing sequencing data",
@@ -432582,7 +432592,7 @@
   "legacyPackages.x86_64-linux.swim": {
     "description": "Build tool for spade",
     "pname": "swim",
-    "version": "0.13.0"
+    "version": "0.16.0"
   },
   "legacyPackages.x86_64-linux.swingsane": {
     "description": "Java GUI for SANE scanner servers (saned)",
@@ -435357,12 +435367,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.digitalocean": {
     "description": "",
     "pname": "terraform-provider-digitalocean",
-    "version": "2.73.0"
+    "version": "2.74.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.digitalocean_digitalocean": {
     "description": "",
     "pname": "terraform-provider-digitalocean",
-    "version": "2.73.0"
+    "version": "2.74.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.dmacvicar_libvirt": {
     "description": "",
@@ -471117,7 +471127,7 @@
   "legacyPackages.x86_64-linux.thunar": {
     "description": "Xfce file manager",
     "pname": "thunar",
-    "version": "4.20.6"
+    "version": "4.20.7"
   },
   "legacyPackages.x86_64-linux.thunar-archive-plugin": {
     "description": "Thunar plugin providing file context menus for archives",
@@ -471137,7 +471147,7 @@
   "legacyPackages.x86_64-linux.thunar-unwrapped": {
     "description": "Xfce file manager",
     "pname": "thunar",
-    "version": "4.20.6"
+    "version": "4.20.7"
   },
   "legacyPackages.x86_64-linux.thunar-vcs-plugin": {
     "description": "Thunar plugin providing support for Subversion and Git",
@@ -522502,7 +522512,7 @@
   "legacyPackages.x86_64-linux.xfce.thunar": {
     "description": "Xfce file manager",
     "pname": "thunar",
-    "version": "4.20.6"
+    "version": "4.20.7"
   },
   "legacyPackages.x86_64-linux.xfce.thunar-archive-plugin": {
     "description": "Thunar plugin providing file context menus for archives",
@@ -522522,7 +522532,7 @@
   "legacyPackages.x86_64-linux.xfce.thunar-unwrapped": {
     "description": "Xfce file manager",
     "pname": "thunar",
-    "version": "4.20.6"
+    "version": "4.20.7"
   },
   "legacyPackages.x86_64-linux.xfce.thunar-vcs-plugin": {
     "description": "Thunar plugin providing support for Subversion and Git",
@@ -523647,7 +523657,7 @@
   "legacyPackages.x86_64-linux.xmrig-mo": {
     "description": "Fork of the XMRig CPU miner with support for algorithm switching",
     "pname": "xmrig-mo",
-    "version": "6.24.0-mo1"
+    "version": "6.25.0-mo1"
   },
   "legacyPackages.x86_64-linux.xmrig-proxy": {
     "description": "Monero (XMR) Stratum protocol proxy",
@@ -527837,6 +527847,11 @@
   "legacyPackages.x86_64-linux.zmate": {
     "description": "Instant terminal sharing using Zellij",
     "pname": "zmate",
+    "version": "0.3.1"
+  },
+  "legacyPackages.x86_64-linux.zmk-studio": {
+    "description": "Tool for runtime keymap updates on ZMK-powered devices without reflashing firmware",
+    "pname": "zmk-studio",
     "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.zmkBATx": {
