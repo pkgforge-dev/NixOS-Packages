@@ -3987,7 +3987,7 @@
   "legacyPackages.x86_64-linux.aliyun-cli": {
     "description": "Tool to manage and use Alibaba Cloud resources through a command line interface",
     "pname": "aliyun-cli",
-    "version": "3.2.2"
+    "version": "3.2.9"
   },
   "legacyPackages.x86_64-linux.aliyunpan": {
     "description": "Command line client for Aliyun Drive",
@@ -11962,7 +11962,7 @@
   "legacyPackages.x86_64-linux.aws-vault": {
     "description": "Vault for securely storing and accessing AWS credentials in development environments",
     "pname": "aws-vault",
-    "version": "7.9.0"
+    "version": "7.9.3"
   },
   "legacyPackages.x86_64-linux.aws-workspaces": {
     "description": "Client for Amazon WorkSpaces, a managed, secure Desktop-as-a-Service (DaaS) solution",
@@ -14047,7 +14047,7 @@
   "legacyPackages.x86_64-linux.bbin": {
     "description": "Install any Babashka script or project with one command",
     "pname": "bbin",
-    "version": "0.2.4"
+    "version": "0.2.5"
   },
   "legacyPackages.x86_64-linux.bbot": {
     "description": "OSINT automation for hackers",
@@ -14072,7 +14072,7 @@
   "legacyPackages.x86_64-linux.bcachefs-tools": {
     "description": "Tool for managing bcachefs filesystems",
     "pname": "bcachefs-tools",
-    "version": "1.35.2"
+    "version": "1.36.0"
   },
   "legacyPackages.x86_64-linux.bcal": {
     "description": "Storage conversion and expression calculator",
@@ -14217,7 +14217,7 @@
   "legacyPackages.x86_64-linux.beam26Packages.ex_doc": {
     "description": "ExDoc produces HTML and EPUB documentation for Elixir projects ",
     "pname": "ex_doc",
-    "version": "0.40.0"
+    "version": "0.40.1"
   },
   "legacyPackages.x86_64-linux.beam26Packages.hex": {
     "description": "Package manager for the Erlang VM https://hex.pm",
@@ -14312,7 +14312,7 @@
   "legacyPackages.x86_64-linux.beam27Packages.ex_doc": {
     "description": "ExDoc produces HTML and EPUB documentation for Elixir projects ",
     "pname": "ex_doc",
-    "version": "0.40.0"
+    "version": "0.40.1"
   },
   "legacyPackages.x86_64-linux.beam27Packages.hex": {
     "description": "Package manager for the Erlang VM https://hex.pm",
@@ -14402,7 +14402,7 @@
   "legacyPackages.x86_64-linux.beam28Packages.ex_doc": {
     "description": "ExDoc produces HTML and EPUB documentation for Elixir projects ",
     "pname": "ex_doc",
-    "version": "0.40.0"
+    "version": "0.40.1"
   },
   "legacyPackages.x86_64-linux.beam28Packages.hex": {
     "description": "Package manager for the Erlang VM https://hex.pm",
@@ -14502,7 +14502,7 @@
   "legacyPackages.x86_64-linux.beamMinimal26Packages.ex_doc": {
     "description": "ExDoc produces HTML and EPUB documentation for Elixir projects ",
     "pname": "ex_doc",
-    "version": "0.40.0"
+    "version": "0.40.1"
   },
   "legacyPackages.x86_64-linux.beamMinimal26Packages.hex": {
     "description": "Package manager for the Erlang VM https://hex.pm",
@@ -14597,7 +14597,7 @@
   "legacyPackages.x86_64-linux.beamMinimal27Packages.ex_doc": {
     "description": "ExDoc produces HTML and EPUB documentation for Elixir projects ",
     "pname": "ex_doc",
-    "version": "0.40.0"
+    "version": "0.40.1"
   },
   "legacyPackages.x86_64-linux.beamMinimal27Packages.hex": {
     "description": "Package manager for the Erlang VM https://hex.pm",
@@ -14687,7 +14687,7 @@
   "legacyPackages.x86_64-linux.beamMinimal28Packages.ex_doc": {
     "description": "ExDoc produces HTML and EPUB documentation for Elixir projects ",
     "pname": "ex_doc",
-    "version": "0.40.0"
+    "version": "0.40.1"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.hex": {
     "description": "Package manager for the Erlang VM https://hex.pm",
@@ -16102,7 +16102,7 @@
   "legacyPackages.x86_64-linux.blobfuse": {
     "description": "Mount an Azure Blob storage as filesystem through FUSE",
     "pname": "blobfuse",
-    "version": "2.5.0"
+    "version": "2.5.2"
   },
   "legacyPackages.x86_64-linux.blobs_gg": {
     "description": "Blob emoji from blobs.gg repacked as APNG",
@@ -16497,7 +16497,7 @@
   "legacyPackages.x86_64-linux.bolt-launcher": {
     "description": "Alternative launcher for RuneScape",
     "pname": "bolt-launcher",
-    "version": "0.20.0"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.bolt_19": {
     "description": "LLVM post-link optimizer",
@@ -18107,7 +18107,7 @@
   "legacyPackages.x86_64-linux.burpsuite": {
     "description": "Integrated platform for performing security testing of web applications",
     "pname": "burpsuite",
-    "version": "2026.1"
+    "version": "2026.1.2"
   },
   "legacyPackages.x86_64-linux.bustle": {
     "description": "Graphical D-Bus message analyser and profiler",
@@ -24477,7 +24477,7 @@
   "legacyPackages.x86_64-linux.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.chiptrack": {
     "description": "Programmable cross-platform sequencer for the Game Boy Advance sound chip",
@@ -27657,22 +27657,22 @@
   "legacyPackages.x86_64-linux.copyparty": {
     "description": "turn almost any device into a file server over http(s), webdav, ftp(s), and tftp",
     "pname": "copyparty",
-    "version": "1.20.4"
+    "version": "1.20.6"
   },
   "legacyPackages.x86_64-linux.copyparty-full-buggy": {
     "description": "turn almost any device into a file server over http(s), webdav, ftp(s), and tftp - full variant",
     "pname": "copyparty-full-buggy",
-    "version": "1.20.4"
+    "version": "1.20.6"
   },
   "legacyPackages.x86_64-linux.copyparty-min": {
     "description": "turn almost any device into a file server over http(s), webdav, ftp(s), and tftp - minimal variant",
     "pname": "copyparty-min",
-    "version": "1.20.4"
+    "version": "1.20.6"
   },
   "legacyPackages.x86_64-linux.copyparty-most": {
     "description": "turn almost any device into a file server over http(s), webdav, ftp(s), and tftp - most variant",
     "pname": "copyparty-most",
-    "version": "1.20.4"
+    "version": "1.20.6"
   },
   "legacyPackages.x86_64-linux.copyq": {
     "description": "Clipboard Manager with Advanced Features",
@@ -32336,8 +32336,8 @@
   },
   "legacyPackages.x86_64-linux.dcv": {
     "description": "TUI (Terminal User Interface) tool for monitoring Docker containers and Docker Compose applications",
-    "pname": "dcv-v0.3.1",
-    "version": ""
+    "pname": "dcv",
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.dcw-gmt": {
     "description": "Vector basemap of the world, for use with GMT",
@@ -32592,7 +32592,7 @@
   "legacyPackages.x86_64-linux.deck": {
     "description": "Configuration management and drift detection tool for Kong",
     "pname": "deck",
-    "version": "1.55.0"
+    "version": "1.55.1"
   },
   "legacyPackages.x86_64-linux.decker": {
     "description": "Multimedia platform for creating and sharing interactive documents",
@@ -40507,7 +40507,7 @@
   "legacyPackages.x86_64-linux.ex_doc": {
     "description": "ExDoc produces HTML and EPUB documentation for Elixir projects ",
     "pname": "ex_doc",
-    "version": "0.40.0"
+    "version": "0.40.1"
   },
   "legacyPackages.x86_64-linux.exabgp": {
     "description": "BGP swiss army knife of networking",
@@ -43872,7 +43872,7 @@
   "legacyPackages.x86_64-linux.flightgear": {
     "description": "Flight simulator",
     "pname": "flightgear",
-    "version": "2024.1.3"
+    "version": "2024.1.4"
   },
   "legacyPackages.x86_64-linux.flink": {
     "description": "Distributed stream processing framework",
@@ -45217,7 +45217,7 @@
   "legacyPackages.x86_64-linux.fosrl-olm": {
     "description": "Tunneling client for Pangolin",
     "pname": "olm",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "legacyPackages.x86_64-linux.fosrl-pangolin": {
     "description": "Tunneled reverse proxy server with identity and access control",
@@ -45417,7 +45417,7 @@
   "legacyPackages.x86_64-linux.frankenphp": {
     "description": "Modern PHP app server",
     "pname": "frankenphp",
-    "version": "1.9.1"
+    "version": "1.11.1"
   },
   "legacyPackages.x86_64-linux.franz": {
     "description": "Free messaging app that combines chat & messaging services into one application",
@@ -45492,22 +45492,22 @@
   "legacyPackages.x86_64-linux.freeciv": {
     "description": "Multiplayer (or single player), turn-based strategy game",
     "pname": "freeciv",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.freeciv_gtk": {
     "description": "Multiplayer (or single player), turn-based strategy game",
     "pname": "freeciv",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.freeciv_qt": {
     "description": "Multiplayer (or single player), turn-based strategy game",
     "pname": "freeciv",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.freeciv_sdl2": {
     "description": "Multiplayer (or single player), turn-based strategy game",
     "pname": "freeciv",
-    "version": "3.2.1"
+    "version": "3.2.2"
   },
   "legacyPackages.x86_64-linux.freediameter": {
     "description": "Implementation of the Diameter Protocol",
@@ -50482,7 +50482,7 @@
   "legacyPackages.x86_64-linux.glslviewer": {
     "description": "Live GLSL coding renderer",
     "pname": "glslviewer",
-    "version": "3.2.4"
+    "version": "3.5.1"
   },
   "legacyPackages.x86_64-linux.glsurf": {
     "description": "Program to draw implicit surfaces and curves",
@@ -60067,7 +60067,7 @@
   "legacyPackages.x86_64-linux.grpc_cli": {
     "description": "Command line tool for interacting with grpc services",
     "pname": "grpc_cli",
-    "version": "1.75.1"
+    "version": "1.76.0"
   },
   "legacyPackages.x86_64-linux.grpcui": {
     "description": "Interactive web UI for gRPC, along the lines of postman",
@@ -61262,7 +61262,7 @@
   "legacyPackages.x86_64-linux.gwyddion": {
     "description": "Scanning probe microscopy data visualization and analysis",
     "pname": "gwyddion",
-    "version": "2.69"
+    "version": "2.70"
   },
   "legacyPackages.x86_64-linux.gx": {
     "description": "Packaging tool built around IPFS",
@@ -159932,7 +159932,7 @@
   "legacyPackages.x86_64-linux.htmldoc": {
     "description": "Converts HTML files to PostScript and PDF",
     "pname": "htmldoc",
-    "version": "1.9.21"
+    "version": "1.9.23"
   },
   "legacyPackages.x86_64-linux.htmlhint": {
     "description": "Static code analysis tool for HTML",
@@ -164227,7 +164227,7 @@
   "legacyPackages.x86_64-linux.inform6": {
     "description": "Interactive fiction compiler and libraries",
     "pname": "inform6",
-    "version": "6.42-r9"
+    "version": "6.44-r3"
   },
   "legacyPackages.x86_64-linux.inform7": {
     "description": "Design system for interactive fiction",
@@ -164777,7 +164777,7 @@
   "legacyPackages.x86_64-linux.inxi": {
     "description": "Full featured CLI system information tool",
     "pname": "inxi",
-    "version": "3.3.39-1"
+    "version": "3.3.40-1"
   },
   "legacyPackages.x86_64-linux.io": {
     "description": "Io programming language",
@@ -180152,12 +180152,12 @@
   "legacyPackages.x86_64-linux.librewolf-bin": {
     "description": "Fork of Firefox, focused on privacy, security and freedom (upstream binary release)",
     "pname": "librewolf-bin",
-    "version": "147.0.1-3"
+    "version": "147.0.2-1"
   },
   "legacyPackages.x86_64-linux.librewolf-bin-unwrapped": {
     "description": "Fork of Firefox, focused on privacy, security and freedom (upstream binary release)",
     "pname": "librewolf-bin-unwrapped",
-    "version": "147.0.1-3"
+    "version": "147.0.2-1"
   },
   "legacyPackages.x86_64-linux.librewolf-unwrapped": {
     "description": "Fork of Firefox, focused on privacy, security and freedom",
@@ -183532,7 +183532,7 @@
   "legacyPackages.x86_64-linux.linux-wallpaperengine": {
     "description": "Wallpaper Engine backgrounds for Linux",
     "pname": "linux-wallpaperengine",
-    "version": "0-unstable-2025-09-19"
+    "version": "0-unstable-2026-01-25"
   },
   "legacyPackages.x86_64-linux.linux-wifi-hotspot": {
     "description": "Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface",
@@ -183727,7 +183727,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "5.10.248-1.35.2"
+    "version": "5.10.248-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -183757,7 +183757,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -184442,7 +184442,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -184542,7 +184542,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "5.15.198-1.35.2"
+    "version": "5.15.198-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -184572,7 +184572,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -185257,7 +185257,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -185357,7 +185357,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.1.161-1.35.2"
+    "version": "6.1.161-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -185387,7 +185387,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -186067,7 +186067,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -186167,7 +186167,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.12.68-1.35.2"
+    "version": "6.12.68-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -186197,7 +186197,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -186882,7 +186882,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -186982,7 +186982,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.12.66-1.35.2"
+    "version": "6.12.66-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -187012,7 +187012,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -187697,7 +187697,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -187797,7 +187797,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.8-1.35.2"
+    "version": "6.18.8-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -187827,7 +187827,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -188512,7 +188512,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -188612,7 +188612,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.6.122-1.35.2"
+    "version": "6.6.122-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -188642,7 +188642,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -189322,7 +189322,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -189422,7 +189422,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.12.66-1.35.2"
+    "version": "6.12.66-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -189452,7 +189452,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -190137,7 +190137,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -190237,7 +190237,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.7-1.35.2"
+    "version": "6.18.7-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -190267,7 +190267,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -190952,7 +190952,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -191052,7 +191052,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.12.68-1.35.2"
+    "version": "6.12.68-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -191082,7 +191082,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -191767,7 +191767,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -191867,7 +191867,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.8-1.35.2"
+    "version": "6.18.8-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -191897,7 +191897,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -192582,7 +192582,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -192682,7 +192682,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.8-1.35.2"
+    "version": "6.18.8-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -192712,7 +192712,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -193397,7 +193397,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -193497,7 +193497,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.7-1.35.2"
+    "version": "6.18.7-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -193527,7 +193527,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -194212,7 +194212,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -194312,7 +194312,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.12.68-1.35.2"
+    "version": "6.12.68-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -194342,7 +194342,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxPackages.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -195027,7 +195027,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -195132,7 +195132,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.8-1.35.2"
+    "version": "6.18.8-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -195162,7 +195162,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -195847,7 +195847,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -195947,7 +195947,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.7-1.35.2"
+    "version": "6.18.7-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -195977,7 +195977,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -196662,7 +196662,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -196762,7 +196762,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.12.68-1.35.2"
+    "version": "6.12.68-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -196792,7 +196792,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -197477,7 +197477,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -197577,7 +197577,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.8-1.35.2"
+    "version": "6.18.8-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -197607,7 +197607,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -198292,7 +198292,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -198392,7 +198392,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.8-1.35.2"
+    "version": "6.18.8-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -198422,7 +198422,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -199107,7 +199107,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -199207,7 +199207,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.bcachefs": {
     "description": "out-of-tree bcachefs kernel module",
     "pname": "bcachefs",
-    "version": "6.18.7-1.35.2"
+    "version": "6.18.7-1.36.0"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.bcc": {
     "description": "Dynamic Tracing Tools for Linux",
@@ -199237,7 +199237,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.chipsec": {
     "description": "Platform Security Assessment Framework",
     "pname": "chipsec",
-    "version": "1.13.19"
+    "version": "1.13.20"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.corefreq": {
     "description": "CPU monitoring and tuning software designed for 64-bit processors",
@@ -199922,7 +199922,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.xone": {
     "description": "Linux kernel driver for Xbox One and Xbox Series X|S accessories",
     "pname": "xone",
-    "version": "0.5.0"
+    "version": "0.5.4"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.xpad-noone": {
     "description": "Xpad driver from the Linux kernel with support for Xbox One controllers removed",
@@ -210757,7 +210757,7 @@
   "legacyPackages.x86_64-linux.maestro": {
     "description": "Mobile UI Automation tool",
     "pname": "maestro",
-    "version": "2.0.9"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.mafft": {
     "description": "Multiple alignment program for amino acid or nucleotide sequences",
@@ -211827,7 +211827,7 @@
   "legacyPackages.x86_64-linux.marmite": {
     "description": "Static Site Generator for Blogs",
     "pname": "marmite",
-    "version": "0.2.6"
+    "version": "0.2.7"
   },
   "legacyPackages.x86_64-linux.marp-cli": {
     "description": "About A CLI interface for Marp and Marpit based converters",
@@ -219837,7 +219837,7 @@
   "legacyPackages.x86_64-linux.neo4j": {
     "description": "Highly scalable, robust (fully ACID) native graph database",
     "pname": "neo4j",
-    "version": "2025.10.1"
+    "version": "2025.12.1"
   },
   "legacyPackages.x86_64-linux.neocities": {
     "description": "CLI and library for interacting with the Neocities API",
@@ -223132,7 +223132,7 @@
   "legacyPackages.x86_64-linux.nn": {
     "description": "C code for Natural Neighbours interpolation of 2D scattered data",
     "pname": "nn",
-    "version": ""
+    "version": "2.0.8-unstable-2024-04-08"
   },
   "legacyPackages.x86_64-linux.nncp": {
     "description": "Secure UUCP-like store-and-forward exchanging",
@@ -223413,11 +223413,6 @@
     "description": "Secure and free password manager for all of your devices",
     "pname": "bitwarden-cli",
     "version": "2025.12.1"
-  },
-  "legacyPackages.x86_64-linux.nodePackages.browser-sync": {
-    "description": "Live CSS Reload & Browser Syncing",
-    "pname": "browser-sync",
-    "version": "3.0.3"
   },
   "legacyPackages.x86_64-linux.nodePackages.browserify": {
     "description": "browser-side require() the node way",
@@ -224623,11 +224618,6 @@
     "description": "Secure and free password manager for all of your devices",
     "pname": "bitwarden-cli",
     "version": "2025.12.1"
-  },
-  "legacyPackages.x86_64-linux.nodePackages_latest.browser-sync": {
-    "description": "Live CSS Reload & Browser Syncing",
-    "pname": "browser-sync",
-    "version": "3.0.3"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.browserify": {
     "description": "browser-side require() the node way",
@@ -227027,7 +227017,7 @@
   "legacyPackages.x86_64-linux.nvc": {
     "description": "VHDL compiler and simulator",
     "pname": "nvc",
-    "version": "1.18.2"
+    "version": "1.19.0"
   },
   "legacyPackages.x86_64-linux.nvcat": {
     "description": "`cat` but with syntax highlighting powered by Neovim",
@@ -227557,7 +227547,7 @@
   "legacyPackages.x86_64-linux.obs-studio": {
     "description": "Free and open source software for video recording and live streaming",
     "pname": "obs-studio",
-    "version": "32.0.1"
+    "version": "32.0.4"
   },
   "legacyPackages.x86_64-linux.obs-studio-plugins.advanced-scene-switcher": {
     "description": "Automated scene switcher for OBS Studio",
@@ -227737,7 +227727,7 @@
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-source-clone": {
     "description": "Plugin for OBS Studio to clone sources",
     "pname": "obs-source-clone",
-    "version": "0.2.0"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-source-record": {
     "description": "OBS Studio plugin to make sources available to record via a filter",
@@ -243257,17 +243247,17 @@
   "legacyPackages.x86_64-linux.opencv": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "opencv",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.opencv4": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "opencv",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.opencv4WithoutCuda": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "opencv",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.opendbx": {
     "description": "Extremely lightweight but extensible database access library written in C",
@@ -244497,7 +244487,7 @@
   "legacyPackages.x86_64-linux.openvino": {
     "description": "Open-source toolkit for optimizing and deploying AI inference",
     "pname": "openvino",
-    "version": "2025.2.1"
+    "version": "2025.4.2"
   },
   "legacyPackages.x86_64-linux.openvmm": {
     "description": "Modular, cross-platform Virtual Machine Monitor (VMM), written in Rust",
@@ -273857,7 +273847,7 @@
   "legacyPackages.x86_64-linux.plasticity": {
     "description": "CAD for artists",
     "pname": "plasticity",
-    "version": "25.2.11"
+    "version": "25.3.7"
   },
   "legacyPackages.x86_64-linux.plasticscm-client-complete": {
     "description": "SCM by Unity for game development",
@@ -278232,7 +278222,7 @@
   "legacyPackages.x86_64-linux.prometheus-chrony-exporter": {
     "description": "Prometheus exporter for the chrony NTP service",
     "pname": "prometheus-chrony-exporter",
-    "version": "0.12.2"
+    "version": "0.12.3"
   },
   "legacyPackages.x86_64-linux.prometheus-cloudflare-exporter": {
     "description": "Prometheus Cloudflare Exporter",
@@ -278387,7 +278377,7 @@
   "legacyPackages.x86_64-linux.prometheus-klipper-exporter": {
     "description": "Prometheus Exporter for Klipper",
     "pname": "prometheus-klipper-exporter",
-    "version": "0.13.0"
+    "version": "0.14.0"
   },
   "legacyPackages.x86_64-linux.prometheus-knot-exporter": {
     "description": "Prometheus exporter for Knot DNS",
@@ -278547,7 +278537,7 @@
   "legacyPackages.x86_64-linux.prometheus-redis-exporter": {
     "description": "Prometheus exporter for Redis metrics",
     "pname": "redis_exporter",
-    "version": "1.80.0"
+    "version": "1.80.2"
   },
   "legacyPackages.x86_64-linux.prometheus-restic-exporter": {
     "description": "Prometheus exporter for the Restic backup system",
@@ -279172,7 +279162,7 @@
   "legacyPackages.x86_64-linux.proxypin": {
     "description": "Capture HTTP(S) traffic software",
     "pname": "proxypin",
-    "version": "1.2.3"
+    "version": "1.2.4"
   },
   "legacyPackages.x86_64-linux.proxysql": {
     "description": "High-performance MySQL proxy",
@@ -280397,7 +280387,7 @@
   "legacyPackages.x86_64-linux.python313Packages.adafruit-platformdetect": {
     "description": "Platform detection for use by Adafruit libraries",
     "pname": "python3.13-adafruit-platformdetect",
-    "version": "3.86.0"
+    "version": "3.87.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.adafruit-pureio": {
     "description": "Python interface to Linux IO including I2C and SPI",
@@ -280747,7 +280737,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiobafi6": {
     "description": "Library for communication with the Big Ass Fans i6 firmware",
     "pname": "python3.13-aiobafi6",
-    "version": "0.10.0"
+    "version": "0.10.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiobiketrax": {
     "description": "Library for interacting with the PowUnity BikeTrax GPS tracker",
@@ -281067,7 +281057,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiohue": {
     "description": "Python package to talk to Philips Hue",
     "pname": "python3.13-aiohue",
-    "version": "4.8.0"
+    "version": "4.8.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiohwenergy": {
     "description": "Python library to interact with the HomeWizard Energy devices API",
@@ -285027,7 +285017,7 @@
   "legacyPackages.x86_64-linux.python313Packages.bleak-esphome": {
     "description": "Bleak backend of ESPHome",
     "pname": "python3.13-bleak-esphome",
-    "version": "3.4.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.bleak-retry-connector": {
     "description": "Connector for Bleak Clients that handles transient connection failures",
@@ -290092,7 +290082,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-modeltranslation": {
     "description": "Translates Django models using a registration approach",
     "pname": "python3.13-django-modeltranslation",
-    "version": "0.19.17"
+    "version": "0.19.19"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-mptt": {
     "description": "Utilities for implementing a modified pre-order traversal tree in Django",
@@ -292572,7 +292562,7 @@
   "legacyPackages.x86_64-linux.python313Packages.faraday-plugins": {
     "description": "Security tools report parsers for Faraday",
     "pname": "python3.13-faraday-plugins",
-    "version": "1.27.1"
+    "version": "1.27.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.farama-notifications": {
     "description": "Allows for providing notifications on import to all Farama Packages",
@@ -293677,7 +293667,7 @@
   "legacyPackages.x86_64-linux.python313Packages.flowjax": {
     "description": "Distributions, bijections and normalizing flows using Equinox and JAX",
     "pname": "python3.13-flowjax",
-    "version": "17.2.1"
+    "version": "18.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.flowlogs-reader": {
     "description": "Python library to make retrieving Amazon VPC Flow Logs from CloudWatch Logs a bit easier",
@@ -296437,7 +296427,7 @@
   "legacyPackages.x86_64-linux.python313Packages.hier-config": {
     "description": "Module to handle hierarchical configurations",
     "pname": "python3.13-hier-config",
-    "version": "3.4.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.hieroglyph": {
     "description": "Generate HTML presentations from plain text sources",
@@ -297137,7 +297127,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.13-iamdata",
-    "version": "0.1.202601311"
+    "version": "0.1.202602011"
   },
   "legacyPackages.x86_64-linux.python313Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -302837,7 +302827,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mitogen": {
     "description": "Python Library for writing distributed self-replicating programs",
     "pname": "python3.13-mitogen",
-    "version": "0.3.38"
+    "version": "0.3.39"
   },
   "legacyPackages.x86_64-linux.python313Packages.mixbox": {
     "description": "Library of common code leveraged by cybox, maec and stix",
@@ -306327,7 +306317,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nextdns": {
     "description": "Module for the NextDNS API",
     "pname": "python3.13-nextdns",
-    "version": "4.1.0"
+    "version": "5.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.nexusformat": {
     "description": "Python API to open, create, and manipulate NeXus data written in the HDF5 format",
@@ -306922,7 +306912,7 @@
   "legacyPackages.x86_64-linux.python313Packages.numpyro": {
     "description": "Library for probabilistic programming with NumPy",
     "pname": "python3.13-numpyro",
-    "version": "0.19.0"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.nunavut": {
     "description": "UAVCAN DSDL template engine",
@@ -307507,27 +307497,27 @@
   "legacyPackages.x86_64-linux.python313Packages.opencv-contrib-python": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "python3.13-opencv-contrib-python",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.opencv-python": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "python3.13-opencv-python",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.opencv-python-headless": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "python3.13-opencv-python-headless",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.opencv4": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "opencv",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.opencv4Full": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "opencv",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.opendal": {
     "description": "native Python binding for Apache OpenDAL",
@@ -307837,7 +307827,7 @@
   "legacyPackages.x86_64-linux.python313Packages.openvino": {
     "description": "OpenVINO(TM) Runtime",
     "pname": "python3.13-openvino",
-    "version": "2025.2.1"
+    "version": "2025.4.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.openwebifpy": {
     "description": "Provides a python interface to interact with a device running OpenWebIf",
@@ -310667,7 +310657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
     "pname": "python3.13-pubnub",
-    "version": "10.5.0"
+    "version": "10.6.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pubnubsub-handler": {
     "description": "PubNub subscription between PubNub and Home Assistant",
@@ -312387,7 +312377,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyexploitdb": {
     "description": "Library to fetch the most recent exploit-database",
     "pname": "python3.13-pyexploitdb",
-    "version": "0.3.11"
+    "version": "0.3.12"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyezvizapi": {
     "description": "Python interface for for Ezviz cameras",
@@ -313717,7 +313707,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pymobiledevice3": {
     "description": "Pure python3 implementation for working with iDevices (iPhone, etc.)",
     "pname": "python3.13-pymobiledevice3",
-    "version": "7.3.6"
+    "version": "7.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pymochad": {
     "description": "Python library for sending commands to the mochad TCP gateway daemon for the X10 CMA15A controller",
@@ -317552,7 +317542,7 @@
   "legacyPackages.x86_64-linux.python313Packages.python-toolbox": {
     "description": "Tools for testing PySnooper",
     "pname": "python3.13-python-toolbox",
-    "version": "1.3.1"
+    "version": "1.3.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-transip": {
     "description": "Python wrapper for the TransIP REST API V6",
@@ -318132,7 +318122,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyvesync": {
     "description": "Python library to manage Etekcity Devices and Levoit Air Purifier",
     "pname": "python3.13-pyvesync",
-    "version": "3.3.3"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyvex": {
     "description": "Python interface to libVEX and VEX IR",
@@ -319352,7 +319342,7 @@
   "legacyPackages.x86_64-linux.python313Packages.reolink-aio": {
     "description": "Module to interact with the Reolink IP camera API",
     "pname": "python3.13-reolink-aio",
-    "version": "0.18.1"
+    "version": "0.18.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.reorder-python-imports": {
     "description": "Tool for automatically reordering python imports",
@@ -331792,7 +331782,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ydata-profiling": {
     "description": "Create HTML profiling reports from Pandas DataFrames",
     "pname": "python3.13-ydata-profiling",
-    "version": "4.18.0"
+    "version": "4.18.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.ydiff": {
     "description": "View colored, incremental diff in workspace or from stdin with side by side and auto pager support (Was \"cdiff\")",
@@ -332472,7 +332462,7 @@
   "legacyPackages.x86_64-linux.python314Packages.adafruit-platformdetect": {
     "description": "Platform detection for use by Adafruit libraries",
     "pname": "python3.14-adafruit-platformdetect",
-    "version": "3.86.0"
+    "version": "3.87.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.adafruit-pureio": {
     "description": "Python interface to Linux IO including I2C and SPI",
@@ -332822,7 +332812,7 @@
   "legacyPackages.x86_64-linux.python314Packages.aiobafi6": {
     "description": "Library for communication with the Big Ass Fans i6 firmware",
     "pname": "python3.14-aiobafi6",
-    "version": "0.10.0"
+    "version": "0.10.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.aiobiketrax": {
     "description": "Library for interacting with the PowUnity BikeTrax GPS tracker",
@@ -333142,7 +333132,7 @@
   "legacyPackages.x86_64-linux.python314Packages.aiohue": {
     "description": "Python package to talk to Philips Hue",
     "pname": "python3.14-aiohue",
-    "version": "4.8.0"
+    "version": "4.8.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.aiohwenergy": {
     "description": "Python library to interact with the HomeWizard Energy devices API",
@@ -337097,7 +337087,7 @@
   "legacyPackages.x86_64-linux.python314Packages.bleak-esphome": {
     "description": "Bleak backend of ESPHome",
     "pname": "python3.14-bleak-esphome",
-    "version": "3.4.1"
+    "version": "3.6.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.bleak-retry-connector": {
     "description": "Connector for Bleak Clients that handles transient connection failures",
@@ -342162,7 +342152,7 @@
   "legacyPackages.x86_64-linux.python314Packages.django-modeltranslation": {
     "description": "Translates Django models using a registration approach",
     "pname": "python3.14-django-modeltranslation",
-    "version": "0.19.17"
+    "version": "0.19.19"
   },
   "legacyPackages.x86_64-linux.python314Packages.django-mptt": {
     "description": "Utilities for implementing a modified pre-order traversal tree in Django",
@@ -344642,7 +344632,7 @@
   "legacyPackages.x86_64-linux.python314Packages.faraday-plugins": {
     "description": "Security tools report parsers for Faraday",
     "pname": "python3.14-faraday-plugins",
-    "version": "1.27.1"
+    "version": "1.27.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.farama-notifications": {
     "description": "Allows for providing notifications on import to all Farama Packages",
@@ -345747,7 +345737,7 @@
   "legacyPackages.x86_64-linux.python314Packages.flowjax": {
     "description": "Distributions, bijections and normalizing flows using Equinox and JAX",
     "pname": "python3.14-flowjax",
-    "version": "17.2.1"
+    "version": "18.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.flowlogs-reader": {
     "description": "Python library to make retrieving Amazon VPC Flow Logs from CloudWatch Logs a bit easier",
@@ -348507,7 +348497,7 @@
   "legacyPackages.x86_64-linux.python314Packages.hier-config": {
     "description": "Module to handle hierarchical configurations",
     "pname": "python3.14-hier-config",
-    "version": "3.4.0"
+    "version": "3.4.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.hieroglyph": {
     "description": "Generate HTML presentations from plain text sources",
@@ -349207,7 +349197,7 @@
   "legacyPackages.x86_64-linux.python314Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.14-iamdata",
-    "version": "0.1.202601311"
+    "version": "0.1.202602011"
   },
   "legacyPackages.x86_64-linux.python314Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -354907,7 +354897,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mitogen": {
     "description": "Python Library for writing distributed self-replicating programs",
     "pname": "python3.14-mitogen",
-    "version": "0.3.38"
+    "version": "0.3.39"
   },
   "legacyPackages.x86_64-linux.python314Packages.mixbox": {
     "description": "Library of common code leveraged by cybox, maec and stix",
@@ -358397,7 +358387,7 @@
   "legacyPackages.x86_64-linux.python314Packages.nextdns": {
     "description": "Module for the NextDNS API",
     "pname": "python3.14-nextdns",
-    "version": "4.1.0"
+    "version": "5.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.nexusformat": {
     "description": "Python API to open, create, and manipulate NeXus data written in the HDF5 format",
@@ -358992,7 +358982,7 @@
   "legacyPackages.x86_64-linux.python314Packages.numpyro": {
     "description": "Library for probabilistic programming with NumPy",
     "pname": "python3.14-numpyro",
-    "version": "0.19.0"
+    "version": "0.20.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.nunavut": {
     "description": "UAVCAN DSDL template engine",
@@ -359577,27 +359567,27 @@
   "legacyPackages.x86_64-linux.python314Packages.opencv-contrib-python": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "python3.14-opencv-contrib-python",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.opencv-python": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "python3.14-opencv-python",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.opencv-python-headless": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "python3.14-opencv-python-headless",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.opencv4": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "opencv",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.opencv4Full": {
     "description": "Open Computer Vision Library with more than 500 algorithms",
     "pname": "opencv",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.opendal": {
     "description": "native Python binding for Apache OpenDAL",
@@ -359907,7 +359897,7 @@
   "legacyPackages.x86_64-linux.python314Packages.openvino": {
     "description": "OpenVINO(TM) Runtime",
     "pname": "python3.14-openvino",
-    "version": "2025.2.1"
+    "version": "2025.4.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.openwebifpy": {
     "description": "Provides a python interface to interact with a device running OpenWebIf",
@@ -362737,7 +362727,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
     "pname": "python3.14-pubnub",
-    "version": "10.5.0"
+    "version": "10.6.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pubnubsub-handler": {
     "description": "PubNub subscription between PubNub and Home Assistant",
@@ -364457,7 +364447,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pyexploitdb": {
     "description": "Library to fetch the most recent exploit-database",
     "pname": "python3.14-pyexploitdb",
-    "version": "0.3.11"
+    "version": "0.3.12"
   },
   "legacyPackages.x86_64-linux.python314Packages.pyezvizapi": {
     "description": "Python interface for for Ezviz cameras",
@@ -365787,7 +365777,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pymobiledevice3": {
     "description": "Pure python3 implementation for working with iDevices (iPhone, etc.)",
     "pname": "python3.14-pymobiledevice3",
-    "version": "7.3.6"
+    "version": "7.4.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pymochad": {
     "description": "Python library for sending commands to the mochad TCP gateway daemon for the X10 CMA15A controller",
@@ -369622,7 +369612,7 @@
   "legacyPackages.x86_64-linux.python314Packages.python-toolbox": {
     "description": "Tools for testing PySnooper",
     "pname": "python3.14-python-toolbox",
-    "version": "1.3.1"
+    "version": "1.3.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.python-transip": {
     "description": "Python wrapper for the TransIP REST API V6",
@@ -370202,7 +370192,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pyvesync": {
     "description": "Python library to manage Etekcity Devices and Levoit Air Purifier",
     "pname": "python3.14-pyvesync",
-    "version": "3.3.3"
+    "version": "3.4.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pyvex": {
     "description": "Python interface to libVEX and VEX IR",
@@ -371422,7 +371412,7 @@
   "legacyPackages.x86_64-linux.python314Packages.reolink-aio": {
     "description": "Module to interact with the Reolink IP camera API",
     "pname": "python3.14-reolink-aio",
-    "version": "0.18.1"
+    "version": "0.18.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.reorder-python-imports": {
     "description": "Tool for automatically reordering python imports",
@@ -383862,7 +383852,7 @@
   "legacyPackages.x86_64-linux.python314Packages.ydata-profiling": {
     "description": "Create HTML profiling reports from Pandas DataFrames",
     "pname": "python3.14-ydata-profiling",
-    "version": "4.18.0"
+    "version": "4.18.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.ydiff": {
     "description": "View colored, incremental diff in workspace or from stdin with side by side and auto pager support (Was \"cdiff\")",
@@ -384667,7 +384657,7 @@
   "legacyPackages.x86_64-linux.qcad": {
     "description": "2D CAD package based on Qt",
     "pname": "qcad",
-    "version": "3.32.3.4"
+    "version": "3.32.5.0"
   },
   "legacyPackages.x86_64-linux.qcal": {
     "description": "CLI calendar application for CalDAV servers written in Go",
@@ -385052,7 +385042,7 @@
   "legacyPackages.x86_64-linux.qownnotes": {
     "description": "Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration",
     "pname": "qownnotes",
-    "version": "26.1.11"
+    "version": "26.1.15"
   },
   "legacyPackages.x86_64-linux.qpaeq": {
     "description": "Equalizer interface for pulseaudio's equalizer sinks",
@@ -386162,7 +386152,7 @@
   "legacyPackages.x86_64-linux.qtcreator": {
     "description": "Cross-platform IDE tailored to the needs of Qt developers",
     "pname": "qtcreator",
-    "version": "18.0.1"
+    "version": "18.0.2"
   },
   "legacyPackages.x86_64-linux.qtemu": {
     "description": "Qt-based front-end for QEMU emulator",
@@ -386417,7 +386407,7 @@
   "legacyPackages.x86_64-linux.questdb": {
     "description": "High-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability",
     "pname": "questdb",
-    "version": "9.2.2"
+    "version": "9.3.2"
   },
   "legacyPackages.x86_64-linux.qui": {
     "description": "Modern alternative webUI for qBittorrent, with multi-instance support",
@@ -387672,7 +387662,7 @@
   "legacyPackages.x86_64-linux.readsb": {
     "description": "ADS-B decoder swiss knife",
     "pname": "readsb",
-    "version": "3.16.7"
+    "version": "3.16.9"
   },
   "legacyPackages.x86_64-linux.readstat": {
     "description": "Command-line tool (+ C library) for converting SAS, Stata, and SPSS files",
@@ -387992,7 +387982,7 @@
   "legacyPackages.x86_64-linux.rednotebook": {
     "description": "Modern journal that includes a calendar navigation, customizable templates, export functionality and word clouds",
     "pname": "rednotebook",
-    "version": "2.41"
+    "version": "2.42"
   },
   "legacyPackages.x86_64-linux.redo": {
     "description": "System for building target files from source files",
@@ -429177,7 +429167,7 @@
   "legacyPackages.x86_64-linux.sof-tools": {
     "description": "Tools to develop, test and debug SoF (Sund Open Firmware)",
     "pname": "sof-tools",
-    "version": "2.14.2"
+    "version": "2.14.3"
   },
   "legacyPackages.x86_64-linux.sofa": {
     "description": "Real-time multi-physics simulation with an emphasis on medical simulation",
@@ -431364,28 +431354,33 @@
     "pname": "stalonetray",
     "version": "0.8.5"
   },
+  "legacyPackages.x86_64-linux.stalwart": {
+    "description": "Secure, modern, all-in-one mail and collaboration server",
+    "pname": "stalwart",
+    "version": "0.15.4"
+  },
   "legacyPackages.x86_64-linux.stalwart-cli": {
     "description": "Stalwart Mail Server CLI",
     "pname": "stalwart-cli",
     "version": "0.15.4"
   },
+  "legacyPackages.x86_64-linux.stalwart-enterprise": {
+    "description": "Secure, modern, all-in-one mail and collaboration server",
+    "pname": "stalwart-enterprise",
+    "version": "0.15.4"
+  },
   "legacyPackages.x86_64-linux.stalwart-mail": {
-    "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)",
-    "pname": "stalwart-mail",
+    "description": "Secure, modern, all-in-one mail and collaboration server",
+    "pname": "stalwart",
     "version": "0.15.4"
   },
-  "legacyPackages.x86_64-linux.stalwart-mail-enterprise": {
-    "description": "Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)",
-    "pname": "stalwart-mail-enterprise",
-    "version": "0.15.4"
-  },
-  "legacyPackages.x86_64-linux.stalwart-mail-spam-filter": {
-    "description": "Secure & modern all-in-one mail server Stalwart (spam-filter module)",
+  "legacyPackages.x86_64-linux.stalwart-spam-filter": {
+    "description": "Spam filter module for the Stalwart server",
     "pname": "spam-filter",
     "version": "2.0.5"
   },
-  "legacyPackages.x86_64-linux.stalwart-mail-webadmin": {
-    "description": "Secure & modern all-in-one mail server Stalwart (webadmin module)",
+  "legacyPackages.x86_64-linux.stalwart-webadmin": {
+    "description": "Web administration module for the Stalwart server",
     "pname": "webadmin",
     "version": "0.1.37"
   },
@@ -432137,7 +432132,7 @@
   "legacyPackages.x86_64-linux.stress-ng": {
     "description": "Stress test a computer system",
     "pname": "stress-ng",
-    "version": "0.19.06"
+    "version": "0.20.00"
   },
   "legacyPackages.x86_64-linux.stressapptest": {
     "description": "Userspace memory and IO stress test tool",
@@ -432717,7 +432712,7 @@
   "legacyPackages.x86_64-linux.super-productivity": {
     "description": "To Do List / Time Tracker with Jira Integration",
     "pname": "super-productivity",
-    "version": "17.0.2"
+    "version": "17.0.12"
   },
   "legacyPackages.x86_64-linux.super-slicer": {
     "description": "PrusaSlicer fork with more features and faster development cycle",
@@ -434057,7 +434052,7 @@
   "legacyPackages.x86_64-linux.systemc": {
     "description": "Language for System-level design, modeling and verification",
     "pname": "systemc",
-    "version": "3.0.1"
+    "version": "3.0.2"
   },
   "legacyPackages.x86_64-linux.systemctl-tui": {
     "description": "Simple TUI for interacting with systemd services and their logs",
@@ -434132,7 +434127,7 @@
   "legacyPackages.x86_64-linux.systemdgenie": {
     "description": "Systemd management utility",
     "pname": "systemdgenie",
-    "version": "0.99.0-unstable-2026-01-02"
+    "version": "0.99.0-unstable-2026-01-29"
   },
   "legacyPackages.x86_64-linux.systemfd": {
     "description": "Convenient helper for passing sockets into another process",
@@ -435872,7 +435867,7 @@
   "legacyPackages.x86_64-linux.termpaint": {
     "description": "Low level terminal interface library",
     "pname": "termpaint",
-    "version": ""
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.termpdfpy": {
     "description": "A graphical pdf (and epub, cbz, ...) reader that works inside the kitty terminal. ",
@@ -474212,7 +474207,7 @@
   "legacyPackages.x86_64-linux.traefik": {
     "description": "Modern reverse proxy",
     "pname": "traefik",
-    "version": "3.6.4"
+    "version": "3.6.7"
   },
   "legacyPackages.x86_64-linux.traefik-certs-dumper": {
     "description": "Dump ACME data from traefik to certificates",
@@ -475642,7 +475637,7 @@
   "legacyPackages.x86_64-linux.tsidp": {
     "description": "Simple OIDC / OAuth Identity Provider (IdP) server for your tailnet",
     "pname": "tsidp",
-    "version": "0.0.9"
+    "version": "0.0.10"
   },
   "legacyPackages.x86_64-linux.tslib": {
     "description": "Touchscreen access library",
@@ -499742,7 +499737,7 @@
   "legacyPackages.x86_64-linux.updfparser": {
     "description": "Very simple PDF parser",
     "pname": "updfparser",
-    "version": ""
+    "version": "0-unstable-2024-03-24"
   },
   "legacyPackages.x86_64-linux.updog": {
     "description": "Replacement for Python's SimpleHTTPServer",
@@ -500787,7 +500782,7 @@
   "legacyPackages.x86_64-linux.vassal": {
     "description": "Free, open-source boardgame engine",
     "pname": "VASSAL",
-    "version": "3.7.18"
+    "version": "3.7.19"
   },
   "legacyPackages.x86_64-linux.vatprism": {
     "description": "VATSIM map and data explorer",
@@ -501177,7 +501172,7 @@
   "legacyPackages.x86_64-linux.veilid": {
     "description": "Open-source, peer-to-peer, mobile-first, networked application framework",
     "pname": "veilid",
-    "version": "0.5.0"
+    "version": "0.5.2"
   },
   "legacyPackages.x86_64-linux.velero": {
     "description": "Utility for managing disaster recovery, specifically for your Kubernetes cluster resources and persistent volumes",
@@ -518897,7 +518892,7 @@
   "legacyPackages.x86_64-linux.wasmedge": {
     "description": "Lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications",
     "pname": "wasmedge",
-    "version": "0.15.0"
+    "version": "0.16.1"
   },
   "legacyPackages.x86_64-linux.wasmer": {
     "description": "Universal WebAssembly Runtime",
@@ -519387,7 +519382,7 @@
   "legacyPackages.x86_64-linux.weasis": {
     "description": "Multipurpose standalone and web-based DICOM viewer with a highly modular architecture",
     "pname": "weasis",
-    "version": "4.6.5"
+    "version": "4.6.6"
   },
   "legacyPackages.x86_64-linux.weather": {
     "description": "Quick access to current weather conditions and forecasts",
@@ -524749,6 +524744,11 @@
     "pname": "xob",
     "version": "0.3"
   },
+  "legacyPackages.x86_64-linux.xone-dongle-firmware": {
+    "description": "Xbox One wireless dongle firmware",
+    "pname": "xone-dongle-firmware",
+    "version": "0-unstable-2025-12-18"
+  },
   "legacyPackages.x86_64-linux.xonotic": {
     "description": "Free fast-paced first-person shooter",
     "pname": "xonotic-sdl",
@@ -525973,11 +525973,6 @@
     "description": "Xournal++ is a handwriting Notetaking software with PDF annotation support",
     "pname": "xournalpp",
     "version": "1.3.1"
-  },
-  "legacyPackages.x86_64-linux.xow_dongle-firmware": {
-    "description": "Xbox One wireless dongle firmware",
-    "pname": "xow_dongle-firmware",
-    "version": "0-unstable-2025-04-22"
   },
   "legacyPackages.x86_64-linux.xp-pen-deco-01-v2-driver": {
     "description": "Drivers for the XP-PEN Deco 01 v2 drawing tablet",
@@ -527477,7 +527472,7 @@
   "legacyPackages.x86_64-linux.yoshimi": {
     "description": "High quality software synthesizer based on ZynAddSubFX",
     "pname": "yoshimi",
-    "version": "2.3.5.2"
+    "version": "2.3.5.3"
   },
   "legacyPackages.x86_64-linux.yosys": {
     "description": "Open RTL synthesis framework and tools",
@@ -527527,7 +527522,7 @@
   "legacyPackages.x86_64-linux.yourkit-java": {
     "description": "Award winning, fully featured low overhead profiler for Java EE and Java SE platforms",
     "pname": "yourkit-java",
-    "version": "2025.9-b161"
+    "version": "2025.9-b175"
   },
   "legacyPackages.x86_64-linux.youtrack": {
     "description": "Issue tracking and project management tool for developers",
@@ -528647,12 +528642,12 @@
   "legacyPackages.x86_64-linux.zigbee2mqtt": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.7.2"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.zigbee2mqtt_2": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.7.2"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.zigfetch": {
     "description": "Minimal neofetch/fastfetch like system information tool",
