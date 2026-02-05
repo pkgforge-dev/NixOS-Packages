@@ -9692,7 +9692,7 @@
   "legacyPackages.x86_64-linux.arp-scan-rs": {
     "description": "ARP scan tool for fast local network scans",
     "pname": "arp-scan-rs",
-    "version": "0.14.0"
+    "version": "0.15.1"
   },
   "legacyPackages.x86_64-linux.arpa2-leaf": {
     "description": "LDAP Extended Attribute Filter",
@@ -10977,7 +10977,7 @@
   "legacyPackages.x86_64-linux.athens": {
     "description": "Go module datastore and proxy",
     "pname": "athens",
-    "version": "0.16.1"
+    "version": "0.16.2"
   },
   "legacyPackages.x86_64-linux.atinout": {
     "description": "Tool for talking to modems",
@@ -11917,7 +11917,7 @@
   "legacyPackages.x86_64-linux.aws-lc": {
     "description": "General-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers",
     "pname": "aws-lc",
-    "version": "1.66.0"
+    "version": "1.67.0"
   },
   "legacyPackages.x86_64-linux.aws-mfa": {
     "description": "Manage AWS MFA Security Credentials",
@@ -14242,7 +14242,7 @@
   "legacyPackages.x86_64-linux.beam26Packages.livebook": {
     "description": "Automate code & data workflows with interactive Elixir notebooks",
     "pname": "livebook",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.beam26Packages.pc": {
     "description": "Rebar3 port compiler for native code",
@@ -14337,7 +14337,7 @@
   "legacyPackages.x86_64-linux.beam27Packages.livebook": {
     "description": "Automate code & data workflows with interactive Elixir notebooks",
     "pname": "livebook",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.beam27Packages.pc": {
     "description": "Rebar3 port compiler for native code",
@@ -14422,7 +14422,7 @@
   "legacyPackages.x86_64-linux.beam28Packages.livebook": {
     "description": "Automate code & data workflows with interactive Elixir notebooks",
     "pname": "livebook",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.beam28Packages.pc": {
     "description": "Rebar3 port compiler for native code",
@@ -14527,7 +14527,7 @@
   "legacyPackages.x86_64-linux.beamMinimal26Packages.livebook": {
     "description": "Automate code & data workflows with interactive Elixir notebooks",
     "pname": "livebook",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.beamMinimal26Packages.pc": {
     "description": "Rebar3 port compiler for native code",
@@ -14622,7 +14622,7 @@
   "legacyPackages.x86_64-linux.beamMinimal27Packages.livebook": {
     "description": "Automate code & data workflows with interactive Elixir notebooks",
     "pname": "livebook",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.beamMinimal27Packages.pc": {
     "description": "Rebar3 port compiler for native code",
@@ -14707,7 +14707,7 @@
   "legacyPackages.x86_64-linux.beamMinimal28Packages.livebook": {
     "description": "Automate code & data workflows with interactive Elixir notebooks",
     "pname": "livebook",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.pc": {
     "description": "Rebar3 port compiler for native code",
@@ -16207,7 +16207,7 @@
   "legacyPackages.x86_64-linux.bloop": {
     "description": "Scala build server and command-line tool to make the compile and test developer workflows fast and productive in a build-tool-agnostic way",
     "pname": "bloop",
-    "version": "2.0.18"
+    "version": "2.0.19"
   },
   "legacyPackages.x86_64-linux.blowfish-tools": {
     "description": "CLI to initialize and configure a Blowfish project",
@@ -18652,12 +18652,12 @@
   "legacyPackages.x86_64-linux.calibre": {
     "description": "Comprehensive e-book software",
     "pname": "calibre",
-    "version": "8.15.0"
+    "version": "8.16.2"
   },
   "legacyPackages.x86_64-linux.calibre-no-speech": {
     "description": "Comprehensive e-book software",
     "pname": "calibre",
-    "version": "8.15.0"
+    "version": "8.16.2"
   },
   "legacyPackages.x86_64-linux.calibre-web": {
     "description": "Web app for browsing, reading and downloading eBooks stored in a Calibre database",
@@ -18762,7 +18762,7 @@
   "legacyPackages.x86_64-linux.cameradar": {
     "description": "RTSP stream access tool",
     "pname": "cameradar",
-    "version": "6.0.0"
+    "version": "6.0.2"
   },
   "legacyPackages.x86_64-linux.camilladsp": {
     "description": "Flexible cross-platform IIR and FIR engine for crossovers, room correction etc",
@@ -19412,7 +19412,7 @@
   "legacyPackages.x86_64-linux.cargo-mutants": {
     "description": "Mutation testing tool for Rust",
     "pname": "cargo-mutants",
-    "version": "26.0.0"
+    "version": "26.2.0"
   },
   "legacyPackages.x86_64-linux.cargo-ndk": {
     "description": "Cargo extension for building Android NDK projects",
@@ -19712,12 +19712,12 @@
   "legacyPackages.x86_64-linux.cargo-xwin": {
     "description": "Cross compile Cargo project to Windows MSVC target with ease",
     "pname": "cargo-xwin",
-    "version": "0.21.3"
+    "version": "0.21.4"
   },
   "legacyPackages.x86_64-linux.cargo-zigbuild": {
     "description": "Tool to compile Cargo projects with zig as the linker",
     "pname": "cargo-zigbuild",
-    "version": "0.21.4"
+    "version": "0.21.6"
   },
   "legacyPackages.x86_64-linux.cargo2junit": {
     "description": "Converts cargo's json output (from stdin) to JUnit XML (to stdout)",
@@ -24532,7 +24532,7 @@
   "legacyPackages.x86_64-linux.chirpstack-udp-forwarder": {
     "description": "UDP packet-forwarder for the ChirpStack Concentratord",
     "pname": "chirpstack-udp-forwarder",
-    "version": "4.2.1"
+    "version": "4.3.0"
   },
   "legacyPackages.x86_64-linux.chisel": {
     "description": "TCP/UDP tunnel over HTTP",
@@ -24912,7 +24912,7 @@
   "legacyPackages.x86_64-linux.cirrus-cli": {
     "description": "CLI for executing Cirrus tasks locally and in any CI",
     "pname": "cirrus-cli",
-    "version": "0.161.5"
+    "version": "0.162.0"
   },
   "legacyPackages.x86_64-linux.cirrusgo": {
     "description": "Tool to scan SAAS and PAAS applications",
@@ -26652,7 +26652,7 @@
   "legacyPackages.x86_64-linux.codex-acp": {
     "description": "An ACP-compatible coding agent powered by Codex",
     "pname": "codex-acp",
-    "version": "0.9.0"
+    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.codipack": {
     "description": "Fast gradient evaluation in C++ based on Expression Templates",
@@ -28397,7 +28397,7 @@
   "legacyPackages.x86_64-linux.coroot-node-agent": {
     "description": "Prometheus exporter based on eBPF",
     "pname": "coroot-node-agent",
-    "version": "1.27.4"
+    "version": "1.28.1"
   },
   "legacyPackages.x86_64-linux.corosync": {
     "description": "Group Communication System with features for implementing high availability within applications",
@@ -32177,17 +32177,17 @@
   "legacyPackages.x86_64-linux.dbip-asn-lite": {
     "description": "Free IP to ASN Lite database by DB-IP",
     "pname": "dbip-asn-lite",
-    "version": "2026-01"
+    "version": "2026-02"
   },
   "legacyPackages.x86_64-linux.dbip-city-lite": {
     "description": "Free IP to City Lite database by DB-IP",
     "pname": "dbip-city-lite",
-    "version": "2026-01"
+    "version": "2026-02"
   },
   "legacyPackages.x86_64-linux.dbip-country-lite": {
     "description": "Free IP to Country Lite database by DB-IP",
     "pname": "dbip-country-lite",
-    "version": "2026-01"
+    "version": "2026-02"
   },
   "legacyPackages.x86_64-linux.dblab": {
     "description": "Database client every command line junkie deserves",
@@ -44402,7 +44402,7 @@
   "legacyPackages.x86_64-linux.flyway": {
     "description": "Evolve your Database Schema easily and reliably across all your instances",
     "pname": "flyway",
-    "version": "11.19.1"
+    "version": "12.0.0"
   },
   "legacyPackages.x86_64-linux.flywheel-cli": {
     "description": "Library and command line interface for interacting with a Flywheel site",
@@ -47762,7 +47762,7 @@
   "legacyPackages.x86_64-linux.gemini-cli": {
     "description": "AI agent that brings the power of Gemini directly into your terminal",
     "pname": "gemini-cli",
-    "version": "0.25.2"
+    "version": "0.26.0"
   },
   "legacyPackages.x86_64-linux.gemini-cli-bin": {
     "description": "AI agent that brings the power of Gemini directly into your terminal",
@@ -58097,7 +58097,7 @@
   "legacyPackages.x86_64-linux.gomuks-web": {
     "description": "Matrix client written in Go",
     "pname": "gomuks-web",
-    "version": "0.2025.11-unstable-2025-11-01"
+    "version": "0.2601.0"
   },
   "legacyPackages.x86_64-linux.gonic": {
     "description": "Music streaming server / subsonic server API implementation",
@@ -58197,7 +58197,7 @@
   "legacyPackages.x86_64-linux.google-chrome": {
     "description": "Freeware web browser developed by Google",
     "pname": "google-chrome",
-    "version": "144.0.7559.109"
+    "version": "144.0.7559.132"
   },
   "legacyPackages.x86_64-linux.google-clasp": {
     "description": "Develop Apps Script Projects locally",
@@ -58267,7 +58267,7 @@
   "legacyPackages.x86_64-linux.google-java-format": {
     "description": "Java source formatter by Google",
     "pname": "google-java-format",
-    "version": "1.33.0"
+    "version": "1.34.0"
   },
   "legacyPackages.x86_64-linux.google-lighthouse": {
     "description": "Automated auditing, performance metrics, and best practices for the web",
@@ -61737,7 +61737,7 @@
   "legacyPackages.x86_64-linux.haproxy": {
     "description": "Reliable, high performance TCP/HTTP load balancer",
     "pname": "haproxy",
-    "version": "3.3.1"
+    "version": "3.3.2"
   },
   "legacyPackages.x86_64-linux.har-to-k6": {
     "description": "Converts LI-HAR and HAR to K6 script",
@@ -164307,7 +164307,7 @@
   "legacyPackages.x86_64-linux.infrastructure-agent": {
     "description": "New Relic Infrastructure Agent",
     "pname": "infrastructure-agent",
-    "version": "1.72.0"
+    "version": "1.72.1"
   },
   "legacyPackages.x86_64-linux.ingen": {
     "description": "Modular audio processing system using JACK and LV2 or LADSPA plugins",
@@ -168032,7 +168032,7 @@
   "legacyPackages.x86_64-linux.kafkactl": {
     "description": "Command Line Tool for managing Apache Kafka",
     "pname": "kafkactl",
-    "version": "5.17.0"
+    "version": "5.17.1"
   },
   "legacyPackages.x86_64-linux.kagen": {
     "description": "Communication-free Massively Distributed Graph Generators",
@@ -172462,7 +172462,7 @@
   "legacyPackages.x86_64-linux.knot-resolver-manager_6": {
     "description": "Caching validating DNS resolver, from .cz domain registry",
     "pname": "python3.13-knot-resolver-manager_6",
-    "version": "6.1.0"
+    "version": "6.2.0"
   },
   "legacyPackages.x86_64-linux.knot-resolver_5": {
     "description": "Caching validating DNS resolver, from .cz domain registry",
@@ -172472,7 +172472,7 @@
   "legacyPackages.x86_64-linux.knot-resolver_6": {
     "description": "Caching validating DNS resolver, from .cz domain registry",
     "pname": "knot-resolver_6",
-    "version": "6.1.0"
+    "version": "6.2.0"
   },
   "legacyPackages.x86_64-linux.knowsmore": {
     "description": "Tool for pentesting Microsoft Active Directory",
@@ -172487,7 +172487,7 @@
   "legacyPackages.x86_64-linux.knxd": {
     "description": "Advanced router/gateway for KNX",
     "pname": "knxd",
-    "version": "0.14.73"
+    "version": "0.14.75"
   },
   "legacyPackages.x86_64-linux.ko": {
     "description": "Build and deploy Go applications",
@@ -173502,7 +173502,7 @@
   "legacyPackages.x86_64-linux.kstars": {
     "description": "Virtual planetarium astronomy software",
     "pname": "kstars",
-    "version": "3.8.0"
+    "version": "3.8.1"
   },
   "legacyPackages.x86_64-linux.kstart": {
     "description": "Modified version of kerberos tools that support automatic ticket refresh",
@@ -174712,7 +174712,7 @@
   "legacyPackages.x86_64-linux.lazysql": {
     "description": "Cross-platform TUI database management tool written in Go",
     "pname": "lazysql",
-    "version": "0.4.6"
+    "version": "0.4.7"
   },
   "legacyPackages.x86_64-linux.lazyssh": {
     "description": "Terminal-based SSH manager",
@@ -179347,7 +179347,7 @@
   "legacyPackages.x86_64-linux.libre": {
     "description": "Library for real-time communications with async IO support and a complete SIP stack",
     "pname": "libre",
-    "version": "4.4.0"
+    "version": "4.5.0"
   },
   "legacyPackages.x86_64-linux.libre-baskerville": {
     "description": "Webfont family optimized for body text",
@@ -179662,7 +179662,7 @@
   "legacyPackages.x86_64-linux.libretranslate": {
     "description": "Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services",
     "pname": "libretranslate",
-    "version": "1.8.3"
+    "version": "1.8.4"
   },
   "legacyPackages.x86_64-linux.libretro-core-info": {
     "description": "Libretro's core info files",
@@ -179677,7 +179677,7 @@
   "legacyPackages.x86_64-linux.libretro.atari800": {
     "description": "Port of Atari800 to libretro",
     "pname": "libretro-atari800",
-    "version": "0-unstable-2025-12-04"
+    "version": "0-unstable-2026-01-30"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-gba": {
     "description": "Port of Mednafen's GameBoy Advance core to libretro",
@@ -200387,7 +200387,7 @@
   "legacyPackages.x86_64-linux.livebook": {
     "description": "Automate code & data workflows with interactive Elixir notebooks",
     "pname": "livebook",
-    "version": "0.18.3"
+    "version": "0.18.4"
   },
   "legacyPackages.x86_64-linux.livecaptions": {
     "description": "Linux Desktop application that provides live captioning",
@@ -202392,12 +202392,12 @@
   "legacyPackages.x86_64-linux.lockbook": {
     "description": "Private, polished note-taking platform",
     "pname": "lockbook",
-    "version": "26.1.27"
+    "version": "26.1.31"
   },
   "legacyPackages.x86_64-linux.lockbook-desktop": {
     "description": "Private, polished note-taking platform",
     "pname": "lockbook-desktop",
-    "version": "26.1.27"
+    "version": "26.1.31"
   },
   "legacyPackages.x86_64-linux.lockdep": {
     "description": "Userspace locking validation tool built on the Linux kernel",
@@ -212022,7 +212022,7 @@
   "legacyPackages.x86_64-linux.mastodon": {
     "description": "Self-hosted, globally interconnected microblogging software based on ActivityPub",
     "pname": "mastodon",
-    "version": "4.5.5"
+    "version": "4.5.6"
   },
   "legacyPackages.x86_64-linux.mastodon-archive": {
     "description": "Utility for backing up your Mastodon content",
@@ -213232,7 +213232,7 @@
   "legacyPackages.x86_64-linux.mdns-scanner": {
     "description": "Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases",
     "pname": "mdns-scanner",
-    "version": "0.26.0"
+    "version": "0.26.1"
   },
   "legacyPackages.x86_64-linux.mdp": {
     "description": "Command-line based markdown presentation tool",
@@ -214732,7 +214732,7 @@
   "legacyPackages.x86_64-linux.mini-calc": {
     "description": "Fully-featured minimalistic configurable calculator written in Rust",
     "pname": "mini-calc",
-    "version": "4.0.0"
+    "version": "4.0.2"
   },
   "legacyPackages.x86_64-linux.mini-redis": {
     "description": "Incomplete, idiomatic implementation of a Redis client and server built with Tokio, for learning purposes",
@@ -218617,7 +218617,7 @@
   "legacyPackages.x86_64-linux.music-assistant": {
     "description": "Music Assistant is a music library manager for various music sources which can easily stream to a wide range of supported players",
     "pname": "music-assistant",
-    "version": "2.7.5"
+    "version": "2.7.6"
   },
   "legacyPackages.x86_64-linux.music-discord-rpc": {
     "description": "Cross-platform Discord rich presence for music with album cover and progress bar support",
@@ -232261,7 +232261,7 @@
   },
   "legacyPackages.x86_64-linux.ocamlPackages.ocaml_mysql": {
     "description": "Bindings for interacting with MySQL databases from ocaml",
-    "pname": "ocaml-mysql",
+    "pname": "ocaml5.3.0-ocaml-mysql",
     "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.ocaml_oasis": {
@@ -239021,7 +239021,7 @@
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml_mysql": {
     "description": "Bindings for interacting with MySQL databases from ocaml",
-    "pname": "ocaml-mysql",
+    "pname": "ocaml5.4.0-ocaml-mysql",
     "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml_oasis": {
@@ -247687,7 +247687,7 @@
   "legacyPackages.x86_64-linux.pay-respects": {
     "description": "Terminal command correction, alternative to thefuck, written in Rust",
     "pname": "pay-respects",
-    "version": "0.7.9"
+    "version": "0.7.10"
   },
   "legacyPackages.x86_64-linux.payload-dumper-go": {
     "description": "Android OTA payload dumper written in Go",
@@ -247912,7 +247912,7 @@
   "legacyPackages.x86_64-linux.pcsx2": {
     "description": "Playstation 2 emulator",
     "pname": "pcsx2",
-    "version": "2.6.2"
+    "version": "2.6.3"
   },
   "legacyPackages.x86_64-linux.pcsx2-bin": {
     "description": "Playstation 2 emulator (precompiled binary, repacked from official website)",
@@ -267942,7 +267942,7 @@
   "legacyPackages.x86_64-linux.perplexity-mcp": {
     "description": "The official MCP server implementation for the Perplexity API Platform",
     "pname": "perplexity-mcp",
-    "version": "0-unstable-2025-12-19"
+    "version": "0-unstable-2026-01-28"
   },
   "legacyPackages.x86_64-linux.persepolis": {
     "description": "Download manager GUI written in Python",
@@ -274135,9 +274135,9 @@
     "version": "1.3.8"
   },
   "legacyPackages.x86_64-linux.plikd": {
-    "description": "",
+    "description": "Scalable & friendly temporary file upload system",
     "pname": "plikd",
-    "version": "1.3.7"
+    "version": "1.3.8"
   },
   "legacyPackages.x86_64-linux.plink-ng": {
     "description": "Comprehensive update to the PLINK association analysis toolset",
@@ -274532,7 +274532,7 @@
   "legacyPackages.x86_64-linux.podlet": {
     "description": "Generate Podman Quadlet files from a Podman command, compose file, or existing object",
     "pname": "podlet",
-    "version": "0.3.0"
+    "version": "0.3.1"
   },
   "legacyPackages.x86_64-linux.podman": {
     "description": "Program for managing pods, containers and container images",
@@ -275102,7 +275102,7 @@
   "legacyPackages.x86_64-linux.postfix-tlspol": {
     "description": "Lightweight MTA-STS + DANE/TLSA resolver and TLS policy server for Postfix, prioritizing DANE",
     "pname": "postfix-tlspol",
-    "version": "1.8.24"
+    "version": "1.8.25"
   },
   "legacyPackages.x86_64-linux.postfixadmin": {
     "description": "Web based virtual user administration interface for Postfix mail servers",
@@ -278822,7 +278822,7 @@
   "legacyPackages.x86_64-linux.protobuf-language-server": {
     "description": "Language server implementation for Google Protocol Buffers",
     "pname": "protobuf-language-server",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "legacyPackages.x86_64-linux.protobuf-matchers": {
     "description": "Protocol buffer matchers for gMock/gTest",
@@ -279222,7 +279222,7 @@
   "legacyPackages.x86_64-linux.proxyman": {
     "description": "Capture, inspect, and manipulate HTTP(s) requests/responses with ease",
     "pname": "proxyman",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.proxypin": {
     "description": "Capture HTTP(S) traffic software",
@@ -280102,7 +280102,7 @@
   "legacyPackages.x86_64-linux.pyinfra": {
     "description": "Python-based infrastructure automation",
     "pname": "pyinfra",
-    "version": "3.6"
+    "version": "3.6.1"
   },
   "legacyPackages.x86_64-linux.pykickstart": {
     "description": "Python package to interact with Kickstart files commonly found in the RPM world",
@@ -280132,7 +280132,7 @@
   "legacyPackages.x86_64-linux.pylode": {
     "description": "OWL ontology documentation tool using Python and templating, based on LODE",
     "pname": "pylode",
-    "version": "3.2.1"
+    "version": "3.2.3"
   },
   "legacyPackages.x86_64-linux.pylyzer": {
     "description": "Fast static code analyzer & language server for Python",
@@ -280237,7 +280237,7 @@
   "legacyPackages.x86_64-linux.pyrefly": {
     "description": "Fast type checker and IDE for Python",
     "pname": "pyrefly",
-    "version": "0.50.0"
+    "version": "0.51.0"
   },
   "legacyPackages.x86_64-linux.pyright": {
     "description": "Type checker for the Python language",
@@ -281557,7 +281557,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aioswitcher": {
     "description": "Python module to interact with Switcher water heater",
     "pname": "python3.13-aioswitcher",
-    "version": "6.0.3"
+    "version": "6.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.aiosyncthing": {
     "description": "Python client for the Syncthing REST API",
@@ -282142,7 +282142,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ansicolor": {
     "description": "Library to produce ansi color output and colored highlighting and diffing",
     "pname": "python3.13-ansicolor",
-    "version": "0.3.2"
+    "version": "0.3.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.ansicolors": {
     "description": "ANSI colors for Python",
@@ -288332,7 +288332,7 @@
   "legacyPackages.x86_64-linux.python313Packages.cytoolz": {
     "description": "Cython implementation of Toolz: High performance functional utilities",
     "pname": "python3.13-cytoolz",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.cyvest": {
     "description": "Cybersecurity Investigation Model",
@@ -288658,11 +288658,6 @@
     "description": "Collection of utilities for doing lightweight data wrangling",
     "pname": "python3.13-datashaper",
     "version": "0.0.49"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.datatable": {
-    "description": "data.table for Python",
-    "pname": "python3.13-datatable",
-    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.datauri": {
     "description": "Module for Data URI manipulation",
@@ -290532,7 +290527,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django_4": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.13-django",
-    "version": "4.2.27"
+    "version": "4.2.28"
   },
   "legacyPackages.x86_64-linux.python313Packages.django_5": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
@@ -297302,7 +297297,7 @@
   "legacyPackages.x86_64-linux.python313Packages.icontract": {
     "description": "Provide design-by-contract with informative violation messages",
     "pname": "python3.13-icontract",
-    "version": "2.7.2"
+    "version": "2.7.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.ics": {
     "description": "Pythonic and easy iCalendar library (RFC 5545)",
@@ -300487,7 +300482,7 @@
   "legacyPackages.x86_64-linux.python313Packages.libretranslate": {
     "description": "Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services",
     "pname": "python3.13-libretranslate",
-    "version": "1.8.3"
+    "version": "1.8.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.librosa": {
     "description": "Python library for audio and music analysis",
@@ -302227,7 +302222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mdformat-footnote": {
     "description": "Footnote format addition for mdformat",
     "pname": "python3.13-mdformat-footnote",
-    "version": "0.1.2"
+    "version": "0.1.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.mdformat-front-matters": {
     "description": "mdformat plugin to format YAML, TOML, or JSON front matter",
@@ -305862,7 +305857,7 @@
   "legacyPackages.x86_64-linux.python313Packages.nanobind": {
     "description": "Tiny and efficient C++/Python bindings",
     "pname": "python3.13-nanobind",
-    "version": "2.10.2"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.nanoeigenpy": {
     "description": "Support library for bindings between Eigen in C++ and Python, based on nanobind",
@@ -308887,7 +308882,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pbs-installer": {
     "description": "Installer for Python Build Standalone",
     "pname": "python3.13-pbs-installer",
-    "version": "2026.01.14"
+    "version": "2026.01.27"
   },
   "legacyPackages.x86_64-linux.python313Packages.pbxproj": {
     "description": "Python module to manipulate XCode projects ",
@@ -309852,7 +309847,7 @@
   "legacyPackages.x86_64-linux.python313Packages.plotnine": {
     "description": "Grammar of graphics for Python",
     "pname": "python3.13-plotnine",
-    "version": "0.15.2"
+    "version": "0.15.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.plotpy": {
     "description": "Curve and image plotting tools for Python/Qt applications",
@@ -313032,7 +313027,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyinfra": {
     "description": "Python-based infrastructure automation",
     "pname": "python3.13-pyinfra",
-    "version": "3.6"
+    "version": "3.6.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyinfra-testgen": {
     "description": "Generate Python unit tests from JSON and YAML files",
@@ -315407,7 +315402,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysmarlaapi": {
     "description": "Swing2Sleep Smarla API",
     "pname": "python3.13-pysmarlaapi",
-    "version": "0.10.0"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysmart": {
     "description": "Wrapper for smartctl (smartmontools)",
@@ -323302,7 +323297,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sqlalchemy-utils": {
     "description": "Various utility functions and datatypes for SQLAlchemy",
     "pname": "python3.13-sqlalchemy-utils",
-    "version": "0.42.2"
+    "version": "0.41.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.sqlalchemy_1_4": {
     "description": "Database Toolkit for Python",
@@ -323712,7 +323707,7 @@
   "legacyPackages.x86_64-linux.python313Packages.statsmodels": {
     "description": "Statistical computations and models for use with SciPy",
     "pname": "python3.13-statsmodels",
-    "version": "0.14.5"
+    "version": "0.14.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.std-uritemplate": {
     "description": "Std-uritemplate implementation for Python",
@@ -324067,7 +324062,7 @@
   "legacyPackages.x86_64-linux.python313Packages.subarulink": {
     "description": "Python module for interacting with STARLINK-enabled vehicle",
     "pname": "python3.13-subarulink",
-    "version": "0.7.17"
+    "version": "0.7.18"
   },
   "legacyPackages.x86_64-linux.python313Packages.subliminal": {
     "description": "Python library to search and download subtitles",
@@ -329264,11 +329259,6 @@
     "pname": "python3.13-typesense",
     "version": "1.1.1"
   },
-  "legacyPackages.x86_64-linux.python313Packages.typesentry": {
-    "description": "Python 2.7 & 3.5+ runtime type-checker",
-    "pname": "python3.13-typesentry",
-    "version": "0.2.7"
-  },
   "legacyPackages.x86_64-linux.python313Packages.typeshed-client": {
     "description": "Retrieve information from typeshed and other typing stubs",
     "pname": "python3.13-typeshed-client",
@@ -331660,7 +331650,7 @@
     "version": "26.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.xsdata-pydantic": {
-    "description": "Naive XML & JSON Bindings for python pydantic classes!",
+    "description": "Naive XML & JSON Bindings for python pydantic classes",
     "pname": "python3.13-xsdata-pydantic",
     "version": "24.5"
   },
@@ -333652,7 +333642,7 @@
   "legacyPackages.x86_64-linux.python314Packages.aioswitcher": {
     "description": "Python module to interact with Switcher water heater",
     "pname": "python3.14-aioswitcher",
-    "version": "6.0.3"
+    "version": "6.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.aiosyncthing": {
     "description": "Python client for the Syncthing REST API",
@@ -334237,7 +334227,7 @@
   "legacyPackages.x86_64-linux.python314Packages.ansicolor": {
     "description": "Library to produce ansi color output and colored highlighting and diffing",
     "pname": "python3.14-ansicolor",
-    "version": "0.3.2"
+    "version": "0.3.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.ansicolors": {
     "description": "ANSI colors for Python",
@@ -340422,7 +340412,7 @@
   "legacyPackages.x86_64-linux.python314Packages.cytoolz": {
     "description": "Cython implementation of Toolz: High performance functional utilities",
     "pname": "python3.14-cytoolz",
-    "version": "1.0.1"
+    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.cyvest": {
     "description": "Cybersecurity Investigation Model",
@@ -340748,11 +340738,6 @@
     "description": "Collection of utilities for doing lightweight data wrangling",
     "pname": "python3.14-datashaper",
     "version": "0.0.49"
-  },
-  "legacyPackages.x86_64-linux.python314Packages.datatable": {
-    "description": "data.table for Python",
-    "pname": "python3.14-datatable",
-    "version": "1.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.datauri": {
     "description": "Module for Data URI manipulation",
@@ -342622,7 +342607,7 @@
   "legacyPackages.x86_64-linux.python314Packages.django_4": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
     "pname": "python3.14-django",
-    "version": "4.2.27"
+    "version": "4.2.28"
   },
   "legacyPackages.x86_64-linux.python314Packages.django_5": {
     "description": "High-level Python Web framework that encourages rapid development and clean, pragmatic design",
@@ -349392,7 +349377,7 @@
   "legacyPackages.x86_64-linux.python314Packages.icontract": {
     "description": "Provide design-by-contract with informative violation messages",
     "pname": "python3.14-icontract",
-    "version": "2.7.2"
+    "version": "2.7.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.ics": {
     "description": "Pythonic and easy iCalendar library (RFC 5545)",
@@ -352577,7 +352562,7 @@
   "legacyPackages.x86_64-linux.python314Packages.libretranslate": {
     "description": "Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services",
     "pname": "python3.14-libretranslate",
-    "version": "1.8.3"
+    "version": "1.8.4"
   },
   "legacyPackages.x86_64-linux.python314Packages.librosa": {
     "description": "Python library for audio and music analysis",
@@ -354317,7 +354302,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mdformat-footnote": {
     "description": "Footnote format addition for mdformat",
     "pname": "python3.14-mdformat-footnote",
-    "version": "0.1.2"
+    "version": "0.1.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.mdformat-front-matters": {
     "description": "mdformat plugin to format YAML, TOML, or JSON front matter",
@@ -357952,7 +357937,7 @@
   "legacyPackages.x86_64-linux.python314Packages.nanobind": {
     "description": "Tiny and efficient C++/Python bindings",
     "pname": "python3.14-nanobind",
-    "version": "2.10.2"
+    "version": "2.11.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.nanoeigenpy": {
     "description": "Support library for bindings between Eigen in C++ and Python, based on nanobind",
@@ -360977,7 +360962,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pbs-installer": {
     "description": "Installer for Python Build Standalone",
     "pname": "python3.14-pbs-installer",
-    "version": "2026.01.14"
+    "version": "2026.01.27"
   },
   "legacyPackages.x86_64-linux.python314Packages.pbxproj": {
     "description": "Python module to manipulate XCode projects ",
@@ -361942,7 +361927,7 @@
   "legacyPackages.x86_64-linux.python314Packages.plotnine": {
     "description": "Grammar of graphics for Python",
     "pname": "python3.14-plotnine",
-    "version": "0.15.2"
+    "version": "0.15.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.plotpy": {
     "description": "Curve and image plotting tools for Python/Qt applications",
@@ -365122,7 +365107,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pyinfra": {
     "description": "Python-based infrastructure automation",
     "pname": "python3.14-pyinfra",
-    "version": "3.6"
+    "version": "3.6.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.pyinfra-testgen": {
     "description": "Generate Python unit tests from JSON and YAML files",
@@ -367497,7 +367482,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pysmarlaapi": {
     "description": "Swing2Sleep Smarla API",
     "pname": "python3.14-pysmarlaapi",
-    "version": "0.10.0"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysmart": {
     "description": "Wrapper for smartctl (smartmontools)",
@@ -375392,7 +375377,7 @@
   "legacyPackages.x86_64-linux.python314Packages.sqlalchemy-utils": {
     "description": "Various utility functions and datatypes for SQLAlchemy",
     "pname": "python3.14-sqlalchemy-utils",
-    "version": "0.42.2"
+    "version": "0.41.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.sqlalchemy_1_4": {
     "description": "Database Toolkit for Python",
@@ -375802,7 +375787,7 @@
   "legacyPackages.x86_64-linux.python314Packages.statsmodels": {
     "description": "Statistical computations and models for use with SciPy",
     "pname": "python3.14-statsmodels",
-    "version": "0.14.5"
+    "version": "0.14.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.std-uritemplate": {
     "description": "Std-uritemplate implementation for Python",
@@ -376157,7 +376142,7 @@
   "legacyPackages.x86_64-linux.python314Packages.subarulink": {
     "description": "Python module for interacting with STARLINK-enabled vehicle",
     "pname": "python3.14-subarulink",
-    "version": "0.7.17"
+    "version": "0.7.18"
   },
   "legacyPackages.x86_64-linux.python314Packages.subliminal": {
     "description": "Python library to search and download subtitles",
@@ -381354,11 +381339,6 @@
     "pname": "python3.14-typesense",
     "version": "1.1.1"
   },
-  "legacyPackages.x86_64-linux.python314Packages.typesentry": {
-    "description": "Python 2.7 & 3.5+ runtime type-checker",
-    "pname": "python3.14-typesentry",
-    "version": "0.2.7"
-  },
   "legacyPackages.x86_64-linux.python314Packages.typeshed-client": {
     "description": "Retrieve information from typeshed and other typing stubs",
     "pname": "python3.14-typeshed-client",
@@ -383750,7 +383730,7 @@
     "version": "26.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.xsdata-pydantic": {
-    "description": "Naive XML & JSON Bindings for python pydantic classes!",
+    "description": "Naive XML & JSON Bindings for python pydantic classes",
     "pname": "python3.14-xsdata-pydantic",
     "version": "24.5"
   },
@@ -400067,12 +400047,12 @@
   "legacyPackages.x86_64-linux.rust-analyzer": {
     "description": "Language server for the Rust language",
     "pname": "rust-analyzer",
-    "version": "2026-01-26"
+    "version": "2026-02-02"
   },
   "legacyPackages.x86_64-linux.rust-analyzer-unwrapped": {
     "description": "Language server for the Rust language",
     "pname": "rust-analyzer-unwrapped",
-    "version": "2026-01-26"
+    "version": "2026-02-02"
   },
   "legacyPackages.x86_64-linux.rust-audit-info": {
     "description": "Command-line tool to extract the dependency trees embedded in binaries by cargo-auditable",
@@ -427692,7 +427672,7 @@
   "legacyPackages.x86_64-linux.sing-geoip": {
     "description": "GeoIP data for sing-box",
     "pname": "sing-geoip",
-    "version": "2026-01"
+    "version": "2026-02"
   },
   "legacyPackages.x86_64-linux.sing-geosite": {
     "description": "Community managed domain list",
@@ -427962,7 +427942,7 @@
   "legacyPackages.x86_64-linux.sketchybar-app-font": {
     "description": "Ligature-based symbol font and a mapping function for sketchybar",
     "pname": "sketchybar-app-font",
-    "version": "2.0.51"
+    "version": "2.0.52"
   },
   "legacyPackages.x86_64-linux.skhd": {
     "description": "Simple hotkey daemon for macOS",
@@ -428442,7 +428422,7 @@
   "legacyPackages.x86_64-linux.slurp": {
     "description": "Select a region in a Wayland compositor",
     "pname": "slurp",
-    "version": "1.6.0"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.slushload": {
     "description": "Make turbo tape images from .prg files",
@@ -430752,7 +430732,7 @@
   "legacyPackages.x86_64-linux.sqlit-tui": {
     "description": "Lightweight TUI for SQL Server, PostgreSQL, MySQL, SQLite, and more",
     "pname": "sqlit-tui",
-    "version": "1.2.11"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.sqlite": {
     "description": "Self-contained, serverless, zero-configuration, transactional SQL database engine",
@@ -436672,7 +436652,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.google-beta": {
     "description": "",
     "pname": "terraform-provider-google-beta",
-    "version": "7.17.0"
+    "version": "7.18.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.grafana": {
     "description": "",
@@ -436752,7 +436732,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_google-beta": {
     "description": "",
     "pname": "terraform-provider-google-beta",
-    "version": "7.17.0"
+    "version": "7.18.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.hashicorp_helm": {
     "description": "",
@@ -437037,7 +437017,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.mailgun": {
     "description": "",
     "pname": "terraform-provider-mailgun",
-    "version": "0.8.1"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.marcofranssen_dexidp": {
     "description": "",
@@ -437497,12 +437477,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.spotinst": {
     "description": "",
     "pname": "terraform-provider-spotinst",
-    "version": "1.232.3"
+    "version": "1.232.4"
   },
   "legacyPackages.x86_64-linux.terraform-providers.spotinst_spotinst": {
     "description": "",
     "pname": "terraform-provider-spotinst",
-    "version": "1.232.3"
+    "version": "1.232.4"
   },
   "legacyPackages.x86_64-linux.terraform-providers.ssh": {
     "description": "",
@@ -437522,12 +437502,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.sumologic": {
     "description": "",
     "pname": "terraform-provider-sumologic",
-    "version": "3.2.2"
+    "version": "3.2.3"
   },
   "legacyPackages.x86_64-linux.terraform-providers.sumologic_sumologic": {
     "description": "",
     "pname": "terraform-provider-sumologic",
-    "version": "3.2.2"
+    "version": "3.2.3"
   },
   "legacyPackages.x86_64-linux.terraform-providers.sysdig": {
     "description": "",
@@ -437767,7 +437747,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.wgebis_mailgun": {
     "description": "",
     "pname": "terraform-provider-mailgun",
-    "version": "0.8.1"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.yandex": {
     "description": "",
@@ -448317,7 +448297,7 @@
   "legacyPackages.x86_64-linux.tev": {
     "description": "High dynamic range (HDR) image viewer for people who care about colors",
     "pname": "tev",
-    "version": "2.7.0"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.tevent": {
     "description": "Event system based on the talloc memory management library",
@@ -472002,7 +471982,7 @@
   "legacyPackages.x86_64-linux.tgeraser": {
     "description": "Tool to delete all your messages from Telegram",
     "pname": "tgeraser",
-    "version": "1.4.2"
+    "version": "1.5.1"
   },
   "legacyPackages.x86_64-linux.tgpt": {
     "description": "ChatGPT in terminal without needing API keys",
@@ -476472,7 +476452,7 @@
   "legacyPackages.x86_64-linux.twitch-dl": {
     "description": "CLI tool for downloading videos from Twitch",
     "pname": "twitch-dl",
-    "version": "3.1.0"
+    "version": "3.3.1"
   },
   "legacyPackages.x86_64-linux.twitch-hls-client": {
     "description": "Minimal CLI client for watching/recording Twitch streams",
@@ -476567,7 +476547,7 @@
   "legacyPackages.x86_64-linux.tygo": {
     "description": "Generate Typescript types from Golang source code",
     "pname": "tygo",
-    "version": "0.2.20"
+    "version": "0.2.21"
   },
   "legacyPackages.x86_64-linux.tym": {
     "description": "Lua-configurable terminal emulator",
@@ -476662,7 +476642,7 @@
   "legacyPackages.x86_64-linux.typos-lsp": {
     "description": "Source code spell checker",
     "pname": "typos-lsp",
-    "version": "0.1.46"
+    "version": "0.1.47"
   },
   "legacyPackages.x86_64-linux.typr": {
     "description": "Your Personal Typing Tutor",
@@ -500552,7 +500532,7 @@
   "legacyPackages.x86_64-linux.v2ray-geoip": {
     "description": "GeoIP for V2Ray",
     "pname": "v2ray-geoip",
-    "version": "2026-01"
+    "version": "2026-02"
   },
   "legacyPackages.x86_64-linux.v2raya": {
     "description": "Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel",
@@ -500722,7 +500702,7 @@
   "legacyPackages.x86_64-linux.valkey": {
     "description": "High-performance data structure server that primarily serves key/value workloads",
     "pname": "valkey",
-    "version": "9.0.1"
+    "version": "9.0.2"
   },
   "legacyPackages.x86_64-linux.vals": {
     "description": "Helm-like configuration values loader with support for various sources",
@@ -502472,7 +502452,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.blink-cmp": {
     "description": "Performant, batteries-included completion plugin for Neovim",
     "pname": "vimplugin-blink.cmp",
-    "version": "1.8.0"
+    "version": "1.9.0"
   },
   "legacyPackages.x86_64-linux.vimPlugins.blink-cmp-avante": {
     "description": "",
@@ -507183,1636 +507163,6 @@
     "description": "",
     "pname": "vimplugin-nvim-treesitter-legacy",
     "version": "0.10.0-unstable-2025-05-24"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ada": {
-    "description": "Tree-sitter grammar for ada",
-    "pname": "vimplugin-nvim-treesitter-grammar-ada",
-    "version": "0.0.0+rev=6c26c44"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.agda": {
-    "description": "Tree-sitter grammar for agda",
-    "pname": "vimplugin-nvim-treesitter-grammar-agda",
-    "version": "0.0.0+rev=e8d47a6"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.angular": {
-    "description": "Tree-sitter grammar for angular",
-    "pname": "vimplugin-nvim-treesitter-grammar-angular",
-    "version": "0.0.0+rev=d1f24a8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.apex": {
-    "description": "Tree-sitter grammar for apex",
-    "pname": "vimplugin-nvim-treesitter-grammar-apex",
-    "version": "0.0.0+rev=3597575"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.arduino": {
-    "description": "Tree-sitter grammar for arduino",
-    "pname": "vimplugin-nvim-treesitter-grammar-arduino",
-    "version": "0.0.0+rev=53eb391"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.asm": {
-    "description": "Tree-sitter grammar for asm",
-    "pname": "vimplugin-nvim-treesitter-grammar-asm",
-    "version": "0.0.0+rev=839741f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.astro": {
-    "description": "Tree-sitter grammar for astro",
-    "pname": "vimplugin-nvim-treesitter-grammar-astro",
-    "version": "0.0.0+rev=213f6e6"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.authzed": {
-    "description": "Tree-sitter grammar for authzed",
-    "pname": "vimplugin-nvim-treesitter-grammar-authzed",
-    "version": "0.0.0+rev=83e5c26"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.awk": {
-    "description": "Tree-sitter grammar for awk",
-    "pname": "vimplugin-nvim-treesitter-grammar-awk",
-    "version": "0.0.0+rev=34bbdc7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bash": {
-    "description": "Tree-sitter grammar for bash",
-    "pname": "vimplugin-nvim-treesitter-grammar-bash",
-    "version": "0.0.0+rev=a06c2e4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bass": {
-    "description": "Tree-sitter grammar for bass",
-    "pname": "vimplugin-nvim-treesitter-grammar-bass",
-    "version": "0.0.0+rev=28dc705"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.beancount": {
-    "description": "Tree-sitter grammar for beancount",
-    "pname": "vimplugin-nvim-treesitter-grammar-beancount",
-    "version": "0.0.0+rev=b7a2557"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bibtex": {
-    "description": "Tree-sitter grammar for bibtex",
-    "pname": "vimplugin-nvim-treesitter-grammar-bibtex",
-    "version": "0.0.0+rev=8d04ed2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bicep": {
-    "description": "Tree-sitter grammar for bicep",
-    "pname": "vimplugin-nvim-treesitter-grammar-bicep",
-    "version": "0.0.0+rev=bff5988"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bitbake": {
-    "description": "Tree-sitter grammar for bitbake",
-    "pname": "vimplugin-nvim-treesitter-grammar-bitbake",
-    "version": "0.0.0+rev=a5d04fd"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.blade": {
-    "description": "Tree-sitter grammar for blade",
-    "pname": "vimplugin-nvim-treesitter-grammar-blade",
-    "version": "0.0.0+rev=fbe5f81"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.blueprint": {
-    "description": "Tree-sitter grammar for blueprint",
-    "pname": "vimplugin-nvim-treesitter-grammar-blueprint",
-    "version": "0.0.0+rev=355ef84"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bp": {
-    "description": "Tree-sitter grammar for bp",
-    "pname": "vimplugin-nvim-treesitter-grammar-bp",
-    "version": "0.0.0+rev=ee641d1"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.brightscript": {
-    "description": "Tree-sitter grammar for brightscript",
-    "pname": "vimplugin-nvim-treesitter-grammar-brightscript",
-    "version": "0.0.0+rev=253fdfa"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.c": {
-    "description": "Tree-sitter grammar for c",
-    "pname": "vimplugin-nvim-treesitter-grammar-c",
-    "version": "0.0.0+rev=ae19b67"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.c3": {
-    "description": "Tree-sitter grammar for c3",
-    "pname": "vimplugin-nvim-treesitter-grammar-c3",
-    "version": "0.0.0+rev=3bcb189"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.c_sharp": {
-    "description": "Tree-sitter grammar for c_sharp",
-    "pname": "vimplugin-nvim-treesitter-grammar-c_sharp",
-    "version": "0.0.0+rev=485f0ba"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.caddy": {
-    "description": "Tree-sitter grammar for caddy",
-    "pname": "vimplugin-nvim-treesitter-grammar-caddy",
-    "version": "0.0.0+rev=2686186"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cairo": {
-    "description": "Tree-sitter grammar for cairo",
-    "pname": "vimplugin-nvim-treesitter-grammar-cairo",
-    "version": "0.0.0+rev=6238f60"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.capnp": {
-    "description": "Tree-sitter grammar for capnp",
-    "pname": "vimplugin-nvim-treesitter-grammar-capnp",
-    "version": "0.0.0+rev=7b0883c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.chatito": {
-    "description": "Tree-sitter grammar for chatito",
-    "pname": "vimplugin-nvim-treesitter-grammar-chatito",
-    "version": "0.0.0+rev=b4cbe9a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.circom": {
-    "description": "Tree-sitter grammar for circom",
-    "pname": "vimplugin-nvim-treesitter-grammar-circom",
-    "version": "0.0.0+rev=0215052"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.clojure": {
-    "description": "Tree-sitter grammar for clojure",
-    "pname": "vimplugin-nvim-treesitter-grammar-clojure",
-    "version": "0.0.0+rev=e43eff8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cmake": {
-    "description": "Tree-sitter grammar for cmake",
-    "pname": "vimplugin-nvim-treesitter-grammar-cmake",
-    "version": "0.0.0+rev=c7b2a71"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.comment": {
-    "description": "Tree-sitter grammar for comment",
-    "pname": "vimplugin-nvim-treesitter-grammar-comment",
-    "version": "0.0.0+rev=db922d7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.commonlisp": {
-    "description": "Tree-sitter grammar for commonlisp",
-    "pname": "vimplugin-nvim-treesitter-grammar-commonlisp",
-    "version": "0.0.0+rev=3232350"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cooklang": {
-    "description": "Tree-sitter grammar for cooklang",
-    "pname": "vimplugin-nvim-treesitter-grammar-cooklang",
-    "version": "0.0.0+rev=4ebe237"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.corn": {
-    "description": "Tree-sitter grammar for corn",
-    "pname": "vimplugin-nvim-treesitter-grammar-corn",
-    "version": "0.0.0+rev=4646547"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cpon": {
-    "description": "Tree-sitter grammar for cpon",
-    "pname": "vimplugin-nvim-treesitter-grammar-cpon",
-    "version": "0.0.0+rev=594289e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cpp": {
-    "description": "Tree-sitter grammar for cpp",
-    "pname": "vimplugin-nvim-treesitter-grammar-cpp",
-    "version": "0.0.0+rev=12bd6f7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.css": {
-    "description": "Tree-sitter grammar for css",
-    "pname": "vimplugin-nvim-treesitter-grammar-css",
-    "version": "0.0.0+rev=dda5cfc"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.csv": {
-    "description": "Tree-sitter grammar for csv",
-    "pname": "vimplugin-nvim-treesitter-grammar-csv",
-    "version": "0.0.0+rev=f6bf6e3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cuda": {
-    "description": "Tree-sitter grammar for cuda",
-    "pname": "vimplugin-nvim-treesitter-grammar-cuda",
-    "version": "0.0.0+rev=48b066f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cue": {
-    "description": "Tree-sitter grammar for cue",
-    "pname": "vimplugin-nvim-treesitter-grammar-cue",
-    "version": "0.0.0+rev=770737b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cylc": {
-    "description": "Tree-sitter grammar for cylc",
-    "pname": "vimplugin-nvim-treesitter-grammar-cylc",
-    "version": "0.0.0+rev=6d1d811"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.d": {
-    "description": "Tree-sitter grammar for d",
-    "pname": "vimplugin-nvim-treesitter-grammar-d",
-    "version": "0.0.0+rev=fb028c8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dart": {
-    "description": "Tree-sitter grammar for dart",
-    "pname": "vimplugin-nvim-treesitter-grammar-dart",
-    "version": "0.0.0+rev=d4d8f3e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.desktop": {
-    "description": "Tree-sitter grammar for desktop",
-    "pname": "vimplugin-nvim-treesitter-grammar-desktop",
-    "version": "0.0.0+rev=afec309"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.devicetree": {
-    "description": "Tree-sitter grammar for devicetree",
-    "pname": "vimplugin-nvim-treesitter-grammar-devicetree",
-    "version": "0.0.0+rev=e685f1f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dhall": {
-    "description": "Tree-sitter grammar for dhall",
-    "pname": "vimplugin-nvim-treesitter-grammar-dhall",
-    "version": "0.0.0+rev=6201325"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.diff": {
-    "description": "Tree-sitter grammar for diff",
-    "pname": "vimplugin-nvim-treesitter-grammar-diff",
-    "version": "0.0.0+rev=2520c3f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.disassembly": {
-    "description": "Tree-sitter grammar for disassembly",
-    "pname": "vimplugin-nvim-treesitter-grammar-disassembly",
-    "version": "0.0.0+rev=0229c02"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.djot": {
-    "description": "Tree-sitter grammar for djot",
-    "pname": "vimplugin-nvim-treesitter-grammar-djot",
-    "version": "0.0.0+rev=74fac1f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dockerfile": {
-    "description": "Tree-sitter grammar for dockerfile",
-    "pname": "vimplugin-nvim-treesitter-grammar-dockerfile",
-    "version": "0.0.0+rev=971acdd"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dot": {
-    "description": "Tree-sitter grammar for dot",
-    "pname": "vimplugin-nvim-treesitter-grammar-dot",
-    "version": "0.0.0+rev=80327ab"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.doxygen": {
-    "description": "Tree-sitter grammar for doxygen",
-    "pname": "vimplugin-nvim-treesitter-grammar-doxygen",
-    "version": "0.0.0+rev=ccd998f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dtd": {
-    "description": "Tree-sitter grammar for dtd",
-    "pname": "vimplugin-nvim-treesitter-grammar-dtd",
-    "version": "0.0.0+rev=863dbc3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.earthfile": {
-    "description": "Tree-sitter grammar for earthfile",
-    "pname": "vimplugin-nvim-treesitter-grammar-earthfile",
-    "version": "0.0.0+rev=5baef88"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ebnf": {
-    "description": "Tree-sitter grammar for ebnf",
-    "pname": "vimplugin-nvim-treesitter-grammar-ebnf",
-    "version": "0.0.0+rev=8e635b0"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.editorconfig": {
-    "description": "Tree-sitter grammar for editorconfig",
-    "pname": "vimplugin-nvim-treesitter-grammar-editorconfig",
-    "version": "0.0.0+rev=f08fb1f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.eds": {
-    "description": "Tree-sitter grammar for eds",
-    "pname": "vimplugin-nvim-treesitter-grammar-eds",
-    "version": "0.0.0+rev=26d529e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.eex": {
-    "description": "Tree-sitter grammar for eex",
-    "pname": "vimplugin-nvim-treesitter-grammar-eex",
-    "version": "0.0.0+rev=f742f2f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elixir": {
-    "description": "Tree-sitter grammar for elixir",
-    "pname": "vimplugin-nvim-treesitter-grammar-elixir",
-    "version": "0.0.0+rev=d24cece"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elm": {
-    "description": "Tree-sitter grammar for elm",
-    "pname": "vimplugin-nvim-treesitter-grammar-elm",
-    "version": "0.0.0+rev=3d000d3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elsa": {
-    "description": "Tree-sitter grammar for elsa",
-    "pname": "vimplugin-nvim-treesitter-grammar-elsa",
-    "version": "0.0.0+rev=0a66b2b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elvish": {
-    "description": "Tree-sitter grammar for elvish",
-    "pname": "vimplugin-nvim-treesitter-grammar-elvish",
-    "version": "0.0.0+rev=5e7210d"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.embedded_template": {
-    "description": "Tree-sitter grammar for embedded_template",
-    "pname": "vimplugin-nvim-treesitter-grammar-embedded_template",
-    "version": "0.0.0+rev=3499d85"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.enforce": {
-    "description": "Tree-sitter grammar for enforce",
-    "pname": "vimplugin-nvim-treesitter-grammar-enforce",
-    "version": "0.0.0+rev=eb27968"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.erlang": {
-    "description": "Tree-sitter grammar for erlang",
-    "pname": "vimplugin-nvim-treesitter-grammar-erlang",
-    "version": "0.0.0+rev=a260cb6"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.facility": {
-    "description": "Tree-sitter grammar for facility",
-    "pname": "vimplugin-nvim-treesitter-grammar-facility",
-    "version": "0.0.0+rev=e4bfd3e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.faust": {
-    "description": "Tree-sitter grammar for faust",
-    "pname": "vimplugin-nvim-treesitter-grammar-faust",
-    "version": "0.0.0+rev=122dd10"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fennel": {
-    "description": "Tree-sitter grammar for fennel",
-    "pname": "vimplugin-nvim-treesitter-grammar-fennel",
-    "version": "0.0.0+rev=fd4a24e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fidl": {
-    "description": "Tree-sitter grammar for fidl",
-    "pname": "vimplugin-nvim-treesitter-grammar-fidl",
-    "version": "0.0.0+rev=0a8910f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.firrtl": {
-    "description": "Tree-sitter grammar for firrtl",
-    "pname": "vimplugin-nvim-treesitter-grammar-firrtl",
-    "version": "0.0.0+rev=8503d3a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fish": {
-    "description": "Tree-sitter grammar for fish",
-    "pname": "vimplugin-nvim-treesitter-grammar-fish",
-    "version": "0.0.0+rev=aa074a0"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.foam": {
-    "description": "Tree-sitter grammar for foam",
-    "pname": "vimplugin-nvim-treesitter-grammar-foam",
-    "version": "0.0.0+rev=472c24f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.forth": {
-    "description": "Tree-sitter grammar for forth",
-    "pname": "vimplugin-nvim-treesitter-grammar-forth",
-    "version": "0.0.0+rev=360ef13"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fortran": {
-    "description": "Tree-sitter grammar for fortran",
-    "pname": "vimplugin-nvim-treesitter-grammar-fortran",
-    "version": "0.0.0+rev=8334abc"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fsh": {
-    "description": "Tree-sitter grammar for fsh",
-    "pname": "vimplugin-nvim-treesitter-grammar-fsh",
-    "version": "0.0.0+rev=fad2e17"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fsharp": {
-    "description": "Tree-sitter grammar for fsharp",
-    "pname": "vimplugin-nvim-treesitter-grammar-fsharp",
-    "version": "0.0.0+rev=5141851"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.func": {
-    "description": "Tree-sitter grammar for func",
-    "pname": "vimplugin-nvim-treesitter-grammar-func",
-    "version": "0.0.0+rev=f780ca5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fusion": {
-    "description": "Tree-sitter grammar for fusion",
-    "pname": "vimplugin-nvim-treesitter-grammar-fusion",
-    "version": "0.0.0+rev=19db2f4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gap": {
-    "description": "Tree-sitter grammar for gap",
-    "pname": "vimplugin-nvim-treesitter-grammar-gap",
-    "version": "0.0.0+rev=2bac148"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gaptst": {
-    "description": "Tree-sitter grammar for gaptst",
-    "pname": "vimplugin-nvim-treesitter-grammar-gaptst",
-    "version": "0.0.0+rev=69086d7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gdscript": {
-    "description": "Tree-sitter grammar for gdscript",
-    "pname": "vimplugin-nvim-treesitter-grammar-gdscript",
-    "version": "0.0.0+rev=48b4933"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gdshader": {
-    "description": "Tree-sitter grammar for gdshader",
-    "pname": "vimplugin-nvim-treesitter-grammar-gdshader",
-    "version": "0.0.0+rev=14e8340"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.git_config": {
-    "description": "Tree-sitter grammar for git_config",
-    "pname": "vimplugin-nvim-treesitter-grammar-git_config",
-    "version": "0.0.0+rev=0fbc9f9"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.git_rebase": {
-    "description": "Tree-sitter grammar for git_rebase",
-    "pname": "vimplugin-nvim-treesitter-grammar-git_rebase",
-    "version": "0.0.0+rev=bff4b66"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gitattributes": {
-    "description": "Tree-sitter grammar for gitattributes",
-    "pname": "vimplugin-nvim-treesitter-grammar-gitattributes",
-    "version": "0.0.0+rev=1b7af09"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gitcommit": {
-    "description": "Tree-sitter grammar for gitcommit",
-    "pname": "vimplugin-nvim-treesitter-grammar-gitcommit",
-    "version": "0.0.0+rev=a716678"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gitignore": {
-    "description": "Tree-sitter grammar for gitignore",
-    "pname": "vimplugin-nvim-treesitter-grammar-gitignore",
-    "version": "0.0.0+rev=f4685bf"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gleam": {
-    "description": "Tree-sitter grammar for gleam",
-    "pname": "vimplugin-nvim-treesitter-grammar-gleam",
-    "version": "0.0.0+rev=f4d55f3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glimmer": {
-    "description": "Tree-sitter grammar for glimmer",
-    "pname": "vimplugin-nvim-treesitter-grammar-glimmer",
-    "version": "0.0.0+rev=da605af"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glimmer_javascript": {
-    "description": "Tree-sitter grammar for glimmer_javascript",
-    "pname": "vimplugin-nvim-treesitter-grammar-glimmer_javascript",
-    "version": "0.0.0+rev=5cc865a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glimmer_typescript": {
-    "description": "Tree-sitter grammar for glimmer_typescript",
-    "pname": "vimplugin-nvim-treesitter-grammar-glimmer_typescript",
-    "version": "0.0.0+rev=12d9894"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glsl": {
-    "description": "Tree-sitter grammar for glsl",
-    "pname": "vimplugin-nvim-treesitter-grammar-glsl",
-    "version": "0.0.0+rev=24a6c8e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gn": {
-    "description": "Tree-sitter grammar for gn",
-    "pname": "vimplugin-nvim-treesitter-grammar-gn",
-    "version": "0.0.0+rev=bc06955"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gnuplot": {
-    "description": "Tree-sitter grammar for gnuplot",
-    "pname": "vimplugin-nvim-treesitter-grammar-gnuplot",
-    "version": "0.0.0+rev=8923c1e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.go": {
-    "description": "Tree-sitter grammar for go",
-    "pname": "vimplugin-nvim-treesitter-grammar-go",
-    "version": "0.0.0+rev=2346a3a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.goctl": {
-    "description": "Tree-sitter grammar for goctl",
-    "pname": "vimplugin-nvim-treesitter-grammar-goctl",
-    "version": "0.0.0+rev=49c4353"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.godot_resource": {
-    "description": "Tree-sitter grammar for godot_resource",
-    "pname": "vimplugin-nvim-treesitter-grammar-godot_resource",
-    "version": "0.0.0+rev=302c189"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gomod": {
-    "description": "Tree-sitter grammar for gomod",
-    "pname": "vimplugin-nvim-treesitter-grammar-gomod",
-    "version": "0.0.0+rev=2e88687"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gosum": {
-    "description": "Tree-sitter grammar for gosum",
-    "pname": "vimplugin-nvim-treesitter-grammar-gosum",
-    "version": "0.0.0+rev=27816eb"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gotmpl": {
-    "description": "Tree-sitter grammar for gotmpl",
-    "pname": "vimplugin-nvim-treesitter-grammar-gotmpl",
-    "version": "0.0.0+rev=5f19a36"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gowork": {
-    "description": "Tree-sitter grammar for gowork",
-    "pname": "vimplugin-nvim-treesitter-grammar-gowork",
-    "version": "0.0.0+rev=949a8a4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gpg": {
-    "description": "Tree-sitter grammar for gpg",
-    "pname": "vimplugin-nvim-treesitter-grammar-gpg",
-    "version": "0.0.0+rev=4024eb2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.graphql": {
-    "description": "Tree-sitter grammar for graphql",
-    "pname": "vimplugin-nvim-treesitter-grammar-graphql",
-    "version": "0.0.0+rev=5e66e96"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gren": {
-    "description": "Tree-sitter grammar for gren",
-    "pname": "vimplugin-nvim-treesitter-grammar-gren",
-    "version": "0.0.0+rev=c36aac5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.groovy": {
-    "description": "Tree-sitter grammar for groovy",
-    "pname": "vimplugin-nvim-treesitter-grammar-groovy",
-    "version": "0.0.0+rev=8691159"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.groq": {
-    "description": "Tree-sitter grammar for groq",
-    "pname": "vimplugin-nvim-treesitter-grammar-groq",
-    "version": "0.0.0+rev=1fa1ab0"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gstlaunch": {
-    "description": "Tree-sitter grammar for gstlaunch",
-    "pname": "vimplugin-nvim-treesitter-grammar-gstlaunch",
-    "version": "0.0.0+rev=549aef2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hack": {
-    "description": "Tree-sitter grammar for hack",
-    "pname": "vimplugin-nvim-treesitter-grammar-hack",
-    "version": "0.0.0+rev=1a7ded9"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hare": {
-    "description": "Tree-sitter grammar for hare",
-    "pname": "vimplugin-nvim-treesitter-grammar-hare",
-    "version": "0.0.0+rev=eed7ddf"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.haskell": {
-    "description": "Tree-sitter grammar for haskell",
-    "pname": "vimplugin-nvim-treesitter-grammar-haskell",
-    "version": "0.0.0+rev=7fa19f1"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.haskell_persistent": {
-    "description": "Tree-sitter grammar for haskell_persistent",
-    "pname": "vimplugin-nvim-treesitter-grammar-haskell_persistent",
-    "version": "0.0.0+rev=577259b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hcl": {
-    "description": "Tree-sitter grammar for hcl",
-    "pname": "vimplugin-nvim-treesitter-grammar-hcl",
-    "version": "0.0.0+rev=fad9918"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.heex": {
-    "description": "Tree-sitter grammar for heex",
-    "pname": "vimplugin-nvim-treesitter-grammar-heex",
-    "version": "0.0.0+rev=b5a7cb5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.helm": {
-    "description": "Tree-sitter grammar for helm",
-    "pname": "vimplugin-nvim-treesitter-grammar-helm",
-    "version": "0.0.0+rev=5f19a36"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hjson": {
-    "description": "Tree-sitter grammar for hjson",
-    "pname": "vimplugin-nvim-treesitter-grammar-hjson",
-    "version": "0.0.0+rev=02fa3b7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hlsl": {
-    "description": "Tree-sitter grammar for hlsl",
-    "pname": "vimplugin-nvim-treesitter-grammar-hlsl",
-    "version": "0.0.0+rev=bab9111"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hlsplaylist": {
-    "description": "Tree-sitter grammar for hlsplaylist",
-    "pname": "vimplugin-nvim-treesitter-grammar-hlsplaylist",
-    "version": "0.0.0+rev=3bfda92"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hocon": {
-    "description": "Tree-sitter grammar for hocon",
-    "pname": "vimplugin-nvim-treesitter-grammar-hocon",
-    "version": "0.0.0+rev=c390f10"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hoon": {
-    "description": "Tree-sitter grammar for hoon",
-    "pname": "vimplugin-nvim-treesitter-grammar-hoon",
-    "version": "0.0.0+rev=1545137"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.html": {
-    "description": "Tree-sitter grammar for html",
-    "pname": "vimplugin-nvim-treesitter-grammar-html",
-    "version": "0.0.0+rev=73a3947"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.htmldjango": {
-    "description": "Tree-sitter grammar for htmldjango",
-    "pname": "vimplugin-nvim-treesitter-grammar-htmldjango",
-    "version": "0.0.0+rev=3a64316"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.http": {
-    "description": "Tree-sitter grammar for http",
-    "pname": "vimplugin-nvim-treesitter-grammar-http",
-    "version": "0.0.0+rev=db8b439"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hurl": {
-    "description": "Tree-sitter grammar for hurl",
-    "pname": "vimplugin-nvim-treesitter-grammar-hurl",
-    "version": "0.0.0+rev=597efbd"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hyprlang": {
-    "description": "Tree-sitter grammar for hyprlang",
-    "pname": "vimplugin-nvim-treesitter-grammar-hyprlang",
-    "version": "0.0.0+rev=22723f2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.idl": {
-    "description": "Tree-sitter grammar for idl",
-    "pname": "vimplugin-nvim-treesitter-grammar-idl",
-    "version": "0.0.0+rev=0c9aa15"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.idris": {
-    "description": "Tree-sitter grammar for idris",
-    "pname": "vimplugin-nvim-treesitter-grammar-idris",
-    "version": "0.0.0+rev=c56a25c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ini": {
-    "description": "Tree-sitter grammar for ini",
-    "pname": "vimplugin-nvim-treesitter-grammar-ini",
-    "version": "0.0.0+rev=e4018b5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.inko": {
-    "description": "Tree-sitter grammar for inko",
-    "pname": "vimplugin-nvim-treesitter-grammar-inko",
-    "version": "0.0.0+rev=1fcbf8c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ispc": {
-    "description": "Tree-sitter grammar for ispc",
-    "pname": "vimplugin-nvim-treesitter-grammar-ispc",
-    "version": "0.0.0+rev=9b2f9ae"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.janet_simple": {
-    "description": "Tree-sitter grammar for janet_simple",
-    "pname": "vimplugin-nvim-treesitter-grammar-janet_simple",
-    "version": "0.0.0+rev=7e28cbf"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.java": {
-    "description": "Tree-sitter grammar for java",
-    "pname": "vimplugin-nvim-treesitter-grammar-java",
-    "version": "0.0.0+rev=e10607b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.javadoc": {
-    "description": "Tree-sitter grammar for javadoc",
-    "pname": "vimplugin-nvim-treesitter-grammar-javadoc",
-    "version": "0.0.0+rev=5c6157f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.javascript": {
-    "description": "Tree-sitter grammar for javascript",
-    "pname": "vimplugin-nvim-treesitter-grammar-javascript",
-    "version": "0.0.0+rev=58404d8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jinja": {
-    "description": "Tree-sitter grammar for jinja",
-    "pname": "vimplugin-nvim-treesitter-grammar-jinja",
-    "version": "0.0.0+rev=e589222"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jinja_inline": {
-    "description": "Tree-sitter grammar for jinja_inline",
-    "pname": "vimplugin-nvim-treesitter-grammar-jinja_inline",
-    "version": "0.0.0+rev=e589222"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jq": {
-    "description": "Tree-sitter grammar for jq",
-    "pname": "vimplugin-nvim-treesitter-grammar-jq",
-    "version": "0.0.0+rev=c204e36"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jsdoc": {
-    "description": "Tree-sitter grammar for jsdoc",
-    "pname": "vimplugin-nvim-treesitter-grammar-jsdoc",
-    "version": "0.0.0+rev=658d18d"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.json": {
-    "description": "Tree-sitter grammar for json",
-    "pname": "vimplugin-nvim-treesitter-grammar-json",
-    "version": "0.0.0+rev=001c28d"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.json5": {
-    "description": "Tree-sitter grammar for json5",
-    "pname": "vimplugin-nvim-treesitter-grammar-json5",
-    "version": "0.0.0+rev=aa630ef"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jsonc": {
-    "description": "Tree-sitter grammar for jsonc",
-    "pname": "vimplugin-nvim-treesitter-grammar-jsonc",
-    "version": "0.0.0+rev=02b0165"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jsonnet": {
-    "description": "Tree-sitter grammar for jsonnet",
-    "pname": "vimplugin-nvim-treesitter-grammar-jsonnet",
-    "version": "0.0.0+rev=ddd075f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.julia": {
-    "description": "Tree-sitter grammar for julia",
-    "pname": "vimplugin-nvim-treesitter-grammar-julia",
-    "version": "0.0.0+rev=12a3aed"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.just": {
-    "description": "Tree-sitter grammar for just",
-    "pname": "vimplugin-nvim-treesitter-grammar-just",
-    "version": "0.0.0+rev=bb0c898"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kcl": {
-    "description": "Tree-sitter grammar for kcl",
-    "pname": "vimplugin-nvim-treesitter-grammar-kcl",
-    "version": "0.0.0+rev=b0b2eb3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kconfig": {
-    "description": "Tree-sitter grammar for kconfig",
-    "pname": "vimplugin-nvim-treesitter-grammar-kconfig",
-    "version": "0.0.0+rev=9ac99fe"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kdl": {
-    "description": "Tree-sitter grammar for kdl",
-    "pname": "vimplugin-nvim-treesitter-grammar-kdl",
-    "version": "0.0.0+rev=b37e3d5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kitty": {
-    "description": "Tree-sitter grammar for kitty",
-    "pname": "vimplugin-nvim-treesitter-grammar-kitty",
-    "version": "0.0.0+rev=2e9b602"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kotlin": {
-    "description": "Tree-sitter grammar for kotlin",
-    "pname": "vimplugin-nvim-treesitter-grammar-kotlin",
-    "version": "0.0.0+rev=57fb456"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.koto": {
-    "description": "Tree-sitter grammar for koto",
-    "pname": "vimplugin-nvim-treesitter-grammar-koto",
-    "version": "0.0.0+rev=2ffc77c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kusto": {
-    "description": "Tree-sitter grammar for kusto",
-    "pname": "vimplugin-nvim-treesitter-grammar-kusto",
-    "version": "0.0.0+rev=8353a12"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.lalrpop": {
-    "description": "Tree-sitter grammar for lalrpop",
-    "pname": "vimplugin-nvim-treesitter-grammar-lalrpop",
-    "version": "0.0.0+rev=8d38e97"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.latex": {
-    "description": "Tree-sitter grammar for latex",
-    "pname": "vimplugin-nvim-treesitter-grammar-latex",
-    "version": "0.0.0+rev=73c9b89"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ledger": {
-    "description": "Tree-sitter grammar for ledger",
-    "pname": "vimplugin-nvim-treesitter-grammar-ledger",
-    "version": "0.0.0+rev=96c92d4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.leo": {
-    "description": "Tree-sitter grammar for leo",
-    "pname": "vimplugin-nvim-treesitter-grammar-leo",
-    "version": "0.0.0+rev=6bc5564"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.linkerscript": {
-    "description": "Tree-sitter grammar for linkerscript",
-    "pname": "vimplugin-nvim-treesitter-grammar-linkerscript",
-    "version": "0.0.0+rev=f99011a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.liquid": {
-    "description": "Tree-sitter grammar for liquid",
-    "pname": "vimplugin-nvim-treesitter-grammar-liquid",
-    "version": "0.0.0+rev=d6ebde3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.liquidsoap": {
-    "description": "Tree-sitter grammar for liquidsoap",
-    "pname": "vimplugin-nvim-treesitter-grammar-liquidsoap",
-    "version": "0.0.0+rev=4de01f4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.llvm": {
-    "description": "Tree-sitter grammar for llvm",
-    "pname": "vimplugin-nvim-treesitter-grammar-llvm",
-    "version": "0.0.0+rev=2914786"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.lua": {
-    "description": "Tree-sitter grammar for lua",
-    "pname": "vimplugin-nvim-treesitter-grammar-lua",
-    "version": "0.0.0+rev=d760230"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.luadoc": {
-    "description": "Tree-sitter grammar for luadoc",
-    "pname": "vimplugin-nvim-treesitter-grammar-luadoc",
-    "version": "0.0.0+rev=873612a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.luap": {
-    "description": "Tree-sitter grammar for luap",
-    "pname": "vimplugin-nvim-treesitter-grammar-luap",
-    "version": "0.0.0+rev=c134aae"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.luau": {
-    "description": "Tree-sitter grammar for luau",
-    "pname": "vimplugin-nvim-treesitter-grammar-luau",
-    "version": "0.0.0+rev=a8914d6"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.m68k": {
-    "description": "Tree-sitter grammar for m68k",
-    "pname": "vimplugin-nvim-treesitter-grammar-m68k",
-    "version": "0.0.0+rev=e128454"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.make": {
-    "description": "Tree-sitter grammar for make",
-    "pname": "vimplugin-nvim-treesitter-grammar-make",
-    "version": "0.0.0+rev=a4b9187"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.markdown": {
-    "description": "Tree-sitter grammar for markdown",
-    "pname": "vimplugin-nvim-treesitter-grammar-markdown",
-    "version": "0.0.0+rev=2dfd57f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.markdown_inline": {
-    "description": "Tree-sitter grammar for markdown_inline",
-    "pname": "vimplugin-nvim-treesitter-grammar-markdown_inline",
-    "version": "0.0.0+rev=2dfd57f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.matlab": {
-    "description": "Tree-sitter grammar for matlab",
-    "pname": "vimplugin-nvim-treesitter-grammar-matlab",
-    "version": "0.0.0+rev=37941b2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.menhir": {
-    "description": "Tree-sitter grammar for menhir",
-    "pname": "vimplugin-nvim-treesitter-grammar-menhir",
-    "version": "0.0.0+rev=be8866a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.mermaid": {
-    "description": "Tree-sitter grammar for mermaid",
-    "pname": "vimplugin-nvim-treesitter-grammar-mermaid",
-    "version": "0.0.0+rev=90ae195"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.meson": {
-    "description": "Tree-sitter grammar for meson",
-    "pname": "vimplugin-nvim-treesitter-grammar-meson",
-    "version": "0.0.0+rev=280b6e5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.mlir": {
-    "description": "Tree-sitter grammar for mlir",
-    "pname": "vimplugin-nvim-treesitter-grammar-mlir",
-    "version": "0.0.0+rev=1f76a88"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.muttrc": {
-    "description": "Tree-sitter grammar for muttrc",
-    "pname": "vimplugin-nvim-treesitter-grammar-muttrc",
-    "version": "0.0.0+rev=173b0ab"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nasm": {
-    "description": "Tree-sitter grammar for nasm",
-    "pname": "vimplugin-nvim-treesitter-grammar-nasm",
-    "version": "0.0.0+rev=d1b3638"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nginx": {
-    "description": "Tree-sitter grammar for nginx",
-    "pname": "vimplugin-nvim-treesitter-grammar-nginx",
-    "version": "0.0.0+rev=989da76"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nickel": {
-    "description": "Tree-sitter grammar for nickel",
-    "pname": "vimplugin-nvim-treesitter-grammar-nickel",
-    "version": "0.0.0+rev=f77c02d"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nim": {
-    "description": "Tree-sitter grammar for nim",
-    "pname": "vimplugin-nvim-treesitter-grammar-nim",
-    "version": "0.0.0+rev=4ad3527"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nim_format_string": {
-    "description": "Tree-sitter grammar for nim_format_string",
-    "pname": "vimplugin-nvim-treesitter-grammar-nim_format_string",
-    "version": "0.0.0+rev=d45f750"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ninja": {
-    "description": "Tree-sitter grammar for ninja",
-    "pname": "vimplugin-nvim-treesitter-grammar-ninja",
-    "version": "0.0.0+rev=0a95cfd"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nix": {
-    "description": "Tree-sitter grammar for nix",
-    "pname": "vimplugin-nvim-treesitter-grammar-nix",
-    "version": "0.0.0+rev=eabf968"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nqc": {
-    "description": "Tree-sitter grammar for nqc",
-    "pname": "vimplugin-nvim-treesitter-grammar-nqc",
-    "version": "0.0.0+rev=14e6da1"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nu": {
-    "description": "Tree-sitter grammar for nu",
-    "pname": "vimplugin-nvim-treesitter-grammar-nu",
-    "version": "0.0.0+rev=6544c43"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.objc": {
-    "description": "Tree-sitter grammar for objc",
-    "pname": "vimplugin-nvim-treesitter-grammar-objc",
-    "version": "0.0.0+rev=181a81b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.objdump": {
-    "description": "Tree-sitter grammar for objdump",
-    "pname": "vimplugin-nvim-treesitter-grammar-objdump",
-    "version": "0.0.0+rev=28d3b2e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ocaml": {
-    "description": "Tree-sitter grammar for ocaml",
-    "pname": "vimplugin-nvim-treesitter-grammar-ocaml",
-    "version": "0.0.0+rev=3ef7c00"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ocaml_interface": {
-    "description": "Tree-sitter grammar for ocaml_interface",
-    "pname": "vimplugin-nvim-treesitter-grammar-ocaml_interface",
-    "version": "0.0.0+rev=3ef7c00"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ocamllex": {
-    "description": "Tree-sitter grammar for ocamllex",
-    "pname": "vimplugin-nvim-treesitter-grammar-ocamllex",
-    "version": "0.0.0+rev=33722b8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.odin": {
-    "description": "Tree-sitter grammar for odin",
-    "pname": "vimplugin-nvim-treesitter-grammar-odin",
-    "version": "0.0.0+rev=d2ca8ef"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pascal": {
-    "description": "Tree-sitter grammar for pascal",
-    "pname": "vimplugin-nvim-treesitter-grammar-pascal",
-    "version": "0.0.0+rev=5054931"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.passwd": {
-    "description": "Tree-sitter grammar for passwd",
-    "pname": "vimplugin-nvim-treesitter-grammar-passwd",
-    "version": "0.0.0+rev=2023939"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pem": {
-    "description": "Tree-sitter grammar for pem",
-    "pname": "vimplugin-nvim-treesitter-grammar-pem",
-    "version": "0.0.0+rev=e525b17"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.perl": {
-    "description": "Tree-sitter grammar for perl",
-    "pname": "vimplugin-nvim-treesitter-grammar-perl",
-    "version": "0.0.0+rev=0c24d00"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.php": {
-    "description": "Tree-sitter grammar for php",
-    "pname": "vimplugin-nvim-treesitter-grammar-php",
-    "version": "0.0.0+rev=b2278db"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.php_only": {
-    "description": "Tree-sitter grammar for php_only",
-    "pname": "vimplugin-nvim-treesitter-grammar-php_only",
-    "version": "0.0.0+rev=b2278db"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.phpdoc": {
-    "description": "Tree-sitter grammar for phpdoc",
-    "pname": "vimplugin-nvim-treesitter-grammar-phpdoc",
-    "version": "0.0.0+rev=03bb103"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pioasm": {
-    "description": "Tree-sitter grammar for pioasm",
-    "pname": "vimplugin-nvim-treesitter-grammar-pioasm",
-    "version": "0.0.0+rev=afece58"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pkl": {
-    "description": "Tree-sitter grammar for pkl",
-    "pname": "vimplugin-nvim-treesitter-grammar-pkl",
-    "version": "0.0.0+rev=d50709f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.po": {
-    "description": "Tree-sitter grammar for po",
-    "pname": "vimplugin-nvim-treesitter-grammar-po",
-    "version": "0.0.0+rev=bd860a0"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pod": {
-    "description": "Tree-sitter grammar for pod",
-    "pname": "vimplugin-nvim-treesitter-grammar-pod",
-    "version": "0.0.0+rev=0bf8387"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.poe_filter": {
-    "description": "Tree-sitter grammar for poe_filter",
-    "pname": "vimplugin-nvim-treesitter-grammar-poe_filter",
-    "version": "0.0.0+rev=205a7d5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pony": {
-    "description": "Tree-sitter grammar for pony",
-    "pname": "vimplugin-nvim-treesitter-grammar-pony",
-    "version": "0.0.0+rev=73ff874"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.powershell": {
-    "description": "Tree-sitter grammar for powershell",
-    "pname": "vimplugin-nvim-treesitter-grammar-powershell",
-    "version": "0.0.0+rev=66d5e61"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.printf": {
-    "description": "Tree-sitter grammar for printf",
-    "pname": "vimplugin-nvim-treesitter-grammar-printf",
-    "version": "0.0.0+rev=ec4e567"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.prisma": {
-    "description": "Tree-sitter grammar for prisma",
-    "pname": "vimplugin-nvim-treesitter-grammar-prisma",
-    "version": "0.0.0+rev=3556b2c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.problog": {
-    "description": "Tree-sitter grammar for problog",
-    "pname": "vimplugin-nvim-treesitter-grammar-problog",
-    "version": "0.0.0+rev=d8d415f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.prolog": {
-    "description": "Tree-sitter grammar for prolog",
-    "pname": "vimplugin-nvim-treesitter-grammar-prolog",
-    "version": "0.0.0+rev=d8d415f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.promql": {
-    "description": "Tree-sitter grammar for promql",
-    "pname": "vimplugin-nvim-treesitter-grammar-promql",
-    "version": "0.0.0+rev=77625d7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.properties": {
-    "description": "Tree-sitter grammar for properties",
-    "pname": "vimplugin-nvim-treesitter-grammar-properties",
-    "version": "0.0.0+rev=6310671"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.proto": {
-    "description": "Tree-sitter grammar for proto",
-    "pname": "vimplugin-nvim-treesitter-grammar-proto",
-    "version": "0.0.0+rev=e9f6b43"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.prql": {
-    "description": "Tree-sitter grammar for prql",
-    "pname": "vimplugin-nvim-treesitter-grammar-prql",
-    "version": "0.0.0+rev=09e158c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.psv": {
-    "description": "Tree-sitter grammar for psv",
-    "pname": "vimplugin-nvim-treesitter-grammar-psv",
-    "version": "0.0.0+rev=f6bf6e3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pug": {
-    "description": "Tree-sitter grammar for pug",
-    "pname": "vimplugin-nvim-treesitter-grammar-pug",
-    "version": "0.0.0+rev=13e9195"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.puppet": {
-    "description": "Tree-sitter grammar for puppet",
-    "pname": "vimplugin-nvim-treesitter-grammar-puppet",
-    "version": "0.0.0+rev=15f1929"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.purescript": {
-    "description": "Tree-sitter grammar for purescript",
-    "pname": "vimplugin-nvim-treesitter-grammar-purescript",
-    "version": "0.0.0+rev=603daa9"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pymanifest": {
-    "description": "Tree-sitter grammar for pymanifest",
-    "pname": "vimplugin-nvim-treesitter-grammar-pymanifest",
-    "version": "0.0.0+rev=debbdb8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.python": {
-    "description": "Tree-sitter grammar for python",
-    "pname": "vimplugin-nvim-treesitter-grammar-python",
-    "version": "0.0.0+rev=710796b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ql": {
-    "description": "Tree-sitter grammar for ql",
-    "pname": "vimplugin-nvim-treesitter-grammar-ql",
-    "version": "0.0.0+rev=1fd627a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.qmldir": {
-    "description": "Tree-sitter grammar for qmldir",
-    "pname": "vimplugin-nvim-treesitter-grammar-qmldir",
-    "version": "0.0.0+rev=6b2b5e4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.qmljs": {
-    "description": "Tree-sitter grammar for qmljs",
-    "pname": "vimplugin-nvim-treesitter-grammar-qmljs",
-    "version": "0.0.0+rev=0bec435"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.query": {
-    "description": "Tree-sitter grammar for query",
-    "pname": "vimplugin-nvim-treesitter-grammar-query",
-    "version": "0.0.0+rev=a225e21"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.r": {
-    "description": "Tree-sitter grammar for r",
-    "pname": "vimplugin-nvim-treesitter-grammar-r",
-    "version": "0.0.0+rev=0e6ef77"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.racket": {
-    "description": "Tree-sitter grammar for racket",
-    "pname": "vimplugin-nvim-treesitter-grammar-racket",
-    "version": "0.0.0+rev=130e765"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ralph": {
-    "description": "Tree-sitter grammar for ralph",
-    "pname": "vimplugin-nvim-treesitter-grammar-ralph",
-    "version": "0.0.0+rev=f6d81bf"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rasi": {
-    "description": "Tree-sitter grammar for rasi",
-    "pname": "vimplugin-nvim-treesitter-grammar-rasi",
-    "version": "0.0.0+rev=e735c68"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.razor": {
-    "description": "Tree-sitter grammar for razor",
-    "pname": "vimplugin-nvim-treesitter-grammar-razor",
-    "version": "0.0.0+rev=fe46ce5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rbs": {
-    "description": "Tree-sitter grammar for rbs",
-    "pname": "vimplugin-nvim-treesitter-grammar-rbs",
-    "version": "0.0.0+rev=5282e2f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.re2c": {
-    "description": "Tree-sitter grammar for re2c",
-    "pname": "vimplugin-nvim-treesitter-grammar-re2c",
-    "version": "0.0.0+rev=c18a3c2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.readline": {
-    "description": "Tree-sitter grammar for readline",
-    "pname": "vimplugin-nvim-treesitter-grammar-readline",
-    "version": "0.0.0+rev=6b744c5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.regex": {
-    "description": "Tree-sitter grammar for regex",
-    "pname": "vimplugin-nvim-treesitter-grammar-regex",
-    "version": "0.0.0+rev=b2ac15e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rego": {
-    "description": "Tree-sitter grammar for rego",
-    "pname": "vimplugin-nvim-treesitter-grammar-rego",
-    "version": "0.0.0+rev=20b5a59"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.requirements": {
-    "description": "Tree-sitter grammar for requirements",
-    "pname": "vimplugin-nvim-treesitter-grammar-requirements",
-    "version": "0.0.0+rev=caeb2ba"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rescript": {
-    "description": "Tree-sitter grammar for rescript",
-    "pname": "vimplugin-nvim-treesitter-grammar-rescript",
-    "version": "0.0.0+rev=d2df8a2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rifleconf": {
-    "description": "Tree-sitter grammar for rifleconf",
-    "pname": "vimplugin-nvim-treesitter-grammar-rifleconf",
-    "version": "0.0.0+rev=fe10eab"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rnoweb": {
-    "description": "Tree-sitter grammar for rnoweb",
-    "pname": "vimplugin-nvim-treesitter-grammar-rnoweb",
-    "version": "0.0.0+rev=1a74dc0"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.robot": {
-    "description": "Tree-sitter grammar for robot",
-    "pname": "vimplugin-nvim-treesitter-grammar-robot",
-    "version": "0.0.0+rev=e34def7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.robots": {
-    "description": "Tree-sitter grammar for robots",
-    "pname": "vimplugin-nvim-treesitter-grammar-robots",
-    "version": "0.0.0+rev=8e3a420"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.roc": {
-    "description": "Tree-sitter grammar for roc",
-    "pname": "vimplugin-nvim-treesitter-grammar-roc",
-    "version": "0.0.0+rev=40e52f3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ron": {
-    "description": "Tree-sitter grammar for ron",
-    "pname": "vimplugin-nvim-treesitter-grammar-ron",
-    "version": "0.0.0+rev=7893855"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rst": {
-    "description": "Tree-sitter grammar for rst",
-    "pname": "vimplugin-nvim-treesitter-grammar-rst",
-    "version": "0.0.0+rev=4e562e1"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ruby": {
-    "description": "Tree-sitter grammar for ruby",
-    "pname": "vimplugin-nvim-treesitter-grammar-ruby",
-    "version": "0.0.0+rev=89bd7a8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.runescript": {
-    "description": "Tree-sitter grammar for runescript",
-    "pname": "vimplugin-nvim-treesitter-grammar-runescript",
-    "version": "0.0.0+rev=cf85bbd"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rust": {
-    "description": "Tree-sitter grammar for rust",
-    "pname": "vimplugin-nvim-treesitter-grammar-rust",
-    "version": "0.0.0+rev=261b202"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scala": {
-    "description": "Tree-sitter grammar for scala",
-    "pname": "vimplugin-nvim-treesitter-grammar-scala",
-    "version": "0.0.0+rev=97aead1"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scfg": {
-    "description": "Tree-sitter grammar for scfg",
-    "pname": "vimplugin-nvim-treesitter-grammar-scfg",
-    "version": "0.0.0+rev=d850fd4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scheme": {
-    "description": "Tree-sitter grammar for scheme",
-    "pname": "vimplugin-nvim-treesitter-grammar-scheme",
-    "version": "0.0.0+rev=591893b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scss": {
-    "description": "Tree-sitter grammar for scss",
-    "pname": "vimplugin-nvim-treesitter-grammar-scss",
-    "version": "0.0.0+rev=c478c68"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sflog": {
-    "description": "Tree-sitter grammar for sflog",
-    "pname": "vimplugin-nvim-treesitter-grammar-sflog",
-    "version": "0.0.0+rev=3597575"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.slang": {
-    "description": "Tree-sitter grammar for slang",
-    "pname": "vimplugin-nvim-treesitter-grammar-slang",
-    "version": "0.0.0+rev=1dbcc4a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.slim": {
-    "description": "Tree-sitter grammar for slim",
-    "pname": "vimplugin-nvim-treesitter-grammar-slim",
-    "version": "0.0.0+rev=a06113f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.slint": {
-    "description": "Tree-sitter grammar for slint",
-    "pname": "vimplugin-nvim-treesitter-grammar-slint",
-    "version": "0.0.0+rev=f2e4e5a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.smali": {
-    "description": "Tree-sitter grammar for smali",
-    "pname": "vimplugin-nvim-treesitter-grammar-smali",
-    "version": "0.0.0+rev=fdfa6a1"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.smithy": {
-    "description": "Tree-sitter grammar for smithy",
-    "pname": "vimplugin-nvim-treesitter-grammar-smithy",
-    "version": "0.0.0+rev=ec4fe14"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.snakemake": {
-    "description": "Tree-sitter grammar for snakemake",
-    "pname": "vimplugin-nvim-treesitter-grammar-snakemake",
-    "version": "0.0.0+rev=7731408"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.snl": {
-    "description": "Tree-sitter grammar for snl",
-    "pname": "vimplugin-nvim-treesitter-grammar-snl",
-    "version": "0.0.0+rev=846e2d6"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.solidity": {
-    "description": "Tree-sitter grammar for solidity",
-    "pname": "vimplugin-nvim-treesitter-grammar-solidity",
-    "version": "0.0.0+rev=4e938a4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.soql": {
-    "description": "Tree-sitter grammar for soql",
-    "pname": "vimplugin-nvim-treesitter-grammar-soql",
-    "version": "0.0.0+rev=3597575"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sosl": {
-    "description": "Tree-sitter grammar for sosl",
-    "pname": "vimplugin-nvim-treesitter-grammar-sosl",
-    "version": "0.0.0+rev=3597575"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sourcepawn": {
-    "description": "Tree-sitter grammar for sourcepawn",
-    "pname": "vimplugin-nvim-treesitter-grammar-sourcepawn",
-    "version": "0.0.0+rev=5a8fdd4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sparql": {
-    "description": "Tree-sitter grammar for sparql",
-    "pname": "vimplugin-nvim-treesitter-grammar-sparql",
-    "version": "0.0.0+rev=1ef52d3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sproto": {
-    "description": "Tree-sitter grammar for sproto",
-    "pname": "vimplugin-nvim-treesitter-grammar-sproto",
-    "version": "0.0.0+rev=d554c14"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sql": {
-    "description": "Tree-sitter grammar for sql",
-    "pname": "vimplugin-nvim-treesitter-grammar-sql",
-    "version": "0.0.0+rev=0a3d963"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.squirrel": {
-    "description": "Tree-sitter grammar for squirrel",
-    "pname": "vimplugin-nvim-treesitter-grammar-squirrel",
-    "version": "0.0.0+rev=072c969"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ssh_config": {
-    "description": "Tree-sitter grammar for ssh_config",
-    "pname": "vimplugin-nvim-treesitter-grammar-ssh_config",
-    "version": "0.0.0+rev=71d2693"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.starlark": {
-    "description": "Tree-sitter grammar for starlark",
-    "pname": "vimplugin-nvim-treesitter-grammar-starlark",
-    "version": "0.0.0+rev=a453dbf"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.strace": {
-    "description": "Tree-sitter grammar for strace",
-    "pname": "vimplugin-nvim-treesitter-grammar-strace",
-    "version": "0.0.0+rev=d819cdd"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.styled": {
-    "description": "Tree-sitter grammar for styled",
-    "pname": "vimplugin-nvim-treesitter-grammar-styled",
-    "version": "0.0.0+rev=319cdca"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.supercollider": {
-    "description": "Tree-sitter grammar for supercollider",
-    "pname": "vimplugin-nvim-treesitter-grammar-supercollider",
-    "version": "0.0.0+rev=76b3cab"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.superhtml": {
-    "description": "Tree-sitter grammar for superhtml",
-    "pname": "vimplugin-nvim-treesitter-grammar-superhtml",
-    "version": "0.0.0+rev=8b5bb27"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.surface": {
-    "description": "Tree-sitter grammar for surface",
-    "pname": "vimplugin-nvim-treesitter-grammar-surface",
-    "version": "0.0.0+rev=f4586b3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.svelte": {
-    "description": "Tree-sitter grammar for svelte",
-    "pname": "vimplugin-nvim-treesitter-grammar-svelte",
-    "version": "0.0.0+rev=ae5199d"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sway": {
-    "description": "Tree-sitter grammar for sway",
-    "pname": "vimplugin-nvim-treesitter-grammar-sway",
-    "version": "0.0.0+rev=9b7845c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.swift": {
-    "description": "Tree-sitter grammar for swift",
-    "pname": "vimplugin-nvim-treesitter-grammar-swift",
-    "version": "0.0.0+rev=99a5241"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sxhkdrc": {
-    "description": "Tree-sitter grammar for sxhkdrc",
-    "pname": "vimplugin-nvim-treesitter-grammar-sxhkdrc",
-    "version": "0.0.0+rev=440d5f9"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.systemtap": {
-    "description": "Tree-sitter grammar for systemtap",
-    "pname": "vimplugin-nvim-treesitter-grammar-systemtap",
-    "version": "0.0.0+rev=f2b378a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.systemverilog": {
-    "description": "Tree-sitter grammar for systemverilog",
-    "pname": "vimplugin-nvim-treesitter-grammar-systemverilog",
-    "version": "0.0.0+rev=7c4b01b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.t32": {
-    "description": "Tree-sitter grammar for t32",
-    "pname": "vimplugin-nvim-treesitter-grammar-t32",
-    "version": "0.0.0+rev=2f604ad"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tablegen": {
-    "description": "Tree-sitter grammar for tablegen",
-    "pname": "vimplugin-nvim-treesitter-grammar-tablegen",
-    "version": "0.0.0+rev=b117088"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tact": {
-    "description": "Tree-sitter grammar for tact",
-    "pname": "vimplugin-nvim-treesitter-grammar-tact",
-    "version": "0.0.0+rev=a6267c2"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tcl": {
-    "description": "Tree-sitter grammar for tcl",
-    "pname": "vimplugin-nvim-treesitter-grammar-tcl",
-    "version": "0.0.0+rev=f15e711"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.teal": {
-    "description": "Tree-sitter grammar for teal",
-    "pname": "vimplugin-nvim-treesitter-grammar-teal",
-    "version": "0.0.0+rev=05d276e"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.templ": {
-    "description": "Tree-sitter grammar for templ",
-    "pname": "vimplugin-nvim-treesitter-grammar-templ",
-    "version": "0.0.0+rev=3057cd4"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tera": {
-    "description": "Tree-sitter grammar for tera",
-    "pname": "vimplugin-nvim-treesitter-grammar-tera",
-    "version": "0.0.0+rev=692937d"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.terraform": {
-    "description": "Tree-sitter grammar for terraform",
-    "pname": "vimplugin-nvim-treesitter-grammar-terraform",
-    "version": "0.0.0+rev=fad9918"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.textproto": {
-    "description": "Tree-sitter grammar for textproto",
-    "pname": "vimplugin-nvim-treesitter-grammar-textproto",
-    "version": "0.0.0+rev=568471b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.thrift": {
-    "description": "Tree-sitter grammar for thrift",
-    "pname": "vimplugin-nvim-treesitter-grammar-thrift",
-    "version": "0.0.0+rev=68fd0d8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tiger": {
-    "description": "Tree-sitter grammar for tiger",
-    "pname": "vimplugin-nvim-treesitter-grammar-tiger",
-    "version": "0.0.0+rev=4a77b2d"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tlaplus": {
-    "description": "Tree-sitter grammar for tlaplus",
-    "pname": "vimplugin-nvim-treesitter-grammar-tlaplus",
-    "version": "0.0.0+rev=2d83194"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tmux": {
-    "description": "Tree-sitter grammar for tmux",
-    "pname": "vimplugin-nvim-treesitter-grammar-tmux",
-    "version": "0.0.0+rev=0252ecd"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.todotxt": {
-    "description": "Tree-sitter grammar for todotxt",
-    "pname": "vimplugin-nvim-treesitter-grammar-todotxt",
-    "version": "0.0.0+rev=3937c5c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.toml": {
-    "description": "Tree-sitter grammar for toml",
-    "pname": "vimplugin-nvim-treesitter-grammar-toml",
-    "version": "0.0.0+rev=64b5683"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tsv": {
-    "description": "Tree-sitter grammar for tsv",
-    "pname": "vimplugin-nvim-treesitter-grammar-tsv",
-    "version": "0.0.0+rev=f6bf6e3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tsx": {
-    "description": "Tree-sitter grammar for tsx",
-    "pname": "vimplugin-nvim-treesitter-grammar-tsx",
-    "version": "0.0.0+rev=75b3874"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.turtle": {
-    "description": "Tree-sitter grammar for turtle",
-    "pname": "vimplugin-nvim-treesitter-grammar-turtle",
-    "version": "0.0.0+rev=7f789ea"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.twig": {
-    "description": "Tree-sitter grammar for twig",
-    "pname": "vimplugin-nvim-treesitter-grammar-twig",
-    "version": "0.0.0+rev=7195ee5"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typescript": {
-    "description": "Tree-sitter grammar for typescript",
-    "pname": "vimplugin-nvim-treesitter-grammar-typescript",
-    "version": "0.0.0+rev=75b3874"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typespec": {
-    "description": "Tree-sitter grammar for typespec",
-    "pname": "vimplugin-nvim-treesitter-grammar-typespec",
-    "version": "0.0.0+rev=814c982"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typoscript": {
-    "description": "Tree-sitter grammar for typoscript",
-    "pname": "vimplugin-nvim-treesitter-grammar-typoscript",
-    "version": "0.0.0+rev=5d8fde8"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typst": {
-    "description": "Tree-sitter grammar for typst",
-    "pname": "vimplugin-nvim-treesitter-grammar-typst",
-    "version": "0.0.0+rev=46cf4de"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.udev": {
-    "description": "Tree-sitter grammar for udev",
-    "pname": "vimplugin-nvim-treesitter-grammar-udev",
-    "version": "0.0.0+rev=2fcb563"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ungrammar": {
-    "description": "Tree-sitter grammar for ungrammar",
-    "pname": "vimplugin-nvim-treesitter-grammar-ungrammar",
-    "version": "0.0.0+rev=debd26f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.unison": {
-    "description": "Tree-sitter grammar for unison",
-    "pname": "vimplugin-nvim-treesitter-grammar-unison",
-    "version": "0.0.0+rev=169e7f7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.usd": {
-    "description": "Tree-sitter grammar for usd",
-    "pname": "vimplugin-nvim-treesitter-grammar-usd",
-    "version": "0.0.0+rev=4e0875f"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.uxntal": {
-    "description": "Tree-sitter grammar for uxntal",
-    "pname": "vimplugin-nvim-treesitter-grammar-uxntal",
-    "version": "0.0.0+rev=ad9b638"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.v": {
-    "description": "Tree-sitter grammar for v",
-    "pname": "vimplugin-nvim-treesitter-grammar-v",
-    "version": "0.0.0+rev=236d51b"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vala": {
-    "description": "Tree-sitter grammar for vala",
-    "pname": "vimplugin-nvim-treesitter-grammar-vala",
-    "version": "0.0.0+rev=97e6db3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vento": {
-    "description": "Tree-sitter grammar for vento",
-    "pname": "vimplugin-nvim-treesitter-grammar-vento",
-    "version": "0.0.0+rev=3b32474"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vhdl": {
-    "description": "Tree-sitter grammar for vhdl",
-    "pname": "vimplugin-nvim-treesitter-grammar-vhdl",
-    "version": "0.0.0+rev=0c25aa0"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vhs": {
-    "description": "Tree-sitter grammar for vhs",
-    "pname": "vimplugin-nvim-treesitter-grammar-vhs",
-    "version": "0.0.0+rev=0c6fae9"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vim": {
-    "description": "Tree-sitter grammar for vim",
-    "pname": "vimplugin-nvim-treesitter-grammar-vim",
-    "version": "0.0.0+rev=3dd4747"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vimdoc": {
-    "description": "Tree-sitter grammar for vimdoc",
-    "pname": "vimplugin-nvim-treesitter-grammar-vimdoc",
-    "version": "0.0.0+rev=570dc10"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vrl": {
-    "description": "Tree-sitter grammar for vrl",
-    "pname": "vimplugin-nvim-treesitter-grammar-vrl",
-    "version": "0.0.0+rev=274b3ce"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vue": {
-    "description": "Tree-sitter grammar for vue",
-    "pname": "vimplugin-nvim-treesitter-grammar-vue",
-    "version": "0.0.0+rev=22bdfa6"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wgsl": {
-    "description": "Tree-sitter grammar for wgsl",
-    "pname": "vimplugin-nvim-treesitter-grammar-wgsl",
-    "version": "0.0.0+rev=40259f3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wgsl_bevy": {
-    "description": "Tree-sitter grammar for wgsl_bevy",
-    "pname": "vimplugin-nvim-treesitter-grammar-wgsl_bevy",
-    "version": "0.0.0+rev=d9306a7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wing": {
-    "description": "Tree-sitter grammar for wing",
-    "pname": "vimplugin-nvim-treesitter-grammar-wing",
-    "version": "0.0.0+rev=76e0c25"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wit": {
-    "description": "Tree-sitter grammar for wit",
-    "pname": "vimplugin-nvim-treesitter-grammar-wit",
-    "version": "0.0.0+rev=37bf43c"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wxml": {
-    "description": "Tree-sitter grammar for wxml",
-    "pname": "vimplugin-nvim-treesitter-grammar-wxml",
-    "version": "0.0.0+rev=7b821c7"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.xcompose": {
-    "description": "Tree-sitter grammar for xcompose",
-    "pname": "vimplugin-nvim-treesitter-grammar-xcompose",
-    "version": "0.0.0+rev=a51d636"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.xml": {
-    "description": "Tree-sitter grammar for xml",
-    "pname": "vimplugin-nvim-treesitter-grammar-xml",
-    "version": "0.0.0+rev=863dbc3"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.xresources": {
-    "description": "Tree-sitter grammar for xresources",
-    "pname": "vimplugin-nvim-treesitter-grammar-xresources",
-    "version": "0.0.0+rev=68240ae"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.yaml": {
-    "description": "Tree-sitter grammar for yaml",
-    "pname": "vimplugin-nvim-treesitter-grammar-yaml",
-    "version": "0.0.0+rev=7708026"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.yang": {
-    "description": "Tree-sitter grammar for yang",
-    "pname": "vimplugin-nvim-treesitter-grammar-yang",
-    "version": "0.0.0+rev=2c0e6be"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.yuck": {
-    "description": "Tree-sitter grammar for yuck",
-    "pname": "vimplugin-nvim-treesitter-grammar-yuck",
-    "version": "0.0.0+rev=e877f6a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.zathurarc": {
-    "description": "Tree-sitter grammar for zathurarc",
-    "pname": "vimplugin-nvim-treesitter-grammar-zathurarc",
-    "version": "0.0.0+rev=0554b4a"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.zig": {
-    "description": "Tree-sitter grammar for zig",
-    "pname": "vimplugin-nvim-treesitter-grammar-zig",
-    "version": "0.0.0+rev=6479aa1"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ziggy": {
-    "description": "Tree-sitter grammar for ziggy",
-    "pname": "vimplugin-nvim-treesitter-grammar-ziggy",
-    "version": "0.0.0+rev=4353b20"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ziggy_schema": {
-    "description": "Tree-sitter grammar for ziggy_schema",
-    "pname": "vimplugin-nvim-treesitter-grammar-ziggy_schema",
-    "version": "0.0.0+rev=fe3bf93"
-  },
-  "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.zsh": {
-    "description": "Tree-sitter grammar for zsh",
-    "pname": "vimplugin-nvim-treesitter-grammar-zsh",
-    "version": "0.0.0+rev=v0.48.0"
   },
   "legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-locals": {
     "description": "",
@@ -515937,7 +514287,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion": {
     "description": "Enable Gemini CLI with direct access to your IDE workspace",
     "pname": "vscode-extension-gemini-cli-vscode-ide-companion",
-    "version": "0.25.2"
+    "version": "0.26.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.RoweWilsonFrederiskHolme.wikitext": {
     "description": "Extension that helps users view and write MediaWiki's Wikitext files",
@@ -516462,7 +514812,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.discloud.discloud": {
     "description": "Visual Studio Code extension for hosting and managing applications on Discloud",
     "pname": "vscode-extension-discloud-discloud",
-    "version": "2.27.9"
+    "version": "2.27.12"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.disneystreaming.smithy": {
     "description": "",
@@ -517157,7 +515507,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-containers": {
     "description": "Container Tools Extension for Visual Studio Code ",
     "pname": "vscode-extension-ms-azuretools-vscode-containers",
-    "version": "2.4.0"
+    "version": "2.4.1"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-docker": {
     "description": "Docker Extension for Visual Studio Code",
@@ -517817,7 +516167,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.sonarsource.sonarlint-vscode": {
     "description": "",
     "pname": "vscode-extension-sonarsource-sonarlint-vscode",
-    "version": "4.40.0"
+    "version": "4.42.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.sourcegraph.amp": {
     "description": "Amp is a frontier coding agent for your editor and terminal, built by Sourcegraph.",
@@ -519487,7 +517837,7 @@
   "legacyPackages.x86_64-linux.wdt": {
     "description": "Warp speed Data Transfer",
     "pname": "wdt",
-    "version": "1.27.1612021-unstable-2026-01-12"
+    "version": "1.27.1612021-unstable-2026-01-28"
   },
   "legacyPackages.x86_64-linux.wealthfolio": {
     "description": "Beautiful Private and Secure Desktop Investment Tracking Application",
@@ -521372,7 +519722,7 @@
   "legacyPackages.x86_64-linux.wootility": {
     "description": "Customization and management software for Wooting keyboards",
     "pname": "wootility",
-    "version": "5.2.3"
+    "version": "5.2.4"
   },
   "legacyPackages.x86_64-linux.wooting-udev-rules": {
     "description": "udev rules that give NixOS permission to communicate with Wooting keyboards",
@@ -522022,7 +520372,7 @@
   "legacyPackages.x86_64-linux.wstunnel": {
     "description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI",
     "pname": "wstunnel",
-    "version": "10.5.1"
+    "version": "10.5.2"
   },
   "legacyPackages.x86_64-linux.wsysmon": {
     "description": "Windows task manager clone for Linux",
@@ -526982,7 +525332,7 @@
   "legacyPackages.x86_64-linux.yaralyzer": {
     "description": "Tool to visually inspect and force decode YARA and regex matches",
     "pname": "yaralyzer",
-    "version": "1.3.10"
+    "version": "1.3.17"
   },
   "legacyPackages.x86_64-linux.yarg": {
     "description": "Free, open-source, plastic guitar game",

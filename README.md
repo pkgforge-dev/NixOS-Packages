@@ -4406,7 +4406,7 @@
 | around-the-bend | 15878 | Typeset exercises in TeX, with answers | legacyPackages.x86_64-linux.texlivePackages.around-the-bend |
 | arp-net-tools | 2.10 |  | legacyPackages.x86_64-linux.unixtools.arp |
 | arp-scan | 1.10.0 | ARP scanning and fingerprinting tool | legacyPackages.x86_64-linux.arp-scan |
-| arp-scan-rs | 0.14.0 | ARP scan tool for fast local network scans | legacyPackages.x86_64-linux.arp-scan-rs |
+| arp-scan-rs | 0.15.1 | ARP scan tool for fast local network scans | legacyPackages.x86_64-linux.arp-scan-rs |
 | arpa | 0.0.0.0 | Library for reading ARPA n-gram models | legacyPackages.x86_64-linux.haskellPackages.arpa |
 | arpa2-leaf | 0.2 | LDAP Extended Attribute Filter | legacyPackages.x86_64-linux.arpa2-leaf |
 | arpa2cm | 1.0.4 | CMake Module library for the ARPA2 project | legacyPackages.x86_64-linux.arpa2cm |
@@ -4847,7 +4847,7 @@
 | ath9k-htc-blobless-firmware | 1.4.0 | Blobless, open source wifi firmware for ath9k_htc.ko | legacyPackages.x86_64-linux.ath9k-htc-blobless-firmware |
 | ath9k-htc-blobless-firmware-unstable | 2022-05-22 | Blobless, open source wifi firmware for ath9k_htc.ko | legacyPackages.x86_64-linux.ath9k-htc-blobless-firmware-unstable |
 | atheme | 7.2.12 | Set of services for IRC networks | legacyPackages.x86_64-linux.atheme |
-| athens | 0.16.1 | Go module datastore and proxy | legacyPackages.x86_64-linux.athens |
+| athens | 0.16.2 | Go module datastore and proxy | legacyPackages.x86_64-linux.athens |
 | atinout | 0.9.2-alpha | Tool for talking to modems | legacyPackages.x86_64-linux.atinout |
 | atkinson | 74692 | Support for the Atkinson Hyperlegible family of fonts | legacyPackages.x86_64-linux.texlivePackages.atkinson |
 | atkinson-hyperlegible | 0-unstable-2021-04-29 | Typeface designed to offer greater legibility and readability for low vision readers | legacyPackages.x86_64-linux.atkinson-hyperlegible |
@@ -5251,7 +5251,7 @@
 | aws-lambda-runtime | 0.0.0.1 | Haskell on AWS Lambda Runtime API | legacyPackages.x86_64-linux.haskellPackages.aws-lambda-runtime |
 | aws-lambda-runtime-interface-emulator | 1.31 | Locally test Lambda functions packaged as container images | legacyPackages.x86_64-linux.aws-lambda-rie |
 | aws-larpi | 0.1.0.0 | Package Haskell functions for easy use on AWS Lambda | legacyPackages.x86_64-linux.haskellPackages.aws-larpi |
-| aws-lc | 1.66.0 | General-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers | legacyPackages.x86_64-linux.aws-lc |
+| aws-lc | 1.67.0 | General-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers | legacyPackages.x86_64-linux.aws-lc |
 | aws-mfa | 0.0.12 | Manage AWS MFA Security Credentials | legacyPackages.x86_64-linux.aws-mfa |
 | aws-mfa-credentials | 0.1.0.0 | Keep your AWS credentials file up to date with MFA-carrying credentials | legacyPackages.x86_64-linux.haskellPackages.aws-mfa-credentials |
 | aws-nuke | 3.62.2 | Remove all the resources from an AWS account | legacyPackages.x86_64-linux.aws-nuke |
@@ -6713,7 +6713,7 @@
 | bloomfilter-blocked | 0.1.0.1 | Fast, compact Bloom filters | legacyPackages.x86_64-linux.haskellPackages.bloomfilter-blocked |
 | bloomfilter-redis | 0.1.0.4 | Distributed bloom filters on Redis (using the Hedis client) | legacyPackages.x86_64-linux.haskellPackages.bloomfilter-redis |
 | bloomrpc | 1.5.3 | GUI Client for GRPC Services | legacyPackages.x86_64-linux.bloomrpc |
-| bloop | 2.0.18 | Scala build server and command-line tool to make the compile and test developer workflows fast and productive in a build-tool-agnostic way | legacyPackages.x86_64-linux.bloop |
+| bloop | 2.0.19 | Scala build server and command-line tool to make the compile and test developer workflows fast and productive in a build-tool-agnostic way | legacyPackages.x86_64-linux.bloop |
 | blopentype | 0.0.4 | A basic LuaTeX OpenType handler | legacyPackages.x86_64-linux.texlivePackages.blopentype |
 | bloques | 1.0 | Generate control diagrams | legacyPackages.x86_64-linux.texlivePackages.bloques |
 | blosum | 0.1.1.4 | BLOSUM generator | legacyPackages.x86_64-linux.haskellPackages.blosum |
@@ -7859,8 +7859,8 @@
 | calendarsupport | 25.12.1 | Library that provides calendar support for PIM | legacyPackages.x86_64-linux.kdePackages.calendarsupport |
 | calenderweek | 1.0.0 | Commandline tool to get week of the year | legacyPackages.x86_64-linux.haskellPackages.calenderweek |
 | calf | 0.90.6 | Set of high quality open source audio plugins for musicians | legacyPackages.x86_64-linux.calf |
-| calibre | 8.15.0 | Comprehensive e-book software | legacyPackages.x86_64-linux.calibre |
-| calibre | 8.15.0 | Comprehensive e-book software | legacyPackages.x86_64-linux.calibre-no-speech |
+| calibre | 8.16.2 | Comprehensive e-book software | legacyPackages.x86_64-linux.calibre |
+| calibre | 8.16.2 | Comprehensive e-book software | legacyPackages.x86_64-linux.calibre-no-speech |
 | calibre-web | 0.6.25 | Web app for browsing, reading and downloading eBooks stored in a Calibre database | legacyPackages.x86_64-linux.calibre-web |
 | calico-apiserver | 3.31.3 | Cloud native networking and network security | legacyPackages.x86_64-linux.calico-apiserver |
 | calico-app-policy | 3.31.3 | Cloud native networking and network security | legacyPackages.x86_64-linux.calico-app-policy |
@@ -7896,7 +7896,7 @@
 | cameractrls | 0.6.10 | Camera controls for Linux | legacyPackages.x86_64-linux.cameractrls |
 | cameractrls | 0.6.10 | Camera controls for Linux | legacyPackages.x86_64-linux.cameractrls-gtk3 |
 | cameractrls | 0.6.10 | Camera controls for Linux | legacyPackages.x86_64-linux.cameractrls-gtk4 |
-| cameradar | 6.0.0 | RTSP stream access tool | legacyPackages.x86_64-linux.cameradar |
+| cameradar | 6.0.2 | RTSP stream access tool | legacyPackages.x86_64-linux.cameradar |
 | camfort | 1.2.0 | CamFort - Cambridge Fortran infrastructure | legacyPackages.x86_64-linux.haskellPackages.camfort |
 | camh | 0.0.3 | write image files onto 256(or 24bit) color terminals | legacyPackages.x86_64-linux.haskellPackages.camh |
 | camilladsp | 3.0.1 | Flexible cross-platform IIR and FIR engine for crossovers, room correction etc | legacyPackages.x86_64-linux.camilladsp |
@@ -8094,7 +8094,7 @@
 | cargo-modules | 0.25.0 | Cargo plugin for showing a tree-like overview of a crate's modules | legacyPackages.x86_64-linux.cargo-modules |
 | cargo-mommy | 0.3.1 | Cargo wrapper that encourages you after running commands | legacyPackages.x86_64-linux.cargo-mommy |
 | cargo-msrv | 0.18.4 | Cargo subcommand "msrv": assists with finding your minimum supported Rust version (MSRV) | legacyPackages.x86_64-linux.cargo-msrv |
-| cargo-mutants | 26.0.0 | Mutation testing tool for Rust | legacyPackages.x86_64-linux.cargo-mutants |
+| cargo-mutants | 26.2.0 | Mutation testing tool for Rust | legacyPackages.x86_64-linux.cargo-mutants |
 | cargo-ndk | 4.1.2 | Cargo extension for building Android NDK projects | legacyPackages.x86_64-linux.cargo-ndk |
 | cargo-nextest | 0.9.124 | Next-generation test runner for Rust projects | legacyPackages.x86_64-linux.cargo-nextest |
 | cargo-outdated | 0.18.0 | Cargo subcommand for displaying when Rust dependencies are out of date | legacyPackages.x86_64-linux.cargo-outdated |
@@ -8152,8 +8152,8 @@
 | cargo-wizard | 0.2.2 | Cargo subcommand for configuring Cargo profile for best performance | legacyPackages.x86_64-linux.cargo-wizard |
 | cargo-workspaces | 0.4.2 | Tool for managing cargo workspaces and their crates, inspired by lerna | legacyPackages.x86_64-linux.cargo-workspaces |
 | cargo-xbuild | 0.6.6 | Automatically cross-compiles the sysroot crates core, compiler_builtins, and alloc | legacyPackages.x86_64-linux.cargo-xbuild |
-| cargo-xwin | 0.21.3 | Cross compile Cargo project to Windows MSVC target with ease | legacyPackages.x86_64-linux.cargo-xwin |
-| cargo-zigbuild | 0.21.4 | Tool to compile Cargo projects with zig as the linker | legacyPackages.x86_64-linux.cargo-zigbuild |
+| cargo-xwin | 0.21.4 | Cross compile Cargo project to Windows MSVC target with ease | legacyPackages.x86_64-linux.cargo-xwin |
+| cargo-zigbuild | 0.21.6 | Tool to compile Cargo projects with zig as the linker | legacyPackages.x86_64-linux.cargo-zigbuild |
 | cargo2junit | 0.1.13 | Converts cargo's json output (from stdin) to JUnit XML (to stdout) | legacyPackages.x86_64-linux.cargo2junit |
 | caribou | 0.4.21 | Input assistive technology intended for switch and pointer users | legacyPackages.x86_64-linux.caribou |
 | cariddi | 1.4.5 | Crawler for URLs and endpoints | legacyPackages.x86_64-linux.cariddi |
@@ -9686,7 +9686,7 @@
 | chirpstack-gateway-bridge | 4.1.1 | Gateway Bridge abstracts Packet Forwarder protocols into Protobuf or JSON over MQTT | legacyPackages.x86_64-linux.chirpstack-gateway-bridge |
 | chirpstack-mqtt-forwarder | 4.5.1 | Forwarder which can be installed on the gateway to forward LoRa data over MQTT | legacyPackages.x86_64-linux.chirpstack-mqtt-forwarder |
 | chirpstack-rest-api | 4.16.1 | gRPC API to REST proxy for Chirpstack | legacyPackages.x86_64-linux.chirpstack-rest-api |
-| chirpstack-udp-forwarder | 4.2.1 | UDP packet-forwarder for the ChirpStack Concentratord | legacyPackages.x86_64-linux.chirpstack-udp-forwarder |
+| chirpstack-udp-forwarder | 4.3.0 | UDP packet-forwarder for the ChirpStack Concentratord | legacyPackages.x86_64-linux.chirpstack-udp-forwarder |
 | chisel | 1.11.3 | TCP/UDP tunnel over HTTP | legacyPackages.x86_64-linux.chisel |
 | chitauri | 0.1.0.1 | Helper for the Major System | legacyPackages.x86_64-linux.haskellPackages.chitauri |
 | chivo | 2.2 | Using the free Chivo fonts with LaTeX | legacyPackages.x86_64-linux.texlivePackages.chivo |
@@ -9846,7 +9846,7 @@
 | circus | 0.1.0.0 | Types and a small DSL for working with netlistsvg | legacyPackages.x86_64-linux.haskellPackages.circus |
 | circus | 0.19.0 | Process and socket manager | legacyPackages.x86_64-linux.circus |
 | cirru-parser | 0.0.2 | Cirru Parser in Haskell | legacyPackages.x86_64-linux.haskellPackages.cirru-parser |
-| cirrus-cli | 0.161.5 | CLI for executing Cirrus tasks locally and in any CI | legacyPackages.x86_64-linux.cirrus-cli |
+| cirrus-cli | 0.162.0 | CLI for executing Cirrus tasks locally and in any CI | legacyPackages.x86_64-linux.cirrus-cli |
 | cirrusgo | 0.1.0 | Tool to scan SAAS and PAAS applications | legacyPackages.x86_64-linux.cirrusgo |
 | cisco-spark-api | 0.1.0.4 | DEPRECATED in favor of webex-teams-api | legacyPackages.x86_64-linux.haskellPackages.cisco-spark-api |
 | ciscoPacketTracer8 | 8.2.2 | Network simulation tool from Cisco | legacyPackages.x86_64-linux.ciscoPacketTracer8 |
@@ -10680,7 +10680,7 @@
 | codeworld-api | 0.8.1 | Graphics library for CodeWorld | legacyPackages.x86_64-linux.haskellPackages.codeworld-api |
 | codex | 0.6.0.0 | A ctags file generator for cabal project dependencies | legacyPackages.x86_64-linux.haskellPackages.codex |
 | codex | 0.92.0 | Lightweight coding agent that runs in your terminal | legacyPackages.x86_64-linux.codex |
-| codex-acp | 0.9.0 | An ACP-compatible coding agent powered by Codex | legacyPackages.x86_64-linux.codex-acp |
+| codex-acp | 0.9.1 | An ACP-compatible coding agent powered by Codex | legacyPackages.x86_64-linux.codex-acp |
 | codicefiscaleitaliano | 1.2 | Test the consistency of the Italian personal Fiscal Code | legacyPackages.x86_64-linux.texlivePackages.codicefiscaleitaliano |
 | codipack | 3.0.0 | Fast gradient evaluation in C++ based on Expression Templates | legacyPackages.x86_64-linux.codipack |
 | codium | 1.108.10359 | Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications | legacyPackages.x86_64-linux.vscodium-fhs |
@@ -11724,7 +11724,7 @@
 | cornelis | 0.2.0.1 |  | legacyPackages.x86_64-linux.haskellPackages.cornelis |
 | cornelis | 0.2.0.1 | agda-mode for Neovim | legacyPackages.x86_64-linux.cornelis |
 | coroot | 1.17.9 | Open-source APM & Observability tool | legacyPackages.x86_64-linux.coroot |
-| coroot-node-agent | 1.27.4 | Prometheus exporter based on eBPF | legacyPackages.x86_64-linux.coroot-node-agent |
+| coroot-node-agent | 1.28.1 | Prometheus exporter based on eBPF | legacyPackages.x86_64-linux.coroot-node-agent |
 | corosync | 3.1.9 | Group Communication System with features for implementing high availability within applications | legacyPackages.x86_64-linux.corosync |
 | corosync-qdevice | 3.0.4 | Corosync Cluster Engine Qdevice | legacyPackages.x86_64-linux.corosync-qdevice |
 | coroutine-enumerator | 0.1.1 | Bridge between the monad-coroutine and enumerator packages | legacyPackages.x86_64-linux.haskellPackages.coroutine-enumerator |
@@ -13029,9 +13029,9 @@
 | dbeaver-bin | 25.3.3 | Universal SQL Client for developers, DBA and analysts. Supports MySQL, PostgreSQL, MariaDB, SQLite, and more | legacyPackages.x86_64-linux.dbeaver-bin |
 | dbf | 0.0.0.2 | Read and write XBase ".dbf" files | legacyPackages.x86_64-linux.haskellPackages.dbf |
 | dbgate | 6.6.9 | Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others | legacyPackages.x86_64-linux.dbgate |
-| dbip-asn-lite | 2026-01 | Free IP to ASN Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-asn-lite |
-| dbip-city-lite | 2026-01 | Free IP to City Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-city-lite |
-| dbip-country-lite | 2026-01 | Free IP to Country Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-country-lite |
+| dbip-asn-lite | 2026-02 | Free IP to ASN Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-asn-lite |
+| dbip-city-lite | 2026-02 | Free IP to City Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-city-lite |
+| dbip-country-lite | 2026-02 | Free IP to Country Lite database by DB-IP | legacyPackages.x86_64-linux.dbip-country-lite |
 | dbjava | 1.7 | Decompiler Bytecode Java | legacyPackages.x86_64-linux.haskellPackages.dbjava |
 | dblab | 0.34.2 | Database client every command line junkie deserves | legacyPackages.x86_64-linux.dblab |
 | dblatex | 0.3.12 | Program to convert DocBook to DVI, PostScript or PDF via LaTeX or ConTeXt | legacyPackages.x86_64-linux.dblatex |
@@ -17827,7 +17827,7 @@
 | flye | 2.9.6 | De novo assembler for single molecule sequencing reads using repeat graphs | legacyPackages.x86_64-linux.flye |
 | flying-carpet | 9.0.10 | Send and receive files between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi | legacyPackages.x86_64-linux.flying-carpet |
 | flyspray | 1.0-rc11 | Lightweight, web-based bug tracking system written in PHP for assisting with software development and project managements | legacyPackages.x86_64-linux.flyspray |
-| flyway | 11.19.1 | Evolve your Database Schema easily and reliably across all your instances | legacyPackages.x86_64-linux.flyway |
+| flyway | 12.0.0 | Evolve your Database Schema easily and reliably across all your instances | legacyPackages.x86_64-linux.flyway |
 | flywheel-cli | 16.2.0 | Library and command line interface for interacting with a Flywheel site | legacyPackages.x86_64-linux.flywheel-cli |
 | fm | 0-unstable-2024-01-03 | Small, general purpose file manager built with GTK4 | legacyPackages.x86_64-linux.fm |
 | fm | 1.2.0 | Terminal based file manager | legacyPackages.x86_64-linux.fm-go |
@@ -19098,7 +19098,7 @@
 | gema | 2.0 | General purpose text processing utility based on the concept of pattern matching | legacyPackages.x86_64-linux.gema |
 | gemcap | 0.1.0.1 | a simple Gemini capsule (server) | legacyPackages.x86_64-linux.haskellPackages.gemcap |
 | gemget | 1.9.0 | Command line downloader for the Gemini protocol | legacyPackages.x86_64-linux.gemget |
-| gemini-cli | 0.25.2 | AI agent that brings the power of Gemini directly into your terminal | legacyPackages.x86_64-linux.gemini-cli |
+| gemini-cli | 0.26.0 | AI agent that brings the power of Gemini directly into your terminal | legacyPackages.x86_64-linux.gemini-cli |
 | gemini-cli-bin | 0.25.0 | AI agent that brings the power of Gemini directly into your terminal | legacyPackages.x86_64-linux.gemini-cli-bin |
 | gemini-exports | 0.1.0.2 | Generate CSV Exports of Your Gemini Trades, Transfers, & Earn Transactions | legacyPackages.x86_64-linux.haskellPackages.gemini-exports |
 | gemini-router | 0.1.2.0 | A simple Happstack-style Gemini router | legacyPackages.x86_64-linux.haskellPackages.gemini-router |
@@ -22056,7 +22056,7 @@
 | gomplate | 4.3.3 | Flexible commandline tool for template rendering | legacyPackages.x86_64-linux.gomplate |
 | gomtree | 0.7.0 | File systems verification utility and library, in likeness of mtree(8) | legacyPackages.x86_64-linux.gomtree |
 | gomuks | 0.3.1 | Terminal based Matrix client written in Go | legacyPackages.x86_64-linux.gomuks |
-| gomuks-web | 0.2025.11-unstable-2025-11-01 | Matrix client written in Go | legacyPackages.x86_64-linux.gomuks-web |
+| gomuks-web | 0.2601.0 | Matrix client written in Go | legacyPackages.x86_64-linux.gomuks-web |
 | gonic | 0.20.0 | Music streaming server / subsonic server API implementation | legacyPackages.x86_64-linux.gonic |
 | gonzo | 0.3.0 | TUI log analysis tool | legacyPackages.x86_64-linux.gonzo |
 | goobook | 3.5.2 | Access your Google contacts from the command line | legacyPackages.x86_64-linux.goobook |
@@ -22076,7 +22076,7 @@
 | google-app-engine-go-sdk | 1.9.61 | Google App Engine SDK for Go | legacyPackages.x86_64-linux.google-app-engine-go-sdk |
 | google-authenticator-libpam | 1.11 | Two-step verification, with pam module | legacyPackages.x86_64-linux.google-authenticator |
 | google-chat-linux | 5.39.24-1 | Electron-base client for Google Hangouts Chat | legacyPackages.x86_64-linux.google-chat-linux |
-| google-chrome | 144.0.7559.109 | Freeware web browser developed by Google | legacyPackages.x86_64-linux.google-chrome |
+| google-chrome | 144.0.7559.132 | Freeware web browser developed by Google | legacyPackages.x86_64-linux.google-chrome |
 | google-cloud | 0.0.4 | Client for the Google Cloud APIs | legacyPackages.x86_64-linux.haskellPackages.google-cloud |
 | google-cloud-bigtable-tool | 0.12.0 | Google Cloud Bigtable Tool | legacyPackages.x86_64-linux.google-cloud-bigtable-tool |
 | google-cloud-common | 1.1.0.0 | GCP Client for Haskell | legacyPackages.x86_64-linux.haskellPackages.google-cloud-common |
@@ -22097,7 +22097,7 @@
 | google-guest-oslogin | 20250821.00 | OS Login Guest Environment for Google Compute Engine | legacyPackages.x86_64-linux.google-guest-oslogin |
 | google-html5-slide | 2011.0 | Google HTML5 Slide generator | legacyPackages.x86_64-linux.haskellPackages.google-html5-slide |
 | google-isbn | 1.0.3 |  | legacyPackages.x86_64-linux.haskellPackages.google-isbn |
-| google-java-format | 1.33.0 | Java source formatter by Google | legacyPackages.x86_64-linux.google-java-format |
+| google-java-format | 1.34.0 | Java source formatter by Google | legacyPackages.x86_64-linux.google-java-format |
 | google-lighthouse | 12.8.2 | Automated auditing, performance metrics, and best practices for the web | legacyPackages.x86_64-linux.google-lighthouse |
 | google-mail-filters | 0.0.1.2 | Write GMail filters and output to importable XML | legacyPackages.x86_64-linux.haskellPackages.google-mail-filters |
 | google-maps-geocoding | 0.7.0.3 | Bindings to the Google Geocoding API (formerly Maps Geocoding API) | legacyPackages.x86_64-linux.haskellPackages.google-maps-geocoding |
@@ -23396,7 +23396,7 @@
 | happybara | 0.0.1 | Acceptance test framework for web applications | legacyPackages.x86_64-linux.haskellPackages.happybara |
 | happybara-webkit | 0.0.1 | WebKit Happybara driver | legacyPackages.x86_64-linux.haskellPackages.happybara-webkit |
 | happybara-webkit-server | 0.0.1 | WebKit Server binary for Happybara (taken from capybara-webkit) | legacyPackages.x86_64-linux.haskellPackages.happybara-webkit-server |
-| haproxy | 3.3.1 | Reliable, high performance TCP/HTTP load balancer | legacyPackages.x86_64-linux.haproxy |
+| haproxy | 3.3.2 | Reliable, high performance TCP/HTTP load balancer | legacyPackages.x86_64-linux.haproxy |
 | haproxy_exporter | 0.15.0 | HAProxy Exporter for the Prometheus monitoring system | legacyPackages.x86_64-linux.prometheus-haproxy-exporter |
 | hapstone | 0.2.0.1 | Capstone bindings for Haskell | legacyPackages.x86_64-linux.haskellPackages.hapstone |
 | haquery | 0.1.1.3 | jQuery for Haskell | legacyPackages.x86_64-linux.haskellPackages.haquery |
@@ -27963,7 +27963,7 @@
 | infra-arcana | 23.0.0 | Lovecraftian single-player roguelike game | legacyPackages.x86_64-linux.infra-arcana |
 | infracost | 0.10.43 | Cloud cost estimates for Terraform in your CLI and pull requests | legacyPackages.x86_64-linux.infracost |
 | inframap | 0.8.0 | Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant | legacyPackages.x86_64-linux.inframap |
-| infrastructure-agent | 1.72.0 | New Relic Infrastructure Agent | legacyPackages.x86_64-linux.infrastructure-agent |
+| infrastructure-agent | 1.72.1 | New Relic Infrastructure Agent | legacyPackages.x86_64-linux.infrastructure-agent |
 | infwarerr | 1.5 | Complete set of information/warning/error message macros | legacyPackages.x86_64-linux.texlivePackages.infwarerr |
 | ingen | 0-unstable-2024-07-13 | Modular audio processing system using JACK and LV2 or LADSPA plugins | legacyPackages.x86_64-linux.ingen |
 | ingress2gateway | 0.5.0 | Convert Ingress resources to Gateway API resources | legacyPackages.x86_64-linux.ingress2gateway |
@@ -29422,7 +29422,7 @@
 | kafka-device-vrpn | 1.0.2.1 | VRPN events via a Kafka message broker | legacyPackages.x86_64-linux.haskellPackages.kafka-device-vrpn |
 | kafka-interchange | 0.2.0.0 | Serialization for kafka wire protocol | legacyPackages.x86_64-linux.haskellPackages.kafka-interchange |
 | kafka-minion | 2.2.13 | Feature-rich Prometheus exporter for Apache Kafka written in Go | legacyPackages.x86_64-linux.kminion |
-| kafkactl | 5.17.0 | Command Line Tool for managing Apache Kafka | legacyPackages.x86_64-linux.kafkactl |
+| kafkactl | 5.17.1 | Command Line Tool for managing Apache Kafka | legacyPackages.x86_64-linux.kafkactl |
 | kagen | 1.2.1 | Communication-free Massively Distributed Graph Generators | legacyPackages.x86_64-linux.kagen |
 | kaggle | 1.7.4.5 | Official API for https://www.kaggle.com, accessible using a command line tool implemented in Python 3 | legacyPackages.x86_64-linux.kaggle |
 | kahip | 3.21 | Karlsruhe HIGH Quality Partitioning | legacyPackages.x86_64-linux.kahip |
@@ -30186,7 +30186,7 @@
 | knot-exporter | 3.5.3 | Prometheus exporter for Knot DNS | legacyPackages.x86_64-linux.prometheus-knot-exporter |
 | knot-resolver_5 | 5.7.6 | Caching validating DNS resolver, from .cz domain registry | legacyPackages.x86_64-linux.knot-resolver |
 | knot-resolver_5 | 5.7.6 | Caching validating DNS resolver, from .cz domain registry | legacyPackages.x86_64-linux.knot-resolver_5 |
-| knot-resolver_6 | 6.1.0 | Caching validating DNS resolver, from .cz domain registry | legacyPackages.x86_64-linux.knot-resolver_6 |
+| knot-resolver_6 | 6.2.0 | Caching validating DNS resolver, from .cz domain registry | legacyPackages.x86_64-linux.knot-resolver_6 |
 | knotifications | 5.116.0 |  | legacyPackages.x86_64-linux.libsForQt5.knotifications |
 | knotifications | 5.116.0 |  | legacyPackages.x86_64-linux.plasma5Packages.knotifications |
 | knotifications | 6.22.0 | KNotifications | legacyPackages.x86_64-linux.kdePackages.knotifications |
@@ -30202,7 +30202,7 @@
 | knuth-lib | 57963 | Core TeX and Metafont sources from Knuth | legacyPackages.x86_64-linux.texlivePackages.knuth-lib |
 | knuth-local | 57963 | Knuth's local information | legacyPackages.x86_64-linux.texlivePackages.knuth-local |
 | knuth-pdf | 2.6 | PDF collection of typeset C/WEB sources in TeX Live | legacyPackages.x86_64-linux.texlivePackages.knuth-pdf |
-| knxd | 0.14.73 | Advanced router/gateway for KNX | legacyPackages.x86_64-linux.knxd |
+| knxd | 0.14.75 | Advanced router/gateway for KNX | legacyPackages.x86_64-linux.knxd |
 | ko | 0.18.1 | Build and deploy Go applications | legacyPackages.x86_64-linux.ko |
 | kobodeluxe | 0.5.1 | Enhanced version of Akira Higuchi's game XKobo  for Un*x systems with X11 | legacyPackages.x86_64-linux.kobodeluxe |
 | koboldcpp | 1.105.4 | Way to run various GGML and GGUF models | legacyPackages.x86_64-linux.koboldcpp |
@@ -30502,7 +30502,7 @@
 | ksquares | 25.12.1 | KSquares is modeled after the well known pen and paper based game of Dots and Boxes | legacyPackages.x86_64-linux.kdePackages.ksquares |
 | kssd | 2.21-unstable-2024-05-27 | K-mer substring space decomposition | legacyPackages.x86_64-linux.kssd |
 | ksshaskpass | 6.5.5 | ssh-add helper that uses KWallet and KPasswordDialog | legacyPackages.x86_64-linux.kdePackages.ksshaskpass |
-| kstars | 3.8.0 | Virtual planetarium astronomy software | legacyPackages.x86_64-linux.kstars |
+| kstars | 3.8.1 | Virtual planetarium astronomy software | legacyPackages.x86_64-linux.kstars |
 | kstart | 4.3 | Modified version of kerberos tools that support automatic ticket refresh | legacyPackages.x86_64-linux.kstart |
 | kstatusnotifieritem | 6.22.0 | Implementation of Status Notifier Items | legacyPackages.x86_64-linux.kdePackages.kstatusnotifieritem |
 | ksudoku | 25.12.1 | KSudoku is a logic-based symbol placement puzzle | legacyPackages.x86_64-linux.kdePackages.ksudoku |
@@ -31132,7 +31132,7 @@
 | lazyset | 0.1.0.0 | Set and Map from lazy/infinite lists | legacyPackages.x86_64-linux.haskellPackages.lazyset |
 | lazysmallcheck | 0.6 | A library for demand-driven testing of Haskell programs | legacyPackages.x86_64-linux.haskellPackages.lazysmallcheck |
 | lazysplines | 0.3 | Differential solving with lazy splines | legacyPackages.x86_64-linux.haskellPackages.lazysplines |
-| lazysql | 0.4.6 | Cross-platform TUI database management tool written in Go | legacyPackages.x86_64-linux.lazysql |
+| lazysql | 0.4.7 | Cross-platform TUI database management tool written in Go | legacyPackages.x86_64-linux.lazysql |
 | lazyssh | 0.3.0 | Terminal-based SSH manager | legacyPackages.x86_64-linux.lazyssh |
 | lazytrivy | 1.2.0 | TUI to do vulnerability scanning using trivy | legacyPackages.x86_64-linux.lazytrivy |
 | lazyworktree | 1.28.0 | BubbleTea-based Terminal User Interface for efficient Git worktree management | legacyPackages.x86_64-linux.lazyworktree |
@@ -32365,7 +32365,7 @@
 | librda | 0.0.5-unstable-2023-09-15 | Remote Desktop Awareness Shared Library | legacyPackages.x86_64-linux.librda |
 | librdata | 0-unstable-2023-10-03 | Read and write R data frames from C | legacyPackages.x86_64-linux.librdata |
 | librdkafka | 0.0.0.0 | TBA | legacyPackages.x86_64-linux.haskellPackages.librdkafka |
-| libre | 4.4.0 | Library for real-time communications with async IO support and a complete SIP stack | legacyPackages.x86_64-linux.libre |
+| libre | 4.5.0 | Library for real-time communications with async IO support and a complete SIP stack | legacyPackages.x86_64-linux.libre |
 | libre-baskerville | 1.000 | Webfont family optimized for body text | legacyPackages.x86_64-linux.libre-baskerville |
 | libre-bodoni | 2.000 | Bodoni fonts adapted for today's web requirements | legacyPackages.x86_64-linux.libre-bodoni |
 | libre-caslon | 1.002 | Caslon fonts based on hand-lettered American Caslons of 1960s | legacyPackages.x86_64-linux.libre-caslon |
@@ -32445,10 +32445,10 @@
 | libretls | 0.0.0.0 | libtls bindings | legacyPackages.x86_64-linux.haskellPackages.libretls |
 | libretls | 3.8.1 | Libtls for OpenSSL | legacyPackages.x86_64-linux.libretls |
 | libretrack | 1.7.0 | Private, cross-platform package tracking app | legacyPackages.x86_64-linux.libretrack |
-| libretranslate | 1.8.3 | Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services | legacyPackages.x86_64-linux.libretranslate |
+| libretranslate | 1.8.4 | Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services | legacyPackages.x86_64-linux.libretranslate |
 | libretro | 2048-0-unstable-2025-12-13 | Port of 2048 puzzle game to libretro | legacyPackages.x86_64-linux.libretro.twenty-fortyeight |
 | libretro | 81-0-unstable-2024-10-21 | Port of EightyOne to libretro | legacyPackages.x86_64-linux.libretro.eightyone |
-| libretro-atari800 | 0-unstable-2025-12-04 | Port of Atari800 to libretro | legacyPackages.x86_64-linux.libretro.atari800 |
+| libretro-atari800 | 0-unstable-2026-01-30 | Port of Atari800 to libretro | legacyPackages.x86_64-linux.libretro.atari800 |
 | libretro-blastem | 0-unstable-2022-07-26 | Port of BlastEm to libretro | legacyPackages.x86_64-linux.libretro.blastem |
 | libretro-bluemsx | 0-unstable-2025-11-04 | Port of BlueMSX to libretro | legacyPackages.x86_64-linux.libretro.bluemsx |
 | libretro-bsnes | 0-unstable-2026-01-16 | Port of bsnes to libretro | legacyPackages.x86_64-linux.libretro.bsnes |
@@ -33495,13 +33495,13 @@
 | live-sequencer | 0.0.6.3 | Live coding of MIDI music | legacyPackages.x86_64-linux.haskellPackages.live-sequencer |
 | live-server | 0.11.0 | Local network server with live reload feature for static pages | legacyPackages.x86_64-linux.live-server |
 | live555 | 2024.09.20 | Set of C++ libraries for multimedia streaming, using open standard protocols (RTP/RTCP, RTSP, SIP) | legacyPackages.x86_64-linux.live555 |
-| livebook | 0.18.3 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam26Packages.livebook |
-| livebook | 0.18.3 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam27Packages.livebook |
-| livebook | 0.18.3 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam28Packages.livebook |
-| livebook | 0.18.3 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal26Packages.livebook |
-| livebook | 0.18.3 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal27Packages.livebook |
-| livebook | 0.18.3 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal28Packages.livebook |
-| livebook | 0.18.3 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.livebook |
+| livebook | 0.18.4 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam26Packages.livebook |
+| livebook | 0.18.4 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam27Packages.livebook |
+| livebook | 0.18.4 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beam28Packages.livebook |
+| livebook | 0.18.4 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal26Packages.livebook |
+| livebook | 0.18.4 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal27Packages.livebook |
+| livebook | 0.18.4 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.beamMinimal28Packages.livebook |
+| livebook | 0.18.4 | Automate code & data workflows with interactive Elixir notebooks | legacyPackages.x86_64-linux.livebook |
 | livecaptions | 0.4.2 | Linux Desktop application that provides live captioning | legacyPackages.x86_64-linux.livecaptions |
 | livedl-unstable | 2021-05-16 | Command-line tool to download nicovideo.jp livestreams | legacyPackages.x86_64-linux.livedl |
 | livekit | 1.9.11 | End-to-end stack for WebRTC. SFU media server and SDKs | legacyPackages.x86_64-linux.livekit |
@@ -33761,8 +33761,8 @@
 | loch-th | 0.2.2 | Support for precise error locations in source files (Template Haskell version) | legacyPackages.x86_64-linux.haskellPackages.loch-th |
 | lock | 1.8.2 | Process data with GnuPG | legacyPackages.x86_64-linux.lock |
 | lock-file | 0.7.0.0 | Provide exclusive access to a resource using lock file | legacyPackages.x86_64-linux.haskellPackages.lock-file |
-| lockbook | 26.1.27 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook |
-| lockbook-desktop | 26.1.27 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook-desktop |
+| lockbook | 26.1.31 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook |
+| lockbook-desktop | 26.1.31 | Private, polished note-taking platform | legacyPackages.x86_64-linux.lockbook-desktop |
 | lockdep | 5.0.21 | Userspace locking validation tool built on the Linux kernel | legacyPackages.x86_64-linux.lockdep |
 | locked-poll | 0.1.0 | Very simple poll lock | legacyPackages.x86_64-linux.haskellPackages.locked-poll |
 | lockfile-progs | 0.1.19 | Programs for locking and unlocking files and mailboxes | legacyPackages.x86_64-linux.lockfileProgs |
@@ -36105,7 +36105,7 @@
 | mastermind | 2010.7.25.1 | console mastermind decypher | legacyPackages.x86_64-linux.haskellPackages.mastermind |
 | masterpdfeditor | 5.9.94 | Master PDF Editor | legacyPackages.x86_64-linux.masterpdfeditor |
 | masterpdfeditor4 | 4.3.89 | Master PDF Editor - version 4, without watermark | legacyPackages.x86_64-linux.masterpdfeditor4 |
-| mastodon | 4.5.5 | Self-hosted, globally interconnected microblogging software based on ActivityPub | legacyPackages.x86_64-linux.mastodon |
+| mastodon | 4.5.6 | Self-hosted, globally interconnected microblogging software based on ActivityPub | legacyPackages.x86_64-linux.mastodon |
 | mastodon-archive | 1.4.8 | Utility for backing up your Mastodon content | legacyPackages.x86_64-linux.mastodon-archive |
 | mastotool | 0.2.4 | Collection of command-line tools to work with your Mastodon account | legacyPackages.x86_64-linux.mastotool |
 | mat2 | 0.14.0 | Handy tool to trash your metadata | legacyPackages.x86_64-linux.mat2 |
@@ -36501,7 +36501,7 @@
 | mdk4 | 4.2-unstable-2024-08-16 | Tool that injects data into wireless networks | legacyPackages.x86_64-linux.mdk4 |
 | mdl | 0.13.0 | Tool to check markdown files and flag style issues | legacyPackages.x86_64-linux.mdl |
 | mdns | 1.4.3 | Public domain mDNS/DNS-SD library in C | legacyPackages.x86_64-linux.mdns |
-| mdns-scanner | 0.26.0 | Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases | legacyPackages.x86_64-linux.mdns-scanner |
+| mdns-scanner | 0.26.1 | Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases | legacyPackages.x86_64-linux.mdns-scanner |
 | mdo | 0.0.1 | Command-line tool to run a command on each of the items | legacyPackages.x86_64-linux.haskellPackages.mdo |
 | mdp | 0.1.1.0 | Tools for solving Markov Decision Processes | legacyPackages.x86_64-linux.haskellPackages.mdp |
 | mdp | 1.0.18 | Command-line based markdown presentation tool | legacyPackages.x86_64-linux.mdp |
@@ -37077,7 +37077,7 @@
 | mingw_w64-pthreads | 13.0.0 | Collection of headers and libraries for building native Windows applications | legacyPackages.x86_64-linux.windows.pthreads |
 | minhtml | 0.18.1 | Minifier for HTML, JavaScript, and CSS | legacyPackages.x86_64-linux.minhtml |
 | mini | 1.6.0.0 | Minimal essentials | legacyPackages.x86_64-linux.haskellPackages.mini |
-| mini-calc | 4.0.0 | Fully-featured minimalistic configurable calculator written in Rust | legacyPackages.x86_64-linux.mini-calc |
+| mini-calc | 4.0.2 | Fully-featured minimalistic configurable calculator written in Rust | legacyPackages.x86_64-linux.mini-calc |
 | mini-egison | 1.0.0 | Template Haskell Implementation of Egison Pattern Matching | legacyPackages.x86_64-linux.haskellPackages.mini-egison |
 | mini-graph-card | 0.13.0 | Minimalistic graph card for Home Assistant Lovelace UI | legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.mini-graph-card |
 | mini-httpd | 1.7 | Minimalistic high-performance web server | legacyPackages.x86_64-linux.miniHttpd |
@@ -38491,7 +38491,7 @@
 | mushroom | 5.0.10 | Mushroom Cards - Build a beautiful dashboard easily | legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.mushroom |
 | mushu | 0.1.1 | Minimalist MPD client | legacyPackages.x86_64-linux.haskellPackages.mushu |
 | music-articulation | 1.9.0 | Abstract representation of musical articulation | legacyPackages.x86_64-linux.haskellPackages.music-articulation |
-| music-assistant | 2.7.5 | Music Assistant is a music library manager for various music sources which can easily stream to a wide range of supported players | legacyPackages.x86_64-linux.music-assistant |
+| music-assistant | 2.7.6 | Music Assistant is a music library manager for various music sources which can easily stream to a wide range of supported players | legacyPackages.x86_64-linux.music-assistant |
 | music-diatonic | 0.1.2 | Implementation of basic western musical theory objects | legacyPackages.x86_64-linux.haskellPackages.music-diatonic |
 | music-discord-rpc | 0.6.2 | Cross-platform Discord rich presence for music with album cover and progress bar support | legacyPackages.x86_64-linux.music-discord-rpc |
 | music-dynamics | 1.9.0 | Abstract representation of musical dynamics | legacyPackages.x86_64-linux.haskellPackages.music-dynamics |
@@ -40993,8 +40993,6 @@
 | ocaml-llvm | 21.1.8 | OCaml bindings distributed with LLVM | legacyPackages.x86_64-linux.ocamlPackages.llvm |
 | ocaml-llvm | 21.1.8 | OCaml bindings distributed with LLVM | legacyPackages.x86_64-linux.ocamlPackages_latest.llvm |
 | ocaml-make | 6.37.0 | Generic OCaml Makefile for GNU Make | legacyPackages.x86_64-linux.ocaml_make |
-| ocaml-mysql | 1.2.1 | Bindings for interacting with MySQL databases from ocaml | legacyPackages.x86_64-linux.ocamlPackages.ocaml_mysql |
-| ocaml-mysql | 1.2.1 | Bindings for interacting with MySQL databases from ocaml | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml_mysql |
 | ocaml-oasis | 0.4.11 | Configure, build and install system for OCaml projects | legacyPackages.x86_64-linux.ocamlPackages.ocaml_oasis |
 | ocaml-oasis | 0.4.11 | Configure, build and install system for OCaml projects | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml_oasis |
 | ocaml-pds | 6.55 | A tool to build Makefiles for OCaml projects | legacyPackages.x86_64-linux.ocaml-pds |
@@ -41787,6 +41785,7 @@
 | ocaml5.3.0-ocaml-migrate-parsetree | 1.8.0 | Convert OCaml parsetrees between different major versions | legacyPackages.x86_64-linux.ocamlPackages.ocaml-migrate-parsetree-1-8 |
 | ocaml5.3.0-ocaml-migrate-parsetree | 2.4.0 | Convert OCaml parsetrees between different major versions | legacyPackages.x86_64-linux.ocamlPackages.ocaml-migrate-parsetree-2 |
 | ocaml5.3.0-ocaml-monadic | 0.5.0 | PPX extension to provide an OCaml-friendly monadic syntax | legacyPackages.x86_64-linux.ocamlPackages.ocaml-monadic |
+| ocaml5.3.0-ocaml-mysql | 1.2.1 | Bindings for interacting with MySQL databases from ocaml | legacyPackages.x86_64-linux.ocamlPackages.ocaml_mysql |
 | ocaml5.3.0-ocaml-print-intf | 1.2.0 | Pretty print an OCaml cmi/cmt/cmti file in human-readable OCaml signature form | legacyPackages.x86_64-linux.ocamlPackages.ocaml-print-intf |
 | ocaml5.3.0-ocaml-protoc | 2.4 | Protobuf Compiler for OCaml | legacyPackages.x86_64-linux.ocamlPackages.ocaml-protoc |
 | ocaml5.3.0-ocaml-protoc-plugin | 4.5.0 | Maps google protobuf compiler to Ocaml types | legacyPackages.x86_64-linux.ocamlPackages.ocaml-protoc-plugin |
@@ -43136,6 +43135,7 @@
 | ocaml5.4.0-ocaml-migrate-parsetree | 1.8.0 | Convert OCaml parsetrees between different major versions | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml-migrate-parsetree-1-8 |
 | ocaml5.4.0-ocaml-migrate-parsetree | 2.4.0 | Convert OCaml parsetrees between different major versions | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml-migrate-parsetree-2 |
 | ocaml5.4.0-ocaml-monadic | 0.5.0 | PPX extension to provide an OCaml-friendly monadic syntax | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml-monadic |
+| ocaml5.4.0-ocaml-mysql | 1.2.1 | Bindings for interacting with MySQL databases from ocaml | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml_mysql |
 | ocaml5.4.0-ocaml-print-intf | 1.2.0 | Pretty print an OCaml cmi/cmt/cmti file in human-readable OCaml signature form | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml-print-intf |
 | ocaml5.4.0-ocaml-protoc | 2.4 | Protobuf Compiler for OCaml | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml-protoc |
 | ocaml5.4.0-ocaml-protoc-plugin | 4.5.0 | Maps google protobuf compiler to Ocaml types | legacyPackages.x86_64-linux.ocamlPackages_latest.ocaml-protoc-plugin |
@@ -45766,7 +45766,7 @@
 | pax-utils | 1.3.10 | ELF utils that can check files for security relevant properties | legacyPackages.x86_64-linux.pax-utils |
 | paxctl | 0.9 | Tool for controlling PaX flags on a per binary basis | legacyPackages.x86_64-linux.paxctl |
 | paxtest | 0.9.15 | Test various memory protection measures | legacyPackages.x86_64-linux.paxtest |
-| pay-respects | 0.7.9 | Terminal command correction, alternative to thefuck, written in Rust | legacyPackages.x86_64-linux.pay-respects |
+| pay-respects | 0.7.10 | Terminal command correction, alternative to thefuck, written in Rust | legacyPackages.x86_64-linux.pay-respects |
 | payload-dumper-go | 1.3.0 | Android OTA payload dumper written in Go | legacyPackages.x86_64-linux.payload-dumper-go |
 | payload_dumper | 0-unstable-2022-04-11 | Android OTA payload dumper | legacyPackages.x86_64-linux.payload_dumper |
 | payloadsallthethings | 2025.1 | List of useful payloads and bypass for Web Application Security and Pentest/CTF | legacyPackages.x86_64-linux.payloadsallthethings |
@@ -45849,7 +45849,7 @@
 | pcsclite | 2.3.0 | Middleware to access a smart card using SCard API (PC/SC) | legacyPackages.x86_64-linux.pcsclite |
 | pcsclite-with-polkit | 2.3.0 | Middleware to access a smart card using SCard API (PC/SC) | legacyPackages.x86_64-linux.pcscliteWithPolkit |
 | pcstat | 0.0.2 | Page Cache stat: get page cache stats for files on Linux | legacyPackages.x86_64-linux.pcstat |
-| pcsx2 | 2.6.2 | Playstation 2 emulator | legacyPackages.x86_64-linux.pcsx2 |
+| pcsx2 | 2.6.3 | Playstation 2 emulator | legacyPackages.x86_64-linux.pcsx2 |
 | pcsx2-bin | 2.4.0 | Playstation 2 emulator (precompiled binary, repacked from official website) | legacyPackages.x86_64-linux.pcsx2-bin |
 | pcubature | 0.2.0.0 | Integration over convex polytopes | legacyPackages.x86_64-linux.haskellPackages.pcubature |
 | pd-else | 1.0-rc13 | EL Locus Solus' Externals for Pure Data | legacyPackages.x86_64-linux.pd-else |
@@ -50044,7 +50044,7 @@
 | permutations | 0.1.0.0 | Permutations of finite sets | legacyPackages.x86_64-linux.haskellPackages.permutations |
 | permute | 1.0 | Generalised permutation parser combinator | legacyPackages.x86_64-linux.haskellPackages.permute |
 | permute | 15878 | Support for symmetric groups | legacyPackages.x86_64-linux.texlivePackages.permute |
-| perplexity-mcp | 0-unstable-2025-12-19 | The official MCP server implementation for the Perplexity API Platform | legacyPackages.x86_64-linux.perplexity-mcp |
+| perplexity-mcp | 0-unstable-2026-01-28 | The official MCP server implementation for the Perplexity API Platform | legacyPackages.x86_64-linux.perplexity-mcp |
 | persepolis | 5.2.0 | Download manager GUI written in Python | legacyPackages.x86_64-linux.persepolis |
 | perses | 0.52.0 | CNCF sandbox for observability visualisation | legacyPackages.x86_64-linux.perses |
 | perseus | 4-beta | Persistent Homology Software | legacyPackages.x86_64-linux.perseus |
@@ -51714,7 +51714,7 @@
 | plfit | 1.0.1 | Fitting power-law distributions to empirical data | legacyPackages.x86_64-linux.python314Packages.plfit |
 | plib | 1.8.5 | Suite of portable game libraries | legacyPackages.x86_64-linux.plib |
 | plik | 1.3.8 | Scalable & friendly temporary file upload system | legacyPackages.x86_64-linux.plik |
-| plikd | 1.3.7 |  | legacyPackages.x86_64-linux.plikd |
+| plikd | 1.3.8 | Scalable & friendly temporary file upload system | legacyPackages.x86_64-linux.plikd |
 | plimsoll | 1 | Fonts with the Plimsoll symbol and LaTeX support | legacyPackages.x86_64-linux.texlivePackages.plimsoll |
 | plink-ng | 1.90b3 | Comprehensive update to the PLINK association analysis toolset | legacyPackages.x86_64-linux.plink-ng |
 | plipsum | 4.3 | 'Lorem ipsum' for Plain TeX developers | legacyPackages.x86_64-linux.texlivePackages.plipsum |
@@ -51898,7 +51898,7 @@
 | podget | 1.0.0 | Podcast aggregator optimized for running as a scheduled job (i.e. cron) on Linux | legacyPackages.x86_64-linux.podget |
 | podgrab | 0-unstable-2021-04-14 | Self-hosted podcast manager to download episodes as soon as they become live | legacyPackages.x86_64-linux.podgrab |
 | podiff | 1.4 | Finds differences in translations between two PO files, or revisions | legacyPackages.x86_64-linux.podiff |
-| podlet | 0.3.0 | Generate Podman Quadlet files from a Podman command, compose file, or existing object | legacyPackages.x86_64-linux.podlet |
+| podlet | 0.3.1 | Generate Podman Quadlet files from a Podman command, compose file, or existing object | legacyPackages.x86_64-linux.podlet |
 | podman | 5.7.0 | Program for managing pods, containers and container images | legacyPackages.x86_64-linux.podman |
 | podman-bootc | 0.1.2 | Streamlining podman+bootc interactions | legacyPackages.x86_64-linux.podman-bootc |
 | podman-compose | 1.5.0 | Implementation of docker-compose with podman backend | legacyPackages.x86_64-linux.podman-compose |
@@ -52192,7 +52192,7 @@
 | posteid-seed-extractor | 0-unstable-2022-02-23 | Extract OTP seed instead of using PosteID app | legacyPackages.x86_64-linux.posteid-seed-extractor |
 | poster-mac | 1.1 | Make posters and banners with TeX | legacyPackages.x86_64-linux.texlivePackages.poster-mac |
 | postfix | 3.10.7 | Fast, easy to administer, and secure mail server | legacyPackages.x86_64-linux.postfix |
-| postfix-tlspol | 1.8.24 | Lightweight MTA-STS + DANE/TLSA resolver and TLS policy server for Postfix, prioritizing DANE | legacyPackages.x86_64-linux.postfix-tlspol |
+| postfix-tlspol | 1.8.25 | Lightweight MTA-STS + DANE/TLSA resolver and TLS policy server for Postfix, prioritizing DANE | legacyPackages.x86_64-linux.postfix-tlspol |
 | postfix_exporter | 0.18.0 | Prometheus exporter for Postfix | legacyPackages.x86_64-linux.prometheus-postfix-exporter |
 | postfixadmin | 4.0.1 | Web based virtual user administration interface for Postfix mail servers | legacyPackages.x86_64-linux.postfixadmin |
 | postgis | 3.6.1 | Geographic Objects for PostgreSQL | legacyPackages.x86_64-linux.postgresql14Packages.postgis |
@@ -52920,7 +52920,7 @@
 | protobuf | 33.3 | Google's data interchange format | legacyPackages.x86_64-linux.protobuf_33 |
 | protobuf-builder | 0.1.0.0 | Slow protobuf implementation | legacyPackages.x86_64-linux.haskellPackages.protobuf-builder |
 | protobuf-c | 1.5.2 | C bindings for Google's Protocol Buffers | legacyPackages.x86_64-linux.protobufc |
-| protobuf-language-server | 0.1.1 | Language server implementation for Google Protocol Buffers | legacyPackages.x86_64-linux.protobuf-language-server |
+| protobuf-language-server | 0.1.2 | Language server implementation for Google Protocol Buffers | legacyPackages.x86_64-linux.protobuf-language-server |
 | protobuf-matchers | 0.1.1 | Protocol buffer matchers for gMock/gTest | legacyPackages.x86_64-linux.protobuf-matchers |
 | protobuf-native | 1.0.0.1 | Protocol Buffers via C++ | legacyPackages.x86_64-linux.haskellPackages.protobuf-native |
 | protobuf-simple | 0.1.1.1 | Simple Protocol Buffers library (proto2) | legacyPackages.x86_64-linux.haskellPackages.protobuf-simple |
@@ -53016,7 +53016,7 @@
 | proxyauth | 0.8.0 | Proxy Authentication Token - Fast authentication gateway for backend APIs | legacyPackages.x86_64-linux.proxyauth |
 | proxychains | 4.4.0 | Proxifier for SOCKS proxies | legacyPackages.x86_64-linux.proxychains |
 | proxychains-ng | 4.17 | Preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies | legacyPackages.x86_64-linux.proxychains-ng |
-| proxyman | 3.6.0 | Capture, inspect, and manipulate HTTP(s) requests/responses with ease | legacyPackages.x86_64-linux.proxyman |
+| proxyman | 3.7.0 | Capture, inspect, and manipulate HTTP(s) requests/responses with ease | legacyPackages.x86_64-linux.proxyman |
 | proxypin | 1.2.4 | Capture HTTP(S) traffic software | legacyPackages.x86_64-linux.proxypin |
 | proxysql | 3.0.2 | High-performance MySQL proxy | legacyPackages.x86_64-linux.proxysql |
 | proycon-wayout | 0.1.3 | Takes text from standard input and outputs it to a desktop-widget on Wayland desktops | legacyPackages.x86_64-linux.proycon-wayout |
@@ -53473,7 +53473,7 @@
 | pygmo | 2.19.7 | Parallel optimisation for Python | legacyPackages.x86_64-linux.python314Packages.pygmo |
 | pygpoabuse | 0-unstable-2025-11-09 | Partial python implementation of SharpGPOAbuse | legacyPackages.x86_64-linux.pygpoabuse |
 | pyhanko-cli | 0.2.0 | Sign and stamp PDF files | legacyPackages.x86_64-linux.pyhanko-cli |
-| pyinfra | 3.6 | Python-based infrastructure automation | legacyPackages.x86_64-linux.pyinfra |
+| pyinfra | 3.6.1 | Python-based infrastructure automation | legacyPackages.x86_64-linux.pyinfra |
 | pykdl | 1.5.3 | Kinematics and Dynamics Library (Python bindings) | legacyPackages.x86_64-linux.python313Packages.pykdl |
 | pykdl | 1.5.3 | Kinematics and Dynamics Library (Python bindings) | legacyPackages.x86_64-linux.python314Packages.pykdl |
 | pykickstart | 3.66 | Python package to interact with Kickstart files commonly found in the RPM world | legacyPackages.x86_64-linux.pykickstart |
@@ -53481,7 +53481,7 @@
 | pylint | 4.0.4 | Bug and style checker for Python | legacyPackages.x86_64-linux.pylint |
 | pylint-exit | 1.2.0 | Utility to handle pylint exit codes in an OS-friendly way | legacyPackages.x86_64-linux.pylint-exit |
 | pyload-ng | 0.5.0b3.dev88 | Free and open-source download manager with support for 1-click-hosting sites | legacyPackages.x86_64-linux.pyload-ng |
-| pylode | 3.2.1 | OWL ontology documentation tool using Python and templating, based on LODE | legacyPackages.x86_64-linux.pylode |
+| pylode | 3.2.3 | OWL ontology documentation tool using Python and templating, based on LODE | legacyPackages.x86_64-linux.pylode |
 | pyluatex | 0.6.3 | Execute Python code on the fly in your LaTeX documents | legacyPackages.x86_64-linux.texlivePackages.pyluatex |
 | pylyzer | 0.0.82 | Fast static code analyzer & language server for Python | legacyPackages.x86_64-linux.pylyzer |
 | pymol | 3.1.0 | Python-enhanced molecular graphics tool | legacyPackages.x86_64-linux.pymol |
@@ -53507,7 +53507,7 @@
 | pypy3.11 | 7.3.20 | Fast, compliant alternative implementation of the Python language (3.11) | legacyPackages.x86_64-linux.pypy3 |
 | pypy3.11 | 7.3.20 | Fast, compliant alternative implementation of the Python language (3.11) | legacyPackages.x86_64-linux.pypy311 |
 | pyradio | 0.9.3.11.25 | Curses based internet radio player | legacyPackages.x86_64-linux.pyradio |
-| pyrefly | 0.50.0 | Fast type checker and IDE for Python | legacyPackages.x86_64-linux.pyrefly |
+| pyrefly | 0.51.0 | Fast type checker and IDE for Python | legacyPackages.x86_64-linux.pyrefly |
 | pyright | 1.1.407 | Type checker for the Python language | legacyPackages.x86_64-linux.pyright |
 | pyroscope-pyroscope | 1.18.1 | Continuous profiling platform; debug performance issues down to a single line of code | legacyPackages.x86_64-linux.pyroscope |
 | pyrosimple | 2.14.2 | RTorrent client | legacyPackages.x86_64-linux.pyrosimple |
@@ -53883,7 +53883,7 @@
 | python3.13-aiosteamist | 1.0.1 | Module to control Steamist steam systems | legacyPackages.x86_64-linux.python313Packages.aiosteamist |
 | python3.13-aiostream | 0.7.1 | Generator-based operators for asynchronous iteration | legacyPackages.x86_64-linux.python313Packages.aiostream |
 | python3.13-aiostreammagic | 2.11.0 | Module for interfacing with Cambridge Audio/Stream Magic compatible streamers | legacyPackages.x86_64-linux.python313Packages.aiostreammagic |
-| python3.13-aioswitcher | 6.0.3 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python313Packages.aioswitcher |
+| python3.13-aioswitcher | 6.1.0 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python313Packages.aioswitcher |
 | python3.13-aiosyncthing | 0.6.3 | Python client for the Syncthing REST API | legacyPackages.x86_64-linux.python313Packages.aiosyncthing |
 | python3.13-aiotankerkoenig | 0.5.0 | Python module for interacting with tankerkoenig.de | legacyPackages.x86_64-linux.python313Packages.aiotankerkoenig |
 | python3.13-aiotarfile | 0.5.2 | Stream-based, asynchronous tarball processing | legacyPackages.x86_64-linux.python313Packages.aiotarfile |
@@ -54009,7 +54009,7 @@
 | python3.13-ansible-pylibssh | 1.3.0 | Python bindings to client functionality of libssh specific to Ansible use case | legacyPackages.x86_64-linux.python313Packages.ansible-pylibssh |
 | python3.13-ansible-runner | 2.4.2 | Helps when interfacing with Ansible | legacyPackages.x86_64-linux.python313Packages.ansible-runner |
 | python3.13-ansible-vault-rw | 2.1.0 | This project aim to R/W an ansible-vault yaml file | legacyPackages.x86_64-linux.python313Packages.ansible-vault-rw |
-| python3.13-ansicolor | 0.3.2 | Library to produce ansi color output and colored highlighting and diffing | legacyPackages.x86_64-linux.python313Packages.ansicolor |
+| python3.13-ansicolor | 0.3.3 | Library to produce ansi color output and colored highlighting and diffing | legacyPackages.x86_64-linux.python313Packages.ansicolor |
 | python3.13-ansicolors | 1.1.8 | ANSI colors for Python | legacyPackages.x86_64-linux.python313Packages.ansicolors |
 | python3.13-ansimarkup | 2.1.0 | XML-like markup for producing colored terminal text | legacyPackages.x86_64-linux.python313Packages.ansimarkup |
 | python3.13-ansitable | 0.11.4 | Quick and easy display of tabular data and matrices with optional ANSI color and borders | legacyPackages.x86_64-linux.python313Packages.ansitable |
@@ -55309,7 +55309,7 @@
 | python3.13-cython | 0.29.37.1 | Optimising static compiler for both the Python programming language and the extended Cython programming language | legacyPackages.x86_64-linux.python313Packages.cython_0 |
 | python3.13-cython | 3.1.6 | Optimising static compiler for both the Python and the extended Cython programming languages | legacyPackages.x86_64-linux.python313Packages.cython |
 | python3.13-cython-test-exception-raiser | 1.0.2 | Testing only. A cython simple extension which is used as helper for twisted/twisted Failure tests | legacyPackages.x86_64-linux.python313Packages.cython-test-exception-raiser |
-| python3.13-cytoolz | 1.0.1 | Cython implementation of Toolz: High performance functional utilities | legacyPackages.x86_64-linux.python313Packages.cytoolz |
+| python3.13-cytoolz | 1.1.0 | Cython implementation of Toolz: High performance functional utilities | legacyPackages.x86_64-linux.python313Packages.cytoolz |
 | python3.13-cyvest | 5.1.4 | Cybersecurity Investigation Model | legacyPackages.x86_64-linux.python313Packages.cyvest |
 | python3.13-dacite | 1.9.2 | Python helper to create data classes from dictionaries | legacyPackages.x86_64-linux.python313Packages.dacite |
 | python3.13-daemonize | 2.5.0 | Library to enable your code run as a daemon process on Unix-like systems | legacyPackages.x86_64-linux.python313Packages.daemonize |
@@ -55383,7 +55383,6 @@
 | python3.13-datashape | 0.5.4 | Data description language | legacyPackages.x86_64-linux.python313Packages.datashape |
 | python3.13-datashaper | 0.0.49 | Collection of utilities for doing lightweight data wrangling | legacyPackages.x86_64-linux.python313Packages.datashaper |
 | python3.13-datashare | 0.2.0 | Microsoft Azure Command-Line Tools DataShareManagementClient Extension | legacyPackages.x86_64-linux.azure-cli-extensions.datashare |
-| python3.13-datatable | 1.1.0 | data.table for Python | legacyPackages.x86_64-linux.python313Packages.datatable |
 | python3.13-datatrove | 0.2.0 | Set of platform-agnostic customizable pipeline processing blocks for data processing | legacyPackages.x86_64-linux.datatrove |
 | python3.13-datauri | 3.0.2 | Module for Data URI manipulation | legacyPackages.x86_64-linux.python313Packages.datauri |
 | python3.13-datefinder | 0.7.3 | Extract datetime objects from strings | legacyPackages.x86_64-linux.python313Packages.datefinder |
@@ -55600,7 +55599,7 @@
 | python3.13-dj-rest-auth | 7.0.1 | Authentication for Django Rest Framework | legacyPackages.x86_64-linux.python313Packages.dj-rest-auth |
 | python3.13-dj-search-url | 0.1 | Use Search URLs in your Django Haystack Application | legacyPackages.x86_64-linux.python313Packages.dj-search-url |
 | python3.13-dj-static | 0.0.6 | Serve production static files with Django | legacyPackages.x86_64-linux.python313Packages.dj-static |
-| python3.13-django | 4.2.27 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python313Packages.django_4 |
+| python3.13-django | 4.2.28 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python313Packages.django_4 |
 | python3.13-django | 5.2.9 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python313Packages.django |
 | python3.13-django | 5.2.9 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python313Packages.django_5 |
 | python3.13-django | 5.2.9 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python313Packages.django_5_2 |
@@ -57146,7 +57145,7 @@
 | python3.13-iceportal | 1.2.0 | Library for getting data from the ICE Portal | legacyPackages.x86_64-linux.python313Packages.iceportal |
 | python3.13-icmplib | 3.0.4 | Python implementation of the ICMP protocol | legacyPackages.x86_64-linux.python313Packages.icmplib |
 | python3.13-icnsutil | 1.1.0 | Create and extract .icns files | legacyPackages.x86_64-linux.python313Packages.icnsutil |
-| python3.13-icontract | 2.7.2 | Provide design-by-contract with informative violation messages | legacyPackages.x86_64-linux.python313Packages.icontract |
+| python3.13-icontract | 2.7.3 | Provide design-by-contract with informative violation messages | legacyPackages.x86_64-linux.python313Packages.icontract |
 | python3.13-ics | 0.7.2 | Pythonic and easy iCalendar library (RFC 5545) | legacyPackages.x86_64-linux.python313Packages.ics |
 | python3.13-id | 1.5.0 | Tool for generating OIDC identities | legacyPackages.x86_64-linux.python313Packages.id |
 | python3.13-idasen | 0.12.0 | Python API and CLI for the ikea IDÅSEN desk | legacyPackages.x86_64-linux.python313Packages.idasen |
@@ -57613,7 +57612,7 @@
 | python3.13-kneed | 0.8.5 | Knee point detection in Python | legacyPackages.x86_64-linux.python313Packages.kneed |
 | python3.13-knocki | 0.4.2 | Asynchronous Python client for Knocki vibration / door sensors | legacyPackages.x86_64-linux.python313Packages.knocki |
 | python3.13-knot-floer-homology | 1.2.2 | Python wrapper for Zoltán Szabó's HFK Calculator | legacyPackages.x86_64-linux.python313Packages.knot-floer-homology |
-| python3.13-knot-resolver-manager_6 | 6.1.0 | Caching validating DNS resolver, from .cz domain registry | legacyPackages.x86_64-linux.knot-resolver-manager_6 |
+| python3.13-knot-resolver-manager_6 | 6.2.0 | Caching validating DNS resolver, from .cz domain registry | legacyPackages.x86_64-linux.knot-resolver-manager_6 |
 | python3.13-knowit | 0.5.11 | Extract metadata from media files | legacyPackages.x86_64-linux.python313Packages.knowit |
 | python3.13-knx-frontend | 2026.1.28.162006 | Home Assistant Panel for managing the KNX integration | legacyPackages.x86_64-linux.python313Packages.knx-frontend |
 | python3.13-kokoro | 0-unstable-2025-06-16 | Open-weight TTS model with 82 million parameters | legacyPackages.x86_64-linux.python313Packages.kokoro |
@@ -57786,7 +57785,7 @@
 | python3.13-libpyvivotek | 0.6.1 | Python Library for Vivotek IP Cameras | legacyPackages.x86_64-linux.python313Packages.libpyvivotek |
 | python3.13-librehardwaremonitor-api | 1.6.0 | Python API client for LibreHardwareMonitor | legacyPackages.x86_64-linux.python313Packages.librehardwaremonitor-api |
 | python3.13-librespot | 0.0.10 | Open Source Spotify Client | legacyPackages.x86_64-linux.python313Packages.librespot |
-| python3.13-libretranslate | 1.8.3 | Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services | legacyPackages.x86_64-linux.python313Packages.libretranslate |
+| python3.13-libretranslate | 1.8.4 | Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services | legacyPackages.x86_64-linux.python313Packages.libretranslate |
 | python3.13-librosa | 0.11.0 | Python library for audio and music analysis | legacyPackages.x86_64-linux.python313Packages.librosa |
 | python3.13-librouteros | 3.4.1 | Python implementation of the MikroTik RouterOS API | legacyPackages.x86_64-linux.python313Packages.librouteros |
 | python3.13-libsass | 0.23.0 | Python binding for libsass to compile Sass/SCSS | legacyPackages.x86_64-linux.python313Packages.libsass |
@@ -58150,7 +58149,7 @@
 | python3.13-mdformat | 1.0.0 | CommonMark compliant Markdown formatter | legacyPackages.x86_64-linux.python313Packages.mdformat |
 | python3.13-mdformat-admon | 2.1.1 | Mdformat plugin for admonitions | legacyPackages.x86_64-linux.python313Packages.mdformat-admon |
 | python3.13-mdformat-beautysh | 1.0.0 | Mdformat plugin to beautify Bash scripts | legacyPackages.x86_64-linux.python313Packages.mdformat-beautysh |
-| python3.13-mdformat-footnote | 0.1.2 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python313Packages.mdformat-footnote |
+| python3.13-mdformat-footnote | 0.1.3 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python313Packages.mdformat-footnote |
 | python3.13-mdformat-front-matters | 2.0.0 | mdformat plugin to format YAML, TOML, or JSON front matter | legacyPackages.x86_64-linux.python313Packages.mdformat-front-matters |
 | python3.13-mdformat-frontmatter | 2.0.10 | Mdformat plugin to ensure frontmatter is respected | legacyPackages.x86_64-linux.python313Packages.mdformat-frontmatter |
 | python3.13-mdformat-gfm | 1.0.0 | Mdformat plugin for GitHub Flavored Markdown compatibility | legacyPackages.x86_64-linux.python313Packages.mdformat-gfm |
@@ -58889,7 +58888,7 @@
 | python3.13-namespaced-openvpn | 0.6.0 | Network namespace isolation for OpenVPN tunnels | legacyPackages.x86_64-linux.namespaced-openvpn |
 | python3.13-namex | 0.1.0 | Simple utility to separate the implementation of your Python package and its public API surface | legacyPackages.x86_64-linux.python313Packages.namex |
 | python3.13-nampa | 1.0-unstable-2024-12-18 | Python implementation of the FLIRT technology | legacyPackages.x86_64-linux.python313Packages.nampa |
-| python3.13-nanobind | 2.10.2 | Tiny and efficient C++/Python bindings | legacyPackages.x86_64-linux.python313Packages.nanobind |
+| python3.13-nanobind | 2.11.0 | Tiny and efficient C++/Python bindings | legacyPackages.x86_64-linux.python313Packages.nanobind |
 | python3.13-nanoeigenpy | 0.4.0 | Support library for bindings between Eigen in C++ and Python, based on nanobind | legacyPackages.x86_64-linux.python313Packages.nanoeigenpy |
 | python3.13-nanoemoji | 0.15.9 | Wee tool to build color fonts | legacyPackages.x86_64-linux.python313Packages.nanoemoji |
 | python3.13-nanoid | 2.0.0 | Tiny, secure, URL-friendly, unique string ID generator for Python | legacyPackages.x86_64-linux.python313Packages.nanoid |
@@ -59518,7 +59517,7 @@
 | python3.13-pbar | 2.2.1 | Display customizable progress bars on the terminal easily | legacyPackages.x86_64-linux.python313Packages.pbar |
 | python3.13-pbkdf2 | 1.3 |  | legacyPackages.x86_64-linux.python313Packages.pbkdf2 |
 | python3.13-pbr | 7.0.1 | Python Build Reasonableness | legacyPackages.x86_64-linux.python313Packages.pbr |
-| python3.13-pbs-installer | 2026.01.14 | Installer for Python Build Standalone | legacyPackages.x86_64-linux.python313Packages.pbs-installer |
+| python3.13-pbs-installer | 2026.01.27 | Installer for Python Build Standalone | legacyPackages.x86_64-linux.python313Packages.pbs-installer |
 | python3.13-pbxproj | 4.3.2 | Python module to manipulate XCode projects  | legacyPackages.x86_64-linux.python313Packages.pbxproj |
 | python3.13-pcapy-ng | 1.0.9 | Module to interface with the libpcap packet capture library | legacyPackages.x86_64-linux.python313Packages.pcapy-ng |
 | python3.13-pcbnewtransition | 0.5.2 | Library that allows you to support both, KiCad 5, 6 and 7 in your plugins | legacyPackages.x86_64-linux.python313Packages.pcbnewtransition |
@@ -59708,7 +59707,7 @@
 | python3.13-plotext | 5.3.2 | Plotting directly in the terminal | legacyPackages.x86_64-linux.python313Packages.plotext |
 | python3.13-plotille | 5.0.0 | Plot in the terminal using braille dots | legacyPackages.x86_64-linux.python313Packages.plotille |
 | python3.13-plotly | 6.5.2 | Python plotting library for collaborative, interactive, publication-quality graphs | legacyPackages.x86_64-linux.python313Packages.plotly |
-| python3.13-plotnine | 0.15.2 | Grammar of graphics for Python | legacyPackages.x86_64-linux.python313Packages.plotnine |
+| python3.13-plotnine | 0.15.3 | Grammar of graphics for Python | legacyPackages.x86_64-linux.python313Packages.plotnine |
 | python3.13-plotpy | 2.7.5 | Curve and image plotting tools for Python/Qt applications | legacyPackages.x86_64-linux.python313Packages.plotpy |
 | python3.13-plover | 4.0.2 | OpenSteno Plover stenography software | legacyPackages.x86_64-linux.plover.dev |
 | python3.13-pluggy | 1.6.0 | Plugin and hook calling mechanisms for Python | legacyPackages.x86_64-linux.python313Packages.pluggy |
@@ -60360,7 +60359,7 @@
 | python3.13-pyimgbox | 1.0.7 | API for uploading images to imgbox.com | legacyPackages.x86_64-linux.python313Packages.pyimgbox |
 | python3.13-pyimpfuzzy | 0.5 | Python module which calculates and compares the impfuzzy (import fuzzy hashing) | legacyPackages.x86_64-linux.python313Packages.pyimpfuzzy |
 | python3.13-pyindego | 3.2.2 | Python interface for Bosch API for lawnmowers | legacyPackages.x86_64-linux.python313Packages.pyindego |
-| python3.13-pyinfra | 3.6 | Python-based infrastructure automation | legacyPackages.x86_64-linux.python313Packages.pyinfra |
+| python3.13-pyinfra | 3.6.1 | Python-based infrastructure automation | legacyPackages.x86_64-linux.python313Packages.pyinfra |
 | python3.13-pyinfra-testgen | 0.1.1 | Generate Python unit tests from JSON and YAML files | legacyPackages.x86_64-linux.python313Packages.pyinfra-testgen |
 | python3.13-pyinotify | 0.9.6 | Monitor filesystems events on Linux platforms with inotify | legacyPackages.x86_64-linux.python313Packages.pyinotify |
 | python3.13-pyinputevent | 2016-10-18 | Python interface to the Input Subsystem's input_event and uinput | legacyPackages.x86_64-linux.python313Packages.pyinputevent |
@@ -60826,7 +60825,7 @@
 | python3.13-pyslurm | 25.5.0 | Python bindings to Slurm | legacyPackages.x86_64-linux.python313Packages.pyslurm |
 | python3.13-pysma | 1.1.0 | Python library for interacting with SMA Solar's WebConnect | legacyPackages.x86_64-linux.python313Packages.pysma |
 | python3.13-pysmappee | 0.2.29 | Python Library for the Smappee dev API | legacyPackages.x86_64-linux.python313Packages.pysmappee |
-| python3.13-pysmarlaapi | 0.10.0 | Swing2Sleep Smarla API | legacyPackages.x86_64-linux.python313Packages.pysmarlaapi |
+| python3.13-pysmarlaapi | 0.13.0 | Swing2Sleep Smarla API | legacyPackages.x86_64-linux.python313Packages.pysmarlaapi |
 | python3.13-pysmart | 1.4.2 | Wrapper for smartctl (smartmontools) | legacyPackages.x86_64-linux.python313Packages.pysmart |
 | python3.13-pysmartapp | 0.3.5 | Python implementation to work with SmartApp lifecycle events | legacyPackages.x86_64-linux.python313Packages.pysmartapp |
 | python3.13-pysmartdl | 1.3.4 | Smart Download Manager for Python | legacyPackages.x86_64-linux.python313Packages.pysmartdl |
@@ -62545,7 +62544,7 @@
 | python3.13-sqlalchemy-jsonfield | 1.0.2 | SQLALchemy JSONField implementation for storing dicts at SQL independently from JSON type support | legacyPackages.x86_64-linux.python313Packages.sqlalchemy-jsonfield |
 | python3.13-sqlalchemy-mixins | 2.1.0 | Python mixins for SQLAlchemy ORM | legacyPackages.x86_64-linux.python313Packages.sqlalchemy-mixins |
 | python3.13-sqlalchemy-utc | 0.14.0 | SQLAlchemy type to store aware datetime values | legacyPackages.x86_64-linux.python313Packages.sqlalchemy-utc |
-| python3.13-sqlalchemy-utils | 0.42.2 | Various utility functions and datatypes for SQLAlchemy | legacyPackages.x86_64-linux.python313Packages.sqlalchemy-utils |
+| python3.13-sqlalchemy-utils | 0.41.2 | Various utility functions and datatypes for SQLAlchemy | legacyPackages.x86_64-linux.python313Packages.sqlalchemy-utils |
 | python3.13-sqlcipher3 | 0.6.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python313Packages.sqlcipher3 |
 | python3.13-sqlcipher3-binary | 0.6.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python313Packages.sqlcipher3-binary |
 | python3.13-sqlcipher3-wheels | 0.6.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python313Packages.sqlcipher3-wheels |
@@ -62632,7 +62631,7 @@
 | python3.13-statistics | 1.0.3.5 | Python 2.* port of 3.4 Statistics Module | legacyPackages.x86_64-linux.python313Packages.statistics |
 | python3.13-statmake | 1.1.0 | Applies STAT information from a Stylespace to a variable font | legacyPackages.x86_64-linux.python313Packages.statmake |
 | python3.13-statsd | 4.0.1 | Simple statsd client | legacyPackages.x86_64-linux.python313Packages.statsd |
-| python3.13-statsmodels | 0.14.5 | Statistical computations and models for use with SciPy | legacyPackages.x86_64-linux.python313Packages.statsmodels |
+| python3.13-statsmodels | 0.14.6 | Statistical computations and models for use with SciPy | legacyPackages.x86_64-linux.python313Packages.statsmodels |
 | python3.13-std-uritemplate | 2.0.8 | Std-uritemplate implementation for Python | legacyPackages.x86_64-linux.python313Packages.std-uritemplate |
 | python3.13-std2 | 0-unstable-2025-02-06 | Dependency to chadtree and coq_nvim plugins | legacyPackages.x86_64-linux.python313Packages.std2 |
 | python3.13-stdiomask | 0.0.6 | Python module for masking passwords | legacyPackages.x86_64-linux.python313Packages.stdiomask |
@@ -62709,7 +62708,7 @@
 | python3.13-stups-tokens | 1.1.19 | Python library that keeps OAuth 2.0 service access tokens in memory for your usage | legacyPackages.x86_64-linux.python313Packages.stups-tokens |
 | python3.13-stups-zign | 1.2 | OAuth2 token management command line utility | legacyPackages.x86_64-linux.python313Packages.stups-zign |
 | python3.13-stytra | 0.8.34 | Modular package to control stimulation and track behaviour | legacyPackages.x86_64-linux.python313Packages.stytra |
-| python3.13-subarulink | 0.7.17 | Python module for interacting with STARLINK-enabled vehicle | legacyPackages.x86_64-linux.python313Packages.subarulink |
+| python3.13-subarulink | 0.7.18 | Python module for interacting with STARLINK-enabled vehicle | legacyPackages.x86_64-linux.python313Packages.subarulink |
 | python3.13-subliminal | 2.5.0 | Python library to search and download subtitles | legacyPackages.x86_64-linux.python313Packages.subliminal |
 | python3.13-submitit | 1.5.4 | Python 3.8+ toolbox for submitting jobs to Slurm | legacyPackages.x86_64-linux.python313Packages.submitit |
 | python3.13-subprocess-tee | 0.4.2 | Subprocess.run drop-in replacement that supports a tee mode | legacyPackages.x86_64-linux.python313Packages.subprocess-tee |
@@ -63631,7 +63630,6 @@
 | python3.13-types-webencodings | 0.5.0.20251108 | Typing stubs for webencodings | legacyPackages.x86_64-linux.python313Packages.types-webencodings |
 | python3.13-types-xxhash | 3.0.5.2 | Typing stubs for xxhash | legacyPackages.x86_64-linux.python313Packages.types-xxhash |
 | python3.13-typesense | 1.1.1 | Python client for Typesense, an open source and typo tolerant search engine | legacyPackages.x86_64-linux.python313Packages.typesense |
-| python3.13-typesentry | 0.2.7 | Python 2.7 & 3.5+ runtime type-checker | legacyPackages.x86_64-linux.python313Packages.typesentry |
 | python3.13-typeshed-client | 2.8.2 | Retrieve information from typeshed and other typing stubs | legacyPackages.x86_64-linux.python313Packages.typeshed-client |
 | python3.13-typing-extensions | 4.15.0 | Backported and Experimental Type Hints for Python | legacyPackages.x86_64-linux.python313Packages.typing-extensions |
 | python3.13-typing-inspect | 0.9.0-unstable-2025-10-20 | Runtime inspection utilities for Python typing module | legacyPackages.x86_64-linux.python313Packages.typing-inspect |
@@ -64127,7 +64125,7 @@
 | python3.13-xrootd | 5.9.1 | XRootD central repository | legacyPackages.x86_64-linux.python313Packages.xrootd |
 | python3.13-xs1-api-client | 3.0.1 | Python library for accessing actuator and sensor data on the EZcontrol XS1 Gateway | legacyPackages.x86_64-linux.python313Packages.xs1-api-client |
 | python3.13-xsdata | 26.1 | Naive XML & JSON bindings for Python | legacyPackages.x86_64-linux.python313Packages.xsdata |
-| python3.13-xsdata-pydantic | 24.5 | Naive XML & JSON Bindings for python pydantic classes! | legacyPackages.x86_64-linux.python313Packages.xsdata-pydantic |
+| python3.13-xsdata-pydantic | 24.5 | Naive XML & JSON Bindings for python pydantic classes | legacyPackages.x86_64-linux.python313Packages.xsdata-pydantic |
 | python3.13-xstatic | 1.0.3 | Base packaged static files for python | legacyPackages.x86_64-linux.python313Packages.xstatic |
 | python3.13-xstatic-asciinema-player | 2.6.1.1 | Asciinema-player packaged for python | legacyPackages.x86_64-linux.python313Packages.xstatic-asciinema-player |
 | python3.13-xstatic-bootbox | 5.5.1.1 | Bootboxjs packaged static files for python | legacyPackages.x86_64-linux.python313Packages.xstatic-bootbox |
@@ -64521,7 +64519,7 @@
 | python3.14-aiosteamist | 1.0.1 | Module to control Steamist steam systems | legacyPackages.x86_64-linux.python314Packages.aiosteamist |
 | python3.14-aiostream | 0.7.1 | Generator-based operators for asynchronous iteration | legacyPackages.x86_64-linux.python314Packages.aiostream |
 | python3.14-aiostreammagic | 2.11.0 | Module for interfacing with Cambridge Audio/Stream Magic compatible streamers | legacyPackages.x86_64-linux.python314Packages.aiostreammagic |
-| python3.14-aioswitcher | 6.0.3 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python314Packages.aioswitcher |
+| python3.14-aioswitcher | 6.1.0 | Python module to interact with Switcher water heater | legacyPackages.x86_64-linux.python314Packages.aioswitcher |
 | python3.14-aiosyncthing | 0.6.3 | Python client for the Syncthing REST API | legacyPackages.x86_64-linux.python314Packages.aiosyncthing |
 | python3.14-aiotankerkoenig | 0.5.0 | Python module for interacting with tankerkoenig.de | legacyPackages.x86_64-linux.python314Packages.aiotankerkoenig |
 | python3.14-aiotarfile | 0.5.2 | Stream-based, asynchronous tarball processing | legacyPackages.x86_64-linux.python314Packages.aiotarfile |
@@ -64638,7 +64636,7 @@
 | python3.14-ansible-pylibssh | 1.3.0 | Python bindings to client functionality of libssh specific to Ansible use case | legacyPackages.x86_64-linux.python314Packages.ansible-pylibssh |
 | python3.14-ansible-runner | 2.4.2 | Helps when interfacing with Ansible | legacyPackages.x86_64-linux.python314Packages.ansible-runner |
 | python3.14-ansible-vault-rw | 2.1.0 | This project aim to R/W an ansible-vault yaml file | legacyPackages.x86_64-linux.python314Packages.ansible-vault-rw |
-| python3.14-ansicolor | 0.3.2 | Library to produce ansi color output and colored highlighting and diffing | legacyPackages.x86_64-linux.python314Packages.ansicolor |
+| python3.14-ansicolor | 0.3.3 | Library to produce ansi color output and colored highlighting and diffing | legacyPackages.x86_64-linux.python314Packages.ansicolor |
 | python3.14-ansicolors | 1.1.8 | ANSI colors for Python | legacyPackages.x86_64-linux.python314Packages.ansicolors |
 | python3.14-ansimarkup | 2.1.0 | XML-like markup for producing colored terminal text | legacyPackages.x86_64-linux.python314Packages.ansimarkup |
 | python3.14-ansitable | 0.11.4 | Quick and easy display of tabular data and matrices with optional ANSI color and borders | legacyPackages.x86_64-linux.python314Packages.ansitable |
@@ -65865,7 +65863,7 @@
 | python3.14-cython | 0.29.37.1 | Optimising static compiler for both the Python programming language and the extended Cython programming language | legacyPackages.x86_64-linux.python314Packages.cython_0 |
 | python3.14-cython | 3.1.6 | Optimising static compiler for both the Python and the extended Cython programming languages | legacyPackages.x86_64-linux.python314Packages.cython |
 | python3.14-cython-test-exception-raiser | 1.0.2 | Testing only. A cython simple extension which is used as helper for twisted/twisted Failure tests | legacyPackages.x86_64-linux.python314Packages.cython-test-exception-raiser |
-| python3.14-cytoolz | 1.0.1 | Cython implementation of Toolz: High performance functional utilities | legacyPackages.x86_64-linux.python314Packages.cytoolz |
+| python3.14-cytoolz | 1.1.0 | Cython implementation of Toolz: High performance functional utilities | legacyPackages.x86_64-linux.python314Packages.cytoolz |
 | python3.14-cyvest | 5.1.4 | Cybersecurity Investigation Model | legacyPackages.x86_64-linux.python314Packages.cyvest |
 | python3.14-dacite | 1.9.2 | Python helper to create data classes from dictionaries | legacyPackages.x86_64-linux.python314Packages.dacite |
 | python3.14-daemonize | 2.5.0 | Library to enable your code run as a daemon process on Unix-like systems | legacyPackages.x86_64-linux.python314Packages.daemonize |
@@ -65930,7 +65928,6 @@
 | python3.14-datashader | 0.18.2 | Data visualization toolchain based on aggregating into a grid | legacyPackages.x86_64-linux.python314Packages.datashader |
 | python3.14-datashape | 0.5.4 | Data description language | legacyPackages.x86_64-linux.python314Packages.datashape |
 | python3.14-datashaper | 0.0.49 | Collection of utilities for doing lightweight data wrangling | legacyPackages.x86_64-linux.python314Packages.datashaper |
-| python3.14-datatable | 1.1.0 | data.table for Python | legacyPackages.x86_64-linux.python314Packages.datatable |
 | python3.14-datauri | 3.0.2 | Module for Data URI manipulation | legacyPackages.x86_64-linux.python314Packages.datauri |
 | python3.14-datefinder | 0.7.3 | Extract datetime objects from strings | legacyPackages.x86_64-linux.python314Packages.datefinder |
 | python3.14-dateparser | 1.2.2 | Date parsing library designed to parse dates from HTML pages | legacyPackages.x86_64-linux.python314Packages.dateparser |
@@ -66132,7 +66129,7 @@
 | python3.14-dj-rest-auth | 7.0.1 | Authentication for Django Rest Framework | legacyPackages.x86_64-linux.python314Packages.dj-rest-auth |
 | python3.14-dj-search-url | 0.1 | Use Search URLs in your Django Haystack Application | legacyPackages.x86_64-linux.python314Packages.dj-search-url |
 | python3.14-dj-static | 0.0.6 | Serve production static files with Django | legacyPackages.x86_64-linux.python314Packages.dj-static |
-| python3.14-django | 4.2.27 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python314Packages.django_4 |
+| python3.14-django | 4.2.28 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python314Packages.django_4 |
 | python3.14-django | 5.2.9 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python314Packages.django |
 | python3.14-django | 5.2.9 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python314Packages.django_5 |
 | python3.14-django | 5.2.9 | High-level Python Web framework that encourages rapid development and clean, pragmatic design | legacyPackages.x86_64-linux.python314Packages.django_5_2 |
@@ -67627,7 +67624,7 @@
 | python3.14-iceportal | 1.2.0 | Library for getting data from the ICE Portal | legacyPackages.x86_64-linux.python314Packages.iceportal |
 | python3.14-icmplib | 3.0.4 | Python implementation of the ICMP protocol | legacyPackages.x86_64-linux.python314Packages.icmplib |
 | python3.14-icnsutil | 1.1.0 | Create and extract .icns files | legacyPackages.x86_64-linux.python314Packages.icnsutil |
-| python3.14-icontract | 2.7.2 | Provide design-by-contract with informative violation messages | legacyPackages.x86_64-linux.python314Packages.icontract |
+| python3.14-icontract | 2.7.3 | Provide design-by-contract with informative violation messages | legacyPackages.x86_64-linux.python314Packages.icontract |
 | python3.14-ics | 0.7.2 | Pythonic and easy iCalendar library (RFC 5545) | legacyPackages.x86_64-linux.python314Packages.ics |
 | python3.14-id | 1.5.0 | Tool for generating OIDC identities | legacyPackages.x86_64-linux.python314Packages.id |
 | python3.14-idasen | 0.12.0 | Python API and CLI for the ikea IDÅSEN desk | legacyPackages.x86_64-linux.python314Packages.idasen |
@@ -68244,7 +68241,7 @@
 | python3.14-libpyvivotek | 0.6.1 | Python Library for Vivotek IP Cameras | legacyPackages.x86_64-linux.python314Packages.libpyvivotek |
 | python3.14-librehardwaremonitor-api | 1.6.0 | Python API client for LibreHardwareMonitor | legacyPackages.x86_64-linux.python314Packages.librehardwaremonitor-api |
 | python3.14-librespot | 0.0.10 | Open Source Spotify Client | legacyPackages.x86_64-linux.python314Packages.librespot |
-| python3.14-libretranslate | 1.8.3 | Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services | legacyPackages.x86_64-linux.python314Packages.libretranslate |
+| python3.14-libretranslate | 1.8.4 | Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services | legacyPackages.x86_64-linux.python314Packages.libretranslate |
 | python3.14-librosa | 0.11.0 | Python library for audio and music analysis | legacyPackages.x86_64-linux.python314Packages.librosa |
 | python3.14-librouteros | 3.4.1 | Python implementation of the MikroTik RouterOS API | legacyPackages.x86_64-linux.python314Packages.librouteros |
 | python3.14-libsass | 0.23.0 | Python binding for libsass to compile Sass/SCSS | legacyPackages.x86_64-linux.python314Packages.libsass |
@@ -68584,7 +68581,7 @@
 | python3.14-mdformat | 1.0.0 | CommonMark compliant Markdown formatter | legacyPackages.x86_64-linux.python314Packages.mdformat |
 | python3.14-mdformat-admon | 2.1.1 | Mdformat plugin for admonitions | legacyPackages.x86_64-linux.python314Packages.mdformat-admon |
 | python3.14-mdformat-beautysh | 1.0.0 | Mdformat plugin to beautify Bash scripts | legacyPackages.x86_64-linux.python314Packages.mdformat-beautysh |
-| python3.14-mdformat-footnote | 0.1.2 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python314Packages.mdformat-footnote |
+| python3.14-mdformat-footnote | 0.1.3 | Footnote format addition for mdformat | legacyPackages.x86_64-linux.python314Packages.mdformat-footnote |
 | python3.14-mdformat-front-matters | 2.0.0 | mdformat plugin to format YAML, TOML, or JSON front matter | legacyPackages.x86_64-linux.python314Packages.mdformat-front-matters |
 | python3.14-mdformat-frontmatter | 2.0.10 | Mdformat plugin to ensure frontmatter is respected | legacyPackages.x86_64-linux.python314Packages.mdformat-frontmatter |
 | python3.14-mdformat-gfm | 1.0.0 | Mdformat plugin for GitHub Flavored Markdown compatibility | legacyPackages.x86_64-linux.python314Packages.mdformat-gfm |
@@ -69305,7 +69302,7 @@
 | python3.14-names | 0.3.0 | Generate random names | legacyPackages.x86_64-linux.python314Packages.names |
 | python3.14-namex | 0.1.0 | Simple utility to separate the implementation of your Python package and its public API surface | legacyPackages.x86_64-linux.python314Packages.namex |
 | python3.14-nampa | 1.0-unstable-2024-12-18 | Python implementation of the FLIRT technology | legacyPackages.x86_64-linux.python314Packages.nampa |
-| python3.14-nanobind | 2.10.2 | Tiny and efficient C++/Python bindings | legacyPackages.x86_64-linux.python314Packages.nanobind |
+| python3.14-nanobind | 2.11.0 | Tiny and efficient C++/Python bindings | legacyPackages.x86_64-linux.python314Packages.nanobind |
 | python3.14-nanoeigenpy | 0.4.0 | Support library for bindings between Eigen in C++ and Python, based on nanobind | legacyPackages.x86_64-linux.python314Packages.nanoeigenpy |
 | python3.14-nanoemoji | 0.15.9 | Wee tool to build color fonts | legacyPackages.x86_64-linux.python314Packages.nanoemoji |
 | python3.14-nanoid | 2.0.0 | Tiny, secure, URL-friendly, unique string ID generator for Python | legacyPackages.x86_64-linux.python314Packages.nanoid |
@@ -69894,7 +69891,7 @@
 | python3.14-pbar | 2.2.1 | Display customizable progress bars on the terminal easily | legacyPackages.x86_64-linux.python314Packages.pbar |
 | python3.14-pbkdf2 | 1.3 |  | legacyPackages.x86_64-linux.python314Packages.pbkdf2 |
 | python3.14-pbr | 7.0.1 | Python Build Reasonableness | legacyPackages.x86_64-linux.python314Packages.pbr |
-| python3.14-pbs-installer | 2026.01.14 | Installer for Python Build Standalone | legacyPackages.x86_64-linux.python314Packages.pbs-installer |
+| python3.14-pbs-installer | 2026.01.27 | Installer for Python Build Standalone | legacyPackages.x86_64-linux.python314Packages.pbs-installer |
 | python3.14-pbxproj | 4.3.2 | Python module to manipulate XCode projects  | legacyPackages.x86_64-linux.python314Packages.pbxproj |
 | python3.14-pcapy-ng | 1.0.9 | Module to interface with the libpcap packet capture library | legacyPackages.x86_64-linux.python314Packages.pcapy-ng |
 | python3.14-pcbnewtransition | 0.5.2 | Library that allows you to support both, KiCad 5, 6 and 7 in your plugins | legacyPackages.x86_64-linux.python314Packages.pcbnewtransition |
@@ -70080,7 +70077,7 @@
 | python3.14-plotext | 5.3.2 | Plotting directly in the terminal | legacyPackages.x86_64-linux.python314Packages.plotext |
 | python3.14-plotille | 5.0.0 | Plot in the terminal using braille dots | legacyPackages.x86_64-linux.python314Packages.plotille |
 | python3.14-plotly | 6.5.2 | Python plotting library for collaborative, interactive, publication-quality graphs | legacyPackages.x86_64-linux.python314Packages.plotly |
-| python3.14-plotnine | 0.15.2 | Grammar of graphics for Python | legacyPackages.x86_64-linux.python314Packages.plotnine |
+| python3.14-plotnine | 0.15.3 | Grammar of graphics for Python | legacyPackages.x86_64-linux.python314Packages.plotnine |
 | python3.14-plotpy | 2.7.5 | Curve and image plotting tools for Python/Qt applications | legacyPackages.x86_64-linux.python314Packages.plotpy |
 | python3.14-pluggy | 1.6.0 | Plugin and hook calling mechanisms for Python | legacyPackages.x86_64-linux.python314Packages.pluggy |
 | python3.14-pluginbase | 1.0.1 | Support library for building plugins systems in Python | legacyPackages.x86_64-linux.python314Packages.pluginbase |
@@ -70707,7 +70704,7 @@
 | python3.14-pyimgbox | 1.0.7 | API for uploading images to imgbox.com | legacyPackages.x86_64-linux.python314Packages.pyimgbox |
 | python3.14-pyimpfuzzy | 0.5 | Python module which calculates and compares the impfuzzy (import fuzzy hashing) | legacyPackages.x86_64-linux.python314Packages.pyimpfuzzy |
 | python3.14-pyindego | 3.2.2 | Python interface for Bosch API for lawnmowers | legacyPackages.x86_64-linux.python314Packages.pyindego |
-| python3.14-pyinfra | 3.6 | Python-based infrastructure automation | legacyPackages.x86_64-linux.python314Packages.pyinfra |
+| python3.14-pyinfra | 3.6.1 | Python-based infrastructure automation | legacyPackages.x86_64-linux.python314Packages.pyinfra |
 | python3.14-pyinfra-testgen | 0.1.1 | Generate Python unit tests from JSON and YAML files | legacyPackages.x86_64-linux.python314Packages.pyinfra-testgen |
 | python3.14-pyinotify | 0.9.6 | Monitor filesystems events on Linux platforms with inotify | legacyPackages.x86_64-linux.python314Packages.pyinotify |
 | python3.14-pyinputevent | 2016-10-18 | Python interface to the Input Subsystem's input_event and uinput | legacyPackages.x86_64-linux.python314Packages.pyinputevent |
@@ -71171,7 +71168,7 @@
 | python3.14-pyslurm | 25.5.0 | Python bindings to Slurm | legacyPackages.x86_64-linux.python314Packages.pyslurm |
 | python3.14-pysma | 1.1.0 | Python library for interacting with SMA Solar's WebConnect | legacyPackages.x86_64-linux.python314Packages.pysma |
 | python3.14-pysmappee | 0.2.29 | Python Library for the Smappee dev API | legacyPackages.x86_64-linux.python314Packages.pysmappee |
-| python3.14-pysmarlaapi | 0.10.0 | Swing2Sleep Smarla API | legacyPackages.x86_64-linux.python314Packages.pysmarlaapi |
+| python3.14-pysmarlaapi | 0.13.0 | Swing2Sleep Smarla API | legacyPackages.x86_64-linux.python314Packages.pysmarlaapi |
 | python3.14-pysmart | 1.4.2 | Wrapper for smartctl (smartmontools) | legacyPackages.x86_64-linux.python314Packages.pysmart |
 | python3.14-pysmartapp | 0.3.5 | Python implementation to work with SmartApp lifecycle events | legacyPackages.x86_64-linux.python314Packages.pysmartapp |
 | python3.14-pysmartdl | 1.3.4 | Smart Download Manager for Python | legacyPackages.x86_64-linux.python314Packages.pysmartdl |
@@ -72852,7 +72849,7 @@
 | python3.14-sqlalchemy-jsonfield | 1.0.2 | SQLALchemy JSONField implementation for storing dicts at SQL independently from JSON type support | legacyPackages.x86_64-linux.python314Packages.sqlalchemy-jsonfield |
 | python3.14-sqlalchemy-mixins | 2.1.0 | Python mixins for SQLAlchemy ORM | legacyPackages.x86_64-linux.python314Packages.sqlalchemy-mixins |
 | python3.14-sqlalchemy-utc | 0.14.0 | SQLAlchemy type to store aware datetime values | legacyPackages.x86_64-linux.python314Packages.sqlalchemy-utc |
-| python3.14-sqlalchemy-utils | 0.42.2 | Various utility functions and datatypes for SQLAlchemy | legacyPackages.x86_64-linux.python314Packages.sqlalchemy-utils |
+| python3.14-sqlalchemy-utils | 0.41.2 | Various utility functions and datatypes for SQLAlchemy | legacyPackages.x86_64-linux.python314Packages.sqlalchemy-utils |
 | python3.14-sqlcipher3 | 0.6.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python314Packages.sqlcipher3 |
 | python3.14-sqlcipher3-binary | 0.6.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python314Packages.sqlcipher3-binary |
 | python3.14-sqlcipher3-wheels | 0.6.0 | Python 3 bindings for SQLCipher | legacyPackages.x86_64-linux.python314Packages.sqlcipher3-wheels |
@@ -72933,7 +72930,7 @@
 | python3.14-statistics | 1.0.3.5 | Python 2.* port of 3.4 Statistics Module | legacyPackages.x86_64-linux.python314Packages.statistics |
 | python3.14-statmake | 1.1.0 | Applies STAT information from a Stylespace to a variable font | legacyPackages.x86_64-linux.python314Packages.statmake |
 | python3.14-statsd | 4.0.1 | Simple statsd client | legacyPackages.x86_64-linux.python314Packages.statsd |
-| python3.14-statsmodels | 0.14.5 | Statistical computations and models for use with SciPy | legacyPackages.x86_64-linux.python314Packages.statsmodels |
+| python3.14-statsmodels | 0.14.6 | Statistical computations and models for use with SciPy | legacyPackages.x86_64-linux.python314Packages.statsmodels |
 | python3.14-std-uritemplate | 2.0.8 | Std-uritemplate implementation for Python | legacyPackages.x86_64-linux.python314Packages.std-uritemplate |
 | python3.14-std2 | 0-unstable-2025-02-06 | Dependency to chadtree and coq_nvim plugins | legacyPackages.x86_64-linux.python314Packages.std2 |
 | python3.14-stdiomask | 0.0.6 | Python module for masking passwords | legacyPackages.x86_64-linux.python314Packages.stdiomask |
@@ -73002,7 +72999,7 @@
 | python3.14-stups-tokens | 1.1.19 | Python library that keeps OAuth 2.0 service access tokens in memory for your usage | legacyPackages.x86_64-linux.python314Packages.stups-tokens |
 | python3.14-stups-zign | 1.2 | OAuth2 token management command line utility | legacyPackages.x86_64-linux.python314Packages.stups-zign |
 | python3.14-stytra | 0.8.34 | Modular package to control stimulation and track behaviour | legacyPackages.x86_64-linux.python314Packages.stytra |
-| python3.14-subarulink | 0.7.17 | Python module for interacting with STARLINK-enabled vehicle | legacyPackages.x86_64-linux.python314Packages.subarulink |
+| python3.14-subarulink | 0.7.18 | Python module for interacting with STARLINK-enabled vehicle | legacyPackages.x86_64-linux.python314Packages.subarulink |
 | python3.14-subliminal | 2.5.0 | Python library to search and download subtitles | legacyPackages.x86_64-linux.python314Packages.subliminal |
 | python3.14-submitit | 1.5.4 | Python 3.8+ toolbox for submitting jobs to Slurm | legacyPackages.x86_64-linux.python314Packages.submitit |
 | python3.14-subprocess-tee | 0.4.2 | Subprocess.run drop-in replacement that supports a tee mode | legacyPackages.x86_64-linux.python314Packages.subprocess-tee |
@@ -73906,7 +73903,6 @@
 | python3.14-types-webencodings | 0.5.0.20251108 | Typing stubs for webencodings | legacyPackages.x86_64-linux.python314Packages.types-webencodings |
 | python3.14-types-xxhash | 3.0.5.2 | Typing stubs for xxhash | legacyPackages.x86_64-linux.python314Packages.types-xxhash |
 | python3.14-typesense | 1.1.1 | Python client for Typesense, an open source and typo tolerant search engine | legacyPackages.x86_64-linux.python314Packages.typesense |
-| python3.14-typesentry | 0.2.7 | Python 2.7 & 3.5+ runtime type-checker | legacyPackages.x86_64-linux.python314Packages.typesentry |
 | python3.14-typeshed-client | 2.8.2 | Retrieve information from typeshed and other typing stubs | legacyPackages.x86_64-linux.python314Packages.typeshed-client |
 | python3.14-typing-extensions | 4.15.0 | Backported and Experimental Type Hints for Python | legacyPackages.x86_64-linux.python314Packages.typing-extensions |
 | python3.14-typing-inspect | 0.9.0-unstable-2025-10-20 | Runtime inspection utilities for Python typing module | legacyPackages.x86_64-linux.python314Packages.typing-inspect |
@@ -74378,7 +74374,7 @@
 | python3.14-xrootd | 5.9.1 | XRootD central repository | legacyPackages.x86_64-linux.python314Packages.xrootd |
 | python3.14-xs1-api-client | 3.0.1 | Python library for accessing actuator and sensor data on the EZcontrol XS1 Gateway | legacyPackages.x86_64-linux.python314Packages.xs1-api-client |
 | python3.14-xsdata | 26.1 | Naive XML & JSON bindings for Python | legacyPackages.x86_64-linux.python314Packages.xsdata |
-| python3.14-xsdata-pydantic | 24.5 | Naive XML & JSON Bindings for python pydantic classes! | legacyPackages.x86_64-linux.python314Packages.xsdata-pydantic |
+| python3.14-xsdata-pydantic | 24.5 | Naive XML & JSON Bindings for python pydantic classes | legacyPackages.x86_64-linux.python314Packages.xsdata-pydantic |
 | python3.14-xstatic | 1.0.3 | Base packaged static files for python | legacyPackages.x86_64-linux.python314Packages.xstatic |
 | python3.14-xstatic-asciinema-player | 2.6.1.1 | Asciinema-player packaged for python | legacyPackages.x86_64-linux.python314Packages.xstatic-asciinema-player |
 | python3.14-xstatic-bootbox | 5.5.1.1 | Bootboxjs packaged static files for python | legacyPackages.x86_64-linux.python314Packages.xstatic-bootbox |
@@ -79416,8 +79412,8 @@
 | rush-parallel | 0.8.0 | Cross-platform command-line tool for executing jobs in parallel | legacyPackages.x86_64-linux.rush-parallel |
 | russ | 0.5.0 | TUI RSS reader with vim-like controls and a local-first, offline-first focus | legacyPackages.x86_64-linux.russ |
 | russ | 25209 | LaTeX in Russian, without babel | legacyPackages.x86_64-linux.texlivePackages.russ |
-| rust-analyzer | 2026-01-26 | Language server for the Rust language | legacyPackages.x86_64-linux.rust-analyzer |
-| rust-analyzer-unwrapped | 2026-01-26 | Language server for the Rust language | legacyPackages.x86_64-linux.rust-analyzer-unwrapped |
+| rust-analyzer | 2026-02-02 | Language server for the Rust language | legacyPackages.x86_64-linux.rust-analyzer |
+| rust-analyzer-unwrapped | 2026-02-02 | Language server for the Rust language | legacyPackages.x86_64-linux.rust-analyzer-unwrapped |
 | rust-audit-info | 0.5.4 | Command-line tool to extract the dependency trees embedded in binaries by cargo-auditable | legacyPackages.x86_64-linux.rust-audit-info |
 | rust-bindgen | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | legacyPackages.x86_64-linux.rust-bindgen |
 | rust-bindgen-unwrapped | 0.72.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | legacyPackages.x86_64-linux.rust-bindgen-unwrapped |
@@ -86044,7 +86040,7 @@
 | sindhi | 2.4.3 | Free and open source fonts for Indian languages (Sindhi) | legacyPackages.x86_64-linux.lohit-fonts.sindhi |
 | sindre | 0.6 | A programming language for simple GUIs | legacyPackages.x86_64-linux.haskellPackages.sindre |
 | sing-box | 1.12.17 | Universal proxy platform | legacyPackages.x86_64-linux.sing-box |
-| sing-geoip | 2026-01 | GeoIP data for sing-box | legacyPackages.x86_64-linux.sing-geoip |
+| sing-geoip | 2026-02 | GeoIP data for sing-box | legacyPackages.x86_64-linux.sing-geoip |
 | sing-geosite | 20260129053508 | Community managed domain list | legacyPackages.x86_64-linux.sing-geosite |
 | single-file-cli | 1.1.49 | CLI tool for saving a faithful copy of a complete web page in a single HTML file | legacyPackages.x86_64-linux.single-file-cli |
 | single-tuple | 0.1.3.0 | a class for single tuple implementations | legacyPackages.x86_64-linux.haskellPackages.single-tuple |
@@ -86142,7 +86138,7 @@
 | skemmtun | 0.1.0.0 | A MyAnimeList.net client. | legacyPackages.x86_64-linux.haskellPackages.skemmtun |
 | sketch-frp-copilot | 1.0.11 | Sketch programming with Copilot | legacyPackages.x86_64-linux.haskellPackages.sketch-frp-copilot |
 | sketchybar | 2.23.0 | Highly customizable macOS status bar replacement | legacyPackages.x86_64-linux.sketchybar |
-| sketchybar-app-font | 2.0.51 | Ligature-based symbol font and a mapping function for sketchybar | legacyPackages.x86_64-linux.sketchybar-app-font |
+| sketchybar-app-font | 2.0.52 | Ligature-based symbol font and a mapping function for sketchybar | legacyPackages.x86_64-linux.sketchybar-app-font |
 | skew-list | 0.1 | Random access lists: skew binary | legacyPackages.x86_64-linux.haskellPackages.skew-list |
 | skews | 0.1.0.3 | A very quick-and-dirty WebSocket server | legacyPackages.x86_64-linux.haskellPackages.skews |
 | skeycommand | 0.4 | Create commands using parameters and keyval in parallel | legacyPackages.x86_64-linux.texlivePackages.skeycommand |
@@ -86302,7 +86298,7 @@
 | slurm-nm | 0.4.4 | Generic network load monitor | legacyPackages.x86_64-linux.slurm-nm |
 | slurm-spank-stunnel | 0.2.2 | Plugin for SLURM for SSH tunneling and port forwarding support | legacyPackages.x86_64-linux.slurm-spank-stunnel |
 | slurm-spank-x11 | 0.2.5 | Plugin for SLURM to allow for interactive X11 sessions | legacyPackages.x86_64-linux.slurm-spank-x11 |
-| slurp | 1.6.0 | Select a region in a Wayland compositor | legacyPackages.x86_64-linux.slurp |
+| slurp | 1.5.0 | Select a region in a Wayland compositor | legacyPackages.x86_64-linux.slurp |
 | slushload | 3 | Make turbo tape images from .prg files | legacyPackages.x86_64-linux.slushload |
 | slweb | 0.10.2 | Static website generator which aims at being simplistic | legacyPackages.x86_64-linux.slweb |
 | sly | 1.0.0 | Friendly image editor | legacyPackages.x86_64-linux.sly |
@@ -87206,7 +87202,7 @@
 | sqldiff | 3.51.2 | Tool that displays the differences between SQLite databases | legacyPackages.x86_64-linux.sqldiff |
 | sqlfluff | 4.0.0 | SQL linter and auto-formatter | legacyPackages.x86_64-linux.sqlfluff |
 | sqlint | 0.3.0 | Simple SQL linter | legacyPackages.x86_64-linux.sqlint |
-| sqlit-tui | 1.2.11 | Lightweight TUI for SQL Server, PostgreSQL, MySQL, SQLite, and more | legacyPackages.x86_64-linux.sqlit-tui |
+| sqlit-tui | 1.3.1 | Lightweight TUI for SQL Server, PostgreSQL, MySQL, SQLite, and more | legacyPackages.x86_64-linux.sqlit-tui |
 | sqlite | 0.5.5 | Haskell binding to sqlite3 | legacyPackages.x86_64-linux.haskellPackages.sqlite |
 | sqlite | 3.51.2 | Self-contained, serverless, zero-configuration, transactional SQL database engine | legacyPackages.x86_64-linux.sqlite |
 | sqlite-analyzer | 3.51.2 | Tool that shows statistics about SQLite databases | legacyPackages.x86_64-linux.sqlite-analyzer |
@@ -90012,8 +90008,8 @@
 | terraform-provider-gitlab | 18.8.0 |  | legacyPackages.x86_64-linux.terraform-providers.gitlabhq_gitlab |
 | terraform-provider-google | 7.17.0 |  | legacyPackages.x86_64-linux.terraform-providers.google |
 | terraform-provider-google | 7.17.0 |  | legacyPackages.x86_64-linux.terraform-providers.hashicorp_google |
-| terraform-provider-google-beta | 7.17.0 |  | legacyPackages.x86_64-linux.terraform-providers.google-beta |
-| terraform-provider-google-beta | 7.17.0 |  | legacyPackages.x86_64-linux.terraform-providers.hashicorp_google-beta |
+| terraform-provider-google-beta | 7.18.0 |  | legacyPackages.x86_64-linux.terraform-providers.google-beta |
+| terraform-provider-google-beta | 7.18.0 |  | legacyPackages.x86_64-linux.terraform-providers.hashicorp_google-beta |
 | terraform-provider-grafana | 4.25.0 |  | legacyPackages.x86_64-linux.terraform-providers.grafana |
 | terraform-provider-grafana | 4.25.0 |  | legacyPackages.x86_64-linux.terraform-providers.grafana_grafana |
 | terraform-provider-gridscale | 2.3.0 |  | legacyPackages.x86_64-linux.terraform-providers.gridscale |
@@ -90068,8 +90064,8 @@
 | terraform-provider-local | 2.6.2 |  | legacyPackages.x86_64-linux.terraform-providers.local |
 | terraform-provider-lxd | 2.6.1 |  | legacyPackages.x86_64-linux.terraform-providers.lxd |
 | terraform-provider-lxd | 2.6.1 |  | legacyPackages.x86_64-linux.terraform-providers.terraform-lxd_lxd |
-| terraform-provider-mailgun | 0.8.1 |  | legacyPackages.x86_64-linux.terraform-providers.mailgun |
-| terraform-provider-mailgun | 0.8.1 |  | legacyPackages.x86_64-linux.terraform-providers.wgebis_mailgun |
+| terraform-provider-mailgun | 0.9.0 |  | legacyPackages.x86_64-linux.terraform-providers.mailgun |
+| terraform-provider-mailgun | 0.9.0 |  | legacyPackages.x86_64-linux.terraform-providers.wgebis_mailgun |
 | terraform-provider-matchbox | 0.5.4 |  | legacyPackages.x86_64-linux.terraform-providers.matchbox |
 | terraform-provider-matchbox | 0.5.4 |  | legacyPackages.x86_64-linux.terraform-providers.poseidon_matchbox |
 | terraform-provider-migadu | 2026.1.15 |  | legacyPackages.x86_64-linux.terraform-providers.metio_migadu |
@@ -90174,14 +90170,14 @@
 | terraform-provider-sops | 1.3.0 |  | legacyPackages.x86_64-linux.terraform-providers.sops |
 | terraform-provider-spacelift | 1.43.0 |  | legacyPackages.x86_64-linux.terraform-providers.spacelift |
 | terraform-provider-spacelift | 1.43.0 |  | legacyPackages.x86_64-linux.terraform-providers.spacelift-io_spacelift |
-| terraform-provider-spotinst | 1.232.3 |  | legacyPackages.x86_64-linux.terraform-providers.spotinst |
-| terraform-provider-spotinst | 1.232.3 |  | legacyPackages.x86_64-linux.terraform-providers.spotinst_spotinst |
+| terraform-provider-spotinst | 1.232.4 |  | legacyPackages.x86_64-linux.terraform-providers.spotinst |
+| terraform-provider-spotinst | 1.232.4 |  | legacyPackages.x86_64-linux.terraform-providers.spotinst_spotinst |
 | terraform-provider-ssh | 2.7.0 |  | legacyPackages.x86_64-linux.terraform-providers.loafoe_ssh |
 | terraform-provider-ssh | 2.7.0 |  | legacyPackages.x86_64-linux.terraform-providers.ssh |
 | terraform-provider-statuscake | 2.2.2 |  | legacyPackages.x86_64-linux.terraform-providers.statuscake |
 | terraform-provider-statuscake | 2.2.2 |  | legacyPackages.x86_64-linux.terraform-providers.statuscakedev_statuscake |
-| terraform-provider-sumologic | 3.2.2 |  | legacyPackages.x86_64-linux.terraform-providers.sumologic |
-| terraform-provider-sumologic | 3.2.2 |  | legacyPackages.x86_64-linux.terraform-providers.sumologic_sumologic |
+| terraform-provider-sumologic | 3.2.3 |  | legacyPackages.x86_64-linux.terraform-providers.sumologic |
+| terraform-provider-sumologic | 3.2.3 |  | legacyPackages.x86_64-linux.terraform-providers.sumologic_sumologic |
 | terraform-provider-sysdig | 3.4.0 |  | legacyPackages.x86_64-linux.terraform-providers.sysdig |
 | terraform-provider-sysdig | 3.4.0 |  | legacyPackages.x86_64-linux.terraform-providers.sysdiglabs_sysdig |
 | terraform-provider-tailscale | 0.25.0 |  | legacyPackages.x86_64-linux.terraform-providers.tailscale |
@@ -90678,7 +90674,7 @@
 | tetris | 0.1.6 |  | legacyPackages.x86_64-linux.tetris |
 | tetris | 0.27178 | A 2-D clone of Tetris | legacyPackages.x86_64-linux.haskellPackages.tetris |
 | teubner | 5.8.3 | Philological typesetting of classical Greek | legacyPackages.x86_64-linux.texlivePackages.teubner |
-| tev | 2.7.0 | High dynamic range (HDR) image viewer for people who care about colors | legacyPackages.x86_64-linux.tev |
+| tev | 2.8.0 | High dynamic range (HDR) image viewer for people who care about colors | legacyPackages.x86_64-linux.tev |
 | tevent | 0.17.1 | Event system based on the talloc memory management library | legacyPackages.x86_64-linux.tevent |
 | tewisay | 0-unstable-2022-11-04 | Cowsay replacement with unicode and partial ansi escape support | legacyPackages.x86_64-linux.tewisay |
 | tex | 3.141592653 | A sophisticated typesetting engine | legacyPackages.x86_64-linux.texlivePackages.tex |
@@ -90969,7 +90965,7 @@
 | tg-archive | 1.3.1 | Tool for exporting Telegram group chats into static websites like mailing list archives | legacyPackages.x86_64-linux.tg-archive |
 | tg-timer | 0.7.0 | for timing mechanical watches | legacyPackages.x86_64-linux.tg-timer |
 | tga | 0.2 | Reading and writing of tga image files | legacyPackages.x86_64-linux.haskellPackages.tga |
-| tgeraser | 1.4.2 | Tool to delete all your messages from Telegram | legacyPackages.x86_64-linux.tgeraser |
+| tgeraser | 1.5.1 | Tool to delete all your messages from Telegram | legacyPackages.x86_64-linux.tgeraser |
 | tgpt | 2.11.0 | ChatGPT in terminal without needing API keys | legacyPackages.x86_64-linux.tgpt |
 | tgswitch | 0.6.0 | Command line tool to switch between different versions of terragrunt | legacyPackages.x86_64-linux.tgswitch |
 | tgt | 1.0.95 | iSCSI Target daemon with RDMA support | legacyPackages.x86_64-linux.tgt |
@@ -92806,7 +92802,7 @@
 | twitch-chat | 0-unstable-2025-05-15 | Show Twitch chat messages as subtitles when watching Twitch VOD with mpv | legacyPackages.x86_64-linux.mpvScripts.twitch-chat |
 | twitch-chat-downloader | 2.5.4 | Twitch Chat Downloader | legacyPackages.x86_64-linux.twitch-chat-downloader |
 | twitch-cli | 1.1.25 | Official Twitch CLI to make developing on Twitch easier | legacyPackages.x86_64-linux.twitch-cli |
-| twitch-dl | 3.1.0 | CLI tool for downloading videos from Twitch | legacyPackages.x86_64-linux.twitch-dl |
+| twitch-dl | 3.3.1 | CLI tool for downloading videos from Twitch | legacyPackages.x86_64-linux.twitch-dl |
 | twitch-hls-client | 1.6.1 | Minimal CLI client for watching/recording Twitch streams | legacyPackages.x86_64-linux.twitch-hls-client |
 | twitch-tui | 2.6.19 | Twitch chat in the terminal | legacyPackages.x86_64-linux.twitch-tui |
 | twitchapi | 0.0.5 | Client access to Twitch.tv API endpoints | legacyPackages.x86_64-linux.haskellPackages.twitchapi |
@@ -92847,7 +92843,7 @@
 | ty | 0.1.7 | Typed type representations and equality proofs | legacyPackages.x86_64-linux.haskellPackages.ty |
 | tydra | 1.0.3 | Shortcut menu-based task runner, inspired by Emacs Hydra | legacyPackages.x86_64-linux.tydra |
 | tyfam-witnesses | 0.1.1.2 | Provide proof witnesses for closed type family evaluation | legacyPackages.x86_64-linux.haskellPackages.tyfam-witnesses |
-| tygo | 0.2.20 | Generate Typescript types from Golang source code | legacyPackages.x86_64-linux.tygo |
+| tygo | 0.2.21 | Generate Typescript types from Golang source code | legacyPackages.x86_64-linux.tygo |
 | tym | 3.5.2 | Lua-configurable terminal emulator | legacyPackages.x86_64-linux.tym |
 | typalyze | 0.1.1 | Analyzes Haskell source files for easy reference | legacyPackages.x86_64-linux.haskellPackages.typalyze |
 | type | 0.2.0 | Dynamic casting library with support for arbitrary rank type kinds | legacyPackages.x86_64-linux.haskellPackages._type |
@@ -92990,7 +92986,7 @@
 | typogrid | 0.21 | Print a typographic grid | legacyPackages.x86_64-linux.texlivePackages.typogrid |
 | typora | 1.12.4 | A minimal Markdown editor and reader. | legacyPackages.x86_64-linux.typora |
 | typos | 1.42.3 | Source code spell checker | legacyPackages.x86_64-linux.typos |
-| typos-lsp | 0.1.46 | Source code spell checker | legacyPackages.x86_64-linux.typos-lsp |
+| typos-lsp | 0.1.47 | Source code spell checker | legacyPackages.x86_64-linux.typos-lsp |
 | typr | 1.0.1.21 | Your Personal Typing Tutor | legacyPackages.x86_64-linux.typr |
 | typship | 0.4.2 | Typst package CLI tool | legacyPackages.x86_64-linux.typship |
 | typson-beam | 0.1.0.1 | Typson Beam Integration | legacyPackages.x86_64-linux.haskellPackages.typson-beam |
@@ -98255,7 +98251,7 @@
 | v2ray-core | 5.44.1 | Platform for building proxies to bypass network restrictions | legacyPackages.x86_64-linux.v2ray |
 | v2ray-domain-list-community | 20260129053508 | Community managed domain list | legacyPackages.x86_64-linux.v2ray-domain-list-community |
 | v2ray-exporter | 0.6.0 | Prometheus exporter for V2Ray daemon | legacyPackages.x86_64-linux.prometheus-v2ray-exporter |
-| v2ray-geoip | 2026-01 | GeoIP for V2Ray | legacyPackages.x86_64-linux.v2ray-geoip |
+| v2ray-geoip | 2026-02 | GeoIP for V2Ray | legacyPackages.x86_64-linux.v2ray-geoip |
 | v2raya | 2.2.7.5 | Linux web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel | legacyPackages.x86_64-linux.v2raya |
 | v2rayn | 7.16.9 | GUI client support Xray core and sing-box-core and others | legacyPackages.x86_64-linux.v2rayn |
 | v4l-utils | 1.32.0 | V4L utils and libv4l, provide common image formats regardless of the v4l device | legacyPackages.x86_64-linux.edid-decode |
@@ -98372,7 +98368,7 @@
 | validity-uuid | 0.1.0.3 | Validity instances for uuid | legacyPackages.x86_64-linux.haskellPackages.validity-uuid |
 | validity-vector | 0.2.0.3 | Validity instances for vector | legacyPackages.x86_64-linux.haskellPackages.validity-vector |
 | valijson | 1.0.6 | Header-only C++ library for JSON Schema validation, with support for many popular parsers | legacyPackages.x86_64-linux.valijson |
-| valkey | 9.0.1 | High-performance data structure server that primarily serves key/value workloads | legacyPackages.x86_64-linux.valkey |
+| valkey | 9.0.2 | High-performance data structure server that primarily serves key/value workloads | legacyPackages.x86_64-linux.valkey |
 | valor | 1.0.0.0 | Simple and powerful data validation | legacyPackages.x86_64-linux.haskellPackages.valor |
 | vals | 0.43.1 | Helm-like configuration values loader with support for various sources | legacyPackages.x86_64-linux.vals |
 | value-supply | 0.6 | A library for generating values without having to thread state | legacyPackages.x86_64-linux.haskellPackages.value-supply |
@@ -98975,7 +98971,7 @@
 | vimplugin-blink-emoji.nvim | 0-unstable-2025-10-22 |  | legacyPackages.x86_64-linux.vimPlugins.blink-emoji-nvim |
 | vimplugin-blink-nerdfont.nvim | 0-unstable-2025-12-14 |  | legacyPackages.x86_64-linux.vimPlugins.blink-nerdfont-nvim |
 | vimplugin-blink-ripgrep.nvim | 2.2.2-unstable-2026-01-29 |  | legacyPackages.x86_64-linux.vimPlugins.blink-ripgrep-nvim |
-| vimplugin-blink.cmp | 1.8.0 | Performant, batteries-included completion plugin for Neovim | legacyPackages.x86_64-linux.vimPlugins.blink-cmp |
+| vimplugin-blink.cmp | 1.9.0 | Performant, batteries-included completion plugin for Neovim | legacyPackages.x86_64-linux.vimPlugins.blink-cmp |
 | vimplugin-blink.compat | 2.5.0-unstable-2025-05-28 |  | legacyPackages.x86_64-linux.vimPlugins.blink-compat |
 | vimplugin-blink.indent | 2.1.2-unstable-2026-01-13 |  | legacyPackages.x86_64-linux.vimPlugins.blink-indent |
 | vimplugin-blink.pairs | 0.4.1 | Rainbow highlighting and intelligent auto-pairs for Neovim | legacyPackages.x86_64-linux.vimPlugins.blink-pairs |
@@ -99895,655 +99891,329 @@
 | vimplugin-nvim-treesitter-context | 1.0.0-unstable-2025-12-06 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-context |
 | vimplugin-nvim-treesitter-endwise | 0-unstable-2025-12-29 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-endwise |
 | vimplugin-nvim-treesitter-grammar-ada | 0.0.0+rev=6b58259 | Tree-sitter grammar for ada | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ada |
-| vimplugin-nvim-treesitter-grammar-ada | 0.0.0+rev=6c26c44 | Tree-sitter grammar for ada | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ada |
-| vimplugin-nvim-treesitter-grammar-agda | 0.0.0+rev=e8d47a6 | Tree-sitter grammar for agda | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.agda |
 | vimplugin-nvim-treesitter-grammar-agda | 0.0.0+rev=e8d47a6 | Tree-sitter grammar for agda | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.agda |
 | vimplugin-nvim-treesitter-grammar-angular | 0.0.0+rev=3bd2036 | Tree-sitter grammar for angular | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.angular |
-| vimplugin-nvim-treesitter-grammar-angular | 0.0.0+rev=d1f24a8 | Tree-sitter grammar for angular | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.angular |
-| vimplugin-nvim-treesitter-grammar-apex | 0.0.0+rev=3597575 | Tree-sitter grammar for apex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.apex |
 | vimplugin-nvim-treesitter-grammar-apex | 0.0.0+rev=3597575 | Tree-sitter grammar for apex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.apex |
-| vimplugin-nvim-treesitter-grammar-arduino | 0.0.0+rev=53eb391 | Tree-sitter grammar for arduino | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.arduino |
 | vimplugin-nvim-treesitter-grammar-arduino | 0.0.0+rev=53eb391 | Tree-sitter grammar for arduino | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.arduino |
-| vimplugin-nvim-treesitter-grammar-asm | 0.0.0+rev=839741f | Tree-sitter grammar for asm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.asm |
 | vimplugin-nvim-treesitter-grammar-asm | 0.0.0+rev=839741f | Tree-sitter grammar for asm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.asm |
-| vimplugin-nvim-treesitter-grammar-astro | 0.0.0+rev=213f6e6 | Tree-sitter grammar for astro | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.astro |
 | vimplugin-nvim-treesitter-grammar-astro | 0.0.0+rev=213f6e6 | Tree-sitter grammar for astro | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.astro |
-| vimplugin-nvim-treesitter-grammar-authzed | 0.0.0+rev=83e5c26 | Tree-sitter grammar for authzed | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.authzed |
 | vimplugin-nvim-treesitter-grammar-authzed | 0.0.0+rev=83e5c26 | Tree-sitter grammar for authzed | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.authzed |
-| vimplugin-nvim-treesitter-grammar-awk | 0.0.0+rev=34bbdc7 | Tree-sitter grammar for awk | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.awk |
 | vimplugin-nvim-treesitter-grammar-awk | 0.0.0+rev=34bbdc7 | Tree-sitter grammar for awk | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.awk |
-| vimplugin-nvim-treesitter-grammar-bash | 0.0.0+rev=a06c2e4 | Tree-sitter grammar for bash | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bash |
 | vimplugin-nvim-treesitter-grammar-bash | 0.0.0+rev=a06c2e4 | Tree-sitter grammar for bash | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.bash |
-| vimplugin-nvim-treesitter-grammar-bass | 0.0.0+rev=28dc705 | Tree-sitter grammar for bass | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bass |
 | vimplugin-nvim-treesitter-grammar-bass | 0.0.0+rev=28dc705 | Tree-sitter grammar for bass | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.bass |
 | vimplugin-nvim-treesitter-grammar-beancount | 0.0.0+rev=23b2125 | Tree-sitter grammar for beancount | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.beancount |
-| vimplugin-nvim-treesitter-grammar-beancount | 0.0.0+rev=b7a2557 | Tree-sitter grammar for beancount | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.beancount |
-| vimplugin-nvim-treesitter-grammar-bibtex | 0.0.0+rev=8d04ed2 | Tree-sitter grammar for bibtex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bibtex |
 | vimplugin-nvim-treesitter-grammar-bibtex | 0.0.0+rev=8d04ed2 | Tree-sitter grammar for bibtex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.bibtex |
-| vimplugin-nvim-treesitter-grammar-bicep | 0.0.0+rev=bff5988 | Tree-sitter grammar for bicep | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bicep |
 | vimplugin-nvim-treesitter-grammar-bicep | 0.0.0+rev=bff5988 | Tree-sitter grammar for bicep | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.bicep |
-| vimplugin-nvim-treesitter-grammar-bitbake | 0.0.0+rev=a5d04fd | Tree-sitter grammar for bitbake | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bitbake |
 | vimplugin-nvim-treesitter-grammar-bitbake | 0.0.0+rev=a5d04fd | Tree-sitter grammar for bitbake | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.bitbake |
 | vimplugin-nvim-treesitter-grammar-blade | 0.0.0+rev=cc764da | Tree-sitter grammar for blade | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.blade |
-| vimplugin-nvim-treesitter-grammar-blade | 0.0.0+rev=fbe5f81 | Tree-sitter grammar for blade | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.blade |
-| vimplugin-nvim-treesitter-grammar-blueprint | 0.0.0+rev=355ef84 | Tree-sitter grammar for blueprint | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.blueprint |
-| vimplugin-nvim-treesitter-grammar-bp | 0.0.0+rev=ee641d1 | Tree-sitter grammar for bp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.bp |
 | vimplugin-nvim-treesitter-grammar-bp | 0.0.0+rev=ee641d1 | Tree-sitter grammar for bp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.bp |
 | vimplugin-nvim-treesitter-grammar-bpftrace | 0.0.0+rev=0978030 | Tree-sitter grammar for bpftrace | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.bpftrace |
-| vimplugin-nvim-treesitter-grammar-brightscript | 0.0.0+rev=253fdfa | Tree-sitter grammar for brightscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.brightscript |
 | vimplugin-nvim-treesitter-grammar-brightscript | 0.0.0+rev=253fdfa | Tree-sitter grammar for brightscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.brightscript |
-| vimplugin-nvim-treesitter-grammar-c | 0.0.0+rev=ae19b67 | Tree-sitter grammar for c | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.c |
 | vimplugin-nvim-treesitter-grammar-c | 0.0.0+rev=ae19b67 | Tree-sitter grammar for c | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.c |
-| vimplugin-nvim-treesitter-grammar-c3 | 0.0.0+rev=3bcb189 | Tree-sitter grammar for c3 | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.c3 |
 | vimplugin-nvim-treesitter-grammar-c3 | 0.0.0+rev=7ef54ad | Tree-sitter grammar for c3 | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.c3 |
-| vimplugin-nvim-treesitter-grammar-c_sharp | 0.0.0+rev=485f0ba | Tree-sitter grammar for c_sharp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.c_sharp |
 | vimplugin-nvim-treesitter-grammar-c_sharp | 0.0.0+rev=f05a2ca | Tree-sitter grammar for c_sharp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.c_sharp |
-| vimplugin-nvim-treesitter-grammar-caddy | 0.0.0+rev=2686186 | Tree-sitter grammar for caddy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.caddy |
 | vimplugin-nvim-treesitter-grammar-caddy | 0.0.0+rev=2686186 | Tree-sitter grammar for caddy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.caddy |
-| vimplugin-nvim-treesitter-grammar-cairo | 0.0.0+rev=6238f60 | Tree-sitter grammar for cairo | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cairo |
 | vimplugin-nvim-treesitter-grammar-cairo | 0.0.0+rev=6238f60 | Tree-sitter grammar for cairo | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cairo |
-| vimplugin-nvim-treesitter-grammar-capnp | 0.0.0+rev=7b0883c | Tree-sitter grammar for capnp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.capnp |
 | vimplugin-nvim-treesitter-grammar-capnp | 0.0.0+rev=7b0883c | Tree-sitter grammar for capnp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.capnp |
-| vimplugin-nvim-treesitter-grammar-chatito | 0.0.0+rev=b4cbe9a | Tree-sitter grammar for chatito | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.chatito |
 | vimplugin-nvim-treesitter-grammar-chatito | 0.0.0+rev=c0ed82c | Tree-sitter grammar for chatito | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.chatito |
-| vimplugin-nvim-treesitter-grammar-circom | 0.0.0+rev=0215052 | Tree-sitter grammar for circom | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.circom |
 | vimplugin-nvim-treesitter-grammar-circom | 0.0.0+rev=0215052 | Tree-sitter grammar for circom | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.circom |
-| vimplugin-nvim-treesitter-grammar-clojure | 0.0.0+rev=e43eff8 | Tree-sitter grammar for clojure | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.clojure |
 | vimplugin-nvim-treesitter-grammar-clojure | 0.0.0+rev=e43eff8 | Tree-sitter grammar for clojure | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.clojure |
-| vimplugin-nvim-treesitter-grammar-cmake | 0.0.0+rev=c7b2a71 | Tree-sitter grammar for cmake | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cmake |
 | vimplugin-nvim-treesitter-grammar-cmake | 0.0.0+rev=c7b2a71 | Tree-sitter grammar for cmake | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cmake |
 | vimplugin-nvim-treesitter-grammar-comment | 0.0.0+rev=66272d2 | Tree-sitter grammar for comment | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.comment |
-| vimplugin-nvim-treesitter-grammar-comment | 0.0.0+rev=db922d7 | Tree-sitter grammar for comment | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.comment |
-| vimplugin-nvim-treesitter-grammar-commonlisp | 0.0.0+rev=3232350 | Tree-sitter grammar for commonlisp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.commonlisp |
 | vimplugin-nvim-treesitter-grammar-commonlisp | 0.0.0+rev=3232350 | Tree-sitter grammar for commonlisp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.commonlisp |
-| vimplugin-nvim-treesitter-grammar-cooklang | 0.0.0+rev=4ebe237 | Tree-sitter grammar for cooklang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cooklang |
 | vimplugin-nvim-treesitter-grammar-cooklang | 0.0.0+rev=4ebe237 | Tree-sitter grammar for cooklang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cooklang |
-| vimplugin-nvim-treesitter-grammar-corn | 0.0.0+rev=4646547 | Tree-sitter grammar for corn | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.corn |
 | vimplugin-nvim-treesitter-grammar-corn | 0.0.0+rev=4646547 | Tree-sitter grammar for corn | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.corn |
-| vimplugin-nvim-treesitter-grammar-cpon | 0.0.0+rev=594289e | Tree-sitter grammar for cpon | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cpon |
 | vimplugin-nvim-treesitter-grammar-cpon | 0.0.0+rev=594289e | Tree-sitter grammar for cpon | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cpon |
-| vimplugin-nvim-treesitter-grammar-cpp | 0.0.0+rev=12bd6f7 | Tree-sitter grammar for cpp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cpp |
 | vimplugin-nvim-treesitter-grammar-cpp | 0.0.0+rev=12bd6f7 | Tree-sitter grammar for cpp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cpp |
-| vimplugin-nvim-treesitter-grammar-css | 0.0.0+rev=dda5cfc | Tree-sitter grammar for css | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.css |
 | vimplugin-nvim-treesitter-grammar-css | 0.0.0+rev=dda5cfc | Tree-sitter grammar for css | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.css |
-| vimplugin-nvim-treesitter-grammar-csv | 0.0.0+rev=f6bf6e3 | Tree-sitter grammar for csv | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.csv |
 | vimplugin-nvim-treesitter-grammar-csv | 0.0.0+rev=f6bf6e3 | Tree-sitter grammar for csv | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.csv |
-| vimplugin-nvim-treesitter-grammar-cuda | 0.0.0+rev=48b066f | Tree-sitter grammar for cuda | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cuda |
 | vimplugin-nvim-treesitter-grammar-cuda | 0.0.0+rev=48b066f | Tree-sitter grammar for cuda | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cuda |
-| vimplugin-nvim-treesitter-grammar-cue | 0.0.0+rev=770737b | Tree-sitter grammar for cue | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cue |
 | vimplugin-nvim-treesitter-grammar-cue | 0.0.0+rev=770737b | Tree-sitter grammar for cue | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cue |
-| vimplugin-nvim-treesitter-grammar-cylc | 0.0.0+rev=6d1d811 | Tree-sitter grammar for cylc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.cylc |
 | vimplugin-nvim-treesitter-grammar-cylc | 0.0.0+rev=6d1d811 | Tree-sitter grammar for cylc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.cylc |
-| vimplugin-nvim-treesitter-grammar-d | 0.0.0+rev=fb028c8 | Tree-sitter grammar for d | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.d |
 | vimplugin-nvim-treesitter-grammar-d | 0.0.0+rev=fb028c8 | Tree-sitter grammar for d | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.d |
-| vimplugin-nvim-treesitter-grammar-dart | 0.0.0+rev=d4d8f3e | Tree-sitter grammar for dart | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dart |
 | vimplugin-nvim-treesitter-grammar-dart | 0.0.0+rev=d4d8f3e | Tree-sitter grammar for dart | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.dart |
 | vimplugin-nvim-treesitter-grammar-desktop | 0.0.0+rev=137292a | Tree-sitter grammar for desktop | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.desktop |
-| vimplugin-nvim-treesitter-grammar-desktop | 0.0.0+rev=afec309 | Tree-sitter grammar for desktop | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.desktop |
-| vimplugin-nvim-treesitter-grammar-devicetree | 0.0.0+rev=e685f1f | Tree-sitter grammar for devicetree | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.devicetree |
 | vimplugin-nvim-treesitter-grammar-devicetree | 0.0.0+rev=e685f1f | Tree-sitter grammar for devicetree | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.devicetree |
-| vimplugin-nvim-treesitter-grammar-dhall | 0.0.0+rev=6201325 | Tree-sitter grammar for dhall | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dhall |
 | vimplugin-nvim-treesitter-grammar-dhall | 0.0.0+rev=6201325 | Tree-sitter grammar for dhall | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.dhall |
-| vimplugin-nvim-treesitter-grammar-diff | 0.0.0+rev=2520c3f | Tree-sitter grammar for diff | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.diff |
 | vimplugin-nvim-treesitter-grammar-diff | 0.0.0+rev=2520c3f | Tree-sitter grammar for diff | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.diff |
-| vimplugin-nvim-treesitter-grammar-disassembly | 0.0.0+rev=0229c02 | Tree-sitter grammar for disassembly | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.disassembly |
 | vimplugin-nvim-treesitter-grammar-disassembly | 0.0.0+rev=0229c02 | Tree-sitter grammar for disassembly | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.disassembly |
-| vimplugin-nvim-treesitter-grammar-djot | 0.0.0+rev=74fac1f | Tree-sitter grammar for djot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.djot |
 | vimplugin-nvim-treesitter-grammar-djot | 0.0.0+rev=74fac1f | Tree-sitter grammar for djot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.djot |
-| vimplugin-nvim-treesitter-grammar-dockerfile | 0.0.0+rev=971acdd | Tree-sitter grammar for dockerfile | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dockerfile |
 | vimplugin-nvim-treesitter-grammar-dockerfile | 0.0.0+rev=971acdd | Tree-sitter grammar for dockerfile | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.dockerfile |
-| vimplugin-nvim-treesitter-grammar-dot | 0.0.0+rev=80327ab | Tree-sitter grammar for dot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dot |
 | vimplugin-nvim-treesitter-grammar-dot | 0.0.0+rev=80327ab | Tree-sitter grammar for dot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.dot |
-| vimplugin-nvim-treesitter-grammar-doxygen | 0.0.0+rev=ccd998f | Tree-sitter grammar for doxygen | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.doxygen |
 | vimplugin-nvim-treesitter-grammar-doxygen | 0.0.0+rev=ccd998f | Tree-sitter grammar for doxygen | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.doxygen |
 | vimplugin-nvim-treesitter-grammar-dtd | 0.0.0+rev=5000ae8 | Tree-sitter grammar for dtd | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.dtd |
-| vimplugin-nvim-treesitter-grammar-dtd | 0.0.0+rev=863dbc3 | Tree-sitter grammar for dtd | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.dtd |
-| vimplugin-nvim-treesitter-grammar-earthfile | 0.0.0+rev=5baef88 | Tree-sitter grammar for earthfile | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.earthfile |
 | vimplugin-nvim-treesitter-grammar-earthfile | 0.0.0+rev=5baef88 | Tree-sitter grammar for earthfile | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.earthfile |
-| vimplugin-nvim-treesitter-grammar-ebnf | 0.0.0+rev=8e635b0 | Tree-sitter grammar for ebnf | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ebnf |
 | vimplugin-nvim-treesitter-grammar-ebnf | 0.0.0+rev=8e635b0 | Tree-sitter grammar for ebnf | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ebnf |
 | vimplugin-nvim-treesitter-grammar-editorconfig | 0.0.0+rev=851f2c2 | Tree-sitter grammar for editorconfig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.editorconfig |
-| vimplugin-nvim-treesitter-grammar-editorconfig | 0.0.0+rev=f08fb1f | Tree-sitter grammar for editorconfig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.editorconfig |
-| vimplugin-nvim-treesitter-grammar-eds | 0.0.0+rev=26d529e | Tree-sitter grammar for eds | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.eds |
 | vimplugin-nvim-treesitter-grammar-eds | 0.0.0+rev=26d529e | Tree-sitter grammar for eds | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.eds |
-| vimplugin-nvim-treesitter-grammar-eex | 0.0.0+rev=f742f2f | Tree-sitter grammar for eex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.eex |
 | vimplugin-nvim-treesitter-grammar-eex | 0.0.0+rev=f742f2f | Tree-sitter grammar for eex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.eex |
-| vimplugin-nvim-treesitter-grammar-elixir | 0.0.0+rev=d24cece | Tree-sitter grammar for elixir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elixir |
 | vimplugin-nvim-treesitter-grammar-elixir | 0.0.0+rev=d24cece | Tree-sitter grammar for elixir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.elixir |
-| vimplugin-nvim-treesitter-grammar-elm | 0.0.0+rev=3d000d3 | Tree-sitter grammar for elm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elm |
 | vimplugin-nvim-treesitter-grammar-elm | 0.0.0+rev=6d9511c | Tree-sitter grammar for elm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.elm |
-| vimplugin-nvim-treesitter-grammar-elsa | 0.0.0+rev=0a66b2b | Tree-sitter grammar for elsa | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elsa |
 | vimplugin-nvim-treesitter-grammar-elsa | 0.0.0+rev=0a66b2b | Tree-sitter grammar for elsa | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.elsa |
-| vimplugin-nvim-treesitter-grammar-elvish | 0.0.0+rev=5e7210d | Tree-sitter grammar for elvish | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.elvish |
 | vimplugin-nvim-treesitter-grammar-elvish | 0.0.0+rev=5e7210d | Tree-sitter grammar for elvish | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.elvish |
-| vimplugin-nvim-treesitter-grammar-embedded_template | 0.0.0+rev=3499d85 | Tree-sitter grammar for embedded_template | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.embedded_template |
 | vimplugin-nvim-treesitter-grammar-embedded_template | 0.0.0+rev=3499d85 | Tree-sitter grammar for embedded_template | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.embedded_template |
-| vimplugin-nvim-treesitter-grammar-enforce | 0.0.0+rev=eb27968 | Tree-sitter grammar for enforce | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.enforce |
 | vimplugin-nvim-treesitter-grammar-enforce | 0.0.0+rev=eb27968 | Tree-sitter grammar for enforce | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.enforce |
-| vimplugin-nvim-treesitter-grammar-erlang | 0.0.0+rev=a260cb6 | Tree-sitter grammar for erlang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.erlang |
 | vimplugin-nvim-treesitter-grammar-erlang | 0.0.0+rev=f21023b | Tree-sitter grammar for erlang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.erlang |
-| vimplugin-nvim-treesitter-grammar-facility | 0.0.0+rev=e4bfd3e | Tree-sitter grammar for facility | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.facility |
 | vimplugin-nvim-treesitter-grammar-facility | 0.0.0+rev=e4bfd3e | Tree-sitter grammar for facility | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.facility |
-| vimplugin-nvim-treesitter-grammar-faust | 0.0.0+rev=122dd10 | Tree-sitter grammar for faust | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.faust |
 | vimplugin-nvim-treesitter-grammar-faust | 0.0.0+rev=122dd10 | Tree-sitter grammar for faust | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.faust |
 | vimplugin-nvim-treesitter-grammar-fennel | 0.0.0+rev=3f0f6b2 | Tree-sitter grammar for fennel | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.fennel |
-| vimplugin-nvim-treesitter-grammar-fennel | 0.0.0+rev=fd4a24e | Tree-sitter grammar for fennel | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fennel |
-| vimplugin-nvim-treesitter-grammar-fidl | 0.0.0+rev=0a8910f | Tree-sitter grammar for fidl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fidl |
 | vimplugin-nvim-treesitter-grammar-fidl | 0.0.0+rev=0a8910f | Tree-sitter grammar for fidl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.fidl |
-| vimplugin-nvim-treesitter-grammar-firrtl | 0.0.0+rev=8503d3a | Tree-sitter grammar for firrtl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.firrtl |
 | vimplugin-nvim-treesitter-grammar-firrtl | 0.0.0+rev=8503d3a | Tree-sitter grammar for firrtl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.firrtl |
-| vimplugin-nvim-treesitter-grammar-fish | 0.0.0+rev=aa074a0 | Tree-sitter grammar for fish | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fish |
 | vimplugin-nvim-treesitter-grammar-fish | 0.0.0+rev=aa074a0 | Tree-sitter grammar for fish | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.fish |
-| vimplugin-nvim-treesitter-grammar-foam | 0.0.0+rev=472c24f | Tree-sitter grammar for foam | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.foam |
 | vimplugin-nvim-treesitter-grammar-foam | 0.0.0+rev=472c24f | Tree-sitter grammar for foam | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.foam |
-| vimplugin-nvim-treesitter-grammar-forth | 0.0.0+rev=360ef13 | Tree-sitter grammar for forth | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.forth |
 | vimplugin-nvim-treesitter-grammar-forth | 0.0.0+rev=360ef13 | Tree-sitter grammar for forth | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.forth |
 | vimplugin-nvim-treesitter-grammar-fortran | 0.0.0+rev=43cd127 | Tree-sitter grammar for fortran | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.fortran |
-| vimplugin-nvim-treesitter-grammar-fortran | 0.0.0+rev=8334abc | Tree-sitter grammar for fortran | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fortran |
-| vimplugin-nvim-treesitter-grammar-fsh | 0.0.0+rev=fad2e17 | Tree-sitter grammar for fsh | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fsh |
 | vimplugin-nvim-treesitter-grammar-fsh | 0.0.0+rev=fad2e17 | Tree-sitter grammar for fsh | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.fsh |
-| vimplugin-nvim-treesitter-grammar-fsharp | 0.0.0+rev=5141851 | Tree-sitter grammar for fsharp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fsharp |
 | vimplugin-nvim-treesitter-grammar-fsharp | 0.0.0+rev=5141851 | Tree-sitter grammar for fsharp | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.fsharp |
-| vimplugin-nvim-treesitter-grammar-func | 0.0.0+rev=f780ca5 | Tree-sitter grammar for func | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.func |
 | vimplugin-nvim-treesitter-grammar-func | 0.0.0+rev=f780ca5 | Tree-sitter grammar for func | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.func |
-| vimplugin-nvim-treesitter-grammar-fusion | 0.0.0+rev=19db2f4 | Tree-sitter grammar for fusion | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.fusion |
-| vimplugin-nvim-treesitter-grammar-gap | 0.0.0+rev=2bac148 | Tree-sitter grammar for gap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gap |
 | vimplugin-nvim-treesitter-grammar-gap | 0.0.0+rev=2bac148 | Tree-sitter grammar for gap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gap |
-| vimplugin-nvim-treesitter-grammar-gaptst | 0.0.0+rev=69086d7 | Tree-sitter grammar for gaptst | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gaptst |
 | vimplugin-nvim-treesitter-grammar-gaptst | 0.0.0+rev=69086d7 | Tree-sitter grammar for gaptst | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gaptst |
-| vimplugin-nvim-treesitter-grammar-gdscript | 0.0.0+rev=48b4933 | Tree-sitter grammar for gdscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gdscript |
 | vimplugin-nvim-treesitter-grammar-gdscript | 0.0.0+rev=9686853 | Tree-sitter grammar for gdscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gdscript |
-| vimplugin-nvim-treesitter-grammar-gdshader | 0.0.0+rev=14e8340 | Tree-sitter grammar for gdshader | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gdshader |
 | vimplugin-nvim-treesitter-grammar-gdshader | 0.0.0+rev=6826863 | Tree-sitter grammar for gdshader | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gdshader |
-| vimplugin-nvim-treesitter-grammar-git_config | 0.0.0+rev=0fbc9f9 | Tree-sitter grammar for git_config | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.git_config |
 | vimplugin-nvim-treesitter-grammar-git_config | 0.0.0+rev=0fbc9f9 | Tree-sitter grammar for git_config | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.git_config |
-| vimplugin-nvim-treesitter-grammar-git_rebase | 0.0.0+rev=bff4b66 | Tree-sitter grammar for git_rebase | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.git_rebase |
 | vimplugin-nvim-treesitter-grammar-git_rebase | 0.0.0+rev=bff4b66 | Tree-sitter grammar for git_rebase | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.git_rebase |
-| vimplugin-nvim-treesitter-grammar-gitattributes | 0.0.0+rev=1b7af09 | Tree-sitter grammar for gitattributes | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gitattributes |
 | vimplugin-nvim-treesitter-grammar-gitattributes | 0.0.0+rev=1b7af09 | Tree-sitter grammar for gitattributes | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gitattributes |
-| vimplugin-nvim-treesitter-grammar-gitcommit | 0.0.0+rev=a716678 | Tree-sitter grammar for gitcommit | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gitcommit |
 | vimplugin-nvim-treesitter-grammar-gitcommit | 0.0.0+rev=a716678 | Tree-sitter grammar for gitcommit | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gitcommit |
-| vimplugin-nvim-treesitter-grammar-gitignore | 0.0.0+rev=f4685bf | Tree-sitter grammar for gitignore | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gitignore |
 | vimplugin-nvim-treesitter-grammar-gitignore | 0.0.0+rev=f4685bf | Tree-sitter grammar for gitignore | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gitignore |
 | vimplugin-nvim-treesitter-grammar-gleam | 0.0.0+rev=dd4e328 | Tree-sitter grammar for gleam | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gleam |
-| vimplugin-nvim-treesitter-grammar-gleam | 0.0.0+rev=f4d55f3 | Tree-sitter grammar for gleam | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gleam |
 | vimplugin-nvim-treesitter-grammar-glimmer | 0.0.0+rev=88af855 | Tree-sitter grammar for glimmer | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.glimmer |
-| vimplugin-nvim-treesitter-grammar-glimmer | 0.0.0+rev=da605af | Tree-sitter grammar for glimmer | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glimmer |
-| vimplugin-nvim-treesitter-grammar-glimmer_javascript | 0.0.0+rev=5cc865a | Tree-sitter grammar for glimmer_javascript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glimmer_javascript |
 | vimplugin-nvim-treesitter-grammar-glimmer_javascript | 0.0.0+rev=5cc865a | Tree-sitter grammar for glimmer_javascript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.glimmer_javascript |
-| vimplugin-nvim-treesitter-grammar-glimmer_typescript | 0.0.0+rev=12d9894 | Tree-sitter grammar for glimmer_typescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glimmer_typescript |
 | vimplugin-nvim-treesitter-grammar-glimmer_typescript | 0.0.0+rev=12d9894 | Tree-sitter grammar for glimmer_typescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.glimmer_typescript |
-| vimplugin-nvim-treesitter-grammar-glsl | 0.0.0+rev=24a6c8e | Tree-sitter grammar for glsl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.glsl |
 | vimplugin-nvim-treesitter-grammar-glsl | 0.0.0+rev=24a6c8e | Tree-sitter grammar for glsl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.glsl |
-| vimplugin-nvim-treesitter-grammar-gn | 0.0.0+rev=bc06955 | Tree-sitter grammar for gn | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gn |
 | vimplugin-nvim-treesitter-grammar-gn | 0.0.0+rev=bc06955 | Tree-sitter grammar for gn | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gn |
-| vimplugin-nvim-treesitter-grammar-gnuplot | 0.0.0+rev=8923c1e | Tree-sitter grammar for gnuplot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gnuplot |
 | vimplugin-nvim-treesitter-grammar-gnuplot | 0.0.0+rev=8923c1e | Tree-sitter grammar for gnuplot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gnuplot |
-| vimplugin-nvim-treesitter-grammar-go | 0.0.0+rev=2346a3a | Tree-sitter grammar for go | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.go |
 | vimplugin-nvim-treesitter-grammar-go | 0.0.0+rev=2346a3a | Tree-sitter grammar for go | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.go |
-| vimplugin-nvim-treesitter-grammar-goctl | 0.0.0+rev=49c4353 | Tree-sitter grammar for goctl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.goctl |
 | vimplugin-nvim-treesitter-grammar-goctl | 0.0.0+rev=49c4353 | Tree-sitter grammar for goctl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.goctl |
-| vimplugin-nvim-treesitter-grammar-godot_resource | 0.0.0+rev=302c189 | Tree-sitter grammar for godot_resource | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.godot_resource |
 | vimplugin-nvim-treesitter-grammar-godot_resource | 0.0.0+rev=302c189 | Tree-sitter grammar for godot_resource | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.godot_resource |
-| vimplugin-nvim-treesitter-grammar-gomod | 0.0.0+rev=2e88687 | Tree-sitter grammar for gomod | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gomod |
 | vimplugin-nvim-treesitter-grammar-gomod | 0.0.0+rev=2e88687 | Tree-sitter grammar for gomod | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gomod |
-| vimplugin-nvim-treesitter-grammar-gosum | 0.0.0+rev=27816eb | Tree-sitter grammar for gosum | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gosum |
 | vimplugin-nvim-treesitter-grammar-gosum | 0.0.0+rev=27816eb | Tree-sitter grammar for gosum | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gosum |
 | vimplugin-nvim-treesitter-grammar-gotmpl | 0.0.0+rev=04270cd | Tree-sitter grammar for gotmpl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gotmpl |
-| vimplugin-nvim-treesitter-grammar-gotmpl | 0.0.0+rev=5f19a36 | Tree-sitter grammar for gotmpl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gotmpl |
-| vimplugin-nvim-treesitter-grammar-gowork | 0.0.0+rev=949a8a4 | Tree-sitter grammar for gowork | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gowork |
 | vimplugin-nvim-treesitter-grammar-gowork | 0.0.0+rev=949a8a4 | Tree-sitter grammar for gowork | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gowork |
-| vimplugin-nvim-treesitter-grammar-gpg | 0.0.0+rev=4024eb2 | Tree-sitter grammar for gpg | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gpg |
 | vimplugin-nvim-treesitter-grammar-gpg | 0.0.0+rev=4024eb2 | Tree-sitter grammar for gpg | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gpg |
-| vimplugin-nvim-treesitter-grammar-graphql | 0.0.0+rev=5e66e96 | Tree-sitter grammar for graphql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.graphql |
 | vimplugin-nvim-treesitter-grammar-graphql | 0.0.0+rev=5e66e96 | Tree-sitter grammar for graphql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.graphql |
-| vimplugin-nvim-treesitter-grammar-gren | 0.0.0+rev=c36aac5 | Tree-sitter grammar for gren | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gren |
 | vimplugin-nvim-treesitter-grammar-gren | 0.0.0+rev=c36aac5 | Tree-sitter grammar for gren | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gren |
-| vimplugin-nvim-treesitter-grammar-groovy | 0.0.0+rev=8691159 | Tree-sitter grammar for groovy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.groovy |
 | vimplugin-nvim-treesitter-grammar-groovy | 0.0.0+rev=8691159 | Tree-sitter grammar for groovy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.groovy |
-| vimplugin-nvim-treesitter-grammar-groq | 0.0.0+rev=1fa1ab0 | Tree-sitter grammar for groq | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.groq |
 | vimplugin-nvim-treesitter-grammar-groq | 0.0.0+rev=1fa1ab0 | Tree-sitter grammar for groq | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.groq |
-| vimplugin-nvim-treesitter-grammar-gstlaunch | 0.0.0+rev=549aef2 | Tree-sitter grammar for gstlaunch | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.gstlaunch |
 | vimplugin-nvim-treesitter-grammar-gstlaunch | 0.0.0+rev=549aef2 | Tree-sitter grammar for gstlaunch | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.gstlaunch |
-| vimplugin-nvim-treesitter-grammar-hack | 0.0.0+rev=1a7ded9 | Tree-sitter grammar for hack | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hack |
 | vimplugin-nvim-treesitter-grammar-hack | 0.0.0+rev=1a7ded9 | Tree-sitter grammar for hack | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hack |
-| vimplugin-nvim-treesitter-grammar-hare | 0.0.0+rev=eed7ddf | Tree-sitter grammar for hare | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hare |
 | vimplugin-nvim-treesitter-grammar-hare | 0.0.0+rev=eed7ddf | Tree-sitter grammar for hare | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hare |
-| vimplugin-nvim-treesitter-grammar-haskell | 0.0.0+rev=7fa19f1 | Tree-sitter grammar for haskell | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.haskell |
 | vimplugin-nvim-treesitter-grammar-haskell | 0.0.0+rev=7fa19f1 | Tree-sitter grammar for haskell | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.haskell |
-| vimplugin-nvim-treesitter-grammar-haskell_persistent | 0.0.0+rev=577259b | Tree-sitter grammar for haskell_persistent | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.haskell_persistent |
 | vimplugin-nvim-treesitter-grammar-haskell_persistent | 0.0.0+rev=577259b | Tree-sitter grammar for haskell_persistent | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.haskell_persistent |
 | vimplugin-nvim-treesitter-grammar-hcl | 0.0.0+rev=64ad627 | Tree-sitter grammar for hcl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hcl |
-| vimplugin-nvim-treesitter-grammar-hcl | 0.0.0+rev=fad9918 | Tree-sitter grammar for hcl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hcl |
-| vimplugin-nvim-treesitter-grammar-heex | 0.0.0+rev=b5a7cb5 | Tree-sitter grammar for heex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.heex |
 | vimplugin-nvim-treesitter-grammar-heex | 0.0.0+rev=b5a7cb5 | Tree-sitter grammar for heex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.heex |
 | vimplugin-nvim-treesitter-grammar-helm | 0.0.0+rev=04270cd | Tree-sitter grammar for helm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.helm |
-| vimplugin-nvim-treesitter-grammar-helm | 0.0.0+rev=5f19a36 | Tree-sitter grammar for helm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.helm |
-| vimplugin-nvim-treesitter-grammar-hjson | 0.0.0+rev=02fa3b7 | Tree-sitter grammar for hjson | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hjson |
 | vimplugin-nvim-treesitter-grammar-hjson | 0.0.0+rev=02fa3b7 | Tree-sitter grammar for hjson | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hjson |
-| vimplugin-nvim-treesitter-grammar-hlsl | 0.0.0+rev=bab9111 | Tree-sitter grammar for hlsl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hlsl |
 | vimplugin-nvim-treesitter-grammar-hlsl | 0.0.0+rev=bab9111 | Tree-sitter grammar for hlsl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hlsl |
-| vimplugin-nvim-treesitter-grammar-hlsplaylist | 0.0.0+rev=3bfda92 | Tree-sitter grammar for hlsplaylist | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hlsplaylist |
 | vimplugin-nvim-treesitter-grammar-hlsplaylist | 0.0.0+rev=3bfda92 | Tree-sitter grammar for hlsplaylist | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hlsplaylist |
-| vimplugin-nvim-treesitter-grammar-hocon | 0.0.0+rev=c390f10 | Tree-sitter grammar for hocon | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hocon |
 | vimplugin-nvim-treesitter-grammar-hocon | 0.0.0+rev=c390f10 | Tree-sitter grammar for hocon | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hocon |
-| vimplugin-nvim-treesitter-grammar-hoon | 0.0.0+rev=1545137 | Tree-sitter grammar for hoon | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hoon |
 | vimplugin-nvim-treesitter-grammar-hoon | 0.0.0+rev=1545137 | Tree-sitter grammar for hoon | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hoon |
-| vimplugin-nvim-treesitter-grammar-html | 0.0.0+rev=73a3947 | Tree-sitter grammar for html | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.html |
 | vimplugin-nvim-treesitter-grammar-html | 0.0.0+rev=73a3947 | Tree-sitter grammar for html | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.html |
-| vimplugin-nvim-treesitter-grammar-htmldjango | 0.0.0+rev=3a64316 | Tree-sitter grammar for htmldjango | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.htmldjango |
 | vimplugin-nvim-treesitter-grammar-htmldjango | 0.0.0+rev=3a64316 | Tree-sitter grammar for htmldjango | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.htmldjango |
-| vimplugin-nvim-treesitter-grammar-http | 0.0.0+rev=db8b439 | Tree-sitter grammar for http | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.http |
 | vimplugin-nvim-treesitter-grammar-http | 0.0.0+rev=db8b439 | Tree-sitter grammar for http | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.http |
-| vimplugin-nvim-treesitter-grammar-hurl | 0.0.0+rev=597efbd | Tree-sitter grammar for hurl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hurl |
 | vimplugin-nvim-treesitter-grammar-hurl | 0.0.0+rev=597efbd | Tree-sitter grammar for hurl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hurl |
-| vimplugin-nvim-treesitter-grammar-hyprlang | 0.0.0+rev=22723f2 | Tree-sitter grammar for hyprlang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.hyprlang |
 | vimplugin-nvim-treesitter-grammar-hyprlang | 0.0.0+rev=22723f2 | Tree-sitter grammar for hyprlang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.hyprlang |
-| vimplugin-nvim-treesitter-grammar-idl | 0.0.0+rev=0c9aa15 | Tree-sitter grammar for idl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.idl |
 | vimplugin-nvim-treesitter-grammar-idl | 0.0.0+rev=e6b8b4d | Tree-sitter grammar for idl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.idl |
-| vimplugin-nvim-treesitter-grammar-idris | 0.0.0+rev=c56a25c | Tree-sitter grammar for idris | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.idris |
 | vimplugin-nvim-treesitter-grammar-idris | 0.0.0+rev=c56a25c | Tree-sitter grammar for idris | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.idris |
-| vimplugin-nvim-treesitter-grammar-ini | 0.0.0+rev=e4018b5 | Tree-sitter grammar for ini | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ini |
 | vimplugin-nvim-treesitter-grammar-ini | 0.0.0+rev=e4018b5 | Tree-sitter grammar for ini | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ini |
-| vimplugin-nvim-treesitter-grammar-inko | 0.0.0+rev=1fcbf8c | Tree-sitter grammar for inko | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.inko |
 | vimplugin-nvim-treesitter-grammar-inko | 0.0.0+rev=v0.5.1 | Tree-sitter grammar for inko | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.inko |
-| vimplugin-nvim-treesitter-grammar-ispc | 0.0.0+rev=9b2f9ae | Tree-sitter grammar for ispc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ispc |
 | vimplugin-nvim-treesitter-grammar-ispc | 0.0.0+rev=9b2f9ae | Tree-sitter grammar for ispc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ispc |
-| vimplugin-nvim-treesitter-grammar-janet_simple | 0.0.0+rev=7e28cbf | Tree-sitter grammar for janet_simple | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.janet_simple |
 | vimplugin-nvim-treesitter-grammar-janet_simple | 0.0.0+rev=7e28cbf | Tree-sitter grammar for janet_simple | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.janet_simple |
-| vimplugin-nvim-treesitter-grammar-java | 0.0.0+rev=e10607b | Tree-sitter grammar for java | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.java |
 | vimplugin-nvim-treesitter-grammar-java | 0.0.0+rev=e10607b | Tree-sitter grammar for java | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.java |
 | vimplugin-nvim-treesitter-grammar-javadoc | 0.0.0+rev=141525e | Tree-sitter grammar for javadoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.javadoc |
-| vimplugin-nvim-treesitter-grammar-javadoc | 0.0.0+rev=5c6157f | Tree-sitter grammar for javadoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.javadoc |
-| vimplugin-nvim-treesitter-grammar-javascript | 0.0.0+rev=58404d8 | Tree-sitter grammar for javascript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.javascript |
 | vimplugin-nvim-treesitter-grammar-javascript | 0.0.0+rev=58404d8 | Tree-sitter grammar for javascript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.javascript |
-| vimplugin-nvim-treesitter-grammar-jinja | 0.0.0+rev=e589222 | Tree-sitter grammar for jinja | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jinja |
 | vimplugin-nvim-treesitter-grammar-jinja | 0.0.0+rev=e589222 | Tree-sitter grammar for jinja | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.jinja |
-| vimplugin-nvim-treesitter-grammar-jinja_inline | 0.0.0+rev=e589222 | Tree-sitter grammar for jinja_inline | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jinja_inline |
 | vimplugin-nvim-treesitter-grammar-jinja_inline | 0.0.0+rev=e589222 | Tree-sitter grammar for jinja_inline | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.jinja_inline |
-| vimplugin-nvim-treesitter-grammar-jq | 0.0.0+rev=c204e36 | Tree-sitter grammar for jq | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jq |
 | vimplugin-nvim-treesitter-grammar-jq | 0.0.0+rev=c204e36 | Tree-sitter grammar for jq | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.jq |
-| vimplugin-nvim-treesitter-grammar-jsdoc | 0.0.0+rev=658d18d | Tree-sitter grammar for jsdoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jsdoc |
 | vimplugin-nvim-treesitter-grammar-jsdoc | 0.0.0+rev=658d18d | Tree-sitter grammar for jsdoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.jsdoc |
-| vimplugin-nvim-treesitter-grammar-json | 0.0.0+rev=001c28d | Tree-sitter grammar for json | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.json |
 | vimplugin-nvim-treesitter-grammar-json | 0.0.0+rev=001c28d | Tree-sitter grammar for json | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.json |
-| vimplugin-nvim-treesitter-grammar-json5 | 0.0.0+rev=aa630ef | Tree-sitter grammar for json5 | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.json5 |
 | vimplugin-nvim-treesitter-grammar-json5 | 0.0.0+rev=aa630ef | Tree-sitter grammar for json5 | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.json5 |
-| vimplugin-nvim-treesitter-grammar-jsonc | 0.0.0+rev=02b0165 | Tree-sitter grammar for jsonc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jsonc |
-| vimplugin-nvim-treesitter-grammar-jsonnet | 0.0.0+rev=ddd075f | Tree-sitter grammar for jsonnet | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.jsonnet |
 | vimplugin-nvim-treesitter-grammar-jsonnet | 0.0.0+rev=ddd075f | Tree-sitter grammar for jsonnet | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.jsonnet |
-| vimplugin-nvim-treesitter-grammar-julia | 0.0.0+rev=12a3aed | Tree-sitter grammar for julia | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.julia |
 | vimplugin-nvim-treesitter-grammar-julia | 0.0.0+rev=dd7f707 | Tree-sitter grammar for julia | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.julia |
 | vimplugin-nvim-treesitter-grammar-just | 0.0.0+rev=7333f8c | Tree-sitter grammar for just | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.just |
-| vimplugin-nvim-treesitter-grammar-just | 0.0.0+rev=bb0c898 | Tree-sitter grammar for just | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.just |
-| vimplugin-nvim-treesitter-grammar-kcl | 0.0.0+rev=b0b2eb3 | Tree-sitter grammar for kcl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kcl |
 | vimplugin-nvim-treesitter-grammar-kcl | 0.0.0+rev=b0b2eb3 | Tree-sitter grammar for kcl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.kcl |
-| vimplugin-nvim-treesitter-grammar-kconfig | 0.0.0+rev=9ac99fe | Tree-sitter grammar for kconfig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kconfig |
 | vimplugin-nvim-treesitter-grammar-kconfig | 0.0.0+rev=9ac99fe | Tree-sitter grammar for kconfig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.kconfig |
-| vimplugin-nvim-treesitter-grammar-kdl | 0.0.0+rev=b37e3d5 | Tree-sitter grammar for kdl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kdl |
 | vimplugin-nvim-treesitter-grammar-kdl | 0.0.0+rev=b37e3d5 | Tree-sitter grammar for kdl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.kdl |
-| vimplugin-nvim-treesitter-grammar-kitty | 0.0.0+rev=2e9b602 | Tree-sitter grammar for kitty | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kitty |
 | vimplugin-nvim-treesitter-grammar-kitty | 0.0.0+rev=f821c16 | Tree-sitter grammar for kitty | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.kitty |
 | vimplugin-nvim-treesitter-grammar-kos | 0.0.0+rev=03b261c | Tree-sitter grammar for kos | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.kos |
-| vimplugin-nvim-treesitter-grammar-kotlin | 0.0.0+rev=57fb456 | Tree-sitter grammar for kotlin | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kotlin |
 | vimplugin-nvim-treesitter-grammar-kotlin | 0.0.0+rev=57fb456 | Tree-sitter grammar for kotlin | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.kotlin |
-| vimplugin-nvim-treesitter-grammar-koto | 0.0.0+rev=2ffc77c | Tree-sitter grammar for koto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.koto |
 | vimplugin-nvim-treesitter-grammar-koto | 0.0.0+rev=f8b3f62 | Tree-sitter grammar for koto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.koto |
-| vimplugin-nvim-treesitter-grammar-kusto | 0.0.0+rev=8353a12 | Tree-sitter grammar for kusto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.kusto |
 | vimplugin-nvim-treesitter-grammar-kusto | 0.0.0+rev=8353a12 | Tree-sitter grammar for kusto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.kusto |
 | vimplugin-nvim-treesitter-grammar-lalrpop | 0.0.0+rev=27b0f7b | Tree-sitter grammar for lalrpop | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.lalrpop |
-| vimplugin-nvim-treesitter-grammar-lalrpop | 0.0.0+rev=8d38e97 | Tree-sitter grammar for lalrpop | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.lalrpop |
-| vimplugin-nvim-treesitter-grammar-latex | 0.0.0+rev=73c9b89 | Tree-sitter grammar for latex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.latex |
 | vimplugin-nvim-treesitter-grammar-latex | 0.0.0+rev=7e0ecdc | Tree-sitter grammar for latex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.latex |
-| vimplugin-nvim-treesitter-grammar-ledger | 0.0.0+rev=96c92d4 | Tree-sitter grammar for ledger | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ledger |
 | vimplugin-nvim-treesitter-grammar-ledger | 0.0.0+rev=96c92d4 | Tree-sitter grammar for ledger | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ledger |
-| vimplugin-nvim-treesitter-grammar-leo | 0.0.0+rev=6bc5564 | Tree-sitter grammar for leo | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.leo |
 | vimplugin-nvim-treesitter-grammar-leo | 0.0.0+rev=6bc5564 | Tree-sitter grammar for leo | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.leo |
-| vimplugin-nvim-treesitter-grammar-linkerscript | 0.0.0+rev=f99011a | Tree-sitter grammar for linkerscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.linkerscript |
 | vimplugin-nvim-treesitter-grammar-linkerscript | 0.0.0+rev=f99011a | Tree-sitter grammar for linkerscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.linkerscript |
-| vimplugin-nvim-treesitter-grammar-liquid | 0.0.0+rev=d6ebde3 | Tree-sitter grammar for liquid | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.liquid |
 | vimplugin-nvim-treesitter-grammar-liquid | 0.0.0+rev=d6ebde3 | Tree-sitter grammar for liquid | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.liquid |
-| vimplugin-nvim-treesitter-grammar-liquidsoap | 0.0.0+rev=4de01f4 | Tree-sitter grammar for liquidsoap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.liquidsoap |
 | vimplugin-nvim-treesitter-grammar-liquidsoap | 0.0.0+rev=d092c65 | Tree-sitter grammar for liquidsoap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.liquidsoap |
-| vimplugin-nvim-treesitter-grammar-llvm | 0.0.0+rev=2914786 | Tree-sitter grammar for llvm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.llvm |
 | vimplugin-nvim-treesitter-grammar-llvm | 0.0.0+rev=2914786 | Tree-sitter grammar for llvm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.llvm |
-| vimplugin-nvim-treesitter-grammar-lua | 0.0.0+rev=d760230 | Tree-sitter grammar for lua | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.lua |
 | vimplugin-nvim-treesitter-grammar-lua | 0.0.0+rev=e40f5b6 | Tree-sitter grammar for lua | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.lua |
-| vimplugin-nvim-treesitter-grammar-luadoc | 0.0.0+rev=873612a | Tree-sitter grammar for luadoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.luadoc |
 | vimplugin-nvim-treesitter-grammar-luadoc | 0.0.0+rev=873612a | Tree-sitter grammar for luadoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.luadoc |
-| vimplugin-nvim-treesitter-grammar-luap | 0.0.0+rev=c134aae | Tree-sitter grammar for luap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.luap |
 | vimplugin-nvim-treesitter-grammar-luap | 0.0.0+rev=c134aae | Tree-sitter grammar for luap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.luap |
-| vimplugin-nvim-treesitter-grammar-luau | 0.0.0+rev=a8914d6 | Tree-sitter grammar for luau | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.luau |
 | vimplugin-nvim-treesitter-grammar-luau | 0.0.0+rev=a8914d6 | Tree-sitter grammar for luau | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.luau |
-| vimplugin-nvim-treesitter-grammar-m68k | 0.0.0+rev=e128454 | Tree-sitter grammar for m68k | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.m68k |
 | vimplugin-nvim-treesitter-grammar-m68k | 0.0.0+rev=e128454 | Tree-sitter grammar for m68k | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.m68k |
 | vimplugin-nvim-treesitter-grammar-make | 0.0.0+rev=5e9e8f8 | Tree-sitter grammar for make | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.make |
-| vimplugin-nvim-treesitter-grammar-make | 0.0.0+rev=a4b9187 | Tree-sitter grammar for make | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.make |
-| vimplugin-nvim-treesitter-grammar-markdown | 0.0.0+rev=2dfd57f | Tree-sitter grammar for markdown | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.markdown |
 | vimplugin-nvim-treesitter-grammar-markdown | 0.0.0+rev=da063e1 | Tree-sitter grammar for markdown | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.markdown |
-| vimplugin-nvim-treesitter-grammar-markdown_inline | 0.0.0+rev=2dfd57f | Tree-sitter grammar for markdown_inline | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.markdown_inline |
 | vimplugin-nvim-treesitter-grammar-markdown_inline | 0.0.0+rev=da063e1 | Tree-sitter grammar for markdown_inline | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.markdown_inline |
-| vimplugin-nvim-treesitter-grammar-matlab | 0.0.0+rev=37941b2 | Tree-sitter grammar for matlab | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.matlab |
 | vimplugin-nvim-treesitter-grammar-matlab | 0.0.0+rev=f3eef66 | Tree-sitter grammar for matlab | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.matlab |
-| vimplugin-nvim-treesitter-grammar-menhir | 0.0.0+rev=be8866a | Tree-sitter grammar for menhir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.menhir |
 | vimplugin-nvim-treesitter-grammar-menhir | 0.0.0+rev=be8866a | Tree-sitter grammar for menhir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.menhir |
-| vimplugin-nvim-treesitter-grammar-mermaid | 0.0.0+rev=90ae195 | Tree-sitter grammar for mermaid | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.mermaid |
 | vimplugin-nvim-treesitter-grammar-mermaid | 0.0.0+rev=90ae195 | Tree-sitter grammar for mermaid | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.mermaid |
-| vimplugin-nvim-treesitter-grammar-meson | 0.0.0+rev=280b6e5 | Tree-sitter grammar for meson | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.meson |
 | vimplugin-nvim-treesitter-grammar-meson | 0.0.0+rev=c84f354 | Tree-sitter grammar for meson | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.meson |
-| vimplugin-nvim-treesitter-grammar-mlir | 0.0.0+rev=1f76a88 | Tree-sitter grammar for mlir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.mlir |
 | vimplugin-nvim-treesitter-grammar-mlir | 0.0.0+rev=4ab28ec | Tree-sitter grammar for mlir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.mlir |
-| vimplugin-nvim-treesitter-grammar-muttrc | 0.0.0+rev=173b0ab | Tree-sitter grammar for muttrc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.muttrc |
 | vimplugin-nvim-treesitter-grammar-muttrc | 0.0.0+rev=173b0ab | Tree-sitter grammar for muttrc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.muttrc |
-| vimplugin-nvim-treesitter-grammar-nasm | 0.0.0+rev=d1b3638 | Tree-sitter grammar for nasm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nasm |
 | vimplugin-nvim-treesitter-grammar-nasm | 0.0.0+rev=d1b3638 | Tree-sitter grammar for nasm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nasm |
 | vimplugin-nvim-treesitter-grammar-nginx | 0.0.0+rev=47ade64 | Tree-sitter grammar for nginx | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nginx |
-| vimplugin-nvim-treesitter-grammar-nginx | 0.0.0+rev=989da76 | Tree-sitter grammar for nginx | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nginx |
 | vimplugin-nvim-treesitter-grammar-nickel | 0.0.0+rev=a0a5d98 | Tree-sitter grammar for nickel | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nickel |
-| vimplugin-nvim-treesitter-grammar-nickel | 0.0.0+rev=f77c02d | Tree-sitter grammar for nickel | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nickel |
-| vimplugin-nvim-treesitter-grammar-nim | 0.0.0+rev=4ad3527 | Tree-sitter grammar for nim | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nim |
 | vimplugin-nvim-treesitter-grammar-nim | 0.0.0+rev=9b4ede2 | Tree-sitter grammar for nim | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nim |
-| vimplugin-nvim-treesitter-grammar-nim_format_string | 0.0.0+rev=d45f750 | Tree-sitter grammar for nim_format_string | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nim_format_string |
 | vimplugin-nvim-treesitter-grammar-nim_format_string | 0.0.0+rev=d45f750 | Tree-sitter grammar for nim_format_string | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nim_format_string |
-| vimplugin-nvim-treesitter-grammar-ninja | 0.0.0+rev=0a95cfd | Tree-sitter grammar for ninja | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ninja |
 | vimplugin-nvim-treesitter-grammar-ninja | 0.0.0+rev=0a95cfd | Tree-sitter grammar for ninja | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ninja |
-| vimplugin-nvim-treesitter-grammar-nix | 0.0.0+rev=eabf968 | Tree-sitter grammar for nix | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nix |
 | vimplugin-nvim-treesitter-grammar-nix | 0.0.0+rev=eabf968 | Tree-sitter grammar for nix | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nix |
-| vimplugin-nvim-treesitter-grammar-nqc | 0.0.0+rev=14e6da1 | Tree-sitter grammar for nqc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nqc |
 | vimplugin-nvim-treesitter-grammar-nqc | 0.0.0+rev=14e6da1 | Tree-sitter grammar for nqc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nqc |
 | vimplugin-nvim-treesitter-grammar-nu | 0.0.0+rev=4c14962 | Tree-sitter grammar for nu | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.nu |
-| vimplugin-nvim-treesitter-grammar-nu | 0.0.0+rev=6544c43 | Tree-sitter grammar for nu | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.nu |
-| vimplugin-nvim-treesitter-grammar-objc | 0.0.0+rev=181a81b | Tree-sitter grammar for objc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.objc |
 | vimplugin-nvim-treesitter-grammar-objc | 0.0.0+rev=181a81b | Tree-sitter grammar for objc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.objc |
-| vimplugin-nvim-treesitter-grammar-objdump | 0.0.0+rev=28d3b2e | Tree-sitter grammar for objdump | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.objdump |
 | vimplugin-nvim-treesitter-grammar-objdump | 0.0.0+rev=28d3b2e | Tree-sitter grammar for objdump | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.objdump |
-| vimplugin-nvim-treesitter-grammar-ocaml | 0.0.0+rev=3ef7c00 | Tree-sitter grammar for ocaml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ocaml |
 | vimplugin-nvim-treesitter-grammar-ocaml | 0.0.0+rev=3ef7c00 | Tree-sitter grammar for ocaml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ocaml |
-| vimplugin-nvim-treesitter-grammar-ocaml_interface | 0.0.0+rev=3ef7c00 | Tree-sitter grammar for ocaml_interface | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ocaml_interface |
 | vimplugin-nvim-treesitter-grammar-ocaml_interface | 0.0.0+rev=3ef7c00 | Tree-sitter grammar for ocaml_interface | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ocaml_interface |
-| vimplugin-nvim-treesitter-grammar-ocamllex | 0.0.0+rev=33722b8 | Tree-sitter grammar for ocamllex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ocamllex |
 | vimplugin-nvim-treesitter-grammar-ocamllex | 0.0.0+rev=33722b8 | Tree-sitter grammar for ocamllex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ocamllex |
-| vimplugin-nvim-treesitter-grammar-odin | 0.0.0+rev=d2ca8ef | Tree-sitter grammar for odin | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.odin |
 | vimplugin-nvim-treesitter-grammar-odin | 0.0.0+rev=d2ca8ef | Tree-sitter grammar for odin | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.odin |
 | vimplugin-nvim-treesitter-grammar-pascal | 0.0.0+rev=042119e | Tree-sitter grammar for pascal | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pascal |
-| vimplugin-nvim-treesitter-grammar-pascal | 0.0.0+rev=5054931 | Tree-sitter grammar for pascal | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pascal |
-| vimplugin-nvim-treesitter-grammar-passwd | 0.0.0+rev=2023939 | Tree-sitter grammar for passwd | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.passwd |
 | vimplugin-nvim-treesitter-grammar-passwd | 0.0.0+rev=2023939 | Tree-sitter grammar for passwd | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.passwd |
-| vimplugin-nvim-treesitter-grammar-pem | 0.0.0+rev=e525b17 | Tree-sitter grammar for pem | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pem |
 | vimplugin-nvim-treesitter-grammar-pem | 0.0.0+rev=e525b17 | Tree-sitter grammar for pem | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pem |
-| vimplugin-nvim-treesitter-grammar-perl | 0.0.0+rev=0c24d00 | Tree-sitter grammar for perl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.perl |
 | vimplugin-nvim-treesitter-grammar-perl | 0.0.0+rev=0c24d00 | Tree-sitter grammar for perl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.perl |
 | vimplugin-nvim-treesitter-grammar-php | 0.0.0+rev=7d07b41 | Tree-sitter grammar for php | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.php |
-| vimplugin-nvim-treesitter-grammar-php | 0.0.0+rev=b2278db | Tree-sitter grammar for php | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.php |
 | vimplugin-nvim-treesitter-grammar-php_only | 0.0.0+rev=7d07b41 | Tree-sitter grammar for php_only | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.php_only |
-| vimplugin-nvim-treesitter-grammar-php_only | 0.0.0+rev=b2278db | Tree-sitter grammar for php_only | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.php_only |
-| vimplugin-nvim-treesitter-grammar-phpdoc | 0.0.0+rev=03bb103 | Tree-sitter grammar for phpdoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.phpdoc |
 | vimplugin-nvim-treesitter-grammar-phpdoc | 0.0.0+rev=12d5030 | Tree-sitter grammar for phpdoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.phpdoc |
-| vimplugin-nvim-treesitter-grammar-pioasm | 0.0.0+rev=afece58 | Tree-sitter grammar for pioasm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pioasm |
 | vimplugin-nvim-treesitter-grammar-pioasm | 0.0.0+rev=afece58 | Tree-sitter grammar for pioasm | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pioasm |
-| vimplugin-nvim-treesitter-grammar-pkl | 0.0.0+rev=d50709f | Tree-sitter grammar for pkl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pkl |
 | vimplugin-nvim-treesitter-grammar-pkl | 0.0.0+rev=d9c591b | Tree-sitter grammar for pkl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pkl |
-| vimplugin-nvim-treesitter-grammar-po | 0.0.0+rev=bd860a0 | Tree-sitter grammar for po | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.po |
 | vimplugin-nvim-treesitter-grammar-po | 0.0.0+rev=bd860a0 | Tree-sitter grammar for po | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.po |
-| vimplugin-nvim-treesitter-grammar-pod | 0.0.0+rev=0bf8387 | Tree-sitter grammar for pod | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pod |
 | vimplugin-nvim-treesitter-grammar-pod | 0.0.0+rev=0bf8387 | Tree-sitter grammar for pod | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pod |
-| vimplugin-nvim-treesitter-grammar-poe_filter | 0.0.0+rev=205a7d5 | Tree-sitter grammar for poe_filter | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.poe_filter |
 | vimplugin-nvim-treesitter-grammar-poe_filter | 0.0.0+rev=205a7d5 | Tree-sitter grammar for poe_filter | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.poe_filter |
-| vimplugin-nvim-treesitter-grammar-pony | 0.0.0+rev=73ff874 | Tree-sitter grammar for pony | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pony |
 | vimplugin-nvim-treesitter-grammar-pony | 0.0.0+rev=73ff874 | Tree-sitter grammar for pony | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pony |
-| vimplugin-nvim-treesitter-grammar-powershell | 0.0.0+rev=66d5e61 | Tree-sitter grammar for powershell | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.powershell |
 | vimplugin-nvim-treesitter-grammar-powershell | 0.0.0+rev=7212f47 | Tree-sitter grammar for powershell | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.powershell |
-| vimplugin-nvim-treesitter-grammar-printf | 0.0.0+rev=ec4e567 | Tree-sitter grammar for printf | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.printf |
 | vimplugin-nvim-treesitter-grammar-printf | 0.0.0+rev=ec4e567 | Tree-sitter grammar for printf | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.printf |
-| vimplugin-nvim-treesitter-grammar-prisma | 0.0.0+rev=3556b2c | Tree-sitter grammar for prisma | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.prisma |
 | vimplugin-nvim-treesitter-grammar-prisma | 0.0.0+rev=3556b2c | Tree-sitter grammar for prisma | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.prisma |
-| vimplugin-nvim-treesitter-grammar-problog | 0.0.0+rev=d8d415f | Tree-sitter grammar for problog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.problog |
 | vimplugin-nvim-treesitter-grammar-problog | 0.0.0+rev=d8d415f | Tree-sitter grammar for problog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.problog |
-| vimplugin-nvim-treesitter-grammar-prolog | 0.0.0+rev=d8d415f | Tree-sitter grammar for prolog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.prolog |
 | vimplugin-nvim-treesitter-grammar-prolog | 0.0.0+rev=d8d415f | Tree-sitter grammar for prolog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.prolog |
-| vimplugin-nvim-treesitter-grammar-promql | 0.0.0+rev=77625d7 | Tree-sitter grammar for promql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.promql |
 | vimplugin-nvim-treesitter-grammar-promql | 0.0.0+rev=77625d7 | Tree-sitter grammar for promql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.promql |
-| vimplugin-nvim-treesitter-grammar-properties | 0.0.0+rev=6310671 | Tree-sitter grammar for properties | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.properties |
 | vimplugin-nvim-treesitter-grammar-properties | 0.0.0+rev=6310671 | Tree-sitter grammar for properties | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.properties |
-| vimplugin-nvim-treesitter-grammar-proto | 0.0.0+rev=e9f6b43 | Tree-sitter grammar for proto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.proto |
 | vimplugin-nvim-treesitter-grammar-proto | 0.0.0+rev=e9f6b43 | Tree-sitter grammar for proto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.proto |
-| vimplugin-nvim-treesitter-grammar-prql | 0.0.0+rev=09e158c | Tree-sitter grammar for prql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.prql |
 | vimplugin-nvim-treesitter-grammar-prql | 0.0.0+rev=09e158c | Tree-sitter grammar for prql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.prql |
-| vimplugin-nvim-treesitter-grammar-psv | 0.0.0+rev=f6bf6e3 | Tree-sitter grammar for psv | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.psv |
 | vimplugin-nvim-treesitter-grammar-psv | 0.0.0+rev=f6bf6e3 | Tree-sitter grammar for psv | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.psv |
-| vimplugin-nvim-treesitter-grammar-pug | 0.0.0+rev=13e9195 | Tree-sitter grammar for pug | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pug |
 | vimplugin-nvim-treesitter-grammar-pug | 0.0.0+rev=13e9195 | Tree-sitter grammar for pug | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pug |
-| vimplugin-nvim-treesitter-grammar-puppet | 0.0.0+rev=15f1929 | Tree-sitter grammar for puppet | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.puppet |
 | vimplugin-nvim-treesitter-grammar-puppet | 0.0.0+rev=15f1929 | Tree-sitter grammar for puppet | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.puppet |
-| vimplugin-nvim-treesitter-grammar-purescript | 0.0.0+rev=603daa9 | Tree-sitter grammar for purescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.purescript |
 | vimplugin-nvim-treesitter-grammar-purescript | 0.0.0+rev=f541f95 | Tree-sitter grammar for purescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.purescript |
-| vimplugin-nvim-treesitter-grammar-pymanifest | 0.0.0+rev=debbdb8 | Tree-sitter grammar for pymanifest | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.pymanifest |
 | vimplugin-nvim-treesitter-grammar-pymanifest | 0.0.0+rev=debbdb8 | Tree-sitter grammar for pymanifest | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.pymanifest |
-| vimplugin-nvim-treesitter-grammar-python | 0.0.0+rev=710796b | Tree-sitter grammar for python | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.python |
 | vimplugin-nvim-treesitter-grammar-python | 0.0.0+rev=v0.25.0 | Tree-sitter grammar for python | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.python |
-| vimplugin-nvim-treesitter-grammar-ql | 0.0.0+rev=1fd627a | Tree-sitter grammar for ql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ql |
 | vimplugin-nvim-treesitter-grammar-ql | 0.0.0+rev=1fd627a | Tree-sitter grammar for ql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ql |
-| vimplugin-nvim-treesitter-grammar-qmldir | 0.0.0+rev=6b2b5e4 | Tree-sitter grammar for qmldir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.qmldir |
 | vimplugin-nvim-treesitter-grammar-qmldir | 0.0.0+rev=6b2b5e4 | Tree-sitter grammar for qmldir | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.qmldir |
-| vimplugin-nvim-treesitter-grammar-qmljs | 0.0.0+rev=0bec435 | Tree-sitter grammar for qmljs | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.qmljs |
 | vimplugin-nvim-treesitter-grammar-qmljs | 0.0.0+rev=0bec435 | Tree-sitter grammar for qmljs | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.qmljs |
 | vimplugin-nvim-treesitter-grammar-query | 0.0.0+rev=6350ad7 | Tree-sitter grammar for query | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.query |
-| vimplugin-nvim-treesitter-grammar-query | 0.0.0+rev=a225e21 | Tree-sitter grammar for query | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.query |
-| vimplugin-nvim-treesitter-grammar-r | 0.0.0+rev=0e6ef77 | Tree-sitter grammar for r | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.r |
 | vimplugin-nvim-treesitter-grammar-r | 0.0.0+rev=0e6ef77 | Tree-sitter grammar for r | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.r |
-| vimplugin-nvim-treesitter-grammar-racket | 0.0.0+rev=130e765 | Tree-sitter grammar for racket | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.racket |
 | vimplugin-nvim-treesitter-grammar-racket | 0.0.0+rev=56b5780 | Tree-sitter grammar for racket | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.racket |
-| vimplugin-nvim-treesitter-grammar-ralph | 0.0.0+rev=f6d81bf | Tree-sitter grammar for ralph | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ralph |
 | vimplugin-nvim-treesitter-grammar-ralph | 0.0.0+rev=f6d81bf | Tree-sitter grammar for ralph | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ralph |
-| vimplugin-nvim-treesitter-grammar-rasi | 0.0.0+rev=e735c68 | Tree-sitter grammar for rasi | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rasi |
 | vimplugin-nvim-treesitter-grammar-rasi | 0.0.0+rev=e735c68 | Tree-sitter grammar for rasi | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rasi |
-| vimplugin-nvim-treesitter-grammar-razor | 0.0.0+rev=fe46ce5 | Tree-sitter grammar for razor | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.razor |
 | vimplugin-nvim-treesitter-grammar-razor | 0.0.0+rev=fe46ce5 | Tree-sitter grammar for razor | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.razor |
-| vimplugin-nvim-treesitter-grammar-rbs | 0.0.0+rev=5282e2f | Tree-sitter grammar for rbs | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rbs |
 | vimplugin-nvim-treesitter-grammar-rbs | 0.0.0+rev=5282e2f | Tree-sitter grammar for rbs | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rbs |
-| vimplugin-nvim-treesitter-grammar-re2c | 0.0.0+rev=c18a3c2 | Tree-sitter grammar for re2c | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.re2c |
 | vimplugin-nvim-treesitter-grammar-re2c | 0.0.0+rev=c18a3c2 | Tree-sitter grammar for re2c | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.re2c |
-| vimplugin-nvim-treesitter-grammar-readline | 0.0.0+rev=6b744c5 | Tree-sitter grammar for readline | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.readline |
 | vimplugin-nvim-treesitter-grammar-readline | 0.0.0+rev=6b744c5 | Tree-sitter grammar for readline | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.readline |
-| vimplugin-nvim-treesitter-grammar-regex | 0.0.0+rev=b2ac15e | Tree-sitter grammar for regex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.regex |
 | vimplugin-nvim-treesitter-grammar-regex | 0.0.0+rev=b2ac15e | Tree-sitter grammar for regex | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.regex |
-| vimplugin-nvim-treesitter-grammar-rego | 0.0.0+rev=20b5a59 | Tree-sitter grammar for rego | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rego |
 | vimplugin-nvim-treesitter-grammar-rego | 0.0.0+rev=ddd39af | Tree-sitter grammar for rego | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rego |
-| vimplugin-nvim-treesitter-grammar-requirements | 0.0.0+rev=caeb2ba | Tree-sitter grammar for requirements | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.requirements |
 | vimplugin-nvim-treesitter-grammar-requirements | 0.0.0+rev=caeb2ba | Tree-sitter grammar for requirements | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.requirements |
 | vimplugin-nvim-treesitter-grammar-rescript | 0.0.0+rev=5938ae1 | Tree-sitter grammar for rescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rescript |
-| vimplugin-nvim-treesitter-grammar-rescript | 0.0.0+rev=d2df8a2 | Tree-sitter grammar for rescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rescript |
 | vimplugin-nvim-treesitter-grammar-rifleconf | 0.0.0+rev=6389ef0 | Tree-sitter grammar for rifleconf | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rifleconf |
-| vimplugin-nvim-treesitter-grammar-rifleconf | 0.0.0+rev=fe10eab | Tree-sitter grammar for rifleconf | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rifleconf |
-| vimplugin-nvim-treesitter-grammar-rnoweb | 0.0.0+rev=1a74dc0 | Tree-sitter grammar for rnoweb | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rnoweb |
 | vimplugin-nvim-treesitter-grammar-rnoweb | 0.0.0+rev=1a74dc0 | Tree-sitter grammar for rnoweb | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rnoweb |
-| vimplugin-nvim-treesitter-grammar-robot | 0.0.0+rev=e34def7 | Tree-sitter grammar for robot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.robot |
 | vimplugin-nvim-treesitter-grammar-robot | 0.0.0+rev=e34def7 | Tree-sitter grammar for robot | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.robot |
-| vimplugin-nvim-treesitter-grammar-robots | 0.0.0+rev=8e3a420 | Tree-sitter grammar for robots | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.robots |
 | vimplugin-nvim-treesitter-grammar-robots_txt | 0.0.0+rev=0c06610 | Tree-sitter grammar for robots_txt | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.robots_txt |
-| vimplugin-nvim-treesitter-grammar-roc | 0.0.0+rev=40e52f3 | Tree-sitter grammar for roc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.roc |
 | vimplugin-nvim-treesitter-grammar-roc | 0.0.0+rev=40e52f3 | Tree-sitter grammar for roc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.roc |
-| vimplugin-nvim-treesitter-grammar-ron | 0.0.0+rev=7893855 | Tree-sitter grammar for ron | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ron |
 | vimplugin-nvim-treesitter-grammar-ron | 0.0.0+rev=7893855 | Tree-sitter grammar for ron | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ron |
-| vimplugin-nvim-treesitter-grammar-rst | 0.0.0+rev=4e562e1 | Tree-sitter grammar for rst | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rst |
 | vimplugin-nvim-treesitter-grammar-rst | 0.0.0+rev=4e562e1 | Tree-sitter grammar for rst | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rst |
-| vimplugin-nvim-treesitter-grammar-ruby | 0.0.0+rev=89bd7a8 | Tree-sitter grammar for ruby | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ruby |
 | vimplugin-nvim-treesitter-grammar-ruby | 0.0.0+rev=ab6dca7 | Tree-sitter grammar for ruby | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ruby |
-| vimplugin-nvim-treesitter-grammar-runescript | 0.0.0+rev=cf85bbd | Tree-sitter grammar for runescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.runescript |
 | vimplugin-nvim-treesitter-grammar-runescript | 0.0.0+rev=cf85bbd | Tree-sitter grammar for runescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.runescript |
-| vimplugin-nvim-treesitter-grammar-rust | 0.0.0+rev=261b202 | Tree-sitter grammar for rust | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.rust |
 | vimplugin-nvim-treesitter-grammar-rust | 0.0.0+rev=261b202 | Tree-sitter grammar for rust | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.rust |
-| vimplugin-nvim-treesitter-grammar-scala | 0.0.0+rev=97aead1 | Tree-sitter grammar for scala | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scala |
 | vimplugin-nvim-treesitter-grammar-scala | 0.0.0+rev=97aead1 | Tree-sitter grammar for scala | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.scala |
-| vimplugin-nvim-treesitter-grammar-scfg | 0.0.0+rev=d850fd4 | Tree-sitter grammar for scfg | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scfg |
 | vimplugin-nvim-treesitter-grammar-scfg | 0.0.0+rev=d850fd4 | Tree-sitter grammar for scfg | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.scfg |
-| vimplugin-nvim-treesitter-grammar-scheme | 0.0.0+rev=591893b | Tree-sitter grammar for scheme | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scheme |
 | vimplugin-nvim-treesitter-grammar-scheme | 0.0.0+rev=b5c7011 | Tree-sitter grammar for scheme | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.scheme |
-| vimplugin-nvim-treesitter-grammar-scss | 0.0.0+rev=c478c68 | Tree-sitter grammar for scss | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.scss |
 | vimplugin-nvim-treesitter-grammar-scss | 0.0.0+rev=c478c68 | Tree-sitter grammar for scss | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.scss |
-| vimplugin-nvim-treesitter-grammar-sflog | 0.0.0+rev=3597575 | Tree-sitter grammar for sflog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sflog |
 | vimplugin-nvim-treesitter-grammar-sflog | 0.0.0+rev=3597575 | Tree-sitter grammar for sflog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sflog |
-| vimplugin-nvim-treesitter-grammar-slang | 0.0.0+rev=1dbcc4a | Tree-sitter grammar for slang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.slang |
 | vimplugin-nvim-treesitter-grammar-slang | 0.0.0+rev=1dbcc4a | Tree-sitter grammar for slang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.slang |
-| vimplugin-nvim-treesitter-grammar-slim | 0.0.0+rev=a06113f | Tree-sitter grammar for slim | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.slim |
 | vimplugin-nvim-treesitter-grammar-slim | 0.0.0+rev=a06113f | Tree-sitter grammar for slim | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.slim |
 | vimplugin-nvim-treesitter-grammar-slint | 0.0.0+rev=10fb0f1 | Tree-sitter grammar for slint | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.slint |
-| vimplugin-nvim-treesitter-grammar-slint | 0.0.0+rev=f2e4e5a | Tree-sitter grammar for slint | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.slint |
-| vimplugin-nvim-treesitter-grammar-smali | 0.0.0+rev=fdfa6a1 | Tree-sitter grammar for smali | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.smali |
 | vimplugin-nvim-treesitter-grammar-smali | 0.0.0+rev=fdfa6a1 | Tree-sitter grammar for smali | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.smali |
-| vimplugin-nvim-treesitter-grammar-smithy | 0.0.0+rev=ec4fe14 | Tree-sitter grammar for smithy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.smithy |
 | vimplugin-nvim-treesitter-grammar-smithy | 0.0.0+rev=ec4fe14 | Tree-sitter grammar for smithy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.smithy |
 | vimplugin-nvim-treesitter-grammar-snakemake | 0.0.0+rev=6801043 | Tree-sitter grammar for snakemake | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.snakemake |
-| vimplugin-nvim-treesitter-grammar-snakemake | 0.0.0+rev=7731408 | Tree-sitter grammar for snakemake | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.snakemake |
-| vimplugin-nvim-treesitter-grammar-snl | 0.0.0+rev=846e2d6 | Tree-sitter grammar for snl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.snl |
 | vimplugin-nvim-treesitter-grammar-snl | 0.0.0+rev=846e2d6 | Tree-sitter grammar for snl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.snl |
-| vimplugin-nvim-treesitter-grammar-solidity | 0.0.0+rev=4e938a4 | Tree-sitter grammar for solidity | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.solidity |
 | vimplugin-nvim-treesitter-grammar-solidity | 0.0.0+rev=4e938a4 | Tree-sitter grammar for solidity | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.solidity |
-| vimplugin-nvim-treesitter-grammar-soql | 0.0.0+rev=3597575 | Tree-sitter grammar for soql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.soql |
 | vimplugin-nvim-treesitter-grammar-soql | 0.0.0+rev=3597575 | Tree-sitter grammar for soql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.soql |
-| vimplugin-nvim-treesitter-grammar-sosl | 0.0.0+rev=3597575 | Tree-sitter grammar for sosl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sosl |
 | vimplugin-nvim-treesitter-grammar-sosl | 0.0.0+rev=3597575 | Tree-sitter grammar for sosl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sosl |
-| vimplugin-nvim-treesitter-grammar-sourcepawn | 0.0.0+rev=5a8fdd4 | Tree-sitter grammar for sourcepawn | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sourcepawn |
 | vimplugin-nvim-treesitter-grammar-sourcepawn | 0.0.0+rev=5a8fdd4 | Tree-sitter grammar for sourcepawn | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sourcepawn |
-| vimplugin-nvim-treesitter-grammar-sparql | 0.0.0+rev=1ef52d3 | Tree-sitter grammar for sparql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sparql |
 | vimplugin-nvim-treesitter-grammar-sparql | 0.0.0+rev=1ef52d3 | Tree-sitter grammar for sparql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sparql |
-| vimplugin-nvim-treesitter-grammar-sproto | 0.0.0+rev=d554c14 | Tree-sitter grammar for sproto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sproto |
 | vimplugin-nvim-treesitter-grammar-sproto | 0.0.0+rev=d554c14 | Tree-sitter grammar for sproto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sproto |
-| vimplugin-nvim-treesitter-grammar-sql | 0.0.0+rev=0a3d963 | Tree-sitter grammar for sql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sql |
 | vimplugin-nvim-treesitter-grammar-sql | 0.0.0+rev=86e3d03 | Tree-sitter grammar for sql | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sql |
-| vimplugin-nvim-treesitter-grammar-squirrel | 0.0.0+rev=072c969 | Tree-sitter grammar for squirrel | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.squirrel |
 | vimplugin-nvim-treesitter-grammar-squirrel | 0.0.0+rev=072c969 | Tree-sitter grammar for squirrel | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.squirrel |
-| vimplugin-nvim-treesitter-grammar-ssh_config | 0.0.0+rev=71d2693 | Tree-sitter grammar for ssh_config | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ssh_config |
 | vimplugin-nvim-treesitter-grammar-ssh_config | 0.0.0+rev=71d2693 | Tree-sitter grammar for ssh_config | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ssh_config |
-| vimplugin-nvim-treesitter-grammar-starlark | 0.0.0+rev=a453dbf | Tree-sitter grammar for starlark | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.starlark |
 | vimplugin-nvim-treesitter-grammar-starlark | 0.0.0+rev=a453dbf | Tree-sitter grammar for starlark | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.starlark |
 | vimplugin-nvim-treesitter-grammar-strace | 0.0.0+rev=ac874dd | Tree-sitter grammar for strace | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.strace |
-| vimplugin-nvim-treesitter-grammar-strace | 0.0.0+rev=d819cdd | Tree-sitter grammar for strace | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.strace |
-| vimplugin-nvim-treesitter-grammar-styled | 0.0.0+rev=319cdca | Tree-sitter grammar for styled | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.styled |
 | vimplugin-nvim-treesitter-grammar-styled | 0.0.0+rev=319cdca | Tree-sitter grammar for styled | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.styled |
-| vimplugin-nvim-treesitter-grammar-supercollider | 0.0.0+rev=76b3cab | Tree-sitter grammar for supercollider | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.supercollider |
 | vimplugin-nvim-treesitter-grammar-supercollider | 0.0.0+rev=76b3cab | Tree-sitter grammar for supercollider | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.supercollider |
-| vimplugin-nvim-treesitter-grammar-superhtml | 0.0.0+rev=8b5bb27 | Tree-sitter grammar for superhtml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.superhtml |
 | vimplugin-nvim-treesitter-grammar-superhtml | 0.0.0+rev=8b5bb27 | Tree-sitter grammar for superhtml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.superhtml |
-| vimplugin-nvim-treesitter-grammar-surface | 0.0.0+rev=f4586b3 | Tree-sitter grammar for surface | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.surface |
 | vimplugin-nvim-treesitter-grammar-surface | 0.0.0+rev=f4586b3 | Tree-sitter grammar for surface | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.surface |
-| vimplugin-nvim-treesitter-grammar-svelte | 0.0.0+rev=ae5199d | Tree-sitter grammar for svelte | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.svelte |
 | vimplugin-nvim-treesitter-grammar-svelte | 0.0.0+rev=ae5199d | Tree-sitter grammar for svelte | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.svelte |
-| vimplugin-nvim-treesitter-grammar-sway | 0.0.0+rev=9b7845c | Tree-sitter grammar for sway | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sway |
 | vimplugin-nvim-treesitter-grammar-sway | 0.0.0+rev=9b7845c | Tree-sitter grammar for sway | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sway |
-| vimplugin-nvim-treesitter-grammar-swift | 0.0.0+rev=99a5241 | Tree-sitter grammar for swift | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.swift |
 | vimplugin-nvim-treesitter-grammar-swift | 0.0.0+rev=c728739 | Tree-sitter grammar for swift | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.swift |
-| vimplugin-nvim-treesitter-grammar-sxhkdrc | 0.0.0+rev=440d5f9 | Tree-sitter grammar for sxhkdrc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.sxhkdrc |
 | vimplugin-nvim-treesitter-grammar-sxhkdrc | 0.0.0+rev=440d5f9 | Tree-sitter grammar for sxhkdrc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.sxhkdrc |
-| vimplugin-nvim-treesitter-grammar-systemtap | 0.0.0+rev=f2b378a | Tree-sitter grammar for systemtap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.systemtap |
 | vimplugin-nvim-treesitter-grammar-systemtap | 0.0.0+rev=f2b378a | Tree-sitter grammar for systemtap | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.systemtap |
-| vimplugin-nvim-treesitter-grammar-systemverilog | 0.0.0+rev=7c4b01b | Tree-sitter grammar for systemverilog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.systemverilog |
 | vimplugin-nvim-treesitter-grammar-systemverilog | 0.0.0+rev=7c4b01b | Tree-sitter grammar for systemverilog | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.systemverilog |
-| vimplugin-nvim-treesitter-grammar-t32 | 0.0.0+rev=2f604ad | Tree-sitter grammar for t32 | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.t32 |
 | vimplugin-nvim-treesitter-grammar-t32 | 0.0.0+rev=5b5e433 | Tree-sitter grammar for t32 | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.t32 |
-| vimplugin-nvim-treesitter-grammar-tablegen | 0.0.0+rev=b117088 | Tree-sitter grammar for tablegen | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tablegen |
 | vimplugin-nvim-treesitter-grammar-tablegen | 0.0.0+rev=b117088 | Tree-sitter grammar for tablegen | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tablegen |
-| vimplugin-nvim-treesitter-grammar-tact | 0.0.0+rev=a6267c2 | Tree-sitter grammar for tact | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tact |
 | vimplugin-nvim-treesitter-grammar-tact | 0.0.0+rev=a6267c2 | Tree-sitter grammar for tact | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tact |
 | vimplugin-nvim-treesitter-grammar-tcl | 0.0.0+rev=8f11ac7 | Tree-sitter grammar for tcl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tcl |
-| vimplugin-nvim-treesitter-grammar-tcl | 0.0.0+rev=f15e711 | Tree-sitter grammar for tcl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tcl |
-| vimplugin-nvim-treesitter-grammar-teal | 0.0.0+rev=05d276e | Tree-sitter grammar for teal | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.teal |
 | vimplugin-nvim-treesitter-grammar-teal | 0.0.0+rev=05d276e | Tree-sitter grammar for teal | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.teal |
 | vimplugin-nvim-treesitter-grammar-templ | 0.0.0+rev=1c6db04 | Tree-sitter grammar for templ | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.templ |
-| vimplugin-nvim-treesitter-grammar-templ | 0.0.0+rev=3057cd4 | Tree-sitter grammar for templ | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.templ |
 | vimplugin-nvim-treesitter-grammar-tera | 0.0.0+rev=3a38c36 | Tree-sitter grammar for tera | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tera |
-| vimplugin-nvim-treesitter-grammar-tera | 0.0.0+rev=692937d | Tree-sitter grammar for tera | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tera |
 | vimplugin-nvim-treesitter-grammar-terraform | 0.0.0+rev=64ad627 | Tree-sitter grammar for terraform | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.terraform |
-| vimplugin-nvim-treesitter-grammar-terraform | 0.0.0+rev=fad9918 | Tree-sitter grammar for terraform | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.terraform |
-| vimplugin-nvim-treesitter-grammar-textproto | 0.0.0+rev=568471b | Tree-sitter grammar for textproto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.textproto |
 | vimplugin-nvim-treesitter-grammar-textproto | 0.0.0+rev=568471b | Tree-sitter grammar for textproto | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.textproto |
-| vimplugin-nvim-treesitter-grammar-thrift | 0.0.0+rev=68fd0d8 | Tree-sitter grammar for thrift | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.thrift |
 | vimplugin-nvim-treesitter-grammar-thrift | 0.0.0+rev=68fd0d8 | Tree-sitter grammar for thrift | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.thrift |
-| vimplugin-nvim-treesitter-grammar-tiger | 0.0.0+rev=4a77b2d | Tree-sitter grammar for tiger | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tiger |
 | vimplugin-nvim-treesitter-grammar-tiger | 0.0.0+rev=4a77b2d | Tree-sitter grammar for tiger | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tiger |
-| vimplugin-nvim-treesitter-grammar-tlaplus | 0.0.0+rev=2d83194 | Tree-sitter grammar for tlaplus | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tlaplus |
 | vimplugin-nvim-treesitter-grammar-tlaplus | 0.0.0+rev=8d749f9 | Tree-sitter grammar for tlaplus | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tlaplus |
-| vimplugin-nvim-treesitter-grammar-tmux | 0.0.0+rev=0252ecd | Tree-sitter grammar for tmux | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tmux |
 | vimplugin-nvim-treesitter-grammar-tmux | 0.0.0+rev=75d1b99 | Tree-sitter grammar for tmux | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tmux |
-| vimplugin-nvim-treesitter-grammar-todotxt | 0.0.0+rev=3937c5c | Tree-sitter grammar for todotxt | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.todotxt |
 | vimplugin-nvim-treesitter-grammar-todotxt | 0.0.0+rev=3937c5c | Tree-sitter grammar for todotxt | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.todotxt |
-| vimplugin-nvim-treesitter-grammar-toml | 0.0.0+rev=64b5683 | Tree-sitter grammar for toml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.toml |
 | vimplugin-nvim-treesitter-grammar-toml | 0.0.0+rev=64b5683 | Tree-sitter grammar for toml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.toml |
-| vimplugin-nvim-treesitter-grammar-tsv | 0.0.0+rev=f6bf6e3 | Tree-sitter grammar for tsv | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tsv |
 | vimplugin-nvim-treesitter-grammar-tsv | 0.0.0+rev=f6bf6e3 | Tree-sitter grammar for tsv | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tsv |
-| vimplugin-nvim-treesitter-grammar-tsx | 0.0.0+rev=75b3874 | Tree-sitter grammar for tsx | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.tsx |
 | vimplugin-nvim-treesitter-grammar-tsx | 0.0.0+rev=75b3874 | Tree-sitter grammar for tsx | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.tsx |
-| vimplugin-nvim-treesitter-grammar-turtle | 0.0.0+rev=7f789ea | Tree-sitter grammar for turtle | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.turtle |
 | vimplugin-nvim-treesitter-grammar-turtle | 0.0.0+rev=7f789ea | Tree-sitter grammar for turtle | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.turtle |
-| vimplugin-nvim-treesitter-grammar-twig | 0.0.0+rev=7195ee5 | Tree-sitter grammar for twig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.twig |
 | vimplugin-nvim-treesitter-grammar-twig | 0.0.0+rev=7195ee5 | Tree-sitter grammar for twig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.twig |
-| vimplugin-nvim-treesitter-grammar-typescript | 0.0.0+rev=75b3874 | Tree-sitter grammar for typescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typescript |
 | vimplugin-nvim-treesitter-grammar-typescript | 0.0.0+rev=75b3874 | Tree-sitter grammar for typescript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.typescript |
 | vimplugin-nvim-treesitter-grammar-typespec | 0.0.0+rev=395bef1 | Tree-sitter grammar for typespec | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.typespec |
-| vimplugin-nvim-treesitter-grammar-typespec | 0.0.0+rev=814c982 | Tree-sitter grammar for typespec | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typespec |
 | vimplugin-nvim-treesitter-grammar-typoscript | 0.0.0+rev=1811c76 | Tree-sitter grammar for typoscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.typoscript |
-| vimplugin-nvim-treesitter-grammar-typoscript | 0.0.0+rev=5d8fde8 | Tree-sitter grammar for typoscript | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typoscript |
-| vimplugin-nvim-treesitter-grammar-typst | 0.0.0+rev=46cf4de | Tree-sitter grammar for typst | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.typst |
 | vimplugin-nvim-treesitter-grammar-typst | 0.0.0+rev=46cf4de | Tree-sitter grammar for typst | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.typst |
-| vimplugin-nvim-treesitter-grammar-udev | 0.0.0+rev=2fcb563 | Tree-sitter grammar for udev | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.udev |
 | vimplugin-nvim-treesitter-grammar-udev | 0.0.0+rev=2fcb563 | Tree-sitter grammar for udev | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.udev |
-| vimplugin-nvim-treesitter-grammar-ungrammar | 0.0.0+rev=debd26f | Tree-sitter grammar for ungrammar | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ungrammar |
 | vimplugin-nvim-treesitter-grammar-ungrammar | 0.0.0+rev=debd26f | Tree-sitter grammar for ungrammar | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ungrammar |
-| vimplugin-nvim-treesitter-grammar-unison | 0.0.0+rev=169e7f7 | Tree-sitter grammar for unison | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.unison |
 | vimplugin-nvim-treesitter-grammar-unison | 0.0.0+rev=169e7f7 | Tree-sitter grammar for unison | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.unison |
-| vimplugin-nvim-treesitter-grammar-usd | 0.0.0+rev=4e0875f | Tree-sitter grammar for usd | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.usd |
 | vimplugin-nvim-treesitter-grammar-usd | 0.0.0+rev=4e0875f | Tree-sitter grammar for usd | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.usd |
-| vimplugin-nvim-treesitter-grammar-uxntal | 0.0.0+rev=ad9b638 | Tree-sitter grammar for uxntal | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.uxntal |
 | vimplugin-nvim-treesitter-grammar-uxntal | 0.0.0+rev=ad9b638 | Tree-sitter grammar for uxntal | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.uxntal |
-| vimplugin-nvim-treesitter-grammar-v | 0.0.0+rev=236d51b | Tree-sitter grammar for v | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.v |
 | vimplugin-nvim-treesitter-grammar-v | 0.0.0+rev=9cf6a37 | Tree-sitter grammar for v | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.v |
-| vimplugin-nvim-treesitter-grammar-vala | 0.0.0+rev=97e6db3 | Tree-sitter grammar for vala | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vala |
 | vimplugin-nvim-treesitter-grammar-vala | 0.0.0+rev=97e6db3 | Tree-sitter grammar for vala | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vala |
-| vimplugin-nvim-treesitter-grammar-vento | 0.0.0+rev=3b32474 | Tree-sitter grammar for vento | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vento |
 | vimplugin-nvim-treesitter-grammar-vento | 0.0.0+rev=3b32474 | Tree-sitter grammar for vento | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vento |
-| vimplugin-nvim-treesitter-grammar-vhdl | 0.0.0+rev=0c25aa0 | Tree-sitter grammar for vhdl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vhdl |
 | vimplugin-nvim-treesitter-grammar-vhdl | 0.0.0+rev=674ed9f | Tree-sitter grammar for vhdl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vhdl |
-| vimplugin-nvim-treesitter-grammar-vhs | 0.0.0+rev=0c6fae9 | Tree-sitter grammar for vhs | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vhs |
 | vimplugin-nvim-treesitter-grammar-vhs | 0.0.0+rev=0c6fae9 | Tree-sitter grammar for vhs | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vhs |
 | vimplugin-nvim-treesitter-grammar-vim | 0.0.0+rev=1cd0a08 | Tree-sitter grammar for vim | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vim |
-| vimplugin-nvim-treesitter-grammar-vim | 0.0.0+rev=3dd4747 | Tree-sitter grammar for vim | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vim |
-| vimplugin-nvim-treesitter-grammar-vimdoc | 0.0.0+rev=570dc10 | Tree-sitter grammar for vimdoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vimdoc |
 | vimplugin-nvim-treesitter-grammar-vimdoc | 0.0.0+rev=f061895 | Tree-sitter grammar for vimdoc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vimdoc |
-| vimplugin-nvim-treesitter-grammar-vrl | 0.0.0+rev=274b3ce | Tree-sitter grammar for vrl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vrl |
 | vimplugin-nvim-treesitter-grammar-vrl | 0.0.0+rev=274b3ce | Tree-sitter grammar for vrl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vrl |
-| vimplugin-nvim-treesitter-grammar-vue | 0.0.0+rev=22bdfa6 | Tree-sitter grammar for vue | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.vue |
 | vimplugin-nvim-treesitter-grammar-vue | 0.0.0+rev=ce8011a | Tree-sitter grammar for vue | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.vue |
-| vimplugin-nvim-treesitter-grammar-wgsl | 0.0.0+rev=40259f3 | Tree-sitter grammar for wgsl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wgsl |
 | vimplugin-nvim-treesitter-grammar-wgsl | 0.0.0+rev=40259f3 | Tree-sitter grammar for wgsl | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.wgsl |
-| vimplugin-nvim-treesitter-grammar-wgsl_bevy | 0.0.0+rev=d9306a7 | Tree-sitter grammar for wgsl_bevy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wgsl_bevy |
 | vimplugin-nvim-treesitter-grammar-wgsl_bevy | 0.0.0+rev=d9306a7 | Tree-sitter grammar for wgsl_bevy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.wgsl_bevy |
-| vimplugin-nvim-treesitter-grammar-wing | 0.0.0+rev=76e0c25 | Tree-sitter grammar for wing | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wing |
 | vimplugin-nvim-treesitter-grammar-wing | 0.0.0+rev=76e0c25 | Tree-sitter grammar for wing | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.wing |
-| vimplugin-nvim-treesitter-grammar-wit | 0.0.0+rev=37bf43c | Tree-sitter grammar for wit | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wit |
 | vimplugin-nvim-treesitter-grammar-wit | 0.0.0+rev=v1.2.0 | Tree-sitter grammar for wit | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.wit |
-| vimplugin-nvim-treesitter-grammar-wxml | 0.0.0+rev=7b821c7 | Tree-sitter grammar for wxml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.wxml |
 | vimplugin-nvim-treesitter-grammar-wxml | 0.0.0+rev=7b821c7 | Tree-sitter grammar for wxml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.wxml |
-| vimplugin-nvim-treesitter-grammar-xcompose | 0.0.0+rev=a51d636 | Tree-sitter grammar for xcompose | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.xcompose |
 | vimplugin-nvim-treesitter-grammar-xcompose | 0.0.0+rev=a51d636 | Tree-sitter grammar for xcompose | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.xcompose |
 | vimplugin-nvim-treesitter-grammar-xml | 0.0.0+rev=5000ae8 | Tree-sitter grammar for xml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.xml |
-| vimplugin-nvim-treesitter-grammar-xml | 0.0.0+rev=863dbc3 | Tree-sitter grammar for xml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.xml |
-| vimplugin-nvim-treesitter-grammar-xresources | 0.0.0+rev=68240ae | Tree-sitter grammar for xresources | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.xresources |
 | vimplugin-nvim-treesitter-grammar-xresources | 0.0.0+rev=a81f1ea | Tree-sitter grammar for xresources | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.xresources |
-| vimplugin-nvim-treesitter-grammar-yaml | 0.0.0+rev=7708026 | Tree-sitter grammar for yaml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.yaml |
 | vimplugin-nvim-treesitter-grammar-yaml | 0.0.0+rev=7708026 | Tree-sitter grammar for yaml | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.yaml |
-| vimplugin-nvim-treesitter-grammar-yang | 0.0.0+rev=2c0e6be | Tree-sitter grammar for yang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.yang |
 | vimplugin-nvim-treesitter-grammar-yang | 0.0.0+rev=2c0e6be | Tree-sitter grammar for yang | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.yang |
-| vimplugin-nvim-treesitter-grammar-yuck | 0.0.0+rev=e877f6a | Tree-sitter grammar for yuck | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.yuck |
 | vimplugin-nvim-treesitter-grammar-yuck | 0.0.0+rev=e877f6a | Tree-sitter grammar for yuck | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.yuck |
-| vimplugin-nvim-treesitter-grammar-zathurarc | 0.0.0+rev=0554b4a | Tree-sitter grammar for zathurarc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.zathurarc |
 | vimplugin-nvim-treesitter-grammar-zathurarc | 0.0.0+rev=0554b4a | Tree-sitter grammar for zathurarc | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.zathurarc |
-| vimplugin-nvim-treesitter-grammar-zig | 0.0.0+rev=6479aa1 | Tree-sitter grammar for zig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.zig |
 | vimplugin-nvim-treesitter-grammar-zig | 0.0.0+rev=6479aa1 | Tree-sitter grammar for zig | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.zig |
-| vimplugin-nvim-treesitter-grammar-ziggy | 0.0.0+rev=4353b20 | Tree-sitter grammar for ziggy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ziggy |
 | vimplugin-nvim-treesitter-grammar-ziggy | 0.0.0+rev=4353b20 | Tree-sitter grammar for ziggy | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ziggy |
 | vimplugin-nvim-treesitter-grammar-ziggy_schema | 0.0.0+rev=4353b20 | Tree-sitter grammar for ziggy_schema | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.ziggy_schema |
-| vimplugin-nvim-treesitter-grammar-ziggy_schema | 0.0.0+rev=fe3bf93 | Tree-sitter grammar for ziggy_schema | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.ziggy_schema |
-| vimplugin-nvim-treesitter-grammar-zsh | 0.0.0+rev=v0.48.0 | Tree-sitter grammar for zsh | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy-parsers.zsh |
 | vimplugin-nvim-treesitter-grammar-zsh | 0.0.0+rev=v0.53.0 | Tree-sitter grammar for zsh | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-parsers.zsh |
 | vimplugin-nvim-treesitter-legacy | 0.10.0-unstable-2025-05-24 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-legacy |
 | vimplugin-nvim-treesitter-locals | 0-unstable-2025-11-28 |  | legacyPackages.x86_64-linux.vimPlugins.nvim-treesitter-locals |
@@ -101947,7 +101617,7 @@
 | vscode-extension-dhall-dhall-lang | 0.0.4 |  | legacyPackages.x86_64-linux.vscode-extensions.dhall.dhall-lang |
 | vscode-extension-dhall-vscode-dhall-lsp-server | 0.0.4 |  | legacyPackages.x86_64-linux.vscode-extensions.dhall.vscode-dhall-lsp-server |
 | vscode-extension-dhedgecock-radical-vscode | 3.3.1 | Dark theme for radical hacking inspired by retro futuristic design | legacyPackages.x86_64-linux.vscode-extensions.dhedgecock.radical-vscode |
-| vscode-extension-discloud-discloud | 2.27.9 | Visual Studio Code extension for hosting and managing applications on Discloud | legacyPackages.x86_64-linux.vscode-extensions.discloud.discloud |
+| vscode-extension-discloud-discloud | 2.27.12 | Visual Studio Code extension for hosting and managing applications on Discloud | legacyPackages.x86_64-linux.vscode-extensions.discloud.discloud |
 | vscode-extension-disneystreaming-smithy | 0.0.14 |  | legacyPackages.x86_64-linux.vscode-extensions.disneystreaming.smithy |
 | vscode-extension-docker-docker | 0.18.0 | Official Docker DX (Developer Experience) extension. Edit smarter, ship faster with an enhanced Docker-development experience. | legacyPackages.x86_64-linux.vscode-extensions.docker.docker |
 | vscode-extension-donjayamanne-githistory | 0.6.20 | View git log, file history, compare branches or commits | legacyPackages.x86_64-linux.vscode-extensions.donjayamanne.githistory |
@@ -101982,7 +101652,7 @@
 | vscode-extension-funkyremi-vscode-google-translate | 1.5.0 | Visual Studio Code extension using google translation to helping you quickly translate text right in your code rocket | legacyPackages.x86_64-linux.vscode-extensions.funkyremi.vscode-google-translate |
 | vscode-extension-garlicbreadcleric-pandoc-markdown-syntax | 0.0.2 | VSCode extension that adds syntax highlighting for Pandoc-flavored Markdown | legacyPackages.x86_64-linux.vscode-extensions.garlicbreadcleric.pandoc-markdown-syntax |
 | vscode-extension-geequlim-godot-tools | 2.6.0 | VS Code extension for game development with Godot Engine and GDScript | legacyPackages.x86_64-linux.vscode-extensions.geequlim.godot-tools |
-| vscode-extension-gemini-cli-vscode-ide-companion | 0.25.2 | Enable Gemini CLI with direct access to your IDE workspace | legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion |
+| vscode-extension-gemini-cli-vscode-ide-companion | 0.26.0 | Enable Gemini CLI with direct access to your IDE workspace | legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion |
 | vscode-extension-gencer-html-slim-scss-css-class-completion | 1.7.8 | VSCode extension for SCSS | legacyPackages.x86_64-linux.vscode-extensions.gencer.html-slim-scss-css-class-completion |
 | vscode-extension-genieai-chatgpt-vscode | 0.0.13 | Visual Studio Code extension to support ChatGPT, GPT-3 and Codex conversations | legacyPackages.x86_64-linux.vscode-extensions.genieai.chatgpt-vscode |
 | vscode-extension-github-codespaces | 1.18.5 | VSCode extensions that provides cloud-hosted development environments for any activity | legacyPackages.x86_64-linux.vscode-extensions.github.codespaces |
@@ -102073,7 +101743,7 @@
 | vscode-extension-mongodb-mongodb-vscode | 1.14.6 | Extension for VS Code that makes it easy to work with your data in MongoDB | legacyPackages.x86_64-linux.vscode-extensions.mongodb.mongodb-vscode |
 | vscode-extension-moshfeu-compare-folders | 0.25.3 | Extension allows you to compare folders, show the diffs in a list and present diff in a splitted view side by side | legacyPackages.x86_64-linux.vscode-extensions.moshfeu.compare-folders |
 | vscode-extension-ms-azuretools-vscode-bicep | 0.38.33 | Visual Studio Code extension for Bicep language | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-bicep |
-| vscode-extension-ms-azuretools-vscode-containers | 2.4.0 | Container Tools Extension for Visual Studio Code  | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-containers |
+| vscode-extension-ms-azuretools-vscode-containers | 2.4.1 | Container Tools Extension for Visual Studio Code  | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-containers |
 | vscode-extension-ms-azuretools-vscode-docker | 2.0.0 | Docker Extension for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.ms-azuretools.vscode-docker |
 | vscode-extension-ms-dotnettools-csdevkit | 1.80.7 | Official Visual Studio Code extension for C# from Microsoft | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.csdevkit |
 | vscode-extension-ms-dotnettools-csharp | 2.93.22 | Official C# support for Visual Studio Code | legacyPackages.x86_64-linux.vscode-extensions.ms-dotnettools.csharp |
@@ -102178,7 +101848,7 @@
 | vscode-extension-skyapps-fish-vscode | 0.2.1 |  | legacyPackages.x86_64-linux.vscode-extensions.skyapps.fish-vscode |
 | vscode-extension-slevesque-vscode-multiclip | 0.1.5 |  | legacyPackages.x86_64-linux.vscode-extensions.slevesque.vscode-multiclip |
 | vscode-extension-smcpeak-default-keys-windows | 1.0.0 | VSCode extension that provides default Windows keybindings on any platform | legacyPackages.x86_64-linux.vscode-extensions.smcpeak.default-keys-windows |
-| vscode-extension-sonarsource-sonarlint-vscode | 4.40.0 |  | legacyPackages.x86_64-linux.vscode-extensions.sonarsource.sonarlint-vscode |
+| vscode-extension-sonarsource-sonarlint-vscode | 4.42.0 |  | legacyPackages.x86_64-linux.vscode-extensions.sonarsource.sonarlint-vscode |
 | vscode-extension-sourcegraph-amp | 0.0.1769991964 | Amp is a frontier coding agent for your editor and terminal, built by Sourcegraph. | legacyPackages.x86_64-linux.vscode-extensions.sourcegraph.amp |
 | vscode-extension-sourcery-sourcery | 1.37.0 | VSCode extension for Sourcery, an AI-powered code review and pair programming tool for Python | legacyPackages.x86_64-linux.vscode-extensions.sourcery.sourcery |
 | vscode-extension-spywhere-guides | 0.9.3 |  | legacyPackages.x86_64-linux.vscode-extensions.spywhere.guides |
@@ -102709,7 +102379,7 @@
 | wdfs-fuse | 1.4.2 | User-space filesystem that allows to mount a webdav share | legacyPackages.x86_64-linux.wdfs |
 | wdiff | 1.2.2 | Comparing files on a word by word basis | legacyPackages.x86_64-linux.wdiff |
 | wdisplays | 1.1.3 | Graphical application for configuring displays in Wayland compositors | legacyPackages.x86_64-linux.wdisplays |
-| wdt | 1.27.1612021-unstable-2026-01-12 | Warp speed Data Transfer | legacyPackages.x86_64-linux.wdt |
+| wdt | 1.27.1612021-unstable-2026-01-28 | Warp speed Data Transfer | legacyPackages.x86_64-linux.wdt |
 | weak | 0 | Weak pointer extas | legacyPackages.x86_64-linux.haskellPackages.weak |
 | weak-bag | 0.1.0.0 | Mutable bag backed by weak pointers to each item | legacyPackages.x86_64-linux.haskellPackages.weak-bag |
 | wealthfolio | 2.1.0 | Beautiful Private and Secure Desktop Investment Tracking Application | legacyPackages.x86_64-linux.wealthfolio |
@@ -103314,7 +102984,7 @@
 | woof-doom | 15.3.0 | Doom source port based on Boom/MBF | legacyPackages.x86_64-linux.woof-doom |
 | woomer | 0.2.0 | Zoomer application for Wayland inspired by tsoding's boomer | legacyPackages.x86_64-linux.woomer |
 | woot | 0.0.0.6 | Real time group editor without operational transform | legacyPackages.x86_64-linux.haskellPackages.woot |
-| wootility | 5.2.3 | Customization and management software for Wooting keyboards | legacyPackages.x86_64-linux.wootility |
+| wootility | 5.2.4 | Customization and management software for Wooting keyboards | legacyPackages.x86_64-linux.wootility |
 | wooting-udev-rules | 0-unstable-2024-11-20 | udev rules that give NixOS permission to communicate with Wooting keyboards | legacyPackages.x86_64-linux.wooting-udev-rules |
 | wooz | 0-unstable-2025-10-08 | Zoom / magnifier utility for wayland compositors | legacyPackages.x86_64-linux.wooz |
 | word | 0.1.0.1 | Words of arbitrary size | legacyPackages.x86_64-linux.haskellPackages.word |
@@ -103553,7 +103223,7 @@
 | wss-client | 0.3.0.0 | A-little-higher-level WebSocket client | legacyPackages.x86_64-linux.haskellPackages.wss-client |
 | wstsound | 0.3.0-unstable-2025-07-21 | Windstille Sound Library | legacyPackages.x86_64-linux.wstsound |
 | wstunnel | 0.5.1.0 | Tunneling program over websocket protocol | legacyPackages.x86_64-linux.haskellPackages.wstunnel |
-| wstunnel | 10.5.1 | Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI | legacyPackages.x86_64-linux.wstunnel |
+| wstunnel | 10.5.2 | Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI | legacyPackages.x86_64-linux.wstunnel |
 | wsuipa | 25469 | International Phonetic Alphabet fonts | legacyPackages.x86_64-linux.texlivePackages.wsuipa |
 | wsysmon | 0.1.0 | Windows task manager clone for Linux | legacyPackages.x86_64-linux.wsysmon |
 | wt | 4.12.0 | C++ library for developing web applications | legacyPackages.x86_64-linux.wt |
@@ -104961,7 +104631,7 @@
 | yarGen | 0.23.4 | Generator for YARA rules | legacyPackages.x86_64-linux.yarGen |
 | yara | 4.5.5 | Tool to perform pattern matching for malware-related tasks | legacyPackages.x86_64-linux.yara |
 | yara-x | 1.12.0 | Tool to do pattern matching for malware research | legacyPackages.x86_64-linux.yara-x |
-| yaralyzer | 1.3.10 | Tool to visually inspect and force decode YARA and regex matches | legacyPackages.x86_64-linux.yaralyzer |
+| yaralyzer | 1.3.17 | Tool to visually inspect and force decode YARA and regex matches | legacyPackages.x86_64-linux.yaralyzer |
 | yarg | 0.13.2 | Free, open-source, plastic guitar game | legacyPackages.x86_64-linux.yarg |
 | yarl | 0.1.1.0 | Yet another records libraries | legacyPackages.x86_64-linux.haskellPackages.yarl |
 | yarn | 1.22.22 | Fast, reliable, and secure dependency management for javascript | legacyPackages.x86_64-linux.nodePackages.yarn |
