@@ -18792,7 +18792,7 @@
   "legacyPackages.x86_64-linux.camunda-modeler": {
     "description": "Integrated modeling solution for BPMN, DMN and Forms based on bpmn.io",
     "pname": "camunda-modeler",
-    "version": "5.43.1"
+    "version": "5.44.0"
   },
   "legacyPackages.x86_64-linux.can-utils": {
     "description": "CAN userspace utilities and tools (for use with Linux SocketCAN)",
@@ -27452,7 +27452,7 @@
   "legacyPackages.x86_64-linux.constructium": {
     "description": "Fork of SIL Gentium designed specifically to support constructed scripts as encoded in the Under-ConScript Unicode Registry",
     "pname": "open-relay-constructium",
-    "version": "2025-09-01"
+    "version": "2026-02-08"
   },
   "legacyPackages.x86_64-linux.construo": {
     "description": "Masses and springs simulation game",
@@ -27772,7 +27772,7 @@
   "legacyPackages.x86_64-linux.coqPackages.CoLoR": {
     "description": "CoLoR is a library of formal mathematical definitions and proofs of theorems on rewriting theory and termination whose correctness has been mechanically checked by the Coq proof assistant",
     "pname": "coq9.0-color",
-    "version": "1.8.5"
+    "version": "1.8.6"
   },
   "legacyPackages.x86_64-linux.coqPackages.ExtLib": {
     "description": "Collection of theories and plugins that may be useful in other Coq developments",
@@ -29427,12 +29427,12 @@
   "legacyPackages.x86_64-linux.crossmacro": {
     "description": "Cross-platform mouse and keyboard macro recorder and player",
     "pname": "crossmacro",
-    "version": "0.9.6"
+    "version": "0.9.7"
   },
   "legacyPackages.x86_64-linux.crossmacro-daemon": {
     "description": "Privileged input daemon for CrossMacro",
     "pname": "crossmacro-daemon",
-    "version": "0.9.6"
+    "version": "0.9.7"
   },
   "legacyPackages.x86_64-linux.crossplane": {
     "description": "NGINX configuration file parser and builder",
@@ -30752,7 +30752,7 @@
   "legacyPackages.x86_64-linux.cutemaze": {
     "description": "Simple, top-down game in which mazes are randomly generated",
     "pname": "cutemaze",
-    "version": "1.3.5"
+    "version": "1.3.6"
   },
   "legacyPackages.x86_64-linux.cutentr": {
     "description": "3DS streaming client for Linux",
@@ -32927,12 +32927,12 @@
   "legacyPackages.x86_64-linux.deltachat-repl": {
     "description": "Delta Chat CLI client",
     "pname": "deltachat-repl",
-    "version": "2.41.0"
+    "version": "2.42.0"
   },
   "legacyPackages.x86_64-linux.deltachat-rpc-server": {
     "description": "Delta Chat RPC server exposing JSON-RPC core API over standard I/O",
     "pname": "deltachat-rpc-server",
-    "version": "2.41.0"
+    "version": "2.42.0"
   },
   "legacyPackages.x86_64-linux.deltatouch": {
     "description": "Messaging app for Ubuntu Touch, powered by Delta Chat core",
@@ -41362,12 +41362,12 @@
   "legacyPackages.x86_64-linux.fairfax": {
     "description": "6×12 bitmap font supporting many Unicode blocks & scripts as well as constructed scripts",
     "pname": "open-relay-fairfax",
-    "version": "2025-09-01"
+    "version": "2026-02-08"
   },
   "legacyPackages.x86_64-linux.fairfax-hd": {
     "description": "Halfwidth scalable monospace font supporting many Unicode blocks & script as well as constructed scripts",
     "pname": "open-relay-fairfax-hd",
-    "version": "2025-09-01"
+    "version": "2026-02-08"
   },
   "legacyPackages.x86_64-linux.fairymax": {
     "description": "Small chess engine supporting fairy pieces",
@@ -43607,7 +43607,7 @@
   "legacyPackages.x86_64-linux.fixup-yarn-lock": {
     "description": "",
     "pname": "fixup-yarn-lock",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.fixup_yarn_lock": {
     "description": "",
@@ -45837,7 +45837,7 @@
   "legacyPackages.x86_64-linux.fresh-editor": {
     "description": "Terminal-based text editor with LSP support and TypeScript plugins",
     "pname": "fresh",
-    "version": "0.1.99"
+    "version": "0.2.1"
   },
   "legacyPackages.x86_64-linux.freshfetch": {
     "description": "Fresh take on neofetch",
@@ -57337,12 +57337,12 @@
   "legacyPackages.x86_64-linux.go_1_26": {
     "description": "Go Programming language",
     "pname": "go",
-    "version": "1.26rc3"
+    "version": "1.26.0"
   },
   "legacyPackages.x86_64-linux.go_latest": {
     "description": "Go Programming language",
     "pname": "go",
-    "version": "1.25.5"
+    "version": "1.26.0"
   },
   "legacyPackages.x86_64-linux.goa": {
     "description": "Design-based APIs and microservices in Go",
@@ -61782,7 +61782,7 @@
   "legacyPackages.x86_64-linux.handheld-daemon": {
     "description": "Linux support for handheld gaming devices like the Legion Go, ROG Ally, and GPD Win",
     "pname": "handheld-daemon",
-    "version": "4.1.6"
+    "version": "4.1.8"
   },
   "legacyPackages.x86_64-linux.handheld-daemon-ui": {
     "description": "UI for the Handheld Daemon",
@@ -158267,7 +158267,7 @@
   "legacyPackages.x86_64-linux.hello-cpp": {
     "description": "Basic sanity check that C++ and cmake infrastructure are working",
     "pname": "hello-cpp",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.hello-go": {
     "description": "Simple program printing hello world in Go",
@@ -161997,7 +161997,7 @@
   "legacyPackages.x86_64-linux.hyprpwcenter": {
     "description": "A GUI Pipewire control center",
     "pname": "hyprpwcenter",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "legacyPackages.x86_64-linux.hyprshade": {
     "description": "Hyprland shade configuration tool",
@@ -173452,7 +173452,7 @@
   "legacyPackages.x86_64-linux.kreative-square": {
     "description": "Fullwidth scalable monospace font designed specifically to support pseudographics, semigraphics, and private use characters",
     "pname": "open-relay-kreative-square",
-    "version": "2025-09-01"
+    "version": "2026-02-08"
   },
   "legacyPackages.x86_64-linux.krelay": {
     "description": "Drop-in replacement for `kubectl port-forward` with some enhanced features",
@@ -176752,7 +176752,7 @@
   "legacyPackages.x86_64-linux.libdeltachat": {
     "description": "Delta Chat Rust Core library",
     "pname": "libdeltachat",
-    "version": "2.41.0"
+    "version": "2.42.0"
   },
   "legacyPackages.x86_64-linux.libdex": {
     "description": "Library supporting deferred execution for GNOME and GTK",
@@ -177161,7 +177161,7 @@
   },
   "legacyPackages.x86_64-linux.libfakeXinerama": {
     "description": "fakeXinerama for Xpra",
-    "pname": "libfakeXinerama",
+    "pname": "libfakexinerama",
     "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.libfakekey": {
@@ -177173,6 +177173,11 @@
     "description": "Report faked system time to programs without having to change the system-wide time",
     "pname": "libfaketime",
     "version": "0.9.11"
+  },
+  "legacyPackages.x86_64-linux.libfakexinerama": {
+    "description": "fakeXinerama for Xpra",
+    "pname": "libfakexinerama",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.libfann": {
     "description": "Fast Artificial Neural Network Library",
@@ -178312,7 +178317,7 @@
   "legacyPackages.x86_64-linux.liblsl": {
     "description": "C++ lsl library for multi-modal time-synched data transmission over the local network",
     "pname": "liblsl",
-    "version": "1.16.2"
+    "version": "1.17.5"
   },
   "legacyPackages.x86_64-linux.libltc": {
     "description": "POSIX-C Library for handling Linear/Logitudinal Time Code (LTC)",
@@ -183637,7 +183642,7 @@
   "legacyPackages.x86_64-linux.lintspec": {
     "description": "Blazingly fast linter for NatSpec comments in Solidity code",
     "pname": "lintspec",
-    "version": "0.12.2"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.linux": {
     "description": "The Linux kernel (with patches: bridge-stp-helper, request-key-helper)",
@@ -203322,7 +203327,7 @@
   "legacyPackages.x86_64-linux.lmstudio": {
     "description": "LM Studio is an easy to use desktop app for experimenting with local and open-source Large Language Models (LLMs)",
     "pname": "lmstudio",
-    "version": "0.4.1-1"
+    "version": "0.4.2-2"
   },
   "legacyPackages.x86_64-linux.lnav": {
     "description": "Logfile Navigator",
@@ -214027,7 +214032,7 @@
   "legacyPackages.x86_64-linux.mcstatus": {
     "description": "Python library for checking the status of Minecraft servers",
     "pname": "mcstatus",
-    "version": "12.1.0"
+    "version": "12.2.0"
   },
   "legacyPackages.x86_64-linux.mctc-lib": {
     "description": "Modular computation tool chain library",
@@ -214978,11 +214983,6 @@
     "description": "Evolutionary simulation framework",
     "pname": "messer-slim",
     "version": "5.1"
-  },
-  "legacyPackages.x86_64-linux.metaBuildEnv": {
-    "description": "",
-    "pname": "meta-build-env",
-    "version": "0.1"
   },
   "legacyPackages.x86_64-linux.metabase": {
     "description": "Business Intelligence and Embedded Analytics tool",
@@ -217357,7 +217357,7 @@
   "legacyPackages.x86_64-linux.mollysocket": {
     "description": "Get Signal notifications via UnifiedPush",
     "pname": "mollysocket",
-    "version": "1.6.0"
+    "version": "1.7.0"
   },
   "legacyPackages.x86_64-linux.molot-lite": {
     "description": "Stereo and mono audio signal dynamic range compressor in LV2 format",
@@ -220282,7 +220282,7 @@
   "legacyPackages.x86_64-linux.naja": {
     "description": "Structural Netlist API (and more) for EDA post synthesis flow development",
     "pname": "naja",
-    "version": "0.3.6"
+    "version": "0.4.0"
   },
   "legacyPackages.x86_64-linux.nak": {
     "description": "Command-line tool for Nostr things",
@@ -220692,7 +220692,7 @@
   "legacyPackages.x86_64-linux.ncbi-vdb": {
     "description": "Libraries for the INSDC Sequence Read Archives",
     "pname": "ncbi-vdb",
-    "version": "3.2.1"
+    "version": "3.3.0"
   },
   "legacyPackages.x86_64-linux.ncdc": {
     "description": "Modern and lightweight direct connect client with a friendly ncurses interface",
@@ -222917,17 +222917,17 @@
   "legacyPackages.x86_64-linux.nix-prefetch-bzr": {
     "description": "Script used to obtain source hashes for fetchbzr",
     "pname": "nix-prefetch-bzr",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nix-prefetch-cvs": {
     "description": "Script used to obtain source hashes for fetchcvs",
     "pname": "nix-prefetch-cvs",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nix-prefetch-darcs": {
     "description": "Script used to obtain source hashes for fetchdarcs",
     "pname": "nix-prefetch-darcs",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nix-prefetch-docker": {
     "description": "Script used to obtain source hashes for dockerTools.pullImage",
@@ -222937,7 +222937,7 @@
   "legacyPackages.x86_64-linux.nix-prefetch-git": {
     "description": "Script used to obtain source hashes for fetchgit",
     "pname": "nix-prefetch-git",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nix-prefetch-github": {
     "description": "Prefetch sources from github",
@@ -222947,12 +222947,12 @@
   "legacyPackages.x86_64-linux.nix-prefetch-hg": {
     "description": "Script used to obtain source hashes for fetchhg",
     "pname": "nix-prefetch-hg",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nix-prefetch-pijul": {
     "description": "Script used to obtain source hashes for fetchpijul",
     "pname": "nix-prefetch-pijul",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nix-prefetch-scripts": {
     "description": "Collection of all the nix-prefetch-* scripts which may be used to obtain source hashes",
@@ -222962,7 +222962,7 @@
   "legacyPackages.x86_64-linux.nix-prefetch-svn": {
     "description": "Script used to obtain source hashes for fetchsvn",
     "pname": "nix-prefetch-svn",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nix-query-tree-viewer": {
     "description": "GTK viewer for the output of `nix store --query --tree`",
@@ -222997,7 +222997,7 @@
   "legacyPackages.x86_64-linux.nix-search-tv": {
     "description": "Fuzzy search for Nix packages",
     "pname": "nix-search-tv",
-    "version": "2.2.4"
+    "version": "2.2.6"
   },
   "legacyPackages.x86_64-linux.nix-serve": {
     "description": "Utility for sharing a Nix store as a binary cache",
@@ -223562,7 +223562,7 @@
   "legacyPackages.x86_64-linux.nixpkgs-manual": {
     "description": "",
     "pname": "nixpkgs-manual",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.nixpkgs-openjdk-updater": {
     "description": "Updater for Nixpkgs OpenJDK packages",
@@ -233592,7 +233592,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.ocp-browser": {
     "description": "Console browser for the documentation of installed OCaml libraries",
     "pname": "ocaml5.3.0-ocp-browser",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.ocp-build": {
     "description": "Build tool for OCaml",
@@ -240357,7 +240357,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ocp-browser": {
     "description": "Console browser for the documentation of installed OCaml libraries",
     "pname": "ocaml5.4.0-ocp-browser",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ocp-build": {
     "description": "Build tool for OCaml",
@@ -242707,7 +242707,7 @@
   "legacyPackages.x86_64-linux.ocm": {
     "description": "CLI for the Red Hat OpenShift Cluster Manager",
     "pname": "ocm",
-    "version": "1.0.10"
+    "version": "1.0.11"
   },
   "legacyPackages.x86_64-linux.ocproxy": {
     "description": "OpenConnect proxy",
@@ -243597,12 +243597,12 @@
   "legacyPackages.x86_64-linux.olympus": {
     "description": "Cross-platform GUI Everest installer and Celeste mod manager",
     "pname": "olympus",
-    "version": "26.02.04.01"
+    "version": "26.02.04.03"
   },
   "legacyPackages.x86_64-linux.olympus-unwrapped": {
     "description": "Cross-platform GUI Everest installer and Celeste mod manager",
     "pname": "olympus-unwrapped",
-    "version": "26.02.04.01"
+    "version": "26.02.04.03"
   },
   "legacyPackages.x86_64-linux.om4": {
     "description": "Portable OpenBSD m4 macro processor",
@@ -243917,7 +243917,7 @@
   "legacyPackages.x86_64-linux.ooniprobe-cli": {
     "description": "Open Observatory of Network Interference command line network probe",
     "pname": "ooniprobe-cli",
-    "version": "3.28.0"
+    "version": "3.29.0"
   },
   "legacyPackages.x86_64-linux.op-geth": {
     "description": "",
@@ -246557,7 +246557,7 @@
   "legacyPackages.x86_64-linux.osslsigncode": {
     "description": "OpenSSL based Authenticode signing for PE/MSI/Java CAB files",
     "pname": "osslsigncode",
-    "version": "2.12"
+    "version": "2.13"
   },
   "legacyPackages.x86_64-linux.ossutil": {
     "description": "User friendly command line tool to access Alibaba Cloud OSS",
@@ -276102,7 +276102,7 @@
   "legacyPackages.x86_64-linux.ponyc": {
     "description": "Pony is an Object-oriented, actor-model, capabilities-secure, high performance programming language",
     "pname": "ponyc",
-    "version": "0.60.5"
+    "version": "0.60.6"
   },
   "legacyPackages.x86_64-linux.ponymix": {
     "description": "CLI PulseAudio Volume Control",
@@ -276437,7 +276437,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_graphql": {
     "description": "GraphQL support for PostgreSQL",
     "pname": "pg_graphql",
-    "version": "1.5.12-unstable-2025-09-01"
+    "version": "1.5.12"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_hint_plan": {
     "description": "Extension to tweak PostgreSQL execution plans using so-called 'hints' in SQL comments",
@@ -276792,7 +276792,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_graphql": {
     "description": "GraphQL support for PostgreSQL",
     "pname": "pg_graphql",
-    "version": "1.5.12-unstable-2025-09-01"
+    "version": "1.5.12"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_hint_plan": {
     "description": "Extension to tweak PostgreSQL execution plans using so-called 'hints' in SQL comments",
@@ -277147,7 +277147,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_graphql": {
     "description": "GraphQL support for PostgreSQL",
     "pname": "pg_graphql",
-    "version": "1.5.12-unstable-2025-09-01"
+    "version": "1.5.12"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_hint_plan": {
     "description": "Extension to tweak PostgreSQL execution plans using so-called 'hints' in SQL comments",
@@ -277502,7 +277502,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_graphql": {
     "description": "GraphQL support for PostgreSQL",
     "pname": "pg_graphql",
-    "version": "1.5.12-unstable-2025-09-01"
+    "version": "1.5.12"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_hint_plan": {
     "description": "Extension to tweak PostgreSQL execution plans using so-called 'hints' in SQL comments",
@@ -277857,7 +277857,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_graphql": {
     "description": "GraphQL support for PostgreSQL",
     "pname": "pg_graphql",
-    "version": "1.5.12-unstable-2025-09-01"
+    "version": "1.5.12"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_hint_plan": {
     "description": "Extension to tweak PostgreSQL execution plans using so-called 'hints' in SQL comments",
@@ -278212,7 +278212,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_graphql": {
     "description": "GraphQL support for PostgreSQL",
     "pname": "pg_graphql",
-    "version": "1.5.12-unstable-2025-09-01"
+    "version": "1.5.12"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_hint_plan": {
     "description": "Extension to tweak PostgreSQL execution plans using so-called 'hints' in SQL comments",
@@ -278892,7 +278892,7 @@
   "legacyPackages.x86_64-linux.prefetch-yarn-deps": {
     "description": "",
     "pname": "prefetch-yarn-deps",
-    "version": "26.05.20260211.c05d223"
+    "version": "26.05.20260211.8482c7d"
   },
   "legacyPackages.x86_64-linux.prek": {
     "description": "Better `pre-commit`, re-engineered in Rust ",
@@ -281812,7 +281812,7 @@
   "legacyPackages.x86_64-linux.python313Packages.agentic-threat-hunting-framework": {
     "description": "Framework for agentic threat hunting",
     "pname": "python3.13-agentic-threat-hunting-framework",
-    "version": "0.7.0"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.aggdraw": {
     "description": "High quality drawing interface for PIL",
@@ -282737,7 +282737,7 @@
   "legacyPackages.x86_64-linux.python313Packages.aiostreammagic": {
     "description": "Module for interfacing with Cambridge Audio/Stream Magic compatible streamers",
     "pname": "python3.13-aiostreammagic",
-    "version": "2.11.0"
+    "version": "2.12.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.aioswitcher": {
     "description": "Python module to interact with Switcher water heater",
@@ -282962,7 +282962,7 @@
   "legacyPackages.x86_64-linux.python313Packages.alexapy": {
     "description": "Python Package for controlling Alexa devices (echo dot, etc) programmatically",
     "pname": "python3.13-alexapy",
-    "version": "1.29.15"
+    "version": "1.29.16"
   },
   "legacyPackages.x86_64-linux.python313Packages.algebraic-data-types": {
     "description": "Algebraic data types for Python",
@@ -290232,12 +290232,12 @@
   "legacyPackages.x86_64-linux.python313Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.13-deltachat",
-    "version": "2.41.0"
+    "version": "2.42.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.13-deltachat-rpc-client",
-    "version": "2.41.0"
+    "version": "2.42.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -303367,7 +303367,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mcstatus": {
     "description": "Python library for checking the status of Minecraft servers",
     "pname": "python3.13-mcstatus",
-    "version": "12.1.0"
+    "version": "12.2.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.mcuuid": {
     "description": "Getting Minecraft player information from Mojang API",
@@ -304197,7 +304197,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mkdocs-include-markdown-plugin": {
     "description": "Mkdocs Markdown includer plugin",
     "pname": "python3.13-mkdocs-include-markdown-plugin",
-    "version": "7.2.0"
+    "version": "7.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.mkdocs-jupyter": {
     "description": "Use Jupyter Notebook in mkdocs",
@@ -316852,7 +316852,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysrdaligateway": {
     "description": "Python library for Sunricher DALI Gateway (EDA)",
     "pname": "python3.13-pysrdaligateway",
-    "version": "0.19.3"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysrim": {
     "description": "Srim Automation of Tasks via Python",
@@ -330717,7 +330717,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ultralytics": {
     "description": "Train YOLO models for computer vision tasks",
     "pname": "python3.13-ultralytics",
-    "version": "8.4.13"
+    "version": "8.4.14"
   },
   "legacyPackages.x86_64-linux.python313Packages.ultralytics-thop": {
     "description": "Profile PyTorch models by computing the number of Multiply-Accumulate Operations (MACs) and parameters",
@@ -331222,7 +331222,7 @@
   "legacyPackages.x86_64-linux.python313Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.13-uv",
-    "version": "0.10.0"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.uv-build": {
     "description": "Minimal build backend for uv",
@@ -333957,7 +333957,7 @@
   "legacyPackages.x86_64-linux.python314Packages.agentic-threat-hunting-framework": {
     "description": "Framework for agentic threat hunting",
     "pname": "python3.14-agentic-threat-hunting-framework",
-    "version": "0.7.0"
+    "version": "0.7.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.aggdraw": {
     "description": "High quality drawing interface for PIL",
@@ -334882,7 +334882,7 @@
   "legacyPackages.x86_64-linux.python314Packages.aiostreammagic": {
     "description": "Module for interfacing with Cambridge Audio/Stream Magic compatible streamers",
     "pname": "python3.14-aiostreammagic",
-    "version": "2.11.0"
+    "version": "2.12.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.aioswitcher": {
     "description": "Python module to interact with Switcher water heater",
@@ -335107,7 +335107,7 @@
   "legacyPackages.x86_64-linux.python314Packages.alexapy": {
     "description": "Python Package for controlling Alexa devices (echo dot, etc) programmatically",
     "pname": "python3.14-alexapy",
-    "version": "1.29.15"
+    "version": "1.29.16"
   },
   "legacyPackages.x86_64-linux.python314Packages.algebraic-data-types": {
     "description": "Algebraic data types for Python",
@@ -342372,12 +342372,12 @@
   "legacyPackages.x86_64-linux.python314Packages.deltachat": {
     "description": "Python bindings for the Delta Chat Core library",
     "pname": "python3.14-deltachat",
-    "version": "2.41.0"
+    "version": "2.42.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.deltachat-rpc-client": {
     "description": "Python client for Delta Chat core JSON-RPC interface",
     "pname": "python3.14-deltachat-rpc-client",
-    "version": "2.41.0"
+    "version": "2.42.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.deltachat2": {
     "description": "Client library for Delta Chat core JSON-RPC interface",
@@ -355507,7 +355507,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mcstatus": {
     "description": "Python library for checking the status of Minecraft servers",
     "pname": "python3.14-mcstatus",
-    "version": "12.1.0"
+    "version": "12.2.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.mcuuid": {
     "description": "Getting Minecraft player information from Mojang API",
@@ -356337,7 +356337,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mkdocs-include-markdown-plugin": {
     "description": "Mkdocs Markdown includer plugin",
     "pname": "python3.14-mkdocs-include-markdown-plugin",
-    "version": "7.2.0"
+    "version": "7.2.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.mkdocs-jupyter": {
     "description": "Use Jupyter Notebook in mkdocs",
@@ -368992,7 +368992,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pysrdaligateway": {
     "description": "Python library for Sunricher DALI Gateway (EDA)",
     "pname": "python3.14-pysrdaligateway",
-    "version": "0.19.3"
+    "version": "0.20.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysrim": {
     "description": "Srim Automation of Tasks via Python",
@@ -382857,7 +382857,7 @@
   "legacyPackages.x86_64-linux.python314Packages.ultralytics": {
     "description": "Train YOLO models for computer vision tasks",
     "pname": "python3.14-ultralytics",
-    "version": "8.4.13"
+    "version": "8.4.14"
   },
   "legacyPackages.x86_64-linux.python314Packages.ultralytics-thop": {
     "description": "Profile PyTorch models by computing the number of Multiply-Accumulate Operations (MACs) and parameters",
@@ -383362,7 +383362,7 @@
   "legacyPackages.x86_64-linux.python314Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.14-uv",
-    "version": "0.10.0"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.uv-build": {
     "description": "Minimal build backend for uv",
@@ -432282,7 +432282,7 @@
   "legacyPackages.x86_64-linux.sratoolkit": {
     "description": "Collection of tools and libraries for using data in the INSDC Sequence Read Archives",
     "pname": "sratoolkit",
-    "version": "3.2.1"
+    "version": "3.3.0"
   },
   "legacyPackages.x86_64-linux.srb2": {
     "description": "Sonic Robo Blast 2 is a 3D Sonic the Hedgehog fangame based on a modified version of Doom Legacy",
@@ -440311,8 +440311,8 @@
   },
   "legacyPackages.x86_64-linux.tests.fetchgit.prefetch-git-no-add-path": {
     "description": "",
-    "pname": "nix-prefetch-git-no-add-path-salted-k8ysgsdl93rf",
-    "version": ""
+    "pname": "nix-prefetch-git-no-add-path-salted",
+    "version": "58lhm2qwnjkm"
   },
   "legacyPackages.x86_64-linux.tests.fetchgit.rootDir": {
     "description": "",
@@ -440441,17 +440441,17 @@
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit": {
     "description": "",
-    "pname": "source-salted",
-    "version": "9vkrhnaf5yi5"
+    "pname": "source-salted-hvmiki2c78nj",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit-flattened": {
     "description": "",
-    "pname": "source-salted",
-    "version": "9vkrhnaf5yi5"
+    "pname": "source-salted-hvmiki2c78nj",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-rqbit-unflattened": {
     "description": "",
-    "pname": "source-salted-mgj7drchc1jd",
+    "pname": "source-salted-mqqzz04bf43c",
     "version": ""
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.http-link-transmission": {
@@ -440466,18 +440466,18 @@
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit": {
     "description": "",
-    "pname": "source-salted-rw322p1p24ps",
+    "pname": "source-salted-k2p02p4y7rns",
     "version": ""
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit-flattened": {
     "description": "",
-    "pname": "source-salted-rw322p1p24ps",
+    "pname": "source-salted-k2p02p4y7rns",
     "version": ""
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-rqbit-unflattened": {
     "description": "",
-    "pname": "source-salted",
-    "version": "77j0mb7gag71"
+    "pname": "source-salted-dpdgfna1jdn2",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.tests.fetchtorrent.magnet-link-transmission": {
     "description": "",
@@ -473277,7 +473277,7 @@
   "legacyPackages.x86_64-linux.texworks": {
     "description": "Simple TeX front-end program inspired by TeXShop",
     "pname": "texworks",
-    "version": "0.6.10"
+    "version": "0.6.11"
   },
   "legacyPackages.x86_64-linux.teyjus": {
     "description": "Efficient implementation of the Lambda Prolog language",
@@ -500199,6 +500199,11 @@
     "pname": "ultralist",
     "version": "1.7.0"
   },
+  "legacyPackages.x86_64-linux.ultralytics": {
+    "description": "Train YOLO models for computer vision tasks",
+    "pname": "ultralytics",
+    "version": "8.4.14"
+  },
   "legacyPackages.x86_64-linux.ultrastar-creator": {
     "description": "Ultrastar karaoke song creation tool",
     "pname": "ultrastar-creator",
@@ -501757,7 +501762,7 @@
   "legacyPackages.x86_64-linux.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "uv",
-    "version": "0.10.0"
+    "version": "0.10.2"
   },
   "legacyPackages.x86_64-linux.uv-sort": {
     "description": "Sort uv's dependencies alphabetically",
@@ -517657,7 +517662,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.streetsidesoftware.code-spell-checker": {
     "description": "Spelling checker for source code",
     "pname": "vscode-extension-streetsidesoftware-code-spell-checker",
-    "version": "4.4.0"
+    "version": "4.5.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.streetsidesoftware.code-spell-checker-french": {
     "description": "French dictionary extension for VS Code",
