@@ -4487,7 +4487,7 @@
   "legacyPackages.x86_64-linux.amneziawg-tools": {
     "description": "Tools for configuring AmneziaWG",
     "pname": "amneziawg-tools",
-    "version": "1.0.20250903"
+    "version": "1.0.20260223"
   },
   "legacyPackages.x86_64-linux.amoco": {
     "description": "Tool for analysing binaries",
@@ -24937,12 +24937,12 @@
   "legacyPackages.x86_64-linux.chromedriver": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "chromedriver-unwrapped",
-    "version": "145.0.7632.109"
+    "version": "145.0.7632.116"
   },
   "legacyPackages.x86_64-linux.chromium": {
     "description": "Open source web browser from Google",
     "pname": "chromium",
-    "version": "145.0.7632.109"
+    "version": "145.0.7632.116"
   },
   "legacyPackages.x86_64-linux.chromium-bsu": {
     "description": "Fast paced, arcade-style, top-scrolling space shooter",
@@ -27347,7 +27347,7 @@
   "legacyPackages.x86_64-linux.commitlint": {
     "description": "Lint your commit messages",
     "pname": "commitlint",
-    "version": "20.4.1"
+    "version": "20.4.2"
   },
   "legacyPackages.x86_64-linux.commitlint-rs": {
     "description": "Lint commit messages with conventional commit messages",
@@ -28867,22 +28867,22 @@
   "legacyPackages.x86_64-linux.cosmic-applets": {
     "description": "Applets for the COSMIC Desktop Environment",
     "pname": "cosmic-applets",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-applibrary": {
     "description": "Application Template for the COSMIC Desktop Environment",
     "pname": "cosmic-applibrary",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-bg": {
     "description": "Applies Background for the COSMIC Desktop Environment",
     "pname": "cosmic-bg",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-comp": {
     "description": "Compositor for the COSMIC Desktop Environment",
     "pname": "cosmic-comp",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-design-demo": {
     "description": "Design Demo for the COSMIC Desktop Environment",
@@ -28892,7 +28892,7 @@
   "legacyPackages.x86_64-linux.cosmic-edit": {
     "description": "Text Editor for the COSMIC Desktop Environment",
     "pname": "cosmic-edit",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-ext-applet-caffeine": {
     "description": "Caffeine Applet for the COSMIC desktop",
@@ -28942,52 +28942,52 @@
   "legacyPackages.x86_64-linux.cosmic-files": {
     "description": "File Manager for the COSMIC Desktop Environment",
     "pname": "cosmic-files",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-greeter": {
     "description": "Greeter for the COSMIC Desktop Environment",
     "pname": "cosmic-greeter",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-icons": {
     "description": "System76 Cosmic icon theme for Linux",
     "pname": "cosmic-icons",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-idle": {
     "description": "Idle daemon for the COSMIC Desktop Environment",
     "pname": "cosmic-idle",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-initial-setup": {
     "description": "COSMIC Initial Setup",
     "pname": "cosmic-initial-setup",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-launcher": {
     "description": "Launcher for the COSMIC Desktop Environment",
     "pname": "cosmic-launcher",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-notifications": {
     "description": "Notifications for the COSMIC Desktop Environment",
     "pname": "cosmic-notifications",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-osd": {
     "description": "OSD for the COSMIC Desktop Environment",
     "pname": "cosmic-osd",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-panel": {
     "description": "Panel for the COSMIC Desktop Environment",
     "pname": "cosmic-panel",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-player": {
     "description": "Media player for the COSMIC Desktop Environment",
     "pname": "cosmic-player",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-protocols": {
     "description": "Additional wayland-protocols used by the COSMIC desktop environment",
@@ -28997,7 +28997,7 @@
   "legacyPackages.x86_64-linux.cosmic-randr": {
     "description": "Library and utility for displaying and configuring Wayland outputs",
     "pname": "cosmic-randr",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-reader": {
     "description": "PDF reader for the COSMIC Desktop Environment",
@@ -29007,42 +29007,42 @@
   "legacyPackages.x86_64-linux.cosmic-screenshot": {
     "description": "Screenshot tool for the COSMIC Desktop Environment",
     "pname": "cosmic-screenshot",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-session": {
     "description": "Session manager for the COSMIC desktop environment",
     "pname": "cosmic-session",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-settings": {
     "description": "Settings for the COSMIC Desktop Environment",
     "pname": "cosmic-settings",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-settings-daemon": {
     "description": "Settings Daemon for the COSMIC Desktop Environment",
     "pname": "cosmic-settings-daemon",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-store": {
     "description": "App Store for the COSMIC Desktop Environment",
     "pname": "cosmic-store",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-term": {
     "description": "Terminal for the COSMIC Desktop Environment",
     "pname": "cosmic-term",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-wallpapers": {
     "description": "Wallpapers for the COSMIC Desktop Environment",
     "pname": "cosmic-wallpapers",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmic-workspaces-epoch": {
     "description": "Workspaces Epoch for the COSMIC Desktop Environment",
     "pname": "cosmic-workspaces-epoch",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.cosmocc": {
     "description": "Compilers for Cosmopolitan C/C++ programs",
@@ -45859,6 +45859,11 @@
     "pname": "fossil",
     "version": "2.27"
   },
+  "legacyPackages.x86_64-linux.fotema": {
+    "description": "Photo gallery for Linux",
+    "pname": "fotema",
+    "version": "2.4.1"
+  },
   "legacyPackages.x86_64-linux.foundationdb": {
     "description": "Open source, distributed, transactional key-value store",
     "pname": "foundationdb",
@@ -46037,7 +46042,7 @@
   "legacyPackages.x86_64-linux.framework-tool-tui": {
     "description": "TUI for controlling and monitoring Framework Computers hardware",
     "pname": "framework-tool-tui",
-    "version": "0.7.6"
+    "version": "0.7.7"
   },
   "legacyPackages.x86_64-linux.frangipanni": {
     "description": "Convert lines of text into a tree structure",
@@ -48122,7 +48127,7 @@
   "legacyPackages.x86_64-linux.gdevelop": {
     "description": "Graphical Game Development Studio",
     "pname": "gdevelop",
-    "version": "5.6.257"
+    "version": "5.6.258"
   },
   "legacyPackages.x86_64-linux.gdk-pixbuf": {
     "description": "Library for image loading and manipulation",
@@ -50427,7 +50432,7 @@
   "legacyPackages.x86_64-linux.github-mcp-server": {
     "description": "GitHub's official MCP Server",
     "pname": "github-mcp-server",
-    "version": "0.30.3"
+    "version": "0.31.0"
   },
   "legacyPackages.x86_64-linux.github-release": {
     "description": "Commandline app to create and edit releases on Github (and upload artifacts)",
@@ -60582,7 +60587,7 @@
   "legacyPackages.x86_64-linux.grimblast": {
     "description": "Helper for screenshots within Hyprland, based on grimshot",
     "pname": "grimblast",
-    "version": "0.1-unstable-2026-01-14"
+    "version": "0.1-unstable-2026-02-19"
   },
   "legacyPackages.x86_64-linux.grimoire": {
     "description": "Tool to generate datasets of cloud audit logs for common attacks",
@@ -160022,7 +160027,7 @@
   "legacyPackages.x86_64-linux.hmcl": {
     "description": "Minecraft Launcher which is multi-functional, cross-platform and popular",
     "pname": "hmcl",
-    "version": "3.10.3"
+    "version": "3.11.1"
   },
   "legacyPackages.x86_64-linux.hmm": {
     "description": "Small command-line note-taking app",
@@ -166074,11 +166079,6 @@
     "pname": "ion-unstable",
     "version": "2024-09-20"
   },
-  "legacyPackages.x86_64-linux.ion3": {
-    "description": "Tiling tabbed window manager designed with keyboard users in mind",
-    "pname": "ion",
-    "version": "3-20090110"
-  },
   "legacyPackages.x86_64-linux.ionic-cli": {
     "description": "Your go-to tool for developing Ionic apps",
     "pname": "ionic-cli",
@@ -168372,7 +168372,7 @@
   "legacyPackages.x86_64-linux.jotta-cli": {
     "description": "Jottacloud CLI",
     "pname": "jotta-cli",
-    "version": "0.17.148769"
+    "version": "0.17.158308"
   },
   "legacyPackages.x86_64-linux.joularjx": {
     "description": "Java-based agent for software power monitoring at the source code level",
@@ -169777,7 +169777,7 @@
   "legacyPackages.x86_64-linux.karere": {
     "description": "Gtk4 Whatsapp client",
     "pname": "karere",
-    "version": "2.3.2"
+    "version": "2.5.3"
   },
   "legacyPackages.x86_64-linux.kargo": {
     "description": "Application lifecycle orchestration",
@@ -175752,7 +175752,7 @@
   "legacyPackages.x86_64-linux.laravel": {
     "description": "Laravel application installer",
     "pname": "laravel",
-    "version": "5.24.5"
+    "version": "5.24.6"
   },
   "legacyPackages.x86_64-linux.larswm": {
     "description": "9wm-like tiling window manager",
@@ -176412,7 +176412,7 @@
   "legacyPackages.x86_64-linux.legcord": {
     "description": "Lightweight, alternative desktop client for Discord",
     "pname": "legcord",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.legendary-gl": {
     "description": "Free and open-source Epic Games Launcher alternative",
@@ -177677,7 +177677,7 @@
   "legacyPackages.x86_64-linux.libcomps": {
     "description": "Comps XML file manipulation library",
     "pname": "libcomps",
-    "version": "0.1.23"
+    "version": "0.1.24"
   },
   "legacyPackages.x86_64-linux.libconfig": {
     "description": "C/C++ library for processing configuration files",
@@ -203107,7 +203107,7 @@
   "legacyPackages.x86_64-linux.llmfit": {
     "description": "Find what runs on your hardware",
     "pname": "llmfit",
-    "version": "0.2.1"
+    "version": "0.4.3"
   },
   "legacyPackages.x86_64-linux.llpp": {
     "description": "MuPDF based PDF pager written in OCaml",
@@ -212257,7 +212257,7 @@
   "legacyPackages.x86_64-linux.lunatask": {
     "description": "All-in-one encrypted todo list, notebook, habit and mood tracker, pomodoro timer, and journaling app",
     "pname": "lunatask",
-    "version": "2.1.21"
+    "version": "2.1.23"
   },
   "legacyPackages.x86_64-linux.lunatic": {
     "description": "Erlang inspired runtime for WebAssembly",
@@ -215372,7 +215372,7 @@
   "legacyPackages.x86_64-linux.mcstatus": {
     "description": "Python library for checking the status of Minecraft servers",
     "pname": "mcstatus",
-    "version": "12.2.0"
+    "version": "12.2.1"
   },
   "legacyPackages.x86_64-linux.mctc-lib": {
     "description": "Modular computation tool chain library",
@@ -218497,7 +218497,7 @@
   "legacyPackages.x86_64-linux.moar": {
     "description": "Nice-to-use pager for humans",
     "pname": "moor",
-    "version": "2.10.4"
+    "version": "2.10.5"
   },
   "legacyPackages.x86_64-linux.moarvm": {
     "description": "VM with adaptive optimization and JIT compilation, built for Rakudo",
@@ -219062,7 +219062,7 @@
   "legacyPackages.x86_64-linux.moor": {
     "description": "Nice-to-use pager for humans",
     "pname": "moor",
-    "version": "2.10.4"
+    "version": "2.10.5"
   },
   "legacyPackages.x86_64-linux.moosefs": {
     "description": "Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System",
@@ -220852,7 +220852,7 @@
   "legacyPackages.x86_64-linux.mullvad-browser": {
     "description": "Privacy-focused browser made in a collaboration between The Tor Project and Mullvad",
     "pname": "mullvad-browser",
-    "version": "15.0.6"
+    "version": "15.0.7"
   },
   "legacyPackages.x86_64-linux.mullvad-compass": {
     "description": "Find the best Mullvad VPN server to connect to",
@@ -222322,7 +222322,7 @@
   "legacyPackages.x86_64-linux.nemo": {
     "description": "File browser for Cinnamon",
     "pname": "nemo",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.nemo-emblems": {
     "description": "Change a folder or file emblem in Nemo",
@@ -222357,7 +222357,7 @@
   "legacyPackages.x86_64-linux.nemo-with-extensions": {
     "description": "File browser for Cinnamon",
     "pname": "nemo-with-extensions",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.nemorosa": {
     "description": "Specialized cross-seeding tool designed for music torrents",
@@ -222917,7 +222917,7 @@
   "legacyPackages.x86_64-linux.netbeans": {
     "description": "Integrated development environment for Java, C, C++ and PHP",
     "pname": "netbeans",
-    "version": "28"
+    "version": "29"
   },
   "legacyPackages.x86_64-linux.netbird": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
@@ -222927,7 +222927,7 @@
   "legacyPackages.x86_64-linux.netbird-dashboard": {
     "description": "NetBird Management Service Web UI Panel",
     "pname": "netbird-dashboard",
-    "version": "2.31.0"
+    "version": "2.32.5"
   },
   "legacyPackages.x86_64-linux.netbird-management": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
@@ -225822,7 +225822,7 @@
   "legacyPackages.x86_64-linux.nodePackages.@commitlint/cli": {
     "description": "Lint your commit messages",
     "pname": "commitlint",
-    "version": "20.4.1"
+    "version": "20.4.2"
   },
   "legacyPackages.x86_64-linux.nodePackages.@gitbeaker/cli": {
     "description": "CLI Wrapper for the @gitbeaker/rest SDK",
@@ -226947,7 +226947,7 @@
   "legacyPackages.x86_64-linux.nodePackages_latest.@commitlint/cli": {
     "description": "Lint your commit messages",
     "pname": "commitlint",
-    "version": "20.4.1"
+    "version": "20.4.2"
   },
   "legacyPackages.x86_64-linux.nodePackages_latest.@gitbeaker/cli": {
     "description": "CLI Wrapper for the @gitbeaker/rest SDK",
@@ -245407,7 +245407,7 @@
   "legacyPackages.x86_64-linux.open-webui": {
     "description": "Comprehensive suite for LLMs with a user-friendly WebUI",
     "pname": "open-webui",
-    "version": "0.8.3"
+    "version": "0.8.5"
   },
   "legacyPackages.x86_64-linux.open5gs": {
     "description": "4G/5G core network components",
@@ -291482,7 +291482,7 @@
   "legacyPackages.x86_64-linux.python313Packages.deebot-client": {
     "description": "Deebot client library",
     "pname": "python3.13-deebot-client",
-    "version": "17.1.0"
+    "version": "18.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.deemix": {
     "description": "Deezer downloader built from the ashes of Deezloader Remix",
@@ -301522,7 +301522,7 @@
   "legacyPackages.x86_64-linux.python313Packages.jupysql": {
     "description": "Better SQL in Jupyter",
     "pname": "python3.13-jupysql",
-    "version": "0.38"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.jupysql-plugin": {
     "description": "Better SQL in Jupyter",
@@ -302907,7 +302907,7 @@
   "legacyPackages.x86_64-linux.python313Packages.libcomps": {
     "description": "Comps XML file manipulation library",
     "pname": "libcomps",
-    "version": "0.1.23"
+    "version": "0.1.24"
   },
   "legacyPackages.x86_64-linux.python313Packages.libcst": {
     "description": "Concrete Syntax Tree (CST) parser and serializer library for Python",
@@ -304792,7 +304792,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mcstatus": {
     "description": "Python library for checking the status of Minecraft servers",
     "pname": "python3.13-mcstatus",
-    "version": "12.2.0"
+    "version": "12.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.mcuuid": {
     "description": "Getting Minecraft player information from Mojang API",
@@ -312463,11 +312463,6 @@
     "description": "Core module shared across Ploomber projects",
     "pname": "python3.13-ploomber-core",
     "version": "0.2.27"
-  },
-  "legacyPackages.x86_64-linux.python313Packages.ploomber-extension": {
-    "description": "Ploomber extension",
-    "pname": "python3.13-ploomber-extension",
-    "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.plopp": {
     "description": "Visualization library for scipp",
@@ -344467,7 +344462,7 @@
   "legacyPackages.x86_64-linux.python314Packages.deebot-client": {
     "description": "Deebot client library",
     "pname": "python3.14-deebot-client",
-    "version": "17.1.0"
+    "version": "18.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.deemix": {
     "description": "Deezer downloader built from the ashes of Deezloader Remix",
@@ -354507,7 +354502,7 @@
   "legacyPackages.x86_64-linux.python314Packages.jupysql": {
     "description": "Better SQL in Jupyter",
     "pname": "python3.14-jupysql",
-    "version": "0.38"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.jupysql-plugin": {
     "description": "Better SQL in Jupyter",
@@ -355892,7 +355887,7 @@
   "legacyPackages.x86_64-linux.python314Packages.libcomps": {
     "description": "Comps XML file manipulation library",
     "pname": "libcomps",
-    "version": "0.1.23"
+    "version": "0.1.24"
   },
   "legacyPackages.x86_64-linux.python314Packages.libcst": {
     "description": "Concrete Syntax Tree (CST) parser and serializer library for Python",
@@ -357777,7 +357772,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mcstatus": {
     "description": "Python library for checking the status of Minecraft servers",
     "pname": "python3.14-mcstatus",
-    "version": "12.2.0"
+    "version": "12.2.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.mcuuid": {
     "description": "Getting Minecraft player information from Mojang API",
@@ -365448,11 +365443,6 @@
     "description": "Core module shared across Ploomber projects",
     "pname": "python3.14-ploomber-core",
     "version": "0.2.27"
-  },
-  "legacyPackages.x86_64-linux.python314Packages.ploomber-extension": {
-    "description": "Ploomber extension",
-    "pname": "python3.14-ploomber-extension",
-    "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.plopp": {
     "description": "Visualization library for scipp",
@@ -389472,7 +389462,7 @@
   "legacyPackages.x86_64-linux.qovery-cli": {
     "description": "Qovery Command Line Interface",
     "pname": "qovery-cli",
-    "version": "1.57.2"
+    "version": "1.57.3"
   },
   "legacyPackages.x86_64-linux.qownnotes": {
     "description": "Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration",
@@ -404277,7 +404267,7 @@
   "legacyPackages.x86_64-linux.ruffle": {
     "description": "Cross platform Adobe Flash Player emulator",
     "pname": "ruffle",
-    "version": "0.2.0-nightly-2026-02-16"
+    "version": "0.2.0-nightly-2026-02-23"
   },
   "legacyPackages.x86_64-linux.rufo": {
     "description": "Ruby formatter",
@@ -404292,7 +404282,7 @@
   "legacyPackages.x86_64-linux.rumdl": {
     "description": "Markdown linter and formatter",
     "pname": "rumdl",
-    "version": "0.1.22"
+    "version": "0.1.26"
   },
   "legacyPackages.x86_64-linux.rumno": {
     "description": "Visual pop-up notification manager",
@@ -439967,7 +439957,7 @@
   "legacyPackages.x86_64-linux.tektoncd-cli": {
     "description": "Provides a CLI for interacting with Tekton - tkn",
     "pname": "tektoncd-cli",
-    "version": "0.43.0"
+    "version": "0.44.0"
   },
   "legacyPackages.x86_64-linux.tektoncd-cli-pac": {
     "description": "CLI for interacting with Tekton Pipelines as Code",
@@ -439987,7 +439977,7 @@
   "legacyPackages.x86_64-linux.telegraf": {
     "description": "Plugin-driven server agent for collecting & reporting metrics",
     "pname": "telegraf",
-    "version": "1.37.2"
+    "version": "1.37.3"
   },
   "legacyPackages.x86_64-linux.telegram-bot-api": {
     "description": "Telegram Bot API server",
@@ -441587,7 +441577,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.oci": {
     "description": "",
     "pname": "terraform-provider-oci",
-    "version": "8.1.0"
+    "version": "8.2.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.okta": {
     "description": "",
@@ -441657,7 +441647,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.oracle_oci": {
     "description": "",
     "pname": "terraform-provider-oci",
-    "version": "8.1.0"
+    "version": "8.2.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.ovh": {
     "description": "",
@@ -505312,7 +505302,7 @@
   "legacyPackages.x86_64-linux.umka-lang": {
     "description": "Statically typed embeddable scripting language",
     "pname": "umka-lang",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   "legacyPackages.x86_64-linux.umlet": {
     "description": "Free, open-source UML tool with a simple user interface",
@@ -505467,7 +505457,7 @@
   "legacyPackages.x86_64-linux.undetected-chromedriver": {
     "description": "Custom Selenium ChromeDriver that passes all bot mitigation systems",
     "pname": "undetected-chromedriver",
-    "version": "145.0.7632.109"
+    "version": "145.0.7632.116"
   },
   "legacyPackages.x86_64-linux.undistract-me": {
     "description": "Notifies you when long-running terminal commands complete",
@@ -527714,11 +527704,6 @@
     "pname": "xdelta",
     "version": "3.1.0"
   },
-  "legacyPackages.x86_64-linux.xdeltaUnstable": {
-    "description": "Binary differential compression in VCDIFF (RFC 3284) format",
-    "pname": "xdelta",
-    "version": "3.1.0"
-  },
   "legacyPackages.x86_64-linux.xdg-dbus-proxy": {
     "description": "DBus proxy for Flatpak and others",
     "pname": "xdg-dbus-proxy",
@@ -527732,7 +527717,7 @@
   "legacyPackages.x86_64-linux.xdg-desktop-portal-cosmic": {
     "description": "XDG Desktop Portal for the COSMIC Desktop Environment",
     "pname": "xdg-desktop-portal-cosmic",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "legacyPackages.x86_64-linux.xdg-desktop-portal-gnome": {
     "description": "Backend implementation for xdg-desktop-portal for the GNOME desktop environment",
@@ -529387,7 +529372,7 @@
   "legacyPackages.x86_64-linux.xlights": {
     "description": "Sequencer for lights with USB and E1.31 drivers",
     "pname": "xlights",
-    "version": "2026.02"
+    "version": "2026.03"
   },
   "legacyPackages.x86_64-linux.xlink": {
     "description": "Library for communication with Myriad VPUs",
