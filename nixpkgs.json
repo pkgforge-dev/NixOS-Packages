@@ -10082,7 +10082,7 @@
   "legacyPackages.x86_64-linux.asciinema_3": {
     "description": "Terminal session recorder and the best companion of asciinema.org",
     "pname": "asciinema",
-    "version": "3.1.0"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.asciiquarium": {
     "description": "Enjoy the mysteries of the sea from the safety of your own terminal",
@@ -11742,7 +11742,7 @@
   "legacyPackages.x86_64-linux.avdl": {
     "description": "Rust port of avro-tools' IDL tooling",
     "pname": "avdl",
-    "version": "0.1.6+1.12.1"
+    "version": "0.1.7+1.12.1"
   },
   "legacyPackages.x86_64-linux.avdump3": {
     "description": "Tool for extracting audio/video metadata from media files and uploading it to AniDB",
@@ -13937,7 +13937,7 @@
   "legacyPackages.x86_64-linux.bashdb": {
     "description": "A gdb-like debugger for bash",
     "pname": "bashdb",
-    "version": "5.2-1.1.2-unstable-2025-06-07"
+    "version": "5.2-1.2.0"
   },
   "legacyPackages.x86_64-linux.bashly": {
     "description": "Bash command line framework and CLI generator",
@@ -19222,7 +19222,7 @@
   "legacyPackages.x86_64-linux.canon-cups-ufr2": {
     "description": "CUPS Linux drivers for Canon printers",
     "pname": "canon-cups-ufr2",
-    "version": "6.00"
+    "version": "6.20"
   },
   "legacyPackages.x86_64-linux.cansina": {
     "description": "Web Content Discovery Tool",
@@ -25712,7 +25712,7 @@
   "legacyPackages.x86_64-linux.claude-mergetool": {
     "description": "Resolve Git/jj merge conflicts automatically with claude-code",
     "pname": "claude-mergetool",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "legacyPackages.x86_64-linux.claude-monitor": {
     "description": "Real-time Claude Code usage monitor",
@@ -26482,7 +26482,7 @@
   "legacyPackages.x86_64-linux.cmdstan": {
     "description": "Command-line interface to Stan",
     "pname": "cmdstan",
-    "version": "2.37.0"
+    "version": "2.38.0"
   },
   "legacyPackages.x86_64-linux.cmigemo": {
     "description": "Tool that supports Japanese incremental search with Romaji",
@@ -29952,7 +29952,7 @@
   "legacyPackages.x86_64-linux.crossplane-cli": {
     "description": "Utility to make using Crossplane easier",
     "pname": "crossplane-cli",
-    "version": "2.1.3"
+    "version": "2.2.0"
   },
   "legacyPackages.x86_64-linux.crosswords": {
     "description": "Crossword player and editor for GNOME",
@@ -35107,7 +35107,7 @@
   "legacyPackages.x86_64-linux.dns-collector": {
     "description": "Ingesting, pipelining, and enhancing your DNS logs with usage indicators, security analysis, and additional metadata. ",
     "pname": "dns-collector",
-    "version": "2.0.0"
+    "version": "2.1.0"
   },
   "legacyPackages.x86_64-linux.dns-over-https": {
     "description": "High performance DNS over HTTPS client & server",
@@ -35687,7 +35687,7 @@
   "legacyPackages.x86_64-linux.dokieli": {
     "description": "Clientside editor for decentralised article publishing, annotations and social interactions",
     "pname": "dokieli",
-    "version": "0-unstable-2026-02-21"
+    "version": "0-unstable-2026-03-01"
   },
   "legacyPackages.x86_64-linux.dokuwiki": {
     "description": "Simple to use and highly versatile Open Source wiki software that doesn't require a database",
@@ -38547,7 +38547,7 @@
   "legacyPackages.x86_64-linux.echoip": {
     "description": "IP address lookup service",
     "pname": "echoip",
-    "version": "0-unstable-2026-02-17"
+    "version": "0-unstable-2026-02-28"
   },
   "legacyPackages.x86_64-linux.ecl": {
     "description": "Lisp implementation aiming to be small, fast and easy to embed",
@@ -43837,7 +43837,7 @@
   "legacyPackages.x86_64-linux.firecracker": {
     "description": "Secure, fast, minimal micro-container virtualization",
     "pname": "firecracker",
-    "version": "1.14.0"
+    "version": "1.14.1"
   },
   "legacyPackages.x86_64-linux.firectl": {
     "description": "Command-line tool to run Firecracker microVMs",
@@ -45932,7 +45932,7 @@
   "legacyPackages.x86_64-linux.forge-mtg": {
     "description": "Magic: the Gathering card game with rules enforcement",
     "pname": "forge-mtg",
-    "version": "2.0.09"
+    "version": "2.0.10"
   },
   "legacyPackages.x86_64-linux.forge-sparks": {
     "description": "Get Git forges notifications",
@@ -49047,7 +49047,7 @@
   "legacyPackages.x86_64-linux.gforth": {
     "description": "Forth implementation of the GNU project",
     "pname": "gforth",
-    "version": "0.7.9_20251203"
+    "version": "0.7.9_20260224"
   },
   "legacyPackages.x86_64-linux.gfortran": {
     "description": "GNU Compiler Collection, version 15.2.0 (wrapper script)",
@@ -57713,6 +57713,11 @@
     "description": "Two-factor authentication on the command line",
     "pname": "2fa",
     "version": "1.2.0"
+  },
+  "legacyPackages.x86_64-linux.go-arch-lint": {
+    "description": "GoLang architecture linter (checker) tool. Will check all project import path and compare with arch rules defined in yml file",
+    "pname": "go-arch-lint",
+    "version": "1.13.0"
   },
   "legacyPackages.x86_64-linux.go-audit": {
     "description": "Alternative to the auditd daemon",
@@ -159987,7 +159992,7 @@
   "legacyPackages.x86_64-linux.hifile": {
     "description": "Dual-pane graphical file manager for Windows, macOS and Linux",
     "pname": "hifile",
-    "version": "0.9.15.7"
+    "version": "0.9.15.9"
   },
   "legacyPackages.x86_64-linux.hifiscan": {
     "description": "Optimize the audio quality of your loudspeakers",
@@ -162572,7 +162577,7 @@
   "legacyPackages.x86_64-linux.hydrus": {
     "description": "Danbooru-like image tagging and searching system for the desktop",
     "pname": "hydrus",
-    "version": "660"
+    "version": "661"
   },
   "legacyPackages.x86_64-linux.hyena": {
     "description": "C# library which contains a hodge-podge of random stuff",
@@ -169062,7 +169067,7 @@
   "legacyPackages.x86_64-linux.jsonschema-cli": {
     "description": "Fast command-line tool for JSON Schema validation",
     "pname": "jsonschema-cli",
-    "version": "0.42.1"
+    "version": "0.44.0"
   },
   "legacyPackages.x86_64-linux.jsonwatch": {
     "description": "Like watch -d but for JSON",
@@ -171792,7 +171797,7 @@
   "legacyPackages.x86_64-linux.kdePackages.ktextaddons": {
     "description": "Various text handling addons",
     "pname": "ktextaddons",
-    "version": "1.9.1"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.kdePackages.ktexteditor": {
     "description": "KTextEditor Framework",
@@ -176012,7 +176017,7 @@
   "legacyPackages.x86_64-linux.laravel": {
     "description": "Laravel application installer",
     "pname": "laravel",
-    "version": "5.24.6"
+    "version": "5.24.7"
   },
   "legacyPackages.x86_64-linux.larswm": {
     "description": "9wm-like tiling window manager",
@@ -222272,7 +222277,7 @@
   "legacyPackages.x86_64-linux.nb": {
     "description": "Command line note-taking, bookmarking, archiving, and knowledge base application",
     "pname": "nb",
-    "version": "7.25.0"
+    "version": "7.25.2"
   },
   "legacyPackages.x86_64-linux.nb-cli": {
     "description": "CLI for nonebot2",
@@ -224767,7 +224772,7 @@
   "legacyPackages.x86_64-linux.nix-your-shell": {
     "description": "`nix` and `nix-shell` wrapper for shells other than `bash`",
     "pname": "nix-your-shell",
-    "version": "1.4.8"
+    "version": "1.4.9"
   },
   "legacyPackages.x86_64-linux.nix-zsh-completions": {
     "description": "ZSH completions for Nix, NixOS, and NixOps",
@@ -229742,7 +229747,7 @@
   "legacyPackages.x86_64-linux.nvc": {
     "description": "VHDL compiler and simulator",
     "pname": "nvc",
-    "version": "1.19.1"
+    "version": "1.19.2"
   },
   "legacyPackages.x86_64-linux.nvcat": {
     "description": "`cat` but with syntax highlighting powered by Neovim",
@@ -232012,7 +232017,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.earlybird": {
     "description": "OCaml debug adapter",
     "pname": "ocaml5.4.0-earlybird",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.easy-format": {
     "description": "High-level and functional interface to the Format module of the OCaml standard library",
@@ -238817,7 +238822,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.earlybird": {
     "description": "OCaml debug adapter",
     "pname": "ocaml5.4.0-earlybird",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.easy-format": {
     "description": "High-level and functional interface to the Format module of the OCaml standard library",
@@ -250617,7 +250622,7 @@
   "legacyPackages.x86_64-linux.pcb2gcode": {
     "description": "Command-line tool for isolation, routing and drilling of PCBs",
     "pname": "pcb2gcode",
-    "version": "2.5.0"
+    "version": "3.0.1"
   },
   "legacyPackages.x86_64-linux.pcem": {
     "description": "Emulator for IBM PC computers and clones",
@@ -275637,7 +275642,7 @@
   "legacyPackages.x86_64-linux.plantuml-server": {
     "description": "Web application to generate UML diagrams on-the-fly",
     "pname": "plantuml-server",
-    "version": "1.2026.1"
+    "version": "1.2026.2"
   },
   "legacyPackages.x86_64-linux.planus": {
     "description": "Alternative compiler for flatbuffers",
@@ -278227,7 +278232,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pgvector": {
     "description": "Open-source vector similarity search for PostgreSQL",
     "pname": "pgvector",
-    "version": "0.8.1"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pgvectorscale": {
     "description": "Complement to pgvector for high performance, cost efficient vector search on large workloads",
@@ -278587,7 +278592,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pgvector": {
     "description": "Open-source vector similarity search for PostgreSQL",
     "pname": "pgvector",
-    "version": "0.8.1"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pgvectorscale": {
     "description": "Complement to pgvector for high performance, cost efficient vector search on large workloads",
@@ -278947,7 +278952,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pgvector": {
     "description": "Open-source vector similarity search for PostgreSQL",
     "pname": "pgvector",
-    "version": "0.8.1"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pgvectorscale": {
     "description": "Complement to pgvector for high performance, cost efficient vector search on large workloads",
@@ -279307,7 +279312,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pgvector": {
     "description": "Open-source vector similarity search for PostgreSQL",
     "pname": "pgvector",
-    "version": "0.8.1"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pgvectorscale": {
     "description": "Complement to pgvector for high performance, cost efficient vector search on large workloads",
@@ -279667,7 +279672,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.pgvector": {
     "description": "Open-source vector similarity search for PostgreSQL",
     "pname": "pgvector",
-    "version": "0.8.1"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.pgvectorscale": {
     "description": "Complement to pgvector for high performance, cost efficient vector search on large workloads",
@@ -280027,7 +280032,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pgvector": {
     "description": "Open-source vector similarity search for PostgreSQL",
     "pname": "pgvector",
-    "version": "0.8.1"
+    "version": "0.8.2"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pgvectorscale": {
     "description": "Complement to pgvector for high performance, cost efficient vector search on large workloads",
@@ -281912,7 +281917,7 @@
   "legacyPackages.x86_64-linux.proton-pass-cli": {
     "description": "Command-line interface for managing your Proton Pass vaults, items, and secrets",
     "pname": "proton-pass-cli",
-    "version": "1.5.1"
+    "version": "1.5.2"
   },
   "legacyPackages.x86_64-linux.proton-vpn-cli": {
     "description": "Official ProtonVPN CLI Linux app",
@@ -316102,7 +316107,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyhive-integration": {
     "description": "Python library to interface with the Hive API",
     "pname": "python3.13-pyhive-integration",
-    "version": "1.0.7"
+    "version": "1.0.8"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyhocon": {
     "description": "HOCON parser for Python",
@@ -319802,7 +319807,7 @@
   "legacyPackages.x86_64-linux.python313Packages.python-aodhclient": {
     "description": "Client library for OpenStack Aodh API",
     "pname": "python3.13-python-aodhclient",
-    "version": "3.10.0"
+    "version": "3.10.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-apt": {
     "description": "Python bindings for APT",
@@ -324492,7 +324497,7 @@
   "legacyPackages.x86_64-linux.python313Packages.sentry-sdk": {
     "description": "Official Python SDK for Sentry.io",
     "pname": "python3.13-sentry-sdk",
-    "version": "2.50.0"
+    "version": "2.53.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.sepaxml": {
     "description": "SEPA Direct Debit XML generation in python",
@@ -369247,7 +369252,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pyhive-integration": {
     "description": "Python library to interface with the Hive API",
     "pname": "python3.14-pyhive-integration",
-    "version": "1.0.7"
+    "version": "1.0.8"
   },
   "legacyPackages.x86_64-linux.python314Packages.pyhocon": {
     "description": "HOCON parser for Python",
@@ -372947,7 +372952,7 @@
   "legacyPackages.x86_64-linux.python314Packages.python-aodhclient": {
     "description": "Client library for OpenStack Aodh API",
     "pname": "python3.14-python-aodhclient",
-    "version": "3.10.0"
+    "version": "3.10.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.python-apt": {
     "description": "Python bindings for APT",
@@ -377637,7 +377642,7 @@
   "legacyPackages.x86_64-linux.python314Packages.sentry-sdk": {
     "description": "Official Python SDK for Sentry.io",
     "pname": "python3.14-sentry-sdk",
-    "version": "2.50.0"
+    "version": "2.53.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.sepaxml": {
     "description": "SEPA Direct Debit XML generation in python",
@@ -432360,14 +432365,9 @@
     "version": "0.13.24"
   },
   "legacyPackages.x86_64-linux.signal-desktop": {
-    "description": "Private, simple, and secure messenger (nixpkgs build)",
+    "description": "Private, simple, and secure messenger",
     "pname": "signal-desktop",
     "version": "8.0.0"
-  },
-  "legacyPackages.x86_64-linux.signal-desktop-bin": {
-    "description": "Private, simple, and secure messenger",
-    "pname": "signal-desktop-bin",
-    "version": "7.90.0"
   },
   "legacyPackages.x86_64-linux.signal-export": {
     "description": "Export your Signal chats to markdown files with attachments",
@@ -436582,7 +436582,7 @@
   "legacyPackages.x86_64-linux.stanc": {
     "description": "Stan compiler and utilities",
     "pname": "ocaml5.4.0-stanc",
-    "version": "2.37.0"
+    "version": "2.38.0"
   },
   "legacyPackages.x86_64-linux.standardnotes": {
     "description": "Simple and private notes app",
@@ -439622,7 +439622,7 @@
   "legacyPackages.x86_64-linux.tail-tray": {
     "description": "Tray icon to manage Tailscale",
     "pname": "tail-tray",
-    "version": "0.2.29"
+    "version": "0.2.30"
   },
   "legacyPackages.x86_64-linux.tailer": {
     "description": "CLI tool to insert lines when command output stops",
@@ -444166,8 +444166,8 @@
   },
   "legacyPackages.x86_64-linux.tests.fetchgit.withGitConfig": {
     "description": "",
-    "pname": "fetchgit-with-config-salted",
-    "version": "0wf44b941k6f"
+    "pname": "fetchgit-with-config-salted-wym7al849frw",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.tests.fetchpatch.decode": {
     "description": "",
@@ -479482,7 +479482,7 @@
   "legacyPackages.x86_64-linux.traccar": {
     "description": "Open source GPS tracking system",
     "pname": "traccar",
-    "version": "6.12.0"
+    "version": "6.12.2"
   },
   "legacyPackages.x86_64-linux.trace-cmd": {
     "description": "User-space tools for the Linux kernel ftrace subsystem",
@@ -482637,7 +482637,7 @@
   "legacyPackages.x86_64-linux.typos": {
     "description": "Source code spell checker",
     "pname": "typos",
-    "version": "1.43.5"
+    "version": "1.44.0"
   },
   "legacyPackages.x86_64-linux.typos-lsp": {
     "description": "Source code spell checker",
@@ -524482,7 +524482,7 @@
   "legacyPackages.x86_64-linux.wakapi": {
     "description": "Minimalist self-hosted WakaTime-compatible backend for coding statistics",
     "pname": "wakapi",
-    "version": "2.17.1"
+    "version": "2.17.2"
   },
   "legacyPackages.x86_64-linux.wakatime-cli": {
     "description": "WakaTime command line interface",
@@ -530712,7 +530712,7 @@
   "legacyPackages.x86_64-linux.xournalpp": {
     "description": "Xournal++ is a handwriting Notetaking software with PDF annotation support",
     "pname": "xournalpp",
-    "version": "1.3.2"
+    "version": "1.3.3"
   },
   "legacyPackages.x86_64-linux.xp-pen-deco-01-v2-driver": {
     "description": "Drivers for the XP-PEN Deco 01 v2 drawing tablet",
@@ -532397,7 +532397,7 @@
   "legacyPackages.x86_64-linux.ytdl-sub": {
     "description": "Lightweight tool to automate downloading and metadata generation with yt-dlp",
     "pname": "ytdl-sub",
-    "version": "2026.02.04"
+    "version": "2026.02.23"
   },
   "legacyPackages.x86_64-linux.ytdownloader": {
     "description": "Modern GUI video and audio downloader",
@@ -533402,12 +533402,12 @@
   "legacyPackages.x86_64-linux.zigbee2mqtt": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.9.0"
+    "version": "2.9.1"
   },
   "legacyPackages.x86_64-linux.zigbee2mqtt_2": {
     "description": "Zigbee to MQTT bridge using zigbee-shepherd",
     "pname": "zigbee2mqtt",
-    "version": "2.9.0"
+    "version": "2.9.1"
   },
   "legacyPackages.x86_64-linux.zigfetch": {
     "description": "Minimal neofetch/fastfetch like system information tool",
