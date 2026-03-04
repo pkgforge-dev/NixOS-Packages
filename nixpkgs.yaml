@@ -215,8 +215,8 @@ legacyPackages.x86_64-linux.SDL_ttf:
   pname: SDL_ttf
   version: 2.0.11-unstable-2024-04-23
 legacyPackages.x86_64-linux.Xaw3d:
-  description: 3D widget set based on the Athena Widget set
-  pname: Xaw3d
+  description: 3D appearance variant of the X Athena Widget Set
+  pname: libxaw3d
   version: 1.6.6
 legacyPackages.x86_64-linux._010editor:
   description: Text and hex editor
@@ -8085,7 +8085,7 @@ legacyPackages.x86_64-linux.asdf:
 legacyPackages.x86_64-linux.asdf-vm:
   description: Extendable version manager with support for Ruby, Node.js, Erlang & more
   pname: asdf-vm
-  version: 0.18.0
+  version: 0.18.1
 legacyPackages.x86_64-linux.asdf_2_26:
   description: Standard software-system definition library for Common Lisp
   pname: asdf
@@ -8785,7 +8785,7 @@ legacyPackages.x86_64-linux.asusctl:
 legacyPackages.x86_64-linux.asymptote:
   description: Tool for programming graphics intended to replace Metapost
   pname: asymptote
-  version: "3.07"
+  version: "3.09"
 legacyPackages.x86_64-linux.async-profiler:
   description: Low overhead sampling profiler for Java that does not suffer from Safepoint bias problem
   pname: async-profiler
@@ -11061,7 +11061,7 @@ legacyPackages.x86_64-linux.base91:
 legacyPackages.x86_64-linux.basedpyright:
   description: Type checker for the Python language
   pname: basedpyright
-  version: 1.38.0
+  version: 1.38.2
 legacyPackages.x86_64-linux.basex:
   description: XML database and XPath/XQuery processor
   pname: basex
@@ -13456,7 +13456,15 @@ legacyPackages.x86_64-linux.boehmgc:
   version: 8.2.8
 legacyPackages.x86_64-linux.bogofilter:
   description: ""
-  pname: bogofilter
+  pname: bogofilter-db
+  version: 1.2.5
+legacyPackages.x86_64-linux.bogofilter-db:
+  description: ""
+  pname: bogofilter-db
+  version: 1.2.5
+legacyPackages.x86_64-linux.bogofilter-sqlite:
+  description: ""
+  pname: bogofilter-sqlite
   version: 1.2.5
 legacyPackages.x86_64-linux.boilr:
   description: Automatically adds (almost) all your games to your Steam library (including image art)
@@ -13557,7 +13565,7 @@ legacyPackages.x86_64-linux.bonnmotion:
 legacyPackages.x86_64-linux.bonsai:
   description: Finite State Machine structured as a tree
   pname: bonsai
-  version: 1.2.1
+  version: 1.5.1
 legacyPackages.x86_64-linux.bonzomatic:
   description: Live shader coding tool and Shader Showdown workhorse
   pname: bonzomatic
@@ -15221,11 +15229,11 @@ legacyPackages.x86_64-linux.calf:
 legacyPackages.x86_64-linux.calibre:
   description: Comprehensive e-book software
   pname: calibre
-  version: 8.16.2
+  version: 9.4.0
 legacyPackages.x86_64-linux.calibre-no-speech:
   description: Comprehensive e-book software
   pname: calibre
-  version: 8.16.2
+  version: 9.4.0
 legacyPackages.x86_64-linux.calibre-web:
   description: Web app for browsing, reading and downloading eBooks stored in a Calibre database
   pname: calibre-web
@@ -20065,11 +20073,11 @@ legacyPackages.x86_64-linux.chrome-token-signing:
 legacyPackages.x86_64-linux.chromedriver:
   description: WebDriver server for running Selenium tests on Chrome
   pname: chromedriver-unwrapped
-  version: 145.0.7632.116
+  version: 145.0.7632.159
 legacyPackages.x86_64-linux.chromium:
   description: Open source web browser from Google
   pname: chromium
-  version: 145.0.7632.116
+  version: 145.0.7632.159
 legacyPackages.x86_64-linux.chromium-bsu:
   description: Fast paced, arcade-style, top-scrolling space shooter
   pname: chromium-bsu
@@ -24705,7 +24713,7 @@ legacyPackages.x86_64-linux.cudd:
 legacyPackages.x86_64-linux.cue:
   description: Data constraint language which aims to simplify tasks involving defining and using data
   pname: cue
-  version: 0.15.4
+  version: 0.16.0
 legacyPackages.x86_64-linux.cue2pops:
   description: Convert CUE to ISO suitable to POPStarter
   pname: cue2pops
@@ -24766,6 +24774,10 @@ legacyPackages.x86_64-linux.cups-brother-dcp1610wlpr:
   description: Brother DCP-1610W printer driver
   pname: cups-brother-dcp1610wlpr
   version: 3.0.1-1
+legacyPackages.x86_64-linux.cups-brother-dcpl2550dw:
+  description: Brother DCP-L2550DW printer driver
+  pname: cups-brother-dcpl2550dw
+  version: 4.0.0-1
 legacyPackages.x86_64-linux.cups-brother-dcpl3550cdw:
   description: Brother DCP-L3550CDW printer driver
   pname: cups-brother-dcpl3550cdw
@@ -24993,7 +25005,7 @@ legacyPackages.x86_64-linux.cursewords:
 legacyPackages.x86_64-linux.cursor-cli:
   description: Cursor CLI
   pname: cursor-cli
-  version: 0-unstable-2026-02-13
+  version: 0-unstable-2026-02-27
 legacyPackages.x86_64-linux.curtail:
   description: Simple & useful image compressor
   pname: curtail
@@ -29557,7 +29569,7 @@ legacyPackages.x86_64-linux.dpic:
 legacyPackages.x86_64-linux.dpkg:
   description: Debian package manager
   pname: dpkg
-  version: 1.22.21
+  version: 1.23.5
 legacyPackages.x86_64-linux.dplusplus:
   description: Directly include C headers in D source code
   pname: dpp
@@ -31086,6 +31098,10 @@ legacyPackages.x86_64-linux.edgetx:
   description: EdgeTX Companion transmitter support software
   pname: edgetx
   version: 2.11.3
+legacyPackages.x86_64-linux.edhm-ui:
+  description: HUD modification manager for Elite Dangerous
+  pname: edhm-ui
+  version: 3.0.63
 legacyPackages.x86_64-linux.edid-decode:
   description: V4L utils and libv4l, provide common image formats regardless of the v4l device
   pname: v4l-utils
@@ -34013,7 +34029,7 @@ legacyPackages.x86_64-linux.faudio:
 legacyPackages.x86_64-linux.faugus-launcher:
   description: Simple and lightweight app for running Windows games using UMU-Launcher
   pname: faugus-launcher
-  version: 1.15.2
+  version: 1.15.10
 legacyPackages.x86_64-linux.fauna-shell:
   description: Interactive shell for FaunaDB
   pname: fauna-shell
@@ -34621,7 +34637,7 @@ legacyPackages.x86_64-linux.fflas-ffpack:
 legacyPackages.x86_64-linux.fflinuxprint:
   description: FujiFILM Linux Printer Driver
   pname: fflinuxprint
-  version: 1.1.3-4
+  version: 1.1.4-3
 legacyPackages.x86_64-linux.fflogs:
   description: Application for uploading Final Fantasy XIV combat logs to fflogs.com
   pname: fflogs
@@ -37125,7 +37141,7 @@ legacyPackages.x86_64-linux.freefall:
 legacyPackages.x86_64-linux.freefilesync:
   description: Open Source File Synchronization & Backup Software
   pname: freefilesync
-  version: "14.7"
+  version: "14.8"
 legacyPackages.x86_64-linux.freefont_ttf:
   description: GNU Free UCS Outline Fonts
   pname: freefont-ttf
@@ -39129,7 +39145,7 @@ legacyPackages.x86_64-linux.germinal:
 legacyPackages.x86_64-linux.gerrit:
   description: Web based code review and repository management for the git version control system
   pname: gerrit
-  version: 3.13.3
+  version: 3.13.4
 legacyPackages.x86_64-linux.gerrit-queue:
   description: Merge bot for Gerrit
   pname: gerrit-queue
@@ -39541,7 +39557,7 @@ legacyPackages.x86_64-linux.ghost-cli:
 legacyPackages.x86_64-linux.ghostfolio:
   description: Open Source Wealth Management Software
   pname: ghostfolio
-  version: 2.242.0
+  version: 2.246.0
 legacyPackages.x86_64-linux.ghostie:
   description: Github notifications in your terminal
   pname: ghostie
@@ -40445,7 +40461,7 @@ legacyPackages.x86_64-linux.gita:
 legacyPackages.x86_64-linux.gitaly:
   description: Git RPC service for handling all the git calls made by GitLab
   pname: gitaly
-  version: 18.8.5
+  version: 18.9.1
 legacyPackages.x86_64-linux.gitbatch:
   description: Running git UI commands
   pname: gitbatch
@@ -40577,7 +40593,7 @@ legacyPackages.x86_64-linux.gitkraken:
 legacyPackages.x86_64-linux.gitlab:
   description: GitLab Community Edition
   pname: gitlab
-  version: 18.8.5
+  version: 18.9.1
 legacyPackages.x86_64-linux.gitlab-art:
   description: Pull cross-project Gitlab artifact dependencies
   pname: gitlab-art
@@ -40609,11 +40625,11 @@ legacyPackages.x86_64-linux.gitlab-duo:
 legacyPackages.x86_64-linux.gitlab-ee:
   description: GitLab Enterprise Edition
   pname: gitlab-ee
-  version: 18.8.5
+  version: 18.9.1
 legacyPackages.x86_64-linux.gitlab-elasticsearch-indexer:
   description: Indexes Git repositories into Elasticsearch for GitLab
   pname: gitlab-elasticsearch-indexer
-  version: 5.12.2
+  version: 5.13.3
 legacyPackages.x86_64-linux.gitlab-kas:
   description: Kubernetes Agent (Gitlab side)
   pname: gitlab-kas
@@ -40621,7 +40637,7 @@ legacyPackages.x86_64-linux.gitlab-kas:
 legacyPackages.x86_64-linux.gitlab-pages:
   description: Daemon used to serve static websites for GitLab users
   pname: gitlab-pages
-  version: 18.8.5
+  version: 18.9.1
 legacyPackages.x86_64-linux.gitlab-release-cli:
   description: Toolset to create, retrieve and update releases on GitLab
   pname: gitlab-release-cli
@@ -40633,7 +40649,7 @@ legacyPackages.x86_64-linux.gitlab-runner:
 legacyPackages.x86_64-linux.gitlab-shell:
   description: SSH access and repository management app for GitLab
   pname: gitlab-shell
-  version: 14.45.5
+  version: 14.45.6
 legacyPackages.x86_64-linux.gitlab-timelogs:
   description: CLI utility to support you with your time logs in GitLab
   pname: gitlab-timelogs
@@ -40645,7 +40661,7 @@ legacyPackages.x86_64-linux.gitlab-triage:
 legacyPackages.x86_64-linux.gitlab-workhorse:
   description: ""
   pname: gitlab-workhorse
-  version: 18.8.5
+  version: 18.9.1
 legacyPackages.x86_64-linux.gitleaks:
   description: Scan git repos (or files) for secrets
   pname: gitleaks
@@ -46909,7 +46925,7 @@ legacyPackages.x86_64-linux.go-errorlint:
 legacyPackages.x86_64-linux.go-ethereum:
   description: Official golang implementation of the Ethereum protocol
   pname: go-ethereum
-  version: 1.17.0
+  version: 1.17.1
 legacyPackages.x86_64-linux.go-exploitdb:
   description: Tool for searching Exploits from Exploit Databases, etc
   pname: go-exploitdb
@@ -48230,6 +48246,10 @@ legacyPackages.x86_64-linux.gotlsaflare:
   description: Update TLSA DANE records on cloudflare from x509 certificates
   pname: gotlsaflare
   version: 2.8.2
+legacyPackages.x86_64-linux.gotmplfmt:
+  description: Fmt Go HTML templates
+  pname: gotmplfmt
+  version: 1.0.22
 legacyPackages.x86_64-linux.goto:
   description: Alias and navigate to directories with tab completion
   pname: goto
@@ -49089,7 +49109,7 @@ legacyPackages.x86_64-linux.gravit:
 legacyPackages.x86_64-linux.grayjay:
   description: Cross-platform application to stream and download content from various sources
   pname: grayjay
-  version: "16"
+  version: "17"
 legacyPackages.x86_64-linux.graylog-6_0:
   description: Open source log management solution
   pname: graylog_6.0
@@ -50761,7 +50781,7 @@ legacyPackages.x86_64-linux.hardinfo2:
 legacyPackages.x86_64-linux.hare:
   description: Systems programming language designed to be simple, stable, and robust
   pname: hare
-  version: 0.24.2
+  version: 0.26.0
 legacyPackages.x86_64-linux.hareHook:
   description: Setup hook for the Hare compiler
   pname: hare-hook
@@ -50769,39 +50789,47 @@ legacyPackages.x86_64-linux.hareHook:
 legacyPackages.x86_64-linux.hareThirdParty.hare-compress:
   description: Compression algorithms for Hare
   pname: hare-compress
-  version: 0-unstable-2023-11-01
+  version: 0.25.2.0
 legacyPackages.x86_64-linux.hareThirdParty.hare-ev:
   description: Event loop for Hare programs
   pname: hare-ev
-  version: 0-unstable-2024-12-29
+  version: 0.26.0.0
+legacyPackages.x86_64-linux.hareThirdParty.hare-http:
+  description: HTTP(s) support for Hare
+  pname: hare-http
+  version: 0.26.0.0
 legacyPackages.x86_64-linux.hareThirdParty.hare-json:
   description: This package provides JSON support for Hare
   pname: hare-json
-  version: 0-unstable-2024-04-19
+  version: 0.26.0.0
 legacyPackages.x86_64-linux.hareThirdParty.hare-png:
   description: PNG implementation for Hare
   pname: hare-png
-  version: 0-unstable-2023-09-09
+  version: 0-unstable-2024-03-13
 legacyPackages.x86_64-linux.hareThirdParty.hare-ssh:
   description: SSH client & server protocol implementation for Hare
   pname: hare-ssh
-  version: 0-unstable-2023-11-16
+  version: 0.26.0
 legacyPackages.x86_64-linux.hareThirdParty.hare-toml:
   description: TOML implementation for Hare
   pname: hare-toml
-  version: 0.1.2
+  version: 0.2.1
+legacyPackages.x86_64-linux.hareThirdParty.hare-xml:
+  description: This package provides XML support for Hare
+  pname: hare-xml
+  version: 0.25.2.0
 legacyPackages.x86_64-linux.harec:
   description: Bootstrapping Hare compiler written in C for POSIX systems
   pname: harec
-  version: 0.24.2
+  version: 0.26.0
 legacyPackages.x86_64-linux.haredo:
   description: Simple and unix-idiomatic build automator
   pname: haredo
-  version: 1.0.5
+  version: 1.0.6
 legacyPackages.x86_64-linux.haredoc:
   description: Hare's documentation tool
   pname: haredoc
-  version: 0.24.2
+  version: 0.26.0
 legacyPackages.x86_64-linux.harfbuzz:
   description: OpenType text shaping engine
   pname: harfbuzz
@@ -128749,7 +128777,7 @@ legacyPackages.x86_64-linux.hime:
 legacyPackages.x86_64-linux.himitsu:
   description: Secret storage manager
   pname: himitsu
-  version: "0.8"
+  version: "0.10"
 legacyPackages.x86_64-linux.hinit:
   description: Generic project initialization tool
   pname: hinit
@@ -129077,7 +129105,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.home_connect_alt:
 legacyPackages.x86_64-linux.home-assistant-custom-components.homematicip_local:
   description: Custom Home Assistant Component for HomeMatic
   pname: python3.13-SukramJ-homematicip_local
-  version: 2.3.1
+  version: 2.3.2
 legacyPackages.x86_64-linux.home-assistant-custom-components.indego:
   description: Bosch Indego lawn mower component
   pname: python3.13-sander1988-indego
@@ -131169,7 +131197,7 @@ legacyPackages.x86_64-linux.hyprkeys:
 legacyPackages.x86_64-linux.hyprland:
   description: Dynamic tiling Wayland compositor that doesn't sacrifice on its looks
   pname: hyprland
-  version: 0.54.0
+  version: 0.54.1
 legacyPackages.x86_64-linux.hyprland-activewindow:
   description: Multi-monitor-aware Hyprland workspace widget helper
   pname: hyprland-activewindow
@@ -131377,7 +131405,7 @@ legacyPackages.x86_64-linux.hyprwayland-scanner:
 legacyPackages.x86_64-linux.hyprwhspr-rs:
   description: Native speech-to-text voice dictation for Hyprland
   pname: hyprwhspr-rs
-  version: 0.3.20
+  version: 0.3.22
 legacyPackages.x86_64-linux.hyprwire:
   description: 'A fast and consistent wire protocol for IPC '
   pname: hyprwire
@@ -132781,7 +132809,7 @@ legacyPackages.x86_64-linux.immich-machine-learning:
 legacyPackages.x86_64-linux.immich-public-proxy:
   description: Share your Immich photos and albums in a safe way without exposing your Immich instance to the public
   pname: immich-public-proxy
-  version: 1.15.1
+  version: 1.15.3
 legacyPackages.x86_64-linux.immichframe:
   description: Display your photos from Immich as a digital photo frame
   pname: ImmichFrame
@@ -133465,7 +133493,7 @@ legacyPackages.x86_64-linux.insulator2:
 legacyPackages.x86_64-linux.insync:
   description: Google Drive sync and backup with multiple account support
   pname: insync
-  version: 3.9.6.60027
+  version: 3.9.8.60034
 legacyPackages.x86_64-linux.insync-nautilus:
   description: This package contains the Python extension and icons for integrating Insync with Nautilus
   pname: insync-nautilus
@@ -138617,7 +138645,7 @@ legacyPackages.x86_64-linux.kdePackages.qmlkonsole:
 legacyPackages.x86_64-linux.kdePackages.qodeassist-plugin:
   description: AI-powered coding assistant plugin for Qt Creator
   pname: qodeassist-plugin
-  version: 0.9.9
+  version: 0.9.10
 legacyPackages.x86_64-linux.kdePackages.qqc2-breeze-style:
   description: Breeze inspired QQC2 Style
   pname: qqc2-breeze-style
@@ -139029,7 +139057,7 @@ legacyPackages.x86_64-linux.kdiskmark:
 legacyPackages.x86_64-linux.kdlfmt:
   description: Formatter for kdl documents
   pname: kdlfmt
-  version: 0.1.5
+  version: 0.1.6
 legacyPackages.x86_64-linux.kdocker:
   description: Dock any application into the system tray
   pname: kdocker
@@ -143609,7 +143637,7 @@ legacyPackages.x86_64-linux.libfontenc:
 legacyPackages.x86_64-linux.libfprint:
   description: Library designed to make it easy to add support for consumer fingerprint readers
   pname: libfprint
-  version: 1.94.9
+  version: 1.94.10
 legacyPackages.x86_64-linux.libfprint-2-tod1-broadcom:
   description: Broadcom driver module for libfprint-2-tod Touch OEM Driver for Dell ControlVault v3
   pname: libfprint
@@ -145013,7 +145041,7 @@ legacyPackages.x86_64-linux.liboping:
 legacyPackages.x86_64-linux.liboprf:
   description: Library providing OPRF and Threshold OPRF based on libsodium
   pname: liboprf
-  version: 0.9.3
+  version: 0.9.4
 legacyPackages.x86_64-linux.libopus:
   description: Open, royalty-free, highly versatile audio codec
   pname: libopus
@@ -147914,6 +147942,10 @@ legacyPackages.x86_64-linux.libxaw:
   description: X Athena Widget Set, based on the X Toolkit Intrinsics (Xt) Library
   pname: libxaw
   version: 1.0.16
+legacyPackages.x86_64-linux.libxaw3d:
+  description: 3D appearance variant of the X Athena Widget Set
+  pname: libxaw3d
+  version: 1.6.6
 legacyPackages.x86_64-linux.libxc:
   description: Library of exchange-correlation functionals for density-functional theory
   pname: libxc
@@ -149561,7 +149593,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-5.10.251
+  version: 2.4.1-5.10.251
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -150213,7 +150245,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-5.15.201
+  version: 2.4.1-5.15.201
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -150861,7 +150893,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.1.164
+  version: 2.4.1-6.1.164
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -151513,7 +151545,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.12.74
+  version: 2.4.1-6.12.74
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -152165,7 +152197,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.12.69
+  version: 2.4.1-6.12.69
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -152817,7 +152849,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.15
+  version: 2.4.1-6.18.15
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_19.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -153469,7 +153501,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_19.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_19.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.19.5
+  version: 2.4.1-6.19.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -154117,7 +154149,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.6.127
+  version: 2.4.1-6.6.127
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -154769,7 +154801,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.12.69
+  version: 2.4.1-6.12.69
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -155421,7 +155453,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.13
+  version: 2.4.1-6.18.13
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -156073,7 +156105,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.15
+  version: 2.4.1-6.18.15
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -156725,7 +156757,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.19.5
+  version: 2.4.1-6.19.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -157377,7 +157409,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.19.5
+  version: 2.4.1-6.19.5
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -158029,7 +158061,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_2_4:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.13
+  version: 2.4.1-6.18.13
 legacyPackages.x86_64-linux.linuxPackages.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -158681,7 +158713,7 @@ legacyPackages.x86_64-linux.linuxPackages.zfs_2_4:
 legacyPackages.x86_64-linux.linuxPackages.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.15
+  version: 2.4.1-6.18.15
 legacyPackages.x86_64-linux.linuxPackages_custom_tinyconfig_kernel:
   description: The Linux kernel
   pname: linux
@@ -159337,7 +159369,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.zfs_2_4:
 legacyPackages.x86_64-linux.linuxPackages_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.19.5
+  version: 2.4.1-6.19.5
 legacyPackages.x86_64-linux.linuxPackages_lqx.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -159989,7 +160021,7 @@ legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_2_4:
 legacyPackages.x86_64-linux.linuxPackages_lqx.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.13
+  version: 2.4.1-6.18.13
 legacyPackages.x86_64-linux.linuxPackages_xanmod.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -160641,7 +160673,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_2_4:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.15
+  version: 2.4.1-6.18.15
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -161293,7 +161325,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_2_4:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.19.5
+  version: 2.4.1-6.19.5
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -161945,7 +161977,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_2_4:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.19.5
+  version: 2.4.1-6.19.5
 legacyPackages.x86_64-linux.linuxPackages_zen.acer-wmi-battery:
   description: Driver for the Acer WMI battery health control interface
   pname: acer-wmi-battery
@@ -162597,7 +162629,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.zfs_2_4:
 legacyPackages.x86_64-linux.linuxPackages_zen.zfs_unstable:
   description: ZFS Filesystem Linux Kernel Module
   pname: zfs-kernel
-  version: 2.4.0-6.18.13
+  version: 2.4.1-6.18.13
 legacyPackages.x86_64-linux.linux_5_10:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
@@ -197269,7 +197301,7 @@ legacyPackages.x86_64-linux.open-web-calendar:
 legacyPackages.x86_64-linux.open-webui:
   description: Comprehensive suite for LLMs with a user-friendly WebUI
   pname: open-webui
-  version: 0.8.7
+  version: 0.8.8
 legacyPackages.x86_64-linux.open5gs:
   description: 4G/5G core network components
   pname: open5gs
@@ -197281,7 +197313,7 @@ legacyPackages.x86_64-linux.open5gs-webui:
 legacyPackages.x86_64-linux.open62541:
   description: Open source implementation of OPC UA
   pname: open62541
-  version: 1.4.15
+  version: 1.4.16
 legacyPackages.x86_64-linux.open62541pp:
   description: C++ wrapper of the open62541 OPC UA library
   pname: open62541pp
@@ -197930,6 +197962,10 @@ legacyPackages.x86_64-linux.openmolcas:
   description: Advanced quantum chemistry software package
   pname: openmolcas
   version: "26.02"
+legacyPackages.x86_64-linux.openmotor:
+  description: Open-source internal ballistics simulator for rocket motor experimenters
+  pname: openmotor
+  version: 0.6.1
 legacyPackages.x86_64-linux.openmpi:
   description: Open source MPI-3 implementation
   pname: openmpi
@@ -217353,7 +217389,7 @@ legacyPackages.x86_64-linux.petidomo:
 legacyPackages.x86_64-linux.petsc:
   description: Portable Extensible Toolkit for Scientific computation
   pname: petsc
-  version: 3.24.4
+  version: 3.24.5
 legacyPackages.x86_64-linux.pev:
   description: Full-featured, open source, multiplatform command line toolkit to work with PE (Portable Executables) binaries
   pname: pev
@@ -227113,7 +227149,7 @@ legacyPackages.x86_64-linux.pympress:
 legacyPackages.x86_64-linux.pynitrokey:
   description: Python client for Nitrokey devices
   pname: pynitrokey
-  version: 0.11.2
+  version: 0.11.3
 legacyPackages.x86_64-linux.pyocd:
   description: Python library for programming and debugging Arm Cortex-M microcontrollers
   pname: pyocd
@@ -227749,7 +227785,7 @@ legacyPackages.x86_64-linux.python313Packages.aioemonitor:
 legacyPackages.x86_64-linux.python313Packages.aioesphomeapi:
   description: Python Client for ESPHome native API
   pname: python3.13-aioesphomeapi
-  version: 44.0.0
+  version: 44.2.0
 legacyPackages.x86_64-linux.python313Packages.aioextensions:
   description: High performance functions to work with the async IO
   pname: python3.13-aioextensions
@@ -227805,15 +227841,15 @@ legacyPackages.x86_64-linux.python313Packages.aiohomekit:
 legacyPackages.x86_64-linux.python313Packages.aiohomematic:
   description: Module to interact with HomeMatic devices
   pname: python3.13-aiohomematic
-  version: 2026.2.27
+  version: 2026.3.0
 legacyPackages.x86_64-linux.python313Packages.aiohomematic-config:
   description: Presentation-layer library for Homematic device configuration UI
   pname: python3.13-aiohomematic-config
-  version: 2026.2.10
+  version: 2026.3.0
 legacyPackages.x86_64-linux.python313Packages.aiohomematic-test-support:
   description: Support-only package for AioHomematic (tests/dev)
   pname: python3.13-aiohomematic-test-support
-  version: 2026.2.27
+  version: 2026.3.0
 legacyPackages.x86_64-linux.python313Packages.aiohttp:
   description: Asynchronous HTTP Client/Server for Python and asyncio
   pname: python3.13-aiohttp
@@ -240973,7 +241009,7 @@ legacyPackages.x86_64-linux.python313Packages.idasen:
 legacyPackages.x86_64-linux.python313Packages.idasen-ha:
   description: Home Assistant helper lib for the IKEA Idasen Desk integration
   pname: python3.13-idasen-ha
-  version: 2.6.3
+  version: 2.6.4
 legacyPackages.x86_64-linux.python313Packages.idbutils:
   description: Python utilities useful for database and internal apps
   pname: python3.13-idbutils
@@ -250565,7 +250601,7 @@ legacyPackages.x86_64-linux.python313Packages.petl:
 legacyPackages.x86_64-linux.python313Packages.petsc4py:
   description: Portable Extensible Toolkit for Scientific computation
   pname: petsc
-  version: 3.24.4
+  version: 3.24.5
 legacyPackages.x86_64-linux.python313Packages.petsctools:
   description: Pythonic extensions for petsc4py and slepc4py
   pname: python3.13-petsctools
@@ -254445,7 +254481,7 @@ legacyPackages.x86_64-linux.python313Packages.pynisher:
 legacyPackages.x86_64-linux.python313Packages.pynitrokey:
   description: Python client for Nitrokey devices
   pname: python3.13-pynitrokey
-  version: 0.11.2
+  version: 0.11.3
 legacyPackages.x86_64-linux.python313Packages.pynmea2:
   description: Python library for the NMEA 0183 protcol
   pname: python3.13-pynmea2
@@ -254645,7 +254681,7 @@ legacyPackages.x86_64-linux.python313Packages.pyoppleio-legacy:
 legacyPackages.x86_64-linux.python313Packages.pyoprf:
   description: Library providing OPRF and Threshold OPRF based on libsodium
   pname: python3.13-pyoprf
-  version: 0.9.3
+  version: 0.9.4
 legacyPackages.x86_64-linux.python313Packages.pyorc:
   description: Python module for Apache ORC file format
   pname: python3.13-pyorc
@@ -255589,7 +255625,7 @@ legacyPackages.x86_64-linux.python313Packages.pysml:
 legacyPackages.x86_64-linux.python313Packages.pysmlight:
   description: Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators
   pname: python3.13-pysmlight
-  version: 0.2.14
+  version: 0.2.16
 legacyPackages.x86_64-linux.python313Packages.pysmt:
   description: Python library for SMT formulae manipulation and solving
   pname: python3.13-pysmt
@@ -260982,6 +261018,10 @@ legacyPackages.x86_64-linux.python313Packages.smhi-pkg:
   description: Python library for accessing SMHI open forecast data
   pname: python3.13-smhi-pkg
   version: 1.0.19
+legacyPackages.x86_64-linux.python313Packages.smllib:
+  description: Library to parse SML byte streams
+  pname: python3.13-smllib
+  version: "1.7"
 legacyPackages.x86_64-linux.python313Packages.smmap:
   description: Pure python implementation of a sliding window memory map manager
   pname: python3.13-smmap
@@ -267217,7 +267257,7 @@ legacyPackages.x86_64-linux.python313Packages.types-toml:
 legacyPackages.x86_64-linux.python313Packages.types-tqdm:
   description: Typing stubs for tqdm
   pname: python3.13-types-tqdm
-  version: 4.67.3.20260205
+  version: 4.67.3.20260303
 legacyPackages.x86_64-linux.python313Packages.types-ujson:
   description: Typing stubs for ujson
   pname: python3.13-types-ujson
@@ -267957,7 +267997,7 @@ legacyPackages.x86_64-linux.python313Packages.vehicle:
 legacyPackages.x86_64-linux.python313Packages.velbus-aio:
   description: Python library to support the Velbus home automation system
   pname: python3.13-velbus-aio
-  version: 2026.1.4
+  version: 2026.2.0
 legacyPackages.x86_64-linux.python313Packages.venstarcolortouch:
   description: Python interface for Venstar ColorTouch thermostats Resources
   pname: python3.13-venstarcolortouch
@@ -270277,7 +270317,7 @@ legacyPackages.x86_64-linux.python314Packages.aioemonitor:
 legacyPackages.x86_64-linux.python314Packages.aioesphomeapi:
   description: Python Client for ESPHome native API
   pname: python3.14-aioesphomeapi
-  version: 44.0.0
+  version: 44.2.0
 legacyPackages.x86_64-linux.python314Packages.aioextensions:
   description: High performance functions to work with the async IO
   pname: python3.14-aioextensions
@@ -270333,15 +270373,15 @@ legacyPackages.x86_64-linux.python314Packages.aiohomekit:
 legacyPackages.x86_64-linux.python314Packages.aiohomematic:
   description: Module to interact with HomeMatic devices
   pname: python3.14-aiohomematic
-  version: 2026.2.27
+  version: 2026.3.0
 legacyPackages.x86_64-linux.python314Packages.aiohomematic-config:
   description: Presentation-layer library for Homematic device configuration UI
   pname: python3.14-aiohomematic-config
-  version: 2026.2.10
+  version: 2026.3.0
 legacyPackages.x86_64-linux.python314Packages.aiohomematic-test-support:
   description: Support-only package for AioHomematic (tests/dev)
   pname: python3.14-aiohomematic-test-support
-  version: 2026.2.27
+  version: 2026.3.0
 legacyPackages.x86_64-linux.python314Packages.aiohttp:
   description: Asynchronous HTTP Client/Server for Python and asyncio
   pname: python3.14-aiohttp
@@ -283497,7 +283537,7 @@ legacyPackages.x86_64-linux.python314Packages.idasen:
 legacyPackages.x86_64-linux.python314Packages.idasen-ha:
   description: Home Assistant helper lib for the IKEA Idasen Desk integration
   pname: python3.14-idasen-ha
-  version: 2.6.3
+  version: 2.6.4
 legacyPackages.x86_64-linux.python314Packages.idbutils:
   description: Python utilities useful for database and internal apps
   pname: python3.14-idbutils
@@ -293089,7 +293129,7 @@ legacyPackages.x86_64-linux.python314Packages.petl:
 legacyPackages.x86_64-linux.python314Packages.petsc4py:
   description: Portable Extensible Toolkit for Scientific computation
   pname: petsc
-  version: 3.24.4
+  version: 3.24.5
 legacyPackages.x86_64-linux.python314Packages.petsctools:
   description: Pythonic extensions for petsc4py and slepc4py
   pname: python3.14-petsctools
@@ -296969,7 +297009,7 @@ legacyPackages.x86_64-linux.python314Packages.pynisher:
 legacyPackages.x86_64-linux.python314Packages.pynitrokey:
   description: Python client for Nitrokey devices
   pname: python3.14-pynitrokey
-  version: 0.11.2
+  version: 0.11.3
 legacyPackages.x86_64-linux.python314Packages.pynmea2:
   description: Python library for the NMEA 0183 protcol
   pname: python3.14-pynmea2
@@ -297169,7 +297209,7 @@ legacyPackages.x86_64-linux.python314Packages.pyoppleio-legacy:
 legacyPackages.x86_64-linux.python314Packages.pyoprf:
   description: Library providing OPRF and Threshold OPRF based on libsodium
   pname: python3.14-pyoprf
-  version: 0.9.3
+  version: 0.9.4
 legacyPackages.x86_64-linux.python314Packages.pyorc:
   description: Python module for Apache ORC file format
   pname: python3.14-pyorc
@@ -298113,7 +298153,7 @@ legacyPackages.x86_64-linux.python314Packages.pysml:
 legacyPackages.x86_64-linux.python314Packages.pysmlight:
   description: Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators
   pname: python3.14-pysmlight
-  version: 0.2.14
+  version: 0.2.16
 legacyPackages.x86_64-linux.python314Packages.pysmt:
   description: Python library for SMT formulae manipulation and solving
   pname: python3.14-pysmt
@@ -303506,6 +303546,10 @@ legacyPackages.x86_64-linux.python314Packages.smhi-pkg:
   description: Python library for accessing SMHI open forecast data
   pname: python3.14-smhi-pkg
   version: 1.0.19
+legacyPackages.x86_64-linux.python314Packages.smllib:
+  description: Library to parse SML byte streams
+  pname: python3.14-smllib
+  version: "1.7"
 legacyPackages.x86_64-linux.python314Packages.smmap:
   description: Pure python implementation of a sliding window memory map manager
   pname: python3.14-smmap
@@ -309741,7 +309785,7 @@ legacyPackages.x86_64-linux.python314Packages.types-toml:
 legacyPackages.x86_64-linux.python314Packages.types-tqdm:
   description: Typing stubs for tqdm
   pname: python3.14-types-tqdm
-  version: 4.67.3.20260205
+  version: 4.67.3.20260303
 legacyPackages.x86_64-linux.python314Packages.types-ujson:
   description: Typing stubs for ujson
   pname: python3.14-types-ujson
@@ -310481,7 +310525,7 @@ legacyPackages.x86_64-linux.python314Packages.vehicle:
 legacyPackages.x86_64-linux.python314Packages.velbus-aio:
   description: Python library to support the Velbus home automation system
   pname: python3.14-velbus-aio
-  version: 2026.1.4
+  version: 2026.2.0
 legacyPackages.x86_64-linux.python314Packages.venstarcolortouch:
   description: Python interface for Venstar ColorTouch thermostats Resources
   pname: python3.14-venstarcolortouch
@@ -313445,7 +313489,7 @@ legacyPackages.x86_64-linux.qt6Packages.qmlbox2d:
 legacyPackages.x86_64-linux.qt6Packages.qodeassist-plugin:
   description: AI-powered coding assistant plugin for Qt Creator
   pname: qodeassist-plugin
-  version: 0.9.9
+  version: 0.9.10
 legacyPackages.x86_64-linux.qt6Packages.qscintilla:
   description: Qt port of the Scintilla text editing library
   pname: qscintilla-qt6
@@ -315629,27 +315673,27 @@ legacyPackages.x86_64-linux.repomix:
 legacyPackages.x86_64-linux.reposilite:
   description: Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem
   pname: Reposilite
-  version: 3.5.26
+  version: 3.5.27
 legacyPackages.x86_64-linux.reposilitePlugins.checksum:
   description: Checksum plugin for Reposilite.
   pname: checksum
-  version: 3.5.26
+  version: 3.5.27
 legacyPackages.x86_64-linux.reposilitePlugins.groovy:
   description: Groovy plugin for Reposilite.
   pname: groovy
-  version: 3.5.26
+  version: 3.5.27
 legacyPackages.x86_64-linux.reposilitePlugins.migration:
   description: Migration plugin for Reposilite.
   pname: migration
-  version: 3.5.26
+  version: 3.5.27
 legacyPackages.x86_64-linux.reposilitePlugins.prometheus:
   description: Prometheus plugin for Reposilite.
   pname: prometheus
-  version: 3.5.26
+  version: 3.5.27
 legacyPackages.x86_64-linux.reposilitePlugins.swagger:
   description: Swagger plugin for Reposilite.
   pname: swagger
-  version: 3.5.26
+  version: 3.5.27
 legacyPackages.x86_64-linux.reposurgeon:
   description: Tool for editing version-control repository history
   pname: reposurgeon
@@ -345397,7 +345441,7 @@ legacyPackages.x86_64-linux.seclists:
 legacyPackages.x86_64-linux.secp256k1:
   description: Optimized C library for EC operations on curve secp256k1
   pname: secp256k1
-  version: 0.6.0
+  version: 0.7.1
 legacyPackages.x86_64-linux.secrethound:
   description: A powerful CLI tool designed to find secrets in JavaScript files, web pages, and other text sources.
   pname: secrethound
@@ -345805,7 +345849,7 @@ legacyPackages.x86_64-linux.seshat:
 legacyPackages.x86_64-linux.session-desktop:
   description: Onion routing based messenger
   pname: session-desktop
-  version: 1.17.5
+  version: 1.17.12
 legacyPackages.x86_64-linux.sessreg:
   description: Utility to manage utmp & wtmp entries for X sessions
   pname: sessreg
@@ -346589,7 +346633,7 @@ legacyPackages.x86_64-linux.signal-desktop:
 legacyPackages.x86_64-linux.signal-export:
   description: Export your Signal chats to markdown files with attachments
   pname: signal-export
-  version: 3.8.1
+  version: 3.8.2
 legacyPackages.x86_64-linux.signalbackup-tools:
   description: Tool to work with Signal Backup files
   pname: signalbackup-tools
@@ -347909,7 +347953,7 @@ legacyPackages.x86_64-linux.snipaste:
 legacyPackages.x86_64-linux.snipe-it:
   description: Free open source IT asset/license management system
   pname: snipe-it
-  version: 8.3.7
+  version: 8.4.0
 legacyPackages.x86_64-linux.snipes:
   description: Modern port of the classic 1982 text-mode game Snipes
   pname: snipes
@@ -350371,9 +350415,13 @@ legacyPackages.x86_64-linux.stilo-themes:
   pname: stilo-themes
   version: "4.0"
 legacyPackages.x86_64-linux.stirling-pdf:
-  description: Locally hosted web application that allows you to perform various operations on PDF files
+  description: Powerful, open-source PDF editing platform hostable as a web app
   pname: stirling-pdf
-  version: 1.5.0
+  version: 2.4.5
+legacyPackages.x86_64-linux.stirling-pdf-desktop:
+  description: Powerful, open-source PDF editing platform runnable as a desktop app
+  pname: stirling-pdf-desktop
+  version: 2.4.5
 legacyPackages.x86_64-linux.stix-otf:
   description: Fonts for Scientific and Technical Information eXchange
   pname: stix-otf
@@ -362135,7 +362183,7 @@ legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.libsctp:
   pname: check-pkg-config-lksctp-tools
   version: ""
 legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.libsecp256k1:
-  description: Test whether secp256k1-0.6.0 exposes pkg-config modules libsecp256k1
+  description: Test whether secp256k1-0.7.1 exposes pkg-config modules libsecp256k1
   pname: check-pkg-config-secp256k1
   version: ""
 legacyPackages.x86_64-linux.tests.pkg-config.defaultPkgConfigPackages.libsodium:
@@ -384122,6 +384170,10 @@ legacyPackages.x86_64-linux.torrentstream:
   description: Simple web server for streaming torrent files in video players
   pname: torrentstream
   version: 1.0.1.11
+legacyPackages.x86_64-linux.torrserver:
+  description: Simple and powerful tool for streaming torrents
+  pname: torrserver
+  version: "141"
 legacyPackages.x86_64-linux.torsocks:
   description: Wrapper to safely torify applications
   pname: torsocks
@@ -385757,7 +385809,7 @@ legacyPackages.x86_64-linux.tree-sitter-grammars.tree-sitter-zig:
 legacyPackages.x86_64-linux.treecat:
   description: Serialize a directory to a tree diagram, and vice versa
   pname: treecat
-  version: 1.0.2-unstable-2023-11-28
+  version: 1.0.3
 legacyPackages.x86_64-linux.treedome:
   description: Local-first, encrypted, note taking application organized in tree-like structures
   pname: treedome
@@ -405717,7 +405769,7 @@ legacyPackages.x86_64-linux.undervolt:
 legacyPackages.x86_64-linux.undetected-chromedriver:
   description: Custom Selenium ChromeDriver that passes all bot mitigation systems
   pname: undetected-chromedriver
-  version: 145.0.7632.116
+  version: 145.0.7632.159
 legacyPackages.x86_64-linux.undistract-me:
   description: Notifies you when long-running terminal commands complete
   pname: undistract-me
@@ -419573,7 +419625,7 @@ legacyPackages.x86_64-linux.vscode-extensions.sonarsource.sonarlint-vscode:
 legacyPackages.x86_64-linux.vscode-extensions.sourcegraph.amp:
   description: Amp is a frontier coding agent for your editor and terminal, built by Sourcegraph.
   pname: vscode-extension-sourcegraph-amp
-  version: 0.0.1771217285
+  version: 0.0.1772583932
 legacyPackages.x86_64-linux.vscode-extensions.sourcery.sourcery:
   description: VSCode extension for Sourcery, an AI-powered code review and pair programming tool for Python
   pname: vscode-extension-sourcery-sourcery
@@ -420105,7 +420157,7 @@ legacyPackages.x86_64-linux.vue-language-server:
 legacyPackages.x86_64-linux.vuetorrent:
   description: Full-featured BitTorrent client written in Vue
   pname: vuetorrent
-  version: 2.31.3
+  version: 2.32.0
 legacyPackages.x86_64-linux.vul:
   description: Latin Vulgate Bible on the Command Line
   pname: vul
@@ -420697,7 +420749,7 @@ legacyPackages.x86_64-linux.waybar-mpris:
 legacyPackages.x86_64-linux.waybox:
   description: Openbox clone on Wayland
   pname: waybox
-  version: 0.2.2
+  version: 0.2.2-unstable-2026-01-03
 legacyPackages.x86_64-linux.waycheck:
   description: Simple GUI that displays the protocols implemented by a Wayland compositor
   pname: waycheck
@@ -426750,6 +426802,10 @@ legacyPackages.x86_64-linux.yyjson:
   description: Fastest JSON library in C
   pname: yyjson
   version: 0.12.0
+legacyPackages.x86_64-linux.z-library-desktop:
+  description: Client for the online library Z-Library
+  pname: z-library-desktop
+  version: 3.1.0
 legacyPackages.x86_64-linux.z-lua:
   description: New cd command that helps you navigate faster by learning your habits
   pname: z-lua
@@ -427137,7 +427193,7 @@ legacyPackages.x86_64-linux.zed-discord-presence:
 legacyPackages.x86_64-linux.zed-editor:
   description: High-performance, multiplayer code editor from the creators of Atom and Tree-sitter
   pname: zed-editor
-  version: 0.225.12
+  version: 0.225.13
 legacyPackages.x86_64-linux.zed-editor-fhs:
   description: 'Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: zeditor
@@ -427373,7 +427429,7 @@ legacyPackages.x86_64-linux.zfs_2_4:
 legacyPackages.x86_64-linux.zfs_unstable:
   description: ZFS Filesystem Linux Userspace Tools
   pname: zfs-user
-  version: 2.4.0
+  version: 2.4.1
 legacyPackages.x86_64-linux.zfsbackup:
   description: Backup ZFS snapshots to cloud storage such as Google, Amazon, Azure, etc
   pname: zfsbackup-unstable
