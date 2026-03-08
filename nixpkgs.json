@@ -13577,7 +13577,7 @@
   "legacyPackages.x86_64-linux.bagels": {
     "description": "Powerful expense tracker that lives in your terminal",
     "pname": "bagels",
-    "version": "0.3.9"
+    "version": "0.3.12"
   },
   "legacyPackages.x86_64-linux.bagr": {
     "description": "Command line utility for interacting with BagIt bags (RFC 8493)",
@@ -14332,12 +14332,12 @@
   "legacyPackages.x86_64-linux.beam26Packages.elixir_1_20": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
     "pname": "elixir",
-    "version": "1.20.0-rc.1"
+    "version": "1.20.0-rc.2"
   },
   "legacyPackages.x86_64-linux.beam26Packages.elvis-erlang": {
     "description": "Erlang Style Reviewer",
     "pname": "elvis-erlang",
-    "version": "4.2.1"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.beam26Packages.erlang": {
     "description": "Programming language used for massively scalable soft real-time systems",
@@ -14467,12 +14467,12 @@
   "legacyPackages.x86_64-linux.beam27Packages.elixir_1_20": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
     "pname": "elixir",
-    "version": "1.20.0-rc.1"
+    "version": "1.20.0-rc.2"
   },
   "legacyPackages.x86_64-linux.beam27Packages.elvis-erlang": {
     "description": "Erlang Style Reviewer",
     "pname": "elvis-erlang",
-    "version": "4.2.1"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.beam27Packages.erlang": {
     "description": "Programming language used for massively scalable soft real-time systems",
@@ -14597,17 +14597,17 @@
   "legacyPackages.x86_64-linux.beam28Packages.elixir_1_20": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
     "pname": "elixir",
-    "version": "1.20.0-rc.1"
+    "version": "1.20.0-rc.2"
   },
   "legacyPackages.x86_64-linux.beam28Packages.elvis-erlang": {
     "description": "Erlang Style Reviewer",
     "pname": "elvis-erlang",
-    "version": "4.2.1"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.beam28Packages.erlang": {
     "description": "Programming language used for massively scalable soft real-time systems",
     "pname": "erlang",
-    "version": "28.3.3"
+    "version": "28.4"
   },
   "legacyPackages.x86_64-linux.beam28Packages.erlfmt": {
     "description": "Automated code formatter for Erlang",
@@ -14651,7 +14651,7 @@
   },
   "legacyPackages.x86_64-linux.beam28Packages.pc": {
     "description": "Rebar3 port compiler for native code",
-    "pname": "erlang28.3.3-pc",
+    "pname": "erlang28.4-pc",
     "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.beam28Packages.rebar": {
@@ -14666,12 +14666,12 @@
   },
   "legacyPackages.x86_64-linux.beam28Packages.rebar3-nix": {
     "description": "nix integration for rebar3",
-    "pname": "erlang28.3.3-rebar3_nix",
+    "pname": "erlang28.4-rebar3_nix",
     "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.beam28Packages.rebar3-proper": {
     "description": "rebar3 proper plugin",
-    "pname": "erlang28.3.3-rebar3_proper",
+    "pname": "erlang28.4-rebar3_proper",
     "version": "0.12.1"
   },
   "legacyPackages.x86_64-linux.beam28Packages.rebar3CompileHook": {
@@ -14737,12 +14737,12 @@
   "legacyPackages.x86_64-linux.beamMinimal26Packages.elixir_1_20": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
     "pname": "elixir",
-    "version": "1.20.0-rc.1"
+    "version": "1.20.0-rc.2"
   },
   "legacyPackages.x86_64-linux.beamMinimal26Packages.elvis-erlang": {
     "description": "Erlang Style Reviewer",
     "pname": "elvis-erlang",
-    "version": "4.2.1"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.beamMinimal26Packages.erlang": {
     "description": "Programming language used for massively scalable soft real-time systems",
@@ -14872,12 +14872,12 @@
   "legacyPackages.x86_64-linux.beamMinimal27Packages.elixir_1_20": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
     "pname": "elixir",
-    "version": "1.20.0-rc.1"
+    "version": "1.20.0-rc.2"
   },
   "legacyPackages.x86_64-linux.beamMinimal27Packages.elvis-erlang": {
     "description": "Erlang Style Reviewer",
     "pname": "elvis-erlang",
-    "version": "4.2.1"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.beamMinimal27Packages.erlang": {
     "description": "Programming language used for massively scalable soft real-time systems",
@@ -15002,17 +15002,17 @@
   "legacyPackages.x86_64-linux.beamMinimal28Packages.elixir_1_20": {
     "description": "Functional, meta-programming aware language built on top of the Erlang VM",
     "pname": "elixir",
-    "version": "1.20.0-rc.1"
+    "version": "1.20.0-rc.2"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.elvis-erlang": {
     "description": "Erlang Style Reviewer",
     "pname": "elvis-erlang",
-    "version": "4.2.1"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.erlang": {
     "description": "Programming language used for massively scalable soft real-time systems",
     "pname": "erlang",
-    "version": "28.3.3"
+    "version": "28.4"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.erlfmt": {
     "description": "Automated code formatter for Erlang",
@@ -15056,7 +15056,7 @@
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.pc": {
     "description": "Rebar3 port compiler for native code",
-    "pname": "erlang28.3.3-pc",
+    "pname": "erlang28.4-pc",
     "version": "1.15.0"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.rebar": {
@@ -15071,12 +15071,12 @@
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.rebar3-nix": {
     "description": "nix integration for rebar3",
-    "pname": "erlang28.3.3-rebar3_nix",
+    "pname": "erlang28.4-rebar3_nix",
     "version": "0.1.1"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.rebar3-proper": {
     "description": "rebar3 proper plugin",
-    "pname": "erlang28.3.3-rebar3_proper",
+    "pname": "erlang28.4-rebar3_proper",
     "version": "0.12.1"
   },
   "legacyPackages.x86_64-linux.beamMinimal28Packages.rebar3CompileHook": {
@@ -19177,7 +19177,7 @@
   "legacyPackages.x86_64-linux.camunda-modeler": {
     "description": "Integrated modeling solution for BPMN, DMN and Forms based on bpmn.io",
     "pname": "camunda-modeler",
-    "version": "5.44.0"
+    "version": "5.45.0"
   },
   "legacyPackages.x86_64-linux.can-utils": {
     "description": "CAN userspace utilities and tools (for use with Linux SocketCAN)",
@@ -21382,7 +21382,7 @@
   "legacyPackages.x86_64-linux.changedetection-io": {
     "description": "Self-hosted free open source website change detection tracking, monitoring and notification service",
     "pname": "changedetection-io",
-    "version": "0.54.2"
+    "version": "0.53.6"
   },
   "legacyPackages.x86_64-linux.changelog-d": {
     "description": "Concatenate changelog entries into a single one",
@@ -25907,7 +25907,7 @@
   "legacyPackages.x86_64-linux.clickhouse": {
     "description": "Column-oriented database management system",
     "pname": "clickhouse",
-    "version": "26.1.3.52-stable"
+    "version": "26.2.3.2-stable"
   },
   "legacyPackages.x86_64-linux.clickhouse-backup": {
     "description": "Tool for easy ClickHouse backup and restore using object storage for backup files",
@@ -25922,7 +25922,7 @@
   "legacyPackages.x86_64-linux.clickhouse-lts": {
     "description": "Column-oriented database management system",
     "pname": "clickhouse",
-    "version": "25.8.15.35-lts"
+    "version": "25.8.18.1-lts"
   },
   "legacyPackages.x86_64-linux.clickup": {
     "description": "All in one project management solution",
@@ -26892,7 +26892,7 @@
   "legacyPackages.x86_64-linux.cockpit-machines": {
     "description": "Cockpit UI for virtual machines",
     "pname": "cockpit-machines",
-    "version": "349"
+    "version": "349.1"
   },
   "legacyPackages.x86_64-linux.cockpit-podman": {
     "description": "Cockpit UI for podman containers",
@@ -27732,7 +27732,7 @@
   "legacyPackages.x86_64-linux.conan": {
     "description": "Decentralized and portable C/C++ package manager",
     "pname": "conan",
-    "version": "2.22.2"
+    "version": "2.26.1"
   },
   "legacyPackages.x86_64-linux.conceal": {
     "description": "Trash collector written in Rust",
@@ -32592,7 +32592,7 @@
   "legacyPackages.x86_64-linux.dataexplorer": {
     "description": "Graphical tool to analyze data, gathered from various hardware devices",
     "pname": "dataexplorer",
-    "version": "3.9.3"
+    "version": "4.0.2"
   },
   "legacyPackages.x86_64-linux.datafusion-cli": {
     "description": "CLI for Apache Arrow DataFusion",
@@ -35742,7 +35742,7 @@
   "legacyPackages.x86_64-linux.dolibarr": {
     "description": "Enterprise resource planning (ERP) and customer relationship manager (CRM) server",
     "pname": "dolibarr",
-    "version": "22.0.4"
+    "version": "23.0.0"
   },
   "legacyPackages.x86_64-linux.dolphin-emu": {
     "description": "Gamecube/Wii/Triforce emulator for x86_64 and ARMv8",
@@ -39792,7 +39792,7 @@
   "legacyPackages.x86_64-linux.elvis-erlang": {
     "description": "Erlang Style Reviewer",
     "pname": "elvis-erlang",
-    "version": "4.2.1"
+    "version": "4.2.3"
   },
   "legacyPackages.x86_64-linux.elvish": {
     "description": "Friendly and expressive command shell",
@@ -40787,7 +40787,7 @@
   "legacyPackages.x86_64-linux.erlang": {
     "description": "Programming language used for massively scalable soft real-time systems",
     "pname": "erlang",
-    "version": "28.3.3"
+    "version": "28.4"
   },
   "legacyPackages.x86_64-linux.erlang-language-platform": {
     "description": "IDE-first library for the semantic analysis of Erlang code, including LSP server, linting and refactoring tools",
@@ -40807,7 +40807,7 @@
   "legacyPackages.x86_64-linux.erlang_28": {
     "description": "Programming language used for massively scalable soft real-time systems",
     "pname": "erlang",
-    "version": "28.3.3"
+    "version": "28.4"
   },
   "legacyPackages.x86_64-linux.erlang_29": {
     "description": "Programming language used for massively scalable soft real-time systems",
@@ -41187,7 +41187,7 @@
   "legacyPackages.x86_64-linux.evcc": {
     "description": "EV Charge Controller",
     "pname": "evcc",
-    "version": "0.301.2"
+    "version": "0.302.0"
   },
   "legacyPackages.x86_64-linux.evcxr": {
     "description": "Evaluation context for Rust",
@@ -45192,7 +45192,7 @@
   "legacyPackages.x86_64-linux.fluxcd": {
     "description": "Open and extensible continuous delivery solution for Kubernetes",
     "pname": "fluxcd",
-    "version": "2.7.5"
+    "version": "2.8.1"
   },
   "legacyPackages.x86_64-linux.fluxcd-operator": {
     "description": "Kubernetes controller for managing the lifecycle of Flux CD",
@@ -51262,7 +51262,7 @@
   "legacyPackages.x86_64-linux.glitchtip": {
     "description": "Open source Sentry API compatible error tracking platform",
     "pname": "glitchtip",
-    "version": "5.1.1"
+    "version": "5.2.1"
   },
   "legacyPackages.x86_64-linux.glitter": {
     "description": "Git wrapper that allows you to compress multiple commands into one",
@@ -63582,7 +63582,7 @@
   "legacyPackages.x86_64-linux.harmonia": {
     "description": "Nix binary cache",
     "pname": "harmonia",
-    "version": "2.1.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.harmonist": {
     "description": "Stealth coffee-break roguelike game",
@@ -161277,7 +161277,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-components.battery_notes": {
     "description": "Home Assistant integration to provide battery details of devices",
     "pname": "python3.13-andrew-codechimp-battery_notes",
-    "version": "3.3.2"
+    "version": "3.3.4"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.benqprojector": {
     "description": "Home Assistant integration for BenQ projectors",
@@ -164204,6 +164204,11 @@
     "pname": "hyprprop",
     "version": "0.1-unstable-2026-02-19"
   },
+  "legacyPackages.x86_64-linux.hyprproxlock": {
+    "description": "Proximity-based daemon for Hyprland that triggers screen locking and unlocking through hyprlock based on Bluetooth device proximity",
+    "pname": "hyprproxlock",
+    "version": "0.1.1"
+  },
   "legacyPackages.x86_64-linux.hyprpwcenter": {
     "description": "A GUI Pipewire control center",
     "pname": "hyprpwcenter",
@@ -166157,7 +166162,7 @@
   "legacyPackages.x86_64-linux.incus-ui-canonical": {
     "description": "Web user interface for Incus",
     "pname": "incus-ui-canonical",
-    "version": "0.19.8"
+    "version": "0.19.9"
   },
   "legacyPackages.x86_64-linux.indent": {
     "description": "Source code reformatter",
@@ -177607,12 +177612,12 @@
   "legacyPackages.x86_64-linux.lemmy-server": {
     "description": "🐀 Building a federated alternative to reddit in rust",
     "pname": "lemmy-server",
-    "version": "0.19.15"
+    "version": "0.19.16"
   },
   "legacyPackages.x86_64-linux.lemmy-ui": {
     "description": "Building a federated alternative to reddit in rust",
     "pname": "lemmy-ui",
-    "version": "0.19.15"
+    "version": "0.19.16"
   },
   "legacyPackages.x86_64-linux.lemon": {
     "description": "LALR(1) parser generator",
@@ -217047,7 +217052,7 @@
   "legacyPackages.x86_64-linux.meilisearch": {
     "description": "Powerful, fast, and an easy to use search engine",
     "pname": "meilisearch",
-    "version": "1.36.0"
+    "version": "1.37.0"
   },
   "legacyPackages.x86_64-linux.mekuteriya": {
     "description": "Ethiopian Calendar CLI",
@@ -221884,6 +221889,11 @@
     "pname": "mtprotoproxy",
     "version": "1.1.1"
   },
+  "legacyPackages.x86_64-linux.mtproxy": {
+    "description": "Simple MT-Proto proxy",
+    "pname": "mtproxy",
+    "version": "1-unstable-2025-11-04"
+  },
   "legacyPackages.x86_64-linux.mtr": {
     "description": "Network diagnostics tool",
     "pname": "mtr",
@@ -224008,6 +224018,11 @@
     "description": "Fast and efficient Proton prefix runner and manager using umu as backend",
     "pname": "nero-umu",
     "version": "1.2.0"
+  },
+  "legacyPackages.x86_64-linux.nerva": {
+    "description": "Fingerprinting CLI tool for various protocols",
+    "pname": "nerva",
+    "version": "1.0.0"
   },
   "legacyPackages.x86_64-linux.nest": {
     "description": "Command line tool for simulating neural networks",
@@ -230472,7 +230487,7 @@
   "legacyPackages.x86_64-linux.nushell-plugin-semver": {
     "description": "Nushell plugin to work with semver versions",
     "pname": "nu_plugin_semver",
-    "version": "0.11.14"
+    "version": "0.11.15"
   },
   "legacyPackages.x86_64-linux.nushell-plugin-skim": {
     "description": "Nushell plugin that adds integrates the skim fuzzy finder",
@@ -230537,7 +230552,7 @@
   "legacyPackages.x86_64-linux.nushellPlugins.semver": {
     "description": "Nushell plugin to work with semver versions",
     "pname": "nu_plugin_semver",
-    "version": "0.11.14"
+    "version": "0.11.15"
   },
   "legacyPackages.x86_64-linux.nushellPlugins.skim": {
     "description": "Nushell plugin that adds integrates the skim fuzzy finder",
@@ -246052,27 +246067,27 @@
   "legacyPackages.x86_64-linux.ollama": {
     "description": "Get up and running with large language models locally",
     "pname": "ollama",
-    "version": "0.17.4"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.ollama-cpu": {
     "description": "Get up and running with large language models locally",
     "pname": "ollama",
-    "version": "0.17.4"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.ollama-cuda": {
     "description": "Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration",
     "pname": "ollama",
-    "version": "0.17.4"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.ollama-rocm": {
     "description": "Get up and running with large language models locally, using ROCm for AMD GPU acceleration",
     "pname": "ollama",
-    "version": "0.17.4"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.ollama-vulkan": {
     "description": "Get up and running with large language models locally, using Vulkan for generic GPU acceleration",
     "pname": "ollama",
-    "version": "0.17.4"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.olm": {
     "description": "Implements double cryptographic ratchet and Megolm ratchet",
@@ -283552,7 +283567,7 @@
   "legacyPackages.x86_64-linux.pupdate": {
     "description": "Update utility for the openFPGA cores, firmware, and other stuff on your Analogue Pocket",
     "pname": "pupdate",
-    "version": "3.20.0"
+    "version": "4.7.0"
   },
   "legacyPackages.x86_64-linux.puppet": {
     "description": "Server automation framework and application",
@@ -290222,7 +290237,7 @@
   "legacyPackages.x86_64-linux.python313Packages.chatlas": {
     "description": "Friendly guide to building LLM chat apps in Python with less effort and more clarity",
     "pname": "python3.13-chatlas",
-    "version": "0.15.0"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.check-manifest": {
     "description": "Check MANIFEST.in in a Python source package for completeness",
@@ -290307,7 +290322,7 @@
   "legacyPackages.x86_64-linux.python313Packages.chromadb": {
     "description": "AI-native open-source embedding database",
     "pname": "python3.13-chromadb",
-    "version": "1.5.0"
+    "version": "1.5.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.chromaprint": {
     "description": "Facilitate effortless color terminal output",
@@ -294374,6 +294389,11 @@
     "pname": "python3.13-django-types",
     "version": "0.22.0"
   },
+  "legacyPackages.x86_64-linux.python313Packages.django-valkey": {
+    "description": "Valkey backend for django",
+    "pname": "python3.13-django-valkey",
+    "version": "0.4.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.django-versatileimagefield": {
     "description": "Replaces django's ImageField with a more flexible interface",
     "pname": "python3.13-django-versatileimagefield",
@@ -295572,7 +295592,7 @@
   "legacyPackages.x86_64-linux.python313Packages.einx": {
     "description": "Universal Tensor Operations in Einstein-Inspired Notation for Python",
     "pname": "python3.13-einx",
-    "version": "0.3.0"
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.eiswarnung": {
     "description": "Module for getting Eiswarning API forecasts",
@@ -299207,7 +299227,7 @@
   "legacyPackages.x86_64-linux.python313Packages.google-cloud-spanner": {
     "description": "Cloud Spanner API client library",
     "pname": "python3.13-google-cloud-spanner",
-    "version": "3.58.0"
+    "version": "3.63.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.google-cloud-speech": {
     "description": "Google Cloud Speech API client library",
@@ -303787,7 +303807,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-huggingface": {
     "description": "Integration package connecting Huggingface related classes and LangChain",
     "pname": "python3.13-langchain-huggingface",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-mistralai": {
     "description": "Build LangChain applications with mistralai",
@@ -311904,6 +311924,11 @@
     "pname": "python3.13-opentelemetry-proto",
     "version": "1.34.0"
   },
+  "legacyPackages.x86_64-linux.python313Packages.opentelemetry-resourcedetector-gcp": {
+    "description": "Google Cloud resource detector for OpenTelemetry",
+    "pname": "python3.13-opentelemetry-resourcedetector-gcp",
+    "version": "1.11.0a0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.opentelemetry-sdk": {
     "description": "OpenTelemetry Python SDK",
     "pname": "python3.13-opentelemetry-sdk",
@@ -312242,7 +312267,7 @@
   "legacyPackages.x86_64-linux.python313Packages.oslo-utils": {
     "description": "Oslo Utility library",
     "pname": "python3.13-oslo-utils",
-    "version": "9.2.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.oslotest": {
     "description": "Oslo test framework",
@@ -320720,7 +320745,7 @@
     "version": "3.13.12"
   },
   "legacyPackages.x86_64-linux.python313Packages.python-aodhclient": {
-    "description": "Client library for OpenStack Aodh API",
+    "description": "Client library for OpenStack AOodh API",
     "pname": "python3.13-python-aodhclient",
     "version": "3.10.1"
   },
@@ -325967,7 +325992,7 @@
   "legacyPackages.x86_64-linux.python313Packages.simsimd": {
     "description": "Portable mixed-precision BLAS-like vector math library for x86 and ARM",
     "pname": "python3.13-simsimd",
-    "version": "6.5.13"
+    "version": "6.5.15"
   },
   "legacyPackages.x86_64-linux.python313Packages.single-source": {
     "description": "Access to the project version in Python code for PEP 621-style projects",
@@ -328897,7 +328922,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tempest": {
     "description": "OpenStack integration test suite that runs against live OpenStack cluster and validates an OpenStack deployment",
     "pname": "python3.13-tempest",
-    "version": "46.0.0"
+    "version": "46.1.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.templateflow": {
     "description": "Python API to query TemplateFlow via pyBIDS",
@@ -332017,7 +332042,7 @@
   "legacyPackages.x86_64-linux.python313Packages.ty": {
     "description": "Extremely fast Python type checker and language server, written in Rust",
     "pname": "python3.13-ty",
-    "version": "0.0.20"
+    "version": "0.0.21"
   },
   "legacyPackages.x86_64-linux.python313Packages.type-infer": {
     "description": "Automated type inference for Machine Learning pipelines",
@@ -343387,7 +343412,7 @@
   "legacyPackages.x86_64-linux.python314Packages.chatlas": {
     "description": "Friendly guide to building LLM chat apps in Python with less effort and more clarity",
     "pname": "python3.14-chatlas",
-    "version": "0.15.0"
+    "version": "0.15.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.check-manifest": {
     "description": "Check MANIFEST.in in a Python source package for completeness",
@@ -343472,7 +343497,7 @@
   "legacyPackages.x86_64-linux.python314Packages.chromadb": {
     "description": "AI-native open-source embedding database",
     "pname": "python3.14-chromadb",
-    "version": "1.5.0"
+    "version": "1.5.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.chromaprint": {
     "description": "Facilitate effortless color terminal output",
@@ -347539,6 +347564,11 @@
     "pname": "python3.14-django-types",
     "version": "0.22.0"
   },
+  "legacyPackages.x86_64-linux.python314Packages.django-valkey": {
+    "description": "Valkey backend for django",
+    "pname": "python3.14-django-valkey",
+    "version": "0.4.0"
+  },
   "legacyPackages.x86_64-linux.python314Packages.django-versatileimagefield": {
     "description": "Replaces django's ImageField with a more flexible interface",
     "pname": "python3.14-django-versatileimagefield",
@@ -348737,7 +348767,7 @@
   "legacyPackages.x86_64-linux.python314Packages.einx": {
     "description": "Universal Tensor Operations in Einstein-Inspired Notation for Python",
     "pname": "python3.14-einx",
-    "version": "0.3.0"
+    "version": "0.4.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.eiswarnung": {
     "description": "Module for getting Eiswarning API forecasts",
@@ -352372,7 +352402,7 @@
   "legacyPackages.x86_64-linux.python314Packages.google-cloud-spanner": {
     "description": "Cloud Spanner API client library",
     "pname": "python3.14-google-cloud-spanner",
-    "version": "3.58.0"
+    "version": "3.63.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.google-cloud-speech": {
     "description": "Google Cloud Speech API client library",
@@ -356952,7 +356982,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-huggingface": {
     "description": "Integration package connecting Huggingface related classes and LangChain",
     "pname": "python3.14-langchain-huggingface",
-    "version": "1.2.0"
+    "version": "1.2.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-mistralai": {
     "description": "Build LangChain applications with mistralai",
@@ -365069,6 +365099,11 @@
     "pname": "python3.14-opentelemetry-proto",
     "version": "1.34.0"
   },
+  "legacyPackages.x86_64-linux.python314Packages.opentelemetry-resourcedetector-gcp": {
+    "description": "Google Cloud resource detector for OpenTelemetry",
+    "pname": "python3.14-opentelemetry-resourcedetector-gcp",
+    "version": "1.11.0a0"
+  },
   "legacyPackages.x86_64-linux.python314Packages.opentelemetry-sdk": {
     "description": "OpenTelemetry Python SDK",
     "pname": "python3.14-opentelemetry-sdk",
@@ -365407,7 +365442,7 @@
   "legacyPackages.x86_64-linux.python314Packages.oslo-utils": {
     "description": "Oslo Utility library",
     "pname": "python3.14-oslo-utils",
-    "version": "9.2.0"
+    "version": "10.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.oslotest": {
     "description": "Oslo test framework",
@@ -373885,7 +373920,7 @@
     "version": "3.14.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.python-aodhclient": {
-    "description": "Client library for OpenStack Aodh API",
+    "description": "Client library for OpenStack AOodh API",
     "pname": "python3.14-python-aodhclient",
     "version": "3.10.1"
   },
@@ -379132,7 +379167,7 @@
   "legacyPackages.x86_64-linux.python314Packages.simsimd": {
     "description": "Portable mixed-precision BLAS-like vector math library for x86 and ARM",
     "pname": "python3.14-simsimd",
-    "version": "6.5.13"
+    "version": "6.5.15"
   },
   "legacyPackages.x86_64-linux.python314Packages.single-source": {
     "description": "Access to the project version in Python code for PEP 621-style projects",
@@ -382062,7 +382097,7 @@
   "legacyPackages.x86_64-linux.python314Packages.tempest": {
     "description": "OpenStack integration test suite that runs against live OpenStack cluster and validates an OpenStack deployment",
     "pname": "python3.14-tempest",
-    "version": "46.0.0"
+    "version": "46.1.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.templateflow": {
     "description": "Python API to query TemplateFlow via pyBIDS",
@@ -385182,7 +385217,7 @@
   "legacyPackages.x86_64-linux.python314Packages.ty": {
     "description": "Extremely fast Python type checker and language server, written in Rust",
     "pname": "python3.14-ty",
-    "version": "0.0.20"
+    "version": "0.0.21"
   },
   "legacyPackages.x86_64-linux.python314Packages.type-infer": {
     "description": "Automated type inference for Machine Learning pipelines",
@@ -405962,7 +405997,7 @@
   "legacyPackages.x86_64-linux.ruffle": {
     "description": "Cross platform Adobe Flash Player emulator",
     "pname": "ruffle",
-    "version": "0.2.0-nightly-2026-02-23"
+    "version": "0.2.0-nightly-2026-03-04"
   },
   "legacyPackages.x86_64-linux.rufo": {
     "description": "Ruby formatter",
@@ -406242,7 +406277,7 @@
   "legacyPackages.x86_64-linux.rustdesk": {
     "description": "Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative",
     "pname": "rustdesk",
-    "version": "1.4.5"
+    "version": "1.4.6"
   },
   "legacyPackages.x86_64-linux.rustdesk-flutter": {
     "description": "Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative",
@@ -430897,7 +430932,7 @@
   "legacyPackages.x86_64-linux.sc": {
     "description": "Curses-based spreadsheet calculator",
     "pname": "sc",
-    "version": "2024-08-15"
+    "version": "7.16_1.1.4"
   },
   "legacyPackages.x86_64-linux.sc-controller": {
     "description": "User-mode driver and GUI for Steam Controller and other controllers",
@@ -431803,6 +431838,11 @@
     "description": "Search for known vulnerabilities in software using software titles or a CPE 2.3 string",
     "pname": "search-vulns",
     "version": "1.0.5"
+  },
+  "legacyPackages.x86_64-linux.searchix": {
+    "description": "Search tool for options and packages in the NixOS ecosystem",
+    "pname": "searchix",
+    "version": "0.4.4"
   },
   "legacyPackages.x86_64-linux.searxng": {
     "description": "Fork of Searx, a privacy-respecting, hackable metasearch engine",
@@ -433142,7 +433182,7 @@
   "legacyPackages.x86_64-linux.showmethekey": {
     "description": "Show keys you typed on screen",
     "pname": "showmethekey",
-    "version": "1.19.0"
+    "version": "1.21.0"
   },
   "legacyPackages.x86_64-linux.showoff": {
     "description": "Slideshow presentation tool with a twist",
@@ -433992,7 +434032,7 @@
   "legacyPackages.x86_64-linux.sketchybar-app-font": {
     "description": "Ligature-based symbol font and a mapping function for sketchybar",
     "pname": "sketchybar-app-font",
-    "version": "2.0.53"
+    "version": "2.0.55"
   },
   "legacyPackages.x86_64-linux.skhd": {
     "description": "Simple hotkey daemon for macOS",
@@ -436239,6 +436279,11 @@
     "pname": "speedtest-rs",
     "version": "0.2.0"
   },
+  "legacyPackages.x86_64-linux.speedtest-tracker": {
+    "description": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection",
+    "pname": "speedtest-tracker",
+    "version": "1.13.10"
+  },
   "legacyPackages.x86_64-linux.speex": {
     "description": "Open Source/Free Software patent-free audio compression format designed for speech",
     "pname": "speex",
@@ -438313,6 +438358,11 @@
     "description": "Modern media center that gives you the freedom to watch everything you want",
     "pname": "stremio-shell",
     "version": "4.4.168"
+  },
+  "legacyPackages.x86_64-linux.stremio-linux-shell": {
+    "description": "Modern media center that gives you the freedom to watch everything you want",
+    "pname": "stremio-linux-shell",
+    "version": "1.0.0-beta.13"
   },
   "legacyPackages.x86_64-linux.stress": {
     "description": "Simple workload generator for POSIX systems. It imposes a configurable amount of CPU, memory, I/O, and disk stress on the system",
@@ -483537,7 +483587,7 @@
   "legacyPackages.x86_64-linux.ty": {
     "description": "Extremely fast Python type checker and language server, written in Rust",
     "pname": "ty",
-    "version": "0.0.20"
+    "version": "0.0.21"
   },
   "legacyPackages.x86_64-linux.tydra": {
     "description": "Shortcut menu-based task runner, inspired by Emacs Hydra",
@@ -506954,6 +507004,11 @@
     "pname": "uhk-udev-rules",
     "version": "9.0.2"
   },
+  "legacyPackages.x86_64-linux.uhttpd": {
+    "description": "Tiny HTTP server from OpenWrt project",
+    "pname": "uhttpd",
+    "version": "0-unstable-2025-12-24"
+  },
   "legacyPackages.x86_64-linux.uhttpmock": {
     "description": "Project for mocking web service APIs which use HTTP or HTTPS",
     "pname": "uhttpmock",
@@ -510547,7 +510602,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.avante-nvim": {
     "description": "Neovim plugin designed to emulate the behaviour of the Cursor AI IDE",
     "pname": "vimplugin-avante.nvim",
-    "version": "0.0.27-unstable-2026-02-23"
+    "version": "0.0.27-unstable-2026-03-04"
   },
   "legacyPackages.x86_64-linux.vimPlugins.aw-watcher-nvim": {
     "description": "",
@@ -512198,6 +512253,11 @@
     "description": "",
     "pname": "vimplugin-dial.nvim",
     "version": "0.5.1-unstable-2025-12-21"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.diffs-nvim": {
+    "description": "",
+    "pname": "vimplugin-diffs.nvim",
+    "version": "0.3.0-unstable-2026-03-05"
   },
   "legacyPackages.x86_64-linux.vimPlugins.diffview-nvim": {
     "description": "",
@@ -522192,7 +522252,7 @@
   "legacyPackages.x86_64-linux.vkd3d": {
     "description": "Direct3D to Vulkan translation library",
     "pname": "vkd3d",
-    "version": "1.18"
+    "version": "1.19"
   },
   "legacyPackages.x86_64-linux.vkd3d-proton": {
     "description": "Fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan",
@@ -527063,6 +527123,11 @@
     "description": "Wikipedia Reader for the GNOME Desktop",
     "pname": "wike",
     "version": "3.2.0"
+  },
+  "legacyPackages.x86_64-linux.wiki-go": {
+    "description": "A modern, feature-rich, databaseless flat-file wiki platform built with Go",
+    "pname": "wiki-go",
+    "version": "1.8.4"
   },
   "legacyPackages.x86_64-linux.wiki-js": {
     "description": "Modern and powerful wiki app built on Node.js",
@@ -532657,7 +532722,7 @@
   "legacyPackages.x86_64-linux.yarn-berry": {
     "description": "Fast, reliable, and secure dependency management",
     "pname": "yarn-berry",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.yarn-berry_3": {
     "description": "Fast, reliable, and secure dependency management",
@@ -532667,7 +532732,7 @@
   "legacyPackages.x86_64-linux.yarn-berry_4": {
     "description": "Fast, reliable, and secure dependency management",
     "pname": "yarn-berry",
-    "version": "4.12.0"
+    "version": "4.13.0"
   },
   "legacyPackages.x86_64-linux.yarn-lock-converter": {
     "description": "Converts modern Yarn v2+ yarn.lock files into a Yarn v1 format",
