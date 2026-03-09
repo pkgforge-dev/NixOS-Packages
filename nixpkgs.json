@@ -622,7 +622,7 @@
   "legacyPackages.x86_64-linux.abctl": {
     "description": "Airbyte's CLI for managing local Airbyte installations",
     "pname": "abctl",
-    "version": "0.30.3"
+    "version": "0.30.4"
   },
   "legacyPackages.x86_64-linux.abduco": {
     "description": "Allows programs to be run independently from its controlling terminal",
@@ -4232,7 +4232,7 @@
   "legacyPackages.x86_64-linux.alt-tab-macos": {
     "description": "Windows alt-tab on macOS",
     "pname": "alt-tab-macos",
-    "version": "8.3.4"
+    "version": "10.4.0"
   },
   "legacyPackages.x86_64-linux.altair": {
     "description": "Feature-rich GraphQL Client IDE",
@@ -4487,7 +4487,7 @@
   "legacyPackages.x86_64-linux.amnezia-vpn": {
     "description": "Amnezia VPN Client",
     "pname": "amnezia-vpn",
-    "version": "4.8.11.4"
+    "version": "4.8.14.1"
   },
   "legacyPackages.x86_64-linux.amneziawg-go": {
     "description": "Userspace Go implementation of AmneziaWG",
@@ -12022,7 +12022,7 @@
   "legacyPackages.x86_64-linux.aws-lc": {
     "description": "General-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers",
     "pname": "aws-lc",
-    "version": "1.67.0"
+    "version": "1.69.0"
   },
   "legacyPackages.x86_64-linux.aws-mfa": {
     "description": "Manage AWS MFA Security Credentials",
@@ -27267,7 +27267,7 @@
   "legacyPackages.x86_64-linux.collector": {
     "description": "Drag multiple files and folders on to Collection window, drop them anywhere",
     "pname": "collector",
-    "version": "0-unstable-2024-11-11"
+    "version": "0-unstable-2026-02-04"
   },
   "legacyPackages.x86_64-linux.collision": {
     "description": "Check hashes for your files",
@@ -28202,12 +28202,12 @@
   "legacyPackages.x86_64-linux.copilot-language-server": {
     "description": "Use GitHub Copilot with any editor or IDE via the Language Server Protocol",
     "pname": "copilot-language-server",
-    "version": "1.434.0"
+    "version": "1.448.0"
   },
   "legacyPackages.x86_64-linux.copilot-language-server-fhs": {
     "description": "Use GitHub Copilot with any editor or IDE via the Language Server Protocol",
     "pname": "copilot-language-server",
-    "version": "1.434.0"
+    "version": "1.448.0"
   },
   "legacyPackages.x86_64-linux.copilot-node-server": {
     "description": "Copilot Node.js server",
@@ -30077,7 +30077,7 @@
   "legacyPackages.x86_64-linux.crush": {
     "description": "Glamourous AI coding agent for your favourite terminal",
     "pname": "crush",
-    "version": "0.47.0"
+    "version": "0.47.2"
   },
   "legacyPackages.x86_64-linux.cryfs": {
     "description": "Cryptographic filesystem for the cloud",
@@ -30802,7 +30802,7 @@
   "legacyPackages.x86_64-linux.cudaPackages.nccl-tests": {
     "description": "Tests to check both the performance and the correctness of NVIDIA NCCL operations",
     "pname": "cuda12.8-nccl-tests",
-    "version": "2.17.9"
+    "version": "2.17.10"
   },
   "legacyPackages.x86_64-linux.cudaPackages.nsight_compute": {
     "description": "Interactive profiler for CUDA and NVIDIA OptiX",
@@ -33399,6 +33399,11 @@
     "pname": "deer",
     "version": "1.4"
   },
+  "legacyPackages.x86_64-linux.deezer-desktop": {
+    "description": "Unofficial Linux port of the music streaming application",
+    "pname": "deezer-desktop",
+    "version": "7.1.100"
+  },
   "legacyPackages.x86_64-linux.deezer-enhanced": {
     "description": "Unofficial application for Deezer with enhanced features",
     "pname": "deezer-enhanced",
@@ -33822,7 +33827,7 @@
   "legacyPackages.x86_64-linux.devenv": {
     "description": "Fast, Declarative, Reproducible, and Composable Developer Environments",
     "pname": "devenv",
-    "version": "2.0.2"
+    "version": "2.0.3"
   },
   "legacyPackages.x86_64-linux.devhelp": {
     "description": "API documentation browser for GNOME",
@@ -34007,7 +34012,7 @@
   "legacyPackages.x86_64-linux.dgraph": {
     "description": "Fast, Distributed Graph DB",
     "pname": "dgraph",
-    "version": "25.2.0"
+    "version": "25.3.0"
   },
   "legacyPackages.x86_64-linux.dhall": {
     "description": "A configuration language guaranteed to terminate",
@@ -37012,7 +37017,7 @@
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-biome": {
     "description": "Biome (JS/TS/JSON) wrapper plugin",
     "pname": "dprint-plugin-biome",
-    "version": "0.11.14"
+    "version": "0.12.1"
   },
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-dockerfile": {
     "description": "Dockerfile code formatter",
@@ -43187,7 +43192,7 @@
   "legacyPackages.x86_64-linux.fermyon-spin": {
     "description": "Framework for building, deploying, and running fast, secure, and composable cloud microservices with WebAssembly",
     "pname": "fermyon-spin",
-    "version": "3.5.1"
+    "version": "3.6.2"
   },
   "legacyPackages.x86_64-linux.fernglas": {
     "description": "Looking glass for your network using BGP and BMP as data source",
@@ -52577,7 +52582,7 @@
   "legacyPackages.x86_64-linux.gnome.gvfs": {
     "description": "Virtual Filesystem support library (full GNOME support)",
     "pname": "gvfs",
-    "version": "1.58.1"
+    "version": "1.58.2"
   },
   "legacyPackages.x86_64-linux.gnome.nixos-gsettings-overrides": {
     "description": "",
@@ -60207,7 +60212,7 @@
   "legacyPackages.x86_64-linux.gosec": {
     "description": "Golang security checker",
     "pname": "gosec",
-    "version": "2.23.0"
+    "version": "2.24.7"
   },
   "legacyPackages.x86_64-linux.gosh": {
     "description": "Reverse/bind shell generator",
@@ -60527,12 +60532,12 @@
   "legacyPackages.x86_64-linux.gpauth": {
     "description": "CLI for GlobalProtect VPN, based on OpenConnect, supports the SSO authentication method",
     "pname": "gpauth",
-    "version": "2.5.0"
+    "version": "2.5.1"
   },
   "legacyPackages.x86_64-linux.gpclient": {
     "description": "CLI for GlobalProtect VPN, based on OpenConnect, supports the SSO authentication method",
     "pname": "gpclient",
-    "version": "2.5.0"
+    "version": "2.5.1"
   },
   "legacyPackages.x86_64-linux.gpd-pocket-4-pipewire": {
     "description": "Pipewire audio DSP for internal speakers of GPD Pocket 4",
@@ -62997,7 +63002,7 @@
   "legacyPackages.x86_64-linux.gvfs": {
     "description": "Virtual Filesystem support library",
     "pname": "gvfs",
-    "version": "1.58.1"
+    "version": "1.58.2"
   },
   "legacyPackages.x86_64-linux.gvisor": {
     "description": "Application Kernel for Containers",
@@ -165652,7 +165657,7 @@
   "legacyPackages.x86_64-linux.igir": {
     "description": "Video game ROM collection manager to help filter, sort, patch, archive, and report on collections on any OS",
     "pname": "igir",
-    "version": "4.2.0"
+    "version": "4.3.2"
   },
   "legacyPackages.x86_64-linux.igmpproxy": {
     "description": "Daemon that routes multicast using IGMP forwarding",
@@ -174612,7 +174617,7 @@
   "legacyPackages.x86_64-linux.klassy": {
     "description": "Highly customizable binary Window Decoration, Application Style and Global Theme plugin for recent versions of the KDE Plasma desktop",
     "pname": "klassy",
-    "version": "6.5"
+    "version": "6.5.3"
   },
   "legacyPackages.x86_64-linux.klaus": {
     "description": "First Git web viewer that Just Works",
@@ -186107,7 +186112,7 @@
   "legacyPackages.x86_64-linux.linux-wallpaperengine": {
     "description": "Wallpaper Engine backgrounds for Linux",
     "pname": "linux-wallpaperengine",
-    "version": "0-unstable-2026-01-25"
+    "version": "0-unstable-2026-03-01"
   },
   "legacyPackages.x86_64-linux.linux-wifi-hotspot": {
     "description": "Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface",
@@ -186402,7 +186407,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -187217,7 +187222,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -188032,7 +188037,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -188842,7 +188847,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -189657,7 +189662,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12_hardened.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -190472,7 +190477,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -191287,7 +191292,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_19.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_19.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -192102,7 +192107,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -192912,7 +192917,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_hardened.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -193727,7 +193732,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_lqx.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -194542,7 +194547,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -195357,7 +195362,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -196172,7 +196177,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -196987,7 +196992,7 @@
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -197802,7 +197807,7 @@
   "legacyPackages.x86_64-linux.linuxPackages.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -198622,7 +198627,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_latest.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_latest.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -199437,7 +199442,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_lqx.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_lqx.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -200252,7 +200257,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -201067,7 +201072,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -201882,7 +201887,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -202697,7 +202702,7 @@
   "legacyPackages.x86_64-linux.linuxPackages_zen.evdi": {
     "description": "Extensible Virtual Display Interface",
     "pname": "evdi",
-    "version": "1.14.13"
+    "version": "1.14.15"
   },
   "legacyPackages.x86_64-linux.linuxPackages_zen.facetimehd": {
     "description": "Linux driver for the Facetime HD (Broadcom 1570) PCIe webcam",
@@ -213292,7 +213297,7 @@
   "legacyPackages.x86_64-linux.lucide": {
     "description": "Open-source icon library that provides 1000+ icons",
     "pname": "lucide",
-    "version": "0.544.0"
+    "version": "0.563.0"
   },
   "legacyPackages.x86_64-linux.lucky-cli": {
     "description": "Crystal library for creating and running tasks. Also generates Lucky projects",
@@ -217512,7 +217517,7 @@
   "legacyPackages.x86_64-linux.metabase": {
     "description": "Business Intelligence and Embedded Analytics tool",
     "pname": "metabase",
-    "version": "0.58.5"
+    "version": "0.59.1"
   },
   "legacyPackages.x86_64-linux.metabigor": {
     "description": "Tool to perform OSINT tasks",
@@ -219062,7 +219067,7 @@
   "legacyPackages.x86_64-linux.mirrord": {
     "description": "Run local processes in the context of Kubernetes environment",
     "pname": "mirrord",
-    "version": "3.191.0"
+    "version": "3.193.0"
   },
   "legacyPackages.x86_64-linux.mirtk": {
     "description": "Medical image registration library and tools",
@@ -224782,17 +224787,17 @@
   "legacyPackages.x86_64-linux.nezha": {
     "description": "Self-hosted, lightweight server and website monitoring and O&M tool",
     "pname": "nezha",
-    "version": "1.14.14"
+    "version": "2.0.4"
   },
   "legacyPackages.x86_64-linux.nezha-agent": {
     "description": "Agent of Nezha Monitoring",
     "pname": "nezha-agent",
-    "version": "1.15.0"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.nezha-theme-admin": {
     "description": "Nezha monitoring admin frontend",
     "pname": "nezha-theme-admin",
-    "version": "1.14.4"
+    "version": "2.0.4"
   },
   "legacyPackages.x86_64-linux.nezha-theme-nazhua": {
     "description": "Nezha monitoring theme called Nazhua",
@@ -224802,7 +224807,7 @@
   "legacyPackages.x86_64-linux.nezha-theme-user": {
     "description": "Nezha monitoring user frontend based on next.js",
     "pname": "nezha-theme-user",
-    "version": "1.32.0"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.nf-test": {
     "description": "Simple test framework for Nextflow pipelines",
@@ -224842,7 +224847,7 @@
   "legacyPackages.x86_64-linux.nfs-utils": {
     "description": "Linux user-space NFS utilities",
     "pname": "nfs-utils",
-    "version": "2.8.5"
+    "version": "2.8.6"
   },
   "legacyPackages.x86_64-linux.nftables": {
     "description": "Project that aims to replace the existing {ip,ip6,arp,eb}tables framework",
@@ -249533,6 +249538,11 @@
     "description": "Independent Rust text editor that runs in your terminal",
     "pname": "ox",
     "version": "0.7.7"
+  },
+  "legacyPackages.x86_64-linux.oxdraw": {
+    "description": "Diagram as Code Tool Written in Rust with Draggable Editing",
+    "pname": "oxdraw",
+    "version": "0.2.0"
   },
   "legacyPackages.x86_64-linux.oxefmsynth": {
     "description": "Open source VST 2.4 instrument plugin",
@@ -294432,7 +294442,7 @@
   "legacyPackages.x86_64-linux.python313Packages.django-tasks": {
     "description": "Reference implementation and backport of background workers and tasks in Django",
     "pname": "python3.13-django-tasks",
-    "version": "0.11.0"
+    "version": "0.12.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.django-tastypie": {
     "description": "Utilities and helpers for writing Pylint plugins",
@@ -301239,6 +301249,11 @@
     "pname": "python3.13-hypothesis-auto",
     "version": "1.1.5"
   },
+  "legacyPackages.x86_64-linux.python313Packages.hypothesis_6_136": {
+    "description": "Library for property based testing",
+    "pname": "python3.13-hypothesis",
+    "version": "6.136.9"
+  },
   "legacyPackages.x86_64-linux.python313Packages.hypothesmith": {
     "description": "Hypothesis strategies for generating Python programs, something like CSmith",
     "pname": "python3.13-hypothesmith",
@@ -303842,17 +303857,17 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.13-langchain",
-    "version": "1.2.7"
+    "version": "1.2.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-anthropic": {
     "description": "Build LangChain applications with Anthropic",
     "pname": "python3.13-langchain-anthropic",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-aws": {
     "description": "Build LangChain application on AWS",
     "pname": "python3.13-langchain-aws",
-    "version": "1.2.5"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-azure-dynamic-sessions": {
     "description": "Integration package connecting Azure Container Apps dynamic sessions and LangChain",
@@ -303867,7 +303882,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-classic": {
     "description": "Classic (0.x) compatibility layer for LangChain",
     "pname": "python3.13-langchain-classic",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-community": {
     "description": "Community contributed LangChain integrations",
@@ -303877,7 +303892,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-core": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.13-langchain-core",
-    "version": "1.2.12"
+    "version": "1.2.17"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-deepseek": {
     "description": "Integration package connecting DeepSeek and LangChain",
@@ -303927,7 +303942,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-openai": {
     "description": "Integration package connecting OpenAI and LangChain",
     "pname": "python3.13-langchain-openai",
-    "version": "1.1.6"
+    "version": "1.1.10"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-perplexity": {
     "description": "Build LangChain applications with Perplexity",
@@ -303937,7 +303952,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-tests": {
     "description": "Build context-aware reasoning applications",
     "pname": "python3.13-langchain-tests",
-    "version": "1.1.2"
+    "version": "1.1.5"
   },
   "legacyPackages.x86_64-linux.python313Packages.langchain-text-splitters": {
     "description": "LangChain utilities for splitting into chunks a wide variety of text documents",
@@ -303947,7 +303962,7 @@
   "legacyPackages.x86_64-linux.python313Packages.langchain-xai": {
     "description": "Build LangChain applications with X AI",
     "pname": "python3.13-langchain-xai",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -314325,14 +314340,14 @@
     "version": "1.3.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.postgrest": {
-    "description": "PostgREST client for Python, provides an ORM interface to PostgREST",
+    "description": "Client library for Supabase Functions",
     "pname": "python3.13-postgrest",
-    "version": "1.1.1"
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.postgrest-py": {
-    "description": "PostgREST client for Python, provides an ORM interface to PostgREST",
+    "description": "Client library for Supabase Functions",
     "pname": "python3.13-postgrest",
-    "version": "1.1.1"
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.posthog": {
     "description": "Module for interacting with PostHog",
@@ -320042,7 +320057,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pytensor": {
     "description": "Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays",
     "pname": "python3.13-pytensor",
-    "version": "2.38.1"
+    "version": "2.38.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pytesseract": {
     "description": "Python wrapper for Google Tesseract",
@@ -323420,9 +323435,9 @@
     "version": "0.14.3"
   },
   "legacyPackages.x86_64-linux.python313Packages.realtime": {
-    "description": "Python Realtime Client for Supabase",
-    "pname": "python3.13-realtime-py",
-    "version": "2.7.0"
+    "description": "Client library for Supabase Functions",
+    "pname": "python3.13-realtime",
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.rebulk": {
     "description": "Advanced string matching from simple patterns",
@@ -328125,9 +328140,9 @@
     "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.storage3": {
-    "description": "Supabase Storage client for Python.",
+    "description": "Client library for Supabase Functions",
     "pname": "python3.13-storage3",
-    "version": "0.12.2"
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.stp": {
     "description": "Simple Theorem Prover",
@@ -328442,12 +328457,17 @@
   "legacyPackages.x86_64-linux.python313Packages.supabase": {
     "description": "Supabas client for Python",
     "pname": "python3.13-supabase",
-    "version": "2.27.2"
+    "version": "2.28.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.supabase-auth": {
+    "description": "Client library for Supabase Auth",
+    "pname": "python3.13-supabase-auth",
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.supabase-functions": {
-    "description": "Library for Supabase Functions",
-    "pname": "python3.13-supafunc",
-    "version": "0.10.2"
+    "description": "Client library for Supabase Functions",
+    "pname": "python3.13-supabase-functions",
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.supafunc": {
     "description": "Library for Supabase Functions",
@@ -329252,7 +329272,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tesserocr": {
     "description": "Simple, Pillow-friendly, wrapper around the tesseract-ocr API for Optical Character Recognition (OCR)",
     "pname": "python3.13-tesserocr",
-    "version": "2.9.2"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tessie-api": {
     "description": "Python wrapper for the Tessie API",
@@ -329827,7 +329847,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tlsh": {
     "description": "Trend Micro Locality Sensitive Hash",
     "pname": "python3.13-tlsh",
-    "version": "4.12.1"
+    "version": "5.0.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tlslite-ng": {
     "description": "Implementation of SSL and TLS",
@@ -330098,6 +330118,11 @@
     "description": "Model summary in PyTorch similar to `model.summary()` in Keras",
     "pname": "python3.13-torchsummary",
     "version": "1.5.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.torchtitan": {
+    "description": "PyTorch native platform for training generative AI models",
+    "pname": "python3.13-torchtitan",
+    "version": "0.2.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.torchtnt": {
     "description": "Lightweight library for PyTorch training tools and utilities",
@@ -347647,7 +347672,7 @@
   "legacyPackages.x86_64-linux.python314Packages.django-tasks": {
     "description": "Reference implementation and backport of background workers and tasks in Django",
     "pname": "python3.14-django-tasks",
-    "version": "0.11.0"
+    "version": "0.12.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.django-tastypie": {
     "description": "Utilities and helpers for writing Pylint plugins",
@@ -354454,6 +354479,11 @@
     "pname": "python3.14-hypothesis-auto",
     "version": "1.1.5"
   },
+  "legacyPackages.x86_64-linux.python314Packages.hypothesis_6_136": {
+    "description": "Library for property based testing",
+    "pname": "python3.14-hypothesis",
+    "version": "6.136.9"
+  },
   "legacyPackages.x86_64-linux.python314Packages.hypothesmith": {
     "description": "Hypothesis strategies for generating Python programs, something like CSmith",
     "pname": "python3.14-hypothesmith",
@@ -357057,17 +357087,17 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.14-langchain",
-    "version": "1.2.7"
+    "version": "1.2.10"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-anthropic": {
     "description": "Build LangChain applications with Anthropic",
     "pname": "python3.14-langchain-anthropic",
-    "version": "1.3.3"
+    "version": "1.3.4"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-aws": {
     "description": "Build LangChain application on AWS",
     "pname": "python3.14-langchain-aws",
-    "version": "1.2.5"
+    "version": "1.3.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-azure-dynamic-sessions": {
     "description": "Integration package connecting Azure Container Apps dynamic sessions and LangChain",
@@ -357082,7 +357112,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-classic": {
     "description": "Classic (0.x) compatibility layer for LangChain",
     "pname": "python3.14-langchain-classic",
-    "version": "1.0.1"
+    "version": "1.0.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-community": {
     "description": "Community contributed LangChain integrations",
@@ -357092,7 +357122,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-core": {
     "description": "Building applications with LLMs through composability",
     "pname": "python3.14-langchain-core",
-    "version": "1.2.12"
+    "version": "1.2.17"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-deepseek": {
     "description": "Integration package connecting DeepSeek and LangChain",
@@ -357142,7 +357172,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-openai": {
     "description": "Integration package connecting OpenAI and LangChain",
     "pname": "python3.14-langchain-openai",
-    "version": "1.1.6"
+    "version": "1.1.10"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-perplexity": {
     "description": "Build LangChain applications with Perplexity",
@@ -357152,7 +357182,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-tests": {
     "description": "Build context-aware reasoning applications",
     "pname": "python3.14-langchain-tests",
-    "version": "1.1.2"
+    "version": "1.1.5"
   },
   "legacyPackages.x86_64-linux.python314Packages.langchain-text-splitters": {
     "description": "LangChain utilities for splitting into chunks a wide variety of text documents",
@@ -357162,7 +357192,7 @@
   "legacyPackages.x86_64-linux.python314Packages.langchain-xai": {
     "description": "Build LangChain applications with X AI",
     "pname": "python3.14-langchain-xai",
-    "version": "1.2.1"
+    "version": "1.2.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.langcodes": {
     "description": "Python toolkit for working with and comparing the standardized codes for languages",
@@ -367540,14 +367570,14 @@
     "version": "1.3.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.postgrest": {
-    "description": "PostgREST client for Python, provides an ORM interface to PostgREST",
+    "description": "Client library for Supabase Functions",
     "pname": "python3.14-postgrest",
-    "version": "1.1.1"
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.postgrest-py": {
-    "description": "PostgREST client for Python, provides an ORM interface to PostgREST",
+    "description": "Client library for Supabase Functions",
     "pname": "python3.14-postgrest",
-    "version": "1.1.1"
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.posthog": {
     "description": "Module for interacting with PostHog",
@@ -373257,7 +373287,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pytensor": {
     "description": "Python library to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays",
     "pname": "python3.14-pytensor",
-    "version": "2.38.1"
+    "version": "2.38.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.pytesseract": {
     "description": "Python wrapper for Google Tesseract",
@@ -376635,9 +376665,9 @@
     "version": "0.14.3"
   },
   "legacyPackages.x86_64-linux.python314Packages.realtime": {
-    "description": "Python Realtime Client for Supabase",
-    "pname": "python3.14-realtime-py",
-    "version": "2.7.0"
+    "description": "Client library for Supabase Functions",
+    "pname": "python3.14-realtime",
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.rebulk": {
     "description": "Advanced string matching from simple patterns",
@@ -381340,9 +381370,9 @@
     "version": "1.1.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.storage3": {
-    "description": "Supabase Storage client for Python.",
+    "description": "Client library for Supabase Functions",
     "pname": "python3.14-storage3",
-    "version": "0.12.2"
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.stp": {
     "description": "Simple Theorem Prover",
@@ -381657,12 +381687,17 @@
   "legacyPackages.x86_64-linux.python314Packages.supabase": {
     "description": "Supabas client for Python",
     "pname": "python3.14-supabase",
-    "version": "2.27.2"
+    "version": "2.28.0"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.supabase-auth": {
+    "description": "Client library for Supabase Auth",
+    "pname": "python3.14-supabase-auth",
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.supabase-functions": {
-    "description": "Library for Supabase Functions",
-    "pname": "python3.14-supafunc",
-    "version": "0.10.2"
+    "description": "Client library for Supabase Functions",
+    "pname": "python3.14-supabase-functions",
+    "version": "2.28.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.supafunc": {
     "description": "Library for Supabase Functions",
@@ -382467,7 +382502,7 @@
   "legacyPackages.x86_64-linux.python314Packages.tesserocr": {
     "description": "Simple, Pillow-friendly, wrapper around the tesseract-ocr API for Optical Character Recognition (OCR)",
     "pname": "python3.14-tesserocr",
-    "version": "2.9.2"
+    "version": "2.8.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tessie-api": {
     "description": "Python wrapper for the Tessie API",
@@ -383042,7 +383077,7 @@
   "legacyPackages.x86_64-linux.python314Packages.tlsh": {
     "description": "Trend Micro Locality Sensitive Hash",
     "pname": "python3.14-tlsh",
-    "version": "4.12.1"
+    "version": "5.0.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tlslite-ng": {
     "description": "Implementation of SSL and TLS",
@@ -383313,6 +383348,11 @@
     "description": "Model summary in PyTorch similar to `model.summary()` in Keras",
     "pname": "python3.14-torchsummary",
     "version": "1.5.1"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.torchtitan": {
+    "description": "PyTorch native platform for training generative AI models",
+    "pname": "python3.14-torchtitan",
+    "version": "0.2.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.torchtnt": {
     "description": "Lightweight library for PyTorch training tools and utilities",
@@ -434474,6 +434514,11 @@
     "pname": "slang",
     "version": "2.3.3"
   },
+  "legacyPackages.x86_64-linux.sledtool": {
+    "description": "CLI tool to work with Sled key-value databases",
+    "pname": "sledtool",
+    "version": "0.1.3"
+  },
   "legacyPackages.x86_64-linux.sleek": {
     "description": "CLI tool for formatting SQL",
     "pname": "sleek",
@@ -434532,12 +434577,12 @@
   "legacyPackages.x86_64-linux.slimevr": {
     "description": "App for facilitating full-body tracking in virtual reality",
     "pname": "slimevr",
-    "version": "18.1.0"
+    "version": "18.2.0"
   },
   "legacyPackages.x86_64-linux.slimevr-server": {
     "description": "App for facilitating full-body tracking in virtual reality",
     "pname": "slimevr-server",
-    "version": "18.1.0"
+    "version": "18.2.0"
   },
   "legacyPackages.x86_64-linux.slimserver": {
     "description": "Lyrion Music Server (formerly Logitech Media Server) is open-source server software which controls a wide range of Squeezebox audio players",
@@ -434647,7 +434692,7 @@
   "legacyPackages.x86_64-linux.slskd": {
     "description": "Modern client-server application for the Soulseek file sharing network",
     "pname": "slskd",
-    "version": "0.24.4"
+    "version": "0.24.5"
   },
   "legacyPackages.x86_64-linux.slsnif": {
     "description": "Serial line sniffer",
@@ -435787,7 +435832,7 @@
   "legacyPackages.x86_64-linux.sonic-visualiser": {
     "description": "View and analyse contents of music audio files",
     "pname": "sonic-visualiser",
-    "version": "4.5.1"
+    "version": "5.2.1"
   },
   "legacyPackages.x86_64-linux.sonivox": {
     "description": "MIDI synthesizer library",
@@ -436243,6 +436288,11 @@
     "description": "Apache Spark is a fast and general engine for large-scale data processing",
     "pname": "spark",
     "version": "4.0.1"
+  },
+  "legacyPackages.x86_64-linux.sparkle": {
+    "description": "Another Mihomo GUI",
+    "pname": "sparkle",
+    "version": "1.26.2"
   },
   "legacyPackages.x86_64-linux.sparrow": {
     "description": "Modern desktop Bitcoin wallet application supporting most hardware wallets and built on common standards such as PSBT, with an emphasis on transparency and usability",
@@ -443542,12 +443592,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.okta": {
     "description": "",
     "pname": "terraform-provider-okta",
-    "version": "6.5.5"
+    "version": "6.6.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.okta_okta": {
     "description": "",
     "pname": "terraform-provider-okta",
-    "version": "6.5.5"
+    "version": "6.6.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.oktaasa": {
     "description": "",
@@ -445326,8 +445376,8 @@
   },
   "legacyPackages.x86_64-linux.tests.fetchgit.prefetch-git-no-add-path": {
     "description": "",
-    "pname": "nix-prefetch-git-no-add-path-salted-bd35674kmh82",
-    "version": ""
+    "pname": "nix-prefetch-git-no-add-path-salted",
+    "version": "32sqm2f97dry"
   },
   "legacyPackages.x86_64-linux.tests.fetchgit.rootDir": {
     "description": "",
@@ -480212,7 +480262,7 @@
   "legacyPackages.x86_64-linux.tombi": {
     "description": "TOML Formatter / Linter / Language Server",
     "pname": "tombi",
-    "version": "0.7.33"
+    "version": "0.9.2"
   },
   "legacyPackages.x86_64-linux.tombl": {
     "description": "Easily query TOML files from bash",
@@ -510037,7 +510087,7 @@
   "legacyPackages.x86_64-linux.victoriatraces": {
     "description": "Fast open-source observability solution for distributed traces",
     "pname": "VictoriaTraces",
-    "version": "0.7.1"
+    "version": "0.8.0"
   },
   "legacyPackages.x86_64-linux.vid-stab": {
     "description": "Video stabilization library",
@@ -522402,7 +522452,7 @@
   "legacyPackages.x86_64-linux.vk-bootstrap": {
     "description": "Vulkan Bootstrapping Library",
     "pname": "vk-bootstrap",
-    "version": "0.7"
+    "version": "1.4.335"
   },
   "legacyPackages.x86_64-linux.vk-cli": {
     "description": "Console (ncurses) client for vk.com written in D",
@@ -524579,6 +524629,11 @@
     "pname": "vscode-extension-PollywogGames-pico8-ls",
     "version": "0.6.1"
   },
+  "legacyPackages.x86_64-linux.vscode-extensions.pranaygp.vscode-css-peek": {
+    "description": "Allow peeking to css ID and class strings as definitions from html files to respective CSS",
+    "pname": "vscode-extension-pranaygp-vscode-css-peek",
+    "version": "4.4.3"
+  },
   "legacyPackages.x86_64-linux.vscode-extensions.prettier.prettier-vscode": {
     "description": "Visual Studio Code extension for Prettier",
     "pname": "vscode-extension-prettier-vscode",
@@ -525902,7 +525957,7 @@
   "legacyPackages.x86_64-linux.warzone2100": {
     "description": "Free RTS game, originally developed by Pumpkin Studios",
     "pname": "warzone2100",
-    "version": "4.6.2"
+    "version": "4.6.3"
   },
   "legacyPackages.x86_64-linux.wasabibackend": {
     "description": "Backend for the Wasabi Wallet",
@@ -526573,6 +526628,11 @@
     "description": "WebAssembly REPL",
     "pname": "webassemblyjs-repl",
     "version": "1.14.1"
+  },
+  "legacyPackages.x86_64-linux.webcamize": {
+    "description": "Use (almost) any camera as a webcam",
+    "pname": "webcamize",
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.webcamoid": {
     "description": "Webcam Capture Software",
@@ -534047,7 +534107,7 @@
   "legacyPackages.x86_64-linux.zammad": {
     "description": "Web-based, open source user support/ticketing solution",
     "pname": "zammad",
-    "version": "6.5.2"
+    "version": "7.0.0"
   },
   "legacyPackages.x86_64-linux.zandronum": {
     "description": "Multiplayer oriented port, based off Skulltag, for Doom and Doom II by id Software",
@@ -534097,7 +534157,7 @@
   "legacyPackages.x86_64-linux.zarf": {
     "description": "DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev",
     "pname": "zarf",
-    "version": "0.70.1"
+    "version": "0.73.0"
   },
   "legacyPackages.x86_64-linux.zasm": {
     "description": "Z80 / 8080 / Z180 assembler (for unix-style OS)",
