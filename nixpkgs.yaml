@@ -9189,7 +9189,7 @@ legacyPackages.x86_64-linux.autobloody:
 legacyPackages.x86_64-linux.autobrr:
   description: Modern, easy to use download automation for torrents and usenet
   pname: autobrr
-  version: 1.73.0
+  version: 1.74.0
 legacyPackages.x86_64-linux.autobuild:
   description: Continuous integration tool
   pname: autobuild
@@ -15053,7 +15053,7 @@ legacyPackages.x86_64-linux.cabinpkg:
 legacyPackages.x86_64-linux.cables:
   description: Standalone version of cables, a tool for creating beautiful interactive content
   pname: cables
-  version: 0.9.0
+  version: 0.10.2
 legacyPackages.x86_64-linux.cacert:
   description: Bundle of X.509 certificates of public Certificate Authorities (CA)
   pname: nss-cacert
@@ -15865,7 +15865,7 @@ legacyPackages.x86_64-linux.cargo-ndk:
 legacyPackages.x86_64-linux.cargo-nextest:
   description: Next-generation test runner for Rust projects
   pname: cargo-nextest
-  version: 0.9.129
+  version: 0.9.130
 legacyPackages.x86_64-linux.cargo-outdated:
   description: Cargo subcommand for displaying when Rust dependencies are out of date
   pname: cargo-outdated
@@ -15961,7 +15961,7 @@ legacyPackages.x86_64-linux.cargo-seek:
 legacyPackages.x86_64-linux.cargo-semver-checks:
   description: Tool to scan your Rust crate for semver violations
   pname: cargo-semver-checks
-  version: 0.46.0
+  version: 0.47.0
 legacyPackages.x86_64-linux.cargo-shear:
   description: Detect and fix unused/misplaced dependencies from Cargo.toml
   pname: cargo-shear
@@ -17105,7 +17105,7 @@ legacyPackages.x86_64-linux.chamber:
 legacyPackages.x86_64-linux.chameleon-cli:
   description: Command line interface for Chameleon Ultra
   pname: chameleon-cli
-  version: 2.1.0-unstable-2026-02-19
+  version: 2.1.0-unstable-2026-02-24
 legacyPackages.x86_64-linux.chameleos:
   description: Screen annotation tool for niri and Hyprland
   pname: chameleos
@@ -17305,7 +17305,7 @@ legacyPackages.x86_64-linux.checkmate:
 legacyPackages.x86_64-linux.checkov:
   description: Static code analysis tool for infrastructure-as-code
   pname: checkov
-  version: 3.2.507
+  version: 3.2.508
 legacyPackages.x86_64-linux.checkpolicy:
   description: SELinux policy compiler
   pname: checkpolicy
@@ -22409,7 +22409,7 @@ legacyPackages.x86_64-linux.consul-template:
 legacyPackages.x86_64-linux.contact:
   description: Console UI for Meshtastic
   pname: contact
-  version: 1.4.16
+  version: 1.4.17
 legacyPackages.x86_64-linux.contacts:
   description: Access contacts from the Mac address book from command-line
   pname: contacts
@@ -22625,7 +22625,7 @@ legacyPackages.x86_64-linux.copyright-update:
 legacyPackages.x86_64-linux.copywrite:
   description: Automate copyright headers and license files at scale
   pname: copywrite
-  version: 0.25.0
+  version: 0.25.1
 legacyPackages.x86_64-linux.coq:
   description: Coq proof assistant
   pname: coq
@@ -24953,7 +24953,7 @@ legacyPackages.x86_64-linux.cura:
 legacyPackages.x86_64-linux.cura-appimage:
   description: 3D printing software
   pname: cura-appimage
-  version: 5.11.0
+  version: 5.12.0
 legacyPackages.x86_64-linux.curaPlugins.octoprint:
   description: Enables printing directly to OctoPrint and monitoring the process
   pname: Cura-OctoPrintPlugin
@@ -36217,7 +36217,7 @@ legacyPackages.x86_64-linux.flycast:
 legacyPackages.x86_64-linux.flyctl:
   description: Command line tools for fly.io services
   pname: flyctl
-  version: 0.4.15
+  version: 0.4.20
 legacyPackages.x86_64-linux.flye:
   description: De novo assembler for single molecule sequencing reads using repeat graphs
   pname: flye
@@ -37337,7 +37337,7 @@ legacyPackages.x86_64-linux.frescobaldi:
 legacyPackages.x86_64-linux.fresh-editor:
   description: Terminal-based text editor with LSP support and TypeScript plugins
   pname: fresh
-  version: 0.2.11
+  version: 0.2.14
 legacyPackages.x86_64-linux.freshfetch:
   description: Fresh take on neofetch
   pname: freshfetch
@@ -38897,7 +38897,7 @@ legacyPackages.x86_64-linux.gef:
 legacyPackages.x86_64-linux.gefyra:
   description: Tool to connect local containers to kubernetes clusters
   pname: gefyra
-  version: 2.3.2
+  version: 2.3.3
 legacyPackages.x86_64-linux.gegl:
   description: Graph-based image processing framework
   pname: gegl
@@ -38937,7 +38937,7 @@ legacyPackages.x86_64-linux.gemget:
 legacyPackages.x86_64-linux.gemini-cli:
   description: AI agent that brings the power of Gemini directly into your terminal
   pname: gemini-cli
-  version: 0.30.0
+  version: 0.31.0
 legacyPackages.x86_64-linux.gemini-cli-bin:
   description: AI agent that brings the power of Gemini directly into your terminal
   pname: gemini-cli-bin
@@ -128437,11 +128437,11 @@ legacyPackages.x86_64-linux.helm-ls:
 legacyPackages.x86_64-linux.helmfile:
   description: Declarative spec for deploying Helm charts
   pname: helmfile
-  version: 1.1.9
+  version: 1.4.1
 legacyPackages.x86_64-linux.helmfile-wrapped:
   description: Declarative spec for deploying Helm charts
   pname: helmfile
-  version: 1.1.9
+  version: 1.4.1
 legacyPackages.x86_64-linux.helmholtz:
   description: Time domain pitch tracker for Pure Data
   pname: helmholtz
@@ -129517,7 +129517,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.zigbee2mqtt-n
 legacyPackages.x86_64-linux.home-manager:
   description: Nix-based user environment configurator
   pname: home-manager
-  version: 0-unstable-2026-02-18
+  version: 0-unstable-2026-03-04
 legacyPackages.x86_64-linux.homebank:
   description: Free, easy, personal accounting for everyone
   pname: homebank
@@ -140725,7 +140725,7 @@ legacyPackages.x86_64-linux.kryoflux:
 legacyPackages.x86_64-linux.kryoptic:
   description: A PKCS#11 soft token written in Rust.
   pname: kryoptic
-  version: 1.4.0
+  version: 1.5.0
 legacyPackages.x86_64-linux.kryptor:
   description: Simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign
   pname: kryptor
@@ -148865,7 +148865,7 @@ legacyPackages.x86_64-linux.linux-exploit-suggester:
 legacyPackages.x86_64-linux.linux-firmware:
   description: Binary firmware collection packaged by kernel.org
   pname: linux-firmware
-  version: "20260221"
+  version: "20260309"
 legacyPackages.x86_64-linux.linux-gpib:
   description: Support package for GPIB (IEEE 488) hardware
   pname: linux-gpib-user
@@ -174265,7 +174265,7 @@ legacyPackages.x86_64-linux.microbin:
 legacyPackages.x86_64-linux.microcode-amd:
   description: AMD Processor microcode patch
   pname: amd-ucode
-  version: "20260221"
+  version: "20260309"
 legacyPackages.x86_64-linux.microcode-intel:
   description: Microcode for Intel processors
   pname: microcode-intel
@@ -175777,7 +175777,7 @@ legacyPackages.x86_64-linux.modd:
 legacyPackages.x86_64-linux.models-dev:
   description: Comprehensive open-source database of AI model specifications, pricing, and capabilities
   pname: models-dev
-  version: 0-unstable-2026-03-01
+  version: 0-unstable-2026-03-09
 legacyPackages.x86_64-linux.modelscan:
   description: Protection against Model Serialization Attacks
   pname: modelscan
@@ -197769,7 +197769,7 @@ legacyPackages.x86_64-linux.openimagedenoise:
 legacyPackages.x86_64-linux.openimageio:
   description: Library and tools for reading and writing images
   pname: openimageio
-  version: 3.1.10.0
+  version: 3.1.11.0
 legacyPackages.x86_64-linux.openipmi:
   description: User-level library that provides a higher-level abstraction of IPMI and generic services
   pname: OpenIPMI
@@ -198561,7 +198561,7 @@ legacyPackages.x86_64-linux.opentofu-ls:
 legacyPackages.x86_64-linux.opentrack:
   description: Head tracking software for MS Windows, Linux, and Apple OSX
   pname: opentrack
-  version: 2026.1.0-unstable-2026-01-24
+  version: 2026.1.0-unstable-2026-03-05
 legacyPackages.x86_64-linux.opentracker:
   description: Bittorrent tracker project which aims for minimal resource usage and is intended to run at your wlan router
   pname: opentracker
@@ -220733,7 +220733,7 @@ legacyPackages.x86_64-linux.pika:
 legacyPackages.x86_64-linux.pika-backup:
   description: Simple backups based on borg
   pname: pika-backup
-  version: 0.7.5
+  version: 0.7.6
 legacyPackages.x86_64-linux.pikchr:
   description: PIC-like markup language for diagrams in technical documentation
   pname: pikchr
@@ -221165,7 +221165,7 @@ legacyPackages.x86_64-linux.pkcrack:
 legacyPackages.x86_64-linux.pkcs11-provider:
   description: OpenSSL 3.x provider to access hardware or software tokens using the PKCS#11 Cryptographic Token Interface
   pname: pkcs11-provider
-  version: "1.1"
+  version: 1.2.0
 legacyPackages.x86_64-linux.pkcs11helper:
   description: Library that simplifies the interaction with PKCS#11 providers
   pname: pkcs11-helper
@@ -222261,7 +222261,7 @@ legacyPackages.x86_64-linux.play-with-mpv:
 legacyPackages.x86_64-linux.playball:
   description: Watch MLB games from the comfort of your own terminal
   pname: playball
-  version: 3.3.0
+  version: 3.4.0
 legacyPackages.x86_64-linux.playbar2:
   description: Mpris2 Client for Plasma5
   pname: playbar2
@@ -226733,7 +226733,7 @@ legacyPackages.x86_64-linux.puddletag:
 legacyPackages.x86_64-linux.pueue:
   description: Daemon for managing long running shell commands
   pname: pueue
-  version: 4.0.3
+  version: 4.0.4
 legacyPackages.x86_64-linux.pufferpanel:
   description: Free, open source game management panel
   pname: pufferpanel
@@ -241021,7 +241021,7 @@ legacyPackages.x86_64-linux.python313Packages.i3ipc:
 legacyPackages.x86_64-linux.python313Packages.iamdata:
   description: Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys
   pname: python3.13-iamdata
-  version: 0.1.202603071
+  version: 0.1.202603081
 legacyPackages.x86_64-linux.python313Packages.iammeter:
   description: Module to work with the IamMeter API
   pname: python3.13-iammeter
@@ -249461,7 +249461,7 @@ legacyPackages.x86_64-linux.python313Packages.openidc-client:
 legacyPackages.x86_64-linux.python313Packages.openimageio:
   description: Library and tools for reading and writing images
   pname: openimageio
-  version: 3.1.10.0
+  version: 3.1.11.0
 legacyPackages.x86_64-linux.python313Packages.openmm:
   description: Toolkit for molecular simulation using high performance GPU code
   pname: openmm
@@ -263301,7 +263301,7 @@ legacyPackages.x86_64-linux.python313Packages.tenant-schemas-celery:
 legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python:
   description: Tencent Cloud API 3.0 SDK for Python
   pname: python3.13-tencentcloud-sdk-python
-  version: 3.1.50
+  version: 3.1.51
 legacyPackages.x86_64-linux.python313Packages.tendo:
   description: Adds basic functionality that is not provided by Python
   pname: python3.13-tendo
@@ -264069,7 +264069,7 @@ legacyPackages.x86_64-linux.python313Packages.torchbench:
 legacyPackages.x86_64-linux.python313Packages.torchcodec:
   description: PyTorch media decoding and encoding
   pname: python3.13-torchcodec
-  version: 0.9.1
+  version: 0.10.0
 legacyPackages.x86_64-linux.python313Packages.torchcrepe:
   description: Pytorch implementation of the CREPE pitch tracker
   pname: python3.13-torchcrepe
@@ -283661,7 +283661,7 @@ legacyPackages.x86_64-linux.python314Packages.i3ipc:
 legacyPackages.x86_64-linux.python314Packages.iamdata:
   description: Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys
   pname: python3.14-iamdata
-  version: 0.1.202603071
+  version: 0.1.202603081
 legacyPackages.x86_64-linux.python314Packages.iammeter:
   description: Module to work with the IamMeter API
   pname: python3.14-iammeter
@@ -292101,7 +292101,7 @@ legacyPackages.x86_64-linux.python314Packages.openidc-client:
 legacyPackages.x86_64-linux.python314Packages.openimageio:
   description: Library and tools for reading and writing images
   pname: openimageio
-  version: 3.1.10.0
+  version: 3.1.11.0
 legacyPackages.x86_64-linux.python314Packages.openmm:
   description: Toolkit for molecular simulation using high performance GPU code
   pname: openmm
@@ -305941,7 +305941,7 @@ legacyPackages.x86_64-linux.python314Packages.tenant-schemas-celery:
 legacyPackages.x86_64-linux.python314Packages.tencentcloud-sdk-python:
   description: Tencent Cloud API 3.0 SDK for Python
   pname: python3.14-tencentcloud-sdk-python
-  version: 3.1.50
+  version: 3.1.51
 legacyPackages.x86_64-linux.python314Packages.tendo:
   description: Adds basic functionality that is not provided by Python
   pname: python3.14-tendo
@@ -306709,7 +306709,7 @@ legacyPackages.x86_64-linux.python314Packages.torchbench:
 legacyPackages.x86_64-linux.python314Packages.torchcodec:
   description: PyTorch media decoding and encoding
   pname: python3.14-torchcodec
-  version: 0.9.1
+  version: 0.10.0
 legacyPackages.x86_64-linux.python314Packages.torchcrepe:
   description: Pytorch implementation of the CREPE pitch tracker
   pname: python3.14-torchcrepe
@@ -313189,7 +313189,7 @@ legacyPackages.x86_64-linux.qovery-cli:
 legacyPackages.x86_64-linux.qownnotes:
   description: Plain-text file notepad and todo-list manager with markdown support and Nextcloud/ownCloud integration
   pname: qownnotes
-  version: 26.3.0
+  version: 26.3.7
 legacyPackages.x86_64-linux.qpaeq:
   description: Equalizer interface for pulseaudio's equalizer sinks
   pname: qpaeq
@@ -315773,11 +315773,11 @@ legacyPackages.x86_64-linux.reiser4progs:
 legacyPackages.x86_64-linux.rekor-cli:
   description: CLI client for Sigstore, the Signature Transparency Log
   pname: rekor-cli
-  version: 1.5.0
+  version: 1.5.1
 legacyPackages.x86_64-linux.rekor-server:
   description: Sigstore server, the Signature Transparency Log
   pname: rekor-server
-  version: 1.5.0
+  version: 1.5.1
 legacyPackages.x86_64-linux.release-plz:
   description: Publish Rust crates from CI with a Release PR
   pname: release-plz
@@ -346397,7 +346397,7 @@ legacyPackages.x86_64-linux.shadcn:
 legacyPackages.x86_64-linux.shader-slang:
   description: Shading language that makes it easier to build and maintain large shader codebases in a modular and extensible fashion
   pname: shader-slang
-  version: 2026.3.1
+  version: "2026.4"
 legacyPackages.x86_64-linux.shaderbg:
   description: Shader-based live wallpaper program for compositors that support wlr-layer-shell (Sway and others)
   pname: shaderbg
@@ -349581,7 +349581,7 @@ legacyPackages.x86_64-linux.spotify-player:
 legacyPackages.x86_64-linux.spotify-qt:
   description: Lightweight unofficial Spotify client using Qt
   pname: spotify-qt
-  version: 4.0.2
+  version: 4.0.3
 legacyPackages.x86_64-linux.spotify-tray:
   description: Adds a tray icon to the Spotify Linux client application
   pname: spotify-tray
@@ -350921,7 +350921,7 @@ legacyPackages.x86_64-linux.strawberry:
 legacyPackages.x86_64-linux.streamcontroller:
   description: Elegant Linux app for the Elgato Stream Deck with support for plugins
   pname: streamcontroller
-  version: 1.5.0-beta.12
+  version: 1.5.0-beta.13
 legacyPackages.x86_64-linux.streamdeck-ui:
   description: Linux compatible UI for the Elgato Stream Deck
   pname: streamdeck-ui
@@ -354713,11 +354713,11 @@ legacyPackages.x86_64-linux.terraform-providers.hydra:
 legacyPackages.x86_64-linux.terraform-providers.ibm:
   description: ""
   pname: terraform-provider-ibm
-  version: 1.88.3
+  version: 1.89.0
 legacyPackages.x86_64-linux.terraform-providers.ibm-cloud_ibm:
   description: ""
   pname: terraform-provider-ibm
-  version: 1.88.3
+  version: 1.89.0
 legacyPackages.x86_64-linux.terraform-providers.icinga2:
   description: ""
   pname: terraform-provider-icinga2
@@ -355417,11 +355417,11 @@ legacyPackages.x86_64-linux.terraform-providers.vsphere:
 legacyPackages.x86_64-linux.terraform-providers.vultr:
   description: ""
   pname: terraform-provider-vultr
-  version: 2.30.0
+  version: 2.30.1
 legacyPackages.x86_64-linux.terraform-providers.vultr_vultr:
   description: ""
   pname: terraform-provider-vultr
-  version: 2.30.0
+  version: 2.30.1
 legacyPackages.x86_64-linux.terraform-providers.wavefront:
   description: ""
   pname: terraform-provider-wavefront
@@ -418469,7 +418469,7 @@ legacyPackages.x86_64-linux.vscode-extensions.ExiaHuang.dictionary:
 legacyPackages.x86_64-linux.vscode-extensions.Google.gemini-cli-vscode-ide-companion:
   description: Enable Gemini CLI with direct access to your IDE workspace
   pname: vscode-extension-gemini-cli-vscode-ide-companion
-  version: 0.30.0
+  version: 0.31.0
 legacyPackages.x86_64-linux.vscode-extensions.RoweWilsonFrederiskHolme.wikitext:
   description: Extension that helps users view and write MediaWiki's Wikitext files
   pname: vscode-extension-RoweWilsonFrederiskHolme-wikitext
@@ -427553,7 +427553,7 @@ legacyPackages.x86_64-linux.zed:
 legacyPackages.x86_64-linux.zed-discord-presence:
   description: Discord rich presence for Zed
   pname: zed-discord-presence
-  version: 0.10.0
+  version: 0.10.1
 legacyPackages.x86_64-linux.zed-editor:
   description: High-performance, multiplayer code editor from the creators of Atom and Tree-sitter
   pname: zed-editor
