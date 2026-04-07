@@ -4562,7 +4562,7 @@
   "legacyPackages.x86_64-linux.amp-cli": {
     "description": "CLI for Amp, an agentic coding agent in research preview from Sourcegraph",
     "pname": "amp-cli",
-    "version": "0.0.1774699422-ga16517"
+    "version": "0.0.1775463997-ga80857"
   },
   "legacyPackages.x86_64-linux.amphetype": {
     "description": "Advanced typing practice program",
@@ -11052,7 +11052,7 @@
   "legacyPackages.x86_64-linux.asymptote": {
     "description": "Tool for programming graphics intended to replace Metapost",
     "pname": "asymptote",
-    "version": "3.09"
+    "version": "3.10"
   },
   "legacyPackages.x86_64-linux.async-profiler": {
     "description": "Low overhead sampling profiler for Java that does not suffer from Safepoint bias problem",
@@ -18407,7 +18407,7 @@
   "legacyPackages.x86_64-linux.buildkit": {
     "description": "Concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
     "pname": "buildkit",
-    "version": "0.28.1"
+    "version": "0.29.0"
   },
   "legacyPackages.x86_64-linux.buildkit-nix": {
     "description": "Nix frontend for BuildKit",
@@ -33507,7 +33507,7 @@
   "legacyPackages.x86_64-linux.debian-devscripts": {
     "description": "Debian package maintenance scripts",
     "pname": "debian-devscripts",
-    "version": "2.26.6"
+    "version": "2.26.7"
   },
   "legacyPackages.x86_64-linux.debian-goodies": {
     "description": "Small toolbox-style utilities for Debian systems",
@@ -48272,12 +48272,12 @@
   "legacyPackages.x86_64-linux.gauge": {
     "description": "Light weight cross-platform test automation",
     "pname": "gauge-wrapped",
-    "version": "1.6.28"
+    "version": "1.6.29"
   },
   "legacyPackages.x86_64-linux.gauge-unwrapped": {
     "description": "Light weight cross-platform test automation",
     "pname": "gauge",
-    "version": "1.6.28"
+    "version": "1.6.29"
   },
   "legacyPackages.x86_64-linux.gaugePlugins.dotnet": {
     "description": "Gauge plugin that lets you write tests in C#",
@@ -49942,7 +49942,7 @@
   "legacyPackages.x86_64-linux.ghostfolio": {
     "description": "Open Source Wealth Management Software",
     "pname": "ghostfolio",
-    "version": "2.251.0"
+    "version": "2.252.0"
   },
   "legacyPackages.x86_64-linux.ghostie": {
     "description": "Github notifications in your terminal",
@@ -51607,7 +51607,7 @@
   "legacyPackages.x86_64-linux.glaze": {
     "description": "Extremely fast, in memory, JSON and interface library for modern C++",
     "pname": "glaze",
-    "version": "7.2.2"
+    "version": "7.2.3"
   },
   "legacyPackages.x86_64-linux.glbinding": {
     "description": "C++ binding for the OpenGL API, generated using the gl.xml specification",
@@ -59302,7 +59302,7 @@
   "legacyPackages.x86_64-linux.go-musicfox": {
     "description": "Terminal netease cloud music client written in Go",
     "pname": "go-musicfox",
-    "version": "4.8.0"
+    "version": "4.8.1"
   },
   "legacyPackages.x86_64-linux.go-neb": {
     "description": "Extensible matrix bot written in Go",
@@ -164652,7 +164652,7 @@
   "legacyPackages.x86_64-linux.hyprlandPlugins.hy3": {
     "description": "Hyprland plugin for an i3 / sway like manual tiling layout",
     "pname": "hy3",
-    "version": "0.54.2"
+    "version": "0.54.2.1"
   },
   "legacyPackages.x86_64-linux.hyprlandPlugins.hypr-darkwindow": {
     "description": "Hyprland Plugin to invert Colors of specific Windows!",
@@ -166462,7 +166462,7 @@
   "legacyPackages.x86_64-linux.imapgoose": {
     "description": "IMAP to Maildir synchronization tool",
     "pname": "imapgoose",
-    "version": "0.4.2"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.imapsync": {
     "description": "Mail folder synchronizer between IMAP servers",
@@ -168827,7 +168827,7 @@
   "legacyPackages.x86_64-linux.jackett": {
     "description": "API Support for your favorite torrent trackers",
     "pname": "jackett",
-    "version": "0.24.1066"
+    "version": "0.24.1542"
   },
   "legacyPackages.x86_64-linux.jackline": {
     "description": "Minimalistic secure XMPP client in OCaml",
@@ -177782,7 +177782,7 @@
   "legacyPackages.x86_64-linux.lazygit": {
     "description": "Simple terminal UI for git commands",
     "pname": "lazygit",
-    "version": "0.60.0"
+    "version": "0.61.0"
   },
   "legacyPackages.x86_64-linux.lazyhetzner": {
     "description": "TUI for managing Hetzner Cloud resources",
@@ -182932,12 +182932,12 @@
   "legacyPackages.x86_64-linux.libretro.beetle-psx": {
     "description": "Port of Mednafen's PSX Engine core to libretro",
     "pname": "libretro-mednafen-psx",
-    "version": "0-unstable-2026-03-28"
+    "version": "0-unstable-2026-04-03"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-psx-hw": {
     "description": "Port of Mednafen's PSX Engine core to libretro (with hardware acceleration support)",
     "pname": "libretro-mednafen-psx-hw",
-    "version": "0-unstable-2026-03-28"
+    "version": "0-unstable-2026-04-03"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-saturn": {
     "description": "Port of Mednafen's Saturn core to libretro",
@@ -182972,7 +182972,7 @@
   "legacyPackages.x86_64-linux.libretro.bluemsx": {
     "description": "Port of BlueMSX to libretro",
     "pname": "libretro-bluemsx",
-    "version": "0-unstable-2025-11-04"
+    "version": "0-unstable-2026-03-31"
   },
   "legacyPackages.x86_64-linux.libretro.bsnes": {
     "description": "Port of bsnes to libretro",
@@ -183067,7 +183067,7 @@
   "legacyPackages.x86_64-linux.libretro.freeintv": {
     "description": "FreeIntv libretro port",
     "pname": "libretro-freeintv",
-    "version": "0-unstable-2026-02-24"
+    "version": "0-unstable-2026-03-31"
   },
   "legacyPackages.x86_64-linux.libretro.fuse": {
     "description": "Port of the Fuse Unix Spectrum Emulator to libretro",
@@ -201732,7 +201732,7 @@
   "legacyPackages.x86_64-linux.llmfit": {
     "description": "Find what runs on your hardware",
     "pname": "llmfit",
-    "version": "0.8.5"
+    "version": "0.9.1"
   },
   "legacyPackages.x86_64-linux.llpp": {
     "description": "MuPDF based PDF pager written in OCaml",
@@ -217199,6 +217199,11 @@
     "pname": "mitama-cpp-result",
     "version": "11.0.0"
   },
+  "legacyPackages.x86_64-linux.mitex": {
+    "description": "LaTeX support for Typst, CLI for MiTeX",
+    "pname": "mitex",
+    "version": "0.2.6"
+  },
   "legacyPackages.x86_64-linux.mitimasu": {
     "description": "Mitimasu webfont",
     "pname": "mitimasu",
@@ -221292,7 +221297,7 @@
   "legacyPackages.x86_64-linux.navidrome": {
     "description": "Music Server and Streamer compatible with Subsonic/Airsonic",
     "pname": "navidrome",
-    "version": "0.60.3"
+    "version": "0.61.1"
   },
   "legacyPackages.x86_64-linux.navilu-font": {
     "description": "Kannada handwriting font",
@@ -226082,7 +226087,7 @@
   "legacyPackages.x86_64-linux.ntfy-sh": {
     "description": "Send push notifications to your phone or desktop via PUT/POST",
     "pname": "ntfy-sh",
-    "version": "2.20.1"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.nth": {
     "description": "Module and CLI for the identification of hashes",
@@ -231327,7 +231332,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.miou": {
     "description": "Composable concurrency primitives for OCaml",
     "pname": "ocaml5.4.1-miou",
-    "version": "0.4.0"
+    "version": "0.5.5"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.mirage": {
     "description": "MirageOS library operating system",
@@ -238207,7 +238212,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.miou": {
     "description": "Composable concurrency primitives for OCaml",
     "pname": "ocaml5.4.1-miou",
-    "version": "0.4.0"
+    "version": "0.5.5"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.mirage": {
     "description": "MirageOS library operating system",
@@ -243887,7 +243892,7 @@
   "legacyPackages.x86_64-linux.opensc": {
     "description": "Set of libraries and utilities to access smart cards",
     "pname": "opensc",
-    "version": "0.26.1"
+    "version": "0.27.1"
   },
   "legacyPackages.x86_64-linux.openscad": {
     "description": "3D parametric model compiler",
@@ -299752,7 +299757,7 @@
   "legacyPackages.x86_64-linux.python313Packages.keras": {
     "description": "Multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch",
     "pname": "python3.13-keras",
-    "version": "3.13.2"
+    "version": "3.14.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.kerbad": {
     "description": "Kerberos manipulation library in pure Python",
@@ -325092,7 +325097,7 @@
   "legacyPackages.x86_64-linux.python313Packages.swh-core": {
     "description": "Low-level utilities and helpers used by almost all other modules in the stack",
     "pname": "python3.13-swh-core",
-    "version": "4.6.0"
+    "version": "4.6.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.swh-export": {
     "description": "Software Heritage dataset tools",
@@ -325642,12 +325647,12 @@
   "legacyPackages.x86_64-linux.python313Packages.tensorflow": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.13-tensorflow",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tensorflow-bin": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.13-tensorflow",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tensorflow-build": {
     "description": "Computation using data flow graphs for scalable machine learning",
@@ -325677,12 +325682,12 @@
   "legacyPackages.x86_64-linux.python313Packages.tensorflowWithCuda": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.13-tensorflow-gpu",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tensorflowWithoutCuda": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.13-tensorflow",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tensorly": {
     "description": "Tensor learning in Python",
@@ -325987,7 +325992,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tf-keras": {
     "description": "Deep learning for humans",
     "pname": "python3.13-tf-keras",
-    "version": "2.20.1"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.tf2onnx": {
     "description": "Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX",
@@ -353462,7 +353467,7 @@
   "legacyPackages.x86_64-linux.python314Packages.keras": {
     "description": "Multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch",
     "pname": "python3.14-keras",
-    "version": "3.13.2"
+    "version": "3.14.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.kerbad": {
     "description": "Kerberos manipulation library in pure Python",
@@ -378802,7 +378807,7 @@
   "legacyPackages.x86_64-linux.python314Packages.swh-core": {
     "description": "Low-level utilities and helpers used by almost all other modules in the stack",
     "pname": "python3.14-swh-core",
-    "version": "4.6.0"
+    "version": "4.6.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.swh-export": {
     "description": "Software Heritage dataset tools",
@@ -379352,12 +379357,12 @@
   "legacyPackages.x86_64-linux.python314Packages.tensorflow": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.14-tensorflow",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tensorflow-bin": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.14-tensorflow",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tensorflow-build": {
     "description": "Computation using data flow graphs for scalable machine learning",
@@ -379387,12 +379392,12 @@
   "legacyPackages.x86_64-linux.python314Packages.tensorflowWithCuda": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.14-tensorflow-gpu",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tensorflowWithoutCuda": {
     "description": "Computation using data flow graphs for scalable machine learning",
     "pname": "python3.14-tensorflow",
-    "version": "2.20.0"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tensorly": {
     "description": "Tensor learning in Python",
@@ -379697,7 +379702,7 @@
   "legacyPackages.x86_64-linux.python314Packages.tf-keras": {
     "description": "Deep learning for humans",
     "pname": "python3.14-tf-keras",
-    "version": "2.20.1"
+    "version": "2.21.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.tf2onnx": {
     "description": "Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX",
@@ -391702,7 +391707,7 @@
   "legacyPackages.x86_64-linux.rehex": {
     "description": "Reverse Engineers' Hex Editor",
     "pname": "rehex",
-    "version": "0.63.4"
+    "version": "0.64.0"
   },
   "legacyPackages.x86_64-linux.reindeer": {
     "description": "Generate Buck build rules from Rust Cargo dependencies",
@@ -403737,7 +403742,7 @@
   "legacyPackages.x86_64-linux.rustpython": {
     "description": "Python 3 interpreter in written Rust",
     "pname": "rustpython",
-    "version": "0.4.0"
+    "version": "0.5.0"
   },
   "legacyPackages.x86_64-linux.rustscan": {
     "description": "Faster Nmap Scanning with Rust",
@@ -428707,7 +428712,7 @@
   "legacyPackages.x86_64-linux.scipopt-scip": {
     "description": "Solving Constraint Integer Programs",
     "pname": "scipopt-scip",
-    "version": "10.0.1"
+    "version": "10.0.2"
   },
   "legacyPackages.x86_64-linux.scipopt-soplex": {
     "description": "Sequential object-oriented simPlex",
@@ -430427,7 +430432,7 @@
   "legacyPackages.x86_64-linux.shfmt": {
     "description": "Shell parser and formatter",
     "pname": "shfmt",
-    "version": "3.13.0"
+    "version": "3.13.1"
   },
   "legacyPackages.x86_64-linux.shh": {
     "description": "Automatic systemd service hardening guided by strace profiling",
@@ -435587,7 +435592,7 @@
   "legacyPackages.x86_64-linux.stellarium": {
     "description": "Free open-source planetarium",
     "pname": "stellarium",
-    "version": "25.4"
+    "version": "26.1"
   },
   "legacyPackages.x86_64-linux.stellarsolver": {
     "description": "Astrometric plate solving library",
@@ -440942,7 +440947,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.oci": {
     "description": "",
     "pname": "terraform-provider-oci",
-    "version": "8.7.0"
+    "version": "8.8.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.okta": {
     "description": "",
@@ -441012,7 +441017,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.oracle_oci": {
     "description": "",
     "pname": "terraform-provider-oci",
-    "version": "8.7.0"
+    "version": "8.8.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.ovh": {
     "description": "",
@@ -509652,7 +509657,7 @@
   "legacyPackages.x86_64-linux.vcpkg": {
     "description": "C++ Library Manager for Windows, Linux, and macOS",
     "pname": "vcpkg",
-    "version": "2026.01.16"
+    "version": "2026.03.18"
   },
   "legacyPackages.x86_64-linux.vcpkg-tool": {
     "description": "Components of microsoft/vcpkg's binary",
@@ -511942,7 +511947,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.codediff-nvim": {
     "description": "VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level)",
     "pname": "vimplugin-codediff.nvim",
-    "version": "2.43.9"
+    "version": "2.43.10"
   },
   "legacyPackages.x86_64-linux.vimPlugins.codeium-nvim": {
     "description": "",
@@ -522002,7 +522007,7 @@
   "legacyPackages.x86_64-linux.vimPlugins.vscode-diff-nvim": {
     "description": "VSCode-style side-by-side diff rendering with two-tier highlighting (line + character level)",
     "pname": "vimplugin-codediff.nvim",
-    "version": "2.43.9"
+    "version": "2.43.10"
   },
   "legacyPackages.x86_64-linux.vimPlugins.vscode-nvim": {
     "description": "",
@@ -523002,17 +523007,17 @@
   "legacyPackages.x86_64-linux.voxtype": {
     "description": "Voice-to-text with push-to-talk for Wayland compositors",
     "pname": "voxtype",
-    "version": "0.6.3"
+    "version": "0.6.5"
   },
   "legacyPackages.x86_64-linux.voxtype-onnx": {
     "description": "Voice-to-text with push-to-talk for Wayland compositors",
     "pname": "voxtype",
-    "version": "0.6.3"
+    "version": "0.6.5"
   },
   "legacyPackages.x86_64-linux.voxtype-vulkan": {
     "description": "Voice-to-text with push-to-talk for Wayland compositors",
     "pname": "voxtype",
-    "version": "0.6.3"
+    "version": "0.6.5"
   },
   "legacyPackages.x86_64-linux.vp": {
     "description": "SDL based picture viewer/slideshow",
@@ -527197,7 +527202,7 @@
   "legacyPackages.x86_64-linux.wesnoth": {
     "description": "Battle for Wesnoth, a free, turn-based strategy game with a fantasy theme",
     "pname": "wesnoth",
-    "version": "1.18.6"
+    "version": "1.18.7"
   },
   "legacyPackages.x86_64-linux.wesnoth-devel": {
     "description": "Battle for Wesnoth, a free, turn-based strategy game with a fantasy theme",
@@ -528992,7 +528997,7 @@
   "legacyPackages.x86_64-linux.worktrunk": {
     "description": "Git worktree manager for parallel AI agent workflows",
     "pname": "worktrunk",
-    "version": "0.33.0"
+    "version": "0.34.2"
   },
   "legacyPackages.x86_64-linux.world-serpant-search": {
     "description": "Command-line tool for vulnerability detection",
