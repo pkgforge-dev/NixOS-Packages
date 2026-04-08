@@ -3712,12 +3712,12 @@
   "legacyPackages.x86_64-linux.alacritty": {
     "description": "Cross-platform, GPU-accelerated terminal emulator",
     "pname": "alacritty",
-    "version": "0.16.1"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.alacritty-graphics": {
     "description": "Cross-platform, GPU-accelerated terminal emulator",
     "pname": "alacritty-graphics",
-    "version": "0.16.1"
+    "version": "0.17.0"
   },
   "legacyPackages.x86_64-linux.alacritty-theme": {
     "description": "Collection of Alacritty color schemes",
@@ -9692,7 +9692,7 @@
   "legacyPackages.x86_64-linux.arkade": {
     "description": "Open Source Kubernetes Marketplace",
     "pname": "arkade",
-    "version": "0.11.91"
+    "version": "0.11.92"
   },
   "legacyPackages.x86_64-linux.arkenfox-userjs": {
     "description": "Comprehensive user.js template for configuration and hardening",
@@ -10068,6 +10068,11 @@
     "description": "Convert ASCII-armored PGP keys to animated QR code",
     "pname": "asc-key-to-qr-code-gif",
     "version": "0-unstable-2019-01-27"
+  },
+  "legacyPackages.x86_64-linux.asccli": {
+    "description": "Scriptable CLI for the App Store Connect API",
+    "pname": "asccli",
+    "version": "1.0.1"
   },
   "legacyPackages.x86_64-linux.ascii": {
     "description": "Interactive ASCII name and synonym chart",
@@ -13707,7 +13712,7 @@
   "legacyPackages.x86_64-linux.balena-cli": {
     "description": "Command line interface for balenaCloud or openBalena",
     "pname": "balena-cli",
-    "version": "24.0.3"
+    "version": "24.0.4"
   },
   "legacyPackages.x86_64-linux.ballerburg": {
     "description": "Classic cannon combat game",
@@ -16250,9 +16255,9 @@
     "version": "0.4.5"
   },
   "legacyPackages.x86_64-linux.bitwig-studio": {
-    "description": "",
-    "pname": "bitwig-studio",
-    "version": "5.3.13"
+    "description": "Digital audio workstation",
+    "pname": "bitwig-studio6",
+    "version": "6.0"
   },
   "legacyPackages.x86_64-linux.bitwig-studio3": {
     "description": "Digital audio workstation",
@@ -16273,6 +16278,11 @@
     "description": "Digital audio workstation",
     "pname": "bitwig-studio-unwrapped",
     "version": "5.3.13"
+  },
+  "legacyPackages.x86_64-linux.bitwig-studio6": {
+    "description": "Digital audio workstation",
+    "pname": "bitwig-studio6",
+    "version": "6.0"
   },
   "legacyPackages.x86_64-linux.bitwise": {
     "description": "Terminal based bitwise calculator in curses",
@@ -17942,7 +17952,7 @@
   "legacyPackages.x86_64-linux.bsky-cli": {
     "description": "Cli application for bluesky social",
     "pname": "bsky-cli",
-    "version": "0.0.77"
+    "version": "0.0.78"
   },
   "legacyPackages.x86_64-linux.bslizr": {
     "description": "Sequenced audio slicing effect LV2 plugin (step sequencer effect)",
@@ -29262,7 +29272,7 @@
   "legacyPackages.x86_64-linux.cosign": {
     "description": "Container Signing CLI with support for ephemeral keys and Sigstore signing",
     "pname": "cosign",
-    "version": "3.0.5"
+    "version": "3.0.6"
   },
   "legacyPackages.x86_64-linux.cosmic-applets": {
     "description": "Applets for the COSMIC Desktop Environment",
@@ -32957,7 +32967,7 @@
   "legacyPackages.x86_64-linux.dawarich": {
     "description": "Self-hostable alternative to Google Location History (Google Maps Timeline)",
     "pname": "dawarich",
-    "version": "1.3.4"
+    "version": "1.6.1"
   },
   "legacyPackages.x86_64-linux.dawn": {
     "description": "Vectorized 3D PostScript processor with analytical hidden line/surface removal",
@@ -35072,7 +35082,7 @@
   "legacyPackages.x86_64-linux.distribution": {
     "description": "Toolkit to pack, ship, store, and deliver container content",
     "pname": "distribution",
-    "version": "3.0.0"
+    "version": "3.1.0"
   },
   "legacyPackages.x86_64-linux.distro-info-data": {
     "description": "Information about Debian and Ubuntu releases",
@@ -37407,7 +37417,7 @@
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-biome": {
     "description": "Biome (JS/TS/JSON) wrapper plugin",
     "pname": "dprint-plugin-biome",
-    "version": "0.12.5"
+    "version": "0.12.6"
   },
   "legacyPackages.x86_64-linux.dprint-plugins.dprint-plugin-dockerfile": {
     "description": "Dockerfile code formatter",
@@ -44347,7 +44357,7 @@
   "legacyPackages.x86_64-linux.firefox": {
     "description": "Web browser built from Firefox source tree",
     "pname": "firefox",
-    "version": "149.0"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.firefox-beta": {
     "description": "Web browser built from Firefox Beta Release source tree",
@@ -44367,12 +44377,12 @@
   "legacyPackages.x86_64-linux.firefox-bin": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-bin",
-    "version": "149.0"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.firefox-bin-unwrapped": {
     "description": "Mozilla Firefox, free web browser (binary package)",
     "pname": "firefox-bin-unwrapped",
-    "version": "149.0"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.firefox-devedition": {
     "description": "Web browser built from Firefox Developer Edition source tree",
@@ -44417,7 +44427,7 @@
   "legacyPackages.x86_64-linux.firefox-mobile": {
     "description": "Web browser built from Firefox source tree",
     "pname": "firefox",
-    "version": "149.0"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.firefox-sync-client": {
     "description": "Commandline-utility to list/view/edit/delete entries in a firefox-sync account",
@@ -44427,7 +44437,7 @@
   "legacyPackages.x86_64-linux.firefox-unwrapped": {
     "description": "Web browser built from Firefox source tree",
     "pname": "firefox-unwrapped",
-    "version": "149.0"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.firefox_decrypt": {
     "description": "Tool to extract passwords from profiles of Mozilla Firefox and derivates",
@@ -46462,7 +46472,7 @@
   "legacyPackages.x86_64-linux.forgejo-runner": {
     "description": "Runner for Forgejo based on act",
     "pname": "forgejo-runner",
-    "version": "12.7.3"
+    "version": "12.8.2"
   },
   "legacyPackages.x86_64-linux.fork-cleaner": {
     "description": "Quickly clean up unused forks on your GitHub account",
@@ -51162,7 +51172,7 @@
   "legacyPackages.x86_64-linux.github-copilot-cli": {
     "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal",
     "pname": "github-copilot-cli",
-    "version": "1.0.12"
+    "version": "1.0.19"
   },
   "legacyPackages.x86_64-linux.github-copilot-intellij-agent": {
     "description": "GitHub copilot IntelliJ plugin's native component",
@@ -51202,7 +51212,7 @@
   "legacyPackages.x86_64-linux.github-runner": {
     "description": "Self-hosted runner for GitHub Actions",
     "pname": "github-runner",
-    "version": "2.332.0"
+    "version": "2.333.1"
   },
   "legacyPackages.x86_64-linux.github-to-sops": {
     "description": "Tool for managing infrastructure secrets in git repositories using SOPS and GitHub SSH keys",
@@ -61787,7 +61797,7 @@
   "legacyPackages.x86_64-linux.graphite-cli": {
     "description": "CLI that makes creating stacked git changes fast & intuitive",
     "pname": "graphite-cli",
-    "version": "1.7.18"
+    "version": "1.7.20"
   },
   "legacyPackages.x86_64-linux.graphite-cursors": {
     "description": "Graphite cursor theme",
@@ -131617,7 +131627,7 @@
   "legacyPackages.x86_64-linux.haskellPackages.postgrest": {
     "description": "REST API for any Postgres database",
     "pname": "postgrest",
-    "version": "14.7"
+    "version": "14.8"
   },
   "legacyPackages.x86_64-linux.haskellPackages.postgrest-ws": {
     "description": "PostgREST extension to map LISTEN/NOTIFY messages to Websockets",
@@ -162107,7 +162117,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-components.smartthinq-sensors": {
     "description": "Home Assistant custom integration for SmartThinQ LG devices configurable with Lovelace User Interface",
     "pname": "python3.14-ollo69-smartthinq_sensors",
-    "version": "0.41.2"
+    "version": "0.42.0"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-components.solarman": {
     "description": "Home Assistant component for Solarman collectors used with a variety of inverters",
@@ -162382,7 +162392,7 @@
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.versatile-thermostat-ui-card": {
     "description": "Home Assistant card for the Versatile Thermostat integration",
     "pname": "versatile-thermostat-ui-card",
-    "version": "1.1.4"
+    "version": "3.2.0"
   },
   "legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.weather-card": {
     "description": "Weather Card with animated icons for Home Assistant Lovelace",
@@ -171967,7 +171977,7 @@
   "legacyPackages.x86_64-linux.kdePackages.aurorae": {
     "description": "Aurorae is a themeable window decoration for KWin",
     "pname": "aurorae",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.baloo": {
     "description": "Baloo is a framework for searching and managing metadata.",
@@ -171987,7 +171997,7 @@
   "legacyPackages.x86_64-linux.kdePackages.bluedevil": {
     "description": "Bluedevil adds Bluetooth capabilities to KDE Plasma",
     "pname": "bluedevil",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.bluez-qt": {
     "description": "Qt wrapper for Bluez 5 DBus API",
@@ -172007,17 +172017,17 @@
   "legacyPackages.x86_64-linux.kdePackages.breeze": {
     "description": "Artwork, styles and assets for the Breeze visual style for the Plasma Desktop",
     "pname": "breeze",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.breeze-grub": {
     "description": "GRUB theme for the Breeze visual style for the Plasma Desktop",
     "pname": "breeze-grub",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.breeze-gtk": {
     "description": "Breeze widget theme for GTK 2 and 3",
     "pname": "breeze-gtk",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.breeze-icons": {
     "description": "Breeze icon theme.",
@@ -172027,7 +172037,7 @@
   "legacyPackages.x86_64-linux.kdePackages.breeze-plymouth": {
     "description": "Plymouth theme for the Breeze visual style for the Plasma Desktop",
     "pname": "breeze-plymouth",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.calendarsupport": {
     "description": "Library that provides calendar support for PIM",
@@ -172062,7 +172072,7 @@
   "legacyPackages.x86_64-linux.kdePackages.discover": {
     "description": "Helps you find and install applications, games, and tools",
     "pname": "discover",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.dolphin": {
     "description": "File manager by KDE",
@@ -172082,7 +172092,7 @@
   "legacyPackages.x86_64-linux.kdePackages.drkonqi": {
     "description": "Crash handler for KDE software",
     "pname": "drkonqi",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.drumstick": {
     "description": "MIDI libraries for Qt/C++",
@@ -172157,7 +172167,7 @@
   "legacyPackages.x86_64-linux.kdePackages.flatpak-kcm": {
     "description": "Flatpak Permissions Management KCM",
     "pname": "flatpak-kcm",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.frameworkintegration": {
     "description": "Framework providing components to allow applications to integrate with a KDE Workspace",
@@ -172247,7 +172257,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kactivitymanagerd": {
     "description": "System service to manage user's activities, track the usage patterns etc.",
     "pname": "kactivitymanagerd",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kaddressbook": {
     "description": "Address book application to manage your contacts",
@@ -172482,7 +172492,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kde-cli-tools": {
     "description": "Tools based on KDE Frameworks 5 to better interact with the system",
     "pname": "kde-cli-tools",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kde-dev-scripts": {
     "description": "Scripts and setting files useful during development of KDE software",
@@ -172497,7 +172507,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kde-gtk-config": {
     "description": "Syncs KDE settings to GTK applications",
     "pname": "kde-gtk-config",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kde-inotify-survey": {
     "description": "Tooling for monitoring inotify limits and informing the user when they have been or about to be reached.",
@@ -172522,7 +172532,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kdecoration": {
     "description": "Plugin-based library to create window decorations",
     "pname": "kdecoration",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kded": {
     "description": "KDE Daemon",
@@ -172567,7 +172577,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kdeplasma-addons": {
     "description": "All kind of add-ons to improve your Plasma experience",
     "pname": "kdeplasma-addons",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kdesdk-kio": {
     "description": "KIO workers useful for software development",
@@ -172672,7 +172682,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kgamma": {
     "description": "Adjust your monitor's gamma settings",
     "pname": "kgamma",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kgeography": {
     "description": "Geography Trainer",
@@ -172692,7 +172702,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kglobalacceld": {
     "description": "Daemon providing Global Keyboard Shortcut (Accelerator) functionality",
     "pname": "kglobalacceld",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kgoldrunner": {
     "description": "KGoldrunner is a game of action and puzzle solving",
@@ -172792,7 +172802,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kinfocenter": {
     "description": "View information about your computer's hardware",
     "pname": "kinfocenter",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kio": {
     "description": "KIO",
@@ -172947,7 +172957,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kmenuedit": {
     "description": "Menu Editor for Plasma Workspaces",
     "pname": "kmenuedit",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kmime": {
     "description": "Library to assist handling MIME data",
@@ -173002,7 +173012,7 @@
   "legacyPackages.x86_64-linux.kdePackages.knighttime": {
     "description": "Helpers for scheduling the dark-light cycle",
     "pname": "knighttime",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.knotifications": {
     "description": "KNotifications",
@@ -173127,7 +173137,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kpipewire": {
     "description": "Components relating to Flatpak 'pipewire' use in Plasma.",
     "pname": "kpipewire",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kpkpass": {
     "description": "Apple Wallet Pass reader",
@@ -173182,7 +173192,7 @@
   "legacyPackages.x86_64-linux.kdePackages.krdp": {
     "description": "Library and examples for creating an RDP server.",
     "pname": "krdp",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.krecorder": {
     "description": "Audio recorder for Plasma Mobile and other platforms",
@@ -173222,12 +173232,12 @@
   "legacyPackages.x86_64-linux.kdePackages.kscreen": {
     "description": "KDE's screen management software",
     "pname": "kscreen",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kscreenlocker": {
     "description": "Library and components for secure lock screen architecture",
     "pname": "kscreenlocker",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kservice": {
     "description": "KService",
@@ -173267,7 +173277,7 @@
   "legacyPackages.x86_64-linux.kdePackages.ksshaskpass": {
     "description": "ssh-add helper that uses KWallet and KPasswordDialog",
     "pname": "ksshaskpass",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kstatusnotifieritem": {
     "description": "Implementation of Status Notifier Items",
@@ -173292,7 +173302,7 @@
   "legacyPackages.x86_64-linux.kdePackages.ksystemstats": {
     "description": "A plugin based system monitoring daemon.",
     "pname": "ksystemstats",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kteatime": {
     "description": "Handy timer for steeping tea",
@@ -173387,7 +173397,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kwallet-pam": {
     "description": "PAM Integration with KWallet - Unlock KWallet when you login",
     "pname": "kwallet-pam",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kwalletmanager": {
     "description": "Tool to manage the passwords on your system",
@@ -173402,12 +173412,12 @@
   "legacyPackages.x86_64-linux.kdePackages.kwayland": {
     "description": "KWayland provides a Qt-style Client and Server library wrapper for the Wayland libraries.",
     "pname": "kwayland",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kwayland-integration": {
     "description": "",
     "pname": "kwayland-integration",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kweather": {
     "description": "Weather application for Plasma Mobile",
@@ -173427,12 +173437,12 @@
   "legacyPackages.x86_64-linux.kdePackages.kwin": {
     "description": "Easy to use, but flexible, Wayland Compositor",
     "pname": "kwin",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kwin-x11": {
     "description": "Easy to use, but flexible, X Window Manager",
     "pname": "kwin-x11",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kwindowsystem": {
     "description": "KWindowSystem",
@@ -173447,7 +173457,7 @@
   "legacyPackages.x86_64-linux.kdePackages.kwrited": {
     "description": "Listen to traditional system notifications",
     "pname": "kwrited",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.kxmlgui": {
     "description": "KXMLGUI",
@@ -173462,7 +173472,7 @@
   "legacyPackages.x86_64-linux.kdePackages.layer-shell-qt": {
     "description": "Qt component to allow applications to make use of the Wayland wl-layer-shell protocol.",
     "pname": "layer-shell-qt",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.libgravatar": {
     "description": "Library that provides Gravatar support",
@@ -173537,7 +173547,7 @@
   "legacyPackages.x86_64-linux.kdePackages.libkscreen": {
     "description": "KDE's screen management software",
     "pname": "libkscreen",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.libksieve": {
     "description": "Library which manages Sieve support",
@@ -173547,7 +173557,7 @@
   "legacyPackages.x86_64-linux.kdePackages.libksysguard": {
     "description": "Library to retrieve information on the current status of computer hardware",
     "pname": "libksysguard",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.libktorrent": {
     "description": "BitTorrent protocol implementation",
@@ -173557,7 +173567,7 @@
   "legacyPackages.x86_64-linux.kdePackages.libplasma": {
     "description": "Plasma library and runtime components",
     "pname": "libplasma",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.libqaccessibilityclient": {
     "description": "Accessibilty tools helper library, used e.g. by screen readers",
@@ -173652,7 +173662,7 @@
   "legacyPackages.x86_64-linux.kdePackages.milou": {
     "description": "A dedicated search application built on top of Baloo",
     "pname": "milou",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.mimetreeparser": {
     "description": "Parser for MIME trees",
@@ -173692,7 +173702,7 @@
   "legacyPackages.x86_64-linux.kdePackages.ocean-sound-theme": {
     "description": "Ocean Sound Theme for Plasma",
     "pname": "ocean-sound-theme",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.okular": {
     "description": "KDE document viewer",
@@ -173702,7 +173712,7 @@
   "legacyPackages.x86_64-linux.kdePackages.oxygen": {
     "description": "The Oxygen Style for Qt/KDE Applications",
     "pname": "oxygen",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.oxygen-icons": {
     "description": "Oxygen icon theme",
@@ -173712,7 +173722,7 @@
   "legacyPackages.x86_64-linux.kdePackages.oxygen-sounds": {
     "description": "The Oxygen Sound Theme",
     "pname": "oxygen-sounds",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.packagekit-qt": {
     "description": "System to facilitate installing and updating packages - Qt",
@@ -173767,97 +173777,97 @@
   "legacyPackages.x86_64-linux.kdePackages.plasma-activities": {
     "description": "Core components for the KDE's Activities System",
     "pname": "plasma-activities",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-activities-stats": {
     "description": "A library for accessing the usage data collected by the activities system.",
     "pname": "plasma-activities-stats",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-browser-integration": {
     "description": "Components necessary to integrate browsers into the Plasma Desktop",
     "pname": "plasma-browser-integration",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-desktop": {
     "description": "Plasma for the Desktop",
     "pname": "plasma-desktop",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-dialer": {
     "description": "Dialer for Plasma Mobile",
     "pname": "plasma-dialer",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-disks": {
     "description": "Monitors S.M.A.R.T. capable devices for imminent failure.",
     "pname": "plasma-disks",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-firewall": {
     "description": "Control Panel for your system firewall",
     "pname": "plasma-firewall",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-integration": {
     "description": "Qt Platform Theme integration plugins for Plasma Workspaces",
     "pname": "plasma-integration",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-keyboard": {
     "description": "Virtual Keyboard for Qt based desktops",
     "pname": "plasma-keyboard",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-login-manager": {
     "description": "Plasma Login Manager",
     "pname": "plasma-login-manager",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-mobile": {
     "description": "Plasma shell for mobile devices",
     "pname": "plasma-mobile",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-nano": {
     "description": "A minimal Plasma shell package",
     "pname": "plasma-nano",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-nm": {
     "description": "Plasma applet written in QML for managing network connections",
     "pname": "plasma-nm",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-pa": {
     "description": "Plasma applet for audio volume management using PulseAudio",
     "pname": "plasma-pa",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-sdk": {
     "description": "Applications useful for Plasma development",
     "pname": "plasma-sdk",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-setup": {
     "description": "Plasma first run setup tool",
     "pname": "plasma-setup",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-systemmonitor": {
     "description": "An interface for monitoring system sensors, process information and other system resources",
     "pname": "plasma-systemmonitor",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-thunderbolt": {
     "description": "Plasma integration for controlling Thunderbolt devices",
     "pname": "plasma-thunderbolt",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-vault": {
     "description": "Plasma applet and services for creating encrypted vaults",
     "pname": "plasma-vault",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-wayland-protocols": {
     "description": "Plasma-specific protocols for Wayland",
@@ -173867,22 +173877,22 @@
   "legacyPackages.x86_64-linux.kdePackages.plasma-welcome": {
     "description": "A friendly onboarding wizard for Plasma",
     "pname": "plasma-welcome",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-workspace": {
     "description": "Various components needed to run a Plasma-based environment",
     "pname": "plasma-workspace",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma-workspace-wallpapers": {
     "description": "Wallpapers for Plasma Workspaces",
     "pname": "plasma-workspace-wallpapers",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasma5support": {
     "description": "Support components for porting from KF5/Qt5 to KF6/Qt6",
     "pname": "plasma5support",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.plasmatube": {
     "description": "Kirigami YouTube video player based on QtMultimedia and youtube-dl",
@@ -173892,12 +173902,12 @@
   "legacyPackages.x86_64-linux.kdePackages.plymouth-kcm": {
     "description": "KCM to manage the Plymouth (Boot) theme",
     "pname": "plymouth-kcm",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.polkit-kde-agent-1": {
     "description": "Daemon providing a Polkit authentication UI for Plasma",
     "pname": "polkit-kde-agent",
-    "version": "1-6.6.3"
+    "version": "1-6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.polkit-qt-1": {
     "description": "Qt wrapper around Polkit-1 client libraries",
@@ -173912,7 +173922,7 @@
   "legacyPackages.x86_64-linux.kdePackages.powerdevil": {
     "description": "Manages the power consumption settings of a Plasma shell",
     "pname": "powerdevil",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.poxml": {
     "description": "Translate DocBook XML files using gettext PO files",
@@ -173922,7 +173932,7 @@
   "legacyPackages.x86_64-linux.kdePackages.print-manager": {
     "description": "A tool for managing print jobs and printers",
     "pname": "print-manager",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.prison": {
     "description": "prison is a barcode api currently offering a nice Qt api to produce QRCode barcodes and DataMatrix barcodes, and can easily be made support more.",
@@ -173987,7 +173997,7 @@
   "legacyPackages.x86_64-linux.kdePackages.qqc2-breeze-style": {
     "description": "Breeze inspired QQC2 Style",
     "pname": "qqc2-breeze-style",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.qqc2-desktop-style": {
     "description": "Qt Quick Controls 2: Desktop Style",
@@ -174292,7 +174302,7 @@
   "legacyPackages.x86_64-linux.kdePackages.sddm-kcm": {
     "description": "Configuration module for SDDM",
     "pname": "sddm-kcm",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.sddm-unwrapped": {
     "description": "QML based X11 display manager",
@@ -174342,12 +174352,12 @@
   "legacyPackages.x86_64-linux.kdePackages.spacebar": {
     "description": "SMS/MMS application for Plasma Mobile",
     "pname": "spacebar",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.spectacle": {
     "description": "Screenshot capture utility",
     "pname": "spectacle",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.step": {
     "description": "Interactive physics simulator",
@@ -174377,7 +174387,7 @@
   "legacyPackages.x86_64-linux.kdePackages.systemsettings": {
     "description": "Control center to configure your Plasma Desktop",
     "pname": "systemsettings",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.taglib": {
     "description": "Library for reading and editing audio file metadata",
@@ -174412,7 +174422,7 @@
   "legacyPackages.x86_64-linux.kdePackages.wacomtablet": {
     "description": "GUI for Wacom Linux drivers that supports different button/pen layout profiles",
     "pname": "wacomtablet",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.wallpaper-engine-plugin": {
     "description": "KDE wallpaper plugin integrating Wallpaper Engine",
@@ -174452,7 +174462,7 @@
   "legacyPackages.x86_64-linux.kdePackages.xdg-desktop-portal-kde": {
     "description": "A backend implementation for xdg-desktop-portal that is using Qt/KDE",
     "pname": "xdg-desktop-portal-kde",
-    "version": "6.6.3"
+    "version": "6.6.4"
   },
   "legacyPackages.x86_64-linux.kdePackages.yakuake": {
     "description": "Drop-down terminal emulator based on Konsole technologies",
@@ -177417,7 +177427,7 @@
   "legacyPackages.x86_64-linux.ladybird": {
     "description": "Browser using the SerenityOS LibWeb engine with a Qt or Cocoa GUI",
     "pname": "ladybird",
-    "version": "0-unstable-2026-02-14"
+    "version": "0-unstable-2026-04-04"
   },
   "legacyPackages.x86_64-linux.ladybugdb": {
     "description": "Embeddable property graph database management system (fork of Kuzu)",
@@ -183072,7 +183082,7 @@
   "legacyPackages.x86_64-linux.libretro.fuse": {
     "description": "Port of the Fuse Unix Spectrum Emulator to libretro",
     "pname": "libretro-fuse",
-    "version": "0-unstable-2024-11-24"
+    "version": "0-unstable-2026-03-31"
   },
   "legacyPackages.x86_64-linux.libretro.gambatte": {
     "description": "Gambatte libretro port",
@@ -201097,7 +201107,7 @@
   "legacyPackages.x86_64-linux.livekit-cli": {
     "description": "Command line interface to LiveKit",
     "pname": "livekit-cli",
-    "version": "1.5.1"
+    "version": "2.16.0"
   },
   "legacyPackages.x86_64-linux.livekit-ingress": {
     "description": "Ingest streams (RTMP/WHIP) or files (HLS, MP4) to LiveKit WebRTC",
@@ -213232,7 +213242,7 @@
   "legacyPackages.x86_64-linux.markdown-code-runner": {
     "description": "Configurable Markdown code runner that executes and optionally replaces code blocks using external commands",
     "pname": "markdown-code-runner",
-    "version": "0.3.2"
+    "version": "0.4.2"
   },
   "legacyPackages.x86_64-linux.markdown-link-check": {
     "description": "Checks all of the hyperlinks in a markdown text to determine if they are alive or dead",
@@ -216022,7 +216032,7 @@
   "legacyPackages.x86_64-linux.microsoft-edge": {
     "description": "Web browser from Microsoft",
     "pname": "microsoft-edge",
-    "version": "146.0.3856.84"
+    "version": "146.0.3856.97"
   },
   "legacyPackages.x86_64-linux.microsoft-gsl": {
     "description": "C++ Core Guideline support library",
@@ -216092,7 +216102,7 @@
   "legacyPackages.x86_64-linux.migrate-to-uv": {
     "description": "Migrate a project from Poetry/Pipenv/pip-tools/pip to uv package manager",
     "pname": "migrate-to-uv",
-    "version": "0.11.0"
+    "version": "0.11.1"
   },
   "legacyPackages.x86_64-linux.migu": {
     "description": "High-quality Japanese font based on modified M+ fonts and IPA fonts",
@@ -217782,7 +217792,7 @@
   "legacyPackages.x86_64-linux.moar": {
     "description": "Nice-to-use pager for humans",
     "pname": "moor",
-    "version": "2.11.1"
+    "version": "2.12.0"
   },
   "legacyPackages.x86_64-linux.moarvm": {
     "description": "VM with adaptive optimization and JIT compilation, built for Rakudo",
@@ -218347,7 +218357,7 @@
   "legacyPackages.x86_64-linux.moor": {
     "description": "Nice-to-use pager for humans",
     "pname": "moor",
-    "version": "2.11.1"
+    "version": "2.12.0"
   },
   "legacyPackages.x86_64-linux.moosefs": {
     "description": "Open Source, Petabyte, Fault-Tolerant, Highly Performing, Scalable Network Distributed File System",
@@ -219812,7 +219822,7 @@
   "legacyPackages.x86_64-linux.msedgedriver": {
     "description": "WebDriver implementation that controls an Edge browser running on the local machine",
     "pname": "msedgedriver",
-    "version": "146.0.3856.84"
+    "version": "146.0.3856.97"
   },
   "legacyPackages.x86_64-linux.msedit": {
     "description": "Simple editor for simple needs",
@@ -221762,7 +221772,7 @@
   "legacyPackages.x86_64-linux.neovim": {
     "description": "Vim text editor fork focused on extensibility and agility",
     "pname": "neovim",
-    "version": "0.12.0"
+    "version": "0.12.1"
   },
   "legacyPackages.x86_64-linux.neovim-gtk": {
     "description": "Gtk ui for neovim",
@@ -221792,7 +221802,7 @@
   "legacyPackages.x86_64-linux.neovim-unwrapped": {
     "description": "Vim text editor fork focused on extensibility and agility",
     "pname": "neovim-unwrapped",
-    "version": "0.12.0"
+    "version": "0.12.1"
   },
   "legacyPackages.x86_64-linux.neowall": {
     "description": "GPU shader wallpapers for Wayland",
@@ -222942,7 +222952,7 @@
   "legacyPackages.x86_64-linux.nfs-ganesha": {
     "description": "NFS server that runs in user space",
     "pname": "nfs-ganesha",
-    "version": "9.9"
+    "version": "9.10"
   },
   "legacyPackages.x86_64-linux.nfs-utils": {
     "description": "Linux user-space NFS utilities",
@@ -242162,27 +242172,27 @@
   "legacyPackages.x86_64-linux.ollama": {
     "description": "Get up and running with large language models locally",
     "pname": "ollama",
-    "version": "0.20.2"
+    "version": "0.20.3"
   },
   "legacyPackages.x86_64-linux.ollama-cpu": {
     "description": "Get up and running with large language models locally",
     "pname": "ollama",
-    "version": "0.20.2"
+    "version": "0.20.3"
   },
   "legacyPackages.x86_64-linux.ollama-cuda": {
     "description": "Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration",
     "pname": "ollama",
-    "version": "0.20.2"
+    "version": "0.20.3"
   },
   "legacyPackages.x86_64-linux.ollama-rocm": {
     "description": "Get up and running with large language models locally, using ROCm for AMD GPU acceleration",
     "pname": "ollama",
-    "version": "0.20.2"
+    "version": "0.20.3"
   },
   "legacyPackages.x86_64-linux.ollama-vulkan": {
     "description": "Get up and running with large language models locally, using Vulkan for generic GPU acceleration",
     "pname": "ollama",
-    "version": "0.20.2"
+    "version": "0.20.3"
   },
   "legacyPackages.x86_64-linux.olm": {
     "description": "Implements double cryptographic ratchet and Megolm ratchet",
@@ -244932,7 +244942,7 @@
   "legacyPackages.x86_64-linux.ord": {
     "description": "Index, block explorer, and command-line wallet for Ordinals",
     "pname": "ord",
-    "version": "0.27.0"
+    "version": "0.27.1"
   },
   "legacyPackages.x86_64-linux.oreo-cursors-plus": {
     "description": "Colored Material cursors with cute animations",
@@ -245267,12 +245277,12 @@
   "legacyPackages.x86_64-linux.osu-lazer": {
     "description": "Rhythm is just a *click* away (no score submission or multiplayer, see osu-lazer-bin)",
     "pname": "osu-lazer",
-    "version": "2026.401.0"
+    "version": "2026.406.0"
   },
   "legacyPackages.x86_64-linux.osu-lazer-bin": {
     "description": "Rhythm is just a *click* away (AppImage version for score submission and multiplayer, and binary distribution for Darwin systems)",
     "pname": "osu-lazer-bin",
-    "version": "2026.401.0"
+    "version": "2026.406.0"
   },
   "legacyPackages.x86_64-linux.osu-micro-benchmarks": {
     "description": "OSU Micro-Benchmarks for MPI",
@@ -275282,7 +275292,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.4"
+    "version": "0.22.5"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -275637,7 +275647,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.4"
+    "version": "0.22.5"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -275992,7 +276002,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.4"
+    "version": "0.22.5"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -276347,7 +276357,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.4"
+    "version": "0.22.5"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -276702,7 +276712,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.4"
+    "version": "0.22.5"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -277057,7 +277067,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.4"
+    "version": "0.22.5"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -277317,7 +277327,7 @@
   "legacyPackages.x86_64-linux.postgrest": {
     "description": "REST API for any Postgres database",
     "pname": "postgrest",
-    "version": "14.7"
+    "version": "14.8"
   },
   "legacyPackages.x86_64-linux.postgrey": {
     "description": "Postfix policy server to provide greylisting",
@@ -299337,7 +299347,7 @@
   "legacyPackages.x86_64-linux.python313Packages.jupyter-collaboration-ui": {
     "description": "JupyterLab/Jupyter Notebook 7+ extension providing user interface integration for real time collaboration",
     "pname": "python3.13-jupyter-collaboration-ui",
-    "version": "2.2.1"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.jupyter-console": {
     "description": "Jupyter terminal console",
@@ -316152,7 +316162,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pysmlight": {
     "description": "Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators",
     "pname": "python3.13-pysmlight",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pysmt": {
     "description": "Python library for SMT formulae manipulation and solving",
@@ -331882,7 +331892,7 @@
   "legacyPackages.x86_64-linux.python313Packages.victron-mqtt": {
     "description": "Victron Venus MQTT client library documentation",
     "pname": "python3.13-victron-mqtt",
-    "version": "2026.3.12"
+    "version": "2026.4.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.victron-vrm": {
     "description": "Async Python client for the Victron Energy VRM API",
@@ -353047,7 +353057,7 @@
   "legacyPackages.x86_64-linux.python314Packages.jupyter-collaboration-ui": {
     "description": "JupyterLab/Jupyter Notebook 7+ extension providing user interface integration for real time collaboration",
     "pname": "python3.14-jupyter-collaboration-ui",
-    "version": "2.2.1"
+    "version": "2.3.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.jupyter-console": {
     "description": "Jupyter terminal console",
@@ -369862,7 +369872,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pysmlight": {
     "description": "Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators",
     "pname": "python3.14-pysmlight",
-    "version": "0.3.1"
+    "version": "0.3.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.pysmt": {
     "description": "Python library for SMT formulae manipulation and solving",
@@ -385592,7 +385602,7 @@
   "legacyPackages.x86_64-linux.python314Packages.victron-mqtt": {
     "description": "Victron Venus MQTT client library documentation",
     "pname": "python3.14-victron-mqtt",
-    "version": "2026.3.12"
+    "version": "2026.4.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.victron-vrm": {
     "description": "Async Python client for the Victron Energy VRM API",
@@ -388057,7 +388067,7 @@
   "legacyPackages.x86_64-linux.qbz": {
     "description": "A native, full-featured hi-fi Qobuz desktop player for Linux, with fast, bit-perfect audio playback",
     "pname": "qbz",
-    "version": "1.2.2"
+    "version": "1.2.3"
   },
   "legacyPackages.x86_64-linux.qc": {
     "description": "QOwnNotes command-line snippet manager",
@@ -390382,7 +390392,7 @@
   "legacyPackages.x86_64-linux.railway": {
     "description": "Railway.app CLI",
     "pname": "railway",
-    "version": "4.35.0"
+    "version": "4.36.1"
   },
   "legacyPackages.x86_64-linux.railway-wallet": {
     "description": "Private DeFi wallet for Linux",
@@ -403392,7 +403402,7 @@
   "legacyPackages.x86_64-linux.rumdl": {
     "description": "Markdown linter and formatter",
     "pname": "rumdl",
-    "version": "0.1.62"
+    "version": "0.1.67"
   },
   "legacyPackages.x86_64-linux.rumno": {
     "description": "Visual pop-up notification manager",
@@ -428407,12 +428417,12 @@
   "legacyPackages.x86_64-linux.scalapack": {
     "description": "Library of high-performance linear algebra routines for parallel distributed memory machines",
     "pname": "scalapack",
-    "version": "2.2.2"
+    "version": "2.2.3"
   },
   "legacyPackages.x86_64-linux.scalapack-ilp64": {
     "description": "Library of high-performance linear algebra routines for parallel distributed memory machines",
     "pname": "scalapack",
-    "version": "2.2.2"
+    "version": "2.2.3"
   },
   "legacyPackages.x86_64-linux.scaleft": {
     "description": "Zero Trust software which you can use to secure your internal servers and services",
@@ -429292,7 +429302,7 @@
   "legacyPackages.x86_64-linux.seconlay": {
     "description": "Minimal IaaS system with strong tenant separation and small TCB",
     "pname": "seconlay",
-    "version": "0-unstable-2026-03-30"
+    "version": "0-unstable-2026-03-31"
   },
   "legacyPackages.x86_64-linux.secp256k1": {
     "description": "Optimized C library for EC operations on curve secp256k1",
@@ -431362,7 +431372,7 @@
   "legacyPackages.x86_64-linux.siyuan": {
     "description": "Privacy-first personal knowledge management system that supports complete offline usage, as well as end-to-end encrypted data sync",
     "pname": "siyuan",
-    "version": "3.6.2"
+    "version": "3.6.3"
   },
   "legacyPackages.x86_64-linux.sizelint": {
     "description": "Lint your file tree based on file sizes",
@@ -435027,22 +435037,22 @@
   "legacyPackages.x86_64-linux.stable-diffusion-cpp": {
     "description": "Stable Diffusion inference in pure C/C++",
     "pname": "stable-diffusion-cpp-master",
-    "version": "537-545fac4"
+    "version": "558-8afbeb6"
   },
   "legacyPackages.x86_64-linux.stable-diffusion-cpp-cuda": {
     "description": "Stable Diffusion inference in pure C/C++",
     "pname": "stable-diffusion-cpp-master",
-    "version": "537-545fac4"
+    "version": "558-8afbeb6"
   },
   "legacyPackages.x86_64-linux.stable-diffusion-cpp-rocm": {
     "description": "Stable Diffusion inference in pure C/C++",
     "pname": "stable-diffusion-cpp-master",
-    "version": "537-545fac4"
+    "version": "558-8afbeb6"
   },
   "legacyPackages.x86_64-linux.stable-diffusion-cpp-vulkan": {
     "description": "Stable Diffusion inference in pure C/C++",
     "pname": "stable-diffusion-cpp-master",
-    "version": "537-545fac4"
+    "version": "558-8afbeb6"
   },
   "legacyPackages.x86_64-linux.stac-validator": {
     "description": "Validator for the SpatioTemporal Asset Catalog (STAC) specification",
@@ -436892,7 +436902,7 @@
   "legacyPackages.x86_64-linux.svix-server": {
     "description": "Enterprise-ready webhooks service",
     "pname": "svix-server",
-    "version": "1.86.0"
+    "version": "1.90.0"
   },
   "legacyPackages.x86_64-linux.svkbd": {
     "description": "Simple virtual keyboard",
@@ -438477,7 +438487,7 @@
   "legacyPackages.x86_64-linux.tango-database": {
     "description": "Tango distributed control system - database server",
     "pname": "tango-database",
-    "version": "5.28"
+    "version": "5.29"
   },
   "legacyPackages.x86_64-linux.tango-icon-theme": {
     "description": "Basic set of icons",
@@ -438842,7 +438852,7 @@
   "legacyPackages.x86_64-linux.tcl-9_0": {
     "description": "Tcl scripting language",
     "pname": "tcl",
-    "version": "9.0.1"
+    "version": "9.0.3"
   },
   "legacyPackages.x86_64-linux.tcl2048": {
     "description": "Game of 2048 implemented in Tcl",
@@ -439162,7 +439172,7 @@
   "legacyPackages.x86_64-linux.tea": {
     "description": "Gitea official CLI client",
     "pname": "tea",
-    "version": "0.12.0"
+    "version": "0.13.0"
   },
   "legacyPackages.x86_64-linux.tealdeer": {
     "description": "Very fast implementation of tldr in Rust",
@@ -439322,7 +439332,7 @@
   "legacyPackages.x86_64-linux.tektoncd-cli": {
     "description": "Provides a CLI for interacting with Tekton - tkn",
     "pname": "tektoncd-cli",
-    "version": "0.44.0"
+    "version": "0.44.1"
   },
   "legacyPackages.x86_64-linux.tektoncd-cli-pac": {
     "description": "CLI for interacting with Tekton Pipelines as Code",
@@ -440062,7 +440072,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.bitwarden": {
     "description": "",
     "pname": "terraform-provider-bitwarden",
-    "version": "0.17.3"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.terraform-providers.bpg_proxmox": {
     "description": "",
@@ -440822,7 +440832,7 @@
   "legacyPackages.x86_64-linux.terraform-providers.maxlaverse_bitwarden": {
     "description": "",
     "pname": "terraform-provider-bitwarden",
-    "version": "0.17.3"
+    "version": "0.17.6"
   },
   "legacyPackages.x86_64-linux.terraform-providers.metio_migadu": {
     "description": "",
@@ -452062,6 +452072,11 @@
   "legacyPackages.x86_64-linux.tests.texlive.tlpdbNix": {
     "description": "",
     "pname": "texlive-test-tlpdb-nix",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.tests.top-level.appendOverlaysPreservesSplicing": {
+    "description": "",
+    "pname": "empty-file",
     "version": ""
   },
   "legacyPackages.x86_64-linux.tests.top-level.platformEquality": {
@@ -477622,7 +477637,7 @@
   "legacyPackages.x86_64-linux.tk-9_0": {
     "description": "Widget toolkit that provides a library of basic elements for building a GUI in many different programming languages",
     "pname": "tk",
-    "version": "9.0.1"
+    "version": "9.0.3"
   },
   "legacyPackages.x86_64-linux.tk-safe": {
     "description": "Electronic medical record (ePA) by Techniker Krankenkasse (TK)",
@@ -508317,7 +508332,7 @@
   "legacyPackages.x86_64-linux.unstructured-api": {
     "description": "Open-source toolkit designed to make it easy to prepare unstructured data like PDFs, HTML and Word Documents for downstream data science tasks",
     "pname": "unstructured-api",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "legacyPackages.x86_64-linux.unsure": {
     "description": "Calculate with numbers you’re not sure about",
@@ -509897,7 +509912,7 @@
   "legacyPackages.x86_64-linux.velocity": {
     "description": "Modern, next-generation Minecraft server proxy",
     "pname": "velocity",
-    "version": "3.5.0-unstable-2026-03-21"
+    "version": "3.5.0-unstable-2026-04-01"
   },
   "legacyPackages.x86_64-linux.veloren": {
     "description": "Open world, open source voxel RPG",
@@ -511053,6 +511068,11 @@
     "description": "",
     "pname": "vimplugin-bclose.vim",
     "version": "0-unstable-2018-10-10"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.better-diagnostic-virtual-text": {
+    "description": "",
+    "pname": "vimplugin-better-diagnostic-virtual-text",
+    "version": "0-unstable-2024-07-27"
   },
   "legacyPackages.x86_64-linux.vimPlugins.better-escape-nvim": {
     "description": "",
@@ -513108,6 +513128,11 @@
     "description": "",
     "pname": "vimplugin-galaxyline.nvim",
     "version": "0-unstable-2022-01-21"
+  },
+  "legacyPackages.x86_64-linux.vimPlugins.garbage-day-nvim": {
+    "description": "",
+    "pname": "vimplugin-garbage-day.nvim",
+    "version": "1.4.0-unstable-2026-02-25"
   },
   "legacyPackages.x86_64-linux.vimPlugins.gbprod-nord": {
     "description": "",
@@ -518374,6 +518399,11 @@
     "pname": "vimplugin-luajit2.1-rtp.nvim",
     "version": "1.2.0-1-unstable-1.2.0-1"
   },
+  "legacyPackages.x86_64-linux.vimPlugins.runner-nvim": {
+    "description": "",
+    "pname": "vimplugin-runner-nvim",
+    "version": "0-unstable-2026-02-11"
+  },
   "legacyPackages.x86_64-linux.vimPlugins.rust-vim": {
     "description": "",
     "pname": "vimplugin-rust.vim",
@@ -523232,7 +523262,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.amazonwebservices.amazon-q-vscode": {
     "description": "Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources",
     "pname": "vscode-extension-AmazonWebServices-amazon-q-vscode",
-    "version": "1.112.0"
+    "version": "2.0.0"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.angular.ng-template": {
     "description": "Editor services for Angular templates",
@@ -523782,7 +523812,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.emmanuelbeziat.vscode-great-icons": {
     "description": "",
     "pname": "vscode-extension-emmanuelbeziat-vscode-great-icons",
-    "version": "2.1.120"
+    "version": "2.1.121"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.emroussel.atomize-atom-one-dark-theme": {
     "description": "Detailed and accurate Atom One Dark theme for VSCode",
@@ -524057,7 +524087,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.illixion.vscode-vibrancy-continued": {
     "description": "Vibrancy Effect for Visual Studio Code",
     "pname": "vscode-extension-illixion-vscode-vibrancy-continued",
-    "version": "1.1.65"
+    "version": "1.1.73"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.intellsmi.comment-translate": {
     "description": "Visual Studio Code extension to translate the comments for computer language",
@@ -524232,7 +524262,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.kilocode.kilo-code": {
     "description": "Open Source AI coding assistant for planning, building, and fixing code",
     "pname": "vscode-extension-kilocode-Kilo-Code",
-    "version": "7.0.51"
+    "version": "7.1.22"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.kravets.vscode-publint": {
     "description": "Lint packaging errors in VS Code with publint",
@@ -524967,7 +524997,7 @@
   "legacyPackages.x86_64-linux.vscode-extensions.ryu1kn.partial-diff": {
     "description": "",
     "pname": "vscode-extension-ryu1kn-partial-diff",
-    "version": "1.4.4"
+    "version": "1.4.6"
   },
   "legacyPackages.x86_64-linux.vscode-extensions.sainnhe.gruvbox-material": {
     "description": "Gruvbox Material theme VSCode extension with Material palette",
@@ -534612,7 +534642,7 @@
   "legacyPackages.x86_64-linux.zellij": {
     "description": "Terminal workspace with batteries included",
     "pname": "zellij",
-    "version": "0.44.0"
+    "version": "0.44.1"
   },
   "legacyPackages.x86_64-linux.zenith": {
     "description": "Sort of like top or htop but with zoom-able charts, network, and disk usage",
@@ -535042,7 +535072,7 @@
   "legacyPackages.x86_64-linux.zipline": {
     "description": "ShareX/file upload server that is easy to use, packed with features, and with an easy setup",
     "pname": "zipline",
-    "version": "4.4.2"
+    "version": "4.5.2"
   },
   "legacyPackages.x86_64-linux.zipperposition": {
     "description": "Superposition prover for full first order logic",
