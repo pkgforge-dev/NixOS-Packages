@@ -909,6 +909,11 @@
     "pname": "act",
     "version": "0.2.86"
   },
+  "legacyPackages.x86_64-linux.act3": {
+    "description": "Glance at the last 3 runs of your GitHub Actions workflows",
+    "pname": "act3",
+    "version": "2.0.0"
+  },
   "legacyPackages.x86_64-linux.actdiag": {
     "description": "Generate activity-diagram image from spec-text file (similar to Graphviz)",
     "pname": "actdiag",
@@ -4152,7 +4157,7 @@
   "legacyPackages.x86_64-linux.alpaca": {
     "description": "Ollama client made with GTK4 and Adwaita",
     "pname": "alpaca",
-    "version": "9.2.2"
+    "version": "9.2.3"
   },
   "legacyPackages.x86_64-linux.alpaca-proxy": {
     "description": "HTTP forward proxy with PAC and NTLM authentication support",
@@ -15279,11 +15284,6 @@
     "pname": "benchexec",
     "version": "3.27"
   },
-  "legacyPackages.x86_64-linux.bencode": {
-    "description": "Header-only C++20 bencode serialization/deserialization library",
-    "pname": "bencode",
-    "version": "1.0.1"
-  },
   "legacyPackages.x86_64-linux.bencodetools": {
     "description": "Collection of tools for manipulating bencoded data",
     "pname": "bencodetools",
@@ -19897,7 +19897,7 @@
   "legacyPackages.x86_64-linux.cargo-readme": {
     "description": "Generate README.md from docstrings",
     "pname": "cargo-readme",
-    "version": "3.3.1"
+    "version": "3.3.2"
   },
   "legacyPackages.x86_64-linux.cargo-release": {
     "description": "Cargo subcommand \"release\": everything about releasing a rust crate",
@@ -19918,6 +19918,11 @@
     "description": "Build, cache, and run binaries scoped in Cargo.toml rather than installing globally. This acts similarly to npm run and gomodrun, and allows your teams to always be running the same tooling versions",
     "pname": "cargo-run-bin",
     "version": "1.7.4"
+  },
+  "legacyPackages.x86_64-linux.cargo-sbom": {
+    "description": "Create software bill of materials (SBOM) for Rust",
+    "pname": "cargo-sbom",
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.cargo-seek": {
     "description": "Terminal user interface for searching, adding and installing cargo crates",
@@ -20037,7 +20042,7 @@
   "legacyPackages.x86_64-linux.cargo-update": {
     "description": "Cargo subcommand for checking and applying updates to installed executables",
     "pname": "cargo-update",
-    "version": "19.0.1"
+    "version": "20.0.0"
   },
   "legacyPackages.x86_64-linux.cargo-v5": {
     "description": "Cargo tool for working with VEX V5 Rust projects",
@@ -26992,12 +26997,12 @@
   "legacyPackages.x86_64-linux.code-cursor": {
     "description": "AI-powered code editor built on vscode",
     "pname": "cursor",
-    "version": "3.0.12"
+    "version": "3.0.16"
   },
   "legacyPackages.x86_64-linux.code-cursor-fhs": {
     "description": "Wrapped variant of cursor which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications",
     "pname": "cursor",
-    "version": "3.0.12"
+    "version": "3.0.16"
   },
   "legacyPackages.x86_64-linux.code-maat": {
     "description": "Command line tool to mine and analyze data from version-control systems",
@@ -35617,7 +35622,7 @@
   "legacyPackages.x86_64-linux.docker": {
     "description": "Open source project to pack, ship and run any application as a lightweight container",
     "pname": "docker",
-    "version": "29.3.1"
+    "version": "29.4.0"
   },
   "legacyPackages.x86_64-linux.docker-buildx": {
     "description": "Docker CLI plugin for extended build capabilities with BuildKit",
@@ -35627,7 +35632,7 @@
   "legacyPackages.x86_64-linux.docker-client": {
     "description": "Open source project to pack, ship and run any application as a lightweight container",
     "pname": "docker",
-    "version": "29.3.1"
+    "version": "29.4.0"
   },
   "legacyPackages.x86_64-linux.docker-color-output": {
     "description": "Add color to the Docker CLI",
@@ -35712,7 +35717,7 @@
   "legacyPackages.x86_64-linux.docker_29": {
     "description": "Open source project to pack, ship and run any application as a lightweight container",
     "pname": "docker",
-    "version": "29.3.1"
+    "version": "29.4.0"
   },
   "legacyPackages.x86_64-linux.dockerfile-language-server": {
     "description": "Language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies",
@@ -37792,7 +37797,7 @@
   "legacyPackages.x86_64-linux.dt-schema": {
     "description": "Tooling for devicetree validation using YAML and jsonschema",
     "pname": "dtschema",
-    "version": "2025.12"
+    "version": "2026.04"
   },
   "legacyPackages.x86_64-linux.dtach": {
     "description": "Program that emulates the detach feature of screen",
@@ -39627,12 +39632,12 @@
   "legacyPackages.x86_64-linux.electron": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "41.0.2"
+    "version": "41.2.0"
   },
   "legacyPackages.x86_64-linux.electron-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "41.0.2"
+    "version": "41.2.0"
   },
   "legacyPackages.x86_64-linux.electron-cash": {
     "description": "Bitcoin Cash SPV Wallet",
@@ -39642,7 +39647,7 @@
   "legacyPackages.x86_64-linux.electron-chromedriver": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "41.0.2"
+    "version": "41.2.0"
   },
   "legacyPackages.x86_64-linux.electron-chromedriver_38": {
     "description": "WebDriver server for running Selenium tests on Chrome",
@@ -39652,17 +39657,17 @@
   "legacyPackages.x86_64-linux.electron-chromedriver_39": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "39.8.2"
+    "version": "39.8.7"
   },
   "legacyPackages.x86_64-linux.electron-chromedriver_40": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "40.8.2"
+    "version": "40.8.5"
   },
   "legacyPackages.x86_64-linux.electron-chromedriver_41": {
     "description": "WebDriver server for running Selenium tests on Chrome",
     "pname": "electron-chromedriver",
-    "version": "41.0.2"
+    "version": "41.2.0"
   },
   "legacyPackages.x86_64-linux.electron-fiddle": {
     "description": "Easiest way to get started with Electron",
@@ -39687,32 +39692,32 @@
   "legacyPackages.x86_64-linux.electron_39": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "39.8.2"
+    "version": "39.8.7"
   },
   "legacyPackages.x86_64-linux.electron_39-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "39.8.2"
+    "version": "39.8.7"
   },
   "legacyPackages.x86_64-linux.electron_40": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "40.8.2"
+    "version": "40.8.5"
   },
   "legacyPackages.x86_64-linux.electron_40-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "40.8.2"
+    "version": "40.8.5"
   },
   "legacyPackages.x86_64-linux.electron_41": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "41.0.2"
+    "version": "41.2.0"
   },
   "legacyPackages.x86_64-linux.electron_41-bin": {
     "description": "Cross platform desktop application shell",
     "pname": "electron",
-    "version": "41.0.2"
+    "version": "41.2.0"
   },
   "legacyPackages.x86_64-linux.electrs": {
     "description": "Efficient re-implementation of Electrum Server in Rust",
@@ -39757,17 +39762,17 @@
   "legacyPackages.x86_64-linux.element-desktop": {
     "description": "Feature-rich client for Matrix.org",
     "pname": "element-desktop",
-    "version": "1.12.10"
+    "version": "1.12.14"
   },
   "legacyPackages.x86_64-linux.element-web": {
     "description": "Glossy Matrix collaboration client for the web",
     "pname": "element-web",
-    "version": "1.12.10"
+    "version": "1.12.14"
   },
   "legacyPackages.x86_64-linux.element-web-unwrapped": {
     "description": "Glossy Matrix collaboration client for the web",
     "pname": "element-web",
-    "version": "1.12.10"
+    "version": "1.12.14"
   },
   "legacyPackages.x86_64-linux.elementary-xfce-icon-theme": {
     "description": "Elementary icons for Xfce and other GTK desktops like GNOME",
@@ -40402,7 +40407,7 @@
   "legacyPackages.x86_64-linux.emulsion": {
     "description": "Fast and minimalistic image viewer",
     "pname": "emulsion",
-    "version": "11.0"
+    "version": "12.3"
   },
   "legacyPackages.x86_64-linux.emulsion-palette": {
     "description": "Store your color palettes in an easy way",
@@ -43362,7 +43367,7 @@
   "legacyPackages.x86_64-linux.feh": {
     "description": "Light-weight image viewer",
     "pname": "feh",
-    "version": "3.11.4"
+    "version": "3.12.1"
   },
   "legacyPackages.x86_64-linux.fehlstart": {
     "description": "Small desktop application launcher with reasonable memory footprint",
@@ -44202,17 +44207,17 @@
   "legacyPackages.x86_64-linux.firefox-beta": {
     "description": "Web browser built from Firefox Beta Release source tree",
     "pname": "firefox-beta",
-    "version": "150.0b2"
+    "version": "150.0b5"
   },
   "legacyPackages.x86_64-linux.firefox-beta-bin": {
     "description": "Web browser built from Firefox Beta Release source tree",
     "pname": "firefox-beta",
-    "version": "150.0b2"
+    "version": "150.0b5"
   },
   "legacyPackages.x86_64-linux.firefox-beta-unwrapped": {
     "description": "Web browser built from Firefox Beta Release source tree",
     "pname": "firefox-beta-unwrapped",
-    "version": "150.0b2"
+    "version": "150.0b5"
   },
   "legacyPackages.x86_64-linux.firefox-bin": {
     "description": "Mozilla Firefox, free web browser (binary package)",
@@ -44227,17 +44232,17 @@
   "legacyPackages.x86_64-linux.firefox-devedition": {
     "description": "Web browser built from Firefox Developer Edition source tree",
     "pname": "firefox-devedition",
-    "version": "150.0b3"
+    "version": "150.0b7"
   },
   "legacyPackages.x86_64-linux.firefox-devedition-bin": {
     "description": "Web browser built from Firefox Developer Edition source tree",
     "pname": "firefox-devedition",
-    "version": "150.0b3"
+    "version": "150.0b7"
   },
   "legacyPackages.x86_64-linux.firefox-devedition-unwrapped": {
     "description": "Web browser built from Firefox Developer Edition source tree",
     "pname": "firefox-devedition-unwrapped",
-    "version": "150.0b3"
+    "version": "150.0b7"
   },
   "legacyPackages.x86_64-linux.firefox-esr": {
     "description": "Web browser built from Firefox source tree",
@@ -48952,7 +48957,7 @@
   "legacyPackages.x86_64-linux.gemini-cli-bin": {
     "description": "AI agent that brings the power of Gemini directly into your terminal",
     "pname": "gemini-cli-bin",
-    "version": "0.36.0"
+    "version": "0.37.0"
   },
   "legacyPackages.x86_64-linux.geminicommit": {
     "description": "CLI that generates git commit messages with Google Gemini AI",
@@ -50947,7 +50952,7 @@
   "legacyPackages.x86_64-linux.gitbutler": {
     "description": "Git client for simultaneous branches on top of your existing workflow",
     "pname": "gitbutler",
-    "version": "0.18.8"
+    "version": "0.19.7"
   },
   "legacyPackages.x86_64-linux.gitcs": {
     "description": "Scan local git repositories and generate a visual contributions graph",
@@ -51422,7 +51427,7 @@
   "legacyPackages.x86_64-linux.glances": {
     "description": "Cross-platform curses-based monitoring tool",
     "pname": "glances",
-    "version": "4.5.2"
+    "version": "4.5.3.2"
   },
   "legacyPackages.x86_64-linux.glas": {
     "description": "Language server for the Gleam programming language",
@@ -61357,7 +61362,7 @@
   "legacyPackages.x86_64-linux.grafanaPlugins.grafana-clickhouse-datasource": {
     "description": "Connects Grafana to ClickHouse",
     "pname": "grafana-clickhouse-datasource",
-    "version": "4.8.2"
+    "version": "4.14.0"
   },
   "legacyPackages.x86_64-linux.grafanaPlugins.grafana-clock-panel": {
     "description": "Clock panel for Grafana",
@@ -62172,7 +62177,7 @@
   "legacyPackages.x86_64-linux.grpc-client-cli": {
     "description": "Generic gRPC command line client",
     "pname": "grpc-client-cli",
-    "version": "1.24.2"
+    "version": "1.24.3"
   },
   "legacyPackages.x86_64-linux.grpc-gateway": {
     "description": "GRPC to JSON proxy generator plugin for Google Protocol Buffers",
@@ -162912,7 +162917,7 @@
   "legacyPackages.x86_64-linux.hugo": {
     "description": "Fast and modern static website engine",
     "pname": "hugo",
-    "version": "0.159.2"
+    "version": "0.160.1"
   },
   "legacyPackages.x86_64-linux.hugs": {
     "description": "Haskell interpreter",
@@ -164687,7 +164692,7 @@
   "legacyPackages.x86_64-linux.i-pi": {
     "description": "Universal force engine for ab initio and force field driven (path integral) molecular dynamics",
     "pname": "i-pi",
-    "version": "3.1.11"
+    "version": "3.1.12"
   },
   "legacyPackages.x86_64-linux.i18next-cli": {
     "description": "A unified, high-performance i18next CLI",
@@ -167743,6 +167748,51 @@
     "description": "Customised build of the Iosevka typeface, with a consistent rounded style and overrides for almost all individual glyphs in both roman (upright) and italic (slanted) variants. ",
     "pname": "iosevka-comfy-wide-motion-fixed",
     "version": "2.1.0"
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.condensed": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (Condensed)",
+    "pname": "ioskeley-mono-condensed-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.condensed-NF": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (Condensed, Nerd Font)",
+    "pname": "ioskeley-mono-condensed-NF-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.condensed-unhinted": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (Condensed)",
+    "pname": "ioskeley-mono-condensed-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.normal": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (Normal)",
+    "pname": "ioskeley-mono-normal-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.normal-NF": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (Normal, Nerd Font)",
+    "pname": "ioskeley-mono-normal-NF-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.normal-unhinted": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (Normal)",
+    "pname": "ioskeley-mono-normal-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.semiCondensed": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (SemiCondensed)",
+    "pname": "ioskeley-mono-semicondensed-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.semiCondensed-NF": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (SemiCondensed, Nerd Font)",
+    "pname": "ioskeley-mono-semicondensed-NF-v2.0.0-beta.1",
+    "version": ""
+  },
+  "legacyPackages.x86_64-linux.ioskeley-mono.semiCondensed-unhinted": {
+    "description": "Iosevka configuration mimicking Berkeley Mono (SemiCondensed)",
+    "pname": "ioskeley-mono-semicondensed-v2.0.0-beta.1",
+    "version": ""
   },
   "legacyPackages.x86_64-linux.iotas": {
     "description": "Simple note taking with mobile-first design and Nextcloud sync",
@@ -177092,7 +177142,7 @@
   "legacyPackages.x86_64-linux.kyverno": {
     "description": "Kubernetes Native Policy Management",
     "pname": "kyverno",
-    "version": "1.16.2"
+    "version": "1.17.1"
   },
   "legacyPackages.x86_64-linux.kyverno-chainsaw": {
     "description": "Declarative approach to test Kubernetes operators and controllers",
@@ -182967,7 +183017,7 @@
   "legacyPackages.x86_64-linux.libretro.mgba": {
     "description": "Port of mGBA to libretro",
     "pname": "libretro-mgba",
-    "version": "0-unstable-2026-03-30"
+    "version": "0-unstable-2026-04-03"
   },
   "legacyPackages.x86_64-linux.libretro.mrboom": {
     "description": "Port of Mr.Boom to libretro",
@@ -201427,17 +201477,17 @@
   "legacyPackages.x86_64-linux.llama-cpp": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "8667"
+    "version": "8733"
   },
   "legacyPackages.x86_64-linux.llama-cpp-rocm": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "8667"
+    "version": "8733"
   },
   "legacyPackages.x86_64-linux.llama-cpp-vulkan": {
     "description": "Inference of Meta's LLaMA model (and others) in pure C/C++",
     "pname": "llama-cpp",
-    "version": "8667"
+    "version": "8733"
   },
   "legacyPackages.x86_64-linux.llama-swap": {
     "description": "Model swapping for llama.cpp (or any local OpenAPI compatible server)",
@@ -214847,7 +214897,7 @@
   "legacyPackages.x86_64-linux.mediawriter": {
     "description": "Tool to write images files to portable media",
     "pname": "mediawriter",
-    "version": "5.3.0"
+    "version": "5.3.1"
   },
   "legacyPackages.x86_64-linux.medio": {
     "description": "Serif font designed by Sora Sagano",
@@ -217062,7 +217112,7 @@
   "legacyPackages.x86_64-linux.mixing-station": {
     "description": "Remote control app for digital audio mixers (XAir, X32, dLive, etc.)",
     "pname": "mixing-station",
-    "version": "2.8.0"
+    "version": "2.8.2"
   },
   "legacyPackages.x86_64-linux.mixtool": {
     "description": "Helper for easily working with jsonnet mixins",
@@ -225422,7 +225472,7 @@
   "legacyPackages.x86_64-linux.noto-fonts": {
     "description": "Beautiful and free fonts for many languages",
     "pname": "noto-fonts",
-    "version": "2026.03.01"
+    "version": "2026.04.01"
   },
   "legacyPackages.x86_64-linux.noto-fonts-cjk-sans": {
     "description": "Beautiful and free fonts for CJK languages",
@@ -225457,7 +225507,7 @@
   "legacyPackages.x86_64-linux.noto-fonts-lgc-plus": {
     "description": "Beautiful and free fonts for many languages",
     "pname": "noto-fonts-lgc-plus",
-    "version": "2026.03.01"
+    "version": "2026.04.01"
   },
   "legacyPackages.x86_64-linux.noto-fonts-monochrome-emoji": {
     "description": "Monochrome emoji font",
@@ -234077,7 +234127,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages.z3": {
     "description": "Z3 Theorem Prover (OCaml API)",
     "pname": "ocaml5.4.1-z3",
-    "version": "4.15.8"
+    "version": "4.16.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.zarith": {
     "description": "Fast, arbitrary precision OCaml integers",
@@ -240962,7 +241012,7 @@
   "legacyPackages.x86_64-linux.ocamlPackages_latest.z3": {
     "description": "Z3 Theorem Prover (OCaml API)",
     "pname": "ocaml5.4.1-z3",
-    "version": "4.15.8"
+    "version": "4.16.0"
   },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.zarith": {
     "description": "Fast, arbitrary precision OCaml integers",
@@ -242837,7 +242887,7 @@
   "legacyPackages.x86_64-linux.opencode": {
     "description": "AI coding agent built for the terminal",
     "pname": "opencode",
-    "version": "1.4.0"
+    "version": "1.4.3"
   },
   "legacyPackages.x86_64-linux.opencode-claude-auth": {
     "description": "OpenCode plugin that uses your existing Claude Code credentials",
@@ -242847,7 +242897,7 @@
   "legacyPackages.x86_64-linux.opencode-desktop": {
     "description": "AI coding agent desktop client",
     "pname": "opencode-desktop",
-    "version": "1.4.0"
+    "version": "1.4.3"
   },
   "legacyPackages.x86_64-linux.opencollada": {
     "description": "Library for handling the COLLADA file format",
@@ -245782,12 +245832,12 @@
   "legacyPackages.x86_64-linux.palemoon-bin": {
     "description": "Open Source, Goanna-based web browser focusing on efficiency and customization",
     "pname": "palemoon-bin",
-    "version": "34.1.0"
+    "version": "34.2.0"
   },
   "legacyPackages.x86_64-linux.palemoon-gtk2-bin": {
     "description": "Open Source, Goanna-based web browser focusing on efficiency and customization",
     "pname": "palemoon-bin",
-    "version": "34.1.0"
+    "version": "34.2.0"
   },
   "legacyPackages.x86_64-linux.palenight-theme": {
     "description": "",
@@ -267932,7 +267982,7 @@
   "legacyPackages.x86_64-linux.pgdog": {
     "description": "PostgreSQL connection pooler, load balancer, and database sharder",
     "pname": "pgdog",
-    "version": "0.1.34"
+    "version": "0.1.36"
   },
   "legacyPackages.x86_64-linux.pget": {
     "description": "Fast, resumable file download client",
@@ -275102,7 +275152,7 @@
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.5"
+    "version": "0.22.6"
   },
   "legacyPackages.x86_64-linux.postgresql14Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -275457,7 +275507,7 @@
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.5"
+    "version": "0.22.6"
   },
   "legacyPackages.x86_64-linux.postgresql15Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -275812,7 +275862,7 @@
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.5"
+    "version": "0.22.6"
   },
   "legacyPackages.x86_64-linux.postgresql16Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -276167,7 +276217,7 @@
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.5"
+    "version": "0.22.6"
   },
   "legacyPackages.x86_64-linux.postgresql17Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -276522,7 +276572,7 @@
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.5"
+    "version": "0.22.6"
   },
   "legacyPackages.x86_64-linux.postgresql18Packages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -276877,7 +276927,7 @@
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_search": {
     "description": "Transactional Elasticsearch alternative as a PostgreSQL extension",
     "pname": "pg_search",
-    "version": "0.22.5"
+    "version": "0.22.6"
   },
   "legacyPackages.x86_64-linux.postgresqlPackages.pg_similarity": {
     "description": "Extension to support similarity queries on PostgreSQL",
@@ -279692,7 +279742,7 @@
   "legacyPackages.x86_64-linux.pv-migrate": {
     "description": "CLI tool to easily migrate Kubernetes persistent volumes",
     "pname": "pv-migrate",
-    "version": "3.2.0"
+    "version": "3.3.0"
   },
   "legacyPackages.x86_64-linux.pvs-studio": {
     "description": "Static analyzer for C and C++",
@@ -282824,6 +282874,11 @@
     "pname": "python3.13-async-generator",
     "version": "1.10"
   },
+  "legacyPackages.x86_64-linux.python313Packages.async-geotiff": {
+    "description": "Fast, async GeoTIFF and COG reader for Python",
+    "pname": "python3.13-async-geotiff",
+    "version": "0.4.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.async-interrupt": {
     "description": "Context manager to raise an exception when a future is done",
     "pname": "python3.13-async-interrupt",
@@ -282843,6 +282898,11 @@
     "description": "Happy Eyeballs connection algorithm and underlying scheduling logic in asyncio",
     "pname": "python3.13-async-stagger",
     "version": "0.4.1"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.async-tiff": {
+    "description": "Async TIFF reader for Python",
+    "pname": "python3.13-async-tiff",
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.python313Packages.async-timeout": {
     "description": "Timeout context manager for asyncio programs",
@@ -285297,7 +285357,7 @@
   "legacyPackages.x86_64-linux.python313Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.13-boto3-stubs",
-    "version": "1.42.86"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python313Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -291307,7 +291367,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dtschema": {
     "description": "Tooling for devicetree validation using YAML and jsonschema",
     "pname": "python3.13-dtschema",
-    "version": "2025.12"
+    "version": "2026.04"
   },
   "legacyPackages.x86_64-linux.python313Packages.dtw-python": {
     "description": "Python port of R's Comprehensive Dynamic Time Warp algorithms package",
@@ -297352,7 +297412,7 @@
   "legacyPackages.x86_64-linux.python313Packages.i-pi": {
     "description": "Universal force engine for ab initio and force field driven (path integral) molecular dynamics",
     "pname": "python3.13-i-pi",
-    "version": "3.1.11"
+    "version": "3.1.12"
   },
   "legacyPackages.x86_64-linux.python313Packages.i2c-tools": {
     "description": "Wrapper for i2c-tools' smbus stuff",
@@ -297377,7 +297437,7 @@
   "legacyPackages.x86_64-linux.python313Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.13-iamdata",
-    "version": "0.1.202604091"
+    "version": "0.1.202604101"
   },
   "legacyPackages.x86_64-linux.python313Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -301452,7 +301512,7 @@
   "legacyPackages.x86_64-linux.python313Packages.llm-venice": {
     "description": "LLM plugin to access models available via the Venice API",
     "pname": "python3.13-llm-venice",
-    "version": "0.8.2"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.llm-video-frames": {
     "description": "LLM plugin to turn a video into individual frames",
@@ -305322,7 +305382,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediaconnect": {
     "description": "Type annotations for boto3 mediaconnect",
     "pname": "python3.13-mypy-boto3-mediaconnect",
-    "version": "1.42.37"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-mediaconvert": {
     "description": "Type annotations for boto3 mediaconvert",
@@ -305622,7 +305682,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-redshift-data": {
     "description": "Type annotations for boto3 redshift-data",
     "pname": "python3.13-mypy-boto3-redshift-data",
-    "version": "1.42.3"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-redshift-serverless": {
     "description": "Type annotations for boto3 redshift-serverless",
@@ -305717,7 +305777,7 @@
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-sagemaker": {
     "description": "Type annotations for boto3 sagemaker",
     "pname": "python3.13-mypy-boto3-sagemaker",
-    "version": "1.42.79"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python313Packages.mypy-boto3-sagemaker-a2i-runtime": {
     "description": "Type annotations for boto3 sagemaker-a2i-runtime",
@@ -307408,6 +307468,11 @@
     "description": "",
     "pname": "python3.13-obsidian-media",
     "version": "2.0.0"
+  },
+  "legacyPackages.x86_64-linux.python313Packages.obspec": {
+    "description": "Object storage interface definitions for Python",
+    "pname": "python3.13-obspec",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.obspy": {
     "description": "Python framework for seismological observatories",
@@ -311132,7 +311197,7 @@
   "legacyPackages.x86_64-linux.python313Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.13-publicsuffixlist",
-    "version": "1.0.2.20260408"
+    "version": "1.0.2.20260410"
   },
   "legacyPackages.x86_64-linux.python313Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -312472,7 +312537,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pydantic-ai-slim": {
     "description": "GenAI Agent Framework, the Pydantic way",
     "pname": "python3.13-pydantic-ai-slim",
-    "version": "1.77.0"
+    "version": "1.79.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pydantic-argparse-extensible": {
     "description": "Typed wrapper around argparse using pydantic models",
@@ -312497,7 +312562,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pydantic-graph": {
     "description": "GenAI Agent Framework, the Pydantic way",
     "pname": "python3.13-pydantic-graph",
-    "version": "1.77.0"
+    "version": "1.79.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.pydantic-scim": {
     "description": "Pydantic types for SCIM",
@@ -318822,7 +318887,7 @@
   "legacyPackages.x86_64-linux.python313Packages.pyvista": {
     "description": "Easier Pythonic interface to VTK",
     "pname": "python3.13-pyvista",
-    "version": "0.47.1"
+    "version": "0.47.2"
   },
   "legacyPackages.x86_64-linux.python313Packages.pyviz-comms": {
     "description": "Bidirectional communication for the HoloViz ecosystem",
@@ -320287,7 +320352,7 @@
   "legacyPackages.x86_64-linux.python313Packages.resvg-py": {
     "description": "High level wrapper of resvg for python",
     "pname": "python3.13-resvg-py",
-    "version": "0.2.6"
+    "version": "0.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.rethinkdb": {
     "description": "Python driver library for the RethinkDB database server",
@@ -320477,7 +320542,7 @@
   "legacyPackages.x86_64-linux.python313Packages.rio-tiler": {
     "description": "User friendly Rasterio plugin to read raster datasets",
     "pname": "python3.13-rio-tiler",
-    "version": "8.0.5"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.python313Packages.rioxarray": {
     "description": "Geospatial xarray extension powered by rasterio",
@@ -324179,6 +324244,11 @@
     "pname": "python3.13-stable-baselines3",
     "version": "2.8.0"
   },
+  "legacyPackages.x86_64-linux.python313Packages.stac-validator": {
+    "description": "Validator for the SpatioTemporal Asset Catalog (STAC) specification",
+    "pname": "python3.13-stac-validator",
+    "version": "4.1.0"
+  },
   "legacyPackages.x86_64-linux.python313Packages.stack-data": {
     "description": "Extract data from stack frames and tracebacks",
     "pname": "python3.13-stack-data",
@@ -325467,7 +325537,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.1.73"
+    "version": "3.1.75"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -331477,7 +331547,7 @@
   "legacyPackages.x86_64-linux.python313Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.13-uv",
-    "version": "0.11.4"
+    "version": "0.11.6"
   },
   "legacyPackages.x86_64-linux.python313Packages.uv-build": {
     "description": "Minimal build backend for uv",
@@ -333267,7 +333337,7 @@
   "legacyPackages.x86_64-linux.python313Packages.xyzservices": {
     "description": "Source of XYZ tiles providers",
     "pname": "python3.13-xyzservices",
-    "version": "2025.11.0"
+    "version": "2026.3.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.yabadaba": {
     "description": "Abstraction layer allowing for common interactions with databases and records",
@@ -333562,7 +333632,7 @@
   "legacyPackages.x86_64-linux.python313Packages.z3-solver": {
     "description": "High-performance theorem prover and SMT solver",
     "pname": "z3",
-    "version": "4.15.8"
+    "version": "4.16.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.z3c-checkversions": {
     "description": "Find newer package versions on PyPI",
@@ -336599,6 +336669,11 @@
     "pname": "python3.14-async-generator",
     "version": "1.10"
   },
+  "legacyPackages.x86_64-linux.python314Packages.async-geotiff": {
+    "description": "Fast, async GeoTIFF and COG reader for Python",
+    "pname": "python3.14-async-geotiff",
+    "version": "0.4.0"
+  },
   "legacyPackages.x86_64-linux.python314Packages.async-interrupt": {
     "description": "Context manager to raise an exception when a future is done",
     "pname": "python3.14-async-interrupt",
@@ -336618,6 +336693,11 @@
     "description": "Happy Eyeballs connection algorithm and underlying scheduling logic in asyncio",
     "pname": "python3.14-async-stagger",
     "version": "0.4.1"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.async-tiff": {
+    "description": "Async TIFF reader for Python",
+    "pname": "python3.14-async-tiff",
+    "version": "0.7.1"
   },
   "legacyPackages.x86_64-linux.python314Packages.async-timeout": {
     "description": "Timeout context manager for asyncio programs",
@@ -339067,7 +339147,7 @@
   "legacyPackages.x86_64-linux.python314Packages.boto3-stubs": {
     "description": "Type annotations for boto3",
     "pname": "python3.14-boto3-stubs",
-    "version": "1.42.86"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python314Packages.botocore": {
     "description": "Low-level interface to a growing number of Amazon Web Services",
@@ -345077,7 +345157,7 @@
   "legacyPackages.x86_64-linux.python314Packages.dtschema": {
     "description": "Tooling for devicetree validation using YAML and jsonschema",
     "pname": "python3.14-dtschema",
-    "version": "2025.12"
+    "version": "2026.04"
   },
   "legacyPackages.x86_64-linux.python314Packages.dtw-python": {
     "description": "Python port of R's Comprehensive Dynamic Time Warp algorithms package",
@@ -351122,7 +351202,7 @@
   "legacyPackages.x86_64-linux.python314Packages.i-pi": {
     "description": "Universal force engine for ab initio and force field driven (path integral) molecular dynamics",
     "pname": "python3.14-i-pi",
-    "version": "3.1.11"
+    "version": "3.1.12"
   },
   "legacyPackages.x86_64-linux.python314Packages.i2c-tools": {
     "description": "Wrapper for i2c-tools' smbus stuff",
@@ -351147,7 +351227,7 @@
   "legacyPackages.x86_64-linux.python314Packages.iamdata": {
     "description": "Module for utilizing AWS IAM data for Services, Actions, Resources, and Condition Keys",
     "pname": "python3.14-iamdata",
-    "version": "0.1.202604091"
+    "version": "0.1.202604101"
   },
   "legacyPackages.x86_64-linux.python314Packages.iammeter": {
     "description": "Module to work with the IamMeter API",
@@ -355222,7 +355302,7 @@
   "legacyPackages.x86_64-linux.python314Packages.llm-venice": {
     "description": "LLM plugin to access models available via the Venice API",
     "pname": "python3.14-llm-venice",
-    "version": "0.8.2"
+    "version": "0.9.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.llm-video-frames": {
     "description": "LLM plugin to turn a video into individual frames",
@@ -359092,7 +359172,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-mediaconnect": {
     "description": "Type annotations for boto3 mediaconnect",
     "pname": "python3.14-mypy-boto3-mediaconnect",
-    "version": "1.42.37"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-mediaconvert": {
     "description": "Type annotations for boto3 mediaconvert",
@@ -359392,7 +359472,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-redshift-data": {
     "description": "Type annotations for boto3 redshift-data",
     "pname": "python3.14-mypy-boto3-redshift-data",
-    "version": "1.42.3"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-redshift-serverless": {
     "description": "Type annotations for boto3 redshift-serverless",
@@ -359487,7 +359567,7 @@
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-sagemaker": {
     "description": "Type annotations for boto3 sagemaker",
     "pname": "python3.14-mypy-boto3-sagemaker",
-    "version": "1.42.79"
+    "version": "1.42.87"
   },
   "legacyPackages.x86_64-linux.python314Packages.mypy-boto3-sagemaker-a2i-runtime": {
     "description": "Type annotations for boto3 sagemaker-a2i-runtime",
@@ -361178,6 +361258,11 @@
     "description": "",
     "pname": "python3.14-obsidian-media",
     "version": "2.0.0"
+  },
+  "legacyPackages.x86_64-linux.python314Packages.obspec": {
+    "description": "Object storage interface definitions for Python",
+    "pname": "python3.14-obspec",
+    "version": "0.1.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.obspy": {
     "description": "Python framework for seismological observatories",
@@ -364902,7 +364987,7 @@
   "legacyPackages.x86_64-linux.python314Packages.publicsuffixlist": {
     "description": "Public Suffix List parser implementation",
     "pname": "python3.14-publicsuffixlist",
-    "version": "1.0.2.20260408"
+    "version": "1.0.2.20260410"
   },
   "legacyPackages.x86_64-linux.python314Packages.pubnub": {
     "description": "Python-based APIs for PubNub",
@@ -366242,7 +366327,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pydantic-ai-slim": {
     "description": "GenAI Agent Framework, the Pydantic way",
     "pname": "python3.14-pydantic-ai-slim",
-    "version": "1.77.0"
+    "version": "1.79.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pydantic-argparse-extensible": {
     "description": "Typed wrapper around argparse using pydantic models",
@@ -366267,7 +366352,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pydantic-graph": {
     "description": "GenAI Agent Framework, the Pydantic way",
     "pname": "python3.14-pydantic-graph",
-    "version": "1.77.0"
+    "version": "1.79.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.pydantic-scim": {
     "description": "Pydantic types for SCIM",
@@ -372592,7 +372677,7 @@
   "legacyPackages.x86_64-linux.python314Packages.pyvista": {
     "description": "Easier Pythonic interface to VTK",
     "pname": "python3.14-pyvista",
-    "version": "0.47.1"
+    "version": "0.47.2"
   },
   "legacyPackages.x86_64-linux.python314Packages.pyviz-comms": {
     "description": "Bidirectional communication for the HoloViz ecosystem",
@@ -374057,7 +374142,7 @@
   "legacyPackages.x86_64-linux.python314Packages.resvg-py": {
     "description": "High level wrapper of resvg for python",
     "pname": "python3.14-resvg-py",
-    "version": "0.2.6"
+    "version": "0.3.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.rethinkdb": {
     "description": "Python driver library for the RethinkDB database server",
@@ -374247,7 +374332,7 @@
   "legacyPackages.x86_64-linux.python314Packages.rio-tiler": {
     "description": "User friendly Rasterio plugin to read raster datasets",
     "pname": "python3.14-rio-tiler",
-    "version": "8.0.5"
+    "version": "9.0.4"
   },
   "legacyPackages.x86_64-linux.python314Packages.rioxarray": {
     "description": "Geospatial xarray extension powered by rasterio",
@@ -377949,6 +378034,11 @@
     "pname": "python3.14-stable-baselines3",
     "version": "2.8.0"
   },
+  "legacyPackages.x86_64-linux.python314Packages.stac-validator": {
+    "description": "Validator for the SpatioTemporal Asset Catalog (STAC) specification",
+    "pname": "python3.14-stac-validator",
+    "version": "4.1.0"
+  },
   "legacyPackages.x86_64-linux.python314Packages.stack-data": {
     "description": "Extract data from stack frames and tracebacks",
     "pname": "python3.14-stack-data",
@@ -379237,7 +379327,7 @@
   "legacyPackages.x86_64-linux.python314Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.14-tencentcloud-sdk-python",
-    "version": "3.1.73"
+    "version": "3.1.75"
   },
   "legacyPackages.x86_64-linux.python314Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -385247,7 +385337,7 @@
   "legacyPackages.x86_64-linux.python314Packages.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "python3.14-uv",
-    "version": "0.11.4"
+    "version": "0.11.6"
   },
   "legacyPackages.x86_64-linux.python314Packages.uv-build": {
     "description": "Minimal build backend for uv",
@@ -387037,7 +387127,7 @@
   "legacyPackages.x86_64-linux.python314Packages.xyzservices": {
     "description": "Source of XYZ tiles providers",
     "pname": "python3.14-xyzservices",
-    "version": "2025.11.0"
+    "version": "2026.3.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.yabadaba": {
     "description": "Abstraction layer allowing for common interactions with databases and records",
@@ -387332,7 +387422,7 @@
   "legacyPackages.x86_64-linux.python314Packages.z3-solver": {
     "description": "High-performance theorem prover and SMT solver",
     "pname": "z3",
-    "version": "4.15.8"
+    "version": "4.16.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.z3c-checkversions": {
     "description": "Find newer package versions on PyPI",
@@ -388162,7 +388252,7 @@
   "legacyPackages.x86_64-linux.qgis-ltr": {
     "description": "Free and Open Source Geographic Information System",
     "pname": "qgis-ltr",
-    "version": "3.40.15"
+    "version": "3.44.8"
   },
   "legacyPackages.x86_64-linux.qgit": {
     "description": "Graphical front-end to Git",
@@ -391257,7 +391347,7 @@
   "legacyPackages.x86_64-linux.rectangle-pro": {
     "description": "Move and resize windows in macOS using keyboard shortcuts or snap areas",
     "pname": "rectangle-pro",
-    "version": "3.63"
+    "version": "3.75"
   },
   "legacyPackages.x86_64-linux.recursive": {
     "description": "Variable font family for code & UI",
@@ -392222,7 +392312,7 @@
   "legacyPackages.x86_64-linux.retroarch-assets": {
     "description": "Assets needed for RetroArch",
     "pname": "retroarch-assets",
-    "version": "1.22.0-unstable-2025-12-01"
+    "version": "1.22.0-unstable-2026-04-09"
   },
   "legacyPackages.x86_64-linux.retroarch-bare": {
     "description": "Multi-platform emulator frontend for libretro cores",
@@ -392652,7 +392742,7 @@
   "legacyPackages.x86_64-linux.ripdrag": {
     "description": "Application that lets you drag and drop files from and to the terminal",
     "pname": "ripdrag",
-    "version": "0.4.11"
+    "version": "0.4.12"
   },
   "legacyPackages.x86_64-linux.ripe-atlas-tools": {
     "description": "RIPE ATLAS project tools",
@@ -430782,7 +430872,7 @@
   "legacyPackages.x86_64-linux.signal-desktop": {
     "description": "Private, simple, and secure messenger",
     "pname": "signal-desktop",
-    "version": "8.4.1"
+    "version": "8.6.0"
   },
   "legacyPackages.x86_64-linux.signal-export": {
     "description": "Export your Signal chats to markdown files with attachments",
@@ -432872,7 +432962,7 @@
   "legacyPackages.x86_64-linux.sogo": {
     "description": "Very fast and scalable modern collaboration suite (groupware)",
     "pname": "sogo",
-    "version": "5.12.4"
+    "version": "5.12.7"
   },
   "legacyPackages.x86_64-linux.soi": {
     "description": "Physics-based puzzle game",
@@ -434991,8 +435081,8 @@
   },
   "legacyPackages.x86_64-linux.stac-validator": {
     "description": "Validator for the SpatioTemporal Asset Catalog (STAC) specification",
-    "pname": "python3.13-stac-validator",
-    "version": "3.11.0"
+    "pname": "stac-validator",
+    "version": "4.1.0"
   },
   "legacyPackages.x86_64-linux.stack": {
     "description": "A program for developing Haskell projects",
@@ -437517,7 +437607,7 @@
   "legacyPackages.x86_64-linux.symfony-cli": {
     "description": "Symfony CLI",
     "pname": "symfony-cli",
-    "version": "5.16.1"
+    "version": "5.17.1"
   },
   "legacyPackages.x86_64-linux.symfpu": {
     "description": "Implementation of SMT-LIB / IEEE-754 operations in terms of bit-vector operations",
@@ -439432,7 +439522,7 @@
   "legacyPackages.x86_64-linux.temporal_capi": {
     "description": "A Rust implementation of ECMAScript's Temporal API",
     "pname": "temporal_capi",
-    "version": "0.2.2"
+    "version": "0.2.3"
   },
   "legacyPackages.x86_64-linux.temurin-bin": {
     "description": "Eclipse Temurin, prebuilt OpenJDK binary",
@@ -439842,7 +439932,7 @@
   "legacyPackages.x86_64-linux.terraform-mcp-server": {
     "description": "Terraform Model Context Protocol (MCP) Server",
     "pname": "terraform-mcp-server",
-    "version": "0.5.0"
+    "version": "0.5.1"
   },
   "legacyPackages.x86_64-linux.terraform-plugin-docs": {
     "description": "Generate and validate Terraform plugin/provider documentation",
@@ -441487,12 +441577,12 @@
   "legacyPackages.x86_64-linux.terraform-providers.yandex": {
     "description": "",
     "pname": "terraform-provider-yandex",
-    "version": "0.195.0"
+    "version": "0.197.0"
   },
   "legacyPackages.x86_64-linux.terraform-providers.yandex-cloud_yandex": {
     "description": "",
     "pname": "terraform-provider-yandex",
-    "version": "0.195.0"
+    "version": "0.197.0"
   },
   "legacyPackages.x86_64-linux.terraform_1": {
     "description": "Tool for building, changing, and versioning infrastructure",
@@ -509022,7 +509112,7 @@
   "legacyPackages.x86_64-linux.uv": {
     "description": "Extremely fast Python package installer and resolver, written in Rust",
     "pname": "uv",
-    "version": "0.11.4"
+    "version": "0.11.6"
   },
   "legacyPackages.x86_64-linux.uv-sort": {
     "description": "Sort uv's dependencies alphabetically",
@@ -529632,7 +529722,7 @@
   "legacyPackages.x86_64-linux.xan": {
     "description": "Command line tool to process CSV files directly from the shell",
     "pname": "xan",
-    "version": "0.56.0"
+    "version": "0.57.0"
   },
   "legacyPackages.x86_64-linux.xandikos": {
     "description": "Lightweight CalDAV/CardDAV server",
@@ -534132,12 +534222,12 @@
   "legacyPackages.x86_64-linux.z3": {
     "description": "High-performance theorem prover and SMT solver",
     "pname": "z3",
-    "version": "4.15.8"
+    "version": "4.16.0"
   },
   "legacyPackages.x86_64-linux.z3-tptp": {
     "description": "TPTP wrapper for Z3 prover",
     "pname": "z3-tptp",
-    "version": "4.15.8"
+    "version": "4.16.0"
   },
   "legacyPackages.x86_64-linux.z64decompress": {
     "description": "Zelda 64 rom decompressor",
