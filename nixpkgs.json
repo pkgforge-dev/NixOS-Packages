@@ -13847,7 +13847,7 @@
   "legacyPackages.x86_64-linux.balena-cli": {
     "description": "Command line interface for balenaCloud or openBalena",
     "pname": "balena-cli",
-    "version": "24.0.4"
+    "version": "24.1.3"
   },
   "legacyPackages.x86_64-linux.ballerburg": {
     "description": "Classic cannon combat game",
@@ -18257,7 +18257,7 @@
   "legacyPackages.x86_64-linux.buildbox": {
     "description": "Set of tools for remote worker build execution",
     "pname": "buildbox",
-    "version": "1.3.54"
+    "version": "1.4.0"
   },
   "legacyPackages.x86_64-linux.buildcatrust": {
     "description": "Build SSL/TLS trust stores",
@@ -19822,12 +19822,12 @@
   "legacyPackages.x86_64-linux.cargo-nextest": {
     "description": "Next-generation test runner for Rust projects",
     "pname": "cargo-nextest",
-    "version": "0.9.132"
+    "version": "0.9.133"
   },
   "legacyPackages.x86_64-linux.cargo-outdated": {
     "description": "Cargo subcommand for displaying when Rust dependencies are out of date",
     "pname": "cargo-outdated",
-    "version": "0.18.0"
+    "version": "0.19.0"
   },
   "legacyPackages.x86_64-linux.cargo-pgo": {
     "description": "Cargo subcommand for optimizing Rust binaries/libraries with PGO and BOLT",
@@ -25697,7 +25697,7 @@
   "legacyPackages.x86_64-linux.clash-rs": {
     "description": "Custom protocol, rule based network proxy software",
     "pname": "clash-rs",
-    "version": "0.9.6"
+    "version": "0.9.7"
   },
   "legacyPackages.x86_64-linux.clash-verge-rev": {
     "description": "Clash GUI based on tauri",
@@ -26037,7 +26037,7 @@
   "legacyPackages.x86_64-linux.clipcat": {
     "description": "Clipboard Manager written in Rust Programming Language",
     "pname": "clipcat",
-    "version": "0.24.1"
+    "version": "0.25.0"
   },
   "legacyPackages.x86_64-linux.clipgrab": {
     "description": "Video downloader for YouTube and other sites",
@@ -28573,6 +28573,11 @@
     "description": "Rocq development of the Iris Project",
     "pname": "rocq-core9.1-iris",
     "version": "4.5.0"
+  },
+  "legacyPackages.x86_64-linux.coqPackages.jasmin": {
+    "description": "Jasmin language & verified compiler",
+    "pname": "coq9.1-jasmin",
+    "version": "2026.03.1"
   },
   "legacyPackages.x86_64-linux.coqPackages.json": {
     "description": "From JSON to Coq, and vice versa",
@@ -41592,7 +41597,7 @@
   "legacyPackages.x86_64-linux.evil-winrm-py": {
     "description": "Execute commands interactively on remote Windows machines using the WinRM protocol",
     "pname": "evil-winrm-py",
-    "version": "1.5.0"
+    "version": "1.6.0"
   },
   "legacyPackages.x86_64-linux.evillimiter": {
     "description": "Tool that monitors, analyzes and limits the bandwidth",
@@ -47617,7 +47622,7 @@
   "legacyPackages.x86_64-linux.fwupd": {
     "description": "",
     "pname": "fwupd",
-    "version": "2.0.19"
+    "version": "2.1.1"
   },
   "legacyPackages.x86_64-linux.fwupd-efi": {
     "description": "",
@@ -48772,7 +48777,7 @@
   "legacyPackages.x86_64-linux.gdevelop": {
     "description": "Graphical Game Development Studio",
     "pname": "gdevelop",
-    "version": "5.6.265"
+    "version": "5.6.266"
   },
   "legacyPackages.x86_64-linux.gdk-pixbuf": {
     "description": "Library for image loading and manipulation",
@@ -49862,7 +49867,7 @@
   "legacyPackages.x86_64-linux.ghostfolio": {
     "description": "Open Source Wealth Management Software",
     "pname": "ghostfolio",
-    "version": "2.252.0"
+    "version": "2.254.0"
   },
   "legacyPackages.x86_64-linux.ghostie": {
     "description": "Github notifications in your terminal",
@@ -60612,7 +60617,7 @@
   "legacyPackages.x86_64-linux.goshs": {
     "description": "Simple, yet feature-rich web server written in Go",
     "pname": "goshs",
-    "version": "2.0.0-beta.5"
+    "version": "2.0.1"
   },
   "legacyPackages.x86_64-linux.gosimports": {
     "description": "Simpler goimports",
@@ -162352,7 +162357,7 @@
   "legacyPackages.x86_64-linux.home-manager": {
     "description": "Nix-based user environment configurator",
     "pname": "home-manager",
-    "version": "0-unstable-2026-03-13"
+    "version": "0-unstable-2026-04-08"
   },
   "legacyPackages.x86_64-linux.homebank": {
     "description": "Free, easy, personal accounting for everyone",
@@ -169007,7 +169012,7 @@
   "legacyPackages.x86_64-linux.jasmin-compiler": {
     "description": "Workbench for high-assurance and high-speed cryptography",
     "pname": "jasmin-compiler",
-    "version": "2026.03.0"
+    "version": "2026.03.1"
   },
   "legacyPackages.x86_64-linux.jasp-desktop": {
     "description": "Complete statistical package for both Bayesian and Frequentist statistical methods",
@@ -182947,12 +182952,12 @@
   "legacyPackages.x86_64-linux.libretro.beetle-psx": {
     "description": "Port of Mednafen's PSX Engine core to libretro",
     "pname": "libretro-mednafen-psx",
-    "version": "0-unstable-2026-04-03"
+    "version": "0-unstable-2026-04-10"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-psx-hw": {
     "description": "Port of Mednafen's PSX Engine core to libretro (with hardware acceleration support)",
     "pname": "libretro-mednafen-psx-hw",
-    "version": "0-unstable-2026-04-03"
+    "version": "0-unstable-2026-04-10"
   },
   "legacyPackages.x86_64-linux.libretro.beetle-saturn": {
     "description": "Port of Mednafen's Saturn core to libretro",
@@ -201937,7 +201942,7 @@
   "legacyPackages.x86_64-linux.livekit": {
     "description": "End-to-end stack for WebRTC. SFU media server and SDKs",
     "pname": "livekit",
-    "version": "1.10.0"
+    "version": "1.10.1"
   },
   "legacyPackages.x86_64-linux.livekit-cli": {
     "description": "Command line interface to LiveKit",
@@ -202577,7 +202582,7 @@
   "legacyPackages.x86_64-linux.llmfit": {
     "description": "Find what runs on your hardware",
     "pname": "llmfit",
-    "version": "0.9.1"
+    "version": "0.9.8"
   },
   "legacyPackages.x86_64-linux.llpp": {
     "description": "MuPDF based PDF pager written in OCaml",
@@ -212367,17 +212372,17 @@
   "legacyPackages.x86_64-linux.lutris": {
     "description": "Open Source gaming platform for GNU/Linux",
     "pname": "lutris",
-    "version": "0.5.20"
+    "version": "0.5.22"
   },
   "legacyPackages.x86_64-linux.lutris-free": {
     "description": "Open Source gaming platform for GNU/Linux",
     "pname": "lutris",
-    "version": "0.5.20"
+    "version": "0.5.22"
   },
   "legacyPackages.x86_64-linux.lutris-unwrapped": {
     "description": "Open Source gaming platform for GNU/Linux",
     "pname": "lutris-unwrapped",
-    "version": "0.5.20"
+    "version": "0.5.22"
   },
   "legacyPackages.x86_64-linux.luwen": {
     "description": "Tenstorrent system interface tools",
@@ -215762,7 +215767,7 @@
   "legacyPackages.x86_64-linux.mdns-scanner": {
     "description": "Scan a network and create a list of IPs and associated hostnames, including mDNS hostnames and other aliases",
     "pname": "mdns-scanner",
-    "version": "0.26.3"
+    "version": "0.27.0"
   },
   "legacyPackages.x86_64-linux.mdp": {
     "description": "Command-line based markdown presentation tool",
@@ -216717,12 +216722,12 @@
   "legacyPackages.x86_64-linux.mfcl8690cdwcupswrapper": {
     "description": "Brother MFC-L8690CDW CUPS wrapper driver",
     "pname": "mfcl8690cdwcupswrapper",
-    "version": "1.4.0-0"
+    "version": "1.5.0-3"
   },
   "legacyPackages.x86_64-linux.mfcl8690cdwlpr": {
     "description": "Brother MFC-L8690CDW LPR printer driver",
     "pname": "mfcl8690cdwlpr",
-    "version": "1.3.0-0"
+    "version": "1.5.0-3"
   },
   "legacyPackages.x86_64-linux.mfcuk": {
     "description": "MiFare Classic Universal toolKit",
@@ -216907,7 +216912,7 @@
   "legacyPackages.x86_64-linux.microsoft-edge": {
     "description": "Web browser from Microsoft",
     "pname": "microsoft-edge",
-    "version": "146.0.3856.97"
+    "version": "147.0.3912.60"
   },
   "legacyPackages.x86_64-linux.microsoft-gsl": {
     "description": "C++ Core Guideline support library",
@@ -218857,17 +218862,17 @@
   "legacyPackages.x86_64-linux.mold": {
     "description": "Faster drop-in replacement for existing Unix linkers (unwrapped) (wrapper script)",
     "pname": "mold-unwrapped-wrapper",
-    "version": "2.40.4"
+    "version": "2.41.0"
   },
   "legacyPackages.x86_64-linux.mold-unwrapped": {
     "description": "Faster drop-in replacement for existing Unix linkers (unwrapped)",
     "pname": "mold-unwrapped",
-    "version": "2.40.4"
+    "version": "2.41.0"
   },
   "legacyPackages.x86_64-linux.mold-wrapped": {
     "description": "Faster drop-in replacement for existing Unix linkers (unwrapped) (wrapper script)",
     "pname": "mold-unwrapped-wrapper",
-    "version": "2.40.4"
+    "version": "2.41.0"
   },
   "legacyPackages.x86_64-linux.molden": {
     "description": "Display and manipulate molecular structures",
@@ -220707,7 +220712,7 @@
   "legacyPackages.x86_64-linux.msedgedriver": {
     "description": "WebDriver implementation that controls an Edge browser running on the local machine",
     "pname": "msedgedriver",
-    "version": "146.0.3856.97"
+    "version": "147.0.3912.60"
   },
   "legacyPackages.x86_64-linux.msedit": {
     "description": "Simple editor for simple needs",
@@ -220892,7 +220897,7 @@
   "legacyPackages.x86_64-linux.mtdutils": {
     "description": "Tools for MTD filesystems",
     "pname": "mtd-utils",
-    "version": "2.3.0"
+    "version": "2.3.1"
   },
   "legacyPackages.x86_64-linux.mtk-uartboot": {
     "description": "Tool to load and execute binaries over UART for Mediatek SoCs",
@@ -221032,7 +221037,7 @@
   "legacyPackages.x86_64-linux.mujoco": {
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator",
     "pname": "mujoco",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.mujs": {
     "description": "Lightweight, embeddable Javascript interpreter",
@@ -223137,7 +223142,7 @@
   "legacyPackages.x86_64-linux.netbird": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird-client",
-    "version": "0.68.1"
+    "version": "0.68.3"
   },
   "legacyPackages.x86_64-linux.netbird-dashboard": {
     "description": "NetBird Management Service Web UI Panel",
@@ -223147,27 +223152,27 @@
   "legacyPackages.x86_64-linux.netbird-management": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird-management",
-    "version": "0.68.1"
+    "version": "0.68.3"
   },
   "legacyPackages.x86_64-linux.netbird-relay": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird-relay",
-    "version": "0.68.1"
+    "version": "0.68.3"
   },
   "legacyPackages.x86_64-linux.netbird-signal": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird-signal",
-    "version": "0.68.1"
+    "version": "0.68.3"
   },
   "legacyPackages.x86_64-linux.netbird-ui": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird-ui",
-    "version": "0.68.1"
+    "version": "0.68.3"
   },
   "legacyPackages.x86_64-linux.netbird-upload": {
     "description": "Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls",
     "pname": "netbird-upload",
-    "version": "0.68.1"
+    "version": "0.68.3"
   },
   "legacyPackages.x86_64-linux.netboot": {
     "description": "Mini PXE server",
@@ -226252,7 +226257,7 @@
   "legacyPackages.x86_64-linux.nono": {
     "description": "Secure, kernel-enforced sandbox for AI agents, MCP and LLM workloads",
     "pname": "nono",
-    "version": "0.5.0"
+    "version": "0.35.0"
   },
   "legacyPackages.x86_64-linux.noogle-search": {
     "description": "Search Noogle functions with fzf",
@@ -228067,7 +228072,7 @@
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-backgroundremoval": {
     "description": "OBS plugin to replace the background in portrait images and video",
     "pname": "obs-backgroundremoval",
-    "version": "1.1.13"
+    "version": "1.3.7"
   },
   "legacyPackages.x86_64-linux.obs-studio-plugins.obs-browser-transition": {
     "description": "Plugin for OBS Studio to show a browser source during scene transition",
@@ -233678,6 +233683,11 @@
     "description": "Optics with lun package and PPX",
     "pname": "ocaml5.4.1-ppx_lun",
     "version": "0.0.2"
+  },
+  "legacyPackages.x86_64-linux.ocamlPackages.ppx_mikmatch": {
+    "description": "Matching Regular Expressions with OCaml Patterns using Mikmatch's syntax",
+    "pname": "ocaml5.4.1-ppx_mikmatch",
+    "version": "1.3"
   },
   "legacyPackages.x86_64-linux.ocamlPackages.ppx_module_timer": {
     "description": "Ppx rewriter that records top-level module startup times",
@@ -240559,6 +240569,11 @@
     "pname": "ocaml5.4.1-ppx_lun",
     "version": "0.0.2"
   },
+  "legacyPackages.x86_64-linux.ocamlPackages_latest.ppx_mikmatch": {
+    "description": "Matching Regular Expressions with OCaml Patterns using Mikmatch's syntax",
+    "pname": "ocaml5.4.1-ppx_mikmatch",
+    "version": "1.3"
+  },
   "legacyPackages.x86_64-linux.ocamlPackages_latest.ppx_module_timer": {
     "description": "Ppx rewriter that records top-level module startup times",
     "pname": "ocaml5.4.1-ppx_module_timer",
@@ -245143,6 +245158,11 @@
     "description": "Openterface mini-KVM host application for linux",
     "pname": "openterface-qt",
     "version": "0.3.18"
+  },
+  "legacyPackages.x86_64-linux.openthread-border-router": {
+    "description": "Thread border router for POSIX-based platforms",
+    "pname": "ot-br-posix",
+    "version": "0-unstable-2025-06-12"
   },
   "legacyPackages.x86_64-linux.opentimelineio": {
     "description": "Open Source API and interchange format for editorial timeline information",
@@ -276002,12 +276022,12 @@
   "legacyPackages.x86_64-linux.postgres-language-server": {
     "description": "Tools and language server for Postgres",
     "pname": "postgres-language-server",
-    "version": "0.22.0"
+    "version": "0.24.0"
   },
   "legacyPackages.x86_64-linux.postgres-lsp": {
     "description": "Tools and language server for Postgres",
     "pname": "postgres-language-server",
-    "version": "0.22.0"
+    "version": "0.24.0"
   },
   "legacyPackages.x86_64-linux.postgres-websockets": {
     "description": "Middleware to map LISTEN/NOTIFY messages to Websockets",
@@ -291817,7 +291837,7 @@
   "legacyPackages.x86_64-linux.python313Packages.dm-control": {
     "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo",
     "pname": "python3.13-dm-control",
-    "version": "1.0.38"
+    "version": "1.0.39"
   },
   "legacyPackages.x86_64-linux.python313Packages.dm-env": {
     "description": "Pure Python client for Apache Kafka",
@@ -296117,7 +296137,7 @@
   "legacyPackages.x86_64-linux.python313Packages.glances-api": {
     "description": "Python API for interacting with Glances",
     "pname": "python3.13-glances-api",
-    "version": "0.9.1"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.glcontext": {
     "description": "OpenGL implementation for ModernGL",
@@ -305207,12 +305227,12 @@
   "legacyPackages.x86_64-linux.python313Packages.mujoco": {
     "description": "Python bindings for MuJoCo: a general purpose physics simulator",
     "pname": "python3.13-mujoco",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.mujoco-mjx": {
     "description": "MuJoCo XLA (MJX)",
     "pname": "python3.13-mujoco-mjx",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.mujson": {
     "description": "Use the fastest JSON functions available at import time",
@@ -322682,7 +322702,7 @@
   "legacyPackages.x86_64-linux.python313Packages.scim2-models": {
     "description": "SCIM2 models serialization and validation with pydantic",
     "pname": "python3.13-scim2-models",
-    "version": "0.6.11"
+    "version": "0.6.12"
   },
   "legacyPackages.x86_64-linux.python313Packages.scim2-server": {
     "description": "Lightweight SCIM2 server prototype",
@@ -326207,7 +326227,7 @@
   "legacyPackages.x86_64-linux.python313Packages.symbolic": {
     "description": "Python library for dealing with symbol files and more",
     "pname": "python3.13-symbolic",
-    "version": "12.17.3"
+    "version": "12.18.0"
   },
   "legacyPackages.x86_64-linux.python313Packages.symengine": {
     "description": "Python library providing wrappers to SymEngine",
@@ -326637,7 +326657,7 @@
   "legacyPackages.x86_64-linux.python313Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.13-tencentcloud-sdk-python",
-    "version": "3.1.77"
+    "version": "3.1.78"
   },
   "legacyPackages.x86_64-linux.python313Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -345677,7 +345697,7 @@
   "legacyPackages.x86_64-linux.python314Packages.dm-control": {
     "description": "Google DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo",
     "pname": "python3.14-dm-control",
-    "version": "1.0.38"
+    "version": "1.0.39"
   },
   "legacyPackages.x86_64-linux.python314Packages.dm-env": {
     "description": "Pure Python client for Apache Kafka",
@@ -349977,7 +349997,7 @@
   "legacyPackages.x86_64-linux.python314Packages.glances-api": {
     "description": "Python API for interacting with Glances",
     "pname": "python3.14-glances-api",
-    "version": "0.9.1"
+    "version": "0.10.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.glcontext": {
     "description": "OpenGL implementation for ModernGL",
@@ -359067,12 +359087,12 @@
   "legacyPackages.x86_64-linux.python314Packages.mujoco": {
     "description": "Python bindings for MuJoCo: a general purpose physics simulator",
     "pname": "python3.14-mujoco",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.mujoco-mjx": {
     "description": "MuJoCo XLA (MJX)",
     "pname": "python3.14-mujoco-mjx",
-    "version": "3.6.0"
+    "version": "3.7.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.mujson": {
     "description": "Use the fastest JSON functions available at import time",
@@ -376542,7 +376562,7 @@
   "legacyPackages.x86_64-linux.python314Packages.scim2-models": {
     "description": "SCIM2 models serialization and validation with pydantic",
     "pname": "python3.14-scim2-models",
-    "version": "0.6.11"
+    "version": "0.6.12"
   },
   "legacyPackages.x86_64-linux.python314Packages.scim2-server": {
     "description": "Lightweight SCIM2 server prototype",
@@ -380067,7 +380087,7 @@
   "legacyPackages.x86_64-linux.python314Packages.symbolic": {
     "description": "Python library for dealing with symbol files and more",
     "pname": "python3.14-symbolic",
-    "version": "12.17.3"
+    "version": "12.18.0"
   },
   "legacyPackages.x86_64-linux.python314Packages.symengine": {
     "description": "Python library providing wrappers to SymEngine",
@@ -380497,7 +380517,7 @@
   "legacyPackages.x86_64-linux.python314Packages.tencentcloud-sdk-python": {
     "description": "Tencent Cloud API 3.0 SDK for Python",
     "pname": "python3.14-tencentcloud-sdk-python",
-    "version": "3.1.77"
+    "version": "3.1.78"
   },
   "legacyPackages.x86_64-linux.python314Packages.tendo": {
     "description": "Adds basic functionality that is not provided by Python",
@@ -389482,7 +389502,7 @@
   "legacyPackages.x86_64-linux.qidi-studio": {
     "description": "Slicer for QIDI 3D Printers, based on Bambu Studio",
     "pname": "qidi-studio",
-    "version": "2.05.01.52"
+    "version": "2.05.01.53"
   },
   "legacyPackages.x86_64-linux.qiec104": {
     "description": "Small IEC104 client",
@@ -393624,6 +393644,11 @@
     "pname": "rfc-bibtex",
     "version": "0.3.2"
   },
+  "legacyPackages.x86_64-linux.rfc-reader": {
+    "description": "RFC viewer with TUI",
+    "pname": "rfc-reader",
+    "version": "0.11.2"
+  },
   "legacyPackages.x86_64-linux.rfdump": {
     "description": "Tool to detect RFID-Tags and show their meta information",
     "pname": "rfdump",
@@ -394322,7 +394347,7 @@
   "legacyPackages.x86_64-linux.rnote": {
     "description": "Simple drawing application to create handwritten notes",
     "pname": "rnote",
-    "version": "0.14.0"
+    "version": "0.14.1"
   },
   "legacyPackages.x86_64-linux.rnp": {
     "description": "High performance C++ OpenPGP library, fully compliant to RFC 4880",
@@ -395238,6 +395263,11 @@
     "description": "Fast Rust-based bundler for JavaScript",
     "pname": "rolldown",
     "version": "1.0.0-rc.12"
+  },
+  "legacyPackages.x86_64-linux.rollo-printer": {
+    "description": "CUPS driver for Rollo label printers",
+    "pname": "rollo-printer",
+    "version": "1.8.4"
   },
   "legacyPackages.x86_64-linux.romdirfs": {
     "description": "FUSE for access Playstation 2 IOP IOPRP images and BIOS dumps",
@@ -404617,7 +404647,7 @@
   "legacyPackages.x86_64-linux.rumdl": {
     "description": "Markdown linter and formatter",
     "pname": "rumdl",
-    "version": "0.1.67"
+    "version": "0.1.72"
   },
   "legacyPackages.x86_64-linux.rumno": {
     "description": "Visual pop-up notification manager",
@@ -431987,7 +432017,7 @@
   "legacyPackages.x86_64-linux.sideswap": {
     "description": "Cross‑platform, non‑custodial wallet and atomic swap marketplace for the Liquid Network",
     "pname": "sideswap",
-    "version": "1.8.2"
+    "version": "1.9.0"
   },
   "legacyPackages.x86_64-linux.sidplayfp": {
     "description": "SID player using libsidplayfp",
@@ -433767,7 +433797,7 @@
   "legacyPackages.x86_64-linux.sniffnet": {
     "description": "Cross-platform application to monitor your network traffic with ease",
     "pname": "sniffnet",
-    "version": "1.4.2"
+    "version": "1.5.0"
   },
   "legacyPackages.x86_64-linux.sniglet": {
     "description": "Fun rounded display face that’s great for headlines",
@@ -436722,7 +436752,7 @@
   "legacyPackages.x86_64-linux.steam-devices-udev-rules": {
     "description": "Udev rules list for gaming devices",
     "pname": "steam-devices-udev-rules",
-    "version": "1.0.0.61-unstable-2026-01-23"
+    "version": "1.0.0.61-unstable-2026-04-14"
   },
   "legacyPackages.x86_64-linux.steam-lancache-prefill": {
     "description": "Automatically fills a Lancache with games from Steam",
@@ -440057,7 +440087,7 @@
   "legacyPackages.x86_64-linux.tbls": {
     "description": "Tool to generate documentation based on a database structure",
     "pname": "tbls",
-    "version": "1.94.2"
+    "version": "1.94.4"
   },
   "legacyPackages.x86_64-linux.tboot": {
     "description": "Pre-kernel/VMM module that uses Intel(R) TXT to perform a measured and verified launch of an OS kernel/VMM",
@@ -478197,7 +478227,7 @@
   "legacyPackages.x86_64-linux.thunderbird": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird",
-    "version": "148.0.1"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.thunderbird-140": {
     "description": "Full-featured e-mail client",
@@ -478237,7 +478267,7 @@
   "legacyPackages.x86_64-linux.thunderbird-latest": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird",
-    "version": "148.0.1"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.thunderbird-latest-bin": {
     "description": "Mozilla Thunderbird, a full-featured email client (binary package)",
@@ -478252,7 +478282,7 @@
   "legacyPackages.x86_64-linux.thunderbird-latest-unwrapped": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "148.0.1"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.thunderbird-mcp": {
     "description": "MCP server for Thunderbird - enables AI assistants to access email, contacts, and calendars",
@@ -478262,12 +478292,12 @@
   "legacyPackages.x86_64-linux.thunderbird-unwrapped": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "148.0.1"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "148.0.1"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-140": {
     "description": "Full-featured e-mail client",
@@ -478282,7 +478312,7 @@
   "legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-latest": {
     "description": "Full-featured e-mail client",
     "pname": "thunderbird-unwrapped",
-    "version": "148.0.1"
+    "version": "149.0.2"
   },
   "legacyPackages.x86_64-linux.thunderbolt": {
     "description": "Thunderbolt user-space components",
@@ -482437,7 +482467,7 @@
   "legacyPackages.x86_64-linux.tsgolint": {
     "description": "Type aware linting for oxlint",
     "pname": "tsgolint",
-    "version": "0.20.0"
+    "version": "0.21.0"
   },
   "legacyPackages.x86_64-linux.tshark": {
     "description": "Powerful network protocol analyzer",
@@ -510094,6 +510124,11 @@
     "pname": "usbutils",
     "version": "019"
   },
+  "legacyPackages.x86_64-linux.usbvfiod": {
+    "description": "A tool for USB device pass-through using the vfio-user protocol.",
+    "pname": "usbvfiod",
+    "version": "0.1.0"
+  },
   "legacyPackages.x86_64-linux.usbview": {
     "description": "USB viewer for Linux",
     "pname": "usbview",
@@ -511532,7 +511567,7 @@
   "legacyPackages.x86_64-linux.victoriametrics": {
     "description": "Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus",
     "pname": "VictoriaMetrics",
-    "version": "1.139.0"
+    "version": "1.140.0"
   },
   "legacyPackages.x86_64-linux.victoriatraces": {
     "description": "Fast open-source observability solution for distributed traces",
@@ -524127,7 +524162,7 @@
   "legacyPackages.x86_64-linux.vmagent": {
     "description": "Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus",
     "pname": "VictoriaMetrics",
-    "version": "1.139.0"
+    "version": "1.140.0"
   },
   "legacyPackages.x86_64-linux.vmctl": {
     "description": "Command line tool focused on NVMe testing in QEMU",
@@ -528047,7 +528082,7 @@
   "legacyPackages.x86_64-linux.wayscriber": {
     "description": "ZoomIt-like screen annotation tool for Wayland compositors, written in Rust",
     "pname": "wayscriber",
-    "version": "0.9.13"
+    "version": "0.9.16"
   },
   "legacyPackages.x86_64-linux.wayshot": {
     "description": "Native, blazing-fast screenshot tool for wlroots based compositors such as sway and river",
@@ -529552,7 +529587,7 @@
   "legacyPackages.x86_64-linux.wit-bindgen": {
     "description": "Language binding generator for WebAssembly interface types",
     "pname": "wit-bindgen",
-    "version": "0.55.0"
+    "version": "0.56.0"
   },
   "legacyPackages.x86_64-linux.with-shell": {
     "description": "Command prefixing for continuous workflow using a single tool",
@@ -530422,7 +530457,7 @@
   "legacyPackages.x86_64-linux.wox": {
     "description": "Cross-platform launcher that simply works",
     "pname": "wox",
-    "version": "2.0.1"
+    "version": "2.0.2"
   },
   "legacyPackages.x86_64-linux.wp-cli": {
     "description": "Command line interface for WordPress",
@@ -530607,7 +530642,7 @@
   "legacyPackages.x86_64-linux.wsjtx": {
     "description": "Weak-signal digital communication modes for amateur radio",
     "pname": "wsjtx",
-    "version": "2.7.0"
+    "version": "3.0.0"
   },
   "legacyPackages.x86_64-linux.wsjtz": {
     "description": "WSJT-X fork, primarily focused on automation and enhanced functionality",
@@ -533597,7 +533632,7 @@
   "legacyPackages.x86_64-linux.xorg-server": {
     "description": "X server implementation by X.org",
     "pname": "xorg-server",
-    "version": "21.1.21"
+    "version": "21.1.22"
   },
   "legacyPackages.x86_64-linux.xorg-sgml-doctools": {
     "description": "SGML entities and XML/CSS stylesheets used in X.Org docs",
@@ -533627,7 +533662,7 @@
   "legacyPackages.x86_64-linux.xorgserver": {
     "description": "X server implementation by X.org",
     "pname": "xorg-server",
-    "version": "21.1.21"
+    "version": "21.1.22"
   },
   "legacyPackages.x86_64-linux.xorgsgmldoctools": {
     "description": "SGML entities and XML/CSS stylesheets used in X.Org docs",
@@ -533817,7 +533852,7 @@
   "legacyPackages.x86_64-linux.xquartz": {
     "description": "",
     "pname": "xquartz",
-    "version": "21.1.21"
+    "version": "21.1.22"
   },
   "legacyPackages.x86_64-linux.xr-hardware": {
     "description": "Hardware description for XR devices",
