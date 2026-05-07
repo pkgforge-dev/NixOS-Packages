@@ -1489,7 +1489,7 @@ legacyPackages.x86_64-linux.akkadian:
 legacyPackages.x86_64-linux.akkoma:
   description: ActivityPub microblogging server
   pname: akkoma
-  version: 3.18.1
+  version: 3.19.0
 legacyPackages.x86_64-linux.akkoma-admin-fe:
   description: Admin interface for Akkoma
   pname: admin-fe
@@ -13089,7 +13089,7 @@ legacyPackages.x86_64-linux.blockattack:
 legacyPackages.x86_64-linux.blockbench:
   description: Low-poly 3D modeling and animation software
   pname: blockbench
-  version: 5.1.3
+  version: 5.1.4
 legacyPackages.x86_64-linux.blockbook:
   description: Trezor address/account balance backend
   pname: blockbook
@@ -13405,7 +13405,7 @@ legacyPackages.x86_64-linux.bolt_21:
 legacyPackages.x86_64-linux.bolt_22:
   description: LLVM post-link optimizer
   pname: bolt
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.boltbrowser:
   description: CLI Browser for BoltDB files
   pname: boltbrowser
@@ -15393,7 +15393,7 @@ legacyPackages.x86_64-linux.caps:
 legacyPackages.x86_64-linux.capslock:
   description: Capability analysis CLI for Go packages that informs users of which privileged operations a given package can access
   pname: capslock
-  version: 0.3.1
+  version: 0.3.2
 legacyPackages.x86_64-linux.capstone:
   description: Advanced disassembly library
   pname: capstone
@@ -20417,7 +20417,7 @@ legacyPackages.x86_64-linux.clang_21:
 legacyPackages.x86_64-linux.clang_22:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.clang_multi:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
@@ -20933,11 +20933,11 @@ legacyPackages.x86_64-linux.cloudcompare:
 legacyPackages.x86_64-linux.clouddrive2:
   description: Multi-cloud drives management tool supporting mounting cloud drives locally
   pname: clouddrive2
-  version: 1.0.5
+  version: 1.0.6
 legacyPackages.x86_64-linux.cloudflare-cli:
   description: CLI for interacting with Cloudflare
   pname: cloudflare-cli
-  version: 5.1.4
+  version: 5.1.6
 legacyPackages.x86_64-linux.cloudflare-ddns:
   description: Dynamic DNS (DDNS) client for Cloudflare
   pname: cloudflare-ddns
@@ -24065,7 +24065,7 @@ legacyPackages.x86_64-linux.crusader:
 legacyPackages.x86_64-linux.crush:
   description: Glamourous AI coding agent for your favourite terminal
   pname: crush
-  version: 0.62.1
+  version: 0.65.3
 legacyPackages.x86_64-linux.cryfs:
   description: Cryptographic filesystem for the cloud
   pname: cryfs
@@ -28489,7 +28489,7 @@ legacyPackages.x86_64-linux.dockbarx:
 legacyPackages.x86_64-linux.docker:
   description: Open source project to pack, ship and run any application as a lightweight container
   pname: docker
-  version: 29.4.1
+  version: 29.4.2
 legacyPackages.x86_64-linux.docker-buildx:
   description: Docker CLI plugin for extended build capabilities with BuildKit
   pname: docker-buildx
@@ -28497,7 +28497,7 @@ legacyPackages.x86_64-linux.docker-buildx:
 legacyPackages.x86_64-linux.docker-client:
   description: Open source project to pack, ship and run any application as a lightweight container
   pname: docker
-  version: 29.4.1
+  version: 29.4.2
 legacyPackages.x86_64-linux.docker-color-output:
   description: Add color to the Docker CLI
   pname: docker-color-output
@@ -28565,7 +28565,7 @@ legacyPackages.x86_64-linux.docker_28:
 legacyPackages.x86_64-linux.docker_29:
   description: Open source project to pack, ship and run any application as a lightweight container
   pname: docker
-  version: 29.4.1
+  version: 29.4.2
 legacyPackages.x86_64-linux.dockerfile-language-server:
   description: Language server for Dockerfiles powered by Node.js, TypeScript, and VSCode technologies
   pname: dockerfile-language-server
@@ -31093,7 +31093,7 @@ legacyPackages.x86_64-linux.echoip:
 legacyPackages.x86_64-linux.ecl:
   description: Lisp implementation aiming to be small, fast and easy to embed
   pname: ecl
-  version: 26.3.27
+  version: 26.5.5
 legacyPackages.x86_64-linux.ecl_16_1_2:
   description: Lisp implementation aiming to be small, fast and easy to embed
   pname: ecl
@@ -32941,7 +32941,7 @@ legacyPackages.x86_64-linux.escrotum:
 legacyPackages.x86_64-linux.esdm:
   description: Entropy Source and DRNG Manager in user space
   pname: esdm
-  version: 1.2.1
+  version: 1.2.3
 legacyPackages.x86_64-linux.esh:
   description: Simple templating engine based on shell
   pname: esh
@@ -33093,7 +33093,7 @@ legacyPackages.x86_64-linux.etherguard:
 legacyPackages.x86_64-linux.etherpad-lite:
   description: Modern really-real-time collaborative document editor
   pname: etherpad-lite
-  version: 2.6.1
+  version: 2.7.2
 legacyPackages.x86_64-linux.ethersync:
   description: Real-time co-editing of local text files
   pname: teamtype
@@ -35818,6 +35818,10 @@ legacyPackages.x86_64-linux.flake-checker:
   description: Health checks for your Nix flakes
   pname: flake-checker
   version: 0.2.11
+legacyPackages.x86_64-linux.flake-du:
+  description: Tool for managing flake inputs with disk usage insights
+  pname: flake-du
+  version: 0.1.0
 legacyPackages.x86_64-linux.flake-edit:
   description: Edit your flake inputs with ease
   pname: flake-edit
@@ -35861,7 +35865,7 @@ legacyPackages.x86_64-linux.flang_21:
 legacyPackages.x86_64-linux.flang_22:
   description: LLVM-based Fortran frontend
   pname: flang
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.flann:
   description: Fast approximate nearest neighbor searches in high dimensional spaces
   pname: flann
@@ -40949,7 +40953,7 @@ legacyPackages.x86_64-linux.gitjacker:
 legacyPackages.x86_64-linux.gitkraken:
   description: Simplifying Git for any OS
   pname: gitkraken
-  version: 12.0.1
+  version: 12.1.0
 legacyPackages.x86_64-linux.gitlab:
   description: GitLab Community Edition
   pname: gitlab
@@ -48325,7 +48329,7 @@ legacyPackages.x86_64-linux.google-java-format:
 legacyPackages.x86_64-linux.google-lighthouse:
   description: Automated auditing, performance metrics, and best practices for the web
   pname: google-lighthouse
-  version: 13.1.0
+  version: 13.2.0
 legacyPackages.x86_64-linux.google-play:
   description: CLI app to download APK from Google Play or send API requests
   pname: google-play
@@ -132333,7 +132337,7 @@ legacyPackages.x86_64-linux.hyprwayland-scanner:
 legacyPackages.x86_64-linux.hyprwhspr-rs:
   description: Native speech-to-text voice dictation for Hyprland
   pname: hyprwhspr-rs
-  version: 0.3.25
+  version: 0.3.26
 legacyPackages.x86_64-linux.hyprwire:
   description: 'A fast and consistent wire protocol for IPC '
   pname: hyprwire
@@ -161949,7 +161953,7 @@ legacyPackages.x86_64-linux.lld_21:
 legacyPackages.x86_64-linux.lld_22:
   description: LLVM linker (unwrapped)
   pname: lld
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.lldap:
   description: Lightweight authentication server that provides an opinionated, simplified LDAP interface for authentication
   pname: lldap
@@ -161981,7 +161985,7 @@ legacyPackages.x86_64-linux.lldb_21:
 legacyPackages.x86_64-linux.lldb_22:
   description: Next-generation high-performance debugger
   pname: lldb
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.lldpd:
   description: 802.1ab implementation (LLDP) to help you locate neighbors of all your equipments
   pname: lldpd
@@ -162857,115 +162861,115 @@ legacyPackages.x86_64-linux.llvmPackages_21.tblgen:
 legacyPackages.x86_64-linux.llvmPackages_22.bintools:
   description: System binary utilities (wrapper script)
   pname: llvm-binutils-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.bintools-unwrapped:
   description: ""
   pname: llvm-binutils
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.bintoolsNoLibc:
   description: System binary utilities (wrapper script)
   pname: llvm-binutils-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.bolt:
   description: LLVM post-link optimizer
   pname: bolt
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clang:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clang-manpages:
-  description: man page for Clang 22.1.2
+  description: man page for Clang 22.1.5
   pname: clang-manpages
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clang-tools:
   description: Standalone command line tools for C++ development
   pname: clang-tools
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clang-unwrapped:
   description: C language family frontend for LLVM
   pname: clang
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangNoCompilerRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangNoCompilerRtWithLibc:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangNoLibc:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangNoLibcNoRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangNoLibcWithBasicRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangNoLibcxx:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangUseLLVM:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangWithLibcAndBasicRt:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.clangWithLibcAndBasicRtAndLibcxx:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.compiler-rt:
   description: Compiler runtime libraries
   pname: compiler-rt-libc
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.compiler-rt-libc:
   description: Compiler runtime libraries
   pname: compiler-rt-libc
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.compiler-rt-no-libc:
   description: Compiler runtime libraries
   pname: compiler-rt
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.flang:
   description: LLVM-based Fortran frontend
   pname: flang
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libc:
   description: Standard C library for LLVM
   pname: libc
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libc-full:
   description: Standard C library for LLVM
   pname: libc
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libc-overlay:
   description: Standard C library for LLVM
   pname: libc
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libclang:
   description: C language family frontend for LLVM
   pname: clang
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libclc:
   description: Implementation of the library requirements of the OpenCL C programming language
   pname: libclc
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libcxx:
   description: C++ standard library
   pname: libcxx
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libcxxClang:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libcxxStdenv:
   description: The default build environment for Unix packages in Nixpkgs
   pname: stdenv-linux
@@ -162973,27 +162977,27 @@ legacyPackages.x86_64-linux.llvmPackages_22.libcxxStdenv:
 legacyPackages.x86_64-linux.llvmPackages_22.libllvm:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libstdcxxClang:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.libunwind:
   description: LLVM's unwinder library
   pname: libunwind
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.lld:
   description: LLVM linker (unwrapped)
   pname: lld
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.lldb:
   description: Next-generation high-performance debugger
   pname: lldb
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.lldb-manpages:
-  description: man pages for LLDB 22.1.2
+  description: man pages for LLDB 22.1.5
   pname: lldb-manpages
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.lldbPlugins.llef:
   description: LLEF is a plugin for LLDB to make it more useful for RE and VR
   pname: llef
@@ -163001,19 +163005,19 @@ legacyPackages.x86_64-linux.llvmPackages_22.lldbPlugins.llef:
 legacyPackages.x86_64-linux.llvmPackages_22.llvm:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.llvm-manpages:
-  description: man pages for LLVM 22.1.2
+  description: man pages for LLVM 22.1.5
   pname: llvm-manpages
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.mlir:
   description: Multi-Level IR Compiler Framework
   pname: mlir
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.openmp:
   description: Support for the OpenMP language
   pname: openmp
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.stdenv:
   description: The default build environment for Unix packages in Nixpkgs
   pname: stdenv-linux
@@ -163021,11 +163025,11 @@ legacyPackages.x86_64-linux.llvmPackages_22.stdenv:
 legacyPackages.x86_64-linux.llvmPackages_22.systemLibcxxClang:
   description: C language family frontend for LLVM (wrapper script)
   pname: clang-wrapper
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvmPackages_22.tblgen:
   description: ""
   pname: llvm-tblgen
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.llvm_18:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
@@ -163045,7 +163049,7 @@ legacyPackages.x86_64-linux.llvm_21:
 legacyPackages.x86_64-linux.llvm_22:
   description: Collection of modular and reusable compiler and toolchain technologies
   pname: llvm
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.lm4flash:
   description: Command-line firmware flashing tool for the Stellaris Launchpad
   pname: lm4flash
@@ -170505,7 +170509,7 @@ legacyPackages.x86_64-linux.magic-vlsi:
 legacyPackages.x86_64-linux.magic-wormhole:
   description: Securely transfer data between computers
   pname: magic-wormhole
-  version: 0.23.0
+  version: 0.24.0
 legacyPackages.x86_64-linux.magic-wormhole-rs:
   description: Rust implementation of Magic Wormhole, with new features and enhancements
   pname: magic-wormhole-rs
@@ -170905,7 +170909,7 @@ legacyPackages.x86_64-linux.mangl:
 legacyPackages.x86_64-linux.mangohud:
   description: Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more
   pname: mangohud
-  version: 0.8.2
+  version: 0.8.3
 legacyPackages.x86_64-linux.mangojuice:
   description: Convenient alternative to GOverlay for setting up MangoHud
   pname: mangojuice
@@ -171917,7 +171921,7 @@ legacyPackages.x86_64-linux.matrix-appservice-irc:
 legacyPackages.x86_64-linux.matrix-authentication-service:
   description: OAuth2.0 + OpenID Provider for Matrix Homeservers
   pname: matrix-authentication-service
-  version: 1.15.0
+  version: 1.16.0
 legacyPackages.x86_64-linux.matrix-brandy:
   description: Matrix Brandy BASIC VI for Linux, Windows, MacOSX
   pname: matrix-brandy
@@ -174393,7 +174397,7 @@ legacyPackages.x86_64-linux.mirrorbits:
 legacyPackages.x86_64-linux.mirrord:
   description: Run local processes in the context of Kubernetes environment
   pname: mirrord
-  version: 3.206.1
+  version: 3.209.1
 legacyPackages.x86_64-linux.mirtk:
   description: Medical image registration library and tools
   pname: mirtk
@@ -175361,7 +175365,7 @@ legacyPackages.x86_64-linux.moonfire-nvr:
 legacyPackages.x86_64-linux.moonlight:
   description: Discord client modification, focused on enhancing user and developer experience
   pname: moonlight
-  version: 2026.4.0
+  version: 2026.5.0
 legacyPackages.x86_64-linux.moonlight-embedded:
   description: Open source implementation of NVIDIA's GameStream
   pname: moonlight-embedded
@@ -177697,7 +177701,7 @@ legacyPackages.x86_64-linux.nats-kafka:
 legacyPackages.x86_64-linux.nats-server:
   description: High-Performance server for NATS
   pname: nats-server
-  version: 2.12.8
+  version: 2.14.0
 legacyPackages.x86_64-linux.nats-top:
   description: top-like tool for monitoring NATS servers
   pname: nats-top
@@ -182009,7 +182013,7 @@ legacyPackages.x86_64-linux.nvidia-docker:
 legacyPackages.x86_64-linux.nvidia-mig-parted:
   description: MIG Partition Editor for NVIDIA GPUs
   pname: nvidia-mig-parted
-  version: 0.14.0
+  version: 0.14.1
 legacyPackages.x86_64-linux.nvidia-modprobe:
   description: Load the NVIDIA kernel module and create NVIDIA character device files
   pname: nvidia-modprobe
@@ -194481,23 +194485,23 @@ legacyPackages.x86_64-linux.olivetin-3k:
 legacyPackages.x86_64-linux.ollama:
   description: Get up and running with large language models locally
   pname: ollama
-  version: 0.23.0
+  version: 0.23.1
 legacyPackages.x86_64-linux.ollama-cpu:
   description: Get up and running with large language models locally
   pname: ollama
-  version: 0.23.0
+  version: 0.23.1
 legacyPackages.x86_64-linux.ollama-cuda:
   description: Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration
   pname: ollama
-  version: 0.23.0
+  version: 0.23.1
 legacyPackages.x86_64-linux.ollama-rocm:
   description: Get up and running with large language models locally, using ROCm for AMD GPU acceleration
   pname: ollama
-  version: 0.23.0
+  version: 0.23.1
 legacyPackages.x86_64-linux.ollama-vulkan:
   description: Get up and running with large language models locally, using Vulkan for generic GPU acceleration
   pname: ollama
-  version: 0.23.0
+  version: 0.23.1
 legacyPackages.x86_64-linux.olm:
   description: Implements double cryptographic ratchet and Megolm ratchet
   pname: olm
@@ -194537,7 +194541,7 @@ legacyPackages.x86_64-linux.ombi:
 legacyPackages.x86_64-linux.ome_zarr:
   description: Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud
   pname: ome-zarr
-  version: 0.13.0
+  version: 0.16.0
 legacyPackages.x86_64-linux.omegat:
   description: Free computer aided translation (CAT) tool for professionals
   pname: omegat
@@ -218109,7 +218113,7 @@ legacyPackages.x86_64-linux.phytool:
 legacyPackages.x86_64-linux.pi-coding-agent:
   description: Coding agent CLI with read, bash, edit, write tools and session management
   pname: pi-coding-agent
-  version: 0.70.5
+  version: 0.73.0
 legacyPackages.x86_64-linux.piano-rs:
   description: Multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
   pname: piano-rs
@@ -218345,7 +218349,7 @@ legacyPackages.x86_64-linux.pigeon:
 legacyPackages.x86_64-linux.piglit:
   description: OpenGL test suite, and test-suite runner
   pname: piglit-unstable
-  version: "2025-04-15"
+  version: "2026-05-04"
 legacyPackages.x86_64-linux.pigment:
   description: Extract color palettes from your images
   pname: pigment
@@ -242565,7 +242569,7 @@ legacyPackages.x86_64-linux.python313Packages.magic-filter:
 legacyPackages.x86_64-linux.python313Packages.magic-wormhole:
   description: Securely transfer data between computers
   pname: python3.13-magic-wormhole
-  version: 0.23.0
+  version: 0.24.0
 legacyPackages.x86_64-linux.python313Packages.magic-wormhole-mailbox-server:
   description: Securely transfer data between computers
   pname: python3.13-magic-wormhole-mailbox-server
@@ -247089,11 +247093,11 @@ legacyPackages.x86_64-linux.python313Packages.ollama:
 legacyPackages.x86_64-linux.python313Packages.ome-zarr:
   description: Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud
   pname: python3.13-ome-zarr
-  version: 0.13.0
+  version: 0.16.0
 legacyPackages.x86_64-linux.python313Packages.ome-zarr-models:
   description: Minimal Python package for reading, writing and validating OME-Zarr (meta)data
   pname: python3.13-ome-zarr-models
-  version: "1.6"
+  version: "1.7"
 legacyPackages.x86_64-linux.python313Packages.omegaconf:
   description: Framework for configuring complex applications
   pname: python3.13-omegaconf
@@ -285801,7 +285805,7 @@ legacyPackages.x86_64-linux.python314Packages.magic-filter:
 legacyPackages.x86_64-linux.python314Packages.magic-wormhole:
   description: Securely transfer data between computers
   pname: python3.14-magic-wormhole
-  version: 0.23.0
+  version: 0.24.0
 legacyPackages.x86_64-linux.python314Packages.magic-wormhole-mailbox-server:
   description: Securely transfer data between computers
   pname: python3.14-magic-wormhole-mailbox-server
@@ -290325,11 +290329,11 @@ legacyPackages.x86_64-linux.python314Packages.ollama:
 legacyPackages.x86_64-linux.python314Packages.ome-zarr:
   description: Implementation of next-generation file format (NGFF) specifications for storing bioimaging data in the cloud
   pname: python3.14-ome-zarr
-  version: 0.13.0
+  version: 0.16.0
 legacyPackages.x86_64-linux.python314Packages.ome-zarr-models:
   description: Minimal Python package for reading, writing and validating OME-Zarr (meta)data
   pname: python3.14-ome-zarr-models
-  version: "1.6"
+  version: "1.7"
 legacyPackages.x86_64-linux.python314Packages.omegaconf:
   description: Framework for configuring complex applications
   pname: python3.14-omegaconf
@@ -324322,6 +324326,10 @@ legacyPackages.x86_64-linux.rustical:
   description: Yet another calendar server aiming to be simple, fast and passwordless
   pname: rustical
   version: 0.12.11
+legacyPackages.x86_64-linux.rustlens:
+  description: Rustlens is a terminal-based application for exploring Rust codebases.
+  pname: rustlens
+  version: 0.2.1
 legacyPackages.x86_64-linux.rustlings:
   description: Explore the Rust programming language and learn more about it while doing exercises
   pname: rustlings
@@ -324338,6 +324346,10 @@ legacyPackages.x86_64-linux.rustmission:
   description: TUI for the Transmission daemon
   pname: rustmission
   version: 0.5.1
+legacyPackages.x86_64-linux.rustnet:
+  description: High-performance, cross-platform network monitoring terminal UI tool built with Rust
+  pname: rustnet
+  version: 1.3.0
 legacyPackages.x86_64-linux.rustplayer:
   description: Local audio player and network m3u8 radio player using a terminal interface
   pname: rustplayer
@@ -324665,7 +324677,7 @@ legacyPackages.x86_64-linux.s6-rc-man-pages:
 legacyPackages.x86_64-linux.s7:
   description: Scheme interpreter intended as an extension language for other applications
   pname: s7
-  version: 11.8-unstable-2026-04-27
+  version: 11.8-unstable-2026-05-05
 legacyPackages.x86_64-linux.s9fes:
   description: Scheme 9 From Empty Space, an interpreter for R4RS Scheme
   pname: s9fes
@@ -345049,15 +345061,15 @@ legacyPackages.x86_64-linux.sensible-utils:
 legacyPackages.x86_64-linux.sensu-go-agent:
   description: Open source monitoring tool for ephemeral infrastructure & distributed applications
   pname: sensu-go-agent
-  version: 6.14.0
+  version: 6.14.1
 legacyPackages.x86_64-linux.sensu-go-backend:
   description: Open source monitoring tool for ephemeral infrastructure & distributed applications
   pname: sensu-go-backend
-  version: 6.14.0
+  version: 6.14.1
 legacyPackages.x86_64-linux.sensu-go-cli:
   description: Open source monitoring tool for ephemeral infrastructure & distributed applications
   pname: sensu-go-cli
-  version: 6.14.0
+  version: 6.14.1
 legacyPackages.x86_64-linux.sent:
   description: Simple plaintext presentation tool
   pname: sent
@@ -347429,7 +347441,7 @@ legacyPackages.x86_64-linux.sniproxy:
 legacyPackages.x86_64-linux.snips-sh:
   description: Passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
   pname: snips-sh
-  version: 0.9.1
+  version: 0.10.0
 legacyPackages.x86_64-linux.snis:
   description: Space Nerds In Space, a multi-player spaceship bridge simulator
   pname: snis
@@ -348517,7 +348529,7 @@ legacyPackages.x86_64-linux.spicedb:
 legacyPackages.x86_64-linux.spicedb-zed:
   description: Command line for managing SpiceDB
   pname: zed
-  version: 1.0.0
+  version: 1.1.1
 legacyPackages.x86_64-linux.spicetify-cli:
   description: Command-line tool to customize Spotify client
   pname: spicetify-cli
@@ -355461,11 +355473,11 @@ legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_21.libcxx:
 legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_22.clang:
   description: ""
   pname: cc-wrapper-test-clang
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_22.libcxx:
   description: ""
   pname: cc-wrapper-test-clang-libcxx
-  version: 22.1.2
+  version: 22.1.5
 legacyPackages.x86_64-linux.tests.cc-wrapper.llvmTests.llvmPackages_git.clang:
   description: ""
   pname: cc-wrapper-test-clang
@@ -384341,7 +384353,7 @@ legacyPackages.x86_64-linux.tomb:
 legacyPackages.x86_64-linux.tombi:
   description: TOML Formatter / Linter / Language Server
   pname: tombi
-  version: 0.9.24
+  version: 0.10.4
 legacyPackages.x86_64-linux.tombl:
   description: Easily query TOML files from bash
   pname: tombl
@@ -387281,7 +387293,7 @@ legacyPackages.x86_64-linux.typesense:
 legacyPackages.x86_64-linux.typesetter:
   description: Minimalist, local-first Typst editor
   pname: typesetter
-  version: 0.12.3
+  version: 0.12.6
 legacyPackages.x86_64-linux.typeshare:
   description: Command Line Tool for generating language files with typeshare
   pname: typeshare
@@ -424709,7 +424721,7 @@ legacyPackages.x86_64-linux.wine-discord-ipc-bridge:
 legacyPackages.x86_64-linux.wine-staging:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
   pname: wine-staging
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wine-wayland:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine
@@ -424745,19 +424757,19 @@ legacyPackages.x86_64-linux.wine64Packages.stableFull:
 legacyPackages.x86_64-linux.wine64Packages.staging:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
   pname: wine64-staging
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wine64Packages.stagingFull:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
   pname: wine64-staging
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wine64Packages.unstable:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine64
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wine64Packages.unstableFull:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine64
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wine64Packages.wayland:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine64
@@ -424797,19 +424809,19 @@ legacyPackages.x86_64-linux.winePackages.stableFull:
 legacyPackages.x86_64-linux.winePackages.staging:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
   pname: wine-staging
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.winePackages.stagingFull:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
   pname: wine-staging
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.winePackages.unstable:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.winePackages.unstableFull:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.winePackages.wayland:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine
@@ -424849,19 +424861,19 @@ legacyPackages.x86_64-linux.wineWow64Packages.stableFull:
 legacyPackages.x86_64-linux.wineWow64Packages.staging:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
   pname: wine-wow64-staging
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wineWow64Packages.stagingFull:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix (with staging patches)
   pname: wine-wow64-staging
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wineWow64Packages.unstable:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine-wow64
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wineWow64Packages.unstableFull:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine-wow64
-  version: "11.6"
+  version: "11.7"
 legacyPackages.x86_64-linux.wineWow64Packages.wayland:
   description: Open Source implementation of the Windows API on top of X, OpenGL, and Unix
   pname: wine-wow64
@@ -430157,7 +430169,7 @@ legacyPackages.x86_64-linux.zed-discord-presence:
 legacyPackages.x86_64-linux.zed-editor:
   description: High-performance, multiplayer code editor from the creators of Atom and Tree-sitter
   pname: zed-editor
-  version: 1.0.0
+  version: 1.0.1
 legacyPackages.x86_64-linux.zed-editor-fhs:
   description: 'Wrapped variant of zed-editor which launches in a FHS compatible environment. Should allow for easy usage of extensions without nix-specific modifications. '
   pname: zeditor
