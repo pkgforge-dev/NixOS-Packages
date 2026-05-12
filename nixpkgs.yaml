@@ -11465,7 +11465,7 @@ legacyPackages.x86_64-linux.bcache-tools:
 legacyPackages.x86_64-linux.bcachefs-tools:
   description: Tool for managing bcachefs filesystems
   pname: bcachefs-tools
-  version: 1.38.2
+  version: 1.38.3
 legacyPackages.x86_64-linux.bcal:
   description: Storage conversion and expression calculator
   pname: bcal
@@ -15285,7 +15285,7 @@ legacyPackages.x86_64-linux.caneda:
 legacyPackages.x86_64-linux.canfigger:
   description: Lightweight library designed to parse configuration files
   pname: canfigger
-  version: 0.3.1
+  version: 0.3.2
 legacyPackages.x86_64-linux.cannelloni:
   description: SocketCAN over Ethernet tunnel
   pname: cannelloni
@@ -22729,7 +22729,7 @@ legacyPackages.x86_64-linux.coqPackages.coqutil:
 legacyPackages.x86_64-linux.coqPackages.deriving:
   description: Generic instances of MathComp classes
   pname: coq9.1-deriving
-  version: 0.2.2
+  version: 0.2.3
 legacyPackages.x86_64-linux.coqPackages.dpdgraph:
   description: Build dependency graphs between Coq objects
   pname: coq9.1-dpdgraph
@@ -129977,7 +129977,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.frigidaire:
 legacyPackages.x86_64-linux.home-assistant-custom-components.garmin_connect:
   description: Garmin Connect integration allows you to expose data from Garmin Connect to Home Assistant
   pname: python3.14-cyberjunky-garmin_connect
-  version: 0.2.38
+  version: 3.0.5
 legacyPackages.x86_64-linux.home-assistant-custom-components.gpio:
   description: Home Assistant GPIO custom integration
   pname: python3.14-raboof-gpio
@@ -133485,7 +133485,7 @@ legacyPackages.x86_64-linux.ii:
 legacyPackages.x86_64-linux.iina:
   description: Modern media player for macOS
   pname: iina
-  version: 1.4.1
+  version: 1.4.2
 legacyPackages.x86_64-linux.iio-hyprland:
   description: Listens to iio-sensor-proxy and automatically changes Hyprland output orientation
   pname: iio-hyprland
@@ -137425,7 +137425,7 @@ legacyPackages.x86_64-linux.k40-whisperer:
 legacyPackages.x86_64-linux.k6:
   description: Modern load testing tool, using Go and JavaScript
   pname: k6
-  version: 1.7.1
+  version: 2.0.0
 legacyPackages.x86_64-linux.k8s-manifest-sigstore:
   description: Kubectl plugin for signing Kubernetes manifest YAML files with sigstore
   pname: k8s-manifest-sigstore
@@ -147089,7 +147089,7 @@ legacyPackages.x86_64-linux.libretro.fbneo:
 legacyPackages.x86_64-linux.libretro.fceumm:
   description: FCEUmm libretro port
   pname: libretro-fceumm
-  version: 0-unstable-2026-04-20
+  version: 0-unstable-2026-05-06
 legacyPackages.x86_64-linux.libretro.flycast:
   description: Flycast libretro port
   pname: libretro-flycast
@@ -149933,7 +149933,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 5.10.255-1.38.2
+  version: 5.10.255-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -150581,7 +150581,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 5.15.206-1.38.2
+  version: 5.15.206-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -151229,7 +151229,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.1.172-1.38.2
+  version: 6.1.172-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -151873,7 +151873,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.12.87-1.38.2
+  version: 6.12.87-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -152521,7 +152521,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.29-1.38.2
+  version: 6.18.29-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -153169,7 +153169,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.6.138-1.38.2
+  version: 6.6.138-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -153813,7 +153813,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_0.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_0.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.6-1.38.2
+  version: 7.0.6-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_0.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -154461,7 +154461,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.29-1.38.2
+  version: 6.18.29-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -155109,7 +155109,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.6-1.38.2
+  version: 7.0.6-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -155757,7 +155757,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.6-1.38.2
+  version: 7.0.6-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -156405,7 +156405,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bbswitch:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.5-1.38.2
+  version: 7.0.5-1.38.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -157053,7 +157053,7 @@ legacyPackages.x86_64-linux.linuxPackages.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.29-1.38.2
+  version: 6.18.29-1.38.3
 legacyPackages.x86_64-linux.linuxPackages.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -157705,7 +157705,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_latest.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.6-1.38.2
+  version: 7.0.6-1.38.3
 legacyPackages.x86_64-linux.linuxPackages_latest.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -158353,7 +158353,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 6.18.29-1.38.2
+  version: 6.18.29-1.38.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -159001,7 +159001,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.6-1.38.2
+  version: 7.0.6-1.38.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -159649,7 +159649,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.6-1.38.2
+  version: 7.0.6-1.38.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -160297,7 +160297,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.bbswitch:
 legacyPackages.x86_64-linux.linuxPackages_zen.bcachefs:
   description: out-of-tree bcachefs kernel module
   pname: bcachefs
-  version: 7.0.5-1.38.2
+  version: 7.0.5-1.38.3
 legacyPackages.x86_64-linux.linuxPackages_zen.bcc:
   description: Dynamic Tracing Tools for Linux
   pname: bcc
@@ -161733,7 +161733,7 @@ legacyPackages.x86_64-linux.llm-ls:
 legacyPackages.x86_64-linux.llmfit:
   description: TUI to find LLM models right sized for the system's RAM, CPU, and GPU
   pname: llmfit
-  version: 0.9.18
+  version: 0.9.23
 legacyPackages.x86_64-linux.llmserve:
   description: TUI for serving local LLM models
   pname: llmserve
@@ -178781,7 +178781,7 @@ legacyPackages.x86_64-linux.nextpnrWithGui:
 legacyPackages.x86_64-linux.nexttrace:
   description: Open source visual route tracking CLI tool
   pname: nexttrace
-  version: 1.6.4
+  version: 1.6.5
 legacyPackages.x86_64-linux.nextvi:
   description: Next version of neatvi (a small vi/ex editor)
   pname: nextvi
@@ -182861,7 +182861,7 @@ legacyPackages.x86_64-linux.ocamlPackages.bz2:
 legacyPackages.x86_64-linux.ocamlPackages.ca-certs:
   description: Detect root CA certificates from the operating system
   pname: ocaml5.4.1-ca-certs
-  version: 1.0.1
+  version: 1.0.3
 legacyPackages.x86_64-linux.ocamlPackages.ca-certs-nss:
   description: X.509 trust anchors extracted from Mozilla's NSS
   pname: ocaml5.4.1-ca-certs-nss
@@ -188377,7 +188377,7 @@ legacyPackages.x86_64-linux.ocamlPackages_latest.bz2:
 legacyPackages.x86_64-linux.ocamlPackages_latest.ca-certs:
   description: Detect root CA certificates from the operating system
   pname: ocaml5.4.1-ca-certs
-  version: 1.0.1
+  version: 1.0.3
 legacyPackages.x86_64-linux.ocamlPackages_latest.ca-certs-nss:
   description: X.509 trust anchors extracted from Mozilla's NSS
   pname: ocaml5.4.1-ca-certs-nss
@@ -198581,7 +198581,7 @@ legacyPackages.x86_64-linux.pavucontrol:
 legacyPackages.x86_64-linux.pawn-appetit:
   description: Ultimate Chess Toolkit (fork of en-croissant)
   pname: pawn-appetit
-  version: 0.11.0
+  version: 0.12.0
 legacyPackages.x86_64-linux.pax:
   description: POSIX standard archive tool from MirBSD
   pname: pax
@@ -198857,7 +198857,7 @@ legacyPackages.x86_64-linux.pdfchain:
 legacyPackages.x86_64-linux.pdfcpu:
   description: PDF processor written in Go
   pname: pdfcpu
-  version: 0.12.0
+  version: 0.12.1
 legacyPackages.x86_64-linux.pdfcrack:
   description: Small command line driven tool for recovering passwords and content from PDF files
   pname: pdfcrack
@@ -218749,7 +218749,7 @@ legacyPackages.x86_64-linux.plasma-panel-colorizer:
 legacyPackages.x86_64-linux.plasma-panel-spacer-extended:
   description: Spacer with mouse gestures for the KDE Plasma Panel
   pname: plasma-panel-spacer-extended
-  version: 1.15.0
+  version: 1.16.0
 legacyPackages.x86_64-linux.plasma-plugin-blurredwallpaper:
   description: Plasma 6 wallpaper plugin to blur the wallpaper of active window
   pname: plasma-plugin-blurredwallpaper
@@ -219705,7 +219705,7 @@ legacyPackages.x86_64-linux.portunus:
 legacyPackages.x86_64-linux.porxie:
   description: Porxie, an ATProto blob proxy for secure content delivery
   pname: porxie
-  version: 0.2.0
+  version: 0.3.0
 legacyPackages.x86_64-linux.poselib:
   description: A collection of minimal solvers for camera pose estimation
   pname: poselib
@@ -228925,7 +228925,7 @@ legacyPackages.x86_64-linux.python313Packages.chat-downloader:
 legacyPackages.x86_64-linux.python313Packages.chatlas:
   description: Friendly guide to building LLM chat apps in Python with less effort and more clarity
   pname: python3.13-chatlas
-  version: 0.16.0
+  version: 0.17.0
 legacyPackages.x86_64-linux.python313Packages.check-manifest:
   description: Check MANIFEST.in in a Python source package for completeness
   pname: python3.13-check-manifest
@@ -236910,6 +236910,10 @@ legacyPackages.x86_64-linux.python313Packages.ha-ffmpeg:
   description: Library for Home Assistant to handle ffmpeg
   pname: python3.13-ha-ffmpeg
   version: 3.2.2
+legacyPackages.x86_64-linux.python313Packages.ha-garmin:
+  description: Python client for Garmin Connect API, designed for Home Assistant integration
+  pname: python3.13-ha-garmin
+  version: 0.1.19
 legacyPackages.x86_64-linux.python313Packages.ha-iotawattpy:
   description: Python library for the IoTaWatt Energy device
   pname: python3.13-ha-iotawattpy
@@ -261049,7 +261053,7 @@ legacyPackages.x86_64-linux.python313Packages.timing-asgi:
 legacyPackages.x86_64-linux.python313Packages.timm:
   description: PyTorch image models, scripts, and pretrained weights
   pname: python3.13-timm
-  version: 1.0.26
+  version: 1.0.27
 legacyPackages.x86_64-linux.python313Packages.timple:
   description: Extended functionality for plotting timedelta-like values with Matplotlib
   pname: python3.13-timple
@@ -272317,7 +272321,7 @@ legacyPackages.x86_64-linux.python314Packages.chat-downloader:
 legacyPackages.x86_64-linux.python314Packages.chatlas:
   description: Friendly guide to building LLM chat apps in Python with less effort and more clarity
   pname: python3.14-chatlas
-  version: 0.16.0
+  version: 0.17.0
 legacyPackages.x86_64-linux.python314Packages.check-manifest:
   description: Check MANIFEST.in in a Python source package for completeness
   pname: python3.14-check-manifest
@@ -280302,6 +280306,10 @@ legacyPackages.x86_64-linux.python314Packages.ha-ffmpeg:
   description: Library for Home Assistant to handle ffmpeg
   pname: python3.14-ha-ffmpeg
   version: 3.2.2
+legacyPackages.x86_64-linux.python314Packages.ha-garmin:
+  description: Python client for Garmin Connect API, designed for Home Assistant integration
+  pname: python3.14-ha-garmin
+  version: 0.1.19
 legacyPackages.x86_64-linux.python314Packages.ha-iotawattpy:
   description: Python library for the IoTaWatt Energy device
   pname: python3.14-ha-iotawattpy
@@ -304441,7 +304449,7 @@ legacyPackages.x86_64-linux.python314Packages.timing-asgi:
 legacyPackages.x86_64-linux.python314Packages.timm:
   description: PyTorch image models, scripts, and pretrained weights
   pname: python3.14-timm
-  version: 1.0.26
+  version: 1.0.27
 legacyPackages.x86_64-linux.python314Packages.timple:
   description: Extended functionality for plotting timedelta-like values with Matplotlib
   pname: python3.14-timple
@@ -343677,7 +343685,7 @@ legacyPackages.x86_64-linux.scponly:
 legacyPackages.x86_64-linux.scraper:
   description: Tool to query HTML files with CSS selectors
   pname: scraper
-  version: 0.26.0
+  version: 0.27.0
 legacyPackages.x86_64-linux.scrcpy:
   description: Display and control Android devices over USB or TCP/IP
   pname: scrcpy
@@ -346881,7 +346889,7 @@ legacyPackages.x86_64-linux.socalabs-sn76489:
 legacyPackages.x86_64-linux.socalabs-voc:
   description: Socalabs Wacky Vocal Synthesizer Plugin
   pname: socalabs-voc
-  version: 1.1.1
+  version: 1.1.5
 legacyPackages.x86_64-linux.socat:
   description: Utility for bidirectional data transfer between two independent data channels
   pname: socat
@@ -352245,7 +352253,7 @@ legacyPackages.x86_64-linux.tela-icon-theme:
 legacyPackages.x86_64-linux.telegraf:
   description: Plugin-driven server agent for collecting & reporting metrics
   pname: telegraf
-  version: 1.38.3
+  version: 1.38.4
 legacyPackages.x86_64-linux.telegram-bot-api:
   description: Telegram Bot API server
   pname: telegram-bot-api
@@ -352729,11 +352737,11 @@ legacyPackages.x86_64-linux.terraform-providers.age:
 legacyPackages.x86_64-linux.terraform-providers.aiven:
   description: ""
   pname: terraform-provider-aiven
-  version: 4.55.2
+  version: 4.56.0
 legacyPackages.x86_64-linux.terraform-providers.aiven_aiven:
   description: ""
   pname: terraform-provider-aiven
-  version: 4.55.2
+  version: 4.56.0
 legacyPackages.x86_64-linux.terraform-providers.akamai:
   description: ""
   pname: terraform-provider-akamai
@@ -353133,7 +353141,7 @@ legacyPackages.x86_64-linux.terraform-providers.google:
 legacyPackages.x86_64-linux.terraform-providers.google-beta:
   description: ""
   pname: terraform-provider-google-beta
-  version: 7.30.0
+  version: 7.31.0
 legacyPackages.x86_64-linux.terraform-providers.grafana:
   description: ""
   pname: terraform-provider-grafana
@@ -353197,7 +353205,7 @@ legacyPackages.x86_64-linux.terraform-providers.hashicorp_google:
 legacyPackages.x86_64-linux.terraform-providers.hashicorp_google-beta:
   description: ""
   pname: terraform-provider-google-beta
-  version: 7.30.0
+  version: 7.31.0
 legacyPackages.x86_64-linux.terraform-providers.hashicorp_helm:
   description: ""
   pname: terraform-provider-helm
@@ -353309,7 +353317,7 @@ legacyPackages.x86_64-linux.terraform-providers.icinga_icinga2:
 legacyPackages.x86_64-linux.terraform-providers.incus:
   description: ""
   pname: terraform-provider-incus
-  version: 1.0.2
+  version: 1.1.0
 legacyPackages.x86_64-linux.terraform-providers.infoblox:
   description: ""
   pname: terraform-provider-infoblox
@@ -353381,11 +353389,11 @@ legacyPackages.x86_64-linux.terraform-providers.kubernetes:
 legacyPackages.x86_64-linux.terraform-providers.launchdarkly:
   description: ""
   pname: terraform-provider-launchdarkly
-  version: 2.28.0
+  version: 2.29.0
 legacyPackages.x86_64-linux.terraform-providers.launchdarkly_launchdarkly:
   description: ""
   pname: terraform-provider-launchdarkly
-  version: 2.28.0
+  version: 2.29.0
 legacyPackages.x86_64-linux.terraform-providers.libvirt:
   description: ""
   pname: terraform-provider-libvirt
@@ -353417,7 +353425,7 @@ legacyPackages.x86_64-linux.terraform-providers.local:
 legacyPackages.x86_64-linux.terraform-providers.lxc_incus:
   description: ""
   pname: terraform-provider-incus
-  version: 1.0.2
+  version: 1.1.0
 legacyPackages.x86_64-linux.terraform-providers.lxd:
   description: ""
   pname: terraform-provider-lxd
@@ -410441,7 +410449,7 @@ legacyPackages.x86_64-linux.victorialogs:
 legacyPackages.x86_64-linux.victoriametrics:
   description: Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
   pname: VictoriaMetrics
-  version: 1.142.0
+  version: 1.143.0
 legacyPackages.x86_64-linux.victoriatraces:
   description: Fast open-source observability solution for distributed traces
   pname: VictoriaTraces
@@ -420573,7 +420581,7 @@ legacyPackages.x86_64-linux.vlock:
 legacyPackages.x86_64-linux.vmagent:
   description: Fast, cost-effective and scalable time series database, long-term remote storage for Prometheus
   pname: VictoriaMetrics
-  version: 1.142.0
+  version: 1.143.0
 legacyPackages.x86_64-linux.vmctl:
   description: Command line tool focused on NVMe testing in QEMU
   pname: vmctl
@@ -423529,7 +423537,7 @@ legacyPackages.x86_64-linux.wavelib:
 legacyPackages.x86_64-linux.wavelog:
   description: Webbased Amateur Radio Logging Software
   pname: wavelog
-  version: "2.4"
+  version: 2.4.2
 legacyPackages.x86_64-linux.wavemon:
   description: Ncurses-based monitoring application for wireless network devices
   pname: wavemon
