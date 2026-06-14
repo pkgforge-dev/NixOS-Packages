@@ -341,11 +341,11 @@ legacyPackages.x86_64-linux._7z2hashcat:
 legacyPackages.x86_64-linux._7zip-zstd:
   description: 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
   pname: 7zip-zstd
-  version: 25.01-v1.5.7-R4
+  version: 26.01-v1.5.7-R1
 legacyPackages.x86_64-linux._7zip-zstd-rar:
   description: 7-Zip with support for Brotli, Fast-LZMA2, Lizard, LZ4, LZ5 and Zstandard
   pname: 7zip-zstd
-  version: 25.01-v1.5.7-R4
+  version: 26.01-v1.5.7-R1
 legacyPackages.x86_64-linux._7zz:
   description: Command line version of the 7-Zip archiver utility
   pname: 7zz
@@ -9897,7 +9897,7 @@ legacyPackages.x86_64-linux.ayatana-indicator-bluetooth:
 legacyPackages.x86_64-linux.ayatana-indicator-datetime:
   description: Ayatana Indicator providing clock and calendar
   pname: ayatana-indicator-datetime
-  version: 25.4.0
+  version: 26.6.0
 legacyPackages.x86_64-linux.ayatana-indicator-display:
   description: Ayatana Indicator for Display configuration
   pname: ayatana-indicator-display
@@ -25389,7 +25389,7 @@ legacyPackages.x86_64-linux.cursewords:
 legacyPackages.x86_64-linux.cursor-cli:
   description: Cursor CLI
   pname: cursor-cli
-  version: 0-unstable-2026-05-24
+  version: 2026.06.12-19-59-36-f6aba9a
 legacyPackages.x86_64-linux.cursor-clip:
   description: Cursor Clip - GTK4 Clipboard Manager with dynamic positioning. Features a Windows 11–style clipboard history, adapted to native GNOME design
   pname: cursor-clip
@@ -29205,7 +29205,7 @@ legacyPackages.x86_64-linux.door-knocker:
 legacyPackages.x86_64-linux.dopamine:
   description: Audio player that keeps it simple
   pname: dopamine
-  version: 3.0.4
+  version: 3.0.6
 legacyPackages.x86_64-linux.dopewars:
   description: Game simulating the life of a drug dealer in New York
   pname: dopewars
@@ -40201,7 +40201,7 @@ legacyPackages.x86_64-linux.ggh:
 legacyPackages.x86_64-linux.ggml:
   description: Tensor library for machine learning
   pname: ggml
-  version: 0.13.1
+  version: 0.15.1
 legacyPackages.x86_64-linux.ggshield:
   description: Tool to find and fix various types of hardcoded secrets and infrastructure-as-code misconfigurations
   pname: ggshield
@@ -48125,7 +48125,7 @@ legacyPackages.x86_64-linux.go-hass-agent:
 legacyPackages.x86_64-linux.go-httpbin:
   description: Reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib
   pname: go-httpbin
-  version: 2.23.0
+  version: 2.23.1
 legacyPackages.x86_64-linux.go-i18n:
   description: Translate your Go program into multiple languages
   pname: go-i18n
@@ -134897,7 +134897,7 @@ legacyPackages.x86_64-linux.ignite-cli:
 legacyPackages.x86_64-linux.ignition:
   description: Manage startup apps and scripts
   pname: ignition
-  version: 2.3.1
+  version: 2.4.1
 legacyPackages.x86_64-linux.igprof:
   description: Ignominous Profiler
   pname: igprof
@@ -138169,11 +138169,11 @@ legacyPackages.x86_64-linux.joomscan:
 legacyPackages.x86_64-linux.joplin:
   description: CLI client for Joplin
   pname: joplin-cli
-  version: 3.5.1
+  version: 3.6.2
 legacyPackages.x86_64-linux.joplin-cli:
   description: CLI client for Joplin
   pname: joplin-cli
-  version: 3.5.1
+  version: 3.6.2
 legacyPackages.x86_64-linux.joplin-desktop:
   description: Open source note taking and to-do application with synchronisation capabilities
   pname: joplin-desktop
@@ -142225,7 +142225,7 @@ legacyPackages.x86_64-linux.kiro:
 legacyPackages.x86_64-linux.kiro-cli:
   description: Command-line interface for Kiro, an agentic IDE
   pname: kiro-cli
-  version: 2.5.1
+  version: 2.7.0
 legacyPackages.x86_64-linux.kiro-fhs:
   description: Wrapped variant of kiro which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
   pname: kiro
@@ -142517,7 +142517,7 @@ legacyPackages.x86_64-linux.knossosnet:
 legacyPackages.x86_64-linux.knot-dns:
   description: Authoritative-only DNS server from .cz domain registry
   pname: knot-dns
-  version: 3.5.4
+  version: 3.5.5
 legacyPackages.x86_64-linux.knot-resolver:
   description: Caching validating DNS resolver, from .cz domain registry
   pname: knot-resolver_5
@@ -142985,7 +142985,7 @@ legacyPackages.x86_64-linux.komac:
 legacyPackages.x86_64-linux.komari-agent:
   description: Lightweight server probe for simple, efficient monitoring
   pname: komari-agent
-  version: 1.2.0
+  version: 1.2.13
 legacyPackages.x86_64-linux.komga:
   description: Free and open source comics/mangas server
   pname: komga
@@ -143421,7 +143421,7 @@ legacyPackages.x86_64-linux.kty:
 legacyPackages.x86_64-linux.kubazip:
   description: Portable, simple zip library written in C
   pname: kubazip
-  version: 0.3.9
+  version: 0.3.11
 legacyPackages.x86_64-linux.kube-bench:
   description: Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
   pname: kube-bench
@@ -144369,7 +144369,7 @@ legacyPackages.x86_64-linux.lazyssh:
 legacyPackages.x86_64-linux.lazytrivy:
   description: TUI to do vulnerability scanning using trivy
   pname: lazytrivy
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.lazyworktree:
   description: BubbleTea-based Terminal User Interface for efficient Git worktree management
   pname: lazyworktree
@@ -148601,7 +148601,7 @@ legacyPackages.x86_64-linux.libretro.genesis-plus-gx:
 legacyPackages.x86_64-linux.libretro.gpsp:
   description: Port of gpSP to libretro
   pname: libretro-gpsp
-  version: 0-unstable-2026-05-12
+  version: 0-unstable-2026-06-04
 legacyPackages.x86_64-linux.libretro.gw:
   description: Port of Game and Watch to libretro
   pname: libretro-gw
@@ -148629,7 +148629,7 @@ legacyPackages.x86_64-linux.libretro.mame2003:
 legacyPackages.x86_64-linux.libretro.mame2003-plus:
   description: Port of MAME ~2003+ to libretro, compatible with MAME 0.78 sets
   pname: libretro-mame2003-plus
-  version: 0-unstable-2026-05-23
+  version: 0-unstable-2026-06-11
 legacyPackages.x86_64-linux.libretro.mame2010:
   description: Port of MAME ~2010 to libretro, compatible with MAME 0.139 sets
   pname: libretro-mame2010
@@ -148729,7 +148729,7 @@ legacyPackages.x86_64-linux.libretro.pokemini:
 legacyPackages.x86_64-linux.libretro.ppsspp:
   description: PPSSPP libretro port
   pname: libretro-ppsspp
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-06-13
 legacyPackages.x86_64-linux.libretro.prboom:
   description: Prboom libretro port
   pname: libretro-prboom
@@ -164805,7 +164805,7 @@ legacyPackages.x86_64-linux.lomiri.lomiri-history-service:
 legacyPackages.x86_64-linux.lomiri.lomiri-indicator-datetime:
   description: Ayatana Indicator providing clock and calendar
   pname: lomiri-indicator-datetime
-  version: 25.4.0
+  version: 26.6.0
 legacyPackages.x86_64-linux.lomiri.lomiri-indicator-network:
   description: Ayatana indiator exporting the network settings menu through D-Bus
   pname: lomiri-indicator-network
@@ -179933,7 +179933,7 @@ legacyPackages.x86_64-linux.netbeans:
 legacyPackages.x86_64-linux.netbird:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-client
-  version: 0.72.3
+  version: 0.72.4
 legacyPackages.x86_64-linux.netbird-dashboard:
   description: NetBird Management Service Web UI Panel
   pname: netbird-dashboard
@@ -179941,27 +179941,27 @@ legacyPackages.x86_64-linux.netbird-dashboard:
 legacyPackages.x86_64-linux.netbird-management:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-management
-  version: 0.72.3
+  version: 0.72.4
 legacyPackages.x86_64-linux.netbird-proxy:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-proxy
-  version: 0.72.3
+  version: 0.72.4
 legacyPackages.x86_64-linux.netbird-relay:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-relay
-  version: 0.72.3
+  version: 0.72.4
 legacyPackages.x86_64-linux.netbird-signal:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-signal
-  version: 0.72.3
+  version: 0.72.4
 legacyPackages.x86_64-linux.netbird-ui:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-ui
-  version: 0.72.3
+  version: 0.72.4
 legacyPackages.x86_64-linux.netbird-upload:
   description: Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls
   pname: netbird-upload
-  version: 0.72.3
+  version: 0.72.4
 legacyPackages.x86_64-linux.netboot:
   description: Mini PXE server
   pname: netboot
@@ -182597,11 +182597,11 @@ legacyPackages.x86_64-linux.norgolith:
 legacyPackages.x86_64-linux.noriskclient-launcher:
   description: Minecraft Launcher for NoRisk Client
   pname: noriskclient-launcher
-  version: 0.6.22
+  version: 0.6.24
 legacyPackages.x86_64-linux.noriskclient-launcher-unwrapped:
   description: Minecraft Launcher for NoRisk Client
   pname: noriskclient-launcher-unwrapped
-  version: 0.6.22
+  version: 0.6.24
 legacyPackages.x86_64-linux.normaliz:
   description: Open source tool for computations in affine monoids, vector configurations, lattice polytopes, and rational cones
   pname: normaliz
@@ -197609,11 +197609,11 @@ legacyPackages.x86_64-linux.openssl_1_1:
 legacyPackages.x86_64-linux.openssl_3:
   description: Cryptographic library that implements the SSL and TLS protocols
   pname: openssl
-  version: 3.0.20
+  version: 3.0.21
 legacyPackages.x86_64-linux.openssl_3_5:
   description: Cryptographic library that implements the SSL and TLS protocols
   pname: openssl
-  version: 3.5.6
+  version: 3.5.7
 legacyPackages.x86_64-linux.openssl_3_6:
   description: Cryptographic library that implements the SSL and TLS protocols
   pname: openssl
@@ -197621,7 +197621,7 @@ legacyPackages.x86_64-linux.openssl_3_6:
 legacyPackages.x86_64-linux.openssl_4_0:
   description: Cryptographic library that implements the SSL and TLS protocols
   pname: openssl
-  version: 4.0.0
+  version: 4.0.1
 legacyPackages.x86_64-linux.openssl_legacy:
   description: Cryptographic library that implements the SSL and TLS protocols
   pname: openssl
@@ -220373,7 +220373,7 @@ legacyPackages.x86_64-linux.pixeluvo:
 legacyPackages.x86_64-linux.pixi:
   description: Package management made easy
   pname: pixi
-  version: 0.70.1
+  version: 0.70.2
 legacyPackages.x86_64-linux.pixi-pack:
   description: Pack and unpack conda environments created with pixi
   pname: pixi-pack
@@ -221773,7 +221773,7 @@ legacyPackages.x86_64-linux.postgresql14Packages.pgrouting:
 legacyPackages.x86_64-linux.postgresql14Packages.pgsodium:
   description: Modern cryptography for PostgreSQL using libsodium
   pname: pgsodium
-  version: 3.1.9
+  version: 3.1.11
 legacyPackages.x86_64-linux.postgresql14Packages.pgsql-http:
   description: HTTP client for PostgreSQL, retrieve a web page from inside the database
   pname: pgsql-http
@@ -221814,10 +221814,6 @@ legacyPackages.x86_64-linux.postgresql14Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
   version: "14.23"
-legacyPackages.x86_64-linux.postgresql14Packages.plv8:
-  description: V8 Engine Javascript Procedural Language add-on for PostgreSQL
-  pname: plv8
-  version: 3.2.4
 legacyPackages.x86_64-linux.postgresql14Packages.pointcloud:
   description: PostgreSQL extension for storing point cloud (LIDAR) data
   pname: pointcloud
@@ -222065,7 +222061,7 @@ legacyPackages.x86_64-linux.postgresql15Packages.pgrouting:
 legacyPackages.x86_64-linux.postgresql15Packages.pgsodium:
   description: Modern cryptography for PostgreSQL using libsodium
   pname: pgsodium
-  version: 3.1.9
+  version: 3.1.11
 legacyPackages.x86_64-linux.postgresql15Packages.pgsql-http:
   description: HTTP client for PostgreSQL, retrieve a web page from inside the database
   pname: pgsql-http
@@ -222106,10 +222102,6 @@ legacyPackages.x86_64-linux.postgresql15Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
   version: "15.18"
-legacyPackages.x86_64-linux.postgresql15Packages.plv8:
-  description: V8 Engine Javascript Procedural Language add-on for PostgreSQL
-  pname: plv8
-  version: 3.2.4
 legacyPackages.x86_64-linux.postgresql15Packages.pointcloud:
   description: PostgreSQL extension for storing point cloud (LIDAR) data
   pname: pointcloud
@@ -222357,7 +222349,7 @@ legacyPackages.x86_64-linux.postgresql16Packages.pgrouting:
 legacyPackages.x86_64-linux.postgresql16Packages.pgsodium:
   description: Modern cryptography for PostgreSQL using libsodium
   pname: pgsodium
-  version: 3.1.9
+  version: 3.1.11
 legacyPackages.x86_64-linux.postgresql16Packages.pgsql-http:
   description: HTTP client for PostgreSQL, retrieve a web page from inside the database
   pname: pgsql-http
@@ -222398,10 +222390,6 @@ legacyPackages.x86_64-linux.postgresql16Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
   version: "16.14"
-legacyPackages.x86_64-linux.postgresql16Packages.plv8:
-  description: V8 Engine Javascript Procedural Language add-on for PostgreSQL
-  pname: plv8
-  version: 3.2.4
 legacyPackages.x86_64-linux.postgresql16Packages.pointcloud:
   description: PostgreSQL extension for storing point cloud (LIDAR) data
   pname: pointcloud
@@ -222649,7 +222637,7 @@ legacyPackages.x86_64-linux.postgresql17Packages.pgrouting:
 legacyPackages.x86_64-linux.postgresql17Packages.pgsodium:
   description: Modern cryptography for PostgreSQL using libsodium
   pname: pgsodium
-  version: 3.1.9
+  version: 3.1.11
 legacyPackages.x86_64-linux.postgresql17Packages.pgsql-http:
   description: HTTP client for PostgreSQL, retrieve a web page from inside the database
   pname: pgsql-http
@@ -222690,10 +222678,6 @@ legacyPackages.x86_64-linux.postgresql17Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
   version: "17.10"
-legacyPackages.x86_64-linux.postgresql17Packages.plv8:
-  description: V8 Engine Javascript Procedural Language add-on for PostgreSQL
-  pname: plv8
-  version: 3.2.4
 legacyPackages.x86_64-linux.postgresql17Packages.pointcloud:
   description: PostgreSQL extension for storing point cloud (LIDAR) data
   pname: pointcloud
@@ -222941,7 +222925,7 @@ legacyPackages.x86_64-linux.postgresql18Packages.pgrouting:
 legacyPackages.x86_64-linux.postgresql18Packages.pgsodium:
   description: Modern cryptography for PostgreSQL using libsodium
   pname: pgsodium
-  version: 3.1.9
+  version: 3.1.11
 legacyPackages.x86_64-linux.postgresql18Packages.pgsql-http:
   description: HTTP client for PostgreSQL, retrieve a web page from inside the database
   pname: pgsql-http
@@ -222982,10 +222966,6 @@ legacyPackages.x86_64-linux.postgresql18Packages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
   version: "18.4"
-legacyPackages.x86_64-linux.postgresql18Packages.plv8:
-  description: V8 Engine Javascript Procedural Language add-on for PostgreSQL
-  pname: plv8
-  version: 3.2.4
 legacyPackages.x86_64-linux.postgresql18Packages.pointcloud:
   description: PostgreSQL extension for storing point cloud (LIDAR) data
   pname: pointcloud
@@ -223233,7 +223213,7 @@ legacyPackages.x86_64-linux.postgresqlPackages.pgrouting:
 legacyPackages.x86_64-linux.postgresqlPackages.pgsodium:
   description: Modern cryptography for PostgreSQL using libsodium
   pname: pgsodium
-  version: 3.1.9
+  version: 3.1.11
 legacyPackages.x86_64-linux.postgresqlPackages.pgsql-http:
   description: HTTP client for PostgreSQL, retrieve a web page from inside the database
   pname: pgsql-http
@@ -223274,10 +223254,6 @@ legacyPackages.x86_64-linux.postgresqlPackages.pltcl:
   description: PL/Tcl - Tcl Procedural Language
   pname: postgresql-pltcl
   version: "17.10"
-legacyPackages.x86_64-linux.postgresqlPackages.plv8:
-  description: V8 Engine Javascript Procedural Language add-on for PostgreSQL
-  pname: plv8
-  version: 3.2.4
 legacyPackages.x86_64-linux.postgresqlPackages.pointcloud:
   description: PostgreSQL extension for storing point cloud (LIDAR) data
   pname: pointcloud
@@ -234965,7 +234941,7 @@ legacyPackages.x86_64-linux.python313Packages.dvc-gdrive:
 legacyPackages.x86_64-linux.python313Packages.dvc-gs:
   description: gs plugin for dvc
   pname: python3.13-dvc-gs
-  version: 3.0.2
+  version: 3.1.0
 legacyPackages.x86_64-linux.python313Packages.dvc-hdfs:
   description: HDFS/WebHDFS plugin for dvc
   pname: python3.13-dvc-hdfs
@@ -239093,7 +239069,7 @@ legacyPackages.x86_64-linux.python313Packages.haystack-ai:
 legacyPackages.x86_64-linux.python313Packages.hcloud:
   description: Library for the Hetzner Cloud API
   pname: python3.13-hcloud
-  version: 2.20.0
+  version: 2.21.0
 legacyPackages.x86_64-linux.python313Packages.hcs-utils:
   description: Library collecting some useful snippets
   pname: python3.13-hcs-utils
@@ -240289,7 +240265,7 @@ legacyPackages.x86_64-linux.python313Packages.injector:
 legacyPackages.x86_64-linux.python313Packages.inkbird-ble:
   description: Library for Inkbird BLE devices
   pname: python3.13-inkbird-ble
-  version: 1.4.4
+  version: 1.5.2
 legacyPackages.x86_64-linux.python313Packages.inkex:
   description: Library for manipulating SVG documents which is the basis for Inkscape extensions
   pname: python3.13-inkex
@@ -244357,7 +244333,7 @@ legacyPackages.x86_64-linux.python313Packages.microsoft-kiota-http:
 legacyPackages.x86_64-linux.python313Packages.microsoft-kiota-serialization-form:
   description: Form serialization implementation for Kiota clients in Python
   pname: python3.13-microsoft-kiota-serialization-form
-  version: 1.10.2
+  version: 1.10.3
 legacyPackages.x86_64-linux.python313Packages.microsoft-kiota-serialization-json:
   description: JSON serialization implementation for Kiota clients in Python
   pname: python3.13-microsoft-kiota-serialization-json
@@ -248997,7 +248973,7 @@ legacyPackages.x86_64-linux.python313Packages.osprofiler:
 legacyPackages.x86_64-linux.python313Packages.osqp:
   description: Operator Splitting QP Solver
   pname: python3.13-osqp
-  version: 1.1.1
+  version: 1.1.3
 legacyPackages.x86_64-linux.python313Packages.osrf-pycommon:
   description: Commonly needed Python modules used by Python software developed at OSRF
   pname: python3.13-osrf-pycommon
@@ -278753,7 +278729,7 @@ legacyPackages.x86_64-linux.python314Packages.dvc-gdrive:
 legacyPackages.x86_64-linux.python314Packages.dvc-gs:
   description: gs plugin for dvc
   pname: python3.14-dvc-gs
-  version: 3.0.2
+  version: 3.1.0
 legacyPackages.x86_64-linux.python314Packages.dvc-hdfs:
   description: HDFS/WebHDFS plugin for dvc
   pname: python3.14-dvc-hdfs
@@ -282881,7 +282857,7 @@ legacyPackages.x86_64-linux.python314Packages.haystack-ai:
 legacyPackages.x86_64-linux.python314Packages.hcloud:
   description: Library for the Hetzner Cloud API
   pname: python3.14-hcloud
-  version: 2.20.0
+  version: 2.21.0
 legacyPackages.x86_64-linux.python314Packages.hcs-utils:
   description: Library collecting some useful snippets
   pname: python3.14-hcs-utils
@@ -284077,7 +284053,7 @@ legacyPackages.x86_64-linux.python314Packages.injector:
 legacyPackages.x86_64-linux.python314Packages.inkbird-ble:
   description: Library for Inkbird BLE devices
   pname: python3.14-inkbird-ble
-  version: 1.4.4
+  version: 1.5.2
 legacyPackages.x86_64-linux.python314Packages.inkex:
   description: Library for manipulating SVG documents which is the basis for Inkscape extensions
   pname: python3.14-inkex
@@ -288145,7 +288121,7 @@ legacyPackages.x86_64-linux.python314Packages.microsoft-kiota-http:
 legacyPackages.x86_64-linux.python314Packages.microsoft-kiota-serialization-form:
   description: Form serialization implementation for Kiota clients in Python
   pname: python3.14-microsoft-kiota-serialization-form
-  version: 1.10.2
+  version: 1.10.3
 legacyPackages.x86_64-linux.python314Packages.microsoft-kiota-serialization-json:
   description: JSON serialization implementation for Kiota clients in Python
   pname: python3.14-microsoft-kiota-serialization-json
@@ -292785,7 +292761,7 @@ legacyPackages.x86_64-linux.python314Packages.osprofiler:
 legacyPackages.x86_64-linux.python314Packages.osqp:
   description: Operator Splitting QP Solver
   pname: python3.14-osqp
-  version: 1.1.1
+  version: 1.1.3
 legacyPackages.x86_64-linux.python314Packages.osrf-pycommon:
   description: Commonly needed Python modules used by Python software developed at OSRF
   pname: python3.14-osrf-pycommon
@@ -347409,7 +347385,7 @@ legacyPackages.x86_64-linux.shabnam-fonts:
 legacyPackages.x86_64-linux.shadcn:
   description: Beautifully designed components that you can copy and paste into your apps
   pname: shadcn
-  version: 3.7.0
+  version: 4.11.0
 legacyPackages.x86_64-linux.shader-slang:
   description: Shading language that makes it easier to build and maintain large shader codebases in a modular and extensible fashion
   pname: shader-slang
@@ -348541,7 +348517,7 @@ legacyPackages.x86_64-linux.skills:
 legacyPackages.x86_64-linux.skim:
   description: Command-line fuzzy finder written in Rust
   pname: skim
-  version: 4.0.0
+  version: 4.7.0
 legacyPackages.x86_64-linux.skimpdf:
   description: PDF reader and note-taker for macOS
   pname: Skim
@@ -350281,7 +350257,7 @@ legacyPackages.x86_64-linux.spdx-license-list-data:
 legacyPackages.x86_64-linux.speakeasy-cli:
   description: CLI tool for Speakeasy
   pname: speakeasy-cli
-  version: 1.770.0
+  version: 1.778.0
 legacyPackages.x86_64-linux.speakersafetyd:
   description: Userspace daemon that implements the Smart Amp protection model
   pname: speakersafetyd
@@ -353773,7 +353749,7 @@ legacyPackages.x86_64-linux.sysvtools:
 legacyPackages.x86_64-linux.syswatch:
   description: Single-host system diagnostics TUI tool
   pname: syswatch
-  version: 0.7.1
+  version: 0.7.2
 legacyPackages.x86_64-linux.sysz:
   description: Fzf terminal UI for systemctl
   pname: sysz
@@ -353861,7 +353837,7 @@ legacyPackages.x86_64-linux.tabby-agent:
 legacyPackages.x86_64-linux.tabbyapi:
   description: Official API server for Exllama
   pname: tabbyapi
-  version: 0-unstable-2026-05-29
+  version: 0-unstable-2026-06-13
 legacyPackages.x86_64-linux.tabiew:
   description: Lightweight, terminal-based application to view and query delimiter separated value formatted documents, such as CSV and TSV files
   pname: tabiew
@@ -355549,7 +355525,7 @@ legacyPackages.x86_64-linux.terraform-providers.aws:
 legacyPackages.x86_64-linux.terraform-providers.awscc:
   description: ""
   pname: terraform-provider-awscc
-  version: 1.87.0
+  version: 1.88.0
 legacyPackages.x86_64-linux.terraform-providers.azuread:
   description: ""
   pname: terraform-provider-azuread
@@ -355805,11 +355781,11 @@ legacyPackages.x86_64-linux.terraform-providers.equinix_equinix:
 legacyPackages.x86_64-linux.terraform-providers.exoscale:
   description: ""
   pname: terraform-provider-exoscale
-  version: 0.69.2
+  version: 0.69.3
 legacyPackages.x86_64-linux.terraform-providers.exoscale_exoscale:
   description: ""
   pname: terraform-provider-exoscale
-  version: 0.69.2
+  version: 0.69.3
 legacyPackages.x86_64-linux.terraform-providers.external:
   description: ""
   pname: terraform-provider-external
@@ -355889,11 +355865,11 @@ legacyPackages.x86_64-linux.terraform-providers.google-beta:
 legacyPackages.x86_64-linux.terraform-providers.grafana:
   description: ""
   pname: terraform-provider-grafana
-  version: 4.36.2
+  version: 4.38.0
 legacyPackages.x86_64-linux.terraform-providers.grafana_grafana:
   description: ""
   pname: terraform-provider-grafana
-  version: 4.36.2
+  version: 4.38.0
 legacyPackages.x86_64-linux.terraform-providers.gridscale:
   description: ""
   pname: terraform-provider-gridscale
@@ -355917,7 +355893,7 @@ legacyPackages.x86_64-linux.terraform-providers.hashicorp_aws:
 legacyPackages.x86_64-linux.terraform-providers.hashicorp_awscc:
   description: ""
   pname: terraform-provider-awscc
-  version: 1.87.0
+  version: 1.88.0
 legacyPackages.x86_64-linux.terraform-providers.hashicorp_azuread:
   description: ""
   pname: terraform-provider-azuread
@@ -389221,11 +389197,11 @@ legacyPackages.x86_64-linux.tuptime:
 legacyPackages.x86_64-linux.turbo:
   description: High-performance build system for JavaScript and TypeScript codebases
   pname: turbo
-  version: 2.9.16
+  version: 2.9.18
 legacyPackages.x86_64-linux.turbo-unwrapped:
   description: High-performance build system for JavaScript and TypeScript codebases
   pname: turbo-unwrapped
-  version: 2.9.16
+  version: 2.9.18
 legacyPackages.x86_64-linux.turbocase:
   description: Generate an OpenSCAD case template from a KiCAD PCB
   pname: turbocase
@@ -412013,7 +411989,7 @@ legacyPackages.x86_64-linux.upscayl-ncnn:
 legacyPackages.x86_64-linux.upsies:
   description: Toolkit for collecting, generating, normalizing and sharing video metadata
   pname: upsies
-  version: 2026.05.24
+  version: 2026.06.12
 legacyPackages.x86_64-linux.upspin:
   description: Global name space for storing data akin to a filesystem
   pname: upspin-unstable
@@ -420137,7 +420113,7 @@ legacyPackages.x86_64-linux.vimPlugins.signature:
 legacyPackages.x86_64-linux.vimPlugins.skim:
   description: ""
   pname: vimplugin-skim
-  version: 4.0.0
+  version: 4.7.0
 legacyPackages.x86_64-linux.vimPlugins.skim-vim:
   description: ""
   pname: vimplugin-skim.vim
@@ -423665,7 +423641,7 @@ legacyPackages.x86_64-linux.vokoscreen-ng:
 legacyPackages.x86_64-linux.volanta:
   description: Easy-to-use smart flight tracker that integrates all your flight data across all major flightsims
   pname: volanta
-  version: 1.17.5
+  version: 1.18.0
 legacyPackages.x86_64-linux.volantes-cursors:
   description: Classic cursor theme with a flying style
   pname: volantes-cursors
@@ -428133,7 +428109,7 @@ legacyPackages.x86_64-linux.wlsunset:
 legacyPackages.x86_64-linux.wluma:
   description: Automatic brightness adjustment based on screen contents and ALS
   pname: wluma
-  version: 4.10.0
+  version: 4.11.1
 legacyPackages.x86_64-linux.wlvncc:
   description: Wayland Native VNC Client
   pname: wlvncc
@@ -428561,7 +428537,7 @@ legacyPackages.x86_64-linux.worker:
 legacyPackages.x86_64-linux.worker-build:
   description: Tool to be used as a custom build command for a Cloudflare Workers `workers-rs` project
   pname: worker-build
-  version: 0.8.3
+  version: 0.8.5
 legacyPackages.x86_64-linux.workout-tracker:
   description: Workout tracking web application for personal use
   pname: workout-tracker
