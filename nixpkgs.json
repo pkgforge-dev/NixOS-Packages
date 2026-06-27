@@ -227997,7 +227997,7 @@
   "legacyPackages.x86_64-linux.nixos-install-tools": {
     "description": "Essential commands from the NixOS installer as a package",
     "pname": "nixos-install-tools",
-    "version": "26.11pre-git"
+    "version": "26.11pre1020805.89570f24e97e"
   },
   "legacyPackages.x86_64-linux.nixos-option": {
     "description": "Evaluate NixOS configuration and return the properties of given option",
