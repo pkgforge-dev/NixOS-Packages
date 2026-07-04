@@ -12625,7 +12625,7 @@ legacyPackages.x86_64-linux.betterdisplay:
 legacyPackages.x86_64-linux.betterleaks:
   description: Scan code for secrets
   pname: betterleaks
-  version: 1.5.0
+  version: 1.6.1
 legacyPackages.x86_64-linux.betterlockscreen:
   description: Fast and sweet looking lockscreen for linux systems with effects
   pname: betterlockscreen
@@ -21465,7 +21465,7 @@ legacyPackages.x86_64-linux.clusterlint:
 legacyPackages.x86_64-linux.clusternet:
   description: CNCF Sandbox Project for managing your Kubernetes clusters
   pname: clusternet
-  version: 0.18.1
+  version: 1.0.0
 legacyPackages.x86_64-linux.clutter:
   description: Library for creating fast, dynamic graphical user interfaces
   pname: clutter
@@ -30441,7 +30441,7 @@ legacyPackages.x86_64-linux.drascula-the-vampire-strikes-back:
 legacyPackages.x86_64-linux.drasl:
   description: Yggdrasil-compatible API server for Minecraft
   pname: drasl
-  version: 3.4.3
+  version: 3.4.4
 legacyPackages.x86_64-linux.drat:
   description: Utility for performing data recovery and analysis of APFS partitions/containers
   pname: drat
@@ -30545,7 +30545,7 @@ legacyPackages.x86_64-linux.driversi686Linux.libvdpau-va-gl:
 legacyPackages.x86_64-linux.driversi686Linux.mesa:
   description: Open source 3D graphics library
   pname: mesa
-  version: 26.1.3
+  version: 26.1.4
 legacyPackages.x86_64-linux.driversi686Linux.mesa-demos:
   description: Collection of demos and test programs for OpenGL and Mesa
   pname: mesa-demos
@@ -35489,7 +35489,7 @@ legacyPackages.x86_64-linux.ffmpeg-livepeer:
 legacyPackages.x86_64-linux.ffmpeg-normalize:
   description: Normalize audio via ffmpeg
   pname: ffmpeg-normalize
-  version: 1.38.0
+  version: 1.41.0
 legacyPackages.x86_64-linux.ffmpeg_4:
   description: Complete, cross-platform solution to record, convert and stream audio and video
   pname: ffmpeg
@@ -35709,7 +35709,7 @@ legacyPackages.x86_64-linux.filebeat7:
 legacyPackages.x86_64-linux.filebeat8:
   description: Tails and ships log files
   pname: filebeat
-  version: 8.19.16
+  version: 8.19.17
 legacyPackages.x86_64-linux.filebench:
   description: File system and storage benchmark that can generate both micro and macro workloads
   pname: filebench
@@ -37049,7 +37049,7 @@ legacyPackages.x86_64-linux.flycast:
 legacyPackages.x86_64-linux.flyctl:
   description: Command line tools for fly.io services
   pname: flyctl
-  version: 0.4.60
+  version: 0.4.63
 legacyPackages.x86_64-linux.flye:
   description: De novo assembler for single molecule sequencing reads using repeat graphs
   pname: flye
@@ -38461,7 +38461,7 @@ legacyPackages.x86_64-linux.fswebcam:
 legacyPackages.x86_64-linux.ft2-clone:
   description: Highly accurate clone of the classic Fasttracker II software for MS-DOS
   pname: ft2-clone
-  version: "2.19"
+  version: "2.20"
 legacyPackages.x86_64-linux.ftb-app:
   description: Feed the Beast desktop app
   pname: ftb-app
@@ -136393,7 +136393,7 @@ legacyPackages.x86_64-linux.intelephense:
 legacyPackages.x86_64-linux.intelli-shell:
   description: Like IntelliSense, but for shells
   pname: intelli-shell
-  version: 3.4.4
+  version: 3.4.5
 legacyPackages.x86_64-linux.intelmetool:
   description: Dump interesting things about Management Engine
   pname: intelmetool
@@ -143953,7 +143953,7 @@ legacyPackages.x86_64-linux.kubectl-ai:
 legacyPackages.x86_64-linux.kubectl-cnpg:
   description: Plugin for kubectl to manage a CloudNativePG cluster in Kubernetes
   pname: kubectl-cnpg
-  version: 1.29.1
+  version: 1.30.0
 legacyPackages.x86_64-linux.kubectl-convert:
   description: Kubernetes CLI
   pname: kubectl
@@ -175665,7 +175665,7 @@ legacyPackages.x86_64-linux.merve:
 legacyPackages.x86_64-linux.mesa:
   description: Open source 3D graphics library
   pname: mesa
-  version: 26.1.3
+  version: 26.1.4
 legacyPackages.x86_64-linux.mesa-demos:
   description: Collection of demos and test programs for OpenGL and Mesa
   pname: mesa-demos
@@ -175681,7 +175681,7 @@ legacyPackages.x86_64-linux.mesa_glu:
 legacyPackages.x86_64-linux.mesa_i686:
   description: Open source 3D graphics library
   pname: mesa
-  version: 26.1.3
+  version: 26.1.4
 legacyPackages.x86_64-linux.mescc-tools:
   description: Collection of tools written for use in bootstrapping
   pname: mescc-tools
@@ -180157,7 +180157,7 @@ legacyPackages.x86_64-linux.naja:
 legacyPackages.x86_64-linux.nak:
   description: Command-line tool for Nostr things
   pname: nak
-  version: 0.19.13
+  version: 0.20.0
 legacyPackages.x86_64-linux.nakama:
   description: Distributed server for social and realtime games and apps
   pname: nakama
@@ -182905,7 +182905,7 @@ legacyPackages.x86_64-linux.nixos-install:
 legacyPackages.x86_64-linux.nixos-install-tools:
   description: Essential commands from the NixOS installer as a package
   pname: nixos-install-tools
-  version: 26.11pre1026211.9e92285f211d
+  version: 26.11pre1026288.d33369954a67
 legacyPackages.x86_64-linux.nixos-option:
   description: Evaluate NixOS configuration and return the properties of given option
   pname: nixos-option
@@ -196729,7 +196729,7 @@ legacyPackages.x86_64-linux.ocrfeeder:
 legacyPackages.x86_64-linux.ocrmypdf:
   description: Adds an OCR text layer to scanned PDF files, allowing them to be searched
   pname: ocrmypdf
-  version: 17.7.1
+  version: 17.8.0
 legacyPackages.x86_64-linux.ocrodjvu:
   description: Wrapper for OCR systems that allows you to perform OCR on DjVu files
   pname: ocrodjvu
@@ -197861,7 +197861,7 @@ legacyPackages.x86_64-linux.open-websearch:
 legacyPackages.x86_64-linux.open-webui:
   description: Comprehensive suite for LLMs with a user-friendly WebUI
   pname: open-webui
-  version: 0.10.1
+  version: 0.10.2
 legacyPackages.x86_64-linux.open5gs:
   description: 4G/5G core network components
   pname: open5gs
@@ -198269,7 +198269,7 @@ legacyPackages.x86_64-linux.openimagedenoise:
 legacyPackages.x86_64-linux.openimageio:
   description: Library and tools for reading and writing images
   pname: openimageio
-  version: 3.1.14.1
+  version: 3.1.15.0
 legacyPackages.x86_64-linux.openipmi:
   description: User-level library that provides a higher-level abstraction of IPMI and generic services
   pname: OpenIPMI
@@ -221857,7 +221857,7 @@ legacyPackages.x86_64-linux.place-cursor-at:
 legacyPackages.x86_64-linux.plakar:
   description: Encrypted, queryable backups for engineers based on an immutable data store and portable archives
   pname: plakar
-  version: 1.1.3
+  version: 1.1.4
 legacyPackages.x86_64-linux.plakativ:
   description: Convert a PDF into a large poster that can be printed on multiple smaller pages
   pname: plakativ
@@ -223221,11 +223221,11 @@ legacyPackages.x86_64-linux.postgresql14Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql14Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql14Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql14Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -223509,11 +223509,11 @@ legacyPackages.x86_64-linux.postgresql15Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql15Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql15Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql15Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -223797,11 +223797,11 @@ legacyPackages.x86_64-linux.postgresql16Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql16Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql16Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql16Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -224085,11 +224085,11 @@ legacyPackages.x86_64-linux.postgresql17Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql17Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql17Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql17Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -224373,11 +224373,11 @@ legacyPackages.x86_64-linux.postgresql18Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql18Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql18Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql18Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -224661,11 +224661,11 @@ legacyPackages.x86_64-linux.postgresql19Packages.temporal_tables:
 legacyPackages.x86_64-linux.postgresql19Packages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql19Packages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresql19Packages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -224949,11 +224949,11 @@ legacyPackages.x86_64-linux.postgresqlPackages.temporal_tables:
 legacyPackages.x86_64-linux.postgresqlPackages.timescaledb:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresqlPackages.timescaledb-apache:
   description: Scales PostgreSQL for time-series data via automatic partitioning across time and space
   pname: timescaledb-apache
-  version: 2.28.0
+  version: 2.28.2
 legacyPackages.x86_64-linux.postgresqlPackages.timescaledb_toolkit:
   description: Provide additional tools to ease all things analytic when using TimescaleDB
   pname: timescaledb_toolkit
@@ -225389,7 +225389,7 @@ legacyPackages.x86_64-linux.pretender:
 legacyPackages.x86_64-linux.pretix:
   description: Ticketing software that cares about your event—all the way
   pname: pretix
-  version: 2026.5.3
+  version: 2026.6.0
 legacyPackages.x86_64-linux.pretix-banktool:
   description: Automatic bank data upload tool for pretix (with FinTS client)
   pname: pretix-banktool
@@ -234745,7 +234745,7 @@ legacyPackages.x86_64-linux.python313Packages.deeptoolsintervals:
 legacyPackages.x86_64-linux.python313Packages.deepwave:
   description: Wave propagation modules for PyTorch
   pname: python3.13-deepwave
-  version: 0.0.26
+  version: 0.0.27
 legacyPackages.x86_64-linux.python313Packages.deezer-py:
   description: Wrapper for all Deezer's APIs
   pname: python3.13-deezer-py
@@ -249941,7 +249941,7 @@ legacyPackages.x86_64-linux.python313Packages.ocifs:
 legacyPackages.x86_64-linux.python313Packages.ocrmypdf:
   description: Adds an OCR text layer to scanned PDF files, allowing them to be searched
   pname: python3.13-ocrmypdf
-  version: 17.7.1
+  version: 17.8.0
 legacyPackages.x86_64-linux.python313Packages.ocrmypdf_16:
   description: Adds an OCR text layer to scanned PDF files, allowing them to be searched
   pname: python3.13-ocrmypdf
@@ -250369,7 +250369,7 @@ legacyPackages.x86_64-linux.python313Packages.openidc-client:
 legacyPackages.x86_64-linux.python313Packages.openimageio:
   description: Library and tools for reading and writing images
   pname: openimageio
-  version: 3.1.14.1
+  version: 3.1.15.0
 legacyPackages.x86_64-linux.python313Packages.openinference-instrumentation:
   description: OpenTelemetry Instrumentation for AI Observability
   pname: python3.13-openinference-instrumentation
@@ -269881,7 +269881,7 @@ legacyPackages.x86_64-linux.python313Packages.victron-ble-ha-parser:
 legacyPackages.x86_64-linux.python313Packages.victron-mqtt:
   description: Victron Venus MQTT client library documentation
   pname: python3.13-victron-mqtt
-  version: 2026.6.7
+  version: 2026.6.8
 legacyPackages.x86_64-linux.python313Packages.victron-vrm:
   description: Async Python client for the Victron Energy VRM API
   pname: python3.13-victron-vrm
@@ -278905,7 +278905,7 @@ legacyPackages.x86_64-linux.python314Packages.deeptoolsintervals:
 legacyPackages.x86_64-linux.python314Packages.deepwave:
   description: Wave propagation modules for PyTorch
   pname: python3.14-deepwave
-  version: 0.0.26
+  version: 0.0.27
 legacyPackages.x86_64-linux.python314Packages.deezer-py:
   description: Wrapper for all Deezer's APIs
   pname: python3.14-deezer-py
@@ -294101,7 +294101,7 @@ legacyPackages.x86_64-linux.python314Packages.ocifs:
 legacyPackages.x86_64-linux.python314Packages.ocrmypdf:
   description: Adds an OCR text layer to scanned PDF files, allowing them to be searched
   pname: python3.14-ocrmypdf
-  version: 17.7.1
+  version: 17.8.0
 legacyPackages.x86_64-linux.python314Packages.ocrmypdf_16:
   description: Adds an OCR text layer to scanned PDF files, allowing them to be searched
   pname: python3.14-ocrmypdf
@@ -294529,7 +294529,7 @@ legacyPackages.x86_64-linux.python314Packages.openidc-client:
 legacyPackages.x86_64-linux.python314Packages.openimageio:
   description: Library and tools for reading and writing images
   pname: openimageio
-  version: 3.1.14.1
+  version: 3.1.15.0
 legacyPackages.x86_64-linux.python314Packages.openinference-instrumentation:
   description: OpenTelemetry Instrumentation for AI Observability
   pname: python3.14-openinference-instrumentation
@@ -314041,7 +314041,7 @@ legacyPackages.x86_64-linux.python314Packages.victron-ble-ha-parser:
 legacyPackages.x86_64-linux.python314Packages.victron-mqtt:
   description: Victron Venus MQTT client library documentation
   pname: python3.14-victron-mqtt
-  version: 2026.6.7
+  version: 2026.6.8
 legacyPackages.x86_64-linux.python314Packages.victron-vrm:
   description: Async Python client for the Victron Energy VRM API
   pname: python3.14-victron-vrm
@@ -328393,7 +328393,7 @@ legacyPackages.x86_64-linux.ruffle:
 legacyPackages.x86_64-linux.rufin:
   description: Native GTK music client for Jellyfin
   pname: rufin
-  version: 0.7.8
+  version: 0.7.13
 legacyPackages.x86_64-linux.rufo:
   description: Ruby formatter
   pname: rufo
@@ -358801,7 +358801,7 @@ legacyPackages.x86_64-linux.terraform-providers.nutanix_nutanix:
 legacyPackages.x86_64-linux.terraform-providers.oci:
   description: ""
   pname: terraform-provider-oci
-  version: 8.19.0
+  version: 8.20.0
 legacyPackages.x86_64-linux.terraform-providers.okta:
   description: ""
   pname: terraform-provider-okta
@@ -358857,7 +358857,7 @@ legacyPackages.x86_64-linux.terraform-providers.opsgenie_opsgenie:
 legacyPackages.x86_64-linux.terraform-providers.oracle_oci:
   description: ""
   pname: terraform-provider-oci
-  version: 8.19.0
+  version: 8.20.0
 legacyPackages.x86_64-linux.terraform-providers.ovh:
   description: ""
   pname: terraform-provider-ovh
@@ -391393,7 +391393,7 @@ legacyPackages.x86_64-linux.tsduck:
 legacyPackages.x86_64-linux.tsgolint:
   description: Type aware linting for oxlint
   pname: tsgolint
-  version: 0.23.0
+  version: 0.24.0
 legacyPackages.x86_64-linux.tshark:
   description: Powerful network protocol analyzer
   pname: wireshark-cli
@@ -414145,7 +414145,7 @@ legacyPackages.x86_64-linux.unity-test:
 legacyPackages.x86_64-linux.unityhub:
   description: Official Unity3D app to download and manage Unity Projects and installations
   pname: unityhub
-  version: 3.18.3
+  version: 3.19.1
 legacyPackages.x86_64-linux.universal-android-debloater:
   description: Tool to debloat non-rooted Android devices
   pname: universal-android-debloater
@@ -428229,7 +428229,7 @@ legacyPackages.x86_64-linux.vscode-extensions.usernamehw.errorlens:
 legacyPackages.x86_64-linux.vscode-extensions.vadimcn.vscode-lldb:
   description: Native debugger extension for VSCode based on LLDB
   pname: vscode-extension-vadimcn-vscode-lldb
-  version: 1.12.1
+  version: 1.12.2
 legacyPackages.x86_64-linux.vscode-extensions.valentjn.vscode-ltex:
   description: ""
   pname: vscode-extension-valentjn-vscode-ltex
@@ -432281,7 +432281,7 @@ legacyPackages.x86_64-linux.xen-guest-agent:
 legacyPackages.x86_64-linux.xenia-canary:
   description: Xbox 360 Emulator Research Project
   pname: xenia-canary
-  version: 0-unstable-2026-06-22
+  version: 0-unstable-2026-06-29
 legacyPackages.x86_64-linux.xenomapper:
   description: Utility for post processing mapped reads that have been aligned to a primary genome and a secondary genome and binning reads into species specific, multimapping in each species, unmapped and unassigned bins
   pname: xenomapper
@@ -435033,7 +435033,7 @@ legacyPackages.x86_64-linux.yggdrasil-jumper:
 legacyPackages.x86_64-linux.yggdrasil-ng:
   description: Yggdrasil Network rewritten in Rust
   pname: yggdrasil-ng
-  version: 0.1.6
+  version: 0.2.0
 legacyPackages.x86_64-linux.yggstack:
   description: Yggdrasil as SOCKS proxy / port forwarder
   pname: yggstack
@@ -435617,7 +435617,7 @@ legacyPackages.x86_64-linux.zarf:
 legacyPackages.x86_64-linux.zashboard:
   description: Dashboard Using Clash API
   pname: zashboard
-  version: 3.10.1
+  version: 3.12.0
 legacyPackages.x86_64-linux.zasm:
   description: Z80 / 8080 / Z180 assembler (for unix-style OS)
   pname: zasm
