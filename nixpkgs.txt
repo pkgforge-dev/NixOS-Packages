@@ -1904,8 +1904,8 @@
  abstractly-keyed-implicits  0.1.1.0  Manage the implicit parameter namespace dynamically at compile time  legacyPackages.x86_64-linux.haskellPackages.abstractly-keyed-implicits 
  abstyles  76790  Adaptable BibTeX styles  legacyPackages.x86_64-linux.texlivePackages.abstyles 
  abt  0.1.1.0  Abstract binding trees for Haskell  legacyPackages.x86_64-linux.haskellPackages.abt 
- abtop  0.5.1  Like htop, but for AI coding agents  legacyPackages.x86_64-linux.abtop 
- abuild  3.15.0  Alpine Linux build tools  legacyPackages.x86_64-linux.abuild 
+ abtop  0.5.3  Like htop, but for AI coding agents  legacyPackages.x86_64-linux.abtop 
+ abuild  3.17.0  Alpine Linux build tools  legacyPackages.x86_64-linux.abuild 
  abuse  0.9.1  Side-scroller action game that pits you against ruthless alien killers  legacyPackages.x86_64-linux.abuse 
  ac-library  1.6  Official library of AtCoder  legacyPackages.x86_64-linux.ac-library 
  ac-library-hs  1.5.3.2  Data structures and algorithms  legacyPackages.x86_64-linux.haskellPackages.ac-library-hs 
@@ -2194,7 +2194,7 @@
  adreaper  1.1  Enumeration tool for Windows Active Directories  legacyPackages.x86_64-linux.adreaper 
  adrgen  0.4.1-beta  Command-line tool for generating and managing Architecture Decision Records  legacyPackages.x86_64-linux.adrgen 
  adriconf  2.7.3  GUI tool used to configure open source graphics drivers  legacyPackages.x86_64-linux.adriconf 
- adrs  0.8.0  Command-line tool for managing Architectural Decision Records  legacyPackages.x86_64-linux.adrs 
+ adrs  0.9.0  Command-line tool for managing Architectural Decision Records  legacyPackages.x86_64-linux.adrs 
  adscan  9.2.1  Active Directory pentesting tool for Linux  legacyPackages.x86_64-linux.adscan 
  adslib  0-unstable-2026-04-27  Beckhoff protocol to communicate with TwinCAT devices  legacyPackages.x86_64-linux.adslib 
  adtrees  0.1.0.0  Modelling, rendering and quantitative analysis on attack defense trees  legacyPackages.x86_64-linux.haskellPackages.adtrees 
@@ -5212,7 +5212,7 @@
  avr-shake  0.0.1.2  AVR Crosspack actions for shake build systems  legacyPackages.x86_64-linux.haskellPackages.avr-shake 
  avr8-burn-omat  2.1.2  GUI tool for avrdude  legacyPackages.x86_64-linux.avr8burnomat 
  avra  1.4.2  Assembler for the Atmel AVR microcontroller family  legacyPackages.x86_64-linux.avra 
- avrdude  8.1  Command-line tool for programming Atmel AVR microcontrollers  legacyPackages.x86_64-linux.avrdude 
+ avrdude  8.2  Command-line tool for programming Atmel AVR microcontrollers  legacyPackages.x86_64-linux.avrdude 
  avrdudess  2.20  GUI for AVRDUDE (AVR microcontroller programmer)  legacyPackages.x86_64-linux.avrdudess 
  avremu  0.1  An 8-Bit Microcontroller Simulator written in LaTeX  legacyPackages.x86_64-linux.texlivePackages.avremu 
  avro  0.6.2.1  Avro serialization support for Haskell  legacyPackages.x86_64-linux.haskellPackages.avro 
@@ -7049,7 +7049,7 @@
  botpp  0.1  Build tool for Lambdabot  legacyPackages.x86_64-linux.haskellPackages.botpp 
  bottles  64.1  Easy-to-use wineprefix manager  legacyPackages.x86_64-linux.bottles 
  bottles-unwrapped  64.1  Easy-to-use wineprefix manager  legacyPackages.x86_64-linux.bottles-unwrapped 
- bottom  0.14.3  Cross-platform graphical process/system monitor with a customizable interface  legacyPackages.x86_64-linux.bottom 
+ bottom  0.14.4  Cross-platform graphical process/system monitor with a customizable interface  legacyPackages.x86_64-linux.bottom 
  bottom  0.2.0.0  Encoding and decoding for the Bottom spec  legacyPackages.x86_64-linux.haskellPackages.bottom 
  bottom-rs  1.2.0  Fantastic (maybe) CLI for translating between bottom and human-readable text  legacyPackages.x86_64-linux.bottom-rs 
  boulder  0.20260504.0  ACME-based certificate authority, written in Go  legacyPackages.x86_64-linux.boulder 
@@ -7155,7 +7155,7 @@
  brasero  3.12.3  Gnome CD/DVD Burner  legacyPackages.x86_64-linux.brasero 
  brasero  3.12.3  Gnome CD/DVD Burner  legacyPackages.x86_64-linux.brasero-unwrapped 
  brassica  1.0.0  Featureful sound change applier  legacyPackages.x86_64-linux.haskellPackages.brassica 
- brave  1.92.134  Privacy-oriented browser for Desktop and Laptop computers  legacyPackages.x86_64-linux.brave 
+ brave  1.92.139  Privacy-oriented browser for Desktop and Laptop computers  legacyPackages.x86_64-linux.brave 
  brave-search-cli  1.5.0  CLI for the Brave Search API with support for web, news, images, and AI answer endpoints  legacyPackages.x86_64-linux.brave-search-cli 
  break  1.0.2  Break from a loop  legacyPackages.x86_64-linux.haskellPackages.break 
  breakcites  78116  Ensure that multiple citations may break at line end  legacyPackages.x86_64-linux.texlivePackages.breakcites 
@@ -7283,8 +7283,8 @@
  brscan4  0.4.10-1  Brother brscan4 sane backend driver  legacyPackages.x86_64-linux.brscan4 
  brscan5  1.3.1-0  Brother brscan5 sane backend driver  legacyPackages.x86_64-linux.brscan5 
  bruijn  0-unstable-2026-07-05  Purely functional programming language based on lambda calculus and de Bruijn indices  legacyPackages.x86_64-linux.bruijn 
- bruno  3.5.0  Open-source IDE For exploring and testing APIs  legacyPackages.x86_64-linux.bruno 
- bruno-cli  3.5.0  CLI of the open-source IDE For exploring and testing APIs  legacyPackages.x86_64-linux.bruno-cli 
+ bruno  3.5.1  Open-source IDE For exploring and testing APIs  legacyPackages.x86_64-linux.bruno 
+ bruno-cli  3.5.1  CLI of the open-source IDE For exploring and testing APIs  legacyPackages.x86_64-linux.bruno-cli 
  brunsli  0.1  Lossless JPEG repacking library  legacyPackages.x86_64-linux.brunsli 
  brush  0.4.0  Bash/POSIX-compatible shell implemented in Rust  legacyPackages.x86_64-linux.brush 
  brush-splat  0.3.0  3D Reconstruction for all  legacyPackages.x86_64-linux.brush-splat 
@@ -9107,7 +9107,7 @@
  chezmoi  2.70.5  Manage your dotfiles across multiple machines, securely  legacyPackages.x86_64-linux.chezmoi 
  chglog  0.7.4  Changelog management library and tool  legacyPackages.x86_64-linux.chglog 
  chhaya  0.4  Linguistic glossing in Marathi language  legacyPackages.x86_64-linux.texlivePackages.chhaya 
- chhoto-url  7.4.1  Simple, blazingly fast, selfhosted URL shortener with no unnecessary features  legacyPackages.x86_64-linux.chhoto-url 
+ chhoto-url  7.4.10  Simple, blazingly fast, selfhosted URL shortener with no unnecessary features  legacyPackages.x86_64-linux.chhoto-url 
  chiaki  2.2.0-unstable-2026-01-04  Free and Open Source PlayStation Remote Play Client  legacyPackages.x86_64-linux.chiaki 
  chiaki-ng  1.10.0  Next-Generation of Chiaki (the open-source remote play client for PlayStation)  legacyPackages.x86_64-linux.chiaki-ng 
  chiasma  0.12.2.0  A tmux client for Polysemy  legacyPackages.x86_64-linux.haskellPackages.chiasma 
@@ -10719,7 +10719,7 @@
  codex-acp  0.13.0  An ACP-compatible coding agent powered by Codex  legacyPackages.x86_64-linux.codex-acp 
  codexbar  0.41.0  Show usage stats for AI coding-provider limits  legacyPackages.x86_64-linux.codexbar 
  codicefiscaleitaliano  1.2  Test the consistency of the Italian personal Fiscal Code  legacyPackages.x86_64-linux.texlivePackages.codicefiscaleitaliano 
- codipack  3.1.0  Fast gradient evaluation in C++ based on Expression Templates  legacyPackages.x86_64-linux.codipack 
+ codipack  3.1.1  Fast gradient evaluation in C++ based on Expression Templates  legacyPackages.x86_64-linux.codipack 
  codium  1.121.03429  Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications  legacyPackages.x86_64-linux.vscodium-fhs 
  codo-notation  0.5.2  A notation for comonads, analogous to the do-notation for monads  legacyPackages.x86_64-linux.haskellPackages.codo-notation 
  codon  0.16.1  High-performance, zero-overhead, extensible Python compiler using LLVM  legacyPackages.x86_64-linux.codon 
@@ -13486,8 +13486,8 @@
  deptrack-devops  0.1.0.0  DepTrack applied to DevOps  legacyPackages.x86_64-linux.haskellPackages.deptrack-devops 
  deptrack-dot  0.1.0.0  Facilitate Graphviz representations of DepTrack dependencies  legacyPackages.x86_64-linux.haskellPackages.deptrack-dot 
  deptry  0.25.1  Find unused, missing and transitive dependencies in a Python project  legacyPackages.x86_64-linux.deptry 
- deputy  0.7.0  Language server for tools and package managers  legacyPackages.x86_64-linux.deputy 
- deputy  0.7.0  Language server for tools and package managers  legacyPackages.x86_64-linux.tooling-language-server 
+ deputy  0.8.0  Language server for tools and package managers  legacyPackages.x86_64-linux.deputy 
+ deputy  0.8.0  Language server for tools and package managers  legacyPackages.x86_64-linux.tooling-language-server 
  deqp-runner  0.18.0  VK-GL-CTS/dEQP wrapper program to parallelize it across CPUs and report results against a baseline  legacyPackages.x86_64-linux.deqp-runner 
  deque  0.4.4.2  Double-ended queues  legacyPackages.x86_64-linux.haskellPackages.deque 
  deque  0.4.4.4  Double-ended queues  legacyPackages.x86_64-linux.haskellPackages.deque_0_4_4_4 
@@ -13804,6 +13804,7 @@
  diffutils  3.12  Commands for showing the differences between files (diff, cmp, etc.)  legacyPackages.x86_64-linux.diffutils 
  diffutils  3.8  Commands for showing the differences between files (diff, cmp, etc.)  legacyPackages.x86_64-linux.minimal-bootstrap.diffutils 
  diffutils-static  3.12  Commands for showing the differences between files (diff, cmp, etc.)  legacyPackages.x86_64-linux.minimal-bootstrap.diffutils-static 
+ diffyml  1.7.0  Structural YAML diff tool with Kubernetes awareness and CI-friendly output  legacyPackages.x86_64-linux.diffyml 
  digamma  1.0  A (deprecated) implementation of the digamma function  legacyPackages.x86_64-linux.haskellPackages.digamma 
  digest  0.0.2.1  CRC32 and Adler32 hashes for bytestrings  legacyPackages.x86_64-linux.haskellPackages.digest 
  digest-pure  0.0.3  Pure hash functions for bytestrings  legacyPackages.x86_64-linux.haskellPackages.digest-pure 
@@ -13937,15 +13938,15 @@
  discocss  0.2.3  Tiny Discord css-injector  legacyPackages.x86_64-linux.discocss 
  discogs-haskell  0.0.5.0  Client for Discogs REST API  legacyPackages.x86_64-linux.haskellPackages.discogs-haskell 
  discokitty  0.1.0  DisCoCat implementation  legacyPackages.x86_64-linux.haskellPackages.discokitty 
- discord  1.0.144  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord 
- discord-canary  1.0.1361  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord-canary 
- discord-development  1.0.1000  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord-development 
+ discord  1.0.146  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord 
+ discord-canary  1.0.1398  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord-canary 
+ discord-development  1.0.1001  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord-development 
  discord-gamesdk  3.2.1  Library to allow other programs to interact with the Discord desktop application  legacyPackages.x86_64-linux.discord-gamesdk 
  discord-gateway  0.2.2  An API wrapper for Discord in Haskell  legacyPackages.x86_64-linux.haskellPackages.discord-gateway 
  discord-haskell  1.18.0  Write bots for Discord in Haskell  legacyPackages.x86_64-linux.haskellPackages.discord-haskell 
  discord-haskell-voice  3.0.0  Voice support for discord-haskell  legacyPackages.x86_64-linux.haskellPackages.discord-haskell-voice 
  discord-hs  0.4.2  An API wrapper for Discord in Haskell  legacyPackages.x86_64-linux.haskellPackages.discord-hs 
- discord-ptb  1.0.197  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord-ptb 
+ discord-ptb  1.0.198  All-in-one cross-platform voice and text chat for gamers  legacyPackages.x86_64-linux.discord-ptb 
  discord-register  0.0.2  Discord verification bot  legacyPackages.x86_64-linux.haskellPackages.discord-register 
  discord-rest  0.2.2  An API wrapper for Discord in Haskell  legacyPackages.x86_64-linux.haskellPackages.discord-rest 
  discord-rich-presence-plex  3.0.0  Displays your Plex status on Discord using Rich Presence  legacyPackages.x86_64-linux.discord-rich-presence-plex 
@@ -14742,7 +14743,7 @@
  drumstick  2.11.0  MIDI libraries for Qt/C++  legacyPackages.x86_64-linux.libsForQt5.drumstick 
  drumstick  2.11.0  MIDI libraries for Qt/C++  legacyPackages.x86_64-linux.qt6Packages.drumstick 
  drunken-bishop  0.1.0.0  An implementation of the Drunken Bishop visual fingerprinting algorithm  legacyPackages.x86_64-linux.haskellPackages.drunken-bishop 
- drupal  11.4.0  Drupal CMS  legacyPackages.x86_64-linux.drupal 
+ drupal  11.4.2  Drupal CMS  legacyPackages.x86_64-linux.drupal 
  drv  0.97  Derivation trees with MetaPost  legacyPackages.x86_64-linux.texlivePackages.drv 
  dry  0.13.0  Terminal application to manage Docker and Docker Swarm  legacyPackages.x86_64-linux.dry 
  ds-kanren  0.2.0.1  A subset of the miniKanren language  legacyPackages.x86_64-linux.haskellPackages.ds-kanren 
@@ -16249,7 +16250,7 @@
  esk  1.0  Package to encapsulate Sketch files in LaTeX sources  legacyPackages.x86_64-linux.texlivePackages.esk 
  eskd  15878  Modern Russian typesetting  legacyPackages.x86_64-linux.texlivePackages.eskd 
  eskdx  0.98  Modern Russian typesetting  legacyPackages.x86_64-linux.texlivePackages.eskdx 
- eslint  10.6.0  Find and fix problems in your JavaScript code  legacyPackages.x86_64-linux.eslint 
+ eslint  10.7.0  Find and fix problems in your JavaScript code  legacyPackages.x86_64-linux.eslint 
  eslint_d  15.0.2  Makes eslint the fastest linter on the planet  legacyPackages.x86_64-linux.eslint_d 
  eso-pic  3.0d  Add picture commands (or backgrounds) to every page  legacyPackages.x86_64-linux.texlivePackages.eso-pic 
  esotericbot  0.0.6  Esotericbot is a sophisticated, lightweight IRC bot  legacyPackages.x86_64-linux.haskellPackages.esotericbot 
@@ -17038,7 +17039,7 @@
  fastly  0.1.0.0  A highly experimental Fastly API client  legacyPackages.x86_64-linux.haskellPackages.fastly 
  fastly  15.4.0  Command line tool for interacting with the Fastly API  legacyPackages.x86_64-linux.fastly 
  fastly-exporter  10.2.0  Prometheus exporter for the Fastly Real-time Analytics API  legacyPackages.x86_64-linux.prometheus-fastly-exporter 
- fastmail-desktop  1.3.0  Dedicated desktop app for Fastmail  legacyPackages.x86_64-linux.fastmail-desktop 
+ fastmail-desktop  1.4.0  Dedicated desktop app for Fastmail  legacyPackages.x86_64-linux.fastmail-desktop 
  fastmemo  0.1.1  Memoize functions on Generic types  legacyPackages.x86_64-linux.haskellPackages.fastmemo 
  fastmod  0.4.4  Utility that makes sweeping changes to large, shared code bases  legacyPackages.x86_64-linux.fastmod 
  fastnetmon-advanced  2.0.380  High performance DDoS detector / sensor - commercial edition  legacyPackages.x86_64-linux.fastnetmon-advanced 
@@ -17603,8 +17604,8 @@
  firestarter  2.0  Processor Stress Test Utility  legacyPackages.x86_64-linux.firestarter 
  firestore  0.1.0.0  Wrapper for Google Firestore/Datastore API  legacyPackages.x86_64-linux.haskellPackages.firestore 
  firewalk  5.0  Gateway ACL scanner  legacyPackages.x86_64-linux.firewalk 
- firewalld  2.4.3  Firewall daemon with D-Bus interface  legacyPackages.x86_64-linux.firewalld 
- firewalld  2.4.3  Firewall daemon with D-Bus interface  legacyPackages.x86_64-linux.firewalld-gui 
+ firewalld  2.5.0  Firewall daemon with D-Bus interface  legacyPackages.x86_64-linux.firewalld 
+ firewalld  2.5.0  Firewall daemon with D-Bus interface  legacyPackages.x86_64-linux.firewalld-gui 
  firezone-gateway  1.5.2  WireGuard tunnel server for the Firezone zero-trust access platform  legacyPackages.x86_64-linux.firezone-gateway 
  firezone-gui-client  1.5.1  GUI client for the Firezone zero-trust access platform  legacyPackages.x86_64-linux.firezone-gui-client 
  firezone-headless-client  1.5.6  CLI client for the Firezone zero-trust access platform  legacyPackages.x86_64-linux.firezone-headless-client 
@@ -17868,8 +17869,8 @@
  flightgear  2024.1.6  A free and highly sophisticated flight simulator  legacyPackages.x86_64-linux.flightgear 
  flink  2.3.0  Distributed stream processing framework  legacyPackages.x86_64-linux.flink 
  flink-statefulfun  0.4.0.0  Flink stateful functions SDK  legacyPackages.x86_64-linux.haskellPackages.flink-statefulfun 
- flint  3.5.0  Fast Library for Number Theory  legacyPackages.x86_64-linux.flint 
- flint  3.5.0  Fast Library for Number Theory  legacyPackages.x86_64-linux.flint3 
+ flint  3.6.0  Fast Library for Number Theory  legacyPackages.x86_64-linux.flint 
+ flint  3.6.0  Fast Library for Number Theory  legacyPackages.x86_64-linux.flint3 
  flintlock  0.9.0  Create and manage the lifecycle of MicroVMs backed by containerd  legacyPackages.x86_64-linux.flintlock 
  flip  1.2  Tool for visualizing and communicating the errors in rendered images  legacyPackages.x86_64-linux.flip 
  flip-cmd  0.1.0.0  e.g. `flip systemctl foo.service start` does `systemctl start foo.service`  legacyPackages.x86_64-linux.haskellPackages.flip-cmd 
@@ -18014,6 +18015,7 @@
  flye  2.9.6  De novo assembler for single molecule sequencing reads using repeat graphs  legacyPackages.x86_64-linux.flye 
  flying-carpet  9.0.10  Send and receive files between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi  legacyPackages.x86_64-linux.flying-carpet 
  flyspray  1.0-rc11  Lightweight, web-based bug tracking system written in PHP for assisting with software development and project managements  legacyPackages.x86_64-linux.flyspray 
+ flytectl  0.9.8  Command-line interface for Flyte, a cloud-native workflow orchestration platform  legacyPackages.x86_64-linux.flytectl 
  flyway  12.10.0  Evolve your Database Schema easily and reliably across all your instances  legacyPackages.x86_64-linux.flyway 
  flywheel-cli  16.2.0  Library and command line interface for interacting with a Flywheel site  legacyPackages.x86_64-linux.flywheel-cli 
  fm  0-unstable-2024-01-03  Small, general purpose file manager built with GTK4  legacyPackages.x86_64-linux.fm 
@@ -18787,7 +18789,7 @@
  fusion-plugin  0.2.8  GHC plugin to make stream fusion more predictable  legacyPackages.x86_64-linux.haskellPackages.fusion-plugin 
  fusion-plugin-types  0.1.0  Types for the fusion-plugin package  legacyPackages.x86_64-linux.haskellPackages.fusion-plugin-types 
  fusuma  3.9.0  Multitouch gestures with libinput driver on X11, Linux  legacyPackages.x86_64-linux.fusuma 
- fut  3.3.4  Fusion programming language  legacyPackages.x86_64-linux.fut 
+ fut  3.3.5  Fusion programming language  legacyPackages.x86_64-linux.fut 
  futhark  0.25.37  An optimising compiler for a functional, array-oriented language  legacyPackages.x86_64-linux.futhark 
  futhark  0.25.37  An optimising compiler for a functional, array-oriented language  legacyPackages.x86_64-linux.haskellPackages.futhark 
  futhark-data  1.1.4.0  An implementation of the Futhark data format  legacyPackages.x86_64-linux.haskellPackages.futhark-data 
@@ -29471,7 +29473,7 @@
  jack_capture  0.9.73.2023-01-04  Program for recording soundfiles with jack  legacyPackages.x86_64-linux.jack_capture 
  jack_oscrolloscope  0.7  Simple waveform viewer for JACK  legacyPackages.x86_64-linux.jack_oscrolloscope 
  jackass  1.1  VST plugin that provides JACK-MIDI support for VST hosts  legacyPackages.x86_64-linux.jackass 
- jackett  0.24.2151  API Support for your favorite torrent trackers  legacyPackages.x86_64-linux.jackett 
+ jackett  0.24.2200  API Support for your favorite torrent trackers  legacyPackages.x86_64-linux.jackett 
  jackmeter  0.4  Console jack loudness meter  legacyPackages.x86_64-linux.jackmeter 
  jackminimix  0.1  control JackMiniMix  legacyPackages.x86_64-linux.haskellPackages.jackminimix 
  jackmix  0.6.1-unstable-2024-03-26  Matrix-Mixer for the Jack-Audio-connection-Kit  legacyPackages.x86_64-linux.jackmix 
@@ -29643,7 +29645,7 @@
  jflex  1.9.1  Lexical analyzer generator for Java, written in Java  legacyPackages.x86_64-linux.jflex 
  jfmt  1.2.1  CLI utility to format json files  legacyPackages.x86_64-linux.jfmt 
  jfmutil  1.3.3  Utility to process pTeX-extended TFM and VF  legacyPackages.x86_64-linux.texlivePackages.jfmutil 
- jfrog-cli  2.112.0  Client for accessing to JFrog's Artifactory and Mission Control through their respective REST APIs  legacyPackages.x86_64-linux.jfrog-cli 
+ jfrog-cli  2.113.0  Client for accessing to JFrog's Artifactory and Mission Control through their respective REST APIs  legacyPackages.x86_64-linux.jfrog-cli 
  jfsutils  1.1.15  IBM JFS utilities  legacyPackages.x86_64-linux.jfsutils 
  jfsw  20260105  Modern port the original Shadow Warrior  legacyPackages.x86_64-linux.jfsw 
  jftui  0.7.5  Jellyfin Terminal User Interface  legacyPackages.x86_64-linux.jftui 
@@ -31228,7 +31230,7 @@
  kubectl-linstor  0.3.2  Plugin to control a LINSTOR cluster using kubectl  legacyPackages.x86_64-linux.kubectl-linstor 
  kubectl-neat  2.0.3  Clean up Kubernetes yaml and json output to make it readable  legacyPackages.x86_64-linux.kubectl-neat 
  kubectl-node-shell  1.11.0  Exec into node via kubectl  legacyPackages.x86_64-linux.kubectl-node-shell 
- kubectl-rabbitmq  2.21.0  RabbitMQ Cluster Operator Plugin for kubectl  legacyPackages.x86_64-linux.kubectl-rabbitmq 
+ kubectl-rabbitmq  2.22.1  RabbitMQ Cluster Operator Plugin for kubectl  legacyPackages.x86_64-linux.kubectl-rabbitmq 
  kubectl-rook-ceph  0.9.6  Krew plugin to run kubectl commands with rook-ceph  legacyPackages.x86_64-linux.kubectl-rook-ceph 
  kubectl-tree  0.6.0  kubectl plugin to browse Kubernetes object hierarchies as a tree  legacyPackages.x86_64-linux.kubectl-tree 
  kubectl-validate  0.0.4  Tool for local validation of resources for native Kubernetes types and CRDs  legacyPackages.x86_64-linux.kubectl-validate 
@@ -33111,7 +33113,7 @@
  libretranslate  1.9.6  Free and Open Source Machine Translation API. Self-hosted, no limits, no ties to proprietary services  legacyPackages.x86_64-linux.libretranslate 
  libretro  2048-0-unstable-2026-04-10  Port of 2048 puzzle game to libretro  legacyPackages.x86_64-linux.libretro.twenty-fortyeight 
  libretro  81-0-unstable-2026-04-20  Port of EightyOne to libretro  legacyPackages.x86_64-linux.libretro.eightyone 
- libretro-atari800  0-unstable-2026-05-28  Port of Atari800 to libretro  legacyPackages.x86_64-linux.libretro.atari800 
+ libretro-atari800  0-unstable-2026-07-10  Port of Atari800 to libretro  legacyPackages.x86_64-linux.libretro.atari800 
  libretro-blastem  0-unstable-2022-07-26  Port of BlastEm to libretro  legacyPackages.x86_64-linux.libretro.blastem 
  libretro-bluemsx  0-unstable-2026-07-04  Port of BlueMSX to libretro  legacyPackages.x86_64-linux.libretro.bluemsx 
  libretro-bsnes  0-unstable-2026-04-20  Port of bsnes to libretro  legacyPackages.x86_64-linux.libretro.bsnes 
@@ -33153,8 +33155,8 @@
  libretro-mednafen-pce  0-unstable-2026-04-11  Port of Mednafen's PC Engine core to libretro  legacyPackages.x86_64-linux.libretro.beetle-pce 
  libretro-mednafen-pce-fast  0-unstable-2026-07-03  Port of Mednafen's PC Engine fast core to libretro  legacyPackages.x86_64-linux.libretro.beetle-pce-fast 
  libretro-mednafen-pcfx  0-unstable-2026-04-22  Port of Mednafen's PCFX core to libretro  legacyPackages.x86_64-linux.libretro.beetle-pcfx 
- libretro-mednafen-psx  0-unstable-2026-07-01  Port of Mednafen's PSX Engine core to libretro  legacyPackages.x86_64-linux.libretro.beetle-psx 
- libretro-mednafen-psx-hw  0-unstable-2026-07-01  Port of Mednafen's PSX Engine core to libretro (with hardware acceleration support)  legacyPackages.x86_64-linux.libretro.beetle-psx-hw 
+ libretro-mednafen-psx  0-unstable-2026-07-11  Port of Mednafen's PSX Engine core to libretro  legacyPackages.x86_64-linux.libretro.beetle-psx 
+ libretro-mednafen-psx-hw  0-unstable-2026-07-11  Port of Mednafen's PSX Engine core to libretro (with hardware acceleration support)  legacyPackages.x86_64-linux.libretro.beetle-psx-hw 
  libretro-mednafen-saturn  0-unstable-2026-07-07  Port of Mednafen's Saturn core to libretro  legacyPackages.x86_64-linux.libretro.beetle-saturn 
  libretro-mednafen-supafaust  0-unstable-2026-04-20  Port of Mednafen's experimental snes_faust core to libretro  legacyPackages.x86_64-linux.libretro.beetle-supafaust 
  libretro-mednafen-supergrafx  0-unstable-2026-04-20  Port of Mednafen's SuperGrafx core to libretro  legacyPackages.x86_64-linux.libretro.beetle-supergrafx 
@@ -33220,8 +33222,8 @@
  libretro-yabause  0-unstable-2026-05-30  Port of Yabause to libretro  legacyPackages.x86_64-linux.libretro.yabause 
  librevenge  0.0.5  Base library for writing document import filters  legacyPackages.x86_64-linux.librevenge 
  librewolf  152.0.5-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf 
- librewolf-bin  152.0.4-1  Fork of Firefox, focused on privacy, security and freedom (upstream binary release)  legacyPackages.x86_64-linux.librewolf-bin 
- librewolf-bin-unwrapped  152.0.4-1  Fork of Firefox, focused on privacy, security and freedom (upstream binary release)  legacyPackages.x86_64-linux.librewolf-bin-unwrapped 
+ librewolf-bin  152.0.5-1  Fork of Firefox, focused on privacy, security and freedom (upstream binary release)  legacyPackages.x86_64-linux.librewolf-bin 
+ librewolf-bin-unwrapped  152.0.5-1  Fork of Firefox, focused on privacy, security and freedom (upstream binary release)  legacyPackages.x86_64-linux.librewolf-bin-unwrapped 
  librewolf-unwrapped  152.0.5-1  Fork of Firefox, focused on privacy, security and freedom  legacyPackages.x86_64-linux.librewolf-unwrapped 
  librice  0.3.0  A (sans-IO) implementation of ICE (RFC8445) protocol written in Rust  legacyPackages.x86_64-linux.librice 
  librime  1.17.0  Rime Input Method Engine, the core library  legacyPackages.x86_64-linux.librime 
@@ -33858,7 +33860,7 @@
  linssid  2.7  Graphical wireless scanning for Linux  legacyPackages.x86_64-linux.linssid 
  lint-staged  17.0.8  Run linters on git staged files  legacyPackages.x86_64-linux.lint-staged 
  linthesia-unstable  2023-05-23  Game of playing music using a MIDI keyboard following a MIDI file  legacyPackages.x86_64-linux.linthesia 
- lintspec  0.17.0  Blazingly fast linter for NatSpec comments in Solidity code  legacyPackages.x86_64-linux.lintspec 
+ lintspec  0.18.0  Blazingly fast linter for NatSpec comments in Solidity code  legacyPackages.x86_64-linux.lintspec 
  linux  5.10.260  The Linux kernel (with patches: bridge-stp-helper, request-key-helper)  legacyPackages.x86_64-linux.linuxKernel.kernels.linux_5_10 
  linux  5.10.260  The Linux kernel (with patches: bridge-stp-helper, request-key-helper)  legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.kernel 
  linux  5.10.260  The Linux kernel (with patches: bridge-stp-helper, request-key-helper)  legacyPackages.x86_64-linux.linux_5_10 
@@ -34133,7 +34135,7 @@
  livedl-unstable  2021-05-16  Command-line tool to download nicovideo.jp livestreams  legacyPackages.x86_64-linux.livedl 
  livegrep  2026-02-10  Livegrep is a tool, partially inspired by Google Code Search, for interactive regex search of ~gigabyte-scale source repositories.  legacyPackages.x86_64-linux.livegrep 
  livekit  1.13.3  End-to-end stack for WebRTC. SFU media server and SDKs  legacyPackages.x86_64-linux.livekit 
- livekit-cli  2.16.7  Command line interface to LiveKit  legacyPackages.x86_64-linux.livekit-cli 
+ livekit-cli  2.17.0  Command line interface to LiveKit  legacyPackages.x86_64-linux.livekit-cli 
  livekit-ingress  1.5.0  Ingest streams (RTMP/WHIP) or files (HLS, MP4) to LiveKit WebRTC  legacyPackages.x86_64-linux.livekit-ingress 
  livekit-libwebrtc  137-unstable-2026-03-12  WebRTC library used by livekit  legacyPackages.x86_64-linux.livekit-libwebrtc 
  livepeer  0.8.10  Official Go implementation of the Livepeer protocol  legacyPackages.x86_64-linux.livepeer 
@@ -34843,7 +34845,7 @@
  lua5.1-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.lua51Packages.fifo 
  lua5.1-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.lua51Packages.fluent 
  lua5.1-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua51Packages.funnyfiles-nvim 
- lua5.1-fzf-lua  0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua51Packages.fzf-lua 
+ lua5.1-fzf-lua  0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua51Packages.fzf-lua 
  lua5.1-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua51Packages.fzy 
  lua5.1-gitsigns.nvim  2.1.0-1  Git integration for buffers  legacyPackages.x86_64-linux.lua51Packages.gitsigns-nvim 
  lua5.1-grug-far.nvim  1.6.72-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua51Packages.grug-far-nvim 
@@ -34852,7 +34854,7 @@
  lua5.1-image.nvim  1.5.1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.lua51Packages.image-nvim 
  lua5.1-inspect  3.1.3-0  Lua table visualizer, ideal for debugging  legacyPackages.x86_64-linux.lua51Packages.inspect 
  lua5.1-jsregexp  0.0.7-2  javascript (ECMA19) regular expressions for lua  legacyPackages.x86_64-linux.lua51Packages.jsregexp 
- lua5.1-kulala.nvim  6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua51Packages.kulala-nvim 
+ lua5.1-kulala.nvim  6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua51Packages.kulala-nvim 
  lua5.1-ldbus-scm  0  A Lua library to access dbus.  legacyPackages.x86_64-linux.lua51Packages.ldbus 
  lua5.1-ldoc  1.5.0-1  A Lua Documentation Tool  legacyPackages.x86_64-linux.lua51Packages.ldoc 
  lua5.1-lgi  0.9.2-1  Lua bindings to GObject libraries  legacyPackages.x86_64-linux.lua51Packages.lgi 
@@ -34889,7 +34891,7 @@
  lua5.1-lua-protobuf  0.5.3-1  protobuf data support for Lua  legacyPackages.x86_64-linux.lua51Packages.lua-protobuf 
  lua5.1-lua-resty-core  0.1.32  New FFI-based API for lua-nginx-module  legacyPackages.x86_64-linux.lua51Packages.lua-resty-core 
  lua5.1-lua-resty-core  0.1.32  New FFI-based API for lua-nginx-module  legacyPackages.x86_64-linux.luajitPackages.lua-resty-core 
- lua5.1-lua-resty-http  0.17.2-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua51Packages.lua-resty-http 
+ lua5.1-lua-resty-http  0.18.0-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua51Packages.lua-resty-http 
  lua5.1-lua-resty-jwt  0.3.2-1  JWT for ngx_lua and LuaJIT.  legacyPackages.x86_64-linux.lua51Packages.lua-resty-jwt 
  lua5.1-lua-resty-lrucache  0.15  Lua-land LRU Cache based on LuaJIT FFI  legacyPackages.x86_64-linux.lua51Packages.lua-resty-lrucache 
  lua5.1-lua-resty-lrucache  0.15  Lua-land LRU Cache based on LuaJIT FFI  legacyPackages.x86_64-linux.luajitPackages.lua-resty-lrucache 
@@ -34964,7 +34966,7 @@
  lua5.1-neorg  9.6.4-1  Modernity meets insane extensibility. The future of organizing your life in Neovim.  legacyPackages.x86_64-linux.lua51Packages.neorg 
  lua5.1-neorg-interim-ls  2.1.4-1  Temporarily providing a limited set of LSP features to neorg  legacyPackages.x86_64-linux.lua51Packages.neorg-interim-ls 
  lua5.1-neotest  5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.lua51Packages.neotest 
- lua5.1-neotest-nix  2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.lua51Packages.neotest-nix 
+ lua5.1-neotest-nix  2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.lua51Packages.neotest-nix 
  lua5.1-nfd-scm  1  Tiny, neat Lua library that invokes native file open and save dialogs  legacyPackages.x86_64-linux.lua51Packages.nfd 
  lua5.1-nginx-lua-prometheus  0.20240525-1  Prometheus metric library for Nginx  legacyPackages.x86_64-linux.lua51Packages.nginx-lua-prometheus 
  lua5.1-nlua  0.3.1-1  Neovim as Lua interpreter  legacyPackages.x86_64-linux.lua51Packages.nlua 
@@ -35005,7 +35007,7 @@
  lua5.1-tomlua  1.2.3-1  Speedy toml parsing for lua, implemented in C  legacyPackages.x86_64-linux.lua51Packages.tomlua 
  lua5.1-tree-sitter-cli  0.26.8-1  Install tree-sitter CLI binaries  legacyPackages.x86_64-linux.lua51Packages.tree-sitter-cli 
  lua5.1-tree-sitter-http  0.0.33-1  tree-sitter parser for http  legacyPackages.x86_64-linux.lua51Packages.tree-sitter-http 
- lua5.1-tree-sitter-kulala_http  0.2.1-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua51Packages.tree-sitter-kulala_http 
+ lua5.1-tree-sitter-kulala_http  0.3.0-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua51Packages.tree-sitter-kulala_http 
  lua5.1-tree-sitter-norg  0.2.6-1  The official tree-sitter parser for Norg documents.  legacyPackages.x86_64-linux.lua51Packages.tree-sitter-norg 
  lua5.1-tree-sitter-norg-meta  0.1.0-1  Treesitter parser for Norg's `@document.meta` blocks.  legacyPackages.x86_64-linux.lua51Packages.tree-sitter-norg-meta 
  lua5.1-tree-sitter-orgmode  2.0.4-1  A fork of tree-sitter-org, for use with the orgmode Neovim plugin  legacyPackages.x86_64-linux.lua51Packages.tree-sitter-orgmode 
@@ -35071,8 +35073,8 @@
  lua5.2-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.luaPackages.fluent 
  lua5.2-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua52Packages.funnyfiles-nvim 
  lua5.2-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.luaPackages.funnyfiles-nvim 
- lua5.2-fzf-lua  0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua52Packages.fzf-lua 
- lua5.2-fzf-lua  0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luaPackages.fzf-lua 
+ lua5.2-fzf-lua  0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua52Packages.fzf-lua 
+ lua5.2-fzf-lua  0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luaPackages.fzf-lua 
  lua5.2-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua52Packages.fzy 
  lua5.2-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.luaPackages.fzy 
  lua5.2-gitsigns.nvim  2.1.0-1  Git integration for buffers  legacyPackages.x86_64-linux.lua52Packages.gitsigns-nvim 
@@ -35089,8 +35091,8 @@
  lua5.2-inspect  3.1.3-0  Lua table visualizer, ideal for debugging  legacyPackages.x86_64-linux.luaPackages.inspect 
  lua5.2-jsregexp  0.0.7-2  javascript (ECMA19) regular expressions for lua  legacyPackages.x86_64-linux.lua52Packages.jsregexp 
  lua5.2-jsregexp  0.0.7-2  javascript (ECMA19) regular expressions for lua  legacyPackages.x86_64-linux.luaPackages.jsregexp 
- lua5.2-kulala.nvim  6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua52Packages.kulala-nvim 
- lua5.2-kulala.nvim  6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.luaPackages.kulala-nvim 
+ lua5.2-kulala.nvim  6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua52Packages.kulala-nvim 
+ lua5.2-kulala.nvim  6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.luaPackages.kulala-nvim 
  lua5.2-ldbus-scm  0  A Lua library to access dbus.  legacyPackages.x86_64-linux.lua52Packages.ldbus 
  lua5.2-ldbus-scm  0  A Lua library to access dbus.  legacyPackages.x86_64-linux.luaPackages.ldbus 
  lua5.2-ldoc  1.5.0-1  A Lua Documentation Tool  legacyPackages.x86_64-linux.lua52Packages.ldoc 
@@ -35157,8 +35159,8 @@
  lua5.2-lua-protobuf  0.5.3-1  protobuf data support for Lua  legacyPackages.x86_64-linux.luaPackages.lua-protobuf 
  lua5.2-lua-resty-core  0.1.32  New FFI-based API for lua-nginx-module  legacyPackages.x86_64-linux.lua52Packages.lua-resty-core 
  lua5.2-lua-resty-core  0.1.32  New FFI-based API for lua-nginx-module  legacyPackages.x86_64-linux.luaPackages.lua-resty-core 
- lua5.2-lua-resty-http  0.17.2-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua52Packages.lua-resty-http 
- lua5.2-lua-resty-http  0.17.2-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.luaPackages.lua-resty-http 
+ lua5.2-lua-resty-http  0.18.0-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua52Packages.lua-resty-http 
+ lua5.2-lua-resty-http  0.18.0-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.luaPackages.lua-resty-http 
  lua5.2-lua-resty-jwt  0.3.2-1  JWT for ngx_lua and LuaJIT.  legacyPackages.x86_64-linux.lua52Packages.lua-resty-jwt 
  lua5.2-lua-resty-jwt  0.3.2-1  JWT for ngx_lua and LuaJIT.  legacyPackages.x86_64-linux.luaPackages.lua-resty-jwt 
  lua5.2-lua-resty-lrucache  0.15  Lua-land LRU Cache based on LuaJIT FFI  legacyPackages.x86_64-linux.lua52Packages.lua-resty-lrucache 
@@ -35304,8 +35306,8 @@
  lua5.2-neorg-interim-ls  2.1.4-1  Temporarily providing a limited set of LSP features to neorg  legacyPackages.x86_64-linux.luaPackages.neorg-interim-ls 
  lua5.2-neotest  5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.lua52Packages.neotest 
  lua5.2-neotest  5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.luaPackages.neotest 
- lua5.2-neotest-nix  2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.lua52Packages.neotest-nix 
- lua5.2-neotest-nix  2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.luaPackages.neotest-nix 
+ lua5.2-neotest-nix  2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.lua52Packages.neotest-nix 
+ lua5.2-neotest-nix  2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.luaPackages.neotest-nix 
  lua5.2-nfd-scm  1  Tiny, neat Lua library that invokes native file open and save dialogs  legacyPackages.x86_64-linux.lua52Packages.nfd 
  lua5.2-nfd-scm  1  Tiny, neat Lua library that invokes native file open and save dialogs  legacyPackages.x86_64-linux.luaPackages.nfd 
  lua5.2-nginx-lua-prometheus  0.20240525-1  Prometheus metric library for Nginx  legacyPackages.x86_64-linux.lua52Packages.nginx-lua-prometheus 
@@ -35386,8 +35388,8 @@
  lua5.2-tree-sitter-cli  0.26.8-1  Install tree-sitter CLI binaries  legacyPackages.x86_64-linux.luaPackages.tree-sitter-cli 
  lua5.2-tree-sitter-http  0.0.33-1  tree-sitter parser for http  legacyPackages.x86_64-linux.lua52Packages.tree-sitter-http 
  lua5.2-tree-sitter-http  0.0.33-1  tree-sitter parser for http  legacyPackages.x86_64-linux.luaPackages.tree-sitter-http 
- lua5.2-tree-sitter-kulala_http  0.2.1-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua52Packages.tree-sitter-kulala_http 
- lua5.2-tree-sitter-kulala_http  0.2.1-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.luaPackages.tree-sitter-kulala_http 
+ lua5.2-tree-sitter-kulala_http  0.3.0-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua52Packages.tree-sitter-kulala_http 
+ lua5.2-tree-sitter-kulala_http  0.3.0-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.luaPackages.tree-sitter-kulala_http 
  lua5.2-tree-sitter-norg  0.2.6-1  The official tree-sitter parser for Norg documents.  legacyPackages.x86_64-linux.lua52Packages.tree-sitter-norg 
  lua5.2-tree-sitter-norg  0.2.6-1  The official tree-sitter parser for Norg documents.  legacyPackages.x86_64-linux.luaPackages.tree-sitter-norg 
  lua5.2-tree-sitter-norg-meta  0.1.0-1  Treesitter parser for Norg's `@document.meta` blocks.  legacyPackages.x86_64-linux.lua52Packages.tree-sitter-norg-meta 
@@ -35434,7 +35436,7 @@
  lua5.3-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.lua53Packages.fifo 
  lua5.3-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.lua53Packages.fluent 
  lua5.3-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua53Packages.funnyfiles-nvim 
- lua5.3-fzf-lua  0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua53Packages.fzf-lua 
+ lua5.3-fzf-lua  0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua53Packages.fzf-lua 
  lua5.3-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua53Packages.fzy 
  lua5.3-gitsigns.nvim  2.1.0-1  Git integration for buffers  legacyPackages.x86_64-linux.lua53Packages.gitsigns-nvim 
  lua5.3-grug-far.nvim  1.6.72-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua53Packages.grug-far-nvim 
@@ -35443,7 +35445,7 @@
  lua5.3-image.nvim  1.5.1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.lua53Packages.image-nvim 
  lua5.3-inspect  3.1.3-0  Lua table visualizer, ideal for debugging  legacyPackages.x86_64-linux.lua53Packages.inspect 
  lua5.3-jsregexp  0.0.7-2  javascript (ECMA19) regular expressions for lua  legacyPackages.x86_64-linux.lua53Packages.jsregexp 
- lua5.3-kulala.nvim  6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua53Packages.kulala-nvim 
+ lua5.3-kulala.nvim  6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua53Packages.kulala-nvim 
  lua5.3-ldbus-scm  0  A Lua library to access dbus.  legacyPackages.x86_64-linux.lua53Packages.ldbus 
  lua5.3-ldoc  1.5.0-1  A Lua Documentation Tool  legacyPackages.x86_64-linux.lua53Packages.ldoc 
  lua5.3-lgi  0.9.2-1  Lua bindings to GObject libraries  legacyPackages.x86_64-linux.lua53Packages.lgi 
@@ -35477,7 +35479,7 @@
  lua5.3-lua-pam-unstable  2015-07-03  Lua module for PAM authentication  legacyPackages.x86_64-linux.lua53Packages.lua-pam 
  lua5.3-lua-protobuf  0.5.3-1  protobuf data support for Lua  legacyPackages.x86_64-linux.lua53Packages.lua-protobuf 
  lua5.3-lua-resty-core  0.1.32  New FFI-based API for lua-nginx-module  legacyPackages.x86_64-linux.lua53Packages.lua-resty-core 
- lua5.3-lua-resty-http  0.17.2-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua53Packages.lua-resty-http 
+ lua5.3-lua-resty-http  0.18.0-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua53Packages.lua-resty-http 
  lua5.3-lua-resty-jwt  0.3.2-1  JWT for ngx_lua and LuaJIT.  legacyPackages.x86_64-linux.lua53Packages.lua-resty-jwt 
  lua5.3-lua-resty-lrucache  0.15  Lua-land LRU Cache based on LuaJIT FFI  legacyPackages.x86_64-linux.lua53Packages.lua-resty-lrucache 
  lua5.3-lua-resty-openidc  1.9.0-1  A library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality  legacyPackages.x86_64-linux.lua53Packages.lua-resty-openidc 
@@ -35550,7 +35552,7 @@
  lua5.3-neorg  9.6.4-1  Modernity meets insane extensibility. The future of organizing your life in Neovim.  legacyPackages.x86_64-linux.lua53Packages.neorg 
  lua5.3-neorg-interim-ls  2.1.4-1  Temporarily providing a limited set of LSP features to neorg  legacyPackages.x86_64-linux.lua53Packages.neorg-interim-ls 
  lua5.3-neotest  5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.lua53Packages.neotest 
- lua5.3-neotest-nix  2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.lua53Packages.neotest-nix 
+ lua5.3-neotest-nix  2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.lua53Packages.neotest-nix 
  lua5.3-nfd-scm  1  Tiny, neat Lua library that invokes native file open and save dialogs  legacyPackages.x86_64-linux.lua53Packages.nfd 
  lua5.3-nginx-lua-prometheus  0.20240525-1  Prometheus metric library for Nginx  legacyPackages.x86_64-linux.lua53Packages.nginx-lua-prometheus 
  lua5.3-nlua  0.3.1-1  Neovim as Lua interpreter  legacyPackages.x86_64-linux.lua53Packages.nlua 
@@ -35591,7 +35593,7 @@
  lua5.3-tomlua  1.2.3-1  Speedy toml parsing for lua, implemented in C  legacyPackages.x86_64-linux.lua53Packages.tomlua 
  lua5.3-tree-sitter-cli  0.26.8-1  Install tree-sitter CLI binaries  legacyPackages.x86_64-linux.lua53Packages.tree-sitter-cli 
  lua5.3-tree-sitter-http  0.0.33-1  tree-sitter parser for http  legacyPackages.x86_64-linux.lua53Packages.tree-sitter-http 
- lua5.3-tree-sitter-kulala_http  0.2.1-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua53Packages.tree-sitter-kulala_http 
+ lua5.3-tree-sitter-kulala_http  0.3.0-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua53Packages.tree-sitter-kulala_http 
  lua5.3-tree-sitter-norg  0.2.6-1  The official tree-sitter parser for Norg documents.  legacyPackages.x86_64-linux.lua53Packages.tree-sitter-norg 
  lua5.3-tree-sitter-norg-meta  0.1.0-1  Treesitter parser for Norg's `@document.meta` blocks.  legacyPackages.x86_64-linux.lua53Packages.tree-sitter-norg-meta 
  lua5.3-tree-sitter-orgmode  2.0.4-1  A fork of tree-sitter-org, for use with the orgmode Neovim plugin  legacyPackages.x86_64-linux.lua53Packages.tree-sitter-orgmode 
@@ -35629,7 +35631,7 @@
  lua5.4-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.lua54Packages.fifo 
  lua5.4-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.lua54Packages.fluent 
  lua5.4-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua54Packages.funnyfiles-nvim 
- lua5.4-fzf-lua  0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua54Packages.fzf-lua 
+ lua5.4-fzf-lua  0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua54Packages.fzf-lua 
  lua5.4-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua54Packages.fzy 
  lua5.4-gitsigns.nvim  2.1.0-1  Git integration for buffers  legacyPackages.x86_64-linux.lua54Packages.gitsigns-nvim 
  lua5.4-grug-far.nvim  1.6.72-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua54Packages.grug-far-nvim 
@@ -35638,7 +35640,7 @@
  lua5.4-image.nvim  1.5.1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.lua54Packages.image-nvim 
  lua5.4-inspect  3.1.3-0  Lua table visualizer, ideal for debugging  legacyPackages.x86_64-linux.lua54Packages.inspect 
  lua5.4-jsregexp  0.0.7-2  javascript (ECMA19) regular expressions for lua  legacyPackages.x86_64-linux.lua54Packages.jsregexp 
- lua5.4-kulala.nvim  6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua54Packages.kulala-nvim 
+ lua5.4-kulala.nvim  6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua54Packages.kulala-nvim 
  lua5.4-ldbus-scm  0  A Lua library to access dbus.  legacyPackages.x86_64-linux.lua54Packages.ldbus 
  lua5.4-ldoc  1.5.0-1  A Lua Documentation Tool  legacyPackages.x86_64-linux.lua54Packages.ldoc 
  lua5.4-lgi  0.9.2-1  Lua bindings to GObject libraries  legacyPackages.x86_64-linux.lua54Packages.lgi 
@@ -35672,7 +35674,7 @@
  lua5.4-lua-pam-unstable  2015-07-03  Lua module for PAM authentication  legacyPackages.x86_64-linux.lua54Packages.lua-pam 
  lua5.4-lua-protobuf  0.5.3-1  protobuf data support for Lua  legacyPackages.x86_64-linux.lua54Packages.lua-protobuf 
  lua5.4-lua-resty-core  0.1.32  New FFI-based API for lua-nginx-module  legacyPackages.x86_64-linux.lua54Packages.lua-resty-core 
- lua5.4-lua-resty-http  0.17.2-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua54Packages.lua-resty-http 
+ lua5.4-lua-resty-http  0.18.0-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua54Packages.lua-resty-http 
  lua5.4-lua-resty-jwt  0.3.2-1  JWT for ngx_lua and LuaJIT.  legacyPackages.x86_64-linux.lua54Packages.lua-resty-jwt 
  lua5.4-lua-resty-lrucache  0.15  Lua-land LRU Cache based on LuaJIT FFI  legacyPackages.x86_64-linux.lua54Packages.lua-resty-lrucache 
  lua5.4-lua-resty-openidc  1.9.0-1  A library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality  legacyPackages.x86_64-linux.lua54Packages.lua-resty-openidc 
@@ -35745,7 +35747,7 @@
  lua5.4-neorg  9.6.4-1  Modernity meets insane extensibility. The future of organizing your life in Neovim.  legacyPackages.x86_64-linux.lua54Packages.neorg 
  lua5.4-neorg-interim-ls  2.1.4-1  Temporarily providing a limited set of LSP features to neorg  legacyPackages.x86_64-linux.lua54Packages.neorg-interim-ls 
  lua5.4-neotest  5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.lua54Packages.neotest 
- lua5.4-neotest-nix  2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.lua54Packages.neotest-nix 
+ lua5.4-neotest-nix  2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.lua54Packages.neotest-nix 
  lua5.4-nfd-scm  1  Tiny, neat Lua library that invokes native file open and save dialogs  legacyPackages.x86_64-linux.lua54Packages.nfd 
  lua5.4-nginx-lua-prometheus  0.20240525-1  Prometheus metric library for Nginx  legacyPackages.x86_64-linux.lua54Packages.nginx-lua-prometheus 
  lua5.4-nlua  0.3.1-1  Neovim as Lua interpreter  legacyPackages.x86_64-linux.lua54Packages.nlua 
@@ -35786,7 +35788,7 @@
  lua5.4-tomlua  1.2.3-1  Speedy toml parsing for lua, implemented in C  legacyPackages.x86_64-linux.lua54Packages.tomlua 
  lua5.4-tree-sitter-cli  0.26.8-1  Install tree-sitter CLI binaries  legacyPackages.x86_64-linux.lua54Packages.tree-sitter-cli 
  lua5.4-tree-sitter-http  0.0.33-1  tree-sitter parser for http  legacyPackages.x86_64-linux.lua54Packages.tree-sitter-http 
- lua5.4-tree-sitter-kulala_http  0.2.1-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua54Packages.tree-sitter-kulala_http 
+ lua5.4-tree-sitter-kulala_http  0.3.0-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua54Packages.tree-sitter-kulala_http 
  lua5.4-tree-sitter-norg  0.2.6-1  The official tree-sitter parser for Norg documents.  legacyPackages.x86_64-linux.lua54Packages.tree-sitter-norg 
  lua5.4-tree-sitter-norg-meta  0.1.0-1  Treesitter parser for Norg's `@document.meta` blocks.  legacyPackages.x86_64-linux.lua54Packages.tree-sitter-norg-meta 
  lua5.4-tree-sitter-orgmode  2.0.4-1  A fork of tree-sitter-org, for use with the orgmode Neovim plugin  legacyPackages.x86_64-linux.lua54Packages.tree-sitter-orgmode 
@@ -35824,7 +35826,7 @@
  lua5.5-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.lua55Packages.fifo 
  lua5.5-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.lua55Packages.fluent 
  lua5.5-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.lua55Packages.funnyfiles-nvim 
- lua5.5-fzf-lua  0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua55Packages.fzf-lua 
+ lua5.5-fzf-lua  0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.lua55Packages.fzf-lua 
  lua5.5-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.lua55Packages.fzy 
  lua5.5-gitsigns.nvim  2.1.0-1  Git integration for buffers  legacyPackages.x86_64-linux.lua55Packages.gitsigns-nvim 
  lua5.5-grug-far.nvim  1.6.72-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.lua55Packages.grug-far-nvim 
@@ -35833,7 +35835,7 @@
  lua5.5-image.nvim  1.5.1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.lua55Packages.image-nvim 
  lua5.5-inspect  3.1.3-0  Lua table visualizer, ideal for debugging  legacyPackages.x86_64-linux.lua55Packages.inspect 
  lua5.5-jsregexp  0.0.7-2  javascript (ECMA19) regular expressions for lua  legacyPackages.x86_64-linux.lua55Packages.jsregexp 
- lua5.5-kulala.nvim  6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua55Packages.kulala-nvim 
+ lua5.5-kulala.nvim  6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.lua55Packages.kulala-nvim 
  lua5.5-ldbus-scm  0  A Lua library to access dbus.  legacyPackages.x86_64-linux.lua55Packages.ldbus 
  lua5.5-ldoc  1.5.0-1  A Lua Documentation Tool  legacyPackages.x86_64-linux.lua55Packages.ldoc 
  lua5.5-lgi  0.9.2-1  Lua bindings to GObject libraries  legacyPackages.x86_64-linux.lua55Packages.lgi 
@@ -35867,7 +35869,7 @@
  lua5.5-lua-pam-unstable  2015-07-03  Lua module for PAM authentication  legacyPackages.x86_64-linux.lua55Packages.lua-pam 
  lua5.5-lua-protobuf  0.5.3-1  protobuf data support for Lua  legacyPackages.x86_64-linux.lua55Packages.lua-protobuf 
  lua5.5-lua-resty-core  0.1.32  New FFI-based API for lua-nginx-module  legacyPackages.x86_64-linux.lua55Packages.lua-resty-core 
- lua5.5-lua-resty-http  0.17.2-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua55Packages.lua-resty-http 
+ lua5.5-lua-resty-http  0.18.0-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.lua55Packages.lua-resty-http 
  lua5.5-lua-resty-jwt  0.3.2-1  JWT for ngx_lua and LuaJIT.  legacyPackages.x86_64-linux.lua55Packages.lua-resty-jwt 
  lua5.5-lua-resty-lrucache  0.15  Lua-land LRU Cache based on LuaJIT FFI  legacyPackages.x86_64-linux.lua55Packages.lua-resty-lrucache 
  lua5.5-lua-resty-openidc  1.9.0-1  A library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality  legacyPackages.x86_64-linux.lua55Packages.lua-resty-openidc 
@@ -35940,7 +35942,7 @@
  lua5.5-neorg  9.6.4-1  Modernity meets insane extensibility. The future of organizing your life in Neovim.  legacyPackages.x86_64-linux.lua55Packages.neorg 
  lua5.5-neorg-interim-ls  2.1.4-1  Temporarily providing a limited set of LSP features to neorg  legacyPackages.x86_64-linux.lua55Packages.neorg-interim-ls 
  lua5.5-neotest  5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.lua55Packages.neotest 
- lua5.5-neotest-nix  2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.lua55Packages.neotest-nix 
+ lua5.5-neotest-nix  2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.lua55Packages.neotest-nix 
  lua5.5-nfd-scm  1  Tiny, neat Lua library that invokes native file open and save dialogs  legacyPackages.x86_64-linux.lua55Packages.nfd 
  lua5.5-nginx-lua-prometheus  0.20240525-1  Prometheus metric library for Nginx  legacyPackages.x86_64-linux.lua55Packages.nginx-lua-prometheus 
  lua5.5-nlua  0.3.1-1  Neovim as Lua interpreter  legacyPackages.x86_64-linux.lua55Packages.nlua 
@@ -35982,7 +35984,7 @@
  lua5.5-tomlua  1.2.3-1  Speedy toml parsing for lua, implemented in C  legacyPackages.x86_64-linux.lua55Packages.tomlua 
  lua5.5-tree-sitter-cli  0.26.8-1  Install tree-sitter CLI binaries  legacyPackages.x86_64-linux.lua55Packages.tree-sitter-cli 
  lua5.5-tree-sitter-http  0.0.33-1  tree-sitter parser for http  legacyPackages.x86_64-linux.lua55Packages.tree-sitter-http 
- lua5.5-tree-sitter-kulala_http  0.2.1-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua55Packages.tree-sitter-kulala_http 
+ lua5.5-tree-sitter-kulala_http  0.3.0-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.lua55Packages.tree-sitter-kulala_http 
  lua5.5-tree-sitter-norg  0.2.6-1  The official tree-sitter parser for Norg documents.  legacyPackages.x86_64-linux.lua55Packages.tree-sitter-norg 
  lua5.5-tree-sitter-norg-meta  0.1.0-1  Treesitter parser for Norg's `@document.meta` blocks.  legacyPackages.x86_64-linux.lua55Packages.tree-sitter-norg-meta 
  lua5.5-tree-sitter-orgmode  2.0.4-1  A fork of tree-sitter-org, for use with the orgmode Neovim plugin  legacyPackages.x86_64-linux.lua55Packages.tree-sitter-orgmode 
@@ -36046,7 +36048,7 @@
  luajit2.1-fifo  0.2-0  A lua library/'class' that implements a FIFO  legacyPackages.x86_64-linux.luajitPackages.fifo 
  luajit2.1-fluent  0.2.0-0  Lua implementation of Project Fluent  legacyPackages.x86_64-linux.luajitPackages.fluent 
  luajit2.1-funnyfiles.nvim  1.0.1-1  This plugin is a way of creating/deleting files/folders without needing to open a file explorer.  legacyPackages.x86_64-linux.luajitPackages.funnyfiles-nvim 
- luajit2.1-fzf-lua  0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luajitPackages.fzf-lua 
+ luajit2.1-fzf-lua  0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.luajitPackages.fzf-lua 
  luajit2.1-fzy  1.0.3-1  A lua implementation of the fzy fuzzy matching algorithm  legacyPackages.x86_64-linux.luajitPackages.fzy 
  luajit2.1-gitsigns.nvim  2.1.0-1  Git integration for buffers  legacyPackages.x86_64-linux.luajitPackages.gitsigns-nvim 
  luajit2.1-grug-far.nvim  1.6.72-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.luajitPackages.grug-far-nvim 
@@ -36055,7 +36057,7 @@
  luajit2.1-image.nvim  1.5.1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.luajitPackages.image-nvim 
  luajit2.1-inspect  3.1.3-0  Lua table visualizer, ideal for debugging  legacyPackages.x86_64-linux.luajitPackages.inspect 
  luajit2.1-jsregexp  0.0.7-2  javascript (ECMA19) regular expressions for lua  legacyPackages.x86_64-linux.luajitPackages.jsregexp 
- luajit2.1-kulala.nvim  6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.luajitPackages.kulala-nvim 
+ luajit2.1-kulala.nvim  6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.luajitPackages.kulala-nvim 
  luajit2.1-ldbus-scm  0  A Lua library to access dbus.  legacyPackages.x86_64-linux.luajitPackages.ldbus 
  luajit2.1-ldoc  1.5.0-1  A Lua Documentation Tool  legacyPackages.x86_64-linux.luajitPackages.ldoc 
  luajit2.1-lgi  0.9.2-1  Lua bindings to GObject libraries  legacyPackages.x86_64-linux.luajitPackages.lgi 
@@ -36086,7 +36088,7 @@
  luajit2.1-lua-lsp  0.1.0-2  A Language Server implementation for lua, the language  legacyPackages.x86_64-linux.luajitPackages.lua-lsp 
  luajit2.1-lua-messagepack  0.5.4-1  a pure Lua implementation of the MessagePack serialization format  legacyPackages.x86_64-linux.luajitPackages.lua-messagepack 
  luajit2.1-lua-protobuf  0.5.3-1  protobuf data support for Lua  legacyPackages.x86_64-linux.luajitPackages.lua-protobuf 
- luajit2.1-lua-resty-http  0.17.2-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.luajitPackages.lua-resty-http 
+ luajit2.1-lua-resty-http  0.18.0-0  Lua HTTP client cosocket driver for OpenResty / ngx_lua.  legacyPackages.x86_64-linux.luajitPackages.lua-resty-http 
  luajit2.1-lua-resty-jwt  0.3.2-1  JWT for ngx_lua and LuaJIT.  legacyPackages.x86_64-linux.luajitPackages.lua-resty-jwt 
  luajit2.1-lua-resty-openidc  1.9.0-1  A library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality  legacyPackages.x86_64-linux.luajitPackages.lua-resty-openidc 
  luajit2.1-lua-resty-openssl  1.8.0-1  No summary  legacyPackages.x86_64-linux.luajitPackages.lua-resty-openssl 
@@ -36157,7 +36159,7 @@
  luajit2.1-neorg  9.6.4-1  Modernity meets insane extensibility. The future of organizing your life in Neovim.  legacyPackages.x86_64-linux.luajitPackages.neorg 
  luajit2.1-neorg-interim-ls  2.1.4-1  Temporarily providing a limited set of LSP features to neorg  legacyPackages.x86_64-linux.luajitPackages.neorg-interim-ls 
  luajit2.1-neotest  5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.luajitPackages.neotest 
- luajit2.1-neotest-nix  2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.luajitPackages.neotest-nix 
+ luajit2.1-neotest-nix  2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.luajitPackages.neotest-nix 
  luajit2.1-nfd-scm  1  Tiny, neat Lua library that invokes native file open and save dialogs  legacyPackages.x86_64-linux.luajitPackages.nfd 
  luajit2.1-nginx-lua-prometheus  0.20240525-1  Prometheus metric library for Nginx  legacyPackages.x86_64-linux.luajitPackages.nginx-lua-prometheus 
  luajit2.1-nlua  0.3.1-1  Neovim as Lua interpreter  legacyPackages.x86_64-linux.luajitPackages.nlua 
@@ -36198,7 +36200,7 @@
  luajit2.1-tomlua  1.2.3-1  Speedy toml parsing for lua, implemented in C  legacyPackages.x86_64-linux.luajitPackages.tomlua 
  luajit2.1-tree-sitter-cli  0.26.8-1  Install tree-sitter CLI binaries  legacyPackages.x86_64-linux.luajitPackages.tree-sitter-cli 
  luajit2.1-tree-sitter-http  0.0.33-1  tree-sitter parser for http  legacyPackages.x86_64-linux.luajitPackages.tree-sitter-http 
- luajit2.1-tree-sitter-kulala_http  0.2.1-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.luajitPackages.tree-sitter-kulala_http 
+ luajit2.1-tree-sitter-kulala_http  0.3.0-1  Tree-sitter grammar for http (kulala-flavour).  legacyPackages.x86_64-linux.luajitPackages.tree-sitter-kulala_http 
  luajit2.1-tree-sitter-norg  0.2.6-1  The official tree-sitter parser for Norg documents.  legacyPackages.x86_64-linux.luajitPackages.tree-sitter-norg 
  luajit2.1-tree-sitter-norg-meta  0.1.0-1  Treesitter parser for Norg's `@document.meta` blocks.  legacyPackages.x86_64-linux.luajitPackages.tree-sitter-norg-meta 
  luajit2.1-tree-sitter-orgmode  2.0.4-1  A fork of tree-sitter-org, for use with the orgmode Neovim plugin  legacyPackages.x86_64-linux.luajitPackages.tree-sitter-orgmode 
@@ -38244,7 +38246,7 @@
  mle  1.8.1  Small, flexible, terminal-based text editor  legacyPackages.x86_64-linux.mle 
  mleftright  1.2  Variants of delimiters that act as maths open/close  legacyPackages.x86_64-linux.texlivePackages.mleftright 
  mlflow  3.14.0  Open source platform for the machine learning lifecycle  legacyPackages.x86_64-linux.mlflow-server 
- mlib  0.8.0  Library of generic and type safe containers in pure C language  legacyPackages.x86_64-linux.mlib 
+ mlib  0.8.2  Library of generic and type safe containers in pure C language  legacyPackages.x86_64-linux.mlib 
  mlir  18.1.8  Multi-Level IR Compiler Framework  legacyPackages.x86_64-linux.llvmPackages_18.mlir 
  mlir  19.1.7  Multi-Level IR Compiler Framework  legacyPackages.x86_64-linux.llvmPackages_19.mlir 
  mlir  20.1.8  Multi-Level IR Compiler Framework  legacyPackages.x86_64-linux.llvmPackages_20.mlir 
@@ -38758,7 +38760,7 @@
  moon-child-fe  1.0.5  Modern source port of the 1997 Windows 95 classic, Moon Child  legacyPackages.x86_64-linux.moon-child-fe 
  moon-phases  0.3.3  Command-line/WM bar tool to display the moon phase at a certain date  legacyPackages.x86_64-linux.moon-phases 
  moonfire-nvr  0.7.31  Moonfire NVR, a security camera network video recorder  legacyPackages.x86_64-linux.moonfire-nvr 
- moonlight  2026.5.2  Discord client modification, focused on enhancing user and developer experience  legacyPackages.x86_64-linux.moonlight 
+ moonlight  2026.7.0  Discord client modification, focused on enhancing user and developer experience  legacyPackages.x86_64-linux.moonlight 
  moonlight-embedded  2.7.0  Open source implementation of NVIDIA's GameStream  legacyPackages.x86_64-linux.moonlight-embedded 
  moonlight-qt  6.1.0  Play your PC games on almost any device  legacyPackages.x86_64-linux.moonlight-qt 
  moonpalace  0.12.0  API debugging tool provided by Moonshot AI  legacyPackages.x86_64-linux.moonpalace 
@@ -39324,7 +39326,7 @@
  multibbl  1.1  Multiple bibliographies  legacyPackages.x86_64-linux.texlivePackages.multibbl 
  multibib  1.4  Multiple bibliographies within one document  legacyPackages.x86_64-linux.texlivePackages.multibib 
  multibibliography  1.03  Multiple versions of a bibliography, with different sort orders  legacyPackages.x86_64-linux.texlivePackages.multibibliography 
- multica-cli  0.3.34  CLI for the Multica managed agents platform  legacyPackages.x86_64-linux.multica-cli 
+ multica-cli  0.3.43  CLI for the Multica managed agents platform  legacyPackages.x86_64-linux.multica-cli 
  multicap  15878  Format captions inside multicols  legacyPackages.x86_64-linux.texlivePackages.multicap 
  multicharge  0.5.0  Electronegativity equilibration model for atomic partial charges  legacyPackages.x86_64-linux.multicharge 
  multicolrule  1.3a  Decorative rules between columns  legacyPackages.x86_64-linux.texlivePackages.multicolrule 
@@ -40392,6 +40394,7 @@
  next-ref  0.1.0.2  A concurrency primitive for a slow consumer  legacyPackages.x86_64-linux.haskellPackages.next-ref 
  nextcloud  32.0.12  Sharing solution for files, calendars, contacts and more  legacyPackages.x86_64-linux.nextcloud32 
  nextcloud  33.0.6  Sharing solution for files, calendars, contacts and more  legacyPackages.x86_64-linux.nextcloud33 
+ nextcloud  34.0.1  Sharing solution for files, calendars, contacts and more  legacyPackages.x86_64-linux.nextcloud34 
  nextcloud-client  33.0.7  Desktop sync client for Nextcloud  legacyPackages.x86_64-linux.nextcloud-client 
  nextcloud-spreed-signaling  2.1.1  Dedicated signaling backend for nextcloud talk  legacyPackages.x86_64-linux.nextcloud-spreed-signaling 
  nextcloud-talk-desktop  2.1.1  Nextcloud Talk Desktop Client  legacyPackages.x86_64-linux.nextcloud-talk-desktop 
@@ -40705,7 +40708,6 @@
  nix-web  0.4.2  Web interface for the Nix store  legacyPackages.x86_64-linux.nix-web 
  nix-your-shell  1.4.10  `nix` and `nix-shell` wrapper for shells other than `bash`  legacyPackages.x86_64-linux.nix-your-shell 
  nix-zsh-completions  0.5.1-unstable-2025-12-12  ZSH completions for Nix, NixOS, and NixOps  legacyPackages.x86_64-linux.nix-zsh-completions 
- nixbang  0.1.2  Special shebang to run scripts in a nix-shell  legacyPackages.x86_64-linux.nixbang 
  nixbit  0.10.0  KDE Plasma application to update your NixOS system from a git repository  legacyPackages.x86_64-linux.nixbit 
  nixci  1.0.0  Define and build CI for Nix projects anywhere  legacyPackages.x86_64-linux.nixci 
  nixd  2.9.1  Feature-rich Nix language server interoperating with C++ nix  legacyPackages.x86_64-linux.nixd 
@@ -40741,7 +40743,7 @@
  nixos-icons  0-unstable-2025-06-28  Icons of the Nix logo, in Freedesktop Icon Directory Layout  legacyPackages.x86_64-linux.nixos-icons 
  nixos-init  0.1.0    legacyPackages.x86_64-linux.nixos-init 
  nixos-install    Install bootloader and NixOS  legacyPackages.x86_64-linux.nixos-install 
- nixos-install-tools  26.11pre1032759.770b9bbb8401  Essential commands from the NixOS installer as a package  legacyPackages.x86_64-linux.nixos-install-tools 
+ nixos-install-tools  26.11pre1032970.716c7a2664ca  Essential commands from the NixOS installer as a package  legacyPackages.x86_64-linux.nixos-install-tools 
  nixos-option    Evaluate NixOS configuration and return the properties of given option  legacyPackages.x86_64-linux.nixos-option 
  nixos-rebuild-ng  26.11  Rebuild your NixOS configuration and switch to it, on local hosts and remote  legacyPackages.x86_64-linux.lixPackageSets.git.nixos-rebuild-ng 
  nixos-rebuild-ng  26.11  Rebuild your NixOS configuration and switch to it, on local hosts and remote  legacyPackages.x86_64-linux.lixPackageSets.latest.nixos-rebuild-ng 
@@ -40907,7 +40909,7 @@
  nomad-driver-containerd  0.9.4  Containerd task driver for Nomad  legacyPackages.x86_64-linux.nomad-driver-containerd 
  nomad-driver-podman  0.6.4  Podman task driver for Nomad  legacyPackages.x86_64-linux.nomad-driver-podman 
  nomad-pack  0.4.2  Nomad Pack is a templating and packaging tool used with HashiCorp Nomad  legacyPackages.x86_64-linux.nomad-pack 
- nomadnet  1.2.6  Off-grid, resilient mesh communication  legacyPackages.x86_64-linux.nomadnet 
+ nomadnet  1.2.7  Off-grid, resilient mesh communication  legacyPackages.x86_64-linux.nomadnet 
  nombank.1.0  0-unstable-2024-07-29  NLTK Data  legacyPackages.x86_64-linux.nltk-data.nombank-1-0 
  nomencl  5.6  Produce lists of symbols as in nomenclature  legacyPackages.x86_64-linux.texlivePackages.nomencl 
  nomentbl  0.4  Nomenclature typeset in a longtable  legacyPackages.x86_64-linux.texlivePackages.nomentbl 
@@ -41800,6 +41802,7 @@
  obj-magic  0.5-unstable-2020-09-20  Command line tool for manipulating Wavefront OBJ 3D meshes  legacyPackages.x86_64-linux.obj-magic 
  obj2tiles  1.0.13  Converts OBJ files to OGC 3D tiles by performing splitting, decimation and conversion  legacyPackages.x86_64-linux.obj2tiles 
  objconv  2.54.1  Object and executable file converter, modifier and disassembler  legacyPackages.x86_64-linux.objconv 
+ objdiff  3.7.3  Local diffing tool for decompilation projects  legacyPackages.x86_64-linux.objdiff 
  objectid  0.1.0.2  Rather unique identifier for things that need to be stored  legacyPackages.x86_64-linux.haskellPackages.objectid 
  objection  1.12.4  Runtime mobile exploration toolkit, powered by Frida  legacyPackages.x86_64-linux.objection 
  objective  1.3  Composable objects  legacyPackages.x86_64-linux.haskellPackages.objective 
@@ -44692,7 +44695,7 @@
  ocean-sound-theme  6.7.2  Ocean Sound Theme for Plasma  legacyPackages.x86_64-linux.kdePackages.ocean-sound-theme 
  ocelot  0.5.2  Process supervisor and init system written in Rust Programming Language  legacyPackages.x86_64-linux.ocelot 
  ocelot-desktop  1.14.2  Advanced OpenComputers emulator  legacyPackages.x86_64-linux.ocelot-desktop 
- ocenaudio  3.19.5  Cross-platform, easy to use, fast and functional audio editor  legacyPackages.x86_64-linux.ocenaudio 
+ ocenaudio  3.20.0  Cross-platform, easy to use, fast and functional audio editor  legacyPackages.x86_64-linux.ocenaudio 
  ocf-resource-agents      legacyPackages.x86_64-linux.ocf-resource-agents 
  ocg-p  0.4  PDF OCG support in LaTeX  legacyPackages.x86_64-linux.texlivePackages.ocg-p 
  ocgx  0.5  Use OCGs within a PDF document without JavaScript  legacyPackages.x86_64-linux.texlivePackages.ocgx 
@@ -44700,7 +44703,7 @@
  ochan  0.1.0  Owned channels in the Ownership Monad  legacyPackages.x86_64-linux.haskellPackages.ochan 
  ocherokee  25689  LaTeX Support for the Cherokee language  legacyPackages.x86_64-linux.texlivePackages.ocherokee 
  ochintin-daicho  0.3.4.2  A module to manage payroll books for Japanese companies  legacyPackages.x86_64-linux.haskellPackages.ochintin-daicho 
- oci-cli  3.89.0  Command Line Interface for Oracle Cloud Infrastructure  legacyPackages.x86_64-linux.oci-cli 
+ oci-cli  3.89.1  Command Line Interface for Oracle Cloud Infrastructure  legacyPackages.x86_64-linux.oci-cli 
  oci-seccomp-bpf-hook  1.3.0  OCI hook to trace syscalls and generate a seccomp profile   legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.oci-seccomp-bpf-hook 
  oci-seccomp-bpf-hook  1.3.0  OCI hook to trace syscalls and generate a seccomp profile   legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.oci-seccomp-bpf-hook 
  oci-seccomp-bpf-hook  1.3.0  OCI hook to trace syscalls and generate a seccomp profile   legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.oci-seccomp-bpf-hook 
@@ -44925,7 +44928,7 @@
  oh-my-git  0.6.5  Interactive Git learning game  legacyPackages.x86_64-linux.oh-my-git 
  oh-my-posh  29.20.0  Prompt theme engine for any shell  legacyPackages.x86_64-linux.oh-my-posh 
  oh-my-zsh  2026-02-19  Framework for managing your zsh configuration  legacyPackages.x86_64-linux.oh-my-zsh 
- oha  1.14.0  HTTP load generator inspired by rakyll/hey with tui animation  legacyPackages.x86_64-linux.oha 
+ oha  1.15.0  HTTP load generator inspired by rakyll/hey with tui animation  legacyPackages.x86_64-linux.oha 
  ohhecs  0.0.2  An Entity-Component-Systems engine core  legacyPackages.x86_64-linux.haskellPackages.ohhecs 
  ohloh-hs  0.0.2  Interface to the Ohloh API  legacyPackages.x86_64-linux.haskellPackages.ohloh-hs 
  oi  0.4.0.2  Library for purely functional lazy interactions with the outer world  legacyPackages.x86_64-linux.haskellPackages.oi 
@@ -45415,7 +45418,7 @@
  openlilypond-font-scorlatti  1db87da  scorlatti font for LilyPond  legacyPackages.x86_64-linux.openlilylib-fonts.scorlatti 
  openlilypond-font-sebastiano  44bf262  sebastiano font for LilyPond  legacyPackages.x86_64-linux.openlilylib-fonts.sebastiano 
  openlinkhub  0.8.8  Open source interface for iCUE LINK Hub and other Corsair AIOs, Hubs for Linux  legacyPackages.x86_64-linux.openlinkhub 
- openlist  4.2.2  AList Fork to Anti Trust Crisis  legacyPackages.x86_64-linux.openlist 
+ openlist  4.2.3  AList Fork to Anti Trust Crisis  legacyPackages.x86_64-linux.openlist 
  openllm  0.6.30  Run any open-source LLMs, such as Llama 3.1, Gemma, as OpenAI compatible API endpoint in the cloud  legacyPackages.x86_64-linux.openllm 
  openloco  26.04  Open source re-implementation of Chris Sawyer's Locomotion  legacyPackages.x86_64-linux.openloco 
  openlogi  0.3.4  Local-first companion for Logitech HID++ peripherals  legacyPackages.x86_64-linux.openlogi 
@@ -51173,13 +51176,13 @@
  pg-dump-anon  2.4.1  Export databases with data being anonymized with the anonymizer extension  legacyPackages.x86_64-linux.pg-dump-anon 
  pg-entity  0.0.6.0  A pleasant PostgreSQL layer  legacyPackages.x86_64-linux.haskellPackages.pg-entity 
  pg-extras  0.0.1  PostgreSQL database performance insights  legacyPackages.x86_64-linux.haskellPackages.pg-extras 
- pg-gvm  22.6.17  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql14Packages.pg-gvm 
- pg-gvm  22.6.17  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql15Packages.pg-gvm 
- pg-gvm  22.6.17  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql16Packages.pg-gvm 
- pg-gvm  22.6.17  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql17Packages.pg-gvm 
- pg-gvm  22.6.17  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql18Packages.pg-gvm 
- pg-gvm  22.6.17  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql19Packages.pg-gvm 
- pg-gvm  22.6.17  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresqlPackages.pg-gvm 
+ pg-gvm  22.6.18  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql14Packages.pg-gvm 
+ pg-gvm  22.6.18  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql15Packages.pg-gvm 
+ pg-gvm  22.6.18  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql16Packages.pg-gvm 
+ pg-gvm  22.6.18  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql17Packages.pg-gvm 
+ pg-gvm  22.6.18  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql18Packages.pg-gvm 
+ pg-gvm  22.6.18  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresql19Packages.pg-gvm 
+ pg-gvm  22.6.18  Greenbone Library for helper functions in PostgreSQL  legacyPackages.x86_64-linux.postgresqlPackages.pg-gvm 
  pg-harness  0.2.1  REST service and library for creating/consuming temporary PostgreSQL databases  legacyPackages.x86_64-linux.haskellPackages.pg-harness 
  pg-harness-client  0.6.0  Client library for pg-harness-server  legacyPackages.x86_64-linux.haskellPackages.pg-harness-client 
  pg-harness-server  0.6.2  REST service for creating temporary PostgreSQL databases  legacyPackages.x86_64-linux.haskellPackages.pg-harness-server 
@@ -54832,14 +54835,14 @@
  python3.13-ai-edge-litert  2.1.5  LiteRT is for mobile and embedded devices  legacyPackages.x86_64-linux.python313Packages.ai-edge-litert 
  python3.13-aigpy  2022.7.8.1  Python library with miscellaneous tools  legacyPackages.x86_64-linux.python313Packages.aigpy 
  python3.13-ailment  9.2.158  Angr Intermediate Language  legacyPackages.x86_64-linux.python313Packages.ailment 
- python3.13-aio-geojson-client  0.21  Python module for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-client 
- python3.13-aio-geojson-generic-client  0.5  Python library for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-generic-client 
- python3.13-aio-geojson-geonetnz-quakes  0.17  Python module for accessing the GeoNet NZ Quakes GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-geonetnz-quakes 
- python3.13-aio-geojson-geonetnz-volcano  0.10  Python module for accessing the GeoNet NZ Volcanic GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-geonetnz-volcano 
- python3.13-aio-geojson-nsw-rfs-incidents  0.8  Python module for accessing the NSW Rural Fire Service incidents feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-nsw-rfs-incidents 
- python3.13-aio-geojson-usgs-earthquakes  0.4  Module for accessing the U.S. Geological Survey Earthquake Hazards Program feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-usgs-earthquakes 
- python3.13-aio-georss-client  0.14  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python313Packages.aio-georss-client 
- python3.13-aio-georss-gdacs  0.10  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python313Packages.aio-georss-gdacs 
+ python3.13-aio-geojson-client  2026.6.0  Python module for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-client 
+ python3.13-aio-geojson-generic-client  2026.6.0  Python library for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-generic-client 
+ python3.13-aio-geojson-geonetnz-quakes  2026.6.0  Python module for accessing the GeoNet NZ Quakes GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-geonetnz-quakes 
+ python3.13-aio-geojson-geonetnz-volcano  2026.6.0  Python module for accessing the GeoNet NZ Volcanic GeoJSON feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-geonetnz-volcano 
+ python3.13-aio-geojson-nsw-rfs-incidents  2026.6.0  Python module for accessing the NSW Rural Fire Service incidents feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-nsw-rfs-incidents 
+ python3.13-aio-geojson-usgs-earthquakes  2026.6.0  Module for accessing the U.S. Geological Survey Earthquake Hazards Program feeds  legacyPackages.x86_64-linux.python313Packages.aio-geojson-usgs-earthquakes 
+ python3.13-aio-georss-client  2026.6.0  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python313Packages.aio-georss-client 
+ python3.13-aio-georss-gdacs  2026.6.0  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python313Packages.aio-georss-gdacs 
  python3.13-aio-ownet  0.0.5  Asynchronous OWFS (owserver network protocol) client library  legacyPackages.x86_64-linux.python313Packages.aio-ownet 
  python3.13-aio-pika  9.6.2  AMQP 0.9 client designed for asyncio and humans  legacyPackages.x86_64-linux.python313Packages.aio-pika 
  python3.13-aioacaia  0.1.18  Async implementation of pyacaia  legacyPackages.x86_64-linux.python313Packages.aioacaia 
@@ -57988,7 +57991,7 @@
  python3.13-gfal2-util  1.9.1  CLI for gfal2  legacyPackages.x86_64-linux.python313Packages.gfal2-util 
  python3.13-gflanguages  0.7.7  Python library for Google Fonts language metadata  legacyPackages.x86_64-linux.python313Packages.gflanguages 
  python3.13-gfsubsets  2025.11.04  Codepoint definitions for the Google Fonts subsetter  legacyPackages.x86_64-linux.python313Packages.gfsubsets 
- python3.13-gftools  0.9.995  Misc tools for working with the Google Fonts library  legacyPackages.x86_64-linux.python313Packages.gftools 
+ python3.13-gftools  0.9.996  Misc tools for working with the Google Fonts library  legacyPackages.x86_64-linux.python313Packages.gftools 
  python3.13-ggml-python  0.0.45  Python bindings for ggml  legacyPackages.x86_64-linux.python313Packages.ggml-python 
  python3.13-gguf  9775  Module for writing binary files in the GGUF format  legacyPackages.x86_64-linux.python313Packages.gguf 
  python3.13-ghapi  1.0.15  Python interface to GitHub's API  legacyPackages.x86_64-linux.python313Packages.ghapi 
@@ -60443,7 +60446,7 @@
  python3.13-noise  1.2.2  Native-code and shader implementations of Perlin noise  legacyPackages.x86_64-linux.python313Packages.noise 
  python3.13-noiseprotocol  0.3.1  Noise Protocol Framework  legacyPackages.x86_64-linux.python313Packages.noiseprotocol 
  python3.13-noisereduce  3.0.3  Noise reduction using spectral gating (speech, bioacoustics, audio, time-domain signals  legacyPackages.x86_64-linux.python313Packages.noisereduce 
- python3.13-nomadnet  1.2.6  Off-grid, resilient mesh communication  legacyPackages.x86_64-linux.python313Packages.nomadnet 
+ python3.13-nomadnet  1.2.7  Off-grid, resilient mesh communication  legacyPackages.x86_64-linux.python313Packages.nomadnet 
  python3.13-nominal  1.104.3  Automate Nominal workflows in Python  legacyPackages.x86_64-linux.python313Packages.nominal 
  python3.13-nominal-api  0.1073.0  Generated conjure client for the Nominal API  legacyPackages.x86_64-linux.python313Packages.nominal-api 
  python3.13-nominal-api-protos  0.1073.0  Generated protobuf client for the Nominal API  legacyPackages.x86_64-linux.python313Packages.nominal-api-protos 
@@ -61295,7 +61298,7 @@
  python3.13-ptpython  3.0.32  Advanced Python REPL  legacyPackages.x86_64-linux.python313Packages.ptpython 
  python3.13-ptyprocess  0.7.0  Run a subprocess in a pseudo terminal  legacyPackages.x86_64-linux.python313Packages.ptyprocess 
  python3.13-publicsuffix2  2.20191221  Get a public suffix for a domain name using the Public Suffix List  legacyPackages.x86_64-linux.python313Packages.publicsuffix2 
- python3.13-publicsuffixlist  1.0.2.20260703  Public Suffix List parser implementation  legacyPackages.x86_64-linux.python313Packages.publicsuffixlist 
+ python3.13-publicsuffixlist  1.0.2.20260710  Public Suffix List parser implementation  legacyPackages.x86_64-linux.python313Packages.publicsuffixlist 
  python3.13-pubnub  10.7.1  Python-based APIs for PubNub  legacyPackages.x86_64-linux.python313Packages.pubnub 
  python3.13-pubnubsub-handler  1.0.9  PubNub subscription between PubNub and Home Assistant  legacyPackages.x86_64-linux.python313Packages.pubnubsub-handler 
  python3.13-pudb  2025.1.5  Full-screen, console-based Python debugger  legacyPackages.x86_64-linux.python313Packages.pudb 
@@ -62269,7 +62272,7 @@
  python3.13-pysmhi  2.0.0  Retrieve open data from SMHI api  legacyPackages.x86_64-linux.python313Packages.pysmhi 
  python3.13-pysmi  2.0.2  SNMP MIB parser  legacyPackages.x86_64-linux.python313Packages.pysmi 
  python3.13-pysml  0.1.8  Python library for EDL21 smart meters using Smart Message Language (SML)  legacyPackages.x86_64-linux.python313Packages.pysml 
- python3.13-pysmlight  0.5.2  Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators  legacyPackages.x86_64-linux.python313Packages.pysmlight 
+ python3.13-pysmlight  0.5.3  Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators  legacyPackages.x86_64-linux.python313Packages.pysmlight 
  python3.13-pysmt  0.9.6  Python library for SMT formulae manipulation and solving  legacyPackages.x86_64-linux.python313Packages.pysmt 
  python3.13-pysnmp  7.1.27  Python SNMP library  legacyPackages.x86_64-linux.python313Packages.pysnmp 
  python3.13-pysnmp-pyasn1  1.1.3  Python ASN.1 encoder and decoder  legacyPackages.x86_64-linux.python313Packages.pysnmp-pyasn1 
@@ -62421,6 +62424,7 @@
  python3.13-pytest-markdown-docs  0.9.1  Run pytest on markdown code fence blocks  legacyPackages.x86_64-linux.python313Packages.pytest-markdown-docs 
  python3.13-pytest-md-report  0.8.0  Pytest plugin to make a test results report with Markdown table format  legacyPackages.x86_64-linux.python313Packages.pytest-md-report 
  python3.13-pytest-metadata  3.1.1  Plugin for accessing test session metadata  legacyPackages.x86_64-linux.python313Packages.pytest-metadata 
+ python3.13-pytest-mh  1.0.29  pytest plugin that allows you to run shell commands and scripts over SSH on remote Linux or Windows hosts  legacyPackages.x86_64-linux.python313Packages.pytest-mh 
  python3.13-pytest-mock  3.15.1  Thin wrapper around the mock package for easier use with pytest  legacyPackages.x86_64-linux.python313Packages.pytest-mock 
  python3.13-pytest-mockito  0.0.6.post1  Base fixtures for mockito  legacyPackages.x86_64-linux.python313Packages.pytest-mockito 
  python3.13-pytest-mockservers  0.6.0  Set of fixtures to test your requests to HTTP/UDP servers  legacyPackages.x86_64-linux.python313Packages.pytest-mockservers 
@@ -63470,7 +63474,7 @@
  python3.13-rmsd  1.6.5  Calculate root-mean-square deviation (RMSD) between two sets of cartesian coordinates  legacyPackages.x86_64-linux.python313Packages.rmsd 
  python3.13-rnc2rng  2.7.0  Compact to regular syntax conversion library for RELAX NG schemata  legacyPackages.x86_64-linux.python313Packages.rnc2rng 
  python3.13-rnginline  1.0.0  Python library and command-line tool for loading multi-file RELAX NG schemas from arbitary URLs, and flattening them into a single RELAX NG schema  legacyPackages.x86_64-linux.python313Packages.rnginline 
- python3.13-rns  1.3.7  Cryptography-based networking stack for wide-area networks  legacyPackages.x86_64-linux.python313Packages.rns 
+ python3.13-rns  1.3.8  Cryptography-based networking stack for wide-area networks  legacyPackages.x86_64-linux.python313Packages.rns 
  python3.13-roadlib  1.7.0  ROADtools common components library  legacyPackages.x86_64-linux.python313Packages.roadlib 
  python3.13-roadrecon  2.0.0  Azure AD recon  legacyPackages.x86_64-linux.python313Packages.roadrecon 
  python3.13-roadtools  0.0.2  Azure AD tooling framework  legacyPackages.x86_64-linux.python313Packages.roadtools 
@@ -64379,7 +64383,7 @@
  python3.13-swspotify  1.2.3  Library to get the currently playing song and artist from Spotify  legacyPackages.x86_64-linux.python313Packages.swspotify 
  python3.13-sybil  9.3.0  Automated testing for the examples in your documentation  legacyPackages.x86_64-linux.python313Packages.sybil 
  python3.13-symbex  2.0  Find the Python code for specified symbols  legacyPackages.x86_64-linux.python313Packages.symbex 
- python3.13-symbolic  13.7.0  Python library for dealing with symbol files and more  legacyPackages.x86_64-linux.python313Packages.symbolic 
+ python3.13-symbolic  13.9.0  Python library for dealing with symbol files and more  legacyPackages.x86_64-linux.python313Packages.symbolic 
  python3.13-symengine  0.14.1  Python library providing wrappers to SymEngine  legacyPackages.x86_64-linux.python313Packages.symengine 
  python3.13-symfc  1.7.1  Generate symmetrized force constants  legacyPackages.x86_64-linux.python313Packages.symfc 
  python3.13-sympy  1.14.0  Python library for symbolic mathematics  legacyPackages.x86_64-linux.python313Packages.sympy 
@@ -65995,14 +65999,14 @@
  python3.14-ai-examples  0.2.6  Add AI powered examples to help content  legacyPackages.x86_64-linux.azure-cli-extensions.ai-examples 
  python3.14-aigpy  2022.7.8.1  Python library with miscellaneous tools  legacyPackages.x86_64-linux.python314Packages.aigpy 
  python3.14-ailment  9.2.158  Angr Intermediate Language  legacyPackages.x86_64-linux.python314Packages.ailment 
- python3.14-aio-geojson-client  0.21  Python module for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-client 
- python3.14-aio-geojson-generic-client  0.5  Python library for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-generic-client 
- python3.14-aio-geojson-geonetnz-quakes  0.17  Python module for accessing the GeoNet NZ Quakes GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-geonetnz-quakes 
- python3.14-aio-geojson-geonetnz-volcano  0.10  Python module for accessing the GeoNet NZ Volcanic GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-geonetnz-volcano 
- python3.14-aio-geojson-nsw-rfs-incidents  0.8  Python module for accessing the NSW Rural Fire Service incidents feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-nsw-rfs-incidents 
- python3.14-aio-geojson-usgs-earthquakes  0.4  Module for accessing the U.S. Geological Survey Earthquake Hazards Program feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-usgs-earthquakes 
- python3.14-aio-georss-client  0.14  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python314Packages.aio-georss-client 
- python3.14-aio-georss-gdacs  0.10  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python314Packages.aio-georss-gdacs 
+ python3.14-aio-geojson-client  2026.6.0  Python module for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-client 
+ python3.14-aio-geojson-generic-client  2026.6.0  Python library for accessing GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-generic-client 
+ python3.14-aio-geojson-geonetnz-quakes  2026.6.0  Python module for accessing the GeoNet NZ Quakes GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-geonetnz-quakes 
+ python3.14-aio-geojson-geonetnz-volcano  2026.6.0  Python module for accessing the GeoNet NZ Volcanic GeoJSON feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-geonetnz-volcano 
+ python3.14-aio-geojson-nsw-rfs-incidents  2026.6.0  Python module for accessing the NSW Rural Fire Service incidents feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-nsw-rfs-incidents 
+ python3.14-aio-geojson-usgs-earthquakes  2026.6.0  Module for accessing the U.S. Geological Survey Earthquake Hazards Program feeds  legacyPackages.x86_64-linux.python314Packages.aio-geojson-usgs-earthquakes 
+ python3.14-aio-georss-client  2026.6.0  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python314Packages.aio-georss-client 
+ python3.14-aio-georss-gdacs  2026.6.0  Python library for accessing GeoRSS feeds  legacyPackages.x86_64-linux.python314Packages.aio-georss-gdacs 
  python3.14-aio-ownet  0.0.5  Asynchronous OWFS (owserver network protocol) client library  legacyPackages.x86_64-linux.python314Packages.aio-ownet 
  python3.14-aio-pika  9.6.2  AMQP 0.9 client designed for asyncio and humans  legacyPackages.x86_64-linux.python314Packages.aio-pika 
  python3.14-aioacaia  0.1.18  Async implementation of pyacaia  legacyPackages.x86_64-linux.python314Packages.aioacaia 
@@ -69240,7 +69244,7 @@
  python3.14-gdsfactory  9.45.0  Python library to generate GDS layouts  legacyPackages.x86_64-linux.python314Packages.gdsfactory 
  python3.14-gdstk  1.0.0  C++/Python library for creation and manipulation of GDSII and OASIS files  legacyPackages.x86_64-linux.python314Packages.gdstk 
  python3.14-ge25519  2.0.0  Python implementation of Ed25519 group elements and operations  legacyPackages.x86_64-linux.python314Packages.ge25519 
- python3.14-geappliances-smarthq  1.2.1  Home Assistant integration for GE Appliances SmartHQ connected devices  legacyPackages.x86_64-linux.home-assistant-custom-components.smarthq 
+ python3.14-geappliances-smarthq  1.2.2  Home Assistant integration for GE Appliances SmartHQ connected devices  legacyPackages.x86_64-linux.home-assistant-custom-components.smarthq 
  python3.14-gehomesdk  2026.5.4  Python SDK for GE smart appliances  legacyPackages.x86_64-linux.python314Packages.gehomesdk 
  python3.14-gekitchen  0.2.19  Python SDK for GE smart appliances  legacyPackages.x86_64-linux.python314Packages.gekitchen 
  python3.14-gekko  1.3.2  Module for machine learning and optimization  legacyPackages.x86_64-linux.python314Packages.gekko 
@@ -69303,7 +69307,7 @@
  python3.14-gfal2-util  1.9.1  CLI for gfal2  legacyPackages.x86_64-linux.python314Packages.gfal2-util 
  python3.14-gflanguages  0.7.7  Python library for Google Fonts language metadata  legacyPackages.x86_64-linux.python314Packages.gflanguages 
  python3.14-gfsubsets  2025.11.04  Codepoint definitions for the Google Fonts subsetter  legacyPackages.x86_64-linux.python314Packages.gfsubsets 
- python3.14-gftools  0.9.995  Misc tools for working with the Google Fonts library  legacyPackages.x86_64-linux.python314Packages.gftools 
+ python3.14-gftools  0.9.996  Misc tools for working with the Google Fonts library  legacyPackages.x86_64-linux.python314Packages.gftools 
  python3.14-ggml-python  0.0.45  Python bindings for ggml  legacyPackages.x86_64-linux.python314Packages.ggml-python 
  python3.14-gguf  9775  Module for writing binary files in the GGUF format  legacyPackages.x86_64-linux.python314Packages.gguf 
  python3.14-ghapi  1.0.15  Python interface to GitHub's API  legacyPackages.x86_64-linux.python314Packages.ghapi 
@@ -71899,7 +71903,7 @@
  python3.14-noise  1.2.2  Native-code and shader implementations of Perlin noise  legacyPackages.x86_64-linux.python314Packages.noise 
  python3.14-noiseprotocol  0.3.1  Noise Protocol Framework  legacyPackages.x86_64-linux.python314Packages.noiseprotocol 
  python3.14-noisereduce  3.0.3  Noise reduction using spectral gating (speech, bioacoustics, audio, time-domain signals  legacyPackages.x86_64-linux.python314Packages.noisereduce 
- python3.14-nomadnet  1.2.6  Off-grid, resilient mesh communication  legacyPackages.x86_64-linux.python314Packages.nomadnet 
+ python3.14-nomadnet  1.2.7  Off-grid, resilient mesh communication  legacyPackages.x86_64-linux.python314Packages.nomadnet 
  python3.14-nominal  1.104.3  Automate Nominal workflows in Python  legacyPackages.x86_64-linux.python314Packages.nominal 
  python3.14-nominal-api  0.1073.0  Generated conjure client for the Nominal API  legacyPackages.x86_64-linux.python314Packages.nominal-api 
  python3.14-nominal-api-protos  0.1073.0  Generated protobuf client for the Nominal API  legacyPackages.x86_64-linux.python314Packages.nominal-api-protos 
@@ -72796,7 +72800,7 @@
  python3.14-ptpython  3.0.32  Advanced Python REPL  legacyPackages.x86_64-linux.python314Packages.ptpython 
  python3.14-ptyprocess  0.7.0  Run a subprocess in a pseudo terminal  legacyPackages.x86_64-linux.python314Packages.ptyprocess 
  python3.14-publicsuffix2  2.20191221  Get a public suffix for a domain name using the Public Suffix List  legacyPackages.x86_64-linux.python314Packages.publicsuffix2 
- python3.14-publicsuffixlist  1.0.2.20260703  Public Suffix List parser implementation  legacyPackages.x86_64-linux.python314Packages.publicsuffixlist 
+ python3.14-publicsuffixlist  1.0.2.20260710  Public Suffix List parser implementation  legacyPackages.x86_64-linux.python314Packages.publicsuffixlist 
  python3.14-pubnub  10.7.1  Python-based APIs for PubNub  legacyPackages.x86_64-linux.python314Packages.pubnub 
  python3.14-pubnubsub-handler  1.0.9  PubNub subscription between PubNub and Home Assistant  legacyPackages.x86_64-linux.python314Packages.pubnubsub-handler 
  python3.14-pudb  2025.1.5  Full-screen, console-based Python debugger  legacyPackages.x86_64-linux.python314Packages.pudb 
@@ -73789,7 +73793,7 @@
  python3.14-pysmhi  2.0.0  Retrieve open data from SMHI api  legacyPackages.x86_64-linux.python314Packages.pysmhi 
  python3.14-pysmi  2.0.2  SNMP MIB parser  legacyPackages.x86_64-linux.python314Packages.pysmi 
  python3.14-pysml  0.1.8  Python library for EDL21 smart meters using Smart Message Language (SML)  legacyPackages.x86_64-linux.python314Packages.pysml 
- python3.14-pysmlight  0.5.2  Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators  legacyPackages.x86_64-linux.python314Packages.pysmlight 
+ python3.14-pysmlight  0.5.3  Library implementing API control of the SMLIGHT SLZB-06 LAN Coordinators  legacyPackages.x86_64-linux.python314Packages.pysmlight 
  python3.14-pysmt  0.9.6  Python library for SMT formulae manipulation and solving  legacyPackages.x86_64-linux.python314Packages.pysmt 
  python3.14-pysnmp  7.1.27  Python SNMP library  legacyPackages.x86_64-linux.python314Packages.pysnmp 
  python3.14-pysnmp-pyasn1  1.1.3  Python ASN.1 encoder and decoder  legacyPackages.x86_64-linux.python314Packages.pysnmp-pyasn1 
@@ -73941,6 +73945,7 @@
  python3.14-pytest-markdown-docs  0.9.1  Run pytest on markdown code fence blocks  legacyPackages.x86_64-linux.python314Packages.pytest-markdown-docs 
  python3.14-pytest-md-report  0.8.0  Pytest plugin to make a test results report with Markdown table format  legacyPackages.x86_64-linux.python314Packages.pytest-md-report 
  python3.14-pytest-metadata  3.1.1  Plugin for accessing test session metadata  legacyPackages.x86_64-linux.python314Packages.pytest-metadata 
+ python3.14-pytest-mh  1.0.29  pytest plugin that allows you to run shell commands and scripts over SSH on remote Linux or Windows hosts  legacyPackages.x86_64-linux.python314Packages.pytest-mh 
  python3.14-pytest-mock  3.15.1  Thin wrapper around the mock package for easier use with pytest  legacyPackages.x86_64-linux.python314Packages.pytest-mock 
  python3.14-pytest-mockito  0.0.6.post1  Base fixtures for mockito  legacyPackages.x86_64-linux.python314Packages.pytest-mockito 
  python3.14-pytest-mockservers  0.6.0  Set of fixtures to test your requests to HTTP/UDP servers  legacyPackages.x86_64-linux.python314Packages.pytest-mockservers 
@@ -75005,7 +75010,7 @@
  python3.14-rmsd  1.6.5  Calculate root-mean-square deviation (RMSD) between two sets of cartesian coordinates  legacyPackages.x86_64-linux.python314Packages.rmsd 
  python3.14-rnc2rng  2.7.0  Compact to regular syntax conversion library for RELAX NG schemata  legacyPackages.x86_64-linux.python314Packages.rnc2rng 
  python3.14-rnginline  1.0.0  Python library and command-line tool for loading multi-file RELAX NG schemas from arbitary URLs, and flattening them into a single RELAX NG schema  legacyPackages.x86_64-linux.python314Packages.rnginline 
- python3.14-rns  1.3.7  Cryptography-based networking stack for wide-area networks  legacyPackages.x86_64-linux.python314Packages.rns 
+ python3.14-rns  1.3.8  Cryptography-based networking stack for wide-area networks  legacyPackages.x86_64-linux.python314Packages.rns 
  python3.14-roadlib  1.7.0  ROADtools common components library  legacyPackages.x86_64-linux.python314Packages.roadlib 
  python3.14-roadrecon  2.0.0  Azure AD recon  legacyPackages.x86_64-linux.python314Packages.roadrecon 
  python3.14-roadtools  0.0.2  Azure AD tooling framework  legacyPackages.x86_64-linux.python314Packages.roadtools 
@@ -75542,7 +75547,7 @@
  python3.14-solax  3.2.4  Python wrapper for the Solax Inverter API  legacyPackages.x86_64-linux.python314Packages.solax 
  python3.14-solc-select  1.2.0  Manage and switch between Solidity compiler versions  legacyPackages.x86_64-linux.python314Packages.solc-select 
  python3.14-solders  0.27.1  Python toolkit for Solana  legacyPackages.x86_64-linux.python314Packages.solders 
- python3.14-solentlabs-cable_modem_monitor  3.14.0-beta.11  Home Assistant integration for monitoring cable modem signal quality  legacyPackages.x86_64-linux.home-assistant-custom-components.cable_modem_monitor 
+ python3.14-solentlabs-cable_modem_monitor  3.14.0-beta.13  Home Assistant integration for monitoring cable modem signal quality  legacyPackages.x86_64-linux.home-assistant-custom-components.cable_modem_monitor 
  python3.14-solidpython2  2.1.3  Python frontend for solid modelling that compiles to OpenSCAD  legacyPackages.x86_64-linux.python314Packages.solidpython2 
  python3.14-solo-python  0.1.1  Python tool and library for SoloKeys Solo 1  legacyPackages.x86_64-linux.python314Packages.solo-python 
  python3.14-somajo  2.4.3  Tokenizer and sentence splitter for German and English web texts  legacyPackages.x86_64-linux.python314Packages.somajo 
@@ -75958,7 +75963,7 @@
  python3.14-swspotify  1.2.3  Library to get the currently playing song and artist from Spotify  legacyPackages.x86_64-linux.python314Packages.swspotify 
  python3.14-sybil  9.3.0  Automated testing for the examples in your documentation  legacyPackages.x86_64-linux.python314Packages.sybil 
  python3.14-symbex  2.0  Find the Python code for specified symbols  legacyPackages.x86_64-linux.python314Packages.symbex 
- python3.14-symbolic  13.7.0  Python library for dealing with symbol files and more  legacyPackages.x86_64-linux.python314Packages.symbolic 
+ python3.14-symbolic  13.9.0  Python library for dealing with symbol files and more  legacyPackages.x86_64-linux.python314Packages.symbolic 
  python3.14-symengine  0.14.1  Python library providing wrappers to SymEngine  legacyPackages.x86_64-linux.python314Packages.symengine 
  python3.14-symfc  1.7.1  Generate symmetrized force constants  legacyPackages.x86_64-linux.python314Packages.symfc 
  python3.14-sympy  1.14.0  Python library for symbolic mathematics  legacyPackages.x86_64-linux.python314Packages.sympy 
@@ -79679,7 +79684,7 @@
  rnote  0.14.2  Simple drawing application to create handwritten notes  legacyPackages.x86_64-linux.rnote 
  rnp  0.18.1  High performance C++ OpenPGP library, fully compliant to RFC 4880  legacyPackages.x86_64-linux.rnp 
  rnr  0.5.1  Command-line tool to batch rename files and directories  legacyPackages.x86_64-linux.rnr 
- rns  1.3.7  Cryptography-based networking stack for wide-area networks  legacyPackages.x86_64-linux.rns 
+ rns  1.3.8  Cryptography-based networking stack for wide-area networks  legacyPackages.x86_64-linux.rns 
  rns-proxy  0.1.0  SOCKS5 tunnels over the Reticulum Network Stack  legacyPackages.x86_64-linux.rns-proxy 
  rnsapi  0-unstable-2026-07-06  REST + WebSocket API daemon that exposes the full Reticulum Network Stack (RNS) service over HTTP(S) and WS(S)  legacyPackages.x86_64-linux.rnsapi 
  rnv  1.7.11  Relax NG Compact Syntax validator  legacyPackages.x86_64-linux.rnv 
@@ -82164,7 +82169,7 @@
  rum  1.3.15  Full text search index method for PostgreSQL  legacyPackages.x86_64-linux.postgresql18Packages.rum 
  rum  1.3.15  Full text search index method for PostgreSQL  legacyPackages.x86_64-linux.postgresql19Packages.rum 
  rum  1.3.15  Full text search index method for PostgreSQL  legacyPackages.x86_64-linux.postgresqlPackages.rum 
- rumdl  0.2.27  Markdown linter and formatter  legacyPackages.x86_64-linux.rumdl 
+ rumdl  0.2.30  Markdown linter and formatter  legacyPackages.x86_64-linux.rumdl 
  rumno  0.1.3  Visual pop-up notification manager  legacyPackages.x86_64-linux.rumno 
  rumqttd  0.20.0  High performance MQTT broker  legacyPackages.x86_64-linux.rumqttd 
  run  0.11.2  Easily manage and invoke small scripts and wrappers  legacyPackages.x86_64-linux.run 
@@ -87631,8 +87636,8 @@
  scip  0.9.0  SCIP Code Intelligence Protocol CLI  legacyPackages.x86_64-linux.scip 
  scip-go  0.2.7  SCIP (SCIP Code Intelligence Protocol) indexer for Golang  legacyPackages.x86_64-linux.scip-go 
  scipopt-gcg  4.0.1  Branch-and-Price & Column Generation for Everyone  legacyPackages.x86_64-linux.scipopt-gcg 
- scipopt-papilo  3.0.0  Parallel Presolve for Integer and Linear Optimization  legacyPackages.x86_64-linux.scipopt-papilo 
- scipopt-scip  10.0.2  Solving Constraint Integer Programs  legacyPackages.x86_64-linux.scipopt-scip 
+ scipopt-papilo  3.0.1  Parallel Presolve for Integer and Linear Optimization  legacyPackages.x86_64-linux.scipopt-papilo 
+ scipopt-scip  10.0.3  Solving Constraint Integer Programs  legacyPackages.x86_64-linux.scipopt-scip 
  scipopt-soplex  8.0.2  Sequential object-oriented simPlex  legacyPackages.x86_64-linux.scipopt-soplex 
  scipopt-ug  1.0.1  Ubiquity Generator framework to parallelize branch-and-bound based solvers  legacyPackages.x86_64-linux.scipopt-ug 
  scipopt-zimpl  3.7.0  Zuse Institute Mathematical Programming Language  legacyPackages.x86_64-linux.scipopt-zimpl 
@@ -88421,7 +88426,7 @@
  shairplay-unstable  2018-08-24  Apple AirPlay and RAOP protocol server  legacyPackages.x86_64-linux.shairplay 
  shairport-sync  5.1  Airtunes server and emulator with multi-room capabilities  legacyPackages.x86_64-linux.shairport-sync 
  shairport-sync  5.1  Airtunes server and emulator with multi-room capabilities  legacyPackages.x86_64-linux.shairport-sync-airplay2 
- shaka-packager  3.7.2  Media packaging framework for VOD and Live DASH and HLS applications  legacyPackages.x86_64-linux.shaka-packager 
+ shaka-packager  3.8.0  Media packaging framework for VOD and Live DASH and HLS applications  legacyPackages.x86_64-linux.shaka-packager 
  shake  0.19.9  Build system library, like Make, but more accurate dependencies  legacyPackages.x86_64-linux.haskellPackages.shake 
  shake  0.19.9  Build system library, like Make, but more accurate dependencies  legacyPackages.x86_64-linux.shake 
  shake-ats  1.10.4.2  Utilities for building ATS projects with shake  legacyPackages.x86_64-linux.haskellPackages.shake-ats 
@@ -88937,6 +88942,7 @@
  simplenes  0-unstable-2025-01-05  NES emulator written in C++  legacyPackages.x86_64-linux.simplenes 
  simplenodes  62888  Simple nodes in four colors written in TikZ for LaTeX  legacyPackages.x86_64-linux.texlivePackages.simplenodes 
  simplenote  1.0  Haskell interface for the simplenote API  legacyPackages.x86_64-linux.haskellPackages.simplenote 
+ simplenote  2.27.1  The simplest way to keep notes  legacyPackages.x86_64-linux.simplenote 
  simpleoptics  1.1.1  Drawing lenses and mirrors for optical diagrams  legacyPackages.x86_64-linux.texlivePackages.simpleoptics 
  simpleprelude  1.0.1.3  A simplified Haskell prelude for teaching  legacyPackages.x86_64-linux.haskellPackages.simpleprelude 
  simpleproxy  3.5  Simple TCP proxy  legacyPackages.x86_64-linux.simpleproxy 
@@ -90527,7 +90533,7 @@
  statistics-linreg  0.3  Linear regression between two samples, based on the 'statistics' package  legacyPackages.x86_64-linux.haskellPackages.statistics-linreg 
  statistics-skinny  0.15.2.0  A library of statistical types, data, and functions  legacyPackages.x86_64-linux.haskellPackages.statistics-skinny 
  statistik  0.03  Store statistics of a document  legacyPackages.x86_64-linux.texlivePackages.statistik 
- statix  0.5.8-unstable-2026-06-28  Lints and suggestions for the nix programming language  legacyPackages.x86_64-linux.statix 
+ statix  0.5.8-unstable-2026-07-10  Lints and suggestions for the nix programming language  legacyPackages.x86_64-linux.statix 
  statmath  0.1  A LaTeX package for simple use of statistical notation  legacyPackages.x86_64-linux.texlivePackages.statmath 
  statping-ng  0.93.0  Status Page for monitoring your websites and applications with beautiful graphs, analytics, and plugins  legacyPackages.x86_64-linux.statping-ng 
  stats  0.1.1  command line statistics  legacyPackages.x86_64-linux.haskellPackages.stats 
@@ -91328,10 +91334,10 @@
  sub-batch  1.0.1  Match and rename subtitle files to video files and perform other batch operations on subtitle files  legacyPackages.x86_64-linux.sub-batch 
  sub-state  0.0.0.1  Get the total, put a single element  legacyPackages.x86_64-linux.haskellPackages.sub-state 
  sub-store  2.22.26  Advanced Subscription Manager for QX, Loon, Surge, Stash, Egern and Shadowrocket  legacyPackages.x86_64-linux.sub-store 
- sub-store-frontend  2.27.3  Sub-Store Progressive Web App  legacyPackages.x86_64-linux.sub-store-frontend 
+ sub-store-frontend  2.28.6  Sub-Store Progressive Web App  legacyPackages.x86_64-linux.sub-store-frontend 
  subG  0.6.1.0  Some extension to the Foldable and Monoid classes  legacyPackages.x86_64-linux.haskellPackages.subG 
  subG-instances  0.1.0.0  Additional instances for the InsertLeft class from subG package  legacyPackages.x86_64-linux.haskellPackages.subG-instances 
- subcat  1.6.0-unstable-2026-06-28  Subdomain discovery tool  legacyPackages.x86_64-linux.subcat 
+ subcat  1.6.0  Subdomain discovery tool  legacyPackages.x86_64-linux.subcat 
  subcategories  0.2.1.2  Subcategories induced by class constraints  legacyPackages.x86_64-linux.haskellPackages.subcategories 
  subdepth  0.1  Unify maths subscript height  legacyPackages.x86_64-linux.texlivePackages.subdepth 
  subdl  0-unstable-2017-11-06  Command-line tool to download subtitles from opensubtitles.org  legacyPackages.x86_64-linux.subdl 
@@ -91459,7 +91465,7 @@
  sunxi-tools  0-unstable-2025-03-29  Tools for Allwinner SoC devices  legacyPackages.x86_64-linux.sunxi-tools 
  supabase-cli  2.109.0  CLI for interacting with supabase  legacyPackages.x86_64-linux.supabase-cli 
  super  0.3.0  Analytics database that puts JSON and relational tables on equal footing  legacyPackages.x86_64-linux.super 
- super-productivity  18.12.1  To Do List / Time Tracker with Jira Integration  legacyPackages.x86_64-linux.super-productivity 
+ super-productivity  18.13.1  To Do List / Time Tracker with Jira Integration  legacyPackages.x86_64-linux.super-productivity 
  super-slicer  2.5.59.13  PrusaSlicer fork with more features and faster development cycle  legacyPackages.x86_64-linux.super-slicer 
  super-slicer  2.5.59.13  PrusaSlicer fork with more features and faster development cycle  legacyPackages.x86_64-linux.super-slicer-latest 
  super-slicer  2.7.61.6  PrusaSlicer fork with more features and faster development cycle  legacyPackages.x86_64-linux.super-slicer-beta 
@@ -92312,7 +92318,7 @@
  taler-sync  1.3.0  Backup and synchronization service  legacyPackages.x86_64-linux.taler-sync 
  taler-twister  1.0.0  Fault injector for HTTP traffic  legacyPackages.x86_64-linux.taler-twister 
  taler-wallet-core  1.5.10  CLI wallet for GNU Taler written in TypeScript and Anastasis Web UI  legacyPackages.x86_64-linux.taler-wallet-core 
- talhelper  3.1.12  Help creating Talos kubernetes cluster  legacyPackages.x86_64-linux.talhelper 
+ talhelper  3.1.13  Help creating Talos kubernetes cluster  legacyPackages.x86_64-linux.talhelper 
  tali  40.9  Sort of poker with dice and less money  legacyPackages.x86_64-linux.tali 
  talk  2.0  A LaTeX class for presentations  legacyPackages.x86_64-linux.texlivePackages.talk 
  talkfilters  2.3.8  Converts English text into text that mimics a stereotyped or humorous dialect  legacyPackages.x86_64-linux.talkfilters 
@@ -92495,7 +92501,7 @@
  tbe  0.9.3.1  Physics-based game vaguely similar to Incredible Machine  legacyPackages.x86_64-linux.tbe 
  tblite  0.6.0  Light-weight tight-binding framework  legacyPackages.x86_64-linux.tblite 
  tblr-extras  1.3  Extra libraries for tabularray for caption and babel compatibility  legacyPackages.x86_64-linux.texlivePackages.tblr-extras 
- tbls  1.94.5  Tool to generate documentation based on a database structure  legacyPackages.x86_64-linux.tbls 
+ tbls  1.95.0  Tool to generate documentation based on a database structure  legacyPackages.x86_64-linux.tbls 
  tboot  1.11.9  Pre-kernel/VMM module that uses Intel(R) TXT to perform a measured and verified launch of an OS kernel/VMM  legacyPackages.x86_64-linux.tboot 
  tbox  0.1.0  Transactional variables and data structures with IO hooks  legacyPackages.x86_64-linux.haskellPackages.tbox 
  tbox  1.8.1  Glib-like multi-platform c library  legacyPackages.x86_64-linux.tbox 
@@ -92731,7 +92737,7 @@
  tempodb  0.2.2.5  A small Haskell wrapper around the TempoDB api  legacyPackages.x86_64-linux.haskellPackages.tempodb 
  tempora  1.05  Greek and Cyrillic to accompany Times  legacyPackages.x86_64-linux.texlivePackages.tempora 
  tempora-lgc    Tempora font  legacyPackages.x86_64-linux.tempora_lgc 
- temporal  1.30.5  Microservice orchestration platform which enables developers to build scalable applications without sacrificing productivity or reliability  legacyPackages.x86_64-linux.temporal 
+ temporal  1.31.2  Microservice orchestration platform which enables developers to build scalable applications without sacrificing productivity or reliability  legacyPackages.x86_64-linux.temporal 
  temporal-api-protos  2025.10.1.0    legacyPackages.x86_64-linux.haskellPackages.temporal-api-protos 
  temporal-cli  1.7.2  Command-line interface for running Temporal Server and interacting with Workflows, Activities, Namespaces, and other parts of Temporal  legacyPackages.x86_64-linux.temporal-cli 
  temporal-csound  0.4.3.1  library to make electronic music, brings together temporal-music-notation and csound-expression packages  legacyPackages.x86_64-linux.haskellPackages.temporal-csound 
@@ -94622,8 +94628,8 @@
  todos  0.5.3.2  Easy-to-use TODOs manager  legacyPackages.x86_64-linux.haskellPackages.todos 
  tofi  0.9.1  Tiny dynamic menu for Wayland  legacyPackages.x86_64-linux.tofi 
  tofromxml  0.1.0.2  Reading and writing Haskell data from and to XML  legacyPackages.x86_64-linux.haskellPackages.tofromxml 
- tofu-ls  0.5.1  OpenTofu Language Server  legacyPackages.x86_64-linux.opentofu-ls 
- tofu-ls  0.5.1  OpenTofu Language Server  legacyPackages.x86_64-linux.tofu-ls 
+ tofu-ls  0.5.3  OpenTofu Language Server  legacyPackages.x86_64-linux.opentofu-ls 
+ tofu-ls  0.5.3  OpenTofu Language Server  legacyPackages.x86_64-linux.tofu-ls 
  toggle-pane.yazi  0-unstable-2026-06-26  Toggle the show, hide, and maximize states for different panes  legacyPackages.x86_64-linux.yaziPlugins.toggle-pane 
  toilet  0.0.2.1  Manage the toilet queue at the IMO  legacyPackages.x86_64-linux.haskellPackages.toilet 
  toilet  0.3  Display large colourful characters in text mode  legacyPackages.x86_64-linux.toilet 
@@ -95612,7 +95618,7 @@
  tugboat-plain  1.32  Plain TeX macros for TUGboat  legacyPackages.x86_64-linux.texlivePackages.tugboat-plain 
  tuhi  0.6  DBus daemon to access Wacom SmartPad devices  legacyPackages.x86_64-linux.tuhi 
  tui  1.9  Thesis style for the University of the Andes, Colombia  legacyPackages.x86_64-linux.texlivePackages.tui 
- tui-journal  0.16.1  Your journal app if you live in a terminal  legacyPackages.x86_64-linux.tui-journal 
+ tui-journal  0.17.0  Your journal app if you live in a terminal  legacyPackages.x86_64-linux.tui-journal 
  tui-launcher  0.0.1  Small Brick-based terminal launcher  legacyPackages.x86_64-linux.haskellPackages.tui-launcher 
  tuicam  0.0.3  Terminal-based camera with switchable modes  legacyPackages.x86_64-linux.tuicam 
  tuicr  0.18.0  Review AI-generated diffs like a GitHub pull request, right from your terminal  legacyPackages.x86_64-linux.tuicr 
@@ -102204,7 +102210,7 @@
  universal-pidff  0.2.2  PIDFF driver with useful patches for initialization of FFB devices  legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.universal-pidff 
  universal-pidff  0.2.2  PIDFF driver with useful patches for initialization of FFB devices  legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.universal-pidff 
  universal-pidff  0.2.2  PIDFF driver with useful patches for initialization of FFB devices  legacyPackages.x86_64-linux.linuxPackages_zen.universal-pidff 
- universal-remote-card  4.11.3  Completely customizable universal remote card for Home Assistant. Supports multiple platforms out of the box  legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.universal-remote-card 
+ universal-remote-card  4.11.4  Completely customizable universal remote card for Home Assistant. Supports multiple platforms out of the box  legacyPackages.x86_64-linux.home-assistant-custom-lovelace-modules.universal-remote-card 
  universal_tagset  0-unstable-2024-07-29  NLTK Data  legacyPackages.x86_64-linux.nltk-data.universal-tagset 
  universal_treebanks_v20  0-unstable-2024-07-29  NLTK Data  legacyPackages.x86_64-linux.nltk-data.universal-treebanks-v20 
  universalis  77677  Universalis font, with support  legacyPackages.x86_64-linux.texlivePackages.universalis 
@@ -102706,7 +102712,7 @@
  vacuum-go  0.29.9  World's fastest OpenAPI & Swagger linter  legacyPackages.x86_64-linux.vacuum-go 
  vacuum-graphviz  2.1.0.1  A library for transforming vacuum graphs into GraphViz output  legacyPackages.x86_64-linux.haskellPackages.vacuum-graphviz 
  vacuum-opengl  0.0.3  Visualize live Haskell data structures using vacuum, graphviz and OpenGL  legacyPackages.x86_64-linux.haskellPackages.vacuum-opengl 
- vacuum-tube  1.8.0  YouTube Leanback on the desktop, with enhancements  legacyPackages.x86_64-linux.vacuum-tube 
+ vacuum-tube  1.8.1  YouTube Leanback on the desktop, with enhancements  legacyPackages.x86_64-linux.vacuum-tube 
  vacuum-ubigraph  0.2.0.2  Visualize Haskell data structures using vacuum and Ubigraph  legacyPackages.x86_64-linux.haskellPackages.vacuum-ubigraph 
  vado  0.0.14  Runs commands on remote machines using ssh  legacyPackages.x86_64-linux.haskellPackages.vado 
  vagrant  2.4.9  Tool for building complete development environments  legacyPackages.x86_64-linux.vagrant 
@@ -103951,12 +103957,12 @@
  vimplugin-lua-async  1.1.0    legacyPackages.x86_64-linux.vimPlugins.lua-async 
  vimplugin-lua-async  1.1.0    legacyPackages.x86_64-linux.vimPlugins.lua-async-await 
  vimplugin-luajit2.1-fidget.nvim  1.6.0-1-unstable-1.6.0-1  Extensible UI for Neovim notifications and LSP progress messages.  legacyPackages.x86_64-linux.vimPlugins.fidget-nvim 
- vimplugin-luajit2.1-fzf-lua  0.0.2676-1-unstable-0.0.2676-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.vimPlugins.fzf-lua 
+ vimplugin-luajit2.1-fzf-lua  0.0.2682-1-unstable-0.0.2682-1  Improved fzf.vim written in lua  legacyPackages.x86_64-linux.vimPlugins.fzf-lua 
  vimplugin-luajit2.1-gitsigns.nvim  2.1.0-1-unstable-2.1.0-1  Git integration for buffers  legacyPackages.x86_64-linux.vimPlugins.gitsigns-nvim 
  vimplugin-luajit2.1-grug-far.nvim  1.6.72-1-unstable-1.6.72-1  Find And Replace plugin for neovim  legacyPackages.x86_64-linux.vimPlugins.grug-far-nvim 
  vimplugin-luajit2.1-haskell-tools.nvim  10.0.1-1-unstable-10.0.1-1   🦥 Supercharge your Haskell experience in neovim!  legacyPackages.x86_64-linux.vimPlugins.haskell-tools-nvim 
  vimplugin-luajit2.1-image.nvim  1.5.1-unstable-1.5.1  🖼️ Bringing images to Neovim.  legacyPackages.x86_64-linux.vimPlugins.image-nvim 
- vimplugin-luajit2.1-kulala.nvim  6.20.7-1-unstable-6.20.7-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.vimPlugins.kulala-nvim 
+ vimplugin-luajit2.1-kulala.nvim  6.21.0-1-unstable-6.21.0-1  A fully-featured 🤏 HTTP/GraphQL/gRPC/Websocket-client 🐼 interface 🖥️ for Neovim ❤️, that supports the Jetbrains .http spec (with full scripting support).  legacyPackages.x86_64-linux.vimPlugins.kulala-nvim 
  vimplugin-luajit2.1-lsp-progress.nvim  2.0.0-1-unstable-2.0.0-1  A performant lsp progress status for Neovim.  legacyPackages.x86_64-linux.vimPlugins.lsp-progress-nvim 
  vimplugin-luajit2.1-lualine.nvim-scm  5-unstable-scm-5  A blazing fast and easy to configure neovim statusline plugin written in pure lua.  legacyPackages.x86_64-linux.vimPlugins.lualine-nvim 
  vimplugin-luajit2.1-luasnip  2.5.0-1-unstable-2.5.0-1  Snippet Engine for Neovim written in Lua.  legacyPackages.x86_64-linux.vimPlugins.luasnip 
@@ -103970,7 +103976,7 @@
  vimplugin-luajit2.1-neorg  9.6.4-1-unstable-9.6.4-1  Modernity meets insane extensibility. The future of organizing your life in Neovim.  legacyPackages.x86_64-linux.vimPlugins.neorg 
  vimplugin-luajit2.1-neorg-interim-ls  2.1.4-1-unstable-2.1.4-1  Temporarily providing a limited set of LSP features to neorg  legacyPackages.x86_64-linux.vimPlugins.neorg-interim-ls 
  vimplugin-luajit2.1-neotest  5.19.0-1-unstable-5.19.0-1  An extensible framework for interacting with tests within NeoVim.  legacyPackages.x86_64-linux.vimPlugins.neotest 
- vimplugin-luajit2.1-neotest-nix  2.2.0-1-unstable-2.2.0-1  A Neotest adapter for Nix flakes.  legacyPackages.x86_64-linux.vimPlugins.neotest-nix 
+ vimplugin-luajit2.1-neotest-nix  2.3.0-1-unstable-2.3.0-1  A Neotest adapter for Nix tests.  legacyPackages.x86_64-linux.vimPlugins.neotest-nix 
  vimplugin-luajit2.1-nui.nvim  0.4.0-1-unstable-0.4.0-1  UI Component Library for Neovim.  legacyPackages.x86_64-linux.vimPlugins.nui-nvim 
  vimplugin-luajit2.1-nvim-cmp-scm  1-unstable-scm-1  A completion plugin for neovim  legacyPackages.x86_64-linux.vimPlugins.nvim-cmp 
  vimplugin-luajit2.1-nvim-cmp-scm  1-unstable-scm-1  A completion plugin for neovim  legacyPackages.x86_64-linux.vimPlugins.nvim-compe 
@@ -104868,7 +104874,7 @@
  vimplugin-starrynight  0-unstable-2021-09-09    legacyPackages.x86_64-linux.vimPlugins.starrynight 
  vimplugin-starsearch.vim  0-unstable-2014-09-21    legacyPackages.x86_64-linux.vimPlugins.starsearch-vim 
  vimplugin-startup.nvim  0.1-beta-unstable-2026-06-07    legacyPackages.x86_64-linux.vimPlugins.startup-nvim 
- vimplugin-statix  0.5.8-unstable-2026-06-28  Lints and suggestions for the nix programming language  legacyPackages.x86_64-linux.vimPlugins.statix 
+ vimplugin-statix  0.5.8-unstable-2026-07-10  Lints and suggestions for the nix programming language  legacyPackages.x86_64-linux.vimPlugins.statix 
  vimplugin-statuscol.nvim  0-unstable-2026-07-09    legacyPackages.x86_64-linux.vimPlugins.statuscol-nvim 
  vimplugin-stay-centered.nvim  0-unstable-2024-11-12    legacyPackages.x86_64-linux.vimPlugins.stay-centered-nvim 
  vimplugin-stringbreaker.nvim  0-unstable-2026-01-05    legacyPackages.x86_64-linux.vimPlugins.stringbreaker-nvim 
@@ -107456,7 +107462,7 @@
  woof-doom  15.3.0  Doom source port based on Boom/MBF  legacyPackages.x86_64-linux.woof-doom 
  woomer  0.2.0  Zoomer application for Wayland inspired by tsoding's boomer  legacyPackages.x86_64-linux.woomer 
  woot  0.0.0.6  Real time group editor without operational transform  legacyPackages.x86_64-linux.haskellPackages.woot 
- wootility  5.3.1  Customization and management software for Wooting keyboards  legacyPackages.x86_64-linux.wootility 
+ wootility  5.3.2  Customization and management software for Wooting keyboards  legacyPackages.x86_64-linux.wootility 
  wooting-udev-rules  0-unstable-2024-11-20  udev rules that give NixOS permission to communicate with Wooting keyboards  legacyPackages.x86_64-linux.wooting-udev-rules 
  wooz  0-unstable-2025-10-08  Zoom / magnifier utility for wayland compositors  legacyPackages.x86_64-linux.wooz 
  word  0.1.0.1  Words of arbitrary size  legacyPackages.x86_64-linux.haskellPackages.word 
@@ -109466,7 +109472,7 @@
  zapzap  6.5.2.5  WhatsApp desktop application written in Pyqt6 + PyQt6-WebEngine  legacyPackages.x86_64-linux.zapzap 
  zarchive  0.1.2  File archive format supporting random-access reads  legacyPackages.x86_64-linux.zarchive 
  zarf  0.80.0  DevSecOps for Air Gap & Limited-Connection Systems. https://zarf.dev  legacyPackages.x86_64-linux.zarf 
- zashboard  3.12.0  Dashboard Using Clash API  legacyPackages.x86_64-linux.zashboard 
+ zashboard  3.14.0  Dashboard Using Clash API  legacyPackages.x86_64-linux.zashboard 
  zasm  4.5.0  Z80 / 8080 / Z180 assembler (for unix-style OS)  legacyPackages.x86_64-linux.zasm 
  zasni-gerna  0.0.7.1  lojban parser (zasni gerna)  legacyPackages.x86_64-linux.haskellPackages.zasni-gerna 
  zat  0.5.3  Cat files and directories with code outline for LLM coding agents  legacyPackages.x86_64-linux.zat 
@@ -109556,7 +109562,7 @@
  zenmonitor-unstable  2025-06-12  Monitoring software for AMD Zen-based CPUs  legacyPackages.x86_64-linux.zenmonitor 
  zenn-cli  0.2.10  Preview Zenn content locally  legacyPackages.x86_64-linux.zenn-cli 
  zennote  1.0.0  Streamline your note-taking process!  legacyPackages.x86_64-linux.texlivePackages.zennote 
- zennotes-desktop  2.12.0  Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration  legacyPackages.x86_64-linux.zennotes-desktop 
+ zennotes-desktop  2.13.1  Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration  legacyPackages.x86_64-linux.zennotes-desktop 
  zeno  0.2.0.1  An automated proof system for Haskell programs  legacyPackages.x86_64-linux.haskellPackages.zeno 
  zeno  2.0.24  State-of-the-art web crawler  legacyPackages.x86_64-linux.zeno 
  zenoh  1.9.0  Communication protocol that combines pub/sub with key value storage and computation  legacyPackages.x86_64-linux.zenoh 
