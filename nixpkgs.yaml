@@ -3033,7 +3033,7 @@ legacyPackages.x86_64-linux.alchemy:
 legacyPackages.x86_64-linux.alcom:
   description: Experimental GUI application to manage VRChat Unity Projects
   pname: alcom
-  version: 1.1.6
+  version: 1.1.8
 legacyPackages.x86_64-linux.alcove:
   description: Dynamic Island for your Mac
   pname: alcove
@@ -3753,7 +3753,7 @@ legacyPackages.x86_64-linux.anchor:
 legacyPackages.x86_64-linux.anda:
   description: A modern Build/CI System
   pname: anda
-  version: 0.7.1
+  version: 0.7.3
 legacyPackages.x86_64-linux.andagii:
   description: Unicode Plane 1 Osmanya script font
   pname: andagii
@@ -11465,7 +11465,7 @@ legacyPackages.x86_64-linux.basicswap:
 legacyPackages.x86_64-linux.basiliskii:
   description: 68k Macintosh emulator
   pname: basiliskii-unstable
-  version: "2025-07-16"
+  version: "2026-06-30"
 legacyPackages.x86_64-linux.basilk:
   description: Terminal User Interface (TUI) to manage your tasks with minimal kanban logic
   pname: basilk
@@ -25873,7 +25873,7 @@ legacyPackages.x86_64-linux.dae:
 legacyPackages.x86_64-linux.daed:
   description: Modern dashboard with dae
   pname: daed
-  version: 1.0.0
+  version: 1.27.0
 legacyPackages.x86_64-linux.daemon:
   description: Turns other processes into daemons
   pname: daemon
@@ -33173,7 +33173,7 @@ legacyPackages.x86_64-linux.enter-tex:
 legacyPackages.x86_64-linux.entire:
   description: CLI tool that captures AI agent sessions alongside git commits
   pname: entire
-  version: 0.7.8
+  version: 0.8.42
 legacyPackages.x86_64-linux.entr:
   description: Run arbitrary commands when files change
   pname: entr
@@ -131909,7 +131909,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.xiaomi_miot:
 legacyPackages.x86_64-linux.home-assistant-custom-components.yandex-station:
   description: Controlling Yandex.Station and other smart home devices with Alice from Home Assistant
   pname: python3.14-AlexxIT-yandex_station
-  version: 3.21.3
+  version: 3.21.4
 legacyPackages.x86_64-linux.home-assistant-custom-components.yoto_ha:
   description: Home Assistant Integration for Yoto
   pname: python3.14-cdnninja-yoto
@@ -152321,7 +152321,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-5.10.260
+  version: 2026-06-30-5.10.260
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -152977,7 +152977,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-5.15.211
+  version: 2026-06-30-5.15.211
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -153629,7 +153629,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-6.1.177
+  version: 2026-06-30-6.1.177
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -154285,7 +154285,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-6.12.95
+  version: 2026-06-30-6.12.95
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -154941,7 +154941,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-6.18.38
+  version: 2026-06-30-6.18.38
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -155593,7 +155593,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-6.6.144
+  version: 2026-06-30-6.6.144
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -156249,7 +156249,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_1.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_1.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.3
+  version: 2026-06-30-7.1.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_1.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -156905,7 +156905,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-6.18.38
+  version: 2026-06-30-6.18.38
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -157561,7 +157561,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.3
+  version: 2026-06-30-7.1.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -158217,7 +158217,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.3
+  version: 2026-06-30-7.1.3
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -158873,7 +158873,7 @@ legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.ryzen-smu:
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.2
+  version: 2026-06-30-7.1.2
 legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -159529,7 +159529,7 @@ legacyPackages.x86_64-linux.linuxPackages.ryzen-smu:
 legacyPackages.x86_64-linux.linuxPackages.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-6.18.38
+  version: 2026-06-30-6.18.38
 legacyPackages.x86_64-linux.linuxPackages.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -160189,7 +160189,7 @@ legacyPackages.x86_64-linux.linuxPackages_latest.ryzen-smu:
 legacyPackages.x86_64-linux.linuxPackages_latest.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.3
+  version: 2026-06-30-7.1.3
 legacyPackages.x86_64-linux.linuxPackages_latest.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -160845,7 +160845,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod.ryzen-smu:
 legacyPackages.x86_64-linux.linuxPackages_xanmod.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-6.18.38
+  version: 2026-06-30-6.18.38
 legacyPackages.x86_64-linux.linuxPackages_xanmod.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -161501,7 +161501,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.ryzen-smu:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.3
+  version: 2026-06-30-7.1.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -162157,7 +162157,7 @@ legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.ryzen-smu:
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.3
+  version: 2026-06-30-7.1.3
 legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -162813,7 +162813,7 @@ legacyPackages.x86_64-linux.linuxPackages_zen.ryzen-smu:
 legacyPackages.x86_64-linux.linuxPackages_zen.sheep-net:
   description: ""
   pname: sheep_net-unstable
-  version: 2025-07-16-7.1.2
+  version: 2026-06-30-7.1.2
 legacyPackages.x86_64-linux.linuxPackages_zen.shufflecake:
   description: Plausible deniability (hidden storage) layer for Linux
   pname: shufflecake
@@ -174069,7 +174069,7 @@ legacyPackages.x86_64-linux.matrix-conduit:
 legacyPackages.x86_64-linux.matrix-continuwuity:
   description: Matrix homeserver written in Rust, forked from conduwuit
   pname: matrix-continuwuity
-  version: 0.5.10
+  version: 26.6.1
 legacyPackages.x86_64-linux.matrix-corporal:
   description: Reconciliator and gateway for a managed Matrix server
   pname: matrix-corporal
@@ -176593,7 +176593,7 @@ legacyPackages.x86_64-linux.misconfig-mapper:
 legacyPackages.x86_64-linux.mise:
   description: Front-end to your dev env
   pname: mise
-  version: 2026.7.4
+  version: 2026.7.5
 legacyPackages.x86_64-linux.missidentify:
   description: Find Win32 applications
   pname: missidentify
@@ -182441,7 +182441,7 @@ legacyPackages.x86_64-linux.nixos-install:
 legacyPackages.x86_64-linux.nixos-install-tools:
   description: Essential commands from the NixOS installer as a package
   pname: nixos-install-tools
-  version: 26.11pre1033157.3b32825de172
+  version: 26.11pre1033201.2db6e73b5d66
 legacyPackages.x86_64-linux.nixos-option:
   description: Evaluate NixOS configuration and return the properties of given option
   pname: nixos-option
@@ -184765,7 +184765,7 @@ legacyPackages.x86_64-linux.objection:
 legacyPackages.x86_64-linux.objfw:
   description: Portable framework for the Objective-C language
   pname: objfw
-  version: 1.5.6
+  version: 1.5.7
 legacyPackages.x86_64-linux.obliteratus:
   description: Ablation Suite for HuggingFace transformers
   pname: obliteratus
@@ -196945,7 +196945,7 @@ legacyPackages.x86_64-linux.olivetin:
 legacyPackages.x86_64-linux.olivetin-3k:
   description: Gives safe and simple access to predefined shell commands from a web interface
   pname: olivetin
-  version: 3000.15.0
+  version: 3000.17.0
 legacyPackages.x86_64-linux.ollama:
   description: Get up and running with large language models locally
   pname: ollama
@@ -199749,7 +199749,7 @@ legacyPackages.x86_64-linux.oxefmsynth:
 legacyPackages.x86_64-linux.oxfmt:
   description: High-performance formatter for the JavaScript ecosystem
   pname: oxfmt
-  version: 0.57.0
+  version: 0.58.0
 legacyPackages.x86_64-linux.oxicloud:
   description: Ultra-fast, secure & lightweight self-hosted cloud storage
   pname: oxicloud
@@ -200189,7 +200189,7 @@ legacyPackages.x86_64-linux.pana:
 legacyPackages.x86_64-linux.panache:
   description: Language server, formatter, and linter for Pandoc, Quarto, and R Markdown
   pname: panache
-  version: 2.60.0
+  version: 2.61.0
 legacyPackages.x86_64-linux.panamax:
   description: Mirror rustup and crates.io repositories for offline Rust and cargo usage
   pname: panamax
@@ -222049,7 +222049,7 @@ legacyPackages.x86_64-linux.pnpmConfigHook:
 legacyPackages.x86_64-linux.pnpm_10:
   description: Fast, disk space efficient package manager for JavaScript
   pname: pnpm
-  version: 10.34.4
+  version: 10.34.5
 legacyPackages.x86_64-linux.pnpm_10_29_2:
   description: Fast, disk space efficient package manager for JavaScript
   pname: pnpm
@@ -244217,7 +244217,7 @@ legacyPackages.x86_64-linux.python313Packages.keystone-engine:
 legacyPackages.x86_64-linux.python313Packages.keystoneauth1:
   description: Authentication Library for OpenStack Identity
   pname: python3.13-keystoneauth1
-  version: 5.14.0
+  version: 5.15.0
 legacyPackages.x86_64-linux.python313Packages.keyutils:
   description: Set of python bindings for keyutils
   pname: python3.13-keyutils
@@ -244333,7 +244333,7 @@ legacyPackages.x86_64-linux.python313Packages.knowit:
 legacyPackages.x86_64-linux.python313Packages.knx-frontend:
   description: Home Assistant Panel for managing the KNX integration
   pname: python3.13-knx-frontend
-  version: 2026.6.23.203726
+  version: 2026.7.8.100603
 legacyPackages.x86_64-linux.python313Packages.knx-telegram-store:
   description: Standalone, host-agnostic Python library for KNX telegram persistence
   pname: python3.13-knx-telegram-store
@@ -289449,7 +289449,7 @@ legacyPackages.x86_64-linux.python314Packages.keystone-engine:
 legacyPackages.x86_64-linux.python314Packages.keystoneauth1:
   description: Authentication Library for OpenStack Identity
   pname: python3.14-keystoneauth1
-  version: 5.14.0
+  version: 5.15.0
 legacyPackages.x86_64-linux.python314Packages.keyutils:
   description: Set of python bindings for keyutils
   pname: python3.14-keyutils
@@ -289565,7 +289565,7 @@ legacyPackages.x86_64-linux.python314Packages.knowit:
 legacyPackages.x86_64-linux.python314Packages.knx-frontend:
   description: Home Assistant Panel for managing the KNX integration
   pname: python3.14-knx-frontend
-  version: 2026.6.23.203726
+  version: 2026.7.8.100603
 legacyPackages.x86_64-linux.python314Packages.knx-telegram-store:
   description: Standalone, host-agnostic Python library for KNX telegram persistence
   pname: python3.14-knx-telegram-store

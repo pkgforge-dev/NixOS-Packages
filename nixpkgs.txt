@@ -2878,7 +2878,7 @@
  alcarin-tengwar  0.83  Typeface designed to provide Tengwar symbols  legacyPackages.x86_64-linux.alcarin-tengwar 
  alchemist  1.00  Typeset alchemist and astrological symbols  legacyPackages.x86_64-linux.texlivePackages.alchemist 
  alchemy  008  Drawing application  legacyPackages.x86_64-linux.alchemy 
- alcom  1.1.6  Experimental GUI application to manage VRChat Unity Projects  legacyPackages.x86_64-linux.alcom 
+ alcom  1.1.8  Experimental GUI application to manage VRChat Unity Projects  legacyPackages.x86_64-linux.alcom 
  alcove  1.7.2  Dynamic Island for your Mac  legacyPackages.x86_64-linux.alcove 
  alda  2.3.2  Music programming language for musicians  legacyPackages.x86_64-linux.alda 
  aldente  1.37  macOS tool to limit maximum charging percentage  legacyPackages.x86_64-linux.aldente 
@@ -3563,7 +3563,7 @@
  anarchism  15.3-1  Exhaustive exploration of Anarchist theory and practice  legacyPackages.x86_64-linux.anarchism 
  anatomy  0.4  Anatomy: Atomo documentation system  legacyPackages.x86_64-linux.haskellPackages.anatomy 
  anchor  1.1.2  Solana Sealevel Framework  legacyPackages.x86_64-linux.anchor 
- anda  0.7.1  A modern Build/CI System  legacyPackages.x86_64-linux.anda 
+ anda  0.7.3  A modern Build/CI System  legacyPackages.x86_64-linux.anda 
  andagii  1.0.2  Unicode Plane 1 Osmanya script font  legacyPackages.x86_64-linux.andagii 
  andcli  2.7.0  2FA TUI for your shell  legacyPackages.x86_64-linux.andcli 
  andi  1.15  Efficient Estimation of Evolutionary Distances  legacyPackages.x86_64-linux.andi 
@@ -5745,7 +5745,7 @@
  basicarith  1.1  Macros for typesetting basic arithmetic  legacyPackages.x86_64-linux.texlivePackages.basicarith 
  basics  0.2.0.0  Modules for primitive types  legacyPackages.x86_64-linux.haskellPackages.basics 
  basicswap  0.14.4  Basic Atomic Swap Proof of Concept  legacyPackages.x86_64-linux.basicswap 
- basiliskii-unstable  2025-07-16  68k Macintosh emulator  legacyPackages.x86_64-linux.basiliskii 
+ basiliskii-unstable  2026-06-30  68k Macintosh emulator  legacyPackages.x86_64-linux.basiliskii 
  basilk  0.2.1  Terminal User Interface (TUI) to manage your tasks with minimal kanban logic  legacyPackages.x86_64-linux.basilk 
  baskell  0.1.1  An interpreter for a small functional language  legacyPackages.x86_64-linux.haskellPackages.baskell 
  baskervaldadf  1.1  Baskervald ADF fonts collection with TeX/LaTeX support  legacyPackages.x86_64-linux.texlivePackages.baskervaldadf 
@@ -12715,7 +12715,7 @@
  dad  1.2  Simple typesetting system for mixed Arabic/Latin documents  legacyPackages.x86_64-linux.texlivePackages.dad 
  dadadodo  1.04  Markov chain-based text generator  legacyPackages.x86_64-linux.dadadodo 
  dae  1.1.0  Linux high-performance transparent proxy solution based on eBPF  legacyPackages.x86_64-linux.dae 
- daed  1.0.0  Modern dashboard with dae  legacyPackages.x86_64-linux.daed 
+ daed  1.27.0  Modern dashboard with dae  legacyPackages.x86_64-linux.daed 
  daemon  0.8.4  Turns other processes into daemons  legacyPackages.x86_64-linux.daemon 
  daemonize  1.7.8  Runs a command as a Unix daemon  legacyPackages.x86_64-linux.daemonize 
  daemonize-doublefork  0.1.1  Start background daemons by double-forking  legacyPackages.x86_64-linux.haskellPackages.daemonize-doublefork 
@@ -15954,7 +15954,7 @@
  ente-desktop  1.7.24  Desktop (Electron) client for Ente Photos  legacyPackages.x86_64-linux.ente-desktop 
  ente-web-photos  1.3.36  Ente application web frontends  legacyPackages.x86_64-linux.ente-web 
  enter-tex  3.49.0  LaTeX editor for the GNOME desktop  legacyPackages.x86_64-linux.enter-tex 
- entire  0.7.8  CLI tool that captures AI agent sessions alongside git commits  legacyPackages.x86_64-linux.entire 
+ entire  0.8.42  CLI tool that captures AI agent sessions alongside git commits  legacyPackages.x86_64-linux.entire 
  entr  5.8  Run arbitrary commands when files change  legacyPackages.x86_64-linux.entr 
  entropy  0.4.1.11  A platform independent entropy source  legacyPackages.x86_64-linux.haskellPackages.entropy 
  entropy  1.0.7  Tool to scan your codebase for high entropy lines, which are often secrets  legacyPackages.x86_64-linux.entropy 
@@ -37102,7 +37102,7 @@
  matrix-commander  8.0.5  Simple but convenient CLI-based Matrix client app for sending and receiving  legacyPackages.x86_64-linux.matrix-commander 
  matrix-commander-rs  1.0.1  CLI-based Matrix client app for sending and receiving  legacyPackages.x86_64-linux.matrix-commander-rs 
  matrix-conduit  0.10.12  Matrix homeserver written in Rust  legacyPackages.x86_64-linux.matrix-conduit 
- matrix-continuwuity  0.5.10  Matrix homeserver written in Rust, forked from conduwuit  legacyPackages.x86_64-linux.matrix-continuwuity 
+ matrix-continuwuity  26.6.1  Matrix homeserver written in Rust, forked from conduwuit  legacyPackages.x86_64-linux.matrix-continuwuity 
  matrix-corporal  2.2.0  Reconciliator and gateway for a managed Matrix server  legacyPackages.x86_64-linux.matrix-corporal 
  matrix-dendrite  0.15.2  Second-generation Matrix homeserver written in Go  legacyPackages.x86_64-linux.dendrite 
  matrix-dl  0-unstable-2020-07-14  Download backlogs from Matrix as raw text  legacyPackages.x86_64-linux.matrix-dl 
@@ -38115,7 +38115,7 @@
  misc_cmds  45  Miscellaneous commands for Darwin  legacyPackages.x86_64-linux.darwin.misc_cmds 
  miscfiles  1.5  Collection of files not of crucial importance for sysadmins  legacyPackages.x86_64-linux.miscfiles 
  misconfig-mapper  1.17.0  Tool to uncover security misconfigurations on popular third-party services  legacyPackages.x86_64-linux.misconfig-mapper 
- mise  2026.7.4  Front-end to your dev env  legacyPackages.x86_64-linux.mise 
+ mise  2026.7.5  Front-end to your dev env  legacyPackages.x86_64-linux.mise 
  misfortune  0.1.2.1  fortune-mod clone  legacyPackages.x86_64-linux.haskellPackages.misfortune 
  mismath  3.2  Miscellaneous mathematical macros  legacyPackages.x86_64-linux.texlivePackages.mismath 
  mismi-core  0.0.3  AWS Library  legacyPackages.x86_64-linux.haskellPackages.mismi-core 
@@ -40745,7 +40745,7 @@
  nixos-icons  0-unstable-2025-06-28  Icons of the Nix logo, in Freedesktop Icon Directory Layout  legacyPackages.x86_64-linux.nixos-icons 
  nixos-init  0.1.0    legacyPackages.x86_64-linux.nixos-init 
  nixos-install    Install bootloader and NixOS  legacyPackages.x86_64-linux.nixos-install 
- nixos-install-tools  26.11pre1033157.3b32825de172  Essential commands from the NixOS installer as a package  legacyPackages.x86_64-linux.nixos-install-tools 
+ nixos-install-tools  26.11pre1033201.2db6e73b5d66  Essential commands from the NixOS installer as a package  legacyPackages.x86_64-linux.nixos-install-tools 
  nixos-option    Evaluate NixOS configuration and return the properties of given option  legacyPackages.x86_64-linux.nixos-option 
  nixos-rebuild-ng  26.11  Rebuild your NixOS configuration and switch to it, on local hosts and remote  legacyPackages.x86_64-linux.lixPackageSets.git.nixos-rebuild-ng 
  nixos-rebuild-ng  26.11  Rebuild your NixOS configuration and switch to it, on local hosts and remote  legacyPackages.x86_64-linux.lixPackageSets.latest.nixos-rebuild-ng 
@@ -41809,7 +41809,7 @@
  objection  1.12.4  Runtime mobile exploration toolkit, powered by Frida  legacyPackages.x86_64-linux.objection 
  objective  1.3  Composable objects  legacyPackages.x86_64-linux.haskellPackages.objective 
  objectz  61719  Macros for typesetting Object Z  legacyPackages.x86_64-linux.texlivePackages.objectz 
- objfw  1.5.6  Portable framework for the Objective-C language  legacyPackages.x86_64-linux.objfw 
+ objfw  1.5.7  Portable framework for the Objective-C language  legacyPackages.x86_64-linux.objfw 
  obliteratus  0-unstable-2026-06-17  Ablation Suite for HuggingFace transformers  legacyPackages.x86_64-linux.obliteratus 
  oblivious-transfer  0.1.0  An implementation of the Oblivious Transfer protocol in Haskell  legacyPackages.x86_64-linux.haskellPackages.oblivious-transfer 
  obnov  0.11  Obyknovennaya Novaya fonts  legacyPackages.x86_64-linux.texlivePackages.obnov 
@@ -44968,7 +44968,7 @@
  oldstyle  0.2  Old style numbers in OT1 encoding  legacyPackages.x86_64-linux.texlivePackages.oldstyle 
  oletools  0.60.2  Module to analyze MS OLE2 files and MS Office documents  legacyPackages.x86_64-linux.oletools 
  olivetin  2025.11.25  Gives safe and simple access to predefined shell commands from a web interface  legacyPackages.x86_64-linux.olivetin 
- olivetin  3000.15.0  Gives safe and simple access to predefined shell commands from a web interface  legacyPackages.x86_64-linux.olivetin-3k 
+ olivetin  3000.17.0  Gives safe and simple access to predefined shell commands from a web interface  legacyPackages.x86_64-linux.olivetin-3k 
  ollama  0.31.1  Get up and running with large language models locally  legacyPackages.x86_64-linux.ollama 
  ollama  0.31.1  Get up and running with large language models locally  legacyPackages.x86_64-linux.ollama-cpu 
  ollama  0.31.1  Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration  legacyPackages.x86_64-linux.ollama-cuda 
@@ -46081,7 +46081,7 @@
  ox-arrays  0.2.0.1  An efficient CPU-based multidimensional array (tensor) library  legacyPackages.x86_64-linux.haskellPackages.ox-arrays 
  oxdraw  0.2.0  Diagram as Code Tool Written in Rust with Draggable Editing  legacyPackages.x86_64-linux.oxdraw 
  oxefmsynth  1.3.5  Open source VST 2.4 instrument plugin  legacyPackages.x86_64-linux.oxefmsynth 
- oxfmt  0.57.0  High-performance formatter for the JavaScript ecosystem  legacyPackages.x86_64-linux.oxfmt 
+ oxfmt  0.58.0  High-performance formatter for the JavaScript ecosystem  legacyPackages.x86_64-linux.oxfmt 
  oxicloud  0.8.1  Ultra-fast, secure & lightweight self-hosted cloud storage  legacyPackages.x86_64-linux.oxicloud 
  oxide-rs  0.16.0+2026032500.0.0  Oxide Rust SDK and CLI  legacyPackages.x86_64-linux.oxide-rs 
  oxidized  0.37.0  Network device configuration backup tool. It's a RANCID replacement  legacyPackages.x86_64-linux.oxidized 
@@ -46256,7 +46256,7 @@
  pan-bindings-unstable  2025-06-15  SCION PAN Bindings for C, C++, and Python  legacyPackages.x86_64-linux.pan-bindings 
  pan-os-syslog  0.2.0.0  Parse syslog traffic from PAN-OS  legacyPackages.x86_64-linux.haskellPackages.pan-os-syslog 
  pana  0.23.13  Package ANAlysis for Dart  legacyPackages.x86_64-linux.pana 
- panache  2.60.0  Language server, formatter, and linter for Pandoc, Quarto, and R Markdown  legacyPackages.x86_64-linux.panache 
+ panache  2.61.0  Language server, formatter, and linter for Pandoc, Quarto, and R Markdown  legacyPackages.x86_64-linux.panache 
  panamax  1.0.14  Mirror rustup and crates.io repositories for offline Rust and cargo usage  legacyPackages.x86_64-linux.panamax 
  panda  0.3  A package to estimate the blackness of fonts  legacyPackages.x86_64-linux.texlivePackages.panda 
  panda  2009.4.1  A simple static blog engine  legacyPackages.x86_64-linux.haskellPackages.panda 
@@ -52988,7 +52988,7 @@
  pnmixer  0.7.2  ALSA volume mixer for the system tray  legacyPackages.x86_64-linux.pnmixer 
  pnpm  10.29.2  Fast, disk space efficient package manager for JavaScript  legacyPackages.x86_64-linux.pnpm_10_29_2 
  pnpm  10.34.0  Fast, disk space efficient package manager for JavaScript  legacyPackages.x86_64-linux.pnpm_10_34_0 
- pnpm  10.34.4  Fast, disk space efficient package manager for JavaScript  legacyPackages.x86_64-linux.pnpm_10 
+ pnpm  10.34.5  Fast, disk space efficient package manager for JavaScript  legacyPackages.x86_64-linux.pnpm_10 
  pnpm  11.11.0  Fast, disk space efficient package manager for JavaScript  legacyPackages.x86_64-linux.pnpm 
  pnpm  11.11.0  Fast, disk space efficient package manager for JavaScript  legacyPackages.x86_64-linux.pnpm_11 
  pnpm  9.15.9  Fast, disk space efficient package manager for JavaScript  legacyPackages.x86_64-linux.pnpm_9 
@@ -58984,7 +58984,7 @@
  python3.13-keyrings-cryptfile  1.4.1  Encrypted file keyring backend  legacyPackages.x86_64-linux.python313Packages.keyrings-cryptfile 
  python3.13-keyrings-google-artifactregistry-auth  1.1.2  Python package which allows you to configure keyring to interact with Python repositories stored in Artifact Registry  legacyPackages.x86_64-linux.python313Packages.keyrings-google-artifactregistry-auth 
  python3.13-keystone-engine  0.9.2  Lightweight multi-platform, multi-architecture assembler framework  legacyPackages.x86_64-linux.python313Packages.keystone-engine 
- python3.13-keystoneauth1  5.14.0  Authentication Library for OpenStack Identity  legacyPackages.x86_64-linux.python313Packages.keystoneauth1 
+ python3.13-keystoneauth1  5.15.0  Authentication Library for OpenStack Identity  legacyPackages.x86_64-linux.python313Packages.keystoneauth1 
  python3.13-keyutils  0.6  Set of python bindings for keyutils  legacyPackages.x86_64-linux.python313Packages.keyutils 
  python3.13-kfactory  2.5.3  KLayout API implementation of gdsfactory  legacyPackages.x86_64-linux.python313Packages.kfactory 
  python3.13-kgb  7.2  Python function spy support for unit tests  legacyPackages.x86_64-linux.python313Packages.kgb 
@@ -59011,7 +59011,7 @@
  python3.13-knocki  0.4.2  Asynchronous Python client for Knocki vibration / door sensors  legacyPackages.x86_64-linux.python313Packages.knocki 
  python3.13-knot-floer-homology  1.2.2  Python wrapper for Zoltán Szabó's HFK Calculator  legacyPackages.x86_64-linux.python313Packages.knot-floer-homology 
  python3.13-knowit  0.5.11  Extract metadata from media files  legacyPackages.x86_64-linux.python313Packages.knowit 
- python3.13-knx-frontend  2026.6.23.203726  Home Assistant Panel for managing the KNX integration  legacyPackages.x86_64-linux.python313Packages.knx-frontend 
+ python3.13-knx-frontend  2026.7.8.100603  Home Assistant Panel for managing the KNX integration  legacyPackages.x86_64-linux.python313Packages.knx-frontend 
  python3.13-knx-telegram-store  0.4.0  Standalone, host-agnostic Python library for KNX telegram persistence  legacyPackages.x86_64-linux.python313Packages.knx-telegram-store 
  python3.13-kokoro  0-unstable-2025-06-16  Open-weight TTS model with 82 million parameters  legacyPackages.x86_64-linux.python313Packages.kokoro 
  python3.13-kombu  5.6.2  Messaging library for Python  legacyPackages.x86_64-linux.python313Packages.kombu 
@@ -65903,7 +65903,7 @@
  python3.14  8none1-lednetwf_ble-2.0.0  Home Assistant custom integration for LEDnetWF devices  legacyPackages.x86_64-linux.home-assistant-custom-components.lednetwf_ble 
  python3.14-AN3Orik-systemair  1.0.28  Home Assistant component for Systemair SAVE ventilation units  legacyPackages.x86_64-linux.home-assistant-custom-components.systemair 
  python3.14-AlexxIT-xiaomi_gateway3  4.1.4  Home Assistant custom component for control Xiaomi Multimode Gateway (aka Gateway 3), Xiaomi Multimode Gateway 2, Aqara Hub E1 on default firmwares over LAN  legacyPackages.x86_64-linux.home-assistant-custom-components.xiaomi_gateway3 
- python3.14-AlexxIT-yandex_station  3.21.3  Controlling Yandex.Station and other smart home devices with Alice from Home Assistant  legacyPackages.x86_64-linux.home-assistant-custom-components.yandex-station 
+ python3.14-AlexxIT-yandex_station  3.21.4  Controlling Yandex.Station and other smart home devices with Alice from Home Assistant  legacyPackages.x86_64-linux.home-assistant-custom-components.yandex-station 
  python3.14-BottlecapDave-octopus_energy  18.3.3  Unofficial Home Assistant integration for interacting with Octopus Energy  legacyPackages.x86_64-linux.home-assistant-custom-components.octopus_energy 
  python3.14-CharlesGillanders-alphaess  0.8.5  Monitor your energy generation, storage, and usage data using the official API from Alpha ESS  legacyPackages.x86_64-linux.home-assistant-custom-components.alphaess 
  python3.14-Hypfer-scene_presets  2.3.2  Hue-like scene presets for lights in Home Assistant  legacyPackages.x86_64-linux.home-assistant-custom-components.scene_presets 
@@ -70339,7 +70339,7 @@
  python3.14-keyrings-cryptfile  1.4.1  Encrypted file keyring backend  legacyPackages.x86_64-linux.python314Packages.keyrings-cryptfile 
  python3.14-keyrings-google-artifactregistry-auth  1.1.2  Python package which allows you to configure keyring to interact with Python repositories stored in Artifact Registry  legacyPackages.x86_64-linux.python314Packages.keyrings-google-artifactregistry-auth 
  python3.14-keystone-engine  0.9.2  Lightweight multi-platform, multi-architecture assembler framework  legacyPackages.x86_64-linux.python314Packages.keystone-engine 
- python3.14-keystoneauth1  5.14.0  Authentication Library for OpenStack Identity  legacyPackages.x86_64-linux.python314Packages.keystoneauth1 
+ python3.14-keystoneauth1  5.15.0  Authentication Library for OpenStack Identity  legacyPackages.x86_64-linux.python314Packages.keystoneauth1 
  python3.14-keyutils  0.6  Set of python bindings for keyutils  legacyPackages.x86_64-linux.python314Packages.keyutils 
  python3.14-keyvault-preview  1.0.2  Microsoft Azure Command-Line Tools Keyvault-preview Extension  legacyPackages.x86_64-linux.azure-cli-extensions.keyvault-preview 
  python3.14-kfactory  2.5.3  KLayout API implementation of gdsfactory  legacyPackages.x86_64-linux.python314Packages.kfactory 
@@ -70368,7 +70368,7 @@
  python3.14-knot-floer-homology  1.2.2  Python wrapper for Zoltán Szabó's HFK Calculator  legacyPackages.x86_64-linux.python314Packages.knot-floer-homology 
  python3.14-knot-resolver-manager_6  6.4.0  Caching validating DNS resolver, from .cz domain registry  legacyPackages.x86_64-linux.knot-resolver-manager_6 
  python3.14-knowit  0.5.11  Extract metadata from media files  legacyPackages.x86_64-linux.python314Packages.knowit 
- python3.14-knx-frontend  2026.6.23.203726  Home Assistant Panel for managing the KNX integration  legacyPackages.x86_64-linux.python314Packages.knx-frontend 
+ python3.14-knx-frontend  2026.7.8.100603  Home Assistant Panel for managing the KNX integration  legacyPackages.x86_64-linux.python314Packages.knx-frontend 
  python3.14-knx-telegram-store  0.4.0  Standalone, host-agnostic Python library for KNX telegram persistence  legacyPackages.x86_64-linux.python314Packages.knx-telegram-store 
  python3.14-kokoro  0-unstable-2025-06-16  Open-weight TTS model with 82 million parameters  legacyPackages.x86_64-linux.python314Packages.kokoro 
  python3.14-kombu  5.6.2  Messaging library for Python  legacyPackages.x86_64-linux.python314Packages.kombu 
@@ -88504,23 +88504,23 @@
  shdoc  2.1b  Float environment to document the shell commands of a terminal session  legacyPackages.x86_64-linux.texlivePackages.shdoc 
  she  0.6  A Haskell preprocessor adding miscellaneous features  legacyPackages.x86_64-linux.haskellPackages.she 
  shebanger  1.0.0.0  Transform a shell script into a series of scripts with only shebang lines  legacyPackages.x86_64-linux.haskellPackages.shebanger 
- sheep_net-unstable  2025-07-16-5.10.260    legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.sheep-net 
- sheep_net-unstable  2025-07-16-5.15.211    legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.sheep-net 
- sheep_net-unstable  2025-07-16-6.1.177    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.sheep-net 
- sheep_net-unstable  2025-07-16-6.12.95    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.sheep-net 
- sheep_net-unstable  2025-07-16-6.18.38    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.sheep-net 
- sheep_net-unstable  2025-07-16-6.18.38    legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.sheep-net 
- sheep_net-unstable  2025-07-16-6.18.38    legacyPackages.x86_64-linux.linuxPackages.sheep-net 
- sheep_net-unstable  2025-07-16-6.18.38    legacyPackages.x86_64-linux.linuxPackages_xanmod.sheep-net 
- sheep_net-unstable  2025-07-16-6.6.144    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.2    legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.2    legacyPackages.x86_64-linux.linuxPackages_zen.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.3    legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_1.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.3    legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.3    legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.3    legacyPackages.x86_64-linux.linuxPackages_latest.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.3    legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.sheep-net 
- sheep_net-unstable  2025-07-16-7.1.3    legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.sheep-net 
+ sheep_net-unstable  2026-06-30-5.10.260    legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_10.sheep-net 
+ sheep_net-unstable  2026-06-30-5.15.211    legacyPackages.x86_64-linux.linuxKernel.packages.linux_5_15.sheep-net 
+ sheep_net-unstable  2026-06-30-6.1.177    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_1.sheep-net 
+ sheep_net-unstable  2026-06-30-6.12.95    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_12.sheep-net 
+ sheep_net-unstable  2026-06-30-6.18.38    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_18.sheep-net 
+ sheep_net-unstable  2026-06-30-6.18.38    legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod.sheep-net 
+ sheep_net-unstable  2026-06-30-6.18.38    legacyPackages.x86_64-linux.linuxPackages.sheep-net 
+ sheep_net-unstable  2026-06-30-6.18.38    legacyPackages.x86_64-linux.linuxPackages_xanmod.sheep-net 
+ sheep_net-unstable  2026-06-30-6.6.144    legacyPackages.x86_64-linux.linuxKernel.packages.linux_6_6.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.2    legacyPackages.x86_64-linux.linuxKernel.packages.linux_zen.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.2    legacyPackages.x86_64-linux.linuxPackages_zen.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.3    legacyPackages.x86_64-linux.linuxKernel.packages.linux_7_1.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.3    legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_latest.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.3    legacyPackages.x86_64-linux.linuxKernel.packages.linux_xanmod_stable.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.3    legacyPackages.x86_64-linux.linuxPackages_latest.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.3    legacyPackages.x86_64-linux.linuxPackages_xanmod_latest.sheep-net 
+ sheep_net-unstable  2026-06-30-7.1.3    legacyPackages.x86_64-linux.linuxPackages_xanmod_stable.sheep-net 
  sheets  0.1.0.0  Spreadsheet type for composite  legacyPackages.x86_64-linux.haskellPackages.sheets 
  sheldon  0.8.5  Fast and configurable shell plugin manager  legacyPackages.x86_64-linux.sheldon 
  shelduck  0.2.0.0  Test webhooks locally  legacyPackages.x86_64-linux.haskellPackages.shelduck 
