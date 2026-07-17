@@ -12404,8 +12404,8 @@ legacyPackages.x86_64-linux.beammp-launcher:
   version: 2.8.0
 legacyPackages.x86_64-linux.bean-add:
   description: Beancount transaction entry assistant
-  pname: bean-add-unstable
-  version: "2018-01-08"
+  pname: bean-add
+  version: 0-unstable-2018-01-08
 legacyPackages.x86_64-linux.beancount:
   description: Double-entry bookkeeping computer language
   pname: beancount
@@ -14813,7 +14813,7 @@ legacyPackages.x86_64-linux.buddy:
 legacyPackages.x86_64-linux.budget-tracker-tui:
   description: Terminal User Interface (TUI) budget tracker
   pname: budget-tracker-tui
-  version: 1.4.0
+  version: 1.4.1
 legacyPackages.x86_64-linux.budgie-analogue-clock-applet:
   description: Analogue Clock Applet for the Budgie desktop
   pname: budgie-analogue-clock-applet
@@ -17181,7 +17181,7 @@ legacyPackages.x86_64-linux.celestegame:
 legacyPackages.x86_64-linux.celestia:
   description: Real-time 3D simulation of space
   pname: celestia
-  version: 1.6.4
+  version: 1.6.4-unstable-2026-07-02
 legacyPackages.x86_64-linux.celf:
   description: Linear logic programming system
   pname: celf
@@ -21477,7 +21477,7 @@ legacyPackages.x86_64-linux.cloudflare-warp:
 legacyPackages.x86_64-linux.cloudflared:
   description: Client for various Cloudflare services, including Tunnel, Access, and DNS over HTTPS
   pname: cloudflared
-  version: 2026.6.1
+  version: 2026.7.2
 legacyPackages.x86_64-linux.cloudfoundry-cli:
   description: Official command line client for Cloud Foundry
   pname: cloudfoundry-cli
@@ -21517,7 +21517,7 @@ legacyPackages.x86_64-linux.cloudprober:
 legacyPackages.x86_64-linux.cloudquery:
   description: Data pipelines for cloud config and security data
   pname: cloudquery
-  version: 6.36.1
+  version: 6.41.0
 legacyPackages.x86_64-linux.cloudrecon:
   description: Tool to find assets from certificates
   pname: cloudrecon
@@ -23220,7 +23220,7 @@ legacyPackages.x86_64-linux.coqPackages.autosubst:
   version: "1.9"
 legacyPackages.x86_64-linux.coqPackages.bignums:
   description: ""
-  pname: rocq-core9.1-bignums
+  pname: rocq9.1-bignums
   version: 9.0.0+rocq9.1
 legacyPackages.x86_64-linux.coqPackages.ceres:
   description: Library for serialization to S-expressions
@@ -23240,7 +23240,7 @@ legacyPackages.x86_64-linux.coqPackages.coq:
   version: 9.1.1
 legacyPackages.x86_64-linux.coqPackages.coq-elpi:
   description: Rocq plugin embedding ELPI
-  pname: rocq-core9.1-elpi
+  pname: rocq9.1-elpi
   version: 3.4.0
 legacyPackages.x86_64-linux.coqPackages.coq-hammer:
   description: General-purpose automated reasoning hammer tool for Coq
@@ -23312,7 +23312,7 @@ legacyPackages.x86_64-linux.coqPackages.graph-theory:
   version: 0.9.7
 legacyPackages.x86_64-linux.coqPackages.hierarchy-builder:
   description: High level commands to declare a hierarchy based on packed classes
-  pname: rocq-core9.1-hierarchy-builder
+  pname: rocq9.1-hierarchy-builder
   version: 1.10.3
 legacyPackages.x86_64-linux.coqPackages.interval:
   description: Tactics for simplifying the proofs of inequalities on expressions of real numbers for the Coq proof assistant
@@ -23320,7 +23320,7 @@ legacyPackages.x86_64-linux.coqPackages.interval:
   version: 4.11.3
 legacyPackages.x86_64-linux.coqPackages.iris:
   description: Rocq development of the Iris Project
-  pname: rocq-core9.1-iris
+  pname: rocq9.1-iris
   version: 4.5.0
 legacyPackages.x86_64-linux.coqPackages.jasmin:
   description: Jasmin language & verified compiler
@@ -23336,11 +23336,11 @@ legacyPackages.x86_64-linux.coqPackages.libvalidsdp:
   version: 1.1.1
 legacyPackages.x86_64-linux.coqPackages.mathcomp:
   description: ""
-  pname: rocq-core9.1-mathcomp-all
+  pname: rocq9.1-mathcomp-all
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-algebra:
   description: ""
-  pname: rocq-core9.1-mathcomp-algebra
+  pname: rocq9.1-mathcomp-algebra
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-algebra-tactics:
   description: Ring and field tactics for Mathematical Components
@@ -23348,51 +23348,51 @@ legacyPackages.x86_64-linux.coqPackages.mathcomp-algebra-tactics:
   version: 1.2.7
 legacyPackages.x86_64-linux.coqPackages.mathcomp-analysis:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-analysis
+  pname: rocq9.1-mathcomp2.5-mathcomp-analysis
   version: 1.16.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-analysis-stdlib:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-analysis-stdlib
+  pname: rocq9.1-mathcomp2.5-mathcomp-analysis-stdlib
   version: 1.16.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-bigenough:
   description: Small library to do epsilon - N reasonning
-  pname: rocq-core9.1-mathcomp2.5-bigenough
+  pname: rocq9.1-mathcomp2.5-bigenough
   version: 1.0.4
 legacyPackages.x86_64-linux.coqPackages.mathcomp-boot:
   description: ""
-  pname: rocq-core9.1-mathcomp-boot
+  pname: rocq9.1-mathcomp-boot
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-character:
   description: ""
-  pname: rocq-core9.1-mathcomp-group-representation
+  pname: rocq9.1-mathcomp-group-representation
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-classical:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-classical
+  pname: rocq9.1-mathcomp2.5-mathcomp-classical
   version: 1.16.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-experimental-reals:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-experimental-reals
+  pname: rocq9.1-mathcomp2.5-mathcomp-experimental-reals
   version: 1.16.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-field:
   description: ""
-  pname: rocq-core9.1-mathcomp-field
+  pname: rocq9.1-mathcomp-field
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-fingroup:
   description: ""
-  pname: rocq-core9.1-mathcomp-finite-group
+  pname: rocq9.1-mathcomp-finite-group
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-finite-group:
   description: ""
-  pname: rocq-core9.1-mathcomp-finite-group
+  pname: rocq9.1-mathcomp-finite-group
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-finmap:
   description: Finset and finmap library
-  pname: rocq-core9.1-mathcomp2.5-finmap
+  pname: rocq9.1-mathcomp2.5-finmap
   version: 2.2.2
 legacyPackages.x86_64-linux.coqPackages.mathcomp-group-representation:
   description: ""
-  pname: rocq-core9.1-mathcomp-group-representation
+  pname: rocq9.1-mathcomp-group-representation
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-infotheo:
   description: Coq formalization of information theory and linear error-correcting codes
@@ -23400,23 +23400,23 @@ legacyPackages.x86_64-linux.coqPackages.mathcomp-infotheo:
   version: 0.9.7
 legacyPackages.x86_64-linux.coqPackages.mathcomp-order:
   description: ""
-  pname: rocq-core9.1-mathcomp-order
+  pname: rocq9.1-mathcomp-order
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-real-closed:
   description: Mathematical Components Library on real closed fields
-  pname: rocq-core9.1-mathcomp2.5-real-closed
+  pname: rocq9.1-mathcomp2.5-real-closed
   version: 2.0.5
 legacyPackages.x86_64-linux.coqPackages.mathcomp-reals:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-reals
+  pname: rocq9.1-mathcomp2.5-mathcomp-reals
   version: 1.16.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-reals-stdlib:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-reals-stdlib
+  pname: rocq9.1-mathcomp2.5-mathcomp-reals-stdlib
   version: 1.16.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-solvable:
   description: ""
-  pname: rocq-core9.1-mathcomp-solvable
+  pname: rocq9.1-mathcomp-solvable
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.mathcomp-ssreflect:
   description: ""
@@ -23504,7 +23504,7 @@ legacyPackages.x86_64-linux.coqPackages.parsec:
   version: 0.2.0
 legacyPackages.x86_64-linux.coqPackages.parseque:
   description: Total parser combinators in Rocq
-  pname: rocq-core9.1-parseque
+  pname: rocq9.1-parseque
   version: 0.3.1
 legacyPackages.x86_64-linux.coqPackages.reglang:
   description: Regular Language Representations in Coq
@@ -23528,11 +23528,11 @@ legacyPackages.x86_64-linux.coqPackages.ssreflect:
   version: 2.5.0
 legacyPackages.x86_64-linux.coqPackages.stdlib:
   description: Rocq Proof Assistant -- Standard Library
-  pname: rocq-core9.1-stdlib
+  pname: rocq9.1-stdlib
   version: 9.0.0
 legacyPackages.x86_64-linux.coqPackages.stdpp:
   description: Extended “Standard Library” for Rocq
-  pname: rocq-core9.1-stdpp
+  pname: rocq9.1-stdpp
   version: 1.13.0
 legacyPackages.x86_64-linux.coqPackages.unicoq:
   description: Enhanced unification algorithm for Coq
@@ -24601,7 +24601,7 @@ legacyPackages.x86_64-linux.crowbar:
 legacyPackages.x86_64-linux.crowdin-cli:
   description: Command-line client for the Crowdin API
   pname: crowdin-cli
-  version: 4.14.3
+  version: 4.14.4
 legacyPackages.x86_64-linux.crowdsec:
   description: Free, open-source and collaborative IPS
   pname: crowdsec
@@ -30673,7 +30673,7 @@ legacyPackages.x86_64-linux.driversi686Linux.libvdpau-va-gl:
 legacyPackages.x86_64-linux.driversi686Linux.mesa:
   description: Open source 3D graphics library
   pname: mesa
-  version: 26.1.4
+  version: 26.1.5
 legacyPackages.x86_64-linux.driversi686Linux.mesa-demos:
   description: Collection of demos and test programs for OpenGL and Mesa
   pname: mesa-demos
@@ -33410,6 +33410,10 @@ legacyPackages.x86_64-linux.epson-201401w:
   description: Epson printer driver (L456, L455, L366, L365, L362, L360, L312, L310, L222, L220, L132, L130)
   pname: epson
   version: 201401w-1.0.0
+legacyPackages.x86_64-linux.epson-202101w:
+  description: Epson printer driver (L1210, L1250, L3200, L3210)
+  pname: epson
+  version: 202101w-1.0.2
 legacyPackages.x86_64-linux.epson-alc1100:
   description: Epson AcuLaser C1100 Driver
   pname: epson-alc1100
@@ -33889,11 +33893,11 @@ legacyPackages.x86_64-linux.everdo:
 legacyPackages.x86_64-linux.everest:
   description: Celeste mod loader (don't install; use celestegame instead)
   pname: everest
-  version: "6314"
+  version: "6397"
 legacyPackages.x86_64-linux.everest-bin:
   description: Celeste mod loader (don't install; use celestegame instead)
   pname: everest
-  version: "6314"
+  version: "6397"
 legacyPackages.x86_64-linux.everest-mons:
   description: Commandline Everest installer and mod manager for Celeste
   pname: everest-mons
@@ -34393,7 +34397,7 @@ legacyPackages.x86_64-linux.fable:
 legacyPackages.x86_64-linux.fabric-ai:
   description: Fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere
   pname: fabric-ai
-  version: 1.4.455
+  version: 1.4.459
 legacyPackages.x86_64-linux.fabric-installer:
   description: Lightweight, experimental modding toolchain for Minecraft
   pname: fabric-installer
@@ -34954,6 +34958,10 @@ legacyPackages.x86_64-linux.faust:
   description: Functional programming language for realtime audio signal processing
   pname: faust
   version: 2.85.9
+legacyPackages.x86_64-linux.faust-benchmark-tools:
+  description: Benchmarking, tracing, and dynamic-compilation tools for the Faust compiler
+  pname: faust-benchmark-tools
+  version: 2.85.9
 legacyPackages.x86_64-linux.faust-physicalmodeling:
   description: Physical models included with faust compiled as jack standalone and lv2 instruments
   pname: faust-physicalmodeling
@@ -35413,7 +35421,7 @@ legacyPackages.x86_64-linux.feishu:
 legacyPackages.x86_64-linux.feishu-cli:
   description: CLI for Feishu (Lark) Open Platform
   pname: feishu-cli
-  version: 1.34.0
+  version: 1.35.0
 legacyPackages.x86_64-linux.felix:
   description: OSGi gateway
   pname: apache-felix
@@ -38237,7 +38245,7 @@ legacyPackages.x86_64-linux.freeradius:
 legacyPackages.x86_64-linux.freerdp:
   description: Remote Desktop Protocol Client
   pname: freerdp
-  version: 3.27.1
+  version: 3.29.0
 legacyPackages.x86_64-linux.freerouting:
   description: Advanced PCB auto-router
   pname: freerouting
@@ -38877,7 +38885,7 @@ legacyPackages.x86_64-linux.fzf:
 legacyPackages.x86_64-linux.fzf-git-sh:
   description: Bash, zsh and fish key bindings for Git objects, powered by fzf
   pname: fzf-git-sh
-  version: 0-unstable-2026-06-16
+  version: 0-unstable-2026-07-06
 legacyPackages.x86_64-linux.fzf-make:
   description: Fuzzy finder for Makefile
   pname: fzf-make
@@ -49289,7 +49297,7 @@ legacyPackages.x86_64-linux.gomuks:
 legacyPackages.x86_64-linux.gomuks-web:
   description: Matrix client written in Go
   pname: gomuks-web
-  version: "26.06"
+  version: "26.07"
 legacyPackages.x86_64-linux.gonic:
   description: Music streaming server / subsonic server API implementation
   pname: gonic
@@ -130757,11 +130765,11 @@ legacyPackages.x86_64-linux.headphones-toolbox:
 legacyPackages.x86_64-linux.headplane:
   description: Feature-complete Web UI for Headscale
   pname: headplane
-  version: 0.6.3
+  version: 0.7.0
 legacyPackages.x86_64-linux.headplane-agent:
   description: Optional sidecar process providing additional features for headplane
   pname: headplane-agent
-  version: 0.6.3
+  version: 0.7.0
 legacyPackages.x86_64-linux.headscale:
   description: Open source, self-hosted implementation of the Tailscale control server
   pname: headscale
@@ -134625,7 +134633,7 @@ legacyPackages.x86_64-linux.iay:
 legacyPackages.x86_64-linux.ibm-plex:
   description: IBM Plex Typeface
   pname: ibm-plex
-  version: 0-unstable-2026-02-12
+  version: 0-unstable-2026-05-26
 legacyPackages.x86_64-linux.ibmcloud-cli:
   description: Command line client for IBM Cloud
   pname: ibmcloud-cli
@@ -144221,7 +144229,7 @@ legacyPackages.x86_64-linux.kubectl-explore:
 legacyPackages.x86_64-linux.kubectl-gadget:
   description: Collection of gadgets for troubleshooting Kubernetes applications using eBPF
   pname: kubectl-gadget
-  version: 0.54.0
+  version: 0.54.1
 legacyPackages.x86_64-linux.kubectl-graph:
   description: Kubectl plugin to visualize Kubernetes resources and relationships
   pname: kubectl-graph
@@ -149265,7 +149273,7 @@ legacyPackages.x86_64-linux.libretro.desmume2015:
 legacyPackages.x86_64-linux.libretro.dolphin:
   description: Port of Dolphin to libretro
   pname: libretro-dolphin
-  version: 0-unstable-2026-06-28
+  version: 0-unstable-2026-07-12
 legacyPackages.x86_64-linux.libretro.dosbox:
   description: Port of DOSBox to libretro
   pname: libretro-dosbox
@@ -149489,7 +149497,7 @@ legacyPackages.x86_64-linux.libretro.smsplus-gx:
 legacyPackages.x86_64-linux.libretro.snes9x:
   description: Port of SNES9x git to libretro
   pname: libretro-snes9x
-  version: 0-unstable-2026-07-05
+  version: 0-unstable-2026-07-13
 legacyPackages.x86_64-linux.libretro.snes9x2002:
   description: Optimized port/rewrite of SNES9x 1.39 to Libretro
   pname: libretro-snes9x2002
@@ -165749,7 +165757,7 @@ legacyPackages.x86_64-linux.lorri:
 legacyPackages.x86_64-linux.losange:
   description: Simple Stremio client for GNOME
   pname: losange
-  version: 0.10.1
+  version: 0.10.2
 legacyPackages.x86_64-linux.losslessaudiochecker:
   description: Utility to check whether audio is truly lossless or not
   pname: losslessaudiochecker
@@ -166222,6 +166230,10 @@ legacyPackages.x86_64-linux.lua51Packages.inspect:
   description: Lua table visualizer, ideal for debugging
   pname: lua5.1-inspect
   version: 3.1.3-0
+legacyPackages.x86_64-linux.lua51Packages.json:
+  description: A lightweight JSON library for Lua
+  pname: lua5.1-json
+  version: 0.1.2
 legacyPackages.x86_64-linux.lua51Packages.jsregexp:
   description: javascript (ECMA19) regular expressions for lua
   pname: lua5.1-jsregexp
@@ -167042,6 +167054,10 @@ legacyPackages.x86_64-linux.lua52Packages.inspect:
   description: Lua table visualizer, ideal for debugging
   pname: lua5.2-inspect
   version: 3.1.3-0
+legacyPackages.x86_64-linux.lua52Packages.json:
+  description: A lightweight JSON library for Lua
+  pname: lua5.2-json
+  version: 0.1.2
 legacyPackages.x86_64-linux.lua52Packages.jsregexp:
   description: javascript (ECMA19) regular expressions for lua
   pname: lua5.2-jsregexp
@@ -167862,6 +167878,10 @@ legacyPackages.x86_64-linux.lua53Packages.inspect:
   description: Lua table visualizer, ideal for debugging
   pname: lua5.3-inspect
   version: 3.1.3-0
+legacyPackages.x86_64-linux.lua53Packages.json:
+  description: A lightweight JSON library for Lua
+  pname: lua5.3-json
+  version: 0.1.2
 legacyPackages.x86_64-linux.lua53Packages.jsregexp:
   description: javascript (ECMA19) regular expressions for lua
   pname: lua5.3-jsregexp
@@ -168682,6 +168702,10 @@ legacyPackages.x86_64-linux.lua54Packages.inspect:
   description: Lua table visualizer, ideal for debugging
   pname: lua5.4-inspect
   version: 3.1.3-0
+legacyPackages.x86_64-linux.lua54Packages.json:
+  description: A lightweight JSON library for Lua
+  pname: lua5.4-json
+  version: 0.1.2
 legacyPackages.x86_64-linux.lua54Packages.jsregexp:
   description: javascript (ECMA19) regular expressions for lua
   pname: lua5.4-jsregexp
@@ -169502,6 +169526,10 @@ legacyPackages.x86_64-linux.lua55Packages.inspect:
   description: Lua table visualizer, ideal for debugging
   pname: lua5.5-inspect
   version: 3.1.3-0
+legacyPackages.x86_64-linux.lua55Packages.json:
+  description: A lightweight JSON library for Lua
+  pname: lua5.5-json
+  version: 0.1.2
 legacyPackages.x86_64-linux.lua55Packages.jsregexp:
   description: javascript (ECMA19) regular expressions for lua
   pname: lua5.5-jsregexp
@@ -170358,6 +170386,10 @@ legacyPackages.x86_64-linux.luaPackages.inspect:
   description: Lua table visualizer, ideal for debugging
   pname: lua5.2-inspect
   version: 3.1.3-0
+legacyPackages.x86_64-linux.luaPackages.json:
+  description: A lightweight JSON library for Lua
+  pname: lua5.2-json
+  version: 0.1.2
 legacyPackages.x86_64-linux.luaPackages.jsregexp:
   description: javascript (ECMA19) regular expressions for lua
   pname: lua5.2-jsregexp
@@ -171198,6 +171230,10 @@ legacyPackages.x86_64-linux.luajitPackages.inspect:
   description: Lua table visualizer, ideal for debugging
   pname: luajit2.1-inspect
   version: 3.1.3-0
+legacyPackages.x86_64-linux.luajitPackages.json:
+  description: A lightweight JSON library for Lua
+  pname: lua5.1-json
+  version: 0.1.2
 legacyPackages.x86_64-linux.luajitPackages.jsregexp:
   description: javascript (ECMA19) regular expressions for lua
   pname: luajit2.1-jsregexp
@@ -175321,7 +175357,7 @@ legacyPackages.x86_64-linux.merve:
 legacyPackages.x86_64-linux.mesa:
   description: Open source 3D graphics library
   pname: mesa
-  version: 26.1.4
+  version: 26.1.5
 legacyPackages.x86_64-linux.mesa-demos:
   description: Collection of demos and test programs for OpenGL and Mesa
   pname: mesa-demos
@@ -175337,7 +175373,7 @@ legacyPackages.x86_64-linux.mesa_glu:
 legacyPackages.x86_64-linux.mesa_i686:
   description: Open source 3D graphics library
   pname: mesa
-  version: 26.1.4
+  version: 26.1.5
 legacyPackages.x86_64-linux.mescc-tools:
   description: Collection of tools written for use in bootstrapping
   pname: mescc-tools
@@ -178085,7 +178121,7 @@ legacyPackages.x86_64-linux.mousepad:
 legacyPackages.x86_64-linux.mouser:
   description: Lightweight local alternative to Logitech Options+ for remapping HID++ mice
   pname: mouser
-  version: 3.6.0
+  version: 3.7.0
 legacyPackages.x86_64-linux.mousetweaks:
   description: Provides mouse accessibility enhancements for the GNOME desktop
   pname: mousetweaks
@@ -178241,7 +178277,7 @@ legacyPackages.x86_64-linux.mpc:
 legacyPackages.x86_64-linux.mpc-qt:
   description: Media Player Classic Qute Theater
   pname: mpc-qt
-  version: "26.01"
+  version: "26.07"
 legacyPackages.x86_64-linux.mpc123:
   description: Musepack (.mpc) audio player
   pname: mpc123
@@ -181585,7 +181621,7 @@ legacyPackages.x86_64-linux.nghttp3:
 legacyPackages.x86_64-linux.nginx:
   description: Reverse proxy and lightweight webserver
   pname: nginx
-  version: 1.30.3
+  version: 1.30.4
 legacyPackages.x86_64-linux.nginx-config-formatter:
   description: Nginx config file formatter
   pname: nginx-config-formatter
@@ -181605,15 +181641,15 @@ legacyPackages.x86_64-linux.nginx-sso:
 legacyPackages.x86_64-linux.nginxMainline:
   description: Reverse proxy and lightweight webserver
   pname: nginx
-  version: 1.31.2
+  version: 1.31.3
 legacyPackages.x86_64-linux.nginxShibboleth:
   description: Reverse proxy and lightweight webserver
   pname: nginx
-  version: 1.30.3
+  version: 1.30.4
 legacyPackages.x86_64-linux.nginxStable:
   description: Reverse proxy and lightweight webserver
   pname: nginx
-  version: 1.30.3
+  version: 1.30.4
 legacyPackages.x86_64-linux.ngircd:
   description: Next Generation IRC Daemon
   pname: ngircd
@@ -182201,7 +182237,7 @@ legacyPackages.x86_64-linux.nix-tree:
 legacyPackages.x86_64-linux.nix-unit:
   description: Nix unit test runner
   pname: nix-unit
-  version: 2.34.2
+  version: 2.35.0
 legacyPackages.x86_64-linux.nix-update:
   description: Swiss-knife for updating nix packages
   pname: nix-update
@@ -182557,7 +182593,7 @@ legacyPackages.x86_64-linux.nixos-install:
 legacyPackages.x86_64-linux.nixos-install-tools:
   description: Essential commands from the NixOS installer as a package
   pname: nixos-install-tools
-  version: 26.11pre1035778.6368bc923cec
+  version: 26.11pre1035929.59682e0069f0
 legacyPackages.x86_64-linux.nixos-option:
   description: Evaluate NixOS configuration and return the properties of given option
   pname: nixos-option
@@ -183473,7 +183509,7 @@ legacyPackages.x86_64-linux.non:
 legacyPackages.x86_64-linux.nono:
   description: Secure, kernel-enforced sandbox for AI agents, MCP and LLM workloads
   pname: nono
-  version: 0.61.1
+  version: 0.68.0
 legacyPackages.x86_64-linux.noogle-search:
   description: Search Noogle functions with fzf
   pname: noogle-search
@@ -188925,7 +188961,7 @@ legacyPackages.x86_64-linux.ocamlPackages.ocsigen-start:
 legacyPackages.x86_64-linux.ocamlPackages.ocsigen-toolkit:
   description: User interface widgets for Ocsigen applications
   pname: ocaml5.4.1-ocsigen-toolkit
-  version: 4.2.0
+  version: 4.3.0
 legacyPackages.x86_64-linux.ocamlPackages.ocsigen_server:
   description: Full featured Web server
   pname: ocaml5.4.1-ocsigenserver
@@ -194493,7 +194529,7 @@ legacyPackages.x86_64-linux.ocamlPackages_latest.ocsigen-start:
 legacyPackages.x86_64-linux.ocamlPackages_latest.ocsigen-toolkit:
   description: User interface widgets for Ocsigen applications
   pname: ocaml5.5.0-ocsigen-toolkit
-  version: 4.2.0
+  version: 4.3.0
 legacyPackages.x86_64-linux.ocamlPackages_latest.ocsigen_server:
   description: Full featured Web server
   pname: ocaml5.5.0-ocsigenserver
@@ -196961,7 +196997,7 @@ legacyPackages.x86_64-linux.oh-my-git:
 legacyPackages.x86_64-linux.oh-my-posh:
   description: Prompt theme engine for any shell
   pname: oh-my-posh
-  version: 29.26.1
+  version: 29.28.0
 legacyPackages.x86_64-linux.oh-my-zsh:
   description: Framework for managing your zsh configuration
   pname: oh-my-zsh
@@ -199729,7 +199765,7 @@ legacyPackages.x86_64-linux.outils:
 legacyPackages.x86_64-linux.outline:
   description: Fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible
   pname: outline
-  version: 1.8.1
+  version: 1.9.1
 legacyPackages.x86_64-linux.outputcheck:
   description: Tool for checking tool output inspired by LLVM's FileCheck
   pname: outputcheck
@@ -205641,7 +205677,7 @@ legacyPackages.x86_64-linux.perl5Packages.JSONXSVersionOneAndTwo:
 legacyPackages.x86_64-linux.perl5Packages.JavaScriptMinifierXS:
   description: XS based JavaScript minifier
   pname: perl5.42.0-JavaScript-Minifier-XS
-  version: "0.15"
+  version: "0.16"
 legacyPackages.x86_64-linux.perl5Packages.JavaScriptValueEscape:
   description: Avoid XSS with JavaScript value interpolation
   pname: perl5.42.0-JavaScript-Value-Escape
@@ -213473,7 +213509,7 @@ legacyPackages.x86_64-linux.perlPackages.JSONXSVersionOneAndTwo:
 legacyPackages.x86_64-linux.perlPackages.JavaScriptMinifierXS:
   description: XS based JavaScript minifier
   pname: perl5.42.0-JavaScript-Minifier-XS
-  version: "0.15"
+  version: "0.16"
 legacyPackages.x86_64-linux.perlPackages.JavaScriptValueEscape:
   description: Avoid XSS with JavaScript value interpolation
   pname: perl5.42.0-JavaScript-Value-Escape
@@ -225829,7 +225865,7 @@ legacyPackages.x86_64-linux.prometheus-rasdaemon-exporter:
 legacyPackages.x86_64-linux.prometheus-redis-exporter:
   description: Prometheus exporter for Redis metrics
   pname: redis_exporter
-  version: 1.86.0
+  version: 1.87.0
 legacyPackages.x86_64-linux.prometheus-restic-exporter:
   description: Prometheus exporter for the Restic backup system
   pname: prometheus-restic-exporter
@@ -235706,6 +235742,10 @@ legacyPackages.x86_64-linux.python313Packages.depyf:
   description: Decompile python functions, from bytecode to source code
   pname: python3.13-depyf
   version: 0.20.0
+legacyPackages.x86_64-linux.python313Packages.derivative:
+  description: Numerical differentiation of noisy time series data
+  pname: python3.13-derivative
+  version: 0.6.3
 legacyPackages.x86_64-linux.python313Packages.derpconf:
   description: Module to abstract loading configuration files for your app
   pname: python3.13-derpconf
@@ -245414,6 +245454,10 @@ legacyPackages.x86_64-linux.python313Packages.lifx-emulator-core:
   description: Core Python library for emulating LIFX devices using the LAN protocol
   pname: python3.13-lifx-emulator-core
   version: 3.6.3
+legacyPackages.x86_64-linux.python313Packages.liger-kernel:
+  description: Efficient Triton Kernels for LLM Training
+  pname: python3.13-liger-kernel
+  version: 0.8.0
 legacyPackages.x86_64-linux.python313Packages.lightgbm:
   description: Fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework
   pname: python3.13-lightgbm
@@ -247985,7 +248029,7 @@ legacyPackages.x86_64-linux.python313Packages.msgpack-numpy-opentensor:
 legacyPackages.x86_64-linux.python313Packages.msgraph-core:
   description: Core component of the Microsoft Graph Python SDK
   pname: python3.13-msgraph-core
-  version: 1.4.0
+  version: 1.5.1
 legacyPackages.x86_64-linux.python313Packages.msgraph-sdk:
   description: Microsoft Graph SDK for Python
   pname: python3.13-msgraph-sdk
@@ -255077,7 +255121,7 @@ legacyPackages.x86_64-linux.python313Packages.pydelijn:
 legacyPackages.x86_64-linux.python313Packages.pydemumble:
   description: Demumble wrapper library
   pname: python3.13-pydemumble
-  version: 0.0.1
+  version: 0.1.2
 legacyPackages.x86_64-linux.python313Packages.pydenticon:
   description: Library for generating identicons. Port of Sigil (https://github.com/cupcake/sigil) with enhancements
   pname: python3.13-pydenticon
@@ -257802,6 +257846,10 @@ legacyPackages.x86_64-linux.python313Packages.pysimplesoap:
   description: Python simple and lightweight SOAP Library
   pname: python3.13-pysimplesoap
   version: 1.16.2
+legacyPackages.x86_64-linux.python313Packages.pysindy:
+  description: Sparse identification of nonlinear dynamical systems
+  pname: python3.13-pysindy
+  version: 2.1.0
 legacyPackages.x86_64-linux.python313Packages.pysingleton:
   description: Provides a decorator to create thread-safe singleton classes
   pname: python3.13-pysingleton
@@ -263914,6 +263962,10 @@ legacyPackages.x86_64-linux.python313Packages.spectral-cube:
   description: Library for reading and analyzing astrophysical spectral data cubes
   pname: python3.13-spectral-cube
   version: 0.6.7
+legacyPackages.x86_64-linux.python313Packages.spectral-derivatives:
+  description: Derivatives by spectral methods
+  pname: python3.13-spectral_derivatives
+  version: "0.10"
 legacyPackages.x86_64-linux.python313Packages.speechbrain:
   description: PyTorch-based Speech Toolkit
   pname: python3.13-speechbrain
@@ -265310,6 +265362,10 @@ legacyPackages.x86_64-linux.python313Packages.swh-web-client:
   description: Client for Software Heritage Web applications, via their APIs
   pname: python3.13-swh-web-client
   version: 0.9.2
+legacyPackages.x86_64-linux.python313Packages.swi-tools:
+  description: Scripts for operating on an Arista SWI or SWIX
+  pname: python3.13-swi-tools
+  version: "1.6"
 legacyPackages.x86_64-linux.python313Packages.swift:
   description: OpenStack Object Storage
   pname: python3.13-swift
@@ -281002,6 +281058,10 @@ legacyPackages.x86_64-linux.python314Packages.depyf:
   description: Decompile python functions, from bytecode to source code
   pname: python3.14-depyf
   version: 0.20.0
+legacyPackages.x86_64-linux.python314Packages.derivative:
+  description: Numerical differentiation of noisy time series data
+  pname: python3.14-derivative
+  version: 0.6.3
 legacyPackages.x86_64-linux.python314Packages.derpconf:
   description: Module to abstract loading configuration files for your app
   pname: python3.14-derpconf
@@ -290710,6 +290770,10 @@ legacyPackages.x86_64-linux.python314Packages.lifx-emulator-core:
   description: Core Python library for emulating LIFX devices using the LAN protocol
   pname: python3.14-lifx-emulator-core
   version: 3.6.3
+legacyPackages.x86_64-linux.python314Packages.liger-kernel:
+  description: Efficient Triton Kernels for LLM Training
+  pname: python3.14-liger-kernel
+  version: 0.8.0
 legacyPackages.x86_64-linux.python314Packages.lightgbm:
   description: Fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework
   pname: python3.14-lightgbm
@@ -293281,7 +293345,7 @@ legacyPackages.x86_64-linux.python314Packages.msgpack-numpy-opentensor:
 legacyPackages.x86_64-linux.python314Packages.msgraph-core:
   description: Core component of the Microsoft Graph Python SDK
   pname: python3.14-msgraph-core
-  version: 1.4.0
+  version: 1.5.1
 legacyPackages.x86_64-linux.python314Packages.msgraph-sdk:
   description: Microsoft Graph SDK for Python
   pname: python3.14-msgraph-sdk
@@ -300373,7 +300437,7 @@ legacyPackages.x86_64-linux.python314Packages.pydelijn:
 legacyPackages.x86_64-linux.python314Packages.pydemumble:
   description: Demumble wrapper library
   pname: python3.14-pydemumble
-  version: 0.0.1
+  version: 0.1.2
 legacyPackages.x86_64-linux.python314Packages.pydenticon:
   description: Library for generating identicons. Port of Sigil (https://github.com/cupcake/sigil) with enhancements
   pname: python3.14-pydenticon
@@ -303098,6 +303162,10 @@ legacyPackages.x86_64-linux.python314Packages.pysimplesoap:
   description: Python simple and lightweight SOAP Library
   pname: python3.14-pysimplesoap
   version: 1.16.2
+legacyPackages.x86_64-linux.python314Packages.pysindy:
+  description: Sparse identification of nonlinear dynamical systems
+  pname: python3.14-pysindy
+  version: 2.1.0
 legacyPackages.x86_64-linux.python314Packages.pysingleton:
   description: Provides a decorator to create thread-safe singleton classes
   pname: python3.14-pysingleton
@@ -309210,6 +309278,10 @@ legacyPackages.x86_64-linux.python314Packages.spectral-cube:
   description: Library for reading and analyzing astrophysical spectral data cubes
   pname: python3.14-spectral-cube
   version: 0.6.7
+legacyPackages.x86_64-linux.python314Packages.spectral-derivatives:
+  description: Derivatives by spectral methods
+  pname: python3.14-spectral_derivatives
+  version: "0.10"
 legacyPackages.x86_64-linux.python314Packages.speechbrain:
   description: PyTorch-based Speech Toolkit
   pname: python3.14-speechbrain
@@ -310606,6 +310678,10 @@ legacyPackages.x86_64-linux.python314Packages.swh-web-client:
   description: Client for Software Heritage Web applications, via their APIs
   pname: python3.14-swh-web-client
   version: 0.9.2
+legacyPackages.x86_64-linux.python314Packages.swi-tools:
+  description: Scripts for operating on an Arista SWI or SWIX
+  pname: python3.14-swi-tools
+  version: "1.6"
 legacyPackages.x86_64-linux.python314Packages.swift:
   description: OpenStack Object Storage
   pname: python3.14-swift
@@ -320702,6 +320778,10 @@ legacyPackages.x86_64-linux.recoll:
   description: Full-text search tool
   pname: recoll
   version: 1.43.9
+legacyPackages.x86_64-linux.recoll-kio:
+  description: Plasma KIO worker for recoll
+  pname: recoll-kio
+  version: 1.43.9
 legacyPackages.x86_64-linux.recoll-nox:
   description: Full-text search tool
   pname: recoll
@@ -321433,7 +321513,7 @@ legacyPackages.x86_64-linux.restate:
 legacyPackages.x86_64-linux.resterm:
   description: Terminal-based REST client
   pname: resterm
-  version: 0.44.6
+  version: 0.46.4
 legacyPackages.x86_64-linux.restic:
   description: Backup program that is fast, efficient and secure
   pname: restic
@@ -322740,103 +322820,103 @@ legacyPackages.x86_64-linux.rocq-core_9_2:
   version: 9.2.0
 legacyPackages.x86_64-linux.rocqPackages.bignums:
   description: ""
-  pname: rocq-core9.1-bignums
+  pname: rocq9.1-bignums
   version: 9.0.0+rocq9.1
 legacyPackages.x86_64-linux.rocqPackages.hierarchy-builder:
   description: High level commands to declare a hierarchy based on packed classes
-  pname: rocq-core9.1-hierarchy-builder
+  pname: rocq9.1-hierarchy-builder
   version: 1.10.3
 legacyPackages.x86_64-linux.rocqPackages.iris:
   description: Rocq development of the Iris Project
-  pname: rocq-core9.1-iris
+  pname: rocq9.1-iris
   version: 4.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp:
   description: ""
-  pname: rocq-core9.1-mathcomp-all
+  pname: rocq9.1-mathcomp-all
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-algebra:
   description: ""
-  pname: rocq-core9.1-mathcomp-algebra
+  pname: rocq9.1-mathcomp-algebra
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-analysis:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-analysis
+  pname: rocq9.1-mathcomp2.5-mathcomp-analysis
   version: 1.16.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-analysis-stdlib:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-analysis-stdlib
+  pname: rocq9.1-mathcomp2.5-mathcomp-analysis-stdlib
   version: 1.16.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-bigenough:
   description: Small library to do epsilon - N reasonning
-  pname: rocq-core9.1-mathcomp2.5-bigenough
+  pname: rocq9.1-mathcomp2.5-bigenough
   version: 1.0.4
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-boot:
   description: ""
-  pname: rocq-core9.1-mathcomp-boot
+  pname: rocq9.1-mathcomp-boot
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-character:
   description: ""
-  pname: rocq-core9.1-mathcomp-group-representation
+  pname: rocq9.1-mathcomp-group-representation
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-classical:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-classical
+  pname: rocq9.1-mathcomp2.5-mathcomp-classical
   version: 1.16.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-experimental-reals:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-experimental-reals
+  pname: rocq9.1-mathcomp2.5-mathcomp-experimental-reals
   version: 1.16.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-field:
   description: ""
-  pname: rocq-core9.1-mathcomp-field
+  pname: rocq9.1-mathcomp-field
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-fingroup:
   description: ""
-  pname: rocq-core9.1-mathcomp-finite-group
+  pname: rocq9.1-mathcomp-finite-group
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-finite-group:
   description: ""
-  pname: rocq-core9.1-mathcomp-finite-group
+  pname: rocq9.1-mathcomp-finite-group
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-finmap:
   description: Finset and finmap library
-  pname: rocq-core9.1-mathcomp2.5-finmap
+  pname: rocq9.1-mathcomp2.5-finmap
   version: 2.2.2
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-group-representation:
   description: ""
-  pname: rocq-core9.1-mathcomp-group-representation
+  pname: rocq9.1-mathcomp-group-representation
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-order:
   description: ""
-  pname: rocq-core9.1-mathcomp-order
+  pname: rocq9.1-mathcomp-order
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-real-closed:
   description: Mathematical Components Library on real closed fields
-  pname: rocq-core9.1-mathcomp2.5-real-closed
+  pname: rocq9.1-mathcomp2.5-real-closed
   version: 2.0.5
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-reals:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-reals
+  pname: rocq9.1-mathcomp2.5-mathcomp-reals
   version: 1.16.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-reals-stdlib:
   description: Analysis library compatible with Mathematical Components
-  pname: rocq-core9.1-mathcomp2.5-mathcomp-reals-stdlib
+  pname: rocq9.1-mathcomp2.5-mathcomp-reals-stdlib
   version: 1.16.0
 legacyPackages.x86_64-linux.rocqPackages.mathcomp-solvable:
   description: ""
-  pname: rocq-core9.1-mathcomp-solvable
+  pname: rocq9.1-mathcomp-solvable
   version: 2.5.0
 legacyPackages.x86_64-linux.rocqPackages.micromega-plugin:
   description: Plugin for (semi)decision procedures for arithmetic.
-  pname: rocq-core9.1-micromega-plugin
+  pname: rocq9.1-micromega-plugin
   version: 1.1.0
 legacyPackages.x86_64-linux.rocqPackages.parseque:
   description: Total parser combinators in Rocq
-  pname: rocq-core9.1-parseque
+  pname: rocq9.1-parseque
   version: 0.3.1
 legacyPackages.x86_64-linux.rocqPackages.relation-algebra:
   description: Relation algebra library for Rocq
-  pname: rocq-core9.1-relation-algebra
+  pname: rocq9.1-relation-algebra
   version: 1.8.0
 legacyPackages.x86_64-linux.rocqPackages.rocq-core:
   description: Rocq Prover
@@ -322844,19 +322924,19 @@ legacyPackages.x86_64-linux.rocqPackages.rocq-core:
   version: 9.1.1
 legacyPackages.x86_64-linux.rocqPackages.rocq-elpi:
   description: Rocq plugin embedding ELPI
-  pname: rocq-core9.1-elpi
+  pname: rocq9.1-elpi
   version: 3.4.0
 legacyPackages.x86_64-linux.rocqPackages.rocqnavi:
   description: 'Rocqnavi: an HTML documentation generator for Rocq prover'
-  pname: rocq-core9.1-rocqnavi
+  pname: rocq9.1-rocqnavi
   version: 0.5.0
 legacyPackages.x86_64-linux.rocqPackages.stdlib:
   description: Rocq Proof Assistant -- Standard Library
-  pname: rocq-core9.1-stdlib
+  pname: rocq9.1-stdlib
   version: 9.0.0
 legacyPackages.x86_64-linux.rocqPackages.stdpp:
   description: Extended “Standard Library” for Rocq
-  pname: rocq-core9.1-stdpp
+  pname: rocq9.1-stdpp
   version: 1.13.0
 legacyPackages.x86_64-linux.rocqPackages.vsrocq-language-server:
   description: Language server for the vsrocq vscode/codium extension
@@ -323109,7 +323189,7 @@ legacyPackages.x86_64-linux.roslyn:
 legacyPackages.x86_64-linux.roslyn-ls:
   description: Language server behind C# Dev Kit for Visual Studio Code
   pname: roslyn-ls
-  version: 5.9.0-1.26314.1
+  version: 5.9.0-1.26319.6
 legacyPackages.x86_64-linux.rospo:
   description: Simple, reliable, persistent ssh tunnels with embedded ssh server
   pname: rospo
@@ -351661,7 +351741,7 @@ legacyPackages.x86_64-linux.sequoia-sop:
 legacyPackages.x86_64-linux.sequoia-sq:
   description: Command line application exposing a useful set of OpenPGP functionality for common tasks
   pname: sequoia-sq
-  version: 1.3.1
+  version: 1.4.0
 legacyPackages.x86_64-linux.sequoia-sqop:
   description: Implementation of the Stateless OpenPGP Command Line Interface using Sequoia
   pname: sequoia-sop
@@ -354425,7 +354505,7 @@ legacyPackages.x86_64-linux.sonata:
 legacyPackages.x86_64-linux.sone:
   description: Native Linux desktop client for TIDAL
   pname: sone
-  version: 0.20.0
+  version: 0.21.0
 legacyPackages.x86_64-linux.songrec:
   description: Open-source Shazam client for Linux, written in Rust
   pname: songrec
@@ -355841,7 +355921,7 @@ legacyPackages.x86_64-linux.sshguard:
 legacyPackages.x86_64-linux.sshified:
   description: Proxy HTTP requests through SSH
   pname: sshified
-  version: 1.2.6
+  version: 1.2.7
 legacyPackages.x86_64-linux.sshlatex:
   description: Collection of hacks to efficiently run LaTeX via ssh
   pname: sshlatex
@@ -360041,7 +360121,7 @@ legacyPackages.x86_64-linux.termsonic:
 legacyPackages.x86_64-linux.termsvg:
   description: Record, share and export your terminal as a animated SVG image
   pname: termsvg
-  version: 0.10.0
+  version: 0.11.0
 legacyPackages.x86_64-linux.termsyn:
   description: Monospaced font based on terminus and tamsyn
   pname: termsyn
@@ -390877,7 +390957,7 @@ legacyPackages.x86_64-linux.toolbox:
 legacyPackages.x86_64-linux.toolhive:
   description: Run any MCP server — securely, instantly, anywhere
   pname: toolhive
-  version: 0.29.1
+  version: 0.34.0
 legacyPackages.x86_64-linux.tooling-language-server:
   description: Language server for tools and package managers
   pname: deputy
@@ -393053,7 +393133,7 @@ legacyPackages.x86_64-linux.tsung:
 legacyPackages.x86_64-linux.tsx:
   description: 'TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js'
   pname: tsx
-  version: 4.23.0
+  version: 4.23.1
 legacyPackages.x86_64-linux.tt:
   description: Typing test in the terminal written in Go
   pname: tt
@@ -418590,6 +418670,10 @@ legacyPackages.x86_64-linux.valeStyles.readability:
   description: Vale-compatible implementations of many popular "readability" metrics
   pname: vale-style-readability
   version: 0.1.1
+legacyPackages.x86_64-linux.valeStyles.redhat:
+  description: Vale-compatible implementation of the Red Hat documentation style guide
+  pname: vale-style-redhat
+  version: "664"
 legacyPackages.x86_64-linux.valeStyles.write-good:
   description: Vale-compatible implementation of the write-good linter
   pname: vale-style-write-good
@@ -431789,7 +431873,7 @@ legacyPackages.x86_64-linux.vscode-extensions.yoavbls.pretty-ts-errors:
 legacyPackages.x86_64-linux.vscode-extensions.yoshi47.selection-path-copier:
   description: Copy file paths with line numbers, code snippets, and GitHub permalinks in multiple formats
   pname: vscode-extension-yoshi47-selection-path-copier
-  version: 1.5.0
+  version: 1.6.0
 legacyPackages.x86_64-linux.vscode-extensions.yy0931.vscode-sqlite3-editor:
   description: SQLite3 Editor for VSCode
   pname: vscode-extension-yy0931-vscode-sqlite3-editor
@@ -433413,7 +433497,7 @@ legacyPackages.x86_64-linux.whitesur-cursors:
 legacyPackages.x86_64-linux.whitesur-gtk-theme:
   description: MacOS BigSur like Gtk+ theme based on Elegant Design
   pname: whitesur-gtk-theme
-  version: "2025-07-24"
+  version: "2026-07-07"
 legacyPackages.x86_64-linux.whitesur-icon-theme:
   description: MacOS Big Sur style icon theme for Linux desktops
   pname: Whitesur-icon-theme
@@ -439330,6 +439414,10 @@ legacyPackages.x86_64-linux.zenoh-plugin-webserver:
   description: Implements an HTTP server mapping URLs to zenoh paths
   pname: zenoh-plugin-webserver
   version: 1.9.0
+legacyPackages.x86_64-linux.zenroom:
+  description: no-code cryptographic virtual machine
+  pname: zenroom
+  version: 5.37.2
 legacyPackages.x86_64-linux.zensical:
   description: Static site generator for documentation
   pname: zensical
@@ -440117,7 +440205,7 @@ legacyPackages.x86_64-linux.zsh-zhooks:
 legacyPackages.x86_64-linux.zsign:
   description: Cross-platform codesign alternative for iOS 12+
   pname: zsign
-  version: 1.0.4
+  version: 1.0.8
 legacyPackages.x86_64-linux.zsnes:
   description: Super Nintendo Entertainment System Emulator
   pname: zsnes
