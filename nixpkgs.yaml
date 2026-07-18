@@ -1405,7 +1405,7 @@ legacyPackages.x86_64-linux.aiovban-pyaudio:
 legacyPackages.x86_64-linux.air:
   description: Live reload for Go apps
   pname: air
-  version: 1.65.3
+  version: 1.66.0
 legacyPackages.x86_64-linux.air-formatter:
   description: Extremely fast R code formatter
   pname: air-formatter
@@ -9157,7 +9157,7 @@ legacyPackages.x86_64-linux.atlassian-plugin-sdk:
 legacyPackages.x86_64-linux.atlauncher:
   description: Simple and easy to use Minecraft launcher which contains many different modpacks for you to choose from and play
   pname: atlauncher
-  version: 3.4.41.0
+  version: 3.4.41.1
 legacyPackages.x86_64-linux.atmos:
   description: Universal Tool for DevOps and Cloud Automation (works with terraform, helm, helmfile, etc)
   pname: atmos
@@ -28809,7 +28809,7 @@ legacyPackages.x86_64-linux.dms:
 legacyPackages.x86_64-linux.dms-shell:
   description: DankMaterialShell - Desktop shell for wayland compositors built with Quickshell & GO
   pname: dms-shell
-  version: 1.5.0
+  version: 1.5.2
 legacyPackages.x86_64-linux.dmsdos:
   description: Linux utilities to handle dos/win95 doublespace/drivespace/stacker
   pname: dmsdos-unstable
@@ -32414,6 +32414,10 @@ legacyPackages.x86_64-linux.electron-chromedriver_42:
   description: WebDriver server for running Selenium tests on Chrome
   pname: electron-chromedriver
   version: 42.5.1
+legacyPackages.x86_64-linux.electron-chromedriver_43:
+  description: WebDriver server for running Selenium tests on Chrome
+  pname: electron-chromedriver
+  version: 43.1.0
 legacyPackages.x86_64-linux.electron-fiddle:
   description: Easiest way to get started with Electron
   pname: electron-fiddle
@@ -32454,6 +32458,14 @@ legacyPackages.x86_64-linux.electron_42-bin:
   description: Cross platform desktop application shell
   pname: electron
   version: 42.5.1
+legacyPackages.x86_64-linux.electron_43:
+  description: Cross platform desktop application shell
+  pname: electron
+  version: 43.1.0
+legacyPackages.x86_64-linux.electron_43-bin:
+  description: Cross platform desktop application shell
+  pname: electron
+  version: 43.1.0
 legacyPackages.x86_64-linux.electrs:
   description: Efficient re-implementation of Electrum Server in Rust
   pname: electrs
@@ -141029,7 +141041,7 @@ legacyPackages.x86_64-linux.kdePackages.kirigami:
 legacyPackages.x86_64-linux.kdePackages.kirigami-addons:
   description: Add-ons for the Kirigami framework
   pname: kirigami-addons
-  version: 1.12.1
+  version: 1.13.0
 legacyPackages.x86_64-linux.kdePackages.kirigami-gallery:
   description: Kirigami component gallery application
   pname: kirigami-gallery
@@ -145597,7 +145609,7 @@ legacyPackages.x86_64-linux.lensfun:
 legacyPackages.x86_64-linux.lenspect:
   description: Lightweight security threat scanner intended to make malware detection more accessible and efficient
   pname: lenspect
-  version: 1.0.5
+  version: 1.0.6
 legacyPackages.x86_64-linux.leo-editor:
   description: Powerful folding editor
   pname: leo-editor
@@ -174197,7 +174209,7 @@ legacyPackages.x86_64-linux.matrix-alertmanager:
 legacyPackages.x86_64-linux.matrix-alertmanager-receiver:
   description: Alertmanager client that forwards alerts to a Matrix room
   pname: matrix-alertmanager-receiver
-  version: 2026.7.8
+  version: 2026.7.15
 legacyPackages.x86_64-linux.matrix-appservice-irc:
   description: Node.js IRC bridge for Matrix
   pname: matrix-appservice-irc
@@ -175417,7 +175429,7 @@ legacyPackages.x86_64-linux.meshoptimizer:
 legacyPackages.x86_64-linux.meshtastic:
   description: Python API for talking to Meshtastic devices
   pname: meshtastic
-  version: 2.7.10
+  version: 2.7.11
 legacyPackages.x86_64-linux.meshtastic-web:
   description: Meshtastic Web Client/JS Monorepo
   pname: meshtastic-web
@@ -182609,7 +182621,7 @@ legacyPackages.x86_64-linux.nixos-install:
 legacyPackages.x86_64-linux.nixos-install-tools:
   description: Essential commands from the NixOS installer as a package
   pname: nixos-install-tools
-  version: 26.11pre1036759.31cd72fdba8f
+  version: 26.11pre1036836.20535e48e12c
 legacyPackages.x86_64-linux.nixos-option:
   description: Evaluate NixOS configuration and return the properties of given option
   pname: nixos-option
@@ -184817,7 +184829,7 @@ legacyPackages.x86_64-linux.nzbget:
 legacyPackages.x86_64-linux.nzbhydra2:
   description: Usenet meta search
   pname: nzbhydra2
-  version: 8.8.5
+  version: 8.9.0
 legacyPackages.x86_64-linux.nzportable:
   description: 'Call of Duty: Zombies demake, powered by various Quake sourceports (PC version)'
   pname: nzportable
@@ -197713,7 +197725,7 @@ legacyPackages.x86_64-linux.openarena:
 legacyPackages.x86_64-linux.openasar:
   description: Open-source alternative of Discord desktop's "app.asar"
   pname: openasar
-  version: 0-unstable-2026-06-04
+  version: 0-unstable-2026-07-12
 legacyPackages.x86_64-linux.openav-artyfx:
   description: LV2 plugin bundle of artistic realtime effects
   pname: openav-artyfx
@@ -229953,7 +229965,7 @@ legacyPackages.x86_64-linux.python313Packages.ansi2html:
 legacyPackages.x86_64-linux.python313Packages.ansi2image:
   description: Module to convert ANSI text to an image
   pname: python3.13-ansi2image
-  version: 0.1.5
+  version: 0.1.6
 legacyPackages.x86_64-linux.python313Packages.ansible:
   description: Radically simple IT automation
   pname: python3.13-ansible
@@ -247053,7 +247065,7 @@ legacyPackages.x86_64-linux.python313Packages.meshlabxml:
 legacyPackages.x86_64-linux.python313Packages.meshtastic:
   description: Python API for talking to Meshtastic devices
   pname: python3.13-meshtastic
-  version: 2.7.10
+  version: 2.7.11
 legacyPackages.x86_64-linux.python313Packages.meson:
   description: Open source, fast and friendly build system made in Python
   pname: meson
@@ -264913,7 +264925,7 @@ legacyPackages.x86_64-linux.python313Packages.statsmodels:
 legacyPackages.x86_64-linux.python313Packages.std-uritemplate:
   description: Std-uritemplate implementation for Python
   pname: python3.13-std-uritemplate
-  version: 2.0.11
+  version: 2.0.12
 legacyPackages.x86_64-linux.python313Packages.std2:
   description: Dependency to chadtree and coq_nvim plugins
   pname: python3.13-std2
@@ -265609,7 +265621,7 @@ legacyPackages.x86_64-linux.python313Packages.tago:
 legacyPackages.x86_64-linux.python313Packages.tagoio-sdk:
   description: Module for interacting with Tago.io
   pname: python3.13-tagoio-sdk
-  version: 5.1.2
+  version: 5.1.3
 legacyPackages.x86_64-linux.python313Packages.tahoma-api:
   description: Python module to interface with Tahoma REST API
   pname: python3.13-tahoma-api
@@ -265733,7 +265745,7 @@ legacyPackages.x86_64-linux.python313Packages.telepath:
 legacyPackages.x86_64-linux.python313Packages.telethon:
   description: Full-featured Telegram client library for Python 3
   pname: python3.13-telethon
-  version: 1.42.0
+  version: 1.44.0
 legacyPackages.x86_64-linux.python313Packages.telethon-session-sqlalchemy:
   description: SQLAlchemy backend for Telethon session storage
   pname: python3.13-telethon-session-sqlalchemy
@@ -275293,7 +275305,7 @@ legacyPackages.x86_64-linux.python314Packages.ansi2html:
 legacyPackages.x86_64-linux.python314Packages.ansi2image:
   description: Module to convert ANSI text to an image
   pname: python3.14-ansi2image
-  version: 0.1.5
+  version: 0.1.6
 legacyPackages.x86_64-linux.python314Packages.ansible:
   description: Radically simple IT automation
   pname: python3.14-ansible
@@ -292389,7 +292401,7 @@ legacyPackages.x86_64-linux.python314Packages.meshlabxml:
 legacyPackages.x86_64-linux.python314Packages.meshtastic:
   description: Python API for talking to Meshtastic devices
   pname: python3.14-meshtastic
-  version: 2.7.10
+  version: 2.7.11
 legacyPackages.x86_64-linux.python314Packages.meson:
   description: Open source, fast and friendly build system made in Python
   pname: meson
@@ -310249,7 +310261,7 @@ legacyPackages.x86_64-linux.python314Packages.statsmodels:
 legacyPackages.x86_64-linux.python314Packages.std-uritemplate:
   description: Std-uritemplate implementation for Python
   pname: python3.14-std-uritemplate
-  version: 2.0.11
+  version: 2.0.12
 legacyPackages.x86_64-linux.python314Packages.std2:
   description: Dependency to chadtree and coq_nvim plugins
   pname: python3.14-std2
@@ -310945,7 +310957,7 @@ legacyPackages.x86_64-linux.python314Packages.tago:
 legacyPackages.x86_64-linux.python314Packages.tagoio-sdk:
   description: Module for interacting with Tago.io
   pname: python3.14-tagoio-sdk
-  version: 5.1.2
+  version: 5.1.3
 legacyPackages.x86_64-linux.python314Packages.tahoma-api:
   description: Python module to interface with Tahoma REST API
   pname: python3.14-tahoma-api
@@ -311069,7 +311081,7 @@ legacyPackages.x86_64-linux.python314Packages.telepath:
 legacyPackages.x86_64-linux.python314Packages.telethon:
   description: Full-featured Telegram client library for Python 3
   pname: python3.14-telethon
-  version: 1.42.0
+  version: 1.44.0
 legacyPackages.x86_64-linux.python314Packages.telethon-session-sqlalchemy:
   description: SQLAlchemy backend for Telethon session storage
   pname: python3.14-telethon-session-sqlalchemy
@@ -318121,7 +318133,7 @@ legacyPackages.x86_64-linux.pywhisker:
 legacyPackages.x86_64-linux.pyxel:
   description: Retro game engine for Python
   pname: pyxel
-  version: 2.9.7
+  version: 2.9.8
 legacyPackages.x86_64-linux.pyznap:
   description: ZFS snapshot tool written in python
   pname: pyznap
@@ -321449,7 +321461,7 @@ legacyPackages.x86_64-linux.repocheck:
 legacyPackages.x86_64-linux.repomix:
   description: Tool to pack repository contents to single file for AI consumption
   pname: repomix
-  version: 1.15.0
+  version: 1.16.1
 legacyPackages.x86_64-linux.reposilite:
   description: Lightweight and easy-to-use repository management software dedicated for the Maven based artifacts in the JVM ecosystem
   pname: Reposilite
@@ -356313,39 +356325,27 @@ legacyPackages.x86_64-linux.stardust:
 legacyPackages.x86_64-linux.stardust-xr-atmosphere:
   description: Environment, homespace, and setup client for Stardust XR
   pname: stardust-xr-atmosphere
-  version: 0-unstable-2024-08-22
+  version: 0.51.1
 legacyPackages.x86_64-linux.stardust-xr-flatland:
   description: Flat window for Stardust XR
   pname: stardust-xr-flatland
-  version: 0-unstable-2024-04-13
+  version: 0.51.1
 legacyPackages.x86_64-linux.stardust-xr-gravity:
   description: Utility to launch apps and stardust clients at an offet
   pname: stardust-xr-gravity
-  version: 0-unstable-2024-12-29
-legacyPackages.x86_64-linux.stardust-xr-kiara:
-  description: 360-degree app shell / DE for Stardust XR using Niri
-  pname: stardust-xr-kiara
-  version: 0-unstable-2024-07-13
-legacyPackages.x86_64-linux.stardust-xr-magnetar:
-  description: Workspaces client for Stardust
-  pname: stardust-xr-magnetar
-  version: 0-unstable-2025-04-03
-legacyPackages.x86_64-linux.stardust-xr-phobetor:
-  description: Handheld panel shell for Stardust XR
-  pname: stardust-xr-phobetor
-  version: 0-unstable-2024-02-10
+  version: 0.51.1
+legacyPackages.x86_64-linux.stardust-xr-non-spatial-input:
+  description: Utilities that allow using non-spatial (e.g. keyboard and mouse) inputs in Stardust
+  pname: stardust-xr-non-spatial-input
+  version: 0.51.1
 legacyPackages.x86_64-linux.stardust-xr-protostar:
   description: Prototype application launchers for Stardust XR
   pname: stardust-xr-protostar
-  version: 0-unstable-2024-12-29
+  version: 0.51.1
 legacyPackages.x86_64-linux.stardust-xr-server:
   description: Wayland compositor and display server for 3D applications
   pname: stardust-xr-server
-  version: 0.44.1
-legacyPackages.x86_64-linux.stardust-xr-sphereland:
-  description: Pointer/keyboard operated window manager for Stardust XR
-  pname: stardust-xr-sphereland
-  version: 0-unstable-2023-11-07
+  version: 0.51.1
 legacyPackages.x86_64-linux.starfetch:
   description: CLI star constellations displayer
   pname: starfetch
@@ -359857,7 +359857,7 @@ legacyPackages.x86_64-linux.telegram-bot-api:
 legacyPackages.x86_64-linux.telegram-desktop:
   description: Telegram Desktop messaging app
   pname: telegram-desktop
-  version: 6.9.3
+  version: 7.0.2
 legacyPackages.x86_64-linux.telegraph:
   description: Write and decode Morse
   pname: telegraph
@@ -360721,7 +360721,7 @@ legacyPackages.x86_64-linux.terraform-providers.mongey_kafka-connect:
 legacyPackages.x86_64-linux.terraform-providers.mongodb_mongodbatlas:
   description: ""
   pname: terraform-provider-mongodbatlas
-  version: 2.13.0
+  version: 2.14.0
 legacyPackages.x86_64-linux.terraform-providers.namecheap_namecheap:
   description: ""
   pname: terraform-provider-namecheap
@@ -390797,7 +390797,7 @@ legacyPackages.x86_64-linux.tntnet:
 legacyPackages.x86_64-linux.to-html:
   description: Terminal wrapper for rendering a terminal on a website by converting ANSI escape sequences to HTML
   pname: to-html
-  version: 0.1.6
+  version: 0.2.0
 legacyPackages.x86_64-linux.toast:
   description: Containerize your development and continuous integration environments
   pname: toast
@@ -390929,7 +390929,7 @@ legacyPackages.x86_64-linux.tomb:
 legacyPackages.x86_64-linux.tombi:
   description: TOML Formatter / Linter / Language Server
   pname: tombi
-  version: 1.2.0
+  version: 1.2.1
 legacyPackages.x86_64-linux.tombl:
   description: Easily query TOML files from bash
   pname: tombl
@@ -432257,7 +432257,7 @@ legacyPackages.x86_64-linux.vultr-cli:
 legacyPackages.x86_64-linux.vunnel:
   description: Tool for collecting vulnerability data from various sources
   pname: vunnel
-  version: 0.62.1
+  version: 0.63.0
 legacyPackages.x86_64-linux.vvenc:
   description: Fraunhofer Versatile Video Encoder
   pname: vvenc
@@ -432870,6 +432870,10 @@ legacyPackages.x86_64-linux.wayland-bongocat:
   description: Delightful Wayland overlay that displays an animated bongo cat reacting to keyboard input
   pname: wayland-bongocat
   version: 2.0.0
+legacyPackages.x86_64-linux.wayland-colorbar:
+  description: A simple wayland client that can be used for testing
+  pname: wayland-colorbar
+  version: 0.1.1
 legacyPackages.x86_64-linux.wayland-logout:
   description: 'A utility designed to kill a single instance of a wayland compositor '
   pname: wayland-logout
@@ -439569,7 +439573,7 @@ legacyPackages.x86_64-linux.zerofree:
 legacyPackages.x86_64-linux.zerofs:
   description: Filesystem That Makes S3 your Primary Storage.
   pname: zerofs
-  version: 2.0.6
+  version: 2.0.10
 legacyPackages.x86_64-linux.zeromq:
   description: Intelligent Transport Layer
   pname: zeromq
