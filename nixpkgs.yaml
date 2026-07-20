@@ -349,11 +349,11 @@ legacyPackages.x86_64-linux._7zip-zstd-rar:
 legacyPackages.x86_64-linux._7zz:
   description: Command line version of the 7-Zip archiver utility
   pname: 7zz
-  version: "26.01"
+  version: "26.02"
 legacyPackages.x86_64-linux._7zz-rar:
   description: Command line version of the 7-Zip archiver utility
   pname: 7zz
-  version: "26.01"
+  version: "26.02"
 legacyPackages.x86_64-linux._86Box:
   description: Emulator of x86-based machines based on PCem
   pname: 86box
@@ -9425,7 +9425,7 @@ legacyPackages.x86_64-linux.auto-cpufreq:
 legacyPackages.x86_64-linux.auto-editor:
   description: Command line application for automatically editing video and audio by analyzing a variety of methods, most notably audio loudness
   pname: auto-editor
-  version: 30.4.0
+  version: 31.0.0
 legacyPackages.x86_64-linux.auto-epp:
   description: Energy performance preference tuner for AMD processors when amd_pstate=active
   pname: auto-epp
@@ -22794,6 +22794,10 @@ legacyPackages.x86_64-linux.confy:
   description: Conferences schedule viewer
   pname: confy
   version: 0.9.0
+legacyPackages.x86_64-linux.confy-tui:
+  description: config manager tui for linux/unix systems
+  pname: confy-tui
+  version: 3.0.0
 legacyPackages.x86_64-linux.conglomerate:
   description: More command-line utilities for working with MINC files
   pname: conglomerate-unstable
@@ -23265,11 +23269,11 @@ legacyPackages.x86_64-linux.coqPackages.coq-elpi:
 legacyPackages.x86_64-linux.coqPackages.coq-hammer:
   description: General-purpose automated reasoning hammer tool for Coq
   pname: coq9.1-coq-hammer
-  version: 1.3.2+9.1
+  version: 1.3.3+9.1
 legacyPackages.x86_64-linux.coqPackages.coq-hammer-tactics:
   description: Reconstruction tactics for the hammer for Coq
   pname: coq9.1-coq-hammer-tactics
-  version: 1.3.2+9.1
+  version: 1.3.3+9.1
 legacyPackages.x86_64-linux.coqPackages.coq-lsp:
   description: Language Server Protocol and VS Code Extension for Coq
   pname: coq-lsp
@@ -26701,7 +26705,7 @@ legacyPackages.x86_64-linux.dasht:
 legacyPackages.x86_64-linux.dashy-ui:
   description: Open source, highly customizable, easy-to-use, privacy-respecting dashboard app
   pname: dashy-ui
-  version: 4.4.2
+  version: 4.4.5
 legacyPackages.x86_64-linux.dasm:
   description: Assembler for 6502 and other 8-bit microprocessors
   pname: dasm
@@ -30797,7 +30801,7 @@ legacyPackages.x86_64-linux.drumkv1:
 legacyPackages.x86_64-linux.drupal:
   description: Drupal CMS
   pname: drupal
-  version: 11.4.2
+  version: 11.4.4
 legacyPackages.x86_64-linux.dry:
   description: Terminal application to manage Docker and Docker Swarm
   pname: dry
@@ -39817,7 +39821,7 @@ legacyPackages.x86_64-linux.gdb:
 legacyPackages.x86_64-linux.gdb-dashboard:
   description: Modular visual interface for GDB in Python
   pname: gdb-dashboard
-  version: 0.17.4
+  version: 0.17.5
 legacyPackages.x86_64-linux.gdbHostCpuOnly:
   description: GNU Project debugger
   pname: gdb-host-cpu-only
@@ -40285,7 +40289,7 @@ legacyPackages.x86_64-linux.germinal:
 legacyPackages.x86_64-linux.gerrit:
   description: Web based code review and repository management for the git version control system
   pname: gerrit
-  version: 3.13.6
+  version: 3.14.2
 legacyPackages.x86_64-linux.gerrit-queue:
   description: Merge bot for Gerrit
   pname: gerrit-queue
@@ -40405,7 +40409,7 @@ legacyPackages.x86_64-linux.gfold:
 legacyPackages.x86_64-linux.gforth:
   description: Forth implementation of the GNU project
   pname: gforth
-  version: 0.7.9_20260708
+  version: 0.7.9_20260715
 legacyPackages.x86_64-linux.gfortran:
   description: GNU Compiler Collection, version 15.2.0 (wrapper script)
   pname: gfortran-wrapper
@@ -131681,7 +131685,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.blitzortung:
 legacyPackages.x86_64-linux.home-assistant-custom-components.blueprints-updater:
   description: Automatically update Home Assistant blueprints via native update entities
   pname: python3.14-luuquangvu-blueprints_updater
-  version: 2.9.2
+  version: 2.10.1
 legacyPackages.x86_64-linux.home-assistant-custom-components.bodymiscale:
   description: Home Assistant custom component providing body metrics for Xiaomi Mi Scale 1 and 2
   pname: python3.14-dckiller51-bodymiscale
@@ -131693,7 +131697,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.browser-mod:
 legacyPackages.x86_64-linux.home-assistant-custom-components.cable_modem_monitor:
   description: Home Assistant integration for monitoring cable modem signal quality
   pname: python3.14-solentlabs-cable_modem_monitor
-  version: 3.14.0-beta.13
+  version: 3.14.0-beta.14
 legacyPackages.x86_64-linux.home-assistant-custom-components.calendar_export:
   description: Export calendar events in the iCalendar format
   pname: python3.14-JosephAbbey-calendar_export
@@ -131969,7 +131973,7 @@ legacyPackages.x86_64-linux.home-assistant-custom-components.sleep_as_android_mq
 legacyPackages.x86_64-linux.home-assistant-custom-components.smarthq:
   description: Home Assistant integration for GE Appliances SmartHQ connected devices
   pname: python3.14-geappliances-smarthq
-  version: 1.2.2
+  version: 1.2.3
 legacyPackages.x86_64-linux.home-assistant-custom-components.smartir:
   description: Integration for Home Assistant to control climate, TV and fan devices via IR/RF controllers (Broadlink, Xiaomi, MQTT, LOOKin, ESPHome)
   pname: python3.14-smartHomeHub-smartir
@@ -137601,7 +137605,7 @@ legacyPackages.x86_64-linux.itgmaniaPackages.itg2-sm5:
 legacyPackages.x86_64-linux.itgmaniaPackages.itg3encore:
   description: An upgraded port of ITG3's Encore theme
   pname: itg3encore
-  version: 0-unstable-2026-07-07
+  version: 0-unstable-2026-07-18
 legacyPackages.x86_64-linux.itgmaniaPackages.itgmania-unwrapped:
   description: Fork of StepMania 5.1, improved for the post-ITG community
   pname: itgmania
@@ -137953,7 +137957,7 @@ legacyPackages.x86_64-linux.jasmin:
 legacyPackages.x86_64-linux.jasmin-compiler:
   description: Workbench for high-assurance and high-speed cryptography
   pname: jasmin-compiler
-  version: 2026.03.1
+  version: 2026.03.2
 legacyPackages.x86_64-linux.jasp-desktop:
   description: Complete statistical package for both Bayesian and Frequentist statistical methods
   pname: jasp-desktop
@@ -145517,7 +145521,7 @@ legacyPackages.x86_64-linux.left4gore-bin:
 legacyPackages.x86_64-linux.lefthook:
   description: Fast and powerful Git hooks manager for any type of projects
   pname: lefthook
-  version: 2.1.5
+  version: 2.1.10
 legacyPackages.x86_64-linux.leftwm:
   description: Tiling window manager for the adventurer
   pname: leftwm
@@ -146481,7 +146485,7 @@ legacyPackages.x86_64-linux.libchdr:
 legacyPackages.x86_64-linux.libchewing:
   description: Intelligent Chinese phonetic input method
   pname: libchewing
-  version: 0.13.0
+  version: 0.13.1
 legacyPackages.x86_64-linux.libchipcard:
   description: Library for access to chipcards
   pname: libchipcard
@@ -147217,7 +147221,7 @@ legacyPackages.x86_64-linux.libfreehand:
 legacyPackages.x86_64-linux.libfrida-core:
   description: Frida core library intended for static linking into bindings
   pname: libfrida-core
-  version: 17.15.4
+  version: 17.16.0
 legacyPackages.x86_64-linux.libfs:
   description: X Font Service client library
   pname: libfs
@@ -182689,7 +182693,7 @@ legacyPackages.x86_64-linux.nixos-install:
 legacyPackages.x86_64-linux.nixos-install-tools:
   description: Essential commands from the NixOS installer as a package
   pname: nixos-install-tools
-  version: 26.11pre1037691.472e4428b5ae
+  version: 26.11pre1037806.a16c3fde2ffe
 legacyPackages.x86_64-linux.nixos-option:
   description: Evaluate NixOS configuration and return the properties of given option
   pname: nixos-option
@@ -188349,7 +188353,7 @@ legacyPackages.x86_64-linux.ocamlPackages.mec:
 legacyPackages.x86_64-linux.ocamlPackages.melange:
   description: Toolchain to produce JS from Reason/OCaml
   pname: ocaml5.4.1-melange
-  version: 7.0.0-54
+  version: 7.0.1-54
 legacyPackages.x86_64-linux.ocamlPackages.melange-json:
   description: Compositional JSON encode/decode library and PPX for Melange and OCaml
   pname: ocaml5.4.1-melange-json
@@ -190041,7 +190045,7 @@ legacyPackages.x86_64-linux.ocamlPackages.res:
 legacyPackages.x86_64-linux.ocamlPackages.resource-pooling:
   description: Library for pooling resources like connections, threads, or similar
   pname: ocaml5.4.1-resource-pooling
-  version: "1.2"
+  version: "1.3"
 legacyPackages.x86_64-linux.ocamlPackages.resource_cache:
   description: General resource cache
   pname: ocaml5.4.1-resource_cache
@@ -193933,7 +193937,7 @@ legacyPackages.x86_64-linux.ocamlPackages_latest.mec:
 legacyPackages.x86_64-linux.ocamlPackages_latest.melange:
   description: Toolchain to produce JS from Reason/OCaml
   pname: ocaml5.5.0-melange
-  version: 7.0.0-55
+  version: 7.0.1-55
 legacyPackages.x86_64-linux.ocamlPackages_latest.melange-json:
   description: Compositional JSON encode/decode library and PPX for Melange and OCaml
   pname: ocaml5.5.0-melange-json
@@ -195625,7 +195629,7 @@ legacyPackages.x86_64-linux.ocamlPackages_latest.res:
 legacyPackages.x86_64-linux.ocamlPackages_latest.resource-pooling:
   description: Library for pooling resources like connections, threads, or similar
   pname: ocaml5.5.0-resource-pooling
-  version: "1.2"
+  version: "1.3"
 legacyPackages.x86_64-linux.ocamlPackages_latest.resource_cache:
   description: General resource cache
   pname: ocaml5.5.0-resource_cache
@@ -201517,7 +201521,7 @@ legacyPackages.x86_64-linux.patch-package:
 legacyPackages.x86_64-linux.patch2pr:
   description: Create pull requests from patches without cloning the repository
   pname: patch2pr
-  version: 0.45.1
+  version: 0.46.0
 legacyPackages.x86_64-linux.patchPpdFilesHook:
   description: Setup hook to patch executable paths in ppd files
   pname: patch-ppd-files
@@ -205017,7 +205021,7 @@ legacyPackages.x86_64-linux.perl5Packages.Filter:
 legacyPackages.x86_64-linux.perl5Packages.FinanceQuote:
   description: Get stock and mutual fund quotes from various exchanges
   pname: perl5.42.0-Finance-Quote
-  version: "1.68"
+  version: "1.70"
 legacyPackages.x86_64-linux.perl5Packages.FindLib:
   description: Helper to smartly find libs to use in the filesystem tree
   pname: perl5.42.0-Find-Lib
@@ -212849,7 +212853,7 @@ legacyPackages.x86_64-linux.perlPackages.Filter:
 legacyPackages.x86_64-linux.perlPackages.FinanceQuote:
   description: Get stock and mutual fund quotes from various exchanges
   pname: perl5.42.0-Finance-Quote
-  version: "1.68"
+  version: "1.70"
 legacyPackages.x86_64-linux.perlPackages.FindLib:
   description: Helper to smartly find libs to use in the filesystem tree
   pname: perl5.42.0-Find-Lib
@@ -225937,7 +225941,7 @@ legacyPackages.x86_64-linux.prometheus-node-cert-exporter:
 legacyPackages.x86_64-linux.prometheus-node-exporter:
   description: Prometheus exporter for machine metrics
   pname: node_exporter
-  version: 1.12.0
+  version: 1.12.1
 legacyPackages.x86_64-linux.prometheus-nut-exporter:
   description: Prometheus exporter for Network UPS Tools
   pname: nut-exporter
@@ -246809,7 +246813,7 @@ legacyPackages.x86_64-linux.python313Packages.matscipy:
 legacyPackages.x86_64-linux.python313Packages.matter-ble-proxy:
   description: Client library for the OHF Matter Server BLE proxy protocol
   pname: python3.13-matter-ble-proxy
-  version: 1.2.2
+  version: 1.2.7
 legacyPackages.x86_64-linux.python313Packages.matter-python-client:
   description: Python Client for the OHF Matter Server
   pname: python3.13-matter-python-client
@@ -270121,7 +270125,7 @@ legacyPackages.x86_64-linux.python313Packages.types-redis:
 legacyPackages.x86_64-linux.python313Packages.types-regex:
   description: Typing stubs for regex
   pname: python3.13-types-regex
-  version: 2026.6.28.20260630
+  version: 2026.7.10.20260711
 legacyPackages.x86_64-linux.python313Packages.types-requests:
   description: Typing stubs for requests
   pname: python3.13-types-requests
@@ -271013,7 +271017,7 @@ legacyPackages.x86_64-linux.python313Packages.victron-ble-ha-parser:
 legacyPackages.x86_64-linux.python313Packages.victron-mqtt:
   description: Victron Venus MQTT client library documentation
   pname: python3.13-victron-mqtt
-  version: 2026.7.3
+  version: 2026.7.5
 legacyPackages.x86_64-linux.python313Packages.victron-vrm:
   description: Async Python client for the Victron Energy VRM API
   pname: python3.13-victron-vrm
@@ -292137,7 +292141,7 @@ legacyPackages.x86_64-linux.python314Packages.matscipy:
 legacyPackages.x86_64-linux.python314Packages.matter-ble-proxy:
   description: Client library for the OHF Matter Server BLE proxy protocol
   pname: python3.14-matter-ble-proxy
-  version: 1.2.2
+  version: 1.2.7
 legacyPackages.x86_64-linux.python314Packages.matter-python-client:
   description: Python Client for the OHF Matter Server
   pname: python3.14-matter-python-client
@@ -315449,7 +315453,7 @@ legacyPackages.x86_64-linux.python314Packages.types-redis:
 legacyPackages.x86_64-linux.python314Packages.types-regex:
   description: Typing stubs for regex
   pname: python3.14-types-regex
-  version: 2026.6.28.20260630
+  version: 2026.7.10.20260711
 legacyPackages.x86_64-linux.python314Packages.types-requests:
   description: Typing stubs for requests
   pname: python3.14-types-requests
@@ -316341,7 +316345,7 @@ legacyPackages.x86_64-linux.python314Packages.victron-ble-ha-parser:
 legacyPackages.x86_64-linux.python314Packages.victron-mqtt:
   description: Victron Venus MQTT client library documentation
   pname: python3.14-victron-mqtt
-  version: 2026.7.3
+  version: 2026.7.5
 legacyPackages.x86_64-linux.python314Packages.victron-vrm:
   description: Async Python client for the Victron Energy VRM API
   pname: python3.14-victron-vrm
@@ -320589,7 +320593,7 @@ legacyPackages.x86_64-linux.rblake3sum:
 legacyPackages.x86_64-linux.rbspy:
   description: Sampling CPU Profiler for Ruby
   pname: rbspy
-  version: 0.49.0
+  version: 0.50.0
 legacyPackages.x86_64-linux.rbw:
   description: Unofficial command line client for Bitwarden
   pname: rbw
@@ -330757,7 +330761,7 @@ legacyPackages.x86_64-linux.ruler:
 legacyPackages.x86_64-linux.rumdl:
   description: Markdown linter and formatter
   pname: rumdl
-  version: 0.2.31
+  version: 0.2.37
 legacyPackages.x86_64-linux.rumno:
   description: Visual pop-up notification manager
   pname: rumno
@@ -353774,6 +353778,10 @@ legacyPackages.x86_64-linux.slurp:
   description: Select a region in a Wayland compositor
   pname: slurp
   version: 1.5.0
+legacyPackages.x86_64-linux.slurp-fediverse:
+  description: Tool for exporting data from and importing data to Fediverse instances
+  pname: slurp
+  version: 1.1.1
 legacyPackages.x86_64-linux.slushload:
   description: Make turbo tape images from .prg files
   pname: slushload
@@ -360741,7 +360749,7 @@ legacyPackages.x86_64-linux.terraform-providers.keycloak_keycloak:
 legacyPackages.x86_64-linux.terraform-providers.kislerdm_neon:
   description: ""
   pname: terraform-provider-neon
-  version: 0.13.0
+  version: 0.14.0
 legacyPackages.x86_64-linux.terraform-providers.kreuzwerker_docker:
   description: ""
   pname: terraform-provider-docker
@@ -360845,7 +360853,7 @@ legacyPackages.x86_64-linux.terraform-providers.opsgenie_opsgenie:
 legacyPackages.x86_64-linux.terraform-providers.oracle_oci:
   description: ""
   pname: terraform-provider-oci
-  version: 8.22.0
+  version: 8.23.0
 legacyPackages.x86_64-linux.terraform-providers.ovh_ovh:
   description: ""
   pname: terraform-provider-ovh
@@ -432229,7 +432237,7 @@ legacyPackages.x86_64-linux.vtk_9_5:
 legacyPackages.x86_64-linux.vtk_9_6:
   description: Open source libraries for 3D computer graphics, image processing and visualization
   pname: vtk
-  version: 9.6.0
+  version: 9.6.2
 legacyPackages.x86_64-linux.vtk_9_egl:
   description: Open source libraries for 3D computer graphics, image processing and visualization
   pname: vtk
@@ -435117,7 +435125,7 @@ legacyPackages.x86_64-linux.wshowkeys:
 legacyPackages.x86_64-linux.wsjtx:
   description: Weak-signal digital communication modes for amateur radio
   pname: wsjtx
-  version: 3.0.1
+  version: 3.0.2
 legacyPackages.x86_64-linux.wsjtz:
   description: WSJT-X fork, primarily focused on automation and enhanced functionality
   pname: wsjtz
@@ -439357,7 +439365,7 @@ legacyPackages.x86_64-linux.zarf:
 legacyPackages.x86_64-linux.zashboard:
   description: Dashboard Using Clash API
   pname: zashboard
-  version: 3.14.0
+  version: 3.15.0
 legacyPackages.x86_64-linux.zasm:
   description: Z80 / 8080 / Z180 assembler (for unix-style OS)
   pname: zasm
