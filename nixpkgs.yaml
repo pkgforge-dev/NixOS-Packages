@@ -20601,11 +20601,11 @@ legacyPackages.x86_64-linux.chrome-token-signing:
 legacyPackages.x86_64-linux.chromedriver:
   description: WebDriver server for running Selenium tests on Chrome
   pname: chromedriver-unwrapped
-  version: 150.0.7871.181
+  version: 150.0.7871.186
 legacyPackages.x86_64-linux.chromium:
   description: Open source web browser from Google
   pname: chromium
-  version: 150.0.7871.181
+  version: 150.0.7871.186
 legacyPackages.x86_64-linux.chromium-bsu:
   description: Fast paced, arcade-style, top-scrolling space shooter
   pname: chromium-bsu
@@ -23505,7 +23505,7 @@ legacyPackages.x86_64-linux.coqPackages.mathcomp-tarjan:
 legacyPackages.x86_64-linux.coqPackages.mathcomp-word:
   description: Yet Another Coq Library on Machine Words
   pname: coq9.1-mathcomp2.5-word
-  version: "3.4"
+  version: "3.5"
 legacyPackages.x86_64-linux.coqPackages.mathcomp-zify:
   description: Micromega tactics for Mathematical Components
   pname: coq9.1-mathcomp2.5-zify
@@ -50397,7 +50397,7 @@ legacyPackages.x86_64-linux.google-chat-linux:
 legacyPackages.x86_64-linux.google-chrome:
   description: Freeware web browser developed by Google
   pname: google-chrome
-  version: 150.0.7871.181
+  version: 150.0.7871.186
 legacyPackages.x86_64-linux.google-clasp:
   description: Develop Apps Script Projects locally
   pname: clasp
@@ -50757,7 +50757,7 @@ legacyPackages.x86_64-linux.gotop:
 legacyPackages.x86_64-linux.gotosocial:
   description: Fast, fun, ActivityPub server, powered by Go
   pname: gotosocial
-  version: 0.22.0
+  version: 0.22.1
 legacyPackages.x86_64-linux.gotraceui:
   description: Efficient frontend for Go execution traces
   pname: gotraceui
@@ -52521,7 +52521,7 @@ legacyPackages.x86_64-linux.gtkterm:
 legacyPackages.x86_64-linux.gtkwave:
   description: VCD/Waveform viewer for Unix and Win32
   pname: gtkwave
-  version: 3.3.127
+  version: 3.3.128
 legacyPackages.x86_64-linux.gtmathematics:
   description: A collection of source code for computing in the fields of mathematics, geometry, graphics, image analysis and physics.
   pname: gtmathematics
@@ -146729,7 +146729,7 @@ legacyPackages.x86_64-linux.levmar:
 legacyPackages.x86_64-linux.lexbor:
   description: Open source HTML Renderer library
   pname: lexbor
-  version: 3.0.0-unstable-2026-05-26
+  version: 3.0.0-unstable-2026-07-15
 legacyPackages.x86_64-linux.lexend:
   description: Variable font family designed to aid in reading proficiency
   pname: lexend
@@ -152953,7 +152953,7 @@ legacyPackages.x86_64-linux.linuxKernel.kernels.linux_rpi4:
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_testing:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
-  version: 7.2-rc3
+  version: 7.2-rc4
 legacyPackages.x86_64-linux.linuxKernel.kernels.linux_xanmod:
   description: Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience
   pname: linux-xanmod
@@ -164113,7 +164113,7 @@ legacyPackages.x86_64-linux.linux_rpi4:
 legacyPackages.x86_64-linux.linux_testing:
   description: 'The Linux kernel (with patches: bridge-stp-helper, request-key-helper)'
   pname: linux
-  version: 7.2-rc3
+  version: 7.2-rc4
 legacyPackages.x86_64-linux.linux_xanmod:
   description: Built with custom settings and new features built to provide a stable, responsive and smooth desktop experience
   pname: linux-xanmod
@@ -175237,7 +175237,7 @@ legacyPackages.x86_64-linux.matrix-sdk-crypto-nodejs:
 legacyPackages.x86_64-linux.matrix-synapse:
   description: Matrix reference homeserver
   pname: matrix-synapse
-  version: 1.156.0
+  version: 1.157.1
 legacyPackages.x86_64-linux.matrix-synapse-plugins.matrix-http-rendezvous-synapse:
   description: 'Implementation of MSC3886: Simple rendezvous capability'
   pname: python3.14-matrix-http-rendezvous-synapse
@@ -175269,7 +175269,7 @@ legacyPackages.x86_64-linux.matrix-synapse-plugins.synapse-http-antispam:
 legacyPackages.x86_64-linux.matrix-synapse-unwrapped:
   description: Matrix reference homeserver
   pname: matrix-synapse
-  version: 1.156.0
+  version: 1.157.1
 legacyPackages.x86_64-linux.matrix-tuwunel:
   description: Matrix homeserver written in Rust, official successor to conduwuit
   pname: matrix-tuwunel
@@ -178734,6 +178734,10 @@ legacyPackages.x86_64-linux.moonraker:
   description: API web server for Klipper
   pname: moonraker
   version: 0.10.0
+legacyPackages.x86_64-linux.moonshine:
+  description: Headless streaming server for Moonlight clients
+  pname: moonshine
+  version: 0.13.5
 legacyPackages.x86_64-linux.moor:
   description: Nice-to-use pager for humans
   pname: moor
@@ -183605,7 +183609,7 @@ legacyPackages.x86_64-linux.nixos-install:
 legacyPackages.x86_64-linux.nixos-install-tools:
   description: Essential commands from the NixOS installer as a package
   pname: nixos-install-tools
-  version: 26.11pre1040818.91cc1fdf6831
+  version: 26.11pre1040892.335f0738cb2f
 legacyPackages.x86_64-linux.nixos-option:
   description: Evaluate NixOS configuration and return the properties of given option
   pname: nixos-option
@@ -183745,471 +183749,483 @@ legacyPackages.x86_64-linux.nls:
 legacyPackages.x86_64-linux.nltk-data.abc:
   description: NLTK Data
   pname: abc
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.alpino:
   description: NLTK Data
   pname: alpino
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.averaged-perceptron-tagger:
   description: NLTK Data
   pname: averaged_perceptron_tagger
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.averaged-perceptron-tagger-eng:
   description: NLTK Data
   pname: averaged_perceptron_tagger_eng
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.averaged-perceptron-tagger-ru:
   description: NLTK Data
   pname: averaged_perceptron_tagger_ru
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.averaged-perceptron-tagger-rus:
   description: NLTK Data
   pname: averaged_perceptron_tagger_rus
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.basque-grammars:
   description: NLTK Data
   pname: basque_grammars
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.bcp47:
   description: NLTK Data
   pname: bcp47
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.biocreative-ppi:
   description: NLTK Data
   pname: biocreative_ppi
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.bllip-wsj-no-aux:
   description: NLTK Data
   pname: bllip_wsj_no_aux
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.book-grammars:
   description: NLTK Data
   pname: book_grammars
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.brown:
   description: NLTK Data
   pname: brown
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.brown-tei:
   description: NLTK Data
   pname: brown_tei
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.cess-cat:
   description: NLTK Data
   pname: cess_cat
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.cess-esp:
   description: NLTK Data
   pname: cess_esp
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.chat80:
   description: NLTK Data
   pname: chat80
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.city-database:
   description: NLTK Data
   pname: city_database
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.cmudict:
   description: NLTK Data
   pname: cmudict
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.comparative-sentences:
   description: NLTK Data
   pname: comparative_sentences
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.comtrans:
   description: NLTK Data
   pname: comtrans
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.conll2000:
   description: NLTK Data
   pname: conll2000
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.conll2002:
   description: NLTK Data
   pname: conll2002
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.conll2007:
   description: NLTK Data
   pname: conll2007
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.crubadan:
   description: NLTK Data
   pname: crubadan
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.dependency-treebank:
   description: NLTK Data
   pname: dependency_treebank
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.dolch:
   description: NLTK Data
   pname: dolch
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
+legacyPackages.x86_64-linux.nltk-data.english_wordnet:
+  description: NLTK Data
+  pname: english_wordnet
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.europarl-raw:
   description: NLTK Data
   pname: europarl_raw
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.extended-omw:
   description: NLTK Data
   pname: extended_omw
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.floresta:
   description: NLTK Data
   pname: floresta
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.framenet-v15:
   description: NLTK Data
   pname: framenet_v15
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.framenet-v17:
   description: NLTK Data
   pname: framenet_v17
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.gazetteers:
   description: NLTK Data
   pname: gazetteers
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.genesis:
   description: NLTK Data
   pname: genesis
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.gutenberg:
   description: NLTK Data
   pname: gutenberg
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.ieer:
   description: NLTK Data
   pname: ieer
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.inaugural:
   description: NLTK Data
   pname: inaugural
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.indian:
   description: NLTK Data
   pname: indian
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.jeita:
   description: NLTK Data
   pname: jeita
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.kimmo:
   description: NLTK Data
   pname: kimmo
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.knbc:
   description: NLTK Data
   pname: knbc
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.large-grammars:
   description: NLTK Data
   pname: large_grammars
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.lin-thesaurus:
   description: NLTK Data
   pname: lin_thesaurus
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.mac-morpho:
   description: NLTK Data
   pname: mac_morpho
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.machado:
   description: NLTK Data
   pname: machado
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.masc-tagged:
   description: NLTK Data
   pname: masc_tagged
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.maxent-ne-chunker:
   description: NLTK Data
   pname: maxent_ne_chunker
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.maxent-ne-chunker-tab:
   description: NLTK Data
   pname: maxent_ne_chunker_tab
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.maxent-treebank-pos-tagger:
   description: NLTK Data
   pname: maxent_treebank_pos_tagger
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.maxent-treebank-pos-tagger-tab:
   description: NLTK Data
   pname: maxent_treebank_pos_tagger_tab
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
+legacyPackages.x86_64-linux.nltk-data.mock_corpus:
+  description: NLTK Data
+  pname: mock_corpus
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.moses-sample:
   description: NLTK Data
   pname: moses_sample
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.movie-reviews:
   description: NLTK Data
   pname: movie_reviews
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.mte-teip5:
   description: NLTK Data
   pname: mte_teip5
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.mwa-ppdb:
   description: NLTK Data
   pname: mwa_ppdb
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.names:
   description: NLTK Data
   pname: names
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.nombank-1-0:
   description: NLTK Data
   pname: nombank.1.0
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.nonbreaking-prefixes:
   description: NLTK Data
   pname: nonbreaking_prefixes
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.nps-chat:
   description: NLTK Data
   pname: nps_chat
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.omw:
   description: NLTK Data
   pname: omw
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.omw-1-4:
   description: NLTK Data
   pname: omw
-  version: 1.4-0-unstable-2024-07-29
+  version: 1.4-0-unstable-2026-07-01
+legacyPackages.x86_64-linux.nltk-data.omw-2-0:
+  description: NLTK Data
+  pname: omw
+  version: 2.0-0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.opinion-lexicon:
   description: NLTK Data
   pname: opinion_lexicon
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.panlex-swadesh:
   description: NLTK Data
   pname: panlex_swadesh
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.paradigms:
   description: NLTK Data
   pname: paradigms
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.pe08:
   description: NLTK Data
   pname: pe08
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.perluniprops:
   description: NLTK Data
   pname: perluniprops
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.pil:
   description: NLTK Data
   pname: pil
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.pl196x:
   description: NLTK Data
   pname: pl196x
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.porter-test:
   description: NLTK Data
   pname: porter_test
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.ppattach:
   description: NLTK Data
   pname: ppattach
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.problem-reports:
   description: NLTK Data
   pname: problem_reports
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.product-reviews-1:
   description: NLTK Data
   pname: product_reviews_1
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.product-reviews-2:
   description: NLTK Data
   pname: product_reviews_2
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.propbank:
   description: NLTK Data
   pname: propbank
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.pros-cons:
   description: NLTK Data
   pname: pros_cons
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.ptb:
   description: NLTK Data
   pname: ptb
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.punkt:
   description: NLTK Data
   pname: punkt
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.punkt-tab:
   description: NLTK Data
   pname: punkt_tab
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.qc:
   description: NLTK Data
   pname: qc
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.reuters:
   description: NLTK Data
   pname: reuters
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.rslp:
   description: NLTK Data
   pname: rslp
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.rte:
   description: NLTK Data
   pname: rte
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.sample-grammars:
   description: NLTK Data
   pname: sample_grammars
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.semcor:
   description: NLTK Data
   pname: semcor
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.senseval:
   description: NLTK Data
   pname: senseval
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.sentence-polarity:
   description: NLTK Data
   pname: sentence_polarity
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.sentiwordnet:
   description: NLTK Data
   pname: sentiwordnet
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.shakespeare:
   description: NLTK Data
   pname: shakespeare
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.sinica-treebank:
   description: NLTK Data
   pname: sinica_treebank
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.smultron:
   description: NLTK Data
   pname: smultron
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.snowball-data:
   description: NLTK Data
   pname: snowball_data
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.spanish-grammars:
   description: NLTK Data
   pname: spanish_grammars
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.state-union:
   description: NLTK Data
   pname: state_union
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.stopwords:
   description: NLTK Data
   pname: stopwords
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.subjectivity:
   description: NLTK Data
   pname: subjectivity
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.swadesh:
   description: NLTK Data
   pname: swadesh
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.switchboard:
   description: NLTK Data
   pname: switchboard
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.tagsets-json:
   description: NLTK Data
   pname: tagsets_json
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.timit:
   description: NLTK Data
   pname: timit
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.toolbox:
   description: NLTK Data
   pname: toolbox
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.treebank:
   description: NLTK Data
   pname: treebank
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.twitter-samples:
   description: NLTK Data
   pname: twitter_samples
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.udhr:
   description: NLTK Data
   pname: udhr
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.udhr2:
   description: NLTK Data
   pname: udhr2
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.unicode-samples:
   description: NLTK Data
   pname: unicode_samples
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.universal-tagset:
   description: NLTK Data
   pname: universal_tagset
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.universal-treebanks-v20:
   description: NLTK Data
   pname: universal_treebanks_v20
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.verbnet:
   description: NLTK Data
   pname: verbnet
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.verbnet3:
   description: NLTK Data
   pname: verbnet3
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.webtext:
   description: NLTK Data
   pname: webtext
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.wmt15-eval:
   description: NLTK Data
   pname: wmt15_eval
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.word2vec-sample:
   description: NLTK Data
   pname: word2vec_sample
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.wordnet:
   description: NLTK Data
   pname: wordnet
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.wordnet-ic:
   description: NLTK Data
   pname: wordnet_ic
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.wordnet2021:
   description: NLTK Data
   pname: wordnet2021
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.wordnet2022:
   description: NLTK Data
   pname: wordnet2022
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.wordnet31:
   description: NLTK Data
   pname: wordnet31
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.words:
   description: NLTK Data
   pname: words
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nltk-data.ycoe:
   description: NLTK Data
   pname: ycoe
-  version: 0-unstable-2024-07-29
+  version: 0-unstable-2026-07-01
 legacyPackages.x86_64-linux.nm-file-secret-agent:
   description: NetworkManager secret agent that responds with the content of preconfigured files
   pname: nm-file-secret-agent
@@ -185493,7 +185509,7 @@ legacyPackages.x86_64-linux.nv-codec-headers-9:
 legacyPackages.x86_64-linux.nvc:
   description: VHDL compiler and simulator
   pname: nvc
-  version: 1.21.1
+  version: 1.22.0
 legacyPackages.x86_64-linux.nvcat:
   description: '`cat` but with syntax highlighting powered by Neovim'
   pname: nvcat
@@ -226061,7 +226077,7 @@ legacyPackages.x86_64-linux.powerpipe:
 legacyPackages.x86_64-linux.powershell:
   description: Powerful cross-platform (Windows, Linux, and macOS) shell and scripting language based on .NET
   pname: powershell
-  version: 7.6.3
+  version: 7.6.4
 legacyPackages.x86_64-linux.powershell-editor-services:
   description: Common platform for PowerShell development support in any editor or application
   pname: powershell-editor-services
@@ -230882,10 +230898,6 @@ legacyPackages.x86_64-linux.python313Packages.amqp:
   description: Python client for the Advanced Message Queuing Procotol (AMQP). This is a fork of amqplib which is maintained by the Celery project
   pname: python3.13-amqp
   version: 5.3.1
-legacyPackages.x86_64-linux.python313Packages.amqtt:
-  description: Python MQTT client and broker implementation
-  pname: python3.13-amqtt-unstable
-  version: "2022-05-29"
 legacyPackages.x86_64-linux.python313Packages.amshan:
   description: Decode smart power meter data stream of Cosem HDLC frames used by MBUS
   pname: python3.13-amshan
@@ -245793,7 +245805,7 @@ legacyPackages.x86_64-linux.python313Packages.langchain-anthropic:
 legacyPackages.x86_64-linux.python313Packages.langchain-aws:
   description: Build LangChain application on AWS
   pname: python3.13-langchain-aws
-  version: 1.6.2
+  version: 1.6.3
 legacyPackages.x86_64-linux.python313Packages.langchain-azure-dynamic-sessions:
   description: Integration package connecting Azure Container Apps dynamic sessions and LangChain
   pname: python3.13-langchain-azure-dynamic-sessions
@@ -251493,7 +251505,7 @@ legacyPackages.x86_64-linux.python313Packages.nlpo3:
 legacyPackages.x86_64-linux.python313Packages.nltk:
   description: Natural Language Processing ToolKit
   pname: python3.13-nltk
-  version: 3.9.4
+  version: 3.10.0
 legacyPackages.x86_64-linux.python313Packages.nmapthon2:
   description: Python library to automate nmap
   pname: python3.13-nmapthon2
@@ -254015,21 +254027,13 @@ legacyPackages.x86_64-linux.python313Packages.pinboard:
   pname: python3.13-pinboard
   version: 2.1.9
 legacyPackages.x86_64-linux.python313Packages.pinecone:
-  description: Pinecone python client
+  description: Pinecone Python SDK
   pname: python3.13-pinecone
-  version: 8.1.2
+  version: 9.1.0
 legacyPackages.x86_64-linux.python313Packages.pinecone-client:
-  description: Pinecone python client
+  description: Pinecone Python SDK
   pname: python3.13-pinecone
-  version: 8.1.2
-legacyPackages.x86_64-linux.python313Packages.pinecone-plugin-assistant:
-  description: Assistant plugin for Pinecone SDK
-  pname: python3.13-pinecone-plugin-assistant
-  version: 3.0.3
-legacyPackages.x86_64-linux.python313Packages.pinecone-plugin-interface:
-  description: Plugin interface for the Pinecone python client
-  pname: python3.13-pinecone-plugin-interface
-  version: 0.0.7
+  version: 9.1.0
 legacyPackages.x86_64-linux.python313Packages.ping3:
   description: ICMP ping implementation using raw socket
   pname: python3.13-ping3
@@ -263821,7 +263825,7 @@ legacyPackages.x86_64-linux.python313Packages.segyio:
 legacyPackages.x86_64-linux.python313Packages.selectolax:
   description: Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python
   pname: python3.13-selectolax
-  version: 0.4.10
+  version: 0.4.11
 legacyPackages.x86_64-linux.python313Packages.selenium:
   description: Bindings for Selenium WebDriver
   pname: python3.13-selenium
@@ -272182,10 +272186,6 @@ legacyPackages.x86_64-linux.python313Packages.volvocarsapi:
   description: Python client for the Volvo Cars API
   pname: python3.13-volvocarsapi
   version: 0.4.3
-legacyPackages.x86_64-linux.python313Packages.volvooncall:
-  description: Retrieve information from the Volvo On Call web service
-  pname: python3.13-volvooncall
-  version: 0.10.4
 legacyPackages.x86_64-linux.python313Packages.vowpalwabbit:
   description: Vowpal Wabbit is a fast machine learning library for online learning, and this is the python wrapper for the project
   pname: python3.13-vowpalwabbit
@@ -276282,10 +276282,6 @@ legacyPackages.x86_64-linux.python314Packages.amqp:
   description: Python client for the Advanced Message Queuing Procotol (AMQP). This is a fork of amqplib which is maintained by the Celery project
   pname: python3.14-amqp
   version: 5.3.1
-legacyPackages.x86_64-linux.python314Packages.amqtt:
-  description: Python MQTT client and broker implementation
-  pname: python3.14-amqtt-unstable
-  version: "2022-05-29"
 legacyPackages.x86_64-linux.python314Packages.amshan:
   description: Decode smart power meter data stream of Cosem HDLC frames used by MBUS
   pname: python3.14-amshan
@@ -291189,7 +291185,7 @@ legacyPackages.x86_64-linux.python314Packages.langchain-anthropic:
 legacyPackages.x86_64-linux.python314Packages.langchain-aws:
   description: Build LangChain application on AWS
   pname: python3.14-langchain-aws
-  version: 1.6.2
+  version: 1.6.3
 legacyPackages.x86_64-linux.python314Packages.langchain-azure-dynamic-sessions:
   description: Integration package connecting Azure Container Apps dynamic sessions and LangChain
   pname: python3.14-langchain-azure-dynamic-sessions
@@ -296889,7 +296885,7 @@ legacyPackages.x86_64-linux.python314Packages.nlpo3:
 legacyPackages.x86_64-linux.python314Packages.nltk:
   description: Natural Language Processing ToolKit
   pname: python3.14-nltk
-  version: 3.9.4
+  version: 3.10.0
 legacyPackages.x86_64-linux.python314Packages.nmapthon2:
   description: Python library to automate nmap
   pname: python3.14-nmapthon2
@@ -299411,21 +299407,13 @@ legacyPackages.x86_64-linux.python314Packages.pinboard:
   pname: python3.14-pinboard
   version: 2.1.9
 legacyPackages.x86_64-linux.python314Packages.pinecone:
-  description: Pinecone python client
+  description: Pinecone Python SDK
   pname: python3.14-pinecone
-  version: 8.1.2
+  version: 9.1.0
 legacyPackages.x86_64-linux.python314Packages.pinecone-client:
-  description: Pinecone python client
+  description: Pinecone Python SDK
   pname: python3.14-pinecone
-  version: 8.1.2
-legacyPackages.x86_64-linux.python314Packages.pinecone-plugin-assistant:
-  description: Assistant plugin for Pinecone SDK
-  pname: python3.14-pinecone-plugin-assistant
-  version: 3.0.3
-legacyPackages.x86_64-linux.python314Packages.pinecone-plugin-interface:
-  description: Plugin interface for the Pinecone python client
-  pname: python3.14-pinecone-plugin-interface
-  version: 0.0.7
+  version: 9.1.0
 legacyPackages.x86_64-linux.python314Packages.ping3:
   description: ICMP ping implementation using raw socket
   pname: python3.14-ping3
@@ -309217,7 +309205,7 @@ legacyPackages.x86_64-linux.python314Packages.segyio:
 legacyPackages.x86_64-linux.python314Packages.selectolax:
   description: Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python
   pname: python3.14-selectolax
-  version: 0.4.10
+  version: 0.4.11
 legacyPackages.x86_64-linux.python314Packages.selenium:
   description: Bindings for Selenium WebDriver
   pname: python3.14-selenium
@@ -317578,10 +317566,6 @@ legacyPackages.x86_64-linux.python314Packages.volvocarsapi:
   description: Python client for the Volvo Cars API
   pname: python3.14-volvocarsapi
   version: 0.4.3
-legacyPackages.x86_64-linux.python314Packages.volvooncall:
-  description: Retrieve information from the Volvo On Call web service
-  pname: python3.14-volvooncall
-  version: 0.10.4
 legacyPackages.x86_64-linux.python314Packages.vowpalwabbit:
   description: Vowpal Wabbit is a fast machine learning library for online learning, and this is the python wrapper for the project
   pname: python3.14-vowpalwabbit
@@ -361129,7 +361113,7 @@ legacyPackages.x86_64-linux.temporal:
 legacyPackages.x86_64-linux.temporal-cli:
   description: Command-line interface for running Temporal Server and interacting with Workflows, Activities, Namespaces, and other parts of Temporal
   pname: temporal-cli
-  version: 1.8.0
+  version: 1.8.1
 legacyPackages.x86_64-linux.temporal-ui-server:
   description: Golang Server for Temporal Web UI
   pname: temporal-ui-server
@@ -390869,11 +390853,11 @@ legacyPackages.x86_64-linux.thunderbird:
 legacyPackages.x86_64-linux.thunderbird-140:
   description: Full-featured e-mail client
   pname: thunderbird
-  version: 140.12.1esr
+  version: 140.13.0esr
 legacyPackages.x86_64-linux.thunderbird-140-unwrapped:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
-  version: 140.12.1esr
+  version: 140.13.0esr
 legacyPackages.x86_64-linux.thunderbird-bin:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-bin
@@ -390893,7 +390877,7 @@ legacyPackages.x86_64-linux.thunderbird-cli-mcp:
 legacyPackages.x86_64-linux.thunderbird-esr:
   description: Full-featured e-mail client
   pname: thunderbird
-  version: 140.12.1esr
+  version: 140.13.0esr
 legacyPackages.x86_64-linux.thunderbird-esr-bin:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-esr-bin
@@ -390905,7 +390889,7 @@ legacyPackages.x86_64-linux.thunderbird-esr-bin-unwrapped:
 legacyPackages.x86_64-linux.thunderbird-esr-unwrapped:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
-  version: 140.12.1esr
+  version: 140.13.0esr
 legacyPackages.x86_64-linux.thunderbird-latest:
   description: Full-featured e-mail client
   pname: thunderbird
@@ -390937,11 +390921,11 @@ legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird:
 legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-140:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
-  version: 140.12.1esr
+  version: 140.13.0esr
 legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-esr:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
-  version: 140.12.1esr
+  version: 140.13.0esr
 legacyPackages.x86_64-linux.thunderbirdPackages.thunderbird-latest:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
@@ -392469,7 +392453,7 @@ legacyPackages.x86_64-linux.tpmmanager:
 legacyPackages.x86_64-linux.tpnote:
   description: Markup enhanced granular note-taking
   pname: tpnote
-  version: 1.26.6
+  version: 1.26.7
 legacyPackages.x86_64-linux.tproxy:
   description: CLI tool to proxy and analyze TCP connections
   pname: tproxy
@@ -418637,7 +418621,7 @@ legacyPackages.x86_64-linux.undervolt:
 legacyPackages.x86_64-linux.undetected-chromedriver:
   description: Custom Selenium ChromeDriver that passes all bot mitigation systems
   pname: undetected-chromedriver
-  version: 150.0.7871.181
+  version: 150.0.7871.186
 legacyPackages.x86_64-linux.undistract-me:
   description: Notifies you when long-running terminal commands complete
   pname: undistract-me
@@ -431961,7 +431945,7 @@ legacyPackages.x86_64-linux.vscode-extensions.iliazeus.vscode-ansi:
 legacyPackages.x86_64-linux.vscode-extensions.illixion.vscode-vibrancy-continued:
   description: Vibrancy Effect for Visual Studio Code
   pname: vscode-extension-illixion-vscode-vibrancy-continued
-  version: 1.1.84
+  version: 1.1.85
 legacyPackages.x86_64-linux.vscode-extensions.inferrinizzard.prettier-sql-vscode:
   description: VSCode Extension to format SQL files
   pname: vscode-extension-inferrinizzard-prettier-sql-vscode
@@ -439557,7 +439541,7 @@ legacyPackages.x86_64-linux.yaziPlugins.convert:
 legacyPackages.x86_64-linux.yaziPlugins.diff:
   description: Diff the selected file with the hovered file, create a living patch, and copy it to the clipboard
   pname: diff.yazi
-  version: 0-unstable-2026-07-01
+  version: 0-unstable-2026-07-22
 legacyPackages.x86_64-linux.yaziPlugins.drag:
   description: Yazi plugin to drag and drop files using ripdrag
   pname: drag.yazi
@@ -439597,7 +439581,7 @@ legacyPackages.x86_64-linux.yaziPlugins.glow:
 legacyPackages.x86_64-linux.yaziPlugins.gvfs:
   description: Transparently mount and unmount devices or remote storage in read and write mode
   pname: gvfs.yazi
-  version: 0-unstable-2026-07-13
+  version: 0-unstable-2026-07-23
 legacyPackages.x86_64-linux.yaziPlugins.jjui:
   description: jjui plugin for yazi
   pname: jjui.yazi
@@ -439689,7 +439673,7 @@ legacyPackages.x86_64-linux.yaziPlugins.relative-motions:
 legacyPackages.x86_64-linux.yaziPlugins.restore:
   description: Undo/Recover trashed files/folders
   pname: restore.yazi
-  version: 0-unstable-2026-04-04
+  version: 0-unstable-2026-07-22
 legacyPackages.x86_64-linux.yaziPlugins.rich-preview:
   description: Preview file types using rich in Yazi
   pname: rich-preview.yazi
