@@ -909,7 +909,7 @@ legacyPackages.x86_64-linux.adept:
 legacyPackages.x86_64-linux.adguardhome:
   description: Network-wide ads & trackers blocking DNS server
   pname: adguardhome
-  version: 0.107.77
+  version: 0.107.78
 legacyPackages.x86_64-linux.adguardian:
   description: Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance
   pname: adguardian
@@ -6789,7 +6789,7 @@ legacyPackages.x86_64-linux.antigravity:
 legacyPackages.x86_64-linux.antigravity-cli:
   description: Google's Go-based terminal user interface (TUI) agent client
   pname: antigravity-cli
-  version: 1.1.4
+  version: 1.1.8
 legacyPackages.x86_64-linux.antigravity-fhs:
   description: Wrapped variant of antigravity-ide which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
   pname: antigravity-ide
@@ -6949,7 +6949,7 @@ legacyPackages.x86_64-linux.anytone-emu:
 legacyPackages.x86_64-linux.anytype:
   description: P2P note-taking tool
   pname: anytype
-  version: 0.55.5
+  version: 0.56.0
 legacyPackages.x86_64-linux.anytype-cli:
   description: Command-line interface for interacting with Anytype
   pname: anytype-cli
@@ -6957,7 +6957,7 @@ legacyPackages.x86_64-linux.anytype-cli:
 legacyPackages.x86_64-linux.anytype-heart:
   description: Shared library for Anytype clients
   pname: anytype-heart
-  version: 0.50.8
+  version: 0.50.17
 legacyPackages.x86_64-linux.ao3downloader:
   description: Utility for downloading fanfiction in bulk from the Archive of Our Own
   pname: ao3downloader
@@ -16173,7 +16173,7 @@ legacyPackages.x86_64-linux.cargo-dephell:
 legacyPackages.x86_64-linux.cargo-diet:
   description: Help computing optimal include directives for your Cargo.toml manifest
   pname: cargo-diet
-  version: 1.3.2
+  version: 1.4.0
 legacyPackages.x86_64-linux.cargo-dist:
   description: Tool for building final distributable artifacts and uploading them to an archive
   pname: cargo-dist
@@ -23881,23 +23881,23 @@ legacyPackages.x86_64-linux.cosign:
 legacyPackages.x86_64-linux.cosmic-app-library:
   description: Application Template for the COSMIC Desktop Environment
   pname: cosmic-app-library
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-applets:
   description: Applets for the COSMIC Desktop Environment
   pname: cosmic-applets
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-applibrary:
   description: Application Template for the COSMIC Desktop Environment
   pname: cosmic-app-library
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-bg:
   description: Applies Background for the COSMIC Desktop Environment
   pname: cosmic-bg
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-comp:
   description: Compositor for the COSMIC Desktop Environment
   pname: cosmic-comp
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-design-demo:
   description: Design Demo for the COSMIC Desktop Environment
   pname: cosmic-design-demo
@@ -23905,7 +23905,7 @@ legacyPackages.x86_64-linux.cosmic-design-demo:
 legacyPackages.x86_64-linux.cosmic-edit:
   description: Text Editor for the COSMIC Desktop Environment
   pname: cosmic-edit
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-ext-applet-caffeine:
   description: Caffeine Applet for the COSMIC desktop
   pname: cosmic-ext-applet-caffeine
@@ -23925,11 +23925,11 @@ legacyPackages.x86_64-linux.cosmic-ext-applet-privacy-indicator:
 legacyPackages.x86_64-linux.cosmic-ext-applet-sysinfo:
   description: Simple system info applet for COSMIC
   pname: cosmic-ext-applet-sysinfo
-  version: 0-unstable-2026-07-04
+  version: 0-unstable-2026-07-19
 legacyPackages.x86_64-linux.cosmic-ext-applet-weather:
   description: Simple weather info applet for COSMIC
   pname: cosmic-ext-applet-weather
-  version: 0-unstable-2026-06-05
+  version: 0-unstable-2026-07-19
 legacyPackages.x86_64-linux.cosmic-ext-calculator:
   description: Calculator for the COSMIC Desktop Environment
   pname: cosmic-ext-calculator
@@ -23945,47 +23945,47 @@ legacyPackages.x86_64-linux.cosmic-ext-tweaks:
 legacyPackages.x86_64-linux.cosmic-files:
   description: File Manager for the COSMIC Desktop Environment
   pname: cosmic-files
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-greeter:
   description: Greeter for the COSMIC Desktop Environment
   pname: cosmic-greeter
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-icons:
   description: System76 Cosmic icon theme for Linux
   pname: cosmic-icons
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-idle:
   description: Idle daemon for the COSMIC Desktop Environment
   pname: cosmic-idle
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-initial-setup:
   description: COSMIC Initial Setup
   pname: cosmic-initial-setup
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-launcher:
   description: Launcher for the COSMIC Desktop Environment
   pname: cosmic-launcher
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-monitor:
   description: COSMIC System Monitor
   pname: cosmic-monitor
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-notifications:
   description: Notifications for the COSMIC Desktop Environment
   pname: cosmic-notifications
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-osd:
   description: OSD for the COSMIC Desktop Environment
   pname: cosmic-osd
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-panel:
   description: Panel for the COSMIC Desktop Environment
   pname: cosmic-panel
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-player:
   description: Media player for the COSMIC Desktop Environment
   pname: cosmic-player
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-protocols:
   description: Additional wayland-protocols used by the COSMIC desktop environment
   pname: cosmic-protocols
@@ -23993,7 +23993,7 @@ legacyPackages.x86_64-linux.cosmic-protocols:
 legacyPackages.x86_64-linux.cosmic-randr:
   description: Library and utility for displaying and configuring Wayland outputs
   pname: cosmic-randr
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-reader:
   description: PDF reader for the COSMIC Desktop Environment
   pname: cosmic-reader
@@ -24001,35 +24001,39 @@ legacyPackages.x86_64-linux.cosmic-reader:
 legacyPackages.x86_64-linux.cosmic-screenshot:
   description: Screenshot tool for the COSMIC Desktop Environment
   pname: cosmic-screenshot
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-session:
   description: Session manager for the COSMIC desktop environment
   pname: cosmic-session
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-settings:
   description: Settings for the COSMIC Desktop Environment
   pname: cosmic-settings
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-settings-daemon:
   description: Settings Daemon for the COSMIC Desktop Environment
   pname: cosmic-settings-daemon
-  version: 1.2.0
+  version: 1.4.0
+legacyPackages.x86_64-linux.cosmic-sound-theme:
+  description: System76 COSMIC Sound Theme
+  pname: cosmic-sound-theme
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-store:
   description: App Store for the COSMIC Desktop Environment
   pname: cosmic-store
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-term:
   description: Terminal for the COSMIC Desktop Environment
   pname: cosmic-term
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-wallpapers:
   description: Wallpapers for the COSMIC Desktop Environment
   pname: cosmic-wallpapers
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmic-workspaces-epoch:
   description: Workspaces Epoch for the COSMIC Desktop Environment
   pname: cosmic-workspaces-epoch
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.cosmocc:
   description: Compilers for Cosmopolitan C/C++ programs
   pname: cosmocc
@@ -24681,7 +24685,7 @@ legacyPackages.x86_64-linux.crowbar:
 legacyPackages.x86_64-linux.crowdin-cli:
   description: Command-line client for the Crowdin API
   pname: crowdin-cli
-  version: 4.14.4
+  version: 4.15.0
 legacyPackages.x86_64-linux.crowdsec:
   description: Free, open-source and collaborative IPS
   pname: crowdsec
@@ -28433,7 +28437,7 @@ legacyPackages.x86_64-linux.direwolf:
 legacyPackages.x86_64-linux.direwolf-unstable:
   description: Soundcard Packet TNC, APRS Digipeater, IGate, APRStt gateway
   pname: direwolf
-  version: 1.8.1-unstable-2026-07-16
+  version: 1.8.1-unstable-2026-07-19
 legacyPackages.x86_64-linux.dirstalk:
   description: Tool to brute force paths on web servers
   pname: dirstalk
@@ -31245,7 +31249,7 @@ legacyPackages.x86_64-linux.dut:
 legacyPackages.x86_64-linux.dutctl:
   description: Unified device management for open firmware development
   pname: dutctl
-  version: 1.0.0-alpha.1-unstable-2026-07-05
+  version: 1.0.0-alpha.1-unstable-2026-07-24
 legacyPackages.x86_64-linux.duti:
   description: Command-line tool to select default applications for document types and URL schemes on Mac OS X
   pname: duti
@@ -37245,7 +37249,7 @@ legacyPackages.x86_64-linux.flux:
 legacyPackages.x86_64-linux.flux-build:
   description: Build and test kustomize overlays with Flux HelmRelease templating
   pname: flux-build
-  version: 3.0.10
+  version: 3.1.3
 legacyPackages.x86_64-linux.flux9s:
   description: K9s-inspired terminal UI for monitoring Flux GitOps resources in real-time
   pname: flux9s
@@ -40057,7 +40061,7 @@ legacyPackages.x86_64-linux.gef:
 legacyPackages.x86_64-linux.gefyra:
   description: Tool to connect local containers to kubernetes clusters
   pname: gefyra
-  version: 2.5.3
+  version: 2.5.4
 legacyPackages.x86_64-linux.gegl:
   description: Graph-based image processing framework
   pname: gegl
@@ -134493,7 +134497,7 @@ legacyPackages.x86_64-linux.hydraAntLogger:
 legacyPackages.x86_64-linux.hydralauncher:
   description: Game launcher with its own embedded bittorrent client
   pname: hydralauncher
-  version: 4.0.5
+  version: 4.0.6
 legacyPackages.x86_64-linux.hydrapaper:
   description: GNOME utility for setting different wallpapers on individual monitors
   pname: hydrapaper
@@ -135229,7 +135233,7 @@ legacyPackages.x86_64-linux.hyprgraphics:
 legacyPackages.x86_64-linux.hypridle:
   description: Hyprland's idle daemon
   pname: hypridle
-  version: 0.1.7
+  version: 0.1.8
 legacyPackages.x86_64-linux.hyprkeys:
   description: Simple, scriptable keybind retrieval utility for Hyprland
   pname: hyprkeys
@@ -140225,7 +140229,7 @@ legacyPackages.x86_64-linux.jsonschema:
 legacyPackages.x86_64-linux.jsonschema-cli:
   description: Fast command-line tool for JSON Schema validation
   pname: jsonschema-cli
-  version: 0.48.0
+  version: 0.49.1
 legacyPackages.x86_64-linux.jsonwatch:
   description: Like watch -d but for JSON
   pname: jsonwatch
@@ -150293,15 +150297,15 @@ legacyPackages.x86_64-linux.libretro.bsnes-hd:
 legacyPackages.x86_64-linux.libretro.bsnes-mercury:
   description: Fork of bsnes with HLE DSP emulation restored (accuracy profile)
   pname: libretro-bsnes-mercury-accuracy
-  version: 0-unstable-2026-04-20
+  version: 0-unstable-2026-07-26
 legacyPackages.x86_64-linux.libretro.bsnes-mercury-balanced:
   description: Fork of bsnes with HLE DSP emulation restored (balanced profile)
   pname: libretro-bsnes-mercury-balanced
-  version: 0-unstable-2026-04-20
+  version: 0-unstable-2026-07-26
 legacyPackages.x86_64-linux.libretro.bsnes-mercury-performance:
   description: Fork of bsnes with HLE DSP emulation restored (performance profile)
   pname: libretro-bsnes-mercury-performance
-  version: 0-unstable-2026-04-20
+  version: 0-unstable-2026-07-26
 legacyPackages.x86_64-linux.libretro.citra:
   description: Port of Citra to libretro
   pname: libretro-citra
@@ -150501,7 +150505,7 @@ legacyPackages.x86_64-linux.libretro.pokemini:
 legacyPackages.x86_64-linux.libretro.ppsspp:
   description: PPSSPP libretro port
   pname: libretro-ppsspp
-  version: 0-unstable-2026-07-16
+  version: 0-unstable-2026-07-26
 legacyPackages.x86_64-linux.libretro.prboom:
   description: Prboom libretro port
   pname: libretro-prboom
@@ -150601,43 +150605,43 @@ legacyPackages.x86_64-linux.libretro.vecx:
 legacyPackages.x86_64-linux.libretro.vice-x128:
   description: Port of vice to libretro
   pname: libretro-vice-x128
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-x64:
   description: Port of vice to libretro
   pname: libretro-vice-x64
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-x64dtv:
   description: Port of vice to libretro
   pname: libretro-vice-x64dtv
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-x64sc:
   description: Port of vice to libretro
   pname: libretro-vice-x64sc
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-xcbm2:
   description: Port of vice to libretro
   pname: libretro-vice-xcbm2
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-xcbm5x0:
   description: Port of vice to libretro
   pname: libretro-vice-xcbm5x0
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-xpet:
   description: Port of vice to libretro
   pname: libretro-vice-xpet
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-xplus4:
   description: Port of vice to libretro
   pname: libretro-vice-xplus4
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-xscpu64:
   description: Port of vice to libretro
   pname: libretro-vice-xscpu64
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.vice-xvic:
   description: Port of vice to libretro
   pname: libretro-vice-xvic
-  version: 0-unstable-2026-06-03
+  version: 0-unstable-2026-07-25
 legacyPackages.x86_64-linux.libretro.virtualjaguar:
   description: Port of VirtualJaguar to libretro
   pname: libretro-virtualjaguar
@@ -181057,7 +181061,7 @@ legacyPackages.x86_64-linux.narrowlink:
 legacyPackages.x86_64-linux.narsil:
   description: Unofficial rewrite of Sil, a roguelike influenced by Angband
   pname: narsil
-  version: 1.4.0-143-g086e3b6af
+  version: 1.4.0-174-gd19206481
 legacyPackages.x86_64-linux.nas:
   description: Network transparent, client/server audio transport system
   pname: nas
@@ -183637,7 +183641,7 @@ legacyPackages.x86_64-linux.nixos-install:
 legacyPackages.x86_64-linux.nixos-install-tools:
   description: Essential commands from the NixOS installer as a package
   pname: nixos-install-tools
-  version: 26.11pre1042268.d3498f786f97
+  version: 26.11pre1042399.38a488741157
 legacyPackages.x86_64-linux.nixos-option:
   description: Evaluate NixOS configuration and return the properties of given option
   pname: nixos-option
@@ -198213,23 +198217,23 @@ legacyPackages.x86_64-linux.olivetin-3k:
 legacyPackages.x86_64-linux.ollama:
   description: Get up and running with large language models locally
   pname: ollama
-  version: 0.32.3
+  version: 0.32.4
 legacyPackages.x86_64-linux.ollama-cpu:
   description: Get up and running with large language models locally
   pname: ollama
-  version: 0.32.3
+  version: 0.32.4
 legacyPackages.x86_64-linux.ollama-cuda:
   description: Get up and running with large language models locally, using CUDA for NVIDIA GPU acceleration
   pname: ollama
-  version: 0.32.3
+  version: 0.32.4
 legacyPackages.x86_64-linux.ollama-rocm:
   description: Get up and running with large language models locally, using ROCm for AMD GPU acceleration
   pname: ollama
-  version: 0.32.3
+  version: 0.32.4
 legacyPackages.x86_64-linux.ollama-vulkan:
   description: Get up and running with large language models locally, using Vulkan for generic GPU acceleration
   pname: ollama
-  version: 0.32.3
+  version: 0.32.4
 legacyPackages.x86_64-linux.olm:
   description: Implements double cryptographic ratchet and Megolm ratchet
   pname: olm
@@ -199077,7 +199081,7 @@ legacyPackages.x86_64-linux.opengamepadui:
 legacyPackages.x86_64-linux.opengist:
   description: Self-hosted pastebin powered by Git
   pname: opengist
-  version: 1.13.1
+  version: 1.14.0
 legacyPackages.x86_64-linux.opengothic:
   description: 'Open source re-implementation of Gothic 2: Night of the Raven'
   pname: opengothic
@@ -202453,7 +202457,7 @@ legacyPackages.x86_64-linux.passphrase2pgp:
 legacyPackages.x86_64-linux.passt:
   description: Plug A Simple Socket Transport
   pname: passt
-  version: 2025_09_19.623dbf6
+  version: 2026_07_16.090d739
 legacyPackages.x86_64-linux.passwdqc:
   description: Passphrase strength checking and enforcement
   pname: passwdqc
@@ -203189,11 +203193,11 @@ legacyPackages.x86_64-linux.percollate:
 legacyPackages.x86_64-linux.percona-server:
   description: 'A free, fully compatible, enhanced, open source drop-in replacement for MySQL® that provides superior performance, scalability and instrumentation. Long-term support release. '
   pname: percona-server
-  version: 8.4.8-8
+  version: 8.4.10-10
 legacyPackages.x86_64-linux.percona-server_8_4:
   description: 'A free, fully compatible, enhanced, open source drop-in replacement for MySQL® that provides superior performance, scalability and instrumentation. Long-term support release. '
   pname: percona-server
-  version: 8.4.8-8
+  version: 8.4.10-10
 legacyPackages.x86_64-linux.percona-toolkit:
   description: Collection of advanced command-line tools to perform a variety of MySQL and system tasks
   pname: perl5.42.0-Percona-Toolkit
@@ -221997,7 +222001,7 @@ legacyPackages.x86_64-linux.phytool:
 legacyPackages.x86_64-linux.pi-coding-agent:
   description: Coding agent CLI with read, bash, edit, write tools and session management
   pname: pi-coding-agent
-  version: 0.81.1
+  version: 0.82.1
 legacyPackages.x86_64-linux.piano-rs:
   description: Multiplayer piano using UDP sockets that can be played using computer keyboard, in the terminal
   pname: piano-rs
@@ -222773,7 +222777,7 @@ legacyPackages.x86_64-linux.pkgit:
 legacyPackages.x86_64-linux.pkgsite:
   description: Official tool to extract and generate documentation for Go projects like pkg.go.dev
   pname: pkgsite
-  version: 0.3.0-unstable-2026-07-16
+  version: 0.3.0-unstable-2026-07-24
 legacyPackages.x86_64-linux.pkgtop:
   description: Interactive package manager and resource monitor designed for the GNU/Linux
   pname: pkgtop
@@ -245077,7 +245081,7 @@ legacyPackages.x86_64-linux.python313Packages.jsonrpc-websocket:
 legacyPackages.x86_64-linux.python313Packages.jsonrpclib-pelix:
   description: JSON RPC client library - Pelix compatible fork
   pname: python3.13-jsonrpclib-pelix
-  version: 1.0.0
+  version: 1.1.0
 legacyPackages.x86_64-linux.python313Packages.jsons:
   description: Turn Python objects into dicts or json strings and back
   pname: python3.13-jsons
@@ -256945,7 +256949,7 @@ legacyPackages.x86_64-linux.python313Packages.pygrok:
 legacyPackages.x86_64-linux.python313Packages.pygsl:
   description: Python interface for GNU Scientific Library
   pname: python3.13-pygsl
-  version: 2.6.4
+  version: 2.6.5
 legacyPackages.x86_64-linux.python313Packages.pygtail:
   description: Library for reading log file lines that have not been read
   pname: python3.13-pygtail
@@ -263361,7 +263365,7 @@ legacyPackages.x86_64-linux.python313Packages.safety:
 legacyPackages.x86_64-linux.python313Packages.safety-schemas:
   description: Schemas for Safety CLI
   pname: python3.13-safety-schemas
-  version: 0.0.18
+  version: 0.0.19
 legacyPackages.x86_64-linux.python313Packages.sagemaker:
   description: Library for training and deploying machine learning models on Amazon SageMaker
   pname: python3.13-sagemaker
@@ -266249,7 +266253,7 @@ legacyPackages.x86_64-linux.python313Packages.streamlit-echarts:
 legacyPackages.x86_64-linux.python313Packages.streamlit-folium:
   description: Streamlit Component for rendering Folium maps
   pname: python3.13-streamlit-folium
-  version: 0.27.2
+  version: 0.27.3
 legacyPackages.x86_64-linux.python313Packages.streamlit-kpi-card:
   description: KPI cards for Streamlit
   pname: python3.13-streamlit-kpi-card
@@ -290469,7 +290473,7 @@ legacyPackages.x86_64-linux.python314Packages.jsonrpc-websocket:
 legacyPackages.x86_64-linux.python314Packages.jsonrpclib-pelix:
   description: JSON RPC client library - Pelix compatible fork
   pname: python3.14-jsonrpclib-pelix
-  version: 1.0.0
+  version: 1.1.0
 legacyPackages.x86_64-linux.python314Packages.jsons:
   description: Turn Python objects into dicts or json strings and back
   pname: python3.14-jsons
@@ -302337,7 +302341,7 @@ legacyPackages.x86_64-linux.python314Packages.pygrok:
 legacyPackages.x86_64-linux.python314Packages.pygsl:
   description: Python interface for GNU Scientific Library
   pname: python3.14-pygsl
-  version: 2.6.4
+  version: 2.6.5
 legacyPackages.x86_64-linux.python314Packages.pygtail:
   description: Library for reading log file lines that have not been read
   pname: python3.14-pygtail
@@ -308753,7 +308757,7 @@ legacyPackages.x86_64-linux.python314Packages.safety:
 legacyPackages.x86_64-linux.python314Packages.safety-schemas:
   description: Schemas for Safety CLI
   pname: python3.14-safety-schemas
-  version: 0.0.18
+  version: 0.0.19
 legacyPackages.x86_64-linux.python314Packages.sagemaker:
   description: Library for training and deploying machine learning models on Amazon SageMaker
   pname: python3.14-sagemaker
@@ -311641,7 +311645,7 @@ legacyPackages.x86_64-linux.python314Packages.streamlit-echarts:
 legacyPackages.x86_64-linux.python314Packages.streamlit-folium:
   description: Streamlit Component for rendering Folium maps
   pname: python3.14-streamlit-folium
-  version: 0.27.2
+  version: 0.27.3
 legacyPackages.x86_64-linux.python314Packages.streamlit-kpi-card:
   description: KPI cards for Streamlit
   pname: python3.14-streamlit-kpi-card
@@ -353161,7 +353165,7 @@ legacyPackages.x86_64-linux.servo:
 legacyPackages.x86_64-linux.sesh:
   description: Smart session manager for the terminal
   pname: sesh
-  version: 2.27.0
+  version: 2.28.0
 legacyPackages.x86_64-linux.seshat:
   description: Roman body font designed for main text by Sora Sagano
   pname: seshat
@@ -361621,7 +361625,7 @@ legacyPackages.x86_64-linux.terraform-providers.carlpett_sops:
 legacyPackages.x86_64-linux.terraform-providers.checkly_checkly:
   description: ""
   pname: terraform-provider-checkly
-  version: 1.26.0
+  version: 1.27.0
 legacyPackages.x86_64-linux.terraform-providers.ciscodevnet_aci:
   description: ""
   pname: terraform-provider-aci
@@ -362073,7 +362077,7 @@ legacyPackages.x86_64-linux.terraform-providers.sap-cloud-infrastructure_sci:
 legacyPackages.x86_64-linux.terraform-providers.sap_btp:
   description: ""
   pname: terraform-provider-btp
-  version: 1.24.0
+  version: 1.25.0
 legacyPackages.x86_64-linux.terraform-providers.scaleway_scaleway:
   description: ""
   pname: terraform-provider-scaleway
@@ -390461,7 +390465,7 @@ legacyPackages.x86_64-linux.texliveTeTeX:
 legacyPackages.x86_64-linux.texlyre:
   description: Local-first LaTeX & Typst web editor with real-time collaboration & offline support
   pname: texlyre
-  version: 0.9.0
+  version: 0.10.1
 legacyPackages.x86_64-linux.texmacs:
   description: WYSIWYW editing platform with special features for scientists
   pname: texmacs
@@ -390957,7 +390961,7 @@ legacyPackages.x86_64-linux.thunderbird-153-unwrapped:
 legacyPackages.x86_64-linux.thunderbird-bin:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-bin
-  version: 152.0.1
+  version: "153.0"
 legacyPackages.x86_64-linux.thunderbird-cli:
   description: Low-level CLI to manage Mozilla Thunderbird email from the shell
   pname: thunderbird-cli
@@ -390993,11 +390997,11 @@ legacyPackages.x86_64-linux.thunderbird-latest:
 legacyPackages.x86_64-linux.thunderbird-latest-bin:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-bin
-  version: 152.0.1
+  version: "153.0"
 legacyPackages.x86_64-linux.thunderbird-latest-bin-unwrapped:
   description: Mozilla Thunderbird, a full-featured email client (binary package)
   pname: thunderbird-bin
-  version: 152.0.1
+  version: "153.0"
 legacyPackages.x86_64-linux.thunderbird-latest-unwrapped:
   description: Full-featured e-mail client
   pname: thunderbird-unwrapped
@@ -394473,7 +394477,7 @@ legacyPackages.x86_64-linux.tsocks:
 legacyPackages.x86_64-linux.tsshd:
   description: Server for `trzsz-ssh`(`tssh`) that supports connection migration for roaming
   pname: tsshd
-  version: 0.1.8
+  version: 0.1.9
 legacyPackages.x86_64-linux.tsukae:
   description: Show off your most used shell commands
   pname: tsukae
@@ -394537,7 +394541,7 @@ legacyPackages.x86_64-linux.tt-rss-theme-feedly:
 legacyPackages.x86_64-linux.tt-smi:
   description: Tenstorrent console based hardware information program
   pname: tt-smi
-  version: 6.0.0
+  version: 6.1.0
 legacyPackages.x86_64-linux.tt-system-tools:
   description: System tools for Tenstorrent cards
   pname: tt-system-tools
@@ -420037,7 +420041,7 @@ legacyPackages.x86_64-linux.valeStyles.readability:
 legacyPackages.x86_64-linux.valeStyles.redhat:
   description: Vale-compatible implementation of the Red Hat documentation style guide
   pname: vale-style-redhat
-  version: "664"
+  version: "673"
 legacyPackages.x86_64-linux.valeStyles.write-good:
   description: Vale-compatible implementation of the write-good linter
   pname: vale-style-write-good
@@ -434342,6 +434346,10 @@ legacyPackages.x86_64-linux.weathr:
   description: Terminal weather app with ascii animation
   pname: weathr
   version: 1.4.0
+legacyPackages.x86_64-linux.weave:
+  description: Entity-level semantic merge driver for Git
+  pname: weave
+  version: 0.3.6
 legacyPackages.x86_64-linux.weave-gitops:
   description: Weave Gitops CLI
   pname: weave-gitops
@@ -434917,7 +434925,7 @@ legacyPackages.x86_64-linux.whoogle-search:
 legacyPackages.x86_64-linux.whosthere:
   description: Local Area Network discovery tool
   pname: whosthere
-  version: 0.8.2
+  version: 0.8.3
 legacyPackages.x86_64-linux.whsniff:
   description: Packet sniffer for 802.15.4 wireless networks
   pname: whsniff
@@ -437045,7 +437053,7 @@ legacyPackages.x86_64-linux.xdg-desktop-portal:
 legacyPackages.x86_64-linux.xdg-desktop-portal-cosmic:
   description: XDG Desktop Portal for the COSMIC Desktop Environment
   pname: xdg-desktop-portal-cosmic
-  version: 1.2.0
+  version: 1.4.0
 legacyPackages.x86_64-linux.xdg-desktop-portal-gnome:
   description: Backend implementation for xdg-desktop-portal for the GNOME desktop environment
   pname: xdg-desktop-portal-gnome
@@ -441429,7 +441437,7 @@ legacyPackages.x86_64-linux.zrepl:
 legacyPackages.x86_64-linux.zrok:
   description: Geo-scale, next-generation sharing platform built on top of OpenZiti
   pname: zrok
-  version: 2.0.1
+  version: 2.0.4
 legacyPackages.x86_64-linux.zrythm:
   description: Automated and intuitive digital audio workstation
   pname: zrythm
